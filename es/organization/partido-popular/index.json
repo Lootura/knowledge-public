@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "PP",
     "populares"
@@ -17,6 +17,11 @@
     {
       "title": "Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su \"plena disposición\"",
       "summary": "El PP ha anunciado este martes en un comunicado enviado a los medios de comunicación que la ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto,...",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
+      "summary": "El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.",
       "date": "2026-08-11"
     },
     {
@@ -58,11 +63,6 @@
       "title": "El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox",
       "summary": "El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox",
-      "summary": "Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -73,7 +73,7 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
       "url": "https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T16:25:39.000Z",
       "sourceId": "lootura-es-el-pais"

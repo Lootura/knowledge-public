@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary
+
+Sen. Darline Graham and Rep. Ralph Norman will face off in a runoff later this month for the South Carolina GOP Senate nomination, CBS News projects, as they vie to replace the late Sen. Lindsey Graham.
+
+Date: 2026-08-12
 
 ### What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina
 
@@ -62,12 +68,7 @@ To former colleagues and the disability advocates who have worked with her, ther
 
 Date: 2026-07-18
 
-### Trump encourages Darline Graham to run for Lindsey Graham's seat
-
-Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: "RUN, DARLINE, RUN! ".
-
-Date: 2026-07-17
-
 ## Sources
 
-- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z
+- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z
+- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z

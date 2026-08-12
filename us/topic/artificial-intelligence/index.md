@@ -3,10 +3,40 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Will AI make our dreams all look the same?
+
+Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?
+
+Date: 2026-08-12
+
+### AI tools speed up analysis, but scientific truths must be grounded in reality
+
+Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.
+
+Date: 2026-08-12
+
+### Funding milestone detected
+
+A new study from Northwestern's Kellogg School of Management found that research proposals showing stronger signs of AI-assisted writing were four percentage points more likely to receive funding from the National Institutes of Health (NIH).
+
+Date: 2026-08-11
+
+### Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains
+
+When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of Agriculture, used a machine-learning approach to study not just which genes a bacterium has, but also.
+
+Date: 2026-08-11
+
+### Real-time X-ray data analysis with DONUT accelerates materials science
+
+What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien.
+
+Date: 2026-08-11
 
 ### Claude will apply invisible watermarks to AI text and images
 
@@ -38,39 +68,10 @@ Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in t
 
 Date: 2026-08-11
 
-### This AI tool claims to pick the top 1% of preprints. Should researchers trust it?
-
-Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.
-
-Date: 2026-08-11
-
-### Machine learning predicts forest soil fungal diversity from drone images
-
-Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity—a key indicator of a healthy forest ecosystem—pr.
-
-Date: 2026-08-10
-
-### Mark Zuckerberg doesn’t understand how to live
-
-Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, "Do cool shit." I made what I hoped was a polite noise. What reaction was this man looking for? He.
-
-Date: 2026-08-10
-
-### This AI tool claims to pick the top 1% of preprints. Should researchers trust it?
-
-Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.
-
-Date: 2026-08-10
-
-### Developer ecosystem expanded
-
-Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Will AI make our dreams all look the same?](https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com) — 2026-08-11T16:56:01.238Z
-- [AI tools speed up analysis, but scientific truths must be grounded in reality](https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com) — 2026-08-11T16:56:01.238Z
-- [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images?utm_source=lootura.com) — 2026-08-11T12:22:20.000Z
-- [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun?utm_source=lootura.com) — 2026-08-11T11:00:00.000Z
+- [Will AI make our dreams all look the same?](https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com) — 2026-08-12T01:43:45.777Z
+- [AI tools speed up analysis, but scientific truths must be grounded in reality](https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com) — 2026-08-12T01:43:45.777Z
+- [AI-assisted grant proposals may win more often—while narrowing research ideas](https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html?utm_source=lootura.com) — 2026-08-11T23:20:03.000Z
+- [Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains](https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html?utm_source=lootura.com) — 2026-08-11T23:40:02.000Z
+- [Real-time X-ray data analysis with DONUT accelerates materials science](https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html?utm_source=lootura.com) — 2026-08-11T23:20:01.000Z

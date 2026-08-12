@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [In texts, Fauci discussed potential risks, benefits of COVID vaccine for pregnant women](https://www.cbsnews.com/news/fauci-texts-covid-vaccine-pregnant-women-gop-rand-paul-ron-johnson/?utm_source=lootura.com) — 2026-08-11T02:41:00.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T05:05:58.694Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse
+
+Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins "The Daily Report" to break down what to expect from the solar eclipse on Wednesday.
+
+Date: 2026-08-12
+
+### The most dramatic meteor shower of the summer peaks the day of a solar eclipse
+
+The Perseids’ peak coincides with another highly anticipated celestial event: a total solar eclipse that will be visible in parts of Europe.
+
+Date: 2026-08-11
 
 ### UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far
 
@@ -56,18 +68,7 @@ Average sea surface temperature outside polar regions was highest on record for 
 
 Date: 2026-08-10
 
-### Movie paradise? How Malta became a magnet for big film shoots
-
-EU’s smallest country has played ancient Rome, the Land of Spells and Bay of Pentos and draws more than 30 productions annually What links the Caribbean, ancient Rome, Enid Blyton’s Land of Spells, the south of France and the Bay of Pentos from Game of Thrones? They are all places that have been portrayed in recent and.
-
-Date: 2026-08-10
-
-### Europe Braces for Another Heat Wave. Here’s What to Know.
-
-High temperature warnings were in place across western, central and southern Europe on Sunday as a heat dome intensifies across the continent.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse](https://www.cbsnews.com/video/europe-to-experience-total-solar-eclipse-will-be-partially-visible-in-some-us-states/?utm_source=lootura.com) — 2026-08-12T00:49:59.000Z
+- [The most dramatic meteor shower of the summer peaks the day of a solar eclipse](https://www.nbcnews.com/science/space/perseid-meteor-shower-solar-eclipse-time-watch-where-visible-rcna591924?utm_source=lootura.com) — 2026-08-11T18:53:29.000Z

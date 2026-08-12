@@ -3,10 +3,22 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### White House asked DOJ about new Reflecting Pool case against David Hearn
+
+Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
+
+Date: 2026-08-11
+
+### Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much
+
+PolitiFact analyzed all of Trump's public events and speeches over the first seven months of 2026 in which he mentioned his construction projects — including the White House ballroom and Reflecting Pool — and beautifying the nation's capital.
+
+Date: 2026-08-11
 
 ### Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case
 
@@ -56,18 +68,7 @@ Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting
 
 Date: 2026-08-03
 
-### DOJ to dismiss Reflecting Pool vandalism charges, citing "botched installation"
-
-Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by "botched installation and not vandalism.".
-
-Date: 2026-08-03
-
-### D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage
-
-The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-11T19:54:00.000Z
+- [Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much](https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much?utm_source=lootura.com) — 2026-08-11T19:04:37.000Z

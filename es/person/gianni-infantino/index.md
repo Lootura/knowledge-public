@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Trump sale al rescate de Infantino: «Sería un terrible error si le reemplazan»](https://theobjective.com/deportes/futbol/2026-08-11/trump-rescate-infantino-error/?utm_source=lootura.com) — 2026-08-11T11:52:52.000Z
+No public source links.

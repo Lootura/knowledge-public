@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
+
+El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.
+
+Date: 2026-08-12
 
 ### El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña
 
@@ -62,12 +68,6 @@ El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha
 
 Date: 2026-08-05
 
-### La juez pide a la Guardia Civil que aclare si recibió algún aviso antes del asalto a Ceuta
-
-La juez de la Audiencia Nacional María Tardón ha pedido este miércoles a la Guardia Civil que aclare si los días previos a la entrada masiva de inmigrantes en Ceuta recibió alguna información que hubiese podido alertar sobre su posible acontecimiento . En una providencia a la que ha tenido acceso THE OBJECTIVE , la mag.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña](https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com) — 2026-08-11T16:16:00.000Z
+- [El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas](https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com) — 2026-08-12T00:00:13.000Z

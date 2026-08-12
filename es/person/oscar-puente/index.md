@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»](https://theobjective.com/espana/politica/2026-08-11/puente-felipe-vi-contamina-imagen-saludar-activista-ultraderecha/?utm_source=lootura.com) — 2026-08-11T13:48:51.000Z
+No public source links.

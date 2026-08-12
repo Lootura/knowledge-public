@@ -1,16 +1,26 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno reniega ahora de la \"acogida\" a los migrantes y promete mano dura a Europa",
+      "summary": "\"Si soy presidente del Gobierno convertiré a España, como ya lo son otros estados europeos, en un país de acogida\", prometió el hoy jefe del Ejecutivo, Pedro...",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
+      "summary": "El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
       "summary": "El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.",
@@ -50,30 +60,20 @@
       "title": "El Gobierno sube a 1.400 los menores en Ceuta y no se atreve a dar una cifra definitiva: \"Aún hay muchos en las colas para filiarse\"",
       "summary": "El Gobierno ha subido a 80.000 las personas que el pasado 30 de julio entraron ilegalmente a Ceuta y a 1.400 los menores no acompañados que las autoridades han registrado en la ciudad por el momento, ya que ha admitido que no está en disposición de ofrecer una cifra definitiva. \"He podido recorrer las calles de la ciud.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Interior y Defensa anulan los permisos de militares y agentes desplegados en Ceuta ante el temor de otro intento de entrada",
-      "summary": "El Gobierno mueve ficha ante el temor de una nueva intentona de entrada masiva ilegal en Ceuta . El Ministerio de Defensa y el de Interior han decidido anular los permisos de los militares y agentes del Instituto Armado desplegados en Ceuta en paralelo a las advertencias y anuncios que manan en redes sociales que difun.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El Gobierno puede poner condiciones a SAIC en Galicia para garantizar la seguridad nacional",
-      "summary": "El Gobierno está \"convencido\" de que la instalación en Galicia de la primera planta en Europa del fabricante chino de vehículos eléctricos SAIC Motor, cerca del...",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
+      "title": "El Gobierno reniega ahora de la \"acogida\" a los migrantes y promete mano dura a Europa",
+      "url": "https://amp.elmundo.es/espana/2026/08/11/6a7b73bae85ece9c5d8b45a5.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T20:54:32.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
       "url": "https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T16:25:39.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña",
-      "url": "https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:38:42.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
   "evidenceCount": 2

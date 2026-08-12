@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Send your questions for Keir Simmons
+
+A multinational maritime coalition was recently formed to secure international trade routes throughout the Middle East.
+
+Date: 2026-08-11
 
 ### Trump Wants to Move On From the Middle East. It’s Not Letting Him.
 
@@ -62,12 +68,6 @@ U.S. President Donald Trump said new talks to wind down the war in Iran will sta
 
 Date: 2026-08-03
 
-### Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts
-
-Oil prices fell on Monday as investors pared geopolitical risk premiums after U.S. President Donald Trump said he had called off a planned strike on Iran.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Trump Wants to Move On From the Middle East. It’s Not Letting Him.](https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html?utm_source=lootura.com) — 2026-08-11T02:34:23.000Z
+- [Send your questions for Keir Simmons](https://www.nbcnews.com/world/saudi-arabia/keir-simmons-qa-saudi-arabia-rcna591894?utm_source=lootura.com) — 2026-08-11T16:23:00.000Z

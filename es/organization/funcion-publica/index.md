@@ -40,4 +40,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027](https://cincodias.elpais.com/companias/2026-08-11/redes-abre-la-convocatoria-para-elegir-las-empresas-del-pabellon-de-espana-en-el-mwc-2027.html?utm_source=lootura.com) — 2026-08-11T12:42:38.000Z
+No public source links.

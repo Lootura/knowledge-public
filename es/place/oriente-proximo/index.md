@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte](https://theobjective.com/internacional/2026-08-11/libano-oriente-proximo-abolir-pena-muerte/?utm_source=lootura.com) — 2026-08-11T11:51:13.000Z
+No public source links.

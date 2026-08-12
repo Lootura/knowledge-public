@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [At least 200 major wildfires burn across U.S. and Canada](https://www.cbsnews.com/video/at-least-200-major-wildfires-burn-across-us-and-canada/?utm_source=lootura.com) — 2026-08-11T12:22:01.000Z
+No public source links.

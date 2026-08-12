@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El 'MonsterVerse' de Apple TV suma dos grandes fichajes a su nueva serie con Wyatt Russell](https://www.larazon.es/tecnologia-consumo/series/monsterverse-apple-tv-suma-dos-grandes-fichajes-su-nueva-serie-wyatt-russell_202608116a7b197ca5690f047374257d.html?utm_source=lootura.com) — 2026-08-11T16:31:00.000Z
+No public source links.

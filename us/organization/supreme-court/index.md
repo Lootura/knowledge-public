@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows](https://www.theguardian.com/us-news/2026/aug/11/samuel-alito-oil-gas-assets-supreme-court-analysis?utm_source=lootura.com) — 2026-08-11T16:00:03.000Z
-- [The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall](https://time.com/article/2026/08/11/us-supreme-court-suncor-v-boulder-climate-accountability/?utm_source=lootura.com) — 2026-08-11T14:41:36.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,13 +17,38 @@
   ],
   "changes": [
     {
-      "title": "Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos",
-      "summary": "Colombia todavía cuenta sus muertos. El país amanecerá este martes bajo el estado de emergencia nacional, después de que un terremoto de magnitud 7,4 sacudió la víspera durante cuatro eternos minutos el oeste del país, y se sintió hasta Panamá y Ecuador. Los coletazos del temblor –el de mayor magnitud desde 1979– han d.",
-      "date": "2026-08-11"
+      "title": "Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos",
+      "summary": "Colombia continúa haciendo frente a las consecuencias del terremoto de magnitud 7,4 , que deja ya al menos 240 fallecidos y 668 heridos. Los equipos de emergencia mantienen las labores de búsqueda entre los edificios derrumbados, especialmente en las zonas más castigadas, mientras numerosas familias intentan localizar.",
+      "date": "2026-08-12"
     },
     {
       "title": "Colombia frente a los terremotos: cuando el riesgo también está construido",
       "summary": "El país cuenta desde 1998 con una normativa de construcción sismorresistente, pero existen viviendas vulnerables que son una amenza para la vida Leer.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo",
+      "summary": "Última hora del terremoto en Colombia hoy, 11 de agosto: rescates, desaparecidos y nuevas cifras de víctimas en directo.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "De la tragedia al milagro en el seísmo de Colombia: varios menores fallecen y un bebé sobrevive junto a su madre",
+      "summary": "Prosiguen las labores de búsqueda y se producen rescates casi imposibles bajo los escombros Leer.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Colombia busca contrarreloj a los 195 desaparecidos que siguen bajo los escombros",
+      "summary": "Al menos 240 personas han muerto y más 2.500 han resultado heridos tras el seísmo de 7,4 que sacudió el país cafetero este lunes Leer.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
+      "summary": "El alcalde de Pereira, Mauricio Salazar, no puede contener las lágrimas al hablar de sus vecinos: su municipio concentra 73 de los 224 muertos que ha dejado hasta ahora el terremoto de este lunes. Un reportero de televisión termina consolándolo en directo. Poco después, vuelve a quebrarse frente a los micrófonos. Las p.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos",
+      "summary": "Colombia todavía cuenta sus muertos. El país amanecerá este martes bajo el estado de emergencia nacional, después de que un terremoto de magnitud 7,4 sacudió la víspera durante cuatro eternos minutos el oeste del país, y se sintió hasta Panamá y Ecuador. Los coletazos del temblor –el de mayor magnitud desde 1979– han d.",
       "date": "2026-08-11"
     },
     {
@@ -37,83 +62,22 @@
       "date": "2026-08-11"
     },
     {
-      "title": "Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo",
-      "summary": "Última hora del terremoto en Colombia hoy, 11 de agosto: rescates, desaparecidos y nuevas cifras de víctimas en directo.",
-      "date": "2026-08-11"
-    },
-    {
       "title": "¿Por qué ha sido tan destructivo el terremoto de Colombia?",
       "summary": "Los habitantes y las autoridades de Colombia han puesto en marcha una operación masiva de búsqueda y rescate para localizar a los supervivientes de un potente terremoto que sacudió las cercanías de San José del Palmar, en el departamento del Chocó, y que ha causado graves daños en las ciudades de Cali, Manizales y Pere.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil",
-      "summary": "La Comisión Europea ha movilizado 100.000 euros para prestar asistencia inmediata a los afectados por el terremoto de magnitud 7,4 registrado este lunes.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Se eleva a 169 el número de muertos y a 668 el de heridos por el terremoto en Colombia",
-      "summary": "El número de personas muertas por el devastador terremoto de magnitud 7,4 que sacudió el lunes a Colombia aumentó a 169, mientras que los heridos ya son.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Radiografía del temblor: un seísmo muy \"complejo\" que se expandió cientos de kilómetros",
-      "summary": "En el terremoto de Colombia ya han muerto más de dos centenares de personas y un millar han resultado heridas. La cifra recoge únicamente el balance de las capitales del país, por lo que no incluye los muertos y heridos registrados en municipios y localidades aledañas. Un centenar largo de españoles están en paradero d.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El seísmo sorprende a los pasajeros de un teleférico en Cali: los vagones tiemblan suspendidos en el aire",
-      "summary": "El terremoto de magnitud 7,4 que sacudió Colombia este lunes ha dejado imágenes impresionantes que dan fe de la intensidad del temblor y de cóm o el seísmo sorprendió a la población en diferentes lugares de todo el país . Un vídeo difundido en redes sociales muestra como los pasajeros del teleférico MIO Cable de Cali v.",
       "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Radiografía del temblor: un seísmo muy \"complejo\" que se expandió cientos de kilómetros",
-      "url": "https://www.20minutos.es/internacional/radiografia-terremoto-colombia-un-sismo-complejo-que-se-expandio-centenares-kilometros_7024701_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T15:33:10.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El seísmo sorprende a los pasajeros de un teleférico en Cali: los vagones tiemblan suspendidos en el aire",
-      "url": "https://www.20minutos.es/internacional/terremoto-sorprende-los-pasajeros-un-teleferico-cali-los-vagones-tiemblan-suspendidos-aire-durante-seismo_7024768_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T15:00:06.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Colombia busca contra reloj a los desaparecidos tras el terrible terremoto que deja 240 muertos y 900 heridos",
-      "url": "https://www.20minutos.es/internacional/colombia-amanece-entre-escombros-primer-dia-tras-terremoto-que-deja-224-muertos-cientos-desaparecidos_7024717_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T13:26:14.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Un vídeo muestra como un balcón se derrumba sobre cuatro personas durante el terremoto de Colombia",
-      "url": "https://www.20minutos.es/internacional/un-video-muestra-como-un-balcon-se-derrumba-sobre-cuatro-personas-terremoto-colombia_7024781_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T15:33:17.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Ascienden a 240 los muertos tras el terremoto y Exteriores confirma que hay 164 españoles sin localizar",
-      "url": "https://www.abc.es/internacional/terremoto-colombia-directo-muertos-heridos-desaparecidos-aeropuertos-20260810170846-di.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:21:09.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Sube a 240 el número de muertos tras el terremoto de magnitud 7,4 que sacudió Colombia",
-      "url": "https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20260811/sube-224-numero-muertos-terremoto-magnitud-74-sacudio-colombia_448609.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T14:24:11.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "Terremoto en Colombia: búsqueda contra el reloj tras un seísmo que ha dejado al menos 224 muertos",
-      "url": "https://www.elmundo.es/internacional/2026/08/11/6a7ae1fce4d4d8662c8b456f.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T15:53:07.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "De la tragedia al milagro en el seísmo de Colombia: varios menores fallecen y un bebé sobrevive junto a su madre",
       "url": "https://www.elmundo.es/internacional/2026/08/11/6a7b2818e4d4d8c26d8b45c0.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T15:58:51.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Colombia busca contrarreloj a los 195 desaparecidos que siguen bajo los escombros",
+      "url": "https://www.elmundo.es/internacional/2026/08/11/6a7ae1fce4d4d8662c8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T18:15:05.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -123,11 +87,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Colombia, bajo el estado de emergencia por el terremoto que causa más de 130 muertos",
-      "url": "https://elpais.com/america-colombia/2026-08-11/colombia-amanece-bajo-el-estado-de-emergencia-por-el-terremoto-que-deja-mas-de-130-muertos.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T04:00:00.000Z",
+      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la única señal de vida es en el otro lado”",
+      "url": "https://elpais.com/america-colombia/2026-08-11/colombia-se-vuelca-en-el-rescate-de-los-supervivientes-del-terremoto-no-se-desgasten-aqui-la-unica-senal-de-vida-es-en-el-otro-lado.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T20:13:27.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos",
+      "url": "https://www.larazon.es/internacional/terremoto-colombia-directo-ultima-hora-seismo-victimas-desaparecidos_202608116a7a9f80a046ad6ebcaab229.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:35:42.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Terremoto en Colombia, última hora en directo: fallecidos, víctimas, rescates y situación en Cali, Pereira y Chocó hoy en vivo",
+      "url": "https://okdiario.com/internacional/terremoto-colombia-ultima-hora-directo-fallecidos-victimas-rescates-situacion-cali-pereira-choco-hoy-vivo-19158449/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T22:32:13.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 6
 }

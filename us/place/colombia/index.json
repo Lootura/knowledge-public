@@ -8,15 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
     {
+      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
+      "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.",
+      "date": "2026-08-12"
+    },
+    {
       "title": "Morning news brief",
       "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president",
+      "summary": "Rescue crews and civilians in Colombia painstakingly searched through rubble Tuesday in the hopes of finding survivors trapped under debris after a powerful earthquake left thousands missing in dozens of cities and towns.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Search for earthquake survivors in Colombia enters critical phase",
+      "summary": "In Colombia, the desperate search for survivors is entering a critical phase after the powerful earthquake that devastated parts of the country. More than 180 people are confirmed dead. But 24 hours after the quake struck, there are still remarkable moments of hope. Geoff Bennett reports.",
       "date": "2026-08-11"
     },
     {
@@ -48,42 +63,9 @@
       "title": "Ancient Colombians built huge water system without centralized rule, archaeologists say",
       "summary": "Communities living in Colombia thousands of years ago achieved an engineering wonder of the world based on cooperation among family groups without top-down government, a new study shows. Archaeologists argue that policymakers in Colombia should now adopt a similar strategy to solve the country's current water managemen.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-      "summary": "A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Major Quake Hits Colombia, Killing at Least 111",
-      "summary": "Rescue crews and regular people searched for survivors, and the death toll was likely to rise. More than 1,500 homes were damaged, the president said.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-      "summary": "Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers. (Image credit: Santiago Saldarriaga).",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
-    {
-      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
-      "url": "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:18:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown",
-      "url": "https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T11:13:01.137Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Search Underway After Deadly 7.4 Earthquake Strikes Colombia",
-      "url": "https://www.today.com/video/new-video-shows-moment-powerful-7-4-earthquake-hits-colombia-268095557866?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T11:25:44.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
     {
       "title": "Morning news brief",
       "url": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com",
@@ -91,17 +73,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T11:11:14.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president",
+      "url": "https://www.pbs.org/newshour/world/as-search-for-thousands-of-missing-pushes-on-colombia-earthquake-tests-new-president?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T21:36:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+      "title": "Search for earthquake survivors in Colombia enters critical phase",
+      "url": "https://www.pbs.org/newshour/show/search-for-earthquake-survivors-in-colombia-enters-critical-phase?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T22:50:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
       "url": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:31:57.000Z",
+      "publishedAt": "2026-08-12T00:44:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

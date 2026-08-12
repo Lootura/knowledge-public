@@ -52,4 +52,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards](https://www.cbsnews.com/news/chuck-edwards-replacement-north-carolina-republicans-11th-district-candidate/?utm_source=lootura.com) — 2026-08-11T12:33:12.000Z
+No public source links.

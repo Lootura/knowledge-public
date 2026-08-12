@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -18,11 +18,31 @@
     {
       "title": "Product availability changed in Europe",
       "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "summary": "Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump",
+      "summary": "Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.",
+      "date": "2026-08-12"
     },
     {
       "title": "NATO spending pressure returned",
       "summary": "President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
+      "summary": "In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
       "date": "2026-08-11"
     },
     {
@@ -44,33 +64,13 @@
       "title": "Pentagon revokes security clearance of former Air Force chief for disclosing \"classified information regarding Air Force One's capabilities\"",
       "summary": "The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclosed sensitive information about Air Force One's capabilities to the media.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-      "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
-      "summary": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
+      "title": "Trump secretly switched to different plane in Turkey amid Iran missile threat",
       "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:37:00.000Z",
+      "publishedAt": "2026-08-12T01:41:40.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -78,7 +78,25 @@
       "url": "https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com",
       "publishedAt": "2026-08-11T16:04:51.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:33:30.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:39:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/decoy-plane-passengers.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:33:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
+
+En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
+
+Date: 2026-08-11
+
+### Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones
+
+La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al tumbar la estrategia de defensa del Ejecutivo español en la batalla judicial por evitar pagar las indemnizaciones por los impagos a las renovables de Teresa Ribera y Sara Aagesen , su sustituta en el Ministerio de Transición Ecológica. El Tr.
+
+Date: 2026-08-11
 
 ### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
 
@@ -56,18 +68,7 @@ Desde que Marruecos intervino el móvil de medio gobierno español, incluyendo c
 
 Date: 2026-08-08
 
-### Un convenio de 2010 deja a la Junta de Andalucía un agujero de 25 millones de euros
-
-Un convenio firmado en 2010 entre la Ministra de Ciencia e Innovación, Cristina Garmendia , y el entonces consejero de Economía, Innovación y Ciencia de la Junta de Andalucía, Antonio Ávila , ha acabado generando una deuda de la administración andaluza con el Gobierno de España que acabará resolviéndose con el pago de.
-
-Date: 2026-08-08
-
-### Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta
-
-“La invasión de decenas de miles de migrantes a Ceuta es consecuencia directa de la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”, señalaba ayer un mensaje de la cuenta de X del Departamento de Estado de los Estados Unidos, en relación con la entrada.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-11T22:07:04.000Z
+- [Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones](https://okdiario.com/economia/golpe-gobierno-eeuu-impagos-renovables-via-libre-embargo-otros-156-millones-19165055?utm_source=lootura.com) — 2026-08-11T22:01:38.000Z

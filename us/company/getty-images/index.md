@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates](https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump?utm_source=lootura.com) — 2026-08-11T09:00:00.000Z
+No public source links.

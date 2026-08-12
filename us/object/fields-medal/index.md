@@ -40,4 +40,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun?utm_source=lootura.com) — 2026-08-11T11:00:00.000Z
+No public source links.

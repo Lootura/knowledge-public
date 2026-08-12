@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santiago-pedraz/index.json",
   "description": "Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "Pedraz",
     "Santiago"
   ],
   "changes": [
+    {
+      "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
+      "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña",
       "summary": "El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.",
@@ -58,19 +63,14 @@
       "title": "El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska",
       "summary": "El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno",
-      "summary": "El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire, que él hubiera pedido a los agentes de la Unidad Central Operativa (UCO) que se “pusieran de perfil” en las invest.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña",
-      "url": "https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:16:00.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
+      "url": "https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 1

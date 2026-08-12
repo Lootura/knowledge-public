@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -12,11 +12,35 @@
 
 Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
 
-Date: 2026-08-11
+Date: 2026-08-12
+
+### Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers
+
+Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.
+
+Date: 2026-08-12
+
+### Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump
+
+Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.
+
+Date: 2026-08-12
 
 ### NATO spending pressure returned
 
 President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
+
+Date: 2026-08-11
+
+### With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy
+
+In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.
+
+Date: 2026-08-11
+
+### Product availability changed in Europe
+
+Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
 
 Date: 2026-08-11
 
@@ -44,31 +68,10 @@ The Pentagon alleged that former U.S. Air Force Secretary Frank Kendall disclose
 
 Date: 2026-08-08
 
-### In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process
-
-A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.
-
-Date: 2026-07-25
-
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-25
-
-### Inside the Rushed Effort to Get Trump His New Air Force One
-
-A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.
-
-Date: 2026-07-25
-
-### NATO spending pressure returned
-
-The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
-
-Date: 2026-07-25
-
 ## Sources
 
-- [Trump secretly switched to different plane in Turkey amid Iran threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-11T12:37:00.000Z
+- [Trump secretly switched to different plane in Turkey amid Iran missile threat](https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com) — 2026-08-12T01:41:40.000Z
 - [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
+- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com) — 2026-08-12T00:33:30.000Z
+- [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com) — 2026-08-11T23:39:28.000Z
+- [Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump](https://www.nytimes.com/2026/08/11/us/politics/decoy-plane-passengers.html?utm_source=lootura.com) — 2026-08-12T01:33:14.000Z

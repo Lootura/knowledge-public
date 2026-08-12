@@ -3,14 +3,32 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
 
+### As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors
+
+“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.
+
+Date: 2026-08-12
+
 ### Morning news brief
 
 Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.
+
+Date: 2026-08-11
+
+### As search for thousands of missing pushes on, Colombia earthquake tests new president
+
+Rescue crews and civilians in Colombia painstakingly searched through rubble Tuesday in the hopes of finding survivors trapped under debris after a powerful earthquake left thousands missing in dozens of cities and towns.
+
+Date: 2026-08-11
+
+### Search for earthquake survivors in Colombia enters critical phase
+
+In Colombia, the desperate search for survivors is entering a critical phase after the powerful earthquake that devastated parts of the country. More than 180 people are confirmed dead. But 24 hours after the quake struck, there are still remarkable moments of hope. Geoff Bennett reports.
 
 Date: 2026-08-11
 
@@ -50,29 +68,9 @@ Communities living in Colombia thousands of years ago achieved an engineering wo
 
 Date: 2026-08-11
 
-### Magnitude 7.4 quake rocks western Colombia, killing at least 111 people
-
-A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.
-
-Date: 2026-08-11
-
-### Major Quake Hits Colombia, Killing at Least 111
-
-Rescue crews and regular people searched for survivors, and the death toll was likely to rise. More than 1,500 homes were damaged, the president said.
-
-Date: 2026-08-11
-
-### Magnitude 7.4 quake rocks western Colombia, killing at least 111 people
-
-Search teams and civilians picked through the remains of destroyed buildings in the country's third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers. (Image credit: Santiago Saldarriaga).
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Rescuers race to find Colombia earthquake survivors as death toll rises](https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/?utm_source=lootura.com) — 2026-08-11T16:18:35.000Z
-- [Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown](https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com) — 2026-08-11T11:13:01.137Z
-- [Search Underway After Deadly 7.4 Earthquake Strikes Colombia](https://www.today.com/video/new-video-shows-moment-powerful-7-4-earthquake-hits-colombia-268095557866?utm_source=lootura.com) — 2026-08-11T11:25:44.000Z
 - [Morning news brief](https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief?utm_source=lootura.com) — 2026-08-11T08:32:41.000Z
-- [1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia](https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com) — 2026-08-11T11:11:14.000Z
-- [After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors](https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html?utm_source=lootura.com) — 2026-08-11T16:31:57.000Z
+- [As search for thousands of missing pushes on, Colombia earthquake tests new president](https://www.pbs.org/newshour/world/as-search-for-thousands-of-missing-pushes-on-colombia-earthquake-tests-new-president?utm_source=lootura.com) — 2026-08-11T21:36:53.000Z
+- [Search for earthquake survivors in Colombia enters critical phase](https://www.pbs.org/newshour/show/search-for-earthquake-survivors-in-colombia-enters-critical-phase?utm_source=lootura.com) — 2026-08-11T22:50:55.000Z
+- [As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors](https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html?utm_source=lootura.com) — 2026-08-12T00:44:27.000Z

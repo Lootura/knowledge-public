@@ -3,10 +3,22 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol
+
+Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chinos en Ferrol (A Coruña), donde también tiene su base uno de los mayores arsenales de la Armada española, se han disipado en 48 horas. La ministra de Defensa, Margarita Robles, ha comunicado este martes al presidente de la Xunta de Galicia, A.
+
+Date: 2026-08-11
+
+### Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes
+
+El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.
+
+Date: 2026-08-11
 
 ### Margarita Robles garantiza a Rueda que el proyecto chino en Ferrol cuenta con el aval de Defensa
 
@@ -56,18 +68,7 @@ Margarita Robles first entered the public knowledge record with source-backed ev
 
 Date: 2026-08-03
 
-### Robles defiende al CNI y pide a Marruecos que investigue "hasta el final" quiénes están detrás de la tragedia ceutí
-
-La ministra de Defensa, Margarita Robles , ha defendido la labor del CNI y ha reclamado este lunes al Gobierno de Marruecos que investigue "hasta el final" la tragedia ocurrida en la frontera de Ceuta con la llegada masiva de inmigrantes y ha subrayado que "Ceuta y Melilla no se tocan", al tiempo que ha garantizado que.
-
-Date: 2026-08-03
-
-### Robles se niega a aclarar si los servicios secretos alertaron o no del riesgo de invasión
-
-la ministra de Defensa, Margarita Robles, ha evitado aclarar si los servicios secretos alertaron o no de la posibilidad de que se produjera una inv...
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Margarita Robles garantiza a Rueda que el proyecto chino en Ferrol cuenta con el aval de Defensa](https://www.abc.es/espana/galicia/ministra-margarita-robles-garantiza-rueda-proyecto-saic-20260811170131-nt.html?utm_source=lootura.com) — 2026-08-11T15:01:32.000Z
+- [Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol](https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html?utm_source=lootura.com) — 2026-08-11T15:53:57.000Z
+- [Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes](https://theobjective.com/espana/2026-08-11/defensa-xunta-fabrica-china-ferrol-informes/?utm_source=lootura.com) — 2026-08-11T17:07:14.000Z

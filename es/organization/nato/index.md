@@ -3,20 +3,26 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
 
-### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
-
-El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
-
-Date: 2026-08-11
-
 ### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
 
 El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump
+
+Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.
+
+Date: 2026-08-11
+
+### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
+
+El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
 
 Date: 2026-08-11
 
@@ -62,14 +68,7 @@ Moscú acusa a Ucrania de terrorismo y a la OTAN de patrocinarlo Leer.
 
 Date: 2026-08-03
 
-### IU pide retirar las tropas españolas del este de Europa por la falta de apoyo a España
-
-El portavoz parlamentario de IU y diputado de Sumar , Enrique Santiago, ha abogado por la retirada de tropas españolas en misiones internacionales en el marco de la OTAN en varios países del este de Europa, en respuesta a la falta de solidaridad de 22 gobiernos comunitarios con España tras la crisis migratoria. Así lo.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán](https://www.abc.es/internacional/trump-camuflo-camion-catering-abandonar-air-force-20260811084235-nt.html?utm_source=lootura.com) — 2026-08-11T16:08:37.000Z
 - [Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán](https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html?utm_source=lootura.com) — 2026-08-11T10:58:29.000Z
-- [Trump salió de Turquía escondido en un camión ante un posible atentado de Irán](https://www.expansion.com/economia/politica/2026/08/11/6a7b2bdc468aeb8d768b458e.html?utm_source=lootura.com) — 2026-08-11T14:04:13.000Z
+- [De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump](https://www.larazon.es/internacional/camion-catering-air-force-one-amenazas-que-refuerzan-dispositivo-seguridad-trump_202608116a7b8156a046ad6ebcac341e.html?utm_source=lootura.com) — 2026-08-11T20:08:54.000Z

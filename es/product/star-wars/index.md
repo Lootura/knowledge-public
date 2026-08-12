@@ -28,4 +28,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn](https://hipertextual.com/cine-television/john-boyega-quiere-mitico-jedi-precuelas-star-wars-como-maestro-de-finn/?utm_source=lootura.com) — 2026-08-11T12:49:43.000Z
+No public source links.

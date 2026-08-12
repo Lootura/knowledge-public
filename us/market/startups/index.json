@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "startup funding"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "California high-speed rail could run out of money by December 2027, as authority cuts train order in half",
+      "url": "https://www.cbsnews.com/news/california-high-speed-rail-run-out-of-money-2027-inspector-general/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:41:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

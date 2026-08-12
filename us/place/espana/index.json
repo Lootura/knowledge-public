@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "What to know about Wednesday's total solar eclipse",
+      "summary": "The only total solar eclipse of 2026 will cross the Northern Hemisphere on Wednesday, Aug. 12, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
       "summary": "Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
@@ -59,19 +64,14 @@
       "title": "Spain to put containment fence around Ceuta after deadly border rush from Morocco",
       "summary": "Spain says it will build a 1,600-foot containment fence around its enclave of Ceuta after thousands of migrants rushed its border with Morocco last week. CBS News' Aidan Stretch reports.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Total solar eclipse will sweep over Spain, Iceland and Greenland in August",
-      "summary": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
     {
-      "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
-      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T14:44:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "What to know about Wednesday's total solar eclipse",
+      "url": "https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T18:51:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

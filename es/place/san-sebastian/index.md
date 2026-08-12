@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle
+
+El Ayuntamiento destinará hasta medio millón de euros al programa de Acción Social facilitando que se repartan 100 comidas más que hasta ahora.
+
+Date: 2026-08-11
 
 ### Tamarit de Valencia busca «sorprender» al público donostiarra
 
@@ -62,12 +68,6 @@ La embarcación de la familia más poderosa de la precuela de 'Juego de Tronos',
 
 Date: 2026-08-07
 
-### Programación de Donostiako Piratak para la Semana Grande 2026
-
-Consulta día a día las actividades programadas para la Aste Nagusia de San Sebastián.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle](https://www.diariovasco.com/san-sebastian/donostia-aprueba-ampliacion-416-comidas-diarias-personas-20260811134655-nt_amp.html?utm_source=lootura.com) — 2026-08-11T11:46:56.000Z

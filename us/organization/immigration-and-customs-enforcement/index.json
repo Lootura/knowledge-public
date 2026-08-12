@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T16:30:11.933Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -22,6 +22,11 @@
     "United States Immigration & Customs Enforcement"
   ],
   "changes": [
+    {
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Substance in work van of man killed by ICE tested negative for drugs, prosecutor says",
       "summary": "A substance found in the work van of a Mexican immigrant killed by an Immigration and Customs Enforcement agent has tested negative for illicit drugs, the top prosecutor in Houston said Friday.",
@@ -66,13 +71,15 @@
       "title": "Trump Pressures ICE to Resume Traffic Stops After They Were Halted Over Fatal Shootings",
       "summary": "Immigration and Customs Enforcement had ordered its officers to halt most vehicle stops across the country after they shot two people over the past week.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say",
-      "summary": "It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:59:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

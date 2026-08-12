@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z
+No public source links.

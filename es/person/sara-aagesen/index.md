@@ -3,10 +3,16 @@
 > Sigue la actividad de Sara Aagesen Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/person/sara-aagesen
 
 ## Cambios recientes
+
+### Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones
+
+La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al tumbar la estrategia de defensa del Ejecutivo español en la batalla judicial por evitar pagar las indemnizaciones por los impagos a las renovables de Teresa Ribera y Sara Aagesen , su sustituta en el Ministerio de Transición Ecológica. El Tr.
+
+Date: 2026-08-11
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones](https://okdiario.com/economia/golpe-gobierno-eeuu-impagos-renovables-via-libre-embargo-otros-156-millones-19165055?utm_source=lootura.com) — 2026-08-11T22:01:38.000Z

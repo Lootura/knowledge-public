@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/person/santiago-pedraz
 
 ## Cambios recientes
+
+### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
+
+El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.
+
+Date: 2026-08-12
 
 ### El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña
 
@@ -62,12 +68,6 @@ El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirm
 
 Date: 2026-07-16
 
-### El jefe operativo de la Guardia Civil niega presiones a la UCO en las investigaciones que afectan al Gobierno
-
-El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire, que él hubiera pedido a los agentes de la Unidad Central Operativa (UCO) que se “pusieran de perfil” en las invest.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-- [El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña](https://www.abc.es/espana/juez-leire-descarta-aceptar-acusacion-jefe-investigacion-20260811142954-nt.html?utm_source=lootura.com) — 2026-08-11T16:16:00.000Z
+- [El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas](https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com) — 2026-08-12T00:00:13.000Z

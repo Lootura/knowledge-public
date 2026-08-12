@@ -3,22 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Wisconsin's Democratic showdown and more primary races to watch today
+### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
 
-South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
-### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
+### Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers
 
-Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
+Journalists and others were allowed to fly on presidential jet despite security threat while Trump was spirited away Sign up for the Breaking News US newsletter email Democrats called on Tuesday for a congressional briefing over a stunning charade in which Donald Trump was secretly spirited to a different plane than th.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### How We’re Covering an ‘Identity Crisis’ in Politics
 
@@ -29,6 +29,18 @@ Date: 2026-08-11
 ### Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations
 
 The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.
+
+Date: 2026-08-11
+
+### Wisconsin's Democratic showdown and more primary races to watch today
+
+South Carolina Republicans will be choosing a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-11
+
+### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
+
+Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
 
 Date: 2026-08-11
 
@@ -56,21 +68,9 @@ The Pentagon declined to comment, stating it would "reply directly to the author
 
 Date: 2026-08-10
 
-### The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms
-
-Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
-
-Date: 2026-08-10
-
-### Democratic Minnesota Senate candidate says her campaign is about ‘the many versus the money’
-
-Internal divisions between progressive and moderate Democrats grow ahead of tomorrow’s closely watched primary for Minnesota’s Senate seat. Minnesota Lt. Gov. Peggy Flanagan (D) joins Meet the Press NOW to discuss her bid for U.S. Senate.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-11T12:28:19.000Z
-- [Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown](https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869?utm_source=lootura.com) — 2026-08-11T11:13:01.137Z
+- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
+- [Trump’s Air Force One deception faces scrutiny over ‘decoy’ passengers](https://www.theguardian.com/us-news/2026/aug/11/trump-air-force-one-deception-democrats?utm_source=lootura.com) — 2026-08-12T00:33:30.000Z
 - [How We’re Covering an ‘Identity Crisis’ in Politics](https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html?utm_source=lootura.com) — 2026-08-11T09:40:18.000Z
 - [Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations](https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html?utm_source=lootura.com) — 2026-08-11T11:36:44.000Z

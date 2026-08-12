@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/company/banco-sabadell
 
 ## Cambios recientes
+
+### Sabadell y Amundi amplían su alianza en fondos hasta 2035
+
+Banco Sabadell amplía su alianza en gestión de activos con Amundi , la mayor gestora europea de fondos de inversión, hasta 2035 y seguirá comercializando productos de la firma francesa en exclusiva a través de su red de distribución en España hasta entonces. Seguir leyendo.
+
+Date: 2026-08-11
 
 ### Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios
 
@@ -52,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Sabadell y Amundi amplían su alianza en fondos hasta 2035](https://www.expansion.com/mercados/fondos/2026/08/12/6a7b9c89468aeb0f7b8b4592.html?utm_source=lootura.com) — 2026-08-11T22:38:22.000Z

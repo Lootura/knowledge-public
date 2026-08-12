@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Jury in Luigi Mangione’s state trial will be anonymous, judge rules](https://www.nbcnews.com/news/us-news/luigi-mangione-returns-court-less-month-state-trial-rcna591890?utm_source=lootura.com) — 2026-08-11T13:42:11.000Z
-- [A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments](https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html?utm_source=lootura.com) — 2026-08-10T19:28:41.000Z
-- [Judge’s Ruling on Second-Home Tax Deals Temporary Setback to Mamdani](https://www.nytimes.com/2026/08/10/nyregion/mamdani-second-home-tax-ruling-nyc.html?utm_source=lootura.com) — 2026-08-11T00:16:36.000Z
+- [Family of NYC fashion designer found dead on Montauk boat to file wrongful death lawsuit](https://www.nbcnews.com/news/us-news/family-nyc-fashion-designer-found-dead-montauk-boat-file-wrongful-deat-rcna591897?utm_source=lootura.com) — 2026-08-11T19:00:13.000Z

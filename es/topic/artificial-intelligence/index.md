@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La literatura fantástica de Sánchez](https://www.abc.es/opinion/alberto-garcia-reyes-literatura-fantastica-sanchez-20260810190339-nt.html?utm_source=lootura.com) — 2026-08-11T15:58:45.000Z
+- [Anthropic firma un acuerdo con la minera cripto Riot Platforms para explotar sus centros de datos](https://cincodias.elpais.com/criptoactivos/2026-08-11/anthropic-firma-un-acuerdo-con-la-minera-cripto-riot-platforms-para-explotar-sus-centros-de-datos.html?utm_source=lootura.com) — 2026-08-11T17:01:00.000Z

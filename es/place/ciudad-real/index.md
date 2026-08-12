@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-real
 
 ## Cambios recientes
+
+### Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria
+
+Reproducción de las pinturas rupestres que representan mujeres pariendo hace 6.000 años, en Peñaescrita, en Fuencaliente (Ciudad Real), realizada por Francisco Mellado hacia 1920. Museo Virtual de Ecología Humana , CC BY-SA Hay un momento en nuestra vida que normalmente no recordamos, en el que cualquier complicación p.
+
+Date: 2026-08-11
 
 ### Diez detenidos por disturbios y agresiones a policías en Alcázar de San Juan (Ciudad Real)
 
@@ -46,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-No public source links.
+- [Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria](https://theconversation.com/un-nuevo-hallazgo-nos-habla-de-asistencia-al-parto-en-la-prehistoria-289367?utm_source=lootura.com) — 2026-08-11T22:10:13.000Z

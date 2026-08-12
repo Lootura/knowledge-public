@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos](https://www.elconfidencial.com/espana/cataluna/2026-08-11/mossos-prat-tiroteo-pelea-1tna-1tps_4404368/?utm_source=lootura.com) — 2026-08-11T10:22:00.000Z
-- [Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”](https://www.larazon.es/deportes/futbol/mourinho-les-dije-esto-barcelonareal-madrid-cuando-vayais-seleccion-podeis-daros-dos-besos-pero-ahora-esto-guerra_202608116a7b4f9da5690f0473747bf7.html?utm_source=lootura.com) — 2026-08-11T16:37:35.000Z
+No public source links.

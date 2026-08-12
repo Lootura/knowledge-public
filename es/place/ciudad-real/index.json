@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.json",
   "description": "Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria",
+      "summary": "Reproducción de las pinturas rupestres que representan mujeres pariendo hace 6.000 años, en Peñaescrita, en Fuencaliente (Ciudad Real), realizada por Francisco Mellado hacia 1920. Museo Virtual de Ecología Humana , CC BY-SA Hay un momento en nuestra vida que normalmente no recordamos, en el que cualquier complicación p.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Diez detenidos por disturbios y agresiones a policías en Alcázar de San Juan (Ciudad Real)",
       "summary": "La Policía Nacional ha arrestado en Alcázar de San Juan (Ciudad Real) a diez personas tras una operación exprés activada por los graves disturbios registrados en el barrio de La Pradera . El origen del altercado fue la violenta agresión a dos agentes cuando intentaban identificar y detener a un conocido delincuente con.",
@@ -42,6 +47,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria",
+      "url": "https://theconversation.com/un-nuevo-hallazgo-nos-habla-de-asistencia-al-parto-en-la-prehistoria-289367?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T22:10:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

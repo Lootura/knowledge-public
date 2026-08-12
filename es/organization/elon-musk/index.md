@@ -3,7 +3,7 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Elon Musk lanza una IA que trabaja por ti las 24 horas con solo enviar un mensaje](https://hipertextual.com/inteligencia-artificial/grok-bot-app-agentes-ia-spacexai-elon-musk/?utm_source=lootura.com) — 2026-08-11T19:41:04.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,24 +35,24 @@
   ],
   "changes": [
     {
-      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
-      "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”.",
-      "date": "2026-08-11"
-    },
-    {
       "title": "Product availability changed in Europe",
       "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
-      "date": "2026-08-11"
+      "date": "2026-08-12"
     },
     {
-      "title": "Omar says federal agent was posted outside monthly meeting in Minneapolis suburb",
-      "summary": "Democratic U.S. Rep. Ilhan Omar says a Homeland Security Investigations agent was outside her monthly town hall meeting in Richfield, Minnesota, on Thursday.",
-      "date": "2026-08-11"
+      "title": "Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse",
+      "summary": "Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins \"The Daily Report\" to break down what to expect from the solar eclipse on Wednesday.",
+      "date": "2026-08-12"
     },
     {
-      "title": "At least 200 major wildfires burn across U.S. and Canada",
-      "summary": "Hot and dry conditions are fueling at least 200 major wildfires in the western U.S. and Canada. Meanwhile, images show the scale of destruction in Spokane, Washington, from the fires there last week. Ian Lee reports.",
-      "date": "2026-08-11"
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The watchdog's review warns the $4 billion federal funding loss now leaves the project needing billions in financing within 16 months — as the rail authority acknowledges for the first time that it still has no train contract, has cut its order from six trains to three, and has dropped the \"Buy America\" requirement.",
+      "date": "2026-08-12"
     },
     {
       "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
@@ -65,62 +65,50 @@
       "date": "2026-08-11"
     },
     {
-      "title": "NATO spending pressure returned",
-      "summary": "A U.S. official tells NBC News that President Trump's team used an elaborate ruse to fly him out of Turkey after the NATO Summit amid threats to his life during the Iran war. NBC News' Shannon Pettypiece has details on the plan to keep the president's true location hidden.",
+      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+      "summary": "A federal judge expanded a block on a key part of President Trump's order to restrict mail-in voting for this fall's midterms, banning the Postal Service from carrying out directives in every state. (Image credit: Nathan Howard).",
       "date": "2026-08-11"
     },
     {
-      "title": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war",
-      "summary": "President Donald Trump was whisked out of Turkey last month on a military aircraft in an elaborate plot to keep his location secret amid security fears from the war with neighboring Iran, according to a U.S. official with knowledge of the plan.",
+      "title": "U.S. stocks edge further from their records as oil prices keep swinging",
+      "summary": "U.S. stocks slipped a bit further from their records Tuesday, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again.",
       "date": "2026-08-11"
     },
     {
-      "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
-      "summary": "Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.",
+      "title": "Can better civics education restore voter dissatisfaction over political corruption?",
+      "summary": "This summer, America celebrated the 250th anniversary of the signing of the Declaration of Independence, widely recognized as the formal founding of our nation and one of the early stages of establishing a democratic government.",
       "date": "2026-08-11"
     },
     {
-      "title": "The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall",
-      "summary": "The U.S. Supreme Court building on May 4, 2026 in Washington, DC. —Andrew Harnik—Getty Images The Supreme Court is set to hear oral arguments this fall in a landmark case to determine whether local and state governments can sue fossil fuel companies for climate-related disaster costs. The case, Suncor v. Boulder , will.",
+      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
+      "summary": "What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien.",
       "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "U.S. Marine veteran freed from Russian prison after nearly 4 years",
-      "url": "https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:36:40.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Omar says federal agent was posted outside monthly meeting in Minneapolis suburb",
-      "url": "https://www.cbsnews.com/news/ilhan-omar-federal-agent-richfield-meeting/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:18:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump secretly switched to different plane in Turkey amid Iran threat",
+      "title": "Trump secretly switched to different plane in Turkey amid Iran missile threat",
       "url": "https://www.cbsnews.com/news/trump-secretly-switched-plane-turkey-air-force-one-iran-war-threat/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:37:00.000Z",
+      "publishedAt": "2026-08-12T01:41:40.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "At least 200 major wildfires burn across U.S. and Canada",
-      "url": "https://www.cbsnews.com/video/at-least-200-major-wildfires-burn-across-us-and-canada/?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:22:01.000Z",
+      "title": "Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse",
+      "url": "https://www.cbsnews.com/video/europe-to-experience-total-solar-eclipse-will-be-partially-visible-in-some-us-states/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:49:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Official confirms Trump used elaborate ruse to fly out of Turkey amid Iran war",
-      "url": "https://www.nbcnews.com/now/video/official-confirms-trump-used-elaborate-ruse-to-fly-out-of-turkey-amid-iran-war-268117061972?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:12:01.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:59:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump took a secret flight out of Turkey in an elaborate plot to hide his location amid Iran war",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-secret-flight-turkey-iran-rcna591860?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T15:40:49.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "California high-speed rail could run out of money by December 2027, as authority cuts train order in half",
+      "url": "https://www.cbsnews.com/news/california-high-speed-rail-run-out-of-money-2027-inspector-general/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:41:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
@@ -129,23 +117,35 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "U.S. Says It Revoked More Than 175,000 Visas Under Trump",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:02:02.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T21:11:09.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T02:00:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "U.S. stocks edge further from their records as oil prices keep swinging",
+      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T21:59:54.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge",
-      "url": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T14:44:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Can better civics education restore voter dissatisfaction over political corruption?",
+      "url": "https://phys.org/news/2026-08-civics-voter-dissatisfaction-political-corruption.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
+      "url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "The U.S. Missile Stockpile Is Dangerously Low",
+      "url": "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T10:00:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 10
+  "evidenceCount": 12
 }

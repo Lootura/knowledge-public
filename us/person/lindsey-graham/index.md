@@ -3,10 +3,22 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
+
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-12
+
+### Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary
+
+Sen. Darline Graham and Rep. Ralph Norman will face off in a runoff later this month for the South Carolina GOP Senate nomination, CBS News projects, as they vie to replace the late Sen. Lindsey Graham.
+
+Date: 2026-08-12
 
 ### Wisconsin's Democratic showdown and more primary races to watch today
 
@@ -56,19 +68,7 @@ The legacy of Lindsey Graham loomed over the field to replace him in a debate Mo
 
 Date: 2026-08-04
 
-### A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz
-
-World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.
-
-Date: 2026-08-01
-
-### Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham
-
-A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Wisconsin's Democratic showdown and more primary races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-11T12:28:19.000Z
-- [Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham](https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com) — 2026-08-11T12:49:06.000Z
+- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
+- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z

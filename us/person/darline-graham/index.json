@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "Darline"
   ],
   "changes": [
+    {
+      "title": "Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary",
+      "summary": "Sen. Darline Graham and Rep. Ralph Norman will face off in a runoff later this month for the South Carolina GOP Senate nomination, CBS News projects, as they vie to replace the late Sen. Lindsey Graham.",
+      "date": "2026-08-12"
+    },
     {
       "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
       "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
@@ -57,20 +62,21 @@
       "title": "Darline Graham's career centered disability. Now she could help shape national policy",
       "summary": "To former colleagues and the disability advocates who have worked with her, there is little doubt in Darline Graham's capabilities.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "Trump encourages Darline Graham to run for Lindsey Graham's seat",
-      "summary": "Darline Graham indicated in a White House meeting Thursday that she's weighing a bid, CBS News confirmed. A day later, President Trump wrote on Truth Social: \"RUN, DARLINE, RUN! \".",
-      "date": "2026-07-17"
     }
   ],
   "sources": [
     {
+      "title": "Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary",
+      "url": "https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:16:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina",
       "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T09:29:13.000Z",
+      "publishedAt": "2026-08-11T18:23:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

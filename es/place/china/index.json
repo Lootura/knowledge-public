@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol",
+      "summary": "Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chinos en Ferrol (A Coruña), donde también tiene su base uno de los mayores arsenales de la Armada española, se han disipado en 48 horas. La ministra de Defensa, Margarita Robles, ha comunicado este martes al presidente de la Xunta de Galicia, A.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes",
+      "summary": "El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.",
+      "date": "2026-08-11"
+    },
     {
       "title": "China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes",
       "summary": "El Banco Popular de China (BPC, banco central) anunció la designación del alemán Deutsche Bank como entidad de compensación para la divisa del país asiático, el yuan, la primera ocasión en la que una institución europea recibe esa autorización, que le permitirá ser “puente” con los mercados chinos. Seguir leyendo.",
@@ -50,18 +60,21 @@
       "title": "En Sumario de tarde: de la petición de mando único en Ceuta al terremoto en Colombia",
       "summary": "Marruecos exige repatriar a todos sus menores no acompañados que están en España; Defensa y el CNI alertan del riesgo de espionaje de una fábrica china en la ría de Ferrol; El Ejército retira 85 máquinas de ‘vending’ de los cuarteles por temor a cámaras y micros espías; y al menos 51 muertos y decenas de heridos en un.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China",
-      "summary": "La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional",
-      "summary": "El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol",
+      "url": "https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T15:53:57.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes",
+      "url": "https://theobjective.com/espana/2026-08-11/defensa-xunta-fabrica-china-ferrol-informes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T17:07:14.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

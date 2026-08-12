@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Arizona Gov. Katie Hobbs chooses former Republican as running mate in re-election bid](https://www.nbcnews.com/politics/2026-election/arizona-gov-katie-hobbs-chooses-former-republican-running-mate-re-elec-rcna590946?utm_source=lootura.com) — 2026-08-11T12:48:02.000Z
+No public source links.

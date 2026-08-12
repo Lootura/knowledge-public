@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T12:57:57.710Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "White House asked DOJ about new Reflecting Pool case against David Hearn",
+      "summary": "Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a \"botched installation\" by a contractor, not vandalism.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much",
+      "summary": "PolitiFact analyzed all of Trump's public events and speeches over the first seven months of 2026 in which he mentioned his construction projects — including the White House ballroom and Reflecting Pool — and beautifying the nation's capital.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Olympic canoeist charged by Jeanine Pirro seeks to permanently sink Reflecting Pool case",
       "summary": "Attorneys for the former Olympic canoeist the Trump administration had charged in a felony Reflecting Pool case are seeking to permanently bar any effort to resurface what they called a “politically motivated prosecution” of their client.",
@@ -50,18 +60,21 @@
       "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
       "summary": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for other people who were charged. (Image credit: Finn Gomez).",
       "date": "2026-08-03"
-    },
-    {
-      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
-      "summary": "Federal prosecutors moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with ripping the bottom of the Lincoln Memorial Reflecting Pool, saying the damage was caused by \"botched installation and not vandalism.\".",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
-      "summary": "The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that contractors caused the pool to peel. Olivia Rinaldi.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "White House asked DOJ about new Reflecting Pool case against David Hearn",
+      "url": "https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T19:54:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much",
+      "url": "https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T19:04:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
 }

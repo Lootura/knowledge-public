@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### Manual de dimisión
+
+Las respuestas a los mensajitos de Sánchez de libros recomendados: "Le aconsejo leer cómo se marcha y convoca elecciones".
+
+Date: 2026-08-12
+
+### Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite
+
+Pedro Sánchez descansa en La Mareta rodeado de un importante dispositivo de seguridad . La crisis de Ceuta y la creciente preocupación por la protección del presidente han convertido este verano la Residencia Real de Lanzarote en algo más que el lugar elegido por el jefe del Ejecutivo para pasar sus vacaciones junto a.
+
+Date: 2026-08-12
 
 ### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
 
@@ -56,18 +68,7 @@ El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en prim
 
 Date: 2026-08-11
 
-### Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja
-
-La Guardia Civil continúa con la investigación del violento suceso, en el que el exsecretario general de UAGA falleció por «varias heridas de arma blanca».
-
-Date: 2026-08-10
-
-### Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China
-
-El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la "amenaza" que puede suponer Leer.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta](https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-08-11T03:30:01.000Z
+- [Manual de dimisión](https://www.larazon.es/espana/manual-dimision_202608126a7b39bfa046ad6ebcabc677.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T01:34:57.000Z
+- [Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite](https://www.larazon.es/espana/pedro-sanchez-blinda-sus-vacaciones-mareta-120-agentes-elite_202608126a7bc59fa5690f0473750cef.html?utm_source=lootura.com) — 2026-08-12T01:00:15.000Z

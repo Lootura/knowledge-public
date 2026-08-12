@@ -1,0 +1,45 @@
+{
+  "id": "es-instituto-nacional",
+  "name": "Instituto Nacional",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/instituto-nacional",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/instituto-nacional",
+  "markdownUrl": "https://atlas.lootura.com/es/place/instituto-nacional/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/instituto-nacional/index.json",
+  "description": "Sigue la actividad de Instituto Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles",
+      "summary": "Manifestación en Madrid por el derecho a una vivienda digna en febrero de 2025. OSCAR GONZALEZ FUENTES/Shutterstock En el último año, el precio de la vivienda en España ha subido casi un 13 % , según el Instituto Nacional de la Vivienda. La causa principal del encarecimiento es, en palabras del Banco de España, la comb.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Los sanitarios de Ceuta elevan el pulso contra Sanidad tras el colapso por la crisis migratoria",
+      "summary": "La crisis migratoria de Ceuta ha elevado a máximos el enfrentamiento que los profesionales sanitarios de la ciudad mantienen desde hace meses con el Ministerio de Sanidad y el Instituto Nacional de Gestión Sanitaria (Ingesa). Diez días después de la entrada masiva de finales de julio, el Colegio Oficial de Médicos mant.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Instituto Nacional first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles",
+      "url": "https://theconversation.com/un-problema-irresoluble-crece-el-numero-de-hogares-en-espana-y-no-el-de-viviendas-disponibles-288124?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T22:05:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    },
+    {
+      "title": "Los sanitarios de Ceuta elevan el pulso contra Sanidad tras el colapso por la crisis migratoria",
+      "url": "https://theobjective.com/espana/2026-08-11/sanitarios-ceuta-sanidad-crisis-migratoria/?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T17:21:47.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

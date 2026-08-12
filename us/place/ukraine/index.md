@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
+
+Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.
+
+Date: 2026-08-11
 
 ### Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War
 
@@ -62,12 +68,7 @@ Since the start of Russia's full-scale invasion of Ukraine, there have been vari
 
 Date: 2026-08-09
 
-### How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan
-
-Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.
-
-Date: 2026-08-09
-
 ## Sources
 
-- [Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War](https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html?utm_source=lootura.com) — 2026-08-11T11:43:18.000Z
+- [Over 16,000 civilians detained by Russia during the war in Ukraine are still held, UN estimates](https://www.pbs.org/newshour/world/over-16000-civilians-detained-by-russia-during-the-war-in-ukraine-are-still-held-un-estimates?utm_source=lootura.com) — 2026-08-11T19:50:14.000Z
+- [Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles](https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com) — 2026-08-11T20:16:50.000Z

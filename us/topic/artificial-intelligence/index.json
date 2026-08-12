@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,31 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Will AI make our dreams all look the same?",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "A new study from Northwestern's Kellogg School of Management found that research proposals showing stronger signs of AI-assisted writing were four percentage points more likely to receive funding from the National Institutes of Health (NIH).",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
+      "summary": "When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of Agriculture, used a machine-learning approach to study not just which genes a bacterium has, but also.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
+      "summary": "What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Claude will apply invisible watermarks to AI text and images",
       "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a.",
@@ -51,58 +76,39 @@
       "title": "Mark Zuckerberg's vision of superintelligent AI for everyone",
       "summary": "Meta CEO Mark Zuckerberg is making the case for putting superintelligent AI in the hands of everyone, not just a few companies or governments. Charles Rollet, tech correspondent for Business Insider, joins CBS News to discuss.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Machine learning predicts forest soil fungal diversity from drone images",
-      "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity—a key indicator of a healthy forest ecosystem—pr.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
-      "summary": "Nature, Published online: 10 August 2026; doi:10.1038/d41586-026-02276-z QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
       "title": "Will AI make our dreams all look the same?",
       "url": "https://www.nature.com/articles/d41586-026-02491-8?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:56:01.238Z",
+      "publishedAt": "2026-08-12T01:43:45.777Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
       "url": "https://www.nature.com/articles/d41586-026-02490-9?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:56:01.238Z",
+      "publishedAt": "2026-08-12T01:43:45.777Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T12:22:20.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "AI-assisted grant proposals may win more often—while narrowing research ideas",
+      "url": "https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:20:03.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "The AI takeover of mathematics has begun",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T11:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
+      "url": "https://phys.org/news/2026-08-genetic-neighborhoods-distinguish-poultry-bacteria.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:40:02.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
+      "url": "https://phys.org/news/2026-08-real-ray-analysis-donut-materials.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T23:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

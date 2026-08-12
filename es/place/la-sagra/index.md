@@ -34,4 +34,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Renfe estudia recurrir una resolución de CNMC para bloquear la entrada de Iryo en sus talleres](https://theobjective.com/economia/transporte/2026-08-11/renfe-recurso-cnmc-talleres-iryo/?utm_source=lootura.com) — 2026-08-11T14:59:24.000Z
+No public source links.

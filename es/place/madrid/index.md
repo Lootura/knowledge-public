@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
+
+El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
+
+Date: 2026-08-11
+
+### Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche
+
+Quedan pocas semanas para que llegue una fecha que muchos ya tienen marcada desde hace tiempo. El próximo 12 de agosto , cuando llegue la tarde, el cielo va a cambiar de aspecto durante unos instantes en varios puntos de la Comunidad de Madrid. No será igual en toda la región, pero sí lo bastante visible como para que.
+
+Date: 2026-08-11
+
+### ¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles
+
+Manifestación en Madrid por el derecho a una vivienda digna en febrero de 2025. OSCAR GONZALEZ FUENTES/Shutterstock En el último año, el precio de la vivienda en España ha subido casi un 13 % , según el Instituto Nacional de la Vivienda. La causa principal del encarecimiento es, en palabras del Banco de España, la comb.
+
+Date: 2026-08-11
+
+### Chelsea-Real Sociedad y Ajax-Madrid, en la tercera ronda previa de la Champions femenina
+
+Los nueve ganadores de esta eliminatoria accederán a la fase de liga del máximo torneo continental.
+
+Date: 2026-08-11
 
 ### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
 
@@ -44,36 +68,9 @@ El traspaso de Carlos Espí al Real Madrid ha sido el único gran movimiento ent
 
 Date: 2026-08-11
 
-### Indra adapta 1.200 lectores del Metro de Madrid para permitir el pago directo con tarjeta
-
-Indra ha actualizado 1.200 lectores instalados en 800 pasos y tornos de acceso del Metro de Madrid para permitir que los viajeros entren directamente con una tarjeta bancaria o un teléfono móvil contactless. La compañía ha adaptado además la infraestructura de pagos que conecta el sistema de gestión económica de Metro.
-
-Date: 2026-08-11
-
-### Madrid: un camionero queda atrapado por la cabeza entre la ventanilla y un guardarraíl en la A-3
-
-Un camionero ha quedado atrapado por la cabeza entre la ventanilla y un guardarraíl en un accidente de tráfico registrado en la incorporación a la M-45 interior desde la A-3 siendo finalmente excarcelado por los bomberos del Ayuntamiento tras una hora y media de un complicado rescate, ha informado Emergencias Madrid. E.
-
-Date: 2026-08-11
-
-### Jesús Higueras: «He visto muchos milagros, tanto de curaciones físicas como espirituales»
-
-La parroquia de Santa María de Caná, situada en Pozuelo de Alarcón (Madrid), es una de las más conocidas de toda España. Probablemente sea la que reúne de manera regular al mayor número de fieles de todo el país. E incluso una de las que más de todo el mundo. Y buena parte de ese mérito recae sobre su líder espiritual,.
-
-Date: 2026-08-11
-
-### Amparo, la tía de Nacho Aragón que fue clave en los primeros días de su churrería en Madrid: «Una Navidad abrimos con ella a las seis de la mañana»
-
-Abrir un negocio, la mayoría de ocasiones, requiere mucho sacrificio . Es por eso que contar con un círculo de personas que te apoyen y, sobre todo, con la ayuda de tu familia es algo indispensable. Y si no, que se lo digan a Nacho , el hijo pequeño de Emilio Aragón, quien, hace unos años, decidió lanzarse al mundo de.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid](https://www.abc.es/summum/gente-vip/lujos-marc-cucurella-deja-londres-fichaje-real-20260811172625-nt.html?utm_source=lootura.com) — 2026-08-11T15:58:55.000Z
-- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
-- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z
-- [Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”](https://www.larazon.es/deportes/futbol/mourinho-les-dije-esto-barcelonareal-madrid-cuando-vayais-seleccion-podeis-daros-dos-besos-pero-ahora-esto-guerra_202608116a7b4f9da5690f0473747bf7.html?utm_source=lootura.com) — 2026-08-11T16:37:35.000Z
-- [Tres Cantos anula su programa de actividades por el eclipse ante el riesgo de incendios](https://www.larazon.es/madrid/tres-cantos-anula-programa-actividades-eclipse-riesgo-incendios_202608116a7b501571b42a0b5de9eb98.html?utm_source=lootura.com) — 2026-08-11T16:38:45.000Z
-- [A la Liga le cuesta mover dinero: los 28 fichajes nacionales sólo dejan 45 millones](https://okdiario.com/deportes/liga-cuesta-mover-dinero-28-fichajes-nacionales-solo-dejan-45-millones-19157779?utm_source=lootura.com) — 2026-08-11T16:39:03.000Z
-- [Indra adapta 1.200 lectores del Metro de Madrid para permitir el pago directo con tarjeta](https://theobjective.com/economia/2026-08-11/indra-metro-madrid-tarjeta/?utm_source=lootura.com) — 2026-08-11T15:24:42.000Z
+- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche](https://okdiario.com/madrid/donde-ver-eclipse-solar-total-madrid-12-agosto-estos-son-11-lugares-donde-hara-completamente-noche-18969376?utm_source=lootura.com) — 2026-08-11T21:45:16.000Z
+- [¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles](https://theconversation.com/un-problema-irresoluble-crece-el-numero-de-hogares-en-espana-y-no-el-de-viviendas-disponibles-288124?utm_source=lootura.com) — 2026-08-11T22:05:13.000Z
+- [Chelsea-Real Sociedad y Ajax-Madrid, en la tercera ronda previa de la Champions femenina](https://theobjective.com/deportes/futbol/2026-08-11/chelsea-real-sociedad-ajax-madrid-tercera-ronda-champions-femenina/?amp=&utm_source=lootura.com) — 2026-08-11T21:16:46.000Z

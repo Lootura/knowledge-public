@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "Manual de dimisión",
+      "summary": "Las respuestas a los mensajitos de Sánchez de libros recomendados: \"Le aconsejo leer cómo se marcha y convoca elecciones\".",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite",
+      "summary": "Pedro Sánchez descansa en La Mareta rodeado de un importante dispositivo de seguridad . La crisis de Ceuta y la creciente preocupación por la protección del presidente han convertido este verano la Residencia Real de Lanzarote en algo más que el lugar elegido por el jefe del Ejecutivo para pasar sus vacaciones junto a.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»",
       "summary": "El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.",
@@ -56,25 +66,21 @@
       "title": "Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil",
       "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Detienen a los presuntos autores del asesinato del líder agrario Javier Sánchez y su mujer en su casa de Zaragoza: una de sus hijas y su pareja",
-      "summary": "La Guardia Civil continúa con la investigación del violento suceso, en el que el exsecretario general de UAGA falleció por «varias heridas de arma blanca».",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China",
-      "summary": "El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la \"amenaza\" que puede suponer Leer.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta",
-      "url": "https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Manual de dimisión",
+      "url": "https://www.larazon.es/espana/manual-dimision_202608126a7b39bfa046ad6ebcabc677.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:34:57.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite",
+      "url": "https://www.larazon.es/espana/pedro-sanchez-blinda-sus-vacaciones-mareta-120-agentes-elite_202608126a7bc59fa5690f0473750cef.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T01:00:15.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

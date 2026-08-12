@@ -3,20 +3,32 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
 
-### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
+### Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary
 
-Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
+Sen. Darline Graham and Rep. Ralph Norman will face off in a runoff later this month for the South Carolina GOP Senate nomination, CBS News projects, as they vie to replace the late Sen. Lindsey Graham.
 
-Date: 2026-08-11
+Date: 2026-08-12
 
 ### What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina
 
 The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.
+
+Date: 2026-08-11
+
+### What to watch in primaries in Wisconsin and Minnesota and beyond
+
+The left vs. center theme is on display in Democratic primaries in multiple states voting Tuesday, with other significant races in places like Alabama and South Carolina.
+
+Date: 2026-08-11
+
+### Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham
+
+Primaries are being held in six states on Tuesday. In South Carolina, a crowded field of Republicans is vying to replace the late Sen. Lindsey Graham on the ballot. There are also key races for a Senate seat in Minnesota and governor in Wisconsin. Mark Strassmann reports.
 
 Date: 2026-08-11
 
@@ -56,19 +68,8 @@ Voting booths at a polling location inside the Charles R. Drew Wellness Center d
 
 Date: 2026-07-24
 
-### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
-
-The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
-
-Date: 2026-07-22
-
-### South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar
-
-The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Crowded GOP race in South Carolina as primary held to replace late Sen. Lindsey Graham](https://www.cbsnews.com/video/crowded-gop-race-in-south-carolina-as-primary-held-to-replace-late-sen-lindsey-graham/?utm_source=lootura.com) — 2026-08-11T12:49:06.000Z
-- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T09:29:13.000Z
+- [Darline Graham, Ralph Norman advance to runoff in South Carolina GOP Senate primary](https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results/?utm_source=lootura.com) — 2026-08-12T01:16:28.000Z
+- [What to watch in primaries in Wisconsin and Minnesota and beyond](https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond?utm_source=lootura.com) — 2026-08-11T20:33:44.000Z
+- [What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina](https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html?utm_source=lootura.com) — 2026-08-11T18:23:12.000Z

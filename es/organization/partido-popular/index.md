@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"
 
 El PP ha anunciado este martes en un comunicado enviado a los medios de comunicación que la ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto,...
+
+Date: 2026-08-11
+
+### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
+
+El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
 
 Date: 2026-08-11
 
@@ -62,13 +68,7 @@ El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado
 
 Date: 2026-08-10
 
-### Los consejeros de Infancia del PP sí irán a la reunión con el Gobierno a diferencia de los de Vox
-
-Las comunidades donde el Partido Popular dirige las competencias de Servicios Sociales e Infancia, a la espera de lo que decida Andalucía, sí acudirán a la llamada de la ministra de Juventud e Infancia para debatir sobre el reparto de los menores no acompañados que han llegado a Ceuta. En Baleares, Murcia, Galícia, Can.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"](https://amp.elmundo.es/espana/2026/08/11/6a7afb84fdddff92378b4591.html?utm_source=lootura.com) — 2026-08-11T12:17:24.000Z
-- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z

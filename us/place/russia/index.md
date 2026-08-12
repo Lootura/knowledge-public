@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
+
+Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.
+
+Date: 2026-08-11
 
 ### Funding milestone detected
 
@@ -62,12 +68,7 @@ The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its w
 
 Date: 2026-08-09
 
-### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
-
-Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
-
-Date: 2026-08-09
-
 ## Sources
 
 - [U.S. Marine veteran freed from Russian prison after nearly 4 years](https://www.cbsnews.com/news/robert-gilman-russia-released/?utm_source=lootura.com) — 2026-08-11T16:36:40.000Z
+- [Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles](https://www.pbs.org/newshour/world/russian-attacks-kill-10-in-ukraine-as-zelenskyy-says-moscow-is-getting-more-north-korean-missiles?utm_source=lootura.com) — 2026-08-11T20:16:50.000Z

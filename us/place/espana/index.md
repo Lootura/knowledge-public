@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### What to know about Wednesday's total solar eclipse
+
+The only total solar eclipse of 2026 will cross the Northern Hemisphere on Wednesday, Aug. 12, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.
+
+Date: 2026-08-11
 
 ### Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge
 
@@ -62,12 +68,6 @@ Spain says it will build a 1,600-foot containment fence around its enclave of Ce
 
 Date: 2026-08-03
 
-### Total solar eclipse will sweep over Spain, Iceland and Greenland in August
-
-For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.
-
-Date: 2026-08-03
-
 ## Sources
 
-- [Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge](https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html?utm_source=lootura.com) — 2026-08-11T14:44:51.000Z
+- [What to know about Wednesday's total solar eclipse](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-11T18:51:00.000Z

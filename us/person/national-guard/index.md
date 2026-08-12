@@ -3,10 +3,16 @@
 > Follow National Guard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/person/national-guard
 
 ## Recent changes
+
+### The effectiveness and cost of the National Guard deployment in D.C.
+
+It has now been one year since President Trump declared a "crime emergency" in the nation's capital and deployed thousands of members of the National Guard to its streets. Questions continue to mount over the mission's cost, its legality and its effectiveness in fighting crime. Lisa Desjardins discussed more with Richa.
+
+Date: 2026-08-11
 
 ### 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia
 
@@ -20,15 +26,15 @@ President Trump's deployment of the National Guard hits the one year mark next w
 
 Date: 2026-08-11
 
-### One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?
-
-The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.
-
-Date: 2026-08-10
-
 ### Discovered by Atlas
 
 National Guard first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-10
+
+### One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?
+
+The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.
 
 Date: 2026-08-10
 
@@ -40,5 +46,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia](https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines?utm_source=lootura.com) — 2026-08-11T11:11:14.000Z
-- [One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?](https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html?utm_source=lootura.com) — 2026-08-10T20:01:53.000Z
+- [The effectiveness and cost of the National Guard deployment in D.C.](https://www.pbs.org/newshour/show/the-effectiveness-and-cost-of-the-national-guard-deployment-in-d-c?utm_source=lootura.com) — 2026-08-11T22:35:32.000Z

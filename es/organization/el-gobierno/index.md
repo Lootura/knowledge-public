@@ -2,11 +2,23 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Type: person
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa
+
+"Si soy presidente del Gobierno convertiré a España, como ya lo son otros estados europeos, en un país de acogida", prometió el hoy jefe del Ejecutivo, Pedro...
+
+Date: 2026-08-11
+
+### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
+
+El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
+
+Date: 2026-08-11
 
 ### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
 
@@ -56,19 +68,7 @@ El Gobierno ha subido a 80.000 las personas que el pasado 30 de julio entraron i
 
 Date: 2026-08-10
 
-### Interior y Defensa anulan los permisos de militares y agentes desplegados en Ceuta ante el temor de otro intento de entrada
-
-El Gobierno mueve ficha ante el temor de una nueva intentona de entrada masiva ilegal en Ceuta . El Ministerio de Defensa y el de Interior han decidido anular los permisos de los militares y agentes del Instituto Armado desplegados en Ceuta en paralelo a las advertencias y anuncios que manan en redes sociales que difun.
-
-Date: 2026-08-10
-
-### El Gobierno puede poner condiciones a SAIC en Galicia para garantizar la seguridad nacional
-
-El Gobierno está "convencido" de que la instalación en Galicia de la primera planta en Europa del fabricante chino de vehículos eléctricos SAIC Motor, cerca del...
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
-- [El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña](https://www.eldiario.es/madrid/somos/gobierno-ayuso-traspasa-fondos-emergencias-servicios-sociales-pagar-facturas-sanidad-madrilena_1_13440551.html?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z
+- [El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa](https://amp.elmundo.es/espana/2026/08/11/6a7b73bae85ece9c5d8b45a5.html?utm_source=lootura.com) — 2026-08-11T20:54:32.000Z
+- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z

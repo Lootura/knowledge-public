@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,16 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
+      "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
+      "summary": "El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
       "summary": "El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.",
@@ -60,30 +70,20 @@
       "title": "La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»",
       "summary": "Cada vez son más los ministros que se suman a hacer recomendaciones a través de sus perfiles en redes sociales y uno de los últimos en hacer un ‘top 5’ ha sido el líder de la cartera de Justicia, Félix Bolaños, quien ha compartido sus destinos de viaje recomendados. Maritcha Ruiz Mateos, ex directora de comunicación de.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos",
-      "summary": "La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»",
-      "summary": "El PSOE ha decidido no tolerar más insultos a su líder, Pedro Sánchez . El partido ha anunciado este domingo en un comunicado que ha presentado una denuncia contra la presidenta de Les Corts Valencianes, Llanos Mass ó , por llamar «capo de la mafia corrupta» al actual presidente del Gobierno de la nación. Estos término.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
+      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
       "url": "https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com",
       "publishedAt": "2026-08-11T16:25:39.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista",
-      "url": "https://okdiario.com/andalucia/empresario-que-compro-parcela-chipiona-junto-psoe-rinconada-era-afiliado-socialista-19163898?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T16:10:27.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
+      "url": "https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 2

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-sabadell/index.json",
   "description": "Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T05:38:36.358Z",
+  "updatedAt": "2026-08-12T01:43:20.479Z",
   "aliases": [
     "BANCO DE SABADELL SA",
     "BANCO DE SABADELL, S.A.",
@@ -21,6 +21,11 @@
     "Sabadell Group"
   ],
   "changes": [
+    {
+      "title": "Sabadell y Amundi amplían su alianza en fondos hasta 2035",
+      "summary": "Banco Sabadell amplía su alianza en gestión de activos con Amundi , la mayor gestora europea de fondos de inversión, hasta 2035 y seguirá comercializando productos de la firma francesa en exclusiva a través de su red de distribución en España hasta entonces. Seguir leyendo.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios",
       "summary": "El nuevo consejero delegado de Banco Sabadell, Marc Armengol, empieza a dibujar las líneas directrices de la nueva etapa que afronta la entidad, tras dejar atrás la resaca de la...",
@@ -57,6 +62,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sabadell y Amundi amplían su alianza en fondos hasta 2035",
+      "url": "https://www.expansion.com/mercados/fondos/2026/08/12/6a7b9c89468aeb0f7b8b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-11T22:38:22.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

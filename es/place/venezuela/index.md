@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura
+
+Los gobiernos de Venezuela e Israel han anunciado que pondrán en marcha un mecanismo para restablecer las relaciones diplomáticas tras la visita de una delegación israelí a territorio venezolano con motivo del doble terremoto registrado a finales de junio. Esto pone fin a la ruptura de lazos diplomáticos desde 2009. «L.
+
+Date: 2026-08-11
 
 ### Las diferencias que separan a los terremotos de Colombia y Venezuela
 
@@ -62,12 +68,6 @@ La exdiputada opositora Dinorah Figuera, quien defiende la continuidad de la Asa
 
 Date: 2026-08-05
 
-### Fragmento del día: Caracas
-
-en Caracas (Venezuela) durante un discurso en la avenida Bolívar, en un acto en conmemoración de los 81 años de la Guardia Nacional Bolivariana se produce un atentado con drones contra el presidente Nicolás Maduro.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Las diferencias que separan a los terremotos de Colombia y Venezuela](https://www.lavanguardia.com/internacional/20260811/11611926/diferencias-separan-terremotos-colombia-venezuela.html?utm_source=lootura.com) — 2026-08-11T15:30:54.000Z
+- [Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura](https://theobjective.com/internacional/2026-08-11/venezuela-israel-relaciones-diplomaticas-17-anos/?utm_source=lootura.com) — 2026-08-11T18:23:11.000Z

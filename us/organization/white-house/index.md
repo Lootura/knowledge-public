@@ -3,20 +3,32 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
-
-Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
-
-Date: 2026-08-11
-
 ### NATO spending pressure returned
 
 President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
+
+Date: 2026-08-11
+
+### White House asked DOJ about new Reflecting Pool case against David Hearn
+
+Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
+
+Date: 2026-08-11
+
+### Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much
+
+PolitiFact analyzed all of Trump's public events and speeches over the first seven months of 2026 in which he mentioned his construction projects — including the White House ballroom and Reflecting Pool — and beautifying the nation's capital.
+
+Date: 2026-08-11
+
+### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
+
+Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
 
 Date: 2026-08-11
 
@@ -56,19 +68,8 @@ President Donald Trump speaks to the press after signing an Executive Order in t
 
 Date: 2026-08-10
 
-### Anthony Scaramucci, Podcast Star, Explains U.S. Politics to the World
-
-He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.
-
-Date: 2026-08-09
-
-### Taylor Swift songs removed from Trump and White House’s social media posts
-
-Rage-baiting efforts of Trump accounts silenced after posts such as a video linking her Red album to Republicans Some of Taylor Swift ’s songs have been removed from videos posted on social media by Donald Trump ’s campaign and the White House, silencing efforts to mock the pop star. A video posted 3 August featuring t.
-
-Date: 2026-08-09
-
 ## Sources
 
+- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-11T19:54:00.000Z
+- [Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much](https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much?utm_source=lootura.com) — 2026-08-11T19:04:37.000Z
 - [Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat](https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat?utm_source=lootura.com) — 2026-08-11T16:04:51.000Z
-- [Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President](https://time.com/article/2026/08/10/will-scharf-new-white-house-counsel-trump-lawyer-history/?utm_source=lootura.com) — 2026-08-11T12:38:42.000Z

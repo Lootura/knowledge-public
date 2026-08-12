@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol
+
+Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chinos en Ferrol (A Coruña), donde también tiene su base uno de los mayores arsenales de la Armada española, se han disipado en 48 horas. La ministra de Defensa, Margarita Robles, ha comunicado este martes al presidente de la Xunta de Galicia, A.
+
+Date: 2026-08-11
+
+### Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes
+
+El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.
+
+Date: 2026-08-11
 
 ### China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes
 
@@ -56,18 +68,7 @@ Marruecos exige repatriar a todos sus menores no acompañados que están en Espa
 
 Date: 2026-08-10
 
-### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
-
-La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
-
-Date: 2026-08-10
-
-### Moncloa defiende la planta china en Ferrol y da por hecho que garantizará la seguridad nacional
-
-El ministro para la Transformación Digital y de la Función Pública, Óscar López , ha defendido la instalación de una planta china de vehículos eléctricos en Ferrol y se ha mostrado convencido de que se va a llevar a cabo garantizando el respeto a la seguridad nacional. López ha hecho estas declaraciones ante la existen.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol](https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html?utm_source=lootura.com) — 2026-08-11T15:53:57.000Z
+- [Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes](https://theobjective.com/espana/2026-08-11/defensa-xunta-fabrica-china-ferrol-informes/?utm_source=lootura.com) — 2026-08-11T17:07:14.000Z

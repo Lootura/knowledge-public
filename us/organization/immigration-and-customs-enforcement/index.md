@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-08T16:30:11.933Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### ICE plans to give officers gloves that can deliver electric shocks
+
+U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.
+
+Date: 2026-08-12
 
 ### Substance in work van of man killed by ICE tested negative for drugs, prosecutor says
 
@@ -62,12 +68,6 @@ Immigration and Customs Enforcement had ordered its officers to halt most vehicl
 
 Date: 2026-07-15
 
-### Man fleeing immigration officers in Florida struck and killed by tractor trailer, police say
-
-It was the third death in a week involving encounters with U.S. Immigration and Customs Enforcement agents, following shootings in Texas and Maine.
-
-Date: 2026-07-15
-
 ## Sources
 
-No public source links.
+- [ICE plans to give officers gloves that can deliver electric shocks](https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com) — 2026-08-12T00:59:23.000Z

@@ -3,10 +3,28 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-12T01:43:41.443Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
+
+South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
+
+Date: 2026-08-12
+
+### Areas to Watch in Wisconsin’s Democratic Primary for Governor
+
+A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.
+
+Date: 2026-08-12
+
+### In Wisconsin Governor Primary, Polls Have Shown a Progressive Democrat With a Big Lead
+
+Francesca Hong, a democratic socialist, has consistently led in a Democratic primary that struggled to settle on a field of candidates.
+
+Date: 2026-08-12
 
 ### Wisconsin considers democratic socialist for governor amid US wave of progressive wins
 
@@ -50,12 +68,8 @@ Francesca Hong first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-05
 
-### Francesca Hong Said Thanksgiving Should Be Canceled. Can Wisconsin Voters Forgive Her?
-
-“Cancel Thanksgiving,” she wrote. “VDay” brings out “the worst of humanity,” she mused. Francesca Hong’s old social media posts get a fresh look ahead of Wisconsin’s Democratic primary for governor.
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today](https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/?utm_source=lootura.com) — 2026-08-12T01:41:38.000Z
+- [Areas to Watch in Wisconsin’s Democratic Primary for Governor](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-counties.html?utm_source=lootura.com) — 2026-08-12T01:19:47.000Z
+- [In Wisconsin Governor Primary, Polls Have Shown a Progressive Democrat With a Big Lead](https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-governor-polling.html?utm_source=lootura.com) — 2026-08-12T01:11:27.000Z

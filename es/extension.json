@@ -1,45 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T17:09:45.831Z",
+  "generatedAt": "2026-08-12T01:57:38.587Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|121|1786467329186",
+    "signature": "1.18.0|122|1786499000479",
     "version": "1.18.0",
-    "build": 121,
-    "latestEntityUpdatedAt": "2026-08-11T16:55:29.186Z"
+    "build": 122,
+    "latestEntityUpdatedAt": "2026-08-12T01:43:20.479Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-colombia",
-      "name": "República de Colombia",
-      "type": "place",
-      "title": "Civitatis se vuelca con los afectados por el terremoto de Colombia y recauda fondos con su iniciativa de un 'free tour' benéfico",
-      "url": "https://atlas.lootura.com/es/place/colombia",
-      "path": "/es/place/colombia",
-      "updatedAt": "2026-08-11T16:55:29.186Z",
-      "score": 1761,
-      "sourceCount": 92,
+      "id": "es-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
+      "url": "https://atlas.lootura.com/es/person/donald-trump",
+      "path": "/es/person/donald-trump",
+      "updatedAt": "2026-08-12T01:43:20.479Z",
+      "score": 1704,
+      "sourceCount": 214,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
-      {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "Eclipse solar total 2026, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-08-11T16:55:29.186Z",
-        "score": 1719,
-        "sourceCount": 1040,
-        "isBreaking": false,
-        "isPinned": false
-      },
       {
         "id": "es-iran",
         "name": "Irán",
@@ -47,39 +34,52 @@
         "title": "Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán",
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
-        "updatedAt": "2026-08-11T16:55:29.186Z",
-        "score": 1672,
-        "sourceCount": 178,
+        "updatedAt": "2026-08-12T01:43:20.479Z",
+        "score": 1676,
+        "sourceCount": 182,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-donald-trump",
-        "name": "Donald Trump",
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-12T01:43:20.479Z",
+        "score": 1653,
+        "sourceCount": 691,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-colombia",
+        "name": "República de Colombia",
+        "type": "place",
+        "title": "Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos",
+        "url": "https://atlas.lootura.com/es/place/colombia",
+        "path": "/es/place/colombia",
+        "updatedAt": "2026-08-12T01:43:20.479Z",
+        "score": 1647,
+        "sourceCount": 95,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-margarita-robles",
+        "name": "Margarita Robles Fernández",
         "type": "person",
-        "title": "European criticism of FIFA ruling grew",
-        "url": "https://atlas.lootura.com/es/person/donald-trump",
-        "path": "/es/person/donald-trump",
-        "updatedAt": "2026-08-11T16:55:29.186Z",
-        "score": 1663,
-        "sourceCount": 213,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-proteccion-civil",
-        "name": "Protección civil",
-        "type": "concept",
-        "title": "La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil",
-        "url": "https://atlas.lootura.com/es/concept/proteccion-civil",
-        "path": "/es/concept/proteccion-civil",
-        "updatedAt": "2026-08-11T16:55:29.186Z",
-        "score": 1660,
-        "sourceCount": 24,
+        "title": "Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes",
+        "url": "https://atlas.lootura.com/es/person/margarita-robles",
+        "path": "/es/person/margarita-robles",
+        "updatedAt": "2026-08-12T01:43:20.479Z",
+        "score": 1646,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 196
+    "publicEntityCount": 198
   }
 }

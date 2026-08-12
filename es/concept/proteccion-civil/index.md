@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil](https://theobjective.com/internacional/2026-08-11/ue-moviliza-ayuda-terremoto-colombia-proteccion-civil/?amp=&utm_source=lootura.com) — 2026-08-11T12:53:45.000Z
+No public source links.

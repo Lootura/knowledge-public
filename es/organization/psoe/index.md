@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-12T01:43:20.479Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
+
+El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.
+
+Date: 2026-08-12
+
+### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
+
+El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
+
+Date: 2026-08-11
 
 ### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
 
@@ -56,19 +68,7 @@ Cada vez son más los ministros que se suman a hacer recomendaciones a través d
 
 Date: 2026-08-10
 
-### La izquierda se hunde: el PSOE, Sumar y Podemos no llegan al 35% de los votos
-
-La izquierda atraviesa uno de sus peores momentos desde la Transición . Si hoy se celebraran elecciones generales, el PSOE, Sumar y Podemos apenas reunirían el 34,6% de los votos, muy lejos del 52,2% que sumarían conjuntamente el PP y Vox, según la encuesta elaborada por NC Report para LA RAZÓN. La fotografía dibuja un.
-
-Date: 2026-08-10
-
-### El PSOE denuncia a Massó (Vox) por llamar a Sánchez «capo de la mafia corrupta»
-
-El PSOE ha decidido no tolerar más insultos a su líder, Pedro Sánchez . El partido ha anunciado este domingo en un comunicado que ha presentado una denuncia contra la presidenta de Les Corts Valencianes, Llanos Mass ó , por llamar «capo de la mafia corrupta» al actual presidente del Gobierno de la nación. Estos término.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
-- [El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista](https://okdiario.com/andalucia/empresario-que-compro-parcela-chipiona-junto-psoe-rinconada-era-afiliado-socialista-19163898?utm_source=lootura.com) — 2026-08-11T16:10:27.000Z
+- [Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar](https://elpais.com/espana/madrid/2026-08-11/rifirrafe-entre-el-gobierno-de-ayuso-y-la-delegacion-a-cuenta-de-limitar-los-accesos-a-los-montes-durante-el-eclipse.html?utm_source=lootura.com) — 2026-08-11T16:25:39.000Z
+- [El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas](https://www.larazon.es/espana/fiscal-stampa-recurre-juez-que-fuera-agraviado-cloacas_202608126a7b8614a046ad6ebcac3803.html?utm_source=lootura.com) — 2026-08-12T00:00:13.000Z

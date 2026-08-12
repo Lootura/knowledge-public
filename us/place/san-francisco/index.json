@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/san-francisco/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/san-francisco/index.json",
   "description": "Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-08-12T01:43:41.443Z",
   "aliases": [
     "Baghdad by the Bay",
     "City and County of San Francisco",
@@ -27,13 +27,18 @@
   ],
   "changes": [
     {
-      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
-      "summary": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.",
-      "date": "2026-08-09"
+      "title": "Astronomer's tips for a good solar eclipse viewing",
+      "summary": "More than 20 states will get a glimpse of a partial eclipse on Wednesday when the moon slips in front of the sun. Scientists expect the best views in Alaska, but many Americans looking to catch the full show are traveling overseas to experience the total solar eclipse. University of San Francisco astronomy professor An.",
+      "date": "2026-08-12"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "San Francisco first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "The ‘Furthur’ Bus’s Long, Strange Trip, and Why It’s Returning to San Francisco",
+      "summary": "The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.",
       "date": "2026-08-09"
     },
     {
@@ -42,6 +47,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Astronomer's tips for a good solar eclipse viewing",
+      "url": "https://www.cbsnews.com/video/astronomer-tips-good-solar-eclipse-viewing/?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T00:50:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }
