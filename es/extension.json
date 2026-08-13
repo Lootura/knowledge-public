@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T13:18:05.426Z",
+  "generatedAt": "2026-08-13T14:47:56.745Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|130|1786626213343",
+    "signature": "1.18.0|131|1786626213343",
     "version": "1.18.0",
-    "build": 130,
+    "build": 131,
     "latestEntityUpdatedAt": "2026-08-13T13:03:33.343Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/margarita-robles",
       "path": "/es/person/margarita-robles",
       "updatedAt": "2026-08-13T13:03:33.343Z",
-      "score": 1704,
+      "score": 1696,
       "sourceCount": 21,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/colombia",
         "path": "/es/place/colombia",
         "updatedAt": "2026-08-13T13:03:33.343Z",
-        "score": 1666,
+        "score": 1658,
         "sourceCount": 108,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-08-13T13:03:33.343Z",
-        "score": 1660,
+        "score": 1651,
         "sourceCount": 1142,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/pais-vasco",
         "path": "/es/place/pais-vasco",
         "updatedAt": "2026-08-13T13:03:33.343Z",
-        "score": 1644,
+        "score": 1635,
         "sourceCount": 46,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-08-13T13:03:33.343Z",
-        "score": 1630,
+        "score": 1622,
         "sourceCount": 706,
         "isBreaking": false,
         "isPinned": false
