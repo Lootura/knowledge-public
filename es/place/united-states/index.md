@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas
+
+Las nuevas colecciones de joyería de Pandora están impulsando el crecimiento de la compañía, según afirmó su consejera delegada, Berta de Pablos-Barbier, en una entrevista concedida este jueves, en un momento en el que la confianza de los consumidores en Estados Unidos sigue siendo débil. Seguir leyendo.
+
+Date: 2026-08-13
 
 ### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
 
@@ -62,14 +68,7 @@ El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio
 
 Date: 2026-08-11
 
-### eToro compra TradeZero por 231 millones para ampliar su negocio a Estados Unidos
-
-La plataforma de inversión online eToro ha anunciado este martes la compra de TradeZero, una compañía de negociación de acciones estadounidense, por 231 millones de dólares, según ha informado la compañía a través de un comunicado. La operación supone un paso más de la compañía, que cotiza en el Nasdaq desde el año pas.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt.html?utm_source=lootura.com) — 2026-08-13T01:00:51.000Z
+- [Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas](https://cincodias.elpais.com/companias/2026-08-13/pandora-sube-con-fuerza-en-bolsa-tras-superar-las-expectativas-de-beneficios-y-ventas.html?utm_source=lootura.com) — 2026-08-13T09:02:02.000Z
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
-- [Fiódor Dostoievski, histórico escritor ruso: “Colón no fue feliz al momento en que descubrió América, sino mientras la descubría”](https://okdiario.com/curiosidades/fiodor-dostoievski-historico-escritor-ruso-colon-no-fue-feliz-momento-que-descubrio-america-sino-mientras-descubria-19167350?utm_source=lootura.com) — 2026-08-13T05:15:41.000Z

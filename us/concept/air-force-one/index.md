@@ -3,16 +3,10 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
-
-### With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy
-
-In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.
-
-Date: 2026-08-12
 
 ### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
 
@@ -68,8 +62,13 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-12
 
+### Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump
+
+Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.
+
+Date: 2026-08-12
+
 ## Sources
 
 - [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
 - [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
-- [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com) — 2026-08-12T08:43:46.000Z

@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Inflation cools slightly; New York City Council probes prediction markets like Kalshi and Polymarket](https://www.cbsnews.com/video/inflation-cools-slightly-nyc-probes-prediction-markets-like-kalshi-and-polymarket/?utm_source=lootura.com) — 2026-08-12T16:36:44.000Z
 - [For Blakeman, Trump Could Make and Break His Bid to Lead New York](https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com) — 2026-08-12T16:24:54.000Z

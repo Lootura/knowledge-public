@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [3 takeaways from David Crowley’s comeback: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/3-takeaways-david-crowleys-comeback-politics-desk-rcna592208?utm_source=lootura.com) — 2026-08-12T22:33:33.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -34,11 +34,6 @@
       "date": "2026-08-12"
     },
     {
-      "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-08-12"
-    },
-    {
       "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
       "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
       "date": "2026-08-12"
@@ -46,6 +41,11 @@
     {
       "title": "Watching Trump at the Patriot Games",
       "summary": "Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-08-12"
     },
     {
@@ -77,12 +77,6 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/3-takeaways-david-crowleys-comeback-politics-desk-rcna592208?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:33:33.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
       "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
       "url": "https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com",
       "publishedAt": "2026-08-13T00:32:39.000Z",
@@ -107,5 +101,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

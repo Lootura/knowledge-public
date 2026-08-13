@@ -28,4 +28,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Are hacks of U.S. water facilities a new front in the Iran war?](https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña
+
+Muchas personas optaron por desplazarse desde el Principado hasta León para garantizar su observación. El Gobierno asturiano ha desactivado el Plan de Protección Civil en fase de alerta MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027 Asturias, una de las zonas privilegiadas.
+
+Date: 2026-08-13
 
 ### La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil
 
@@ -62,12 +68,6 @@ Poco a poco, la normalidad se está instalando nuevamente en Castilla y León en
 
 Date: 2026-08-01
 
-### Una posible reactivacion del fuego de Ávila obliga a evacuar una urbanización de La Adrada
-
-Una «posible reactivación» registrada en la tarde de este sábado en el incendio de Burgohondo ( Ávila ), en el término municipal de La Adrada, por debajo del pueblo, ha obligado a Protección Civil de Castilla y León a enviar un mensaje ES-Alert para ordenar la evacuación de la urbanización La Picota y de las edificacio.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña](https://www.eldiario.es/asturias/eclipse-asturiano-decepcion-costa-cielos-cubiertos-exito-montana_1_13444360.html?utm_source=lootura.com) — 2026-08-13T07:28:02.000Z

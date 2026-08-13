@@ -3,10 +3,22 @@
 > Sigue la actividad de Asuntos Exteriores en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/person/asuntos-exteriores
 
 ## Cambios recientes
+
+### Exteriores confirma un español fallecido en el terremoto de Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
+
+Date: 2026-08-13
+
+### Exteriores comunica la muerte de un español en el terremoto en Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
+
+Date: 2026-08-13
 
 ### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
 
@@ -56,18 +68,7 @@ En 1978, a nuestro regreso de un viaje a China acompañando al rey Juan Carlos ,
 
 Date: 2026-08-05
 
-### Discovered by Atlas
-
-Asuntos Exteriores first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-03
-
-### Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni
-
-El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T08:28:20.000Z
+- [Exteriores comunica la muerte de un español en el terremoto en Colombia](https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com) — 2026-08-13T07:56:58.000Z

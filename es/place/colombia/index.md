@@ -3,10 +3,28 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Exteriores confirma un español fallecido en el terremoto de Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
+
+Date: 2026-08-13
+
+### Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia
+
+El número de víctimas derivadas del terremoto de magnitud 7,4 en la escala de Richter registrado el lunes en el noroeste de Colombia ha aumentado a 265.
+
+Date: 2026-08-13
+
+### Exteriores comunica la muerte de un español en el terremoto en Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
+
+Date: 2026-08-13
 
 ### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
 
@@ -50,24 +68,9 @@ El terremoto de magnitud 7,4 que sacudió Colombia el pasado 10 de agosto mantie
 
 Date: 2026-08-12
 
-### Las imágenes de la búsqueda de supervivientes entre los escombros tras el terremoto en Colombia
-
-Un hombre se sienta cerca de los escombros del edificio Torres de Limonar tras el terremoto de Cali, Colombia, el 11 de agosto de 2026. REUTERS/Sergio Acero Varias personas aparecen en silueta cerca de un edificio dañado tras un terremoto en Cali, Colombia, el 11 de agosto de 2026. REUTERS/Raquel Cunha Personas trabaja.
-
-Date: 2026-08-12
-
-### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.
-
-Date: 2026-08-12
-
-### Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos
-
-Colombia continúa haciendo frente a las consecuencias del terremoto de magnitud 7,4 , que deja ya al menos 240 fallecidos y 668 heridos. Los equipos de emergencia mantienen las labores de búsqueda entre los edificios derrumbados, especialmente en las zonas más castigadas, mientras numerosas familias intentan localizar.
-
-Date: 2026-08-12
-
 ## Fuentes
 
+- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T08:28:20.000Z
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
+- [Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia](https://theobjective.com/internacional/2026-08-13/aumentan-muertos-terremoto-colombia/?amp=&utm_source=lootura.com) — 2026-08-13T08:53:11.000Z
+- [Exteriores comunica la muerte de un español en el terremoto en Colombia](https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com) — 2026-08-13T07:56:58.000Z

@@ -3,20 +3,38 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros
-
-Madrid se ha consolidado como destino turístico internacional. La capital recibió 5,6 millones de visitantes en el primer semestre de 2026 , de los que 3,3 millones (59%) fueron extranjeros . El número de personas que han pasado por la ciudad supone un incremento del 4,1% con respecto a las mismas fechas del año anteri.
-
-Date: 2026-08-13
-
 ### Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»
 
 Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.
+
+Date: 2026-08-13
+
+### Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse
+
+La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.
+
+Date: 2026-08-13
+
+### Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados
+
+La Policía Nacional ha asestado un golpe a la producción de cocaína en España con la detención de 23 personas en diferentes provincias, además de otras 4 en Australia, y el desmantelamiento de cuatro laboratorios clandestinos en fincas rústicas y domicilios en ciudades de Madrid, Toledo y Badajoz. Una operación con la.
+
+Date: 2026-08-13
+
+### Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’
+
+La familia Pombo tiene varias casas distribuidas por distintos rincones de España. El campo-base tanto de María como de Marta y de Lucía, y sus parejas y familia, está en Madrid. Allí la pequeña de las Pombo se compró una espectacular casa hace un par de años en un barrio a las afueras de la capital. Mientras tanto, ta.
+
+Date: 2026-08-13
+
+### Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros
+
+Madrid se ha consolidado como destino turístico internacional. La capital recibió 5,6 millones de visitantes en el primer semestre de 2026 , de los que 3,3 millones (59%) fueron extranjeros . El número de personas que han pasado por la ciudad supone un incremento del 4,1% con respecto a las mismas fechas del año anteri.
 
 Date: 2026-08-13
 
@@ -50,26 +68,10 @@ El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubr
 
 Date: 2026-08-12
 
-### Dónde ver el eclipse en Madrid: miradores, pueblos y puntos de observación
-
-La cuenta atrás para el que será el fenómeno astronómico del año ha comenzado. El primer eclipse total de sol visible desde la Península Ibérica en más de un siglo tendrá lugar el 12 de agosto al atardecer. La franja de totalidad, aquella zona geográfica donde toca la parte más oscura de la sombra que la luna proyecta.
-
-Date: 2026-08-12
-
-### Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos
-
-La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.
-
-Date: 2026-08-12
-
-### El Molar se transforma en mirador astronómico para el eclipse con un despliegue de ocio y seguridad
-
-El cielo sobre la Comunidad de Madrid se prepara para u no de los grandes eventos astronómicos de los últimos años, y el municipio de El Molar ha decidido articular su propuesta en torno a un enclave tan amplio como estratégico: el Circuito de Motocross . Integrada en la iniciativa regional Pueblos con Vida - Trío de E.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros](https://www.elconfidencial.com/espana/madrid/2026-08-13/radiografia-del-turismo-en-madrid-predominan-los-visitantes-extranjeros-y-supone-un-15-a-nivel-nacional_4400681/?utm_source=lootura.com) — 2026-08-13T03:00:00.000Z
+- [Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse](https://www.abc.es/ciencia/pueblo-nueve-habitantes-espero-anos-ver-eclipse-20260812020413-nt.html?utm_source=lootura.com) — 2026-08-13T08:55:08.000Z
 - [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z
+- [Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados](https://theobjective.com/sociedad/suceso/2026-08-13/golpe-droga-23-detenidos-4-laboratorios-desmantelados/?utm_source=lootura.com) — 2026-08-13T08:25:59.000Z
+- [Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’](https://theobjective.com/gente/2026-08-13/nueva-casa-familia-pombo-adrados-comedor-toques-retro/?utm_source=lootura.com) — 2026-08-13T08:30:00.000Z
 - [Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»](https://theobjective.com/gente/2026-08-13/dabiz-munoz-chaval-elipa-barrio-humilde-madre-cocinaba/?amp=&utm_source=lootura.com) — 2026-08-13T05:30:00.000Z

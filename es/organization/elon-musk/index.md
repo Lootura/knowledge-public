@@ -3,10 +3,16 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### La nueva IA de Elon Musk trabaja por ti: así es Grok Bot
+
+Elon Musk quiere que Grok deje de ser únicamente una inteligencia artificial polémica a la que hacer preguntas, en el mejor de los casos. Su empresa, SpaceXAI, ha presentado Grok Bot , un nuevo servicio de agentes autónomos diseñado para realizar trabajos completos de principio a fin. Dicha herramienta acaba de estrena.
+
+Date: 2026-08-13
 
 ### ¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles
 
@@ -58,4 +64,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [La nueva IA de Elon Musk trabaja por ti: así es Grok Bot](https://www.larazon.es/tecnologia-consumo/redes-sociales/nueva-ia-elon-musk-trabaja-ti-asi-es-grok-bot_202608136a7d80ec71b42a0b5deccc20.html?utm_source=lootura.com) — 2026-08-13T08:45:00.000Z

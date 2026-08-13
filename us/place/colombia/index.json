@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
@@ -66,12 +66,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "World Central Kitchen feeds families in Colombia after devastating earthquake",
-      "url": "https://www.cbsnews.com/video/world-central-kitchen-feeds-families-in-colombia-after-devastating-earthquake/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:42:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
       "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com",

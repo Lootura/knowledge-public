@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Xiaomi muestra por sorpresa su próximo móvil: que tiemblen Apple y Samsung con sus plegables
+
+Xiaomi acaba de dejarnos con la boca abierta de par en par. La compañía estaba pasando un verano bastante tranquilo, sin anuncios importantes y dejando pasar el tiempo para comenzar la temporada con fuerza. Pues bien, de la nada, ha publicado una imagen sobre HyperOS 4 que está lejos de pasar desapercibida. En ella se.
+
+Date: 2026-08-13
 
 ### El 'MonsterVerse' de Apple TV suma dos grandes fichajes a su nueva serie con Wyatt Russell
 
@@ -62,12 +68,6 @@ Apple está trabajando en una nueva función del iPhone llamada "Copiar a Window
 
 Date: 2026-08-08
 
-### La nueva serie de Apple TV destinada a superar a 'Juego de Tronos' ya ha roto una "maldición" de la fantasía
-
-La adaptación de Mistborn continúa sumando avances que reflejan el compromiso de Apple TV con una de las sagas de fantasía más populares.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Xiaomi muestra por sorpresa su próximo móvil: que tiemblen Apple y Samsung con sus plegables](https://hipertextual.com/mobile/xiaomi-muestra-por-sorpresa-su-proximo-movil-que-tiemblen-apple-y-samsung-con-sus-plegables/?utm_source=lootura.com) — 2026-08-13T07:27:48.000Z

@@ -3,7 +3,7 @@
 > Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/object/milky-way
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Giant balloon gives rise to new view of the Milky Way’s centre](https://www.nature.com/articles/d41586-026-02463-y?utm_source=lootura.com) — 2026-08-13T01:46:41.229Z
+- [Giant balloon gives rise to new view of the Milky Way’s centre](https://www.nature.com/articles/d41586-026-02463-y?utm_source=lootura.com) — 2026-08-13T09:09:28.956Z

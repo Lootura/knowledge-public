@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»](https://www.abc.es/recreo/significa-proverbio-filosofia-china-puerta-mejor-cerrada-20260812054500-nt_amp.html?utm_source=lootura.com) — 2026-08-13T04:48:28.000Z
-- [Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche](https://www.larazon.es/tecnologia-consumo/ciencia/casi-16000-espejos-apuntando-mismo-punto-china-remata-termosolar-alta-planeta-100-mw-sales-fundidas-dar-luz-noche_202608136a7ce0bba046ad6ebcae1f2d.html?utm_source=lootura.com) — 2026-08-13T05:30:00.000Z
+No public source links.

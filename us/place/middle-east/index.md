@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Sailors and their families have lives on pause, uncertain if they'll return to Mideast
+
+Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).
+
+Date: 2026-08-13
 
 ### Send your questions for Keir Simmons
 
@@ -62,12 +68,6 @@ Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is
 
 Date: 2026-08-07
 
-### Trump claims Iran talks will start Monday, and 4 other developments in the Middle East
-
-U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Sailors and their families have lives on pause, uncertain if they'll return to Mideast](https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z

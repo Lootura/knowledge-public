@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -45,19 +45,24 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts. (Image credit: Thalia Juarez for NPR).",
-      "date": "2026-08-12"
+      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+      "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).",
+      "date": "2026-08-13"
     },
     {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
-      "date": "2026-08-12"
+      "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+      "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S. (Image credit: Sue Ogrocki).",
+      "date": "2026-08-13"
     },
     {
-      "title": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
-      "summary": "The Justice Department unveiled criminal charges alleging 11 people participated in a scheme that involved more than 1,000 \"sham marriages\" between Chinese nationals and U.S. citizens.",
-      "date": "2026-08-12"
+      "title": "'Imposing ignorance': US climate science under siege",
+      "summary": "A benchmark U.S. report on the fast-changing state of the Arctic has been canceled. The nation's top research body has removed a chapter on global warming from a reference manual for judges.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.",
+      "summary": "A Justice Department staff displays a poster of suspects of marriage fraud scheme during a news conference at the Justice Department in Washington, D.C. U.S. on Aug. 12, 2026. The U.S. Justice Department on Wednesday announced that it had charged 11 people for allegedly conspiring in a multimillion-dollar, decade-long.",
+      "date": "2026-08-13"
     },
     {
       "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
@@ -70,38 +75,21 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Want to catch a glimpse of the solar eclipse from North America? Here's where and when",
-      "summary": "If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts. (Image credit: Thalia Juarez for NPR).",
       "date": "2026-08-12"
     },
     {
-      "title": "NATO spending pressure returned",
-      "summary": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe",
-      "summary": "New comments from President Donald Trump confirm that he secretly swapped planes as he left an international summit because of a threat from Iran. A U.S. official tells NBC News that the threat included the possibility of the Iranian regime targeting the president with a shoulder-fired missile. NBC’s Gabe Gutierrez rep.",
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
       "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Inflation cools slightly; New York City Council probes prediction markets like Kalshi and Polymarket",
-      "url": "https://www.cbsnews.com/video/inflation-cools-slightly-nyc-probes-prediction-markets-like-kalshi-and-polymarket/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:36:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "ICE plans to give officers gloves that can deliver electric shocks",
       "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T01:39:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "11 charged for alleged sham marriages to help Chinese nationals get green cards",
-      "url": "https://www.cbsnews.com/news/chinese-nationals-charged-alleged-sham-marriage-scheme/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:45:32.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -111,15 +99,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T05:43:43.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -129,11 +117,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "'Imposing ignorance': US climate science under siege",
+      "url": "https://phys.org/news/2026-08-imposing-climate-science-siege.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:30:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Watching Trump at the Patriot Games",
       "url": "https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T20:40:07.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.",
+      "url": "https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T09:00:03.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 8
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez
+
+Fernando Grande-Marlaska vuelve este jueves a Ceuta . Lo hace apenas unas horas después de que su silla quedara vacía en el Senado, donde el PP había reclamado su presencia en el Senado para explicar precisamente la gestión de la mayor crisis migratoria sufrida por la ciudad autónoma. La fotografía de su asiento desocu.
+
+Date: 2026-08-13
 
 ### Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su "plena disposición"
 
@@ -62,12 +68,6 @@ Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en l
 
 Date: 2026-08-10
 
-### El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox
-
-El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez](https://www.larazon.es/espana/marlaska-vuelve-ceuta-ministro-todas-crisis-sanchez_202608136a7d87e7a5690f047377634a.html?utm_source=lootura.com) — 2026-08-13T09:01:27.000Z

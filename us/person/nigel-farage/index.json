@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.json",
   "description": "Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "Farage",
     "Mr. Brexit",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-      "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
-      "date": "2026-08-12"
+      "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
+      "summary": "Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.",
+      "date": "2026-08-13"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Nigel Farage first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+      "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
       "date": "2026-08-12"
     },
     {
@@ -32,6 +37,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What to Know About Today’s U.K. Special Election: Farage vs. Binface",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:04:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

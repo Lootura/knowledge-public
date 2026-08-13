@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña",
+      "summary": "Muchas personas optaron por desplazarse desde el Principado hasta León para garantizar su observación. El Gobierno asturiano ha desactivado el Plan de Protección Civil en fase de alerta MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027 Asturias, una de las zonas privilegiadas.",
+      "date": "2026-08-13"
+    },
     {
       "title": "La UE moviliza 100.000 euros de ayuda tras el terremoto en Colombia y activa Protección Civil",
       "summary": "La Comisión Europea ha movilizado 100.000 euros para prestar asistencia inmediata a los afectados por el terremoto de magnitud 7,4 registrado este lunes.",
@@ -59,13 +64,15 @@
       "title": "Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno",
       "summary": "Poco a poco, la normalidad se está instalando nuevamente en Castilla y León en la lucha contra el fuego. A esta hora la situación está mejorando en general, sobre todo en Burgohondo (Ávila), aunque Protección Civil enviaba una nueva alerta ES-Alert para evacuar la urbanización La Picota, en La Adrada. El mensaje recibi.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Una posible reactivacion del fuego de Ávila obliga a evacuar una urbanización de La Adrada",
-      "summary": "Una «posible reactivación» registrada en la tarde de este sábado en el incendio de Burgohondo ( Ávila ), en el término municipal de La Adrada, por debajo del pueblo, ha obligado a Protección Civil de Castilla y León a enviar un mensaje ES-Alert para ordenar la evacuación de la urbanización La Picota y de las edificacio.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña",
+      "url": "https://www.eldiario.es/asturias/eclipse-asturiano-decepcion-costa-cielos-cubiertos-exito-montana_1_13444360.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:28:02.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

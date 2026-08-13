@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027",
+      "summary": "El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras un periodo de evaluación técnica donde la candidatura de la capital quedó descartada, la BNT y la Unión Europea de Radiodifusión han formalizado la designación de Burgas como la ciudad encargada de albergar la 71.ª edición del Festival de Eu.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
       "summary": "Las operaciones de Shein en el mercado europeo afrontan un obstáculo que, aunque esperado, no deja de tener impacto en su negocio comunitario. Se trata de la entrada en vigor, desde el pasado 1 de julio , de la tasa de tres euros a los paquetes extracomunitarios que llegan a la Unión Europea (UE) con un valor inferior.",
@@ -48,30 +63,27 @@
       "title": "'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño",
       "summary": "35 comercios y más de 300 expediciones con recogida en tienda y reparto a domicilio. Este es el resultado que ha dejado el programa 'Última Milla' en Logroño desde su implantación a principios del mes de mayo, en el marco de Decarbomile , el plan de innovación e investigación de la Unión Europea. Este proyecto piloto b.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu",
-      "summary": "No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Europa naufraga en el Estrecho",
-      "summary": "Noviembre de 2021. La frontera entre Polonia y Bielorrusia se convierte en un coladero. El régimen del dictador bielorruso Alexander Lukashenko –aliado-vasallo de la Rusia de Vladímir Putin– lanza contra la Unión Europea a decenas de miles de inmigrantes y refugiados procedentes de Irak y Siria, con engaños y en viajes.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo",
-      "summary": "El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros",
-      "url": "https://cincodias.elpais.com/companias/2026-08-13/shein-subira-los-precios-en-europa-como-respuesta-a-la-tasa-a-los-paquetes-de-menos-de-150-euros.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "url": "https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:28:20.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027",
+      "url": "https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:50:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
+      "url": "https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:56:58.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

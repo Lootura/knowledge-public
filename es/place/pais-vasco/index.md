@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio
+
+El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.
+
+Date: 2026-08-13
+
+### Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»
+
+El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».
+
+Date: 2026-08-13
 
 ### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
 
@@ -56,18 +68,7 @@ El evento Copenhagen Open es un referente de la cultura skater y el martes hizo 
 
 Date: 2026-08-05
 
-### Euskadi se abre a recibir menores de Ceuta aunque advierte que ya acoge «más de los que debería»
-
-La consejera Melgosa reconoce que le preocupa que los jóvenes migrantes «estén lejos de sus familias».
-
-Date: 2026-08-05
-
-### Guerra de propagandas: Bildu, colectivos proetarras y nuevos comunistas toman las fiestas
-
-La bajada del Celedón dio comienzo este martes a las fiestas de Vitoria y a la retahíla de celebraciones populares que tienen lugar en el País Vasco desde hoy hasta el próximo mes de septiembre. Como cada verano, el multitudinario evento en la capital alavesa se convirtió en un escenario donde la izquierda aberzale y o.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
+- [Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»](https://www.diariovasco.com/politica/euskadi-exige-agotar-medios-reagrupar-menores-ceuta-20260813105417-nt_amp.html?utm_source=lootura.com) — 2026-08-13T08:54:17.000Z

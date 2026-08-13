@@ -3,7 +3,7 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa](https://cincodias.elpais.com/criptoactivos/2026-08-13/del-furor-al-desplome-las-empresas-cripto-que-conquistaron-wall-street-pinchan-en-bolsa.html?utm_source=lootura.com) — 2026-08-13T03:25:00.000Z
+- [Jensen Huang toma el volante del carro de la IA de 433.000 millones](https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html?utm_source=lootura.com) — 2026-08-13T03:40:00.000Z

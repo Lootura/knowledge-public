@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -74,19 +74,7 @@
       "url": "https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T20:49:55.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa",
-      "url": "https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T01:32:29.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Pedro Sánchez quiere ser ‘influencer’",
-      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-13/pedro-sanchez-influencer-articulo-pilar-cernuda/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T03:25:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

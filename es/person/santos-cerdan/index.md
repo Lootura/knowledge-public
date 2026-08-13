@@ -40,4 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público](https://www.elconfidencial.com/espana/2026-08-13/empresas-corrupcion-impedido-acceder-contrato-publico_4404483/?utm_source=lootura.com) — 2026-08-13T03:00:00.000Z
+No public source links.

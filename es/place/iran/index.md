@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex sondea nuevos récords
+
+La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.
+
+Date: 2026-08-13
 
 ### El Ibex termina en rojo, pero sigue en zona de máximos
 
@@ -62,12 +68,6 @@ El nuevo jefe del Consejo Supremo de Seguridad, el máximo órgano de seguridad 
 
 Date: 2026-08-11
 
-### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
-
-El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [El Ibex sondea nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com) — 2026-08-13T08:14:20.000Z

@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-13
 ### Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party
 
 Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.
+
+Date: 2026-08-13
+
+### Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028
+
+NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.
 
 Date: 2026-08-13
 
@@ -62,14 +68,10 @@ Ms. Cooke, a three-time congressional candidate, held a huge fund-raising edge i
 
 Date: 2026-08-12
 
-### Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today
-
-South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
-
-Date: 2026-08-12
-
 ## Sources
 
+- [Morning news brief](https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief?utm_source=lootura.com) — 2026-08-13T08:44:44.000Z
+- [Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028](https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com) — 2026-08-13T08:42:12.000Z
 - [Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC](https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com) — 2026-08-13T00:22:46.000Z
 - [Three Questions for Democrats After an Eye-Opening Loss for Progressives](https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html?utm_source=lootura.com) — 2026-08-12T18:36:52.000Z
 - [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T00:48:12.000Z

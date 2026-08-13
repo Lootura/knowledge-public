@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial](https://cincodias.elpais.com/companias/2026-08-13/iberostar-hipoteca-dos-hoteles-por-un-valor-de-145-millones-para-afianzar-una-reclamacion-de-hacienda-en-plena-discusion-judicial.html?utm_source=lootura.com) — 2026-08-13T03:15:00.000Z
+No public source links.

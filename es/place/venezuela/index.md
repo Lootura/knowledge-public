@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt.html?utm_source=lootura.com) — 2026-08-13T01:00:51.000Z
-- [Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición](https://theobjective.com/internacional/2026-08-12/venezuela-primer-ciclo-dialogo-regimen-oposicion/?amp=&utm_source=lootura.com) — 2026-08-12T21:45:46.000Z
+No public source links.

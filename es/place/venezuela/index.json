@@ -70,19 +70,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
-      "url": "https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T01:00:51.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición",
-      "url": "https://theobjective.com/internacional/2026-08-12/venezuela-primer-ciclo-dialogo-regimen-oposicion/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:45:46.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

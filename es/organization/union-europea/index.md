@@ -3,10 +3,28 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Exteriores confirma un español fallecido en el terremoto de Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
+
+Date: 2026-08-13
+
+### El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027
+
+El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras un periodo de evaluación técnica donde la candidatura de la capital quedó descartada, la BNT y la Unión Europea de Radiodifusión han formalizado la designación de Burgas como la ciudad encargada de albergar la 71.ª edición del Festival de Eu.
+
+Date: 2026-08-13
+
+### Exteriores comunica la muerte de un español en el terremoto en Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
+
+Date: 2026-08-13
 
 ### Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros
 
@@ -50,24 +68,8 @@ Date: 2026-08-10
 
 Date: 2026-08-09
 
-### El difícil curso de Sánchez en la UE: enredado en victorias imposibles y convertido en el 'azote' de Trump y Netanyahu
-
-No ha sido un curso político fácil para Pedro Sánchez en el marco de la Unión Europea. El gasto militar, la insistencia en romper el acuerdo comunitario con Israel o la política migratoria han marcado estos meses en la agenda internacional del Gobierno, que se ha enfrascado en debates que muchas veces parecían imposibl.
-
-Date: 2026-08-09
-
-### Europa naufraga en el Estrecho
-
-Noviembre de 2021. La frontera entre Polonia y Bielorrusia se convierte en un coladero. El régimen del dictador bielorruso Alexander Lukashenko –aliado-vasallo de la Rusia de Vladímir Putin– lanza contra la Unión Europea a decenas de miles de inmigrantes y refugiados procedentes de Irak y Siria, con engaños y en viajes.
-
-Date: 2026-08-09
-
-### Detectados dos casos de aceitunas deshuesadas marroquíes en Alemania y Holanda con altos niveles de plomo
-
-El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europea ha notificado d os casos separados de niveles elevados de plomo en dos envíos de aceitunas verdes deshuesadas procedentes de Marruecos, en un lapso de poco más de dos meses. El sistema aclaró que ambos casos se gestionaron mediante notific.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros](https://cincodias.elpais.com/companias/2026-08-13/shein-subira-los-precios-en-europa-como-respuesta-a-la-tasa-a-los-paquetes-de-menos-de-150-euros.html?utm_source=lootura.com) — 2026-08-13T03:15:00.000Z
+- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T08:28:20.000Z
+- [El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027](https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com) — 2026-08-13T08:50:14.000Z
+- [Exteriores comunica la muerte de un español en el terremoto en Colombia](https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com) — 2026-08-13T07:56:58.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El Ibex sondea nuevos récords",
+      "summary": "La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.",
+      "date": "2026-08-13"
+    },
     {
       "title": "El Ibex termina en rojo, pero sigue en zona de máximos",
       "summary": "Los dos grandes focos de la semana confluyen en la sesión de hoy. Los nuevos ataques registrados en Irán alejan el acuerdo, y las presiones que ejerce el petróleo añaden más tensión de cara al IPC de EEUU. El Ibex aguarda mayores novedades con cambios reducidos, nuevamente en zona de máximos.",
@@ -62,13 +67,15 @@
       "title": "Irán condiciona la apertura de Ormuz a un alto el fuego que incluya Líbano y la Franja de Gaza",
       "summary": "El nuevo jefe del Consejo Supremo de Seguridad, el máximo órgano de seguridad de Irán , Mohsen Rezai, ha condicionado este martes la apertura del estrecho de Ormuz a un alto el fuego que incluya a Líbano y la Franja de Gaza, además del fin del bloqueo impuesto por Estados Unidos y la liberación de los fondos iraníes co.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán",
-      "summary": "El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Ibex sondea nuevos récords",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:14:20.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

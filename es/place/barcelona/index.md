@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Cataluña se rinde al eclipse total: “Ya se ve, mamá”](https://elpais.com/espana/catalunya/2026-08-12/cataluna-se-rinde-al-eclipse-total-ya-se-ve-mama.html?utm_source=lootura.com) — 2026-08-12T19:28:17.000Z
-- [AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo](https://okdiario.com/cataluna/aemet-advierte-cielo-despejado-en-barcelona-pero-nubosidad-y-tormentas-en-el-prepirineo-19172759?utm_source=lootura.com) — 2026-08-13T05:27:27.000Z
+No public source links.

@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
-    {
-      "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
-      "summary": "In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.",
-      "date": "2026-08-12"
-    },
     {
       "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
       "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
@@ -64,6 +59,11 @@
       "title": "Product availability changed in Europe",
       "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
       "date": "2026-08-12"
+    },
+    {
+      "title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump",
+      "summary": "Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.",
+      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -78,13 +78,7 @@
       "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:37:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T08:43:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

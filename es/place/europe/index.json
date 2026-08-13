@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/europe/index.json",
   "description": "Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027",
+      "summary": "El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras un periodo de evaluación técnica donde la candidatura de la capital quedó descartada, la BNT y la Unión Europea de Radiodifusión han formalizado la designación de Burgas como la ciudad encargada de albergar la 71.ª edición del Festival de Eu.",
+      "date": "2026-08-13"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.",
@@ -45,6 +50,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027",
+      "url": "https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:50:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

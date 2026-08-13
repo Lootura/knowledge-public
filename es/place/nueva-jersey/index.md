@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [De comprar el Mundial a dueño de los Lakers: Joshua Kushner se pasa a la NBA tras poner en jaque a Infantino](https://okdiario.com/deportes/comprar-mundial-dueno-lakers-joshua-kushner-pasa-nba-poner-jaque-infantino-19172351?utm_source=lootura.com) — 2026-08-13T05:30:05.000Z
+No public source links.

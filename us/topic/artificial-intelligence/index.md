@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Agentic profiles for effective AI governance
 
 Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.
+
+Date: 2026-08-13
+
+### Teaching AI the biology of antibodies speeds drug discovery
+
+Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but only a tiny fraction will recognize and bind tightly to the disease target. Identifying those rare candidates has long been one of the biggest.
 
 Date: 2026-08-13
 
@@ -62,13 +68,7 @@ Anthropic has pledged to start marking Claude-generated text and images with mac
 
 Date: 2026-08-11
 
-### The AI takeover of mathematics has begun
-
-Mathematician James Maynard has spent a lot of time this past year "soul searching." A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-13T01:46:41.229Z
-- [AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
+- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-13T09:09:28.958Z
+- [Teaching AI the biology of antibodies speeds drug discovery](https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html?utm_source=lootura.com) — 2026-08-13T09:00:03.000Z

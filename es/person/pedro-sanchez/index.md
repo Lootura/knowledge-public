@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -71,5 +71,3 @@ Date: 2026-08-11
 ## Fuentes
 
 - [Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que "no puede volver a ocurrir" y que "Ceuta es españolísima"](https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com) — 2026-08-12T20:49:55.000Z
-- [La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa](https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com) — 2026-08-13T01:32:29.000Z
-- [Pedro Sánchez quiere ser ‘influencer’](https://theobjective.com/elsubjetivo/opinion/2026-08-13/pedro-sanchez-influencer-articulo-pilar-cernuda/?utm_source=lootura.com) — 2026-08-13T03:25:00.000Z

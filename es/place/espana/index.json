@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,16 +17,6 @@
   ],
   "changes": [
     {
-      "title": "Los siete minutos en los que España se apagó de punta a punta para que brillase la ciencia: un eclipse histórico que unió a todo un país",
-      "summary": "Siete minutos, ese es el tiempo que ha tardado la totalidad del eclipse en recorrer España de punta a punta: desde que la sombra de la Luna cubrió por completo el Sol, a las 20.26 horas en Cabo de Peñas (Asturias) y Estaca de Bares (A Coruña) hasta que abandonó el último punto del territorio español, a las 20.33 horas.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
-      "summary": "Los acreedores de España por los laudos derivados del recorte retroactivo de las primas a las energías renovables han dado por concluida la búsqueda de nuevos bienes españoles susceptibles de embargo en el extranjero tras identificar unos 400 activos. Tras años de ofensiva judicial, los fondos de litigación que represe.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
       "summary": "España es un país de pequeñas y medianas empresas. El 84% de las sociedades tienen entre 1 y 9 trabajadores y muchas veces los propietarios de estas compañías se quejan de ser el patito feo de la economía: aseguran estar asfixiados por el incremento de costes y el peso de las cargas burocráticas. Pero al menos en el úl.",
       "date": "2026-08-13"
@@ -34,11 +24,6 @@
     {
       "title": "El BBVA “sigue adelante” tras el fracaso de la opa y la acción se dispara un 60% en 10 meses",
       "summary": "Siempre es difícil seguir adelante tras un gran fracaso, incluso cuando se está entre las personas más poderosas de España. En esa situación se encontraba Carlos Torres después de que, el 16 de octubre, los accionistas del Sabadell rechazaran la opa hostil del BBVA. Un portazo a una propuesta de 19.500 millones de euro.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Lo más odiado | \"Lo de Ceuta es una cagada enorme y España, un país completamente disfuncional\"",
-      "summary": "Alberto Olmos y Rubén Arranz esperaban descansar hasta septiembre, pero la realidad supera la ficción y la actualidad les obliga a arrastrarse desde la playa hasta el estudio de El Confidencial en lo que ellos definen como 'Especial Verano'. Por primera vez \"con ganas\", hablan de la crisis migratoria en Ceuta , el ecli.",
       "date": "2026-08-13"
     },
     {
@@ -53,7 +38,7 @@
     },
     {
       "title": "Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”",
-      "summary": "Cuando los ojos de toda España no se apartaron del horizonte, los de Jesús Gil Sáez se mantuvieron mirando a la flor de luz que entra por las ventanas de la iglesia de San Juan del Hospital en Valencia. Entre los meses de abril y septiembre, cuenta, se produce un efecto visual “precioso” conforme el Sol asciende sobre.",
+      "summary": "Cuando los ojos de toda España no se apartaron del horizonte, los de Jesús Gil Sáenz se mantuvieron mirando a la flor de luz que entra por las ventanas de la iglesia de San Juan del Hospital en Valencia. Entre los meses de abril y septiembre, cuenta, se produce un efecto visual “precioso” conforme el Sol asciende sobre.",
       "date": "2026-08-13"
     },
     {
@@ -62,34 +47,49 @@
       "date": "2026-08-13"
     },
     {
-      "title": "El eclipse hechiza a España",
-      "summary": "Todas las expectativas, curiosidad e hiperventilación culminaron en lo que todos esperaban: la oscuridad absoluta. No hubo sorpresas. Durante 4 horas y 24 minutos, el eclipse recorrió la Tierra desde que emergió sobre el mar de Bering hasta que se escondió, a las 21:58 h, en el océano Atlántico. Pero bastaron apenas oc.",
+      "title": "El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes",
+      "summary": "No está concitando mucha atención con el eclipse , la invasión de Ceuta , los incendios , el ataque de Óscar Puente al Rey , los casos de corrupción o los fichajes de verano , pero el precio de la luz vuelve a estar disparado este verano, a pesar del sol de justicia que luce día tras día en toda España. Una escalada qu.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "\"Inolvidable\", \"Danza celestial\"... Las portadas se rinden al eclipse total de sol",
+      "summary": "El histórico eclipse solar alcanzó su totalidad y convirtió el día en noche en España. Las portadas de la prensa internacional se han hecho de eco de este fenómeno astronómico único que ha logrado que millones de personas miren atónitas al cielo durante unos minutos.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Juan y Medio: «Mi padre siempre nos llevaba a comer al campo, aunque fuera en una carretera»",
+      "summary": "Juan y Medio es uno de los presentadores más conocidos de la televisión en España. Su carrera y su carisma se comparan al de muy pocos, a ese selecto grupo de leyendas que han construido durante décadas la historia de la televisión en nuestro país. Una televisión que, además, se hace estando al lado de la gente, de may.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Las primeras imágenes del eclipse solar total en España: así ha oscurecido el cielo durante la totalidad",
+      "summary": "España ha vivido este miércoles 12 de agosto uno de los acontecimientos astronómicos más esperados de los últimos años. El eclipse solar total de 2026 recorrió una amplia franja del país y, alrededor de las 20:30 horas, la Luna llegó a ocultar completamente el Sol en numerosos puntos, provocando que el cielo se oscurec.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Los siete minutos en los que España se apagó de punta a punta para que brillase la ciencia: un eclipse histórico que unió a todo un país",
-      "url": "https://www.20minutos.es/nacional/los-siete-minutos-los-que-espana-se-apago-punta-punta-para-que-brillase-ciencia-un-eclipse-historico-que-unio-todo-un-pais_7025252_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T05:06:09.000Z",
+      "title": "Un truco único en pleno eclipse: las espectaculares imágenes del 'desafío' al cielo del skater Danny León",
+      "url": "https://www.20minutos.es/deportes/un-truco-unico-historia-pleno-eclipse-total-las-espectaculares-imagenes-desafio-cielo-skater-danny-leon_7025298_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:03:38.000Z",
       "sourceId": "lootura-es-20minutos"
     },
     {
-      "title": "Los acreedores de España por las renovables se preparan para cobrar la deuda tras identificar 400 bienes embargables",
-      "url": "https://cincodias.elpais.com/companias/2026-08-13/los-acreedores-de-espana-por-las-renovables-se-preparan-para-cobrar-la-deuda-tras-identificar-400-bienes-embargables.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "\"Inolvidable\", \"Danza celestial\"... Las portadas se rinden al eclipse total de sol",
+      "url": "https://www.20minutos.es/internacional/inolvidable-danza-celestial-las-portadas-se-rinden-eclipse-total-sol_7025263_1.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T06:02:58.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Juan y Medio: «Mi padre siempre nos llevaba a comer al campo, aunque fuera en una carretera»",
+      "url": "https://www.abc.es/gente/juan-medio-sobre-infancia-padre-siempre-llevaba-20260812181809-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:24:27.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Las microempresas multiplican por cinco la creación de empleo hasta julio",
       "url": "https://elpais.com/economia/2026-08-13/las-microempresas-multiplican-por-cinco-la-creacion-de-empleo-hasta-julio.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T03:45:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España",
-      "url": "https://elpais.com/economia/2026-08-12/el-sistema-electrico-y-las-telecomunicaciones-superan-sin-incidencias-el-eclipse-solar-total-en-espana.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:34:19.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -99,16 +99,22 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Lo más odiado | \"Lo de Ceuta es una cagada enorme y España, un país completamente disfuncional\"",
-      "url": "https://www.elconfidencial.com/espana/2026-08-13/lo-mas-odiado-ceuta-eclipse_4405110/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T03:00:00.000Z",
+      "title": "Las primeras imágenes del eclipse solar total en España: así ha oscurecido el cielo durante la totalidad",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/primeras-imagenes-eclipse-total_4405280/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T09:03:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "El gobierno marroquí insiste en su ambición sobre Ceuta y Melilla y Vivas responde que \"no tiene fundamento\": \"Ceuta es España\"",
-      "url": "https://www.elmundo.es/espana/2026/08/12/6a7c9b6efc6c8345618b45aa.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:28:51.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Eclipse solar de 2027: fecha, recorrido y las zonas de España donde se podrá ver como eclipse total",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/eclipse-solar-fecha-recorrido-zonas-espana-donde-ver_4404500/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:41:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Los próximos eclipses visibles desde España hasta 2030: mapas, fechas y dónde serán totales",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/proximos-eclipses-visibles-espana-mapas-fechas-donde_4404918/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:12:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "El eclipse sobrecoge a media España",
@@ -121,13 +127,7 @@
       "url": "https://elpais.com/ciencia/2026-08-13/te-has-perdido-este-eclipse-en-2027-el-proximo-le-toca-al-sur-andaluz-ceuta-y-melilla.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
-      "url": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:09:47.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 20
+  "evidenceCount": 23
 }

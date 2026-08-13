@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/asuntos-exteriores/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/asuntos-exteriores/index.json",
   "description": "Sigue la actividad de Asuntos Exteriores en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.",
@@ -50,18 +60,21 @@
       "title": "El poder de la Guardia Mora",
       "summary": "En 1978, a nuestro regreso de un viaje a China acompañando al rey Juan Carlos , el entonces ministro de Asuntos Exteriores, Marcelino Oreja, me comentó que se estaba trabajando en un proyecto respecto al futuro de Melilla. Me explicó al respecto que existía la posibilidad de llegar a un acuerdo con Marruecos para organ.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Asuntos Exteriores first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
-      "summary": "El ministro de Asuntos Exteriores, José Manuel Albares, ha asegurado este lunes que España exigirá mañana en la reunión de ministros del Interior de la UE la solidaridad de los socios europeos ante la crisis de Ceuta y ha cargado contra algunos países, como Italia, que han anunciado l a suspensión del acuerdo Schengen.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "url": "https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:28:20.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
+      "url": "https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:56:58.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

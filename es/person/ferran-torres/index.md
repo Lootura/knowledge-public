@@ -3,12 +3,12 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
 
-### El eclipse solar desde un avión de Iberia repleto de astrónomos: "Ni el gol de Ferran Torres, tú!"
+### El eclipse solar desde un avión de Iberia repleto de astrónomos: "¡Ni el gol de Ferran Torres, tú!"
 
 Contamos la experiencia del fabuloso fenómeno rodeados de científicos desde un avión a 11.000 metros. "Somos los españoles que hemos disfrutado de un eclipse de mayor duración", dice un astrónomo entusiasmado Leer.
 
@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El eclipse solar desde un avión de Iberia repleto de astrónomos: "Ni el gol de Ferran Torres, tú!"](https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html?utm_source=lootura.com) — 2026-08-12T20:58:53.000Z
+- [El eclipse solar desde un avión de Iberia repleto de astrónomos: "¡Ni el gol de Ferran Torres, tú!"](https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html?utm_source=lootura.com) — 2026-08-12T20:58:53.000Z

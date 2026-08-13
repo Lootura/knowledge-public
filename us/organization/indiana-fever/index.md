@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Indiana Fever head coach says critics trying to 'hijack' the WNBA can 'go to hell'](https://www.nbcnews.com/video/indiana-fever-head-coach-says-critics-trying-to-hijack-the-wnba-can-go-to-hell-268217925737?utm_source=lootura.com) — 2026-08-12T22:40:49.000Z
+No public source links.

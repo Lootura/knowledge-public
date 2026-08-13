@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -85,12 +85,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "Inflation cools slightly; New York City Council probes prediction markets like Kalshi and Polymarket",
-      "url": "https://www.cbsnews.com/video/inflation-cools-slightly-nyc-probes-prediction-markets-like-kalshi-and-polymarket/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:36:44.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "For Blakeman, Trump Could Make and Break His Bid to Lead New York",
       "url": "https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com",

@@ -3,10 +3,28 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Rafa Jódar se queda a las puertas de su primera final en Montreal
+
+El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.
+
+Date: 2026-08-13
+
+### Rafa Jódar pierde ante Nakashima y se queda sin jugar la final en el Masters 1000 de Montreal
+
+El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá) , a pesar de saber sufrir y salvar cuatro bolas de partido. El madrileño, llamando al Top 10 del mundo en el año de su estre.
+
+Date: 2026-08-13
+
+### Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»
+
+Penélope Cruz afirma que está mejor ahora que «cuando tenía 20 años». Y esto se debe, fundamentalmente, a que ha aprendido a cuidarse. Ahora, duerme «unas siete u ocho horas al día». «Si no estoy trabajando, trato de hacer ejercicio por la mañana. Luego desayuno con mi familia», contó, hace meses, a Elle Canadá . A pri.
+
+Date: 2026-08-13
 
 ### Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal
 
@@ -50,12 +68,8 @@ Canadá first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-18
 
-### Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles
-
-El viernes, el presidente Donald Trump responsabilizó a Canadá del humo de los incendios forestales que se propagaba por Estados Unidos y afirmó que añadiría el “costo incalculable” de hacer frente a la contaminación a los aranceles ya existentes sobre los productos canadienses. Seguir leyendo...
-
-Date: 2026-07-18
-
 ## Fuentes
 
-No public source links.
+- [Rafa Jódar se queda a las puertas de su primera final en Montreal](https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com) — 2026-08-13T08:39:33.000Z
+- [Rafa Jódar pierde ante Nakashima y se queda sin jugar la final en el Masters 1000 de Montreal](https://theobjective.com/deportes/2026-08-13/rafa-jodar-pierde-nakashima-montreal/?utm_source=lootura.com) — 2026-08-13T07:39:30.000Z
+- [Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»](https://theobjective.com/gente/2026-08-13/penelope-cruz-desayuno-huevos-tostadas-espelta-zumo-apio/?utm_source=lootura.com) — 2026-08-13T07:30:00.000Z

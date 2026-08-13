@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T09:09:25.359Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -73,19 +73,7 @@
       "url": "https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T02:07:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T08:47:50.000Z",
-      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/europe
 
 ## Cambios recientes
+
+### El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027
+
+El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras un periodo de evaluación técnica donde la candidatura de la capital quedó descartada, la BNT y la Unión Europea de Radiodifusión han formalizado la designación de Burgas como la ciudad encargada de albergar la 71.ª edición del Festival de Eu.
+
+Date: 2026-08-13
 
 ### European criticism of FIFA ruling grew
 
@@ -46,4 +52,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027](https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com) — 2026-08-13T08:50:14.000Z

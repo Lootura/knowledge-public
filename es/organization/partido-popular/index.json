@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez",
+      "summary": "Fernando Grande-Marlaska vuelve este jueves a Ceuta . Lo hace apenas unas horas después de que su silla quedara vacía en el Senado, donde el PP había reclamado su presencia en el Senado para explicar precisamente la gestión de la mayor crisis migratoria sufrida por la ciudad autónoma. La fotografía de su asiento desocu.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Moncloa desmiente que Robles vaya a comparecer en el Senado el 18 de agosto después de que la ministra haya mostrado su \"plena disposición\"",
       "summary": "El PP ha anunciado este martes en un comunicado enviado a los medios de comunicación que la ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto,...",
@@ -58,13 +63,15 @@
       "title": "Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona",
       "summary": "Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una \"orden de alejamiento\" Leer.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox",
-      "summary": "El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez",
+      "url": "https://www.larazon.es/espana/marlaska-vuelve-ceuta-ministro-todas-crisis-sanchez_202608136a7d87e7a5690f047377634a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T09:01:27.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

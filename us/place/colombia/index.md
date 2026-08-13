@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T09:09:25.359Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-08-11
 
 ## Sources
 
-- [World Central Kitchen feeds families in Colombia after devastating earthquake](https://www.cbsnews.com/video/world-central-kitchen-feeds-families-in-colombia-after-devastating-earthquake/?utm_source=lootura.com) — 2026-08-12T16:42:54.000Z
 - [Colombia earthquake death toll rises as frantic search for survivors continues](https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com) — 2026-08-13T00:22:00.000Z
 - [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z

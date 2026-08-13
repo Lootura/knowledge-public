@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T09:09:09.297Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete
+
+Dos personas han fallecido y una tercera ha resultado herida este jueves en un choque frontal entre dos turismos en el kilómetro 361 de la N-322 , a su paso por Albacete. Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla -La Mancha, el aviso del accidente se registró a las 550 horas. Las víctima.
+
+Date: 2026-08-13
 
 ### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
 
@@ -62,12 +68,6 @@ Villarrubia de Santiago , en la provincia de Toledo, conserva una de las histori
 
 Date: 2026-08-02
 
-### Prohibidas 'raves', acampar... la "preocupación" por el eclipse lleva a extremar medidas contra incendios
-
-El próximo 12 de agosto, España vivirá un momento "histórico", el primer eclipse de sol desde hace 114 años, que a última hora de la tarde dejará en penumbra durante casi dos horas en algunos casos buena parte del territorio de Galicia, Castilla y León, la Comunidad de Madrid, Aragón, Castilla-La Mancha, Cataluña, la C.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete](https://www.elconfidencial.com/espana/2026-08-13/accidente-mortal-colision-albacete-1tna-1tps_4405293/?utm_source=lootura.com) — 2026-08-13T07:01:00.000Z

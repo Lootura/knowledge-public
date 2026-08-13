@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T09:09:09.297Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La nueva IA de Elon Musk trabaja por ti: así es Grok Bot",
+      "summary": "Elon Musk quiere que Grok deje de ser únicamente una inteligencia artificial polémica a la que hacer preguntas, en el mejor de los casos. Su empresa, SpaceXAI, ha presentado Grok Bot , un nuevo servicio de agentes autónomos diseñado para realizar trabajos completos de principio a fin. Dicha herramienta acaba de estrena.",
+      "date": "2026-08-13"
+    },
     {
       "title": "¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles",
       "summary": "La información de que hace año y medio la empresa aeroespacial SpaceX reservó para estos días el parador burgalés de Lerma alimentó el rumor. ¿Estaría el magnate sudafricano en la ciudad para disfrutar del fenómeno astronómico? La provincia de Burgos está situada en la franja de mayor visibilidad y ha llamado la atenci.",
@@ -52,6 +57,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La nueva IA de Elon Musk trabaja por ti: así es Grok Bot",
+      "url": "https://www.larazon.es/tecnologia-consumo/redes-sociales/nueva-ia-elon-musk-trabaja-ti-asi-es-grok-bot_202608136a7d80ec71b42a0b5deccc20.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T08:45:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }
