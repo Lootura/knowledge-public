@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025
+
+Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their workers. Musk’s $158.
+
+Date: 2026-08-13
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025](https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers?utm_source=lootura.com) — 2026-08-13T16:31:14.000Z

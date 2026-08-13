@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T13:03:33.343Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El Ibex frena ante nuevos máximos y baja de los 20.200 puntos",
+      "summary": "La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.",
+      "date": "2026-08-13"
+    },
     {
       "title": "El Ibex sondea nuevos récords",
       "summary": "La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.",
@@ -62,26 +67,15 @@
       "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán",
       "summary": "El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "La caída de reservas anticipa un crudo a 140 dólares en otoño",
-      "summary": "El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán, una vez que se han visto las costuras a los planes del presidente de Estados Unidos,...",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "El gasóleo se dispara un 15,7% y activa la rebaja fiscal de 20 céntimos",
-      "url": "https://www.expansion.com/economia/2026/08/13/6a7d9b4a468aebdd3d8b4594.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T10:24:49.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Ibex sondea nuevos récords",
+      "title": "El Ibex frena ante nuevos máximos y baja de los 20.200 puntos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:03:40.000Z",
+      "publishedAt": "2026-08-13T16:11:42.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

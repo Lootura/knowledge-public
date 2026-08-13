@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/nico-williams/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/nico-williams/index.json",
   "description": "Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "Nicholas Williams Arthuer",
     "Williams"
@@ -40,6 +40,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Compromisarios del Athletic planean boicotear el homenaje a los campeones del mundo para reivindicar la selección vasca",
+      "url": "https://okdiario.com/deportes/compromisarios-del-athletic-planean-boicotear-homenaje-campeones-del-mundo-reivindicar-seleccion-vasca-19176750?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:15:51.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

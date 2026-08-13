@@ -70,4 +70,4 @@ Date: 2026-07-11
 
 ## Fuentes
 
-- [Galicia: marisco, empanada, pulpo y caldeiradas](https://www.abc.es/gastronomia/galicia-marisco-20260813012958-nt.html?utm_source=lootura.com) — 2026-08-13T11:41:24.000Z
+No public source links.

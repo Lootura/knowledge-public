@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [White House Press Secretary Karoline Leavitt to Step Down](https://www.today.com/video/trump-announces-press-secretary-karoline-leavitt-will-step-down-268235845977?utm_source=lootura.com) — 2026-08-13T11:29:07.000Z
-- [Watching Trump at the Patriot Games](https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html?utm_source=lootura.com) — 2026-08-12T20:40:07.000Z
+No public source links.

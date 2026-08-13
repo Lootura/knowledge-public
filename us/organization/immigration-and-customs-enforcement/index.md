@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### Latest news on ICE plan to give agents electric shock gloves
+
+U.S. Immigration and Customs Enforcement plans to equip its agents with electric-shock gloves manufactured by Compliant Technologies, according to a Department of Homeland Security notice. Critics call the gloves overly aggressive and say they have the potential for abuse. CBS News' Lesley Marin reports.
+
+Date: 2026-08-13
 
 ### ICE plans to give officers gloves that can deliver electric shocks
 
@@ -62,12 +68,6 @@ The Immigration and Customs Enforcement officer who shot and killed a Colombian 
 
 Date: 2026-07-17
 
-### Maine shooting and officer's background raise new questions about ICE's rapid hiring
-
-Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.
-
-Date: 2026-07-17
-
 ## Sources
 
-- [ICE plans to give officers gloves that can deliver electric shocks](https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com) — 2026-08-13T01:39:44.000Z
+- [Latest news on ICE plan to give agents electric shock gloves](https://www.cbsnews.com/video/ices-controversial-plan-to-agents-electric-shock-gloves/?utm_source=lootura.com) — 2026-08-13T15:42:45.000Z

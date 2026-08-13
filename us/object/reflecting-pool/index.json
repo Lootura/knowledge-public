@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
+      "summary": "President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.",
+      "date": "2026-08-13"
+    },
     {
       "title": "White House asked DOJ about new Reflecting Pool case against David Hearn",
       "summary": "Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a \"botched installation\" by a contractor, not vandalism.",
@@ -55,13 +60,15 @@
       "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office",
-      "summary": "President Trump took reporter questions on the Iran war, the renovation of the reflecting pool in Washington, D.C., and more on Monday. CBS News' Lindsey Reiser and Natalie Brand share their biggest takeaways.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
+      "url": "https://www.pbs.org/newshour/politics/reflecting-pools-botched-repairs-threaten-to-tarnish-the-national-park-services-reputation?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T14:18:28.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

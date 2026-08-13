@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T13:03:33.343Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -26,11 +26,6 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
-      "summary": "Rebordinos elogia al primer galardonado, Werner Herzog', y anuncia una edición con muchas figuras internacionales.",
-      "date": "2026-08-12"
-    },
-    {
       "title": "«Ver tiburones pasar tan cerca impresiona»",
       "summary": "Cientos de visitantes acuden cada día de verano a uno de los grandes atractivos de Donostia y el túnel bajo el agua sigue causando sensación.",
       "date": "2026-08-12"
@@ -38,6 +33,11 @@
     {
       "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
       "summary": "Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
+      "summary": "Rebordinos elogia al primer galardonado, Werner Herzog', y anuncia una edición con muchas figuras internacionales.",
       "date": "2026-08-12"
     },
     {
@@ -79,17 +79,11 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
-      "url": "https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:17:27.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
       "url": "https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:12:54.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

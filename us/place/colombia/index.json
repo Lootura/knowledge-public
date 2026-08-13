@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
     {
-      "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
-      "summary": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.",
+      "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
+      "summary": "The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.",
       "date": "2026-08-13"
     },
     {
-      "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
-      "summary": "The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.",
+      "title": "Colombia earthquake survivors are reliving a nightmare from 1999: \"You feel a sense of powerlessness\"",
+      "summary": "Colombia earthquake survivors are facing major loss and a yearslong road to recovery filled with grief and uncertainty. Here's what responders say will happen next.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
+      "summary": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.",
       "date": "2026-08-13"
     },
     {
@@ -58,18 +63,19 @@
       "title": "Search for earthquake survivors in Colombia enters critical phase",
       "summary": "In Colombia, the desperate search for survivors is entering a critical phase after the powerful earthquake that devastated parts of the country. More than 180 people are confirmed dead. But 24 hours after the quake struck, there are still remarkable moments of hope. Geoff Bennett reports.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
-      "url": "https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:22:00.000Z",
+      "title": "Search for survivors of Colombia earthquake enters \"final phase\"",
+      "url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:35:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Colombia earthquake survivors are reliving a nightmare from 1999: \"You feel a sense of powerlessness\"",
+      "url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:46:45.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

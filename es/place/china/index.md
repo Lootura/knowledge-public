@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
+
+La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
+
+Date: 2026-08-13
 
 ### Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»
 
@@ -62,12 +68,6 @@ Corrían los primeros meses de 2021. El mercado automovilístico español —y e
 
 Date: 2026-08-11
 
-### China hurga en la fractura de la Unión Europea por Ceuta
-
-Para el núcleo del poder comunista chino, la sangre derramada en el espigón ceutí se diagnostica como el abono perfecto para el fascismo continental y el certificado de defunción de la solidaridad europea. Las decenas de bolsas mortuorias apiladas en el antiguo Hospital Militar de O’Donnell representan, bajo el frío es.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z

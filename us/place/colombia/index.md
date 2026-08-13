@@ -3,20 +3,26 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
 
-### Colombia earthquake death toll rises as frantic search for survivors continues
-
-The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.
-
-Date: 2026-08-13
-
 ### Dog Rescued From Colombia Quake Offers Hope to Find Survivors
 
 The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.
+
+Date: 2026-08-13
+
+### Colombia earthquake survivors are reliving a nightmare from 1999: "You feel a sense of powerlessness"
+
+Colombia earthquake survivors are facing major loss and a yearslong road to recovery filled with grief and uncertainty. Here's what responders say will happen next.
+
+Date: 2026-08-13
+
+### Colombia earthquake death toll rises as frantic search for survivors continues
+
+The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.
 
 Date: 2026-08-13
 
@@ -62,13 +68,8 @@ In Colombia, the desperate search for survivors is entering a critical phase aft
 
 Date: 2026-08-11
 
-### Morning news brief
-
-Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Colombia earthquake death toll rises as frantic search for survivors continues](https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com) — 2026-08-13T00:22:00.000Z
+- [Search for survivors of Colombia earthquake enters "final phase"](https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase/?utm_source=lootura.com) — 2026-08-13T16:35:37.000Z
+- [Colombia earthquake survivors are reliving a nightmare from 1999: "You feel a sense of powerlessness"](https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com) — 2026-08-13T16:46:45.000Z
 - [Dog Rescued From Colombia Quake Offers Hope to Find Survivors](https://www.today.com/video/dog-rescued-from-colombia-quake-offers-hope-to-find-survivors-268238405758?utm_source=lootura.com) — 2026-08-13T11:27:30.000Z

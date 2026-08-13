@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
-    {
-      "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
-      "summary": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.",
-      "date": "2026-08-13"
-    },
     {
       "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
       "summary": "Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.",
@@ -31,6 +26,21 @@
     {
       "title": "Primary voters send mixed signals about what they want from the Democratic Party",
       "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
+      "summary": "The newly minted GOP ticket wasted no time before hammering Democrats over fraud. Dozens of people have been convicted of stealing hundreds of millions of dollars meant to provide food, shelter, healthcare and childcare to people in need.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
+      "summary": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.",
       "date": "2026-08-13"
     },
     {
@@ -52,23 +62,13 @@
       "title": "Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year",
       "summary": "Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes him the 10th House incumbent to lose a primary so far this cycle — an unusually high figure that comes as Democrats push their leaders to pass the torch to a new, more progressive generation and Republicans continue to reckon with a party reb.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Wisconsin primary provided snapshot of Democratic party – can it now win?",
-      "summary": "Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Wisconsin's Democratic showdown and more primary races to watch today",
-      "summary": "South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Democrats pressure Trump administration to rescue 10 other Americans detained in Russia",
-      "url": "https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:03:11.000Z",
+      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:17:33.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -84,17 +84,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
-      "url": "https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:22:46.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
+      "url": "https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:40:12.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
       "url": "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:48:12.000Z",
+      "publishedAt": "2026-08-13T14:03:40.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

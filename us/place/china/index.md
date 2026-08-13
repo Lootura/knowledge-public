@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Why China should reassess how it rewards young scientists
+
+Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
+
+Date: 2026-08-13
+
+### Taiwan briefly slows its mobile internet to text-only speed as part of defense drill
+
+The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan. (Image credit: Chiang Ying-ying).
+
+Date: 2026-08-13
 
 ### How China Remembers Zhu Rongji, the Premier Who Spoke His Mind
 
@@ -56,19 +68,7 @@ The storm, which made landfall on Sunday evening, is the strongest to hit China 
 
 Date: 2026-08-10
 
-### Funding milestone detected
-
-The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.
-
-Date: 2026-08-10
-
-### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
-
-The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
-
-Date: 2026-08-08
-
 ## Sources
 
-- [How China Remembers Zhu Rongji, the Premier Who Spoke His Mind](https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html?utm_source=lootura.com) — 2026-08-13T11:21:58.000Z
-- [Why the World Is Still Investing in America](https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com) — 2026-08-13T10:00:04.000Z
+- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-13T16:54:45.778Z
+- [Taiwan briefly slows its mobile internet to text-only speed as part of defense drill](https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill?utm_source=lootura.com) — 2026-08-13T13:18:43.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### El Tesoro de Estados Unidos se prepara para colocar bonos a 30 años al mayor interés en un cuarto de siglo
+
+Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en diferentes salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el merca.
+
+Date: 2026-08-13
 
 ### Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas
 
@@ -62,13 +68,7 @@ Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo l
 
 Date: 2026-08-11
 
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas](https://cincodias.elpais.com/companias/2026-08-13/pandora-sube-con-fuerza-en-bolsa-tras-superar-las-expectativas-de-beneficios-y-ventas.html?utm_source=lootura.com) — 2026-08-13T09:02:02.000Z
+- [El Tesoro de Estados Unidos se prepara para colocar bonos a 30 años al mayor interés en un cuarto de siglo](https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-tesoro-de-estados-unidos-se-prepara-para-colocar-bonos-a-30-anos-al-mayor-interes-en-un-cuarto-de-siglo.html?utm_source=lootura.com) — 2026-08-13T14:05:14.000Z
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z

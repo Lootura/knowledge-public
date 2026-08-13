@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
+
+Date: 2026-08-12
 
 ### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
 
@@ -62,12 +68,6 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-12
 
-### Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump
-
-Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
+- [Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z

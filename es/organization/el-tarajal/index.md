@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [La Guardia Civil coloca una barrera marítima en el dique sur de Melilla para reforzar la frontera](https://www.elconfidencial.com/espana/2026-08-13/barrera-maritima-melilla-frontera-1tps_4405429/?utm_source=lootura.com) — 2026-08-13T10:19:00.000Z
+No public source links.

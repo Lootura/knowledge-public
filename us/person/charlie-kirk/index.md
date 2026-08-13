@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Defense in Charlie Kirk's killing argue against death penalty, said shooter hit 'intended target'](https://www.pbs.org/newshour/nation/defense-in-charlie-kirks-killing-argue-against-death-penalty-said-shooter-hit-intended-target?utm_source=lootura.com) — 2026-08-13T00:50:47.000Z
+No public source links.

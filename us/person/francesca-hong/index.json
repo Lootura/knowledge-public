@@ -8,24 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
+    {
+      "title": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
+      "summary": "Ahead of Wisconsin’s Democratic primary for governor, a past tweet by the assemblywoman that called for the holiday to be canceled was resurfaced.",
+      "date": "2026-08-13"
+    },
     {
       "title": "How Crowley Eked Out a Win in the Wisconsin Governor Primary",
       "summary": "A shifting race and a key endorsement helped the moderate Democrat overcome his progressive challenger, Francesca Hong, voters said.",
       "date": "2026-08-12"
     },
     {
-      "title": "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
-      "summary": "Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.",
+      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
+      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
       "date": "2026-08-12"
     },
     {
-      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
-      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
+      "title": "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
+      "summary": "Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.",
       "date": "2026-08-12"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
       "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Areas to Watch in Wisconsin’s Democratic Primary for Governor",
-      "summary": "A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -78,9 +78,9 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
-      "url": "https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T15:37:00.000Z",
+      "title": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
+      "url": "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T13:28:51.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],

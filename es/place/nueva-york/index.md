@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?
+
+John Galliano en un fotograma del documental _Auge y caída de John Galliano_. Nicholas Matthews/StudioTF1 , FAL El Metropolitan Museum of Art de Nueva York anunció el pasado 31 de julio que la gran exposición de primavera de 2027 de su Costume Institute estará dedicada a John Galliano. John Galliano: Horizons recorrerá.
+
+Date: 2026-08-13
 
 ### Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas
 
@@ -62,12 +68,6 @@ La querella, en la que participan los fiscales generales de Nueva York, Arizona,
 
 Date: 2026-08-03
 
-### El Tesoro de EEUU lleva a cabo una intervención histórica
-
-El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?](https://theconversation.com/john-galliano-en-el-met-puede-el-talento-sobrevivir-al-juicio-moral-289734?utm_source=lootura.com) — 2026-08-13T15:58:57.000Z

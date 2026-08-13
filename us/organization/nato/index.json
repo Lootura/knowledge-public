@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T05:38:46.136Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Product availability changed in Europe",
       "summary": "Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.",
@@ -62,13 +67,15 @@
       "title": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports",
       "summary": "Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Ukraine denies targeting Bulgaria after drone explodes near gas pipeline",
-      "summary": "Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "url": "https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T14:46:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

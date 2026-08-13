@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
+
+La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.
+
+Date: 2026-08-13
+
+### Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes
+
+Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.
+
+Date: 2026-08-13
 
 ### AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo
 
@@ -56,18 +68,7 @@ Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados an
 
 Date: 2026-08-11
 
-### Mourinho: "Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”
-
-Iker Casillas y José Mourinh o mantuvieron durante años una relación marcada por un episodio concreto que ambos han recordado con versiones distintas en el documental de Netflix . Fue aquella llamada telefónica del portero al barcelonista Xavi Hernández se convirtió en el punto de partida de un enfrentamiento abierto d.
-
-Date: 2026-08-11
-
-### Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial
-
-Respiro para la Junta Directiva que preside Joan Laporta después de que el Barcelona se haya ahorrado en este mercado más de 40 millones de euros en masa salarial. Deco está haciendo un gran trabajo en esa parcela y el club blaugrana está viviendo en primera persona cómo el problema de los salarios altos en el club emp.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid](https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com) — 2026-08-13T13:47:49.000Z
+- [Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes](https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com) — 2026-08-13T16:15:00.000Z

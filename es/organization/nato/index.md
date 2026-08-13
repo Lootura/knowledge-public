@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
 
 ### Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales
 
@@ -62,12 +68,6 @@ Una nueva evaluación actualiza los pronósticos anteriores de que el líder rus
 
 Date: 2026-08-09
 
-### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
-
-Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo de la OTAN.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales](https://theobjective.com/espana/2026-08-13/robles-espana-otan-misiones/?utm_source=lootura.com) — 2026-08-13T11:28:36.000Z
+- [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

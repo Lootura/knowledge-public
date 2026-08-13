@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.json",
   "description": "Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -21,23 +21,23 @@
   ],
   "changes": [
     {
-      "title": "Total solar eclipse mesmerizes crowds throughout Europe",
-      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
+      "title": "Discovered by Atlas",
+      "summary": "United Kingdom first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "United Kingdom first entered the public knowledge record with source-backed evidence.",
+      "title": "Total solar eclipse mesmerizes crowds throughout Europe",
+      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Watch: Total solar eclipse mesmerizes crowds throughout Europe",
-      "url": "https://www.cbsnews.com/video/watch-total-solar-eclipse-mesmerizes-crowds-throughout-europe/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T01:54:22.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Daily fragment: World War II",
+      "url": "https://en.wikipedia.org/wiki/World_War_II?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

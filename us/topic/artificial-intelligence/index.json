@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,26 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "AI isn’t ready to research itself",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "summary": "Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the com.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Agentic profiles for effective AI governance",
       "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
@@ -56,41 +76,39 @@
       "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
       "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "A new study from Northwestern's Kellogg School of Management found that research proposals showing stronger signs of AI-assisted writing were four percentage points more likely to receive funding from the National Institutes of Health (NIH).",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains",
-      "summary": "When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of Agriculture, used a machine-learning approach to study not just which genes a bacterium has, but also.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Real-time X-ray data analysis with DONUT accelerates materials science",
-      "summary": "What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Agentic profiles for effective AI governance",
-      "url": "https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:09:28.958Z",
+      "title": "Acton teen held without bail in murders of mother, brother linked to ChatGPT",
+      "url": "https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:24:15.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:54:45.778Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Teaching AI the biology of antibodies speeds drug discovery",
-      "url": "https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:30:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T14:10:31.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

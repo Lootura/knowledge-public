@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle](https://theobjective.com/espana/politica/2026-08-13/pp-gobierno-sumiso-marruecos/?utm_source=lootura.com) — 2026-08-13T11:18:47.000Z
+No public source links.

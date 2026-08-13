@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T14:47:51.401Z",
+  "generatedAt": "2026-08-13T17:10:17.888Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|131|1786626232128",
+    "signature": "1.18.0|132|1786640081422",
     "version": "1.18.0",
-    "build": 131,
-    "latestEntityUpdatedAt": "2026-08-13T13:03:52.128Z"
+    "build": 132,
+    "latestEntityUpdatedAt": "2026-08-13T16:54:41.422Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
+      "id": "usa-iran",
+      "name": "Iran",
+      "type": "place",
       "title": "Product availability changed in Europe",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-08-13T13:03:52.128Z",
-      "score": 1712,
-      "sourceCount": 739,
+      "url": "https://atlas.lootura.com/us/place/iran",
+      "path": "/us/place/iran",
+      "updatedAt": "2026-08-13T16:54:41.422Z",
+      "score": 1676,
+      "sourceCount": 398,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-air-force-one",
-        "name": "Air Force One",
-        "type": "concept",
-        "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-        "url": "https://atlas.lootura.com/us/concept/air-force-one",
-        "path": "/us/concept/air-force-one",
-        "updatedAt": "2026-08-13T13:03:52.128Z",
-        "score": 1673,
-        "sourceCount": 34,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Product availability changed in Europe",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-13T13:03:52.128Z",
-        "score": 1661,
-        "sourceCount": 396,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "U.S. robocalls skyrocket to over 4 billion in July as consumer groups ask FCC to intervene",
+        "title": "Oklahoma carries out first of 3 executions scheduled for the same day in the U.S.",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-13T13:03:52.128Z",
-        "score": 1637,
-        "sourceCount": 738,
+        "updatedAt": "2026-08-13T16:54:41.422Z",
+        "score": 1672,
+        "sourceCount": 744,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
+        "id": "usa-immigration-and-customs-enforcement",
+        "name": "United States Immigration and Customs Enforcement",
         "type": "organization",
-        "title": "White House Press Secretary Karoline Leavitt to Step Down",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-13T13:03:52.128Z",
-        "score": 1631,
-        "sourceCount": 126,
+        "title": "Latest news on ICE plan to give agents electric shock gloves",
+        "url": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement",
+        "path": "/us/organization/immigration-and-customs-enforcement",
+        "updatedAt": "2026-08-13T16:54:41.422Z",
+        "score": 1655,
+        "sourceCount": 17,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-colombia",
+        "name": "Colombia",
+        "type": "place",
+        "title": "Colombia earthquake survivors are reliving a nightmare from 1999: \"You feel a sense of powerlessness\"",
+        "url": "https://atlas.lootura.com/us/place/colombia",
+        "path": "/us/place/colombia",
+        "updatedAt": "2026-08-13T16:54:41.422Z",
+        "score": 1647,
+        "sourceCount": 25,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-russia",
+        "name": "Russia",
+        "type": "place",
+        "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+        "url": "https://atlas.lootura.com/us/place/russia",
+        "path": "/us/place/russia",
+        "updatedAt": "2026-08-13T16:54:41.422Z",
+        "score": 1642,
+        "sourceCount": 99,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 152
+    "publicEntityCount": 153
   }
 }

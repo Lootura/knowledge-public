@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes

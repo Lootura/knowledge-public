@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid",
+      "summary": "La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes",
+      "summary": "Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.",
+      "date": "2026-08-13"
+    },
     {
       "title": "AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo",
       "summary": "Cielo poco nuboso en toda la provincia de Barcelona, aunque por la tarde se espera un aumento de nubosidad, especialmente en el Prepirineo, donde podrían registrarse chubascos y tormentas puntualmente fuertes. Las temperaturas se mantendrán elevadas, mientras un viento flojo cambiará a componente sur. Aquí tienes la pr.",
@@ -60,18 +70,21 @@
       "title": "Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos",
       "summary": "Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Mourinho: \"Les dije: 'Esto es el Barcelona-Real Madrid. Cuando vayáis a la Selección podéis daros dos besos, pero ahora no. Esto es la guerra'”",
-      "summary": "Iker Casillas y José Mourinh o mantuvieron durante años una relación marcada por un episodio concreto que ambos han recordado con versiones distintas en el documental de Netflix . Fue aquella llamada telefónica del portero al barcelonista Xavi Hernández se convirtió en el punto de partida de un enfrentamiento abierto d.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial",
-      "summary": "Respiro para la Junta Directiva que preside Joan Laporta después de que el Barcelona se haya ahorrado en este mercado más de 40 millones de euros en masa salarial. Deco está haciendo un gran trabajo en esa parcela y el club blaugrana está viviendo en primera persona cómo el problema de los salarios altos en el club emp.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid",
+      "url": "https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T13:47:49.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes",
+      "url": "https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:15:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
 }

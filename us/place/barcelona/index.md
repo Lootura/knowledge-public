@@ -3,10 +3,16 @@
 > Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/barcelona
 
 ## Recent changes
+
+### Journalism is key to combating bad practices in science
+
+Watchdog science journalism has become a fundamental tool to counter scientific malpractice, such as publication fraud, abuse and political and corporate manipulation of science. A study by the Universitat Autònoma de Barcelona (UAB) has mapped for the first time the rise of this type of journalism in Ibero-America thr.
+
+Date: 2026-08-13
 
 ### Jorge Messi, father of Argentina soccer great Lionel Messi, dies at 68
 
@@ -40,4 +46,4 @@ Date: 2026-07-18
 
 ## Sources
 
-No public source links.
+- [Journalism is key to combating bad practices in science](https://phys.org/news/2026-08-journalism-key-combating-bad-science.html?utm_source=lootura.com) — 2026-08-13T16:20:04.000Z

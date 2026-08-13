@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
+
+La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
+
+Date: 2026-08-13
+
+### Cinco días de asedio de colonos a una familia en Cisjordania
+
+“Un horrible acto de terror”. Así ha descrito la ocupación, desde hace cinco días, de dos casas palestinas por parte de colonos israelíes en la localidad de Qusra, en Cisjordania. La condena no viene de un grupo de derechos humanos o de la siempre “preocupada” Unión Europea, sino de un gran aliado de Israel, el embajad.
+
+Date: 2026-08-13
 
 ### Exteriores confirma un español fallecido en el terremoto de Colombia
 
@@ -56,18 +68,7 @@ Para el núcleo del poder comunista chino, la sangre derramada en el espigón ce
 
 Date: 2026-08-11
 
-### Marruecos compra impunidad
-
-Algunos esperaban que los ministros de Interior de la Unión Europea, reunidos el 4 de agosto, defendiesen a España de la invasión proxy de Ceuta organizada por Marruecos , exigiesen a Pedro Sánchez medidas severas y castigasen a Mohamed VI . No ha ocurrido nada de ello. Tampoco que Sánchez reaccionase contra Marruecos.
-
-Date: 2026-08-10
-
-### 'Última Milla': el proyecto piloto sostenible de la UE que ha revolucionado el comercio de Logroño
-
-35 comercios y más de 300 expediciones con recogida en tienda y reparto a domicilio. Este es el resultado que ha dejado el programa 'Última Milla' en Logroño desde su implantación a principios del mes de mayo, en el marco de Decarbomile , el plan de innovación e investigación de la Unión Europea. Este proyecto piloto b.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z
+- [Cinco días de asedio de colonos a una familia en Cisjordania](https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html?utm_source=lootura.com) — 2026-08-13T13:18:34.000Z

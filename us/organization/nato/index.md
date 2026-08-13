@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
+
+Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
+
+Date: 2026-08-13
 
 ### Product availability changed in Europe
 
@@ -62,12 +68,6 @@ Elaborate ruse was used to transport president to military flight from Air Force
 
 Date: 2026-08-11
 
-### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
-
-Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z

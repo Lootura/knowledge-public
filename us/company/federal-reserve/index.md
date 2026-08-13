@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase](https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html?utm_source=lootura.com) — 2026-08-12T14:08:32.000Z
+No public source links.

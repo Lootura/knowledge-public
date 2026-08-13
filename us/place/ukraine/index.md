@@ -3,20 +3,26 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
-### Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
-
-The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
-
-Date: 2026-08-13
-
 ### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
 
 Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
+
+Date: 2026-08-13
+
+### By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea
+
+Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).
+
+Date: 2026-08-13
+
+### Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
+
+The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
 
 Date: 2026-08-13
 
@@ -62,13 +68,7 @@ Russia's invasion of Ukraine in February 2022 had an almost immediate impact on 
 
 Date: 2026-08-10
 
-### Ukraine Drone Attack on Industrial City in Russia Kills at Least 13
-
-The strike, on an industrial center in Tatarstan, killed at least 13 people.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T12:01:26.000Z
-- [Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html?utm_source=lootura.com) — 2026-08-13T10:22:18.000Z
+- [By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea](https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com) — 2026-08-13T15:18:27.000Z
+- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T13:12:44.000Z

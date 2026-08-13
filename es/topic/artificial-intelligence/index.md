@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -59,4 +59,3 @@ Date: 2026-07-10
 ## Fuentes
 
 - [IBM y OpenAI se alían para acelerar la implantación de la IA en empresas](https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com) — 2026-08-13T12:40:12.000Z
-- [Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica](https://cincodias.elpais.com/companias/2026-08-13/anthropic-se-lanza-a-por-la-start-up-decart-por-5200-millones-su-mayor-compra-historica.html?utm_source=lootura.com) — 2026-08-13T10:54:12.000Z

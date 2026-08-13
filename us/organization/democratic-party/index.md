@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC
-
-Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.
-
-Date: 2026-08-13
 
 ### Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party
 
@@ -29,6 +23,24 @@ Date: 2026-08-13
 ### Primary voters send mixed signals about what they want from the Democratic Party
 
 Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.
+
+Date: 2026-08-13
+
+### Democratic senators demand answers about conditions aboard USS Abraham Lincoln
+
+Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.
+
+Date: 2026-08-13
+
+### Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state
+
+The newly minted GOP ticket wasted no time before hammering Democrats over fraud. Dozens of people have been convicted of stealing hundreds of millions of dollars meant to provide food, shelter, healthcare and childcare to people in need.
+
+Date: 2026-08-13
+
+### Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC
+
+Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.
 
 Date: 2026-08-13
 
@@ -56,22 +68,10 @@ Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes 
 
 Date: 2026-08-12
 
-### Wisconsin primary provided snapshot of Democratic party – can it now win?
-
-Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.
-
-Date: 2026-08-12
-
-### Wisconsin's Democratic showdown and more primary races to watch today
-
-South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
+- [Democratic senators demand answers about conditions aboard USS Abraham Lincoln](https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com) — 2026-08-13T16:17:33.000Z
 - [Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028](https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com) — 2026-08-13T08:42:12.000Z
 - [Primary voters send mixed signals about what they want from the Democratic Party](https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party?utm_source=lootura.com) — 2026-08-13T10:59:33.000Z
-- [Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC](https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com) — 2026-08-13T00:22:46.000Z
-- [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T00:48:12.000Z
+- [Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state](https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com) — 2026-08-13T16:40:12.000Z
+- [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T14:03:40.000Z

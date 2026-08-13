@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.json",
   "description": "Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "Cerdán",
     "Santos"
   ],
   "changes": [
+    {
+      "title": "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»",
+      "summary": "El primer juez que investigó la presunta 'cloaca' del PSOE , Arturo Zamarriego, apunta a que Santos Cerdán, exsecretario de Organización del PSOE, pago con fondos del partido a Leire Díez por los «servicios» llevados a cabo para desestabilizar las investigaciones judiciales que afectaban al Gobierno y a Ferraz. En un a.",
+      "date": "2026-08-13"
+    },
     {
       "title": "El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público",
       "summary": "Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.",
@@ -40,6 +45,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»",
+      "url": "https://www.abc.es/espana/juez-zamarriego-senala-cerdan-pago-fondos-psoe-20260813181817-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:34:21.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

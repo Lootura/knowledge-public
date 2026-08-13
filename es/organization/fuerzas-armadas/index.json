@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
+      "summary": "La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal",
       "summary": "El Grupo Parlamentario Vox ha registrado este viernes una proposición no de ley en el Congreso de los Diputados en la que solicita el despliegue general de las Fuerzas Armadas y las Fuerzas y Cuerpos de Seguridad del Estado para la protección del perímetro de las ciudades de Ceuta y Melilla . El texto recuerda que la c.",
@@ -58,13 +63,15 @@
       "title": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
       "summary": "El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que lucha contra la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. La.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Zelenski cesa al jefe del Ejército y lo reemplaza por el general Mijailo Drapati",
-      "summary": "El presidente de Ucrania, Volodimir Zelenski, cesó a última hora del martes como jefe del Ejército al general Oleksandr Sirski y nombró como nuevo comandante de las Fuerzas Armadas al general Mijailo Drapati, que hasta ahora dirigía las Fuerzas Conjuntas del Ejército. \"He decidido que el nuevo comandante en jefe de las.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
+      "url": "https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:23:37.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

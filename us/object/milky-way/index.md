@@ -34,4 +34,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Giant balloon gives rise to new view of the Milky Way’s centre](https://www.nature.com/articles/d41586-026-02463-y?utm_source=lootura.com) — 2026-08-13T13:03:56.005Z
+No public source links.

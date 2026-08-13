@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+      "date": "2026-08-12"
+    },
     {
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
       "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
@@ -59,16 +64,11 @@
       "title": "Product availability changed in Europe",
       "summary": "Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump",
-      "summary": "Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+      "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
       "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:37:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"

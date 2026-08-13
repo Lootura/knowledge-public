@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE
+
+El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.
+
+Date: 2026-08-13
 
 ### El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire
 
@@ -62,12 +68,6 @@ La decisión de la Audiencia Nacional de indagar en los motivos que desencadenar
 
 Date: 2026-08-06
 
-### La Audiencia Nacional pregunta a la Guardia Civil si fue alertada de la crisis migratoria en Ceuta durante los días previos
-
-La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardia Civil si recibió "alguna información en los días previos que hubiese podido alertar"...
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire](https://www.abc.es/espana/juez-zamarriego-desliza-leire-puede-afectar-personas-20260813133339-nt.html?utm_source=lootura.com) — 2026-08-13T11:33:39.000Z
+- [El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE](https://www.elmundo.es/espana/2026/08/13/6a7dde62fc6c833b388b457b.html?utm_source=lootura.com) — 2026-08-13T15:22:04.000Z

@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Reports Emerge on Mental Health Crisis on USS Abraham Lincoln
+
+About 5,000 sailors and Marines have been on the USS Abraham Lincoln for a record 250 days as they support the war with Iran. Now, there are reports that there have been multiple attempts by personnel to jump overboard, prompting worried families to voice their concerns to Navy leaders. In response, a Navy official tol.
+
+Date: 2026-08-13
+
+### Wholesale price inflation slows last month as gas and food costs fall
+
+Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead.
+
+Date: 2026-08-13
 
 ### Product availability changed in Europe
 
@@ -56,18 +68,7 @@ U.S. stocks slipped a bit further from their records Tuesday, while oil prices k
 
 Date: 2026-08-11
 
-### Product availability changed in Europe
-
-Correction: In this segment, we misstated the year Major General Qasem Soleimani was killed. We should have said 2020, as the on-screen graphic indicated. We regret the error. The News Hour has confirmed the Washington Post's reporting on extraordinary, secret security measures taken to protect President Trump. The pre.
-
-Date: 2026-08-11
-
-### Top adviser to Iran's Revolutionary Guard leader sits down for rare interview
-
-As the war with Iran continues its uneasy stalemate, we're hearing from a top adviser to the commander of Iran's Islamic Revolutionary Guard Corps, the force largely responsible for border and internal security. The IRGC rarely gives interviews, and almost never to Western media. But Mohammad Reza Naqdi sat down in Teh.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Trump says Secret Service wanted him on a "different plane," new details on switch emerge](https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/?utm_source=lootura.com) — 2026-08-13T02:07:00.000Z
+- [Reports Emerge on Mental Health Crisis on USS Abraham Lincoln](https://www.today.com/video/reports-emerge-on-mental-health-crisis-on-uss-abraham-lincoln-268239941768?utm_source=lootura.com) — 2026-08-13T12:17:32.000Z
+- [Wholesale price inflation slows last month as gas and food costs fall](https://www.pbs.org/newshour/economy/wholesale-price-inflation-slows-last-month-as-gas-and-food-costs-fall?utm_source=lootura.com) — 2026-08-13T13:15:54.000Z

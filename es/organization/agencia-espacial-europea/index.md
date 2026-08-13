@@ -52,4 +52,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Así se vio el eclipse solar del 12 de agosto desde el espacio: las imágenes de la NASA y la ESA](https://www.elconfidencial.com/espana/2026-08-13/eclipse-solar-espacio_4405419/?utm_source=lootura.com) — 2026-08-13T11:20:00.000Z
+No public source links.

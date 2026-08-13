@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Muere Víctor Coyote, músico y fundador de la banda Los Coyotes
+
+El músico y fundador de la banda Los Coyotes , Víctor Aparicio, conocido como Víctor Coyote ha muerto este jueves a los 68 años, según ha confirmado el sello discográfico en un comunicado recogido por Europa Press . «Una persona y un artista único e irrepetible, de esos seres que nunca miraban hacia atrás y siempre mir.
+
+Date: 2026-08-13
 
 ### Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%
 
@@ -62,12 +68,6 @@ Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde un
 
 Date: 2026-08-04
 
-### Discovered by Atlas
-
-Europa Press first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Muere Víctor Coyote, músico y fundador de la banda Los Coyotes](https://theobjective.com/cultura/2026-08-13/muere-victor-coyote-musico-fundador-banda-los-coyotes/?utm_source=lootura.com) — 2026-08-13T16:24:16.000Z

@@ -46,4 +46,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano](https://okdiario.com/cool/famosos/joya-mas-discreta-del-joyero-georgina-anillo-millones-alianza-lujo-que-comparte-cristiano-19170120?utm_source=lootura.com) — 2026-08-13T12:01:03.000Z
+No public source links.

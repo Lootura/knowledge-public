@@ -1,0 +1,45 @@
+{
+  "id": "es-florentino-perez",
+  "name": "Florentino Pérez",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/florentino-perez",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/florentino-perez",
+  "markdownUrl": "https://atlas.lootura.com/es/person/florentino-perez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/florentino-perez/index.json",
+  "description": "Sigue la actividad de Florentino Pérez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Florentino Pérez obtiene una plusvalía de 23 millones de euros con la venta de 295.000 acciones de ACS",
+      "summary": "El presidente de ACS, Florentino Pérez, ha ingresado una plusvalía de 23 millones de euros tras vender un paquete de acciones de la compañía que había recibido del plan de incentivos a largo plazo aprobado en 2023 . Según los registros de la Comisión Nacional del Mercado de Valores (CNMV) , se trata de 295.000 acciones.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Florentino Pérez gana 23 millones al vender acciones del plan de incentivos de ACS",
+      "summary": "El presidente de ACS, Florentino Pérez, ha ingresado una plusvalía de 23 millones de euros tras vender un paquete de acciones de la compañía que había recibido del plan de incentivos a largo plazo aprobado en 2023. Seguir leyendo.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Florentino Pérez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Florentino Pérez obtiene una plusvalía de 23 millones de euros con la venta de 295.000 acciones de ACS",
+      "url": "https://cincodias.elpais.com/companias/2026-08-13/florentino-perez-obtiene-una-plusvalia-de-23-millones-de-euros-con-la-venta-de-295000-acciones-de-acs.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:24:31.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Florentino Pérez gana 23 millones al vender acciones del plan de incentivos de ACS",
+      "url": "https://www.expansion.com/empresas/inmobiliario/2026/08/13/6a7ddbace5fdea0c468b4594.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:06:05.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

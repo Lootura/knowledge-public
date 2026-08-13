@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta
+
+El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.
+
+Date: 2026-08-13
 
 ### Vox alienta una causa por "traición" contra Sánchez y se abre a colaborar con otros partidos por Marruecos
 
@@ -62,12 +68,6 @@ El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de come
 
 Date: 2026-08-04
 
-### Abascal pide "militarizar permanentemente la frontera" de Ceuta ante la "invasión" de la que culpa a Marruecos y Sánchez
-
-El presidente de Vox , Santiago Abascal , ha pedido este domingo "militarizar permanentemente la frontera" de Ceuta "hasta que sea necesario". El líder de la formación verde ha culpado a Marruecos de promover una "invasión" y un "acto de guerra tolerado y permitido por Pedro Sánchez". "¿Por qué Marruecos se ha atrevido.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta](https://theobjective.com/espana/politica/2026-08-13/abascal-acusa-inmigrantes-sanchez-provocar-terror-sexual-ceuta/?amp=&utm_source=lootura.com) — 2026-08-13T16:51:10.000Z

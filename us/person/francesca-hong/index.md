@@ -3,10 +3,16 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
+
+### How Thanksgiving Became Political: Francesca Hong’s Tweets Explained
+
+Ahead of Wisconsin’s Democratic primary for governor, a past tweet by the assemblywoman that called for the holiday to be canceled was resurfaced.
+
+Date: 2026-08-13
 
 ### How Crowley Eked Out a Win in the Wisconsin Governor Primary
 
@@ -14,15 +20,15 @@ A shifting race and a key endorsement helped the moderate Democrat overcome his 
 
 Date: 2026-08-12
 
-### Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement
-
-Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
-
-Date: 2026-08-12
-
 ### Why Were Polls So Wrong in the Wisconsin Governor’s Race?
 
 Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?
+
+Date: 2026-08-12
+
+### Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement
+
+Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
 
 Date: 2026-08-12
 
@@ -62,14 +68,8 @@ Francesca Hong, the democratic socialist running in Wisconsin’s Democratic pri
 
 Date: 2026-08-12
 
-### Areas to Watch in Wisconsin’s Democratic Primary for Governor
-
-A race between Francesca Hong and David Crowley could highlight the fault lines between Madison and Milwaukee.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Why Were Polls So Wrong in the Wisconsin Governor’s Race?](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com) — 2026-08-12T22:51:15.000Z
 - [How Crowley Eked Out a Win in the Wisconsin Governor Primary](https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html?utm_source=lootura.com) — 2026-08-12T22:03:17.000Z
-- [Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement](https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html?utm_source=lootura.com) — 2026-08-12T15:37:00.000Z
+- [How Thanksgiving Became Political: Francesca Hong’s Tweets Explained](https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com) — 2026-08-13T13:28:51.000Z

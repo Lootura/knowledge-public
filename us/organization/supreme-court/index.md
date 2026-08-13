@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions
+
+Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.
+
+Date: 2026-08-13
 
 ### Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows
 
@@ -62,12 +68,6 @@ Companies receiving billions in refunds for U.S. tariffs struck down by the Supr
 
 Date: 2026-08-07
 
-### Trump issues new executive orders aimed at birthright citizenship
-
-The Supreme Court in June struck down President Trump's earlier executive order aimed at ending birthright citizenship.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions](https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html?utm_source=lootura.com) — 2026-08-13T14:12:38.000Z

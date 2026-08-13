@@ -3,7 +3,7 @@
 > Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/nico-williams
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Compromisarios del Athletic planean boicotear el homenaje a los campeones del mundo para reivindicar la selección vasca](https://okdiario.com/deportes/compromisarios-del-athletic-planean-boicotear-homenaje-campeones-del-mundo-reivindicar-seleccion-vasca-19176750?utm_source=lootura.com) — 2026-08-13T16:15:51.000Z

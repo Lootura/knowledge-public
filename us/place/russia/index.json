@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -21,6 +21,21 @@
       "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
       "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
       "date": "2026-08-13"
+    },
+    {
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+      "date": "2026-08-12"
     },
     {
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
@@ -51,21 +66,6 @@
       "title": "Ukrainian drone strikes deep inside Russia kill at least 13, authorities say",
       "summary": "The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Why Russia and Ukraine can't stop each other's air attacks",
-      "summary": "Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Drought and the war in Ukraine changed what families in Kenya could afford to eat",
-      "summary": "Russia's invasion of Ukraine in February 2022 had an almost immediate impact on global energy markets and the movement of food around the world. During the first year of the conflict, international crude oil and natural gas prices rose sharply. Disruptions to exports of wheat, maize, sunflower oil and fertilizers from.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "summary": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -76,7 +76,19 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:18:27.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "url": "https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T14:46:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
       "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:37:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
@@ -84,9 +96,9 @@
     {
       "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
       "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:01:26.000Z",
+      "publishedAt": "2026-08-13T13:12:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [For Blakeman, Trump Could Make and Break His Bid to Lead New York](https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com) — 2026-08-12T16:24:54.000Z
 - [New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices](https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html?utm_source=lootura.com) — 2026-08-13T07:00:07.000Z
-- [Why the World Is Still Investing in America](https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com) — 2026-08-13T10:00:04.000Z

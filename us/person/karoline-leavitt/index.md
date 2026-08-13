@@ -46,4 +46,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [White House Press Secretary Karoline Leavitt to Step Down](https://www.today.com/video/trump-announces-press-secretary-karoline-leavitt-will-step-down-268235845977?utm_source=lootura.com) — 2026-08-13T11:29:07.000Z
+No public source links.

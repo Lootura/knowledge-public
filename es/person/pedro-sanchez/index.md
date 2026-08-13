@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
 
 Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+
+Date: 2026-08-13
+
+### Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)
+
+El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.
+
+Date: 2026-08-13
+
+### Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja
+
+Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.
+
+Date: 2026-08-13
+
+### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
+
+La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
+
+Date: 2026-08-13
+
+### Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta
+
+El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.
 
 Date: 2026-08-13
 
@@ -44,31 +68,10 @@ A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la ple
 
 Date: 2026-08-12
 
-### Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas
-
-Una veinteañera entra con sus padres en la joyería de José Luis Sánchez, en A Coruña, y no saldrá de allí sin un diamante, por pequeño que sea. Lo llevará en una gargantilla durante la ceremonia de graduación en la universidad. El presupuesto es ajustado, unos 1.200 euros, y las aspiraciones son modestas. Buscan una pi.
-
-Date: 2026-08-12
-
-### ¿Y si Putin tomara ejemplo de Marruecos?
-
-La entrada de más de 72.000 inmigrantes en la ciudad española de Ceuta ha sido interpretada por Sánchez y su colega el rey Mohamed VI de Marruecos como una gamberrada organizada por unos chavales jugando con las redes sociales. Sin embargo, cualquiera que haya visto las imágenes no tendrá la menor duda de que se trata.
-
-Date: 2026-08-12
-
-### Manual de dimisión
-
-Las respuestas a los mensajitos de Sánchez de libros recomendados: "Le aconsejo leer cómo se marcha y convoca elecciones".
-
-Date: 2026-08-12
-
-### Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite
-
-Pedro Sánchez descansa en La Mareta rodeado de un importante dispositivo de seguridad . La crisis de Ceuta y la creciente preocupación por la protección del presidente han convertido este verano la Residencia Real de Lanzarote en algo más que el lugar elegido por el jefe del Ejecutivo para pasar sus vacaciones junto a.
-
-Date: 2026-08-12
-
 ## Fuentes
 
+- [Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)](https://www.abc.es/espana/aragon/prision-dos-detenidos-crimen-matrimonio-tauste-zaragoza-20260813180129-nt.html?utm_source=lootura.com) — 2026-08-13T16:01:29.000Z
+- [Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja](https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com) — 2026-08-13T15:55:24.000Z
 - [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
-- [Los «parches» económicos de Sánchez ocultan una inflación real que ya supera el 4,1%](https://okdiario.com/economia/cuentas-publicas/parches-economicos-sanchez-ocultan-inflacion-real-que-ya-supera-41-19174486?utm_source=lootura.com) — 2026-08-13T12:03:44.000Z
+- [Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP](https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com) — 2026-08-13T12:16:46.000Z
+- [Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta](https://theobjective.com/espana/politica/2026-08-13/abascal-acusa-inmigrantes-sanchez-provocar-terror-sexual-ceuta/?amp=&utm_source=lootura.com) — 2026-08-13T16:51:10.000Z

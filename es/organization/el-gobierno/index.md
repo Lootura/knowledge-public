@@ -2,8 +2,8 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Type: person
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -17,6 +17,24 @@ Date: 2026-08-13
 ### El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible
 
 El descuento iba a bajar a 5 céntimos el próximo mes, pero el precio del diésel activó la cláusula de salvaguarda del Plan de Respuesta Leer.
+
+Date: 2026-08-13
+
+### El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"
+
+Todos los miembros del Gobierno han sido, en las últimas dos semanas, muy cautos en sus palabras para desvincular la avalancha en Ceuta del pasado 30 de julio de las políticas...
+
+Date: 2026-08-13
+
+### Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta
+
+En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.
+
+Date: 2026-08-13
+
+### A partir del 28 de agosto los jubilados van a cobrar un complemento del 25% de su pensión
+
+El Gobierno confirma un complemento del 25% en la pensión de los jubilados a partir del 28 de agosto. Consulta quiénes lo cobrarán y cómo.
 
 Date: 2026-08-13
 
@@ -50,25 +68,11 @@ Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de 
 
 Date: 2026-08-12
 
-### El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta
-
-La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para eclipsar la propia actualidad que les concierne y a la que deben responder dando soluciones. Hasta tres ministros se han desplazado hasta el Osbervatorio Astronómico de Yebes (Guadalajara), prop.
-
-Date: 2026-08-12
-
-### El Gobierno reniega ahora de la "acogida" a los migrantes y promete mano dura a Europa
-
-"Si soy presidente del Gobierno convertiré a España, como ya lo son otros estados europeos, en un país de acogida", prometió el hoy jefe del Ejecutivo, Pedro...
-
-Date: 2026-08-11
-
-### La previsión de Euskalmet para el eclipse: cielos despejados para una «buena visibilidad» y aviso amarillo por altas temperaturas
-
-El Gobierno vasco declarará el LABI en fase de alerta a partir de las tres de la tarde.
-
-Date: 2026-08-11
-
 ## Fuentes
 
+- [Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad tras la crisis migratoria en Ceuta](https://www.20minutos.es/internacional/italia-mantendra-controles-con-espana-hasta-descartar-totalmente-riesgos-seguridad_7025512_0.html?utm_source=lootura.com) — 2026-08-13T14:21:21.000Z
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
 - [El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible](https://www.elmundo.es/economia/2026/08/13/6a7d755cfdddff80788b457f.html?utm_source=lootura.com) — 2026-08-13T07:48:27.000Z
+- [El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"](https://amp.elmundo.es/espana/2026/08/13/6a7db93321efa0013c8b4594.html?utm_source=lootura.com) — 2026-08-13T13:15:03.000Z
+- [Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta](https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com) — 2026-08-13T14:12:15.000Z
+- [A partir del 28 de agosto los jubilados van a cobrar un complemento del 25% de su pensión](https://okdiario.com/economia/gobierno-confirma-partir-del-28-agosto-jubilados-van-cobrar-complemento-del-25-pension-19162926/amp?utm_source=lootura.com) — 2026-08-13T16:44:15.000Z

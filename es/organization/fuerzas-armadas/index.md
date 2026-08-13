@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
 
 ### Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal
 
@@ -62,12 +68,6 @@ El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del mar
 
 Date: 2026-07-21
 
-### Zelenski cesa al jefe del Ejército y lo reemplaza por el general Mijailo Drapati
-
-El presidente de Ucrania, Volodimir Zelenski, cesó a última hora del martes como jefe del Ejército al general Oleksandr Sirski y nombró como nuevo comandante de las Fuerzas Armadas al general Mijailo Drapati, que hasta ahora dirigía las Fuerzas Conjuntas del Ejército. "He decidido que el nuevo comandante en jefe de las.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

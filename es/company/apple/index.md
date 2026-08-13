@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### ¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país
+
+El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.
+
+Date: 2026-08-13
 
 ### Xiaomi muestra por sorpresa su próximo móvil: que tiemblen Apple y Samsung con sus plegables
 
@@ -62,12 +68,6 @@ Equiparse con el reloj inteligente más potente, resistente y avanzado del ecosi
 
 Date: 2026-08-09
 
-### Qué es «Copiar a Windows», la nueva función que llegará al iPhone solo para Europa
-
-Apple está trabajando en una nueva función del iPhone llamada "Copiar a Windows" , que podría estar disponible el próximo año. Como te habrás dado cuenta por su nombre, se trata de una característica pensada para compartir el portapapeles de un móvil con iOS directamente con un PC con el sistema operativo de Microsoft,.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país](https://hipertextual.com/apple/iphone-ultra-podria-lanzarse-solo-en-estados-unidos/?utm_source=lootura.com) — 2026-08-13T15:05:00.000Z

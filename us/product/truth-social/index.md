@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Trump sued over service selling faster access to Truth Social posts](https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit?utm_source=lootura.com) — 2026-08-12T20:33:10.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -13,6 +13,24 @@
 Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
 
 Date: 2026-08-13
+
+### By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea
+
+Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).
+
+Date: 2026-08-13
+
+### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
+
+Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
+
+Date: 2026-08-13
+
+### Product availability changed in Europe
+
+President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
+
+Date: 2026-08-12
 
 ### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
 
@@ -50,26 +68,10 @@ The death toll is one of the highest among Russian civilians in recent months, a
 
 Date: 2026-08-10
 
-### Why Russia and Ukraine can't stop each other's air attacks
-
-Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.
-
-Date: 2026-08-10
-
-### Drought and the war in Ukraine changed what families in Kenya could afford to eat
-
-Russia's invasion of Ukraine in February 2022 had an almost immediate impact on global energy markets and the movement of food around the world. During the first year of the conflict, international crude oil and natural gas prices rose sharply. Disruptions to exports of wheat, maize, sunflower oil and fertilizers from.
-
-Date: 2026-08-10
-
-### Ukraine Drone Attack on Industrial City in Russia Kills at Least 13
-
-The strike, on an industrial center in Tatarstan, killed at least 13 people.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
-- [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
-- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T12:01:26.000Z
+- [By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea](https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com) — 2026-08-13T15:18:27.000Z
+- [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z
+- [Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
+- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T13:12:44.000Z

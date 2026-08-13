@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"
+
+La Guardia Civil ha difundido un mensaje a través de sus redes sociales en español, francés y árabe con el que tratan de disuadir a las personas que estén pensando en acceder de manera irregular a España ya que, si lo hacen, han advertido, serán devueltos a su país de origen. "No te dejes engañar. Todo lo que te promet.
+
+Date: 2026-08-13
 
 ### Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse
 
@@ -62,12 +68,6 @@ Alrededor de 400 agentes de la Guardia Civil se encuentran desplegados en cerca 
 
 Date: 2026-08-09
 
-### El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...
-
-El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceuta el próximo 15 de agosto después de que tanto la Guardia Civil como el CNI diesen plena credibilidad a las convocatorias que para tal fin se están organizando en las redes sociales. Así, desde qu e el pasado 30 de julio 72.000 migrantes il.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse](https://www.elconfidencial.com/espana/2026-08-13/mujer-embalse-valdemurio-oviedo-1tna-1tps_4405492/?utm_source=lootura.com) — 2026-08-13T11:12:00.000Z
+- [El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"](https://www.20minutos.es/ceuta/aviso-guardia-civil-los-migrantes-que-intenten-entrar-ceuta-melilla-si-logras-cruzar-te-devolveran_7025557_0.html?utm_source=lootura.com) — 2026-08-13T15:53:45.000Z

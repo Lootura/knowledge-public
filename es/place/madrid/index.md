@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
+
+La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.
+
+Date: 2026-08-13
+
+### Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes
+
+Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.
+
+Date: 2026-08-13
+
+### DKV se convierte en patrocinador del Atlético de Madrid
+
+ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.
+
+Date: 2026-08-13
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
 
 ### Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados
 
@@ -44,33 +68,9 @@ Madrid se ha consolidado como destino turístico internacional. La capital recib
 
 Date: 2026-08-13
 
-### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
-
-Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.
-
-Date: 2026-08-12
-
-### Las espectaculares imágenes que deja el paso del eclipse por Europa
-
-Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
-
-Date: 2026-08-12
-
-### ¿Por qué es nulo el despido de una embarazada de baja médica que publicaba contenido promocional en redes?
-
-BearFotos/Shutterstock La protección de las trabajadoras embarazadas frente al despido ha cambiado mucho en los últimos años, especialmente en el periodo de prueba cuando, tradicionalmente, la empresa podía desistir del contrato sin alegar causa alguna. Una sentencia del Tribunal Supremo de Justicia de Madrid de 1 de j.
-
-Date: 2026-08-12
-
-### Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación
-
-Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse](https://www.abc.es/ciencia/pueblo-nueve-habitantes-espero-anos-ver-eclipse-20260812020413-nt.html?utm_source=lootura.com) — 2026-08-13T11:41:10.000Z
-- [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z
-- [Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados](https://theobjective.com/sociedad/suceso/2026-08-13/golpe-droga-23-detenidos-4-laboratorios-desmantelados/?utm_source=lootura.com) — 2026-08-13T08:25:59.000Z
-- [Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’](https://theobjective.com/gente/2026-08-13/nueva-casa-familia-pombo-adrados-comedor-toques-retro/?utm_source=lootura.com) — 2026-08-13T08:30:00.000Z
+- [Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid](https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com) — 2026-08-13T13:47:49.000Z
+- [Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes](https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com) — 2026-08-13T16:15:00.000Z
+- [DKV se convierte en patrocinador del Atlético de Madrid](https://theobjective.com/actualidad/2026-08-13/dkv-patrocinador-atletico-madrid/?utm_source=lootura.com) — 2026-08-13T15:40:50.000Z
+- [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

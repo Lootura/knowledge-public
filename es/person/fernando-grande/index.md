@@ -3,14 +3,20 @@
 > Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-grande
 
 ## Cambios recientes
 
 ### Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes
 
-El ministro del Interior, Fernando Grande-Marlaska, ha anunciado este jueves en Ceuta la llegada de una veintena de nuevos agentes de la Policía Nacional especializados en extranjería para agilizar los trámites burocráticos necesarios para proceder a la expulsión de los miles de migrantes irregulares que aún permanecen.
+El ministro del Interior, Fernando Grande-Marlaska, ha anunciado este jueves la llegada a Ceuta de una veintena de agentes de la Brigada Central de Extranjería y Fronteras de la Policía Nacional para agilizar los trámites burocráticos necesarios para expulsar a los 5.000 migrantes irregulares que, ha reconocido, aún pe.
+
+Date: 2026-08-13
+
+### Marlaska insiste en la "lealtad" de Rabat y avisa a quienes traten de llegar a Ceuta o Melilla: "Ninguno de ellos se va a regularizar"
+
+El ministro del Interior, Fernando Grande-Marlaska , ha asegurado este jueves desde Ceuta que las relaciones con Marruecos en materia de extradición "han sido siempre estrechas y basadas en la lealtad ". El ministro ha señalado que no puede "atisbar ninguna cuestión" relacionada con las recientes palabras del ministro.
 
 Date: 2026-08-13
 
@@ -62,14 +68,7 @@ Las contundentes críticas a España por la crisis de Ceuta de los primeros día
 
 Date: 2026-08-04
 
-### Interior tenía informes que alertaban del 'efecto llamada' en Ceuta pero "no cerró la puerta"
-
-El ministro del Interior, Fernando Grande-Marlaska, lleva desde el pasado viernes tratando de poner el foco sobre los servicios de inteligencia españoles en la búsqueda de...
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes](https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html?utm_source=lootura.com) — 2026-08-13T12:43:31.000Z
-- [Pitos, tensión y abucheos: así ha sido la llegada de Marlaska a una Ceuta desbordada](https://www.larazon.es/espana/pitos-tension-abucheos-asi-sido-llegada-marlaska-ceuta-desbordada_202608136a7dbb67a5690f047377bac7.html?utm_source=lootura.com) — 2026-08-13T12:41:11.000Z
-- [Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales](https://okdiario.com/espana/monumental-pitada-marlaska-visita-ceuta-desbordada-inmigrantes-ilegales-19175544?utm_source=lootura.com) — 2026-08-13T12:21:36.000Z
+- [Marlaska insiste en la "lealtad" de Rabat y avisa a quienes traten de llegar a Ceuta o Melilla: "Ninguno de ellos se va a regularizar"](https://www.20minutos.es/nacional/marlaska-no-atisba-ninguna-cuestion-acuerdo-extradicion-con-marruecos-son-relaciones-estrechas-basadas-lealtad_7025478_0.html?utm_source=lootura.com) — 2026-08-13T13:23:08.000Z
+- [Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes](https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html?utm_source=lootura.com) — 2026-08-13T13:51:16.000Z

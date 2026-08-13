@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
-      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "summary": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
       "date": "2026-08-13"
     },
     {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "summary": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
       "date": "2026-08-13"
     },
     {
@@ -61,24 +66,19 @@
       "title": "Drought and the war in Ukraine changed what families in Kenya could afford to eat",
       "summary": "Russia's invasion of Ukraine in February 2022 had an almost immediate impact on global energy markets and the movement of food around the world. During the first year of the conflict, international crude oil and natural gas prices rose sharply. Disruptions to exports of wheat, maize, sunflower oil and fertilizers from.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
-      "summary": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:01:26.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:18:27.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T10:22:18.000Z",
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T13:12:44.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

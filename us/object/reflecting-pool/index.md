@@ -3,10 +3,16 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation
+
+President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.
+
+Date: 2026-08-13
 
 ### White House asked DOJ about new Reflecting Pool case against David Hearn
 
@@ -62,12 +68,6 @@ NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter j
 
 Date: 2026-08-03
 
-### Takeaways after Trump takes questions on Iran, Reflecting Pool in Oval Office
-
-President Trump took reporter questions on the Iran war, the renovation of the reflecting pool in Washington, D.C., and more on Monday. CBS News' Lindsey Reiser and Natalie Brand share their biggest takeaways.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation](https://www.pbs.org/newshour/politics/reflecting-pools-botched-repairs-threaten-to-tarnish-the-national-park-services-reputation?utm_source=lootura.com) — 2026-08-13T14:18:28.000Z

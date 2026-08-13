@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?",
+      "summary": "John Galliano en un fotograma del documental _Auge y caída de John Galliano_. Nicholas Matthews/StudioTF1 , FAL El Metropolitan Museum of Art de Nueva York anunció el pasado 31 de julio que la gran exposición de primavera de 2027 de su Costume Institute estará dedicada a John Galliano. John Galliano: Horizons recorrerá.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
       "summary": "Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que persigue desde 2020, cuando la pandemia y el auge que esta provocó sobre el comercio online disparó su valoración empresarial hasta rozar los 100.000 millones de dólares en 2022. Tras intentarlo sin éxito en los mercados de Nueva York y Lon.",
@@ -85,13 +90,15 @@
       "title": "Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles",
       "summary": "La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "El Tesoro de EEUU lleva a cabo una intervención histórica",
-      "summary": "El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?",
+      "url": "https://theconversation.com/john-galliano-en-el-met-puede-el-talento-sobrevivir-al-juicio-moral-289734?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:58:57.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

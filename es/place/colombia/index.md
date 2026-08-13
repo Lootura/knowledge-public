@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### El Consell destina 250.000 € a Colombia para atender necesidades básicas de la población tras el terremoto
+
+La Consellería de Servicios Sociales, Igualdad e Infancia de la Generalitat Valenciana, que dirige Elena Albalat, ha destinado 250.000 euros a ayuda humanitaria urgente en Colombia para atender las necesidades básicas de la población. La ayuda se ha producido apenas tres días después del devastador terremoto del pasado.
+
+Date: 2026-08-13
 
 ### Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia
 
@@ -62,14 +68,7 @@ Al menos 250 personas han muerto y cientos han resultado heridas en Colombia por
 
 Date: 2026-08-12
 
-### Colombia, unida por la tragedia
-
-Las sobrecogedoras imágenes y las primeras estimaciones de la destrucción provocada por el terremoto de magnitud 7,4 que sacudió Colombia deben provocar la inmediata e incondicional solidaridad de la comunidad internacional. Las crecientes cifras de muertos, que en pocas horas superaban los dos centenares, son apenas e.
-
-Date: 2026-08-12
-
 ## Fuentes
 
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
-- [Claves de la destrucción sísmica en Colombia: muros sin anclaje, construcciones informales y norma incumplida](https://theconversation.com/claves-de-la-destruccion-sismica-en-colombia-muros-sin-anclaje-construcciones-informales-y-norma-incumplida-289573?utm_source=lootura.com) — 2026-08-13T11:24:05.000Z
-- [Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia](https://theobjective.com/internacional/2026-08-13/aumentan-muertos-terremoto-colombia/?amp=&utm_source=lootura.com) — 2026-08-13T08:53:11.000Z
+- [El Consell destina 250.000 € a Colombia para atender necesidades básicas de la población tras el terremoto](https://okdiario.com/comunidad-valenciana/consell-destina-250-000-colombia-atender-necesidades-basicas-poblacion-terremoto-19176401?utm_source=lootura.com) — 2026-08-13T16:02:49.000Z

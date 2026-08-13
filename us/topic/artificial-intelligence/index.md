@@ -3,10 +3,34 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI isn’t ready to research itself
+
+Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.
+
+Date: 2026-08-13
+
+### I looked inside an AI generated movie, and the best parts were all human
+
+Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc.
+
+Date: 2026-08-13
+
+### Suno is trying to look more like a real music production tool
+
+Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis.
+
+Date: 2026-08-13
+
+### Does Google even want to win at AI?
+
+Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the com.
+
+Date: 2026-08-13
 
 ### Agentic profiles for effective AI governance
 
@@ -44,31 +68,10 @@ Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tool
 
 Date: 2026-08-12
 
-### Funding milestone detected
-
-A new study from Northwestern's Kellogg School of Management found that research proposals showing stronger signs of AI-assisted writing were four percentage points more likely to receive funding from the National Institutes of Health (NIH).
-
-Date: 2026-08-11
-
-### Genetic neighborhoods distinguish harmful poultry bacteria from harmless strains
-
-When it comes to identifying harmful bacteria, it helps to look at the company their genes keep. Researchers with the Arkansas Agricultural Experiment Station, the research arm of the University of Arkansas Division of Agriculture, used a machine-learning approach to study not just which genes a bacterium has, but also.
-
-Date: 2026-08-11
-
-### Real-time X-ray data analysis with DONUT accelerates materials science
-
-What if scientists could get a taste of discovery as soon as their experiment finishes? Thanks to a new machine learning tool called DONUT, researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are transforming how experiments are run at the Advanced Photon Source (APS), a DOE Office of Scien.
-
-Date: 2026-08-11
-
-### Claude will apply invisible watermarks to AI text and images
-
-Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported," Anthropic says on a.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-13T09:09:28.958Z
-- [Teaching AI the biology of antibodies speeds drug discovery](https://phys.org/news/2026-08-ai-biology-antibodies-drug-discovery.html?utm_source=lootura.com) — 2026-08-13T09:00:03.000Z
+- [Acton teen held without bail in murders of mother, brother linked to ChatGPT](https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com) — 2026-08-13T16:24:15.000Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-13T16:54:45.778Z
+- [I looked inside an AI generated movie, and the best parts were all human](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list?utm_source=lootura.com) — 2026-08-13T15:30:00.000Z
+- [Suno is trying to look more like a real music production tool](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects?utm_source=lootura.com) — 2026-08-13T16:00:00.000Z
+- [Does Google even want to win at AI?](https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis?utm_source=lootura.com) — 2026-08-13T14:10:31.000Z

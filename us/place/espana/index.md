@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Watch: Total solar eclipse mesmerizes crowds throughout Europe](https://www.cbsnews.com/video/watch-total-solar-eclipse-mesmerizes-crowds-throughout-europe/?utm_source=lootura.com) — 2026-08-13T01:54:22.000Z
+No public source links.

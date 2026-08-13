@@ -34,4 +34,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [What to Know About Today’s U.K. Special Election: Farage vs. Binface](https://www.nytimes.com/2026/08/13/world/europe/farage-binface-uk-byelection-clacton.html?utm_source=lootura.com) — 2026-08-13T08:04:24.000Z
+No public source links.

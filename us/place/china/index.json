@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-13T16:54:41.422Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,16 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan. (Image credit: Chiang Ying-ying).",
+      "date": "2026-08-13"
+    },
     {
       "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
       "summary": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
@@ -59,30 +69,20 @@
       "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
       "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical-minerals dominance.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
-      "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T11:21:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Why China should reassess how it rewards young scientists",
+      "url": "https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:54:45.778Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Why the World Is Still Investing in America",
-      "url": "https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T10:00:04.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T13:18:43.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
   "evidenceCount": 2

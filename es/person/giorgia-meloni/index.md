@@ -3,7 +3,7 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad tras la crisis migratoria en Ceuta](https://www.20minutos.es/internacional/italia-mantendra-controles-con-espana-hasta-descartar-totalmente-riesgos-seguridad_7025512_0.html?utm_source=lootura.com) — 2026-08-13T14:21:21.000Z

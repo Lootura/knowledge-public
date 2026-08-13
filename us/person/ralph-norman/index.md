@@ -28,4 +28,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls](https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com) — 2026-08-12T21:20:05.000Z
+No public source links.

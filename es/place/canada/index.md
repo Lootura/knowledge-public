@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Del Mundial a Segunda: Del Cerro Grande pasa de un Sudáfrica – Canadá a un Real Sociedad B – Castellón](https://okdiario.com/deportes/del-mundial-segunda-del-cerro-grande-pasa-sudafrica-canada-real-sociedad-b-castellon-19174914?utm_source=lootura.com) — 2026-08-13T12:05:27.000Z
+No public source links.

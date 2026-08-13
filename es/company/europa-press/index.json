@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Muere Víctor Coyote, músico y fundador de la banda Los Coyotes",
+      "summary": "El músico y fundador de la banda Los Coyotes , Víctor Aparicio, conocido como Víctor Coyote ha muerto este jueves a los 68 años, según ha confirmado el sello discográfico en un comunicado recogido por Europa Press . «Una persona y un artista único e irrepetible, de esos seres que nunca miraban hacia atrás y siempre mir.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%",
       "summary": "El presidente de ACS, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles máximos históricos.Según consta en los registros de la Comisión Nacional del Mercado de Valores (CNMV) consultados por Europa Press, el dire.",
@@ -62,13 +67,15 @@
       "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
       "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Europa Press first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere Víctor Coyote, músico y fundador de la banda Los Coyotes",
+      "url": "https://theobjective.com/cultura/2026-08-13/muere-victor-coyote-musico-fundador-banda-los-coyotes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:24:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-03T11:19:50.232Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-porro
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-No public source links.
+- [Así fue el impresionante recibimiento a Pedro Porro en su vuelta al Tottenham](https://www.abc.es/deportes/futbol/pedro-porro-recibido-grande-vuelta-tottenham-20260813170541-nt.html?utm_source=lootura.com) — 2026-08-13T16:23:01.000Z

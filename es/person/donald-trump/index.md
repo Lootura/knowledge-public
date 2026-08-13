@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T16:54:17.045Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
+
+La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
+
+Date: 2026-08-13
 
 ### Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney
 
@@ -62,12 +68,6 @@ El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los 
 
 Date: 2026-08-11
 
-### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
-
-El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney](https://www.elcorreo.com/deportes/venden-lakers-12500-millones-dolares-empresario-relacionado-20260812182504-nt_amp.html?utm_source=lootura.com) — 2026-08-12T16:25:04.000Z
+- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z

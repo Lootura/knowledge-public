@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T13:03:33.343Z",
+  "updatedAt": "2026-08-13T16:54:17.045Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,26 @@
     {
       "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
       "summary": "Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)",
+      "summary": "El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja",
+      "summary": "Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
+      "summary": "La ministra de Defensa se pone a disposición de la Cámara Alta para acudir \"en el período ordinario de sesiones\" y excusa su ausencia el día 18 porque necesita \"más tiempo para prepararla con rigor\" y el PP responde que Sánchez ha \"enjaulado\" a quien tildó de \"pájara\" Margarita Robles se desmarca de la estrategia de Mo.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta",
+      "summary": "El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.",
       "date": "2026-08-13"
     },
     {
@@ -46,29 +66,21 @@
       "title": "¿Qué hará Sánchez sin La Mareta?",
       "summary": "A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Los diamantes ven esfumarse en tres años la mitad de su valor ante el auge de las copias sintéticas",
-      "summary": "Una veinteañera entra con sus padres en la joyería de José Luis Sánchez, en A Coruña, y no saldrá de allí sin un diamante, por pequeño que sea. Lo llevará en una gargantilla durante la ceremonia de graduación en la universidad. El presupuesto es ajustado, unos 1.200 euros, y las aspiraciones son modestas. Buscan una pi.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "¿Y si Putin tomara ejemplo de Marruecos?",
-      "summary": "La entrada de más de 72.000 inmigrantes en la ciudad española de Ceuta ha sido interpretada por Sánchez y su colega el rey Mohamed VI de Marruecos como una gamberrada organizada por unos chavales jugando con las redes sociales. Sin embargo, cualquiera que haya visto las imágenes no tendrá la menor duda de que se trata.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Manual de dimisión",
-      "summary": "Las respuestas a los mensajitos de Sánchez de libros recomendados: \"Le aconsejo leer cómo se marcha y convoca elecciones\".",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Pedro Sánchez blinda sus vacaciones en La Mareta con 120 agentes de élite",
-      "summary": "Pedro Sánchez descansa en La Mareta rodeado de un importante dispositivo de seguridad . La crisis de Ceuta y la creciente preocupación por la protección del presidente han convertido este verano la Residencia Real de Lanzarote en algo más que el lugar elegido por el jefe del Ejecutivo para pasar sus vacaciones junto a.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
+    {
+      "title": "Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)",
+      "url": "https://www.abc.es/espana/aragon/prision-dos-detenidos-crimen-matrimonio-tauste-zaragoza-20260813180129-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:01:29.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja",
+      "url": "https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T15:55:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
       "url": "https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com",
@@ -76,11 +88,17 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Los «parches» económicos de Sánchez ocultan una inflación real que ya supera el 4,1%",
-      "url": "https://okdiario.com/economia/cuentas-publicas/parches-economicos-sanchez-ocultan-inflacion-real-que-ya-supera-41-19174486?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:03:44.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
+      "url": "https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:16:46.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-13/abascal-acusa-inmigrantes-sanchez-provocar-terror-sexual-ceuta/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:51:10.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

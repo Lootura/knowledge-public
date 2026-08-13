@@ -3,7 +3,7 @@
 > Follow World War, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T16:54:41.422Z
 - Canonical: https://atlas.lootura.com/us/person/world-war
 
 ## Recent changes
@@ -23,4 +23,4 @@ Date: 2026-08-13
 ## Sources
 
 - [Daily fragment: World War II](https://en.wikipedia.org/wiki/World_War_II?utm_source=lootura.com) — 2026-08-13T04:00:00.000Z
-- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T12:01:26.000Z
+- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T13:12:44.000Z
