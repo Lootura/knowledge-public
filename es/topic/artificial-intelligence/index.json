@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -50,6 +50,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
+      "url": "https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T03:40:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
   "evidenceCount": 0
 }

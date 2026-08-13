@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
+
+A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
+
+Date: 2026-08-12
 
 ### El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto
 
@@ -17,12 +23,6 @@ Date: 2026-08-12
 ### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
 
 Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
-
-Date: 2026-08-12
-
-### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
-
-A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
 
 Date: 2026-08-12
 
@@ -70,6 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:53:16.000Z
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
-- [El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto](https://theobjective.com/internacional/2026-08-12/colombia-239-muertos-3755-heridos-terremoto/?utm_source=lootura.com) — 2026-08-12T18:06:59.000Z

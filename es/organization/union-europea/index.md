@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros
+
+Las operaciones de Shein en el mercado europeo afrontan un obstáculo que, aunque esperado, no deja de tener impacto en su negocio comunitario. Se trata de la entrada en vigor, desde el pasado 1 de julio , de la tasa de tres euros a los paquetes extracomunitarios que llegan a la Unión Europea (UE) con un valor inferior.
+
+Date: 2026-08-13
 
 ### El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles
 
@@ -62,12 +68,6 @@ El Sistema de Alerta Rápida para Alimentos y Piensos (RASFF) de la Unión Europ
 
 Date: 2026-08-08
 
-### La crisis de Ceuta pone a prueba la política fronteriza de la UE: "La cooperación no puede convertirse en dependencia"
-
-Ceuta y Melilla son los únicos territorios de la Unión Europea cuyas fronteras se encuentran en territorio africano. Esa singularidad las convierte en dos "fronteras exteriores" —es decir, con terceros países— claves en la política fronteriza del bloque comunitario. Por ello, la entrada masiva de más de 70.000 personas.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros](https://cincodias.elpais.com/companias/2026-08-13/shein-subira-los-precios-en-europa-como-respuesta-a-la-tasa-a-los-paquetes-de-menos-de-150-euros.html?utm_source=lootura.com) — 2026-08-13T03:15:00.000Z

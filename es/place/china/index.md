@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»
+
+Todas esas herramientas pueden ser necesarias, pero funcionan mejor cuando se apoyan en ciudadanos responsables.
+
+Date: 2026-08-13
+
+### Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche
+
+China ultima una enorme planta termosolar construida a más de 4.600 metros de altitud, capaz de almacenar el calor del día en sales fundidas para seguir generando electricidad durante la noche.
+
+Date: 2026-08-13
 
 ### LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo
 
@@ -56,18 +68,7 @@ Para el núcleo del poder comunista chino, la sangre derramada en el espigón ce
 
 Date: 2026-08-11
 
-### 'Top secret' y puertas abiertas: la doble vía gallega para el gigante chino de los 120.000 coches al año
-
-La Xunta impuso el máximo sigilo para garantizar la negociación con China Leer.
-
-Date: 2026-08-10
-
-### Las alertas del Ejército abren la mayor brecha a Sánchez en su apuesta por China
-
-El Gobierno defiende la llegada de la fábrica de SAIC Motor frente a los informes del Ejército sobre la "amenaza" que puede suponer Leer.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»](https://www.abc.es/recreo/significa-proverbio-filosofia-china-puerta-mejor-cerrada-20260812054500-nt_amp.html?utm_source=lootura.com) — 2026-08-13T04:48:28.000Z
+- [Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche](https://www.larazon.es/tecnologia-consumo/ciencia/casi-16000-espejos-apuntando-mismo-punto-china-remata-termosolar-alta-planeta-100-mw-sales-fundidas-dar-luz-noche_202608136a7ce0bba046ad6ebcae1f2d.html?utm_source=lootura.com) — 2026-08-13T05:30:00.000Z

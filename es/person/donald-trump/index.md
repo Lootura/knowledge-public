@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -71,5 +71,3 @@ Date: 2026-08-11
 ## Fuentes
 
 - [Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney](https://www.elcorreo.com/deportes/venden-lakers-12500-millones-dolares-empresario-relacionado-20260812182504-nt_amp.html?utm_source=lootura.com) — 2026-08-12T16:25:04.000Z
-- [Ajenos al fenómeno del siglo: las 25 personas que cambiaron el eclipse por la Feria del Libro Viejo de Santander](https://www.eldiario.es/cantabria/feria-libro-viejo-santander-contraprograma-eclipse-25-personas-fenomeno-siglo_1_13443905.html?utm_source=lootura.com) — 2026-08-12T20:27:24.000Z
-- [Donald Trump anuncia que Karoline Leavitt, su secretaria de prensa, dejará el cargo este mes](https://theobjective.com/internacional/2026-08-12/trump-karoline-leavitt-secretaria-prensa/?amp=&utm_source=lootura.com) — 2026-08-12T20:24:49.000Z

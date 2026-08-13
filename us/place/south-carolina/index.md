@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina](https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina?utm_source=lootura.com) — 2026-08-12T15:12:05.000Z
+No public source links.

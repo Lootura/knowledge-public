@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo
+
+Cielo poco nuboso en toda la provincia de Barcelona, aunque por la tarde se espera un aumento de nubosidad, especialmente en el Prepirineo, donde podrían registrarse chubascos y tormentas puntualmente fuertes. Las temperaturas se mantendrán elevadas, mientras un viento flojo cambiará a componente sur. Aquí tienes la pr.
+
+Date: 2026-08-13
 
 ### Cataluña se rinde al eclipse total: “Ya se ve, mamá”
 
@@ -62,13 +68,7 @@ Respiro para la Junta Directiva que preside Joan Laporta después de que el Barc
 
 Date: 2026-08-11
 
-### Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música
-
-El laboratorio internacional ISDIN celebrará un evento este miércoles en su espacio de Paseo de Gracia en Barcelona en el que ofrecerá la retransmisión en.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Cruceristas: cómo ver una ciudad en seis horas y no morir en el intento](https://www.abc.es/cultura/cruceristas-ver-ciudad-seis-horas-morir-intento-20260730015934-nt_amp.html?utm_source=lootura.com) — 2026-08-12T23:59:34.000Z
 - [Cataluña se rinde al eclipse total: “Ya se ve, mamá”](https://elpais.com/espana/catalunya/2026-08-12/cataluna-se-rinde-al-eclipse-total-ya-se-ve-mama.html?utm_source=lootura.com) — 2026-08-12T19:28:17.000Z
+- [AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo](https://okdiario.com/cataluna/aemet-advierte-cielo-despejado-en-barcelona-pero-nubosidad-y-tormentas-en-el-prepirineo-19172759?utm_source=lootura.com) — 2026-08-13T05:27:27.000Z

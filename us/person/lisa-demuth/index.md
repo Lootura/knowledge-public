@@ -34,4 +34,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Lisa Demuth Wins Republican Primary for Governor of Minnesota](https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html?utm_source=lootura.com) — 2026-08-12T03:32:23.000Z
+No public source links.

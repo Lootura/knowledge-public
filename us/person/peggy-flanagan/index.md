@@ -52,4 +52,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
+No public source links.

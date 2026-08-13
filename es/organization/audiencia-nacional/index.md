@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial
+
+Iberostar ha hipotecado dos hoteles para frenar la ejecución de una reclamación de Hacienda. El grupo hotelero, que ha recurrido a la Audiencia Nacional una deuda con la Agencia Tributaria por un importe de 64.487.983,88 euros por el impuesto sobre sociedades de 2016 y 2017, ha presentado una garantía hipotecaria de lo.
+
+Date: 2026-08-13
 
 ### El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra
 
@@ -62,12 +68,6 @@ La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo al
 
 Date: 2026-08-05
 
-### Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes
-
-El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-- [El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra](https://www.elmundo.es/espana/2026/08/12/6a7c64aee85ecec7668b458c.html?utm_source=lootura.com) — 2026-08-12T12:19:17.000Z
+- [Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial](https://cincodias.elpais.com/companias/2026-08-13/iberostar-hipoteca-dos-hoteles-por-un-valor-de-145-millones-para-afianzar-una-reclamacion-de-hacienda-en-plena-discusion-judicial.html?utm_source=lootura.com) — 2026-08-13T03:15:00.000Z

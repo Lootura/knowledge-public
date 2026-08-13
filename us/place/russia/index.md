@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
+
+President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
+
+Date: 2026-08-12
 
 ### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
 
@@ -62,12 +68,6 @@ Ukraine has targeted Russian oil facilities with long-range drones almost daily 
 
 Date: 2026-08-10
 
-### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
-
-The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T14:02:23.572Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerdan
 
 ## Cambios recientes
+
+### El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público
+
+Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.
+
+Date: 2026-08-13
 
 ### Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE
 
@@ -34,4 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público](https://www.elconfidencial.com/espana/2026-08-13/empresas-corrupcion-impedido-acceder-contrato-publico_4404483/?utm_source=lootura.com) — 2026-08-13T03:00:00.000Z

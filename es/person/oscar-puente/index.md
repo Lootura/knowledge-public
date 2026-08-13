@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes
+
+No está concitando mucha atención con el eclipse , la invasión de Ceuta , los incendios , el ataque de Óscar Puente al Rey , los casos de corrupción o los fichajes de verano , pero el precio de la luz vuelve a estar disparado este verano, a pesar del sol de justicia que luce día tras día en toda España. Una escalada qu.
+
+Date: 2026-08-13
 
 ### Óscar Puente y Felipe VI
 
@@ -62,12 +68,6 @@ La declaración de la emergencia nacional por la oleada de incendios en la Comun
 
 Date: 2026-07-25
 
-### Discovered by Atlas
-
-Óscar Puente first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-- [Óscar Puente y Felipe VI](https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com) — 2026-08-13T00:00:14.000Z
+- [El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes](https://theobjective.com/economia/2026-08-13/precio-luz-dispararse-sol-carburantes/?utm_source=lootura.com) — 2026-08-13T03:41:43.000Z

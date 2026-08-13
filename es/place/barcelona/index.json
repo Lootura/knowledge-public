@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo",
+      "summary": "Cielo poco nuboso en toda la provincia de Barcelona, aunque por la tarde se espera un aumento de nubosidad, especialmente en el Prepirineo, donde podrían registrarse chubascos y tormentas puntualmente fuertes. Las temperaturas se mantendrán elevadas, mientras un viento flojo cambiará a componente sur. Aquí tienes la pr.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Cataluña se rinde al eclipse total: “Ya se ve, mamá”",
       "summary": "Centenares de personas se han concentrado la tarde de este miércoles en el castillo de Montjuïc de Barcelona, pero en vez de mirar hacia la ciudad, todas sus miradas se han dirigido hacia el cielo en sentido oeste para observar cómo la luna se iba sobreponiendo poco a poco, hasta cubrirlo casi totalmente, sobre el Sol.",
@@ -65,25 +70,20 @@
       "title": "Respiro para Laporta: el Barcelona se ahorra más de 40 millones en masa salarial",
       "summary": "Respiro para la Junta Directiva que preside Joan Laporta después de que el Barcelona se haya ahorrado en este mercado más de 40 millones de euros en masa salarial. Deco está haciendo un gran trabajo en esa parcela y el club blaugrana está viviendo en primera persona cómo el problema de los salarios altos en el club emp.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
-      "summary": "El laboratorio internacional ISDIN celebrará un evento este miércoles en su espacio de Paseo de Gracia en Barcelona en el que ofrecerá la retransmisión en.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
-    {
-      "title": "Cruceristas: cómo ver una ciudad en seis horas y no morir en el intento",
-      "url": "https://www.abc.es/cultura/cruceristas-ver-ciudad-seis-horas-morir-intento-20260730015934-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T23:59:34.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Cataluña se rinde al eclipse total: “Ya se ve, mamá”",
       "url": "https://elpais.com/espana/catalunya/2026-08-12/cataluna-se-rinde-al-eclipse-total-ya-se-ve-mama.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T19:28:17.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo",
+      "url": "https://okdiario.com/cataluna/aemet-advierte-cielo-despejado-en-barcelona-pero-nubosidad-y-tormentas-en-el-prepirineo-19172759?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T05:27:27.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 2

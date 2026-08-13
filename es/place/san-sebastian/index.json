@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -41,6 +41,11 @@
       "date": "2026-08-12"
     },
     {
+      "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
+      "summary": "Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.",
+      "date": "2026-08-12"
+    },
+    {
       "title": "¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?",
       "summary": "Valora la propuesta de Phoenix Fireworks y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.",
       "date": "2026-08-11"
@@ -64,20 +69,9 @@
       "title": "Noticias de otra plaga",
       "summary": "La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: es otra plaza de San Sebastián, propicia a los niños y los ancianos como las demás, pero de cuya pavimentación no se ocupa el Ayuntamiento sino el Cantábrico . Es una playa que se recoge en torno a sí misma como si no quisiera desafiar a nadie.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
-      "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
-    {
-      "title": "Pueblos, playas, montes... España se llena por el fenómeno del año",
-      "url": "https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:23:37.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "«Ver tiburones pasar tan cerca impresiona»",
       "url": "https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com",
@@ -88,6 +82,12 @@
       "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
       "url": "https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T16:17:27.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
+      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T21:12:54.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {

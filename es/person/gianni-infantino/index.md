@@ -3,7 +3,7 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [De comprar el Mundial a dueño de los Lakers: Joshua Kushner se pasa a la NBA tras poner en jaque a Infantino](https://okdiario.com/deportes/comprar-mundial-dueno-lakers-joshua-kushner-pasa-nba-poner-jaque-infantino-19172351?utm_source=lootura.com) — 2026-08-13T05:30:05.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa
+
+Toda empresa cripto que ha salido a Bolsa ha seguido el mismo patrón: debutar cuando bitcoin tocaba máximos. Coinbase fue la primera en abril de 2021 en llevar los activos digitales a Wall Street. Pero, después de ella, muchas compañías esperaron a dar el paso: estrenarse en medio de un profundo criptoinvierno, durante.
+
+Date: 2026-08-13
 
 ### Los fondos de inversión apalancados sacuden los mercados de la IA
 
@@ -62,12 +68,6 @@ Según un reciente informe de la firma Johson Associates, se espera que las retr
 
 Date: 2026-08-05
 
-### Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA
-
-El gigante tecnológico Google anunció este miércoles una reorganización de sus equipos de Inteligencia Artificial (IA) que incluye el paso de Demis Hassabis a un cargo estratégico dentro de Google DeepMind y la salida del científico jefe Jeff Dean tras 27 años en la empresa. Seguir leyendo.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa](https://cincodias.elpais.com/criptoactivos/2026-08-13/del-furor-al-desplome-las-empresas-cripto-que-conquistaron-wall-street-pinchan-en-bolsa.html?utm_source=lootura.com) — 2026-08-13T03:25:00.000Z

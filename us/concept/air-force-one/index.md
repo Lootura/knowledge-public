@@ -3,7 +3,7 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
@@ -14,15 +14,21 @@ In response to a threat against the jet last month, the president was clandestin
 
 Date: 2026-08-12
 
-### Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff
-
-President Donald Trump downplayed the extraordinary nature of the subterfuge involved in his flight, which saw him stow away in an airport catering container to sneak onto another plane while Air Force One was sent into the sky, essentially as a decoy.
-
-Date: 2026-08-12
-
 ### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
 
 In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
+
+Date: 2026-08-12
+
+### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
+
+President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
+
+Date: 2026-08-12
+
+### Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff
+
+President Donald Trump downplayed the extraordinary nature of the subterfuge involved in his flight, which saw him stow away in an airport catering container to sneak onto another plane while Air Force One was sent into the sky, essentially as a decoy.
 
 Date: 2026-08-12
 
@@ -62,14 +68,8 @@ Ahead of a flight from Turkey, President Trump secretly left Air Force One and w
 
 Date: 2026-08-12
 
-### Rubio, Bessent and Miller Traveled on Decoy Plane From Turkey Without Trump
-
-Some of President Trump’s top officials traveled on the original Air Force One, which the president secretly disembarked.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
-- [WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff](https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff?utm_source=lootura.com) — 2026-08-12T14:29:35.000Z
+- [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
 - [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html?utm_source=lootura.com) — 2026-08-12T08:43:46.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Want to catch a glimpse of the solar eclipse from North America? Here's where and when](https://www.pbs.org/newshour/science/want-to-catch-a-glimpse-of-the-solar-eclipse-from-north-america-heres-where-and-when?utm_source=lootura.com) — 2026-08-12T13:45:18.000Z
+No public source links.

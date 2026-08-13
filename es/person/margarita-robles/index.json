@@ -67,25 +67,6 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [
-    {
-      "title": "\"Tengo mucho miedo\": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta",
-      "url": "https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T11:47:49.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Óscar Puente y Felipe VI",
-      "url": "https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:00:14.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles",
-      "url": "https://theobjective.com/espana/2026-08-12/sumario-tarde-caos-ceuta-rapapolvo-robles/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T17:50:00.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T01:46:32.208Z",
+  "updatedAt": "2026-08-13T05:38:46.136Z",
   "aliases": [
     "EU",
     "European Union"
@@ -27,6 +27,11 @@
     {
       "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
       "summary": "With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Total solar eclipse mesmerizes crowds throughout Europe",
+      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
       "date": "2026-08-13"
     },
     {
@@ -58,11 +63,6 @@
       "title": "The most dramatic meteor shower of the summer peaks the day of a solar eclipse",
       "summary": "The Perseids’ peak coincides with another highly anticipated celestial event: a total solar eclipse that will be visible in parts of Europe.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far",
-      "summary": "Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -70,6 +70,12 @@
       "title": "Europe sees first total solar eclipse in 27 years | Special Report",
       "url": "https://www.cbsnews.com/video/europe-sees-first-total-solar-eclipse-in-27-years-special-report/?utm_source=lootura.com",
       "publishedAt": "2026-08-12T20:32:57.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Watch: Total solar eclipse mesmerizes crowds throughout Europe",
+      "url": "https://www.cbsnews.com/video/watch-total-solar-eclipse-mesmerizes-crowds-throughout-europe/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T01:54:22.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -103,5 +109,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
+
+The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
+
+Date: 2026-08-13
 
 ### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
 
@@ -62,12 +68,6 @@ The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its w
 
 Date: 2026-08-09
 
-### Ukraine denies targeting Bulgaria after drone explodes near gas pipeline
-
-Since the start of Russia's full-scale invasion of Ukraine, there have been various cases of Ukrainian drones straying into NATO airspace.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html?utm_source=lootura.com) — 2026-08-13T04:01:08.000Z

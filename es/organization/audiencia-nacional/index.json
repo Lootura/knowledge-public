@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial",
+      "summary": "Iberostar ha hipotecado dos hoteles para frenar la ejecución de una reclamación de Hacienda. El grupo hotelero, que ha recurrido a la Audiencia Nacional una deuda con la Agencia Tributaria por un importe de 64.487.983,88 euros por el impuesto sobre sociedades de 2016 y 2017, ha presentado una garantía hipotecaria de lo.",
+      "date": "2026-08-13"
+    },
     {
       "title": "El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra",
       "summary": "Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras de Díez para obtener información comprometida sobre jueces, fiscales y mandos de la UCO Leer.",
@@ -65,19 +70,14 @@
       "title": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
       "summary": "La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información en los días previos a la entrada irregular y masiva de inmigrantes en Ceuta que alertase de que lo sucedido podía ocurrir. La jueza María Tardón ha dado el paso a raíz de una denuncia del partido Iustitia Europa, q.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes",
-      "summary": "El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
     {
-      "title": "El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra",
-      "url": "https://www.elmundo.es/espana/2026/08/12/6a7c64aee85ecec7668b458c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T12:19:17.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial",
+      "url": "https://cincodias.elpais.com/companias/2026-08-13/iberostar-hipoteca-dos-hoteles-por-un-valor-de-145-millones-para-afianzar-una-reclamacion-de-hacienda-en-plena-discusion-judicial.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 1

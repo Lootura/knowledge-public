@@ -3,20 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
 ### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
 
-Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
+La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.
 
-Date: 2026-08-12
+Date: 2026-08-13
+
+### Fiódor Dostoievski, histórico escritor ruso: “Colón no fue feliz al momento en que descubrió América, sino mientras la descubría”
+
+Fiódor Dostoievski (Moscú, 11 de noviembre de 1821-San Petersburgo, 9 de febrero de 1881) dejó en su día una reflexión sobre Cristóbal Colón que en los últimos tiempos vienen recogiendo muchos medios y que pone en valor el gran descubrimiento protagonizado en 1492 por el aventurero español. Además de ser el escritor má.
+
+Date: 2026-08-13
 
 ### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
 
 A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
+
+Date: 2026-08-12
+
+### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
+
+Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
 
 Date: 2026-08-12
 
@@ -56,19 +68,8 @@ La plataforma de inversión online eToro ha anunciado este martes la compra de T
 
 Date: 2026-08-11
 
-### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
-
-En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
-
-Date: 2026-08-11
-
-### Koplowitz sale de Indra tras el rally y entra en Aena y Repsol
-
-Los grandes inversores rotan sus carteras para hacer caja con sus apuestas en renta variable, en un entorno en el que los grandes índices bursátiles, tanto en Europa como en Estados Unidos, se mueven en zona de máximos. Seguir leyendo.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:53:16.000Z
+- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt.html?utm_source=lootura.com) — 2026-08-13T01:00:51.000Z
 - [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
+- [Fiódor Dostoievski, histórico escritor ruso: “Colón no fue feliz al momento en que descubrió América, sino mientras la descubría”](https://okdiario.com/curiosidades/fiodor-dostoievski-historico-escritor-ruso-colon-no-fue-feliz-momento-que-descubrio-america-sino-mientras-descubria-19167350?utm_source=lootura.com) — 2026-08-13T05:15:41.000Z

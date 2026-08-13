@@ -28,5 +28,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Mientras España lleva años preparándose, en Holanda tienen que recurrir a enfriar con agua sus puentes para que no se derrumben con el calor](https://okdiario.com/ciencia/mientras-espana-tiempo-preparandose-holanda-tienen-que-recurrir-enfriar-agua-sus-puentes-que-no-derrumben-calor-18895651/amp?utm_source=lootura.com) — 2026-08-12T22:03:05.000Z
-- [Xavi Hernández, nuevo seleccionador de Países Bajos](https://theobjective.com/deportes/futbol/2026-08-12/xavi-hernandez-seleccionador-paises-bajos/?amp=&utm_source=lootura.com) — 2026-08-12T20:56:54.000Z
+No public source links.

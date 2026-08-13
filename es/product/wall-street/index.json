@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa",
+      "summary": "Toda empresa cripto que ha salido a Bolsa ha seguido el mismo patrón: debutar cuando bitcoin tocaba máximos. Coinbase fue la primera en abril de 2021 en llevar los activos digitales a Wall Street. Pero, después de ella, muchas compañías esperaron a dar el paso: estrenarse en medio de un profundo criptoinvierno, durante.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Los fondos de inversión apalancados sacuden los mercados de la IA",
       "summary": "La historia de Wall Street está plagada de productos que acabaron siendo demasiado populares, como las hipotecas basura ( subprime) en 2008. Ahora, los fondos cotizados (ETF) apalancados parecen dispuestos a sumarse a la lista. La espectacular expansión de estos productos durante los últimos años ha acabado generando r.",
@@ -57,13 +62,15 @@
       "title": "La banca de Wall Street, lista para un impulso de los bonus",
       "summary": "Según un reciente informe de la firma Johson Associates, se espera que las retribuciones variables para la banca comercial y de inversión se incrementen entre un 10% y un 15% impulsado por unos resultados mejores de lo esperado . No se descarta que los bonus sean incluso superiores. Seguir leyendo.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Google cae un 4% en Wall Street tras reorganizar la dirección de su división de IA",
-      "summary": "El gigante tecnológico Google anunció este miércoles una reorganización de sus equipos de Inteligencia Artificial (IA) que incluye el paso de Demis Hassabis a un cargo estratégico dentro de Google DeepMind y la salida del científico jefe Jeff Dean tras 27 años en la empresa. Seguir leyendo.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa",
+      "url": "https://cincodias.elpais.com/criptoactivos/2026-08-13/del-furor-al-desplome-las-empresas-cripto-que-conquistaron-wall-street-pinchan-en-bolsa.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T03:25:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

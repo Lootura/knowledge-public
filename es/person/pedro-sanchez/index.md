@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa
 
 La crisis migratoria de Ceuta, que supuso la entrada de más de 72.000 inmigrantes, sorprendió al Gobierno con la ley orgánica de Extranjería pendiente de adecuarse a los estándares europeos. El Ejecutivo de Pedro Sánchez anunció en su plan anual normativo de este año que acometería una reforma de esta norma y que compl.
+
+Date: 2026-08-13
+
+### Pedro Sánchez quiere ser ‘influencer’
+
+El jefe de Gobierno que nos ha tocado en suerte —las urnas hacen faenas que obligan a preguntarse si los ciudadanos piensan mínimamente el sentido de su voto— se ha convertido en un personaje digno de estudio. Tendría que estar encantado de llegar a donde ha llegado… pero no le parece suficiente. Ser presidente no le l.
 
 Date: 2026-08-13
 
@@ -62,13 +68,8 @@ A lo largo de todos estos años, he venido manteniendo que para entender el comp
 
 Date: 2026-08-11
 
-### Sánchez y Ceuta: el odio y el desprecio
-
-Nunca ha dicho Pedro Sánchez que Ceuta no exista, pero todo lo sucedido desde el 30 de julio viene a probar que tal es su impresión, y probablemente ese es también su deseo. Hay motivos para ello. Nada molesta más a nuestro presidente que la aparición de problemas de los cuales surge un conflicto entre los intereses co.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que "no puede volver a ocurrir" y que "Ceuta es españolísima"](https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com) — 2026-08-12T20:49:55.000Z
 - [La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa](https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com) — 2026-08-13T01:32:29.000Z
+- [Pedro Sánchez quiere ser ‘influencer’](https://theobjective.com/elsubjetivo/opinion/2026-08-13/pedro-sanchez-influencer-articulo-pilar-cernuda/?utm_source=lootura.com) — 2026-08-13T03:25:00.000Z

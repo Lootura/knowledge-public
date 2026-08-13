@@ -3,20 +3,32 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Las espectaculares imágenes que deja el paso del eclipse por Europa
+### Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros
 
-Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
+Madrid se ha consolidado como destino turístico internacional. La capital recibió 5,6 millones de visitantes en el primer semestre de 2026 , de los que 3,3 millones (59%) fueron extranjeros . El número de personas que han pasado por la ciudad supone un incremento del 4,1% con respecto a las mismas fechas del año anteri.
 
-Date: 2026-08-12
+Date: 2026-08-13
+
+### Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»
+
+Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.
+
+Date: 2026-08-13
 
 ### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
 
 Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.
+
+Date: 2026-08-12
+
+### Las espectaculares imágenes que deja el paso del eclipse por Europa
+
+Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
 
 Date: 2026-08-12
 
@@ -56,20 +68,8 @@ El cielo sobre la Comunidad de Madrid se prepara para u no de los grandes evento
 
 Date: 2026-08-12
 
-### Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»
-
-Aunque la actriz Amaia Salamanca es madrileña, muchos de sus recuerdos de niña están ligados a Vizcaya . ya que cuando llegaba el verano y las vacaciones, cambiaba Madrid por un pueblo entre montañas en el que vivía parte de su familia. Pasó tantos veranos allí durante su infancia y juventud que aquel lugar del País Va.
-
-Date: 2026-08-12
-
-### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
-
-El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
-
-Date: 2026-08-11
-
 ## Fuentes
 
+- [Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros](https://www.elconfidencial.com/espana/madrid/2026-08-13/radiografia-del-turismo-en-madrid-predominan-los-visitantes-extranjeros-y-supone-un-15-a-nivel-nacional_4400681/?utm_source=lootura.com) — 2026-08-13T03:00:00.000Z
 - [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z
-- [¿Por qué es nulo el despido de una embarazada de baja médica que publicaba contenido promocional en redes?](https://theconversation.com/por-que-es-nulo-el-despido-de-una-embarazada-de-baja-medica-que-publicaba-contenido-promocional-en-redes-288119?utm_source=lootura.com) — 2026-08-12T21:23:39.000Z
-- [Las espectaculares imágenes que deja el paso del eclipse por Europa](https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com) — 2026-08-12T19:12:16.000Z
+- [Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»](https://theobjective.com/gente/2026-08-13/dabiz-munoz-chaval-elipa-barrio-humilde-madre-cocinaba/?amp=&utm_source=lootura.com) — 2026-08-13T05:30:00.000Z

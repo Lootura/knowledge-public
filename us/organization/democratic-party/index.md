@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -20,6 +20,12 @@ Some Democrats said the outcome showed that the moderate wing of the party carri
 
 Date: 2026-08-13
 
+### Three Questions for Democrats After an Eye-Opening Loss for Progressives
+
+Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.
+
+Date: 2026-08-12
+
 ### Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats
 
 Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.
@@ -29,12 +35,6 @@ Date: 2026-08-12
 ### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
 
 David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
-
-Date: 2026-08-12
-
-### Three Questions for Democrats After an Eye-Opening Loss for Progressives
-
-Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.
 
 Date: 2026-08-12
 
@@ -70,8 +70,6 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
-- [Wisconsin primary offers mixed signals for Democrats, and other election takeaways](https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com) — 2026-08-12T14:42:02.000Z
 - [Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC](https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com) — 2026-08-13T00:22:46.000Z
 - [Three Questions for Democrats After an Eye-Opening Loss for Progressives](https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html?utm_source=lootura.com) — 2026-08-12T18:36:52.000Z
 - [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T00:48:12.000Z

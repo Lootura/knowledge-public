@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-04T06:25:11.416Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público
+
+Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.
+
+Date: 2026-08-13
 
 ### Montero se reunió con Zapatero tres días antes del cese de Ábalos
 
@@ -62,12 +68,6 @@ El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el i
 
 Date: 2026-07-24
 
-### Más del 40% de votantes del PSOE no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle
-
-Las explicaciones ofrecidas por el expresidente José Luis Rodríguez Zapatero tras su imputación no han calado entre el electorado socialista, que en gran medida —un 45,3%— considera que el Gobierno debería dejar de apoyarle . Así lo revela la última encuesta realizada por el Instituto DYM para 20minutos , realizada ant.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público](https://www.elconfidencial.com/espana/2026-08-13/empresas-corrupcion-impedido-acceder-contrato-publico_4404483/?utm_source=lootura.com) — 2026-08-13T03:00:00.000Z

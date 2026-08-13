@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -29,6 +29,12 @@ Date: 2026-08-12
 ### «Ver tiburones pasar tan cerca impresiona»
 
 Cientos de visitantes acuden cada día de verano a uno de los grandes atractivos de Donostia y el túnel bajo el agua sigue causando sensación.
+
+Date: 2026-08-12
+
+### ¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?
+
+Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.
 
 Date: 2026-08-12
 
@@ -62,15 +68,9 @@ La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: e
 
 Date: 2026-08-09
 
-### «Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»
-
-El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Pueblos, playas, montes... España se llena por el fenómeno del año](https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html?utm_source=lootura.com) — 2026-08-13T00:23:37.000Z
 - [«Ver tiburones pasar tan cerca impresiona»](https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:11:05.000Z
 - [Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo](https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com) — 2026-08-12T16:17:27.000Z
+- [¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?](https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com) — 2026-08-12T21:12:54.000Z
 - [Así se ha vivido el eclipse en Gipuzkoa](https://www.diariovasco.com/gipuzkoa/eclipse-solar-euskadi-directo-mapa-prevision-tiempo-trafico-ultima-hora-20260812123641-di_amp.html?utm_source=lootura.com) — 2026-08-12T10:37:58.000Z

@@ -58,4 +58,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal](https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com) — 2026-08-13T00:58:15.000Z
+No public source links.

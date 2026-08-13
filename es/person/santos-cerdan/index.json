@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.json",
   "description": "Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T14:02:23.572Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "Cerdán",
     "Santos"
   ],
   "changes": [
+    {
+      "title": "El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público",
+      "summary": "Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Rechazan citar al ex ‘número dos’ de Cerdán y al exdirector de comunicación de PSOE",
       "summary": "El juez Arturo Zamarriego, que instruye la primera causa contra la exmilitante socialista Leire Díez en un juzgado de Madrid, ha vuelto a rechazar la declaración como testigos del diputado socialista Juan Francisco Serrano, ex número dos de Santos Cerdán en la Secretaría de Organización del PSOE , así como del que fuer.",
@@ -35,6 +40,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/empresas-corrupcion-impedido-acceder-contrato-publico_4404483/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

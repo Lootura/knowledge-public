@@ -3,10 +3,16 @@
 > Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/product/gran-via
 
 ## Cambios recientes
+
+### Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”
+
+Cuando los ojos de toda España no se apartaron del horizonte, los de Jesús Gil Sáez se mantuvieron mirando a la flor de luz que entra por las ventanas de la iglesia de San Juan del Hospital en Valencia. Entre los meses de abril y septiembre, cuenta, se produce un efecto visual “precioso” conforme el Sol asciende sobre.
+
+Date: 2026-08-13
 
 ### Un incendio en un restaurante obliga a cortar la Gran Vía entre Plaza de España y San Bernardo
 
@@ -40,4 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”](https://elpais.com/ciencia/2026-08-13/un-parroco-dando-misa-dependientes-en-la-gran-via-y-otros-miles-de-trabajadores-que-se-perdieron-el-eclipse-atendemos-siempre-a-quien-venga.html?utm_source=lootura.com) — 2026-08-13T03:30:01.000Z

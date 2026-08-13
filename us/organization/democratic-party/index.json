@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T01:46:32.208Z",
+  "updatedAt": "2026-08-13T05:38:46.136Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,6 +24,11 @@
       "date": "2026-08-13"
     },
     {
+      "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
+      "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
+      "date": "2026-08-12"
+    },
+    {
       "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
       "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
       "date": "2026-08-12"
@@ -31,11 +36,6 @@
     {
       "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
       "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
-      "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
       "date": "2026-08-12"
     },
     {
@@ -66,18 +66,6 @@
   ],
   "sources": [
     {
-      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
-      "url": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T15:24:43.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
-      "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T14:42:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
       "url": "https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com",
       "publishedAt": "2026-08-13T00:22:46.000Z",
@@ -96,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

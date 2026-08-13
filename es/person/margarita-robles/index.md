@@ -70,6 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- ["Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta](https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com) — 2026-08-12T11:47:49.000Z
-- [Óscar Puente y Felipe VI](https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com) — 2026-08-13T00:00:14.000Z
-- [En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles](https://theobjective.com/espana/2026-08-12/sumario-tarde-caos-ceuta-rapapolvo-robles/?utm_source=lootura.com) — 2026-08-12T17:50:00.000Z
+No public source links.

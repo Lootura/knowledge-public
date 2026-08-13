@@ -3,20 +3,26 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
 
 ### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
 
-Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
+La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.
 
-Date: 2026-08-12
+Date: 2026-08-13
 
 ### Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición
 
 La mesa aborda la reinstitucionalización del Supremo y del órgano electoral sin Machado ni González Urrutia.
+
+Date: 2026-08-12
+
+### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
+
+Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
 
 Date: 2026-08-12
 
@@ -62,13 +68,7 @@ En un comunicado conjunto, ambas partes suscribieron los principios de respeto a
 
 Date: 2026-08-07
 
-### Rubio advierte que no habrá "válvula de escape" para Cuba: "No pueden limitarse a esperar"
-
-El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "válvula de escape" a la presión de Washington para acometer cambios radicales en la isla, y que no podrá ganar tiempo esperando el fin del segundo mandato de Donald Trump porque no encontrará un nuevo "patrocinador" tras perder a Venezuela. "L.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:53:16.000Z
+- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt.html?utm_source=lootura.com) — 2026-08-13T01:00:51.000Z
 - [Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición](https://theobjective.com/internacional/2026-08-12/venezuela-primer-ciclo-dialogo-regimen-oposicion/?amp=&utm_source=lootura.com) — 2026-08-12T21:45:46.000Z

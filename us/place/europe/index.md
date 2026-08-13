@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-13
 ### Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough
 
 With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.
+
+Date: 2026-08-13
+
+### Total solar eclipse mesmerizes crowds throughout Europe
+
+On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.
 
 Date: 2026-08-13
 
@@ -62,15 +68,10 @@ The Perseids’ peak coincides with another highly anticipated celestial event: 
 
 Date: 2026-08-11
 
-### UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far
-
-Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Europe sees first total solar eclipse in 27 years | Special Report](https://www.cbsnews.com/video/europe-sees-first-total-solar-eclipse-in-27-years-special-report/?utm_source=lootura.com) — 2026-08-12T20:32:57.000Z
+- [Watch: Total solar eclipse mesmerizes crowds throughout Europe](https://www.cbsnews.com/video/watch-total-solar-eclipse-mesmerizes-crowds-throughout-europe/?utm_source=lootura.com) — 2026-08-13T01:54:22.000Z
 - [Once-in-a-lifetime total solar eclipse sweeps across Europe](https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com) — 2026-08-12T23:13:37.000Z
 - [Photos: See the best photos from the solar eclipse](https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com) — 2026-08-13T01:38:01.000Z
 - [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z

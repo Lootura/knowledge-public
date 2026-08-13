@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Las espectaculares imágenes que deja el paso del eclipse por Europa](https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com) — 2026-08-12T19:12:16.000Z
+No public source links.

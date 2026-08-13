@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,12 +38,6 @@ The Justice Department unveiled criminal charges alleging 11 people participated
 
 Date: 2026-08-12
 
-### Want to catch a glimpse of the solar eclipse from North America? Here's where and when
-
-If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.
-
-Date: 2026-08-12
-
 ### Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders
 
 Hundreds of federal judges have received threats against themselves and their families this year, according to the U.S. Marshals Service. It comes amid a litany of verbal and written attacks by President Trump and his administration on judges who have ruled against them. Justice correspondent Ali Rogin spoke with Judge.
@@ -53,6 +47,12 @@ Date: 2026-08-12
 ### Watching Trump at the Patriot Games
 
 Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
+
+Date: 2026-08-12
+
+### Want to catch a glimpse of the solar eclipse from North America? Here's where and when
+
+If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.
 
 Date: 2026-08-12
 
@@ -76,6 +76,5 @@ Date: 2026-08-12
 - [U.S. robocalls skyrocket to over 4 billion in July as consumer groups ask FCC to intervene](https://www.cbsnews.com/video/us-robocalls-skyrocket-to-over-4-billion-in-july/?utm_source=lootura.com) — 2026-08-13T00:30:56.000Z
 - [Here's how gyms, salons and ice cream are changing America's Main Streets](https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
 - [Are hacks of U.S. water facilities a new front in the Iran war?](https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
-- [Want to catch a glimpse of the solar eclipse from North America? Here's where and when](https://www.pbs.org/newshour/science/want-to-catch-a-glimpse-of-the-solar-eclipse-from-north-america-heres-where-and-when?utm_source=lootura.com) — 2026-08-12T13:45:18.000Z
 - [Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders](https://www.pbs.org/newshour/show/federal-judges-describe-violent-threats-amid-dehumanizing-attacks-from-political-leaders?utm_source=lootura.com) — 2026-08-12T22:35:38.000Z
 - [Watching Trump at the Patriot Games](https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html?utm_source=lootura.com) — 2026-08-12T20:40:07.000Z

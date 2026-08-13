@@ -3,16 +3,10 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
-
-### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
-
-David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
-
-Date: 2026-08-12
 
 ### How Crowley Eked Out a Win in the Wisconsin Governor Primary
 
@@ -29,6 +23,12 @@ Date: 2026-08-12
 ### Why Were Polls So Wrong in the Wisconsin Governor’s Race?
 
 Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?
+
+Date: 2026-08-12
+
+### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
+
+David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
 
 Date: 2026-08-12
 
@@ -70,7 +70,6 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Wisconsin primary offers mixed signals for Democrats, and other election takeaways](https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com) — 2026-08-12T14:42:02.000Z
-- [Why Were Polls So Wrong in the Wisconsin Governor’s Race?](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com) — 2026-08-12T22:51:14.000Z
+- [Why Were Polls So Wrong in the Wisconsin Governor’s Race?](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com) — 2026-08-12T22:51:15.000Z
 - [How Crowley Eked Out a Win in the Wisconsin Governor Primary](https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html?utm_source=lootura.com) — 2026-08-12T22:03:17.000Z
 - [Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement](https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html?utm_source=lootura.com) — 2026-08-12T15:37:00.000Z

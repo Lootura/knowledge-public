@@ -28,5 +28,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal](https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com) — 2026-08-13T00:58:15.000Z
-- [El saque de Nakashima martiriza a Jódar y le deja sin final en el Masters 1.000 de Montreal](https://www.larazon.es/deportes/tenis/jodarnakashima-directo-hoy-semifinales-masters-1000-montreal_202608126a7c2109a046ad6ebcacee6c.html?utm_source=lootura.com) — 2026-08-13T00:31:40.000Z
+No public source links.

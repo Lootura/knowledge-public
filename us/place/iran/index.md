@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T05:38:46.136Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran.
+
+Date: 2026-08-13
 
 ### Are hacks of U.S. water facilities a new front in the Iran war?
 
@@ -62,13 +68,8 @@ As the war with Iran continues its uneasy stalemate, we're hearing from a top ad
 
 Date: 2026-08-11
 
-### The U.S. Missile Stockpile Is Dangerously Low
-
-The United States’ war with Iran has caused a critical weaponry shortage. That leaves the U.S. military vulnerable and complicates Washington’s efforts to end the war.
-
-Date: 2026-08-11
-
 ## Sources
 
+- [Trump says Secret Service wanted him on a "different plane," new details on switch emerge](https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/?utm_source=lootura.com) — 2026-08-13T02:07:00.000Z
 - [Are hacks of U.S. water facilities a new front in the Iran war?](https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
 - [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z

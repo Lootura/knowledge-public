@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,6 +17,11 @@
   ],
   "changes": [
     {
+      "title": "De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia",
+      "summary": "A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.",
+      "date": "2026-08-12"
+    },
+    {
       "title": "El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto",
       "summary": "Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de magnitud 7,4 que sacudió a Colombia el lunes, según datos divulgados este miércoles por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Además, 287 personas permanecen desaparecidas hasta el momento como resultado del po.",
       "date": "2026-08-12"
@@ -24,11 +29,6 @@
     {
       "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
       "summary": "Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia",
-      "summary": "A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.",
       "date": "2026-08-12"
     },
     {
@@ -69,23 +69,11 @@
   ],
   "sources": [
     {
-      "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
-      "url": "https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:53:16.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia",
       "url": "https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T22:34:26.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto",
-      "url": "https://theobjective.com/internacional/2026-08-12/colombia-239-muertos-3755-heridos-terremoto/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T18:06:59.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

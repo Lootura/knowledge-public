@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T05:38:25.366Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -20,6 +20,11 @@
     {
       "title": "La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa",
       "summary": "La crisis migratoria de Ceuta, que supuso la entrada de más de 72.000 inmigrantes, sorprendió al Gobierno con la ley orgánica de Extranjería pendiente de adecuarse a los estándares europeos. El Ejecutivo de Pedro Sánchez anunció en su plan anual normativo de este año que acometería una reforma de esta norma y que compl.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Pedro Sánchez quiere ser ‘influencer’",
+      "summary": "El jefe de Gobierno que nos ha tocado en suerte —las urnas hacen faenas que obligan a preguntarse si los ciudadanos piensan mínimamente el sentido de su voto— se ha convertido en un personaje digno de estudio. Tendría que estar encantado de llegar a donde ha llegado… pero no le parece suficiente. Ser presidente no le l.",
       "date": "2026-08-13"
     },
     {
@@ -61,11 +66,6 @@
       "title": "La prehistoria del sanchismo",
       "summary": "A lo largo de todos estos años, he venido manteniendo que para entender el comportamiento de Sánchez y todo lo que en este tiempo ha sucedido, incluso para adelantarnos a sus acciones, hay que remontarse al origen, al menos desde el momento en que gana las primeras primarias. Por una parte, el Sánchez de ahora estaba y.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Sánchez y Ceuta: el odio y el desprecio",
-      "summary": "Nunca ha dicho Pedro Sánchez que Ceuta no exista, pero todo lo sucedido desde el 30 de julio viene a probar que tal es su impresión, y probablemente ese es también su deseo. Hay motivos para ello. Nada molesta más a nuestro presidente que la aparición de problemas de los cuales surge un conflicto entre los intereses co.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T01:32:29.000Z",
       "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Pedro Sánchez quiere ser ‘influencer’",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-13/pedro-sanchez-influencer-articulo-pilar-cernuda/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T01:46:32.208Z",
+  "updatedAt": "2026-08-13T05:38:46.136Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
       "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
@@ -60,14 +65,15 @@
       "title": "Top adviser to Iran's Revolutionary Guard leader sits down for rare interview",
       "summary": "As the war with Iran continues its uneasy stalemate, we're hearing from a top adviser to the commander of Iran's Islamic Revolutionary Guard Corps, the force largely responsible for border and internal security. The IRGC rarely gives interviews, and almost never to Western media. But Mohammad Reza Naqdi sat down in Teh.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "The U.S. Missile Stockpile Is Dangerously Low",
-      "summary": "The United States’ war with Iran has caused a critical weaponry shortage. That leaves the U.S. military vulnerable and complicates Washington’s efforts to end the war.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
+    {
+      "title": "Trump says Secret Service wanted him on a \"different plane,\" new details on switch emerge",
+      "url": "https://www.cbsnews.com/video/trump-says-secret-service-wanted-him-on-a-different-plane-new-details-on-switch-emerge/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T02:07:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com",
@@ -81,5 +87,5 @@
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

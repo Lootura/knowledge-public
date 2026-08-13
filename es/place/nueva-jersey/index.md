@@ -3,7 +3,7 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-13T05:38:25.366Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [De comprar el Mundial a dueño de los Lakers: Joshua Kushner se pasa a la NBA tras poner en jaque a Infantino](https://okdiario.com/deportes/comprar-mundial-dueno-lakers-joshua-kushner-pasa-nba-poner-jaque-infantino-19172351?utm_source=lootura.com) — 2026-08-13T05:30:05.000Z

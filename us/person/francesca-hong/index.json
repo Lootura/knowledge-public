@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T01:46:32.208Z",
+  "updatedAt": "2026-08-13T05:38:46.136Z",
   "aliases": [
     "Francesca"
   ],
   "changes": [
-    {
-      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
-      "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
-      "date": "2026-08-12"
-    },
     {
       "title": "How Crowley Eked Out a Win in the Wisconsin Governor Primary",
       "summary": "A shifting race and a key endorsement helped the moderate Democrat overcome his progressive challenger, Francesca Hong, voters said.",
@@ -31,6 +26,11 @@
     {
       "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
       "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
+      "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
       "date": "2026-08-12"
     },
     {
@@ -66,15 +66,9 @@
   ],
   "sources": [
     {
-      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
-      "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T14:42:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
       "url": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:51:14.000Z",
+      "publishedAt": "2026-08-12T22:51:15.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
@@ -90,5 +84,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }
