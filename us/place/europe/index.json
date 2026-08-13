@@ -8,20 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Europe sees first total solar eclipse in 27 years | Special Report",
-      "summary": "Europe on Wednesday experienced its first solar eclipse in nearly three decades. Lindsey Reiser anchored CBS News' special coverage.",
-      "date": "2026-08-12"
+      "title": "Photos: See the best photos from the solar eclipse",
+      "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).",
+      "date": "2026-08-13"
     },
     {
-      "title": "Excitement Builds Across Europe for Rare Total Solar Eclipse",
-      "summary": "Excitement is building across Europe ahead of the continent’s first total solar eclipse in more than 25 years. The sun will be completely covered by the moon for just one minute and 43 seconds, but it is long enough to attract nearly half a million tourists who will be gazing skyward. NBC’s Raf Sanchez reports for TODA.",
+      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
+      "summary": "New EU restrictions on toxic substances known as \"forever chemicals\" in food packaging kicked in Wednesday, along with broader rules aimed at cutting packaging waste in the bloc.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
+      "summary": "With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Europe sees first total solar eclipse in 27 years | Special Report",
+      "summary": "Europe on Wednesday experienced its first solar eclipse in nearly three decades. Lindsey Reiser anchored CBS News' special coverage.",
       "date": "2026-08-12"
     },
     {
@@ -30,13 +40,8 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Looking to see the solar eclipse from North America? Here's where and when to catch a sliver",
-      "summary": "Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Total solar eclipse to spellbind Europe",
-      "summary": "Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.",
+      "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
+      "summary": "The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.",
       "date": "2026-08-12"
     },
     {
@@ -58,11 +63,6 @@
       "title": "UK and France prepare for another heat wave as western Europe has its 3rd hottest year on record so far",
       "summary": "Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Europe braces for another summer heat wave",
-      "summary": "Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic lows, ignited historic forest fires and contributed to thousands of deaths.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -73,17 +73,35 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Excitement Builds Across Europe for Rare Total Solar Eclipse",
-      "url": "https://www.today.com/video/excitement-builds-in-europe-for-first-total-solar-eclipse-in-25-years-268170821964?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T11:57:43.000Z",
+      "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
+      "url": "https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T23:13:37.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Photos: See the best photos from the solar eclipse",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T01:38:01.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades",
       "url": "https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com",
       "publishedAt": "2026-08-12T19:50:17.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
+      "url": "https://phys.org/news/2026-08-eu-curbs-chemicals-food-packaging.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:00:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
+      "url": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:44:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 6
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Las espectaculares imágenes que deja el paso del eclipse por Europa
+
+Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
+
+Date: 2026-08-12
+
+### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
+
+Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.
+
+Date: 2026-08-12
+
+### ¿Por qué es nulo el despido de una embarazada de baja médica que publicaba contenido promocional en redes?
+
+BearFotos/Shutterstock La protección de las trabajadoras embarazadas frente al despido ha cambiado mucho en los últimos años, especialmente en el periodo de prueba cuando, tradicionalmente, la empresa podía desistir del contrato sin alegar causa alguna. Una sentencia del Tribunal Supremo de Justicia de Madrid de 1 de j.
+
+Date: 2026-08-12
 
 ### Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación
 
@@ -17,12 +35,6 @@ Date: 2026-08-12
 ### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
 
 El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
-
-Date: 2026-08-12
-
-### Las espectaculares imágenes que deja el paso del eclipse por Europa
-
-Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
 
 Date: 2026-08-12
 
@@ -56,20 +68,8 @@ El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilida
 
 Date: 2026-08-11
 
-### Dónde ver el eclipse solar total en Madrid el 12 de agosto: estos son los 11 lugares donde se hará completamente de noche
-
-Quedan pocas semanas para que llegue una fecha que muchos ya tienen marcada desde hace tiempo. El próximo 12 de agosto , cuando llegue la tarde, el cielo va a cambiar de aspecto durante unos instantes en varios puntos de la Comunidad de Madrid. No será igual en toda la región, pero sí lo bastante visible como para que.
-
-Date: 2026-08-11
-
-### ¿Un problema irresoluble? Crece el número de hogares en España y no el de viviendas disponibles
-
-Manifestación en Madrid por el derecho a una vivienda digna en febrero de 2025. OSCAR GONZALEZ FUENTES/Shutterstock En el último año, el precio de la vivienda en España ha subido casi un 13 % , según el Instituto Nacional de la Vivienda. La causa principal del encarecimiento es, en palabras del Banco de España, la comb.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación](https://www.elindependiente.com/espana/2026/08/12/si-todavia-no-ha-salido-de-la-ciudad-para-ver-el-eclipse-quedese-en-casa-retenciones-en-las-salidas-de-madrid-y-barcelona/?utm_source=lootura.com) — 2026-08-12T15:28:13.000Z
-- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z
+- [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z
+- [¿Por qué es nulo el despido de una embarazada de baja médica que publicaba contenido promocional en redes?](https://theconversation.com/por-que-es-nulo-el-despido-de-una-embarazada-de-baja-medica-que-publicaba-contenido-promocional-en-redes-288119?utm_source=lootura.com) — 2026-08-12T21:23:39.000Z
 - [Las espectaculares imágenes que deja el paso del eclipse por Europa](https://theobjective.com/galerias/categoria/2026-08-12/increible-eclipse-oscurecido-cielo-espana-imagenes/?utm_source=lootura.com) — 2026-08-12T19:12:16.000Z

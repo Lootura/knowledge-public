@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T08:51:50.349Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -17,6 +17,11 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "El eclipse solar desde un avión de Iberia repleto de astrónomos: \"Ni el gol de Ferran Torres, tú!\"",
+      "summary": "Contamos la experiencia del fabuloso fenómeno rodeados de científicos desde un avión a 11.000 metros. \"Somos los españoles que hemos disfrutado de un eclipse de mayor duración\", dice un astrónomo entusiasmado Leer.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»",
       "summary": "Ferran Torres se ha convertido en uno de los nombres propios de la selección española dentro y fuera del terreno de juego. El delantero no solo ha llamado la atención por su rendimiento deportivo, sino también por una imagen cada vez más vinculada al mundo de la moda y las grandes firmas. Sin embargo, hay una promesa q.",
@@ -61,13 +66,15 @@
       "title": "Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»",
       "summary": "«La música ha sido una cura para mí. Me ha costado caro tener esta visibilidad en la televisión», asegura.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase \"No olvidamos\"",
-      "summary": "Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: \"No.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El eclipse solar desde un avión de Iberia repleto de astrónomos: \"Ni el gol de Ferran Torres, tú!\"",
+      "url": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:58:53.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

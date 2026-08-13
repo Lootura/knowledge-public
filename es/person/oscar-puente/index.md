@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente y Felipe VI
+
+No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han demostrado dos maneras distintas de entender el poder. Margarita Robles viaja a Ceuta, escucha el enfado de sus ciudadanos y representa al Estado, mientras Óscar Puente convierte la crisis en material para Twitter. Al país le sobran activi.
+
+Date: 2026-08-13
 
 ### Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»
 
@@ -62,12 +68,6 @@ Date: 2026-07-25
 
 Date: 2026-07-24
 
-### Puente a Ayuso por los incendios en Madrid: "Si hay una mamarracha en España, esa eres tú"
-
-Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Óscar Puente y Felipe VI](https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com) — 2026-08-13T00:00:14.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lindsey-graham/index.json",
   "description": "Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "Lindsey",
     "Lindsey Olin Graham"
   ],
   "changes": [
+    {
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "summary": "Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Wisconsin's Democratic showdown and more primary races to watch today",
       "summary": "South Carolina Republicans will choose a successor for the late Sen. Lindsey Graham's seat, and Minnesota's Senate primary is another battle between moderate and progressive Democrats.",
@@ -58,13 +63,15 @@
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
-      "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T21:20:05.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

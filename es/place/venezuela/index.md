@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
+
+Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
+
+Date: 2026-08-12
+
+### Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición
+
+La mesa aborda la reinstitucionalización del Supremo y del órgano electoral sin Machado ni González Urrutia.
+
+Date: 2026-08-12
 
 ### Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura
 
@@ -56,18 +68,7 @@ El secretario de Estado de EEvUU, Marco Rubio, advirtió a Cuba que no habrá "v
 
 Date: 2026-08-07
 
-### Los del Río: «Michael Jackson estaba loco por grabar la 'Macarena'»
-
-Todo comenzó en marzo de 1992, en una fiesta privada con el presidente de Venezuela, Carlos Andrés Pérez . Se celebraba en una mansión de Caracas propiedad de Gustavo Cisneros , el famoso empresario que durante años apareció en la lista Forbes como uno de los hombres más ricos de Latinoamérica. Y allí estaban Los del R.
-
-Date: 2026-08-06
-
-### Llega a Venezuela la opositora Dinorah Figuera para continuar el diálogo con el chavismo
-
-La exdiputada opositora Dinorah Figuera, quien defiende la continuidad de la Asamblea Nacional (AN, Parlamento) elegida en 2015, llegó este miércoles a Venezuela, procedente de España y para continuar las jornadas de diálogo iniciadas el pasado sábado con el chavismo, confirmaron a EFE fuentes de su entorno.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:53:16.000Z
+- [Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición](https://theobjective.com/internacional/2026-08-12/venezuela-primer-ciclo-dialogo-regimen-oposicion/?amp=&utm_source=lootura.com) — 2026-08-12T21:45:46.000Z

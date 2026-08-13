@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: \"Los rivales se enemistan para toda la vida\"",
+      "summary": "Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.",
+      "date": "2026-08-12"
+    },
     {
       "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
       "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
@@ -65,13 +70,15 @@
       "title": "El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó",
       "summary": "El Ayuntamiento socialista de La Rinconada destinó hace alrededor de 20 años más de 1,2 millones de euros de dinero público a la compra de un solar en Chipiona con el objetivo de desarrollar un proyecto hotelero que nunca llegó a ejecutarse . Dos décadas después, la parcela municipal continúa sin el uso para el que fue.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»",
-      "summary": "Cada vez son más los ministros que se suman a hacer recomendaciones a través de sus perfiles en redes sociales y uno de los últimos en hacer un ‘top 5’ ha sido el líder de la cartera de Justicia, Félix Bolaños, quien ha compartido sus destinos de viaje recomendados. Maritcha Ruiz Mateos, ex directora de comunicación de.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: \"Los rivales se enemistan para toda la vida\"",
+      "url": "https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T23:39:18.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

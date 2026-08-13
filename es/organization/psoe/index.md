@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
+
+Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.
+
+Date: 2026-08-12
 
 ### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
 
@@ -62,12 +68,6 @@ El Ayuntamiento socialista de La Rinconada destinó hace alrededor de 20 años m
 
 Date: 2026-08-10
 
-### La ex directora de comunicación del PSOE, contra Bolaños: «Ceuta necesita al Gobierno»
-
-Cada vez son más los ministros que se suman a hacer recomendaciones a través de sus perfiles en redes sociales y uno de los últimos en hacer un ‘top 5’ ha sido el líder de la cartera de Justicia, Félix Bolaños, quien ha compartido sus destinos de viaje recomendados. Maritcha Ruiz Mateos, ex directora de comunicación de.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T08:51:50.349Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
+
+### El eclipse solar desde un avión de Iberia repleto de astrónomos: "Ni el gol de Ferran Torres, tú!"
+
+Contamos la experiencia del fabuloso fenómeno rodeados de científicos desde un avión a 11.000 metros. "Somos los españoles que hemos disfrutado de un eclipse de mayor duración", dice un astrónomo entusiasmado Leer.
+
+Date: 2026-08-12
 
 ### Ferran Torres responde a la propuesta que le hizo princesa Leonor: «Mi abuela no me deja»
 
@@ -62,12 +68,6 @@ Date: 2026-08-03
 
 Date: 2026-07-25
 
-### Vandalizan también el mural de Luis de la Fuente en el centro de Barcelona: una bandera independentista y la frase "No olvidamos"
-
-Después de que se vandalizara el mural de Ferran Torres con la Selección Española pintado en una calle del centro de Barcelona, un grupo de independentistas ha vandalizado también el mural de Luis de la Fuente en la capital catalana. En concreto, han pintado una bandera independentista encima de la obra y el lema: "No.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El eclipse solar desde un avión de Iberia repleto de astrónomos: "Ni el gol de Ferran Torres, tú!"](https://www.elmundo.es/ciencia/2026/08/12/6a7c8078e4d4d8f07c8b45ae.html?utm_source=lootura.com) — 2026-08-12T20:58:53.000Z

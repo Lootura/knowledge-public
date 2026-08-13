@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/peggy-flanagan/index.json",
   "description": "Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "Flanagan",
     "Peggy"
@@ -56,13 +56,7 @@
       "url": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com",
       "publishedAt": "2026-08-12T15:24:43.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Even some progressives are happy about Hong’s loss",
-      "url": "https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T07:54:42.000Z",
-      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

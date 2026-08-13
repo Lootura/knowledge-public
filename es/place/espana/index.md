@@ -3,80 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### Fragmento del día: España
-
-en España, la Confederación Hidrográfica del Guadiana inicia el vaciado del embalse de Alcollarín (Cáceres), produciéndose una pérdida de agua y biodiversidad calificada como un desastre medioambiental.
-
-Date: 2026-08-12
-
-### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
-
-En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
-
-Date: 2026-08-12
-
-### España se apaga siete minutos
-
-La expectación de millones de personas en toda España ha culminado cuando el día se ha convertido en noche, en apenas un instante y durante poco más de un minuto, cuando el eclipse solar ha alcanzado su totalidad al filo de las 20.30 horas de este histórico miércoles 12 de agosto. La corona del eclipse solar ha sumido.
-
-Date: 2026-08-12
-
-### Los vídeos del eclipse total así se ha vivido este fenómeno único
-
-El eclipse total de Sol que ha podido observarse este miércoles en buena parte de España ha dejado también una multitud de imágenes y vídeos difundidos a través de las redes sociales. Ciudadanos desplazados a distintos puntos de observación grabaron el desarrollo del fenómeno astronómico y compartieron el instante más.
-
-Date: 2026-08-12
-
-### Zaragoza, Sevilla, Valencia... las fotos del eclipse solar de los lectores de '20minutos'
-
-Los lectores de 20minutos han vivido en primera persona el histórico eclipse que ha podido contemplarse este miércoles desde numerosos puntos de España. Miles de personas se han echado a la calle para inmortalizar un fenómeno astronómico excepcional. En esta galería recopilamos algunas de las imágenes que nos habéis en.
-
-Date: 2026-08-12
-
-### Decepción en Asturias: las nubes impiden ver el eclipse en gran parte de la región
-
-Asturias, una de las zonas privilegiadas de España para poder contemplar el eclipse total de sol, ha vivido este fenómeno astronómico con cielos totalmente cubiertos en toda la franja costera y muchos puntos del interior que limitaron su observación, mientras que en zonas altas y en la cordillera Cantábrica la situació.
-
-Date: 2026-08-12
-
-### Irritación o visión borrosa: síntomas de que has podido dañar tus ojos en el eclipse
-
-El eclipse solar total de este 12 de agosto ha convertido a España en uno de los lugares privilegiados para contemplar uno de los grandes fenómenos astronómicos del año. Durante algo más de un minuto, la Luna ha ocultado por completo el Sol en varios puntos del país, dejando a miles de personas pendientes del cielo par.
-
-Date: 2026-08-12
 
 ### España se entrega a la magia del eclipse del Sol
 
 Entre gafas retiradas 'in extremis', intentos por conseguir las adecuadas en el último momento y millones de desplazamientos, España ha vivido este miércoles un fenómeno histórico para el que llevaba meses preparándose y que ha llenado de espectadores venidos de todo el mundo los rincones del país en los que el eclipse.
 
-Date: 2026-08-12
+Date: 2026-08-13
 
 ### El día que el cielo se apagó
 
 Faltan apenas tres minutos. El silencio empezó a apoderarse de la explanada y el ambiente se cortaba con un cuchillo. Estamos en Galáctica, el excepcional centro de difusión de la astronomía situado en Arcos de las Salinas, en la provincia de Teruel, que se precia de tener uno de los mejores cielos no solo de España, s.
 
+Date: 2026-08-13
+
+### Pueblos, playas, montes... España se llena por el fenómeno del año
+
+Miles de personas se han desplazado a lo largo del territorio español para disfrutar del eclipse solar, que en algunos puntos de España será total, y que ya ha dejado imágenes para la historia.El ciclo completo del eclipse solar. EFE La luna descubre al sol en los momentos posteriores al eclipse en San Sebastián. AFP E.
+
+Date: 2026-08-13
+
+### El gobierno marroquí insiste en su ambición sobre Ceuta y Melilla y Vivas responde que "no tiene fundamento": "Ceuta es España"
+
+El presidente autonómico ha asegurado que así lo avala "la historia", "lo acredita el derecho" y así "lo quieren todos los ceutíes" Leer.
+
 Date: 2026-08-12
 
-### Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas
+### El eclipse sobrecoge a media España
 
-La operación policial en Muxía (A Coruña) contra una organización criminal dedicada a introducir grandes cantidades de droga en España se ha dado por concluida este miércoles con la detención de 26 personas , incluido un agente de la Guardia Civil , y el decomiso de más de 1.600 kilos de cocaína. Así lo han asegurado a.
+Decía Séneca que cuando el Sol se eclipsa para desaparecer, se ve mejor su grandeza. Dos milenios después, millones de personas pudimos experimentar ayer lo que el filósofo...
+
+Date: 2026-08-12
+
+### El momento de la totalidad del eclipse solar en España
+
+Los espectadores reunidos en León contemplaron algunos de los fenómenos más espectaculares del eclipse, como la corona solar, las perlas de Bail y y el anillo de diamantes.
+
+Date: 2026-08-12
+
+### ¿Dónde hay tráfico por el eclipse? Consulte los atascos en toda España
+
+En la tarde del miércoles se prevén desplazamientos extraordinarios para ver el eclipse de Sol . El tráfico en las carreteras muestra movimientos desde las ciudades hasta la franja de totalidad, los puntos donde la Luna tapará completamente el Sol. El siguiente mapa muestra la situación ahora mismo: Seguir leyendo.
+
+Date: 2026-08-12
+
+### El eclipse solar del 12 de agosto de 2026 en España, en imágenes
+
+Después de un trayecto de siete minutos que dejó a oscuras zonas de la mitad norte de la Península, el fenómeno astronómico pone fin a su paso por España.
+
+Date: 2026-08-12
+
+### El eclipse conquista el corazón de España
+
+Y el astro rey reveló por fin su corona. Lo hizo bajo un gigantesco manto de sombra que cruzó del norte al este de España a velocidad hipersónica, en apenas siete minutos, desde que entró por la costa cantábrica a las 20.26 hasta que salió por las Baleares a las 20.34 para fundirse con la noche en el mar Mediterráneo.
+
+Date: 2026-08-12
+
+### Eclipse de nube sobre el cañón del Sil en Galicia: "Era la única que había, un troleo total"
+
+Más de un centenar de personas reunidas para el acontecimiento en un mirador apartado de la Ribeira Sacra se resignan ante el intento frustrado: "Fue chulo igual" El eclipse del siglo en España, en imágenes “Era la única nube que había en el cielo”, se lamenta, aunque casi entre risas, una de las jóvenes de un grupo de.
 
 Date: 2026-08-12
 
 ## Fuentes
 
-- [España se apaga siete minutos](https://www.20minutos.es/nacional/historico-eclipse-solar-alcanza-su-totalidad-convierte-dia-noche-espana_7025239_0.html?utm_source=lootura.com) — 2026-08-12T18:52:57.000Z
-- [Los vídeos del eclipse total así se ha vivido este fenómeno único](https://www.20minutos.es/nacional/los-videos-eclipse-total-sol-espana-asi-se-ha-vivido-historico-fenomeno_7025243_0.html?utm_source=lootura.com) — 2026-08-12T19:13:16.000Z
-- [Zaragoza, Sevilla, Valencia... las fotos del eclipse solar de los lectores de '20minutos'](https://www.20minutos.es/nacional/las-fotos-eclipse-solar-los-lectores-20minutos_7025245_1.html?utm_source=lootura.com) — 2026-08-12T19:59:04.000Z
-- [Decepción en Asturias: las nubes impiden ver el eclipse en gran parte de la región](https://www.20minutos.es/asturias/decepcion-asturias-las-nubes-impiden-ver-eclipse-costa-gran-parte-interior_7025242_0.html?utm_source=lootura.com) — 2026-08-12T19:13:11.000Z
-- [Irritación o visión borrosa: síntomas de que has podido dañar tus ojos en el eclipse](https://www.20minutos.es/salud/irritacion-vision-borrosa-manchas-oscuras-los-sintomas-que-has-podido-danar-tus-ojos-durante-eclipse-solar_7025168_0.html?utm_source=lootura.com) — 2026-08-12T18:03:22.000Z
-- [España se entrega a la magia del eclipse del Sol](https://www.abc.es/ciencia/espana-rinde-ante-magia-eclipse-sol-20260812210950-nt.html?utm_source=lootura.com) — 2026-08-12T19:49:57.000Z
-- [El día que el cielo se apagó](https://www.abc.es/ciencia/dia-cielo-apago-20260812204357-nt.html?utm_source=lootura.com) — 2026-08-12T20:15:29.000Z
-- [Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas](https://www.elconfidencial.com/espana/galicia/2026-08-12/muxia-costa-cocaina-narcotrafico-operacion-1tna-1tps_4405097/?utm_source=lootura.com) — 2026-08-12T15:24:00.000Z
-- [El mercado del pan alcanzó los 3.480 millones en 2025, un 3% más](https://www.elindependiente.com/espana/2026/08/12/el-mercado-del-pan-alcanzo-los-3-480-millones-en-2025-un-3-mas/?utm_source=lootura.com) — 2026-08-12T14:53:30.000Z
-- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-12T09:55:08.000Z
+- [España se entrega a la magia del eclipse del Sol](https://www.abc.es/ciencia/espana-rinde-ante-magia-eclipse-sol-20260812210950-nt.html?utm_source=lootura.com) — 2026-08-13T00:25:03.000Z
+- [El día que el cielo se apagó](https://www.abc.es/ciencia/dia-cielo-apago-20260812204357-nt.html?utm_source=lootura.com) — 2026-08-13T00:22:18.000Z
+- [Pueblos, playas, montes... España se llena por el fenómeno del año](https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html?utm_source=lootura.com) — 2026-08-13T00:23:37.000Z
+- [El sistema eléctrico y las telecomunicaciones superan sin incidencias el eclipse solar total en España](https://elpais.com/economia/2026-08-12/el-sistema-electrico-y-las-telecomunicaciones-superan-sin-incidencias-el-eclipse-solar-total-en-espana.html?utm_source=lootura.com) — 2026-08-12T21:34:19.000Z
+- [El gobierno marroquí insiste en su ambición sobre Ceuta y Melilla y Vivas responde que "no tiene fundamento": "Ceuta es España"](https://www.elmundo.es/espana/2026/08/12/6a7c9b6efc6c8345618b45aa.html?utm_source=lootura.com) — 2026-08-12T16:28:51.000Z
+- [El eclipse sobrecoge a media España](https://amp.elmundo.es/ciencia/2026/08/12/6a7c8123e4d4d8662c8b45b7.html?utm_source=lootura.com) — 2026-08-12T20:00:04.000Z
+- [Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”](https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html?utm_source=lootura.com) — 2026-08-12T21:09:47.000Z
+- [El momento de la totalidad del eclipse solar en España](https://elpais.com/videos/2026-08-12/el-momento-de-la-totalidad-del-eclipse-solar-en-espana.html?utm_source=lootura.com) — 2026-08-12T19:23:54.000Z
+- [¿Dónde hay tráfico por el eclipse? Consulte los atascos en toda España](https://elpais.com/ciencia/2026-08-12/donde-hay-trafico-por-el-eclipse-consulte-los-atascos-en-toda-espana.html?utm_source=lootura.com) — 2026-08-12T16:16:55.000Z
+- [El eclipse solar del 12 de agosto de 2026 en España, en imágenes](https://elpais.com/ciencia/2026-08-12/el-eclipse-solar-de-agosto-en-espana-en-imagenes.html?utm_source=lootura.com) — 2026-08-12T21:24:28.000Z

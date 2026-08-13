@@ -3,7 +3,7 @@
 > Follow Peggy Flanagan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/peggy-flanagan
 
 ## Recent changes
@@ -53,4 +53,3 @@ Date: 2026-08-09
 ## Sources
 
 - [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
-- [Even some progressives are happy about Hong’s loss](https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101?utm_source=lootura.com) — 2026-08-12T07:54:42.000Z

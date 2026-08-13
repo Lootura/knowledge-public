@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»](https://theobjective.com/deportes/futbol/2026-08-12/mensaje-despedida-messi-padre/?utm_source=lootura.com) — 2026-08-12T15:26:15.000Z
+No public source links.

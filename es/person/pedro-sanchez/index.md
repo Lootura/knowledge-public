@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa
+
+La crisis migratoria de Ceuta, que supuso la entrada de más de 72.000 inmigrantes, sorprendió al Gobierno con la ley orgánica de Extranjería pendiente de adecuarse a los estándares europeos. El Ejecutivo de Pedro Sánchez anunció en su plan anual normativo de este año que acometería una reforma de esta norma y que compl.
+
+Date: 2026-08-13
+
+### Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que "no puede volver a ocurrir" y que "Ceuta es españolísima"
+
+La posición de la ministra de Defensa contrasta con los elogios a la "cooperación" de Rabat por parte de Sánchez, Marlaska, Albares y Bolaños Leer.
+
+Date: 2026-08-12
 
 ### ¿Qué hará Sánchez sin La Mareta?
 
@@ -56,18 +68,7 @@ Nunca ha dicho Pedro Sánchez que Ceuta no exista, pero todo lo sucedido desde e
 
 Date: 2026-08-11
 
-### Óscar Puente ya apunta contra el Rey Felipe VI
-
-En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .
-
-Date: 2026-08-11
-
-### Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»
-
-Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [¿Qué hará Sánchez sin La Mareta?](https://www.larazon.es/opinion/que-hara-sanchez-mareta_202608126a7cd530a046ad6ebcae1141.html?utm_source=lootura.com) — 2026-08-12T20:18:58.000Z
+- [Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que "no puede volver a ocurrir" y que "Ceuta es españolísima"](https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com) — 2026-08-12T20:49:55.000Z
+- [La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa](https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com) — 2026-08-13T01:32:29.000Z

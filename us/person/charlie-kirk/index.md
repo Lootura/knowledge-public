@@ -3,7 +3,7 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-No public source links.
+- [Defense in Charlie Kirk's killing argue against death penalty, said shooter hit 'intended target'](https://www.pbs.org/newshour/nation/defense-in-charlie-kirks-killing-argue-against-death-penalty-said-shooter-hit-intended-target?utm_source=lootura.com) — 2026-08-13T00:50:47.000Z

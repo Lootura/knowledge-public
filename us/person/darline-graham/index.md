@@ -3,7 +3,7 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina
 
 A first-time candidate who was always close to her brother's political orbit, Darline Graham overcame skepticism about her lack of experience in her campaign to replace him, as she moved forward Tuesday as the top vote-getter to runner-up Norman.
+
+Date: 2026-08-12
+
+### South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls
+
+Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.
 
 Date: 2026-08-12
 
@@ -62,12 +68,7 @@ Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held
 
 Date: 2026-07-20
 
-### 'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat
-
-The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.
-
-Date: 2026-07-20
-
 ## Sources
 
 - [Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina](https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina?utm_source=lootura.com) — 2026-08-12T15:12:05.000Z
+- [South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls](https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com) — 2026-08-12T21:20:05.000Z

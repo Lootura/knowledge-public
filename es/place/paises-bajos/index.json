@@ -1,0 +1,57 @@
+{
+  "id": "es-paises-bajos",
+  "name": "Países Bajos",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/paises-bajos",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/paises-bajos",
+  "markdownUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.json",
+  "description": "Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "aliases": [
+    "Holanda",
+    "Los Países Bajos",
+    "Los Paises Bajos",
+    "Neerlandia",
+    "Holland",
+    "the Netherlands",
+    "Nederland",
+    "Nederlanden",
+    "de Nederlanden",
+    "NL",
+    "NLD"
+  ],
+  "changes": [
+    {
+      "title": "Mientras España lleva años preparándose, en Holanda tienen que recurrir a enfriar con agua sus puentes para que no se derrumben con el calor",
+      "summary": "Los bomberos de Países Bajos han recurrido al riego de los puentes con el fin de disminuir las temperaturas y evitar las dilataciones.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Xavi Hernández, nuevo seleccionador de Países Bajos",
+      "summary": "«Se podría decir que soy un poco hijo del fútbol neerlandés», ha declarado el técnico español.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Países Bajos first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Mientras España lleva años preparándose, en Holanda tienen que recurrir a enfriar con agua sus puentes para que no se derrumben con el calor",
+      "url": "https://okdiario.com/ciencia/mientras-espana-tiempo-preparandose-holanda-tienen-que-recurrir-enfriar-agua-sus-puentes-que-no-derrumben-calor-18895651/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T22:03:05.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Xavi Hernández, nuevo seleccionador de Países Bajos",
+      "url": "https://theobjective.com/deportes/futbol/2026-08-12/xavi-hernandez-seleccionador-paises-bajos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:56:54.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

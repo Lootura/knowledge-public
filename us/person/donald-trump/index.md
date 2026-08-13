@@ -3,26 +3,26 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
+### Karoline Leavitt is leaving her role as Trump's White House press secretary
+
+Leavitt called it a "bittersweet decision" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.
+
+Date: 2026-08-13
+
+### ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty
+
+The agent, Adam Saracco, was charged with misdemeanor after the altercation at a gas station near Chicago last year during the Trump administration’s crackdown there.
+
+Date: 2026-08-13
+
 ### Product availability changed in Europe
 
 Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.
-
-Date: 2026-08-12
-
-### Product availability changed in Europe
-
-NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-President Trump boarded Air Force One last month as usual. But the Washington Post reports he was smuggled off the plane in a catering truck and flew on an entirely different aircraft due to a threat.
 
 Date: 2026-08-12
 
@@ -32,51 +32,51 @@ Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by Presiden
 
 Date: 2026-08-12
 
-### NATO spending pressure returned
-
-The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
-
-Date: 2026-08-12
-
 ### He Was Deported to Eswatini in Southern Africa. He May Never Go Free.
 
 As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.
 
 Date: 2026-08-12
 
-### Trump Says Secret Service Ordered Air Force One Swap
+### Top Trump officials heading to Iowa to help GOP campaigns, sources say
 
-Trump claims his secret plane was in more danger than the Air Force One decoy the public thought Trump was flying on.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.
+The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail.
 
 Date: 2026-08-12
 
-### Eye Opener: Strong storms leave behind major destruction after sweeping across Midwest
+### Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats
 
-Millions are still at risk of flooding after powerful storms swept across the Midwest, leaving a trail of destruction. Plus, President Trump makes his first public comments about the secret swap off Air Force One in Turkey. All that and all that matters in today's Eye Opener.
+Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.
 
 Date: 2026-08-12
 
-### Fighter jets intercept civilian plane over Geneva, Ohio
+### Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff
 
-F-16 fighter jets intercepted a civilian plane that violated a temporary flight restriction over Geneva, Ohio, where President Trump attended the 2026 Patriot Games.
+President Donald Trump downplayed the extraordinary nature of the subterfuge involved in his flight, which saw him stow away in an airport catering container to sneak onto another plane while Air Force One was sent into the sky, essentially as a decoy.
+
+Date: 2026-08-12
+
+### For Blakeman, Trump Could Make and Break His Bid to Lead New York
+
+Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.
+
+Date: 2026-08-12
+
+### Watching Trump at the Patriot Games
+
+Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
 
 Date: 2026-08-12
 
 ## Sources
 
-- [Trump addresses secret Air Force One swap as new questions swirl](https://www.cbsnews.com/video/trump-addresses-secret-air-force-one-swap-as-new-questions-swirl/?utm_source=lootura.com) — 2026-08-12T12:51:28.000Z
-- [Eye Opener: Strong storms leave behind major destruction after sweeping across Midwest](https://www.cbsnews.com/video/eye-opener-strong-storms-leave-behind-major-destruction-after-sweeping-across-midwest/?utm_source=lootura.com) — 2026-08-12T12:40:57.000Z
-- [Fighter jets intercept civilian plane over Geneva, Ohio](https://www.cbsnews.com/news/fighter-jets-intercept-plane-geneva-ohio-trump-event/?utm_source=lootura.com) — 2026-08-12T12:16:32.000Z
 - [Top Trump officials heading to Iowa to help GOP campaigns, sources say](https://www.cbsnews.com/news/trump-administration-officials-iowa-campaigns-republicans/?utm_source=lootura.com) — 2026-08-12T16:38:04.000Z
-- [Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe](https://www.today.com/video/iranian-missile-threat-led-to-trump-s-plane-swap-official-says-268170309881?utm_source=lootura.com) — 2026-08-12T11:36:46.000Z
-- [Proposal backed by Trump administration would allow 401K and IRA funds to be used in riskier investments](https://www.nbcnews.com/video/trump-admin-proposal-would-allow-401k-and-ira-funds-to-be-used-in-riskier-investments-268190789729?utm_source=lootura.com) — 2026-08-12T17:56:26.000Z
+- [Karoline Leavitt to step down as White House press secretary at end of August](https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com) — 2026-08-12T20:04:10.000Z
 - [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
-- [Former Secret Service agent discusses Trump's Air Force One switch](https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch?utm_source=lootura.com) — 2026-08-12T08:46:16.000Z
-- [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
-- [Has the U.S. lost its dominance to China?](https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china?utm_source=lootura.com) — 2026-08-12T18:24:48.000Z
+- [Karoline Leavitt is leaving her role as Trump's White House press secretary](https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com) — 2026-08-13T00:32:39.000Z
+- [Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats](https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats?utm_source=lootura.com) — 2026-08-12T15:24:43.000Z
+- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
+- [WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff](https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff?utm_source=lootura.com) — 2026-08-12T14:29:35.000Z
+- [Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders](https://www.pbs.org/newshour/show/federal-judges-describe-violent-threats-amid-dehumanizing-attacks-from-political-leaders?utm_source=lootura.com) — 2026-08-12T22:35:38.000Z
+- [For Blakeman, Trump Could Make and Break His Bid to Lead New York](https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com) — 2026-08-12T16:24:54.000Z
+- [Lisa Demuth Wins Republican Primary for Governor of Minnesota](https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html?utm_source=lootura.com) — 2026-08-12T03:32:23.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-12T12:21:28.000Z
+No public source links.

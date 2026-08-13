@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -21,6 +21,11 @@
   ],
   "changes": [
     {
+      "title": "Pueblos, playas, montes... España se llena por el fenómeno del año",
+      "summary": "Miles de personas se han desplazado a lo largo del territorio español para disfrutar del eclipse solar, que en algunos puntos de España será total, y que ya ha dejado imágenes para la historia.El ciclo completo del eclipse solar. EFE La luna descubre al sol en los momentos posteriores al eclipse en San Sebastián. AFP E.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
       "summary": "Rebordinos elogia al primer galardonado, Werner Herzog', y anuncia una edición con muchas figuras internacionales.",
       "date": "2026-08-12"
@@ -28,6 +33,11 @@
     {
       "title": "Así se ha vivido el eclipse en Gipuzkoa",
       "summary": "Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito astronómico único.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "«Ver tiburones pasar tan cerca impresiona»",
+      "summary": "Cientos de visitantes acuden cada día de verano a uno de los grandes atractivos de Donostia y el túnel bajo el agua sigue causando sensación.",
       "date": "2026-08-12"
     },
     {
@@ -59,29 +69,25 @@
       "title": "«Dar seguridad a la gente no es girar a la derecha, es defender la vida cotidiana»",
       "summary": "El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gestione su atractivo «sin morir de éxito».",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián",
-      "summary": "El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Arranque festivo con alma de balón y compás",
-      "summary": "Donostia da el pistoletazo de salida a laSemana Grande con Martin Zubimendi, que prende unas fiestas a ritmo de euskal dantza y sobreponiéndose a la lluvia.",
-      "date": "2026-08-08"
     }
   ],
   "sources": [
     {
-      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
-      "url": "https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T16:17:27.000Z",
+      "title": "Pueblos, playas, montes... España se llena por el fenómeno del año",
+      "url": "https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:23:37.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "«Ver tiburones pasar tan cerca impresiona»",
+      "url": "https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T22:11:05.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?",
-      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-martes-semana-grande-20260811231544-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-11T21:15:45.000Z",
+      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
+      "url": "https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T16:17:27.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
@@ -91,5 +97,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

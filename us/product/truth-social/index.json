@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/truth-social/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/truth-social/index.json",
   "description": "Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T10:32:02.239Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "TruthSocial"
   ],
@@ -29,6 +29,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump sued over service selling faster access to Truth Social posts",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:33:10.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
   "evidenceCount": 0
 }

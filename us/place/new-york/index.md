@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes

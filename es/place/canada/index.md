@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal
+
+El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.
+
+Date: 2026-08-13
 
 ### La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»
 
@@ -52,4 +58,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-No public source links.
+- [Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal](https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com) — 2026-08-13T00:58:15.000Z

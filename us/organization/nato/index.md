@@ -3,7 +3,7 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
@@ -70,7 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Trump addresses secret Air Force One swap as new questions swirl](https://www.cbsnews.com/video/trump-addresses-secret-air-force-one-swap-as-new-questions-swirl/?utm_source=lootura.com) — 2026-08-12T12:51:28.000Z
 - [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
-- [Report suggests a threat forced Trump to switch aircraft as he departed NATO summit](https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit?utm_source=lootura.com) — 2026-08-12T08:46:26.000Z
-- [Iran Said to Have Known Details of Trump’s Stay at NATO Summit](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com) — 2026-08-12T02:09:21.000Z

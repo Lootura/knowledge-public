@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls
+
+Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.
+
+Date: 2026-08-12
 
 ### Wisconsin's Democratic showdown and more primary races to watch today
 
@@ -62,12 +68,6 @@ The bill is meant to stifle Russia's economy by allowing for tough new tariffs a
 
 Date: 2026-08-07
 
-### Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham
-
-The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls](https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com) — 2026-08-12T21:20:05.000Z

@@ -3,20 +3,32 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
+### Photos: See the best photos from the solar eclipse
+
+Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).
+
+Date: 2026-08-13
+
+### EU curbs on 'forever chemicals' in food packaging kick in
+
+New EU restrictions on toxic substances known as "forever chemicals" in food packaging kicked in Wednesday, along with broader rules aimed at cutting packaging waste in the bloc.
+
+Date: 2026-08-13
+
+### Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough
+
+With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.
+
+Date: 2026-08-13
+
 ### Europe sees first total solar eclipse in 27 years | Special Report
 
 Europe on Wednesday experienced its first solar eclipse in nearly three decades. Lindsey Reiser anchored CBS News' special coverage.
-
-Date: 2026-08-12
-
-### Excitement Builds Across Europe for Rare Total Solar Eclipse
-
-Excitement is building across Europe ahead of the continent’s first total solar eclipse in more than 25 years. The sun will be completely covered by the moon for just one minute and 43 seconds, but it is long enough to attract nearly half a million tourists who will be gazing skyward. NBC’s Raf Sanchez reports for TODA.
 
 Date: 2026-08-12
 
@@ -26,15 +38,9 @@ Millions of people crowded cloudless cities and towns in Spain on Wednesday in s
 
 Date: 2026-08-12
 
-### Looking to see the solar eclipse from North America? Here's where and when to catch a sliver
+### Once-in-a-lifetime total solar eclipse sweeps across Europe
 
-Sorry, North America. After winning the cosmic lottery with a pair of coast-to-coast total solar eclipses, now it's Europe's turn.
-
-Date: 2026-08-12
-
-### Total solar eclipse to spellbind Europe
-
-Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.
+The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.
 
 Date: 2026-08-12
 
@@ -62,14 +68,11 @@ Globally, so far this is the third-hottest year, behind 2024 and 2025, climate s
 
 Date: 2026-08-10
 
-### Europe braces for another summer heat wave
-
-Much of Europe is bracing for another scorching heat wave following periods of record drought that have driven rivers to historic lows, ignited historic forest fires and contributed to thousands of deaths.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Europe sees first total solar eclipse in 27 years | Special Report](https://www.cbsnews.com/video/europe-sees-first-total-solar-eclipse-in-27-years-special-report/?utm_source=lootura.com) — 2026-08-12T20:32:57.000Z
-- [Excitement Builds Across Europe for Rare Total Solar Eclipse](https://www.today.com/video/excitement-builds-in-europe-for-first-total-solar-eclipse-in-25-years-268170821964?utm_source=lootura.com) — 2026-08-12T11:57:43.000Z
+- [Once-in-a-lifetime total solar eclipse sweeps across Europe](https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com) — 2026-08-12T23:13:37.000Z
+- [Photos: See the best photos from the solar eclipse](https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com) — 2026-08-13T01:38:01.000Z
 - [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z
+- [EU curbs on 'forever chemicals' in food packaging kick in](https://phys.org/news/2026-08-eu-curbs-chemicals-food-packaging.html?utm_source=lootura.com) — 2026-08-13T00:00:01.000Z
+- [Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough](https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html?utm_source=lootura.com) — 2026-08-13T00:44:00.000Z

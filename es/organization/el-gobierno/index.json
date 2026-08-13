@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [],
   "changes": [
     {
       "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
-      "summary": "La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para eclipsar la propia actualidad que les concierne y a la que deben responder dando soluciones. Hasta tres ministros se han desplazado hasta el Osbervatorio Astronómico de Yebes (Guadalajara), prop.",
-      "date": "2026-08-12"
+      "summary": "La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para opacar la propia actualidad que les concierne y a la que deben responder dando soluciones. Hasta cuatro ministros se han desplazado hasta el Osbervatorio Astronómico de Yebes (Guadalajara), prop.",
+      "date": "2026-08-13"
     },
     {
       "title": "Quedan astrónomos en los Astrónomos: así se ha vivido el eclipse en Vitoria en el punto de observación de 1860",
@@ -24,6 +24,16 @@
     {
       "title": "El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto",
       "summary": "Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de magnitud 7,4 que sacudió a Colombia el lunes, según datos divulgados este miércoles por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Además, 287 personas permanecen desaparecidas hasta el momento como resultado del po.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con \"zona VIP\" y 300 invitados en el Observatorio de Yebes",
+      "summary": "Una previsión de 300 asistentes, entre ellos cuatro ministros, \"zona VIP\", barra libre de bebidas, comida popular, cena tipo cóctel y un programa de actividades de...",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
+      "summary": "La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para eclipsar la propia actualidad que les concierne y a la que deben responder dando soluciones. Hasta tres ministros se han desplazado hasta el Osbervatorio Astronómico de Yebes (Guadalajara), prop.",
       "date": "2026-08-12"
     },
     {
@@ -50,24 +60,20 @@
       "title": "El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña",
       "summary": "La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por \"créditos consignados insuficientes\". El Ejecutivo regional habla.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»",
-      "summary": "El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "\"Tensa calma\" en Manizales, a 80 kilómetros del epicentro: \"Los vecinos están en la calle\"",
-      "summary": "El Gobierno de Colombia declaró este lunes la situación de emergencia nacional tras el terremoto de magnitud 7,4 registrado cerca de la localidad de San José del Palmar, en el noroeste del país. El temblor ha dejado al menos 111 fallecidos y 87 heridos , de acuerdo con los informes preliminares de las autoridades local.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
       "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
       "url": "https://www.abc.es/espana/sanchez-interrumpe-vacaciones-ver-eclipse-guadalajara-guarda-20260812210249-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T19:41:36.000Z",
+      "publishedAt": "2026-08-13T00:21:25.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con \"zona VIP\" y 300 invitados en el Observatorio de Yebes",
+      "url": "https://amp.elmundo.es/espana/2026/08/12/6a7c507f21efa0b66f8b457b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T19:34:23.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Quedan astrónomos en los Astrónomos: así se ha vivido el eclipse en Vitoria en el punto de observación de 1860",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

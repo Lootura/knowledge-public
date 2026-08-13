@@ -28,4 +28,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [How Nigel Farage Ended Up Running Against Count Binface in Clacton](https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html?utm_source=lootura.com) — 2026-08-12T20:37:57.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "Darline"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina",
       "summary": "A first-time candidate who was always close to her brother's political orbit, Darline Graham overcame skepticism about her lack of experience in her campaign to replace him, as she moved forward Tuesday as the top vote-getter to runner-up Norman.",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "summary": "Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.",
       "date": "2026-08-12"
     },
     {
@@ -57,11 +62,6 @@
       "title": "Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race",
       "summary": "Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "'I'm in.' Darline Graham says she will run for a full term in Lindsey Graham's Senate seat",
-      "summary": "The entrance of Darline Graham into the Republican scramble to select a new Senate nominee further complicates an already rushed process following Lindsey Graham's death earlier this month.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [
@@ -70,7 +70,13 @@
       "url": "https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina?utm_source=lootura.com",
       "publishedAt": "2026-08-12T15:12:05.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T21:20:05.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

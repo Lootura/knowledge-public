@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal](https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html?utm_source=lootura.com) — 2026-08-12T00:33:00.000Z
+No public source links.

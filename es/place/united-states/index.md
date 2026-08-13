@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
+
+Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
+
+Date: 2026-08-12
+
+### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
+
+A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
+
+Date: 2026-08-12
 
 ### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
 
@@ -56,18 +68,7 @@ Los grandes inversores rotan sus carteras para hacer caja con sus apuestas en re
 
 Date: 2026-08-11
 
-### La caída de reservas anticipa un crudo a 140 dólares en otoño
-
-El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán, una vez que se han visto las costuras a los planes del presidente de Estados Unidos,...
-
-Date: 2026-08-11
-
-### De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump
-
-Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»](https://www.elmundo.es/cronica/2026/08/12/6a7a0392e4d4d8c73d8b458c.html?utm_source=lootura.com) — 2026-08-12T09:55:08.000Z
+- [La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta](https://www.abc.es/internacional/tierra-espera-tiembla-america-latina-europa-exenta-20260813005235-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:53:16.000Z
+- [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z

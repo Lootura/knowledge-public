@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### ICE plans to give officers gloves that can deliver electric shocks
+
+U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.
+
+Date: 2026-08-13
 
 ### AP report: ICE plans to give its officers gloves that can deliver painful electric shocks
 
@@ -62,12 +68,6 @@ Immigration and Customs Enforcement has been rapidly expanding its workforce, hi
 
 Date: 2026-07-17
 
-### I See My Father in the Fathers Killed by ICE
-
-A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.
-
-Date: 2026-07-16
-
 ## Sources
 
-- [AP report: ICE plans to give its officers gloves that can deliver painful electric shocks](https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks?utm_source=lootura.com) — 2026-08-12T18:46:22.000Z
+- [ICE plans to give officers gloves that can deliver electric shocks](https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com) — 2026-08-13T01:39:44.000Z

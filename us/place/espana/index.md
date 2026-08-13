@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Photos: See the best photos from the solar eclipse
+
+Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).
+
+Date: 2026-08-13
 
 ### Total solar eclipse darkens skies across Northern Hemisphere
 
@@ -26,15 +32,21 @@ Millions of people crowded cloudless cities and towns in Spain on Wednesday in s
 
 Date: 2026-08-12
 
-### What to know about today's total solar eclipse
+### Once-in-a-lifetime total solar eclipse sweeps across Europe
 
-The only total solar eclipse of 2026 will cross the Northern Hemisphere on Wednesday, Aug. 12, with a path of totality across parts of Greenland, Iceland and northern Spain. See when and where it will be visible.
+The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.
 
 Date: 2026-08-12
 
-### Total solar eclipse to spellbind Europe
+### A look at Spain's plan to give undocumented migrants legal status
 
-Millions of Europeans will contemplate the sky in awe on Wednesday as a rare total solar eclipse crosses part of the continent and plunges a swath of Spain into eerie daytime darkness.
+Spain is at the center of the global immigration debate. Left-wing Prime Minister Pedro Sanchez has enacted a plan aimed at giving legal status to undocumented immigrants. But last month, tens of thousands of migrants tried to illegally cross into the Spanish territory of Ceuta, which borders Morocco. The incident is p.
+
+Date: 2026-08-12
+
+### A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.
+
+Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.
 
 Date: 2026-08-12
 
@@ -56,20 +68,12 @@ Rumors swirled that Morocco, perhaps spurred by Israel and the United States, or
 
 Date: 2026-08-11
 
-### Record July heat in regions home to 900 million people
-
-Regions home to around 900 million people experienced their hottest July on record in 2026, including in the Sahel, Central America, France and Spain, according to AFP analysis of Copernicus data.
-
-Date: 2026-08-10
-
-### How Spain’s migration surge tested E.U. border policy
-
-An unprecedented surge of migrants into Spanish territory of Ceuta in North Africa marked the first reignited the European Union’s debate over immigration.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Total solar eclipse darkens skies across Northern Hemisphere](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-12T20:01:00.000Z
+- [Once-in-a-lifetime total solar eclipse sweeps across Europe](https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com) — 2026-08-12T23:13:37.000Z
 - [Watch: Spain witnesses first total solar eclipse in 27 years](https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728?utm_source=lootura.com) — 2026-08-12T18:42:24.000Z
+- [Photos: See the best photos from the solar eclipse](https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com) — 2026-08-13T01:38:01.000Z
+- [A look at Spain's plan to give undocumented migrants legal status](https://www.pbs.org/newshour/show/a-look-at-spains-plan-to-give-undocumented-migrants-legal-status?utm_source=lootura.com) — 2026-08-12T22:40:25.000Z
 - [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z
+- [A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.](https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html?utm_source=lootura.com) — 2026-08-12T21:04:36.000Z

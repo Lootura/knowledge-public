@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -70,8 +70,5 @@ Date: 2026-08-11
 
 ## Sources
 
-- [Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe](https://www.today.com/video/iranian-missile-threat-led-to-trump-s-plane-swap-official-says-268170309881?utm_source=lootura.com) — 2026-08-12T11:36:46.000Z
 - [Are hacks of U.S. water facilities a new front in the Iran war?](https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z
 - [Morning news brief](https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief?utm_source=lootura.com) — 2026-08-12T08:47:50.000Z
-- [Has the U.S. lost its dominance to China?](https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china?utm_source=lootura.com) — 2026-08-12T18:24:48.000Z
-- [Iran Said to Have Known Details of Trump’s Stay at NATO Summit](https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html?utm_source=lootura.com) — 2026-08-12T02:09:21.000Z

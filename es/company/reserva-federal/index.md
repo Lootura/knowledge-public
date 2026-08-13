@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos](https://cincodias.elpais.com/mercados-financieros/2026-08-12/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-12T15:51:51.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z
+No public source links.

@@ -3,10 +3,46 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Karoline Leavitt is leaving her role as Trump's White House press secretary
+
+Leavitt called it a "bittersweet decision" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.
+
+Date: 2026-08-13
+
+### Which Trump Officials Joined Him on His Secret Flight Out of Turkey?
+
+The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
+
+Date: 2026-08-12
+
+### Karoline Leavitt to step down as White House press secretary at end of August
+
+President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role.
+
+Date: 2026-08-12
+
+### 3 takeaways from David Crowley’s comeback: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-08-12
+
+### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
+
+In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
+
+Date: 2026-08-12
+
+### Watching Trump at the Patriot Games
+
+Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
+
+Date: 2026-08-12
 
 ### Karoline Leavitt says she's leaving her role as press secretary
 
@@ -17,12 +53,6 @@ Date: 2026-08-12
 ### White House asked DOJ about new Reflecting Pool case against David Hearn
 
 Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
-
-Date: 2026-08-12
-
-### Which Trump Officials Joined Him on His Secret Flight Out of Turkey?
-
-The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
 
 Date: 2026-08-12
 
@@ -38,39 +68,11 @@ President Donald Trump secretly flew out of last month's NATO summit in Ankara, 
 
 Date: 2026-08-11
 
-### White House asked DOJ about new Reflecting Pool case against David Hearn
-
-Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
-
-Date: 2026-08-11
-
-### Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much
-
-PolitiFact analyzed all of Trump's public events and speeches over the first seven months of 2026 in which he mentioned his construction projects — including the White House ballroom and Reflecting Pool — and beautifying the nation's capital.
-
-Date: 2026-08-11
-
-### Meet Will Scharf, Trump's New White House Counsel Who Shares an Interesting History With the President
-
-Will Scharf speaks with President Donald Trump outside the White House in Washington, D.C. on April 2, 2025. —Andrew Harnik—Getty Images Will Scharf, who currently oversees administrative work as the staff secretary, is set to be the new White House counsel, taking over the senior West Wing position from David Warringt.
-
-Date: 2026-08-11
-
-### Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
-
-Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by an Iranian assassination threat – that in.
-
-Date: 2026-08-11
-
-### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
-
-Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Karoline Leavitt says she's leaving her role as press secretary](https://www.cbsnews.com/video/trump-says-karoline-leavitt-leaving-role-press-secretary/?utm_source=lootura.com) — 2026-08-12T20:14:45.000Z
-- [White House asked DOJ about new Reflecting Pool case against David Hearn](https://www.cbsnews.com/news/white-house-doj-reflecting-pool-david-hearn/?utm_source=lootura.com) — 2026-08-12T12:21:28.000Z
+- [Karoline Leavitt to step down as White House press secretary at end of August](https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com) — 2026-08-12T20:04:10.000Z
+- [3 takeaways from David Crowley’s comeback: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/3-takeaways-david-crowleys-comeback-politics-desk-rcna592208?utm_source=lootura.com) — 2026-08-12T22:33:33.000Z
+- [Karoline Leavitt is leaving her role as Trump's White House press secretary](https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com) — 2026-08-13T00:32:39.000Z
+- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
 - [Which Trump Officials Joined Him on His Secret Flight Out of Turkey?](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html?utm_source=lootura.com) — 2026-08-12T19:49:59.000Z
-- [Karoline Leavitt to Step Down as White House Press Secretary](https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/?utm_source=lootura.com) — 2026-08-12T20:22:21.000Z
+- [Watching Trump at the Patriot Games](https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html?utm_source=lootura.com) — 2026-08-12T20:40:07.000Z

@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T16:32:05.492Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### 3 takeaways from David Crowley’s comeback: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-08-12
 
 ### Progressives had another big primary night – with a notable exception: From the Politics Desk
 
@@ -62,12 +68,6 @@ Supreme Court justices are asking lawmakers on Capitol Hill to increase their 20
 
 Date: 2026-07-14
 
-### Discovered by Atlas
-
-Capitol Hill first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-13
-
 ## Sources
 
-No public source links.
+- [3 takeaways from David Crowley’s comeback: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/3-takeaways-david-crowleys-comeback-politics-desk-rcna592208?utm_source=lootura.com) — 2026-08-12T22:33:33.000Z

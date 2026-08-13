@@ -1,0 +1,45 @@
+{
+  "id": "es-brandon-nakashima",
+  "name": "Brandon Nakashima",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/brandon-nakashima",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/brandon-nakashima",
+  "markdownUrl": "https://atlas.lootura.com/es/person/brandon-nakashima/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/brandon-nakashima/index.json",
+  "description": "Sigue la actividad de Brandon Nakashima en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal",
+      "summary": "El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "El saque de Nakashima martiriza a Jódar y le deja sin final en el Masters 1.000 de Montreal",
+      "summary": "Finalista en Washington, semifinalista en el Masters 1.000 de Montreal y ahora llega Cincinnati . La gira norteamericana de Jódar es difícilmente mejorable. Un soberbio Brandon Nakashima evitó que el madrileño alcanzara por primera vez la final de un Masters 1.000 . Cayó Rafa por 7-6 (7/3) y 6-4 después de dos horas y.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Brandon Nakashima first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal",
+      "url": "https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:58:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El saque de Nakashima martiriza a Jódar y le deja sin final en el Masters 1.000 de Montreal",
+      "url": "https://www.larazon.es/deportes/tenis/jodarnakashima-directo-hoy-semifinales-masters-1000-montreal_202608126a7c2109a046ad6ebcacee6c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:31:40.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

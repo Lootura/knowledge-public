@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T16:55:29.186Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Óscar Puente y Felipe VI",
+      "summary": "No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han demostrado dos maneras distintas de entender el poder. Margarita Robles viaja a Ceuta, escucha el enfado de sus ciudadanos y representa al Estado, mientras Óscar Puente convierte la crisis en material para Twitter. Al país le sobran activi.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»",
       "summary": "El ministro de Transportes, el socialista Óscar Puente , ha avisado al Rey de que, al saludar a un «activista de ultraderecha» y un «profesional del bulo» , como se refiere al periodista Javier Negre, lo que hace es «contaminar» la imagen del jefe del Estado y «limpiar» la del fundador del canal Estado de Alarma. Puent.",
@@ -60,13 +65,15 @@
       "title": "Discovered by Atlas",
       "summary": "Óscar Puente first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Puente a Ayuso por los incendios en Madrid: \"Si hay una mamarracha en España, esa eres tú\"",
-      "summary": "Óscar Puente e Isabel Díaz Ayuso han protagonizado un duro enfrentamiento político por los incendios de Madrid, después de que el ministro de Transportes acusara a los gobiernos autonómicos del PP de recortar servicios públicos y reclamar después la intervención del Gobierno. La disputa ha estallado mientras miles de p.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Óscar Puente y Felipe VI",
+      "url": "https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T00:00:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

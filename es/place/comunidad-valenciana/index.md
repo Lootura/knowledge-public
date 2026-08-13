@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”
+
+Con gritos, aplausos y alguna lágrima de emoción, así vivió España su primer eclipse del siglo , que oscureció una enorme franja de la Península ―de Galicia a la Comunidad Valenciana para desaparecer en el mar tras pasar por Baleares— sobre las 20.30 de la tarde. A esa hora, cuando el falso atardecer ya había teñido de.
+
+Date: 2026-08-12
 
 ### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
 
@@ -62,12 +68,6 @@ Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Com
 
 Date: 2026-08-07
 
-### Ferran Torres ya es embajador de la Comunitat Valenciana: "Es un orgullo y una responsabilidad"
-
-La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones](https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com) — 2026-08-12T20:37:37.000Z
+- [Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”](https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html?utm_source=lootura.com) — 2026-08-12T21:09:47.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-13T01:46:32.208Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -22,6 +22,11 @@
     "United States Immigration & Customs Enforcement"
   ],
   "changes": [
+    {
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
+      "date": "2026-08-13"
+    },
     {
       "title": "AP report: ICE plans to give its officers gloves that can deliver painful electric shocks",
       "summary": "Immigration and Customs Enforcement plans to spend up to $20 million to purchase thousands of gloves that can deliver painful electric shocks intended to gain compliance from individuals.",
@@ -66,19 +71,14 @@
       "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
       "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "I See My Father in the Fathers Killed by ICE",
-      "summary": "A makeshift memorial for Joan Sebastian Guerrero who was fatally shot by U.S. Immigration and Customs Enforcement (ICE) agents, on July 14, 2026 in Biddeford, Maine. —Ryan Murphy—Getty Images Joan Sebastian Guerrero, the 26-year-old man shot by ICE while driving to work on Monday, attended the same school my mother did.",
-      "date": "2026-07-16"
     }
   ],
   "sources": [
     {
-      "title": "AP report: ICE plans to give its officers gloves that can deliver painful electric shocks",
-      "url": "https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T18:46:22.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "ICE plans to give officers gloves that can deliver electric shocks",
+      "url": "https://www.cbsnews.com/news/ice-officers-gloves-electric-shocks/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T01:39:44.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

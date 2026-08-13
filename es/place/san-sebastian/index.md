@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Pueblos, playas, montes... España se llena por el fenómeno del año
+
+Miles de personas se han desplazado a lo largo del territorio español para disfrutar del eclipse solar, que en algunos puntos de España será total, y que ya ha dejado imágenes para la historia.El ciclo completo del eclipse solar. EFE La luna descubre al sol en los momentos posteriores al eclipse en San Sebastián. AFP E.
+
+Date: 2026-08-13
 
 ### Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo
 
@@ -17,6 +23,12 @@ Date: 2026-08-12
 ### Así se ha vivido el eclipse en Gipuzkoa
 
 Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito astronómico único.
+
+Date: 2026-08-12
+
+### «Ver tiburones pasar tan cerca impresiona»
+
+Cientos de visitantes acuden cada día de verano a uno de los grandes atractivos de Donostia y el túnel bajo el agua sigue causando sensación.
 
 Date: 2026-08-12
 
@@ -56,20 +68,9 @@ El regidor cumple nueve meses en la Alcaldía con el deseo de que Donostia gesti
 
 Date: 2026-08-08
 
-### Oyarzabal y Zubimendi serán homenajeados este sábado en San Sebastián
-
-El alcalde Jon Insausti recibirá a los futbolistas en el arranque de la Semana Grande donostiarra.
-
-Date: 2026-08-08
-
-### Arranque festivo con alma de balón y compás
-
-Donostia da el pistoletazo de salida a laSemana Grande con Martin Zubimendi, que prende unas fiestas a ritmo de euskal dantza y sobreponiéndose a la lluvia.
-
-Date: 2026-08-08
-
 ## Fuentes
 
+- [Pueblos, playas, montes... España se llena por el fenómeno del año](https://www.abc.es/sociedad/eclipse-solar-total-imagenes-20260812175427-ga.html?utm_source=lootura.com) — 2026-08-13T00:23:37.000Z
+- [«Ver tiburones pasar tan cerca impresiona»](https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:11:05.000Z
 - [Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo](https://www.diariovasco.com/culturas/zinemaldia/zinemaldia-cae-premio-donostia-consigue-estrella-recibirlo-20260812181727-nt_amp.html?utm_source=lootura.com) — 2026-08-12T16:17:27.000Z
-- [¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?](https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-martes-semana-grande-20260811231544-nt_amp.html?utm_source=lootura.com) — 2026-08-11T21:15:45.000Z
 - [Así se ha vivido el eclipse en Gipuzkoa](https://www.diariovasco.com/gipuzkoa/eclipse-solar-euskadi-directo-mapa-prevision-tiempo-trafico-ultima-hora-20260812123641-di_amp.html?utm_source=lootura.com) — 2026-08-12T10:37:58.000Z

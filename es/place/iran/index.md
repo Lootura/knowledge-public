@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [El Ibex termina en rojo, pero sigue en zona de máximos](https://www.expansion.com/mercados/2026/08/12/6a7c0853e5fdeaca0e8b45a8.html?utm_source=lootura.com) — 2026-08-12T16:04:04.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [¿Qué hará Sánchez sin La Mareta?](https://www.larazon.es/opinion/que-hara-sanchez-mareta_202608126a7cd530a046ad6ebcae1141.html?utm_source=lootura.com) — 2026-08-12T20:18:58.000Z
+No public source links.

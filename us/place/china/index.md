@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Has the U.S. lost its dominance to China?](https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china?utm_source=lootura.com) — 2026-08-12T18:24:48.000Z
+No public source links.

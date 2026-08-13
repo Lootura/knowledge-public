@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas](https://www.elconfidencial.com/espana/galicia/2026-08-12/muxia-costa-cocaina-narcotrafico-operacion-1tna-1tps_4405097/?utm_source=lootura.com) — 2026-08-12T15:24:00.000Z
+No public source links.

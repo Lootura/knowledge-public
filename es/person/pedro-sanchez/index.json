@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -17,6 +17,16 @@
     "Sánchez"
   ],
   "changes": [
+    {
+      "title": "La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa",
+      "summary": "La crisis migratoria de Ceuta, que supuso la entrada de más de 72.000 inmigrantes, sorprendió al Gobierno con la ley orgánica de Extranjería pendiente de adecuarse a los estándares europeos. El Ejecutivo de Pedro Sánchez anunció en su plan anual normativo de este año que acometería una reforma de esta norma y que compl.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que \"no puede volver a ocurrir\" y que \"Ceuta es españolísima\"",
+      "summary": "La posición de la ministra de Defensa contrasta con los elogios a la \"cooperación\" de Rabat por parte de Sánchez, Marlaska, Albares y Bolaños Leer.",
+      "date": "2026-08-12"
+    },
     {
       "title": "¿Qué hará Sánchez sin La Mareta?",
       "summary": "A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.",
@@ -56,25 +66,21 @@
       "title": "Sánchez y Ceuta: el odio y el desprecio",
       "summary": "Nunca ha dicho Pedro Sánchez que Ceuta no exista, pero todo lo sucedido desde el 30 de julio viene a probar que tal es su impresión, y probablemente ese es también su deseo. Hay motivos para ello. Nada molesta más a nuestro presidente que la aparición de problemas de los cuales surge un conflicto entre los intereses co.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Óscar Puente ya apunta contra el Rey Felipe VI",
-      "summary": "En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
-      "summary": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "¿Qué hará Sánchez sin La Mareta?",
-      "url": "https://www.larazon.es/opinion/que-hara-sanchez-mareta_202608126a7cd530a046ad6ebcae1141.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T20:18:58.000Z",
+      "title": "Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que \"no puede volver a ocurrir\" y que \"Ceuta es españolísima\"",
+      "url": "https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T20:49:55.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa",
+      "url": "https://www.larazon.es/espana/crisis-ceuta-sorprendio-gobierno-ley-extranjeria-pendiente-adecuarse-europa_202608136a737ac9a046ad6ebc9fa78b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T01:32:29.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

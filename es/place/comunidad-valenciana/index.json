@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T01:46:10.077Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
+      "summary": "Con gritos, aplausos y alguna lágrima de emoción, así vivió España su primer eclipse del siglo , que oscureció una enorme franja de la Península ―de Galicia a la Comunidad Valenciana para desaparecer en el mar tras pasar por Baleares— sobre las 20.30 de la tarde. A esa hora, cuando el falso atardecer ya había teñido de.",
+      "date": "2026-08-12"
+    },
     {
       "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
       "summary": "El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.",
@@ -64,19 +69,14 @@
       "title": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
       "summary": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
-      "summary": "La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
-      "url": "https://www.larazon.es/sociedad/eclipse-solar-total-2026-directo-ultima-hora-donde-verlo-horarios-recomendaciones_202608126a7c835ba046ad6ebcad975c.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-12T20:37:37.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
+      "url": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T21:09:47.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

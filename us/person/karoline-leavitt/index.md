@@ -3,10 +3,28 @@
 > Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/person/karoline-leavitt
 
 ## Recent changes
+
+### Karoline Leavitt is leaving her role as Trump's White House press secretary
+
+Leavitt called it a "bittersweet decision" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.
+
+Date: 2026-08-13
+
+### Discovered by Atlas
+
+Karoline Leavitt first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-12
+
+### Karoline Leavitt to step down as White House press secretary at end of August
+
+President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role.
+
+Date: 2026-08-12
 
 ### Karoline Leavitt says she's leaving her role as press secretary
 
@@ -20,13 +38,7 @@ White House Press Secretary Karoline Leavitt speaks during a press briefing in t
 
 Date: 2026-08-12
 
-### Discovered by Atlas
-
-Karoline Leavitt first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Karoline Leavitt says she's leaving her role as press secretary](https://www.cbsnews.com/video/trump-says-karoline-leavitt-leaving-role-press-secretary/?utm_source=lootura.com) — 2026-08-12T20:14:45.000Z
-- [Karoline Leavitt to Step Down as White House Press Secretary](https://time.com/article/2026/08/12/Karoline-Leavitt-to-step-down-white-house-press-secretary-Donald-Trump/?utm_source=lootura.com) — 2026-08-12T20:22:21.000Z
+- [Karoline Leavitt to step down as White House press secretary at end of August](https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com) — 2026-08-12T20:04:10.000Z
+- [Karoline Leavitt is leaving her role as Trump's White House press secretary](https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com) — 2026-08-13T00:32:39.000Z

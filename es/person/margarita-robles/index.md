@@ -3,16 +3,16 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T01:46:10.077Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
 
-### Robles blinda Ceuta y Melilla ante los reclamos de Rabat: «Son españolísimas»
+### Óscar Puente y Felipe VI
 
-Frente a un ministro del Interior, Fernando Grande-Marlaska, que ha incluso minimizado la declaración de intención pública practicada por parte de Marruecos, que reclama para sí Ceuta y Melilla —«esas referencias no tienen ningún alcance», ha dicho—, una ministra de Defensa, Margarita Robles, que, sin vacilaciones, ha.
+No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han demostrado dos maneras distintas de entender el poder. Margarita Robles viaja a Ceuta, escucha el enfado de sus ciudadanos y representa al Estado, mientras Óscar Puente convierte la crisis en material para Twitter. Al país le sobran activi.
 
-Date: 2026-08-12
+Date: 2026-08-13
 
 ### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
 
@@ -23,6 +23,12 @@ Date: 2026-08-12
 ### En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles
 
 Marruecos reclama Ceuta y Melilla tras el asalto : «Este asunto sigue sobre la mesa»; Robles lanza un aviso a Marruecos y defiende al Ejército: «A Ceuta y Melilla no se las toca»; Ceuta, al borde del estallido con la sanidad y los servicios públicos colapsados tras el asalto; y el precio de las gafas para el eclipse se.
+
+Date: 2026-08-12
+
+### Robles blinda Ceuta y Melilla ante los reclamos de Rabat: «Son españolísimas»
+
+Frente a un ministro del Interior, Fernando Grande-Marlaska, que ha incluso minimizado la declaración de intención pública practicada por parte de Marruecos, que reclama para sí Ceuta y Melilla —«esas referencias no tienen ningún alcance», ha dicho—, una ministra de Defensa, Margarita Robles, que, sin vacilaciones, ha.
 
 Date: 2026-08-12
 
@@ -62,14 +68,8 @@ El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los 
 
 Date: 2026-08-08
 
-### Sánchez no comparecerá por la crisis en Ceuta y Moncloa evita el careo entre Robles y Marlaska
-
-El Gobierno no paralizará sus vacaciones para explicar en el Congreso de los Diputados la crisis migratoria que provocó la entrada en la Ciudad Autónoma de Ceuta de más de 70.000 inmigrantes y que dejó en torno a los cien muertos. La ministra de Defensa, Margarita Robles, comparecerá el 25 de agosto; el ministro de Pre.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Robles blinda Ceuta y Melilla ante los reclamos de Rabat: «Son españolísimas»](https://www.abc.es/espana/robles-blinda-ceuta-melilla-frente-reclamos-rabat-20260812140202-nt.html?utm_source=lootura.com) — 2026-08-12T19:38:11.000Z
 - ["Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta](https://amp.elmundo.es/espana/2026/08/12/6a7c5d4ae4d4d826428b459e.html?utm_source=lootura.com) — 2026-08-12T11:47:49.000Z
+- [Óscar Puente y Felipe VI](https://www.larazon.es/espana/oscar-puente-felipe_202608136a7d090ea046ad6ebcae432c.html?utm_source=lootura.com) — 2026-08-13T00:00:14.000Z
 - [En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles](https://theobjective.com/espana/2026-08-12/sumario-tarde-caos-ceuta-rapapolvo-robles/?utm_source=lootura.com) — 2026-08-12T17:50:00.000Z

@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Agentic profiles for effective AI governance
+
+Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.
+
+Date: 2026-08-13
 
 ### AI chatbots are offering financial advice. Should you trust them?
 
@@ -62,13 +68,7 @@ Mathematician James Maynard has spent a lot of time this past year "soul searchi
 
 Date: 2026-08-11
 
-### Will AI make our dreams all look the same?
-
-Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-12T20:40:47.187Z
+- [Agentic profiles for effective AI governance](https://www.nature.com/articles/s41586-026-10805-z?utm_source=lootura.com) — 2026-08-13T01:46:41.229Z
 - [AI chatbots are offering financial advice. Should you trust them?](https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice?utm_source=lootura.com) — 2026-08-12T09:00:00.000Z

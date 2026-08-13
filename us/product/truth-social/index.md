@@ -3,7 +3,7 @@
 > Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-08-05T10:32:02.239Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/product/truth-social
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-No public source links.
+- [Trump sued over service selling faster access to Truth Social posts](https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit?utm_source=lootura.com) — 2026-08-12T20:33:10.000Z

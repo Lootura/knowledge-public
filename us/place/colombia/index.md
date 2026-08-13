@@ -3,10 +3,22 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T01:46:32.208Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### Colombia earthquake death toll rises as frantic search for survivors continues
+
+The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.
+
+Date: 2026-08-13
+
+### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
+
+In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
+
+Date: 2026-08-12
 
 ### Baby rescued from rubble in Colombia after devastating earthquake
 
@@ -56,19 +68,8 @@ More than 3,000 people were reported missing after the country was struck by its
 
 Date: 2026-08-11
 
-### Primaries test the Democratic Party and ‘red alert’ after Colombia earthquake: Morning Rundown
-
-Progressive Democrats fight for primary wins in Wisconsin and Minnesota.
-
-Date: 2026-08-11
-
-### 1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia
-
-Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia. (Image credit: Joaquin Sarmiento).
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Colombia earthquake rescue volunteer reacts after pulling survivor from rubble](https://www.cbsnews.com/video/rescue-volunteer-recalls-pulling-woman-from-rubble-after-colombia-earthquake/?utm_source=lootura.com) — 2026-08-12T11:51:50.000Z
-- [Baby rescued from rubble in Colombia after devastating earthquake](https://www.cbsnews.com/news/baby-rescued-rubble-colombia-earthquake/?utm_source=lootura.com) — 2026-08-12T08:24:45.000Z
+- [World Central Kitchen feeds families in Colombia after devastating earthquake](https://www.cbsnews.com/video/world-central-kitchen-feeds-families-in-colombia-after-devastating-earthquake/?utm_source=lootura.com) — 2026-08-12T16:42:54.000Z
+- [Colombia earthquake death toll rises as frantic search for survivors continues](https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com) — 2026-08-13T00:22:00.000Z
+- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
