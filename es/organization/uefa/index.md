@@ -3,10 +3,16 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
+
+### Javier Tebas aclara la absolución de Luis Rubiales por el 'caso grabaciones': "Prescribieron por un retraso judicial"
+
+El presidente de LaLiga, Javier Tebas , ha aclarado este jueves 13 de agosto la realidad procesal que absolvió a Luis Rubiales desde el Tribunal Supremo de Suiza, y donde parte de las calumnias producidas por el expresidente de la RFEF en unas grabaciones en el marco de una reunión de UEFA prescribieron por un retraso.
+
+Date: 2026-08-13
 
 ### European criticism of FIFA ruling grew
 
@@ -46,4 +52,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Javier Tebas aclara la absolución de Luis Rubiales por el 'caso grabaciones': "Prescribieron por un retraso judicial"](https://www.20minutos.es/deportes/futbol/javier-tebas-aclara-absolucion-luis-rubiales-por-caso-grabaciones-prescribieron-por-un-retraso-judicial_7025622_0.html?utm_source=lootura.com) — 2026-08-13T19:49:14.000Z

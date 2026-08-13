@@ -46,4 +46,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»](https://www.abc.es/espana/juez-zamarriego-senala-cerdan-pago-fondos-psoe-20260813181817-nt.html?utm_source=lootura.com) — 2026-08-13T16:34:21.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### ¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas
+
+Vecino de Los Gallardos (Almería) intentando extinguir las llamas de un incendio, 11 de julio de 2026. Ataurrahmanstudio/Shutterstock Los incendios de este verano , tanto por su intensidad como por su afectación a zonas habitadas , han generado una gran preocupación social y una búsqueda inmediata de culpables y soluci.
+
+Date: 2026-08-13
 
 ### Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado
 
@@ -62,12 +68,6 @@ Pedanía de Bédar (Almería) tras el incendio del 9 de agosto. Urci dream/Wikim
 
 Date: 2026-07-16
 
-### Spain wildfires: with 13 dead, we need to start measuring fire damage in lives – not just hectares
-
-Burnt out cars and scorched trees in the aftermath of the Los Gallardos fire in Almería, July 9, 2026 RTVE The July 9 wildfire in Los Gallardos – in Almería, eastern Andalusia – was a tragedy with a huge human and social impact. Beyond the provisional figures of dead, missing and injured and the specific circumstances.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas](https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172?utm_source=lootura.com) — 2026-08-13T16:30:08.000Z

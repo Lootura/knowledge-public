@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -17,18 +17,6 @@ Date: 2026-08-13
 ### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
 
 Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
-
-Date: 2026-08-13
-
-### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
-
-La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
-
-Date: 2026-08-13
-
-### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
-
-La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
 
 Date: 2026-08-13
 
@@ -50,6 +38,24 @@ En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extr
 
 Date: 2026-08-13
 
+### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
+
+Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
+
+Date: 2026-08-13
+
+### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
+
+La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
+
+Date: 2026-08-13
+
+### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
+
+La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
+
+Date: 2026-08-13
+
 ### Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención
 
 La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita "más tiempo" para preparar una intervención "con un mínimo de rigor y detalle". Así se lo ha comunicado a.
@@ -62,18 +68,11 @@ Las comunidades presididas por el PP se han negado a incorporar en el orden del 
 
 Date: 2026-08-13
 
-### El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle
-
-El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta](https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com) — 2026-08-13T15:08:49.000Z
 - [Robles aplaza su comparecencia en el Senado para poder ser más "precisa y exhaustiva" en sus explicaciones sobre la crisis de Ceuta](https://www.elmundo.es/espana/2026/08/13/6a7db4c3e85ece9b7d8b4574.html?utm_source=lootura.com) — 2026-08-13T12:24:29.000Z
 - [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z
+- [El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta](https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com) — 2026-08-13T17:45:21.000Z
 - [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
-- [Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP](https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com) — 2026-08-13T12:16:46.000Z
 - [Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta](https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com) — 2026-08-13T14:12:15.000Z
-- [Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano](https://theobjective.com/espana/politica/2026-08-13/robles-senado-comparecencia-vuelta-verano/?utm_source=lootura.com) — 2026-08-13T12:11:49.000Z

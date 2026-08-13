@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/francesca-hong/index.json",
   "description": "Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "Francesca"
   ],
@@ -16,6 +16,16 @@
     {
       "title": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
       "summary": "Ahead of Wisconsin’s Democratic primary for governor, a past tweet by the assemblywoman that called for the holiday to be canceled was resurfaced.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
+      "summary": "Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "summary": "David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism.\" Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.",
       "date": "2026-08-13"
     },
     {
@@ -52,30 +62,20 @@
       "title": "Even some progressives are happy about Hong’s loss",
       "summary": "After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stunning loss in Wisconsin’s Democratic gubernatorial primary Tuesday night revealed limits to the far left’s power — and is undercutting the narrative of an emerging insurgency. While progressive Peggy Flanagan cruised by 20 points in Minnesota.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Wisconsin primary provided snapshot of Democratic party – can it now win?",
-      "summary": "Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
-      "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Why Were Polls So Wrong in the Wisconsin Governor’s Race?",
-      "url": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:51:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
+      "url": "https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:17:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "How Crowley Eked Out a Win in the Wisconsin Governor Primary",
-      "url": "https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:03:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:23:15.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",

@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
+
+The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.
+
+Date: 2026-08-13
+
+### Who Might Replace Karoline Leavitt as Press Secretary?
+
+White House Press Secretary Karoline Leavitt addresses reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, D.C., on December 1, 2025. —Chip Somodevilla—Getty Images With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month,.
+
+Date: 2026-08-13
 
 ### White House Press Secretary Karoline Leavitt to Step Down
 
@@ -56,18 +68,7 @@ Karoline Leavitt announced Wednesday that she will be departing her role as pres
 
 Date: 2026-08-12
 
-### White House asked DOJ about new Reflecting Pool case against David Hearn
-
-Earlier this month, however, federal prosecutors moved to dismiss the case, citing new information that the damage was caused by a "botched installation" by a contractor, not vandalism.
-
-Date: 2026-08-12
-
-### Karoline Leavitt to Step Down as White House Press Secretary
-
-White House Press Secretary Karoline Leavitt speaks during a press briefing in the Brady Briefing Room of the White House in Washington, DC, on July 23, 2026. —SAUL LOEB–AFP via Getty Images Karoline Leavitt will step away from her position as White House Press Secretary at the end of this month, President Trump announ.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z
+- [Who Might Replace Karoline Leavitt as Press Secretary?](https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/?utm_source=lootura.com) — 2026-08-13T20:02:58.000Z

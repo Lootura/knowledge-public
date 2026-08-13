@@ -3,34 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### ¿Te has perdido este eclipse? En 2027, el próximo le toca al sur andaluz, Ceuta y Melilla
-
-Para los que no hayan podido desplazarse hacia la zona de España en la que el eclipse ha sido total . Para los que, estando en ella, las nubes les hayan jugado una mala pasada. Para los que quieran repetir, el 2 de agosto de 2027 tendrán una segunda oportunidad. Por esos caprichos de la mecánica celeste, la Luna se vol.
-
-Date: 2026-08-13
-
-### España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos
-
-Durante la crisis de Ceuta entraron irregularmente unas 80.000 personas con las autoridades marroquíes mirando hacia otro lado. Pero solo siguen allí unos 8.000. Y la verdadera dimensión de la crisis se sitúa en estos momentos en 5.000 personas: la suma de los menores (unos 2.500) y los potenciales solicitantes de asil.
-
-Date: 2026-08-13
-
-### Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”
-
-Cuando los ojos de toda España no se apartaron del horizonte, los de Jesús Gil Sáenz se mantuvieron mirando a la flor de luz que entra por las ventanas de la iglesia de San Juan del Hospital en Valencia. Entre los meses de abril y septiembre, cuenta, se produce un efecto visual “precioso” conforme el Sol asciende sobre.
-
-Date: 2026-08-13
-
-### Vivir el eclipse solar desde un avión: “No se puede explicar con términos científicos, es un sentimiento”
-
-Este 12 de agosto, 99 personas sabían que las nubes no iban a impedirles ver el eclipse solar total en España, porque iban a poder observarlo por encima de ellas. Todos ellos viajaban en el vuelo especial que Iberia ha fletado para contemplar este fenómeno a 10.000 metros de altura. Un equipo de EL PAÍS ha volado con e.
-
-Date: 2026-08-13
 
 ### El rastro del eclipse en datos: del apagón solar a las búsquedas de “dolor de ojos”
 
@@ -41,18 +17,6 @@ Date: 2026-08-13
 ### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
 
 Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
-
-Date: 2026-08-13
-
-### Una dana reparte desde mañana tormentas intensas en amplias zonas de España
-
-El calor intenso de los últimos días dará paso desde este viernes a otro tiempo porque la formación de una dana a partir de una vaguada atlántica llevará.
-
-Date: 2026-08-13
-
-### El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"
-
-La Guardia Civil ha difundido un mensaje a través de sus redes sociales en español, francés y árabe con el que tratan de disuadir a las personas que estén pensando en acceder de manera irregular a España ya que, si lo hacen, han advertido, serán devueltos a su país de origen. "No te dejes engañar. Todo lo que te promet.
 
 Date: 2026-08-13
 
@@ -68,15 +32,51 @@ El fenómeno del 12 de agosto va a servir para preparar mejor los dos eclipses s
 
 Date: 2026-08-13
 
+### La Guardia Civil avisa a los inmigrantes en redes sociales: «Si logras cruzar, te devolverán»
+
+La Guardia Civil ha difundido un mensaje a través de sus redes sociales en español, francés y árabe con el que tratan de disuadir a las personas que estén pensando en acceder de manera irregular a España ya que, si lo hacen, han advertido, serán devueltos a su país de origen. «No te dejes engañar. Todo lo que te promet.
+
+Date: 2026-08-13
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
+
+### Tortilla, la perra Zoeh y una rampa en la España vaciada para una imagen única del eclipse: "No nos apoyó ninguna marca"
+
+Danny León, dos veces olímpico, viajó con ocho personas hasta un pequeño pueblo de Huesca para conseguir en 30 segundos una de las imágenes del año Leer.
+
+Date: 2026-08-13
+
+### El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla
+
+Los mensajes que llegan de Rabat, por medio de su ministro de Justicia, Abdellatif Ouahbi, bien sobre la posibilidad de romper el tratado bilateral de extradiciones que opera entre España y Marruecos , bien poniendo en duda la soberanía española de Ceuta y Melilla, cuestión que dice sacar de manera recurrente en las re.
+
+Date: 2026-08-13
+
+### La DGT lo hace oficial: ya está en España el carril rojo y así hay que usarlo para que no acabe en multa
+
+El nuevo carril rojo que ha habilitado la Dirección General de Tráfico (DGT) en l a autovía de la A-2 ha marcado el inicio de un camino hacia una circulación más sostenible con el fin de reducir atascos en las grandes ciudades y a su vez la contaminación de los vehículos . Esta nueva implementación se ha dado en uno de.
+
+Date: 2026-08-13
+
+### Democracia eclipsada
+
+Han abandonado Ceuta porque han rendido España. No le den más vueltas. El sanchismo es el mayor enemigo moderno que tiene la nación española, y de ello se aprovechan los enemigos tradicionales, socios intramuros y vecinos con veleidades expansionistas. Están diciéndole a la población -no sólo ceutí- que el Estado no ex.
+
+Date: 2026-08-13
+
 ## Fuentes
 
-- [El Supremo suizo absuelve a Rubiales tras la denuncia de Tebas por una "grabación sin su consentimiento"](https://www.20minutos.es/deportes/futbol/tribunal-supremo-suiza-absuelve-luis-rubiales-tras-denuncia-javier-tebas-por-una-supuesta-grabacion-sin-consentimiento_7025477_0.html?utm_source=lootura.com) — 2026-08-13T13:23:42.000Z
-- [El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"](https://www.20minutos.es/ceuta/aviso-guardia-civil-los-migrantes-que-intenten-entrar-ceuta-melilla-si-logras-cruzar-te-devolveran_7025557_0.html?utm_source=lootura.com) — 2026-08-13T15:53:45.000Z
+- [Tragedia en el Caribe: muere una turista española tras un accidente náutico](https://www.20minutos.es/comunidad-valenciana/castellon/muere-una-turista-espanola-un-accidente-nautico-caribe-colombiano_7025591_0.html?utm_source=lootura.com) — 2026-08-13T19:21:13.000Z
 - [Primer balance sanitario tras el eclipse: más de 500 atenciones médicas en toda España](https://www.elmundo.es/salud/2026/08/13/6a7da763e9cf4a05518b457b.html?utm_source=lootura.com) — 2026-08-13T13:16:29.000Z
+- [Tortilla, la perra Zoeh y una rampa en la España vaciada para una imagen única del eclipse: "No nos apoyó ninguna marca"](https://www.elmundo.es/ciencia/2026/08/13/6a7df67ae85ece37298b4592.html?utm_source=lootura.com) — 2026-08-13T17:37:21.000Z
 - [Las 10 lecciones que aprendimos del eclipse solar que hechizó a España](https://www.elmundo.es/ciencia/2026/08/13/6a7db60de4d4d8c9378b45af.html?utm_source=lootura.com) — 2026-08-13T15:08:16.000Z
-- [¿Te has perdido este eclipse? En 2027, el próximo le toca al sur andaluz, Ceuta y Melilla](https://elpais.com/ciencia/2026-08-13/te-has-perdido-este-eclipse-en-2027-el-proximo-le-toca-al-sur-andaluz-ceuta-y-melilla.html?utm_source=lootura.com) — 2026-08-13T03:30:01.000Z
 - [El rastro del eclipse en datos: del apagón solar a las búsquedas de “dolor de ojos”](https://elpais.com/ciencia/2026-08-13/el-rastro-del-eclipse-en-datos-del-apagon-solar-a-las-busquedas-de-dolor-de-ojos.html?utm_source=lootura.com) — 2026-08-13T12:19:24.000Z
-- [Muere el músico y artista Víctor Coyote de manera repentina a los 68 años](https://elpais.com/cultura/2026-08-13/muere-el-musico-y-artista-victor-coyote-de-manera-repentina-a-los-68-anos.html?utm_source=lootura.com) — 2026-08-13T15:52:06.000Z
-- [España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos](https://elpais.com/espana/2026-08-13/espana-cifra-en-hasta-5000-los-migrantes-de-ceuta-que-pueden-ser-acogidos.html?utm_source=lootura.com) — 2026-08-13T03:30:01.000Z
-- [Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”](https://elpais.com/ciencia/2026-08-13/un-parroco-dando-misa-dependientes-en-la-gran-via-y-otros-miles-de-trabajadores-que-se-perdieron-el-eclipse-atendemos-siempre-a-quien-venga.html?utm_source=lootura.com) — 2026-08-13T03:30:01.000Z
-- [Vivir el eclipse solar desde un avión: “No se puede explicar con términos científicos, es un sentimiento”](https://elpais.com/videos/2026-08-13/vivir-el-eclipse-solar-desde-un-avion-no-se-puede-explicar-con-terminos-cientificos-es-un-sentimiento.html?utm_source=lootura.com) — 2026-08-13T03:30:00.000Z
+- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
+- [El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla](https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html?utm_source=lootura.com) — 2026-08-13T17:52:50.000Z
+- [La DGT lo hace oficial: ya está en España el carril rojo y así hay que usarlo para que no acabe en multa](https://okdiario.com/motor/dgt-lo-hace-oficial-ya-esta-espana-carril-rojo-asi-hay-que-usarlo-que-no-acabe-multa-19176793?utm_source=lootura.com) — 2026-08-13T18:05:54.000Z
+- [Democracia eclipsada](https://okdiario.com/opinion/democracia-eclipsada-19178284?utm_source=lootura.com) — 2026-08-13T18:26:47.000Z
+- [¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas](https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172?utm_source=lootura.com) — 2026-08-13T16:30:08.000Z

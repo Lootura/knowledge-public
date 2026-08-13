@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-08-13
 ### Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation
 
 President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.
+
+Date: 2026-08-13
+
+### Kennedy Center Board Decides to Inscribe Trump’s Name on Building
+
+The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.
+
+Date: 2026-08-13
+
+### Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved
+
+U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.
 
 Date: 2026-08-13
 
@@ -56,22 +68,10 @@ Leavitt called it a "bittersweet decision" in a social media post Wednesday shor
 
 Date: 2026-08-13
 
-### Product availability changed in Europe
-
-President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
-
-Date: 2026-08-12
-
-### For Blakeman, Trump Could Make and Break His Bid to Lead New York
-
-Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Former Disney CEO Bob Iger, venture capitalist Josh Kushner buy LA Lakers](https://www.cbsnews.com/video/former-disney-ceo-bob-iger-venture-capitalist-josh-kushner-buy-la-lakers/?utm_source=lootura.com) — 2026-08-13T12:31:27.000Z
 - [These swing voters in Nevada say they are not dismissing socialist candidates](https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z
 - [Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation](https://www.pbs.org/newshour/politics/reflecting-pools-botched-repairs-threaten-to-tarnish-the-national-park-services-reputation?utm_source=lootura.com) — 2026-08-13T14:18:28.000Z
-- [Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
-- [Trump-Led Board Votes Again to Close Kennedy Center for Renovations](https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html?utm_source=lootura.com) — 2026-08-13T16:47:28.000Z
+- [Kennedy Center Board Decides to Inscribe Trump’s Name on Building](https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html?utm_source=lootura.com) — 2026-08-13T20:20:38.000Z
+- [Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved](https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com) — 2026-08-13T18:08:37.000Z

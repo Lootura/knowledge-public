@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Compromisarios del Athletic planean boicotear el homenaje a los campeones del mundo para reivindicar la selección vasca](https://okdiario.com/deportes/compromisarios-del-athletic-planean-boicotear-homenaje-campeones-del-mundo-reivindicar-seleccion-vasca-19176750?utm_source=lootura.com) — 2026-08-13T16:15:51.000Z
+No public source links.

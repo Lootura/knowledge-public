@@ -3,22 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
-
-La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.
-
-Date: 2026-08-13
-
-### Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes
-
-Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.
-
-Date: 2026-08-13
 
 ### DKV se convierte en patrocinador del Atlético de Madrid
 
@@ -29,6 +17,30 @@ Date: 2026-08-13
 ### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
 
 La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
+
+### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
+
+Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».
+
+Date: 2026-08-13
+
+### Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático
+
+La dirigente madrileña esquiva las preguntas de la prensa mientras espera que se diluya la polémica por el ático adquirido por la Comunidad de Madrid, ahora puesto de nuevo a la venta Ayuso redobla los ataques contra el Gobierno para enterrar la polémica del ático La presidenta de la Comunidad de Madrid, Isabel Díaz Ay.
+
+Date: 2026-08-13
+
+### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
+
+La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.
+
+Date: 2026-08-13
+
+### Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes
+
+Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.
 
 Date: 2026-08-13
 
@@ -56,21 +68,9 @@ Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barri
 
 Date: 2026-08-13
 
-### Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse
-
-La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.
-
-Date: 2026-08-13
-
-### Radiografía del turismo en Madrid: récord de gasto internacional y 59% de extranjeros
-
-Madrid se ha consolidado como destino turístico internacional. La capital recibió 5,6 millones de visitantes en el primer semestre de 2026 , de los que 3,3 millones (59%) fueron extranjeros . El número de personas que han pasado por la ciudad supone un incremento del 4,1% con respecto a las mismas fechas del año anteri.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid](https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com) — 2026-08-13T13:47:49.000Z
-- [Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes](https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com) — 2026-08-13T16:15:00.000Z
+- [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
+- [Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático](https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com) — 2026-08-13T16:54:47.000Z
 - [DKV se convierte en patrocinador del Atlético de Madrid](https://theobjective.com/actualidad/2026-08-13/dkv-patrocinador-atletico-madrid/?utm_source=lootura.com) — 2026-08-13T15:40:50.000Z
 - [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

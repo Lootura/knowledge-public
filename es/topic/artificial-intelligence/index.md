@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [IBM y OpenAI se alían para acelerar la implantación de la IA en empresas](https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com) — 2026-08-13T12:40:12.000Z
+- [OpenAI acelera ChatGPT como nunca: su IA más potente ya responde en segundos gracias a esta función](https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/?utm_source=lootura.com) — 2026-08-13T19:35:31.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
@@ -17,6 +17,11 @@
     {
       "title": "¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país",
       "summary": "El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple",
+      "summary": "El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.",
       "date": "2026-08-13"
     },
     {
@@ -58,11 +63,6 @@
       "title": "'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco",
       "summary": "En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso , cuya cuarta (y última) temporada se puede ver tanto en Apple TV como en Prime Video , llegó para darles un nuevo empujón y eso es lo que están aprovechando actualmente las plataformas de streaming. Así, tras el éxito cosechado por Más que.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple",
-      "summary": "Equiparse con el reloj inteligente más potente, resistente y avanzado del ecosistema de la manzana para abordar expediciones en la montaña o sesiones intensas de entrenamiento ya no requiere realizar una inversión prohibitiva. El Apple Watch Ultra 2 GPS + Cellular se sitúa en la cúspide de los relojes deportivos , comb.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://hipertextual.com/apple/iphone-ultra-podria-lanzarse-solo-en-estados-unidos/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T15:05:00.000Z",
       "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple",
+      "url": "https://www.larazon.es/tecnologia-consumo/samsung/samsung-ya-trabaja-su-propia-alternativa-airpods-max-apple_202608136a7df335a046ad6ebcaf8990.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:30:00.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

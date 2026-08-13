@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -31,6 +31,11 @@
     {
       "title": "Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»",
       "summary": "El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
+      "summary": "Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.",
       "date": "2026-08-13"
     },
     {
@@ -67,11 +72,6 @@
       "title": "Crecen los casos de violencia de género en Euskadi: 2.200 mujeres denuncian agresiones de su pareja o expareja en la primera mitad del año",
       "summary": "Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Los mejores del mundo pasan por Pagola",
-      "summary": "El evento Copenhagen Open es un referente de la cultura skater y el martes hizo una parada en el skatepark de Aiete en su gira por Euskadi y el sur de Francia.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
@@ -86,7 +86,13 @@
       "url": "https://www.diariovasco.com/politica/euskadi-exige-agotar-medios-reagrupar-menores-ceuta-20260813105417-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T08:54:17.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
+      "url": "https://www.larazon.es/pais-vasco/ondarroa-enclave-vizcaino-que-aparece-historia-familiar-jacob-elordi-b30m_202608136a7e224d71b42a0b5dedca25.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:00:13.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

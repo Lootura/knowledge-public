@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T01:43:41.443Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Platner announced as speaker for activist-led event in Maine",
+      "summary": "Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Maine lifeguard \"started swimming like hell\" when shark pulled him underwater",
       "summary": "A lifeguard said a shark off the coast of Scarborough Beach in Maine grabbed onto his buoy and pulled him 5 feet underwater before he was able to get free.",
@@ -61,13 +66,15 @@
       "title": "Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’",
       "summary": "In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
-      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Platner announced as speaker for activist-led event in Maine",
+      "url": "https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:58:02.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

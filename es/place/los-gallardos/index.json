@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "Gallardos"
   ],
   "changes": [
+    {
+      "title": "¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas",
+      "summary": "Vecino de Los Gallardos (Almería) intentando extinguir las llamas de un incendio, 11 de julio de 2026. Ataurrahmanstudio/Shutterstock Los incendios de este verano , tanto por su intensidad como por su afectación a zonas habitadas , han generado una gran preocupación social y una búsqueda inmediata de culpables y soluci.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Ocho familiares de las víctimas del incendio de Los Gallardos se personan como acusación en el juzgado",
       "summary": "Ocho familiares de las víctimas mortales del incendio de Los Gallardos , en Almería, que dejó 14 muertos el pasado julio , se personarán como acusación en la causa. Así lo ha otorgado la plaza número 3 de la Sección Civil y de Instrucción del Tribunal de Instancia de Vera. Asimismo, el resto de los afectados podrán sum.",
@@ -57,13 +62,15 @@
       "title": "Ocho actuaciones para mejorar la gestión del riesgo de incendio y proteger a la población",
       "summary": "Pedanía de Bédar (Almería) tras el incendio del 9 de agosto. Urci dream/Wikimedia Commons , CC BY-SA Cuando las llamas avanzaban hacia el pueblo de Bédar (Almería), el alcalde dio la orden desesperada de tocar las campanas de la iglesia para advertir a los vecinos. Pero esto no bastó. El incendio de Los Gallardos, con.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Spain wildfires: with 13 dead, we need to start measuring fire damage in lives – not just hectares",
-      "summary": "Burnt out cars and scorched trees in the aftermath of the Los Gallardos fire in Almería, July 9, 2026 RTVE The July 9 wildfire in Los Gallardos – in Almería, eastern Andalusia – was a tragedy with a huge human and social impact. Beyond the provisional figures of dead, missing and injured and the specific circumstances.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas",
+      "url": "https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:30:08.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

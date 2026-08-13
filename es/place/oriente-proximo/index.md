@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo](https://amp.expansion.com/empresas/2026/08/13/6a7dbe86468aeb447f8b4571.html?utm_source=lootura.com) — 2026-08-13T12:59:47.000Z
+No public source links.

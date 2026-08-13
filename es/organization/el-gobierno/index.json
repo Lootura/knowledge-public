@@ -1,14 +1,14 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [],
   "changes": [
     {
@@ -37,6 +37,11 @@
       "date": "2026-08-13"
     },
     {
+      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
+      "summary": "Los mensajes que llegan de Rabat, por medio de su ministro de Justicia, Abdellatif Ouahbi, bien sobre la posibilidad de romper el tratado bilateral de extradiciones que opera entre España y Marruecos , bien poniendo en duda la soberanía española de Ceuta y Melilla, cuestión que dice sacar de manera recurrente en las re.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña",
       "summary": "Muchas personas optaron por desplazarse desde el Principado hasta León para garantizar su observación. El Gobierno asturiano ha desactivado el Plan de Protección Civil en fase de alerta MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027 Asturias, una de las zonas privilegiadas.",
       "date": "2026-08-13"
@@ -55,20 +60,9 @@
       "title": "Quedan astrónomos en los Astrónomos: así se ha vivido el eclipse en Vitoria en el punto de observación de 1860",
       "summary": "Apenas medio centenar de personas han disfrutado del fenómeno astronómico en el mismo punto en que expertos internacionales encabezados por el alemán Johann Heinrich von Mädler se reunieron hace 166 años El Gobierno vasco aclara que las 30.000 gafas para el eclipse que ha regalado están “perfectamente homologadas” Qued.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto",
-      "summary": "Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de magnitud 7,4 que sacudió a Colombia el lunes, según datos divulgados este miércoles por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Además, 287 personas permanecen desaparecidas hasta el momento como resultado del po.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
-    {
-      "title": "Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad tras la crisis migratoria en Ceuta",
-      "url": "https://www.20minutos.es/internacional/italia-mantendra-controles-con-espana-hasta-descartar-totalmente-riesgos-seguridad_7025512_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:21:21.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio",
       "url": "https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com",
@@ -94,11 +88,17 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
+      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
+      "url": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:52:50.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
       "title": "A partir del 28 de agosto los jubilados van a cobrar un complemento del 25% de su pensión",
       "url": "https://okdiario.com/economia/gobierno-confirma-partir-del-28-agosto-jubilados-van-cobrar-complemento-del-25-pension-19162926/amp?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:44:15.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

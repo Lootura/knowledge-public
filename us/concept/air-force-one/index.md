@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
+No public source links.

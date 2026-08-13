@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "PP",
     "populares"
@@ -22,16 +22,6 @@
     {
       "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
       "summary": "Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
-      "summary": "La ministra de Defensa se pone a disposición de la Cámara Alta para acudir \"en el período ordinario de sesiones\" y excusa su ausencia el día 18 porque necesita \"más tiempo para prepararla con rigor\" y el PP responde que Sánchez ha \"enjaulado\" a quien tildó de \"pájara\" Margarita Robles se desmarca de la estrategia de Mo.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano",
-      "summary": "La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.",
       "date": "2026-08-13"
     },
     {
@@ -50,6 +40,21 @@
       "date": "2026-08-13"
     },
     {
+      "title": "El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta",
+      "summary": "Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
+      "summary": "La ministra de Defensa se pone a disposición de la Cámara Alta para acudir \"en el período ordinario de sesiones\" y excusa su ausencia el día 18 porque necesita \"más tiempo para prepararla con rigor\" y el PP responde que Sánchez ha \"enjaulado\" a quien tildó de \"pájara\" Margarita Robles se desmarca de la estrategia de Mo.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano",
+      "summary": "La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita \"más tiempo\" para preparar su intervención",
       "summary": "La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita \"más tiempo\" para preparar una intervención \"con un mínimo de rigor y detalle\". Así se lo ha comunicado a.",
       "date": "2026-08-13"
@@ -57,11 +62,6 @@
     {
       "title": "Las Comunidades del PP rechazan tratar en la próxima Conferencia Sectorial de Infancia la reubicación de los menores de Ceuta",
       "summary": "Las comunidades presididas por el PP se han negado a incorporar en el orden del día de la próxima Conferencia Sectorial de Infancia y Adolescencia un punto informativo y de debate sobre la atención de menores migrantes no acompañados en Ceuta y la situación de la ciudad autónoma. Ha ocurrido durante la Comisión Sectori.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle",
-      "summary": "El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.",
       "date": "2026-08-13"
     }
   ],
@@ -85,29 +85,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta",
+      "url": "https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:45:21.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
       "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
       "url": "https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T12:23:31.000Z",
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
-      "url": "https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:16:46.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta",
       "url": "https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T14:12:15.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano",
-      "url": "https://theobjective.com/espana/politica/2026-08-13/robles-senado-comparecencia-vuelta-verano/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:11:49.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

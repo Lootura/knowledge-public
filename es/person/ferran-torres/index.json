@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -17,6 +17,16 @@
     "Torres"
   ],
   "changes": [
+    {
+      "title": "Ferran Torres, el tiburón que no acabó de cautivar en el Barça",
+      "summary": "La marcha de Ferran Torres del Barça no será traumática porque el valenciano nuncó llegó a calar ni a nivel deportivo ni sentimental entre la afición culé pese a firmar números decentes, por momentos notables, durante sus cuatro temporadas y media en el Camp Nou. Los errores de cara a puerta y algunas sequías goleadora.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
+      "summary": "El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.",
+      "date": "2026-08-13"
+    },
     {
       "title": "El eclipse solar desde un avión de Iberia repleto de astrónomos: \"¡Ni el gol de Ferran Torres, tú!\"",
       "summary": "Contamos la experiencia del fabuloso fenómeno rodeados de científicos desde un avión a 11.000 metros. \"Somos los españoles que hemos disfrutado de un eclipse de mayor duración\", dice un astrónomo entusiasmado Leer.",
@@ -56,18 +66,27 @@
       "title": "Ferran Torres ya es embajador de la Comunitat Valenciana: \"Es un orgullo y una responsabilidad\"",
       "summary": "La Generalitat ha propuesto al futbolista de Foios y a Alejandro Grimaldo, también valenciano, para recibir la Alta Distinción del 9 d'Octubre.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
-      "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "Montoya: «Como a Ferran Torres, Dios me pondrá en mi lugar»",
-      "summary": "«La música ha sido una cura para mí. Me ha costado caro tener esta visibilidad en la televisión», asegura.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSG ficha a Ferran, el héroe del Mundial, por 50 millones",
+      "url": "https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:14:17.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Ferran Torres, el tiburón que no acabó de cautivar en el Barça",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613490/ferran-torres-tiburon-acabo-cautivar-barca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:15:22.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
+      "url": "https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:24:50.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

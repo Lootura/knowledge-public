@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### ¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país
 
 El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.
+
+Date: 2026-08-13
+
+### Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple
+
+El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.
 
 Date: 2026-08-13
 
@@ -62,12 +68,7 @@ En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso
 
 Date: 2026-08-10
 
-### Bajadón de 400 euros para el Apple Watch Ultra 2: PcComponentes está liquidando uno de los mejores relojes jamás fabricados por Apple
-
-Equiparse con el reloj inteligente más potente, resistente y avanzado del ecosistema de la manzana para abordar expediciones en la montaña o sesiones intensas de entrenamiento ya no requiere realizar una inversión prohibitiva. El Apple Watch Ultra 2 GPS + Cellular se sitúa en la cúspide de los relojes deportivos , comb.
-
-Date: 2026-08-09
-
 ## Fuentes
 
 - [¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país](https://hipertextual.com/apple/iphone-ultra-podria-lanzarse-solo-en-estados-unidos/?utm_source=lootura.com) — 2026-08-13T15:05:00.000Z
+- [Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple](https://www.larazon.es/tecnologia-consumo/samsung/samsung-ya-trabaja-su-propia-alternativa-airpods-max-apple_202608136a7df335a046ad6ebcaf8990.html?utm_source=lootura.com) — 2026-08-13T20:30:00.000Z

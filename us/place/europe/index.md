@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-08-13
 ### Views of the total solar eclipse from parts of Europe
 
 A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.
+
+Date: 2026-08-13
+
+### UK records hottest day of the year as western Europe swelters once again
+
+Britain, like France, is experiencing its fifth heat wave of the year, with the first recorded in May.
 
 Date: 2026-08-13
 
@@ -62,14 +68,8 @@ Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins
 
 Date: 2026-08-12
 
-### The most dramatic meteor shower of the summer peaks the day of a solar eclipse
-
-The Perseids’ peak coincides with another highly anticipated celestial event: a total solar eclipse that will be visible in parts of Europe.
-
-Date: 2026-08-11
-
 ## Sources
 
 - [Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.](https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com) — 2026-08-13T12:47:42.000Z
 - [Views of the total solar eclipse from parts of Europe](https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com) — 2026-08-13T12:42:59.000Z
-- [The Most Spectacular Photos of Europe's Total Solar Eclipse](https://time.com/article/2026/08/13/best-europe-solar-eclipse-photos/?utm_source=lootura.com) — 2026-08-13T14:48:46.000Z
+- [UK records hottest day of the year as western Europe swelters once again](https://www.pbs.org/newshour/world/uk-records-hottest-day-of-the-year-as-western-europe-swelters-once-again?utm_source=lootura.com) — 2026-08-13T17:49:14.000Z

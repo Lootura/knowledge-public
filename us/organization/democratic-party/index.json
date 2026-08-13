@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "Democrats"
   ],
@@ -39,6 +39,16 @@
       "date": "2026-08-13"
     },
     {
+      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
+      "summary": "Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "summary": "David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism.\" Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
       "summary": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.",
       "date": "2026-08-13"
@@ -52,16 +62,6 @@
       "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
       "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
-      "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year",
-      "summary": "Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes him the 10th House incumbent to lose a primary so far this cycle — an unusually high figure that comes as Democrats push their leaders to pass the torch to a new, more progressive generation and Republicans continue to reckon with a party reb.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -70,6 +70,12 @@
       "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:17:33.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
+      "url": "https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:17:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028",
@@ -90,11 +96,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:23:15.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
       "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
       "url": "https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T14:03:40.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 7
 }

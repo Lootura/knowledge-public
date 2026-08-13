@@ -3,14 +3,14 @@
 > Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/paises-bajos
 
 ## Cambios recientes
 
 ### Ferrovial dejará de cotizar en la Bolsa de Ámsterdam tres años después de fijar su sede en Países Bajos
 
-Ferrovial dejará de cotizar en la Bolsa de Ámsterdam el próximo mes. Así lo ha comunicado la compañía de infraestructuras a la Comisión Nacional del Mercado de Valores (CNMV), en una decisión que justifica por la “creciente concentración de liquidez” en el Nasdaq estadounidense y en las bolsas españolas. Seguir leyendo.
+Ferrovial dejará de cotizar en la Bolsa de Ámsterdam el próximo mes. Así lo ha comunicado la compañía de infraestructuras a la Comisión Nacional del Mercado de Valores (CNMV), en una decisión que justifica por la “creciente concentración de liquidez” en el Nasdaq estadounidense y en las bolsas españolas. La misma no im.
 
 Date: 2026-08-13
 

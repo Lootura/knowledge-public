@@ -1,0 +1,44 @@
+{
+  "id": "usa-west-bank",
+  "name": "West Bank",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/west-bank",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/west-bank",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/west-bank/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/west-bank/index.json",
+  "description": "Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "aliases": [
+    "Cisjordan",
+    "Judea and Samaria",
+    "WestBank"
+  ],
+  "changes": [
+    {
+      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "summary": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "West Bank first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' U.S. ambassador says",
+      "url": "https://www.pbs.org/newshour/world/settler-siege-of-palestinian-homes-in-the-west-bank-a-horrific-act-of-terror-u-s-ambassador-says?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T14:01:44.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:18:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

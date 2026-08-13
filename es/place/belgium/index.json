@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "Hallan un tesoro oculto de nueve millones durante las obras de un edificio en Flandes",
+      "summary": "Trabajadores de una empresa de construcción hallaron monedas y lingotes de oro valorados en 9 millones de euros ocultos en un edificio antiguo durante las obras para la reforma del inmueble en Flandes (norte de Bélgica), según informaron este jueves los medios locales. El descubrimiento tuvo lugar en la localidad de De.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Un acertante de Euromillones gana el bote de más de 111 millones",
       "summary": "La combinación ganadora del sorteo de Euromillones celebrado este viernes, 7 de agosto, ha estado formada por los números 35, 26, 29, 47 y 38. Las estrellas son 1 y 2. La recaudación ha ascendido a 60.333.642,60 euros. Existe un boleto acertante de Primera Categoría (cinco + dos) que ha sido validado en Bélgica y que h.",
@@ -57,13 +62,15 @@
       "title": "Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros",
       "summary": "El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos, que se ha cobrado la vida de 13 personas, cuenta ya con la identificación de seis víctimas , que corresponden a un ciudadano español y a cinco extranjeros, un hombre y una mujer de Reino Unido, uno de Francia, uno de Bélgica y una mujer de.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos",
-      "summary": "El Gobierno de Bélgica apunta a tres posibles víctimas de nacionalidad belga entre los fallecidos en el incendio de Los Gallardos (Almería) tras no lograr contactar con ellas, si bien ha recordado que aún no hay confirmación oficial por parte de las autoridades españolas y que ésta podría tardar unos días. Según ha inf.",
-      "date": "2026-07-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Hallan un tesoro oculto de nueve millones durante las obras de un edificio en Flandes",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-13/hallan-tesoro-oculto-9-millones-euros-durante-obras-edificio-flandes/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:43:43.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -46,4 +46,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025](https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers?utm_source=lootura.com) — 2026-08-13T16:31:14.000Z
+No public source links.

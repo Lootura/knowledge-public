@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,18 +35,8 @@
   ],
   "changes": [
     {
-      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).",
-      "date": "2026-08-13"
-    },
-    {
       "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
       "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S. (Image credit: Sue Ogrocki).",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
-      "summary": "Democratic Socialists are capturing more votes than ever before — even as they run up against the limits of their appeal.",
       "date": "2026-08-13"
     },
     {
@@ -60,32 +50,48 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Journalism is key to combating bad practices in science",
-      "summary": "Watchdog science journalism has become a fundamental tool to counter scientific malpractice, such as publication fraud, abuse and political and corporate manipulation of science. A study by the Universitat Autònoma de Barcelona (UAB) has mapped for the first time the rise of this type of journalism in Ibero-America thr.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
       "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
       "date": "2026-08-13"
     },
     {
-      "title": "How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland",
-      "summary": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "title": "Record-breaking heat takes mounting toll on the U.S. economy",
+      "summary": "Heat waves are dealing a financial blow to businesses and creating hazardous conditions for workers, according to climate experts.",
       "date": "2026-08-13"
     },
     {
-      "title": "How College Education Divided America",
-      "summary": "Shortly after pandemic-era travel restrictions eased, I flew to Washington, D.C., for a meeting with leaders from left-leaning foundations. The topic was close to my heart: combating inequality and constructing a new narrative about reversing huge and widening income disparities. I expected the focus to be on the jarri.",
+      "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+      "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).",
       "date": "2026-08-13"
     },
     {
-      "title": "ICE plans to give officers gloves that can deliver electric shocks",
-      "summary": "U.S. Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals.",
+      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
+      "summary": "Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 million person-days between July 15–17. Over the peak impact period of July 13–18, moderate or worse air quality accounted for more than 769 million person-days. For a perio.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
+      "summary": "Democratic Socialists are capturing more votes than ever before — even as they run up against the limits of their appeal.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
+    {
+      "title": "Record-breaking heat takes mounting toll on the U.S. economy",
+      "url": "https://www.cbsnews.com/news/extreme-heat-waves-us-economy-impact/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:27:02.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Latest news on ICE plan to give agents electric shock gloves",
       "url": "https://www.cbsnews.com/video/ices-controversial-plan-to-agents-electric-shock-gloves/?utm_source=lootura.com",
@@ -93,15 +99,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
       "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
       "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions?utm_source=lootura.com",
       "publishedAt": "2026-08-13T05:43:43.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
     },
     {
@@ -111,35 +117,35 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Journalism is key to combating bad practices in science",
-      "url": "https://phys.org/news/2026-08-journalism-key-combating-bad-science.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:20:04.000Z",
+      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
+      "url": "https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:00:08.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:33:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T18:08:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
       "url": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T11:24:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "publishedAt": "2026-08-13T18:42:17.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
       "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
       "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:35:41.000Z",
+      "publishedAt": "2026-08-13T18:15:50.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland",
-      "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:26:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "How College Education Divided America",
-      "url": "https://time.com/article/2026/08/13/how-college-education-divided-america/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:57:01.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 11
 }

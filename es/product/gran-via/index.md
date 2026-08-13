@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”](https://elpais.com/ciencia/2026-08-13/un-parroco-dando-misa-dependientes-en-la-gran-via-y-otros-miles-de-trabajadores-que-se-perdieron-el-eclipse-atendemos-siempre-a-quien-venga.html?utm_source=lootura.com) — 2026-08-13T03:30:01.000Z
+No public source links.

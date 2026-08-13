@@ -3,10 +3,16 @@
 > Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/object/colorado-river
 
 ## Recent changes
+
+### Running Dry: The fight for the West's dwindling water supply | 60 Minutes Archive
+
+The nation's largest reservoir, Lake Mead, has fallen to a record low. In 2021, Bill Whitaker visited the Colorado River and reported on how millions of people depend on the water to drink, power their homes, and irrigate their farms.
+
+Date: 2026-08-13
 
 ### Lake Mead hits historic low water level as Colorado River struggles
 
@@ -34,4 +40,4 @@ Date: 2026-07-31
 
 ## Sources
 
-No public source links.
+- [Running Dry: The fight for the West's dwindling water supply | 60 Minutes Archive](https://www.cbsnews.com/video/running-dry-the-fight-for-the-wests-dwindling-water-supply-60-minutes-archive/?utm_source=lootura.com) — 2026-08-13T20:13:44.000Z

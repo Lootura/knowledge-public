@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days
+
+Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 million person-days between July 15–17. Over the peak impact period of July 13–18, moderate or worse air quality accounted for more than 769 million person-days. For a perio.
+
+Date: 2026-08-13
 
 ### Want to catch a glimpse of the solar eclipse from North America? Here's where and when
 
@@ -62,12 +68,6 @@ Wildfire activity has increased in British Columbia, with thousands evacuated fr
 
 Date: 2026-08-08
 
-### Canada tries to adapt to a future of wildfires
-
-Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.
-
-Date: 2026-08-08
-
 ## Sources
 
-No public source links.
+- [Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days](https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html?utm_source=lootura.com) — 2026-08-13T19:00:08.000Z

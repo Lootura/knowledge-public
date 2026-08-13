@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Platner announced as speaker for activist-led event in Maine
+
+Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.
+
+Date: 2026-08-13
 
 ### Dems stand by Maine nominee hit with report he fathered children with his second cousin
 
@@ -62,12 +68,6 @@ Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner
 
 Date: 2026-07-20
 
-### In Maine Senate Race, Democrats Go From Chaos to Coronation
-
-Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Platner announced as speaker for activist-led event in Maine](https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207?utm_source=lootura.com) — 2026-08-13T16:58:02.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
+
+Date: 2026-08-13
 
 ### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
 
@@ -23,12 +29,6 @@ Date: 2026-08-13
 ### Robles recula y no irá al Senado por la crisis de Ceuta: "Necesito más tiempo"
 
 La ministra de Defensa no irá finalmente al Senado para dar cuenta de la gestión de la crisis de Ceuta . Margarita Robles ha remitido una carta al presidente de la Cámara alta en la que admite que necesita "más tiempo" para poder preparar la comparecencia prevista inicialmente para el 18 de agosto. Robles alude en su m.
-
-Date: 2026-08-13
-
-### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
-
-La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
 
 Date: 2026-08-13
 
@@ -70,7 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Robles recula y no irá al Senado por la crisis de Ceuta: "Necesito más tiempo"](https://www.elconfidencial.com/espana/2026-08-13/robles-recula-y-no-ira-al-senado-por-la-crisis-de-ceuta_4405553/?utm_source=lootura.com) — 2026-08-13T12:06:00.000Z
-- [Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP](https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com) — 2026-08-13T12:16:46.000Z
-- [Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano](https://theobjective.com/espana/politica/2026-08-13/robles-senado-comparecencia-vuelta-verano/?utm_source=lootura.com) — 2026-08-13T12:11:49.000Z
 - [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

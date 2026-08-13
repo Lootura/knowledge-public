@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián
+
+Nuevo revés para Morante de La Puebla este agosto. El diestro sevillano se perderá la Semana Grande de San Sebastián debido a que padece síntomas compatibles con un cólico nefrítico. El cigarrero, estrella de la corrida mixta del ciclo donostiarra, no podrá torear este viernes por prescripción médica, según ha adelanta.
+
+Date: 2026-08-13
 
 ### Pueblos, playas, montes... España se llena por el fenómeno del año
 
@@ -62,13 +68,8 @@ El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos �
 
 Date: 2026-08-09
 
-### Noticias de otra plaga
-
-La Concha es el fragmento de mar más urbano y pacífico que puede imaginarse: es otra plaza de San Sebastián, propicia a los niños y los ancianos como las demás, pero de cuya pavimentación no se ocupa el Ayuntamiento sino el Cantábrico . Es una playa que se recoge en torno a sí misma como si no quisiera desafiar a nadie.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián](https://www.abc.es/cultura/toros/sevilla/morante-puebla-sufre-colico-nefritico-toreara-san-20260813200852-nts.html?utm_source=lootura.com) — 2026-08-13T18:14:33.000Z
 - [«Ver tiburones pasar tan cerca impresiona»](https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:11:05.000Z
 - [¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?](https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com) — 2026-08-12T21:12:54.000Z

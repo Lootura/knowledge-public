@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
+      "summary": "Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
+      "summary": "El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años",
+      "summary": "El sindicalista Juan Ignacio Marín Arce (Barcelona, 1953), quién fue secretario general de la Federación del Metal de CC.OO., ha fallecido a los 73 años,.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid",
       "summary": "La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.",
@@ -55,36 +70,33 @@
       "title": "Gonzalo Bernardos, economista y profesor: «Un jubilado español cobra más que uno alemán y nosotros tenemos salarios bastante más bajos»",
       "summary": "El sistema de pensiones vuelve a estar ahora en el centro del debate, debido a una reciente comparación realizada por el economista Gonzalo Bernardos a partir de lo que reciben los jubilados españoles con las prestaciones de otros países europeos. El economista y profesor de la Universidad de Barcelona, considera que E.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno",
-      "summary": "Barcelona ofrece una forma diferente de vivir el eclipse solar del 12 de agosto sin mirar al cielo ni utilizar gafas especiales. Una experiencia inmersiva permite adelantarse al fenómeno -o revivirlo después- durante 45 minutos , con sesiones diarias disponibles hasta diciembre. La propuesta se encuentra en el Museu de.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy",
-      "summary": "Conoce la previsión completa del tiempo que hará hoy en Barcelona según los datos de la AEMET para prepararte para el día.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos",
-      "summary": "Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid",
-      "url": "https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:47:49.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "El PSG ficha a Ferran, el héroe del Mundial, por 50 millones",
+      "url": "https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:14:17.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes",
-      "url": "https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:15:00.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T18:20:02.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
+      "url": "https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:24:50.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años",
+      "url": "https://theobjective.com/sociedad/2026-08-13/fallece-juan-ignacio-marin-arce-sindicalista-ccoo-73-anos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:52:23.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

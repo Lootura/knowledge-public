@@ -3,10 +3,16 @@
 > Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/person/karoline-leavitt
 
 ## Recent changes
+
+### Who Might Replace Karoline Leavitt as Press Secretary?
+
+White House Press Secretary Karoline Leavitt addresses reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, D.C., on December 1, 2025. —Chip Somodevilla—Getty Images With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month,.
+
+Date: 2026-08-13
 
 ### White House Press Secretary Karoline Leavitt to Step Down
 
@@ -46,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Who Might Replace Karoline Leavitt as Press Secretary?](https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/?utm_source=lootura.com) — 2026-08-13T20:02:58.000Z

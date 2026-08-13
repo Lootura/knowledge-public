@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -38,6 +38,18 @@ The newly minted GOP ticket wasted no time before hammering Democrats over fraud
 
 Date: 2026-08-13
 
+### Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong
+
+Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.
+
+Date: 2026-08-13
+
+### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
+
+David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
+
+Date: 2026-08-13
+
 ### Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC
 
 Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.
@@ -56,22 +68,12 @@ Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence
 
 Date: 2026-08-12
 
-### Wisconsin primary offers mixed signals for Democrats, and other election takeaways
-
-David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.
-
-Date: 2026-08-12
-
-### Rep. John Larson’s defeat in Connecticut makes 10 House members who have lost primaries this year
-
-Longtime Democratic Rep. John Larson’s defeat in Connecticut on Tuesday makes him the 10th House incumbent to lose a primary so far this cycle — an unusually high figure that comes as Democrats push their leaders to pass the torch to a new, more progressive generation and Republicans continue to reckon with a party reb.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Democratic senators demand answers about conditions aboard USS Abraham Lincoln](https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com) — 2026-08-13T16:17:33.000Z
+- [Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong](https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com) — 2026-08-13T20:17:29.000Z
 - [Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028](https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com) — 2026-08-13T08:42:12.000Z
 - [Primary voters send mixed signals about what they want from the Democratic Party](https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party?utm_source=lootura.com) — 2026-08-13T10:59:33.000Z
 - [Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state](https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com) — 2026-08-13T16:40:12.000Z
+- [Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition](https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com) — 2026-08-13T17:23:15.000Z
 - [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T14:03:40.000Z

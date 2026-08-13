@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z
+No public source links.

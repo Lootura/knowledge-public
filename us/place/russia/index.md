@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
+
+Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
+
+Date: 2026-08-13
+
+### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
+
+The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
+
+Date: 2026-08-13
 
 ### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
 
@@ -17,12 +29,6 @@ Date: 2026-08-13
 ### By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea
 
 Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).
-
-Date: 2026-08-13
-
-### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
-
-Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
 
 Date: 2026-08-13
 
@@ -62,16 +68,8 @@ The family of a U.S. Marine veteran imprisoned in Russia says his health is dete
 
 Date: 2026-08-10
 
-### Ukrainian drone strikes deep inside Russia kill at least 13, authorities say
-
-The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
-- [By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea](https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com) — 2026-08-13T15:18:27.000Z
 - [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z
-- [Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
-- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T13:12:44.000Z
+- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:33:03.000Z

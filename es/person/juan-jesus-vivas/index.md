@@ -3,10 +3,22 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"
+
+El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de "máximo riesgo" para la "convivencia" y "seguridad" , y ha pedido al Gobierno central "desestimar" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.
+
+Date: 2026-08-13
+
+### Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones
+
+El presidente de Ceuta , Juan Jesús Vivas , ha anunciado que le ha pedido al Gobierno que «desestime» las solicitudes de asilo para que vuelvan de inmediato a través de la frontera con Marruecos los 9.000 inmigrantes ilegales que aún quedan en al ciudad autónoma de los 80.000 que calcula el Ejecutivo que entraron el pa.
+
+Date: 2026-08-13
 
 ### Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales
 
@@ -56,18 +68,7 @@ El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito 
 
 Date: 2026-08-08
 
-### Vivas desmiente las cifras del Gobierno y denuncia que aún quedan entre 8.000 y 11.000 inmigrantes
-
-El presidente de Ceuta, Juan Jesús Vivas, ha desmentido los datos del Gobierno, que estima que en la ciudad autónoma se encuentran 2.500 inmigrantes, y ha señalado que los informes sitúan entre 8.000 y 11.000 las personas que aún quedan por volver , aunque no saben cuántos menores hay exactamente. El dirigente popular.
-
-Date: 2026-08-08
-
-### El Gobierno se interpone en el deseo del Rey de visitar Ceuta
-
-Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"](https://www.20minutos.es/ceuta/vivas-denuncia-maximo-riesgo-ceuta-pide-gobierno-desestimar-las-solicitudes-asilo_7025611_0.html?utm_source=lootura.com) — 2026-08-13T18:14:49.000Z
+- [Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones](https://theobjective.com/espana/politica/2026-08-13/vivas-pide-marlaska-echace-solicitudes-asilo-exige-plazo-devoluciones/?utm_source=lootura.com) — 2026-08-13T18:29:24.000Z

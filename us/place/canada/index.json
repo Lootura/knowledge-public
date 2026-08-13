@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T01:46:32.208Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
+    {
+      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
+      "summary": "Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 million person-days between July 15–17. Over the peak impact period of July 13–18, moderate or worse air quality accounted for more than 769 million person-days. For a perio.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Want to catch a glimpse of the solar eclipse from North America? Here's where and when",
       "summary": "If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.",
@@ -59,13 +64,15 @@
       "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
       "summary": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Canada tries to adapt to a future of wildfires",
-      "summary": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
+      "url": "https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:00:08.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

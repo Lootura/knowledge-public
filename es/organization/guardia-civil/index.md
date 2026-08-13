@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"](https://www.20minutos.es/ceuta/aviso-guardia-civil-los-migrantes-que-intenten-entrar-ceuta-melilla-si-logras-cruzar-te-devolveran_7025557_0.html?utm_source=lootura.com) — 2026-08-13T15:53:45.000Z
+No public source links.

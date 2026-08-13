@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -33,6 +33,16 @@
     {
       "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
       "summary": "President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+      "summary": "The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
       "date": "2026-08-13"
     },
     {
@@ -64,16 +74,6 @@
       "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
       "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "For Blakeman, Trump Could Make and Break His Bid to Lead New York",
-      "summary": "Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -96,16 +96,16 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:37:33.000Z",
+      "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:20:38.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:47:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T18:08:37.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 5

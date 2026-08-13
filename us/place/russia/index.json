@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,6 +18,16 @@
   ],
   "changes": [
     {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
       "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
       "date": "2026-08-13"
@@ -25,11 +35,6 @@
     {
       "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
       "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
-      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
       "date": "2026-08-13"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
       "summary": "The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Ukrainian drone strikes deep inside Russia kill at least 13, authorities say",
-      "summary": "The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -76,29 +76,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:18:27.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
       "url": "https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com",
       "publishedAt": "2026-08-13T14:46:15.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:37:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:12:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:33:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

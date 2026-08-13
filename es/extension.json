@@ -1,42 +1,68 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T17:10:22.983Z",
+  "generatedAt": "2026-08-13T20:54:39.606Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|132|1786640057045",
+    "signature": "1.18.0|133|1786653522935",
     "version": "1.18.0",
-    "build": 132,
-    "latestEntityUpdatedAt": "2026-08-13T16:54:17.045Z"
+    "build": 133,
+    "latestEntityUpdatedAt": "2026-08-13T20:38:42.935Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-margarita-robles",
-      "name": "Margarita Robles Fernández",
-      "type": "person",
-      "title": "Robles se pliega a la Moncloa y descarta acudir al Senado en agosto",
-      "url": "https://atlas.lootura.com/es/person/margarita-robles",
-      "path": "/es/person/margarita-robles",
-      "updatedAt": "2026-08-13T16:54:17.045Z",
-      "score": 1696,
-      "sourceCount": 23,
+      "id": "es-espana",
+      "name": "España",
+      "type": "place",
+      "title": "¿Cuándo volverá a haber un eclipse solar total en España y dónde podrá verse?",
+      "url": "https://atlas.lootura.com/es/place/espana",
+      "path": "/es/place/espana",
+      "updatedAt": "2026-08-13T20:38:42.935Z",
+      "score": 1738,
+      "sourceCount": 1155,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-espana",
-        "name": "España",
+        "id": "es-ferran-torres",
+        "name": "\"El Tiburón\"",
+        "type": "person",
+        "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
+        "url": "https://atlas.lootura.com/es/person/ferran-torres",
+        "path": "/es/person/ferran-torres",
+        "updatedAt": "2026-08-13T20:38:42.935Z",
+        "score": 1669,
+        "sourceCount": 23,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-colombia",
+        "name": "República de Colombia",
         "type": "place",
-        "title": "España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-08-13T16:54:17.045Z",
-        "score": 1658,
-        "sourceCount": 1150,
+        "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+        "url": "https://atlas.lootura.com/es/place/colombia",
+        "path": "/es/place/colombia",
+        "updatedAt": "2026-08-13T20:38:42.935Z",
+        "score": 1666,
+        "sourceCount": 110,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-barcelona",
+        "name": "Barcelona",
+        "type": "place",
+        "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
+        "url": "https://atlas.lootura.com/es/place/barcelona",
+        "path": "/es/place/barcelona",
+        "updatedAt": "2026-08-13T20:38:42.935Z",
+        "score": 1657,
+        "sourceCount": 156,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +73,13 @@
         "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-13T16:54:17.045Z",
-        "score": 1655,
-        "sourceCount": 386,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-psoe",
-        "name": "Partido Socialista Obrero Español",
-        "type": "organization",
-        "title": "El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos",
-        "url": "https://atlas.lootura.com/es/organization/psoe",
-        "path": "/es/organization/psoe",
-        "updatedAt": "2026-08-13T16:54:17.045Z",
-        "score": 1632,
-        "sourceCount": 175,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-audiencia-nacional",
-        "name": "Audiencia Nacional (España)",
-        "type": "organization",
-        "title": "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE",
-        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
-        "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-08-13T16:54:17.045Z",
-        "score": 1631,
-        "sourceCount": 80,
+        "updatedAt": "2026-08-13T20:38:42.935Z",
+        "score": 1626,
+        "sourceCount": 388,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 205
+    "publicEntityCount": 199
   }
 }

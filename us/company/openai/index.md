@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-10T16:52:33.625Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### OpenAI is losing its second executive this week
+
+Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the "coming weeks" to "pursue other opportunities," she said in a team note posted to LinkedIn . Dali Rajic, president and COO of Wiz, will be taking over t.
+
+Date: 2026-08-13
 
 ### OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
 
@@ -52,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure?utm_source=lootura.com) — 2026-08-13T19:28:39.000Z

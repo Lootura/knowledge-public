@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5
+
+Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en China, han desarrollado un avanzado sistema de navegación basado en las estrellas diseñado para guiar misiles hipersónicos cuando las señales de satélite se ven comprometidas o inutilizadas. Esto aborda uno de los puntos más vulnerables: la de.
+
+Date: 2026-08-13
 
 ### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
 
@@ -62,12 +68,6 @@ Pekín pretende apuntalar su programa para asegurarse una futura anexión de Tai
 
 Date: 2026-08-11
 
-### El plan de la china SAIC en España que preocupa al CNI: 120.000 coches ‘made in Ferrol’ para esquivar los aranceles
-
-Corrían los primeros meses de 2021. El mercado automovilístico español —y el europeo en general— sufría el desplome de las ventas de coches nuevos por la crisis sanitaria. A ello estaba a punto de sumarse la escasez de microchips, que iba a disparar el precio de los vehículos nuevos y a alargar notablemente los tiempos.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z
+- [China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5](https://www.larazon.es/tecnologia-consumo/china-guia-sus-armas-hipersonicas-estrellas-cuando-gps-falla-solucion-hace-inmunes-bloqueo-electronico-mach-5_202608136a7d694f71b42a0b5deca7e5.html?utm_source=lootura.com) — 2026-08-13T20:00:00.000Z

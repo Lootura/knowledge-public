@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T01:43:41.443Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Platner announced as speaker for activist-led event in Maine
+
+Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.
+
+Date: 2026-08-13
 
 ### Maine lifeguard "started swimming like hell" when shark pulled him underwater
 
@@ -62,12 +68,6 @@ In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) share
 
 Date: 2026-08-02
 
-### After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine
-
-Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Platner announced as speaker for activist-led event in Maine](https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207?utm_source=lootura.com) — 2026-08-13T16:58:02.000Z

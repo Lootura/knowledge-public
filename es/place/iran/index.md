@@ -3,18 +3,12 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
 
 ### El Ibex frena ante nuevos máximos y baja de los 20.200 puntos
-
-La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.
-
-Date: 2026-08-13
-
-### El Ibex sondea nuevos récords
 
 La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.
 
@@ -65,6 +59,12 @@ Date: 2026-08-11
 ### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
 
 El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
+
+Date: 2026-08-11
+
+### La caída de reservas anticipa un crudo a 140 dólares en otoño
+
+El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán, una vez que se han visto las costuras a los planes del presidente de Estados Unidos,...
 
 Date: 2026-08-11
 

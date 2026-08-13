@@ -3,10 +3,16 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
+
+Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
+
+Date: 2026-08-13
 
 ### Sira Rego tratará de aprobar una Ley de familias acogedoras «para facilitar la adopción»
 
@@ -52,4 +58,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta](https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com) — 2026-08-13T17:45:21.000Z

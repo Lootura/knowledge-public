@@ -40,4 +40,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [Así fue el impresionante recibimiento a Pedro Porro en su vuelta al Tottenham](https://www.abc.es/deportes/futbol/pedro-porro-recibido-grande-vuelta-tottenham-20260813170541-nt.html?utm_source=lootura.com) — 2026-08-13T16:23:01.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "AI",
     "AI science",
@@ -88,27 +88,9 @@
     {
       "title": "AI isn’t ready to research itself",
       "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:54:45.778Z",
+      "publishedAt": "2026-08-13T20:39:04.447Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:30:00.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Suno is trying to look more like a real music production tool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:10:31.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

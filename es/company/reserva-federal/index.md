@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU
+
+Ni los inversores ni las firmas de análisis terminan de tenerlo claro. Apenas un día después de que la moderación de la inflación en EE UU reforzara la idea de que la Reserva Federal puede permitirse una pausa antes de decidir si vuelve a subir los tipos de interés, los mercados siguen oscilando entre las señales de al.
+
+Date: 2026-08-13
 
 ### La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos
 
@@ -62,12 +68,6 @@ Santander acelera la adquisición de Webster tras recibir la aprobación de la R
 
 Date: 2026-08-05
 
-### El Tesoro de EEUU lleva a cabo una intervención histórica
-
-El Tesoro estadounidense intervino el viernes en los tipos de cambio del yen , lo que supone la primera vez en casi 30 años que Tokio y Washington unen fuerzas para apoyar la moneda japonesa mediante compras directas. Según Financial Times, el Banco de la Reserva Federal de Nueva York llevó a cabo la inusual medida de.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-13T19:32:51.000Z

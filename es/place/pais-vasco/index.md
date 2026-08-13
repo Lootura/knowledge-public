@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-13
 ### Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»
 
 El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».
+
+Date: 2026-08-13
+
+### Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi
+
+Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.
 
 Date: 2026-08-13
 
@@ -62,13 +68,8 @@ Esta cifra supone un aumento del 7% en relación al mismo periodo de 2025.
 
 Date: 2026-08-06
 
-### Los mejores del mundo pasan por Pagola
-
-El evento Copenhagen Open es un referente de la cultura skater y el martes hizo una parada en el skatepark de Aiete en su gira por Euskadi y el sur de Francia.
-
-Date: 2026-08-05
-
 ## Fuentes
 
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
 - [Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»](https://www.diariovasco.com/politica/euskadi-exige-agotar-medios-reagrupar-menores-ceuta-20260813105417-nt_amp.html?utm_source=lootura.com) — 2026-08-13T08:54:17.000Z
+- [Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi](https://www.larazon.es/pais-vasco/ondarroa-enclave-vizcaino-que-aparece-historia-familiar-jacob-elordi-b30m_202608136a7e224d71b42a0b5dedca25.html?utm_source=lootura.com) — 2026-08-13T20:00:13.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Asalto violento con intento de secuestro en un Airbnb de Barcelona
+
+Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.
+
+Date: 2026-08-13
+
+### Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones
+
+El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.
+
+Date: 2026-08-13
+
+### Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años
+
+El sindicalista Juan Ignacio Marín Arce (Barcelona, 1953), quién fue secretario general de la Federación del Metal de CC.OO., ha fallecido a los 73 años,.
+
+Date: 2026-08-13
 
 ### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
 
@@ -50,25 +68,9 @@ El sistema de pensiones vuelve a estar ahora en el centro del debate, debido a u
 
 Date: 2026-08-12
 
-### El plan inmersivo de Barcelona para vivir el eclipse sin riesgo ocular: puedes hacerlo antes y después del fenómeno
-
-Barcelona ofrece una forma diferente de vivir el eclipse solar del 12 de agosto sin mirar al cielo ni utilizar gafas especiales. Una experiencia inmersiva permite adelantarse al fenómeno -o revivirlo después- durante 45 minutos , con sesiones diarias disponibles hasta diciembre. La propuesta se encuentra en el Museu de.
-
-Date: 2026-08-12
-
-### Cielo despejado y chubascos en Barcelona: la previsión de AEMET para hoy
-
-Conoce la previsión completa del tiempo que hará hoy en Barcelona según los datos de la AEMET para prepararte para el día.
-
-Date: 2026-08-12
-
-### Registran dos tiroteos en El Prat entre las mismas personas: más de 30 disparos y sin heridos
-
-Los Mossos d'Esquadra investigan dos incidentes con arma de fuego registrados anoche en El Prat de Llobregat (Barcelona), posiblemente vinculados entre sí y sin heridos, tras localizar 32 vainas y cinco cartuchos en la vía pública. El primer episodio ocurrió poco antes de las 21:00 horas en la plaza de la Amistat , dur.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid](https://elpais.com/economia/2026-08-13/vueling-aprovecha-la-debilidad-del-tren-de-alta-velocidad-y-se-mete-de-lleno-en-la-pelea-por-la-conexion-barcelona-madrid.html?utm_source=lootura.com) — 2026-08-13T13:47:49.000Z
-- [Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes](https://www.larazon.es/tecnologia-consumo/operadoras/movistar-plus-desvela-sus-proximos-partidos-laliga-madrid-barca-atleti-499-euros-mes_202608136a7de4b5a5690f047377f635.html?utm_source=lootura.com) — 2026-08-13T16:15:00.000Z
+- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T19:14:17.000Z
+- [Asalto violento con intento de secuestro en un Airbnb de Barcelona](https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html?utm_source=lootura.com) — 2026-08-13T18:20:02.000Z
+- [Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones](https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com) — 2026-08-13T20:24:50.000Z
+- [Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años](https://theobjective.com/sociedad/2026-08-13/fallece-juan-ignacio-marin-arce-sindicalista-ccoo-73-anos/?amp=&utm_source=lootura.com) — 2026-08-13T19:52:23.000Z

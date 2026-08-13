@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Why China should reassess how it rewards young scientists
 
 Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
+
+Date: 2026-08-13
+
+### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
+
+The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.
+
+Date: 2026-08-13
+
+### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
+
+The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
 
 Date: 2026-08-13
 
@@ -56,19 +68,8 @@ Taiwan continued its 10-day war games this weekend, preparing for a potential in
 
 Date: 2026-08-10
 
-### Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
-
-Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inland More than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landsli.
-
-Date: 2026-08-10
-
-### Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations
-
-The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-13T16:54:45.778Z
-- [Taiwan briefly slows its mobile internet to text-only speed as part of defense drill](https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill?utm_source=lootura.com) — 2026-08-13T13:18:43.000Z
+- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-13T20:39:04.448Z
+- [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z
+- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:33:03.000Z

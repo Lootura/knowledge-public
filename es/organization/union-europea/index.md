@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Exteriores confirma un español fallecido en el terremoto de Colombia
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
+
+Date: 2026-08-13
 
 ### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
 
@@ -17,12 +23,6 @@ Date: 2026-08-13
 ### Cinco días de asedio de colonos a una familia en Cisjordania
 
 “Un horrible acto de terror”. Así ha descrito la ocupación, desde hace cinco días, de dos casas palestinas por parte de colonos israelíes en la localidad de Qusra, en Cisjordania. La condena no viene de un grupo de derechos humanos o de la siempre “preocupada” Unión Europea, sino de un gran aliado de Israel, el embajad.
-
-Date: 2026-08-13
-
-### Exteriores confirma un español fallecido en el terremoto de Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
 
 Date: 2026-08-13
 
@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Trump acusa a la UE de ayudar a China a esquivar sus aranceles](https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com) — 2026-08-13T16:27:10.000Z
-- [Cinco días de asedio de colonos a una familia en Cisjordania](https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html?utm_source=lootura.com) — 2026-08-13T13:18:34.000Z
+- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T17:39:14.000Z

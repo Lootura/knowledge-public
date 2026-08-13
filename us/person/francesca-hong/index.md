@@ -3,7 +3,7 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### How Thanksgiving Became Political: Francesca Hong’s Tweets Explained
 
 Ahead of Wisconsin’s Democratic primary for governor, a past tweet by the assemblywoman that called for the holiday to be canceled was resurfaced.
+
+Date: 2026-08-13
+
+### Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong
+
+Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.
+
+Date: 2026-08-13
+
+### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
+
+David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
 
 Date: 2026-08-13
 
@@ -56,20 +68,8 @@ After hot DSA summer comes the fall. Democratic socialist Francesca Hong’s stu
 
 Date: 2026-08-12
 
-### Wisconsin primary provided snapshot of Democratic party – can it now win?
-
-Democratic socialist Francesca Hong fell just short as David Crowley strives for unity for November’s general election Democratic socialist Francesca Hong was on course to win the party’s nomination for Wisconsin governor on Wednesday by a clear margin, according to the polls – presaging the latest in an extraordinary.
-
-Date: 2026-08-12
-
-### Why Were Polls So Wrong in the Wisconsin Governor’s Race?
-
-Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Why Were Polls So Wrong in the Wisconsin Governor’s Race?](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html?utm_source=lootura.com) — 2026-08-12T22:51:15.000Z
-- [How Crowley Eked Out a Win in the Wisconsin Governor Primary](https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html?utm_source=lootura.com) — 2026-08-12T22:03:17.000Z
+- [Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong](https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com) — 2026-08-13T20:17:29.000Z
+- [Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition](https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com) — 2026-08-13T17:23:15.000Z
 - [How Thanksgiving Became Political: Francesca Hong’s Tweets Explained](https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com) — 2026-08-13T13:28:51.000Z

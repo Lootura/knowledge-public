@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Families concerned about reports of mental health crisis on USS Lincoln
+
+Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
+
+Date: 2026-08-13
+
+### Sailors and their families have lives on hold, uncertain if they'll return to Mideast
+
+Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).
+
+Date: 2026-08-13
 
 ### Sailors and their families have lives on pause, uncertain if they'll return to Mideast
 
@@ -56,18 +68,7 @@ While the Middle East waits to hear whether a deal can be reached to reopen the 
 
 Date: 2026-08-08
 
-### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
-
-There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
-
-Date: 2026-08-07
-
-### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
-
-Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Sailors and their families have lives on pause, uncertain if they'll return to Mideast](https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z
+- [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
+- [Sailors and their families have lives on hold, uncertain if they'll return to Mideast](https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z

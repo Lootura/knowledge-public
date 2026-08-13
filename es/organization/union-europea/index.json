@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-13T20:38:42.935Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
       "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
@@ -22,11 +27,6 @@
     {
       "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
       "summary": "“Un horrible acto de terror”. Así ha descrito la ocupación, desde hace cinco días, de dos casas palestinas por parte de colonos israelíes en la localidad de Qusra, en Cisjordania. La condena no viene de un grupo de derechos humanos o de la siempre “preocupada” Unión Europea, sino de un gran aliado de Israel, el embajad.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
       "date": "2026-08-13"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
-      "url": "https://www.abc.es/economia/trump-acusa-ue-ayudar-china-esquivar-aranceles-20260813170834-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:27:10.000Z",
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "url": "https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T17:39:14.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
-      "url": "https://www.lavanguardia.com/internacional/20260813/11613321/soldados-israelies-intenta-evacuar-grupo-colonos-atrincherados-poblacion-palestina.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:18:34.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

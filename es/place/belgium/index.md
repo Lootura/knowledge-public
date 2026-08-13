@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-13T20:38:42.935Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Hallan un tesoro oculto de nueve millones durante las obras de un edificio en Flandes
+
+Trabajadores de una empresa de construcción hallaron monedas y lingotes de oro valorados en 9 millones de euros ocultos en un edificio antiguo durante las obras para la reforma del inmueble en Flandes (norte de Bélgica), según informaron este jueves los medios locales. El descubrimiento tuvo lugar en la localidad de De.
+
+Date: 2026-08-13
 
 ### Un acertante de Euromillones gana el bote de más de 111 millones
 
@@ -62,12 +68,6 @@ El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos,
 
 Date: 2026-07-13
 
-### Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos
-
-El Gobierno de Bélgica apunta a tres posibles víctimas de nacionalidad belga entre los fallecidos en el incendio de Los Gallardos (Almería) tras no lograr contactar con ellas, si bien ha recordado que aún no hay confirmación oficial por parte de las autoridades españolas y que ésta podría tardar unos días. Según ha inf.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-No public source links.
+- [Hallan un tesoro oculto de nueve millones durante las obras de un edificio en Flandes](https://theobjective.com/sociedad/suceso/2026-08-13/hallan-tesoro-oculto-9-millones-euros-durante-obras-edificio-flandes/?utm_source=lootura.com) — 2026-08-13T17:43:43.000Z

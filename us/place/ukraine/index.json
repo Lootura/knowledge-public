@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -70,17 +70,11 @@
   ],
   "sources": [
     {
-      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:18:27.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:12:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:27:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

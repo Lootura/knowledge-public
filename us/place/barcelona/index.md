@@ -46,4 +46,4 @@ Date: 2026-07-18
 
 ## Sources
 
-- [Journalism is key to combating bad practices in science](https://phys.org/news/2026-08-journalism-key-combating-bad-science.html?utm_source=lootura.com) — 2026-08-13T16:20:04.000Z
+No public source links.

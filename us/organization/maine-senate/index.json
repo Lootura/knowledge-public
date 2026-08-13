@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-08-13T20:38:59.623Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Platner announced as speaker for activist-led event in Maine",
+      "summary": "Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.",
+      "date": "2026-08-13"
+    },
     {
       "title": "In a competitive Maine Senate race, women voters could be the deciders",
       "summary": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).",
@@ -55,13 +60,15 @@
       "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
       "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Platner announced as speaker for activist-led event in Maine",
+      "url": "https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T16:58:02.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

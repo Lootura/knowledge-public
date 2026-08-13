@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-13T20:38:59.623Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions](https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html?utm_source=lootura.com) — 2026-08-13T14:12:38.000Z
+- [How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions](https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html?utm_source=lootura.com) — 2026-08-13T17:40:07.000Z
