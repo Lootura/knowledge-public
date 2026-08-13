@@ -3,10 +3,16 @@
 > Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/person/georgina-rodriguez
 
 ## Cambios recientes
+
+### La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano
+
+Cristiano Ronaldo y Georgina Rodríguez han celebrado su boda en la intimidad, rodeados de sus hijos, y han confirmado la noticia con una fotografía de sus manos en la que destacan sus nuevas alianzas. Una imagen aparentemente sencilla que permite descubrir un detalle muy interesante: el impresionante anillo de compromi.
+
+Date: 2026-08-13
 
 ### La 'boda' de Cristiano Ronaldo reúne a cientos de personas en Funchal
 
@@ -40,4 +46,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano](https://okdiario.com/cool/famosos/joya-mas-discreta-del-joyero-georgina-anillo-millones-alianza-lujo-que-comparte-cristiano-19170120?utm_source=lootura.com) — 2026-08-13T12:01:03.000Z

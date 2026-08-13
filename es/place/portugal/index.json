@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "Galicia: marisco, empanada, pulpo y caldeiradas",
+      "summary": "Como decía Néstor Luján, Galicia es «tierra viciosa de pescados y mariscos», tanta es su abundancia y su variedad. En el litoral que va desde la frontera con Portugal hasta la ría del Eo, límite con Asturias, se crían excepcionales crustáceos (camarones, percebes, centollas, cigalas, nécoras, lubrigantes...) y moluscos.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes",
       "summary": "Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.",
@@ -61,13 +66,15 @@
       "title": "La \"bola de fuego\" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017",
       "summary": "Un total de 64 personas perdieron la vida en un episodio trágico con algunos paralelismos con el drama actual en Almería Leer.",
       "date": "2026-07-11"
-    },
-    {
-      "title": "Morten Hjulmand ficha por el Atlético de Madrid hasta 2031",
-      "summary": "El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.",
-      "date": "2026-07-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Galicia: marisco, empanada, pulpo y caldeiradas",
+      "url": "https://www.abc.es/gastronomia/galicia-marisco-20260813012958-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:41:24.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

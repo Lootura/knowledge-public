@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas",
+      "summary": "IBM y OpenAI han anunciado este jueves una alianza estratégica para facilitar a las empresas la implementación de inteligencia artificial a gran escala en sus operaciones, con especial énfasis en los servicios financieros, la administración pública, las telecomunicaciones y el mercado minorista. La alianza llega en un.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face",
       "summary": "Sabemos que en varias ocasiones los agentes de IA de las diferentes compañías se han salido de sus raíles y han hecho cosas que no deberían haber hecho. Incluyendo hackeos. Y que desde luego no es la primera vez que las IA conspiran en foros, pero lo que ha contado OpenAI en la Black Hat supera todo lo que hemos visto.",
@@ -57,13 +62,15 @@
       "title": "OpenAI lanza su primer hardware, aunque no es lo que imaginas",
       "summary": "acaba de estrenar su primer producto de hardware. Pero todavía no te emociones con ver el dispositivo que la compañía está preparando junto a Jony Ive, que sería una suerte de altavoz inteligente . El lanzamiento de hoy es Codex Micro , una consola para programadores que ha desarrollado en colaboración con el fa.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
-      "summary": "Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas",
+      "url": "https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:40:12.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

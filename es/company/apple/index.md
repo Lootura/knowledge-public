@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Xiaomi muestra por sorpresa su próximo móvil: que tiemblen Apple y Samsung con sus plegables](https://hipertextual.com/mobile/xiaomi-muestra-por-sorpresa-su-proximo-movil-que-tiemblen-apple-y-samsung-con-sus-plegables/?utm_source=lootura.com) — 2026-08-13T07:27:48.000Z
+No public source links.

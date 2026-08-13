@@ -1,42 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T09:24:16.385Z",
+  "generatedAt": "2026-08-13T13:18:01.358Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|129|1786612165359",
+    "signature": "1.18.0|130|1786626232128",
     "version": "1.18.0",
-    "build": 129,
-    "latestEntityUpdatedAt": "2026-08-13T09:09:25.359Z"
+    "build": 130,
+    "latestEntityUpdatedAt": "2026-08-13T13:03:52.128Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-air-force-one",
-      "name": "Air Force One",
-      "type": "concept",
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "url": "https://atlas.lootura.com/us/concept/air-force-one",
-      "path": "/us/concept/air-force-one",
-      "updatedAt": "2026-08-13T09:09:25.359Z",
-      "score": 1714,
-      "sourceCount": 34,
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "Product availability changed in Europe",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-08-13T13:03:52.128Z",
+      "score": 1720,
+      "sourceCount": 739,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-espana",
-        "name": "Spain",
-        "type": "place",
-        "title": "Photos: See the best photos from the solar eclipse",
-        "url": "https://atlas.lootura.com/us/place/espana",
-        "path": "/us/place/espana",
-        "updatedAt": "2026-08-13T09:09:25.359Z",
-        "score": 1702,
-        "sourceCount": 47,
+        "id": "usa-air-force-one",
+        "name": "Air Force One",
+        "type": "concept",
+        "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+        "url": "https://atlas.lootura.com/us/concept/air-force-one",
+        "path": "/us/concept/air-force-one",
+        "updatedAt": "2026-08-13T13:03:52.128Z",
+        "score": 1681,
+        "sourceCount": 34,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +47,22 @@
         "title": "Product availability changed in Europe",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-08-13T09:09:25.359Z",
-        "score": 1695,
+        "updatedAt": "2026-08-13T13:03:52.128Z",
+        "score": 1669,
         "sourceCount": 396,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-13T09:09:25.359Z",
-        "score": 1664,
-        "sourceCount": 737,
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "U.S. robocalls skyrocket to over 4 billion in July as consumer groups ask FCC to intervene",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-13T13:03:52.128Z",
+        "score": 1646,
+        "sourceCount": 738,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "usa-white-house",
         "name": "White House",
         "type": "organization",
-        "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
+        "title": "White House Press Secretary Karoline Leavitt to Step Down",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-13T09:09:25.359Z",
-        "score": 1657,
-        "sourceCount": 125,
+        "updatedAt": "2026-08-13T13:03:52.128Z",
+        "score": 1639,
+        "sourceCount": 126,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 151
+    "publicEntityCount": 152
   }
 }

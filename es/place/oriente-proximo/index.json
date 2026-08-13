@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo",
+      "summary": "Dicho contrato, del tipo EPC (ingeniería, aprovisionamiento, construcción y puesta en marcha) se ha acordado en régimen de \"llave en mano\", según informa la...",
+      "date": "2026-08-13"
+    },
     {
       "title": "Cómo los mapas han definido el 2026",
       "summary": "El intervencionismo estadounidense, la guerra en Oriente Próximo o la crisis migratoria en Ceuta tienen un trasfondo cartográfico.",
@@ -60,13 +65,15 @@
       "title": "El alza del euríbor incentiva las renegociaciones de hipotecas",
       "summary": "El euríbor a 12 meses, del que depende el coste de las hipotecas a tipo variable y que condiciona el precio de la nueva producción en todas las modalidades, mete cada vez más presión a los hogares. Aunque en el tramo final de esta semana se ha relajado por la rebaja de la tensión en Oriente Próximo, la media provisiona.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El Ibex tantea nuevos máximos tras el dato de empleo de EE UU",
-      "summary": "La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo",
+      "url": "https://amp.expansion.com/empresas/2026/08/13/6a7dbe86468aeb447f8b4571.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:59:47.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

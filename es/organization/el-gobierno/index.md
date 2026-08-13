@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -71,6 +71,4 @@ Date: 2026-08-11
 ## Fuentes
 
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
-- [El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con "zona VIP" y 300 invitados en el Observatorio de Yebes](https://amp.elmundo.es/espana/2026/08/12/6a7c507f21efa0b66f8b457b.html?utm_source=lootura.com) — 2026-08-12T19:34:23.000Z
 - [El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible](https://www.elmundo.es/economia/2026/08/13/6a7d755cfdddff80788b457f.html?utm_source=lootura.com) — 2026-08-13T07:48:27.000Z
-- [Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña](https://www.eldiario.es/asturias/eclipse-asturiano-decepcion-costa-cielos-cubiertos-exito-montana_1_13444360.html?utm_source=lootura.com) — 2026-08-13T07:28:02.000Z

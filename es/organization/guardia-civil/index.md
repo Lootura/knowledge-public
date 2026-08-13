@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse
+
+Buzos de la Guardia Civil han hallado sin vida a una mujer de 52 años, vecina de Trubia (Oviedo), que permanecía desaparecida desde la noche del miércoles en el embalse asturiano de Valdemurio . La víctima se había zambullido en el agua tras contemplar el eclipse solar y no volvió a salir a la superficie. La pareja hab.
+
+Date: 2026-08-13
 
 ### Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas
 
@@ -62,12 +68,6 @@ El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceut
 
 Date: 2026-08-08
 
-### Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»
-
-«No son suficientes» . Así definen las distintas asociaciones que representan a los agentes de Guardia Civil y Policía Nacional al número de efectivos y medios que actualmente se mantiene en Ceuta tras las crisis migratoria de la pasada semana. Lo hacen tras la nueva alerta de la que se viene informando durante los últ.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse](https://www.elconfidencial.com/espana/2026-08-13/mujer-embalse-valdemurio-oviedo-1tna-1tps_4405492/?utm_source=lootura.com) — 2026-08-13T11:12:00.000Z

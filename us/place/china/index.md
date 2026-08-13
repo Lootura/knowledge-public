@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### How China Remembers Zhu Rongji, the Premier Who Spoke His Mind
+
+Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.
+
+Date: 2026-08-13
+
+### Why the World Is Still Investing in America
+
+American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.
+
+Date: 2026-08-13
 
 ### Has the U.S. lost its dominance to China?
 
@@ -56,18 +68,7 @@ The Iran war has depleted U.S. weapons stockpiles, resulting in a significant er
 
 Date: 2026-08-08
 
-### The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.
-
-The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say.
-
-Date: 2026-08-08
-
-### China’s Export Boom Rolls On Despite Trade Backlash
-
-China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [How China Remembers Zhu Rongji, the Premier Who Spoke His Mind](https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html?utm_source=lootura.com) — 2026-08-13T11:21:58.000Z
+- [Why the World Is Still Investing in America](https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com) — 2026-08-13T10:00:04.000Z

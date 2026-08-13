@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”](https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html?utm_source=lootura.com) — 2026-08-12T21:09:47.000Z
+No public source links.

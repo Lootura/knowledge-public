@@ -52,4 +52,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027](https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com) — 2026-08-13T08:50:14.000Z
+No public source links.

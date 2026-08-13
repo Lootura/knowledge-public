@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
+
+"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
+
+Date: 2026-08-13
+
+### El juez apunta a que personas de «mayor nivel de jerarquía» están implicadas en el 'caso Leire'
+
+El magistrado Arturo Zamarriego constata la existencia de «un importante entramado delictivo» en torno a la exfontanera del PSOE, Leire Díez.
+
+Date: 2026-08-13
 
 ### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
 
@@ -56,18 +68,8 @@ El Ministerio Público remite la “documentación” presentada por el PSOE y t
 
 Date: 2026-08-10
 
-### El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»
-
-El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.
-
-Date: 2026-08-10
-
-### El PSOE de La Rinconada gastó 1,2 millones en un solar en Chipiona para un hotel que nunca construyó
-
-El Ayuntamiento socialista de La Rinconada destinó hace alrededor de 20 años más de 1,2 millones de euros de dinero público a la compra de un solar en Chipiona con el objetivo de desarrollar un proyecto hotelero que nunca llegó a ejecutarse . Dos décadas después, la parcela municipal continúa sin el uso para el que fue.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"](https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html?utm_source=lootura.com) — 2026-08-12T23:39:18.000Z
+- [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z
+- [El juez apunta a que personas de «mayor nivel de jerarquía» están implicadas en el 'caso Leire'](https://theobjective.com/espana/tribunales/2026-08-13/juez-caso-leire/?amp=&utm_source=lootura.com) — 2026-08-13T12:27:04.000Z

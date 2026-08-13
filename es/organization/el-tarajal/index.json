@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T12:41:31.837Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [],
   "changes": [
     {
@@ -62,6 +62,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La Guardia Civil coloca una barrera marítima en el dique sur de Melilla para reforzar la frontera",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/barrera-maritima-melilla-frontera-1tps_4405429/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T10:19:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
   "evidenceCount": 0
 }

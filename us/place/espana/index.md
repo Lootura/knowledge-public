@@ -3,20 +3,20 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
 
-### Photos: See the best photos from the solar eclipse
-
-Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).
-
-Date: 2026-08-13
-
 ### Total solar eclipse mesmerizes crowds throughout Europe
 
 On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.
+
+Date: 2026-08-13
+
+### Photos: See the best photos from the solar eclipse
+
+Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).
 
 Date: 2026-08-13
 
@@ -70,12 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Total solar eclipse darkens skies across Northern Hemisphere](https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/?utm_source=lootura.com) — 2026-08-12T20:01:00.000Z
 - [Watch: Total solar eclipse mesmerizes crowds throughout Europe](https://www.cbsnews.com/video/watch-total-solar-eclipse-mesmerizes-crowds-throughout-europe/?utm_source=lootura.com) — 2026-08-13T01:54:22.000Z
-- [Once-in-a-lifetime total solar eclipse sweeps across Europe](https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com) — 2026-08-12T23:13:37.000Z
-- [Watch: Spain witnesses first total solar eclipse in 27 years](https://www.nbcnews.com/now/video/watch-spain-witnesses-first-total-solar-eclipse-in-27-years-268193861728?utm_source=lootura.com) — 2026-08-12T18:42:24.000Z
-- [Millions crowd cities to see Spain's first total solar eclipse in over a century](https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse?utm_source=lootura.com) — 2026-08-13T06:04:38.000Z
-- [Photos: See the best photos from the solar eclipse](https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com) — 2026-08-13T01:38:01.000Z
-- [A look at Spain's plan to give undocumented migrants legal status](https://www.pbs.org/newshour/show/a-look-at-spains-plan-to-give-undocumented-migrants-legal-status?utm_source=lootura.com) — 2026-08-12T22:40:25.000Z
-- [PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades](https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com) — 2026-08-12T19:50:17.000Z
-- [Too smart to eat? Why octopus farms are such a slippery problem](https://www.theguardian.com/environment/2026/aug/13/environment-food-farming-intelligence-eating-octopus-ethics-sustainability?utm_source=lootura.com) — 2026-08-13T04:00:50.000Z

@@ -65,19 +65,6 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [
-    {
-      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
-      "url": "https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T08:28:20.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
-      "url": "https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T07:56:58.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
+      "summary": "Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
       "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
@@ -66,13 +71,15 @@
       "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
       "summary": "El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Feijóo niega que exista \"la normalidad de la que habla el Gobierno\" en Ceuta: \"Basta con pisar la calle para comprobarlo\"",
-      "summary": "El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe \"la normalidad de la que habla el Gobierno\" en Ceuta y que \"basta con pisar la calle para comprobarlo\", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. \"Por humanidad,.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
+      "url": "https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:23:31.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

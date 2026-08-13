@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### IBM y OpenAI se alían para acelerar la implantación de la IA en empresas
+
+IBM y OpenAI han anunciado este jueves una alianza estratégica para facilitar a las empresas la implementación de inteligencia artificial a gran escala en sus operaciones, con especial énfasis en los servicios financieros, la administración pública, las telecomunicaciones y el mercado minorista. La alianza llega en un.
+
+Date: 2026-08-13
 
 ### Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face
 
@@ -62,12 +68,6 @@ acaba de estrenar su primer producto de hardware. Pero todavía no te emociones 
 
 Date: 2026-07-15
 
-### Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda
-
-Un correo mal dirigido ha sido el causante de que la relación entre OpenAI y Apple se rompiera. Previo a la demanda, las dos empresas intentaron resolver sus diferencias para no tener que llegar a los tribunales. No obstante, un simple error de destinatario terminó por complicar las negociaciones y cerrar esa puerta de.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [IBM y OpenAI se alían para acelerar la implantación de la IA en empresas](https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com) — 2026-08-13T12:40:12.000Z

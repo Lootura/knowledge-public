@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
   ],
   "changes": [
     {
-      "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-      "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty",
       "summary": "The agent, Adam Saracco, was charged with misdemeanor after the altercation at a gas station near Chicago last year during the Trump administration’s crackdown there.",
       "date": "2026-08-13"
@@ -42,6 +37,21 @@
     {
       "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
       "summary": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism. (Image credit: Scott Olson).",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "White House Press Secretary Karoline Leavitt to Step Down",
+      "summary": "President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
+      "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts say The Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children’s Health Insurance Program (Chip), a move that will make it harder for vulnerable chi.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
+      "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
       "date": "2026-08-13"
     },
     {
@@ -60,18 +70,8 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Karoline Leavitt to step down as White House press secretary at end of August",
-      "summary": "President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
-      "summary": "Hundreds of federal judges have received threats against themselves and their families this year, according to the U.S. Marshals Service. It comes amid a litany of verbal and written attacks by President Trump and his administration on judges who have ruled against them. Justice correspondent Ali Rogin spoke with Judge.",
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "summary": "Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.",
       "date": "2026-08-12"
     }
   ],
@@ -83,10 +83,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Karoline Leavitt to step down as White House press secretary at end of August",
-      "url": "https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T20:04:10.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "White House Press Secretary Karoline Leavitt to Step Down",
+      "url": "https://www.today.com/video/trump-announces-press-secretary-karoline-leavitt-will-step-down-268235845977?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:29:07.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
@@ -95,22 +95,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-      "url": "https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:32:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:45:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
-      "url": "https://www.pbs.org/newshour/show/federal-judges-describe-violent-threats-amid-dehumanizing-attacks-from-political-leaders?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:35:38.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-administration-gender-affirming-care?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:00:56.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "For Blakeman, Trump Could Make and Break His Bid to Lead New York",
@@ -135,7 +123,19 @@
       "url": "https://www.nytimes.com/2026/08/12/health/mmr-vaccine-combination-separate.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T20:20:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T02:28:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
+      "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-12T21:20:05.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 11
 }

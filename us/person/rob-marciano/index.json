@@ -1,0 +1,47 @@
+{
+  "id": "usa-rob-marciano",
+  "name": "Rob Marciano",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/rob-marciano",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/rob-marciano",
+  "markdownUrl": "https://atlas.lootura.com/us/person/rob-marciano/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/rob-marciano/index.json",
+  "description": "Follow Rob Marciano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "aliases": [
+    "Robert Mark Marciano"
+  ],
+  "changes": [
+    {
+      "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
+      "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Views of the total solar eclipse from parts of Europe",
+      "summary": "A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rob Marciano first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
+      "url": "https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:47:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Views of the total solar eclipse from parts of Europe",
+      "url": "https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:42:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

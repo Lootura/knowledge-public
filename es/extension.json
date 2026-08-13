@@ -1,32 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-13T09:24:21.224Z",
+  "generatedAt": "2026-08-13T13:18:05.426Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|129|1786612149297",
+    "signature": "1.18.0|130|1786626213343",
     "version": "1.18.0",
-    "build": 129,
-    "latestEntityUpdatedAt": "2026-08-13T09:09:09.297Z"
+    "build": 130,
+    "latestEntityUpdatedAt": "2026-08-13T13:03:33.343Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-colombia",
-      "name": "República de Colombia",
-      "type": "place",
-      "title": "Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia",
-      "url": "https://atlas.lootura.com/es/place/colombia",
-      "path": "/es/place/colombia",
-      "updatedAt": "2026-08-13T09:09:09.297Z",
-      "score": 1682,
-      "sourceCount": 107,
+      "id": "es-margarita-robles",
+      "name": "Margarita Robles Fernández",
+      "type": "person",
+      "title": "Robles se pliega a la Moncloa y descarta acudir al Senado en agosto",
+      "url": "https://atlas.lootura.com/es/person/margarita-robles",
+      "path": "/es/person/margarita-robles",
+      "updatedAt": "2026-08-13T13:03:33.343Z",
+      "score": 1704,
+      "sourceCount": 21,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
+      {
+        "id": "es-colombia",
+        "name": "República de Colombia",
+        "type": "place",
+        "title": "Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia",
+        "url": "https://atlas.lootura.com/es/place/colombia",
+        "path": "/es/place/colombia",
+        "updatedAt": "2026-08-13T13:03:33.343Z",
+        "score": 1666,
+        "sourceCount": 108,
+        "isBreaking": false,
+        "isPinned": false
+      },
       {
         "id": "es-espana",
         "name": "España",
@@ -34,22 +47,9 @@
         "title": "España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-13T09:09:09.297Z",
-        "score": 1662,
-        "sourceCount": 1132,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-canada",
-        "name": "Canadá",
-        "type": "place",
-        "title": "Rafa Jódar se queda a las puertas de su primera final en Montreal",
-        "url": "https://atlas.lootura.com/es/place/canada",
-        "path": "/es/place/canada",
-        "updatedAt": "2026-08-13T09:09:09.297Z",
-        "score": 1655,
-        "sourceCount": 10,
+        "updatedAt": "2026-08-13T13:03:33.343Z",
+        "score": 1660,
+        "sourceCount": 1142,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,22 +60,22 @@
         "title": "Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»",
         "url": "https://atlas.lootura.com/es/place/pais-vasco",
         "path": "/es/place/pais-vasco",
-        "updatedAt": "2026-08-13T09:09:09.297Z",
-        "score": 1649,
+        "updatedAt": "2026-08-13T13:03:33.343Z",
+        "score": 1644,
         "sourceCount": 46,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-union-europea",
-        "name": "Unión Europea",
-        "type": "organization",
-        "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
-        "url": "https://atlas.lootura.com/es/organization/union-europea",
-        "path": "/es/organization/union-europea",
-        "updatedAt": "2026-08-13T09:09:09.297Z",
-        "score": 1647,
-        "sourceCount": 44,
+        "id": "es-madrid",
+        "name": "Madrid",
+        "type": "place",
+        "title": "Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-08-13T13:03:33.343Z",
+        "score": 1630,
+        "sourceCount": 706,
         "isBreaking": false,
         "isPinned": false
       }

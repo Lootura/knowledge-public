@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
+
+Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
+
+Date: 2026-08-13
 
 ### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
 
@@ -62,12 +68,8 @@ The strike, on an industrial center in Tatarstan, killed at least 13 people.
 
 Date: 2026-08-10
 
-### Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say
-
-Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).
-
-Date: 2026-08-10
-
 ## Sources
 
+- [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
 - [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z
+- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T12:01:26.000Z

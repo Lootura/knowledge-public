@@ -3,10 +3,52 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención
+
+La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita "más tiempo" para preparar una intervención "con un mínimo de rigor y detalle". Así se lo ha comunicado a.
+
+Date: 2026-08-13
+
+### Las Comunidades del PP rechazan tratar en la próxima Conferencia Sectorial de Infancia la reubicación de los menores de Ceuta
+
+Las comunidades presididas por el PP se han negado a incorporar en el orden del día de la próxima Conferencia Sectorial de Infancia y Adolescencia un punto informativo y de debate sobre la atención de menores migrantes no acompañados en Ceuta y la situación de la ciudad autónoma. Ha ocurrido durante la Comisión Sectori.
+
+Date: 2026-08-13
+
+### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
+
+"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
+
+Date: 2026-08-13
+
+### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+
+Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+
+Date: 2026-08-13
+
+### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
+
+La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18: "Necesito más tiempo para prepararla con rigor" Margarita Robles se desmarca de la estrategia de Moncloa y remarca su perfil propio con la crisis de Ceuta La ministra de Defen.
+
+Date: 2026-08-13
+
+### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
+
+La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
+
+Date: 2026-08-13
+
+### El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle
+
+El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.
+
+Date: 2026-08-13
 
 ### Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez
 
@@ -26,48 +68,12 @@ El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilida
 
 Date: 2026-08-11
 
-### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
-
-El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
-
-Date: 2026-08-11
-
-### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
-
-El PP ha anunciado que la ministra de Defensa, Margarita Robles , comparecerá finalmente el próximo martes 18 de agosto en el Senado para dar cuenta de las labores de su departamento en la crisis migratoria de Ceuta, pese a que estaba previsto que acudiera este mismo jueves. Los populares también han acusado a los titu.
-
-Date: 2026-08-11
-
-### Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP
-
-La ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto, para dar explicaciones sobre la llegada masiva de extranjeros en situación irregular...
-
-Date: 2026-08-11
-
-### El Senado abre otro choque con el Gobierno y valora llevar al TC su rechazo a comparecer por Ceuta
-
-La tensión institucional que ha marcado a lo largo de toda la legislatura las relaciones entre el Senado y el Gobierno no da un respiro ni siquiera en agosto . La Cámara Alta, en la que el Partido Popular tiene mayoría absoluta , ha puesto a trabajar de nuevo a sus servicios jurídicos para enfrentar el veto del Gobiern.
-
-Date: 2026-08-11
-
-### María Guardiola salva desde las consejerías del PP subvenciones LGTBI o ecologistas que suprime Vox en los primeros presupuestos
-
-Las cuentas reflejan parte de las exigencias del partido de Abascal, como la reducción de las asignaciones a sindicatos y organizaciones empresariales y eliminación de ayudas a entidades de atención a migrantes Leer.
-
-Date: 2026-08-10
-
-### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
-
-La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
-
-Date: 2026-08-10
-
-### Un hombre increpa a Bendodo (PP) en plena rueda de prensa en Barcelona
-
-Ha proferido varios insultos mientras se quejaba de no tener ayudas y estar en la calle por una "orden de alejamiento" Leer.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez](https://www.larazon.es/espana/marlaska-vuelve-ceuta-ministro-todas-crisis-sanchez_202608136a7d87e7a5690f047377634a.html?utm_source=lootura.com) — 2026-08-13T09:01:27.000Z
+- [Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención](https://www.20minutos.es/nacional/robles-no-comparecera-senado-dia-18-por-crisis-ceuta-alega-que-necesita-mas-tiempo-para-preparar-su-intervencion_7025460_0.html?utm_source=lootura.com) — 2026-08-13T12:10:38.000Z
+- [Las Comunidades del PP rechazan tratar en la próxima Conferencia Sectorial de Infancia la reubicación de los menores de Ceuta](https://www.20minutos.es/nacional/las-comunidades-pp-rechazan-tratar-proxima-conferencia-sectorial-infancia-reparto-los-menores-migrantes-ceuta_7025459_0.html?utm_source=lootura.com) — 2026-08-13T12:09:21.000Z
+- [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z
+- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
+- [Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP](https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com) — 2026-08-13T12:16:46.000Z
+- [Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano](https://theobjective.com/espana/politica/2026-08-13/robles-senado-comparecencia-vuelta-verano/?utm_source=lootura.com) — 2026-08-13T12:11:49.000Z
+- [El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle](https://theobjective.com/espana/politica/2026-08-13/pp-gobierno-sumiso-marruecos/?utm_source=lootura.com) — 2026-08-13T11:18:47.000Z

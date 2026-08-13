@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Colombia earthquake death toll rises as frantic search for survivors continues
 
 The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.
+
+Date: 2026-08-13
+
+### Dog Rescued From Colombia Quake Offers Hope to Find Survivors
+
+The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.
 
 Date: 2026-08-13
 
@@ -62,13 +68,7 @@ Voters in six states head to the polls Tuesday for high-profile primaries, Trump
 
 Date: 2026-08-11
 
-### Rescuers race to find Colombia earthquake survivors as death toll rises
-
-More than 3,000 people were reported missing after the country was struck by its strongest earthquake on record.
-
-Date: 2026-08-11
-
 ## Sources
 
 - [Colombia earthquake death toll rises as frantic search for survivors continues](https://www.cbsnews.com/news/colombia-earthquake-death-toll-rises-frantic-search-for-survivors/?utm_source=lootura.com) — 2026-08-13T00:22:00.000Z
-- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
+- [Dog Rescued From Colombia Quake Offers Hope to Find Survivors](https://www.today.com/video/dog-rescued-from-colombia-quake-offers-hope-to-find-survivors-268238405758?utm_source=lootura.com) — 2026-08-13T11:27:30.000Z

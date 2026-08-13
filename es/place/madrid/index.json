@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»",
-      "summary": "Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse",
-      "summary": "La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.",
-      "date": "2026-08-13"
-    },
     {
       "title": "Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados",
       "summary": "La Policía Nacional ha asestado un golpe a la producción de cocaína en España con la detención de 23 personas en diferentes provincias, además de otras 4 en Australia, y el desmantelamiento de cuatro laboratorios clandestinos en fincas rústicas y domicilios en ciudades de Madrid, Toledo y Badajoz. Una operación con la.",
@@ -29,6 +19,21 @@
     {
       "title": "Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’",
       "summary": "La familia Pombo tiene varias casas distribuidas por distintos rincones de España. El campo-base tanto de María como de Marta y de Lucía, y sus parejas y familia, está en Madrid. Allí la pequeña de las Pombo se compró una espectacular casa hace un par de años en un barrio a las afueras de la capital. Mientras tanto, ta.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse",
+      "summary": "La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»",
+      "summary": "Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse",
+      "summary": "La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.",
       "date": "2026-08-13"
     },
     {
@@ -55,18 +60,13 @@
       "title": "Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación",
       "summary": "Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
-      "summary": "El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse",
+      "title": "Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse",
       "url": "https://www.abc.es/ciencia/pueblo-nueve-habitantes-espero-anos-ver-eclipse-20260812020413-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T08:55:08.000Z",
+      "publishedAt": "2026-08-13T11:41:10.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -86,13 +86,7 @@
       "url": "https://theobjective.com/gente/2026-08-13/nueva-casa-familia-pombo-adrados-comedor-toques-retro/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T08:30:00.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»",
-      "url": "https://theobjective.com/gente/2026-08-13/dabiz-munoz-chaval-elipa-barrio-humilde-madre-cocinaba/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-08-13T05:30:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

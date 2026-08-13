@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize](https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi?utm_source=lootura.com) — 2026-08-12T13:00:19.000Z
+- [Former Disney CEO Bob Iger, venture capitalist Josh Kushner buy LA Lakers](https://www.cbsnews.com/video/former-disney-ceo-bob-iger-venture-capitalist-josh-kushner-buy-la-lakers/?utm_source=lootura.com) — 2026-08-13T12:31:27.000Z

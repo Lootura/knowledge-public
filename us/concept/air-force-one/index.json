@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
+      "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
+      "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
       "date": "2026-08-12"
     },
     {
-      "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
-      "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
+      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
+      "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
       "date": "2026-08-12"
     },
     {
@@ -68,17 +68,11 @@
   ],
   "sources": [
     {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:45:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
       "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:37:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-espacial-europea
 
 ## Cambios recientes
+
+### Así se vio el eclipse solar del 12 de agosto desde el espacio: las imágenes de la NASA y la ESA
+
+Durante unos minutos, una enorme sombra oscura avanzó sobre la superficie de la Tierra mientras millones de personas seguían el eclipse desde distintos puntos del planeta. Las imágenes captadas desde el espacio por la NASA y la Agencia Espacial Europea (ESA) muestran el fenómeno desde una perspectiva muy diferente a la.
+
+Date: 2026-08-13
 
 ### La Agencia Espacial alerta: Europa se quedará sin lanzadores para 2030
 
@@ -46,4 +52,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-No public source links.
+- [Así se vio el eclipse solar del 12 de agosto desde el espacio: las imágenes de la NASA y la ESA](https://www.elconfidencial.com/espana/2026-08-13/eclipse-solar-espacio_4405419/?utm_source=lootura.com) — 2026-08-13T11:20:00.000Z

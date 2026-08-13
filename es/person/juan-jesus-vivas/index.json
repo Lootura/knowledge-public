@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T01:46:10.077Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha sido recibido este jueves entre abucheos en su visita a Ceuta para mantener una reunión con el delegado del Gobierno, Miguel Ángel Pérez. Marlaska también se verá por la tarde con el presidente de la ciudad autónoma, Juan Jesús Vivas. El ministro ha entrado en la.",
+      "date": "2026-08-13"
+    },
     {
       "title": "\"Tengo mucho miedo\": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta",
       "summary": "La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...",
@@ -59,13 +64,15 @@
       "title": "El Gobierno se interpone en el deseo del Rey de visitar Ceuta",
       "summary": "Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan Jesús Vivas, a visitar la ciudad autónoma, su deseo se ve truncado por ahora por la posición del Gobierno de Pedro Sánchez. La mera posibilidad de una visita oficial del monarca al territorio que acaba de sufrir una entrada masiva de inmigran.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Juan Jesús Vivas: \"Pensaba que el giro del Sáhara era a cambio del respeto de Rabat\"",
-      "summary": "El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y duda de la efectividad de las boyas Leer.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales",
+      "url": "https://okdiario.com/espana/monumental-pitada-marlaska-visita-ceuta-desbordada-inmigrantes-ilegales-19175544?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:21:36.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

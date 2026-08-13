@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo
+
+Dicho contrato, del tipo EPC (ingeniería, aprovisionamiento, construcción y puesta en marcha) se ha acordado en régimen de "llave en mano", según informa la...
+
+Date: 2026-08-13
 
 ### Cómo los mapas han definido el 2026
 
@@ -62,12 +68,6 @@ El euríbor a 12 meses, del que depende el coste de las hipotecas a tipo variabl
 
 Date: 2026-08-07
 
-### El Ibex tantea nuevos máximos tras el dato de empleo de EE UU
-
-La escalada de las tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para normalizar el tráfico marítimo en el estrecho de Ormuz siguen marcando el paso de los mercados en una jornada en la que los datos de empleo de Estados Unidos serán analizados con lupa por los inversores en busca de nuevas p.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo](https://amp.expansion.com/empresas/2026/08/13/6a7dbe86468aeb447f8b4571.html?utm_source=lootura.com) — 2026-08-13T12:59:47.000Z

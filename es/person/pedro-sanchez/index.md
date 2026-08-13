@@ -3,10 +3,22 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+
+Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+
+Date: 2026-08-13
+
+### Los «parches» económicos de Sánchez ocultan una inflación real que ya supera el 4,1%
+
+Los datos macroeconómicos están destapando el preocupante escenario de precios que atraviesa España pese al edulcorado discurso del Gobierno de Pedro Sánchez. Después de que el INE publicara este martes un repunte del 3,6% en la inflación en julio , la CEOE y los sindicatos han dado la voz de alarma destacando que el d.
+
+Date: 2026-08-13
 
 ### La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa
 
@@ -56,18 +68,7 @@ Pedro Sánchez descansa en La Mareta rodeado de un importante dispositivo de seg
 
 Date: 2026-08-12
 
-### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
-
-El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
-
-Date: 2026-08-11
-
-### La prehistoria del sanchismo
-
-A lo largo de todos estos años, he venido manteniendo que para entender el comportamiento de Sánchez y todo lo que en este tiempo ha sucedido, incluso para adelantarnos a sus acciones, hay que remontarse al origen, al menos desde el momento en que gana las primeras primarias. Por una parte, el Sánchez de ahora estaba y.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Robles se desmarca del Gobierno sobre Marruecos: advierte 12 veces que "no puede volver a ocurrir" y que "Ceuta es españolísima"](https://www.elmundo.es/espana/2026/08/12/6a7caade21efa0d76a8b4574.html?utm_source=lootura.com) — 2026-08-12T20:49:55.000Z
+- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
+- [Los «parches» económicos de Sánchez ocultan una inflación real que ya supera el 4,1%](https://okdiario.com/economia/cuentas-publicas/parches-economicos-sanchez-ocultan-inflacion-real-que-ya-supera-41-19174486?utm_source=lootura.com) — 2026-08-13T12:03:44.000Z

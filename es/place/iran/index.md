@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### El Ibex sondea nuevos récords
 
 La agenda financiera se relaja, y la falta de avances en las negociaciones entre EEUU e Irán mantiene estable el precio del petróleo. Las tecnológicas despuntan en medio de una tregua en los mercados que permite al Ibex sondear nuevos récords.
+
+Date: 2026-08-13
+
+### El gasóleo se dispara un 15,7% y activa la rebaja fiscal de 20 céntimos
+
+El precio de gasóleo se incrementó un 15,7% anual en julio, de acuerdo con los datos publicados ayer por el Instituto Nacional de Estadística (INE), con lo que activa la cláusula de salvaguarda prevista en el Plan de Respuesta a la guerra de Irán aprobado el mes pasado, en el que ya se preveía ir retirando las bonifica.
 
 Date: 2026-08-13
 
@@ -62,12 +68,7 @@ El mercado petrolero se está volviendo a recalentar con la segunda fase de la g
 
 Date: 2026-08-11
 
-### Irán condiciona la apertura de Ormuz a un alto el fuego que incluya Líbano y la Franja de Gaza
-
-El nuevo jefe del Consejo Supremo de Seguridad, el máximo órgano de seguridad de Irán , Mohsen Rezai, ha condicionado este martes la apertura del estrecho de Ormuz a un alto el fuego que incluya a Líbano y la Franja de Gaza, además del fin del bloqueo impuesto por Estados Unidos y la liberación de los fondos iraníes co.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [El Ibex sondea nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com) — 2026-08-13T08:14:20.000Z
+- [El gasóleo se dispara un 15,7% y activa la rebaja fiscal de 20 céntimos](https://www.expansion.com/economia/2026/08/13/6a7d9b4a468aebdd3d8b4594.html?utm_source=lootura.com) — 2026-08-13T10:24:49.000Z
+- [El Ibex sondea nuevos récords](https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com) — 2026-08-13T12:03:40.000Z

@@ -92,6 +92,7 @@
 - [Emiliano García-Page](https://atlas.lootura.com/es/person/emiliano-garcia-page): Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Ester Muñoz](https://atlas.lootura.com/es/person/ester-munoz): Sigue la actividad de Ester Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Fabian Picardo](https://atlas.lootura.com/es/person/fabian-picardo): Sigue la actividad de Fabian Picardo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Fernando Grande](https://atlas.lootura.com/es/person/fernando-grande): Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - ["El Tiburón"](https://atlas.lootura.com/es/person/ferran-torres): Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Fiscalía Europea](https://atlas.lootura.com/es/person/fiscalia-europea): Sigue la actividad de Fiscalía Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Francis Ford Coppola](https://atlas.lootura.com/es/person/francis-ford-coppola): Sigue la actividad de Francis Ford Coppola en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -143,7 +144,6 @@
 - [Pedro Porro](https://atlas.lootura.com/es/person/pedro-porro): Sigue la actividad de Pedro Porro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Pedro Sánchez](https://atlas.lootura.com/es/person/pedro-sanchez): Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Política Territorial](https://atlas.lootura.com/es/person/politica-territorial): Sigue la actividad de Política Territorial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Rafael Jódar](https://atlas.lootura.com/es/person/rafael-jodar): Sigue la actividad de Rafael Jódar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [José Luis Rodríguez Zapatero](https://atlas.lootura.com/es/person/rodriguez-zapatero): Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Salvador Illa](https://atlas.lootura.com/es/person/salvador-illa): Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Santiago Pedraz](https://atlas.lootura.com/es/person/santiago-pedraz): Sigue la actividad de Santiago Pedraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -261,7 +261,6 @@
 - [Chuck Edwards](https://atlas.lootura.com/us/person/chuck-edwards): Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Cockroach Janta Party](https://atlas.lootura.com/us/person/cockroach-janta-party): Follow Cockroach Janta Party, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Darline Graham](https://atlas.lootura.com/us/person/darline-graham): Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Defense Secretary Pete](https://atlas.lootura.com/us/person/defense-secretary-pete): Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic National Committee](https://atlas.lootura.com/us/person/democratic-national-committee): Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Dominic Sessa](https://atlas.lootura.com/us/person/dominic-sessa): Follow Dominic Sessa, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -306,6 +305,7 @@
 - [Perez Hilton](https://atlas.lootura.com/us/person/perez-hilton): Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Pete Buttigieg](https://atlas.lootura.com/us/person/pete-buttigieg): Follow Pete Buttigieg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Ralph Norman](https://atlas.lootura.com/us/person/ralph-norman): Follow Ralph Norman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Rob Marciano](https://atlas.lootura.com/us/person/rob-marciano): Follow Rob Marciano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Shri Thanedar](https://atlas.lootura.com/us/person/shri-thanedar): Follow Shri Thanedar, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Sophie Cunningham](https://atlas.lootura.com/us/person/sophie-cunningham): Follow Sophie Cunningham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [The House](https://atlas.lootura.com/us/person/the-house): Follow The House, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -316,6 +316,7 @@
 - [Tupac Shakur](https://atlas.lootura.com/us/person/tupac-shakur): Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Tyler Robinson](https://atlas.lootura.com/us/person/tyler-robinson): Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Vincent Pastore](https://atlas.lootura.com/us/person/vincent-pastore): Follow Vincent Pastore, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [World War](https://atlas.lootura.com/us/person/world-war): Follow World War, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Barcelona](https://atlas.lootura.com/us/place/barcelona): Follow Barcelona, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Bears Ears](https://atlas.lootura.com/us/place/bears-ears): Follow Bears Ears, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Black Sea](https://atlas.lootura.com/us/place/black-sea): Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.

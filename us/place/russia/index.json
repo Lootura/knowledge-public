@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,11 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+      "date": "2026-08-13"
+    },
     {
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
       "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
@@ -61,20 +66,27 @@
       "title": "Ukraine Drone Attack on Industrial City in Russia Kills at Least 13",
       "summary": "The strike, on an industrial center in Tatarstan, killed at least 13 people.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public. (Image credit: Darko Vojinovic).",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
+    {
+      "title": "Democrats pressure Trump administration to rescue 10 other Americans detained in Russia",
+      "url": "https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T13:03:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
       "url": "https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T21:37:33.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:01:26.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica
+
+Anthropic PBC está en conversaciones para comprar la start-up de inteligencia artificial Decart AI por unos 6.000 millones de dólares (unos 5.200 millones de euros al cambio actual), según han adelantado fuentes cercanas a la operación citadas por Bloomberg. Seguir leyendo.
+
+Date: 2026-08-13
 
 ### Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas
 
@@ -52,4 +58,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Jensen Huang toma el volante del carro de la IA de 433.000 millones](https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html?utm_source=lootura.com) — 2026-08-13T03:40:00.000Z
+- [IBM y OpenAI se alían para acelerar la implantación de la IA en empresas](https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com) — 2026-08-13T12:40:12.000Z
+- [Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica](https://cincodias.elpais.com/companias/2026-08-13/anthropic-se-lanza-a-por-la-start-up-decart-por-5200-millones-su-mayor-compra-historica.html?utm_source=lootura.com) — 2026-08-13T10:54:12.000Z

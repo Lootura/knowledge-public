@@ -3,7 +3,7 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [La Guardia Civil coloca una barrera marítima en el dique sur de Melilla para reforzar la frontera](https://www.elconfidencial.com/espana/2026-08-13/barrera-maritima-melilla-frontera-1tps_4405429/?utm_source=lootura.com) — 2026-08-13T10:19:00.000Z

@@ -65,25 +65,6 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
-      "url": "https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T08:28:20.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027",
-      "url": "https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T08:50:14.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
-      "url": "https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T07:56:58.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

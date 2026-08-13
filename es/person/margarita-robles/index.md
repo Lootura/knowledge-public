@@ -3,10 +3,40 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención
+
+La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita "más tiempo" para preparar una intervención "con un mínimo de rigor y detalle". Así se lo ha comunicado a.
+
+Date: 2026-08-13
+
+### Robles se pliega a la Moncloa y descarta acudir al Senado en agosto
+
+Tras 48 horas de incertidumbre, un día después de lo que prometió el Gobierno, la ministra de Defensa, Margarita Robles, ha resuelto el misterio. No comparecerá el 18 de agosto en el Senado para dar explicaciones sobre la crisis de Ceuta. Tampoco en lo que resta de mes. La máxima responsable política de las Fuerzas Arm.
+
+Date: 2026-08-13
+
+### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
+
+La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18: "Necesito más tiempo para prepararla con rigor" Margarita Robles se desmarca de la estrategia de Moncloa y remarca su perfil propio con la crisis de Ceuta La ministra de Defen.
+
+Date: 2026-08-13
+
+### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
+
+La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
+
+Date: 2026-08-13
+
+### Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales
+
+La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilidad de España como socio euroatlántico y lo ha hecho tras testar la situación de las misiones que los militares españoles desarrollan en el exterior. En concreto, ha realizado una visita de seguimiento al Mando de Operaciones (MOPS) , ubicado.
+
+Date: 2026-08-13
 
 ### Óscar Puente y Felipe VI
 
@@ -38,36 +68,10 @@ Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chi
 
 Date: 2026-08-11
 
-### Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes
-
-El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.
-
-Date: 2026-08-11
-
-### Margarita Robles garantiza a Rueda que el proyecto chino en Ferrol cuenta con el aval de Defensa
-
-El Ministerio planteará, de ser necesarias, «condiciones operativas» para que la fábrica del gigante SAIC no suponga un problema para la seguridad nacional.
-
-Date: 2026-08-11
-
-### El PP avanza que Margarita Robles comparecerá finalmente el próximo martes en el Senado por la crisis de Ceuta
-
-El PP ha anunciado que la ministra de Defensa, Margarita Robles , comparecerá finalmente el próximo martes 18 de agosto en el Senado para dar cuenta de las labores de su departamento en la crisis migratoria de Ceuta, pese a que estaba previsto que acudiera este mismo jueves. Los populares también han acusado a los titu.
-
-Date: 2026-08-11
-
-### Margarita Robles se desmarca del criterio de Moncloa y sí comparecerá en el Senado a petición del PP
-
-La ministra de Defensa sí comparecerá finalmente en el Senado, el próximo 18 de agosto, para dar explicaciones sobre la llegada masiva de extranjeros en situación irregular...
-
-Date: 2026-08-11
-
-### Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta
-
-El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención](https://www.20minutos.es/nacional/robles-no-comparecera-senado-dia-18-por-crisis-ceuta-alega-que-necesita-mas-tiempo-para-preparar-su-intervencion_7025460_0.html?utm_source=lootura.com) — 2026-08-13T12:10:38.000Z
+- [Robles se pliega a la Moncloa y descarta acudir al Senado en agosto](https://www.abc.es/espana/robles-dice-ira-agosto-senado-necesita-tiempo-20260813140207-nt.html?utm_source=lootura.com) — 2026-08-13T12:45:08.000Z
+- [Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP](https://www.eldiario.es/politica/margarita-robles-comunica-presidente-senado-no-comparecera-semana-viene-pide-pp_1_13445342.html?utm_source=lootura.com) — 2026-08-13T12:16:46.000Z
+- [Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano](https://theobjective.com/espana/politica/2026-08-13/robles-senado-comparecencia-vuelta-verano/?utm_source=lootura.com) — 2026-08-13T12:11:49.000Z
+- [Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales](https://theobjective.com/espana/2026-08-13/robles-espana-otan-misiones/?utm_source=lootura.com) — 2026-08-13T11:28:36.000Z

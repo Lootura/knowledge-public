@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Why the World Is Still Investing in America",
+      "summary": "American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.",
+      "date": "2026-08-13"
+    },
     {
       "title": "For Blakeman, Trump Could Make and Break His Bid to Lead New York",
       "summary": "Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.",
@@ -72,16 +82,6 @@
       "title": "Mother, 5-month-old baby killed in New York boat capsize, captain arrested",
       "summary": "The captain of a boat that overturned in New York Harbor was charged with reckless endangerment. Twelve people were saved, but a mother and her 5-month-old daughter died. Michael George reports.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Here’s the biggest news you missed this weekend",
-      "summary": "Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
-      "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
@@ -90,7 +90,19 @@
       "url": "https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com",
       "publishedAt": "2026-08-12T16:24:54.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices",
+      "url": "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T07:00:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Why the World Is Still Investing in America",
+      "url": "https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T10:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

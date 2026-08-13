@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -60,14 +60,19 @@
       "date": "2026-08-13"
     },
     {
-      "title": "11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.",
-      "summary": "A Justice Department staff displays a poster of suspects of marriage fraud scheme during a news conference at the Justice Department in Washington, D.C. U.S. on Aug. 12, 2026. The U.S. Justice Department on Wednesday announced that it had charged 11 people for allegedly conspiring in a multimillion-dollar, decade-long.",
+      "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
+      "summary": "Democratic Socialists are capturing more votes than ever before — even as they run up against the limits of their appeal.",
       "date": "2026-08-13"
     },
     {
-      "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
-      "summary": "Hundreds of federal judges have received threats against themselves and their families this year, according to the U.S. Marshals Service. It comes amid a litany of verbal and written attacks by President Trump and his administration on judges who have ruled against them. Justice correspondent Ali Rogin spoke with Judge.",
-      "date": "2026-08-12"
+      "title": "Why the World Is Still Investing in America",
+      "summary": "American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.",
+      "summary": "A Justice Department staff displays a poster of suspects of marriage fraud scheme during a news conference at the Justice Department in Washington, D.C. U.S. on Aug. 12, 2026. The U.S. Justice Department on Wednesday announced that it had charged 11 people for allegedly conspiring in a multimillion-dollar, decade-long.",
+      "date": "2026-08-13"
     },
     {
       "title": "Watching Trump at the Patriot Games",
@@ -75,13 +80,8 @@
       "date": "2026-08-12"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts. (Image credit: Thalia Juarez for NPR).",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
+      "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
+      "summary": "Hundreds of federal judges have received threats against themselves and their families this year, according to the U.S. Marshals Service. It comes amid a litany of verbal and written attacks by President Trump and his administration on judges who have ruled against them. Justice correspondent Ali Rogin spoke with Judge.",
       "date": "2026-08-12"
     }
   ],
@@ -111,16 +111,16 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Federal judges describe violent threats amid 'dehumanizing attacks' from political leaders",
-      "url": "https://www.pbs.org/newshour/show/federal-judges-describe-violent-threats-amid-dehumanizing-attacks-from-political-leaders?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:35:38.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "'Imposing ignorance': US climate science under siege",
       "url": "https://phys.org/news/2026-08-imposing-climate-science-siege.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T07:30:01.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
+      "url": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:24:27.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Watching Trump at the Patriot Games",
@@ -129,9 +129,9 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "11 Charged in ‘One of the Largest Marriage Fraud Prosecutions’ in U.S.",
-      "url": "https://time.com/article/2026/08/13/justice-department-indictment-sham-marriage-immigration-china/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:00:03.000Z",
+      "title": "Why the World Is Still Investing in America",
+      "url": "https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T10:00:04.000Z",
       "sourceId": "lootura-us-time"
     }
   ],

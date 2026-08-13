@@ -3,20 +3,20 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
 
-### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
-
-In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
-
-Date: 2026-08-12
-
 ### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
 
 President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
+
+Date: 2026-08-12
+
+### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
+
+In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
 
 Date: 2026-08-12
 
@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
 - [For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’](https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html?utm_source=lootura.com) — 2026-08-12T21:37:33.000Z

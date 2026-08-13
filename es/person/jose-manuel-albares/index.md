@@ -70,5 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T08:28:20.000Z
-- [Exteriores comunica la muerte de un español en el terremoto en Colombia](https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com) — 2026-08-13T07:56:58.000Z
+No public source links.

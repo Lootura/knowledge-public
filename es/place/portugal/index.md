@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Galicia: marisco, empanada, pulpo y caldeiradas
+
+Como decía Néstor Luján, Galicia es «tierra viciosa de pescados y mariscos», tanta es su abundancia y su variedad. En el litoral que va desde la frontera con Portugal hasta la ría del Eo, límite con Asturias, se crían excepcionales crustáceos (camarones, percebes, centollas, cigalas, nécoras, lubrigantes...) y moluscos.
+
+Date: 2026-08-13
 
 ### Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes
 
@@ -62,12 +68,6 @@ Un total de 64 personas perdieron la vida en un episodio trágico con algunos pa
 
 Date: 2026-07-11
 
-### Morten Hjulmand ficha por el Atlético de Madrid hasta 2031
-
-El ansiado pivote. Morten Hjulmand, de 27 años, centrocampista danés que jugaba en el Sporting de Portugal, es nuevo jugador del Atlético de Madrid para.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Galicia: marisco, empanada, pulpo y caldeiradas](https://www.abc.es/gastronomia/galicia-marisco-20260813012958-nt.html?utm_source=lootura.com) — 2026-08-13T11:41:24.000Z

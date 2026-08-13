@@ -3,16 +3,28 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### White House Press Secretary Karoline Leavitt to Step Down
+
+President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.
+
+Date: 2026-08-13
 
 ### Karoline Leavitt is leaving her role as Trump's White House press secretary
 
 Leavitt called it a "bittersweet decision" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.
 
 Date: 2026-08-13
+
+### Watching Trump at the Patriot Games
+
+Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
+
+Date: 2026-08-12
 
 ### Which Trump Officials Joined Him on His Secret Flight Out of Turkey?
 
@@ -29,12 +41,6 @@ Date: 2026-08-12
 ### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
 
 In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
-
-Date: 2026-08-12
-
-### Watching Trump at the Patriot Games
-
-Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
 
 Date: 2026-08-12
 
@@ -62,16 +68,7 @@ White House Press Secretary Karoline Leavitt speaks during a press briefing in t
 
 Date: 2026-08-12
 
-### NATO spending pressure returned
-
-President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Karoline Leavitt to step down as White House press secretary at end of August](https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com) — 2026-08-12T20:04:10.000Z
-- [Karoline Leavitt is leaving her role as Trump's White House press secretary](https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com) — 2026-08-13T00:32:39.000Z
-- [News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey](https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com) — 2026-08-12T22:45:26.000Z
-- [Which Trump Officials Joined Him on His Secret Flight Out of Turkey?](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html?utm_source=lootura.com) — 2026-08-12T19:49:59.000Z
+- [White House Press Secretary Karoline Leavitt to Step Down](https://www.today.com/video/trump-announces-press-secretary-karoline-leavitt-will-step-down-268235845977?utm_source=lootura.com) — 2026-08-13T11:29:07.000Z
 - [Watching Trump at the Patriot Games](https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html?utm_source=lootura.com) — 2026-08-12T20:40:07.000Z

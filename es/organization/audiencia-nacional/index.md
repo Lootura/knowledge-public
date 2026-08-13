@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire
+
+El magistrado señala que las personas imputadas por su juzgado «podrían no ocupar un lugar principal» en el entramado investigado en paralelo por el magistrado de la Audiencia Nacional Santiago Pedraz.
+
+Date: 2026-08-13
 
 ### Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial
 
@@ -62,12 +68,6 @@ La magistrada de la Audiencia Nacional, María Tardón ha preguntado a la Guardi
 
 Date: 2026-08-05
 
-### La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta
-
-La Audiencia Nacional ha solicitado a la Guardia Civil que informe de si tuvo algún indicio o información en los días previos a la entrada irregular y masiva de inmigrantes en Ceuta que alertase de que lo sucedido podía ocurrir. La jueza María Tardón ha dado el paso a raíz de una denuncia del partido Iustitia Europa, q.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire](https://www.abc.es/espana/juez-zamarriego-desliza-leire-puede-afectar-personas-20260813133339-nt.html?utm_source=lootura.com) — 2026-08-13T11:33:39.000Z

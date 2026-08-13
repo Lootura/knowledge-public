@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/georgina-rodriguez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/georgina-rodriguez/index.json",
   "description": "Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "Georgina",
     "Georgina Luisa Rodríguez Hernández",
     "Gio"
   ],
   "changes": [
+    {
+      "title": "La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano",
+      "summary": "Cristiano Ronaldo y Georgina Rodríguez han celebrado su boda en la intimidad, rodeados de sus hijos, y han confirmado la noticia con una fotografía de sus manos en la que destacan sus nuevas alianzas. Una imagen aparentemente sencilla que permite descubrir un detalle muy interesante: el impresionante anillo de compromi.",
+      "date": "2026-08-13"
+    },
     {
       "title": "La 'boda' de Cristiano Ronaldo reúne a cientos de personas en Funchal",
       "summary": "Todo el mundo esperaba la boda del siglo este fin de semana en Madeira. El periódico 'The Sun' había anunciado que el enlace de Cristiano Ronaldo y Georgina Rodríguez sería a las 15 horas en la catedral de Funchal, capital de Madeira, y a pesar de que había habido algunos desmentidos, todos aquellos turistas y curiosos.",
@@ -41,6 +46,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano",
+      "url": "https://okdiario.com/cool/famosos/joya-mas-discreta-del-joyero-georgina-anillo-millones-alianza-lujo-que-comparte-cristiano-19170120?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:01:03.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

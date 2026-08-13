@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse",
+      "summary": "Buzos de la Guardia Civil han hallado sin vida a una mujer de 52 años, vecina de Trubia (Oviedo), que permanecía desaparecida desde la noche del miércoles en el embalse asturiano de Valdemurio . La víctima se había zambullido en el agua tras contemplar el eclipse solar y no volvió a salir a la superficie. La pareja hab.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas",
       "summary": "La operación policial en Muxía (A Coruña) contra una organización criminal dedicada a introducir grandes cantidades de droga en España se ha dado por concluida este miércoles con la detención de 26 personas , incluido un agente de la Guardia Civil , y el decomiso de más de 1.600 kilos de cocaína. Así lo han asegurado a.",
@@ -55,13 +60,15 @@
       "title": "El Gobierno blinda Ceuta ante la posible entrada masiva del 15 de agosto: casi 300 antidisturbios, 2.000 soldados, drones...",
       "summary": "El Gobierno se toma muy en serio la amenaza de u na nueva entrada masiva en Ceuta el próximo 15 de agosto después de que tanto la Guardia Civil como el CNI diesen plena credibilidad a las convocatorias que para tal fin se están organizando en las redes sociales. Así, desde qu e el pasado 30 de julio 72.000 migrantes il.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»",
-      "summary": "«No son suficientes» . Así definen las distintas asociaciones que representan a los agentes de Guardia Civil y Policía Nacional al número de efectivos y medios que actualmente se mantiene en Ceuta tras las crisis migratoria de la pasada semana. Lo hacen tras la nueva alerta de la que se viene informando durante los últ.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse",
+      "url": "https://www.elconfidencial.com/espana/2026-08-13/mujer-embalse-valdemurio-oviedo-1tna-1tps_4405492/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:12:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

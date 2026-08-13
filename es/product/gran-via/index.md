@@ -3,7 +3,7 @@
 > Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/product/gran-via
 
 ## Cambios recientes

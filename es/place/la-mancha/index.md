@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete](https://www.elconfidencial.com/espana/2026-08-13/accidente-mortal-colision-albacete-1tna-1tps_4405293/?utm_source=lootura.com) — 2026-08-13T07:01:00.000Z
+No public source links.

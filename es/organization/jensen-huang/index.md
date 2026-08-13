@@ -22,4 +22,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Jensen Huang toma el volante del carro de la IA de 433.000 millones](https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html?utm_source=lootura.com) — 2026-08-13T03:40:00.000Z
+No public source links.

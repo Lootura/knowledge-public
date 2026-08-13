@@ -3,20 +3,20 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
 
-### Inflation cooled last month as gas prices fell, though costs remain elevated
-
-The modest decline could ease pressure on the Federal Reserve to raise their key interest rate to combat rising costs. Yet prices are still rising more quickly than average wages, underscoring the struggle many Americans have had with more expensive groceries, gas, and healthcare.
-
-Date: 2026-08-12
-
 ### Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase
 
 The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved the debate altogether.
+
+Date: 2026-08-12
+
+### Inflation cooled last month as gas prices fell, though costs remain elevated
+
+The modest decline could ease pressure on the Federal Reserve to raise their key interest rate to combat rising costs. Yet prices are still rising more quickly than average wages, underscoring the struggle many Americans have had with more expensive groceries, gas, and healthcare.
 
 Date: 2026-08-12
 
@@ -46,5 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Inflation cooled last month as gas prices fell, though costs remain elevated](https://www.pbs.org/newshour/economy/inflation-cooled-last-month-as-gas-prices-fell-though-costs-remain-elevated?utm_source=lootura.com) — 2026-08-12T18:01:55.000Z
 - [Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase](https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html?utm_source=lootura.com) — 2026-08-12T14:08:32.000Z

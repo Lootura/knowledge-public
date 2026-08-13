@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña](https://www.eldiario.es/asturias/eclipse-asturiano-decepcion-costa-cielos-cubiertos-exito-montana_1_13444360.html?utm_source=lootura.com) — 2026-08-13T07:28:02.000Z
+No public source links.

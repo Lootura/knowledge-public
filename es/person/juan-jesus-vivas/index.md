@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales
+
+El ministro del Interior, Fernando Grande-Marlaska , ha sido recibido este jueves entre abucheos en su visita a Ceuta para mantener una reunión con el delegado del Gobierno, Miguel Ángel Pérez. Marlaska también se verá por la tarde con el presidente de la ciudad autónoma, Juan Jesús Vivas. El ministro ha entrado en la.
+
+Date: 2026-08-13
 
 ### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
 
@@ -62,12 +68,6 @@ Pese a que el Rey Felipe VI se «comprometió» con el presidente de Ceuta, Juan
 
 Date: 2026-08-08
 
-### Juan Jesús Vivas: "Pensaba que el giro del Sáhara era a cambio del respeto de Rabat"
-
-El presidente ceutí cree que España ha hecho demasiadas cesiones a Marruecos y duda de la efectividad de las boyas Leer.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales](https://okdiario.com/espana/monumental-pitada-marlaska-visita-ceuta-desbordada-inmigrantes-ilegales-19175544?utm_source=lootura.com) — 2026-08-13T12:21:36.000Z

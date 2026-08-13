@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
@@ -17,6 +17,11 @@
     {
       "title": "Colombia earthquake death toll rises as frantic search for survivors continues",
       "summary": "The devastation has tested Colombia's new president and his government as it scrambles to respond to the disaster and civil society as it pushes to provide aid to the most affected communities.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
+      "summary": "The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.",
       "date": "2026-08-13"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Morning news brief",
       "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Rescuers race to find Colombia earthquake survivors as death toll rises",
-      "summary": "More than 3,000 people were reported missing after the country was struck by its strongest earthquake on record.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
@@ -73,10 +73,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-confirms-he-was-secretly-whisked-away-from-air-force-one-in-turkey?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:45:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
+      "url": "https://www.today.com/video/dog-rescued-from-colombia-quake-offers-hope-to-find-survivors-268238405758?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:27:30.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 3

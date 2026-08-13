@@ -3,7 +3,7 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Rafa Jódar se queda a las puertas de su primera final en Montreal](https://www.abc.es/deportes/tenis/rafa-jodar-queda-puertas-segunda-final-consecutiva-20260813025815-nt.html?utm_source=lootura.com) — 2026-08-13T08:39:33.000Z
-- [Rafa Jódar pierde ante Nakashima y se queda sin jugar la final en el Masters 1000 de Montreal](https://theobjective.com/deportes/2026-08-13/rafa-jodar-pierde-nakashima-montreal/?utm_source=lootura.com) — 2026-08-13T07:39:30.000Z
-- [Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»](https://theobjective.com/gente/2026-08-13/penelope-cruz-desayuno-huevos-tostadas-espelta-zumo-apio/?utm_source=lootura.com) — 2026-08-13T07:30:00.000Z
+- [Del Mundial a Segunda: Del Cerro Grande pasa de un Sudáfrica – Canadá a un Real Sociedad B – Castellón](https://okdiario.com/deportes/del-mundial-segunda-del-cerro-grande-pasa-sudafrica-canada-real-sociedad-b-castellon-19174914?utm_source=lootura.com) — 2026-08-13T12:05:27.000Z

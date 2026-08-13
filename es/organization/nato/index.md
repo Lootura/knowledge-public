@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales
+
+La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilidad de España como socio euroatlántico y lo ha hecho tras testar la situación de las misiones que los militares españoles desarrollan en el exterior. En concreto, ha realizado una visita de seguimiento al Mando de Operaciones (MOPS) , ubicado.
+
+Date: 2026-08-13
 
 ### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
 
@@ -62,12 +68,6 @@ Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo d
 
 Date: 2026-08-08
 
-### Pánico en una playa del sur de Rusia con siete muertos por el derribo de un dron ucraniano
-
-Moscú acusa a Ucrania de terrorismo y a la OTAN de patrocinarlo Leer.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales](https://theobjective.com/espana/2026-08-13/robles-espana-otan-misiones/?utm_source=lootura.com) — 2026-08-13T11:28:36.000Z

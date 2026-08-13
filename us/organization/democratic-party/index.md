@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -23,6 +23,12 @@ Date: 2026-08-13
 ### Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028
 
 NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.
+
+Date: 2026-08-13
+
+### Primary voters send mixed signals about what they want from the Democratic Party
+
+Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.
 
 Date: 2026-08-13
 
@@ -62,16 +68,10 @@ South Carolina Republicans will choose a successor for the late Sen. Lindsey Gra
 
 Date: 2026-08-12
 
-### Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat
-
-Ms. Cooke, a three-time congressional candidate, held a huge fund-raising edge in a western Wisconsin race that Democrats consider pivotal to their hopes of flipping the House.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief?utm_source=lootura.com) — 2026-08-13T08:44:44.000Z
+- [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
 - [Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028](https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com) — 2026-08-13T08:42:12.000Z
+- [Primary voters send mixed signals about what they want from the Democratic Party](https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party?utm_source=lootura.com) — 2026-08-13T10:59:33.000Z
 - [Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC](https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214?utm_source=lootura.com) — 2026-08-13T00:22:46.000Z
-- [Three Questions for Democrats After an Eye-Opening Loss for Progressives](https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html?utm_source=lootura.com) — 2026-08-12T18:36:52.000Z
 - [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T00:48:12.000Z

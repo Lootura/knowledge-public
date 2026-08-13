@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T09:09:25.359Z",
+  "updatedAt": "2026-08-13T13:03:52.128Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Total solar eclipse mesmerizes crowds throughout Europe",
+      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
+      "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Views of the total solar eclipse from parts of Europe",
+      "summary": "A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Why the World Is Still Investing in America",
+      "summary": "American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Photos: See the best photos from the solar eclipse",
       "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain, (Image credit: Christian Hartmann).",
@@ -30,11 +50,6 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Total solar eclipse mesmerizes crowds throughout Europe",
-      "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Europe sees first total solar eclipse in 27 years | Special Report",
       "summary": "Europe on Wednesday experienced its first solar eclipse in nearly three decades. Lindsey Reiser anchored CBS News' special coverage.",
       "date": "2026-08-12"
@@ -48,28 +63,19 @@
       "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
       "summary": "The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Europe is the world’s fastest warming continent. What is to blame?",
-      "summary": "The climate crisis is hitting Europe hard in 2026, warming twice as fast as any other continent – and the consequences are deadly The whole world is getting hotter as carbon pollution from fossil fuel burning traps ever more heat, but Europe is heating up twice as fast as other continents. The consequences are increasi.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse",
-      "summary": "Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins \"The Daily Report\" to break down what to expect from the solar eclipse on Wednesday.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "The most dramatic meteor shower of the summer peaks the day of a solar eclipse",
-      "summary": "The Perseids’ peak coincides with another highly anticipated celestial event: a total solar eclipse that will be visible in parts of Europe.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Europe sees first total solar eclipse in 27 years | Special Report",
-      "url": "https://www.cbsnews.com/video/europe-sees-first-total-solar-eclipse-in-27-years-special-report/?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T20:32:57.000Z",
+      "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
+      "url": "https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:47:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Views of the total solar eclipse from parts of Europe",
+      "url": "https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:42:59.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -79,35 +85,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
-      "url": "https://www.nbcnews.com/nightly-news/video/once-in-a-lifetime-total-solar-eclipse-sweeps-across-europe-268218949778?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T23:13:37.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Photos: See the best photos from the solar eclipse",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T01:38:01.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades",
-      "url": "https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T19:50:17.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "EU curbs on 'forever chemicals' in food packaging kick in",
-      "url": "https://phys.org/news/2026-08-eu-curbs-chemicals-food-packaging.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
-      "url": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T00:44:00.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Why the World Is Still Investing in America",
+      "url": "https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T10:00:04.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

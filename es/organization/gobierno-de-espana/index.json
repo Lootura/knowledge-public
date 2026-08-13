@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle",
+      "summary": "El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»",
       "summary": "En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: \"Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.",
@@ -58,13 +63,15 @@
       "title": "Sánchez y su banda mora",
       "summary": "El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva",
-      "summary": "Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle",
+      "url": "https://theobjective.com/espana/politica/2026-08-13/pp-gobierno-sumiso-marruecos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T11:18:47.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

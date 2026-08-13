@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-08-13T13:03:33.343Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica",
+      "summary": "Anthropic PBC está en conversaciones para comprar la start-up de inteligencia artificial Decart AI por unos 6.000 millones de dólares (unos 5.200 millones de euros al cambio actual), según han adelantado fuentes cercanas a la operación citadas por Bloomberg. Seguir leyendo.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Jorge Martín firma una victoria incontestable en Silverstone ante un Marc Márquez con problemas",
       "summary": "Jorge Martín está imparable y ha dominado de principio a fin la carrera sprint del GP de Gran Bretaña de MotoGP, que se ha disputado en el circuito de Silverstone, por delante del japonés Ai Ogura y del italiano Marco Bezzecchi. El piloto madrileño ha sumado su tercera victoria al sprint de la temporada, algo que le ha.",
@@ -52,11 +57,17 @@
   ],
   "sources": [
     {
-      "title": "Jensen Huang toma el volante del carro de la IA de 433.000 millones",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-13/jensen-huang-toma-el-volante-del-carro-de-la-ia-de-433000-millones.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T03:40:00.000Z",
+      "title": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas",
+      "url": "https://cincodias.elpais.com/companias/2026-08-13/ibm-y-openai-se-alian-para-acelerar-la-implantacion-de-la-ia-en-empresas.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T12:40:12.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica",
+      "url": "https://cincodias.elpais.com/companias/2026-08-13/anthropic-se-lanza-a-por-la-start-up-decart-por-5200-millones-su-mayor-compra-historica.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T10:54:12.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

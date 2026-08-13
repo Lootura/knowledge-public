@@ -3,10 +3,16 @@
 > Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/person/karoline-leavitt
 
 ## Recent changes
+
+### White House Press Secretary Karoline Leavitt to Step Down
+
+President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.
+
+Date: 2026-08-13
 
 ### Karoline Leavitt is leaving her role as Trump's White House press secretary
 
@@ -40,5 +46,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Karoline Leavitt to step down as White House press secretary at end of August](https://www.nbcnews.com/now/video/karoline-leavitt-to-step-down-as-white-house-press-secretary-at-end-of-august-268202053931?utm_source=lootura.com) — 2026-08-12T20:04:10.000Z
-- [Karoline Leavitt is leaving her role as Trump's White House press secretary](https://www.pbs.org/newshour/politics/karoline-leavitt-is-leaving-her-role-as-trumps-white-house-press-secretary?utm_source=lootura.com) — 2026-08-13T00:32:39.000Z
+- [White House Press Secretary Karoline Leavitt to Step Down](https://www.today.com/video/trump-announces-press-secretary-karoline-leavitt-will-step-down-268235845977?utm_source=lootura.com) — 2026-08-13T11:29:07.000Z

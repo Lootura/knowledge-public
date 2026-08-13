@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes](https://theobjective.com/economia/2026-08-13/precio-luz-dispararse-sol-carburantes/?utm_source=lootura.com) — 2026-08-13T03:41:43.000Z
+No public source links.

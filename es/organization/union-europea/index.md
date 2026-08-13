@@ -70,6 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T08:28:20.000Z
-- [El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027](https://www.larazon.es/television/mar-negro-prepara-gran-espectaculo-burgas-acogera-eurovision-2027_202608136a7d8546a5690f0473775e1e.html?utm_source=lootura.com) — 2026-08-13T08:50:14.000Z
-- [Exteriores comunica la muerte de un español en el terremoto en Colombia](https://theobjective.com/espana/2026-08-13/exteriores-muerte-espanol-terremoto-colombia/?utm_source=lootura.com) — 2026-08-13T07:56:58.000Z
+No public source links.

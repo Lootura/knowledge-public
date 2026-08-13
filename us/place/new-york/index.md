@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T09:09:25.359Z
+- Updated: 2026-08-13T13:03:52.128Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Funding milestone detected
+
+New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.
+
+Date: 2026-08-13
+
+### Why the World Is Still Investing in America
+
+American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.
+
+Date: 2026-08-13
 
 ### For Blakeman, Trump Could Make and Break His Bid to Lead New York
 
@@ -56,18 +68,8 @@ The captain of a boat that overturned in New York Harbor was charged with reckle
 
 Date: 2026-08-10
 
-### Here’s the biggest news you missed this weekend
-
-Israel rejects Trump’s Gaza plan, Todd Blanche confirmed as attorney general, and a boat capsizes in the New York Harbor.
-
-Date: 2026-08-09
-
-### A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News
-
-Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.
-
-Date: 2026-08-09
-
 ## Sources
 
 - [For Blakeman, Trump Could Make and Break His Bid to Lead New York](https://www.nytimes.com/2026/08/12/nyregion/bruce-blakeman-governor-ny.html?utm_source=lootura.com) — 2026-08-12T16:24:54.000Z
+- [New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices](https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html?utm_source=lootura.com) — 2026-08-13T07:00:07.000Z
+- [Why the World Is Still Investing in America](https://time.com/article/2026/08/13/the-world-is-still-choosing-america/?utm_source=lootura.com) — 2026-08-13T10:00:04.000Z

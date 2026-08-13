@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+
+Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+
+Date: 2026-08-13
 
 ### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
 
@@ -62,12 +68,6 @@ El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la 
 
 Date: 2026-08-02
 
-### Feijóo niega que exista "la normalidad de la que habla el Gobierno" en Ceuta: "Basta con pisar la calle para comprobarlo"
-
-El presidente del PP , Alberto Núñez Feijóo , ha asegurado que no existe "la normalidad de la que habla el Gobierno" en Ceuta y que "basta con pisar la calle para comprobarlo", como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. "Por humanidad,.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z

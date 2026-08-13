@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-08-13T13:03:33.343Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle
+
+El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.
+
+Date: 2026-08-13
 
 ### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
 
@@ -62,12 +68,6 @@ El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no 
 
 Date: 2026-08-10
 
-### Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva
-
-Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano, subirá hasta sumar 250 militares en total y 100 medios.La i.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle](https://theobjective.com/espana/politica/2026-08-13/pp-gobierno-sumiso-marruecos/?utm_source=lootura.com) — 2026-08-13T11:18:47.000Z
