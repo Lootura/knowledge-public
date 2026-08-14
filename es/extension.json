@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T01:59:43.652Z",
+  "generatedAt": "2026-08-14T03:50:43.179Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|134|1786671845758",
+    "signature": "1.18.0|135|1786671845758",
     "version": "1.18.0",
-    "build": 134,
+    "build": 135,
     "latestEntityUpdatedAt": "2026-08-14T01:44:05.758Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/place/espana",
       "path": "/es/place/espana",
       "updatedAt": "2026-08-14T01:44:05.758Z",
-      "score": 1727,
+      "score": 1719,
       "sourceCount": 1159,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/person/ferran-torres",
         "path": "/es/person/ferran-torres",
         "updatedAt": "2026-08-14T01:44:05.758Z",
-        "score": 1654,
+        "score": 1646,
         "sourceCount": 23,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/colombia",
         "path": "/es/place/colombia",
         "updatedAt": "2026-08-14T01:44:05.758Z",
-        "score": 1642,
+        "score": 1633,
         "sourceCount": 112,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/barcelona",
         "path": "/es/place/barcelona",
         "updatedAt": "2026-08-14T01:44:05.758Z",
-        "score": 1625,
+        "score": 1617,
         "sourceCount": 156,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
         "updatedAt": "2026-08-14T01:44:05.758Z",
-        "score": 1625,
+        "score": 1616,
         "sourceCount": 390,
         "isBreaking": false,
         "isPinned": false
