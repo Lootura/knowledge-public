@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Muere Víctor Coyote, músico y fundador de la banda Los Coyotes](https://theobjective.com/cultura/2026-08-13/muere-victor-coyote-musico-fundador-banda-los-coyotes/?utm_source=lootura.com) — 2026-08-13T16:24:16.000Z
+No public source links.

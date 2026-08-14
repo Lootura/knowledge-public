@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### ¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país
-
-El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.
-
-Date: 2026-08-13
-
 ### Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple
 
 El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.
+
+Date: 2026-08-13
+
+### ¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país
+
+El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.
 
 Date: 2026-08-13
 
@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país](https://hipertextual.com/apple/iphone-ultra-podria-lanzarse-solo-en-estados-unidos/?utm_source=lootura.com) — 2026-08-13T15:05:00.000Z
 - [Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple](https://www.larazon.es/tecnologia-consumo/samsung/samsung-ya-trabaja-su-propia-alternativa-airpods-max-apple_202608136a7df335a046ad6ebcaf8990.html?utm_source=lootura.com) — 2026-08-13T20:30:00.000Z

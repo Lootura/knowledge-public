@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure?utm_source=lootura.com) — 2026-08-13T19:28:39.000Z
+No public source links.

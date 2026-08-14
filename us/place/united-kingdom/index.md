@@ -22,4 +22,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Daily fragment: World War II](https://en.wikipedia.org/wiki/World_War_II?utm_source=lootura.com) — 2026-08-13T04:00:00.000Z
+No public source links.

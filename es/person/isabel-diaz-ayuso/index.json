@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T01:26:07.655Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse",
+      "summary": "Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instalado el punto principal de seguimiento de este fenómeno astro.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático",
       "summary": "Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.",
@@ -59,13 +64,15 @@
       "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
       "summary": "Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial",
-      "summary": "Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse",
+      "url": "https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:47:44.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

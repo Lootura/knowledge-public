@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -38,6 +38,18 @@ Es impresionante comprobar lo poco que le importan a Pedro Sánchez las desgraci
 
 Date: 2026-08-13
 
+### Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse
+
+Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instalado el punto principal de seguimiento de este fenómeno astro.
+
+Date: 2026-08-13
+
+### Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo
+
+Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...
+
+Date: 2026-08-13
+
 ### Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)
 
 El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.
@@ -56,20 +68,10 @@ Los datos macroeconómicos están destapando el preocupante escenario de precios
 
 Date: 2026-08-13
 
-### La crisis de Ceuta sorprendió al Gobierno con la Ley de Extranjería pendiente de adecuarse a Europa
-
-La crisis migratoria de Ceuta, que supuso la entrada de más de 72.000 inmigrantes, sorprendió al Gobierno con la ley orgánica de Extranjería pendiente de adecuarse a los estándares europeos. El Ejecutivo de Pedro Sánchez anunció en su plan anual normativo de este año que acometería una reforma de esta norma y que compl.
-
-Date: 2026-08-13
-
-### Pedro Sánchez quiere ser ‘influencer’
-
-El jefe de Gobierno que nos ha tocado en suerte —las urnas hacen faenas que obligan a preguntarse si los ciudadanos piensan mínimamente el sentido de su voto— se ha convertido en un personaje digno de estudio. Tendría que estar encantado de llegar a donde ha llegado… pero no le parece suficiente. Ser presidente no le l.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse](https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html?utm_source=lootura.com) — 2026-08-13T23:47:44.000Z
+- [Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo](https://amp.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html?utm_source=lootura.com) — 2026-08-13T20:42:58.000Z
 - [Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja](https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com) — 2026-08-13T15:55:24.000Z
 - [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
 - [Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático](https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com) — 2026-08-13T16:54:47.000Z

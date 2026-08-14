@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "EEUU paga el mayor interés por su deuda a 30 años desde 2001",
+      "summary": "EEUU ha pagado los mayores intereses para vender bonos a 30 años desde 2001 , mientras los inversores muestran su preocupación por el creciente volumen de deuda del país bajo la Administración de Donald Trump, así como por una inflación que sigue siendo persistentemente elevada. Seguir leyendo.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
       "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
@@ -69,13 +74,21 @@
       "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
       "summary": "La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán",
-      "summary": "El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'",
+      "url": "https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:42:28.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "EEUU paga el mayor interés por su deuda a 30 años desde 2001",
+      "url": "https://www.expansion.com/mercados/renta-fija/2026/08/13/6a7e2c3c468aeb826b8b457f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:48:52.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -13,15 +13,15 @@
 ## Latest entities — US
 
 - [Abraham Lincoln](https://atlas.lootura.com/us/person/abraham-lincoln): Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Apple Inc.](https://atlas.lootura.com/us/company/apple): Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Bernie Sanders](https://atlas.lootura.com/us/person/bernie-sanders): Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Black Sea](https://atlas.lootura.com/us/place/black-sea): Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Colombia](https://atlas.lootura.com/us/place/colombia): Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Colorado River](https://atlas.lootura.com/us/object/colorado-river): Follow Colorado River, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Europe](https://atlas.lootura.com/us/place/europe): Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
@@ -33,8 +33,8 @@
 - [Bélgica](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República de Colombia](https://atlas.lootura.com/es/place/colombia): Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [España](https://atlas.lootura.com/es/place/espana): Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Costa Brava](https://atlas.lootura.com/es/object/costa-brava): Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

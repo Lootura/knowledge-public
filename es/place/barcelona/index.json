@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -22,11 +22,6 @@
   ],
   "changes": [
     {
-      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
-      "summary": "Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
       "summary": "El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.",
       "date": "2026-08-13"
@@ -34,6 +29,11 @@
     {
       "title": "Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años",
       "summary": "El sindicalista Juan Ignacio Marín Arce (Barcelona, 1953), quién fue secretario general de la Federación del Metal de CC.OO., ha fallecido a los 73 años,.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
+      "summary": "Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.",
       "date": "2026-08-13"
     },
     {
@@ -76,14 +76,8 @@
     {
       "title": "El PSG ficha a Ferran, el héroe del Mundial, por 50 millones",
       "url": "https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T19:14:17.000Z",
+      "publishedAt": "2026-08-13T23:46:56.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:20:02.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     },
     {
       "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",

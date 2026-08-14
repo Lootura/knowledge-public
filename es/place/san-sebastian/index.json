@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,11 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Los técnicos se movilizan hoy en Donostia para pedir su primer convenio",
+      "summary": "La protesta no afectará a la mayoría de los espectáculos de los programas de Quincena y Semana Grande.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián",
       "summary": "Nuevo revés para Morante de La Puebla este agosto. El diestro sevillano se perderá la Semana Grande de San Sebastián debido a que padece síntomas compatibles con un cólico nefrítico. El cigarrero, estrella de la corrida mixta del ciclo donostiarra, no podrá torear este viernes por prescripción médica, según ha adelanta.",
@@ -64,32 +69,15 @@
       "title": "Tamarit de Valencia busca «sorprender» al público donostiarra",
       "summary": "Será la segunda participación en Donostia de la compañía fundada en 2018.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Naturaleza bajo cuidados intensivos",
-      "summary": "El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos árboles que, por su edad o tamaño, requieren más atención.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián",
-      "url": "https://www.abc.es/cultura/toros/sevilla/morante-puebla-sufre-colico-nefritico-toreara-san-20260813200852-nts.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:14:33.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "«Ver tiburones pasar tan cerca impresiona»",
-      "url": "https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T22:11:05.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
-      "url": "https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-12T21:12:54.000Z",
+      "title": "Los técnicos se movilizan hoy en Donostia para pedir su primer convenio",
+      "url": "https://www.diariovasco.com/culturas/tecnicos-movilizan-hoy-donostia-pedir-primer-convenio-20260814001823-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:18:23.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

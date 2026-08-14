@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI isn’t ready to research itself
+
+Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.
+
+Date: 2026-08-14
+
+### Teens are turning to AI chatbots for emotional support—here's how to keep kids safe
+
+It's 2 a.m., and a teenage girl, worrying about an issue with a friend, lies awake. Rather than wake her parents, she picks up her phone, opens an AI app and types, "I'm so stressed out, I can't sleep.".
+
+Date: 2026-08-13
 
 ### AI isn’t ready to research itself
 
@@ -56,19 +68,8 @@ Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A frame
 
 Date: 2026-08-12
 
-### Will AI make our dreams all look the same?
-
-Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?
-
-Date: 2026-08-12
-
-### AI tools speed up analysis, but scientific truths must be grounded in reality
-
-Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Acton teen held without bail in murders of mother, brother linked to ChatGPT](https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com) — 2026-08-13T16:24:15.000Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-13T20:39:04.447Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T01:44:31.299Z
+- [Teens are turning to AI chatbots for emotional support—here's how to keep kids safe](https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html?utm_source=lootura.com) — 2026-08-13T23:40:04.000Z

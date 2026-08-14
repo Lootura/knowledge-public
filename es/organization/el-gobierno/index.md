@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación d
 
 Date: 2026-08-13
 
-### El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible
-
-El descuento iba a bajar a 5 céntimos el próximo mes, pero el precio del diésel activó la cláusula de salvaguarda del Plan de Respuesta Leer.
-
-Date: 2026-08-13
-
 ### El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"
 
 Todos los miembros del Gobierno han sido, en las últimas dos semanas, muy cautos en sus palabras para desvincular la avalancha en Ceuta del pasado 30 de julio de las políticas...
+
+Date: 2026-08-13
+
+### El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano
+
+La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobierno para desescalar las medidas de alivio frente al aumento de precios que activó en marzo por la...
+
+Date: 2026-08-13
+
+### Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio
+
+El Gobierno de Aragón ha trasladado esta tarde al Museo de Huesca los restos de los primeros reyes aragoneses y del linaje real que descansaban en el Panteón Real del Monasterio de San Juan de la Peña, debido al avance del incendio forestal que comenzó el pasado lunes en Las Peñas de Riglos. Ante la amenaza de que el f.
+
+Date: 2026-08-13
+
+### El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible
+
+El descuento iba a bajar a 5 céntimos el próximo mes, pero el precio del diésel activó la cláusula de salvaguarda del Plan de Respuesta Leer.
 
 Date: 2026-08-13
 
@@ -56,23 +68,9 @@ La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, c
 
 Date: 2026-08-13
 
-### El Gobierno gasta 72.358 euros en el acto institucional del eclipse, con "zona VIP" y 300 invitados en el Observatorio de Yebes
-
-Una previsión de 300 asistentes, entre ellos cuatro ministros, "zona VIP", barra libre de bebidas, comida popular, cena tipo cóctel y un programa de actividades de...
-
-Date: 2026-08-12
-
-### Quedan astrónomos en los Astrónomos: así se ha vivido el eclipse en Vitoria en el punto de observación de 1860
-
-Apenas medio centenar de personas han disfrutado del fenómeno astronómico en el mismo punto en que expertos internacionales encabezados por el alemán Johann Heinrich von Mädler se reunieron hace 166 años El Gobierno vasco aclara que las 30.000 gafas para el eclipse que ha regalado están “perfectamente homologadas” Qued.
-
-Date: 2026-08-12
-
 ## Fuentes
 
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
-- [El Gobierno eleva a 20 céntimos la rebaja del gasóleo en septiembre por el repunte del combustible](https://www.elmundo.es/economia/2026/08/13/6a7d755cfdddff80788b457f.html?utm_source=lootura.com) — 2026-08-13T07:48:27.000Z
 - [El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"](https://amp.elmundo.es/espana/2026/08/13/6a7db93321efa0013c8b4594.html?utm_source=lootura.com) — 2026-08-13T13:15:03.000Z
-- [Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta](https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com) — 2026-08-13T14:12:15.000Z
-- [El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla](https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html?utm_source=lootura.com) — 2026-08-13T17:52:50.000Z
-- [A partir del 28 de agosto los jubilados van a cobrar un complemento del 25% de su pensión](https://okdiario.com/economia/gobierno-confirma-partir-del-28-agosto-jubilados-van-cobrar-complemento-del-25-pension-19162926/amp?utm_source=lootura.com) — 2026-08-13T16:44:15.000Z
+- [El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano](https://amp.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html?utm_source=lootura.com) — 2026-08-13T20:41:48.000Z
+- [Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio](https://theobjective.com/sociedad/suceso/2026-08-13/trasladados-museo-huesca-restos-primeros-reyes-aragoneses-incendio/?utm_source=lootura.com) — 2026-08-13T20:55:01.000Z

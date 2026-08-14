@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -37,42 +37,48 @@
       "date": "2026-08-13"
     },
     {
-      "title": "La Guardia Civil avisa a los inmigrantes en redes sociales: «Si logras cruzar, te devolverán»",
-      "summary": "La Guardia Civil ha difundido un mensaje a través de sus redes sociales en español, francés y árabe con el que tratan de disuadir a las personas que estén pensando en acceder de manera irregular a España ya que, si lo hacen, han advertido, serán devueltos a su país de origen. «No te dejes engañar. Todo lo que te promet.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
-      "summary": "La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Tortilla, la perra Zoeh y una rampa en la España vaciada para una imagen única del eclipse: \"No nos apoyó ninguna marca\"",
       "summary": "Danny León, dos veces olímpico, viajó con ocho personas hasta un pequeño pueblo de Huesca para conseguir en 30 segundos una de las imágenes del año Leer.",
       "date": "2026-08-13"
     },
     {
-      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
-      "summary": "Los mensajes que llegan de Rabat, por medio de su ministro de Justicia, Abdellatif Ouahbi, bien sobre la posibilidad de romper el tratado bilateral de extradiciones que opera entre España y Marruecos , bien poniendo en duda la soberanía española de Ceuta y Melilla, cuestión que dice sacar de manera recurrente en las re.",
+      "title": "¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas",
+      "summary": "Vecino de Los Gallardos (Almería) intentando extinguir las llamas de un incendio, 11 de julio de 2026. Ataurrahmanstudio/Shutterstock Los incendios de este verano , tanto por su intensidad como por su afectación a zonas habitadas , han generado una gran preocupación social y una búsqueda inmediata de culpables y soluci.",
       "date": "2026-08-13"
     },
     {
-      "title": "La DGT lo hace oficial: ya está en España el carril rojo y así hay que usarlo para que no acabe en multa",
-      "summary": "El nuevo carril rojo que ha habilitado la Dirección General de Tráfico (DGT) en l a autovía de la A-2 ha marcado el inicio de un camino hacia una circulación más sostenible con el fin de reducir atascos en las grandes ciudades y a su vez la contaminación de los vehículos . Esta nueva implementación se ha dado en uno de.",
+      "title": "En Sumario de tarde: de la última amenaza de Marruecos a la vuelta del descuento al diésel",
+      "summary": "Silencio del Gobierno tras las acusaciones de Marruecos sobre la actuación policial en Ceuta; España ha vendido a Marruecos cuatro toneladas de munición en lo que va de año; El juez apunta a que personas de «mayor nivel de jerarquía» están implicadas en el ‘caso Leire’; y la rebaja fiscal del gasóleo subirá automáticam.",
       "date": "2026-08-13"
     },
     {
-      "title": "Democracia eclipsada",
-      "summary": "Han abandonado Ceuta porque han rendido España. No le den más vueltas. El sanchismo es el mayor enemigo moderno que tiene la nación española, y de ello se aprovechan los enemigos tradicionales, socios intramuros y vecinos con veleidades expansionistas. Están diciéndole a la población -no sólo ceutí- que el Estado no ex.",
+      "title": "El gran desafío de 2027: millones de personas en una franja más estrecha",
+      "summary": "España apenas ha terminado de salir de la sombra del eclipse de este miércoles y ya tiene por delante el siguiente desafío. El 2 de agosto de 2027 , la Luna volverá a cubrir por completo el Sol sobre territorio español, pero esta vez la totalidad no recorrerá la Península de punta a punta. La franja se concentrará en e.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Norges, Vukile, Nepi y Rivoli llevan a récord a los centros comerciales",
+      "summary": "Los centros comerciales en España han recuperado el dinamismo del que hacían gala antes del Covid y vuelven a formar parte de la agenda de los fondos e inversores internacionales...",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "La diplomacia del ciervo",
+      "summary": "Lejos de apaciguarse, el conflicto entre España y Marruecos sube de tono. Cada día se declaran nuevas hostilidades. Rabat ha vuelto a poner sobre la mesa su reivindicación sobre Ceuta y Melilla y ha amagado con suspender el acuerdo de extradición con España, mientras el PP reclama al Gobierno que llame a consultas al e.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Tragedia en el Caribe: muere una turista española tras un accidente náutico",
-      "url": "https://www.20minutos.es/comunidad-valenciana/castellon/muere-una-turista-espanola-un-accidente-nautico-caribe-colombiano_7025591_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T19:21:13.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El PSG ficha a Ferran, el héroe del Mundial, por 50 millones",
+      "url": "https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:46:56.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El gran desafío de 2027: millones de personas en una franja más estrecha",
+      "url": "https://www.abc.es/ciencia/lecciones-aprendidas-asuntos-pendientes-cara-eclipse-2027-20260813011108-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:21:02.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Primer balance sanitario tras el eclipse: más de 500 atenciones médicas en toda España",
@@ -105,28 +111,22 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
-      "url": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:52:50.000Z",
+      "title": "Norges, Vukile, Nepi y Rivoli llevan a récord a los centros comerciales",
+      "url": "https://amp.expansion.com/inmobiliario/mercado/2026/08/14/6a7e09ba468aebb5298b4575.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:57:00.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "La diplomacia del ciervo",
+      "url": "https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:00:00.000Z",
       "sourceId": "lootura-es-la-vanguardia"
     },
     {
-      "title": "La DGT lo hace oficial: ya está en España el carril rojo y así hay que usarlo para que no acabe en multa",
-      "url": "https://okdiario.com/motor/dgt-lo-hace-oficial-ya-esta-espana-carril-rojo-asi-hay-que-usarlo-que-no-acabe-multa-19176793?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:05:54.000Z",
+      "title": "Una española que vive en Suiza sobre el calor: «Aquí no es como en España, donde entras en cualquier sitio y hay aire acondicionado»",
+      "url": "https://okdiario.com/internacional/opinion-espanola-vive-suiza-sobre-calor-aqui-no-como-espana-donde-entras-cualquier-sitio-hay-acondicionado-19061323?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T21:23:41.000Z",
       "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Democracia eclipsada",
-      "url": "https://okdiario.com/opinion/democracia-eclipsada-19178284?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:26:47.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas",
-      "url": "https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:30:08.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
   "evidenceCount": 12

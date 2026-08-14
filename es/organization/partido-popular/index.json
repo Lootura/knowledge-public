@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "PP",
     "populares"
@@ -35,13 +35,18 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta",
-      "summary": "En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.",
+      "title": "El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta",
+      "summary": "Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.",
       "date": "2026-08-13"
     },
     {
-      "title": "El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta",
-      "summary": "Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.",
+      "title": "La diplomacia del ciervo",
+      "summary": "Lejos de apaciguarse, el conflicto entre España y Marruecos sube de tono. Cada día se declaran nuevas hostilidades. Rabat ha vuelto a poner sobre la mesa su reivindicación sobre Ceuta y Melilla y ha amagado con suspender el acuerdo de extradición con España, mientras el PP reclama al Gobierno que llame a consultas al e.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta",
+      "summary": "En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.",
       "date": "2026-08-13"
     },
     {
@@ -57,11 +62,6 @@
     {
       "title": "Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita \"más tiempo\" para preparar su intervención",
       "summary": "La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita \"más tiempo\" para preparar una intervención \"con un mínimo de rigor y detalle\". Así se lo ha comunicado a.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Las Comunidades del PP rechazan tratar en la próxima Conferencia Sectorial de Infancia la reubicación de los menores de Ceuta",
-      "summary": "Las comunidades presididas por el PP se han negado a incorporar en el orden del día de la próxima Conferencia Sectorial de Infancia y Adolescencia un punto informativo y de debate sobre la atención de menores migrantes no acompañados en Ceuta y la situación de la ciudad autónoma. Ha ocurrido durante la Comisión Sectori.",
       "date": "2026-08-13"
     }
   ],
@@ -97,10 +97,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta",
-      "url": "https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:12:15.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "La diplomacia del ciervo",
+      "url": "https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
   "evidenceCount": 6

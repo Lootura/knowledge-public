@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -12,7 +12,7 @@
 
 Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
 
-Date: 2026-08-13
+Date: 2026-08-14
 
 ### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
 
@@ -23,6 +23,12 @@ Date: 2026-08-13
 ### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
 
 The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
+
+Date: 2026-08-13
+
+### Why China should reassess how it rewards young scientists
+
+Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
 
 Date: 2026-08-13
 
@@ -62,14 +68,8 @@ In our news wrap Monday, President Trump signed an executive order calling for f
 
 Date: 2026-08-10
 
-### Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support
-
-Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-13T20:39:04.448Z
+- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T01:44:31.299Z
 - [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z
-- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:33:03.000Z
+- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z

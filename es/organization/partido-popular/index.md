@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -32,15 +32,21 @@ El PP acusa a Moncloa de frenar las explicaciones de la ministra tras la avalanc
 
 Date: 2026-08-13
 
-### Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta
-
-En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.
-
-Date: 2026-08-13
-
 ### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
 
 Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
+
+Date: 2026-08-13
+
+### La diplomacia del ciervo
+
+Lejos de apaciguarse, el conflicto entre España y Marruecos sube de tono. Cada día se declaran nuevas hostilidades. Rabat ha vuelto a poner sobre la mesa su reivindicación sobre Ceuta y Melilla y ha amagado con suspender el acuerdo de extradición con España, mientras el PP reclama al Gobierno que llame a consultas al e.
+
+Date: 2026-08-13
+
+### Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta
+
+En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.
 
 Date: 2026-08-13
 
@@ -62,12 +68,6 @@ La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no compar
 
 Date: 2026-08-13
 
-### Las Comunidades del PP rechazan tratar en la próxima Conferencia Sectorial de Infancia la reubicación de los menores de Ceuta
-
-Las comunidades presididas por el PP se han negado a incorporar en el orden del día de la próxima Conferencia Sectorial de Infancia y Adolescencia un punto informativo y de debate sobre la atención de menores migrantes no acompañados en Ceuta y la situación de la ciudad autónoma. Ha ocurrido durante la Comisión Sectori.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta](https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com) — 2026-08-13T15:08:49.000Z
@@ -75,4 +75,4 @@ Date: 2026-08-13
 - [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z
 - [El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta](https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com) — 2026-08-13T17:45:21.000Z
 - [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
-- [Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta](https://www.eldiario.es/politica/comunidades-pp-rechazan-debatir-proxima-conferencia-sectorial-atencion-menores-ceuta_1_13445730.html?utm_source=lootura.com) — 2026-08-13T14:12:15.000Z
+- [La diplomacia del ciervo](https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html?utm_source=lootura.com) — 2026-08-13T22:00:00.000Z

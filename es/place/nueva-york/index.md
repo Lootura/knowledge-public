@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?](https://theconversation.com/john-galliano-en-el-met-puede-el-talento-sobrevivir-al-juicio-moral-289734?utm_source=lootura.com) — 2026-08-13T15:58:57.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -34,6 +34,11 @@
     "the United States of America"
   ],
   "changes": [
+    {
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.",
+      "date": "2026-08-14"
+    },
     {
       "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
       "summary": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S. (Image credit: Sue Ogrocki).",
@@ -62,11 +67,6 @@
     {
       "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
       "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
-      "summary": "Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 million person-days between July 15–17. Over the peak impact period of July 13–18, moderate or worse air quality accounted for more than 769 million person-days. For a perio.",
       "date": "2026-08-13"
     },
     {
@@ -99,6 +99,18 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "USS Abraham Lincoln to head home amid concerns about living conditions",
+      "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:12:58.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
+      "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:28:41.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
       "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions?utm_source=lootura.com",
       "publishedAt": "2026-08-13T05:43:43.000Z",
@@ -111,41 +123,29 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T21:18:49.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "News Wrap: Earthquake death toll in Colombia tops 260",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:57:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Oklahoma carries out first of 3 executions scheduled for the same day in the U.S.",
       "url": "https://www.pbs.org/newshour/nation/oklahoma-carries-out-first-of-3-executions-scheduled-for-the-same-day-in-the-u-s?utm_source=lootura.com",
       "publishedAt": "2026-08-13T15:51:27.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
-      "url": "https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T19:00:08.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:33:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:08:37.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
-      "url": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:42:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:15:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
+      "url": "https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:54:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 18
 }

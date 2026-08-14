@@ -52,4 +52,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Javier Tebas aclara la absolución de Luis Rubiales por el 'caso grabaciones': "Prescribieron por un retraso judicial"](https://www.20minutos.es/deportes/futbol/javier-tebas-aclara-absolucion-luis-rubiales-por-caso-grabaciones-prescribieron-por-un-retraso-judicial_7025622_0.html?utm_source=lootura.com) — 2026-08-13T19:49:14.000Z
+No public source links.

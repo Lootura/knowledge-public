@@ -52,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Who Might Replace Karoline Leavitt as Press Secretary?](https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/?utm_source=lootura.com) — 2026-08-13T20:02:58.000Z
+No public source links.

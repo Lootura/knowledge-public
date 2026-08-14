@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Los técnicos se movilizan hoy en Donostia para pedir su primer convenio
+
+La protesta no afectará a la mayoría de los espectáculos de los programas de Quincena y Semana Grande.
+
+Date: 2026-08-13
 
 ### Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián
 
@@ -62,14 +68,6 @@ Será la segunda participación en Donostia de la compañía fundada en 2018.
 
 Date: 2026-08-10
 
-### Naturaleza bajo cuidados intensivos
-
-El Ayuntamiento de Donostia mantiene una vigilancia específica sobre aquellos árboles que, por su edad o tamaño, requieren más atención.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián](https://www.abc.es/cultura/toros/sevilla/morante-puebla-sufre-colico-nefritico-toreara-san-20260813200852-nts.html?utm_source=lootura.com) — 2026-08-13T18:14:33.000Z
-- [«Ver tiburones pasar tan cerca impresiona»](https://www.diariovasco.com/san-sebastian/ver-tiburones-pasar-cerca-impresiona-20260813001105-nt_amp.html?utm_source=lootura.com) — 2026-08-12T22:11:05.000Z
-- [¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?](https://www.diariovasco.com/san-sebastian/semana-grande/nota-das-fuegos-artificiales-ayer-semana-grande-20260812204817-nt_amp.html?utm_source=lootura.com) — 2026-08-12T21:12:54.000Z
+- [Los técnicos se movilizan hoy en Donostia para pedir su primer convenio](https://www.diariovasco.com/culturas/tecnicos-movilizan-hoy-donostia-pedir-primer-convenio-20260814001823-nt_amp.html?utm_source=lootura.com) — 2026-08-13T22:18:23.000Z

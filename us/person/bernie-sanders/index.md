@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### NATO spending pressure returned
+
+Sen. Bernie Sanders says he can’t be everywhere at once — even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin’s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders.
+
+Date: 2026-08-13
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin](https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121?utm_source=lootura.com) — 2026-08-13T22:00:03.000Z

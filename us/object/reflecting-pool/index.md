@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation](https://www.pbs.org/newshour/politics/reflecting-pools-botched-repairs-threaten-to-tarnish-the-national-park-services-reputation?utm_source=lootura.com) — 2026-08-13T14:18:28.000Z
+No public source links.

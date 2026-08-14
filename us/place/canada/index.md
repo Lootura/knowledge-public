@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days](https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html?utm_source=lootura.com) — 2026-08-13T19:00:08.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,16 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "AI isn’t ready to research itself",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Teens are turning to AI chatbots for emotional support—here's how to keep kids safe",
+      "summary": "It's 2 a.m., and a teenage girl, worrying about an issue with a friend, lies awake. Rather than wake her parents, she picks up her phone, opens an AI app and types, \"I'm so stressed out, I can't sleep.\".",
+      "date": "2026-08-13"
+    },
     {
       "title": "AI isn’t ready to research itself",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
@@ -66,16 +76,6 @@
       "title": "Agentic profiles for effective AI governance",
       "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Will AI make our dreams all look the same?",
-      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
-      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02490-9 AI tools speed up analysis, but scientific truths must be grounded in reality.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -88,9 +88,15 @@
     {
       "title": "AI isn’t ready to research itself",
       "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:39:04.447Z",
+      "publishedAt": "2026-08-14T01:44:31.299Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Teens are turning to AI chatbots for emotional support—here's how to keep kids safe",
+      "url": "https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:40:04.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

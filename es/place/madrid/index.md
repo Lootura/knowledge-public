@@ -3,22 +3,10 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
-
-### DKV se convierte en patrocinador del Atlético de Madrid
-
-ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.
-
-Date: 2026-08-13
-
-### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
-
-La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
-
-Date: 2026-08-13
 
 ### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
 
@@ -29,6 +17,18 @@ Date: 2026-08-13
 ### Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático
 
 La dirigente madrileña esquiva las preguntas de la prensa mientras espera que se diluya la polémica por el ático adquirido por la Comunidad de Madrid, ahora puesto de nuevo a la venta Ayuso redobla los ataques contra el Gobierno para enterrar la polémica del ático La presidenta de la Comunidad de Madrid, Isabel Díaz Ay.
+
+Date: 2026-08-13
+
+### DKV se convierte en patrocinador del Atlético de Madrid
+
+ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.
+
+Date: 2026-08-13
+
+### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
+
+La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
 
 Date: 2026-08-13
 
@@ -72,5 +72,3 @@ Date: 2026-08-13
 
 - [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
 - [Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático](https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com) — 2026-08-13T16:54:47.000Z
-- [DKV se convierte en patrocinador del Atlético de Madrid](https://theobjective.com/actualidad/2026-08-13/dkv-patrocinador-atletico-madrid/?utm_source=lootura.com) — 2026-08-13T15:40:50.000Z
-- [Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior](https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com) — 2026-08-13T15:23:37.000Z

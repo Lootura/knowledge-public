@@ -3,16 +3,10 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
-
-### Asalto violento con intento de secuestro en un Airbnb de Barcelona
-
-Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.
-
-Date: 2026-08-13
 
 ### Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones
 
@@ -23,6 +17,12 @@ Date: 2026-08-13
 ### Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años
 
 El sindicalista Juan Ignacio Marín Arce (Barcelona, 1953), quién fue secretario general de la Federación del Metal de CC.OO., ha fallecido a los 73 años,.
+
+Date: 2026-08-13
+
+### Asalto violento con intento de secuestro en un Airbnb de Barcelona
+
+Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.
 
 Date: 2026-08-13
 
@@ -70,7 +70,6 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T19:14:17.000Z
-- [Asalto violento con intento de secuestro en un Airbnb de Barcelona](https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html?utm_source=lootura.com) — 2026-08-13T18:20:02.000Z
+- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T23:46:56.000Z
 - [Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones](https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com) — 2026-08-13T20:24:50.000Z
 - [Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años](https://theobjective.com/sociedad/2026-08-13/fallece-juan-ignacio-marin-arce-sindicalista-ccoo-73-anos/?amp=&utm_source=lootura.com) — 2026-08-13T19:52:23.000Z

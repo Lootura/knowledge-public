@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -70,12 +70,6 @@
   ],
   "sources": [
     {
-      "title": "Democrats pressure Trump administration to rescue 10 other Americans detained in Russia",
-      "url": "https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:03:11.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
       "url": "https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com",
       "publishedAt": "2026-08-13T14:46:15.000Z",
@@ -84,9 +78,15 @@
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:33:03.000Z",
+      "publishedAt": "2026-08-13T20:34:21.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:38:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

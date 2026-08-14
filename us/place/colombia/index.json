@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
+    {
+      "title": "They've survived 2 major earthquakes in Colombia: \"A sense of powerlessness\"",
+      "summary": "Colombia earthquake survivors are facing major loss and a yearslong road to recovery filled with grief and uncertainty. Here's what responders say will happen next.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "News Wrap: Earthquake death toll in Colombia tops 260",
+      "summary": "In our news wrap Thursday, Colombia's president says more than 260 are confirmed dead after this week's devastating earthquake, nearly 20 million across the Midwest were under flood alerts as severe storms refuse to let up and Defense Secretary Hegseth disputed reports that poor conditions aboard the U.S.S. Abraham Lin.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
       "summary": "The search for survivors in Colombia is entering a fourth day and growing more desperate by the hour following Monday’s earthquake. It comes as firefighters pulled a trapped dog to safety, offering a glimmer of hope in finding more survivors. NBC’s George Solis reports for TODAY.",
@@ -53,16 +63,6 @@
       "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
       "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president",
-      "summary": "Rescue crews and civilians in Colombia painstakingly searched through rubble Tuesday in the hopes of finding survivors trapped under debris after a powerful earthquake left thousands missing in dozens of cities and towns.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Search for earthquake survivors in Colombia enters critical phase",
-      "summary": "In Colombia, the desperate search for survivors is entering a critical phase after the powerful earthquake that devastated parts of the country. More than 180 people are confirmed dead. But 24 hours after the quake struck, there are still remarkable moments of hope. Geoff Bennett reports.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
@@ -73,16 +73,16 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Colombia earthquake survivors are reliving a nightmare from 1999: \"You feel a sense of powerlessness\"",
+      "title": "They've survived 2 major earthquakes in Colombia: \"A sense of powerlessness\"",
       "url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:46:45.000Z",
+      "publishedAt": "2026-08-14T00:30:18.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Dog Rescued From Colombia Quake Offers Hope to Find Survivors",
-      "url": "https://www.today.com/video/dog-rescued-from-colombia-quake-offers-hope-to-find-survivors-268238405758?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T11:27:30.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "News Wrap: Earthquake death toll in Colombia tops 260",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:57:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 3

@@ -34,4 +34,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Ferrovial dejará de cotizar en la Bolsa de Ámsterdam tres años después de fijar su sede en Países Bajos](https://cincodias.elpais.com/companias/2026-08-13/ferrovial-dejara-de-cotizar-en-la-bolsa-de-amsterdam-tres-anos-despues-de-fijar-su-sede-en-paises-bajos.html?utm_source=lootura.com) — 2026-08-13T16:20:35.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
+
+### ‘That is not acceptable’: Judge orders Google to make rival app store installs easier
+
+One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously d.
+
+Date: 2026-08-13
 
 ### Astronomer's tips for a good solar eclipse viewing
 
@@ -34,4 +40,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=lootura.com) — 2026-08-13T21:53:04.000Z

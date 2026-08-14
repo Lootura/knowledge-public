@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse
+
+Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instalado el punto principal de seguimiento de este fenómeno astro.
+
+Date: 2026-08-13
 
 ### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
 
@@ -62,12 +68,6 @@ Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel 
 
 Date: 2026-08-07
 
-### El ático de lujo que compró el Gobierno de Ayuso tampoco podría usarse como residencia oficial
-
-Un día después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, relegara todas las explicaciones sobre el ático al consejero de Presidencia, Miguel Ángel García Martín, este ha querido añadir un ángulo más a la polémica, una reflexión que, a su juicio, se está pasando por alto y por la que no le han p.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse](https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html?utm_source=lootura.com) — 2026-08-13T23:47:44.000Z

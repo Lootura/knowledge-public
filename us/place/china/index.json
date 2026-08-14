@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -23,7 +23,7 @@
     {
       "title": "Why China should reassess how it rewards young scientists",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
       "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
@@ -33,6 +33,11 @@
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
       "date": "2026-08-13"
     },
     {
@@ -64,18 +69,13 @@
       "title": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots",
       "summary": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across separate doctor visits, Tropical Storm Dolphin made landfall in eastern China and President Trump's Board of Peace says it's in discussions with Israel after Prime Minister Netanyahu reje.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Taiwan practices war games as it fears increasing Chinese aggression, questions Trump's support",
-      "summary": "Taiwan continued its 10-day war games this weekend, preparing for a potential invasion by China, which claims the territory as its own and has threatened to seize it by force. Anna Coren has more details from Taiwan.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
       "title": "Why China should reassess how it rewards young scientists",
       "url": "https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:39:04.448Z",
+      "publishedAt": "2026-08-14T01:44:31.299Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -87,7 +87,7 @@
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:33:03.000Z",
+      "publishedAt": "2026-08-13T20:34:21.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/black-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/black-sea/index.json",
   "description": "Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T02:13:23.753Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Euxine",
     "Rucenum mare"
   ],
   "changes": [
+    {
+      "title": "The 71st Eurovision contest will take place in Bulgaria's Black Sea city of Burgas",
+      "summary": "Next year's Eurovision Song Contest will take place in Burgas, a port city on Bulgaria's Black Sea coast, organizers said Thursday.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Black Sea first entered the public knowledge record with source-backed evidence.",
@@ -40,6 +45,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The 71st Eurovision contest will take place in Bulgaria's Black Sea city of Burgas",
+      "url": "https://www.pbs.org/newshour/arts/the-71st-eurovision-contest-will-take-place-in-bulgarias-black-sea-city-of-burgas?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:37:55.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

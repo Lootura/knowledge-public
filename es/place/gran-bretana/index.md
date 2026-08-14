@@ -3,7 +3,7 @@
 > Sigue la actividad de Gran Bretaña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/gran-bretana
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [Alemania, en casa, sin rival en Doma Clásica](https://www.larazon.es/deportes/alemania-casa-rival-doma-clasica_202608146a7e6c42a5690f047378ac22.html?utm_source=lootura.com) — 2026-08-14T01:15:46.000Z

@@ -3,10 +3,22 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"
+
+Colombia earthquake survivors are facing major loss and a yearslong road to recovery filled with grief and uncertainty. Here's what responders say will happen next.
+
+Date: 2026-08-14
+
+### News Wrap: Earthquake death toll in Colombia tops 260
+
+In our news wrap Thursday, Colombia's president says more than 260 are confirmed dead after this week's devastating earthquake, nearly 20 million across the Midwest were under flood alerts as severe storms refuse to let up and Defense Secretary Hegseth disputed reports that poor conditions aboard the U.S.S. Abraham Lin.
+
+Date: 2026-08-13
 
 ### Dog Rescued From Colombia Quake Offers Hope to Find Survivors
 
@@ -56,20 +68,8 @@ Date: 2026-08-12
 
 Date: 2026-08-12
 
-### As search for thousands of missing pushes on, Colombia earthquake tests new president
-
-Rescue crews and civilians in Colombia painstakingly searched through rubble Tuesday in the hopes of finding survivors trapped under debris after a powerful earthquake left thousands missing in dozens of cities and towns.
-
-Date: 2026-08-11
-
-### Search for earthquake survivors in Colombia enters critical phase
-
-In Colombia, the desperate search for survivors is entering a critical phase after the powerful earthquake that devastated parts of the country. More than 180 people are confirmed dead. But 24 hours after the quake struck, there are still remarkable moments of hope. Geoff Bennett reports.
-
-Date: 2026-08-11
-
 ## Sources
 
 - [Search for survivors of Colombia earthquake enters "final phase"](https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase/?utm_source=lootura.com) — 2026-08-13T16:35:37.000Z
-- [Colombia earthquake survivors are reliving a nightmare from 1999: "You feel a sense of powerlessness"](https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com) — 2026-08-13T16:46:45.000Z
-- [Dog Rescued From Colombia Quake Offers Hope to Find Survivors](https://www.today.com/video/dog-rescued-from-colombia-quake-offers-hope-to-find-survivors-268238405758?utm_source=lootura.com) — 2026-08-13T11:27:30.000Z
+- [They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"](https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com) — 2026-08-14T00:30:18.000Z
+- [News Wrap: Earthquake death toll in Colombia tops 260](https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com) — 2026-08-13T22:57:36.000Z

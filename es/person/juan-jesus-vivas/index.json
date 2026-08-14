@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: \"Retorno a Marruecos y ninguna regularización\"",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de \"máximo riesgo\" para la \"convivencia\" y \"seguridad\" , y ha pedido al Gobierno central \"desestimar\" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.",
+      "title": "Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones",
+      "summary": "El presidente de Ceuta , Juan Jesús Vivas , ha anunciado que le ha pedido al Gobierno que «desestime» las solicitudes de asilo para que vuelvan de inmediato a través de la frontera con Marruecos los 9.000 inmigrantes ilegales que aún quedan en al ciudad autónoma de los 80.000 que calcula el Ejecutivo que entraron el pa.",
       "date": "2026-08-13"
     },
     {
-      "title": "Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones",
-      "summary": "El presidente de Ceuta , Juan Jesús Vivas , ha anunciado que le ha pedido al Gobierno que «desestime» las solicitudes de asilo para que vuelvan de inmediato a través de la frontera con Marruecos los 9.000 inmigrantes ilegales que aún quedan en al ciudad autónoma de los 80.000 que calcula el Ejecutivo que entraron el pa.",
+      "title": "Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: \"Retorno a Marruecos y ninguna regularización\"",
+      "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de \"máximo riesgo\" para la \"convivencia\" y \"seguridad\" , y ha pedido al Gobierno central \"desestimar\" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.",
       "date": "2026-08-13"
     },
     {
@@ -68,17 +68,11 @@
   ],
   "sources": [
     {
-      "title": "Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: \"Retorno a Marruecos y ninguna regularización\"",
-      "url": "https://www.20minutos.es/ceuta/vivas-denuncia-maximo-riesgo-ceuta-pide-gobierno-desestimar-las-solicitudes-asilo_7025611_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:14:49.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones",
       "url": "https://theobjective.com/espana/politica/2026-08-13/vivas-pide-marlaska-echace-solicitudes-asilo-exige-plazo-devoluciones/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T18:29:24.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

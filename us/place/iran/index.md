@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Families concerned about reports of mental health crisis on USS Lincoln
+
+Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
+
+Date: 2026-08-13
 
 ### Reports Emerge on Mental Health Crisis on USS Abraham Lincoln
 
@@ -17,12 +23,6 @@ Date: 2026-08-13
 ### Wholesale price inflation slows last month as gas and food costs fall
 
 Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead.
-
-Date: 2026-08-13
-
-### Families concerned about reports of mental health crisis on USS Lincoln
-
-Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
 
 Date: 2026-08-13
 
@@ -70,7 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Reports Emerge on Mental Health Crisis on USS Abraham Lincoln](https://www.today.com/video/reports-emerge-on-mental-health-crisis-on-uss-abraham-lincoln-268239941768?utm_source=lootura.com) — 2026-08-13T12:17:32.000Z
 - [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
-- [Wholesale price inflation slows last month as gas and food costs fall](https://www.pbs.org/newshour/economy/wholesale-price-inflation-slows-last-month-as-gas-and-food-costs-fall?utm_source=lootura.com) — 2026-08-13T13:15:54.000Z
-- [Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln](https://www.theguardian.com/us-news/2026/aug/13/uss-abraham-conditions-hegseth?utm_source=lootura.com) — 2026-08-13T20:06:25.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/san-francisco/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/san-francisco/index.json",
   "description": "Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Baghdad by the Bay",
     "City and County of San Francisco",
@@ -26,6 +26,11 @@
     "The Golden City"
   ],
   "changes": [
+    {
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously d.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Astronomer's tips for a good solar eclipse viewing",
       "summary": "More than 20 states will get a glimpse of a partial eclipse on Wednesday when the moon slips in front of the sun. Scientists expect the best views in Alaska, but many Americans looking to catch the full show are traveling overseas to experience the total solar eclipse. University of San Francisco astronomy professor An.",
@@ -47,6 +52,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T21:53:04.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

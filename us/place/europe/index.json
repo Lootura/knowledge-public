@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Evidence of bird strike after man nearly sucked out of plane window, NTSB says",
+      "summary": "A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "UK records hottest day of the year as western Europe swelters once again",
+      "summary": "Britain, like France, is experiencing its fifth heat wave of the year, with the first recorded in May.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
       "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments.",
@@ -22,11 +32,6 @@
     {
       "title": "Views of the total solar eclipse from parts of Europe",
       "summary": "A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "UK records hottest day of the year as western Europe swelters once again",
-      "summary": "Britain, like France, is experiencing its fifth heat wave of the year, with the first recorded in May.",
       "date": "2026-08-13"
     },
     {
@@ -58,24 +63,13 @@
       "title": "Europe is the world’s fastest warming continent. What is to blame?",
       "summary": "The climate crisis is hitting Europe hard in 2026, warming twice as fast as any other continent – and the consequences are deadly The whole world is getting hotter as carbon pollution from fossil fuel burning traps ever more heat, but Europe is heating up twice as fast as other continents. The consequences are increasi.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse",
-      "summary": "Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins \"The Daily Report\" to break down what to expect from the solar eclipse on Wednesday.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
-      "url": "https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:47:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Views of the total solar eclipse from parts of Europe",
-      "url": "https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:42:59.000Z",
+      "title": "Evidence of bird strike after man nearly sucked out of plane window, NTSB says",
+      "url": "https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T00:35:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -85,5 +79,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -204,6 +204,7 @@
 - [Wall Street](https://atlas.lootura.com/es/product/wall-street): Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Apple Inc.](https://atlas.lootura.com/us/company/apple): Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Epic Games](https://atlas.lootura.com/us/company/epic-games): Follow Epic Games, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Federal Reserve](https://atlas.lootura.com/us/company/federal-reserve): Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Getty Images](https://atlas.lootura.com/us/company/getty-images): Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Nintendo](https://atlas.lootura.com/us/company/nintendo): Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.

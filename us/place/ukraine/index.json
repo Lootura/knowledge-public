@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -74,7 +74,13 @@
       "url": "https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com",
       "publishedAt": "2026-08-13T20:27:15.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
+      "url": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:38:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,6 +26,36 @@
   ],
   "changes": [
     {
+      "title": "Ruling allows Americans to own short-barreled rifles, shotguns, silencers without registration",
+      "summary": "Some Americans can now own short-barreled rifles, shotguns and silencers without registering them with the federal government after the Trump administration declined to pause a Texas judge's ruling that deregulated the weapons. CBS News' legal contributor Jessica Levinson offers her analysis.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
+      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
+      "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "President Trump is pressing ahead with an ambitious effort to reshape Washington with new construction and renovations. The White House projects alone are now estimated to cost at least $900 million, with taxpayers funding a significant portion, despite earlier promises that private donors would cover most of the bill.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The Trump administration said it would stop funding the Arctic Report Card, the longstanding effort to collect research on how the fastest-warming place on Earth is changing. It's the latest in a series of moves by the administration to curtail scientific research into the impacts of climate change. William Brangham di.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
       "summary": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism. (Image credit: Scott Olson).",
       "date": "2026-08-13"
@@ -41,72 +71,48 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
-      "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
       "summary": "The decision will be reviewed by a federal judge who previously said the board had not thoroughly evaluated the president’s plan.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty",
-      "summary": "The agent, Adam Saracco, was charged with misdemeanor after the altercation at a gas station near Chicago last year during the Trump administration’s crackdown there.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "White House Press Secretary Karoline Leavitt to Step Down",
-      "summary": "President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Trump administration finalizes rule to end federal support for gender-affirming care",
-      "summary": "Move blocking funds through Medicaid and Chip to make it harder for vulnerable children to get healthcare, experts say The Trump administration finalized a rule on Tuesday to end gender-affirming care through Medicaid and the Children’s Health Insurance Program (Chip), a move that will make it harder for vulnerable chi.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-      "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Former Disney CEO Bob Iger, venture capitalist Josh Kushner buy LA Lakers",
-      "url": "https://www.cbsnews.com/video/former-disney-ceo-bob-iger-venture-capitalist-josh-kushner-buy-la-lakers/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T12:31:27.000Z",
+      "title": "Ruling allows Americans to own short-barreled rifles, shotguns, silencers without registration",
+      "url": "https://www.cbsnews.com/video/americans-can-now-possess-short-barreled-rifles-shotguns-and-silencers-without-registration/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T01:10:57.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
-      "url": "https://www.pbs.org/newshour/politics/reflecting-pools-botched-repairs-threaten-to-tarnish-the-national-park-services-reputation?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:18:28.000Z",
+      "title": "How Trump's construction projects are changing Washington and costing taxpayers",
+      "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:50:08.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:20:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump administration ends funding for Arctic climate report",
+      "url": "https://www.pbs.org/newshour/show/trump-administration-ends-funding-for-arctic-climate-report?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:35:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
+      "url": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T00:07:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
       "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T18:08:37.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T01:06:15.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

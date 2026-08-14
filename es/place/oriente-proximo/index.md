@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética
+
+Ante la fragilidad de sus reservas de combustible, Canberra busca nuevas fuentes de suministro y estudia la construcción de una tercera refinería de petróleo Leer.
+
+Date: 2026-08-13
+
+### El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano
+
+La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobierno para desescalar las medidas de alivio frente al aumento de precios que activó en marzo por la...
+
+Date: 2026-08-13
 
 ### Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo
 
@@ -56,18 +68,7 @@ Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de pa
 
 Date: 2026-08-10
 
-### Los mercados prolongan el rally y culminan una semana histórica con las Bolsas en máximos
-
-Del miedo a la euforia en apenas unos días. Agosto suele ser sinónimo de apatía bursátil, pero este año los mercados están empeñados en desafiar esa tradición. El sentimiento de los inversores ha dado un vuelco en las últimas jornadas. Si la escalada de las tensiones en Oriente Próximo reavivó los temores a una crisis.
-
-Date: 2026-08-08
-
-### El alza del euríbor incentiva las renegociaciones de hipotecas
-
-El euríbor a 12 meses, del que depende el coste de las hipotecas a tipo variable y que condiciona el precio de la nueva producción en todas las modalidades, mete cada vez más presión a los hogares. Aunque en el tramo final de esta semana se ha relajado por la rebaja de la tensión en Oriente Próximo, la media provisiona.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética](https://www.elmundo.es/internacional/2026/08/13/6a7c7932e4d4d8812f8b457d.html?utm_source=lootura.com) — 2026-08-13T20:42:10.000Z
+- [El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano](https://amp.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html?utm_source=lootura.com) — 2026-08-13T20:41:48.000Z

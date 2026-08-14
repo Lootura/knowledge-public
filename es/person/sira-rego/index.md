@@ -3,7 +3,7 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes

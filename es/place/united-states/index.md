@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,12 +11,6 @@
 ### El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo
 
 Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en distintas salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el mercad.
-
-Date: 2026-08-13
-
-### El Tesoro de Estados Unidos se prepara para colocar bonos a 30 años al mayor interés en un cuarto de siglo
-
-Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en diferentes salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el merca.
 
 Date: 2026-08-13
 
@@ -68,7 +62,12 @@ El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. 
 
 Date: 2026-08-11
 
+### Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka
+
+Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo la administración Trump no frenan los planes de crecimiento de Inditex en ese mercado, el segundo más importante para el grupo. Seguir leyendo.
+
+Date: 2026-08-11
+
 ## Fuentes
 
 - [El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo](https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-tesoro-de-estados-unidos-se-prepara-para-colocar-bonos-a-30-anos-al-mayor-interes-en-un-cuarto-de-siglo.html?utm_source=lootura.com) — 2026-08-13T17:21:01.000Z
-- [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z

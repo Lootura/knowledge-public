@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Evidence of bird strike after man nearly sucked out of plane window, NTSB says
+
+A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found.
+
+Date: 2026-08-14
+
+### UK records hottest day of the year as western Europe swelters once again
+
+Britain, like France, is experiencing its fifth heat wave of the year, with the first recorded in May.
+
+Date: 2026-08-13
 
 ### Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.
 
@@ -17,12 +29,6 @@ Date: 2026-08-13
 ### Views of the total solar eclipse from parts of Europe
 
 A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.
-
-Date: 2026-08-13
-
-### UK records hottest day of the year as western Europe swelters once again
-
-Britain, like France, is experiencing its fifth heat wave of the year, with the first recorded in May.
 
 Date: 2026-08-13
 
@@ -62,14 +68,7 @@ The climate crisis is hitting Europe hard in 2026, warming twice as fast as any 
 
 Date: 2026-08-12
 
-### Europe to experience total solar eclipse on Wednesday while 25 U.S. states will see partial eclipse
-
-Derrick Pitts, chief astronomer at the Franklin Institute in Philadelphia, joins "The Daily Report" to break down what to expect from the solar eclipse on Wednesday.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.](https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com) — 2026-08-13T12:47:42.000Z
-- [Views of the total solar eclipse from parts of Europe](https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com) — 2026-08-13T12:42:59.000Z
+- [Evidence of bird strike after man nearly sucked out of plane window, NTSB says](https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/?utm_source=lootura.com) — 2026-08-14T00:35:00.000Z
 - [UK records hottest day of the year as western Europe swelters once again](https://www.pbs.org/newshour/world/uk-records-hottest-day-of-the-year-as-western-europe-swelters-once-again?utm_source=lootura.com) — 2026-08-13T17:49:14.000Z

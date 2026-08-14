@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
     {
-      "title": "¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país",
-      "summary": "El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.",
+      "title": "Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple",
+      "summary": "El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.",
       "date": "2026-08-13"
     },
     {
-      "title": "Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple",
-      "summary": "El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.",
+      "title": "¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país",
+      "summary": "El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.",
       "date": "2026-08-13"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país",
-      "url": "https://hipertextual.com/apple/iphone-ultra-podria-lanzarse-solo-en-estados-unidos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:05:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
       "title": "Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple",
       "url": "https://www.larazon.es/tecnologia-consumo/samsung/samsung-ya-trabaja-su-propia-alternativa-airpods-max-apple_202608136a7df335a046ad6ebcaf8990.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T20:30:00.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

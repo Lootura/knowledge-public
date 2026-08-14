@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### EEUU paga el mayor interés por su deuda a 30 años desde 2001
+
+EEUU ha pagado los mayores intereses para vender bonos a 30 años desde 2001 , mientras los inversores muestran su preocupación por el creciente volumen de deuda del país bajo la Administración de Donald Trump, así como por una inflación que sigue siendo persistentemente elevada. Seguir leyendo.
+
+Date: 2026-08-13
 
 ### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
 
@@ -62,12 +68,7 @@ La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del 
 
 Date: 2026-08-11
 
-### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
-
-El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-13T20:42:28.000Z
+- [EEUU paga el mayor interés por su deuda a 30 años desde 2001](https://www.expansion.com/mercados/renta-fija/2026/08/13/6a7e2c3c468aeb826b8b457f.html?utm_source=lootura.com) — 2026-08-13T20:48:52.000Z

@@ -31,13 +31,6 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Daily fragment: World War II",
-      "url": "https://en.wikipedia.org/wiki/World_War_II?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T04:00:00.000Z",
-      "sourceId": "lootura-us-lootura-daily"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,8 +19,18 @@
   ],
   "changes": [
     {
+      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
+      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
       "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "President Trump is pressing ahead with an ambitious effort to reshape Washington with new construction and renovations. The White House projects alone are now estimated to cost at least $900 million, with taxpayers funding a significant portion, despite earlier promises that private donors would cover most of the bill.",
       "date": "2026-08-13"
     },
     {
@@ -57,19 +67,15 @@
       "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
       "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Karoline Leavitt says she's leaving her role as press secretary",
-      "summary": "Karoline Leavitt announced Wednesday that she will be departing her role as press secretary at the end of the month. CBS News White House reporter Olivia Rinaldi has more.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
+    {
+      "title": "How Trump's construction projects are changing Washington and costing taxpayers",
+      "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:50:08.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
       "url": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com",
@@ -77,11 +83,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Who Might Replace Karoline Leavitt as Press Secretary?",
-      "url": "https://time.com/article/2026/08/13/karoline-leavitt-press-secretary-replacement-potential-candidates/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:02:58.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
+      "url": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T00:07:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/object/costa-brava
 
 ## Cambios recientes
+
+### El lujo internacional encuentra refugio en Girona y la Costa Brava
+
+Entre calas mediterráneas, pueblos con historia y un interior que gana protagonismo, la Costa Brava y Girona ofrecen un mercado residencial de lujo cada vez más atractivo para los compradores extranjeros. Seguir leyendo.
+
+Date: 2026-08-13
 
 ### Tres mágicos enclaves de la Costa Brava para descubrir con una ruta en kayak
 
@@ -40,4 +46,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-No public source links.
+- [El lujo internacional encuentra refugio en Girona y la Costa Brava](https://www.expansion.com/directivos/estilo-vida/casas/2026/08/14/6a7db98c468aeb244d8b4581.html?utm_source=lootura.com) — 2026-08-13T22:15:45.000Z

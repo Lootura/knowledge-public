@@ -3,20 +3,20 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
 
-### Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"
-
-El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de "máximo riesgo" para la "convivencia" y "seguridad" , y ha pedido al Gobierno central "desestimar" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.
-
-Date: 2026-08-13
-
 ### Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones
 
 El presidente de Ceuta , Juan Jesús Vivas , ha anunciado que le ha pedido al Gobierno que «desestime» las solicitudes de asilo para que vuelvan de inmediato a través de la frontera con Marruecos los 9.000 inmigrantes ilegales que aún quedan en al ciudad autónoma de los 80.000 que calcula el Ejecutivo que entraron el pa.
+
+Date: 2026-08-13
+
+### Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"
+
+El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de "máximo riesgo" para la "convivencia" y "seguridad" , y ha pedido al Gobierno central "desestimar" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.
 
 Date: 2026-08-13
 
@@ -70,5 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"](https://www.20minutos.es/ceuta/vivas-denuncia-maximo-riesgo-ceuta-pide-gobierno-desestimar-las-solicitudes-asilo_7025611_0.html?utm_source=lootura.com) — 2026-08-13T18:14:49.000Z
 - [Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones](https://theobjective.com/espana/politica/2026-08-13/vivas-pide-marlaska-echace-solicitudes-asilo-exige-plazo-devoluciones/?utm_source=lootura.com) — 2026-08-13T18:29:24.000Z

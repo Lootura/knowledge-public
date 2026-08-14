@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,18 +11,6 @@
 ### Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party
 
 Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.
-
-Date: 2026-08-13
-
-### Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028
-
-NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.
-
-Date: 2026-08-13
-
-### Primary voters send mixed signals about what they want from the Democratic Party
-
-Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.
 
 Date: 2026-08-13
 
@@ -38,15 +26,27 @@ The newly minted GOP ticket wasted no time before hammering Democrats over fraud
 
 Date: 2026-08-13
 
-### Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong
-
-Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.
-
-Date: 2026-08-13
-
 ### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
 
 David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
+
+Date: 2026-08-13
+
+### Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028
+
+NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.
+
+Date: 2026-08-13
+
+### Primary voters send mixed signals about what they want from the Democratic Party
+
+Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.
+
+Date: 2026-08-13
+
+### Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong
+
+Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.
 
 Date: 2026-08-13
 
@@ -70,10 +70,8 @@ Date: 2026-08-12
 
 ## Sources
 
+- [Democrats expected to approve South Carolina as first primary in 2028, but other states pushing back](https://www.cbsnews.com/video/democrats-prepare-to-finalize-2028-presidential-primary-calendar/?utm_source=lootura.com) — 2026-08-14T01:06:00.000Z
 - [Democratic senators demand answers about conditions aboard USS Abraham Lincoln](https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com) — 2026-08-13T16:17:33.000Z
-- [Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong](https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com) — 2026-08-13T20:17:29.000Z
-- [Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028](https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com) — 2026-08-13T08:42:12.000Z
-- [Primary voters send mixed signals about what they want from the Democratic Party](https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party?utm_source=lootura.com) — 2026-08-13T10:59:33.000Z
 - [Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state](https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com) — 2026-08-13T16:40:12.000Z
 - [Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition](https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com) — 2026-08-13T17:23:15.000Z
 - [Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party](https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html?utm_source=lootura.com) — 2026-08-13T14:03:40.000Z

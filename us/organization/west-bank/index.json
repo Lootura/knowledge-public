@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/west-bank/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/west-bank/index.json",
   "description": "Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Cisjordan",
     "Judea and Samaria",
@@ -16,28 +16,38 @@
   ],
   "changes": [
     {
-      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-      "summary": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
+      "title": "Discovered by Atlas",
+      "summary": "West Bank first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "West Bank first entered the public knowledge record with source-backed evidence.",
+      "title": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
+      "summary": "Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occup.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
+      "summary": "Israeli settlers laid siege to the home of an Palestinian American family in the occupied West Bank, sparking condemnation from the U.S. ambassador and an Israeli military response. Nick Schifrin spoke with Qusai and Ahmed Ridi from the house in Qusra, and Qusai's brother, Loui Ridi, who helped translate this conversat.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "summary": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
       "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' U.S. ambassador says",
-      "url": "https://www.pbs.org/newshour/world/settler-siege-of-palestinian-homes-in-the-west-bank-a-horrific-act-of-terror-u-s-ambassador-says?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:01:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
+      "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T23:28:41.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-      "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:18:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
+      "url": "https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:54:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

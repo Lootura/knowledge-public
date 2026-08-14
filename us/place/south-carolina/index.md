@@ -3,7 +3,7 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T01:46:32.208Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [Democrats expected to approve South Carolina as first primary in 2028, but other states pushing back](https://www.cbsnews.com/video/democrats-prepare-to-finalize-2028-presidential-primary-calendar/?utm_source=lootura.com) — 2026-08-14T01:06:00.000Z

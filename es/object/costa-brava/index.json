@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/costa-brava/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/costa-brava/index.json",
   "description": "Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T08:37:08.695Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [
     "Rough Coast",
     "Wild Coast"
   ],
   "changes": [
+    {
+      "title": "El lujo internacional encuentra refugio en Girona y la Costa Brava",
+      "summary": "Entre calas mediterráneas, pueblos con historia y un interior que gana protagonismo, la Costa Brava y Girona ofrecen un mercado residencial de lujo cada vez más atractivo para los compradores extranjeros. Seguir leyendo.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Tres mágicos enclaves de la Costa Brava para descubrir con una ruta en kayak",
       "summary": "Situada en la confluencia de los Pirineos con el Mediterráneo, la Costa Brava es conocida por sus coquetas villas marineras, sus playas de aguas cristalinas y por sus hipnóticos paisajes , entre los que se cuentan varios parques naturales de gran valor ecológico. Más allá de caminar por sus senderos o de recorrer en co.",
@@ -40,6 +45,13 @@
       "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El lujo internacional encuentra refugio en Girona y la Costa Brava",
+      "url": "https://www.expansion.com/directivos/estilo-vida/casas/2026/08/14/6a7db98c468aeb244d8b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T22:15:45.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

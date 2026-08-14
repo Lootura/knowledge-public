@@ -3,20 +3,20 @@
 > Sigue la actividad de "El Tiburón" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/person/ferran-torres
 
 ## Cambios recientes
 
-### Ferran Torres, el tiburón que no acabó de cautivar en el Barça
-
-La marcha de Ferran Torres del Barça no será traumática porque el valenciano nuncó llegó a calar ni a nivel deportivo ni sentimental entre la afición culé pese a firmar números decentes, por momentos notables, durante sus cuatro temporadas y media en el Camp Nou. Los errores de cara a puerta y algunas sequías goleadora.
-
-Date: 2026-08-13
-
 ### Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones
 
 El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.
+
+Date: 2026-08-13
+
+### Ferran Torres, el tiburón que no acabó de cautivar en el Barça
+
+La marcha de Ferran Torres del Barça no será traumática porque el valenciano nuncó llegó a calar ni a nivel deportivo ni sentimental entre la afición culé pese a firmar números decentes, por momentos notables, durante sus cuatro temporadas y media en el Camp Nou. Los errores de cara a puerta y algunas sequías goleadora.
 
 Date: 2026-08-13
 
@@ -70,6 +70,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T19:14:17.000Z
-- [Ferran Torres, el tiburón que no acabó de cautivar en el Barça](https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613490/ferran-torres-tiburon-acabo-cautivar-barca.html?utm_source=lootura.com) — 2026-08-13T19:15:22.000Z
+- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T23:46:56.000Z
 - [Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones](https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com) — 2026-08-13T20:24:50.000Z

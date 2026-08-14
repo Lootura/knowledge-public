@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T01:44:05.758Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "DKV se convierte en patrocinador del Atlético de Madrid",
-      "summary": "ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
-      "summary": "La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.",
-      "date": "2026-08-13"
-    },
     {
       "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
       "summary": "Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».",
@@ -29,6 +19,16 @@
     {
       "title": "Ayuso critica que Sánchez se dé \"la gran vida con los impuestos y recursos de todos\" mientras evita hablar del ático",
       "summary": "La dirigente madrileña esquiva las preguntas de la prensa mientras espera que se diluya la polémica por el ático adquirido por la Comunidad de Madrid, ahora puesto de nuevo a la venta Ayuso redobla los ataques contra el Gobierno para enterrar la polémica del ático La presidenta de la Comunidad de Madrid, Isabel Díaz Ay.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "DKV se convierte en patrocinador del Atlético de Madrid",
+      "summary": "ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
+      "summary": "La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.",
       "date": "2026-08-13"
     },
     {
@@ -74,19 +74,7 @@
       "url": "https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:54:47.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "DKV se convierte en patrocinador del Atlético de Madrid",
-      "url": "https://theobjective.com/actualidad/2026-08-13/dkv-patrocinador-atletico-madrid/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:40:50.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
-      "url": "https://theobjective.com/espana/2026-08-13/robles-compromiso-espana-tropas/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:23:37.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

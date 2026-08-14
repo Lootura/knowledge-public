@@ -28,5 +28,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.](https://www.cbsnews.com/video/total-solar-eclipse-dipped-parts-of-europe-into-complete-darkness-heres-what-they-saw/?utm_source=lootura.com) — 2026-08-13T12:47:42.000Z
-- [Views of the total solar eclipse from parts of Europe](https://www.cbsnews.com/video/views-of-the-total-solar-eclipse-from-parts-of-europe/?utm_source=lootura.com) — 2026-08-13T12:42:59.000Z
+No public source links.

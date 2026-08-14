@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [El Ibex frena ante nuevos máximos y baja de los 20.200 puntos](https://www.expansion.com/mercados/cronica-bolsa/2026/08/13/6a7d5ac2e5fdea56798b4579.html?utm_source=lootura.com) — 2026-08-13T16:11:42.000Z
+No public source links.

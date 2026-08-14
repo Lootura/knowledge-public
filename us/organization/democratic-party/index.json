@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T01:44:27.316Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,16 +16,6 @@
     {
       "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
       "summary": "Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028",
-      "summary": "NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-      "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
       "date": "2026-08-13"
     },
     {
@@ -39,13 +29,23 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
-      "summary": "Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.",
+      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "summary": "David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism.\" Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.",
       "date": "2026-08-13"
     },
     {
-      "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
-      "summary": "David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism.\" Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.",
+      "title": "Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028",
+      "summary": "NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+      "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
+      "summary": "Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.",
       "date": "2026-08-13"
     },
     {
@@ -66,28 +66,16 @@
   ],
   "sources": [
     {
+      "title": "Democrats expected to approve South Carolina as first primary in 2028, but other states pushing back",
+      "url": "https://www.cbsnews.com/video/democrats-prepare-to-finalize-2028-presidential-primary-calendar/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T01:06:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
       "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:17:33.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
-      "url": "https://www.nbcnews.com/meet-the-press/video/wisconsin-democrat-david-crowley-calls-for-big-tent-after-narrowly-beating-francesca-hong-268272709985?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:17:29.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5888570/rep-ro-khanna-shares-why-he-thinks-democrats-should-nominate-a-progressive-in-2028?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T08:42:12.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T10:59:33.000Z",
-      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
@@ -108,5 +96,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

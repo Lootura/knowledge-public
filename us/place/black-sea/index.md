@@ -3,10 +3,16 @@
 > Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-05T02:13:23.753Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/black-sea
 
 ## Recent changes
+
+### The 71st Eurovision contest will take place in Bulgaria's Black Sea city of Burgas
+
+Next year's Eurovision Song Contest will take place in Burgas, a port city on Bulgaria's Black Sea coast, organizers said Thursday.
+
+Date: 2026-08-13
 
 ### Discovered by Atlas
 
@@ -40,4 +46,4 @@ Date: 2026-08-04
 
 ## Sources
 
-No public source links.
+- [The 71st Eurovision contest will take place in Bulgaria's Black Sea city of Burgas](https://www.pbs.org/newshour/arts/the-71st-eurovision-contest-will-take-place-in-bulgarias-black-sea-city-of-burgas?utm_source=lootura.com) — 2026-08-13T22:37:55.000Z

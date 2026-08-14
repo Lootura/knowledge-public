@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [OpenAI acelera ChatGPT como nunca: su IA más potente ya responde en segundos gracias a esta función](https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/?utm_source=lootura.com) — 2026-08-13T19:35:31.000Z
+- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-13T20:42:28.000Z

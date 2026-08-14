@@ -3,10 +3,22 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T01:44:05.758Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto
+
+Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.
+
+Date: 2026-08-13
+
+### La crisis de la "españolísima" Ceuta
+
+El terremoto en Colombia el pasado lunes y el eclipse del sol el miércoles han dominado los medios y, por consiguiente, la conversación nacional. Las broncas sacudidas y las bellas sorpresas que propina la naturaleza dan para mucho y se habla de ellas a expensas del seísmo netamente humano y con muchos muertos por medi.
+
+Date: 2026-08-13
 
 ### Exteriores confirma un español fallecido en el terremoto de Colombia
 
@@ -56,20 +68,7 @@ Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de 
 
 Date: 2026-08-12
 
-### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
-
-Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
-
-Date: 2026-08-12
-
-### Terremoto en Colombia, en directo: última hora del seísmo de magnitud 7,4, víctimas, heridos y desaparecidos
-
-Colombia afronta una nueva jornada pendiente de las consecuencias del terremoto de magnitud 7,4 que ha golpeado el oeste y el centro del país. Los equipos de emergencia continúan desplegados en las zonas afectadas, donde las labores se centran en la búsqueda de personas, la atención a los damnificados y la evaluación d.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Tragedia en el Caribe: muere una turista española tras un accidente náutico](https://www.20minutos.es/comunidad-valenciana/castellon/muere-una-turista-espanola-un-accidente-nautico-caribe-colombiano_7025591_0.html?utm_source=lootura.com) — 2026-08-13T19:21:13.000Z
-- [Exteriores confirma un español fallecido en el terremoto de Colombia](https://www.abc.es/espana/exteriores-confirma-espanol-fallecido-terremoto-colombia-20260813102820-nt.html?utm_source=lootura.com) — 2026-08-13T17:39:14.000Z
-- [De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia](https://www.elcorreo.com/internacional/america-latina/espriella-permite-ejercito-actuar-narco-colombia-20260812003426-ntrc_amp.html?utm_source=lootura.com) — 2026-08-12T22:34:26.000Z
+- [La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto](https://www.abc.es/internacional/gran-amenaza-cali-colapso-300-edificios-danados-20260813010941-nt.html?utm_source=lootura.com) — 2026-08-13T23:19:02.000Z
+- [La crisis de la "españolísima" Ceuta](https://www.expansion.com/economia/2026/08/14/6a7e030c468aebe3058b4576.html?utm_source=lootura.com) — 2026-08-13T23:59:09.000Z

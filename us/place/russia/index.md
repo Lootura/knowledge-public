@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -70,6 +70,6 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Democrats pressure Trump administration to rescue 10 other Americans detained in Russia](https://www.cbsnews.com/video/democrats-trump-administration-to-rescue-10-other-americans-detained-in-russia/?utm_source=lootura.com) — 2026-08-13T13:03:11.000Z
 - [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z
-- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:33:03.000Z
+- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
+- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T22:38:32.000Z

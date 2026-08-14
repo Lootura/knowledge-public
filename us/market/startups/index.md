@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T01:44:27.316Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Former Disney CEO Bob Iger, venture capitalist Josh Kushner buy LA Lakers](https://www.cbsnews.com/video/former-disney-ceo-bob-iger-venture-capitalist-josh-kushner-buy-la-lakers/?utm_source=lootura.com) — 2026-08-13T12:31:27.000Z
+- [Selena Gomez and her mom accused of fraud over their mental health startup](https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411?utm_source=lootura.com) — 2026-08-14T00:37:54.000Z
