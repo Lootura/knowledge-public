@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Guangzhou crucibles provide earliest direct evidence of brass-making in East Asia
+
+For centuries, scholars have read ancient documents describing the production of brass in 10th-century A.D. China. The problem was that the earliest physical evidence of brass production would be found nearly 600 years later, in the 16th century A.D.
+
+Date: 2026-08-14
 
 ### Why China should reassess how it rewards young scientists
 
@@ -62,13 +68,6 @@ Beijing may be benefiting from the war in Iran and Trump's tariffs and has an ed
 
 Date: 2026-08-12
 
-### Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense
-
-Cheng Li-wun once called for the destruction of the party she now leads. Back in 1988, when she was still a teenager, Cheng took the dais at a farmers’ rally to condemn Taiwan’s Nationalist Party , or KMT, as “the most detestable ruling force,” urging her compatriots to “overthrow KMT tyranny and establish our own coun.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [US could exhaust domestic phosphorus within 40 years, but waste offers reserves](https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html?utm_source=lootura.com) — 2026-08-14T15:40:04.000Z
+- [Guangzhou crucibles provide earliest direct evidence of brass-making in East Asia](https://phys.org/news/2026-08-guangzhou-crucibles-earliest-evidence-brass.html?utm_source=lootura.com) — 2026-08-14T20:20:03.000Z

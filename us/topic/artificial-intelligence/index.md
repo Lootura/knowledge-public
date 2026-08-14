@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,8 +70,7 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?](https://www.nature.com/articles/d41586-026-02562-w?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [Exclusive: Claude Was Put in Charge of Human Workers—and Fired One](https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/?utm_source=lootura.com) — 2026-08-14T16:13:50.000Z
+- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
+- [Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?](https://www.nature.com/articles/d41586-026-02562-w?utm_source=lootura.com) — 2026-08-14T20:28:33.124Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
+- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z

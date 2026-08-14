@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park](https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/?utm_source=lootura.com) — 2026-08-14T14:35:56.000Z
+No public source links.

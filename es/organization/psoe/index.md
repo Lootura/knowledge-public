@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno
+
+La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.
+
+Date: 2026-08-14
 
 ### Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno
 
@@ -62,12 +68,6 @@ El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (
 
 Date: 2026-08-12
 
-### Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar
-
-El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno](https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com) — 2026-08-14T09:39:41.000Z

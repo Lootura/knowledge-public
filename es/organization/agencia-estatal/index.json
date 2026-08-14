@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
     "government agency of Spain"
   ],
   "changes": [
+    {
+      "title": "El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos",
+      "summary": "El Retiro y otros cinco parques históricos cerrarán desde las 18 horas de este viernes por condiciones meteorológicas adversas, ha informado el Ayuntamiento de Madrid en un comunicado a partir de las previsiones de la Agencia Estatal de Meteorología (Aemet). El cierre afecta al parque del Capricho, la Rosaleda del Parq.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad",
       "summary": "Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.",
@@ -36,6 +41,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos",
+      "url": "https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:40:04.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 1
 }

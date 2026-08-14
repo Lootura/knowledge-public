@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres
+
+La Administración del alcalde de Nueva York, Zohran Mamdani, y la ONG Legal Aid Society pidieron este viernes a un tribunal desestimar la demanda de un.
+
+Date: 2026-08-14
 
 ### El vestido que Carrie Bradshaw convirtió en leyenda vuelve a nuestras vidas de la mano de Desigual
 
@@ -62,12 +68,6 @@ El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclam�
 
 Date: 2026-08-07
 
-### La anomalía, una reflexión acerca de lo que son el yo y la realidad cuando se duplican
-
-La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Seix Barral 31 de marzo de 2021. 326 páginas. El 10 de marzo de 2021 el vuelo AF006 de Air France procedente de París aterriza en el aeropuerto JFK de Nueva York tras haber atravesado una tremenda tormenta que apareció casi de repente en su ruta y.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres](https://theobjective.com/internacional/2026-08-14/alcaldia-nueva-york-desestimar-demanda-congelacion-alquileres/?amp=&utm_source=lootura.com) — 2026-08-14T20:19:24.000Z

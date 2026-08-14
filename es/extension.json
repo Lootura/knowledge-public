@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T17:06:40.136Z",
+  "generatedAt": "2026-08-14T20:46:43.967Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|140|1786726235319",
+    "signature": "1.18.0|141|1786739284670",
     "version": "1.18.0",
-    "build": 140,
-    "latestEntityUpdatedAt": "2026-08-14T16:50:35.319Z"
+    "build": 141,
+    "latestEntityUpdatedAt": "2026-08-14T20:28:04.670Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-barcelona",
-      "name": "Barcelona",
-      "type": "place",
-      "title": "Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)",
-      "url": "https://atlas.lootura.com/es/place/barcelona",
-      "path": "/es/place/barcelona",
-      "updatedAt": "2026-08-14T16:50:35.319Z",
-      "score": 1656,
-      "sourceCount": 161,
+      "id": "es-transicion-ecologica",
+      "name": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+      "type": "person",
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "url": "https://atlas.lootura.com/es/person/transicion-ecologica",
+      "path": "/es/person/transicion-ecologica",
+      "updatedAt": "2026-08-14T20:28:04.670Z",
+      "score": 1670,
+      "sourceCount": 13,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,12 +31,12 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "La CEOE aplaude la prórroga de Almaraz y defiende la necesidad de contar con la nuclear",
+        "title": "Betinia desembarca en España y amplía la oferta de juego online en el país",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-08-14T16:50:35.319Z",
-        "score": 1650,
-        "sourceCount": 1188,
+        "updatedAt": "2026-08-14T20:28:04.670Z",
+        "score": 1653,
+        "sourceCount": 1191,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,25 +44,12 @@
         "id": "es-amancio-ortega",
         "name": "Amancio Ortega",
         "type": "person",
-        "title": "Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings",
+        "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
         "url": "https://atlas.lootura.com/es/person/amancio-ortega",
         "path": "/es/person/amancio-ortega",
-        "updatedAt": "2026-08-14T16:50:35.319Z",
-        "score": 1640,
-        "sourceCount": 11,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-14T16:50:35.319Z",
-        "score": 1640,
-        "sourceCount": 394,
+        "updatedAt": "2026-08-14T20:28:04.670Z",
+        "score": 1647,
+        "sourceCount": 12,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +57,29 @@
         "id": "es-portugal",
         "name": "República Portuguesa",
         "type": "place",
-        "title": "Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal",
+        "title": "Desvelan cómo fue el accidente mortal del ciclista Finlay Tarling en la Vuelta a Portugal",
         "url": "https://atlas.lootura.com/es/place/portugal",
         "path": "/es/place/portugal",
-        "updatedAt": "2026-08-14T16:50:35.319Z",
-        "score": 1632,
+        "updatedAt": "2026-08-14T20:28:04.670Z",
+        "score": 1644,
         "sourceCount": 18,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-psoe",
+        "name": "Partido Socialista Obrero Español",
+        "type": "organization",
+        "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+        "url": "https://atlas.lootura.com/es/organization/psoe",
+        "path": "/es/organization/psoe",
+        "updatedAt": "2026-08-14T20:28:04.670Z",
+        "score": 1633,
+        "sourceCount": 179,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 207
+    "publicEntityCount": 212
   }
 }

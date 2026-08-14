@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Ferran Torres se marcha al PSG de Luis Enrique](https://www.elcorreo.com/deportes/futbol/la-liga/liga-primera/ferran-torres-marcha-psg-luis-enrique-20260813213944-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T19:39:44.000Z
+No public source links.

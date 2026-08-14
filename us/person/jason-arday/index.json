@@ -1,0 +1,45 @@
+{
+  "id": "usa-jason-arday",
+  "name": "Jason Arday",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jason-arday",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jason-arday",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jason-arday/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jason-arday/index.json",
+  "description": "Follow Jason Arday, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+      "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the black academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday’s.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
+      "summary": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jason Arday first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:56:25.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:53:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
+}

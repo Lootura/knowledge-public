@@ -3,7 +3,7 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
@@ -17,6 +17,24 @@ Date: 2026-08-14
 ### Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln
 
 There are growing concerns about conditions aboard the USS Abraham Lincoln from families of sailors and members of Congress. After more than nine months at sea, sailors' families say it lacks basic supplies and is affecting mental health. Charlie D'Agata reports.
+
+Date: 2026-08-14
+
+### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
+
+The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
+
+Date: 2026-08-14
+
+### Trump dismisses concerns from families about grim conditions aboard USS Lincoln
+
+President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.
+
+Date: 2026-08-14
+
+### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
+
+Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
 
 Date: 2026-08-14
 
@@ -50,26 +68,11 @@ The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of 
 
 Date: 2026-08-13
 
-### USS Abraham Lincoln to head home amid concerns about living conditions
-
-A U.S official told NBC News that the aircraft carrier USS Abraham Lincoln is set to head home from the Mideast. It comes as some families report poor living conditions for the sailors and marines on board. NBC News’ Gabe Gutierrez reports.
-
-Date: 2026-08-13
-
-### Families concerned about reports of mental health crisis on USS Lincoln
-
-Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
-
-Date: 2026-08-13
-
-### Democratic senators demand answers about conditions aboard USS Abraham Lincoln
-
-Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.
-
-Date: 2026-08-13
-
 ## Sources
 
+- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
 - [Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions](https://www.cbsnews.com/video/hegseth-reacts-to-scary-concerns-about-uss-abraham-lincoln-shortages-and-bad-conditions/?utm_source=lootura.com) — 2026-08-14T12:26:53.000Z
 - [Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln](https://www.cbsnews.com/video/sailors-dad-expresses-concern-over-conditions-length-of-deployment-on-uss-lincoln/?utm_source=lootura.com) — 2026-08-14T12:40:13.000Z
+- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z
 - [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z
+- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-14T20:17:02.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Star Wars en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/product/star-wars
 
 ## Cambios recientes
 
-### John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn
+### ‘The Mandalorian and Grogu’ confirma su fecha de estreno en Disney+
 
-Aunque la trilogía de secuelas de Star Wars acabó hace ya siete años, muchos fans siguen dándole vueltas al asunto. Y uno de los actores con los que más pueden debatir e intercambiar opiniones al respecto siempre ha sido John Boyega , que interpretó a Finn . En numerosas ocasiones, la estrella de la saga galáctica ha h.
+The Mandalorian and Grogu marcó este año el regreso de Star Wars a los cines de todo el mundo, y ahora tiene fecha confirmada para llegar a streaming de la mano de Disney+ . La buena noticia es que la espera no será demasiado prolongada, pues la película se añadirá al catálogo de la plataforma en meras semanas. De esta.
 
-Date: 2026-08-11
+Date: 2026-08-14
 
 ### Discovered by Atlas
 
 Star Wars first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-11
+
+### John Boyega quiere a este mítico Jedi de las precuelas de ‘Star Wars’ como el maestro de Finn
+
+Aunque la trilogía de secuelas de Star Wars acabó hace ya siete años, muchos fans siguen dándole vueltas al asunto. Y uno de los actores con los que más pueden debatir e intercambiar opiniones al respecto siempre ha sido John Boyega , que interpretó a Finn . En numerosas ocasiones, la estrella de la saga galáctica ha h.
 
 Date: 2026-08-11
 
@@ -28,4 +34,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-No public source links.
+- [‘The Mandalorian and Grogu’ confirma su fecha de estreno en Disney+](https://hipertextual.com/cine-television/the-mandalorian-and-grogu-fecha-de-estreno-disney/?utm_source=lootura.com) — 2026-08-14T17:21:34.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,13 +17,13 @@
   ],
   "changes": [
     {
-      "title": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
-      "summary": "El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.",
+      "title": "Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia",
+      "summary": "Las autoridades de Colombia han elevado este viernes a más de 280 los muertos y a más de 3.970 heridos por causa del seísmo de magnitud 7,4 en la escala de Richter que sacudió el noroeste del país latinoamericano a comienzos de esta semana. Concretamente, son 285 las personas que han perdido la vida y 3.975 las que han.",
       "date": "2026-08-14"
     },
     {
-      "title": "Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia",
-      "summary": "Las autoridades de Colombia han elevado este viernes a más de 280 los muertos y a más de 3.970 heridos por causa del seísmo de magnitud 7,4 en la escala de Richter que sacudió el noroeste del país latinoamericano a comienzos de esta semana. Concretamente, son 285 las personas que han perdido la vida y 3.975 las que han.",
+      "title": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
+      "summary": "El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.",
       "date": "2026-08-14"
     },
     {
@@ -69,17 +69,11 @@
   ],
   "sources": [
     {
-      "title": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
-      "url": "https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:20:59.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia",
       "url": "https://theobjective.com/internacional/2026-08-14/suben-285-muertos-3-975-heridos-gran-terremoto-noroeste-colombia/?utm_source=lootura.com",
       "publishedAt": "2026-08-14T15:33:17.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

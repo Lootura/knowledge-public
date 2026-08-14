@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern
 
 Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in New York City, is expected in federal court as sources say he may plea guilty. Legal analyst Joe Tamburino joins with more details about the questions concerning the future of his New York state trial.
+
+Date: 2026-08-14
+
+### John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98
+
+Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.
 
 Date: 2026-08-14
 
@@ -62,12 +68,7 @@ Investigators are focusing on the tour operator and the pilot of the boat that c
 
 Date: 2026-08-10
 
-### Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child
-
-The captain of an unlicensed boat that capsized in the New York harbor near Liberty Island, killing a young mother and her baby, has been charged in their deaths. NBC News' Marquise Francis reports.
-
-Date: 2026-08-10
-
 ## Sources
 
 - [Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern](https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com) — 2026-08-14T12:34:52.000Z
+- [John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98](https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com) — 2026-08-14T20:04:00.000Z

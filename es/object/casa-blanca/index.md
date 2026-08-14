@@ -3,7 +3,7 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes

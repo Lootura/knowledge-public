@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
 
 El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
+
+Date: 2026-08-14
+
+### Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio
+
+El presidente de EE UU asegurado que "será reemplazado por otro buque similar".
 
 Date: 2026-08-14
 
@@ -62,12 +68,7 @@ El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio
 
 Date: 2026-08-11
 
-### De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump
-
-Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z
+- [Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio](https://www.larazon.es/internacional/trump-confirma-que-nuevo-portaaviones-sustituira-uss-abraham-lincoln-seis-meses-despliegue-oriente-medio_202608146a7f77ee71b42a0b5def9530.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T20:17:50.000Z

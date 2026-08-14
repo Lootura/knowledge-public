@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.json",
   "description": "Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "Farage",
     "Mr. Brexit",
@@ -16,6 +16,11 @@
     "Nigel"
   ],
   "changes": [
+    {
+      "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
+      "summary": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.",
@@ -47,6 +52,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:44:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

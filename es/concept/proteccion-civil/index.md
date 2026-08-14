@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Localizan en Almería un cadáver durante el operativo de búsqueda de un desaparecido
+
+Un miembro de la Unidad Canina de Búsqueda y Rescate Didugal , adscrita a Protección Civil de Olula del Río (Almería), ha localizado este jueves por la tarde en el municipio almeriense de Serón un cadáver durante las labores de búsqueda de un hombre desaparecido en Baza (Granada), si bien la identidad del fallecido no.
+
+Date: 2026-08-14
 
 ### Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña
 
@@ -62,12 +68,6 @@ Los bomberos y voluntarios de Protección Civil se llevaron las manos a la cabez
 
 Date: 2026-08-03
 
-### Se estabiliza la situación contra el fuego mientras la Junta refuerza su trabajo sobre el terreno
-
-Poco a poco, la normalidad se está instalando nuevamente en Castilla y León en la lucha contra el fuego. A esta hora la situación está mejorando en general, sobre todo en Burgohondo (Ávila), aunque Protección Civil enviaba una nueva alerta ES-Alert para evacuar la urbanización La Picota, en La Adrada. El mensaje recibi.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Localizan en Almería un cadáver durante el operativo de búsqueda de un desaparecido](https://theobjective.com/sociedad/suceso/2026-08-14/localizan-almeria-cadaver-operativo-busqueda-desaparecido/?utm_source=lootura.com) — 2026-08-14T18:42:30.000Z

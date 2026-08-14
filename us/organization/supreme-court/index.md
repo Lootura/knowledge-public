@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Trump Administration Asks Supreme Court to Greenlight White House Ballroom](https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com) — 2026-08-14T15:59:14.000Z
 - [An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce](https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html?utm_source=lootura.com) — 2026-08-14T13:29:01.000Z

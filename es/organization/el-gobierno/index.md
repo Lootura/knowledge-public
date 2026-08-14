@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -71,7 +71,7 @@ Date: 2026-08-14
 ## Fuentes
 
 - [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z
-- [El Gobierno extiende la vida útil de Almaraz hasta 2030](https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html?utm_source=lootura.com) — 2026-08-14T16:10:09.000Z
+- [El Gobierno extiende la vida útil de Almaraz hasta 2030](https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html?utm_source=lootura.com) — 2026-08-14T17:34:03.000Z
 - [Una prórroga insuficiente](https://www.abc.es/opinion/editorial-prorroga-insuficiente-20260814180616-nt.html?utm_source=lootura.com) — 2026-08-14T16:06:38.000Z
 - [El Gobierno descarta problemas por el solapamiento de cierres de centrales y ve margen para gestionar los residuos nucleares](https://elpais.com/economia/2026-08-14/el-gobierno-descarta-problemas-por-el-solapamiento-de-cierres-de-centrales-y-ve-margen-para-gestionar-los-residuos-nucleares.html?utm_source=lootura.com) — 2026-08-14T15:43:40.000Z
 - [Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos](https://theobjective.com/espana/2026-08-14/melilla-centro-menores-centenar-camas-colchones-ignifugos/?utm_source=lootura.com) — 2026-08-14T15:46:18.000Z

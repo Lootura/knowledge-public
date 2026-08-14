@@ -3,7 +3,7 @@
 > Follow Plead Guilty, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/organization/plead-guilty
 
 ## Recent changes
@@ -23,4 +23,3 @@ Date: 2026-08-13
 ## Sources
 
 - [Luigi Mangione Expected to Plead Guilty in UnitedHealthcare Case](https://www.today.com/video/luigi-mangione-to-plead-guilty-in-federal-case-what-to-expect-268304453558?utm_source=lootura.com) — 2026-08-14T11:27:41.000Z
-- [Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty](https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html?utm_source=lootura.com) — 2026-08-13T20:19:28.000Z

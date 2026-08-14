@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Perez Hilton has long road to recovery, had struggled with depression, sister says](https://www.nbcnews.com/news/us-news/perez-hilton-long-road-recovery-struggled-depression-self-harm-sister-rcna592456?utm_source=lootura.com) — 2026-08-14T02:29:21.000Z
+No public source links.

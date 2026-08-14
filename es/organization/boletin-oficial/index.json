@@ -1,0 +1,45 @@
+{
+  "id": "es-boletin-oficial",
+  "name": "Boletín Oficial",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/boletin-oficial",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/boletin-oficial",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/boletin-oficial/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/boletin-oficial/index.json",
+  "description": "Sigue la actividad de Boletín Oficial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Una prórroga insuficiente",
+      "summary": "El Gobierno ha decidido prolongar la explotación de los dos reactores de la central nuclear de Almaraz hasta el 8 de junio de 2030. Lo ha hecho sin una especial escenificación política, mediante la publicación en el Boletín Oficial del Estado de una orden del Ministerio para la Transición Ecológica que añade 31 meses d.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "summary": "La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Boletín Oficial first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Una prórroga insuficiente",
+      "url": "https://www.abc.es/opinion/editorial-prorroga-insuficiente-20260814180616-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:06:38.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:39:41.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

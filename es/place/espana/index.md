@@ -3,10 +3,40 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### Una prótesis 'espacial' para salvar la pierna de Pierre
+
+El tratamiento de Pierre empezó hace tres años, cuando tenía 35 años y vivía en España. Le diagnosticaron un osteosarcoma, un cáncer óseo que le carcomía la tibia izquierda y se decidió actuar con rapidez. Tras la extirpación del tumor, el espacio se rellenó con un espaciador provisional de cemento cargado con antibiót.
+
+Date: 2026-08-14
+
+### Uno de cada cuatro trabajadores de Baleares son extranjeros, frente a solo el 6% en Extremadura
+
+La regularización extraordinaria de migrantes se está dejando sentir ya en la composición del mercado laboral de toda España. En julio pasado el total de afiliados extranjeros superaba por primera vez la barrera de los 3,5 millones de trabajadores, tras ganar 66.000 trabajadores en el mes. Con ello (el plazo para solic.
+
+Date: 2026-08-14
+
+### Betinia desembarca en España y amplía la oferta de juego online en el país
+
+El sector del juego online español suma un reconocido nombre en países europeos. Betinia acaba de iniciar su actividad en nuestro país con una plataforma que reúne casino online y apuestas deportivas , dos áreas que comparten espacio y una misma navegación asegurando una excelente experiencia para el usuario Quien entr.
+
+Date: 2026-08-14
+
+### España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo
+
+España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo , con 7.945 personas que pidieron protección internacional por primera vez en el país, únicamente por detrás de las 10.660 registradas en Italia , según los últimos datos publicados este viernes por la oficina estadístic.
+
+Date: 2026-08-14
+
+### Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares
+
+Más de un millar de personas han sido atendidas entre las distintas comunidades autónomas, la mayoría por dolencias oculares, en las primeras 48 horas tras el eclipse total de Sol que sumió este miércoles a más de la mitad de España en una profunda e histórica oscuridad. Según los datos recopilados por Europa Press, a.
+
+Date: 2026-08-14
 
 ### La ampliación de Almaraz aviva el debate sobre el cierre nuclear en España
 
@@ -38,40 +68,10 @@ El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000
 
 Date: 2026-08-14
 
-### La regularización dispara la afiliación de extranjeros y marca un nuevo récord con 3,5 millones
-
-El empleo extranjero marca un nuevo récord en España. La Seguridad Social ha registrado 3,5 millones de afiliados inmigrantes por primera vez en su historia tras sumar 66.046 en julio, datos que reflejan un "especial dinamismo" coincidiendo con el proceso extraordinario de regularización . En concreto, el sistema ha re.
-
-Date: 2026-08-14
-
-### Una prótesis 'espacial' para salvar la pierna de Pierre
-
-La pesadilla de Pierre empezó hace tres años, cuando tenía 35 años. En Francia, su país de origen, le diagnosticaron un sarcoma óseo, pero se decidió esperar a actuar. Hasta que ya, viviendo en España, se vio cómo el tumor le carcomía la tibia derecha y se decidió actuar. La cirugía permitió extirparle el tumor y salva.
-
-Date: 2026-08-14
-
-### La DGT advierte: así será el operativo especial en carretera para la operación salida del 15 de agosto
-
-El verano es sinónimo de vacaciones para un importante porcentaje de la población en España. Esto se traduce en el masivo desplazamiento de numerosos usuarios por las vías españolas para llegar a sus destinos, siendo el próximo sábado 15 de agosto una de las fechas en las que se espera una mayor afluencia de conductore.
-
-Date: 2026-08-14
-
-### La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’
-
-Varias imágenes de una chica sonriendo con un carnet verde en la mano a nombre de Farah, donde se intuye la bandera europea y el escudo español, corren por grupos en árabe de Instagram y Facebook que promueven el paso de Marruecos a España a través de Ceuta. Van acompañadas de textos en árabe que celebran su destino de.
-
-Date: 2026-08-14
-
-### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
-
-El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [España ha controlado a 3.561 viajeros de terceros países llegados desde Italia](https://www.20minutos.es/nacional/espana-ha-controlado-3-561-viajeros-terceros-paises-llegados-desde-italia_7025889_0.html?utm_source=lootura.com) — 2026-08-14T14:19:37.000Z
-- [EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta](https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-14T13:10:32.000Z
-- [Los Jonas Brothers se van de vacaciones a Alicante antes del estreno de ‘Camp Rock 3’ y se quedan a cuadros: «Todo el mundo era holandés»](https://okdiario.com/cool/famosos/jonas-brothers-van-vacaciones-alicante-antes-del-estreno-camp-rock-3-quedan-cuadros-todo-mundo-era-holandes-19180361?utm_source=lootura.com) — 2026-08-14T16:00:33.000Z
-- [La ampliación de Almaraz aviva el debate sobre el cierre nuclear en España](https://theobjective.com/economia/energia/2026-08-14/ampliacion-almaraz-cierre-nuclear-espana/?utm_source=lootura.com) — 2026-08-14T11:43:16.000Z
-- [Italia fue el país de la UE con más solicitantes de asilo nuevos en mayo, seguido de España](https://theobjective.com/internacional/2026-08-14/italia-pais-ue-solicitantes-asilo-nuevos-mayo-seguido-espana/?utm_source=lootura.com) — 2026-08-14T15:25:39.000Z
+- [Una prótesis 'espacial' para salvar la pierna de Pierre](https://www.abc.es/salud/protesis-20260814201848-nt.html?utm_source=lootura.com) — 2026-08-14T17:32:47.000Z
+- [Uno de cada cuatro trabajadores de Baleares son extranjeros, frente a solo el 6% en Extremadura](https://elpais.com/economia/2026-08-14/uno-de-cada-cuatro-trabajadores-de-baleares-son-extranjeros-frente-a-solo-el-6-en-extremadura.html?utm_source=lootura.com) — 2026-08-14T18:07:24.000Z
+- [Betinia desembarca en España y amplía la oferta de juego online en el país](https://www.elindependiente.com/eli/2026/08/14/betinia-desembarca-en-espana-y-amplia-la-oferta-de-juego-online-en-el-pais/?utm_source=lootura.com) — 2026-08-14T15:08:39.000Z
+- [España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo](https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/?utm_source=lootura.com) — 2026-08-14T16:29:07.000Z
+- [Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares](https://theobjective.com/espana/2026-08-14/mas-millar-personas-atendida-eclipse-mayoria-dolencias-oculares/?utm_source=lootura.com) — 2026-08-14T18:07:43.000Z

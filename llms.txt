@@ -17,24 +17,24 @@
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Bears Ears](https://atlas.lootura.com/us/place/bears-ears): Follow Bears Ears, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Brian Thompson](https://atlas.lootura.com/us/organization/brian-thompson): Follow Brian Thompson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Darline Graham](https://atlas.lootura.com/us/person/darline-graham): Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Europe](https://atlas.lootura.com/us/place/europe): Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
+- [Agencia estatal (España)](https://atlas.lootura.com/es/organization/agencia-estatal): Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Amancio Ortega](https://atlas.lootura.com/es/person/amancio-ortega): Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Antonio Maíllo](https://atlas.lootura.com/es/organization/antonio-maillo): Sigue la actividad de Antonio Maíllo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Arabia Saudí](https://atlas.lootura.com/es/place/arabia-saudi): Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Boletín Oficial](https://atlas.lootura.com/es/organization/boletin-oficial): Sigue la actividad de Boletín Oficial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [mansión exclusiva](https://atlas.lootura.com/es/object/casa-blanca): Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [China](https://atlas.lootura.com/es/place/china): Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República de Colombia](https://atlas.lootura.com/es/place/colombia): Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

@@ -3,10 +3,28 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
+
+El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
+
+Date: 2026-08-14
+
+### España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo
+
+España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo , con 7.945 personas que pidieron protección internacional por primera vez en el país, únicamente por detrás de las 10.660 registradas en Italia , según los últimos datos publicados este viernes por la oficina estadístic.
+
+Date: 2026-08-14
+
+### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
+
+La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
+
+Date: 2026-08-14
 
 ### Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año
 
@@ -50,24 +68,8 @@ El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras u
 
 Date: 2026-08-13
 
-### Exteriores comunica la muerte de un español en el terremoto en Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
-
-Date: 2026-08-13
-
-### Shein subirá los precios en Europa como respuesta a la tasa a los paquetes de menos de 150 euros
-
-Las operaciones de Shein en el mercado europeo afrontan un obstáculo que, aunque esperado, no deja de tener impacto en su negocio comunitario. Se trata de la entrada en vigor, desde el pasado 1 de julio , de la tasa de tres euros a los paquetes extracomunitarios que llegan a la Unión Europea (UE) con un valor inferior.
-
-Date: 2026-08-13
-
-### El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles
-
-Este miércoles comienza a aplicarse el reglamento sobre envases y residuos (PPWR, por sus siglas en inglés) en todos los países da la Unión Europea. Esta legislación, que reemplaza una directiva sobre reciclaje de 1994, tiene como finalidad disminuir los residuos de recipientes de forma paulatina de ahora y hasta 2040.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T18:24:56.000Z
+- [España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo](https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/?utm_source=lootura.com) — 2026-08-14T16:29:07.000Z
+- [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z

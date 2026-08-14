@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### What Wildfire Smoke Reveals About How We Respond to Climate Risk
+
+The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
+
+Date: 2026-08-14
 
 ### In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates
 
@@ -62,12 +68,6 @@ President Donald Trump speaks to the media in the Oval Office of the White House
 
 Date: 2026-08-04
 
-### For Republicans planning post-Trump future, one race in Washington is worth watching
-
-The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence. (Image credit: Sarah Silbiger/Getty Images).
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [What Wildfire Smoke Reveals About How We Respond to Climate Risk](https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com) — 2026-08-14T19:35:38.000Z

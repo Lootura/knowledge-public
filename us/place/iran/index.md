@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
 
 Keeping gas prices low is now the United States’ “goal No.
+
+Date: 2026-08-14
+
+### Hormuz chaos highlights risks for other global trade chokepoints
+
+The war in Iran has underscored how disruptions to a key shipping route thousands of miles away can have a material impact on American consumers.
+
+Date: 2026-08-14
+
+### Trump says he will soon declare the Strait of Hormuz a U.S. territory
+
+The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.
+
+Date: 2026-08-14
+
+### Trump dismisses concerns from families about grim conditions aboard USS Lincoln
+
+President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.
 
 Date: 2026-08-14
 
@@ -50,25 +68,9 @@ A recent series of cyberattacks on U.S. water systems has exposed vulnerabilitie
 
 Date: 2026-08-12
 
-### Product availability changed in Europe
-
-Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq's leader wants to disarm Iran-backed militias.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
-
-Date: 2026-08-12
-
-### Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe
-
-New comments from President Donald Trump confirm that he secretly swapped planes as he left an international summit because of a threat from Iran. A U.S. official tells NBC News that the threat included the possibility of the Iranian regime targeting the president with a shoulder-fired missile. NBC’s Gabe Gutierrez rep.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [U.S. and Iran in "deadlock" as both claim control of Stait of Hormuz, expert says](https://www.cbsnews.com/video/us-and-iran-in-deadlock-strait-of-hormuz-expert-says/?utm_source=lootura.com) — 2026-08-14T16:13:00.000Z
+- [Hormuz chaos highlights risks for other global trade chokepoints](https://www.cbsnews.com/news/strait-of-hormuz-shipping-chokepoints-global-trade/?utm_source=lootura.com) — 2026-08-14T20:10:21.000Z
 - [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z
+- [Trump says he will soon declare the Strait of Hormuz a U.S. territory](https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com) — 2026-08-14T20:17:59.000Z
+- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z

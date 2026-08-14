@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [‘We get 200 tourists a day’: when your house becomes a TV star](https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos?utm_source=lootura.com) — 2026-08-14T12:00:26.000Z
+No public source links.

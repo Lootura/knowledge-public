@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"
+
+"Es lo que queremos y es lo que va a pasar. Vamos a ganar títulos", decía Kylian sobre el Real Madrid en la temporada que está a punto de arrancar.
+
+Date: 2026-08-14
+
+### El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos
+
+El Retiro y otros cinco parques históricos cerrarán desde las 18 horas de este viernes por condiciones meteorológicas adversas, ha informado el Ayuntamiento de Madrid en un comunicado a partir de las previsiones de la Agencia Estatal de Meteorología (Aemet). El cierre afecta al parque del Capricho, la Rosaleda del Parq.
+
+Date: 2026-08-14
+
+### El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo
+
+La Unidad de Planificación Avanzada y Manufactura 3D (UPAM3D) del Hospital General Universitario Gregorio Marañón de la Comunidad de Madrid ha diseñado y fabricado la primera prótesis ósea de metamaterial personalizada del mundo, que posteriormente ha sido implantada por cirujanos oncológicos del centro. Estas estructu.
+
+Date: 2026-08-14
+
+### El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham
+
+El fichaje de Cristian Cuti Romero por el Atlético de Madrid está a punto de ser anunciado. De hecho, el futbolista prácticamente lo ha anunciado, al despedirse en sus redes sociales del Tottenham Hotspur y de su afición. No desvela dónde va, pero es más que evidente. Será futbolista del conjunto rojiblanco y se pondrá.
+
+Date: 2026-08-14
 
 ### La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”
 
@@ -17,12 +41,6 @@ Date: 2026-08-14
 ### Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»
 
 Rafa Mora se sacó, hace unos años, una plaza como policía municipal en la ciudad madrileña de Pozuelo de Alarcón . Pero no solamente eso. El que fuera tronista en Mujeres, hombres y viceversa ha decidido invertir en varios pisos por toda la Comunidad de Madrid y alrededores. «Compramos el primer piso por 80.000 euros,.
-
-Date: 2026-08-14
-
-### Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"
-
-"Es lo que queremos y es lo que va a pasar. Vamos a ganar títulos", decía Kylian sobre el Real Madrid en la temporada que está a punto de arrancar.
 
 Date: 2026-08-14
 
@@ -50,26 +68,9 @@ Eva Isanta ha decidido dar un paso al frente y pronunciarse por primera vez sobr
 
 Date: 2026-08-14
 
-### Simeone no se lleva a Julián Álvarez a Marsella para el último amistoso del Atlético
-
-Julián Álvarez no ha viajado con el Atlético de Madrid a Francia para jugar el último partido amistoso de pretemporada contra el Olympique de Marsella . Simeone no convoca al argentino en medio de la incertidumbre en torno a su futuro, aunque la decisión es lógica, ya que, al igual que Álex Baena y Marcos Llorente , fu.
-
-Date: 2026-08-14
-
-### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
-
-Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».
-
-Date: 2026-08-13
-
-### Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático
-
-La dirigente madrileña esquiva las preguntas de la prensa mientras espera que se diluya la polémica por el ático adquirido por la Comunidad de Madrid, ahora puesto de nuevo a la venta Ayuso redobla los ataques contra el Gobierno para enterrar la polémica del ático La presidenta de la Comunidad de Madrid, Isabel Díaz Ay.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”](https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
+- [El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos](https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com) — 2026-08-14T14:40:04.000Z
 - [Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"](https://www.larazon.es/deportes/futbol/mbappe-mourinho-positivo-tener-entrenador-que-sabe-como-ganar_202608146a7f45b5a046ad6ebcb15a78.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T16:43:33.000Z
-- [Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»](https://theobjective.com/gente/2026-08-14/rafa-mora-media-costado-pisos-ahora-gano-alquileres/?utm_source=lootura.com) — 2026-08-14T12:00:00.000Z
+- [El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo](https://okdiario.com/salud/gregorio-maranon-crea-implanta-primera-protesis-osea-personalizada-metamaterial-del-mundo-19184451?utm_source=lootura.com) — 2026-08-14T19:24:20.000Z
+- [El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham](https://okdiario.com/deportes/fichaje-del-cuti-romero-atletico-esta-caer-anuncia-marcha-del-tottenham-19184639/amp?utm_source=lootura.com) — 2026-08-14T20:27:53.000Z

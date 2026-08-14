@@ -3,10 +3,16 @@
 > Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/person/nigel-farage
 
 ## Recent changes
+
+### Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations
+
+Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.
+
+Date: 2026-08-14
 
 ### Farage Wins Special U.K. Election That He Initiated, as Expected
 
@@ -46,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations](https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html?utm_source=lootura.com) — 2026-08-14T19:44:08.000Z

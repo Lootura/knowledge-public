@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
   "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [
     "Amancio",
     "Amancio Ortega Gaona",
@@ -24,6 +24,11 @@
     {
       "title": "Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings",
       "summary": "Pontegadea y sus socios, Macquarie Asset Managemet y UniSuper , han ejecutado este viernes el cierre de la compra del operador logístico Qube Holdings , en una operación que valora la empresa en 11.700 millones de dólares australianos (unos 7.000 millones de euros), incluyendo deuda. Seguir leyendo.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
+      "summary": "El hólding empresarial de Amancio Ortega ganó 10.055 millones en 2025, un 7,86% más respecto el año anterior. Seguir leyendo.",
       "date": "2026-08-14"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Sandra Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex",
       "summary": "Sandra Ortega, primogénita del principal accionista de Inditex, Amancio Ortega , y segunda mayor inversora a título individual del gigante textil, alcanzó unos beneficios de 307 millones de euros en 2025 a través de su holding empresarial Rosp Corunna. A través de este posee el 5,05% del capital del grupo gallego, adem.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Amancio Ortega sella su operación récord en Europa con una compra en París por 800 millones",
-      "summary": "Pontegadea da el campanazo con la mayor compra de un inmueble que cierra en Europa en toda su historia. La patrimonial de Amancio Ortega ha comprado Capital 8 en París por más de 800 millones de euros , según ha podido confirmar EXPANSIÓN en fuentes del mercado. Seguir leyendo.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [
@@ -79,7 +79,13 @@
       "url": "https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T16:21:28.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
+      "url": "https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T17:14:25.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

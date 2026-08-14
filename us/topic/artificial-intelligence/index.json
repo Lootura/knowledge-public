@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "AI",
     "AI science",
@@ -82,33 +82,27 @@
     {
       "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
       "url": "https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:51:03.117Z",
+      "publishedAt": "2026-08-14T20:28:33.125Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
       "url": "https://www.nature.com/articles/d41586-026-02562-w?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:51:03.117Z",
+      "publishedAt": "2026-08-14T20:28:33.124Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "AI isn’t ready to research itself",
       "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:51:03.117Z",
+      "publishedAt": "2026-08-14T20:28:33.125Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Einstein the musician, AI prophets and more: Books in brief",
       "url": "https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:51:03.117Z",
+      "publishedAt": "2026-08-14T20:28:33.125Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Exclusive: Claude Was Put in Charge of Human Workers—and Fired One",
-      "url": "https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:13:50.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

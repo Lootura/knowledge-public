@@ -25,6 +25,7 @@
 - [Alma María Ezcurra Almansa](https://atlas.lootura.com/es/organization/alma-ezcurra): Sigue la actividad de Alma María Ezcurra Almansa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Antonio Maíllo](https://atlas.lootura.com/es/organization/antonio-maillo): Sigue la actividad de Antonio Maíllo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Boletín Oficial](https://atlas.lootura.com/es/organization/boletin-oficial): Sigue la actividad de Boletín Oficial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Carmen Lequerica Holding](https://atlas.lootura.com/es/organization/carmen-lequerica-holding): Sigue la actividad de Carmen Lequerica Holding en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Dinastía real](https://atlas.lootura.com/es/organization/casa-real): Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Comisión Europea](https://atlas.lootura.com/es/organization/comision-europea): Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -39,15 +40,16 @@
 - [El Tarajal](https://atlas.lootura.com/es/organization/el-tarajal): Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Elías Bendodo](https://atlas.lootura.com/es/organization/elias-bendodo): Sigue la actividad de Elías Bendodo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Elon Musk](https://atlas.lootura.com/es/organization/elon-musk): Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Emmanuel Macron](https://atlas.lootura.com/es/organization/emmanuel-macron): Sigue la actividad de Emmanuel Macron en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Familia real](https://atlas.lootura.com/es/organization/familia-real): Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Federación Internacional de Fútbol Asociación](https://atlas.lootura.com/es/organization/fifa): Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Fuerzas armadas](https://atlas.lootura.com/es/organization/fuerzas-armadas): Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Función pública](https://atlas.lootura.com/es/organization/funcion-publica): Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Gobierno de España](https://atlas.lootura.com/es/organization/gobierno-de-espana): Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Guardia Civil](https://atlas.lootura.com/es/organization/guardia-civil): Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Instituto Nacional](https://atlas.lootura.com/es/organization/instituto-nacional): Sigue la actividad de Instituto Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Instituto Vasco](https://atlas.lootura.com/es/organization/instituto-vasco): Sigue la actividad de Instituto Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Iustitia Europa](https://atlas.lootura.com/es/organization/iustitia-europa): Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Izquierda Unida](https://atlas.lootura.com/es/organization/izquierda-unida): Sigue la actividad de Izquierda Unida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jeff Dean](https://atlas.lootura.com/es/organization/jeff-dean): Sigue la actividad de Jeff Dean en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jensen Huang](https://atlas.lootura.com/es/organization/jensen-huang): Sigue la actividad de Jensen Huang en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jorge Domínguez](https://atlas.lootura.com/es/organization/jorge-dominguez): Sigue la actividad de Jorge Domínguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -112,6 +114,7 @@
 - [Isabel Díaz Ayuso](https://atlas.lootura.com/es/person/isabel-diaz-ayuso): Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Isabel Pantoja Martín](https://atlas.lootura.com/es/person/isabel-pantoja): Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Iván Cepeda](https://atlas.lootura.com/es/person/ivan-cepeda): Sigue la actividad de Iván Cepeda en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Jeff Bezos](https://atlas.lootura.com/es/person/jeff-bezos): Sigue la actividad de Jeff Bezos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jens Spahn](https://atlas.lootura.com/es/person/jens-spahn): Sigue la actividad de Jens Spahn en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Joe Biden](https://atlas.lootura.com/es/person/joe-biden): Sigue la actividad de Joe Biden en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jordi Wild](https://atlas.lootura.com/es/person/jordi-wild): Sigue la actividad de Jordi Wild en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -188,6 +191,7 @@
 - [La Mancha](https://atlas.lootura.com/es/place/la-mancha): Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Mierla](https://atlas.lootura.com/es/place/la-mierla): Sigue la actividad de La Mierla en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Sagra](https://atlas.lootura.com/es/place/la-sagra): Sigue la actividad de La Sagra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Las Peñas](https://atlas.lootura.com/es/place/las-penas): Sigue la actividad de Las Peñas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Las Tablas](https://atlas.lootura.com/es/place/las-tablas): Sigue la actividad de Las Tablas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Los Ángeles](https://atlas.lootura.com/es/place/los-angeles): Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Los Gallardos](https://atlas.lootura.com/es/place/los-gallardos): Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -202,6 +206,7 @@
 - [Países Bajos](https://atlas.lootura.com/es/place/paises-bajos): Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [República Portuguesa](https://atlas.lootura.com/es/place/portugal): Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Reino Unido de Gran Bretaña e Irlanda del Norte](https://atlas.lootura.com/es/place/reino-unido): Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [San Juan](https://atlas.lootura.com/es/place/san-juan): Sigue la actividad de San Juan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [San Sebastián](https://atlas.lootura.com/es/place/san-sebastian): Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Trinitat Vella](https://atlas.lootura.com/es/place/trinitat-vella): Sigue la actividad de Trinitat Vella en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Estados Unidos](https://atlas.lootura.com/es/place/united-states): Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -288,6 +293,7 @@
 - [Haley Stevens](https://atlas.lootura.com/us/person/haley-stevens): Follow Haley Stevens, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jack Smith](https://atlas.lootura.com/us/person/jack-smith): Follow Jack Smith, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jarrett Keohokalole](https://atlas.lootura.com/us/person/jarrett-keohokalole): Follow Jarrett Keohokalole, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Jason Arday](https://atlas.lootura.com/us/person/jason-arday): Follow Jason Arday, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jay Clayton](https://atlas.lootura.com/us/person/jay-clayton): Follow Jay Clayton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jeanine Pirro](https://atlas.lootura.com/us/person/jeanine-pirro): Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Jeffrey Epstein](https://atlas.lootura.com/us/person/jeffrey-epstein): Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos
+
+El Retiro y otros cinco parques históricos cerrarán desde las 18 horas de este viernes por condiciones meteorológicas adversas, ha informado el Ayuntamiento de Madrid en un comunicado a partir de las previsiones de la Agencia Estatal de Meteorología (Aemet). El cierre afecta al parque del Capricho, la Rosaleda del Parq.
+
+Date: 2026-08-14
 
 ### Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad
 
@@ -34,4 +40,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos](https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com) — 2026-08-14T14:40:04.000Z

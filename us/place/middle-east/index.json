@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
+      "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
+      "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
       "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.",
@@ -53,18 +63,21 @@
       "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
       "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival (Image credit: Mohammed Sawaf for NPR).",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
-      "summary": "Here’s a look at developments across the Middle East.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "How Iran's 'Axis of Resistance' has shaped the war",
-      "summary": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
+      "url": "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:15:48.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T18:30:16.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

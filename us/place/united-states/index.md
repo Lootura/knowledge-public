@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -26,57 +26,57 @@ The Justice Department issued a legal opinion giving the U.S. military broader p
 
 Date: 2026-08-14
 
-### Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says
-
-A woman accused of vandalizing the World War II Memorial has been arrested in Washington, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.
-
-Date: 2026-08-14
-
 ### U.S. retail sales unexpectedly post largest drop in more than a year
 
 The drop in spending raised concern among some economists about the resiliency of consumers who have powered the economy forward despite nagging inflation and soaring gasoline prices.
 
 Date: 2026-08-14
 
-### US could exhaust domestic phosphorus within 40 years, but waste offers reserves
+### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
 
-The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already depend on imports from China and Morocco to meet their needs. Without phosphorus, crops cannot grow—and without a reliable supply of the mineral, the world's food supply is at risk.
-
-Date: 2026-08-14
-
-### Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms
-
-Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.
+The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
 
 Date: 2026-08-14
 
-### With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks
+### Trump says he will soon declare the Strait of Hormuz a U.S. territory
 
-Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.
-
-Date: 2026-08-14
-
-### The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.
-
-In an interview, Afghanistan’s foreign minister called on the U.S. to reopen its embassy and invest in the country — a near-impossible sell for now, analysts and former diplomats say.
+The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.
 
 Date: 2026-08-14
 
-### Scholar's work in South America helps fight Chagas disease in the U.S.
+### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
 
-A three-month Fulbright U.S. Scholar trip to Argentina wasn't just about bringing Texas know-how to South America for Gabriel Hamer, Ph.D., a Texas A&M AgriLife Research entomologist and professor in the Department of Entomology in the Texas A&M College of Agriculture and Life Sciences.
+Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
+
+Date: 2026-08-14
+
+### The True Story Behind The Brink of War
+
+Jeff Daniels as President Ronald Reagan —Courtesy of Angel Studios The Reykjavik Summit —when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986—is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and.
+
+Date: 2026-08-14
+
+### What Wildfire Smoke Reveals About How We Respond to Climate Risk
+
+The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
+
+Date: 2026-08-14
+
+### Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says
+
+A woman accused of vandalizing the World War II Memorial has been arrested in Washington, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.
 
 Date: 2026-08-14
 
 ## Sources
 
 - [Justice Department expands military's power to detain migrants accused of trespassing](https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/?utm_source=lootura.com) — 2026-08-14T16:49:47.000Z
+- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
 - [Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more](https://www.cbsnews.com/video/outgoing-apple-ceo-tim-cook-discusses-new-us-manufacturing-job-impact-and-more/?utm_source=lootura.com) — 2026-08-14T12:43:32.000Z
 - [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z
-- [Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says](https://www.nbcnews.com/politics/justice-department/woman-arrested-felony-charges-world-war-ii-memorial-vandalism-case-rcna592546?utm_source=lootura.com) — 2026-08-14T14:47:21.000Z
+- [Trump says he will soon declare the Strait of Hormuz a U.S. territory](https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com) — 2026-08-14T20:17:59.000Z
 - [U.S. retail sales unexpectedly post largest drop in more than a year](https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year?utm_source=lootura.com) — 2026-08-14T14:34:17.000Z
-- [US could exhaust domestic phosphorus within 40 years, but waste offers reserves](https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html?utm_source=lootura.com) — 2026-08-14T15:40:04.000Z
-- [Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms](https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review?utm_source=lootura.com) — 2026-08-14T14:16:48.000Z
 - [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z
-- [With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks](https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html?utm_source=lootura.com) — 2026-08-14T13:20:34.000Z
-- [The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.](https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html?utm_source=lootura.com) — 2026-08-14T16:01:43.000Z
+- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-14T20:17:02.000Z
+- [The True Story Behind The Brink of War](https://time.com/article/2026/08/14/brink-of-war-true-story/?utm_source=lootura.com) — 2026-08-14T19:03:46.000Z
+- [What Wildfire Smoke Reveals About How We Respond to Climate Risk](https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com) — 2026-08-14T19:35:38.000Z

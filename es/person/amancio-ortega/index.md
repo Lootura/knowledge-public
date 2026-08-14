@@ -3,7 +3,7 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-14
 ### Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings
 
 Pontegadea y sus socios, Macquarie Asset Managemet y UniSuper , han ejecutado este viernes el cierre de la compra del operador logístico Qube Holdings , en una operación que valora la empresa en 11.700 millones de dólares australianos (unos 7.000 millones de euros), incluyendo deuda. Seguir leyendo.
+
+Date: 2026-08-14
+
+### La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos
+
+El hólding empresarial de Amancio Ortega ganó 10.055 millones en 2025, un 7,86% más respecto el año anterior. Seguir leyendo.
 
 Date: 2026-08-14
 
@@ -62,13 +68,8 @@ Sandra Ortega, primogénita del principal accionista de Inditex, Amancio Ortega 
 
 Date: 2026-07-23
 
-### Amancio Ortega sella su operación récord en Europa con una compra en París por 800 millones
-
-Pontegadea da el campanazo con la mayor compra de un inmueble que cierra en Europa en toda su historia. La patrimonial de Amancio Ortega ha comprado Capital 8 en París por más de 800 millones de euros , según ha podido confirmar EXPANSIÓN en fuentes del mercado. Seguir leyendo.
-
-Date: 2026-07-23
-
 ## Fuentes
 
 - [Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings](https://cincodias.elpais.com/companias/2026-08-14/amancio-ortega-desembarca-en-los-puertos-de-australia-al-sellar-la-compra-del-15-de-qube-holdings.html?utm_source=lootura.com) — 2026-08-14T14:19:00.000Z
 - [Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings](https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com) — 2026-08-14T16:21:28.000Z
+- [La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos](https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com) — 2026-08-14T17:14:25.000Z

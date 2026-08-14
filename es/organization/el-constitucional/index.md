@@ -3,14 +3,14 @@
 > Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/el-constitucional
 
 ## Cambios recientes
 
 ### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
 
-Las cortes francesas aprobaron hace menos de un mes el proyecto de ley que prohibía el uso de redes sociales a menores de 15 años, que se esperaba que entrara en vigor el 1 de septiembre. Sin embargo, el Consejo Constitucional ha rechazado este viernes esta medida al considerar que constituye «una vulneración despropor.
+El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
 
 Date: 2026-08-14
 
@@ -28,5 +28,5 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T16:29:57.000Z
+- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T18:24:56.000Z
 - [El Constitucional de Francia anula la ley que prohíbe las redes a menores de 15 años: “Es una vulneración de la libertad de expresión”](https://elpais.com/sociedad/2026-08-14/el-consejo-constitucional-de-francia-anula-la-ley-que-prohibe-las-redes-sociales-a-menores-de-15-anos.html?utm_source=lootura.com) — 2026-08-14T15:42:30.000Z

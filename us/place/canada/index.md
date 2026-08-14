@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### What Wildfire Smoke Reveals About How We Respond to Climate Risk
+
+The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
+
+Date: 2026-08-14
 
 ### Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days
 
@@ -62,12 +68,6 @@ Drawn by a warming climate, Canada’s furry national symbol is colonizing new t
 
 Date: 2026-08-09
 
-### Canada Wildfires: What to Know About Fires in British Columbia and Ontario
-
-Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.
-
-Date: 2026-08-08
-
 ## Sources
 
-No public source links.
+- [What Wildfire Smoke Reveals About How We Respond to Climate Risk](https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com) — 2026-08-14T19:35:38.000Z

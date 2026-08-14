@@ -1,0 +1,70 @@
+{
+  "id": "es-san-juan",
+  "name": "San Juan",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/san-juan",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/san-juan",
+  "markdownUrl": "https://atlas.lootura.com/es/place/san-juan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/san-juan/index.json",
+  "description": "Sigue la actividad de San Juan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "summary": "El incendio de Las Peñas de Riglos (Huesca) concentra la preocupación tras superar las 11.000 hectáreas afectadas y obligar a evacuar 16 pueblos. El avance de las llamas llegó a poner en grave peligro los monasterios nuevo y viejo de San Juan de la Peña, aunque el fuego no llegó a alcanzarlos. Más de 500 efectivos trab.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "summary": "Los restos óseos de los reyes fundadores del Reino de Aragón fueron corrían el riesgo de convertirse ayer en víctimas inesperadas del incendio de Las Peñas de Riglos, en la provincia de Huesca, que amenaza con alcanzar al monasterio viejo de San Juan de la Peña, que atesora una parte importante del patrimonio histórico.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Evacúan cuatro nuevos municipios tras una reproducción en la cola del incendio de Las Peñas de Riglos (Huesca)",
+      "summary": "Trasladados los restos de los primeros reyes aragoneses desde el Monasterio de San Juan de la Peña al Museo de Huesca por un incendio Leer.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "summary": "El incendio de Huelva, que podría superar las 38.000 hectáreas, mantiene a cientos de personas alejadas de sus viviendas, mientras continúa la preocupación por la evolución del fuego de Las Peñas de Riglos, en Huesca.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "El incendio de Riglos mantiene cercados los monasterios de San Juan de la Peña y fuerza nuevas evacuaciones",
+      "summary": "El fuego obliga a desalojar Santa María de la Peña, Triste, La Peña Estación y Yeste, lo que eleva a 16 las poblaciones evacuadas, con 855 personas afectadas, mientras el operativo concentra sus esfuerzos en el flanco derecho La UME rescata los restos de los reyes de Aragón del Monasterio Viejo de San Juan de la Peña a.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "San Juan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio",
+      "summary": "El Gobierno de Aragón ha trasladado esta tarde al Museo de Huesca los restos de los primeros reyes aragoneses y del linaje real que descansaban en el Panteón Real del Monasterio de San Juan de la Peña, debido al avance del incendio forestal que comenzó el pasado lunes en Las Peñas de Riglos. Ante la amenaza de que el f.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "La UME rescata los restos de los reyes de Aragón del Monasterio Viejo de San Juan de la Peña ante el avance del incendio",
+      "summary": "Los militares han tenido que interrumpir temporalmente el rescate por la proximidad de las llamas y han trasladado al Museo de Huesca las urnas del Panteón Real y otras piezas históricas El incendio de Riglos amenaza la cuna de Aragón: las llamas entran en el entorno de San Juan de la Peña y acechan el Monasterio Nuevo.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-niebla-concentra-sus-esfuerzos-sector-mas-activo-consolidar-norte_202608146a7e93f9a5690f047378d88f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:45:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "url": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:04:44.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
+}

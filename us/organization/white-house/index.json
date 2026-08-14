@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -75,25 +75,7 @@
       "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com",
       "publishedAt": "2026-08-14T02:06:10.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:42:35.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
-      "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T14:16:48.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T15:59:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

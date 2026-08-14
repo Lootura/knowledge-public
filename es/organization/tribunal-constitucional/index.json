@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.json",
   "description": "Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-20T14:00:22.171Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
+      "summary": "El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Condenado a prisión un exconsejero andaluz al que indultó el Tribunal Constitucional en el caso de los ERE por otro asunto de corrupción",
       "summary": "Estuvo en la cárcel por el caso de los ERE hasta que el Tribunal Constitucional anuló su condena por prevaricación y malversación y ahora podría entrar de nuevo. La Sección Séptima de la Audiencia de Sevilla ha condenado al ex consejero de Innovación de la Junta de Andalucía Francisco Vallejo a tres años y medio de pri.",
@@ -32,6 +37,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
+      "url": "https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T18:24:56.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

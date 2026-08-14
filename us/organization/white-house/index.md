@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -71,6 +71,3 @@ Date: 2026-08-13
 ## Sources
 
 - [Feds probe 'mention markets' amid White House Kalshi controversy](https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com) — 2026-08-14T02:06:10.000Z
-- [Judge drops Nevada case against electors accused of forging certificate in 2020 election](https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com) — 2026-08-14T05:42:35.000Z
-- [Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms](https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review?utm_source=lootura.com) — 2026-08-14T14:16:48.000Z
-- [Trump Administration Asks Supreme Court to Greenlight White House Ballroom](https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com) — 2026-08-14T15:59:14.000Z

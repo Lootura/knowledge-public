@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -57,10 +57,10 @@
   ],
   "sources": [
     {
-      "title": "La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'",
-      "url": "https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:02:58.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "ChatGPT ha copiado una de las funciones más odiadas de Windows 11 en su app para Mac",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-funciones-mas-odiadas-de-windows-11-en-su-app-para-mac/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T18:25:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

@@ -58,4 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Julio Iglesias, cantante español (82 años): «En 1970 di 41 conciertos en 41 ciudades españolas distintas en 30 días; fue mi etapa rockera»](https://okdiario.com/curiosidades/julio-iglesias-cantante-espanol-81-anos-1970-di-41-conciertos-41-ciudades-espanolas-distintas-30-dias-fue-etapa-rockera-19091600?utm_source=lootura.com) — 2026-08-14T16:00:54.000Z
+No public source links.

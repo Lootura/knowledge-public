@@ -1,0 +1,82 @@
+{
+  "id": "es-las-penas",
+  "name": "Las Peñas",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/las-penas",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/las-penas",
+  "markdownUrl": "https://atlas.lootura.com/es/place/las-penas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/las-penas/index.json",
+  "description": "Sigue la actividad de Las Peñas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Las Peñas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "summary": "El incendio de Las Peñas de Riglos (Huesca) concentra la preocupación tras superar las 11.000 hectáreas afectadas y obligar a evacuar 16 pueblos. El avance de las llamas llegó a poner en grave peligro los monasterios nuevo y viejo de San Juan de la Peña, aunque el fuego no llegó a alcanzarlos. Más de 500 efectivos trab.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "summary": "Los restos óseos de los reyes fundadores del Reino de Aragón fueron corrían el riesgo de convertirse ayer en víctimas inesperadas del incendio de Las Peñas de Riglos, en la provincia de Huesca, que amenaza con alcanzar al monasterio viejo de San Juan de la Peña, que atesora una parte importante del patrimonio histórico.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos",
+      "summary": "El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de prensa, la Benemérita ha señalado que la UPRONA de la Guardia.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Consolidado un 40% del perímetro del incendio de Riglos (Huesca) en una jornada complicada",
+      "summary": "Los trabajos de extinción del incendio forestal declarado el lunes en Las Peñas de Riglos y que afecta a más de 10.000 hectáreas han logrado consolidar un 40% de su perímetro , en una jornada que ha resultado complicada para estas labores. El dispositivo de prevención y extinción de incendios forestales del Gobierno de.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Evacúan cuatro nuevos municipios tras una reproducción en la cola del incendio de Las Peñas de Riglos (Huesca)",
+      "summary": "Trasladados los restos de los primeros reyes aragoneses desde el Monasterio de San Juan de la Peña al Museo de Huesca por un incendio Leer.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
+      "summary": "El incendio forestal de Las Peñas de Riglos (Huesca) ha obligado a desalojar las localidades de Anzánigo y Atarés. También se ha suspendido temporalmente la circulación ferroviaria entre Ayerbe y Sabiñánigo, ha informado este viernes el Gobierno de Aragón. Seguir leyendo...",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "summary": "El incendio de Huelva, que podría superar las 38.000 hectáreas, mantiene a cientos de personas alejadas de sus viviendas, mientras continúa la preocupación por la evolución del fuego de Las Peñas de Riglos, en Huesca.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Incendio de La Peña, en directo: el fuego arrasa más de 11.000 hectáreas y alcanza el Monasterio de San Juan",
+      "url": "https://www.larazon.es/sociedad/incendios-espana-directo-niebla-concentra-sus-esfuerzos-sector-mas-activo-consolidar-norte_202608146a7e93f9a5690f047378d88f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:45:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "url": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:04:44.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-14/ingresa-prision-zuera-presunto-autor-incendio-penas-riglos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T18:49:28.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Consolidado un 40% del perímetro del incendio de Riglos (Huesca) en una jornada complicada",
+      "url": "https://theobjective.com/espana/2026-08-14/consolidado-40-perimetro-incendio-riglos-huesca-jornada-complicada/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T17:14:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 4
+}

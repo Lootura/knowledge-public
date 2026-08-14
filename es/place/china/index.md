@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones
+
+La modernización naval de Taiwán hacia los submarinos no tripulados está un poco más cerca gracias a una nueva alianza de cooperación militar e industrial . La empresa estadounidense de tecnología de defensa Vatn Systems y el Instituto Nacional de Ciencia y Tecnología Chung-Shan de Taiwán han firmado un acuerdo para ex.
+
+Date: 2026-08-14
+
+### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
+
+La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
+
+Date: 2026-08-14
 
 ### La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz
 
@@ -56,18 +68,8 @@ Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chi
 
 Date: 2026-08-11
 
-### Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes
-
-El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.
-
-Date: 2026-08-11
-
-### China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes
-
-El Banco Popular de China (BPC, banco central) anunció la designación del alemán Deutsche Bank como entidad de compensación para la divisa del país asiático, el yuan, la primera ocasión en la que una institución europea recibe esa autorización, que le permitirá ser “puente” con los mercados chinos. Seguir leyendo.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [Así vuela el “coche volador” de China: cuatro hélices y un piloto de pie](https://www.larazon.es/actualidad/asi-vuela-coche-volador-china-cuatro-helices-piloto-pie_202608146a7f447371b42a0b5def4b84.html?utm_source=lootura.com) — 2026-08-14T16:38:11.000Z
+- [EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones](https://www.larazon.es/tecnologia-consumo/ee-uu-taiwan-preparan-drones-submarinos-autonomos-frente-presion-china-acuerdo-busca-vigilar-estrecho-exponer-tripulaciones_202608146a7eb7a271b42a0b5dee6caa.html?utm_source=lootura.com) — 2026-08-14T20:00:00.000Z
+- [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z

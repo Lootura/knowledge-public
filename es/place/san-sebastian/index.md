@@ -3,10 +3,16 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro
+
+La 74ª edición del Festival de San Sebastián suma seis nuevos largometrajes a su Sección Oficial , una selección que mezcla cine de autor, primeras obras y nombres ya consolidados. Las películas de Fred Cavayé , Jesse Eisenberg , Amanda Kernell y Gabriel Martins , junto a los debuts de Ah Biao y Tony Vahl , competirán.
+
+Date: 2026-08-14
 
 ### Los técnicos se movilizan hoy en Donostia para pedir su primer convenio
 
@@ -62,12 +68,7 @@ El Ayuntamiento destinará hasta medio millón de euros al programa de Acción S
 
 Date: 2026-08-11
 
-### Tamarit de Valencia busca «sorprender» al público donostiarra
-
-Será la segunda participación en Donostia de la compañía fundada en 2018.
-
-Date: 2026-08-10
-
 ## Fuentes
 
 - [Los técnicos se movilizan hoy en Donostia para pedir su primer convenio](https://www.diariovasco.com/culturas/tecnicos-movilizan-hoy-donostia-pedir-primer-convenio-20260814001823-nt_amp.html?utm_source=lootura.com) — 2026-08-13T22:18:23.000Z
+- [El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro](https://www.larazon.es/pais-vasco/festival-san-sebastian-incorpora-seis-nuevas-peliculas-seccion-oficial-que-competiran-concha-oro-b30m_202608146a7f73cd71b42a0b5def8d6d.html?utm_source=lootura.com) — 2026-08-14T20:00:13.000Z

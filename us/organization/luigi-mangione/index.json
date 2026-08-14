@@ -8,16 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.json",
   "description": "Follow Luigi Mangione, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "Luigi Nicholas Mangione"
   ],
   "changes": [
-    {
-      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
-      "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.",
-      "date": "2026-08-14"
-    },
     {
       "title": "Mangione may reach a plea deal in his federal case. Here's what it means for his state charges",
       "summary": "Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson, is expected in court on Friday for a special hearing that could include a potential plea deal on federal stalking charges. Tom Hanson has more.",
@@ -44,9 +39,19 @@
       "date": "2026-08-14"
     },
     {
+      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
+      "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "Luigi Mangione to appear in court for expected guilty plea in killing of UnitedHealthcare CEO",
       "summary": "Luigi Mangione is scheduled to be in federal court Friday for a hearing at which he's expected to plead guilty in connection with the 2024 killing of UnitedHealthcare CEO Brian Thompson, according to a person familiar with the matter.",
       "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Luigi Mangione first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
     },
     {
       "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
@@ -56,11 +61,6 @@
     {
       "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
       "summary": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Luigi Mangione first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
     }
   ],
@@ -80,13 +80,7 @@
     {
       "title": "Luigi Mangione pleads guilty in federal case, admits shooting UnitedHealthcare CEO Brian Thompson",
       "url": "https://www.cbsnews.com/newyork/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:50:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
-      "url": "https://www.cbsnews.com/newyork/news/luigi-mangione-possible-federal-plea-deal/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T03:17:56.000Z",
+      "publishedAt": "2026-08-14T20:24:41.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -100,25 +94,7 @@
       "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-guilty-plea-federal-court-case-ceo-shooting-rcna592421?utm_source=lootura.com",
       "publishedAt": "2026-08-14T09:05:40.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:29:15.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Luigi Mangione to appear in court for expected guilty plea in killing of UnitedHealthcare CEO",
-      "url": "https://www.pbs.org/newshour/nation/luigi-mangione-to-appear-in-court-for-expected-guilty-plea-in-killing-of-unitedhealthcare-ceo?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T15:07:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:19:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 9
+  "evidenceCount": 5
 }

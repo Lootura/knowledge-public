@@ -3,10 +3,16 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-07-20T14:00:22.171Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
+
+El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
+
+Date: 2026-08-14
 
 ### Condenado a prisión un exconsejero andaluz al que indultó el Tribunal Constitucional en el caso de los ERE por otro asunto de corrupción
 
@@ -34,4 +40,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T18:24:56.000Z

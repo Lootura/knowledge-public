@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/wall-street/index.json",
   "description": "Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-05T14:02:45.741Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
     {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
-      "date": "2026-08-05"
+      "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+      "summary": "The S&P 500 is in position for a rare fourth year of consecutive annual gains. Risks are rising, our columnist says, yet Wall Street is doubling down.",
+      "date": "2026-08-14"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Wall Street first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
       "date": "2026-08-05"
     },
     {
@@ -29,6 +34,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+      "url": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T13:00:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil
+
+Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo de la jornada de este viernes todavía continúa recibiendo per.
+
+Date: 2026-08-14
+
+### Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos
+
+El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de prensa, la Benemérita ha señalado que la UPRONA de la Guardia.
+
+Date: 2026-08-14
 
 ### Hallan a un ciclista muerto en la cuneta de la N-5 en el término municipal de Jaraicejo (Cáceres)
 
@@ -56,18 +68,7 @@ Un total de 15 personas, entre ellas un agente de la Guardia Civil, han sido det
 
 Date: 2026-08-10
 
-### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
-
-Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
-
-Date: 2026-08-10
-
-### Más de 33.600 policías para el eclipse: «Tememos que la gente se pare en plena carretera»
-
-Interior ha activado un amplio operativo de seguridad para coordinar a las comunidades ante la previsión de más de dos millones de desplazamientos en torno al eclipse. Los efectivos policiales superan los 33.600 agentes; con mucho peso de la Guardia Civil (24.200), dados los riesgos en zonas rurales, y 2.500 efectivos.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil](https://www.abc.es/espana/extremadura/rave-ilegal-concentra-3000-personas-jueves-bajo-20260814195156-nt.html?utm_source=lootura.com) — 2026-08-14T17:51:56.000Z
+- [Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos](https://theobjective.com/sociedad/suceso/2026-08-14/ingresa-prision-zuera-presunto-autor-incendio-penas-riglos/?utm_source=lootura.com) — 2026-08-14T18:49:28.000Z

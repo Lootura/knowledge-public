@@ -70,6 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)](https://www.larazon.es/cataluna/bomberos-dan-estabilizado-incendio-collserola-barcelona_202608146a7f43a571b42a0b5def4a05.html?utm_source=lootura.com) — 2026-08-14T16:34:46.000Z
-- [Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización](https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html?utm_source=lootura.com) — 2026-08-14T15:00:38.000Z
-- [Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu](https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html?utm_source=lootura.com) — 2026-08-14T14:13:28.000Z
+No public source links.

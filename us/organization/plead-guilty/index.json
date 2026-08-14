@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/plead-guilty/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/plead-guilty/index.json",
   "description": "Follow Plead Guilty, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-08-14T20:28:29.024Z",
   "aliases": [],
   "changes": [
     {
@@ -28,13 +28,7 @@
       "url": "https://www.today.com/video/luigi-mangione-to-plead-guilty-in-federal-case-what-to-expect-268304453558?utm_source=lootura.com",
       "publishedAt": "2026-08-14T11:27:41.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:19:28.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

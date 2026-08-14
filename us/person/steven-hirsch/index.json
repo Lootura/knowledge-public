@@ -8,8 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/steven-hirsch/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/steven-hirsch/index.json",
   "description": "Follow Steven Hirsch, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
-  "aliases": [],
+  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "aliases": [
+    "Hirsch",
+    "Steven"
+  ],
   "changes": [
     {
       "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
@@ -17,23 +20,17 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-      "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial. (Image credit: Steven Hirsch).",
+      "title": "Discovered by Atlas",
+      "summary": "Steven Hirsch first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Steven Hirsch first entered the public knowledge record with source-backed evidence.",
+      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
+      "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial. (Image credit: Steven Hirsch).",
       "date": "2026-08-13"
     }
   ],
   "sources": [
-    {
-      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:29:15.000Z",
-      "sourceId": "lootura-us-npr"
-    },
     {
       "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
       "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea?utm_source=lootura.com",
@@ -41,5 +38,5 @@
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

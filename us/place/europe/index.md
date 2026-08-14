@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### France's top court blocks under-15 social media ban, citing constitutional freedoms
+
+France last month became the first country in the European Union to pass a blanket ban on the platforms amid rising worldwide concerns about the harmful effects of digital content on kids.
+
+Date: 2026-08-14
 
 ### More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon
 
@@ -62,16 +68,7 @@ Britain, like France, is experiencing its fifth heat wave of the year, with the 
 
 Date: 2026-08-13
 
-### Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.
-
-A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
-- [US could exhaust domestic phosphorus within 40 years, but waste offers reserves](https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html?utm_source=lootura.com) — 2026-08-14T15:40:04.000Z
-- [Heat Is Hammering Europe, Again. Here’s What That Looks Like.](https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html?utm_source=lootura.com) — 2026-08-14T15:33:45.000Z
-- [More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon](https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html?utm_source=lootura.com) — 2026-08-14T12:41:10.000Z
-- [As Europe Gets Hotter, Its Transportation Systems Struggle to Cope](https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html?utm_source=lootura.com) — 2026-08-14T16:23:27.000Z
+- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
+- [France's top court blocks under-15 social media ban, citing constitutional freedoms](https://www.pbs.org/newshour/world/frances-top-court-blocks-under-15-social-media-ban-citing-constitutional-freedoms?utm_source=lootura.com) — 2026-08-14T18:33:06.000Z

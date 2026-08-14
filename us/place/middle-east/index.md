@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T20:28:29.024Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
+
+The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
+
+Date: 2026-08-14
+
+### Trump dismisses concerns from families about grim conditions aboard USS Lincoln
+
+President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.
+
+Date: 2026-08-14
 
 ### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
 
@@ -56,18 +68,7 @@ Despite wars ranging across the Middle East, more than 20 million Shia pilgrims 
 
 Date: 2026-08-10
 
-### Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news
-
-Here’s a look at developments across the Middle East.
-
-Date: 2026-08-09
-
-### How Iran's 'Axis of Resistance' has shaped the war
-
-NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
+- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z

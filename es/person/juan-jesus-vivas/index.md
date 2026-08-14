@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta](https://theobjective.com/espana/politica/2026-08-14/pp-vivas-derecho-asilo-ceuta/?utm_source=lootura.com) — 2026-08-14T11:42:54.000Z
+No public source links.

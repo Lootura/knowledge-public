@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares
+
+Más de un millar de personas han sido atendidas entre las distintas comunidades autónomas, la mayoría por dolencias oculares, en las primeras 48 horas tras el eclipse total de Sol que sumió este miércoles a más de la mitad de España en una profunda e histórica oscuridad. Según los datos recopilados por Europa Press, a.
+
+Date: 2026-08-14
 
 ### Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio
 
@@ -62,12 +68,6 @@ El Govern ha decidido cesar a su hasta ahora directora general de Costas y Litor
 
 Date: 2026-08-06
 
-### El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes
-
-El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares](https://theobjective.com/espana/2026-08-14/mas-millar-personas-atendida-eclipse-mayoria-dolencias-oculares/?utm_source=lootura.com) — 2026-08-14T18:07:43.000Z

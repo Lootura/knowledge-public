@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-08-14T20:28:04.670Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "summary": "La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno",
       "summary": "El grupo confederal pide mantener el calendario de cierre acordado y lamenta seguir un \"camino irresponsable\": \"No podemos seguir el camino de la derecha y la extrema derecha\" El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2030 por “el conflicto en Oriente Medio” Sumar ha rechazado la prórro.",
@@ -65,13 +70,15 @@
       "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
       "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
-      "summary": "El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
+      "url": "https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:39:41.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

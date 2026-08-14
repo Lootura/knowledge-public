@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T17:06:34.844Z",
+  "generatedAt": "2026-08-14T20:46:38.810Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|140|1786726257847",
+    "signature": "1.18.0|141|1786739309024",
     "version": "1.18.0",
-    "build": 140,
-    "latestEntityUpdatedAt": "2026-08-14T16:50:57.847Z"
+    "build": 141,
+    "latestEntityUpdatedAt": "2026-08-14T20:28:29.024Z"
   },
   "atlas": {
     "hero": {
@@ -20,23 +20,36 @@
       "title": "Luigi Mangione pleads guilty in federal case, admits shooting UnitedHealthcare CEO Brian Thompson",
       "url": "https://atlas.lootura.com/us/organization/luigi-mangione",
       "path": "/us/organization/luigi-mangione",
-      "updatedAt": "2026-08-14T16:50:57.847Z",
-      "score": 1744,
+      "updatedAt": "2026-08-14T20:28:29.024Z",
+      "score": 1717,
       "sourceCount": 9,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-abraham-lincoln",
+        "name": "Abraham Lincoln",
+        "type": "person",
+        "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
+        "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
+        "path": "/us/person/abraham-lincoln",
+        "updatedAt": "2026-08-14T20:28:29.024Z",
+        "score": 1651,
+        "sourceCount": 13,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+        "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-14T16:50:57.847Z",
-        "score": 1673,
-        "sourceCount": 756,
+        "updatedAt": "2026-08-14T20:28:29.024Z",
+        "score": 1651,
+        "sourceCount": 760,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,39 +60,26 @@
         "title": "Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-14T16:50:57.847Z",
-        "score": 1649,
-        "sourceCount": 772,
+        "updatedAt": "2026-08-14T20:28:29.024Z",
+        "score": 1651,
+        "sourceCount": 776,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-08-14T16:50:57.847Z",
-        "score": 1646,
-        "sourceCount": 134,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-steven-hirsch",
-        "name": "Steven Hirsch",
-        "type": "person",
-        "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-        "url": "https://atlas.lootura.com/us/person/steven-hirsch",
-        "path": "/us/person/steven-hirsch",
-        "updatedAt": "2026-08-14T16:50:57.847Z",
-        "score": 1623,
-        "sourceCount": 2,
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-08-14T20:28:29.024Z",
+        "score": 1648,
+        "sourceCount": 404,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 158
+    "publicEntityCount": 159
   }
 }

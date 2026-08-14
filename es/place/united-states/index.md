@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-08-14T20:28:04.670Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare
+
+Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.
+
+Date: 2026-08-14
+
+### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
+
+El hijo del expresidente mexicano Andrés Manuel López Obrador ha denunciado que las autoridades de Estados Unidos le han denegado la entrada al país por.
+
+Date: 2026-08-14
+
+### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
+
+La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
+
+Date: 2026-08-14
 
 ### Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio
 
@@ -20,21 +38,9 @@ Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis di
 
 Date: 2026-08-14
 
-### Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare
-
-Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.
-
-Date: 2026-08-14
-
 ### EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta
 
 El Departamento de Estado de Estados Unidos, encabezado por Marco Rubio, ha elevado el nivel de alerta en sus recomendaciones para los ciudadanos estadounidenses que tengan previsto viajar a España. En un mapa interactivo que puede consultarse a través de la web del departamento , el aviso de viaje para España incluye.
-
-Date: 2026-08-14
-
-### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
-
-El hijo del expresidente mexicano Andrés Manuel López Obrador ha denunciado que las autoridades de Estados Unidos le han denegado la entrada al país por.
 
 Date: 2026-08-14
 
@@ -62,16 +68,8 @@ La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consec
 
 Date: 2026-08-13
 
-### Fiódor Dostoievski, histórico escritor ruso: “Colón no fue feliz al momento en que descubrió América, sino mientras la descubría”
-
-Fiódor Dostoievski (Moscú, 11 de noviembre de 1821-San Petersburgo, 9 de febrero de 1881) dejó en su día una reflexión sobre Cristóbal Colón que en los últimos tiempos vienen recogiendo muchos medios y que pone en valor el gran descubrimiento protagonizado en 1492 por el aventurero español. Además de ser el escritor má.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare](https://www.abc.es/internacional/luigi-mangione-declara-culpable-asesinato-ceo-unitedhealthcare-20260814180244-nt.html?utm_source=lootura.com) — 2026-08-14T16:31:18.000Z
-- [Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio](https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
-- [EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta](https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-14T13:10:32.000Z
+- [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z
 - [EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»](https://theobjective.com/internacional/2026-08-14/deniegan-entrada-eeuu-hijo-amlo-injerencia-politica-mexicana/?amp=&utm_source=lootura.com) — 2026-08-14T16:35:30.000Z
-- [EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles](https://theobjective.com/internacional/2026-08-14/eeuu-apoyo-total-japon-rusia-kuriles/?amp=&utm_source=lootura.com) — 2026-08-14T12:33:29.000Z
