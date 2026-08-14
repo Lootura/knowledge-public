@@ -3,10 +3,16 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
+
+El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
+
+Date: 2026-08-14
 
 ### Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia
 
@@ -14,15 +20,15 @@ El Gobierno sigue defendiendo la limpieza de la operación, pero El Debate lleva
 
 Date: 2026-08-14
 
-### Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja
-
-Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.
-
-Date: 2026-08-13
-
 ### Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo
 
 Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...
+
+Date: 2026-08-13
+
+### Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja
+
+Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.
 
 Date: 2026-08-13
 
@@ -62,14 +68,7 @@ El juez ha decretado este jueves prisión para los dos detenidos por la muerte d
 
 Date: 2026-08-13
 
-### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
-
-La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia](https://www.eldebate.com/espana/20260814/sanchez-intenta-esconder-supremo-expediente-plus-ultra-mientras-presume-transparencia_449264.html?utm_source=lootura.com) — 2026-08-14T02:30:00.000Z
+- [El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"](https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com) — 2026-08-14T08:47:00.000Z
 - [Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo](https://amp.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html?utm_source=lootura.com) — 2026-08-13T20:42:58.000Z
-- [Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja](https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com) — 2026-08-13T15:55:24.000Z

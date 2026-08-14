@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Funding milestone detected
+
+“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build "something that will annoy Elon Musk," and it's crowdfunding the project with its usual flavor of vulgarity. Th.
+
+Date: 2026-08-14
 
 ### Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument?utm_source=lootura.com) — 2026-08-14T08:40:13.000Z

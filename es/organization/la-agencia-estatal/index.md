@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Una DANA en pleno verano: provocará tormentas intensas y una bajada "notable" de temperaturas](https://www.20minutos.es/nacional/cambio-tiempo-espana-llegada-una-dana-provocara-tormentas-intensas-una-bajada-notable-las-temperaturas_7025616_0.html?utm_source=lootura.com) — 2026-08-14T05:12:45.000Z
-- [La AEMET confirma que una vaguada traerá tormentas con granizo en varias zonas de España, mientras el calor rozará los 41 °C en el interior peninsular](https://www.larazon.es/el-tiempo/aemet-confirma-que-vaguada-traera-tormentas-granizo-varias-zonas-espana-mientras-calor-rozara-41-interior-peninsular-b50m_202608146a7deb48a5690f047377fd86.html?utm_source=lootura.com) — 2026-08-14T05:15:13.000Z
+No public source links.

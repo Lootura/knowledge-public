@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz
+
+Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.
+
+Date: 2026-08-14
 
 ### China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5
 
@@ -62,12 +68,6 @@ El Banco Popular de China (BPC, banco central) anunció la designación del alem
 
 Date: 2026-08-11
 
-### La disuasión nuclear de China: el as bajo la manga para dominar Asia-Pacífico
-
-Pekín pretende apuntalar su programa para asegurarse una futura anexión de Taiwán y sus otras reclamaciones territoriales. El objetivo inmediato es romper las alianzas de Estados Unidos con países vecinos y, llegado un conflicto, que nadie pueda hacerle frente. Sin embargo, también alimenta la espiral armamentista a ni.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz](https://okdiario.com/ciencia/ciencia-china-sobrepasa-leyes-naturales-crean-pintura-coches-ultranegra-que-absorbe-999-luz-19114723/amp?utm_source=lootura.com) — 2026-08-14T09:00:14.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "summary": "Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...",
+      "date": "2026-08-14"
+    },
     {
       "title": "Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior",
       "summary": "La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.",
@@ -59,13 +64,15 @@
       "title": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
       "summary": "El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada",
-      "summary": "Una nueva evaluación actualiza los pronósticos anteriores de que el líder ruso no provocaría a la Alianza durante la guerra de Ucrania Leer.",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
+      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:06:03.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

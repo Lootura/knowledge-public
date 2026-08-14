@@ -3,7 +3,7 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-12
 ## Fuentes
 
 - [Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste](https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com) — 2026-08-14T05:20:59.000Z
-- [La crisis de la "españolísima" Ceuta](https://www.expansion.com/economia/2026/08/14/6a7e030c468aebe3058b4576.html?utm_source=lootura.com) — 2026-08-13T23:59:09.000Z

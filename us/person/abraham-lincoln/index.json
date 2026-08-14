@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -29,9 +29,9 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
-      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
-      "date": "2026-08-13"
+      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano).",
+      "date": "2026-08-14"
     },
     {
       "title": "Discovered by Atlas",
@@ -54,6 +54,11 @@
       "date": "2026-08-13"
     },
     {
+      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
+      "date": "2026-08-13"
+    },
+    {
       "title": "Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln",
       "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been ‘completely misrepresented’ The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln “completely misr.",
       "date": "2026-08-13"
@@ -64,12 +69,6 @@
       "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
       "url": "https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com",
       "publishedAt": "2026-08-14T01:37:19.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
-      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:17:33.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -89,6 +88,12 @@
       "url": "https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com",
       "publishedAt": "2026-08-13T17:37:30.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T06:31:29.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",

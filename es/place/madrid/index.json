@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,16 @@
     {
       "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
       "summary": "Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»",
+      "summary": "Eva Isanta ha decidido dar un paso al frente y pronunciarse por primera vez sobre la situación que atraviesa Ceuta , ciudad con la que mantiene un vínculo familiar y emocional muy estrecho. La actriz, que vive en Madrid desde los cinco años, recuerda con orgullo sus raíces caballas y reconoce que llevaba días planteánd.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Simeone no se lleva a Julián Álvarez a Marsella para el último amistoso del Atlético",
+      "summary": "Julián Álvarez no ha viajado con el Atlético de Madrid a Francia para jugar el último partido amistoso de pretemporada contra el Olympique de Marsella . Simeone no convoca al argentino en medio de la incertidumbre en torno a su futuro, aunque la decisión es lógica, ya que, al igual que Álex Baena y Marcos Llorente , fu.",
       "date": "2026-08-14"
     },
     {
@@ -50,16 +60,6 @@
       "title": "Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes",
       "summary": "Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados",
-      "summary": "La Policía Nacional ha asestado un golpe a la producción de cocaína en España con la detención de 23 personas en diferentes provincias, además de otras 4 en Australia, y el desmantelamiento de cuatro laboratorios clandestinos en fincas rústicas y domicilios en ciudades de Madrid, Toledo y Badajoz. Una operación con la.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’",
-      "summary": "La familia Pombo tiene varias casas distribuidas por distintos rincones de España. El campo-base tanto de María como de Marta y de Lucía, y sus parejas y familia, está en Madrid. Allí la pequeña de las Pombo se compró una espectacular casa hace un par de años en un barrio a las afueras de la capital. Mientras tanto, ta.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -80,7 +80,19 @@
       "url": "https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»",
+      "url": "https://okdiario.com/cool/famosos/eva-isanta-corazon-encogido-pronuncia-primera-vez-sobre-lo-sucedido-ceuta-tierra-siento-dolor-19179500?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:30:28.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Simeone no se lleva a Julián Álvarez a Marsella para el último amistoso del Atlético",
+      "url": "https://okdiario.com/deportes/simeone-no-lleva-julian-alvarez-marsella-ultimo-amistoso-del-atletico-19180133?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:43:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

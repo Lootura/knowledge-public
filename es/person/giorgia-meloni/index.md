@@ -3,10 +3,28 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### Meloni insta a "extremar" la vigilancia ante una posible nueva llegada masiva de migrantes a Ceuta este sábado
+
+La primera ministra de Italia , Giorgia Meloni , ha insistido en que su país seguirá "extremando" la vigilancia de cara a una supuesta llegada masiva de migrantes a la ciudad autónoma de Ceuta este próximo sábado e insistido en que la "gran mayoría" de los países europeos comparte las drásticas medidas adoptadas por su.
+
+Date: 2026-08-14
+
+### Meloni insiste en "extremar" la vigilancia de cara a la supuesta avalancha de mañana en Ceuta
+
+La primera ministra de Italia, Giorgia Meloni, ha insistido en que su país seguirá "extremando" la vigilancia de cara a una supuesta llegada masiva de migrantes a la ciudad autónoma de Ceuta este próximo sábado e insistido en que la "gran mayoría" de los países europeos comparte las drásticas medidas adoptadas por su G.
+
+Date: 2026-08-14
+
+### Meloni insiste en «extremar» la vigilancia de cara a otra posible invasión en Ceuta este sábado
+
+La primera ministra de Italia, Giorgia Meloni , ha insistido en que su país seguirá «extremando» la vigilancia de cara a una supuesta llegada masiva de migrantes a la ciudad autónoma de Ceuta este próximo sábado e insistido en que la «gran mayoría» de los países europeos comparte las drásticas medidas adoptadas por su.
+
+Date: 2026-08-14
 
 ### La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta
 
@@ -46,4 +64,6 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Meloni insta a "extremar" la vigilancia ante una posible nueva llegada masiva de migrantes a Ceuta este sábado](https://www.20minutos.es/internacional/meloni-extremara-vigilancia-ante-una-posible-nueva-llegada-masiva-migrantes-ceuta-este-sabado_7025712_0.html?utm_source=lootura.com) — 2026-08-14T08:32:03.000Z
+- [Meloni insiste en "extremar" la vigilancia de cara a la supuesta avalancha de mañana en Ceuta](https://www.larazon.es/espana/meloni-insiste-extremar-vigilancia-cara-supuesta-avalancha-manana-ceuta_202608146a7ed687a046ad6ebcb0a48f.html?utm_source=lootura.com) — 2026-08-14T08:49:34.000Z
+- [Meloni insiste en «extremar» la vigilancia de cara a otra posible invasión en Ceuta este sábado](https://theobjective.com/espana/politica/2026-08-14/meloni-insiste-extremar-vigilancia-ceuta/?utm_source=lootura.com) — 2026-08-14T08:41:16.000Z

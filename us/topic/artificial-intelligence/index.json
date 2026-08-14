@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,11 @@
     {
       "title": "AI isn’t ready to research itself",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Organs age at different speeds: A blood test might soon tell which ones",
+      "summary": "AI-based \"tissue clocks\" can estimate the biological age of human organs from histological images, researchers at the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences and the Ludwig Boltzmann Institute for Network Medicine (LBI-NetMed) at the University of Vienna showed. By analyzing more.",
       "date": "2026-08-14"
     },
     {
@@ -71,11 +76,6 @@
       "title": "AI chatbots are offering financial advice. Should you trust them?",
       "summary": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Agentic profiles for effective AI governance",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -86,9 +86,15 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Organs age at different speeds: A blood test might soon tell which ones",
+      "url": "https://medicalxpress.com/news/2026-08-age-blood.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:00:03.000Z",
+      "sourceId": "lootura-us-medical-xpress"
+    },
+    {
       "title": "AI isn’t ready to research itself",
       "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:37:03.858Z",
+      "publishedAt": "2026-08-14T09:05:00.980Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -98,5 +104,5 @@
       "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

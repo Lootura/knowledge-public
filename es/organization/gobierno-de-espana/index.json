@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T13:03:33.343Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años",
+      "summary": "El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.",
+      "date": "2026-08-14"
+    },
     {
       "title": "El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle",
       "summary": "El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.",
@@ -58,13 +63,15 @@
       "title": "El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»",
       "summary": "El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Sánchez y su banda mora",
-      "summary": "El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años",
+      "url": "https://theobjective.com/espana/2026-08-14/afganos-espana-retorno-taliban-pais-cinco-anos/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:15:29.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

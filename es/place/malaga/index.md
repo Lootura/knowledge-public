@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella
+
+La Asociación Trans de Andalucía-Sylvia Rivera (ATA) ha presentado tres escritos ante instancias judiciales y del Gobierno para exigir que el asesinato de Franyel, mujer trans 35 años asesinada por su pareja el pasado domingo en San Pedro Alcántara, núcleo de población de Marbella (Málaga), sea reconocida como víctima.
+
+Date: 2026-08-14
 
 ### Muere un joven de 25 años tras ser apuñalado en una vivienda en Mijas (Málaga)
 
@@ -62,12 +68,6 @@ Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar d
 
 Date: 2026-08-08
 
-### Interrumpida la circulación de la C-2 de Málaga tras golpear un tren una catenaria
-
-La línea C-2 del Cercanías de Málaga que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga y Sevilla haya golpeado una catenaría desprendida por una incidencia en obras programadas. En este sentido.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella](https://www.larazon.es/andalucia/malaga/asociacion-trans-lleva-justicia-gobierno-caso-asesinada-marbella_202608146a7ed725a5690f047379228b.html?utm_source=lootura.com) — 2026-08-14T08:51:49.000Z

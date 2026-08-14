@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,18 +18,23 @@
   ],
   "changes": [
     {
+      "title": "El PP califica la prórroga de la central de Almaraz como un \"parche a una gestión ideologizada de Sánchez\"",
+      "summary": "El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un \" parche a la gestión ideologizada de Sánchez \". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el \" reconocimiento del fracaso\" de la \"política energética\" del Gobierno , según fuentes del partido, \"cuyas co.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia",
       "summary": "El Gobierno sigue defendiendo la limpieza de la operación, pero El Debate lleva años pleiteando contra la negativa de Sánchez a hacer público el r...",
       "date": "2026-08-14"
     },
     {
-      "title": "Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja",
-      "summary": "Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.",
+      "title": "Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo",
+      "summary": "Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...",
       "date": "2026-08-13"
     },
     {
-      "title": "Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo",
-      "summary": "Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...",
+      "title": "Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja",
+      "summary": "Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.",
       "date": "2026-08-13"
     },
     {
@@ -61,32 +66,21 @@
       "title": "Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)",
       "summary": "El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP",
-      "summary": "La ministra de Defensa se pone a disposición de la Cámara Alta para acudir \"en el período ordinario de sesiones\" y excusa su ausencia el día 18 porque necesita \"más tiempo para prepararla con rigor\" y el PP responde que Sánchez ha \"enjaulado\" a quien tildó de \"pájara\" Margarita Robles se desmarca de la estrategia de Mo.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia",
-      "url": "https://www.eldebate.com/espana/20260814/sanchez-intenta-esconder-supremo-expediente-plus-ultra-mientras-presume-transparencia_449264.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T02:30:00.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "El PP califica la prórroga de la central de Almaraz como un \"parche a una gestión ideologizada de Sánchez\"",
+      "url": "https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:47:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo",
       "url": "https://amp.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T20:42:58.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja",
-      "url": "https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:55:24.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

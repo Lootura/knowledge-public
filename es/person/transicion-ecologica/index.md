@@ -3,10 +3,28 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
+
+Date: 2026-08-14
+
+### ¿Quién ha disparado a Toñi? Investigan las heridas de la orca más veterana del Estrecho
+
+Cada vez es más común avistar orcas en el Estrecho de Gibraltar y el Golfo de Cádiz , pero lo que no es tan habitual (por suerte) es que esas orcas tengan marcas que empujan a pensar que pueden ser por disparos. Es lo que investiga el Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) tras observar.
+
+Date: 2026-08-14
+
+### El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
+
+Date: 2026-08-14
 
 ### Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava
 
@@ -50,12 +68,9 @@ La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Re
 
 Date: 2026-08-09
 
-### El Gobierno pide a Italia que "reaccione" y asegura que "ninguna persona ha llegado de Ceuta a la Península"
-
-La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, espera que Italia "reaccione" y que tenga "claro" que el espacio Schengen está garantizado, sin haber sido violado por ningún inmigrante llegado desde Ceuta. "No ha habido ninguna persona que haya llegado a la Pe.
-
-Date: 2026-08-09
-
 ## Fuentes
 
+- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
+- [¿Quién ha disparado a Toñi? Investigan las heridas de la orca más veterana del Estrecho](https://www.elconfidencial.com/espana/2026-08-14/orca-gibraltar-disparo-investigacion-1tps_4405932/?utm_source=lootura.com) — 2026-08-14T07:24:00.000Z
 - [Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava](https://www.elcorreo.com/alava/araba/empresa-francesa-lanza-busqueda-hidrogeno-helio-suelo-alava-20260813130106-nt_amp.html?utm_source=lootura.com) — 2026-08-13T11:02:32.000Z
+- [El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030](https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html?utm_source=lootura.com) — 2026-08-14T07:00:15.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Farage denuncia una \"campaña organizada\" para alterar el resultado electoral",
+      "summary": "Clacton (Reino Unido), 14 ago (EFE).- El líder del partido británico populista de derecha Reform UK,...",
+      "date": "2026-08-14"
+    },
     {
       "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
       "summary": "Uber mantiene una batalla contra las agencias de recaudación de impuestos de varios de los países en los que opera. En España, la guerra de la plataforma de vehículos de turismo con conductor (VTC) con los taxis fue mítica entre 2014 y 2019. Los insultos entre los trabajadores de ambos bandos llegaron a las televisione.",
@@ -67,19 +72,14 @@
       "title": "Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística",
       "summary": "Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Telefónica y su socio en Reino Unido abren la puerta a un ajuste de plantilla en Virgin Media O2",
-      "summary": "Telefónica y su socio Liberty Global han abierto la puerta a acometer un plan de reducción de costes en Virgin Media O2 (VMO2), su operadora conjunta en Reino Unido, que puede incluir un ajuste de plantilla similar al anunciado recientemente por Telefónica en Alemania para 1.100 trabajadores. El consejero delegado de L.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Farage denuncia una \"campaña organizada\" para alterar el resultado electoral",
+      "url": "https://www.abc.es/espana/farage-denuncia-campana-organizada-alterar-resultado-electoral-20260814103935-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:39:39.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

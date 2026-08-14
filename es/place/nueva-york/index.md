@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El vestido que Carrie Bradshaw convirtió en leyenda vuelve a nuestras vidas de la mano de Desigual
+
+La historia de la moda está llena de vestidos que siguen inspirando nuevas versiones décadas después. Es el caso del mítico diseño de periódico de John Galliano para Christian Dior que Carrie Bradshaw convirtió en uno de sus looks más recordados de ‘ Sexo en Nueva York’ . Ahora, en Desigual hemos encontrado un vestido.
+
+Date: 2026-08-14
 
 ### John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?
 
@@ -62,12 +68,6 @@ La anomalía. Por Hervé Le Tellier . Traducción de Pablo Martín Sánchez . Se
 
 Date: 2026-08-06
 
-### Veinticinco estados de EEUU demandan al Gobierno de Trump por la última ronda de aranceles
-
-La querella, en la que participan los fiscales generales de Nueva York, Arizona, California, Colorado, Nueva Jersey y Minesota , entre otros, y los gobernadores de Kentucky y Pensilvania , argumenta que estos gravámenes son ilegales y que aumentarán los precios para consumidores y empresas en todo el país. Seguir leyen.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [El vestido que Carrie Bradshaw convirtió en leyenda vuelve a nuestras vidas de la mano de Desigual](https://www.larazon.es/tendencias-futuro/moda/vestido-carrie-bradshaw-convirtio-leyenda-vuelve-nuestras-vidas-mano-desigual_202608146a7ed31ba5690f0473791ae4.html?utm_source=lootura.com) — 2026-08-14T08:56:43.000Z

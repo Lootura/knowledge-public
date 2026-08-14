@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T16:54:41.422Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. Th.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
       "summary": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their workers. Musk’s $158.",
@@ -42,6 +47,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+      "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:40:13.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

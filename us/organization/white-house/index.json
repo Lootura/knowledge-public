@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,18 @@
   ],
   "changes": [
     {
-      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).",
       "date": "2026-08-14"
     },
     {
-      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).",
+      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
+      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
       "date": "2026-08-14"
     },
     {
@@ -62,11 +67,6 @@
       "title": "Which Trump Officials Joined Him on His Secret Flight Out of Turkey?",
       "summary": "The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Karoline Leavitt to step down as White House press secretary at end of August",
-      "summary": "President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -75,6 +75,12 @@
       "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com",
       "publishedAt": "2026-08-14T02:06:10.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T05:42:35.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "How Trump's construction projects are changing Washington and costing taxpayers",
@@ -86,12 +92,6 @@
       "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
       "url": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com",
       "publishedAt": "2026-08-13T17:46:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
-      "url": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T00:07:50.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],

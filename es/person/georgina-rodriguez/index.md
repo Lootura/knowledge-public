@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El primer look de Georgina Rodríguez tras su boda secreta: blanco nupcial y vaqueros para volver a su día a día](https://www.larazon.es/lifestyle/moda/primer-look-georgina-rodriguez-boda-secreta-blanco-nupcial-vaqueros-volver-dia-dia_202608146a7ea597a5690f047378e5c3.html?utm_source=lootura.com) — 2026-08-14T05:24:08.000Z
+No public source links.

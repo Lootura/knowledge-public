@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio",
+      "summary": "Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca ) ha dado por extinguido en la madrugada de este viernes el incendio forestal declarado el jueves por la tarde en el paraje Camino de la Ermita de Villablanca ( Huelva ), según ha indicado el Plan Infoca en su cuenta de X, consultada por Europa Pres.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Muere Víctor Coyote, músico y fundador de la banda Los Coyotes",
       "summary": "El músico y fundador de la banda Los Coyotes , Víctor Aparicio, conocido como Víctor Coyote ha muerto este jueves a los 68 años, según ha confirmado el sello discográfico en un comunicado recogido por Europa Press . «Una persona y un artista único e irrepetible, de esos seres que nunca miraban hacia atrás y siempre mir.",
@@ -62,13 +67,15 @@
       "title": "El juez prorroga otros seis meses la instrucción del ‘caso Koldo’ al haber diligencias pendientes",
       "summary": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses la instrucción de la causa « al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo ha acordado en un auto, al que ha tenido acceso Europa Press, en el que señala que el pe.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
-      "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio",
+      "url": "https://theobjective.com/sociedad/suceso/2026-08-14/extinguido-incendio-jueves-villablanca-huelva/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:52:48.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

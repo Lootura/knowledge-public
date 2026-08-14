@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### AI isn’t ready to research itself
 
 Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.
+
+Date: 2026-08-14
+
+### Organs age at different speeds: A blood test might soon tell which ones
+
+AI-based "tissue clocks" can estimate the biological age of human organs from histological images, researchers at the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences and the Ludwig Boltzmann Institute for Network Medicine (LBI-NetMed) at the University of Vienna showed. By analyzing more.
 
 Date: 2026-08-14
 
@@ -62,14 +68,9 @@ Experts say AI can get personal finance fundamentals right but may struggle with
 
 Date: 2026-08-12
 
-### Agentic profiles for effective AI governance
-
-Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Acton teen held without bail in murders of mother, brother linked to ChatGPT](https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com) — 2026-08-13T16:24:15.000Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T05:37:03.858Z
+- [Organs age at different speeds: A blood test might soon tell which ones](https://medicalxpress.com/news/2026-08-age-blood.html?utm_source=lootura.com) — 2026-08-14T09:00:03.000Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T09:05:00.980Z
 - [Teens are turning to AI chatbots for emotional support—here's how to keep kids safe](https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html?utm_source=lootura.com) — 2026-08-13T23:40:04.000Z

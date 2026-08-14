@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
+
+Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
+
+Date: 2026-08-14
 
 ### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
 
@@ -62,12 +68,6 @@ El presidente ucraniano ha nombrado a Mykhailo Drapatyi como nuevo comandante en
 
 Date: 2026-07-21
 
-### Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas
-
-El presidente de Ucrania, Volodímir Zelenski , ha anunciado en la noche del martes el relevo al frente del ejército que lucha contra la invasión rusa del país . El hasta ahora jefe de las Fuerzas Armadas, el general Oleksandr Sirski, deja paso a Mijailo Drapaty, que hasta ahora ocupaba también un alto cargo militar. La.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico](https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com) — 2026-08-14T08:06:03.000Z

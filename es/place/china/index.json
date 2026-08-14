@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz",
+      "summary": "Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.",
+      "date": "2026-08-14"
+    },
     {
       "title": "China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5",
       "summary": "Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en China, han desarrollado un avanzado sistema de navegación basado en las estrellas diseñado para guiar misiles hipersónicos cuando las señales de satélite se ven comprometidas o inutilizadas. Esto aborda uno de los puntos más vulnerables: la de.",
@@ -55,13 +60,15 @@
       "title": "China elige a Deutsche Bank como primer banco europeo para procesar operaciones en yuanes",
       "summary": "El Banco Popular de China (BPC, banco central) anunció la designación del alemán Deutsche Bank como entidad de compensación para la divisa del país asiático, el yuan, la primera ocasión en la que una institución europea recibe esa autorización, que le permitirá ser “puente” con los mercados chinos. Seguir leyendo.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "La disuasión nuclear de China: el as bajo la manga para dominar Asia-Pacífico",
-      "summary": "Pekín pretende apuntalar su programa para asegurarse una futura anexión de Taiwán y sus otras reclamaciones territoriales. El objetivo inmediato es romper las alianzas de Estados Unidos con países vecinos y, llegado un conflicto, que nadie pueda hacerle frente. Sin embargo, también alimenta la espiral armamentista a ni.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz",
+      "url": "https://okdiario.com/ciencia/ciencia-china-sobrepasa-leyes-naturales-crean-pintura-coches-ultranegra-que-absorbe-999-luz-19114723/amp?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:00:14.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

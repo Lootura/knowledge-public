@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### 23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026
+
+Las Fiestas de Gràcia 2026 volverán a convertir Barcelona en un escaparate de creatividad vecinal del 15 al 21 de agosto . Un total de 23 calles y plazas competirán este año en el tradicional concurso de decoración con propuestas que viajan de los recuerdos familiares al modernismo, los jardines fantásticos, la cultura.
+
+Date: 2026-08-14
 
 ### Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades
 
@@ -62,14 +68,6 @@ Centenares de personas se han concentrado la tarde de este miércoles en el cast
 
 Date: 2026-08-12
 
-### Cruceristas: cómo ver una ciudad en seis horas y no morir en el intento
-
-Barcelona es el principal puerto de tráfico de cruceros del Mediterráneo, pero muchos de los barcos sólo hacen escala, lo que da al turista poco más de medio día para ver la urbe.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Los controladores aéreos de El Prat advierten: "O Aena se pone las pilas con las torres o habrá más apagones en toda su red"](https://www.elmundo.es/economia/empresas/2026/08/13/6a7d964ae9cf4a395c8b4575.html?utm_source=lootura.com) — 2026-08-13T20:41:58.000Z
-- [Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades](https://www.larazon.es/cataluna/decathlon-abre-tres-nuevas-tiendas-estos-lugares-cataluna-fechas-novedades_202608146a7df95aa046ad6ebcaf95a5.html?utm_source=lootura.com) — 2026-08-14T05:00:18.000Z
-- [AEMET prevé chubascos y nubes altas en Barcelona; ambiente cálido y vientos cambiantes](https://okdiario.com/cataluna/aemet-preve-chubascos-y-nubes-altas-en-barcelona-ambiente-calido-y-vientos-cambiantes-19179140?utm_source=lootura.com) — 2026-08-14T05:28:06.000Z
+- [23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026](https://www.elconfidencial.com/espana/cataluna/2026-08-14/fiestas-gracia-barcelona-el-senor-de-los-anillos_4404438/?utm_source=lootura.com) — 2026-08-14T08:52:00.000Z

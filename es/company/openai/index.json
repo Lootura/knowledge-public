@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "OpenAI y Anthropic en guerra de precios mientras sus rivales chinos en IA ganan terreno",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7ece6e468aeb52568b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:17:53.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

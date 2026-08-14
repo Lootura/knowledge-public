@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026",
+      "summary": "Las Fiestas de Gràcia 2026 volverán a convertir Barcelona en un escaparate de creatividad vecinal del 15 al 21 de agosto . Un total de 23 calles y plazas competirán este año en el tradicional concurso de decoración con propuestas que viajan de los recuerdos familiares al modernismo, los jardines fantásticos, la cultura.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades",
       "summary": "Decathlon abre tres nuevas tiendas en la provincia de Barcelona, en el marco de su estrategia de expansión en este territorio: Decathlon City Consell de Cent (Barcelona) y Decathlon City Splau (Cornellà de Llobregat), ambas en agosto, y Decathlon City Sants (Barcelona), en septiembre. Con estas tres aperturas, Decathlo.",
@@ -65,32 +70,15 @@
       "title": "Cataluña se rinde al eclipse total: “Ya se ve, mamá”",
       "summary": "Centenares de personas se han concentrado la tarde de este miércoles en el castillo de Montjuïc de Barcelona, pero en vez de mirar hacia la ciudad, todas sus miradas se han dirigido hacia el cielo en sentido oeste para observar cómo la luna se iba sobreponiendo poco a poco, hasta cubrirlo casi totalmente, sobre el Sol.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Cruceristas: cómo ver una ciudad en seis horas y no morir en el intento",
-      "summary": "Barcelona es el principal puerto de tráfico de cruceros del Mediterráneo, pero muchos de los barcos sólo hacen escala, lo que da al turista poco más de medio día para ver la urbe.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Los controladores aéreos de El Prat advierten: \"O Aena se pone las pilas con las torres o habrá más apagones en toda su red\"",
-      "url": "https://www.elmundo.es/economia/empresas/2026/08/13/6a7d964ae9cf4a395c8b4575.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:41:58.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades",
-      "url": "https://www.larazon.es/cataluna/decathlon-abre-tres-nuevas-tiendas-estos-lugares-cataluna-fechas-novedades_202608146a7df95aa046ad6ebcaf95a5.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:00:18.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "AEMET prevé chubascos y nubes altas en Barcelona; ambiente cálido y vientos cambiantes",
-      "url": "https://okdiario.com/cataluna/aemet-preve-chubascos-y-nubes-altas-en-barcelona-ambiente-calido-y-vientos-cambiantes-19179140?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:28:06.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-14/fiestas-gracia-barcelona-el-senor-de-los-anillos_4404438/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:52:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por \"la crisis en Oriente Próximo\"",
+      "summary": "El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.",
+      "date": "2026-08-14"
+    },
     {
       "title": "La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética",
       "summary": "Ante la fragilidad de sus reservas de combustible, Canberra busca nuevas fuentes de suministro y estudia la construcción de una tercera refinería de petróleo Leer.",
@@ -60,14 +65,15 @@
       "title": "El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo",
       "summary": "Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Las Bolsas dan un paso atrás con el petróleo al alza",
-      "summary": "Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
+    {
+      "title": "El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por \"la crisis en Oriente Próximo\"",
+      "url": "https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T06:43:32.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética",
       "url": "https://www.elmundo.es/internacional/2026/08/13/6a7c7932e4d4d8812f8b457d.html?utm_source=lootura.com",
@@ -81,5 +87,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

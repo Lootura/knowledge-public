@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE](https://www.elmundo.es/espana/2026/08/13/6a7dde62fc6c833b388b457b.html?utm_source=lootura.com) — 2026-08-13T15:22:04.000Z
+No public source links.

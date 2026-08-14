@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "El PP califica la prórroga de la central de Almaraz como un \"parche a una gestión ideologizada de Sánchez\"",
+      "summary": "El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un \" parche a la gestión ideologizada de Sánchez \". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el \" reconocimiento del fracaso\" de la \"política energética\" del Gobierno , según fuentes del partido, \"cuyas co.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta",
       "summary": "El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...",
@@ -58,26 +63,15 @@
       "title": "Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano",
       "summary": "La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita \"más tiempo\" para preparar su intervención",
-      "summary": "La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita \"más tiempo\" para preparar una intervención \"con un mínimo de rigor y detalle\". Así se lo ha comunicado a.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta",
-      "url": "https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:08:49.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta",
-      "url": "https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:45:21.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El PP califica la prórroga de la central de Almaraz como un \"parche a una gestión ideologizada de Sánchez\"",
+      "url": "https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:47:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

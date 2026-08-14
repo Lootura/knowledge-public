@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/san-pedro-alcantara/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/san-pedro-alcantara/index.json",
   "description": "Sigue la actividad de San Pedro Alcántara en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "San Pedro de Alcantara"
   ],
   "changes": [
     {
-      "title": "Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género",
-      "summary": "Un hombre de 59 años ha sido detenido por la Policía Nacional en Marbella tras un supuesto episodio de violencia de género en el que la mujer ha fallecido , según han informado a EFE fuentes policiales. El crimen se ha producido este lunes en la calle Castilla, en el núcleo de población de San Pedro Alcántara , y el av.",
-      "date": "2026-08-10"
+      "title": "Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella",
+      "summary": "La Asociación Trans de Andalucía-Sylvia Rivera (ATA) ha presentado tres escritos ante instancias judiciales y del Gobierno para exigir que el asesinato de Franyel, mujer trans 35 años asesinada por su pareja el pasado domingo en San Pedro Alcántara, núcleo de población de Marbella (Málaga), sea reconocida como víctima.",
+      "date": "2026-08-14"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "San Pedro Alcántara first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género",
+      "summary": "Un hombre de 59 años ha sido detenido por la Policía Nacional en Marbella tras un supuesto episodio de violencia de género en el que la mujer ha fallecido , según han informado a EFE fuentes policiales. El crimen se ha producido este lunes en la calle Castilla, en el núcleo de población de San Pedro Alcántara , y el av.",
       "date": "2026-08-10"
     },
     {
@@ -34,6 +39,13 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella",
+      "url": "https://www.larazon.es/andalucia/malaga/asociacion-trans-lleva-justicia-gobierno-caso-asesinada-marbella_202608146a7ed725a5690f047379228b.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:51:49.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

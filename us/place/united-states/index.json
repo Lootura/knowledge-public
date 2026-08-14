@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -40,6 +40,11 @@
       "date": "2026-08-14"
     },
     {
+      "title": "Innovation is key to America staying a superpower. But it is missing an essential piece",
+      "summary": "Former Wyoming Republican Sen. Malcolm Wallop once observed, \"I don’t think the only place to fight for freedom is in the halls of Congress.\" The same can be said of innovation. America’s technological leadership is not secured only in research labs or startup incubators. It is also built in factories, machine shops, t.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
       "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
       "date": "2026-08-13"
@@ -47,11 +52,6 @@
     {
       "title": "Record-breaking heat takes mounting toll on the U.S. economy",
       "summary": "Heat waves are dealing a financial blow to businesses and creating hazardous conditions for workers, according to climate experts.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
-      "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).",
       "date": "2026-08-13"
     },
     {
@@ -93,6 +93,12 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Innovation is key to America staying a superpower. But it is missing an essential piece",
+      "url": "https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:00:16.000Z",
+      "sourceId": "lootura-us-fox-news"
+    },
+    {
       "title": "USS Abraham Lincoln to head home amid concerns about living conditions",
       "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com",
       "publishedAt": "2026-08-13T23:12:58.000Z",
@@ -103,12 +109,6 @@
       "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com",
       "publishedAt": "2026-08-13T23:28:41.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Sailors and their families have lives on hold, uncertain if they'll return to Mideast",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
     },
     {
       "title": "AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics",
@@ -147,5 +147,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 17
 }

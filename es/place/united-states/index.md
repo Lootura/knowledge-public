@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio
 
 Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados Unidos, William Taft, en 1910: “Después del duro y agotador trabajo al que uno se somete entre el otoño y la primavera, [esos meses de descanso] son necesarios para poder continuar el trabajo al año siguiente con la energía y la eficacia qu.
+
+Date: 2026-08-14
+
+### Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania
+
+El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.
 
 Date: 2026-08-14
 
@@ -62,13 +68,8 @@ El mercado petrolero se está volviendo a recalentar con la segunda fase de la g
 
 Date: 2026-08-12
 
-### El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo
-
-El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-14T05:02:58.000Z
 - [Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio](https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
+- [Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania](https://theobjective.com/internacional/2026-08-14/rusia-explicaciones-eeuu-entrega-datos-inteligencia-militar-ucrania/?amp=&utm_source=lootura.com) — 2026-08-14T08:59:26.000Z

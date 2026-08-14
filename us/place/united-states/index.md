@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Trump declares 100 percent tariffs on many drones and all aircraft parts
 
 The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.
+
+Date: 2026-08-14
+
+### Innovation is key to America staying a superpower. But it is missing an essential piece
+
+Former Wyoming Republican Sen. Malcolm Wallop once observed, "I don’t think the only place to fight for freedom is in the halls of Congress." The same can be said of innovation. America’s technological leadership is not secured only in research labs or startup incubators. It is also built in factories, machine shops, t.
 
 Date: 2026-08-14
 
@@ -23,12 +29,6 @@ Date: 2026-08-13
 ### Record-breaking heat takes mounting toll on the U.S. economy
 
 Heat waves are dealing a financial blow to businesses and creating hazardous conditions for workers, according to climate experts.
-
-Date: 2026-08-13
-
-### Sailors and their families have lives on hold, uncertain if they'll return to Mideast
-
-Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).
 
 Date: 2026-08-13
 
@@ -71,9 +71,9 @@ Date: 2026-08-13
 ## Sources
 
 - [Record-breaking heat takes mounting toll on the U.S. economy](https://www.cbsnews.com/news/extreme-heat-waves-us-economy-impact/?utm_source=lootura.com) — 2026-08-13T19:27:02.000Z
+- [Innovation is key to America staying a superpower. But it is missing an essential piece](https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece?utm_source=lootura.com) — 2026-08-14T09:00:16.000Z
 - [USS Abraham Lincoln to head home amid concerns about living conditions](https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com) — 2026-08-13T23:12:58.000Z
 - [U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes](https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com) — 2026-08-13T23:28:41.000Z
-- [Sailors and their families have lives on hold, uncertain if they'll return to Mideast](https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z
 - [AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics](https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics?utm_source=lootura.com) — 2026-08-13T21:18:49.000Z
 - [News Wrap: Earthquake death toll in Colombia tops 260](https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com) — 2026-08-13T22:57:36.000Z
 - [Palestinian American family recounts siege of West Bank home by Israeli settlers](https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers?utm_source=lootura.com) — 2026-08-13T22:54:49.000Z

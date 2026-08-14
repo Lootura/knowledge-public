@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
+
+Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
+
+Date: 2026-08-14
 
 ### A partir del miércoles 12 de agosto entra en vigor y la UE lo confirma: los restaurantes de España están obligados a retirar los sobres de monodosis
 
@@ -62,12 +68,6 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-08-12
 
-### La inmigración, asunto de fricción en Europa: dos países piden centros de deportación como el de Albania tras la crisis en Ceuta
-
-La primera ministra de Italia, Giorgia Meloni , es de extrema derecha. Su homóloga de Dinamarca, Mette Frederiksen, es socialdemócrata. Debería notarse, deberían estar lejos, pero las dos están de acuerdo en que la Unión Europea cree más centros de repatriación en terceros países . Es lo que aseguran en el comunicado c.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [A partir del miércoles 12 de agosto entra en vigor y la UE lo confirma: los restaurantes de España están obligados a retirar los sobres de monodosis](https://okdiario.com/economia/partir-del-miercoles-12-agosto-entra-vigor-ue-lo-confirma-restaurantes-espana-estan-obligados-retirar-sobres-monodosis-19174414?utm_source=lootura.com) — 2026-08-14T05:15:21.000Z
+- [Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico](https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com) — 2026-08-14T08:06:03.000Z

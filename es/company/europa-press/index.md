@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio
+
+Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca ) ha dado por extinguido en la madrugada de este viernes el incendio forestal declarado el jueves por la tarde en el paraje Camino de la Ermita de Villablanca ( Huelva ), según ha indicado el Plan Infoca en su cuenta de X, consultada por Europa Pres.
+
+Date: 2026-08-14
 
 ### Muere Víctor Coyote, músico y fundador de la banda Los Coyotes
 
@@ -62,12 +68,6 @@ El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha
 
 Date: 2026-08-05
 
-### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
-
-Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio](https://theobjective.com/sociedad/suceso/2026-08-14/extinguido-incendio-jueves-villablanca-huelva/?utm_source=lootura.com) — 2026-08-14T08:52:48.000Z

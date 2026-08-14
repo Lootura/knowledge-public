@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
+
+Date: 2026-08-14
 
 ### La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética
 
@@ -62,13 +68,8 @@ Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de pa
 
 Date: 2026-08-10
 
-### Las Bolsas dan un paso atrás con el petróleo al alza
-
-Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
 - [La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética](https://www.elmundo.es/internacional/2026/08/13/6a7c7932e4d4d8812f8b457d.html?utm_source=lootura.com) — 2026-08-13T20:42:10.000Z
 - [El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano](https://amp.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html?utm_source=lootura.com) — 2026-08-13T20:41:48.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,13 +22,13 @@
   ],
   "changes": [
     {
-      "title": "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE",
-      "summary": "El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.",
+      "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
+      "summary": "Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».",
       "date": "2026-08-13"
     },
     {
-      "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
-      "summary": "Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».",
+      "title": "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE",
+      "summary": "El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.",
       "date": "2026-08-13"
     },
     {
@@ -78,13 +78,7 @@
       "url": "https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T10:46:37.000Z",
       "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE",
-      "url": "https://www.elmundo.es/espana/2026/08/13/6a7dde62fc6c833b388b457b.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T15:22:04.000Z",
-      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

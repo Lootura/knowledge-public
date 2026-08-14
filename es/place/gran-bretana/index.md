@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Alemania, en casa, sin rival en Doma Clásica](https://www.larazon.es/deportes/alemania-casa-rival-doma-clasica_202608146a7e6c42a5690f047378ac22.html?utm_source=lootura.com) — 2026-08-14T01:15:46.000Z
+No public source links.

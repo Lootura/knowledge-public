@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Selena Gomez and her mom accused of fraud over their mental health startup](https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411?utm_source=lootura.com) — 2026-08-14T00:37:54.000Z
+- [Innovation is key to America staying a superpower. But it is missing an essential piece](https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece?utm_source=lootura.com) — 2026-08-14T09:00:16.000Z

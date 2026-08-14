@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
+
+El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
+
+Date: 2026-08-14
 
 ### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
 
@@ -62,13 +68,6 @@ La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón a
 
 Date: 2026-08-13
 
-### Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención
-
-La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita "más tiempo" para preparar una intervención "con un mínimo de rigor y detalle". Así se lo ha comunicado a.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta](https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com) — 2026-08-13T15:08:49.000Z
-- [El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta](https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com) — 2026-08-13T17:45:21.000Z
+- [El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"](https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com) — 2026-08-14T08:47:00.000Z

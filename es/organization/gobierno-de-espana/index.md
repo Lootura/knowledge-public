@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años
+
+El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.
+
+Date: 2026-08-14
 
 ### El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle
 
@@ -62,12 +68,6 @@ El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario de
 
 Date: 2026-08-10
 
-### Sánchez y su banda mora
-
-El comportamiento del gobierno de España ante la invasión sufrida en Ceuta no ha respondido a los protocolos normales de cualquier país ante una situación equivalente. Esa forma de proceder, fuera de toda norma, convierte al gobierno agredido en sospechoso por su patética respuesta . Únicamente Pedro Sánchez y su banda.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años](https://theobjective.com/espana/2026-08-14/afganos-espana-retorno-taliban-pais-cinco-anos/?utm_source=lootura.com) — 2026-08-14T08:15:29.000Z

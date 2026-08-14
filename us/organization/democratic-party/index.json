@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "Democrats"
   ],
@@ -24,11 +24,6 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
-      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
       "summary": "The newly minted GOP ticket wasted no time before hammering Democrats over fraud. Dozens of people have been convicted of stealing hundreds of millions of dollars meant to provide food, shelter, healthcare and childcare to people in need.",
       "date": "2026-08-13"
@@ -36,6 +31,11 @@
     {
       "title": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
       "summary": "David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism.\" Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
       "date": "2026-08-13"
     },
     {
@@ -78,12 +78,6 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
-      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:17:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
       "url": "https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:40:12.000Z",
@@ -102,5 +96,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

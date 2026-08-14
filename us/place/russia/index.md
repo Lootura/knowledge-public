@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-08-10
 
 - [Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze](https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com) — 2026-08-13T20:27:15.000Z
 - [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
-- [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T22:38:32.000Z

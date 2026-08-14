@@ -3,20 +3,32 @@
 > Sigue la actividad de El Ministerio en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/el-ministerio
 
 ## Cambios recientes
 
-### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
+### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
 
-El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...
+El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
 
-Date: 2026-08-13
+Date: 2026-08-14
+
+### El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
+
+Date: 2026-08-14
 
 ### Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava
 
 El Ministerio para la Transición Ecológica concede a la compañía Mantle8 permisos para explorar estos gases en un área de 1.600 kilómetros cuadrados entre el territorio, Gipuzkoa y Navarra.
+
+Date: 2026-08-13
+
+### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
+
+El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...
 
 Date: 2026-08-13
 
@@ -56,19 +68,8 @@ El Ministerio de Trabajo y Economía Social , a través del Servicio Público de
 
 Date: 2026-08-10
 
-### El Gobierno obligará desde el 17 de octubre a usar el prefijo 400 en las llamadas comerciales
-
-El Ministerio para la Transformación Digital y de la Función Pública ha anunciado que el próximo 17 de octubre entrará en vigor la resolución que establece el prefijo 400 para identificar las llamadas comerciales. El Departamento liderado por Óscar López publicó el pasado mes de abril esta resolución, que establece que.
-
-Date: 2026-08-10
-
-### Defensa cancela los permisos de los militares en Ceuta ante el riesgo de otro asalto masivo
-
-El Ministerio de Defensa ha cancelado todos los permisos de libranza del personal militar desplegado en Ceuta, una medida adoptada ante la posibilidad de un nuevo asalto masivo sobre la ciudad autónoma en los próximos días. Las redes sociales marroquíes están convocando a una nueva acción colectiva para el próximo sába.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
 - [Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava](https://www.elcorreo.com/alava/araba/empresa-francesa-lanza-busqueda-hidrogeno-helio-suelo-alava-20260813130106-nt_amp.html?utm_source=lootura.com) — 2026-08-13T11:02:32.000Z
-- [Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta](https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com) — 2026-08-13T15:08:49.000Z
+- [El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030](https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html?utm_source=lootura.com) — 2026-08-14T07:00:15.000Z

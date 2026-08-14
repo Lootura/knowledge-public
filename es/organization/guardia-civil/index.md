@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Hallan a un ciclista muerto en la cuneta de la N-5 en el término municipal de Jaraicejo (Cáceres)
+
+Hallado sin vida un ciclista en la cuneta de la N-5, a la altura del kilómetro 217, dentro del término municipal de Jaraicejo (Cáceres). El descubrimiento se produjo sobre las 12:10 horas del pasado día 12, cuando la Central 062 de la Guardia Civil recibió un aviso que alertaba de la presencia de una persona aparenteme.
+
+Date: 2026-08-14
 
 ### El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"
 
@@ -62,12 +68,6 @@ Interior ha activado un amplio operativo de seguridad para coordinar a las comun
 
 Date: 2026-08-09
 
-### Así se distribuyen los cerca de 400 guardias civiles desplegados por todo el mundo: a lo largo de 50 países
-
-Alrededor de 400 agentes de la Guardia Civil se encuentran desplegados en cerca de 50 países por todo el mundo, en los que realizan misiones de seguridad y acompañamiento a cuerpos policiales extranjeros, dan protección a embajadas o se integran en organismos internacionales. Esta es una de las funciones más desconocid.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Hallan a un ciclista muerto en la cuneta de la N-5 en el término municipal de Jaraicejo (Cáceres)](https://www.elconfidencial.com/espana/2026-08-14/ciclista-muerto-cuneta-caceres-1tna-1tps_4405937/?utm_source=lootura.com) — 2026-08-14T07:31:00.000Z

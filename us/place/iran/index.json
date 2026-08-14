@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -75,5 +75,5 @@
       "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

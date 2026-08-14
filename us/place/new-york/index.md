@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices](https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html?utm_source=lootura.com) — 2026-08-13T07:00:07.000Z
+No public source links.

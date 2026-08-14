@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.json",
   "description": "Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T09:04:57.004Z",
   "aliases": [
     "Farage",
     "Mr. Brexit",
@@ -16,6 +16,11 @@
     "Nigel"
   ],
   "changes": [
+    {
+      "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+      "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, his costumed main rival, came second with 27 percent, a personal best.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "summary": "Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.",
@@ -46,8 +51,8 @@
     {
       "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
       "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:34:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "publishedAt": "2026-08-14T07:35:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 1

@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [OpenAI y Anthropic en guerra de precios mientras sus rivales chinos en IA ganan terreno](https://www.expansion.com/economia/financial-times/2026/08/14/6a7ece6e468aeb52568b458f.html?utm_source=lootura.com) — 2026-08-14T08:17:53.000Z

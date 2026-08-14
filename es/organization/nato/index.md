@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
+
+Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
+
+Date: 2026-08-14
 
 ### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
 
@@ -62,12 +68,6 @@ El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites d
 
 Date: 2026-08-10
 
-### La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada
-
-Una nueva evaluación actualiza los pronósticos anteriores de que el líder ruso no provocaría a la Alianza durante la guerra de Ucrania Leer.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico](https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com) — 2026-08-14T08:06:03.000Z

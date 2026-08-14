@@ -46,4 +46,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [El lujo internacional encuentra refugio en Girona y la Costa Brava](https://www.expansion.com/directivos/estilo-vida/casas/2026/08/14/6a7db98c468aeb244d8b4581.html?utm_source=lootura.com) — 2026-08-13T22:15:45.000Z
+No public source links.

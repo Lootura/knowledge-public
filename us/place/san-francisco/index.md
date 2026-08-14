@@ -40,4 +40,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier?utm_source=lootura.com) — 2026-08-13T21:53:04.000Z
+No public source links.

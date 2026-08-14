@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -73,13 +73,7 @@
       "url": "https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T05:20:59.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La crisis de la \"españolísima\" Ceuta",
-      "url": "https://www.expansion.com/economia/2026/08/14/6a7e030c468aebe3058b4576.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T23:59:09.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

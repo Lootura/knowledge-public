@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T09:04:36.303Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -45,6 +45,11 @@
     {
       "title": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
       "summary": "Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados Unidos, William Taft, en 1910: “Después del duro y agotador trabajo al que uno se somete entre el otoño y la primavera, [esos meses de descanso] son necesarios para poder continuar el trabajo al año siguiente con la energía y la eficacia qu.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania",
+      "summary": "El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.",
       "date": "2026-08-14"
     },
     {
@@ -86,11 +91,6 @@
       "title": "La caída de reservas anticipa un crudo a 140 dólares en otoño",
       "summary": "El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo",
-      "summary": "El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
@@ -105,7 +105,13 @@
       "url": "https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T03:30:01.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania",
+      "url": "https://theobjective.com/internacional/2026-08-14/rusia-explicaciones-eeuu-entrega-datos-inteligencia-militar-ucrania/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-14T08:59:26.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

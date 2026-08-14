@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T09:04:36.303Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -17,6 +17,18 @@ Date: 2026-08-14
 ### La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”
 
 Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.
+
+Date: 2026-08-14
+
+### Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»
+
+Eva Isanta ha decidido dar un paso al frente y pronunciarse por primera vez sobre la situación que atraviesa Ceuta , ciudad con la que mantiene un vínculo familiar y emocional muy estrecho. La actriz, que vive en Madrid desde los cinco años, recuerda con orgullo sus raíces caballas y reconoce que llevaba días planteánd.
+
+Date: 2026-08-14
+
+### Simeone no se lleva a Julián Álvarez a Marsella para el último amistoso del Atlético
+
+Julián Álvarez no ha viajado con el Atlético de Madrid a Francia para jugar el último partido amistoso de pretemporada contra el Olympique de Marsella . Simeone no convoca al argentino en medio de la incertidumbre en torno a su futuro, aunque la decisión es lógica, ya que, al igual que Álex Baena y Marcos Llorente , fu.
 
 Date: 2026-08-14
 
@@ -56,20 +68,10 @@ Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4,
 
 Date: 2026-08-13
 
-### Golpe a la producción de droga en España: 23 detenidos y cuatro laboratorios desmantelados
-
-La Policía Nacional ha asestado un golpe a la producción de cocaína en España con la detención de 23 personas en diferentes provincias, además de otras 4 en Australia, y el desmantelamiento de cuatro laboratorios clandestinos en fincas rústicas y domicilios en ciudades de Madrid, Toledo y Badajoz. Una operación con la.
-
-Date: 2026-08-13
-
-### Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’
-
-La familia Pombo tiene varias casas distribuidas por distintos rincones de España. El campo-base tanto de María como de Marta y de Lucía, y sus parejas y familia, está en Madrid. Allí la pequeña de las Pombo se compró una espectacular casa hace un par de años en un barrio a las afueras de la capital. Mientras tanto, ta.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-14/cortes-trafico-hoy-zona-centro-madrid-1qrt-1tna_4405473/?utm_source=lootura.com) — 2026-08-14T03:45:00.000Z
 - [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
 - [La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”](https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
+- [Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»](https://okdiario.com/cool/famosos/eva-isanta-corazon-encogido-pronuncia-primera-vez-sobre-lo-sucedido-ceuta-tierra-siento-dolor-19179500?utm_source=lootura.com) — 2026-08-14T08:30:28.000Z
+- [Simeone no se lleva a Julián Álvarez a Marsella para el último amistoso del Atlético](https://okdiario.com/deportes/simeone-no-lleva-julian-alvarez-marsella-ultimo-amistoso-del-atletico-19180133?utm_source=lootura.com) — 2026-08-14T08:43:35.000Z

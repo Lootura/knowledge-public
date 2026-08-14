@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T09:04:57.004Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Evidence of bird strike after man nearly sucked out of plane window, NTSB says
 
 A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found.
+
+Date: 2026-08-14
+
+### EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how
+
+An analysis of 103 European cities' climate-neutral plans for 2030 (including 22 capital cities) shows that municipalities are planning to rely on carbon removal to compensate for about a fifth of their emissions. This would mean removing roughly 61 million tonnes of emissions from the atmosphere—close to Austria's ann.
+
+Date: 2026-08-14
+
+### Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon
+
+Friday is delivering another day of near record heat to the continent, but toward the end of the weekend temperatures could retreat to seasonal averages.
 
 Date: 2026-08-14
 
@@ -56,19 +68,9 @@ New EU restrictions on toxic substances known as "forever chemicals" in food pac
 
 Date: 2026-08-13
 
-### Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough
-
-With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.
-
-Date: 2026-08-13
-
-### Europe is the world’s fastest warming continent. What is to blame?
-
-The climate crisis is hitting Europe hard in 2026, warming twice as fast as any other continent – and the consequences are deadly The whole world is getting hotter as carbon pollution from fossil fuel burning traps ever more heat, but Europe is heating up twice as fast as other continents. The consequences are increasi.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Evidence of bird strike after man nearly sucked out of plane window, NTSB says](https://www.cbsnews.com/news/ryanair-bird-strike-passenger-window-ntsb/?utm_source=lootura.com) — 2026-08-14T00:35:00.000Z
 - [UK records hottest day of the year as western Europe swelters once again](https://www.pbs.org/newshour/world/uk-records-hottest-day-of-the-year-as-western-europe-swelters-once-again?utm_source=lootura.com) — 2026-08-13T17:49:14.000Z
+- [EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how](https://phys.org/news/2026-08-eu-cities-compensate-emissions-carbon.html?utm_source=lootura.com) — 2026-08-14T09:00:05.000Z
+- [Another Day of Extreme Heat Bakes Europe, but Relief Is on the Horizon](https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html?utm_source=lootura.com) — 2026-08-14T07:02:22.000Z
