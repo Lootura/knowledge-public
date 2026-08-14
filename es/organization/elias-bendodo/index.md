@@ -3,20 +3,26 @@
 > Sigue la actividad de Elías Bendodo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/elias-bendodo
 
 ## Cambios recientes
 
-### El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox
+### El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"
 
-El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.
+El vicesecretario de Política Autonómica y Municipal y Análisis Electoral del PP, Elías Bendodo, ha criticado este viernes que el Ministerio del Interior "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha de 70.000 inmigrantes que violentaron nuestras fronteras en Ceuta ". En declar.
 
-Date: 2026-08-10
+Date: 2026-08-14
 
 ### Discovered by Atlas
 
 Elías Bendodo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-10
+
+### El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox
+
+El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.
 
 Date: 2026-08-10
 
@@ -40,4 +46,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-No public source links.
+- [El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"](https://www.20minutos.es/ceuta/pp-critica-que-gobierno-movilizara-33-600-efectivos-policiales-para-eclipse-solo-60-para-avalancha-ceuta_7025847_0.html?utm_source=lootura.com) — 2026-08-14T12:29:17.000Z

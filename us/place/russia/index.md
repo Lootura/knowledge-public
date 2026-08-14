@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russia Campaigned to Derail Moldova’s Pro-Western Government
+
+In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
+
+Date: 2026-08-14
 
 ### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
 
@@ -62,13 +68,7 @@ Authorities in Russia's Tatarstan region say a Ukrainian drone strike on the pet
 
 Date: 2026-08-10
 
-### Family of Marine veteran imprisoned in Russia warns he's near death
-
-The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze](https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com) — 2026-08-13T20:27:15.000Z
 - [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
+- [Russia Campaigned to Derail Moldova’s Pro-Western Government](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com) — 2026-08-14T12:25:40.000Z

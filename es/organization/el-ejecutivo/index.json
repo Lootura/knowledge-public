@@ -1,0 +1,40 @@
+{
+  "id": "es-el-ejecutivo",
+  "name": "El Ejecutivo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/el-ejecutivo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/el-ejecutivo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/el-ejecutivo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/el-ejecutivo/index.json",
+  "description": "Sigue la actividad de El Ejecutivo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?",
+      "summary": "La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Ejecutivo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Gobierno confía en que Marruecos impida nuevas entradas masivas pero refuerza la seguridad de Ceuta y Melilla",
+      "url": "https://www.eldiario.es/politica/gobierno-confia-marruecos-impida-nuevas-entradas-masivas-refuerza-seguridad-ceuta-melilla_1_13447217.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:46:20.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?",
+      "url": "https://www.lavanguardia.com/politica/20260814/11613752/dificil-expulsar-inmigrantes-llegaron-ceuta-forma-irregular.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T10:50:37.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
+}

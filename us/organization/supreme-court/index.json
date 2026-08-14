@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
+      "summary": "A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.",
+      "date": "2026-08-14"
+    },
     {
       "title": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
       "summary": "Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.",
@@ -60,18 +65,13 @@
       "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
       "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Warren presses U.S. companies to share tariff refunds with customers",
-      "summary": "Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:40:07.000Z",
+      "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:08:01.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

@@ -32,6 +32,7 @@
 - [María Cristina Narbona Ruiz](https://atlas.lootura.com/es/organization/cristina-narbona): Sigue la actividad de María Cristina Narbona Ruiz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Dani Mérida](https://atlas.lootura.com/es/organization/dani-merida): Sigue la actividad de Dani Mérida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Demis Hassabis](https://atlas.lootura.com/es/organization/demis-hassabis): Sigue la actividad de Demis Hassabis en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [El Ejecutivo](https://atlas.lootura.com/es/organization/el-ejecutivo): Sigue la actividad de El Ejecutivo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Ministerio](https://atlas.lootura.com/es/organization/el-ministerio): Sigue la actividad de El Ministerio en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Tarajal](https://atlas.lootura.com/es/organization/el-tarajal): Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -228,6 +229,7 @@
 - [Oval Office](https://atlas.lootura.com/us/object/oval-office): Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Reflecting pool](https://atlas.lootura.com/us/object/reflecting-pool): Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Apalachee High School](https://atlas.lootura.com/us/organization/apalachee-high-school): Follow Apalachee High School, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Brian Thompson](https://atlas.lootura.com/us/organization/brian-thompson): Follow Brian Thompson, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [British Columbia](https://atlas.lootura.com/us/organization/british-columbia): Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -240,6 +242,7 @@
 - [Michigan Senate](https://atlas.lootura.com/us/organization/michigan-senate): Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [NATO](https://atlas.lootura.com/us/organization/nato): Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [New York Harbor](https://atlas.lootura.com/us/organization/new-york-harbor): Follow New York Harbor, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Plead Guilty](https://atlas.lootura.com/us/organization/plead-guilty): Follow Plead Guilty, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Soho House](https://atlas.lootura.com/us/organization/soho-house): Follow Soho House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Supreme court](https://atlas.lootura.com/us/organization/supreme-court): Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Taco Bell](https://atlas.lootura.com/us/organization/taco-bell): Follow Taco Bell, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
@@ -267,6 +270,7 @@
 - [Chuck Edwards](https://atlas.lootura.com/us/person/chuck-edwards): Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Cockroach Janta Party](https://atlas.lootura.com/us/person/cockroach-janta-party): Follow Cockroach Janta Party, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Darline Graham](https://atlas.lootura.com/us/person/darline-graham): Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Defense Secretary Pete](https://atlas.lootura.com/us/person/defense-secretary-pete): Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic National Committee](https://atlas.lootura.com/us/person/democratic-national-committee): Follow Democratic National Committee, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Dominic Sessa](https://atlas.lootura.com/us/person/dominic-sessa): Follow Dominic Sessa, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.

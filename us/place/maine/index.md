@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Sources
 
-- [Platner announced as speaker for activist-led event in Maine](https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207?utm_source=lootura.com) — 2026-08-13T16:58:02.000Z
+No public source links.

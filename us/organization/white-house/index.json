@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -81,19 +81,7 @@
       "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com",
       "publishedAt": "2026-08-14T05:42:35.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "How Trump's construction projects are changing Washington and costing taxpayers",
-      "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:50:08.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
-      "url": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:46:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

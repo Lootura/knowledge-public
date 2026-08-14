@@ -3,10 +3,16 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno
+
+Sumar ha rechazado la decisión del Ministerio para la Transición Ecológica de autorizar la ampliación de la vida de la central nuclear de Almaraz hasta el 2030 y considera que la medida supone un incumplimiento de los acuerdos para la formación de gobierno entre el PSOE y la formación política. Seguir leyendo...
+
+Date: 2026-08-14
 
 ### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
 
@@ -62,15 +68,6 @@ La vicepresidenta y ministra de Transición Ecológica, Sara Aagesen, apela a la
 
 Date: 2026-08-09
 
-### El Gobierno pide a Italia que "reaccione" y dice que "no hay nadie que haya llegado de Ceuta a la Península"
-
-La vicepresidenta tercera del Gobierno y ministra de Transición Ecológica y Reto Demográfico, Sara Aagesen, espera que Italia "reaccione" y que tenga "claro" que el espacio Schengen está garantizado, sin haber sido violado por ningún inmigrante llegado desde Ceuta. "No ha habido ninguna persona que haya llegado a la Pe.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
-- [¿Quién ha disparado a Toñi? Investigan las heridas de la orca más veterana del Estrecho](https://www.elconfidencial.com/espana/2026-08-14/orca-gibraltar-disparo-investigacion-1tps_4405932/?utm_source=lootura.com) — 2026-08-14T07:24:00.000Z
-- [Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava](https://www.elcorreo.com/alava/araba/empresa-francesa-lanza-busqueda-hidrogeno-helio-suelo-alava-20260813130106-nt_amp.html?utm_source=lootura.com) — 2026-08-13T11:02:32.000Z
-- [El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030](https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html?utm_source=lootura.com) — 2026-08-14T07:00:15.000Z
+- [Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno](https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html?utm_source=lootura.com) — 2026-08-14T10:17:44.000Z

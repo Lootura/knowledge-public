@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)
+
+Un varón de 53 años ha muerto este viernes tras ser embestido por un tren a la salida del apeadero de Guadalhorce , en la línea C1 de Cercanías de Málaga, cuando cruzaba por un punto no habilitado para el paso . El siniestro ocurrió alrededor de las 07:30 horas. Emergencias 112 Andalucía recibió una llamada de Adif ale.
+
+Date: 2026-08-14
 
 ### Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella
 
@@ -62,12 +68,6 @@ La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos a�
 
 Date: 2026-08-09
 
-### Antonio Banderas interrumpe una comida en Marbella para felicitar a su hermano Javier: “Ha ganado la Copa del Rey”
-
-Marbella vuelve a ser el escenario elegido por Antonio Banderas para disfrutar del verano. El actor, que desde hace un tiempo tiene fijada su residencia en un espectacular ático de Málaga, continúa haciendo vida entre España y Estados Unidos por sus compromisos profesionales en Hollywood. Estos días, además, se encuent.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella](https://www.larazon.es/andalucia/malaga/asociacion-trans-lleva-justicia-gobierno-caso-asesinada-marbella_202608146a7ed725a5690f047379228b.html?utm_source=lootura.com) — 2026-08-14T08:51:49.000Z
+- [Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-08-14/arrollado-tren-malaga-guadalhorce-1tna-1tps_4406070/?utm_source=lootura.com) — 2026-08-14T09:25:00.000Z

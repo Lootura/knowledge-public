@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -26,13 +26,13 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
-      "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
+      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+      "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
       "date": "2026-08-13"
     },
     {
-      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-      "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
+      "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
+      "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
       "date": "2026-08-13"
     },
     {
@@ -75,14 +75,8 @@
     {
       "title": "Why China should reassess how it rewards young scientists",
       "url": "https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T09:05:00.980Z",
+      "publishedAt": "2026-08-14T13:00:35.584Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
-      "url": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:46:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
@@ -91,5 +85,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

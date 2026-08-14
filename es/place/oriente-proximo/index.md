@@ -70,6 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
-- [La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética](https://www.elmundo.es/internacional/2026/08/13/6a7c7932e4d4d8812f8b457d.html?utm_source=lootura.com) — 2026-08-13T20:42:10.000Z
-- [El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano](https://amp.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html?utm_source=lootura.com) — 2026-08-13T20:41:48.000Z
+No public source links.

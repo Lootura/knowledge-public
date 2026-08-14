@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T09:04:36.303Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año",
+      "summary": "Las entradas irregulares de migrantes en la Unión Europea (UE) en el Mediterráneo occidental, en la región del estrecho de Gibraltar, aumentaron en los primeros siete meses del año un 37%, hasta los 11.217 cruces, según Frontex, la agencia europea de vigilancia fronteriza. De acuerdo con el informe publicado este viern.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
       "summary": "Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...",
@@ -58,19 +63,14 @@
       "title": "El principio del fin para los sobres de kétchup y mayonesa: claves de la ley de envases que echa a andar este miércoles",
       "summary": "Este miércoles comienza a aplicarse el reglamento sobre envases y residuos (PPWR, por sus siglas en inglés) en todos los países da la Unión Europea. Esta legislación, que reemplaza una directiva sobre reciclaje de 1994, tiene como finalidad disminuir los residuos de recipientes de forma paulatina de ahora y hasta 2040.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
-      "url": "https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T08:06:03.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año",
+      "url": "https://www.20minutos.es/internacional/aumentan-un-37-las-entradas-irregulares-ue-por-estrecho-gibraltar-que-va-ano_7025851_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:23:00.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 1

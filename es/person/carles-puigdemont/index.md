@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Mi héroe ya no es Puigdemont, sino Trump](https://theobjective.com/elsubjetivo/opinion/2026-08-14/heroe-no-puigdemont-trump-articulo-vidal-folch/?utm_source=lootura.com) — 2026-08-14T03:25:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA
+
+La Audiencia Nacional ha acordado suspender cautelarmente la ejecución de dos sanciones tributarias impuestas a Uber por un importe conjunto de más de 1,35 millones de euros, relacionadas con el Impuesto sobre el Valor Añadido (IVA) correspondiente a parte de los ejercicios 2016, 2017 y 2018. Seguir leyendo.
+
+Date: 2026-08-14
 
 ### El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE
 
@@ -62,12 +68,6 @@ Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una
 
 Date: 2026-08-06
 
-### Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias
-
-La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA](https://www.expansion.com/juridico/sentencias/2026/08/14/6a7ef7cbe5fdea356a8b4580.html?utm_source=lootura.com) — 2026-08-14T11:11:14.000Z

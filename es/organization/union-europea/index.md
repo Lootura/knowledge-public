@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año
+
+Las entradas irregulares de migrantes en la Unión Europea (UE) en el Mediterráneo occidental, en la región del estrecho de Gibraltar, aumentaron en los primeros siete meses del año un 37%, hasta los 11.217 cruces, según Frontex, la agencia europea de vigilancia fronteriza. De acuerdo con el informe publicado este viern.
+
+Date: 2026-08-14
 
 ### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
 
@@ -62,12 +68,6 @@ Este miércoles comienza a aplicarse el reglamento sobre envases y residuos (PPW
 
 Date: 2026-08-12
 
-### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico](https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com) — 2026-08-14T08:06:03.000Z
+- [Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año](https://www.20minutos.es/internacional/aumentan-un-37-las-entradas-irregulares-ue-por-estrecho-gibraltar-que-va-ano_7025851_0.html?utm_source=lootura.com) — 2026-08-14T12:23:00.000Z

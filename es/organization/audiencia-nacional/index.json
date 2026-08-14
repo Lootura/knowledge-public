@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA",
+      "summary": "La Audiencia Nacional ha acordado suspender cautelarmente la ejecución de dos sanciones tributarias impuestas a Uber por un importe conjunto de más de 1,35 millones de euros, relacionadas con el Impuesto sobre el Valor Añadido (IVA) correspondiente a parte de los ejercicios 2016, 2017 y 2018. Seguir leyendo.",
+      "date": "2026-08-14"
+    },
     {
       "title": "El primer juez del 'caso Leire' apunta a \"otras personas con mayor nivel de jerarquía en el entramado\" de las cloacas del PSOE",
       "summary": "El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.",
@@ -65,13 +70,15 @@
       "title": "Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros",
       "summary": "Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Interior teme que los informes policiales sobre Ceuta desmientan la versión oficial de las mafias",
-      "summary": "La decisión de la Audiencia Nacional de indagar en los motivos que desencadenaron la entrada irregular de 72.000 personas en Ceuta el pasado 30 de julio tiene al Ministerio del Interior en vilo. La jueza María Tardón ha pedido informes a la Policía Nacional y a la Guardia Civil para averiguar quién está detrás de la mo.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA",
+      "url": "https://www.expansion.com/juridico/sentencias/2026/08/14/6a7ef7cbe5fdea356a8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:11:14.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

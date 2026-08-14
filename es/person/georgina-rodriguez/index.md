@@ -3,10 +3,16 @@
 > Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/georgina-rodriguez
 
 ## Cambios recientes
+
+### El acuerdo prematrimonial de Cristiano y Georgina
+
+Ya han pasado tres días desde que se anunció por sorpresa en redes sociales que Cristiano Ronaldo y Georgina Rodríguez se habían casado . Poco a poco, van saliendo detalles sobre la ceremonia íntima y privada que celebraron el futbolista y la empresaria. Ahora, un documento del registro civil ha permitido conocer noved.
+
+Date: 2026-08-14
 
 ### El primer look de Georgina Rodríguez tras su boda secreta: blanco nupcial y vaqueros para volver a su día a día
 
@@ -52,4 +58,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [El acuerdo prematrimonial de Cristiano y Georgina](https://www.abc.es/gente/acuerdo-prematrimonial-cristiano-ronaldo-firmado-georgina-rodriguez-20260814141401-nt.html?utm_source=lootura.com) — 2026-08-14T12:31:49.000Z

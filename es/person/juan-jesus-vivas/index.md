@@ -3,10 +3,22 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
+
+El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
+
+Date: 2026-08-14
+
+### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
+
+El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.
+
+Date: 2026-08-14
 
 ### Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones
 
@@ -56,18 +68,7 @@ El presidente de Ceuta, Juan Jesús Vivas , ha hecho este sábado un llamamiento
 
 Date: 2026-08-08
 
-### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
-
-La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
-
-Date: 2026-08-08
-
-### Vivas sitúa entre 8.000 y 11.000 los migrantes que siguen en Ceuta y exige su retorno: "Aquí no va a haber papeles"
-
-El presidente de la Ciudad Autónoma de Ceuta , Juan Jesús Vivas , ha descrito la situación actual como "absolutamente insostenible" tras la entrada masiva de miles de personas. En una rueda de prensa celebrada tras la reunión extraordinaria del Consejo de Gobierno de la Ciudad , el dirigente ha calculado que entre 8.00.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”](https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html?utm_source=lootura.com) — 2026-08-14T11:51:35.000Z
+- [El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta](https://theobjective.com/espana/politica/2026-08-14/pp-vivas-derecho-asilo-ceuta/?utm_source=lootura.com) — 2026-08-14T11:42:54.000Z

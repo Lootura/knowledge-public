@@ -1,0 +1,40 @@
+{
+  "id": "usa-plead-guilty",
+  "name": "Plead Guilty",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/plead-guilty",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/plead-guilty",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/plead-guilty/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/plead-guilty/index.json",
+  "description": "Follow Plead Guilty, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Plead Guilty first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+      "summary": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Luigi Mangione Expected to Plead Guilty in UnitedHealthcare Case",
+      "url": "https://www.today.com/video/luigi-mangione-to-plead-guilty-in-federal-case-what-to-expect-268304453558?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:27:41.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:19:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

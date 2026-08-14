@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: \"Valencia no merece este agravio\"",
+      "summary": "El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la central nuclear de Cofrentes reciba el mismo trato que la de Almaraz , en Cáceres, después de que el Gobierno haya renovado la autorización de esta última hasta, al menos, junio de 2030 . Pérez Llorca denunció que “la Comunitat Valenciana no mere.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
       "summary": "Con gritos, aplausos y alguna lágrima de emoción, así vivió España su primer eclipse del siglo , que oscureció una enorme franja de la Península ―de Galicia a la Comunidad Valenciana para desaparecer en el mar tras pasar por Baleares— sobre las 20.30 de la tarde. A esa hora, cuando el falso atardecer ya había teñido de.",
@@ -64,13 +69,15 @@
       "title": "Una cena benéfica en Gandía para construir una gran escuela en África: \"Cambia la vida de los niños y de todo un pueblo\"",
       "summary": "El padre Hervé Chanhoun tiene 44 años, los mismos que lleva vinculado a la religión. Es natural de Benin, un país del oeste de África, pero está altamente vinculado con la Comunitat Valenciana porque aquí estudia Teología. Gracias a ello, y a las relaciones que ha construido en Valencia, ha podido construir también una.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana",
-      "summary": "Ferran Torres recibe el homenaje de su pueblo y se convierte en imagen de la Comunidad Valenciana.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: \"Valencia no merece este agravio\"",
+      "url": "https://www.20minutos.es/comunidad-valenciana/valencia/perez-llorca-exige-mismo-trato-central-nuclear-cofrentes-que-almaraz-comunitat-valenciana-no-merece-este-agravio_7025837_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:47:36.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

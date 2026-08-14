@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/diana-morant/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/diana-morant/index.json",
   "description": "Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T08:56:34.263Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Diana",
     "Diana Morant Ripoll",
     "Morant"
   ],
   "changes": [
+    {
+      "title": "El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la \"juerga\" del eclipse del Gobierno",
+      "summary": "El portavoz del Gobierno valenciano, Miguel Barrachina , ha acusado a la ministra de Ciencia, Innovación y Universidades, Diana Morant , de organizar \"una juerga con barra libre, catering y concierto con 72.000 euros públicos\" para seguir \"el minuto del eclipse\", en referencia al acto institucional celebrado por el Gob.",
+      "date": "2026-08-14"
+    },
     {
       "title": "El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”",
       "summary": "No asume los costes de la aplicación de una normativa estatal aprobada por el propio Gobierno de Pedro Sánchez.",
@@ -51,6 +56,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la \"juerga\" del eclipse del Gobierno",
+      "url": "https://www.larazon.es/comunidad-valenciana/gobierno-valenciano-acusa-morant-gastar-72000-euros-juerga-eclipse-gobierno_202608146a7f075ea046ad6ebcb0f659.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:17:34.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

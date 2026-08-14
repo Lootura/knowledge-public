@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
 
 El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
+
+Date: 2026-08-14
+
+### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
+
+El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
+
+Date: 2026-08-14
+
+### La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”
+
+La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notas Ayuso critica que Sánchez se dé “la gran vida con los impuestos y recursos de todos” mientras evita hablar del ático La Universidad Complutense de Madrid ha r.
 
 Date: 2026-08-14
 
@@ -56,19 +68,8 @@ Es impresionante comprobar lo poco que le importan a Pedro Sánchez las desgraci
 
 Date: 2026-08-13
 
-### Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse
-
-Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instalado el punto principal de seguimiento de este fenómeno astro.
-
-Date: 2026-08-13
-
-### Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)
-
-El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"](https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com) — 2026-08-14T08:47:00.000Z
-- [Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo](https://amp.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html?utm_source=lootura.com) — 2026-08-13T20:42:58.000Z
+- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
+- [La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”](https://www.eldiario.es/madrid/complutense-rechaza-publicar-expediente-academico-ayuso-pese-reconocer-hay-interes-general_1_13446735.html?utm_source=lootura.com) — 2026-08-14T08:15:13.000Z

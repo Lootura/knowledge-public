@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Hallan a un ciclista muerto en la cuneta de la N-5 en el término municipal de Jaraicejo (Cáceres)](https://www.elconfidencial.com/espana/2026-08-14/ciclista-muerto-cuneta-caceres-1tna-1tps_4405937/?utm_source=lootura.com) — 2026-08-14T07:31:00.000Z
+No public source links.

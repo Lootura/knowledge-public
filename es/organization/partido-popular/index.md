@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
 
 El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
+
+Date: 2026-08-14
+
+### El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"
+
+El vicesecretario de Política Autonómica y Municipal y Análisis Electoral del PP, Elías Bendodo, ha criticado este viernes que el Ministerio del Interior "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha de 70.000 inmigrantes que violentaron nuestras fronteras en Ceuta ". En declar.
+
+Date: 2026-08-14
+
+### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
+
+El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
+
+Date: 2026-08-14
+
+### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
+
+El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.
 
 Date: 2026-08-14
 
@@ -50,24 +68,9 @@ Lejos de apaciguarse, el conflicto entre España y Marruecos sube de tono. Cada 
 
 Date: 2026-08-13
 
-### Las comunidades del PP rechazan debatir en la próxima conferencia sectorial la atención a menores en Ceuta
-
-En la Sectorial del 27 de agosto se debatirá la transferencia del crédito extraordinario, según el orden del día acordado, y la ministra pretende proponer al inicio del encuentro que se trate la atención a los niños que permanecen en la ciudad autónoma, así que tendrá que votarse El Gobierno y las comunidades se reúnen.
-
-Date: 2026-08-13
-
-### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
-
-La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
-
-Date: 2026-08-13
-
-### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
-
-La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"](https://www.20minutos.es/ceuta/pp-critica-que-gobierno-movilizara-33-600-efectivos-policiales-para-eclipse-solo-60-para-avalancha-ceuta_7025847_0.html?utm_source=lootura.com) — 2026-08-14T12:29:17.000Z
 - [El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"](https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com) — 2026-08-14T08:47:00.000Z
+- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
+- [El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta](https://theobjective.com/espana/politica/2026-08-14/pp-vivas-derecho-asilo-ceuta/?utm_source=lootura.com) — 2026-08-14T11:42:54.000Z

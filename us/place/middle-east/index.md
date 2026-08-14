@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-08-09
 ## Sources
 
 - [Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"](https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com) — 2026-08-14T01:37:19.000Z
-- [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
 - [New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln](https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln?utm_source=lootura.com) — 2026-08-14T06:31:29.000Z

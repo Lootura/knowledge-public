@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T09:04:36.303Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -53,6 +53,11 @@
       "date": "2026-08-14"
     },
     {
+      "title": "EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles",
+      "summary": "Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis diplomática abierta entre Tokio y Moscú por la reciente visita del presidente.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo",
       "summary": "Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en distintas salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el mercad.",
       "date": "2026-08-13"
@@ -86,11 +91,6 @@
       "title": "Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»",
       "summary": "En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: \"Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "La caída de reservas anticipa un crudo a 140 dólares en otoño",
-      "summary": "El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -111,7 +111,13 @@
       "url": "https://theobjective.com/internacional/2026-08-14/rusia-explicaciones-eeuu-entrega-datos-inteligencia-militar-ucrania/?amp=&utm_source=lootura.com",
       "publishedAt": "2026-08-14T08:59:26.000Z",
       "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles",
+      "url": "https://theobjective.com/internacional/2026-08-14/eeuu-apoyo-total-japon-rusia-kuriles/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:33:29.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,10 +3,34 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
+
+### Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more
+
+Jo Ling Kent spoke exclusively with outgoing Apple CEO Tim Cook about a new manufacturing plant in Houston, what it means for jobs, and what he wants his legacy to be as he prepares to step down as CEO.
+
+Date: 2026-08-14
+
+### Undocumented migration does not raise crime rates, huge study finds
+
+Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0 The analysis of neighbourhoods in more than 100 cities in the United States finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.
+
+Date: 2026-08-14
+
+### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
+
+Keeping gas prices low is now the United States’ “goal No.
+
+Date: 2026-08-14
+
+### Scholar's work in South America helps fight Chagas disease in the U.S.
+
+A three-month Fulbright U.S. Scholar trip to Argentina wasn't just about bringing Texas know-how to South America for Gabriel Hamer, Ph.D., a Texas A&M AgriLife Research entomologist and professor in the Department of Entomology in the Texas A&M College of Agriculture and Life Sciences.
+
+Date: 2026-08-14
 
 ### Trump declares 100 percent tariffs on many drones and all aircraft parts
 
@@ -20,27 +44,9 @@ Former Wyoming Republican Sen. Malcolm Wallop once observed, "I don’t think th
 
 Date: 2026-08-14
 
-### U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown
-
-The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.
-
-Date: 2026-08-13
-
-### Record-breaking heat takes mounting toll on the U.S. economy
-
-Heat waves are dealing a financial blow to businesses and creating hazardous conditions for workers, according to climate experts.
-
-Date: 2026-08-13
-
 ### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
 
 The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
-
-Date: 2026-08-13
-
-### Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved
-
-U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.
 
 Date: 2026-08-13
 
@@ -62,21 +68,15 @@ Dozens of Israeli settlers have trapped two Palestinian families in their West B
 
 Date: 2026-08-13
 
-### AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics
-
-U.S. support for Israel has been a central issue in Democratic primary contests. That's put a spotlight on the pro-Israel lobbying group AIPAC and the strength of its political influence.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Record-breaking heat takes mounting toll on the U.S. economy](https://www.cbsnews.com/news/extreme-heat-waves-us-economy-impact/?utm_source=lootura.com) — 2026-08-13T19:27:02.000Z
-- [Innovation is key to America staying a superpower. But it is missing an essential piece](https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece?utm_source=lootura.com) — 2026-08-14T09:00:16.000Z
+- [Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more](https://www.cbsnews.com/video/outgoing-apple-ceo-tim-cook-discusses-new-us-manufacturing-job-impact-and-more/?utm_source=lootura.com) — 2026-08-14T12:43:32.000Z
+- [Undocumented migration does not raise crime rates, huge study finds](https://www.nature.com/articles/d41586-026-02542-0?utm_source=lootura.com) — 2026-08-14T13:00:35.583Z
 - [USS Abraham Lincoln to head home amid concerns about living conditions](https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com) — 2026-08-13T23:12:58.000Z
 - [U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes](https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com) — 2026-08-13T23:28:41.000Z
+- [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z
 - [AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics](https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics?utm_source=lootura.com) — 2026-08-13T21:18:49.000Z
 - [News Wrap: Earthquake death toll in Colombia tops 260](https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com) — 2026-08-13T22:57:36.000Z
-- [Palestinian American family recounts siege of West Bank home by Israeli settlers](https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers?utm_source=lootura.com) — 2026-08-13T22:54:49.000Z
-- [Layered nano-biohybrid uses sunlight, air and water to make hydrogen peroxide](https://phys.org/news/2026-08-layered-nano-biohybrid-sunlight-air.html?utm_source=lootura.com) — 2026-08-13T23:20:02.000Z
+- [Scholar's work in South America helps fight Chagas disease in the U.S.](https://phys.org/news/2026-08-scholar-south-america-chagas-disease.html?utm_source=lootura.com) — 2026-08-14T11:30:03.000Z
 - [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z
 - [The Golden Age of Mexican Food Is Here. And It’s Complicated.](https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html?utm_source=lootura.com) — 2026-08-13T15:18:47.000Z

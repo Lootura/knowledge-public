@@ -3,7 +3,7 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años
 
 El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.
+
+Date: 2026-08-14
+
+### ¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?
+
+La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.
+
+Date: 2026-08-14
+
+### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
+
+El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
 
 Date: 2026-08-14
 
@@ -56,18 +68,8 @@ El primer ministro de Suecia, el conservador Ulf Kristersson, ha cargado contra 
 
 Date: 2026-08-11
 
-### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
-
-Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
-
-Date: 2026-08-10
-
-### El PSOE adoctrina a sus cargos en Ceuta: hablar de «normalidad» y de que no hay «fronteras sin riesgo»
-
-El PSOE de Ceuta ha distribuido entre sus cargos y militantes un argumentario destinado a fijar el discurso del partido ante las críticas recibidas por su papel en la crisis migratoria que sacudió la ciudad y defender su gestión, cuestionada incluso internamente, del Gobierno de España. El documento, presentado como un.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?](https://www.lavanguardia.com/politica/20260814/11613752/dificil-expulsar-inmigrantes-llegaron-ceuta-forma-irregular.html?utm_source=lootura.com) — 2026-08-14T10:50:37.000Z
+- [El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”](https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html?utm_source=lootura.com) — 2026-08-14T11:51:35.000Z
 - [Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años](https://theobjective.com/espana/2026-08-14/afganos-espana-retorno-taliban-pais-cinco-anos/?utm_source=lootura.com) — 2026-08-14T08:15:29.000Z

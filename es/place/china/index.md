@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz](https://okdiario.com/ciencia/ciencia-china-sobrepasa-leyes-naturales-crean-pintura-coches-ultranegra-que-absorbe-999-luz-19114723/amp?utm_source=lootura.com) — 2026-08-14T09:00:14.000Z
+No public source links.

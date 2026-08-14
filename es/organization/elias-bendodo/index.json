@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elias-bendodo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elias-bendodo/index.json",
   "description": "Sigue la actividad de Elías Bendodo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Elias Bendodo Benasayag"
   ],
   "changes": [
     {
-      "title": "El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox",
-      "summary": "El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.",
-      "date": "2026-08-10"
+      "title": "El PP critica que el Gobierno \"movilizara a 33.600 efectivos policiales\" para el eclipse y solo 60 \"para la avalancha en Ceuta\"",
+      "summary": "El vicesecretario de Política Autonómica y Municipal y Análisis Electoral del PP, Elías Bendodo, ha criticado este viernes que el Ministerio del Interior \"movilizara a 33.600 efectivos policiales\" para el eclipse y solo 60 \"para la avalancha de 70.000 inmigrantes que violentaron nuestras fronteras en Ceuta \". En declar.",
+      "date": "2026-08-14"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Elías Bendodo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El PP acudirá a la reunión sobre los menas llegados a Ceuta pese al plante de Vox",
+      "summary": "El vicesecretario de Política Autonómica del PP, Elías Bendodo , ha asegurado que el PP asistirá a la Comisión Sectorial de Infancia y Adolescencia sobre los menores migrantes que se encuentran en Ceuta, a la que los vicepresidentes de Vox de los gobiernos con el PP no acudirán: « Es bueno escuchar aunque estemos total.",
       "date": "2026-08-10"
     },
     {
@@ -39,6 +44,13 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP critica que el Gobierno \"movilizara a 33.600 efectivos policiales\" para el eclipse y solo 60 \"para la avalancha en Ceuta\"",
+      "url": "https://www.20minutos.es/ceuta/pp-critica-que-gobierno-movilizara-33-600-efectivos-policiales-para-eclipse-solo-60-para-avalancha-ceuta_7025847_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:29:17.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

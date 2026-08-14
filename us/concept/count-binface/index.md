@@ -3,14 +3,14 @@
 > Follow Count Binface, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/concept/count-binface
 
 ## Recent changes
 
 ### Farage Wins Special U.K. Election That He Initiated, as Expected
 
-Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, his costumed main rival, came second with 27 percent, a personal best.
+Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.
 
 Date: 2026-08-14
 
@@ -40,4 +40,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Farage Wins Special U.K. Election That He Initiated, as Expected](https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com) — 2026-08-14T07:35:29.000Z
+- [Farage Wins Special U.K. Election That He Initiated, as Expected](https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com) — 2026-08-14T11:56:55.000Z

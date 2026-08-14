@@ -3,7 +3,7 @@
 > Follow Francesca Hong, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/person/francesca-hong
 
 ## Recent changes
@@ -14,15 +14,15 @@ Ahead of Wisconsin’s Democratic primary for governor, a past tweet by the asse
 
 Date: 2026-08-13
 
-### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
-
-David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
-
-Date: 2026-08-13
-
 ### NATO spending pressure returned
 
 Sen. Bernie Sanders says he can’t be everywhere at once — even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin’s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders.
+
+Date: 2026-08-13
+
+### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
+
+David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
 
 Date: 2026-08-13
 
@@ -71,5 +71,4 @@ Date: 2026-08-12
 ## Sources
 
 - [Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin](https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121?utm_source=lootura.com) — 2026-08-13T22:00:03.000Z
-- [Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition](https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com) — 2026-08-13T17:23:15.000Z
 - [How Thanksgiving Became Political: Francesca Hong’s Tweets Explained](https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com) — 2026-08-13T13:28:51.000Z

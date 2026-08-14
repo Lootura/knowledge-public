@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-08-14
 ### Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania
 
 El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.
+
+Date: 2026-08-14
+
+### EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles
+
+Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis diplomática abierta entre Tokio y Moscú por la reciente visita del presidente.
 
 Date: 2026-08-14
 
@@ -62,14 +68,9 @@ En el enclave donde Estados Unidos mantiene una de sus principales bases militar
 
 Date: 2026-08-12
 
-### La caída de reservas anticipa un crudo a 140 dólares en otoño
-
-El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.
-
-Date: 2026-08-12
-
 ## Fuentes
 
 - [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-14T05:02:58.000Z
 - [Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio](https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
 - [Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania](https://theobjective.com/internacional/2026-08-14/rusia-explicaciones-eeuu-entrega-datos-inteligencia-militar-ucrania/?amp=&utm_source=lootura.com) — 2026-08-14T08:59:26.000Z
+- [EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles](https://theobjective.com/internacional/2026-08-14/eeuu-apoyo-total-japon-rusia-kuriles/?amp=&utm_source=lootura.com) — 2026-08-14T12:33:29.000Z

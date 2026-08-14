@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/prime-video/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/prime-video/index.json",
   "description": "Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Amazon Instant Video",
     "Amazon Unbox",
@@ -16,6 +16,11 @@
     "Amazon Video On Demand"
   ],
   "changes": [
+    {
+      "title": "No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson",
+      "summary": "Tras varias temporadas caracterizadas por una creciente tensión en la Tierra Media , la situación pretende alcanzar su punto álgido en la tercera temporada de Los Anillos del Poder . Para empezar, la temporada inaugural en Prime Video ahondó en las etapas previas al regreso de Sauron . La siguiente mostró cómo creó los.",
+      "date": "2026-08-14"
+    },
     {
       "title": "'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco",
       "summary": "En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso , cuya cuarta (y última) temporada se puede ver tanto en Apple TV como en Prime Video , llegó para darles un nuevo empujón y eso es lo que están aprovechando actualmente las plataformas de streaming. Así, tras el éxito cosechado por Más que.",
@@ -60,13 +65,15 @@
       "title": "Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’",
       "summary": "Amazon MGM Studios y Henry Cavill siguen firmes con su intención de adaptar el universo Wharhammer 40k al mundo del cine y las series. Según reporta Variety, el estudio y el actor se encuentran a la cabeza de un nuevo proyecto de animación basado en la franquicia para Prime Video. Pese a que todavía no se han brindado.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "No solo Kratos: la serie de ‘God of War’ planea reemplazar a más protagonistas",
-      "summary": "La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente salida de Ryan Hurst del rol de Kratos debido a una seria lesión durante el rodaje.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson",
+      "url": "https://www.larazon.es/videojuegos/series/no-es-sauron-anillos-poder-recupera-villano-original-trilogia-peter-jackson_202608146a7eef4c71b42a0b5deebced.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:30:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

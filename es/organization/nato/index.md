@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico](https://www.lavanguardia.com/internacional/20260814/11613740/letonia-derriba-dron-espacio-aereo-finlandia-restringe-acceso-zonas-baltico.html?utm_source=lootura.com) — 2026-08-14T08:06:03.000Z
+No public source links.

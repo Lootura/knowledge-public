@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -14,15 +14,15 @@ Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent 
 
 Date: 2026-08-14
 
-### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
-
-The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.
-
-Date: 2026-08-13
-
 ### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
 
 The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
+
+Date: 2026-08-13
+
+### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
+
+The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.
 
 Date: 2026-08-13
 
@@ -70,6 +70,5 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T09:05:00.980Z
-- [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z
+- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
 - [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z

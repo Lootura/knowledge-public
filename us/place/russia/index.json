@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,11 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
@@ -61,26 +66,21 @@
       "title": "Ukrainian drone attack on oil hub deep inside Russia kills 13, official says",
       "summary": "Authorities in Russia's Tatarstan region say a Ukrainian drone strike on the petroleum hub of Nizhnekamsk killed 13 people and wounded 78 others in one of the deadliest attacks of the 4-year-old war.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
-      "summary": "The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
-    {
-      "title": "Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze",
-      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:27:15.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
     {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
       "publishedAt": "2026-08-13T20:34:21.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:25:40.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

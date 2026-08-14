@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [El vestido que Carrie Bradshaw convirtió en leyenda vuelve a nuestras vidas de la mano de Desigual](https://www.larazon.es/tendencias-futuro/moda/vestido-carrie-bradshaw-convirtio-leyenda-vuelve-nuestras-vidas-mano-desigual_202608146a7ed31ba5690f0473791ae4.html?utm_source=lootura.com) — 2026-08-14T08:56:43.000Z
+No public source links.

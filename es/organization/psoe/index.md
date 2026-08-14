@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno
+
+El grupo confederal pide mantener el calendario de cierre acordado y lamenta seguir un "camino irresponsable": "No podemos seguir el camino de la derecha y la extrema derecha" El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2030 por “el conflicto en Oriente Medio” Sumar ha rechazado la prórro.
+
+Date: 2026-08-14
+
+### Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno
+
+Sumar ha rechazado la decisión del Ministerio para la Transición Ecológica de autorizar la ampliación de la vida de la central nuclear de Almaraz hasta el 2030 y considera que la medida supone un incumplimiento de los acuerdos para la formación de gobierno entre el PSOE y la formación política. Seguir leyendo...
+
+Date: 2026-08-14
 
 ### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
 
@@ -56,18 +68,7 @@ El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilida
 
 Date: 2026-08-11
 
-### Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse
-
-El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.
-
-Date: 2026-08-11
-
-### El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista
-
-El polémico solar de Chipiona que vuelve a estar en el foco por la operación urbanística que rodeó su adquisición tiene detrás a un empresario cuya relación con el PSOE era mucho más estrecha de lo que podría parecer a primera vista. Se trata de Joaquín Guerrero Romero, promotor inmobiliario que participó junto al Ayun.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
+- [Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno](https://www.eldiario.es/politica/sumar-rechaza-prorroga-central-nuclear-almaraz-acusa-psoe-incumplir-pacto-gobierno_1_13447068.html?utm_source=lootura.com) — 2026-08-14T09:27:42.000Z
+- [Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno](https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html?utm_source=lootura.com) — 2026-08-14T10:17:44.000Z

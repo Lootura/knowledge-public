@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T09:19:29.438Z",
+  "generatedAt": "2026-08-14T13:15:53.752Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|137|1786698297004",
+    "signature": "1.18.0|138|1786712431336",
     "version": "1.18.0",
-    "build": 137,
-    "latestEntityUpdatedAt": "2026-08-14T09:04:57.004Z"
+    "build": 138,
+    "latestEntityUpdatedAt": "2026-08-14T13:00:31.336Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
       "url": "https://atlas.lootura.com/us/organization/luigi-mangione",
       "path": "/us/organization/luigi-mangione",
-      "updatedAt": "2026-08-14T09:04:57.004Z",
-      "score": 1706,
-      "sourceCount": 6,
+      "updatedAt": "2026-08-14T13:00:31.336Z",
+      "score": 1707,
+      "sourceCount": 9,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,22 +34,22 @@
         "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
         "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
         "path": "/us/person/abraham-lincoln",
-        "updatedAt": "2026-08-14T09:04:57.004Z",
-        "score": 1680,
-        "sourceCount": 8,
+        "updatedAt": "2026-08-14T13:00:31.336Z",
+        "score": 1684,
+        "sourceCount": 10,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-08-14T09:04:57.004Z",
-        "score": 1665,
-        "sourceCount": 762,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-08-14T13:00:31.336Z",
+        "score": 1652,
+        "sourceCount": 754,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
         "url": "https://atlas.lootura.com/us/place/middle-east",
         "path": "/us/place/middle-east",
-        "updatedAt": "2026-08-14T09:04:57.004Z",
-        "score": 1646,
+        "updatedAt": "2026-08-14T13:00:31.336Z",
+        "score": 1641,
         "sourceCount": 41,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Families concerned about reports of mental health crisis on USS Lincoln",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-14T09:04:57.004Z",
-        "score": 1642,
-        "sourceCount": 400,
+        "title": "Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-08-14T13:00:31.336Z",
+        "score": 1636,
+        "sourceCount": 766,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 155
+    "publicEntityCount": 158
   }
 }

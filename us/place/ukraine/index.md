@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze](https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com) — 2026-08-13T20:27:15.000Z
+No public source links.

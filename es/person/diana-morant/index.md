@@ -3,10 +3,16 @@
 > Sigue la actividad de Diana Morant en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/diana-morant
 
 ## Cambios recientes
+
+### El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la "juerga" del eclipse del Gobierno
+
+El portavoz del Gobierno valenciano, Miguel Barrachina , ha acusado a la ministra de Ciencia, Innovación y Universidades, Diana Morant , de organizar "una juerga con barra libre, catering y concierto con 72.000 euros públicos" para seguir "el minuto del eclipse", en referencia al acto institucional celebrado por el Gob.
+
+Date: 2026-08-14
 
 ### El PPCV acusa a Diana Morant de “asfixiar la financiación de las universidades públicas valencianas”
 
@@ -52,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la "juerga" del eclipse del Gobierno](https://www.larazon.es/comunidad-valenciana/gobierno-valenciano-acusa-morant-gastar-72000-euros-juerga-eclipse-gobierno_202608146a7f075ea046ad6ebcb0f659.html?utm_source=lootura.com) — 2026-08-14T12:17:34.000Z

@@ -40,4 +40,4 @@ Date: 2026-07-31
 
 ## Sources
 
-- [Running Dry: The fight for the West's dwindling water supply | 60 Minutes Archive](https://www.cbsnews.com/video/running-dry-the-fight-for-the-wests-dwindling-water-supply-60-minutes-archive/?utm_source=lootura.com) — 2026-08-13T20:13:44.000Z
+No public source links.

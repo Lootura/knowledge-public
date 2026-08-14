@@ -3,7 +3,7 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
@@ -26,15 +26,21 @@ The Pacific-based aircraft carrier USS George Washington has begun heading towar
 
 Date: 2026-08-14
 
+### Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions
+
+Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.
+
+Date: 2026-08-14
+
+### Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln
+
+There are growing concerns about conditions aboard the USS Abraham Lincoln from families of sailors and members of Congress. After more than nine months at sea, sailors' families say it lacks basic supplies and is affecting mental health. Charlie D'Agata reports.
+
+Date: 2026-08-14
+
 ### Discovered by Atlas
 
 Abraham Lincoln first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-13
-
-### Families concerned about reports of mental health crisis on USS Lincoln
-
-Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
 
 Date: 2026-08-13
 
@@ -50,23 +56,24 @@ The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of 
 
 Date: 2026-08-13
 
+### Families concerned about reports of mental health crisis on USS Lincoln
+
+Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
+
+Date: 2026-08-13
+
 ### Democratic senators demand answers about conditions aboard USS Abraham Lincoln
 
 Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.
 
 Date: 2026-08-13
 
-### Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln
-
-Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been ‘completely misrepresented’ The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln “completely misr.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"](https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com) — 2026-08-14T01:37:19.000Z
+- [Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions](https://www.cbsnews.com/video/hegseth-reacts-to-scary-concerns-about-uss-abraham-lincoln-shortages-and-bad-conditions/?utm_source=lootura.com) — 2026-08-14T12:26:53.000Z
+- [Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln](https://www.cbsnews.com/video/sailors-dad-expresses-concern-over-conditions-length-of-deployment-on-uss-lincoln/?utm_source=lootura.com) — 2026-08-14T12:40:13.000Z
 - [USS Abraham Lincoln to head home amid concerns about living conditions](https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com) — 2026-08-13T23:12:58.000Z
 - [Parent says son feels a sense of ‘powerlessness’ aboard USS Abraham Lincoln](https://www.nbcnews.com/video/parent-says-son-feels-a-sense-of-powerlessness-aboard-uss-abraham-lincoln-268289605806?utm_source=lootura.com) — 2026-08-14T00:16:41.000Z
-- [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
 - [New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln](https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln?utm_source=lootura.com) — 2026-08-14T06:31:29.000Z
 - [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z

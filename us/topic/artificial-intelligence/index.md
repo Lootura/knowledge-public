@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### AI isn’t ready to research itself
 
 Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.
+
+Date: 2026-08-14
+
+### Einstein the musician, AI prophets and more: Books in brief
+
+Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6 Andrew Robinson reviews five of the best science picks.
 
 Date: 2026-08-14
 
@@ -62,15 +68,8 @@ Designing an effective antibody drug is like searching for the right key in a wa
 
 Date: 2026-08-13
 
-### AI chatbots are offering financial advice. Should you trust them?
-
-Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions. (Image credit: Kiichiro Sato).
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Acton teen held without bail in murders of mother, brother linked to ChatGPT](https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com) — 2026-08-13T16:24:15.000Z
-- [Organs age at different speeds: A blood test might soon tell which ones](https://medicalxpress.com/news/2026-08-age-blood.html?utm_source=lootura.com) — 2026-08-14T09:00:03.000Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T09:05:00.980Z
-- [Teens are turning to AI chatbots for emotional support—here's how to keep kids safe](https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html?utm_source=lootura.com) — 2026-08-13T23:40:04.000Z
+- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
+- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T13:00:35.583Z

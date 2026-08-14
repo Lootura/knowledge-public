@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson
+
+Tras varias temporadas caracterizadas por una creciente tensión en la Tierra Media , la situación pretende alcanzar su punto álgido en la tercera temporada de Los Anillos del Poder . Para empezar, la temporada inaugural en Prime Video ahondó en las etapas previas al regreso de Sauron . La siguiente mostró cómo creó los.
+
+Date: 2026-08-14
 
 ### 'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco
 
@@ -62,12 +68,6 @@ Amazon MGM Studios y Henry Cavill siguen firmes con su intención de adaptar el 
 
 Date: 2026-08-03
 
-### No solo Kratos: la serie de ‘God of War’ planea reemplazar a más protagonistas
-
-La serie de God of War para Prime Video no ha tenido el inicio de producción que Amazon esperaba. Al sinfín de demoras que sufrió el proyecto en la etapa de elaboración del guion, que incluyó un reinicio creativo, se le sumó la reciente salida de Ryan Hurst del rol de Kratos debido a una seria lesión durante el rodaje.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson](https://www.larazon.es/videojuegos/series/no-es-sauron-anillos-poder-recupera-villano-original-trilogia-peter-jackson_202608146a7eef4c71b42a0b5deebced.html?utm_source=lootura.com) — 2026-08-14T12:30:00.000Z

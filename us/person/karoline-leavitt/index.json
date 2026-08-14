@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/karoline-leavitt/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/karoline-leavitt/index.json",
   "description": "Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "Karoline",
     "Karoline Claire Leavitt",
     "Leavitt"
   ],
   "changes": [
+    {
+      "title": "Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi",
+      "summary": "The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children and her 60-year-old husband. According to a post by Trump On Truth Social, Leavitt.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Who Might Replace Karoline Leavitt as Press Secretary?",
       "summary": "White House Press Secretary Karoline Leavitt addresses reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, D.C., on December 1, 2025. —Chip Somodevilla—Getty Images With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month,.",
@@ -51,6 +56,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:00:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

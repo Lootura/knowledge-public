@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern
+
+Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in New York City, is expected in federal court as sources say he may plea guilty. Legal analyst Joe Tamburino joins with more details about the questions concerning the future of his New York state trial.
+
+Date: 2026-08-14
+
+### ‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons
+
+The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that onl.
+
+Date: 2026-08-14
 
 ### Funding milestone detected
 
@@ -56,18 +68,7 @@ The captain of an unlicensed boat that capsized in the New York harbor near Libe
 
 Date: 2026-08-10
 
-### Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested
-
-A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.
-
-Date: 2026-08-10
-
-### Mother, 5-month-old baby killed in New York boat capsize, captain arrested
-
-The captain of a boat that overturned in New York Harbor was charged with reckless endangerment. Twelve people were saved, but a mother and her 5-month-old daughter died. Michael George reports.
-
-Date: 2026-08-10
-
 ## Sources
 
-No public source links.
+- [Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern](https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com) — 2026-08-14T12:34:52.000Z
+- [‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons](https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview?utm_source=lootura.com) — 2026-08-14T10:00:25.000Z

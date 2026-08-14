@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce
+
+A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.
+
+Date: 2026-08-14
 
 ### How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions
 
@@ -62,12 +68,6 @@ The orders come after the Supreme Court ruled June 30 that President Trump’s p
 
 Date: 2026-08-07
 
-### Warren presses U.S. companies to share tariff refunds with customers
-
-Companies receiving billions in refunds for U.S. tariffs struck down by the Supreme Court should return money to consumers, Sen. Elizabeth Warren said.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions](https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html?utm_source=lootura.com) — 2026-08-13T17:40:07.000Z
+- [An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce](https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html?utm_source=lootura.com) — 2026-08-14T12:08:01.000Z

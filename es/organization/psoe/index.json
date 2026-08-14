@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T09:04:36.303Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,16 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno",
+      "summary": "El grupo confederal pide mantener el calendario de cierre acordado y lamenta seguir un \"camino irresponsable\": \"No podemos seguir el camino de la derecha y la extrema derecha\" El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2030 por “el conflicto en Oriente Medio” Sumar ha rechazado la prórro.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno",
+      "summary": "Sumar ha rechazado la decisión del Ministerio para la Transición Ecológica de autorizar la ampliación de la vida de la central nuclear de Almaraz hasta el 2030 y considera que la medida supone un incumplimiento de los acuerdos para la formación de gobierno entre el PSOE y la formación política. Seguir leyendo...",
+      "date": "2026-08-14"
+    },
     {
       "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
       "summary": "Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».",
@@ -60,25 +70,21 @@
       "title": "Madrid y la Delegación de Gobierno, a la greña también por el eclipse solar",
       "summary": "El Gobierno de Madrid (PP) ha dicho no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catálogo de iniciativas, p.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Rifirrafe entre el Gobierno de Ayuso y la Delegación a cuenta de limitar los accesos a los montes durante el eclipse",
-      "summary": "El Gobierno de Madrid (PP) ha dicho este martes no a las medidas restrictivas de la movilidad en entornos naturales que le reclamó el lunes el delegado del Gobierno en la región, Francisco Martín (PSOE), para evitar incendios y garantizar la seguridad el día del eclipse . O más sutilmente, le ha contestado con el catál.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El empresario que compró la parcela de Chipiona junto al PSOE de La Rinconada era afiliado socialista",
-      "summary": "El polémico solar de Chipiona que vuelve a estar en el foco por la operación urbanística que rodeó su adquisición tiene detrás a un empresario cuya relación con el PSOE era mucho más estrecha de lo que podría parecer a primera vista. Se trata de Joaquín Guerrero Romero, promotor inmobiliario que participó junto al Ayun.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
-      "url": "https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T10:46:37.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno",
+      "url": "https://www.eldiario.es/politica/sumar-rechaza-prorroga-central-nuclear-almaraz-acusa-psoe-incumplir-pacto-gobierno_1_13447068.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:27:42.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno",
+      "url": "https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T10:17:44.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

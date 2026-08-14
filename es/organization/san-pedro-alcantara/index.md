@@ -40,4 +40,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Una asociación trans lleva ante la Justicia y el Gobierno el caso de la asesinada en Marbella](https://www.larazon.es/andalucia/malaga/asociacion-trans-lleva-justicia-gobierno-caso-asesinada-marbella_202608146a7ed725a5690f047379228b.html?utm_source=lootura.com) — 2026-08-14T08:51:49.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -72,5 +72,3 @@ Date: 2026-08-12
 
 - [Feds probe 'mention markets' amid White House Kalshi controversy](https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com) — 2026-08-14T02:06:10.000Z
 - [Judge drops Nevada case against electors accused of forging certificate in 2020 election](https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com) — 2026-08-14T05:42:35.000Z
-- [How Trump's construction projects are changing Washington and costing taxpayers](https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com) — 2026-08-13T22:50:08.000Z
-- [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z

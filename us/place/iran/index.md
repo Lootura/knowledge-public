@@ -3,10 +3,16 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
+
+Keeping gas prices low is now the United States’ “goal No.
+
+Date: 2026-08-14
 
 ### Families concerned about reports of mental health crisis on USS Lincoln
 
@@ -62,12 +68,6 @@ New comments from President Donald Trump confirm that he secretly swapped planes
 
 Date: 2026-08-12
 
-### Has the U.S. lost its dominance to China?
-
-Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story "The Future, Made in China.".
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
+- [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z

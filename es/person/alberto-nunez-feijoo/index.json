@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T13:00:07.745Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
+      "summary": "El PP cree que la prórroga \"supone el reconocimiento del fracaso de la política energética\" de Sánchez y le afea que lo anuncie \"de tapadillo\" Leer.",
+      "date": "2026-08-14"
+    },
     {
       "title": "El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición",
       "summary": "Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.",
@@ -66,13 +71,15 @@
       "title": "Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península",
       "summary": "Mientras decenas de miles de personas abandonan Ceuta para regresar a Marruecos tras el fracaso de la entrada masiva, otros aún deambulan por las calles.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta",
-      "summary": "El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
+      "url": "https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T10:41:53.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

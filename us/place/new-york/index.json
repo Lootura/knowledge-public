@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern",
+      "summary": "Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in New York City, is expected in federal court as sources say he may plea guilty. Legal analyst Joe Tamburino joins with more details about the questions concerning the future of his New York state trial.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
+      "summary": "The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that onl.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.",
@@ -72,18 +82,21 @@
       "title": "Boat captain charged after vessel capsizes near Statue of Liberty, killing woman and her child",
       "summary": "The captain of an unlicensed boat that capsized in the New York harbor near Liberty Island, killing a young mother and her baby, has been charged in their deaths. NBC News' Marquise Francis reports.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Mother, 5-month-old die in New York Harbor after boat capsized; captain arrested",
-      "summary": "A 46-year-old man was arrested on reckless endangerment charges, and authorities are investigating whether the boat was an illegal charter.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Mother, 5-month-old baby killed in New York boat capsize, captain arrested",
-      "summary": "The captain of a boat that overturned in New York Harbor was charged with reckless endangerment. Twelve people were saved, but a mother and her 5-month-old daughter died. Michael George reports.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern",
+      "url": "https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:34:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T10:00:25.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
+      "summary": "Keeping gas prices low is now the United States’ “goal No.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Families concerned about reports of mental health crisis on USS Lincoln",
       "summary": "Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.",
@@ -60,18 +65,13 @@
       "title": "Trump Addresses Elaborate Plane Swap Ruse to Keep Him Safe",
       "summary": "New comments from President Donald Trump confirm that he secretly swapped planes as he left an international summit because of a threat from Iran. A U.S. official tells NBC News that the threat included the possibility of the Iranian regime targeting the president with a shoulder-fired missile. NBC’s Gabe Gutierrez rep.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Has the U.S. lost its dominance to China?",
-      "summary": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story \"The Future, Made in China.\".",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "Families concerned about reports of mental health crisis on USS Lincoln",
-      "url": "https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:37:30.000Z",
+      "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
+      "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:14:12.351Z",
       "sourceId": "lootura-us-nbc-news"
     }
   ],

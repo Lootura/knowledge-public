@@ -3,10 +3,16 @@
 > Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/person/karoline-leavitt
 
 ## Recent changes
+
+### Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi
+
+The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children and her 60-year-old husband. According to a post by Trump On Truth Social, Leavitt.
+
+Date: 2026-08-14
 
 ### Who Might Replace Karoline Leavitt as Press Secretary?
 
@@ -52,4 +58,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide?utm_source=lootura.com) — 2026-08-14T11:00:27.000Z

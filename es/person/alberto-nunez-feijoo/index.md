@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
+
+El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
+
+Date: 2026-08-14
 
 ### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
 
@@ -62,12 +68,6 @@ Mientras decenas de miles de personas abandonan Ceuta para regresar a Marruecos 
 
 Date: 2026-08-02
 
-### Feijóo niega que exista «la normalidad de la que habla el Gobierno» en Ceuta
-
-El presidente del PP, Alberto Núñez Feijóo , ha asegurado que no existe «la normalidad de la que habla el Gobierno» en Ceuta y que «basta con pisar la calle para comprobarlo», como ha expresado en un mensaje publicado en su cuenta de X acompañado de un vídeo grabado en las calles de la ciudad autónoma. «Por humanidad,.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z

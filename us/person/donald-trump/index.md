@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -14,15 +14,39 @@ Some Americans can now own short-barreled rifles, shotguns and silencers without
 
 Date: 2026-08-14
 
-### Trump declares 100 percent tariffs on many drones and all aircraft parts
-
-The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.
-
-Date: 2026-08-14
-
 ### Judge drops Nevada case against electors accused of forging certificate in 2020 election
 
 The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).
+
+Date: 2026-08-14
+
+### Trump-Picked Kennedy Center Board Votes to Add Trump's Name
+
+The board of the Kennedy Center, appointed by President Trump, voted Thursday to add Trump’s name back to the building’s facade. They also voted to close the main building for renovations for two years, keeping only a small portion open.
+
+Date: 2026-08-14
+
+### Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi
+
+The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children and her 60-year-old husband. According to a post by Trump On Truth Social, Leavitt.
+
+Date: 2026-08-14
+
+### US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived
+
+Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity (DEI) movement as companies were warned “go woke, go broke”. In January 2025, Donald Trump delivered a de.
+
+Date: 2026-08-14
+
+### Trump’s Justice Dept. Targets Smaller Fraud Cases
+
+As the Trump administration drops charges against corporations and the wealthy, it is also taking aim at small-scale fraud cases, including against the operator of a weathered food truck in California.
+
+Date: 2026-08-14
+
+### Trump declares 100 percent tariffs on many drones and all aircraft parts
+
+The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.
 
 Date: 2026-08-14
 
@@ -44,35 +68,11 @@ President Trump is pressing ahead with an ambitious effort to reshape Washington
 
 Date: 2026-08-13
 
-### Funding milestone detected
-
-The Trump administration said it would stop funding the Arctic Report Card, the longstanding effort to collect research on how the fastest-warming place on Earth is changing. It's the latest in a series of moves by the administration to curtail scientific research into the impacts of climate change. William Brangham di.
-
-Date: 2026-08-13
-
-### These swing voters in Nevada say they are not dismissing socialist candidates
-
-In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism. (Image credit: Scott Olson).
-
-Date: 2026-08-13
-
-### Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation
-
-President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.
-
-Date: 2026-08-13
-
-### Kennedy Center Board Decides to Inscribe Trump’s Name on Building
-
-The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Ruling allows Americans to own short-barreled rifles, shotguns, silencers without registration](https://www.cbsnews.com/video/americans-can-now-possess-short-barreled-rifles-shotguns-and-silencers-without-registration/?utm_source=lootura.com) — 2026-08-14T01:10:57.000Z
+- [Trump-Picked Kennedy Center Board Votes to Add Trump's Name](https://www.today.com/video/trump-picked-kennedy-center-board-votes-to-add-trump-s-name-268306501845?utm_source=lootura.com) — 2026-08-14T12:18:30.000Z
 - [Judge drops Nevada case against electors accused of forging certificate in 2020 election](https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com) — 2026-08-14T05:42:35.000Z
-- [How Trump's construction projects are changing Washington and costing taxpayers](https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com) — 2026-08-13T22:50:08.000Z
-- [Trump administration ends funding for Arctic climate report](https://www.pbs.org/newshour/show/trump-administration-ends-funding-for-arctic-climate-report?utm_source=lootura.com) — 2026-08-13T22:35:49.000Z
-- [Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved](https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com) — 2026-08-13T18:08:37.000Z
-- [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts?utm_source=lootura.com) — 2026-08-14T01:06:15.000Z
+- [Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide?utm_source=lootura.com) — 2026-08-14T11:00:27.000Z
+- [US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived](https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance?utm_source=lootura.com) — 2026-08-14T11:00:27.000Z
+- [Trump’s Justice Dept. Targets Smaller Fraud Cases](https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html?utm_source=lootura.com) — 2026-08-14T09:02:49.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/west-bank/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/west-bank/index.json",
   "description": "Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "Cisjordan",
     "Judea and Samaria",
     "WestBank"
   ],
   "changes": [
+    {
+      "title": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+      "summary": "Shabjdeed, a rapper in the West Bank, criticized a fellow Palestinian musician in a song, saying his Western lifestyle and lyrics were far removed from life back home.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "West Bank first entered the public knowledge record with source-backed evidence.",
@@ -44,10 +49,10 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
-      "url": "https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:54:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
+      "url": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:02:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 2

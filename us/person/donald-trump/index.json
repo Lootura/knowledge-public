@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -31,13 +31,33 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.",
+      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
       "date": "2026-08-14"
     },
     {
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
+      "title": "Trump-Picked Kennedy Center Board Votes to Add Trump's Name",
+      "summary": "The board of the Kennedy Center, appointed by President Trump, voted Thursday to add Trump’s name back to the building’s facade. They also voted to close the main building for renovations for two years, keeping only a small portion open.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi",
+      "summary": "The press secretary’s communication style made her eminently qualified for a role in this administration Karoline Leavitt, 28, is leaving her demanding job as Donald Trump’s press secretary to spend more time with her two young children and her 60-year-old husband. According to a post by Trump On Truth Social, Leavitt.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+      "summary": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity (DEI) movement as companies were warned “go woke, go broke”. In January 2025, Donald Trump delivered a de.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
+      "summary": "As the Trump administration drops charges against corporations and the wealthy, it is also taking aim at small-scale fraud cases, including against the operator of a weathered food truck in California.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+      "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers , robots , and Roombas . Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential.",
       "date": "2026-08-14"
     },
     {
@@ -54,26 +74,6 @@
       "title": "Funding milestone detected",
       "summary": "President Trump is pressing ahead with an ambitious effort to reshape Washington with new construction and renovations. The White House projects alone are now estimated to cost at least $900 million, with taxpayers funding a significant portion, despite earlier promises that private donors would cover most of the bill.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "The Trump administration said it would stop funding the Arctic Report Card, the longstanding effort to collect research on how the fastest-warming place on Earth is changing. It's the latest in a series of moves by the administration to curtail scientific research into the impacts of climate change. William Brangham di.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "summary": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism. (Image credit: Scott Olson).",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
-      "summary": "President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
-      "summary": "The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -84,34 +84,34 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Trump-Picked Kennedy Center Board Votes to Add Trump's Name",
+      "url": "https://www.today.com/video/trump-picked-kennedy-center-board-votes-to-add-trump-s-name-268306501845?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:18:30.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
       "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
       "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com",
       "publishedAt": "2026-08-14T05:42:35.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "How Trump's construction projects are changing Washington and costing taxpayers",
-      "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:50:08.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:00:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "Trump administration ends funding for Arctic climate report",
-      "url": "https://www.pbs.org/newshour/show/trump-administration-ends-funding-for-arctic-climate-report?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:35:49.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+      "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:00:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     },
     {
-      "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T18:08:37.000Z",
+      "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T09:02:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
-      "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T01:06:15.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 7

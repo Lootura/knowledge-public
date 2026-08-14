@@ -3,10 +3,16 @@
 > Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/nico-williams
 
 ## Cambios recientes
+
+### Socios del Athletic piden convertir el homenaje a sus Campeones del Mundo en un acto a favor de la 'Euskal Selekzioa'
+
+Un grupo de socios del Athletic club de Bilbao, agrupados en la asociación 'Athleticen Alde Bustiko Gara', reclama convertir el homenaje previsto a sus Campeones del Mundo en una reivindicación por la oficialidad de la 'Euskal Selekzioa' (selección vasca). Ante el reconocimiento a Unai Simón, Nico Williams y Aymeric La.
+
+Date: 2026-08-14
 
 ### El aplauso de todo el Athletic a los tres campeones del mundo que ya entrenan en Lezama
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Socios del Athletic piden convertir el homenaje a sus Campeones del Mundo en un acto a favor de la 'Euskal Selekzioa'](https://www.abc.es/deportes/socios-athletic-piden-convertir-homenaje-campeones-mundo-20260814130930-nt.html?utm_source=lootura.com) — 2026-08-14T11:28:20.000Z

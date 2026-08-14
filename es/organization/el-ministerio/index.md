@@ -70,6 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"](https://www.20minutos.es/nacional/gobierno-prolonga-vida-central-nuclear-almaraz-hasta-junio-2030_7025657_0.html?utm_source=lootura.com) — 2026-08-14T06:43:32.000Z
-- [Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava](https://www.elcorreo.com/alava/araba/empresa-francesa-lanza-busqueda-hidrogeno-helio-suelo-alava-20260813130106-nt_amp.html?utm_source=lootura.com) — 2026-08-13T11:02:32.000Z
-- [El Gobierno renueva la autorización para la central nuclear de Almaraz hasta el 2030](https://www.lavanguardia.com/economia/20260814/11613706/gobierno-renueva-autorizacion-central-nuclear-almaraz-junio-2030.html?utm_source=lootura.com) — 2026-08-14T07:00:15.000Z
+No public source links.

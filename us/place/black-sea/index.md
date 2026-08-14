@@ -46,4 +46,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [The 71st Eurovision contest will take place in Bulgaria's Black Sea city of Burgas](https://www.pbs.org/newshour/arts/the-71st-eurovision-contest-will-take-place-in-bulgarias-black-sea-city-of-burgas?utm_source=lootura.com) — 2026-08-13T22:37:55.000Z
+No public source links.

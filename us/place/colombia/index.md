@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-14T13:00:31.336Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Search for survivors of Colombia earthquake enters "final phase"](https://www.cbsnews.com/news/colombia-earthquake-survivors-search-final-phase/?utm_source=lootura.com) — 2026-08-13T16:35:37.000Z
 - [They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"](https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com) — 2026-08-14T00:30:18.000Z
 - [News Wrap: Earthquake death toll in Colombia tops 260](https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com) — 2026-08-13T22:57:36.000Z

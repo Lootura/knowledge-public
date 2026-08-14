@@ -3,7 +3,7 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-09T20:28:37.928Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Arabia Saudí consolida su modelo turístico con una acreditación de excelencia internacional](https://theobjective.com/internacional/2026-08-14/arabia-saudi-modelo-turistico/?utm_source=lootura.com) — 2026-08-14T11:42:45.000Z

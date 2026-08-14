@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-08-14T13:00:31.336Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -34,13 +34,18 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Abraham Lincoln first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-13"
+      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
+      "summary": "Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.",
+      "date": "2026-08-14"
     },
     {
-      "title": "Families concerned about reports of mental health crisis on USS Lincoln",
-      "summary": "Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.",
+      "title": "Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln",
+      "summary": "There are growing concerns about conditions aboard the USS Abraham Lincoln from families of sailors and members of Congress. After more than nine months at sea, sailors' families say it lacks basic supplies and is affecting mental health. Charlie D'Agata reports.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Abraham Lincoln first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
     },
     {
@@ -54,13 +59,13 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
-      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
+      "title": "Families concerned about reports of mental health crisis on USS Lincoln",
+      "summary": "Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.",
       "date": "2026-08-13"
     },
     {
-      "title": "Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln",
-      "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been ‘completely misrepresented’ The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln “completely misr.",
+      "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
       "date": "2026-08-13"
     }
   ],
@@ -69,6 +74,18 @@
       "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
       "url": "https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com",
       "publishedAt": "2026-08-14T01:37:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
+      "url": "https://www.cbsnews.com/video/hegseth-reacts-to-scary-concerns-about-uss-abraham-lincoln-shortages-and-bad-conditions/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:26:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln",
+      "url": "https://www.cbsnews.com/video/sailors-dad-expresses-concern-over-conditions-length-of-deployment-on-uss-lincoln/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T12:40:13.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -84,12 +101,6 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Families concerned about reports of mental health crisis on USS Lincoln",
-      "url": "https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T17:37:30.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
       "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln?utm_source=lootura.com",
       "publishedAt": "2026-08-14T06:31:29.000Z",
@@ -102,5 +113,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

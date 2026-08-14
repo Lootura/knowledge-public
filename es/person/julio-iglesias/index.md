@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T17:19:26.220Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### Julio Iglesias revela la rutina que mantiene a sus 82 años: caminatas, natación y un buen vaso de vino todas las noches
+
+Julio Iglesias , uno de los artistas españoles más universales de todos los tiempos, ha convertido su retiro en una oda a la longevidad y la templanza. A sus 82 años , lejos de los focos y la vorágine de los grandes escenarios, el cantante sigue una disciplina espartana que desafía el paso del tiempo. Su vida actual no.
+
+Date: 2026-08-14
 
 ### Una cantante presume de su pasado en ‘First Dates’: «Me acosté con la mitad que Julio Iglesias»
 
@@ -46,4 +52,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Julio Iglesias revela la rutina que mantiene a sus 82 años: caminatas, natación y un buen vaso de vino todas las noches](https://www.larazon.es/gente/famosos/julio-iglesias-revela-rutina-que-mantiene-sus-82-anos-caminatas-natacion-buen-vaso-vino-todas-noches-b50m_202608146a7f0a5571b42a0b5deeeeb9.html?utm_source=lootura.com) — 2026-08-14T12:30:13.000Z

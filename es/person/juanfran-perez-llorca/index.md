@@ -3,10 +3,16 @@
 > Sigue la actividad de Juanfran Pérez Llorca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-08-14T13:00:07.745Z
 - Canonical: https://atlas.lootura.com/es/person/juanfran-perez-llorca
 
 ## Cambios recientes
+
+### Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"
+
+El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la central nuclear de Cofrentes reciba el mismo trato que la de Almaraz , en Cáceres, después de que el Gobierno haya renovado la autorización de esta última hasta, al menos, junio de 2030 . Pérez Llorca denunció que “la Comunitat Valenciana no mere.
+
+Date: 2026-08-14
 
 ### La Generalitat ordena la evacuación de Catí por el incendio de Tírig (Castellón)
 
@@ -52,4 +58,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"](https://www.20minutos.es/comunidad-valenciana/valencia/perez-llorca-exige-mismo-trato-central-nuclear-cofrentes-que-almaraz-comunitat-valenciana-no-merece-este-agravio_7025837_0.html?utm_source=lootura.com) — 2026-08-14T11:47:36.000Z
