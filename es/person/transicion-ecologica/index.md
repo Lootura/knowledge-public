@@ -3,10 +3,16 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### Una prórroga insuficiente
+
+El Gobierno ha decidido prolongar la explotación de los dos reactores de la central nuclear de Almaraz hasta el 8 de junio de 2030. Lo ha hecho sin una especial escenificación política, mediante la publicación en el Boletín Oficial del Estado de una orden del Ministerio para la Transición Ecológica que añade 31 meses d.
+
+Date: 2026-08-14
 
 ### Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno
 
@@ -62,12 +68,6 @@ La vicepresidenta primera del Gobierno y ministra para la Transición Ecológica
 
 Date: 2026-08-09
 
-### El Gobierno se compromete a cubrir la mitad del coste de restauración de la superficie afectada en Niebla
-
-La vicepresidenta y ministra de Transición Ecológica, Sara Aagesen, apela a la Junta de Andalucía a unirse a un "pacto de país o un pacto frente a una emergencia climática".
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno](https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html?utm_source=lootura.com) — 2026-08-14T10:17:44.000Z
+- [Una prórroga insuficiente](https://www.abc.es/opinion/editorial-prorroga-insuficiente-20260814180616-nt.html?utm_source=lootura.com) — 2026-08-14T16:06:38.000Z

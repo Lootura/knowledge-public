@@ -3,20 +3,20 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
-
-El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
-
-Date: 2026-08-14
-
 ### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
 
 El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
+
+Date: 2026-08-14
+
+### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
+
+El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
 
 Date: 2026-08-14
 
@@ -70,6 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"](https://www.elconfidencial.com/espana/2026-08-14/prorroga-central-almaraz-parche-pp-gestion-sanchez_4405986/?utm_source=lootura.com) — 2026-08-14T08:47:00.000Z
 - [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
-- [La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”](https://www.eldiario.es/madrid/complutense-rechaza-publicar-expediente-academico-ayuso-pese-reconocer-hay-interes-general_1_13446735.html?utm_source=lootura.com) — 2026-08-14T08:15:13.000Z

@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Socios del Athletic piden convertir el homenaje a sus Campeones del Mundo en un acto a favor de la 'Euskal Selekzioa'](https://www.abc.es/deportes/socios-athletic-piden-convertir-homenaje-campeones-mundo-20260814130930-nt.html?utm_source=lootura.com) — 2026-08-14T11:28:20.000Z
+No public source links.

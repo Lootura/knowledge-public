@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-10
 ## Sources
 
 - [Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern](https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com) — 2026-08-14T12:34:52.000Z
-- [‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons](https://www.theguardian.com/artanddesign/2026/aug/14/marina-abramovic-balloon-museum-show-interview?utm_source=lootura.com) — 2026-08-14T10:00:25.000Z

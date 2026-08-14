@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"](https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com) — 2026-08-14T01:37:19.000Z
-- [New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln](https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln?utm_source=lootura.com) — 2026-08-14T06:31:29.000Z
+No public source links.

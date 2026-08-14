@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-08-12
 
 ## Sources
 
+- [U.S. and Iran in "deadlock" as both claim control of Stait of Hormuz, expert says](https://www.cbsnews.com/video/us-and-iran-in-deadlock-strait-of-hormuz-expert-says/?utm_source=lootura.com) — 2026-08-14T16:13:00.000Z
 - [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z

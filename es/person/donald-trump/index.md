@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
+
+El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
+
+Date: 2026-08-14
 
 ### EEUU paga el mayor interés por su deuda a 30 años desde 2001
 
@@ -62,12 +68,6 @@ Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía d
 
 Date: 2026-08-11
 
-### Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense
-
-La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-14T05:02:58.000Z
+- [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z

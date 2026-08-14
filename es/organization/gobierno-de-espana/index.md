@@ -70,6 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?](https://www.lavanguardia.com/politica/20260814/11613752/dificil-expulsar-inmigrantes-llegaron-ceuta-forma-irregular.html?utm_source=lootura.com) — 2026-08-14T10:50:37.000Z
-- [El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”](https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html?utm_source=lootura.com) — 2026-08-14T11:51:35.000Z
-- [Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años](https://theobjective.com/espana/2026-08-14/afganos-espana-retorno-taliban-pais-cinco-anos/?utm_source=lootura.com) — 2026-08-14T08:15:29.000Z
+No public source links.

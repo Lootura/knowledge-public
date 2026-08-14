@@ -64,19 +64,6 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin",
-      "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:00:03.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "How Thanksgiving Became Political: Francesca Hong’s Tweets Explained",
-      "url": "https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T13:28:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

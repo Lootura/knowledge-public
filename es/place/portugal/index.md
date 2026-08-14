@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal
+
+El ciclista galés Finlay Tarling ha fallecido este viernes a los 19 años tras chocar con un vehículo que circulaba en dirección contraria. El corredor de.
+
+Date: 2026-08-14
 
 ### Galicia: marisco, empanada, pulpo y caldeiradas
 
@@ -62,12 +68,7 @@ Portugal first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-11
 
-### La "bola de fuego" que calcinó a decenas de personas en la 'carretera de la muerte' en un incendio en Portugal en 2017
-
-Un total de 64 personas perdieron la vida en un episodio trágico con algunos paralelismos con el drama actual en Almería Leer.
-
-Date: 2026-07-11
-
 ## Fuentes
 
-No public source links.
+- [Tragedia en la Vuelta a Portugal: muere a los 19 años Finlay Tarling al ser atropellado por un coche en plena etapa](https://okdiario.com/deportes/tragedia-vuelta-portugal-muere-19-anos-finlay-tarling-ser-atropellado-coche-plena-etapa-19182199/amp?utm_source=lootura.com) — 2026-08-14T16:39:56.000Z
+- [Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal](https://theobjective.com/deportes/2026-08-14/muere-finlay-tarling-ciclista-de-19-anos-cuando-corria-la-vuelta-a-portugal/?amp=&utm_source=lootura.com) — 2026-08-14T16:49:32.000Z

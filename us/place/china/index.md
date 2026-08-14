@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Why China should reassess how it rewards young scientists
 
 Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
+
+Date: 2026-08-14
+
+### US could exhaust domestic phosphorus within 40 years, but waste offers reserves
+
+The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already depend on imports from China and Morocco to meet their needs. Without phosphorus, crops cannot grow—and without a reliable supply of the mineral, the world's food supply is at risk.
 
 Date: 2026-08-14
 
@@ -62,13 +68,7 @@ Cheng Li-wun once called for the destruction of the party she now leads. Back in
 
 Date: 2026-08-11
 
-### News Wrap: Trump signs order calling for MMR vaccine split into 3 shots
-
-In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across separate doctor visits, Tropical Storm Dolphin made landfall in eastern China and President Trump's Board of Peace says it's in discussions with Israel after Prime Minister Netanyahu reje.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
-- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
+- [Why China should reassess how it rewards young scientists](https://www.nature.com/articles/d41586-026-02525-1?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
+- [US could exhaust domestic phosphorus within 40 years, but waste offers reserves](https://phys.org/news/2026-08-exhaust-domestic-phosphorus-years-reserves.html?utm_source=lootura.com) — 2026-08-14T15:40:04.000Z

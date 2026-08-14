@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/grand-staircase/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/grand-staircase/index.json",
   "description": "Follow Grand Staircase, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-14T20:58:39.119Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Trump Sharply Cuts the Size of Two National Monuments in Utah",
-      "summary": "Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.",
-      "date": "2026-07-13"
+      "title": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
+      "summary": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah.",
+      "date": "2026-08-14"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Grand Staircase first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Trump Sharply Cuts the Size of Two National Monuments in Utah",
+      "summary": "Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.",
       "date": "2026-07-13"
     },
     {
@@ -27,6 +32,13 @@
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
+      "url": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:46:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

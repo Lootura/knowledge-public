@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson](https://www.larazon.es/videojuegos/series/no-es-sauron-anillos-poder-recupera-villano-original-trilogia-peter-jackson_202608146a7eef4c71b42a0b5deebced.html?utm_source=lootura.com) — 2026-08-14T12:30:00.000Z
+No public source links.

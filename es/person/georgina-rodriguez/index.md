@@ -58,4 +58,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El acuerdo prematrimonial de Cristiano y Georgina](https://www.abc.es/gente/acuerdo-prematrimonial-cristiano-ronaldo-firmado-georgina-rodriguez-20260814141401-nt.html?utm_source=lootura.com) — 2026-08-14T12:31:49.000Z
+No public source links.

@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin](https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121?utm_source=lootura.com) — 2026-08-13T22:00:03.000Z
+No public source links.

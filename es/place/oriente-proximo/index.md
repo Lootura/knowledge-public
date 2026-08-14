@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo
+
+Los inversores se han movido entre las dudas y la incertidumbre en la segunda semana de agosto, uno de los meses en los que tradicionalmente el volumen de negociación es menor que el resto del año debido a la época estival. Las Bolsas han encarado el viernes entre la reacción a una inflación estadounidense más benévola.
+
+Date: 2026-08-14
 
 ### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
 
@@ -62,12 +68,6 @@ Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Pr
 
 Date: 2026-08-10
 
-### El Ibex prueba la remontada mientras el petróleo repunta por la incertidumbre en Oriente Próximo
-
-Las Bolsas arrancan una nueva semana condicionadas por el esperado acuerdo de paz en Oriente Próximo que no llega. Pese a los escasos avances después de que Irán dijera este domingo que un acuerdo con Omán que define nuevas rutas marítimas en el Estrecho de Ormuz estaba en sus etapas finales, pero reiteró que la vía ma.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-14T16:18:57.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/warner-bros/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/warner-bros/index.json",
   "description": "Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T20:40:38.161Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
+      "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street —Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the un.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Paramount Skydance agrees to halt Warner Bros. merger until next June",
       "summary": "Paramount Skydance has agreed to freeze its merger with rival Hollywood studio Warner Bros.",
@@ -55,13 +60,15 @@
       "title": "Discovered by Atlas",
       "summary": "Warner Bros. first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "States sue to stop Paramount-Warner Bros blockbuster merger",
-      "summary": "California is among the states suing to block Paramount from buying Warner Bros. Discovery in a Hollywood mega-merger that would unite some of the nation's largest movie studios and TV newsrooms. (Image credit: Bloomberg via Getty Images).",
-      "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
+      "url": "https://time.com/article/2026/08/10/the-end-of-oak-street-jurassic-park-comparison/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:35:56.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
 }

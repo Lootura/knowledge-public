@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument?utm_source=lootura.com) — 2026-08-14T08:40:13.000Z
+No public source links.

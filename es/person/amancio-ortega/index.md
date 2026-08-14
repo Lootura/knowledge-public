@@ -3,10 +3,22 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T01:26:07.655Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings
+
+La inversión de Amancio Ortega en Australia llega a buen puerto . A través de su family office Pontegadea, el empresario textil ha cerrado la compra de un 15% de Qube Holdings , gestor portuario y logístico, en una operación valorada en alrededor de 1.070 millones de euros. La empresa australiana comunicó este viernes.
+
+Date: 2026-08-14
+
+### Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings
+
+Pontegadea y sus socios, Macquarie Asset Managemet y UniSuper , han ejecutado este viernes el cierre de la compra del operador logístico Qube Holdings , en una operación que valora la empresa en 11.700 millones de dólares australianos (unos 7.000 millones de euros), incluyendo deuda. Seguir leyendo.
+
+Date: 2026-08-14
 
 ### Amancio Ortega (90 años), fundador de Inditex, sobre su infancia: «En casa no había lujos. No había nada de nada, pero nos educaron con valores»
 
@@ -56,18 +68,7 @@ Pontegadea da el campanazo con la mayor compra de un inmueble que cierra en Euro
 
 Date: 2026-07-23
 
-### Sanda Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex
-
-Sandra Ortega, primogénita del principal accionista de Inditex, Amancio Ortega , y segunda mayor inversora a título individual del gigante textil, alcanzó unos beneficios de 307 millones de euros en 2025 a través de su holding empresarial Rosp Corunna. A través de este posee el 5,05% del capital del grupo gallego, adem.
-
-Date: 2026-07-23
-
-### Pontegadea sella su operación récord en Europa con una compra en París por 800 millones
-
-Pontegadea da el campanazo con la mayor compra de un inmueble que cierra en Europa en toda su historia. La patrimonial de Amancio Ortega ha comprado Capital 8 en París por más de 800 millones de euros , según ha podido confirmar EXPANSIÓN en fuentes del mercado. Seguir leyendo.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings](https://cincodias.elpais.com/companias/2026-08-14/amancio-ortega-desembarca-en-los-puertos-de-australia-al-sellar-la-compra-del-15-de-qube-holdings.html?utm_source=lootura.com) — 2026-08-14T14:19:00.000Z
+- [Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings](https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com) — 2026-08-14T16:21:28.000Z

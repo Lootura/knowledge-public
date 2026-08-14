@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,16 @@
     {
       "title": "Einstein the musician, AI prophets and more: Books in brief",
       "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6 Andrew Robinson reviews five of the best science picks.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Exclusive: Claude Was Put in Charge of Human Workers—and Fired One",
+      "summary": "A view of items on sale at Andon Market. —Courtesy of Andon Labs A version of Claude that was put in charge of running a retail store—including managing a team of real human workers—fired its first employee last month, in a move described by researchers as a watershed moment in AI’s impact on the economy. The news has.",
       "date": "2026-08-14"
     },
     {
@@ -66,37 +76,39 @@
       "title": "Does Google even want to win at AI?",
       "summary": "Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the com.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Agentic profiles for effective AI governance",
-      "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Teaching AI the biology of antibodies speeds drug discovery",
-      "summary": "Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but only a tiny fraction will recognize and bind tightly to the disease target. Identifying those rare candidates has long been one of the biggest.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
       "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
       "url": "https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T13:00:35.584Z",
+      "publishedAt": "2026-08-14T16:51:03.117Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "url": "https://www.nature.com/articles/d41586-026-02562-w?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:51:03.117Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "AI isn’t ready to research itself",
       "url": "https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T13:00:35.584Z",
+      "publishedAt": "2026-08-14T16:51:03.117Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Einstein the musician, AI prophets and more: Books in brief",
       "url": "https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T13:00:35.583Z",
+      "publishedAt": "2026-08-14T16:51:03.117Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Exclusive: Claude Was Put in Charge of Human Workers—and Fired One",
+      "url": "https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:13:50.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad
+
+La Feria de Málaga 2026 comienza a tomar las calles del Centro Histórico desde la tarde del viernes 14 de agosto, antes de los grandes espectáculos nocturnos. Una recreación histórica volverá a trasladar a malagueños y visitantes hasta finales del siglo XV, con dos comitivas que confluirán en uno de los escenarios monu.
+
+Date: 2026-08-14
 
 ### Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)
 
@@ -62,12 +68,6 @@ Un peatón ha fallecido esta madrugada tras ser atropellado en la A-7 a su paso 
 
 Date: 2026-08-09
 
-### La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer
-
-La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)](https://www.elconfidencial.com/espana/andalucia/2026-08-14/arrollado-tren-malaga-guadalhorce-1tna-1tps_4406070/?utm_source=lootura.com) — 2026-08-14T09:25:00.000Z
+- [La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad](https://www.elconfidencial.com/espana/andalucia/2026-08-14/cabalgata-historica-feria-malaga-2026-recorrido-horario-1qrt-1tna_4404798/?utm_source=lootura.com) — 2026-08-14T14:58:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
+      "summary": "El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.",
+      "date": "2026-08-14"
+    },
     {
       "title": "EEUU paga el mayor interés por su deuda a 30 años desde 2001",
       "summary": "EEUU ha pagado los mayores intereses para vender bonos a 30 años desde 2001 , mientras los inversores muestran su preocupación por el creciente volumen de deuda del país bajo la Administración de Donald Trump, así como por una inflación que sigue siendo persistentemente elevada. Seguir leyendo.",
@@ -69,20 +74,15 @@
       "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
       "summary": "Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
-      "summary": "La defensa del yen y la ofensa estadounidense al euro destapan la debilidad del dólar Leer.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'",
-      "url": "https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T05:02:58.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
+      "url": "https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:22:16.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

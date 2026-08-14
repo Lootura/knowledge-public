@@ -3,20 +3,20 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
 
-### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
-
-El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
-
-Date: 2026-08-14
-
 ### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
 
 El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.
+
+Date: 2026-08-14
+
+### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
+
+El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
 
 Date: 2026-08-14
 
@@ -70,5 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”](https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html?utm_source=lootura.com) — 2026-08-14T11:51:35.000Z
 - [El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta](https://theobjective.com/espana/politica/2026-08-14/pp-vivas-derecho-asilo-ceuta/?utm_source=lootura.com) — 2026-08-14T11:42:54.000Z

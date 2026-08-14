@@ -3,10 +3,34 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### La ampliación de Almaraz aviva el debate sobre el cierre nuclear en España
+
+La decisión del Gobierno de ampliar la vida útil de las dos unidades de la nuclear de Almaraz (Cáceres) modifica el calendario de cierre escalonado de los siete reactores que operan en España y pone fin al debate social y político generado en torno a esta planta, que aporta el 7 % de la electricidad anual en el país. L.
+
+Date: 2026-08-14
+
+### EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta
+
+El Departamento de Estado de Estados Unidos, encabezado por Marco Rubio, ha elevado el nivel de alerta en sus recomendaciones para los ciudadanos estadounidenses que tengan previsto viajar a España. En un mapa interactivo que puede consultarse a través de la web del departamento , el aviso de viaje para España incluye.
+
+Date: 2026-08-14
+
+### Los Jonas Brothers se van de vacaciones a Alicante antes del estreno de ‘Camp Rock 3’ y se quedan a cuadros: «Todo el mundo era holandés»
+
+Los Jonas Brothers han elegido España como escenario para desconectar durante unos días y disfrutar de unas vacaciones en familia. Joe, Nick y Kevin Jonas han aprovechado el parón de su gira musical para trasladarse hasta la costa de Alicante, concretamente a Jávea , donde han combinado jornadas de navegación por el Me.
+
+Date: 2026-08-14
+
+### Italia fue el país de la UE con más solicitantes de asilo nuevos en mayo, seguido de España
+
+Italia fue el país de la UE en el que más solicitudes de asilo de iniciaron en el mes de mayor, con 10.660 registros , según los últimos datos publicados este viernes por la oficina estadística comunitaria Eurostat. España fue el segundo, con 7.945 personas. Los resultados reflejan además una caída de las nuevas demand.
+
+Date: 2026-08-14
 
 ### Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años
 
@@ -44,37 +68,10 @@ El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petic
 
 Date: 2026-08-14
 
-### El eclipse solar que nos hizo gritar de emoción
-
-Eclipse total fotografiado el 12 de agosto en Herrera de Duero, España, con una Canon EOS 100D. Pablo Santos Sanz / IAA-CSIC. Mi primer recuerdo de lo que supone un eclipse solar data de 1984, año en que se produjo un eclipse parcial visible desde España . Recuerdo verlo desde la ventana de la casa de mis padres armado.
-
-Date: 2026-08-14
-
-### La ampliación de Almaraz aviva el debate sobre el cierre nuclear en España
-
-La decisión del Gobierno de ampliar la vida útil de las dos unidades de la nuclear de Almaraz (Cáceres) modifica el calendario de cierre escalonado de los siete reactores que operan en España y pone fin al debate social y político generado en torno a esta planta, que aporta el 7 % de la electricidad anual en el país. L.
-
-Date: 2026-08-14
-
-### La banca de inversión que sacó TSK a Bolsa le concede un potencial de hasta el 65%
-
-TSK ha dado el campanazo bursátil en España de los últimos años. La compañía de ingeniería firmó el mejor estreno en cinco años , y continúa exhibiendo un comportamiento fuera de lo común, con una revalorización del 23% desde el precio del debut de mediados de mayo. Esta vez, el libro de órdenes no ha defraudado. Y los.
-
-Date: 2026-08-14
-
-### Próximos eclipses en España: cuándo serán los dos fenómenos que completen el 'Trío Ibérico'
-
-El eclipse solar total del 12 de agosto ha sido el fenómeno astronómico más especial del año en España, pero este es solo el principio. Tras este acontecimiento, vendrán otros dos eclipses excepcionales que completarán el llamado 'Trío ibérico '. Esta secuencia histórica visible desde el territorio español es una coinc.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [La regularización dispara la afiliación de extranjeros y marca un nuevo récord con 3,5 millones](https://www.20minutos.es/lainformacion/economia-y-finanzas/regularizacion-inmigrantes-dispara-afiliacion-empleo-extranjero_7025736_0.html?utm_source=lootura.com) — 2026-08-14T09:42:06.000Z
-- [Una prótesis 'espacial' para salvar la pierna de Pierre](https://www.abc.es/salud/protesis-20260814201848-nt.html?utm_source=lootura.com) — 2026-08-14T12:26:59.000Z
-- [La DGT advierte: así será el operativo especial en carretera para la operación salida del 15 de agosto](https://www.elconfidencial.com/espana/2026-08-14/dgt-operativo-especial-carretera-operacion-salida-agosto_4405059/?utm_source=lootura.com) — 2026-08-14T10:19:00.000Z
-- [La chica que logró llegar a Ceuta, alterada con IA para vender un improbable ‘sueño europeo’](https://www.lavanguardia.com/vida/verificacion/20260814/11613867/chica-logro-llegar-ceuta-alterada-ia-vender-improbable-sueno-europeo.html?utm_source=lootura.com) — 2026-08-14T11:08:55.000Z
-- [El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”](https://www.lavanguardia.com/politica/20260814/11613917/presidente-ceuta-urge-cambios-legales-suspender-asilo-casos-invasion.html?utm_source=lootura.com) — 2026-08-14T11:51:35.000Z
-- [El eclipse solar que nos hizo gritar de emoción](https://theconversation.com/el-eclipse-solar-que-nos-hizo-gritar-de-emocion-289736?utm_source=lootura.com) — 2026-08-14T09:09:09.000Z
+- [España ha controlado a 3.561 viajeros de terceros países llegados desde Italia](https://www.20minutos.es/nacional/espana-ha-controlado-3-561-viajeros-terceros-paises-llegados-desde-italia_7025889_0.html?utm_source=lootura.com) — 2026-08-14T14:19:37.000Z
+- [EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta](https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-14T13:10:32.000Z
+- [Los Jonas Brothers se van de vacaciones a Alicante antes del estreno de ‘Camp Rock 3’ y se quedan a cuadros: «Todo el mundo era holandés»](https://okdiario.com/cool/famosos/jonas-brothers-van-vacaciones-alicante-antes-del-estreno-camp-rock-3-quedan-cuadros-todo-mundo-era-holandes-19180361?utm_source=lootura.com) — 2026-08-14T16:00:33.000Z
 - [La ampliación de Almaraz aviva el debate sobre el cierre nuclear en España](https://theobjective.com/economia/energia/2026-08-14/ampliacion-almaraz-cierre-nuclear-espana/?utm_source=lootura.com) — 2026-08-14T11:43:16.000Z
-- [Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años](https://theobjective.com/espana/2026-08-14/afganos-espana-retorno-taliban-pais-cinco-anos/?utm_source=lootura.com) — 2026-08-14T08:15:29.000Z
+- [Italia fue el país de la UE con más solicitantes de asilo nuevos en mayo, seguido de España](https://theobjective.com/internacional/2026-08-14/italia-pais-ue-solicitantes-asilo-nuevos-mayo-seguido-espana/?utm_source=lootura.com) — 2026-08-14T15:25:39.000Z

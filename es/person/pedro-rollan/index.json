@@ -1,0 +1,47 @@
+{
+  "id": "es-pedro-rollan",
+  "name": "Pedro Rollán",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/pedro-rollan",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/pedro-rollan",
+  "markdownUrl": "https://atlas.lootura.com/es/person/pedro-rollan/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/pedro-rollan/index.json",
+  "description": "Sigue la actividad de Pedro Rollán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "aliases": [
+    "Pedro Rollán Rollán"
+  ],
+  "changes": [
+    {
+      "title": "El presidente del Senado afirma que el Gobierno “está en rebeldía\" al no comparecer sus ministros",
+      "summary": "El presidente del Senado, Pedro Rollán , afirmó este miércoles que el Gobierno está \"en rebeldía con las Cortes Generales \" y lamentó \"profundamente\" que el ministro del Interior, Fernando Grande-Marlaska , no haya comparecido en la Cámara Alta \"como era su obligación en el día de hoy\" para informar de la crisis en Ceu.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Rollán pide un marco normativo que permita la devolución inmediata en «invasiones»",
+      "summary": "El presidente del Senado , el popular Pedro Rollán , ha urgido al Gobierno a aprobar un marco normativo que permita una «actuación expeditiva e inmediata» para la devolución de las personas que entraron de «manera ilegal e irregular» hace unas semanas en Ceuta , que lo ha calificado como «invasión». Así se ha pronuncia.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Pedro Rollán first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El presidente del Senado afirma que el Gobierno “está en rebeldía\" al no comparecer sus ministros",
+      "url": "https://www.elconfidencial.com/espana/2026-08-14/gobierno-senado-crisis-ceuta-1hms-1svm_4406224/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:27:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Rollán pide un marco normativo que permita la devolución inmediata en «invasiones»",
+      "url": "https://theobjective.com/espana/politica/2026-08-14/rollan-marco-normativo-devolucion-inmediata-invasiones/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T11:46:22.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

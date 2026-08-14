@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Selena Gomez and her mom accused of fraud over their mental health startup](https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411?utm_source=lootura.com) — 2026-08-14T00:37:54.000Z
+No public source links.

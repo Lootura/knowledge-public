@@ -40,5 +40,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes](https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com) — 2026-08-13T23:28:41.000Z
-- [Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity](https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html?utm_source=lootura.com) — 2026-08-14T09:02:18.000Z
+No public source links.

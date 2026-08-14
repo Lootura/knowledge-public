@@ -1,0 +1,45 @@
+{
+  "id": "es-izquierda-unida",
+  "name": "Izquierda Unida",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/izquierda-unida",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/izquierda-unida",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/izquierda-unida/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/izquierda-unida/index.json",
+  "description": "Sigue la actividad de Izquierda Unida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
+      "summary": "Antonio Maíllo (Lucena, Córdoba, 59 años) está estos días en la sierra de Huelva, donde sigue pendiente de los incendios que asolan a la provincia con más de 25.000 hectáreas calcinadas. El coordinador general de Izquierda Unida atiende a EL PAÍS por teléfono y defiende un cambio radical en las relaciones diplomáticas.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "IU pide replantear la relación con Marruecos: «No es un socio fiable» tras la crisis de Ceuta",
+      "summary": "El coordinador general Izquierda Unida , Antonio Maíllo , ha urgido este viernes al Gobierno central a «replantear toda la estrategia de actuación» con Marruecos tras la crisis migratoria en Ceuta , al que considera un socio «no fiable», al tiempo que ha tildado de «fracaso» la política de «apaciguamiento» realizada. E.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Izquierda Unida first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
+      "url": "https://elpais.com/espana/2026-08-14/antonio-maillo-marruecos-ha-cometido-una-accion-criminal-con-muertes-hay-que-replantearse-todo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "IU pide replantear la relación con Marruecos: «No es un socio fiable» tras la crisis de Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-08-14/iu-replantear-relacion-marruecos-socio-fiable-crisis-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:16:04.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

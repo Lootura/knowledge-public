@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### Julio Iglesias, cantante español (82 años): «En 1970 di 41 conciertos en 41 ciudades españolas distintas en 30 días; fue mi etapa rockera»
+
+Julio Iglesias es, todavía hoy, el artista español que más discos ha colocado en el mundo cantando en idiomas distintos al suyo. Su imagen quedó asociada durante décadas al romanticismo , los trajes claros y las baladas cantadas casi al oído, pero antes de esa etapa hubo otra bastante distinta. En una de sus entrevista.
+
+Date: 2026-08-14
 
 ### Julio Iglesias revela la rutina que mantiene a sus 82 años: caminatas, natación y un buen vaso de vino todas las noches
 
@@ -52,4 +58,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Julio Iglesias revela la rutina que mantiene a sus 82 años: caminatas, natación y un buen vaso de vino todas las noches](https://www.larazon.es/gente/famosos/julio-iglesias-revela-rutina-que-mantiene-sus-82-anos-caminatas-natacion-buen-vaso-vino-todas-noches-b50m_202608146a7f0a5571b42a0b5deeeeb9.html?utm_source=lootura.com) — 2026-08-14T12:30:13.000Z
+- [Julio Iglesias, cantante español (82 años): «En 1970 di 41 conciertos en 41 ciudades españolas distintas en 30 días; fue mi etapa rockera»](https://okdiario.com/curiosidades/julio-iglesias-cantante-espanol-81-anos-1970-di-41-conciertos-41-ciudades-espanolas-distintas-30-dias-fue-etapa-rockera-19091600?utm_source=lootura.com) — 2026-08-14T16:00:54.000Z

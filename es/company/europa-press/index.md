@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio](https://theobjective.com/sociedad/suceso/2026-08-14/extinguido-incendio-jueves-villablanca-huelva/?utm_source=lootura.com) — 2026-08-14T08:52:48.000Z
+No public source links.

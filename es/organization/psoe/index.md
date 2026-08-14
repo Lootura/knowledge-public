@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno](https://www.eldiario.es/politica/sumar-rechaza-prorroga-central-nuclear-almaraz-acusa-psoe-incumplir-pacto-gobierno_1_13447068.html?utm_source=lootura.com) — 2026-08-14T09:27:42.000Z
-- [Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno](https://www.lavanguardia.com/economia/20260814/11613839/sumar-rechaza-prorroga-almaraz-dice-incumple-acuerdos-gobierno.html?utm_source=lootura.com) — 2026-08-14T10:17:44.000Z
+No public source links.

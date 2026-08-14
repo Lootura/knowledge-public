@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin](https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121?utm_source=lootura.com) — 2026-08-13T22:00:03.000Z
-- [How Thanksgiving Became Political: Francesca Hong’s Tweets Explained](https://www.nytimes.com/2026/08/13/style/thanksgiving-francesca-hong-wisconsin.html?utm_source=lootura.com) — 2026-08-13T13:28:51.000Z
+No public source links.

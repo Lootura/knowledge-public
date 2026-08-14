@@ -3,7 +3,7 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”
 
 Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.
+
+Date: 2026-08-14
+
+### Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»
+
+Rafa Mora se sacó, hace unos años, una plaza como policía municipal en la ciudad madrileña de Pozuelo de Alarcón . Pero no solamente eso. El que fuera tronista en Mujeres, hombres y viceversa ha decidido invertir en varios pisos por toda la Comunidad de Madrid y alrededores. «Compramos el primer piso por 80.000 euros,.
+
+Date: 2026-08-14
+
+### Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"
+
+"Es lo que queremos y es lo que va a pasar. Vamos a ganar títulos", decía Kylian sobre el Real Madrid en la temporada que está a punto de arrancar.
 
 Date: 2026-08-14
 
@@ -23,12 +35,6 @@ Date: 2026-08-14
 ### La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”
 
 La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notas Ayuso critica que Sánchez se dé “la gran vida con los impuestos y recursos de todos” mientras evita hablar del ático La Universidad Complutense de Madrid ha r.
-
-Date: 2026-08-14
-
-### Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»
-
-Rafa Mora se sacó, hace unos años, una plaza como policía municipal en la ciudad madrileña de Pozuelo de Alarcón . Pero no solamente eso. El que fuera tronista en Mujeres, hombres y viceversa ha decidido invertir en varios pisos por toda la Comunidad de Madrid y alrededores. «Compramos el primer piso por 80.000 euros,.
 
 Date: 2026-08-14
 
@@ -62,15 +68,8 @@ La dirigente madrileña esquiva las preguntas de la prensa mientras espera que s
 
 Date: 2026-08-13
 
-### DKV se convierte en patrocinador del Atlético de Madrid
-
-ERGO Group, matriz de DKV, ha firmado una alianza estratégica con el Atlético de Madrid por la que la aseguradora se convierte en patrocinador oficial de los primeros equipos masculino y femenino del club rojiblanco , según informó este miércoles la compañía. El acuerdo se enmarca en la estrategia de fortalecimiento de.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Madrid estrena nuevos mapas interactivos en las marquesinas de autobuses interurbanos](https://www.abc.es/espana/madrid/madrid-estrena-nuevos-mapas-interactivos-marquesinas-autobuses-20260814132718-nt.html?utm_source=lootura.com) — 2026-08-14T11:33:37.000Z
 - [La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”](https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
-- [La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”](https://www.eldiario.es/madrid/complutense-rechaza-publicar-expediente-academico-ayuso-pese-reconocer-hay-interes-general_1_13446735.html?utm_source=lootura.com) — 2026-08-14T08:15:13.000Z
+- [Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"](https://www.larazon.es/deportes/futbol/mbappe-mourinho-positivo-tener-entrenador-que-sabe-como-ganar_202608146a7f45b5a046ad6ebcb15a78.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T16:43:33.000Z
 - [Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»](https://theobjective.com/gente/2026-08-14/rafa-mora-media-costado-pisos-ahora-gano-alquileres/?utm_source=lootura.com) — 2026-08-14T12:00:00.000Z

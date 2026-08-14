@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad",
+      "summary": "La Feria de Málaga 2026 comienza a tomar las calles del Centro Histórico desde la tarde del viernes 14 de agosto, antes de los grandes espectáculos nocturnos. Una recreación histórica volverá a trasladar a malagueños y visitantes hasta finales del siglo XV, con dos comitivas que confluirán en uno de los escenarios monu.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)",
       "summary": "Un varón de 53 años ha muerto este viernes tras ser embestido por un tren a la salida del apeadero de Guadalhorce , en la línea C1 de Cercanías de Málaga, cuando cruzaba por un punto no habilitado para el paso . El siniestro ocurrió alrededor de las 07:30 horas. Emergencias 112 Andalucía recibió una llamada de Adif ale.",
@@ -55,18 +60,13 @@
       "title": "Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga",
       "summary": "Un peatón ha fallecido esta madrugada tras ser atropellado en la A-7 a su paso por la capital malagueña, según ha indicado el servicio de Emergencias 112 Andalucía . Hacia las 00.15 horas, varios conductores alertaron al 112 de la presencia de una persona caminando por la autovía, a la altura del kilómetro 995 en senti.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "La Audiencia de Málaga suspende la ejecución de pena de cárcel a un hombre que reconoció que violó a una mujer",
-      "summary": "La Audiencia de Málaga ha acordado suspender la ejecución de la pena de dos años de prisión para un hombre que reconoció haber violado a una mujer que conoció a través de redes sociales y acordaron verse en el domicilio de ella. El acusado, de 26 años, durante el juicio reconoció los hechos y llegó a un acuerdo de conf.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "Muere un hombre de 53 años tras ser arrollado por un tren en Guadalhorce (Málaga)",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-14/arrollado-tren-malaga-guadalhorce-1tna-1tps_4406070/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T09:25:00.000Z",
+      "title": "La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-14/cabalgata-historica-feria-malaga-2026-recorrido-horario-1qrt-1tna_4404798/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:58:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     }
   ],

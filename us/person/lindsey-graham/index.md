@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure
+
+The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.
+
+Date: 2026-08-14
 
 ### South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls
 
@@ -62,12 +68,6 @@ South Carolina Republicans might be watching history repeat itself. A special el
 
 Date: 2026-08-09
 
-### Senate passes Russia sanctions bill that was long championed by Lindsey Graham
-
-The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July. (Image credit: Heather Diehl).
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure](https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html?utm_source=lootura.com) — 2026-08-14T16:16:22.000Z

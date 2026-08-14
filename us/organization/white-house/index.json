@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -26,6 +26,16 @@
     {
       "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
       "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
+      "summary": "Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+      "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.",
       "date": "2026-08-14"
     },
     {
@@ -57,16 +67,6 @@
       "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
       "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Watching Trump at the Patriot Games",
-      "summary": "Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Which Trump Officials Joined Him on His Secret Flight Out of Turkey?",
-      "summary": "The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -81,7 +81,19 @@
       "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com",
       "publishedAt": "2026-08-14T05:42:35.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
+      "url": "https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:16:48.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:59:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

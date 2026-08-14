@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)",
+      "summary": "Los bomberos han dado por estabilizado el incendio forestal que se ha declarado sobre las 15.40 horas de este viernes en una zona próxima a la avenida Pearson de Barcelona y que ha calcinado unas 10 hectáreas de terreno forestal de la sierra de Collserola. Así lo ha comunicado el tercer teniente de alcalde de Barcelona.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
+      "summary": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu",
+      "summary": "Los Bombers de Barcelona han logrado estabilizar el incendio forestal que desde primera hora de la tarde afecta a la sierra de Collserola. Las llamas no han afectado más de 10 hectáreas. El fuego ha empezado en la montaña de Sant Pere Màrtir, entre los municipios de Esplugues y Barcelona; y las columnas de humo son vis.",
+      "date": "2026-08-14"
+    },
     {
       "title": "23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026",
       "summary": "Las Fiestas de Gràcia 2026 volverán a convertir Barcelona en un escaparate de creatividad vecinal del 15 al 21 de agosto . Un total de 23 calles y plazas competirán este año en el tradicional concurso de decoración con propuestas que viajan de los recuerdos familiares al modernismo, los jardines fantásticos, la cultura.",
@@ -55,30 +70,27 @@
       "title": "Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid",
       "summary": "La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes",
-      "summary": "Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo",
-      "summary": "Cielo poco nuboso en toda la provincia de Barcelona, aunque por la tarde se espera un aumento de nubosidad, especialmente en el Prepirineo, donde podrían registrarse chubascos y tormentas puntualmente fuertes. Las temperaturas se mantendrán elevadas, mientras un viento flojo cambiará a componente sur. Aquí tienes la pr.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Cataluña se rinde al eclipse total: “Ya se ve, mamá”",
-      "summary": "Centenares de personas se han concentrado la tarde de este miércoles en el castillo de Montjuïc de Barcelona, pero en vez de mirar hacia la ciudad, todas sus miradas se han dirigido hacia el cielo en sentido oeste para observar cómo la luna se iba sobreponiendo poco a poco, hasta cubrirlo casi totalmente, sobre el Sol.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-14/fiestas-gracia-barcelona-el-senor-de-los-anillos_4404438/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T08:52:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)",
+      "url": "https://www.larazon.es/cataluna/bomberos-dan-estabilizado-incendio-collserola-barcelona_202608146a7f43a571b42a0b5def4a05.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:34:46.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:00:38.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T14:13:28.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

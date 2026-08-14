@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### El Gobierno extiende la vida útil de Almaraz hasta 2030
 
 En pleno agosto, y cuando había de plazo hasta el 15 de septiembre, el Gobierno ha cedido y finalmente la central nuclear de Almaraz seguirá operativa hasta 2030. De esta forma, el Ejecutivo recula sobre el calendario de cierre tras la petición que habían hecho las propietarias (Iberdrola, Endesa y Natury) de alargar l.
+
+Date: 2026-08-14
+
+### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
+
+El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
+
+Date: 2026-08-14
+
+### Una prórroga insuficiente
+
+El Gobierno ha decidido prolongar la explotación de los dos reactores de la central nuclear de Almaraz hasta el 8 de junio de 2030. Lo ha hecho sin una especial escenificación política, mediante la publicación en el Boletín Oficial del Estado de una orden del Ministerio para la Transición Ecológica que añade 31 meses d.
+
+Date: 2026-08-14
+
+### El Gobierno descarta problemas por el solapamiento de cierres de centrales y ve margen para gestionar los residuos nucleares
+
+La autorización para alargar la vida útil de la central nuclear de Almaraz (Cáceres) por parte del Gobierno hasta el 8 de junio de 2030 ha suscitado nuevas dudas: qué pasa con la gestión de los residuos nucleares y cómo afecta la prórroga de esta instalación a la planificación de desmantelamientos. Según el calendario.
+
+Date: 2026-08-14
+
+### Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos
+
+El Gobierno de Melilla ( PP ) ha reforzado desde este viernes los recursos del Centro de Acogida de Menores ‘La Purísima Concepción’ con 100 camas y 100 colchones ignífugos ante su «sobreocupación» , un día antes del llamamiento en redes sociales de Marruecos para entrar «masivamente» en Ceuta y Melilla, y reclama agil.
 
 Date: 2026-08-14
 
@@ -44,33 +68,10 @@ Retorno es la palabra que mejor explica el nuevo rumbo del Gobierno en Ceuta: el
 
 Date: 2026-08-14
 
-### El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano
-
-La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobierno para desescalar las medidas de alivio frente al aumento de precios que activó en marzo por la...
-
-Date: 2026-08-13
-
-### El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio
-
-El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.
-
-Date: 2026-08-13
-
-### Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio
-
-El Gobierno de Aragón ha trasladado esta tarde al Museo de Huesca los restos de los primeros reyes aragoneses y del linaje real que descansaban en el Panteón Real del Monasterio de San Juan de la Peña, debido al avance del incendio forestal que comenzó el pasado lunes en Las Peñas de Riglos. Ante la amenaza de que el f.
-
-Date: 2026-08-13
-
-### El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"
-
-Todos los miembros del Gobierno han sido, en las últimas dos semanas, muy cautos en sus palabras para desvincular la avalancha en Ceuta del pasado 30 de julio de las políticas...
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [El Gobierno extiende la vida útil de Almaraz hasta 2030](https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html?utm_source=lootura.com) — 2026-08-14T11:56:04.000Z
-- [Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno](https://www.eldiario.es/politica/sumar-rechaza-prorroga-central-nuclear-almaraz-acusa-psoe-incumplir-pacto-gobierno_1_13447068.html?utm_source=lootura.com) — 2026-08-14T09:27:42.000Z
-- [El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la "juerga" del eclipse del Gobierno](https://www.larazon.es/comunidad-valenciana/gobierno-valenciano-acusa-morant-gastar-72000-euros-juerga-eclipse-gobierno_202608146a7f075ea046ad6ebcb0f659.html?utm_source=lootura.com) — 2026-08-14T12:17:34.000Z
-- [El Gobierno limita la prórroga nuclear a Almaraz y mantiene el cierre del parque en 2035](https://theobjective.com/espana/politica/2026-08-14/gobierno-nuclear-almaraz-cierre-parque-2035/?utm_source=lootura.com) — 2026-08-14T08:30:54.000Z
+- [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z
+- [El Gobierno extiende la vida útil de Almaraz hasta 2030](https://www.abc.es/economia/gobierno-extiende-vida-util-almaraz-2030-20260814083757-nt.html?utm_source=lootura.com) — 2026-08-14T16:10:09.000Z
+- [Una prórroga insuficiente](https://www.abc.es/opinion/editorial-prorroga-insuficiente-20260814180616-nt.html?utm_source=lootura.com) — 2026-08-14T16:06:38.000Z
+- [El Gobierno descarta problemas por el solapamiento de cierres de centrales y ve margen para gestionar los residuos nucleares](https://elpais.com/economia/2026-08-14/el-gobierno-descarta-problemas-por-el-solapamiento-de-cierres-de-centrales-y-ve-margen-para-gestionar-los-residuos-nucleares.html?utm_source=lootura.com) — 2026-08-14T15:43:40.000Z
+- [Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos](https://theobjective.com/espana/2026-08-14/melilla-centro-menores-centenar-camas-colchones-ignifugos/?utm_source=lootura.com) — 2026-08-14T15:46:18.000Z

@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure
+
+The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.
+
+Date: 2026-08-14
 
 ### South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls
 
@@ -62,12 +68,6 @@ Ms. Graham, who filled her brother’s Senate seat in South Carolina after his d
 
 Date: 2026-07-20
 
-### Sen. Darline Graham says she is running for a full 6-year term after Trump urged her to jump into the race
-
-Sen. Darline Graham, R-S.C., said she will run for a full term for the seat held by her late brother, Lindsey Graham, days after President Donald Trump said he urged her to jump into the race.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure](https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html?utm_source=lootura.com) — 2026-08-14T16:16:22.000Z

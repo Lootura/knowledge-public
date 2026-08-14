@@ -3,14 +3,20 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
 ### Russia Campaigned to Derail Moldova’s Pro-Western Government
 
-In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
+In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
+
+Date: 2026-08-14
+
+### Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge
+
+This attack comes after the United Nations reported that July was the deadliest month for Ukrainian civilians since the early weeks of Russia's invasion.
 
 Date: 2026-08-14
 
@@ -62,13 +68,7 @@ Ukraine's drone forces could strike seven times more targets in Crimea if Wester
 
 Date: 2026-08-10
 
-### Ukrainian drone attack on oil hub deep inside Russia kills 13, official says
-
-Authorities in Russia's Tatarstan region say a Ukrainian drone strike on the petroleum hub of Nizhnekamsk killed 13 people and wounded 78 others in one of the deadliest attacks of the 4-year-old war.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
-- [Russia Campaigned to Derail Moldova’s Pro-Western Government](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com) — 2026-08-14T12:25:40.000Z
+- [Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge](https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com) — 2026-08-14T16:43:48.000Z
+- [Russia Campaigned to Derail Moldova’s Pro-Western Government](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com) — 2026-08-14T13:40:59.000Z

@@ -46,4 +46,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Farage Wins Special U.K. Election That He Initiated, as Expected](https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com) — 2026-08-14T11:56:55.000Z
+No public source links.

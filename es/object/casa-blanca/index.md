@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-10T20:39:22.356Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
+
+El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
+
+Date: 2026-08-14
 
 ### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la C
 
 Date: 2026-07-25
 
-### Trump reparte insultos en la cena de corresponsales repetida por el intento de atentado y amaga con presentarse de nuevo a la presidencia
-
-El presidente de EEUU aprovecha la cena de corresponsales de la Casa Blanca, celebrada este viernes en el Waldorf Astoria, para insultar a cómicos y a representantes demócratas como Alexandria Ocasio-Cortez, Elizabeth Warren, Gavin Newsom y J.B. Pritzker: "Este lugar alberga al grupo más grande de personas con el 'sínd.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z

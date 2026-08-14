@@ -58,4 +58,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Gobierno valenciano acusa a Morant de gastar 72.000 euros en la "juerga" del eclipse del Gobierno](https://www.larazon.es/comunidad-valenciana/gobierno-valenciano-acusa-morant-gastar-72000-euros-juerga-eclipse-gobierno_202608146a7f075ea046ad6ebcb0f659.html?utm_source=lootura.com) — 2026-08-14T12:17:34.000Z
+No public source links.

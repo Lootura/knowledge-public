@@ -58,4 +58,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/aug/14/karoline-leavitt-legacy-of-lies-trump-aide?utm_source=lootura.com) — 2026-08-14T11:00:27.000Z
+No public source links.

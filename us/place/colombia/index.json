@@ -65,19 +65,6 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [
-    {
-      "title": "They've survived 2 major earthquakes in Colombia: \"A sense of powerlessness\"",
-      "url": "https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T00:30:18.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "News Wrap: Earthquake death toll in Colombia tops 260",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T22:57:36.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

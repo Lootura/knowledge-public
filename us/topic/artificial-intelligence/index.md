@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-08-14
 ### Einstein the musician, AI prophets and more: Books in brief
 
 Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6 Andrew Robinson reviews five of the best science picks.
+
+Date: 2026-08-14
+
+### Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?
+
+Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.
+
+Date: 2026-08-14
+
+### Exclusive: Claude Was Put in Charge of Human Workers—and Fired One
+
+A view of items on sale at Andon Market. —Courtesy of Andon Labs A version of Claude that was put in charge of running a retail store—including managing a team of real human workers—fired its first employee last month, in a move described by researchers as a watershed moment in AI’s impact on the economy. The news has.
 
 Date: 2026-08-14
 
@@ -56,20 +68,10 @@ Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI rep
 
 Date: 2026-08-13
 
-### Agentic profiles for effective AI governance
-
-Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.
-
-Date: 2026-08-13
-
-### Teaching AI the biology of antibodies speeds drug discovery
-
-Designing an effective antibody drug is like searching for the right key in a warehouse of locks. Scientists may begin with millions—or even billions—of antibody candidates, but only a tiny fraction will recognize and bind tightly to the disease target. Identifying those rare candidates has long been one of the biggest.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T13:00:35.584Z
-- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T13:00:35.583Z
+- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
+- [Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?](https://www.nature.com/articles/d41586-026-02562-w?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
+- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T16:51:03.117Z
+- [Exclusive: Claude Was Put in Charge of Human Workers—and Fired One](https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/?utm_source=lootura.com) — 2026-08-14T16:13:50.000Z

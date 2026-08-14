@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -68,6 +68,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "U.S. and Iran in \"deadlock\" as both claim control of Stait of Hormuz, expert says",
+      "url": "https://www.cbsnews.com/video/us-and-iran-in-deadlock-strait-of-hormuz-expert-says/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:13:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
       "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com",

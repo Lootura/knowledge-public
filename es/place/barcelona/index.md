@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)
+
+Los bomberos han dado por estabilizado el incendio forestal que se ha declarado sobre las 15.40 horas de este viernes en una zona próxima a la avenida Pearson de Barcelona y que ha calcinado unas 10 hectáreas de terreno forestal de la sierra de Collserola. Así lo ha comunicado el tercer teniente de alcalde de Barcelona.
+
+Date: 2026-08-14
+
+### Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización
+
+Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera.
+
+Date: 2026-08-14
+
+### Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu
+
+Los Bombers de Barcelona han logrado estabilizar el incendio forestal que desde primera hora de la tarde afecta a la sierra de Collserola. Las llamas no han afectado más de 10 hectáreas. El fuego ha empezado en la montaña de Sant Pere Màrtir, entre los municipios de Esplugues y Barcelona; y las columnas de humo son vis.
+
+Date: 2026-08-14
 
 ### 23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026
 
@@ -50,24 +68,8 @@ La aerolínea Vueling regresa al campo de batalla en que se ha convertido la con
 
 Date: 2026-08-13
 
-### Movistar Plus+ desvela sus próximos partidos de LaLiga: Madrid, Barça y Atleti por 4,99 euros al mes
-
-Movistar Plus+ ha confirmado los encuentros que emitirá durante las jornadas 4, 5, 6 y 7 de LaLiga EA Sports . La selección incluye partidos del Real Madrid, Barcelona y Atlético , además de equipos como el Athletic Club, Villarreal, Betis, Elche y Sevilla . Estos encuentros podrán verse en el Plan Libre de Movistar Pl.
-
-Date: 2026-08-13
-
-### AEMET advierte: cielo despejado en Barcelona, pero nubosidad y tormentas en el Prepirineo
-
-Cielo poco nuboso en toda la provincia de Barcelona, aunque por la tarde se espera un aumento de nubosidad, especialmente en el Prepirineo, donde podrían registrarse chubascos y tormentas puntualmente fuertes. Las temperaturas se mantendrán elevadas, mientras un viento flojo cambiará a componente sur. Aquí tienes la pr.
-
-Date: 2026-08-13
-
-### Cataluña se rinde al eclipse total: “Ya se ve, mamá”
-
-Centenares de personas se han concentrado la tarde de este miércoles en el castillo de Montjuïc de Barcelona, pero en vez de mirar hacia la ciudad, todas sus miradas se han dirigido hacia el cielo en sentido oeste para observar cómo la luna se iba sobreponiendo poco a poco, hasta cubrirlo casi totalmente, sobre el Sol.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026](https://www.elconfidencial.com/espana/cataluna/2026-08-14/fiestas-gracia-barcelona-el-senor-de-los-anillos_4404438/?utm_source=lootura.com) — 2026-08-14T08:52:00.000Z
+- [Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)](https://www.larazon.es/cataluna/bomberos-dan-estabilizado-incendio-collserola-barcelona_202608146a7f43a571b42a0b5def4a05.html?utm_source=lootura.com) — 2026-08-14T16:34:46.000Z
+- [Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización](https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html?utm_source=lootura.com) — 2026-08-14T15:00:38.000Z
+- [Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu](https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html?utm_source=lootura.com) — 2026-08-14T14:13:28.000Z

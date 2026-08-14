@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -19,7 +19,12 @@
   "changes": [
     {
       "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+      "summary": "In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
+      "summary": "This attack comes after the United Nations reported that July was the deadliest month for Ukrainian civilians since the early weeks of Russia's invasion.",
       "date": "2026-08-14"
     },
     {
@@ -61,24 +66,19 @@
       "title": "Funding milestone detected",
       "summary": "Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Ukrainian drone attack on oil hub deep inside Russia kills 13, official says",
-      "summary": "Authorities in Russia's Tatarstan region say a Ukrainian drone strike on the petroleum hub of Nizhnekamsk killed 13 people and wounded 78 others in one of the deadliest attacks of the 4-year-old war.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:34:21.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
+      "url": "https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:43:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
       "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:25:40.000Z",
+      "publishedAt": "2026-08-14T13:40:59.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],

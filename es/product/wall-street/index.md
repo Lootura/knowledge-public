@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Los inversores vuelven a apostar con fuerza por Wall Street
+
+Los inversores vuelven a apostar por la renta variable estadounidense , dejando atrás los temores que desencadenaron la caída de las acciones de semiconductores en julio para volver a comprar tras la caída en el sector tecnológico. Seguir leyendo.
+
+Date: 2026-08-14
 
 ### Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa
 
@@ -62,12 +68,6 @@ Wall Street first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-08-05
 
-### La banca de Wall Street, lista para un impulso de los bonus
-
-Según un reciente informe de la firma Johson Associates, se espera que las retribuciones variables para la banca comercial y de inversión se incrementen entre un 10% y un 15% impulsado por unos resultados mejores de lo esperado . No se descarta que los bonus sean incluso superiores. Seguir leyendo.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Los inversores vuelven a apostar con fuerza por Wall Street](https://www.expansion.com/economia/financial-times/2026/08/14/6a7f30ece5fdeabf118b4595.html?utm_source=lootura.com) — 2026-08-14T15:31:53.000Z

@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"](https://www.cbsnews.com/news/colombia-earthquake-survivors-1999-recovery/?utm_source=lootura.com) — 2026-08-14T00:30:18.000Z
-- [News Wrap: Earthquake death toll in Colombia tops 260](https://www.pbs.org/newshour/show/news-wrap-earthquake-death-toll-in-colombia-tops-260?utm_source=lootura.com) — 2026-08-13T22:57:36.000Z
+No public source links.

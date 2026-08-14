@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -14,15 +14,33 @@ Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados 
 
 Date: 2026-08-14
 
-### Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania
-
-El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.
-
-Date: 2026-08-14
-
 ### EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles
 
 Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis diplomática abierta entre Tokio y Moscú por la reciente visita del presidente.
+
+Date: 2026-08-14
+
+### Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare
+
+Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.
+
+Date: 2026-08-14
+
+### EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta
+
+El Departamento de Estado de Estados Unidos, encabezado por Marco Rubio, ha elevado el nivel de alerta en sus recomendaciones para los ciudadanos estadounidenses que tengan previsto viajar a España. En un mapa interactivo que puede consultarse a través de la web del departamento , el aviso de viaje para España incluye.
+
+Date: 2026-08-14
+
+### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
+
+El hijo del expresidente mexicano Andrés Manuel López Obrador ha denunciado que las autoridades de Estados Unidos le han denegado la entrada al país por.
+
+Date: 2026-08-14
+
+### Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania
+
+El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.
 
 Date: 2026-08-14
 
@@ -50,27 +68,10 @@ Fiódor Dostoievski (Moscú, 11 de noviembre de 1821-San Petersburgo, 9 de febre
 
 Date: 2026-08-13
 
-### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
-
-A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
-
-Date: 2026-08-12
-
-### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
-
-Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
-
-Date: 2026-08-12
-
-### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
-
-En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-14T05:02:58.000Z
+- [Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare](https://www.abc.es/internacional/luigi-mangione-declara-culpable-asesinato-ceo-unitedhealthcare-20260814180244-nt.html?utm_source=lootura.com) — 2026-08-14T16:31:18.000Z
 - [Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio](https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z
-- [Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania](https://theobjective.com/internacional/2026-08-14/rusia-explicaciones-eeuu-entrega-datos-inteligencia-militar-ucrania/?amp=&utm_source=lootura.com) — 2026-08-14T08:59:26.000Z
+- [EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta](https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html?utm_source=lootura.com) — 2026-08-14T13:10:32.000Z
+- [EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»](https://theobjective.com/internacional/2026-08-14/deniegan-entrada-eeuu-hijo-amlo-injerencia-politica-mexicana/?amp=&utm_source=lootura.com) — 2026-08-14T16:35:30.000Z
 - [EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles](https://theobjective.com/internacional/2026-08-14/eeuu-apoyo-total-japon-rusia-kuriles/?amp=&utm_source=lootura.com) — 2026-08-14T12:33:29.000Z

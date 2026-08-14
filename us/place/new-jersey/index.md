@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T01:26:59.542Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### ‘We get 200 tourists a day’: when your house becomes a TV star
+
+What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell all Half the world recognises the apartment that Carrie Bradshaw lives in. Or the New Jersey mansion where Tony Soprano ate, slept and obsessed over the ducks in his swimmin.
+
+Date: 2026-08-14
 
 ### President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club
 
@@ -62,12 +68,6 @@ A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 
 
 Date: 2026-07-21
 
-### News Wrap: Gulf Coast prepares for Tropical Storm Bertha
-
-In our news wrap Tuesday, millions along the Gulf Coast are bracing for impacts from Tropical Storm Bertha, Ukrainian President Zelenskyy fired the commander-in-chief of Ukraine's armed forces in the latest shake-up of his top military ranks and New Jersey's governor said more than 6,000 noncitizens were registered to.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [‘We get 200 tourists a day’: when your house becomes a TV star](https://www.theguardian.com/tv-and-radio/2026/aug/14/famous-tv-show-homes-real-residents-ted-lasso-sopranos?utm_source=lootura.com) — 2026-08-14T12:00:26.000Z

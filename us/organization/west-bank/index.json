@@ -41,19 +41,6 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
-      "url": "https://www.nbcnews.com/video/u-s-ambassador-condemns-israeli-terrorists-for-siege-of-west-bank-homes-268286021795?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T23:28:41.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity",
-      "url": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T09:02:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

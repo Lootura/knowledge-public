@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"](https://www.20minutos.es/comunidad-valenciana/valencia/perez-llorca-exige-mismo-trato-central-nuclear-cofrentes-que-almaraz-comunitat-valenciana-no-merece-este-agravio_7025837_0.html?utm_source=lootura.com) — 2026-08-14T11:47:36.000Z
+No public source links.

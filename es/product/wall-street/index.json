@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T05:36:25.746Z",
+  "updatedAt": "2026-08-14T16:50:35.319Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Los inversores vuelven a apostar con fuerza por Wall Street",
+      "summary": "Los inversores vuelven a apostar por la renta variable estadounidense , dejando atrás los temores que desencadenaron la caída de las acciones de semiconductores en julio para volver a comprar tras la caída en el sector tecnológico. Seguir leyendo.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa",
       "summary": "Toda empresa cripto que ha salido a Bolsa ha seguido el mismo patrón: debutar cuando bitcoin tocaba máximos. Coinbase fue la primera en abril de 2021 en llevar los activos digitales a Wall Street. Pero, después de ella, muchas compañías esperaron a dar el paso: estrenarse en medio de un profundo criptoinvierno, durante.",
@@ -57,13 +62,15 @@
       "title": "Discovered by Atlas",
       "summary": "Wall Street first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "La banca de Wall Street, lista para un impulso de los bonus",
-      "summary": "Según un reciente informe de la firma Johson Associates, se espera que las retribuciones variables para la banca comercial y de inversión se incrementen entre un 10% y un 15% impulsado por unos resultados mejores de lo esperado . No se descarta que los bonus sean incluso superiores. Seguir leyendo.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los inversores vuelven a apostar con fuerza por Wall Street",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/14/6a7f30ece5fdeabf118b4595.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:31:53.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

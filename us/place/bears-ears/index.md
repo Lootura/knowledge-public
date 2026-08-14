@@ -3,20 +3,26 @@
 > Follow Bears Ears, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-14T20:58:39.119Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/place/bears-ears
 
 ## Recent changes
 
-### Trump Sharply Cuts the Size of Two National Monuments in Utah
+### Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments
 
-Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.
+Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah.
 
-Date: 2026-07-13
+Date: 2026-08-14
 
 ### Discovered by Atlas
 
 Bears Ears first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-13
+
+### Trump Sharply Cuts the Size of Two National Monuments in Utah
+
+Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.
 
 Date: 2026-07-13
 
@@ -28,4 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments](https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html?utm_source=lootura.com) — 2026-08-14T15:46:47.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-No public source links.
+- [Así vuela el “coche volador” de China: cuatro hélices y un piloto de pie](https://www.larazon.es/actualidad/asi-vuela-coche-volador-china-cuatro-helices-piloto-pie_202608146a7f447371b42a0b5def4b84.html?utm_source=lootura.com) — 2026-08-14T16:38:11.000Z

@@ -46,4 +46,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"](https://www.20minutos.es/ceuta/pp-critica-que-gobierno-movilizara-33-600-efectivos-policiales-para-eclipse-solo-60-para-avalancha-ceuta_7025847_0.html?utm_source=lootura.com) — 2026-08-14T12:29:17.000Z
+No public source links.

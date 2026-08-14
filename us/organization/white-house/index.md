@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-14T16:50:57.847Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-08-14
 ### Judge drops Nevada case against electors accused of forging certificate in 2020 election
 
 The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).
+
+Date: 2026-08-14
+
+### Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms
+
+Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.
+
+Date: 2026-08-14
+
+### Trump Administration Asks Supreme Court to Greenlight White House Ballroom
+
+The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.
 
 Date: 2026-08-14
 
@@ -56,19 +68,9 @@ Leavitt called it a "bittersweet decision" in a social media post Wednesday shor
 
 Date: 2026-08-13
 
-### Watching Trump at the Patriot Games
-
-Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.
-
-Date: 2026-08-12
-
-### Which Trump Officials Joined Him on His Secret Flight Out of Turkey?
-
-The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Feds probe 'mention markets' amid White House Kalshi controversy](https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com) — 2026-08-14T02:06:10.000Z
 - [Judge drops Nevada case against electors accused of forging certificate in 2020 election](https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election?utm_source=lootura.com) — 2026-08-14T05:42:35.000Z
+- [Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms](https://www.theguardian.com/sport/2026/aug/14/donald-trump-patriot-games-tv-review?utm_source=lootura.com) — 2026-08-14T14:16:48.000Z
+- [Trump Administration Asks Supreme Court to Greenlight White House Ballroom](https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com) — 2026-08-14T15:59:14.000Z

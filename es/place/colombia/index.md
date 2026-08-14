@@ -3,7 +3,7 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-14T16:50:35.319Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste
 
 El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.
+
+Date: 2026-08-14
+
+### Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia
+
+Las autoridades de Colombia han elevado este viernes a más de 280 los muertos y a más de 3.970 heridos por causa del seísmo de magnitud 7,4 en la escala de Richter que sacudió el noroeste del país latinoamericano a comienzos de esta semana. Concretamente, son 285 las personas que han perdido la vida y 3.975 las que han.
 
 Date: 2026-08-14
 
@@ -62,12 +68,7 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-08-13
 
-### De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia
-
-A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.
-
-Date: 2026-08-12
-
 ## Fuentes
 
 - [Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste](https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com) — 2026-08-14T05:20:59.000Z
+- [Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia](https://theobjective.com/internacional/2026-08-14/suben-285-muertos-3-975-heridos-gran-terremoto-noroeste-colombia/?utm_source=lootura.com) — 2026-08-14T15:33:17.000Z

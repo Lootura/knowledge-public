@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-14T16:50:57.847Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -19,6 +19,11 @@
     {
       "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
       "summary": "A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+      "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.",
       "date": "2026-08-14"
     },
     {
@@ -60,20 +65,21 @@
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-      "summary": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
+      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T15:59:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
       "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
       "url": "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:08:01.000Z",
+      "publishedAt": "2026-08-14T13:29:01.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }
