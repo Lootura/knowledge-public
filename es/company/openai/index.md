@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [OpenAI acelera ChatGPT como nunca: su IA más potente ya responde en segundos gracias a esta función](https://hipertextual.com/inteligencia-artificial/gpt-5-6-sol-ultrafast-openai/?utm_source=lootura.com) — 2026-08-13T19:35:31.000Z
+No public source links.

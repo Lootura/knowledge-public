@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T05:36:25.746Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -24,6 +24,11 @@
   ],
   "changes": [
     {
+      "title": "Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes",
+      "summary": "Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio",
       "summary": "El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.",
       "date": "2026-08-13"
@@ -34,13 +39,13 @@
       "date": "2026-08-13"
     },
     {
-      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
-      "summary": "Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.",
+      "title": "Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte",
+      "summary": "Participan en el circuito que recorrerá escenarios de Euskadi, Cantabria, Asturias, Galicia, Navarra y La Rioja con 18 compañías.",
       "date": "2026-08-13"
     },
     {
-      "title": "Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte",
-      "summary": "Participan en el circuito que recorrerá escenarios de Euskadi, Cantabria, Asturias, Galicia, Navarra y La Rioja con 18 compañías.",
+      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
+      "summary": "Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.",
       "date": "2026-08-13"
     },
     {
@@ -67,11 +72,6 @@
       "title": "Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía",
       "summary": "Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos",
-      "summary": "Bizkaia y Navarra implementan restricciones en San Juan de Gaztelugatxe y las Bardenas Reales, mientras Gipuzkoa no contempla medidas especiales por el momento.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
@@ -94,10 +94,10 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
-      "url": "https://www.larazon.es/pais-vasco/ondarroa-enclave-vizcaino-que-aparece-historia-familiar-jacob-elordi-b30m_202608136a7e224d71b42a0b5dedca25.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:00:13.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes",
+      "url": "https://okdiario.com/pais-vasco/segun-karlos-arguinano-mejor-ciudad-espana-comer-joya-del-cantabrico-lugar-donde-veraneaban-reyes-19174258?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T05:15:28.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 4

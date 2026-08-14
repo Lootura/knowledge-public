@@ -3,7 +3,7 @@
 > Follow Epic Games, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/company/epic-games
 
 ## Recent changes

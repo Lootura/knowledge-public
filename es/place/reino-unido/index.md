@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T01:46:10.077Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido
+
+Uber mantiene una batalla contra las agencias de recaudación de impuestos de varios de los países en los que opera. En España, la guerra de la plataforma de vehículos de turismo con conductor (VTC) con los taxis fue mítica entre 2014 y 2019. Los insultos entre los trabajadores de ambos bandos llegaron a las televisione.
+
+Date: 2026-08-14
 
 ### Las espectaculares imágenes que deja el paso del eclipse por Europa
 
@@ -62,12 +68,6 @@ Telefónica y su socio Liberty Global han abierto la puerta a acometer un plan d
 
 Date: 2026-08-06
 
-### Detienen en Madrid a un fugitivo buscado en Reino Unido por varias agresiones sexuales
-
-La Policía Nacional ha detenido en Madrid a J. R., un hombre de 37 años buscado por las autoridades británicas por graves conductas de agresión sexual cometidas entre 2012 y 2022 y que se encontraba huido de su país, teniendo en vigor una orden internacional de detención. Las investigaciones comenzaron el pasado 2024,.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido](https://cincodias.elpais.com/companias/2026-08-14/uber-logra-paralizar-las-sanciones-de-iva-en-espana-mientras-litiga-por-1600-millones-en-reino-unido.html?utm_source=lootura.com) — 2026-08-14T03:15:00.000Z

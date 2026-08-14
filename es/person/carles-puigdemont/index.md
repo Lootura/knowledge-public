@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Mi héroe ya no es Puigdemont, sino Trump
+
+Hasta ahora, mi héroe de la política era Carles Puigdemont , el expresidente de la Generalitat de Cataluña . Tras asestar el golpe de Estado más bien ridículo de 2017, reclamó públicamente a sus secuaces que al día siguiente fueran todos a trabajar en sus respectivos despachos, como si nada. Y algunos cándidos así lo h.
+
+Date: 2026-08-14
 
 ### Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura
 
@@ -62,12 +68,6 @@ Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junt
 
 Date: 2026-07-21
 
-### El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont
-
-El Tribunal Supremo ha rechazado el recurso interpuesto por el expresidente catalán y líder de Junts, Carles Puigdemont , que se oponía a su destrucción y pedía que se le entregase el material intervenido durante la jornada del referéndum ilegal del 1 de octubre de 2017 en Cataluña debido a su «valor histórico». En un.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Mi héroe ya no es Puigdemont, sino Trump](https://theobjective.com/elsubjetivo/opinion/2026-08-14/heroe-no-puigdemont-trump-articulo-vidal-folch/?utm_source=lootura.com) — 2026-08-14T03:25:00.000Z

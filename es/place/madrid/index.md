@@ -3,10 +3,22 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid
+
+La celebración de las Fiestas de la Virgen de la Paloma obligará a modificar la movilidad en pleno centro de la capital durante los próximos días.
+
+Date: 2026-08-14
+
+### La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”
+
+Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.
+
+Date: 2026-08-14
 
 ### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
 
@@ -56,19 +68,8 @@ La familia Pombo tiene varias casas distribuidas por distintos rincones de Espa�
 
 Date: 2026-08-13
 
-### Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse
-
-La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.
-
-Date: 2026-08-13
-
-### Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»
-
-Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid](https://www.elconfidencial.com/espana/madrid/2026-08-14/cortes-trafico-hoy-zona-centro-madrid-1qrt-1tna_4405473/?utm_source=lootura.com) — 2026-08-14T03:45:00.000Z
 - [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
-- [Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático](https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com) — 2026-08-13T16:54:47.000Z
+- [La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”](https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z

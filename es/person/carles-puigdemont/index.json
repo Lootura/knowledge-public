@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-08-14T05:36:25.746Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "Mi héroe ya no es Puigdemont, sino Trump",
+      "summary": "Hasta ahora, mi héroe de la política era Carles Puigdemont , el expresidente de la Generalitat de Cataluña . Tras asestar el golpe de Estado más bien ridículo de 2017, reclamó públicamente a sus secuaces que al día siguiente fueran todos a trabajar en sus respectivos despachos, como si nada. Y algunos cándidos así lo h.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
       "summary": "Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.",
@@ -62,13 +67,15 @@
       "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
       "summary": "Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..",
       "date": "2026-07-21"
-    },
-    {
-      "title": "El Supremo avala la destrucción del material del 1-O tras rechazar dárselo a Puigdemont",
-      "summary": "El Tribunal Supremo ha rechazado el recurso interpuesto por el expresidente catalán y líder de Junts, Carles Puigdemont , que se oponía a su destrucción y pedía que se le entregase el material intervenido durante la jornada del referéndum ilegal del 1 de octubre de 2017 en Cataluña debido a su «valor histórico». En un.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Mi héroe ya no es Puigdemont, sino Trump",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-14/heroe-no-puigdemont-trump-articulo-vidal-folch/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

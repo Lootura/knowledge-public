@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio
+
+Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados Unidos, William Taft, en 1910: “Después del duro y agotador trabajo al que uno se somete entre el otoño y la primavera, [esos meses de descanso] son necesarios para poder continuar el trabajo al año siguiente con la energía y la eficacia qu.
+
+Date: 2026-08-14
 
 ### El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo
 
@@ -62,12 +68,7 @@ El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. 
 
 Date: 2026-08-11
 
-### Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka
-
-Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo la administración Trump no frenan los planes de crecimiento de Inditex en ese mercado, el segundo más importante para el grupo. Seguir leyendo.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo](https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-tesoro-de-estados-unidos-se-prepara-para-colocar-bonos-a-30-anos-al-mayor-interes-en-un-cuarto-de-siglo.html?utm_source=lootura.com) — 2026-08-13T17:21:01.000Z
+- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-14T05:02:58.000Z
+- [Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio](https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z

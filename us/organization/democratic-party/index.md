@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
+
+Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.
+
+Date: 2026-08-14
 
 ### Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party
 
@@ -62,15 +68,10 @@ Democratic voters in key battlegrounds are showing themselves to be fiercely spl
 
 Date: 2026-08-12
 
-### Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats
-
-Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.
-
-Date: 2026-08-12
-
 ## Sources
 
 - [Democrats expected to approve South Carolina as first primary in 2028, but other states pushing back](https://www.cbsnews.com/video/democrats-prepare-to-finalize-2028-presidential-primary-calendar/?utm_source=lootura.com) — 2026-08-14T01:06:00.000Z
+- [Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"](https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com) — 2026-08-14T01:37:19.000Z
 - [Democratic senators demand answers about conditions aboard USS Abraham Lincoln](https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com) — 2026-08-13T16:17:33.000Z
 - [Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state](https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state?utm_source=lootura.com) — 2026-08-13T16:40:12.000Z
 - [Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition](https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209?utm_source=lootura.com) — 2026-08-13T17:23:15.000Z

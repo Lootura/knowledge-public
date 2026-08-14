@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La nueva América Latina pro Trump se contagia de los agujeros del 'Modelo Bukele'](https://www.elmundo.es/internacional/2026/08/13/6a79ed6fe9cf4ad75b8b45a1.html?utm_source=lootura.com) — 2026-08-13T20:42:28.000Z
+- [¿Qué IA gana dinero de verdad? La Bolsa aprende del béisbol a predecir lo incierto](https://cincodias.elpais.com/mercados-financieros/2026-08-14/que-ia-gana-dinero-de-verdad-la-bolsa-aprende-del-beisbol-a-predecir-lo-incierto.html?utm_source=lootura.com) — 2026-08-14T03:30:01.000Z

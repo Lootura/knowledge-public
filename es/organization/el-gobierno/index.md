@@ -3,20 +3,26 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
+### Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia
+
+El Gobierno sigue defendiendo la limpieza de la operación, pero El Debate lleva años pleiteando contra la negativa de Sánchez a hacer público el r...
+
+Date: 2026-08-14
+
+### El Gobierno agiliza las expulsiones sumarias para vaciar las calles de Ceuta
+
+Retorno es la palabra que mejor explica el nuevo rumbo del Gobierno en Ceuta: el de los adultos que aún permanecen en la ciudad, el de los menores cuando las circunstancias lo permitan –dado que su retorno requiere mayores garantías y un procedimiento específico– y, sobre todo, el de la normalidad. Porque la prioridad.
+
+Date: 2026-08-14
+
 ### El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio
 
 El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.
-
-Date: 2026-08-13
-
-### El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"
-
-Todos los miembros del Gobierno han sido, en las últimas dos semanas, muy cautos en sus palabras para desvincular la avalancha en Ceuta del pasado 30 de julio de las políticas...
 
 Date: 2026-08-13
 
@@ -29,6 +35,12 @@ Date: 2026-08-13
 ### Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio
 
 El Gobierno de Aragón ha trasladado esta tarde al Museo de Huesca los restos de los primeros reyes aragoneses y del linaje real que descansaban en el Panteón Real del Monasterio de San Juan de la Peña, debido al avance del incendio forestal que comenzó el pasado lunes en Las Peñas de Riglos. Ante la amenaza de que el f.
+
+Date: 2026-08-13
+
+### El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"
+
+Todos los miembros del Gobierno han sido, en las últimas dos semanas, muy cautos en sus palabras para desvincular la avalancha en Ceuta del pasado 30 de julio de las políticas...
 
 Date: 2026-08-13
 
@@ -56,21 +68,10 @@ Los mensajes que llegan de Rabat, por medio de su ministro de Justicia, Abdellat
 
 Date: 2026-08-13
 
-### Un eclipse 'a lo asturiano': Decepción en la costa con cielos cubiertos y éxito en la montaña
-
-Muchas personas optaron por desplazarse desde el Principado hasta León para garantizar su observación. El Gobierno asturiano ha desactivado el Plan de Protección Civil en fase de alerta MAPA | ¿Te has perdido el eclipse? Descubre dónde podrás ver el que pasará por España en 2027 Asturias, una de las zonas privilegiadas.
-
-Date: 2026-08-13
-
-### El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta
-
-La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para opacar la propia actualidad que les concierne y a la que deben responder dando soluciones. Hasta cuatro ministros se han desplazado hasta el Osbervatorio Astronómico de Yebes (Guadalajara), prop.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
-- [El Gobierno admite por primera vez que su política potenció la avalancha sobre Ceuta: "Ninguno de ellos se va a regularizar"](https://amp.elmundo.es/espana/2026/08/13/6a7db93321efa0013c8b4594.html?utm_source=lootura.com) — 2026-08-13T13:15:03.000Z
+- [Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia](https://www.eldebate.com/espana/20260814/sanchez-intenta-esconder-supremo-expediente-plus-ultra-mientras-presume-transparencia_449264.html?utm_source=lootura.com) — 2026-08-14T02:30:00.000Z
 - [El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano](https://amp.elmundo.es/economia/empresas/2026/08/13/6a7db616e85ece9d1b8b459e.html?utm_source=lootura.com) — 2026-08-13T20:41:48.000Z
+- [El Gobierno agiliza las expulsiones sumarias para vaciar las calles de Ceuta](https://www.lavanguardia.com/politica/20260814/11613503/gobierno-agiliza-expulsiones-sumarias-vaciar-calles-ceuta.html?utm_source=lootura.com) — 2026-08-14T04:00:00.000Z
 - [Trasladados al Museo de Huesca los restos de los primeros reyes aragoneses por el incendio](https://theobjective.com/sociedad/suceso/2026-08-13/trasladados-museo-huesca-restos-primeros-reyes-aragoneses-incendio/?utm_source=lootura.com) — 2026-08-13T20:55:01.000Z

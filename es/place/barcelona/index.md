@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades
+
+Decathlon abre tres nuevas tiendas en la provincia de Barcelona, en el marco de su estrategia de expansión en este territorio: Decathlon City Consell de Cent (Barcelona) y Decathlon City Splau (Cornellà de Llobregat), ambas en agosto, y Decathlon City Sants (Barcelona), en septiembre. Con estas tres aperturas, Decathlo.
+
+Date: 2026-08-14
+
+### AEMET prevé chubascos y nubes altas en Barcelona; ambiente cálido y vientos cambiantes
+
+Cielo con intervalos de nubes altas y la posibilidad de chubascos con tormenta en algunas áreas de la provincia, especialmente en el Prepirineo. Las temperaturas se mantendrán elevadas en el interior y el viento será flojo, con cambios en el sur. Aquí tienes la previsión del tiempo en Barcelona hoy, en los núcleos más.
+
+Date: 2026-08-14
 
 ### Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones
 
@@ -56,20 +68,8 @@ Barcelona es el principal puerto de tráfico de cruceros del Mediterráneo, pero
 
 Date: 2026-08-12
 
-### Si todavía no ha salido de la ciudad para ver el eclipse, quédese en casa: retenciones en Madrid, Barcelona y los accesos a los puntos de observación
-
-Las principales vías de salida de Madrid y Barcelona, así como grandes ejes viarios en buena parte de la península, sufren importantes complicaciones de tráfico a apenas dos horas de que comience el eclipse total de Sol. La masiva afluencia de desplazamientos para presenciar el fenómeno astronómico está colapsando acce.
-
-Date: 2026-08-12
-
-### Gonzalo Bernardos, economista y profesor: «Un jubilado español cobra más que uno alemán y nosotros tenemos salarios bastante más bajos»
-
-El sistema de pensiones vuelve a estar ahora en el centro del debate, debido a una reciente comparación realizada por el economista Gonzalo Bernardos a partir de lo que reciben los jubilados españoles con las prestaciones de otros países europeos. El economista y profesor de la Universidad de Barcelona, considera que E.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [El PSG ficha a Ferran, el héroe del Mundial, por 50 millones](https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com) — 2026-08-13T23:46:56.000Z
-- [Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones](https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com) — 2026-08-13T20:24:50.000Z
-- [Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años](https://theobjective.com/sociedad/2026-08-13/fallece-juan-ignacio-marin-arce-sindicalista-ccoo-73-anos/?amp=&utm_source=lootura.com) — 2026-08-13T19:52:23.000Z
+- [Los controladores aéreos de El Prat advierten: "O Aena se pone las pilas con las torres o habrá más apagones en toda su red"](https://www.elmundo.es/economia/empresas/2026/08/13/6a7d964ae9cf4a395c8b4575.html?utm_source=lootura.com) — 2026-08-13T20:41:58.000Z
+- [Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades](https://www.larazon.es/cataluna/decathlon-abre-tres-nuevas-tiendas-estos-lugares-cataluna-fechas-novedades_202608146a7df95aa046ad6ebcaf95a5.html?utm_source=lootura.com) — 2026-08-14T05:00:18.000Z
+- [AEMET prevé chubascos y nubes altas en Barcelona; ambiente cálido y vientos cambiantes](https://okdiario.com/cataluna/aemet-preve-chubascos-y-nubes-altas-en-barcelona-ambiente-calido-y-vientos-cambiantes-19179140?utm_source=lootura.com) — 2026-08-14T05:28:06.000Z

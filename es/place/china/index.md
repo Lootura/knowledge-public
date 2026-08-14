@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5](https://www.larazon.es/tecnologia-consumo/china-guia-sus-armas-hipersonicas-estrellas-cuando-gps-falla-solucion-hace-inmunes-bloqueo-electronico-mach-5_202608136a7d694f71b42a0b5deca7e5.html?utm_source=lootura.com) — 2026-08-13T20:00:00.000Z
+No public source links.

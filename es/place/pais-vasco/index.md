@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes
+
+Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.
+
+Date: 2026-08-14
 
 ### El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio
 
@@ -20,15 +26,15 @@ El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores im
 
 Date: 2026-08-13
 
-### Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi
-
-Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.
-
-Date: 2026-08-13
-
 ### Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte
 
 Participan en el circuito que recorrerá escenarios de Euskadi, Cantabria, Asturias, Galicia, Navarra y La Rioja con 18 compañías.
+
+Date: 2026-08-13
+
+### Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi
+
+Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.
 
 Date: 2026-08-13
 
@@ -62,15 +68,9 @@ Se lanzará una encuesta a todos los profesionales ganaderos para determinar cu�
 
 Date: 2026-08-07
 
-### Euskadi se prepara para el eclipse solar: Bizkaia blindará Gaztelugatxe mientras Gipuzkoa mantendrá sus parajes abiertos
-
-Bizkaia y Navarra implementan restricciones en San Juan de Gaztelugatxe y las Bardenas Reales, mientras Gipuzkoa no contempla medidas especiales por el momento.
-
-Date: 2026-08-06
-
 ## Fuentes
 
 - [Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte](https://www.elcorreo.com/culturas/teatro/tartean-ados-zirkozaurre-llevaran-teatro-vasco-norte-20260814191228-nt_amp.html?utm_source=lootura.com) — 2026-08-13T22:52:08.000Z
 - [El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio](https://www.elcorreo.com/economia/inflacion-repunta-julio-euskadi-tras-fin-rebajas-20260813091015-nt_amp.html?utm_source=lootura.com) — 2026-08-13T07:10:47.000Z
 - [Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»](https://www.diariovasco.com/politica/euskadi-exige-agotar-medios-reagrupar-menores-ceuta-20260813105417-nt_amp.html?utm_source=lootura.com) — 2026-08-13T08:54:17.000Z
-- [Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi](https://www.larazon.es/pais-vasco/ondarroa-enclave-vizcaino-que-aparece-historia-familiar-jacob-elordi-b30m_202608136a7e224d71b42a0b5dedca25.html?utm_source=lootura.com) — 2026-08-13T20:00:13.000Z
+- [Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes](https://okdiario.com/pais-vasco/segun-karlos-arguinano-mejor-ciudad-espana-comer-joya-del-cantabrico-lugar-donde-veraneaban-reyes-19174258?utm_source=lootura.com) — 2026-08-14T05:15:28.000Z

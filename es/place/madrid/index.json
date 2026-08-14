@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T05:36:25.746Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid",
+      "summary": "La celebración de las Fiestas de la Virgen de la Paloma obligará a modificar la movilidad en pleno centro de la capital durante los próximos días.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
+      "summary": "Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.",
+      "date": "2026-08-14"
+    },
     {
       "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
       "summary": "Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».",
@@ -50,19 +60,15 @@
       "title": "Dentro ¿de la nueva casa de la familia Pombo en Adrados? Piedra vista, vigas de madera y un precioso comedor con toques ‘retro’",
       "summary": "La familia Pombo tiene varias casas distribuidas por distintos rincones de España. El campo-base tanto de María como de Marta y de Lucía, y sus parejas y familia, está en Madrid. Allí la pequeña de las Pombo se compró una espectacular casa hace un par de años en un barrio a las afueras de la capital. Mientras tanto, ta.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Turmiel, el pueblo de 9 vecinos que llevaba 44 años esperando al eclipse",
-      "summary": "La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca del Señorío de Molina-Alto Tajo, a Madrid. Allí, en un lugar remoto y con apenas población, los cielos eran -y siguen siendo- tan libres de.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Dabiz Muñoz, 46 años: «Pasé mi infancia en La Elipa, un barrio humilde de Madrid; mi madre cocinaba muy bien, su cocido era imbatible»",
-      "summary": "Dabiz Muñoz es un enamorado de la cocina. El chef pasó su infancia en el barrio madrileño de La Elipa, donde todavía guarda mucho de los recuerdos.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
+    {
+      "title": "Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-14/cortes-trafico-hoy-zona-centro-madrid-1qrt-1tna_4405473/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T03:45:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'",
       "url": "https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com",
@@ -70,11 +76,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Ayuso critica que Sánchez se dé \"la gran vida con los impuestos y recursos de todos\" mientras evita hablar del ático",
-      "url": "https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T16:54:47.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”",
+      "url": "https://elpais.com/espana/madrid/2026-08-14/la-casa-del-portero-es-ya-un-negocio-inmobiliario-en-madrid-reformada-genera-unos-1000-euros-al-mes-para-los-vecinos.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

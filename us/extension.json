@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T03:50:38.197Z",
+  "generatedAt": "2026-08-14T05:51:41.590Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|135|1786671867316",
+    "signature": "1.18.0|136|1786685819242",
     "version": "1.18.0",
-    "build": 135,
-    "latestEntityUpdatedAt": "2026-08-14T01:44:27.316Z"
+    "build": 136,
+    "latestEntityUpdatedAt": "2026-08-14T05:36:59.242Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-luigi-mangione",
       "name": "Luigi Mangione",
       "type": "organization",
-      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
       "url": "https://atlas.lootura.com/us/organization/luigi-mangione",
       "path": "/us/organization/luigi-mangione",
-      "updatedAt": "2026-08-14T01:44:27.316Z",
-      "score": 1680,
-      "sourceCount": 5,
+      "updatedAt": "2026-08-14T05:36:59.242Z",
+      "score": 1711,
+      "sourceCount": 6,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-abraham-lincoln",
+        "name": "Abraham Lincoln",
+        "type": "person",
+        "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
+        "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
+        "path": "/us/person/abraham-lincoln",
+        "updatedAt": "2026-08-14T05:36:59.242Z",
+        "score": 1676,
+        "sourceCount": 7,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Oklahoma carries out first of 3 executions scheduled for the same day in the U.S.",
+        "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-14T01:44:27.316Z",
-        "score": 1655,
-        "sourceCount": 760,
+        "updatedAt": "2026-08-14T05:36:59.242Z",
+        "score": 1670,
+        "sourceCount": 761,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,9 +60,9 @@
         "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
         "url": "https://atlas.lootura.com/us/place/middle-east",
         "path": "/us/place/middle-east",
-        "updatedAt": "2026-08-14T01:44:27.316Z",
-        "score": 1634,
-        "sourceCount": 39,
+        "updatedAt": "2026-08-14T05:36:59.242Z",
+        "score": 1651,
+        "sourceCount": 40,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,25 +70,12 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+        "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-14T01:44:27.316Z",
-        "score": 1628,
+        "updatedAt": "2026-08-14T05:36:59.242Z",
+        "score": 1649,
         "sourceCount": 749,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "Families concerned about reports of mental health crisis on USS Lincoln",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-14T01:44:27.316Z",
-        "score": 1627,
-        "sourceCount": 400,
         "isBreaking": false,
         "isPinned": false
       }

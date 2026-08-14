@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,5 +71,5 @@ Date: 2026-08-12
 ## Sources
 
 - [Acton teen held without bail in murders of mother, brother linked to ChatGPT](https://www.cbsnews.com/news/acton-ma-murders-chatgpt-arjun-aravind/?utm_source=lootura.com) — 2026-08-13T16:24:15.000Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T01:44:31.299Z
+- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T05:37:03.858Z
 - [Teens are turning to AI chatbots for emotional support—here's how to keep kids safe](https://phys.org/news/2026-08-teens-ai-chatbots-emotional-kids.html?utm_source=lootura.com) — 2026-08-13T23:40:04.000Z

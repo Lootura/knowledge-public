@@ -3,10 +3,16 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava
+
+El Ministerio para la Transición Ecológica concede a la compañía Mantle8 permisos para explorar estos gases en un área de 1.600 kilómetros cuadrados entre el territorio, Gipuzkoa y Navarra.
+
+Date: 2026-08-13
 
 ### Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones
 
@@ -52,4 +58,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Una empresa francesa se lanza a la búsqueda de hidrógeno y helio en suelo de Álava](https://www.elcorreo.com/alava/araba/empresa-francesa-lanza-busqueda-hidrogeno-helio-suelo-alava-20260813130106-nt_amp.html?utm_source=lootura.com) — 2026-08-13T11:02:32.000Z

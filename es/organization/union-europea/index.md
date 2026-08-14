@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### A partir del miércoles 12 de agosto entra en vigor y la UE lo confirma: los restaurantes de España están obligados a retirar los sobres de monodosis
+
+El pasado miércoles 12 de agosto de 2026 entró en vigor una nueva normativa que prohíbe los recipientes desechables y los sobres monodosis en los restaurantes de nuestro país. Todo viene a cuento de un Reglamento de la Unión Europea que entró en vigor en febrero de 2025 y que, en principio, tiene que comenzar a aplicar.
+
+Date: 2026-08-14
 
 ### Exteriores confirma un español fallecido en el terremoto de Colombia
 
@@ -62,12 +68,6 @@ La primera ministra de Italia, Giorgia Meloni , es de extrema derecha. Su homól
 
 Date: 2026-08-11
 
-### China hurga en la fractura de la Unión Europea por Ceuta
-
-Para el núcleo del poder comunista chino, la sangre derramada en el espigón ceutí se diagnostica como el abono perfecto para el fascismo continental y el certificado de defunción de la solidaridad europea. Las decenas de bolsas mortuorias apiladas en el antiguo Hospital Militar de O’Donnell representan, bajo el frío es.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [A partir del miércoles 12 de agosto entra en vigor y la UE lo confirma: los restaurantes de España están obligados a retirar los sobres de monodosis](https://okdiario.com/economia/partir-del-miercoles-12-agosto-entra-vigor-ue-lo-confirma-restaurantes-espana-estan-obligados-retirar-sobres-monodosis-19174414?utm_source=lootura.com) — 2026-08-14T05:15:21.000Z

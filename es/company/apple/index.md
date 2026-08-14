@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple](https://www.larazon.es/tecnologia-consumo/samsung/samsung-ya-trabaja-su-propia-alternativa-airpods-max-apple_202608136a7df335a046ad6ebcaf8990.html?utm_source=lootura.com) — 2026-08-13T20:30:00.000Z
+No public source links.

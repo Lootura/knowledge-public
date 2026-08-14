@@ -3,20 +3,26 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
 
-### La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto
+### Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste
 
-Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.
+El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.
 
-Date: 2026-08-13
+Date: 2026-08-14
 
 ### La crisis de la "españolísima" Ceuta
 
 El terremoto en Colombia el pasado lunes y el eclipse del sol el miércoles han dominado los medios y, por consiguiente, la conversación nacional. Las broncas sacudidas y las bellas sorpresas que propina la naturaleza dan para mucho y se habla de ellas a expensas del seísmo netamente humano y con muchos muertos por medi.
+
+Date: 2026-08-13
+
+### La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto
+
+Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.
 
 Date: 2026-08-13
 
@@ -62,13 +68,7 @@ A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tom
 
 Date: 2026-08-12
 
-### El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto
-
-Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de magnitud 7,4 que sacudió a Colombia el lunes, según datos divulgados este miércoles por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Además, 287 personas permanecen desaparecidas hasta el momento como resultado del po.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto](https://www.abc.es/internacional/gran-amenaza-cali-colapso-300-edificios-danados-20260813010941-nt.html?utm_source=lootura.com) — 2026-08-13T23:19:02.000Z
+- [Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste](https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com) — 2026-08-14T05:20:59.000Z
 - [La crisis de la "españolísima" Ceuta](https://www.expansion.com/economia/2026/08/14/6a7e030c468aebe3058b4576.html?utm_source=lootura.com) — 2026-08-13T23:59:09.000Z

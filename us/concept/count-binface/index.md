@@ -3,20 +3,26 @@
 > Follow Count Binface, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-12T20:40:38.161Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/concept/count-binface
 
 ## Recent changes
 
-### How Nigel Farage Ended Up Running Against Count Binface in Clacton
+### Farage Wins Special U.K. Election That He Initiated, as Expected
 
-Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.
+Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.
 
-Date: 2026-08-12
+Date: 2026-08-14
 
 ### Discovered by Atlas
 
 Count Binface first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-12
+
+### How Nigel Farage Ended Up Running Against Count Binface in Clacton
+
+Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.
 
 Date: 2026-08-12
 
@@ -28,4 +34,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Farage Wins Special U.K. Election That He Initiated, as Expected](https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com) — 2026-08-14T05:34:44.000Z

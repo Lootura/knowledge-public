@@ -3,20 +3,32 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+### Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia
 
-Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+El Gobierno sigue defendiendo la limpieza de la operación, pero El Debate lleva años pleiteando contra la negativa de Sánchez a hacer público el r...
 
-Date: 2026-08-13
+Date: 2026-08-14
 
 ### Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja
 
 Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.
+
+Date: 2026-08-13
+
+### Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo
+
+Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...
+
+Date: 2026-08-13
+
+### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+
+Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
 
 Date: 2026-08-13
 
@@ -44,12 +56,6 @@ Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, se
 
 Date: 2026-08-13
 
-### Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo
-
-Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...
-
-Date: 2026-08-13
-
 ### Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)
 
 El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Aragón', Carlota, hija mayor de las víctimas, y Luis Carlos, su.
@@ -62,18 +68,8 @@ La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en
 
 Date: 2026-08-13
 
-### Los «parches» económicos de Sánchez ocultan una inflación real que ya supera el 4,1%
-
-Los datos macroeconómicos están destapando el preocupante escenario de precios que atraviesa España pese al edulcorado discurso del Gobierno de Pedro Sánchez. Después de que el INE publicara este martes un repunte del 3,6% en la inflación en julio , la CEOE y los sindicatos han dado la voz de alarma destacando que el d.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse](https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html?utm_source=lootura.com) — 2026-08-13T23:47:44.000Z
+- [Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia](https://www.eldebate.com/espana/20260814/sanchez-intenta-esconder-supremo-expediente-plus-ultra-mientras-presume-transparencia_449264.html?utm_source=lootura.com) — 2026-08-14T02:30:00.000Z
 - [Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo](https://amp.elmundo.es/espana/2026/08/13/6a7e00b6fc6c8333778b45ad.html?utm_source=lootura.com) — 2026-08-13T20:42:58.000Z
 - [Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja](https://www.elmundo.es/aragon/2026/08/13/6a7de130fdddffb96c8b457d.html?utm_source=lootura.com) — 2026-08-13T15:55:24.000Z
-- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
-- [Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático](https://www.eldiario.es/madrid/ayuso-critica-sanchez-gran-vida-impuestos-recursos-evita-hablar-atico_1_13445515.html?utm_source=lootura.com) — 2026-08-13T16:54:47.000Z
-- [Gambas para Sánchez y menas para Ceuta](https://okdiario.com/opinion/gambas-sanchez-menas-ceuta-19178561/amp?utm_source=lootura.com) — 2026-08-13T19:58:47.000Z
-- [Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta](https://theobjective.com/espana/politica/2026-08-13/abascal-acusa-inmigrantes-sanchez-provocar-terror-sexual-ceuta/?amp=&utm_source=lootura.com) — 2026-08-13T16:51:10.000Z

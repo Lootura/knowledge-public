@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
+
+Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.
+
+Date: 2026-08-14
 
 ### Families concerned about reports of mental health crisis on USS Lincoln
 
@@ -62,13 +68,8 @@ Meanwhile, Iran has made new demands about the restart of negotiations and the r
 
 Date: 2026-08-09
 
-### Yemen Teeters on Civil War as Regional Stability Hangs in the Balance
-
-While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.
-
-Date: 2026-08-08
-
 ## Sources
 
+- [Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"](https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com) — 2026-08-14T01:37:19.000Z
 - [Families concerned about reports of mental health crisis on USS Lincoln](https://www.nbcnews.com/video/families-concerned-about-reports-of-mental-health-crisis-on-uss-lincoln-268262469844?utm_source=lootura.com) — 2026-08-13T17:37:30.000Z
 - [Sailors and their families have lives on hold, uncertain if they'll return to Mideast](https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war?utm_source=lootura.com) — 2026-08-13T09:00:00.000Z

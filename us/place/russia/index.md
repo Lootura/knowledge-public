@@ -3,16 +3,10 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
-
-### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
-
-Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
-
-Date: 2026-08-13
 
 ### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
 
@@ -23,6 +17,12 @@ Date: 2026-08-13
 ### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
 
 Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
+
+Date: 2026-08-13
+
+### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
+
+Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
 
 Date: 2026-08-13
 
@@ -70,6 +70,6 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z
+- [Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze](https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com) — 2026-08-13T20:27:15.000Z
 - [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html?utm_source=lootura.com) — 2026-08-13T20:34:21.000Z
 - [Putin Visits Islands Seized From Japan in World War II, Angering Tokyo](https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html?utm_source=lootura.com) — 2026-08-13T22:38:32.000Z

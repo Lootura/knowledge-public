@@ -3,7 +3,7 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [La generación de expectativas en Bolsa: por qué Wall Street sorprende más al mercado que Europa](https://cincodias.elpais.com/mercados-financieros/2026-08-14/la-generacion-de-expectativas-en-bolsa-por-que-wall-street-sorprende-mas-al-mercado-que-europa.html?utm_source=lootura.com) — 2026-08-14T03:25:00.000Z

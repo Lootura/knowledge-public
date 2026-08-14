@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ferran-torres/index.json",
   "description": "Sigue la actividad de \"El Tiburón\" en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T05:36:25.746Z",
   "aliases": [
     "\"El Tiburón\"",
     "El Tiburón",
@@ -70,17 +70,11 @@
   ],
   "sources": [
     {
-      "title": "El PSG ficha a Ferran, el héroe del Mundial, por 50 millones",
-      "url": "https://www.abc.es/deportes/futbol/psg-ficha-ferran-heroe-mundial-millones-20260813210709-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T23:46:56.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones",
-      "url": "https://okdiario.com/deportes/principio-acuerdo-barcelona-psg-ferran-torres-marcharia-cerca-50-millones-19178708/amp?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:24:50.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Ferran Torres se marcha al PSG de Luis Enrique",
+      "url": "https://www.elcorreo.com/deportes/futbol/la-liga/liga-primera/ferran-torres-marcha-psg-luis-enrique-20260813213944-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T19:39:44.000Z",
+      "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

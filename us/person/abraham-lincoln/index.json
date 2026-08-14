@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T01:44:27.316Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -18,6 +18,16 @@
     "Uncle Abe"
   ],
   "changes": [
+    {
+      "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Parent says son feels a sense of ‘powerlessness’ aboard USS Abraham Lincoln",
+      "summary": "Growing concerns are emerging over conditions aboard the USS Abraham Lincoln as sailors and families report low morale, supply shortages and months without a port call. In an interview with NBC News’ Tom Llamas, one parent calls for answers, saying her son feels a sense of “powerlessness” while serving aboard the carri.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
       "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.",
@@ -51,6 +61,12 @@
   ],
   "sources": [
     {
+      "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
+      "url": "https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T01:37:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Democratic senators demand answers about conditions aboard USS Abraham Lincoln",
       "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/?utm_source=lootura.com",
       "publishedAt": "2026-08-13T16:17:33.000Z",
@@ -60,6 +76,12 @@
       "title": "USS Abraham Lincoln to head home amid concerns about living conditions",
       "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-to-head-home-amid-concerns-about-living-conditions-268282949895?utm_source=lootura.com",
       "publishedAt": "2026-08-13T23:12:58.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Parent says son feels a sense of ‘powerlessness’ aboard USS Abraham Lincoln",
+      "url": "https://www.nbcnews.com/video/parent-says-son-feels-a-sense-of-powerlessness-aboard-uss-abraham-lincoln-268289605806?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T00:16:41.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -75,5 +97,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

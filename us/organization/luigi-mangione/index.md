@@ -3,16 +3,16 @@
 > Follow Luigi Mangione, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/organization/luigi-mangione
 
 ## Recent changes
 
-### Luigi Mangione in discussions about possible guilty plea, sources say
+### Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News
 
 Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.
 
-Date: 2026-08-13
+Date: 2026-08-14
 
 ### Luigi Mangione is expected to plead guilty to federal charges, sources tell NBC News
 
@@ -44,9 +44,15 @@ Luigi Mangione first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-13
 
+### Luigi Mangione in discussions about possible guilty plea, sources say
+
+Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.
+
+Date: 2026-08-13
+
 ## Sources
 
-- [Luigi Mangione in discussions about possible guilty plea, sources say](https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/?utm_source=lootura.com) — 2026-08-13T20:02:43.000Z
+- [Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News](https://www.cbsnews.com/newyork/news/luigi-mangione-possible-federal-plea-deal/?utm_source=lootura.com) — 2026-08-14T03:17:56.000Z
 - [Luigi Mangione is expected to plead guilty to federal charges, sources tell NBC News](https://www.nbcnews.com/now/video/luigi-mangione-is-expected-to-plead-guilty-to-federal-charges-sources-tell-nbc-news-268257349767?utm_source=lootura.com) — 2026-08-13T16:33:47.000Z
 - [Mangione could plead guilty in federal case ahead of N.Y. murder trial](https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea?utm_source=lootura.com) — 2026-08-13T17:29:15.000Z
 - [AP report: Luigi Mangione expected to plead guilty in federal case over CEO killing](https://www.pbs.org/newshour/nation/ap-report-luigi-mangione-expected-to-plead-guilty-in-federal-case-over-ceo-killing?utm_source=lootura.com) — 2026-08-13T19:43:23.000Z

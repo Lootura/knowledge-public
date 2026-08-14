@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU](https://cincodias.elpais.com/mercados-financieros/2026-08-13/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-13T19:32:51.000Z
+No public source links.

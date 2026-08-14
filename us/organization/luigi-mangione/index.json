@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.json",
   "description": "Follow Luigi Mangione, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T01:44:27.316Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "Luigi Nicholas Mangione"
   ],
   "changes": [
     {
-      "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
+      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
       "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.",
-      "date": "2026-08-13"
+      "date": "2026-08-14"
     },
     {
       "title": "Luigi Mangione is expected to plead guilty to federal charges, sources tell NBC News",
@@ -42,13 +42,18 @@
       "title": "Discovered by Atlas",
       "summary": "Luigi Mangione first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
+    },
+    {
+      "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
+      "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.",
+      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Luigi Mangione in discussions about possible guilty plea, sources say",
-      "url": "https://www.cbsnews.com/news/luigi-mangione-possible-federal-plea-deal/?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T20:02:43.000Z",
+      "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
+      "url": "https://www.cbsnews.com/newyork/news/luigi-mangione-possible-federal-plea-deal/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T03:17:56.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {

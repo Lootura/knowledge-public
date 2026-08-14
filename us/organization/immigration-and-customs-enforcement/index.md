@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [Latest news on ICE plan to give agents electric shock gloves](https://www.cbsnews.com/video/ices-controversial-plan-to-agents-electric-shock-gloves/?utm_source=lootura.com) — 2026-08-13T15:42:45.000Z
+No public source links.

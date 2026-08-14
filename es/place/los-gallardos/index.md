@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas](https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172?utm_source=lootura.com) — 2026-08-13T16:30:08.000Z
+No public source links.

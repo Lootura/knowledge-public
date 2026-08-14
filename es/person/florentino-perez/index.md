@@ -28,4 +28,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Florentino Pérez obtiene una plusvalía de 23 millones de euros con la venta de 295.000 acciones de ACS](https://cincodias.elpais.com/companias/2026-08-13/florentino-perez-obtiene-una-plusvalia-de-23-millones-de-euros-con-la-venta-de-295000-acciones-de-acs.html?utm_source=lootura.com) — 2026-08-13T16:24:31.000Z
+No public source links.

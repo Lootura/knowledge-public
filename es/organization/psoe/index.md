@@ -3,16 +3,10 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
-
-### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
-
-"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
-
-Date: 2026-08-13
 
 ### El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE
 
@@ -23,6 +17,12 @@ Date: 2026-08-13
 ### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
 
 Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».
+
+Date: 2026-08-13
+
+### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
+
+"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
 
 Date: 2026-08-13
 
@@ -72,4 +72,3 @@ Date: 2026-08-11
 
 - [El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'](https://www.elcorreo.com/politica/juzgado-madrid-inhibe-favor-pedraz-senalando-cupula-20260813124637-ntrc_amp.html?utm_source=lootura.com) — 2026-08-13T10:46:37.000Z
 - [El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE](https://www.elmundo.es/espana/2026/08/13/6a7dde62fc6c833b388b457b.html?utm_source=lootura.com) — 2026-08-13T15:22:04.000Z
-- [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z

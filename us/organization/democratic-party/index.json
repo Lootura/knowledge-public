@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T01:44:27.316Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
+      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party",
       "summary": "Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.",
@@ -57,11 +62,6 @@
       "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
       "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
-      "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -69,6 +69,12 @@
       "title": "Democrats expected to approve South Carolina as first primary in 2028, but other states pushing back",
       "url": "https://www.cbsnews.com/video/democrats-prepare-to-finalize-2028-presidential-primary-calendar/?utm_source=lootura.com",
       "publishedAt": "2026-08-14T01:06:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
+      "url": "https://www.cbsnews.com/video/hegseth-says-conditions-aboard-uss-abraham-lincoln-completely-misrepresented/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T01:37:19.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -96,5 +102,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

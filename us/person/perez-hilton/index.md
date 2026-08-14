@@ -3,10 +3,16 @@
 > Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/person/perez-hilton
 
 ## Recent changes
+
+### Perez Hilton has long road to recovery, had struggled with depression, sister says
+
+Barbara Lavandeira recalled finding her brother in a state of distress on Aug. 4 and said “we remain hopeful” as he recovers.
+
+Date: 2026-08-14
 
 ### Perez Hilton hospitalized in ‘serious but stable’ condition, family says
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Perez Hilton has long road to recovery, had struggled with depression, sister says](https://www.nbcnews.com/news/us-news/perez-hilton-long-road-recovery-struggled-depression-self-harm-sister-rcna592456?utm_source=lootura.com) — 2026-08-14T02:29:21.000Z

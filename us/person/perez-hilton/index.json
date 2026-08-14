@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/perez-hilton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/perez-hilton/index.json",
   "description": "Follow Perez Hilton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T12:43:46.985Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "Hilton",
     "Mario Armando Lavandeira",
@@ -16,6 +16,11 @@
     "Perez"
   ],
   "changes": [
+    {
+      "title": "Perez Hilton has long road to recovery, had struggled with depression, sister says",
+      "summary": "Barbara Lavandeira recalled finding her brother in a state of distress on Aug. 4 and said “we remain hopeful” as he recovers.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Perez Hilton hospitalized in ‘serious but stable’ condition, family says",
       "summary": "Perez Hilton was in serious condition at a Florida hospital on Saturday after he livestreamed what appeared to be self-harm from his Miami-area home Tuesday night, his family said in a statement.",
@@ -47,6 +52,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Perez Hilton has long road to recovery, had struggled with depression, sister says",
+      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-long-road-recovery-struggled-depression-self-harm-sister-rcna592456?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T02:29:21.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

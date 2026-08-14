@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
+
+El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...
+
+Date: 2026-08-13
+
+### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
+
+Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
+
+Date: 2026-08-13
 
 ### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
 
@@ -20,21 +32,9 @@ Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha
 
 Date: 2026-08-13
 
-### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
-
-El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...
-
-Date: 2026-08-13
-
 ### Robles aplaza su comparecencia en el Senado para poder ser más "precisa y exhaustiva" en sus explicaciones sobre la crisis de Ceuta
 
 El PP acusa a Moncloa de frenar las explicaciones de la ministra tras la avalancha migratoria Leer.
-
-Date: 2026-08-13
-
-### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
-
-Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
 
 Date: 2026-08-13
 
@@ -71,8 +71,4 @@ Date: 2026-08-13
 ## Fuentes
 
 - [Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta](https://amp.elmundo.es/espana/2026/08/13/6a7ddaaafdddffac5d8b459c.html?utm_source=lootura.com) — 2026-08-13T15:08:49.000Z
-- [Robles aplaza su comparecencia en el Senado para poder ser más "precisa y exhaustiva" en sus explicaciones sobre la crisis de Ceuta](https://www.elmundo.es/espana/2026/08/13/6a7db4c3e85ece9b7d8b4574.html?utm_source=lootura.com) — 2026-08-13T12:24:29.000Z
-- [El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos](https://www.elmundo.es/cataluna/2026/08/13/6a7da49721efa0c53c8b4592.html?utm_source=lootura.com) — 2026-08-13T11:34:32.000Z
 - [El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta](https://elpais.com/espana/2026-08-13/el-pp-intenta-aplazar-el-debate-sobre-la-acogida-a-los-menores-hacinados-en-ceuta.html?utm_source=lootura.com) — 2026-08-13T17:45:21.000Z
-- [El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición](https://elpais.com/espana/catalunya/2026-08-13/el-pp-cuestiona-al-gobierno-de-sanchez-despues-de-que-marruecos-amagara-con-suspender-el-acuerdo-de-extradicion.html?utm_source=lootura.com) — 2026-08-13T12:23:31.000Z
-- [La diplomacia del ciervo](https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html?utm_source=lootura.com) — 2026-08-13T22:00:00.000Z

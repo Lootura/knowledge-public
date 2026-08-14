@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Sources
 
-- [Poland says it thwarted Russian plot to kill an American citizen in a NATO country](https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com) — 2026-08-13T14:46:15.000Z
+No public source links.

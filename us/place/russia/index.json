@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T01:44:27.316Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,11 +18,6 @@
   ],
   "changes": [
     {
-      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
-      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
-      "date": "2026-08-13"
-    },
-    {
       "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
       "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
       "date": "2026-08-13"
@@ -30,6 +25,11 @@
     {
       "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
       "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
+      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
       "date": "2026-08-13"
     },
     {
@@ -70,9 +70,9 @@
   ],
   "sources": [
     {
-      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
-      "url": "https://www.pbs.org/newshour/world/poland-says-it-thwarted-russian-plot-to-kill-an-american-citizen-in-a-nato-country?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T14:46:15.000Z",
+      "title": "Ukrainian drones strike major oil refinery deep inside Russia, setting it ablaze",
+      "url": "https://www.pbs.org/newshour/world/ukrainian-drones-strike-major-oil-refinery-deep-inside-russia-setting-it-ablaze?utm_source=lootura.com",
+      "publishedAt": "2026-08-13T20:27:15.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -88,5 +88,5 @@
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta](https://theobjective.com/espana/politica/2026-08-13/abascal-acusa-inmigrantes-sanchez-provocar-terror-sexual-ceuta/?amp=&utm_source=lootura.com) — 2026-08-13T16:51:10.000Z
+No public source links.

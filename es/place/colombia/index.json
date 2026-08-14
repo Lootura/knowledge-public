@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-14T05:36:25.746Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto",
-      "summary": "Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.",
-      "date": "2026-08-13"
+      "title": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
+      "summary": "El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.",
+      "date": "2026-08-14"
     },
     {
       "title": "La crisis de la \"españolísima\" Ceuta",
       "summary": "El terremoto en Colombia el pasado lunes y el eclipse del sol el miércoles han dominado los medios y, por consiguiente, la conversación nacional. Las broncas sacudidas y las bellas sorpresas que propina la naturaleza dan para mucho y se habla de ellas a expensas del seísmo netamente humano y con muchos muertos por medi.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto",
+      "summary": "Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.",
       "date": "2026-08-13"
     },
     {
@@ -60,19 +65,14 @@
       "title": "De la Espriella permite al ejército de EE UU actuar contra el narco en Colombia",
       "summary": "A pesar de la tragedia del terremoto, el presidente de Colombia ya empieza a tomar decisiones y ayer el secretario de Guerra de Estados Unidos, Pete Hegseth, afirmó que Abelardo de la Espriella ha autorizado «operaciones militares conjuntas» con EE UU en Colombia para combatir el narcoterrorismo y dijo que el país suda.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El Gobierno colombiano confirma al menos 239 muertos y 3.755 heridos por el terremoto",
-      "summary": "Al menos 239 personas han muerto y 3.755 resultaron heridas por el terremoto de magnitud 7,4 que sacudió a Colombia el lunes, según datos divulgados este miércoles por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD). Además, 287 personas permanecen desaparecidas hasta el momento como resultado del po.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto",
-      "url": "https://www.abc.es/internacional/gran-amenaza-cali-colapso-300-edificios-danados-20260813010941-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T23:19:02.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Colombia suma 281 muertos tras el gran terremoto mientras la emergencia humanitaria persiste",
+      "url": "https://www.elmundo.es/internacional/2026/08/14/6a7ea44ee9cf4a93448b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T05:20:59.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "La crisis de la \"españolísima\" Ceuta",

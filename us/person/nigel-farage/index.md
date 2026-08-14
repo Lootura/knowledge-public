@@ -3,10 +3,16 @@
 > Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/person/nigel-farage
 
 ## Recent changes
+
+### Farage Wins Special U.K. Election That He Initiated, as Expected
+
+Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.
+
+Date: 2026-08-14
 
 ### What to Know About Today’s U.K. Special Election: Farage vs. Binface
 
@@ -34,4 +40,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Farage Wins Special U.K. Election That He Initiated, as Expected](https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html?utm_source=lootura.com) — 2026-08-14T05:34:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T01:44:27.316Z",
+  "updatedAt": "2026-08-14T05:36:59.242Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,11 @@
     {
       "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
       "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).",
       "date": "2026-08-14"
     },
     {
@@ -62,14 +67,15 @@
       "title": "Karoline Leavitt to step down as White House press secretary at end of August",
       "summary": "President Donald Trump announced that White House press secretary Karoline Leavitt will be stepping down from her role at the end of August. NBC News' Monica Alba reports on the announcement and Leavitt's time in the role.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey",
-      "summary": "In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
+    {
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T02:06:10.000Z",
+      "sourceId": "lootura-us-npr"
+    },
     {
       "title": "How Trump's construction projects are changing Washington and costing taxpayers",
       "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com",
@@ -89,5 +95,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

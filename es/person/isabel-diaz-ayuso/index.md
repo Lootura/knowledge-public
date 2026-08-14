@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse](https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html?utm_source=lootura.com) — 2026-08-13T23:47:44.000Z
+No public source links.

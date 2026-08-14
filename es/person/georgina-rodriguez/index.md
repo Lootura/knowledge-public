@@ -3,10 +3,16 @@
 > Sigue la actividad de Georgina Rodríguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-08-14T05:36:25.746Z
 - Canonical: https://atlas.lootura.com/es/person/georgina-rodriguez
 
 ## Cambios recientes
+
+### El primer look de Georgina Rodríguez tras su boda secreta: blanco nupcial y vaqueros para volver a su día a día
+
+Georgina Rodríguez y Cristiano Ronaldo han protagonizado una de las noticias más inesperadas de los últimos días. Después de semanas de rumores y de una enorme expectación alrededor de su boda, la pareja anunció que ya se había dado el ‘sí, quiero’ con una única fotografía de sus manos en la que mostraban sus alianzas.
+
+Date: 2026-08-14
 
 ### La joya más discreta del joyero de Georgina: de un anillo de millones a la alianza que comparte con Cristiano
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [El primer look de Georgina Rodríguez tras su boda secreta: blanco nupcial y vaqueros para volver a su día a día](https://www.larazon.es/lifestyle/moda/primer-look-georgina-rodriguez-boda-secreta-blanco-nupcial-vaqueros-volver-dia-dia_202608146a7ea597a5690f047378e5c3.html?utm_source=lootura.com) — 2026-08-14T05:24:08.000Z

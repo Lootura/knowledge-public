@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-08-14T05:36:59.242Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Judge drops Nevada case against electors accused of forging 2020 election certificate
 
 The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.
+
+Date: 2026-08-14
+
+### Feds probe 'mention markets' amid White House Kalshi controversy
+
+Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).
 
 Date: 2026-08-14
 
@@ -62,14 +68,9 @@ President Donald Trump announced that White House press secretary Karoline Leavi
 
 Date: 2026-08-12
 
-### News Wrap: Trump confirms he was secretly whisked away from Air Force One in Turkey
-
-In our news wrap Wednesday, President Trump confirmed that he was whisked away from Air Force One in a catering truck at the Secret Service's direction, the hope of finding survivors is diminishing more than two days after a powerful earthquake hit Colombia and White House Press Secretary Karoline Leavitt says she will.
-
-Date: 2026-08-12
-
 ## Sources
 
+- [Feds probe 'mention markets' amid White House Kalshi controversy](https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com) — 2026-08-14T02:06:10.000Z
 - [How Trump's construction projects are changing Washington and costing taxpayers](https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers?utm_source=lootura.com) — 2026-08-13T22:50:08.000Z
 - [Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs](https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs?utm_source=lootura.com) — 2026-08-13T17:46:48.000Z
 - [Judge drops Nevada case against electors accused of forging 2020 election certificate](https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate?utm_source=lootura.com) — 2026-08-14T00:07:50.000Z
