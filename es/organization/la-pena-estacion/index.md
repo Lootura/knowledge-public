@@ -3,7 +3,7 @@
 > Sigue la actividad de La Peña Estación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/la-pena-estacion
 
 ## Cambios recientes

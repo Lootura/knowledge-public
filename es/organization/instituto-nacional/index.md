@@ -3,7 +3,7 @@
 > Sigue la actividad de Instituto Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/instituto-nacional
 
 ## Cambios recientes

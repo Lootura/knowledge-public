@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia](https://theobjective.com/internacional/2026-08-14/suben-285-muertos-3-975-heridos-gran-terremoto-noroeste-colombia/?utm_source=lootura.com) — 2026-08-14T15:33:17.000Z
+No public source links.

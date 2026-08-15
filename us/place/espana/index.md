@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Bones of medieval kings saved from Spanish wildfire
+
+Firefighters raced to save a 1,000-year-old monastery in northeastern Spain on Friday as a growing wildfire prompted the hasty removal of the bones of medieval monarchs buried there.
+
+Date: 2026-08-14
 
 ### Total solar eclipse mesmerizes crowds throughout Europe
 
@@ -62,12 +68,6 @@ Spain is at the center of the global immigration debate. Left-wing Prime Ministe
 
 Date: 2026-08-12
 
-### A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.
-
-Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Bones of medieval kings saved from Spanish wildfire](https://phys.org/news/2026-08-bones-medieval-kings-spanish-wildfire.html?utm_source=lootura.com) — 2026-08-14T21:20:04.000Z

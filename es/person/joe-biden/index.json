@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/joe-biden/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/joe-biden/index.json",
   "description": "Sigue la actividad de Joe Biden en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-09T01:26:38.581Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Biden",
     "JRB Ware",
@@ -28,6 +28,16 @@
   ],
   "changes": [
     {
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "summary": "El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. \" Lo vie.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Joe Biden first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-08"
+    },
+    {
       "title": "Hunter Biden se derrumba al hablar de su padre: «El cáncer se ha extendido»",
       "summary": "El cáncer de Joe Biden se ha extendido, tal y como ha confirmado su hijo en una entrevista a la BBC. Hunter Biden se derrumbó al hablar de la enfermedad de su padre en la cadena británica. «Mi padre, en nuestra familia...», comenzó su respuesta, interrumpida inicialmente por la emoción.Joe Biden, presidente de Estados.",
       "date": "2026-08-08"
@@ -36,13 +46,15 @@
       "title": "El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»",
       "summary": "El político demócrata, Joe Biden, sufre un cáncer de próstata « muy doloroso » y « muy debilitante ». Fue el pasado mes de mayo de 2025 cuando el expresidente, después de dejar la Casa Blanca, anunció que había sido diagnosticado con un cáncer de próstata con metástasis ósea . Meses después, Biden comenzó a recibir rad.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Joe Biden first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "url": "https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:18:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

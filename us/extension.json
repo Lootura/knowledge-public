@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T20:46:38.810Z",
+  "generatedAt": "2026-08-15T01:20:18.614Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|141|1786739309024",
+    "signature": "1.18.0|142|1786755877915",
     "version": "1.18.0",
-    "build": 141,
-    "latestEntityUpdatedAt": "2026-08-14T20:28:29.024Z"
+    "build": 142,
+    "latestEntityUpdatedAt": "2026-08-15T01:04:37.915Z"
   },
   "atlas": {
     "hero": {
       "id": "usa-luigi-mangione",
       "name": "Luigi Mangione",
       "type": "organization",
-      "title": "Luigi Mangione pleads guilty in federal case, admits shooting UnitedHealthcare CEO Brian Thompson",
+      "title": "Luigi Mangione admits to killing CEO",
       "url": "https://atlas.lootura.com/us/organization/luigi-mangione",
       "path": "/us/organization/luigi-mangione",
-      "updatedAt": "2026-08-14T20:28:29.024Z",
-      "score": 1717,
-      "sourceCount": 9,
+      "updatedAt": "2026-08-15T01:04:37.915Z",
+      "score": 1719,
+      "sourceCount": 12,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,12 +31,12 @@
         "id": "usa-abraham-lincoln",
         "name": "Abraham Lincoln",
         "type": "person",
-        "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
+        "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
         "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
         "path": "/us/person/abraham-lincoln",
-        "updatedAt": "2026-08-14T20:28:29.024Z",
-        "score": 1651,
-        "sourceCount": 13,
+        "updatedAt": "2026-08-15T01:04:37.915Z",
+        "score": 1691,
+        "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,12 +44,12 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
+        "title": "Daily fragment: Donald Trump",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-14T20:28:29.024Z",
-        "score": 1651,
-        "sourceCount": 760,
+        "updatedAt": "2026-08-15T01:04:37.915Z",
+        "score": 1670,
+        "sourceCount": 767,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +57,29 @@
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more",
+        "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-14T20:28:29.024Z",
-        "score": 1651,
-        "sourceCount": 776,
+        "updatedAt": "2026-08-15T01:04:37.915Z",
+        "score": 1670,
+        "sourceCount": 781,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-new-york",
+        "name": "New York City",
         "type": "place",
-        "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-08-14T20:28:29.024Z",
-        "score": 1648,
-        "sourceCount": 404,
+        "title": "What’s Next for Luigi Mangione After His Guilty Plea?",
+        "url": "https://atlas.lootura.com/us/place/new-york",
+        "path": "/us/place/new-york",
+        "updatedAt": "2026-08-15T01:04:37.915Z",
+        "score": 1659,
+        "sourceCount": 100,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 159
+    "publicEntityCount": 161
   }
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T21:04:44.681Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
+
+### El régimen talibán cumple cinco años en el poder entre el orden forzado y el colapso humanitario
+
+La represión interna también se ha traducido en una caída de los donantes de ayuda humanitaria internacionales, recelosos de legitimar a un régimen cuyos ministros siguen bajo sanciones de Naciones Unidas por terrorismo Leer.
+
+Date: 2026-08-14
 
 ### Fragmento del día: Resolución 1936 del Consejo de Seguridad de las Naciones Unidas
 
@@ -62,12 +68,6 @@ Organización de las Naciones Unidas first entered the public knowledge record w
 
 Date: 2026-07-19
 
-### España insiste en Planas para la FAO pese a la división europea sobre un candidato único
-
-España ha iniciado la campaña para situar al ministro de Agricultura, Pesca y Alimentación, Luis Planas , al frente de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO) , una carrera de largo recorrido que culminará con la elección prevista para la última semana de junio de 2027 y que arran.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [El régimen talibán cumple cinco años en el poder entre el orden forzado y el colapso humanitario](https://www.elmundo.es/internacional/2026/08/14/6a7f23ece4d4d8402c8b458c.html?utm_source=lootura.com) — 2026-08-14T20:44:18.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Bones of medieval kings saved from Spanish wildfire",
+      "summary": "Firefighters raced to save a 1,000-year-old monastery in northeastern Spain on Friday as a growing wildfire prompted the hasty removal of the bones of medieval monarchs buried there.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Total solar eclipse mesmerizes crowds throughout Europe",
       "summary": "On August 12, 2026, a total solar eclipse awed onlookers throughout Europe, including in Spain and the United Kingdom. Video Producer: Martina Di Licosa.",
@@ -59,13 +64,15 @@
       "title": "A look at Spain's plan to give undocumented migrants legal status",
       "summary": "Spain is at the center of the global immigration debate. Left-wing Prime Minister Pedro Sanchez has enacted a plan aimed at giving legal status to undocumented immigrants. But last month, tens of thousands of migrants tried to illegally cross into the Spanish territory of Ceuta, which borders Morocco. The incident is p.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-      "summary": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Bones of medieval kings saved from Spanish wildfire",
+      "url": "https://phys.org/news/2026-08-bones-medieval-kings-spanish-wildfire.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:20:04.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

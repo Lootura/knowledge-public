@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno
 
 La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.
+
+Date: 2026-08-14
+
+### El chavismo se fractura tras la captura de Maduro y los terremotos
+
+El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.
+
+Date: 2026-08-14
+
+### Deserción masiva en el PSOE de Huelva, el feudo socialista que parecía inexpugnable
+
+Cerca de 70 concejales han abandonado desde las municipales de 2023, nueve de ellos en la capital Leer.
+
+Date: 2026-08-14
+
+### El último golpe a la credibilidad de Sumar: su bandera verde se hunde con el PSOE en Almaraz
+
+El acuerdo de gobierno es taxativo sobre el cierre de las nucleares desde 2027 Leer.
 
 Date: 2026-08-14
 
@@ -50,24 +68,9 @@ El primer juez que investigó la presunta 'cloaca' del PSOE , Arturo Zamarriego,
 
 Date: 2026-08-13
 
-### El juez apunta a que personas de «mayor nivel de jerarquía» están implicadas en el 'caso Leire'
-
-El magistrado Arturo Zamarriego constata la existencia de «un importante entramado delictivo» en torno a la exfontanera del PSOE, Leire Díez.
-
-Date: 2026-08-13
-
-### El PSOE se rompe en Madrid y en Oviedo por las primarias para la elección de candidatos a las alcaldías: "Los rivales se enemistan para toda la vida"
-
-Reyes Maroto se impuso a Enma López por sólo 204 votos en la capital pese a contar con el apoyo del aparato Leer.
-
-Date: 2026-08-12
-
-### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
-
-El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.
-
-Date: 2026-08-12
-
 ## Fuentes
 
+- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
+- [Deserción masiva en el PSOE de Huelva, el feudo socialista que parecía inexpugnable](https://www.elmundo.es/andalucia/2026/08/14/6a78943421efa04b648b45b7.html?utm_source=lootura.com) — 2026-08-14T20:44:46.000Z
+- [El último golpe a la credibilidad de Sumar: su bandera verde se hunde con el PSOE en Almaraz](https://www.elmundo.es/espana/2026/08/14/6a7f5d27e4d4d8a1138b45d8.html?utm_source=lootura.com) — 2026-08-14T20:44:31.000Z
 - [Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno](https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com) — 2026-08-14T09:39:41.000Z

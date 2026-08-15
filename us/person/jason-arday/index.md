@@ -3,10 +3,34 @@
 > Follow Jason Arday, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/person/jason-arday
 
 ## Recent changes
+
+### Ex-Cambridge professor dies week after resigning amid plagiarism allegations
+
+Jason Arday, who was Cambridge's youngest Black professor, died in London on Friday, the school said.
+
+Date: 2026-08-15
+
+### Discovered by Atlas
+
+Jason Arday first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-14
+
+### Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning
+
+Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism.
+
+Date: 2026-08-14
+
+### Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation
+
+A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday.
+
+Date: 2026-08-14
 
 ### Jason Arday found dead after resigning from Cambridge over plagiarism claims
 
@@ -20,13 +44,8 @@ The British police said a man had been found dead at a home linked to Mr. Arday,
 
 Date: 2026-08-14
 
-### Discovered by Atlas
-
-Jason Arday first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Jason Arday found dead after resigning from Cambridge over plagiarism claims](https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims?utm_source=lootura.com) — 2026-08-14T19:56:25.000Z
-- [Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead](https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html?utm_source=lootura.com) — 2026-08-14T19:53:04.000Z
+- [Ex-Cambridge professor dies week after resigning amid plagiarism allegations](https://www.cbsnews.com/news/jason-arday-dies-cambridge-professor-plagiarism/?utm_source=lootura.com) — 2026-08-15T00:05:13.000Z
+- [Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning](https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616?utm_source=lootura.com) — 2026-08-14T20:28:18.000Z
+- [Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation](https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation?utm_source=lootura.com) — 2026-08-14T23:25:02.000Z

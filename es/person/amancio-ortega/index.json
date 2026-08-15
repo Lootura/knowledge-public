@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
   "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Amancio",
     "Amancio Ortega Gaona",
@@ -17,11 +17,6 @@
   ],
   "changes": [
     {
-      "title": "Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings",
-      "summary": "La inversión de Amancio Ortega en Australia llega a buen puerto . A través de su family office Pontegadea, el empresario textil ha cerrado la compra de un 15% de Qube Holdings , gestor portuario y logístico, en una operación valorada en alrededor de 1.070 millones de euros. La empresa australiana comunicó este viernes.",
-      "date": "2026-08-14"
-    },
-    {
       "title": "Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings",
       "summary": "Pontegadea y sus socios, Macquarie Asset Managemet y UniSuper , han ejecutado este viernes el cierre de la compra del operador logístico Qube Holdings , en una operación que valora la empresa en 11.700 millones de dólares australianos (unos 7.000 millones de euros), incluyendo deuda. Seguir leyendo.",
       "date": "2026-08-14"
@@ -29,6 +24,11 @@
     {
       "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
       "summary": "El hólding empresarial de Amancio Ortega ganó 10.055 millones en 2025, un 7,86% más respecto el año anterior. Seguir leyendo.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings",
+      "summary": "La inversión de Amancio Ortega en Australia llega a buen puerto . A través de su family office Pontegadea, el empresario textil ha cerrado la compra de un 15% de Qube Holdings , gestor portuario y logístico, en una operación valorada en alrededor de 1.070 millones de euros. La empresa australiana comunicó este viernes.",
       "date": "2026-08-14"
     },
     {
@@ -69,12 +69,6 @@
   ],
   "sources": [
     {
-      "title": "Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings",
-      "url": "https://cincodias.elpais.com/companias/2026-08-14/amancio-ortega-desembarca-en-los-puertos-de-australia-al-sellar-la-compra-del-15-de-qube-holdings.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T14:19:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
       "title": "Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings",
       "url": "https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T16:21:28.000Z",
@@ -83,9 +77,9 @@
     {
       "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
       "url": "https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T17:14:25.000Z",
+      "publishedAt": "2026-08-14T22:13:30.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

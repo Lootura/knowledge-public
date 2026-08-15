@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,16 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
+      "summary": "El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Venezuela anuncia la excarcelación de más de 130 presos políticos",
+      "summary": "La medida se enmarca en la ley de amnistía, mientras las ONG recuerdan que aún quedan cientos de detenidos.",
+      "date": "2026-08-14"
+    },
     {
       "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
       "summary": "La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.",
@@ -58,18 +68,21 @@
       "title": "Venezuela agradece a Albares la ayuda de España tras los terremotos de junio",
       "summary": "Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
-      "summary": "La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición",
-      "summary": "En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
+      "url": "https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:39:31.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Venezuela anuncia la excarcelación de más de 130 presos políticos",
+      "url": "https://theobjective.com/internacional/2026-08-14/venezuela-excarcelacion-130-presos-politicos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:34:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

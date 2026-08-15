@@ -3,10 +3,28 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham
+
+El fichaje de Cristian Cuti Romero por el Atlético de Madrid está a punto de ser anunciado. De hecho, el futbolista prácticamente lo ha anunciado, al despedirse en sus redes sociales del Tottenham Hotspur y de su afición. No desvela dónde va, pero es más que evidente. Será futbolista del conjunto rojiblanco y se pondrá.
+
+Date: 2026-08-14
+
+### La Liga de los campeones del mundo frente a la misión de Mourinho
+
+Como tras Sudáfrica, en 2010, el portugués llega al Madrid para derrocar a un Barça dominante, con el estilo y la mayoría de integrantes de la España que logró la segunda estrella Leer.
+
+Date: 2026-08-14
+
+### Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto
+
+El Real Madrid sigue liderando la inversión en fichajes y tira de una competición en la que vuelve a aparecer el Barça y se mantiene el Atlético Leer.
+
+Date: 2026-08-14
 
 ### Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"
 
@@ -23,12 +41,6 @@ Date: 2026-08-14
 ### El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo
 
 La Unidad de Planificación Avanzada y Manufactura 3D (UPAM3D) del Hospital General Universitario Gregorio Marañón de la Comunidad de Madrid ha diseñado y fabricado la primera prótesis ósea de metamaterial personalizada del mundo, que posteriormente ha sido implantada por cirujanos oncológicos del centro. Estas estructu.
-
-Date: 2026-08-14
-
-### El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham
-
-El fichaje de Cristian Cuti Romero por el Atlético de Madrid está a punto de ser anunciado. De hecho, el futbolista prácticamente lo ha anunciado, al despedirse en sus redes sociales del Tottenham Hotspur y de su afición. No desvela dónde va, pero es más que evidente. Será futbolista del conjunto rojiblanco y se pondrá.
 
 Date: 2026-08-14
 
@@ -56,21 +68,8 @@ La universidad considera, en respuesta a una petición de Newtral, que el inter�
 
 Date: 2026-08-14
 
-### Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid
-
-La celebración de las Fiestas de la Virgen de la Paloma obligará a modificar la movilidad en pleno centro de la capital durante los próximos días.
-
-Date: 2026-08-14
-
-### Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»
-
-Eva Isanta ha decidido dar un paso al frente y pronunciarse por primera vez sobre la situación que atraviesa Ceuta , ciudad con la que mantiene un vínculo familiar y emocional muy estrecho. La actriz, que vive en Madrid desde los cinco años, recuerda con orgullo sus raíces caballas y reconoce que llevaba días planteánd.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos](https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com) — 2026-08-14T14:40:04.000Z
-- [Mbappé sobre Mourinho: "Es positivo tener un entrenador que sabe cómo ganar"](https://www.larazon.es/deportes/futbol/mbappe-mourinho-positivo-tener-entrenador-que-sabe-como-ganar_202608146a7f45b5a046ad6ebcb15a78.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T16:43:33.000Z
-- [El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo](https://okdiario.com/salud/gregorio-maranon-crea-implanta-primera-protesis-osea-personalizada-metamaterial-del-mundo-19184451?utm_source=lootura.com) — 2026-08-14T19:24:20.000Z
+- [La Liga de los campeones del mundo frente a la misión de Mourinho](https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html?utm_source=lootura.com) — 2026-08-14T23:04:29.000Z
+- [Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto](https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dfe0be85eced76c8b4573.html?utm_source=lootura.com) — 2026-08-14T23:04:30.000Z
 - [El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham](https://okdiario.com/deportes/fichaje-del-cuti-romero-atletico-esta-caer-anuncia-marcha-del-tottenham-19184639/amp?utm_source=lootura.com) — 2026-08-14T20:27:53.000Z

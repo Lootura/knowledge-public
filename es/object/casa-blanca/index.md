@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z
+No public source links.

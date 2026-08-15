@@ -22,4 +22,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Luigi Mangione Expected to Plead Guilty in UnitedHealthcare Case](https://www.today.com/video/luigi-mangione-to-plead-guilty-in-federal-case-what-to-expect-268304453558?utm_source=lootura.com) — 2026-08-14T11:27:41.000Z
+No public source links.

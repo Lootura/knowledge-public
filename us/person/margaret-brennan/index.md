@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### "Face the Nation with Margaret Brennan" guests for Aug. 16, 2026
+
+This week's guests include Gov. Andy Beshear of Kentucky, Rep. Don Bacon of Nebraska and state Rep. Christopher Rabb of Pennsylvania.
+
+Date: 2026-08-15
 
 ### Full transcript of "Face the Nation with Margaret Brennan," Aug. 9, 2026
 
@@ -58,4 +64,4 @@ Date: 2026-08-02
 
 ## Sources
 
-No public source links.
+- ["Face the Nation with Margaret Brennan" guests for Aug. 16, 2026](https://www.cbsnews.com/news/face-the-nation-guests-aug-16-2026/?utm_source=lootura.com) — 2026-08-15T00:14:59.000Z

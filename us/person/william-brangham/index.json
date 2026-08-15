@@ -1,0 +1,45 @@
+{
+  "id": "usa-william-brangham",
+  "name": "William Brangham",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/william-brangham",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/william-brangham",
+  "markdownUrl": "https://atlas.lootura.com/us/person/william-brangham/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/william-brangham/index.json",
+  "description": "Follow William Brangham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "summary": "David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Congo Ebola outbreak on track to become deadliest in history",
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham discussed the crisis with epidemiologist D.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "William Brangham first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:30:52.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Congo Ebola outbreak on track to become deadliest in history",
+      "url": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:45:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

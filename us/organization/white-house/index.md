@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
+
+Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
+
+Date: 2026-08-14
 
 ### Feds probe 'mention markets' amid White House Kalshi controversy
 
@@ -62,12 +68,6 @@ President Donald Trump is announcing Karoline Leavitt will be departing as White
 
 Date: 2026-08-13
 
-### Karoline Leavitt is leaving her role as Trump's White House press secretary
-
-Leavitt called it a "bittersweet decision" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Feds probe 'mention markets' amid White House Kalshi controversy](https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com) — 2026-08-14T02:06:10.000Z
+- [Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln](https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T22:55:06.000Z

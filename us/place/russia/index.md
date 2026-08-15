@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -16,7 +16,7 @@ Date: 2026-08-14
 
 ### Russia Campaigned to Derail Moldova’s Pro-Western Government
 
-In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
+In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
 
 Date: 2026-08-14
 
@@ -71,3 +71,4 @@ Date: 2026-08-10
 ## Sources
 
 - [Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge](https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com) — 2026-08-14T16:43:48.000Z
+- [Russia Campaigned to Derail Moldova’s Pro-Western Government](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com) — 2026-08-14T23:55:21.000Z

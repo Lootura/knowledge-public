@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries",
+      "summary": "Rep. Mike Flood (R-Neb.) joins Meet the Press NOW to discuss his re-election campaign in a district Democrats are eyeing as a possible pickup.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
+      "summary": "President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
+      "summary": "Representative Rashida Tlaib was supposed to headline an event called “Chomp the Oligarchy” for three candidates for Congress who face Jewish Democrats in Tuesday’s primary.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
       "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.",
@@ -47,23 +62,27 @@
       "title": "Primary voters send mixed signals about what they want from the Democratic Party",
       "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong",
-      "summary": "Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
-      "summary": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
-      "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries",
+      "url": "https://www.nbcnews.com/meet-the-press/video/house-republican-says-gop-is-united-as-democrats-wage-proxy-battles-in-primaries-268335173958?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:45:14.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:49:04.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:34:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
 }

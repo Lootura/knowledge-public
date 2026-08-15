@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-gallardos/index.json",
   "description": "Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Gallardos"
   ],
   "changes": [
+    {
+      "title": "El incendio de Huelva ya es el más extenso en Andalucía desde que hay registros y avanza hacia Sevilla",
+      "summary": "El verano, y en concreto el último mes, se han erigido en un periodo dramático en cuanto al fuego se refiere para Andalucía . La comunidad ha vivido en estas semanas sus dos peores incendios forestales: el de julio en Los Gallardos, Almería, por su mortalidad (catorce fallecidos), y el que sigue devorando monte en Huel.",
+      "date": "2026-08-14"
+    },
     {
       "title": "¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas",
       "summary": "Vecino de Los Gallardos (Almería) intentando extinguir las llamas de un incendio, 11 de julio de 2026. Ataurrahmanstudio/Shutterstock Los incendios de este verano , tanto por su intensidad como por su afectación a zonas habitadas , han generado una gran preocupación social y una búsqueda inmediata de culpables y soluci.",
@@ -57,13 +62,15 @@
       "title": "La toma de decisiones en una gran emergencia: cuando la realidad cambia más deprisa que la información disponible",
       "summary": "Medios de extinción frente al incendio en Los Gallardos, Almería, el 10 de julio de 2026. Arafatmyt/Shutterstock El incendio de Los Gallardos (Almería), con un dramático balance de víctimas mortales, miles de hectáreas calcinadas y numerosas personas evacuadas, ha vuelto a poner de manifiesto la enorme complejidad que.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Ocho actuaciones para mejorar la gestión del riesgo de incendio y proteger a la población",
-      "summary": "Pedanía de Bédar (Almería) tras el incendio del 9 de agosto. Urci dream/Wikimedia Commons , CC BY-SA Cuando las llamas avanzaban hacia el pueblo de Bédar (Almería), el alcalde dio la orden desesperada de tocar las campanas de la iglesia para advertir a los vecinos. Pero esto no bastó. El incendio de Los Gallardos, con.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El incendio de Huelva ya es el más extenso en Andalucía desde que hay registros y avanza hacia Sevilla",
+      "url": "https://www.abc.es/espana/andalucia/incendio-huelva-extenso-historia-andaluza-mira-sevilla-20260815013848-nts.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:39:07.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -40,4 +40,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T18:24:56.000Z
+No public source links.

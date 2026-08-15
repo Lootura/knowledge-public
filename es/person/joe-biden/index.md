@@ -3,10 +3,22 @@
 > Sigue la actividad de Joe Biden en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/person/joe-biden
 
 ## Cambios recientes
+
+### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
+
+El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
+
+Date: 2026-08-14
+
+### Discovered by Atlas
+
+Joe Biden first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-08
 
 ### Hunter Biden se derrumba al hablar de su padre: «El cáncer se ha extendido»
 
@@ -20,12 +32,6 @@ El político demócrata, Joe Biden, sufre un cáncer de próstata « muy doloros
 
 Date: 2026-08-08
 
-### Discovered by Atlas
-
-Joe Biden first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z

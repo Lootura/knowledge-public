@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
 
 The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
+
+Date: 2026-08-14
+
+### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
+
+The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
 
 Date: 2026-08-14
 
@@ -62,13 +68,7 @@ President Trump is eager to declare success in Iran and Gaza, but he is struggli
 
 Date: 2026-08-11
 
-### Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage
-
-Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival (Image credit: Mohammed Sawaf for NPR).
-
-Date: 2026-08-10
-
 ## Sources
 
 - [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z
+- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z

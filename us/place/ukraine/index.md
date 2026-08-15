@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Daily fragment: Donald Trump
+
+US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
+
+Date: 2026-08-15
 
 ### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
 
@@ -62,12 +68,6 @@ Russia and Ukraine are both striking farther into each other's territory, and ne
 
 Date: 2026-08-10
 
-### Drought and the war in Ukraine changed what families in Kenya could afford to eat
-
-Russia's invasion of Ukraine in February 2022 had an almost immediate impact on global energy markets and the movement of food around the world. During the first year of the conflict, international crude oil and natural gas prices rose sharply. Disruptions to exports of wheat, maize, sunflower oil and fertilizers from.
-
-Date: 2026-08-10
-
 ## Sources
 
-No public source links.
+- [Daily fragment: Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump?utm_source=lootura.com) — 2026-08-15T04:00:00.000Z

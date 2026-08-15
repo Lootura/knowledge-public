@@ -28,5 +28,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Detenido un conductor en La Palma tras darse a la fuga y circular en sentido contrario a 170 km/h](https://www.elconfidencial.com/espana/andalucia/2026-08-14/conductor-persecucion-huelva-policia-detenido-1tna-1tps_4406311/?utm_source=lootura.com) — 2026-08-14T15:38:00.000Z
-- [Las oposiciones de Policía Local de Manilva y Los Barrios comparten miembros del tribunal en medio de la polémica](https://okdiario.com/andalucia/oposiciones-policia-local-manilva-barrios-comparten-miembros-del-tribunal-medio-polemica-19183149/amp?utm_source=lootura.com) — 2026-08-14T16:40:38.000Z
+No public source links.

@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries
+
+Rep. Mike Flood (R-Neb.) joins Meet the Press NOW to discuss his re-election campaign in a district Democrats are eyeing as a possible pickup.
+
+Date: 2026-08-14
+
+### Democrats grapple with Trump's push to limit transparency within the executive branch
+
+President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.
+
+Date: 2026-08-14
+
+### South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman
+
+Representative Rashida Tlaib was supposed to headline an event called “Chomp the Oligarchy” for three candidates for Congress who face Jewish Democrats in Tuesday’s primary.
+
+Date: 2026-08-14
 
 ### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
 
@@ -50,24 +68,8 @@ Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled 
 
 Date: 2026-08-13
 
-### Wisconsin Democrat David Crowley calls for ‘big tent’ after narrowly beating Francesca Hong
-
-Wisconsin Democratic gubernatorial nominee David Crowley joins Meet the Press NOW after narrowly winning Tuesday’s primary to discuss his vision for uniting Wisconsin Democrats ahead of the general election and his views on data center development.
-
-Date: 2026-08-13
-
-### Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC
-
-Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC lead image.
-
-Date: 2026-08-13
-
-### Three Questions for Democrats After an Eye-Opening Loss for Progressives
-
-Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries](https://www.nbcnews.com/meet-the-press/video/house-republican-says-gop-is-united-as-democrats-wage-proxy-battles-in-primaries-268335173958?utm_source=lootura.com) — 2026-08-14T20:45:14.000Z
+- [Democrats grapple with Trump's push to limit transparency within the executive branch](https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com) — 2026-08-14T21:49:04.000Z
+- [South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman](https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html?utm_source=lootura.com) — 2026-08-14T23:34:54.000Z

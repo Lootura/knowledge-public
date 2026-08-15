@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare
-
-Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.
-
-Date: 2026-08-14
 
 ### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
 
@@ -23,6 +17,24 @@ Date: 2026-08-14
 ### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
 
 La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
+
+Date: 2026-08-14
+
+### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
+
+El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
+
+Date: 2026-08-14
+
+### El chavismo se fractura tras la captura de Maduro y los terremotos
+
+El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.
+
+Date: 2026-08-14
+
+### Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare
+
+Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.
 
 Date: 2026-08-14
 
@@ -56,20 +68,9 @@ Al igual que en cualquier cine, los mercados también tienen películas muy dife
 
 Date: 2026-08-13
 
-### Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas
-
-Las nuevas colecciones de joyería de Pandora están impulsando el crecimiento de la compañía, según afirmó su consejera delegada, Berta de Pablos-Barbier, en una entrevista concedida este jueves, en un momento en el que la confianza de los consumidores en Estados Unidos sigue siendo débil. Seguir leyendo.
-
-Date: 2026-08-13
-
-### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
-
-La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare](https://www.abc.es/internacional/luigi-mangione-declara-culpable-asesinato-ceo-unitedhealthcare-20260814180244-nt.html?utm_source=lootura.com) — 2026-08-14T16:31:18.000Z
+- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
+- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
 - [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z
 - [EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»](https://theobjective.com/internacional/2026-08-14/deniegan-entrada-eeuu-hijo-amlo-injerencia-politica-mexicana/?amp=&utm_source=lootura.com) — 2026-08-14T16:35:30.000Z

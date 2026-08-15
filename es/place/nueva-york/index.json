@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -44,6 +44,11 @@
     {
       "title": "Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres",
       "summary": "La Administración del alcalde de Nueva York, Zohran Mamdani, y la ONG Legal Aid Society pidieron este viernes a un tribunal desestimar la demanda de un.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "summary": "El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. \" Lo vie.",
       "date": "2026-08-14"
     },
     {
@@ -85,14 +90,15 @@
       "title": "¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?",
       "summary": "Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça",
-      "summary": "El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
+    {
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "url": "https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:18:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres",
       "url": "https://theobjective.com/internacional/2026-08-14/alcaldia-nueva-york-desestimar-demanda-congelacion-alquileres/?amp=&utm_source=lootura.com",
@@ -100,5 +106,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

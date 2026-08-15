@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/madrid/index.json",
   "description": "Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham",
+      "summary": "El fichaje de Cristian Cuti Romero por el Atlético de Madrid está a punto de ser anunciado. De hecho, el futbolista prácticamente lo ha anunciado, al despedirse en sus redes sociales del Tottenham Hotspur y de su afición. No desvela dónde va, pero es más que evidente. Será futbolista del conjunto rojiblanco y se pondrá.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "La Liga de los campeones del mundo frente a la misión de Mourinho",
+      "summary": "Como tras Sudáfrica, en 2010, el portugués llega al Madrid para derrocar a un Barça dominante, con el estilo y la mayoría de integrantes de la España que logró la segunda estrella Leer.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto",
+      "summary": "El Real Madrid sigue liderando la inversión en fichajes y tira de una competición en la que vuelve a aparecer el Barça y se mantiene el Atlético Leer.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Mbappé sobre Mourinho: \"Es positivo tener un entrenador que sabe cómo ganar\"",
       "summary": "\"Es lo que queremos y es lo que va a pasar. Vamos a ganar títulos\", decía Kylian sobre el Real Madrid en la temporada que está a punto de arrancar.",
@@ -24,11 +39,6 @@
     {
       "title": "El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo",
       "summary": "La Unidad de Planificación Avanzada y Manufactura 3D (UPAM3D) del Hospital General Universitario Gregorio Marañón de la Comunidad de Madrid ha diseñado y fabricado la primera prótesis ósea de metamaterial personalizada del mundo, que posteriormente ha sido implantada por cirujanos oncológicos del centro. Estas estructu.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham",
-      "summary": "El fichaje de Cristian Cuti Romero por el Atlético de Madrid está a punto de ser anunciado. De hecho, el futbolista prácticamente lo ha anunciado, al despedirse en sus redes sociales del Tottenham Hotspur y de su afición. No desvela dónde va, pero es más que evidente. Será futbolista del conjunto rojiblanco y se pondrá.",
       "date": "2026-08-14"
     },
     {
@@ -50,36 +60,20 @@
       "title": "La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”",
       "summary": "La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notas Ayuso critica que Sánchez se dé “la gran vida con los impuestos y recursos de todos” mientras evita hablar del ático La Universidad Complutense de Madrid ha r.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Cortes de tráfico a partir de hoy y al final de la semana en una de las zonas más concurridas de Madrid",
-      "summary": "La celebración de las Fiestas de la Virgen de la Paloma obligará a modificar la movilidad en pleno centro de la capital durante los próximos días.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Eva Isanta, con el corazón encogido, se pronuncia por primera vez sobre lo sucedido en Ceuta, su tierra: «Siento dolor»",
-      "summary": "Eva Isanta ha decidido dar un paso al frente y pronunciarse por primera vez sobre la situación que atraviesa Ceuta , ciudad con la que mantiene un vínculo familiar y emocional muy estrecho. La actriz, que vive en Madrid desde los cinco años, recuerda con orgullo sus raíces caballas y reconoce que llevaba días planteánd.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos",
-      "url": "https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T14:40:04.000Z",
-      "sourceId": "lootura-es-el-independiente"
+      "title": "La Liga de los campeones del mundo frente a la misión de Mourinho",
+      "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:04:29.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Mbappé sobre Mourinho: \"Es positivo tener un entrenador que sabe cómo ganar\"",
-      "url": "https://www.larazon.es/deportes/futbol/mbappe-mourinho-positivo-tener-entrenador-que-sabe-como-ganar_202608146a7f45b5a046ad6ebcb15a78.html?outputType=amp&utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:43:33.000Z",
-      "sourceId": "lootura-es-la-razon"
-    },
-    {
-      "title": "El Gregorio Marañón crea e implanta la primera prótesis ósea personalizada de metamaterial del mundo",
-      "url": "https://okdiario.com/salud/gregorio-maranon-crea-implanta-primera-protesis-osea-personalizada-metamaterial-del-mundo-19184451?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:24:20.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto",
+      "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dfe0be85eced76c8b4573.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:04:30.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham",
@@ -88,5 +82,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

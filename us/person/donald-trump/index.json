@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,6 +26,46 @@
   ],
   "changes": [
     {
+      "title": "Daily fragment: Donald Trump",
+      "summary": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
+      "summary": "Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "FBI reports record decrease in violent crime in 2025",
+      "summary": "Both the violent crime and murder rates have decreased annually since spiking in 2022, the bureau has found. President Donald Trump touted the statistics Friday.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump downplays concerns about living conditions on aircraft carrier",
+      "summary": "President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
+      "summary": "President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+      "summary": "President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "President Trump Takes Credit for Steep Crime Rate Declines",
+      "summary": "Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.",
+      "date": "2026-08-14"
+    },
+    {
       "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
       "summary": "As the Trump administration drops charges against corporations and the wealthy, it is also taking aim at small-scale fraud cases, including against the operator of a weathered food truck in California.",
       "date": "2026-08-14"
@@ -34,60 +74,32 @@
       "title": "Trump says he will soon declare the Strait of Hormuz a U.S. territory",
       "summary": "The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
-      "summary": "Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
-      "summary": "Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park’s famed Santa Elena Canyon as part of the Trump administration’s multibillion-dollar “smart wall” expansion on the US-.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
-      "summary": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump-Picked Kennedy Center Board Votes to Add Trump's Name",
-      "summary": "The board of the Kennedy Center, appointed by President Trump, voted Thursday to add Trump’s name back to the building’s facade. They also voted to close the main building for renovations for two years, keeping only a small portion open.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
-      "summary": "Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-      "summary": "Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump says he will soon declare the Strait of Hormuz a U.S. territory",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:17:59.000Z",
+      "title": "Daily fragment: Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
+    },
+    {
+      "title": "FBI reports record decrease in violent crime in 2025",
+      "url": "https://www.nbcnews.com/politics/justice-department/fbi-reports-record-decrease-violent-crime-2025-rcna592593?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:31:41.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T18:30:16.000Z",
+      "title": "Trump downplays concerns about living conditions on aircraft carrier",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:32:43.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:49:04.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
@@ -96,23 +108,23 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:27:08.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:55:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
-      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T09:02:49.000Z",
+      "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
+      "url": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:20:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "President Trump Takes Credit for Steep Crime Rate Declines",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:02:24.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:44:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 8
 }

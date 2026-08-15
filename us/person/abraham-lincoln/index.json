@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -19,14 +19,9 @@
   ],
   "changes": [
     {
-      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
-      "summary": "Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln",
-      "summary": "There are growing concerns about conditions aboard the USS Abraham Lincoln from families of sailors and members of Congress. After more than nine months at sea, sailors' families say it lacks basic supplies and is affecting mental health. Charlie D'Agata reports.",
-      "date": "2026-08-14"
+      "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+      "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.",
+      "date": "2026-08-15"
     },
     {
       "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
@@ -34,8 +29,23 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.",
+      "title": "Trump downplays concerns about living conditions on aircraft carrier",
+      "summary": "President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
+      "summary": "Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.",
       "date": "2026-08-14"
     },
     {
@@ -57,16 +67,6 @@
       "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
       "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano).",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Abraham Lincoln first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
-      "summary": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -77,35 +77,29 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
-      "url": "https://www.cbsnews.com/video/hegseth-reacts-to-scary-concerns-about-uss-abraham-lincoln-shortages-and-bad-conditions/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:26:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln",
-      "url": "https://www.cbsnews.com/video/sailors-dad-expresses-concern-over-conditions-length-of-deployment-on-uss-lincoln/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:40:13.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T18:30:16.000Z",
+      "title": "Trump downplays concerns about living conditions on aircraft carrier",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:32:43.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
-      "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
-      "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T21:49:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:55:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:10:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
       "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:17:02.000Z",
+      "publishedAt": "2026-08-15T00:24:04.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

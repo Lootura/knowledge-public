@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -43,11 +43,6 @@
   ],
   "changes": [
     {
-      "title": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare",
-      "summary": "Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.",
-      "date": "2026-08-14"
-    },
-    {
       "title": "EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»",
       "summary": "El hijo del expresidente mexicano Andrés Manuel López Obrador ha denunciado que las autoridades de Estados Unidos le han denegado la entrada al país por.",
       "date": "2026-08-14"
@@ -55,6 +50,21 @@
     {
       "title": "Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China",
       "summary": "La Comisión Europea (CE) sostuvo este viernes que \"comparte el objetivo\" del Gobierno de Estados Unidos de \"luchar contra el fraude aduanero\", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. \"La UE compart.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "summary": "El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. \" Lo vie.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
+      "summary": "El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare",
+      "summary": "Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.",
       "date": "2026-08-14"
     },
     {
@@ -81,23 +91,19 @@
       "title": "El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo",
       "summary": "Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en distintas salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el mercad.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Pandora sube con fuerza en Bolsa tras superar las expectativas de beneficios y ventas",
-      "summary": "Las nuevas colecciones de joyería de Pandora están impulsando el crecimiento de la compañía, según afirmó su consejera delegada, Berta de Pablos-Barbier, en una entrevista concedida este jueves, en un momento en el que la confianza de los consumidores en Estados Unidos sigue siendo débil. Seguir leyendo.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
-      "summary": "La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare",
-      "url": "https://www.abc.es/internacional/luigi-mangione-declara-culpable-asesinato-ceo-unitedhealthcare-20260814180244-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:31:18.000Z",
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "url": "https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:18:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
+      "url": "https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:39:31.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -113,5 +119,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

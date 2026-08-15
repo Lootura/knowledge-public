@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### El incendio de Huelva ya es el más extenso en Andalucía desde que hay registros y avanza hacia Sevilla
+
+El verano, y en concreto el último mes, se han erigido en un periodo dramático en cuanto al fuego se refiere para Andalucía . La comunidad ha vivido en estas semanas sus dos peores incendios forestales: el de julio en Los Gallardos, Almería, por su mortalidad (catorce fallecidos), y el que sigue devorando monte en Huel.
+
+Date: 2026-08-14
 
 ### ¿Cómo hemos llegado a esta situación con los incendios forestales en España? Echamos la vista atrás para buscar las causas
 
@@ -62,12 +68,6 @@ Medios de extinción frente al incendio en Los Gallardos, Almería, el 10 de jul
 
 Date: 2026-07-16
 
-### Ocho actuaciones para mejorar la gestión del riesgo de incendio y proteger a la población
-
-Pedanía de Bédar (Almería) tras el incendio del 9 de agosto. Urci dream/Wikimedia Commons , CC BY-SA Cuando las llamas avanzaban hacia el pueblo de Bédar (Almería), el alcalde dio la orden desesperada de tocar las campanas de la iglesia para advertir a los vecinos. Pero esto no bastó. El incendio de Los Gallardos, con.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [El incendio de Huelva ya es el más extenso en Andalucía desde que hay registros y avanza hacia Sevilla](https://www.abc.es/espana/andalucia/incendio-huelva-extenso-historia-andaluza-mira-sevilla-20260815013848-nts.html?utm_source=lootura.com) — 2026-08-14T23:39:07.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -17,6 +17,11 @@
     {
       "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
       "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
       "date": "2026-08-14"
     },
     {
@@ -58,11 +63,6 @@
       "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
       "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-      "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival (Image credit: Mohammed Sawaf for NPR).",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
@@ -73,10 +73,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T18:30:16.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:10:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

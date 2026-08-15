@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### El chavismo se fractura tras la captura de Maduro y los terremotos
+
+El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.
+
+Date: 2026-08-14
+
+### Venezuela anuncia la excarcelación de más de 130 presos políticos
+
+La medida se enmarca en la ley de amnistía, mientras las ONG recuerdan que aún quedan cientos de detenidos.
+
+Date: 2026-08-14
 
 ### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
 
@@ -56,18 +68,7 @@ Venezuela ha agradecido este domingo a España su disposición tras los graves t
 
 Date: 2026-08-09
 
-### Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”
-
-La camiseta de Jaime Zamorano enumera los eclipses de sol que ha visto como si de una gira de conciertos se tratara: Venezuela, Francia, Libia, Australia, Isla de Pascua, China. “El espectáculo de un eclipse total no se puede comparar con nada”, dice el catedrático de astrofísica de la Complutense. “Estar a la sombra d.
-
-Date: 2026-08-08
-
-### El chavismo y la oposición conversan por segundo día tras iniciar un diálogo por la transición
-
-En un comunicado conjunto, ambas partes suscribieron los principios de respeto a la soberanía nacional, negociación de buena fe y búsqueda de beneficios para Venezuela, entre otros.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
+- [Venezuela anuncia la excarcelación de más de 130 presos políticos](https://theobjective.com/internacional/2026-08-14/venezuela-excarcelacion-130-presos-politicos/?amp=&utm_source=lootura.com) — 2026-08-14T21:34:38.000Z

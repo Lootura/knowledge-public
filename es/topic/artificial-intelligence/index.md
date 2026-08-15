@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [ChatGPT ha copiado una de las funciones más odiadas de Windows 11 en su app para Mac](https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-funciones-mas-odiadas-de-windows-11-en-su-app-para-mac/?utm_source=lootura.com) — 2026-08-14T18:25:00.000Z
+- [Las mejores tecnológicas para invertir ahora](https://www.expansion.com/mercados/2026/08/15/6a7f52a1e5fdea22638b459b.html?utm_source=lootura.com) — 2026-08-14T22:11:48.000Z

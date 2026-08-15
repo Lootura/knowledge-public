@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
-    {
-      "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
-      "summary": "El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.",
-      "date": "2026-08-14"
-    },
     {
       "title": "España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo",
       "summary": "España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo , con 7.945 personas que pidieron protección internacional por primera vez en el país, únicamente por detrás de las 10.660 registradas en Italia , según los últimos datos publicados este viernes por la oficina estadístic.",
@@ -27,6 +22,11 @@
     {
       "title": "Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China",
       "summary": "La Comisión Europea (CE) sostuvo este viernes que \"comparte el objetivo\" del Gobierno de Estados Unidos de \"luchar contra el fraude aduanero\", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. \"La UE compart.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
+      "summary": "El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.",
       "date": "2026-08-14"
     },
     {
@@ -67,12 +67,6 @@
   ],
   "sources": [
     {
-      "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
-      "url": "https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T18:24:56.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo",
       "url": "https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/?utm_source=lootura.com",
       "publishedAt": "2026-08-14T16:29:07.000Z",
@@ -85,5 +79,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

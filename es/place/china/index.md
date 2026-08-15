@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Así vuela el “coche volador” de China: cuatro hélices y un piloto de pie](https://www.larazon.es/actualidad/asi-vuela-coche-volador-china-cuatro-helices-piloto-pie_202608146a7f447371b42a0b5def4b84.html?utm_source=lootura.com) — 2026-08-14T16:38:11.000Z
 - [EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones](https://www.larazon.es/tecnologia-consumo/ee-uu-taiwan-preparan-drones-submarinos-autonomos-frente-presion-china-acuerdo-busca-vigilar-estrecho-exponer-tripulaciones_202608146a7eb7a271b42a0b5dee6caa.html?utm_source=lootura.com) — 2026-08-14T20:00:00.000Z
 - [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z

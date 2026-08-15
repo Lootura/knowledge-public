@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,11 +19,31 @@
     {
       "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
       "summary": "Keeping gas prices low is now the United States’ “goal No.",
-      "date": "2026-08-14"
+      "date": "2026-08-15"
     },
     {
       "title": "Hormuz chaos highlights risks for other global trade chokepoints",
       "summary": "The war in Iran has underscored how disruptions to a key shipping route thousands of miles away can have a material impact on American consumers.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "summary": "David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+      "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
+      "summary": "Keeping gas prices low is now the United States’ “goal No.",
       "date": "2026-08-14"
     },
     {
@@ -45,26 +65,6 @@
       "title": "Reports Emerge on Mental Health Crisis on USS Abraham Lincoln",
       "summary": "About 5,000 sailors and Marines have been on the USS Abraham Lincoln for a record 250 days as they support the war with Iran. Now, there are reports that there have been multiple attempts by personnel to jump overboard, prompting worried families to voice their concerns to Navy leaders. In response, a Navy official tol.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Wholesale price inflation slows last month as gas and food costs fall",
-      "summary": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Pete Hegseth dismisses reports of deteriorating conditions on USS Abraham Lincoln",
-      "summary": "Defense secretary said conditions on aircraft carrier deployed in support of Iran war have been ‘completely misrepresented’ The US defense secretary, Pete Hegseth, insisted a wave of reports describing deteriorating conditions and mental health struggles onboard the aircraft carrier USS Abraham Lincoln “completely misr.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "CBS News' Olivia Rinaldi has new details on the news that President Trump and other government officials took extraordinary air security measures amid threats from Iran.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "summary": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war. (Image credit: Ellen Schmidt).",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
@@ -77,21 +77,27 @@
     {
       "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
       "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T11:14:12.351Z",
+      "publishedAt": "2026-08-15T00:43:46.956Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump says he will soon declare the Strait of Hormuz a U.S. territory",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:17:59.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:30:52.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T18:30:16.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:10:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:35:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

@@ -3,22 +3,22 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
-
-### Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more
-
-Jo Ling Kent spoke exclusively with outgoing Apple CEO Tim Cook about a new manufacturing plant in Houston, what it means for jobs, and what he wants his legacy to be as he prepares to step down as CEO.
-
-Date: 2026-08-14
 
 ### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
 
 Keeping gas prices low is now the United States’ “goal No.
 
-Date: 2026-08-14
+Date: 2026-08-15
+
+### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
+
+Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
+
+Date: 2026-08-15
 
 ### Justice Department expands military's power to detain migrants accused of trespassing
 
@@ -38,33 +38,33 @@ The USS George Washington aircraft carrier departed Vietnam last week and is hea
 
 Date: 2026-08-14
 
-### Trump says he will soon declare the Strait of Hormuz a U.S. territory
+### Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued
 
-The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.
-
-Date: 2026-08-14
-
-### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
-
-Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
+A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday.
 
 Date: 2026-08-14
 
-### The True Story Behind The Brink of War
+### Brooks and Atkins Stohr on 'woke' politics in America
 
-Jeff Daniels as President Ronald Reagan —Courtesy of Angel Studios The Reykjavik Summit —when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986—is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and.
-
-Date: 2026-08-14
-
-### What Wildfire Smoke Reveals About How We Respond to Climate Risk
-
-The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
+David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.
 
 Date: 2026-08-14
 
-### Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says
+### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
 
-A woman accused of vandalizing the World War II Memorial has been arrested in Washington, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.
+The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
+
+Date: 2026-08-14
+
+### Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive
+
+As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that they're getting dangerously hot.
+
+Date: 2026-08-14
+
+### Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War
+
+Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.
 
 Date: 2026-08-14
 
@@ -72,11 +72,11 @@ Date: 2026-08-14
 
 - [Justice Department expands military's power to detain migrants accused of trespassing](https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/?utm_source=lootura.com) — 2026-08-14T16:49:47.000Z
 - [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more](https://www.cbsnews.com/video/outgoing-apple-ceo-tim-cook-discusses-new-us-manufacturing-job-impact-and-more/?utm_source=lootura.com) — 2026-08-14T12:43:32.000Z
-- [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-14T11:14:12.351Z
-- [Trump says he will soon declare the Strait of Hormuz a U.S. territory](https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com) — 2026-08-14T20:17:59.000Z
+- [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-15T00:43:46.956Z
+- [Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued](https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638?utm_source=lootura.com) — 2026-08-14T22:58:37.000Z
+- [Brooks and Atkins Stohr on 'woke' politics in America](https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america?utm_source=lootura.com) — 2026-08-14T22:30:52.000Z
 - [U.S. retail sales unexpectedly post largest drop in more than a year](https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year?utm_source=lootura.com) — 2026-08-14T14:34:17.000Z
-- [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z
-- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-14T20:17:02.000Z
-- [The True Story Behind The Brink of War](https://time.com/article/2026/08/14/brink-of-war-true-story/?utm_source=lootura.com) — 2026-08-14T19:03:46.000Z
-- [What Wildfire Smoke Reveals About How We Respond to Climate Risk](https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com) — 2026-08-14T19:35:38.000Z
+- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z
+- [Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive](https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html?utm_source=lootura.com) — 2026-08-14T23:40:01.000Z
+- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-15T00:24:04.000Z
+- [Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War](https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html?utm_source=lootura.com) — 2026-08-14T22:35:07.000Z

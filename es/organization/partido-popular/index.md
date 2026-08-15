@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-13
 ## Fuentes
 
 - [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
-- [Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos](https://theobjective.com/espana/2026-08-14/melilla-centro-menores-centenar-camas-colchones-ignifugos/?utm_source=lootura.com) — 2026-08-14T15:46:18.000Z

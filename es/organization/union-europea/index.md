@@ -3,16 +3,10 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
-
-### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
-
-El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
-
-Date: 2026-08-14
 
 ### España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo
 
@@ -23,6 +17,12 @@ Date: 2026-08-14
 ### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
 
 La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
+
+Date: 2026-08-14
+
+### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
+
+El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
 
 Date: 2026-08-14
 
@@ -70,6 +70,5 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años](https://www.abc.es/sociedad/autoridad-constitucional-francia-rechaza-prohibicion-redes-sociales-20260814153826-nt.html?utm_source=lootura.com) — 2026-08-14T18:24:56.000Z
 - [España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo](https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/?utm_source=lootura.com) — 2026-08-14T16:29:07.000Z
 - [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z

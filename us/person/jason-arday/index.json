@@ -8,9 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jason-arday/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jason-arday/index.json",
   "description": "Follow Jason Arday, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
-  "aliases": [],
+  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "aliases": [
+    "Arday",
+    "Jason"
+  ],
   "changes": [
+    {
+      "title": "Ex-Cambridge professor dies week after resigning amid plagiarism allegations",
+      "summary": "Jason Arday, who was Cambridge's youngest Black professor, died in London on Friday, the school said.",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jason Arday first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
+      "summary": "Former Cambridge professor Jason Arday was found dead at his London home on Friday, one week after he resigned from his position after accusations of plagiarism.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+      "summary": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
       "summary": "Academic was pronounced dead at his home in south London after police called to address after 3pm on Friday Jason Arday, the black academic who resigned last week as a professor at the University of Cambridge , has been found dead at his home in south London. The Metropolitan police said officers were called to Arday’s.",
@@ -20,26 +43,27 @@
       "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
       "summary": "The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Jason Arday first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Jason Arday found dead after resigning from Cambridge over plagiarism claims",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:56:25.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Ex-Cambridge professor dies week after resigning amid plagiarism allegations",
+      "url": "https://www.cbsnews.com/news/jason-arday-dies-cambridge-professor-plagiarism/?utm_source=lootura.com",
+      "publishedAt": "2026-08-15T00:05:13.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:53:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
+      "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:28:18.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
+      "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:25:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

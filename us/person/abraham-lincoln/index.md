@@ -3,22 +3,16 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
 
-### Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions
+### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
 
-Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.
+Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
 
-Date: 2026-08-14
-
-### Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln
-
-There are growing concerns about conditions aboard the USS Abraham Lincoln from families of sailors and members of Congress. After more than nine months at sea, sailors' families say it lacks basic supplies and is affecting mental health. Charlie D'Agata reports.
-
-Date: 2026-08-14
+Date: 2026-08-15
 
 ### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
 
@@ -26,9 +20,27 @@ The USS George Washington aircraft carrier departed Vietnam last week and is hea
 
 Date: 2026-08-14
 
-### Trump dismisses concerns from families about grim conditions aboard USS Lincoln
+### Trump downplays concerns about living conditions on aircraft carrier
 
-President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.
+President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.
+
+Date: 2026-08-14
+
+### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
+
+Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
+
+Date: 2026-08-14
+
+### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
+
+The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
+
+Date: 2026-08-14
+
+### Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions
+
+Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.
 
 Date: 2026-08-14
 
@@ -56,23 +68,10 @@ The Pacific-based aircraft carrier USS George Washington has begun heading towar
 
 Date: 2026-08-14
 
-### Discovered by Atlas
-
-Abraham Lincoln first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-13
-
-### U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns
-
-The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions](https://www.cbsnews.com/video/hegseth-reacts-to-scary-concerns-about-uss-abraham-lincoln-shortages-and-bad-conditions/?utm_source=lootura.com) — 2026-08-14T12:26:53.000Z
-- [Sailor's dad expresses concern over conditions, length of deployment on USS Lincoln](https://www.cbsnews.com/video/sailors-dad-expresses-concern-over-conditions-length-of-deployment-on-uss-lincoln/?utm_source=lootura.com) — 2026-08-14T12:40:13.000Z
-- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z
-- [U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com) — 2026-08-13T21:49:04.000Z
-- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-14T20:17:02.000Z
+- [Trump downplays concerns about living conditions on aircraft carrier](https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com) — 2026-08-14T23:32:43.000Z
+- [Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln](https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T22:55:06.000Z
+- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z
+- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-15T00:24:04.000Z

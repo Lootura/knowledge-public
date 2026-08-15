@@ -3,7 +3,7 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Los inversores vuelven a apostar con fuerza por Wall Street](https://www.expansion.com/economia/financial-times/2026/08/14/6a7f30ece5fdeabf118b4595.html?utm_source=lootura.com) — 2026-08-14T15:31:53.000Z
+- [Los inversores vuelven a apostar con fuerza por Wall Street](https://www.expansion.com/economia/financial-times/2026/08/14/6a7f30ece5fdeabf118b4595.html?utm_source=lootura.com) — 2026-08-14T22:18:55.000Z

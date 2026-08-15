@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,13 +26,23 @@
   ],
   "changes": [
     {
-      "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
-      "summary": "El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.",
+      "title": "Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio",
+      "summary": "El presidente de EE UU asegurado que \"será reemplazado por otro buque similar\".",
       "date": "2026-08-14"
     },
     {
-      "title": "Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio",
-      "summary": "El presidente de EE UU asegurado que \"será reemplazado por otro buque similar\".",
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "summary": "El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. \" Lo vie.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»",
+      "summary": "«Jamás me disculparé. Hice lo correcto», dice a los que le crfitican por el aumento del precio de la gasolina.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
+      "summary": "El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.",
       "date": "2026-08-14"
     },
     {
@@ -64,24 +74,20 @@
       "title": "La caída de reservas anticipa un crudo a 140 dólares en otoño",
       "summary": "El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka",
-      "summary": "Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo la administración Trump no frenan los planes de crecimiento de Inditex en ese mercado, el segundo más importante para el grupo. Seguir leyendo.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
-      "url": "https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:22:16.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
+      "url": "https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:18:46.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»",
+      "url": "https://www.elcorreo.com/internacional/eeuu/trump-anuncia-pronto-ormuz-territorio-20260815004650-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:46:50.000Z",
+      "sourceId": "lootura-es-el-correo"
     },
     {
       "title": "Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio",
@@ -90,5 +96,5 @@
       "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

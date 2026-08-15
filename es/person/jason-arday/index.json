@@ -1,0 +1,45 @@
+{
+  "id": "es-jason-arday",
+  "name": "Jason Arday",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/jason-arday",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/jason-arday",
+  "markdownUrl": "https://atlas.lootura.com/es/person/jason-arday/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/jason-arday/index.json",
+  "description": "Sigue la actividad de Jason Arday en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Aparece muerto Jason Arday, el profesor universitario que dimitió la semana acusado de plagios y mentiras",
+      "summary": "El que fuera hasta la pasada semana profesor de la Universidad de Cambridge Jason Arday, famoso por presentar su dimisión tras haber quedado al descubierto que había plagiado su tesis doctoral, ha aparecido muerto en Londres este viernes. El académico, que saltó a la fama por haberse convertido en 2023 en el profesor d.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Hallan muerto a Jason Arday, el exprofesor de Cambridge que plagió y falseó su currículo",
+      "summary": "El sociólogo británico Jason Arday, de 41 años, ha sido encontrado muerto este viernes en una vivienda del sur de Londres, según la Policía Metropolitana.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jason Arday first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aparece muerto Jason Arday, el profesor universitario que dimitió la semana acusado de plagios y mentiras",
+      "url": "https://okdiario.com/internacional/aparece-muerto-jason-arday-profesor-universitario-raza-negra-que-dimitio-semana-pasada-plagiar-tesis-19184613?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:18:24.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Hallan muerto a Jason Arday, el exprofesor de Cambridge que plagió y falseó su currículo",
+      "url": "https://theobjective.com/internacional/2026-08-14/hallan-muerto-jason-arday-exprofesor-cambridge-implicado-escandalo-plagio/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-08-14T20:49:16.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

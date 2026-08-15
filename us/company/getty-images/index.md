@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [What Wildfire Smoke Reveals About How We Respond to Climate Risk](https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com) — 2026-08-14T19:35:38.000Z
+No public source links.

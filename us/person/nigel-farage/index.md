@@ -52,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations](https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html?utm_source=lootura.com) — 2026-08-14T19:44:08.000Z
+No public source links.

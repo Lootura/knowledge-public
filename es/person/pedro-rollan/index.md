@@ -28,4 +28,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El presidente del Senado afirma que el Gobierno “está en rebeldía" al no comparecer sus ministros](https://www.elconfidencial.com/espana/2026-08-14/gobierno-senado-crisis-ceuta-1hms-1svm_4406224/?utm_source=lootura.com) — 2026-08-14T14:27:00.000Z
+No public source links.

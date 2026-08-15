@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98
+
+Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.
+
+Date: 2026-08-15
+
+### What’s Next for Luigi Mangione After His Guilty Plea?
+
+Mr. Mangione’s plea in the federal case could make it difficult for New York State prosecutors to try their own case.
+
+Date: 2026-08-14
 
 ### Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern
 
@@ -56,19 +68,8 @@ Manuel Hernandez, the boat's 46-year-old captain, was arrested on reckless endan
 
 Date: 2026-08-11
 
-### Luigi Mangione due to appear in New York court over healthcare CEO’s killing
-
-Prosecutors allege 28-year-old gunned down Brian Thompson outside Manhattan hotel in 2024 Luigi Mangione, who is accused of the killing of the UnitedHealthcare CEO Brian Thompson , is due to appear on Tuesday morning at Manhattan state court. Mangione’s appearance comes less than a month before the start of his highly.
-
-Date: 2026-08-11
-
-### A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments
-
-Investigators are focusing on the tour operator and the pilot of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern](https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com) — 2026-08-14T12:34:52.000Z
-- [John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98](https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com) — 2026-08-14T20:04:00.000Z
+- [Luigi Mangione's lawyer speaks out after he announced plans to plead guilty in federal case](https://www.cbsnews.com/video/luigi-mangiones-lawyer-speaks-out-after-he-announced-plans-to-plead-guilty-in-federal-case/?utm_source=lootura.com) — 2026-08-14T16:26:07.000Z
+- [What’s Next for Luigi Mangione After His Guilty Plea?](https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html?utm_source=lootura.com) — 2026-08-14T19:27:54.000Z
+- [John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98](https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com) — 2026-08-15T00:45:01.000Z

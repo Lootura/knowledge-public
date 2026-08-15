@@ -3,16 +3,10 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
-
-### Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings
-
-La inversión de Amancio Ortega en Australia llega a buen puerto . A través de su family office Pontegadea, el empresario textil ha cerrado la compra de un 15% de Qube Holdings , gestor portuario y logístico, en una operación valorada en alrededor de 1.070 millones de euros. La empresa australiana comunicó este viernes.
-
-Date: 2026-08-14
 
 ### Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings
 
@@ -23,6 +17,12 @@ Date: 2026-08-14
 ### La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos
 
 El hólding empresarial de Amancio Ortega ganó 10.055 millones en 2025, un 7,86% más respecto el año anterior. Seguir leyendo.
+
+Date: 2026-08-14
+
+### Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings
+
+La inversión de Amancio Ortega en Australia llega a buen puerto . A través de su family office Pontegadea, el empresario textil ha cerrado la compra de un 15% de Qube Holdings , gestor portuario y logístico, en una operación valorada en alrededor de 1.070 millones de euros. La empresa australiana comunicó este viernes.
 
 Date: 2026-08-14
 
@@ -70,6 +70,5 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Amancio Ortega desembarca en los puertos de Australia al sellar la compra del 15% de Qube Holdings](https://cincodias.elpais.com/companias/2026-08-14/amancio-ortega-desembarca-en-los-puertos-de-australia-al-sellar-la-compra-del-15-de-qube-holdings.html?utm_source=lootura.com) — 2026-08-14T14:19:00.000Z
 - [Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings](https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com) — 2026-08-14T16:21:28.000Z
-- [La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos](https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com) — 2026-08-14T17:14:25.000Z
+- [La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos](https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com) — 2026-08-14T22:13:30.000Z

@@ -3,20 +3,20 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
 
-### Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil
-
-Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo de la jornada de este viernes todavía continúa recibiendo per.
-
-Date: 2026-08-14
-
 ### Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos
 
 El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de prensa, la Benemérita ha señalado que la UPRONA de la Guardia.
+
+Date: 2026-08-14
+
+### Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil
+
+Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo de la jornada de este viernes todavía continúa recibiendo per.
 
 Date: 2026-08-14
 
@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil](https://www.abc.es/espana/extremadura/rave-ilegal-concentra-3000-personas-jueves-bajo-20260814195156-nt.html?utm_source=lootura.com) — 2026-08-14T17:51:56.000Z
 - [Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos](https://theobjective.com/sociedad/suceso/2026-08-14/ingresa-prision-zuera-presunto-autor-incendio-penas-riglos/?utm_source=lootura.com) — 2026-08-14T18:49:28.000Z

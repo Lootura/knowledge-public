@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/luigi-mangione/index.json",
   "description": "Follow Luigi Mangione, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "Luigi Nicholas Mangione"
   ],
   "changes": [
+    {
+      "title": "Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’",
+      "summary": "Luigi Mangione told a federal judge that he “shot Mr. Thompson in Manhattan in the back,” adding that he understood his actions and knew what he was doing.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Luigi Mangione admits to killing CEO",
+      "summary": "Luigi Mangione pleaded guilty in federal court to stalking charges. He also admitted that he shot United Healthcare CEO Brian Thompson, but did not express remorse for the crime. NBC News’ Stephanie Gosk reports.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Luigi Mangione’s Case Hit a Cultural Nerve",
+      "summary": "As the murder of Brian Thompson shocked most Americans, some people, many on social media, began showing Mr. Mangione sympathy and channeled their own frustration with the health care industry.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Mangione may reach a plea deal in his federal case. Here's what it means for his state charges",
       "summary": "Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson, is expected in court on Friday for a special hearing that could include a potential plea deal on federal stalking charges. Tom Hanson has more.",
@@ -34,11 +49,6 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’",
-      "summary": "Luigi Mangione told a federal judge that he “shot Mr. Thompson in Manhattan in the back,” adding that he understood his actions and knew what he was doing.",
-      "date": "2026-08-14"
-    },
-    {
       "title": "Luigi Mangione in discussions about possible guilty plea in federal case, sources tell CBS News",
       "summary": "Luigi Mangione, accused in the 2024 killing of UnitedHealthcare CEO Brian Thompson, is in discussions about a possible plea deal on federal charges, sources familiar with the matter told CBS News.",
       "date": "2026-08-14"
@@ -52,35 +62,13 @@
       "title": "Discovered by Atlas",
       "summary": "Luigi Mangione first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-      "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial. (Image credit: Steven Hirsch).",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
-      "summary": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Mangione may reach a plea deal in his federal case. Here's what it means for his state charges",
-      "url": "https://www.cbsnews.com/video/mangione-may-reach-a-plea-deal-in-his-federal-case-heres-what-it-means-for-his-state-charges/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:29:12.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern",
-      "url": "https://www.cbsnews.com/video/luigi-mangiones-potential-plea-deal-in-federal-trial-sparks-double-jeopardy-concern/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:34:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Luigi Mangione pleads guilty in federal case, admits shooting UnitedHealthcare CEO Brian Thompson",
-      "url": "https://www.cbsnews.com/newyork/news/luigi-mangione-says-he-will-plead-guilty-in-federal-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:24:41.000Z",
+      "title": "Luigi Mangione's lawyer speaks out after he announced plans to plead guilty in federal case",
+      "url": "https://www.cbsnews.com/video/luigi-mangiones-lawyer-speaks-out-after-he-announced-plans-to-plead-guilty-in-federal-case/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T16:26:07.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -90,11 +78,17 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Luigi Mangione expected to plead guilty during Manhattan federal court hearing",
-      "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-guilty-plea-federal-court-case-ceo-shooting-rcna592421?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T09:05:40.000Z",
+      "title": "Luigi Mangione admits to killing CEO",
+      "url": "https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:07:24.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Luigi Mangione’s Case Hit a Cultural Nerve",
+      "url": "https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:27:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

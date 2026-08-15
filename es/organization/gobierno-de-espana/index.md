@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### ¿Cambia el calendario de cierre de las centrales nucleares en España?
+
+Cartel indicador en la entrada a la central de Almaraz. Esteban Martinena Guerrer/Shutterstock El Gobierno de España ha aprobado la ampliación de funcionamiento de la central nuclear de Almaraz hasta el 8 de junio de 2030. La decisión afecta a sus dos reactores y sustituye las fechas de cierre anteriormente previstas:.
+
+Date: 2026-08-14
 
 ### Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años
 
@@ -62,12 +68,6 @@ El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la
 
 Date: 2026-08-11
 
-### El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España
-
-El primer ministro de Suecia, el conservador Ulf Kristersson, ha cargado contra el proceso de regularización de inmigrantes realizado por el Gobierno de España , al considerar que es una “muy mala idea” Seguir leyendo...
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [¿Cambia el calendario de cierre de las centrales nucleares en España?](https://theconversation.com/cambia-el-calendario-de-cierre-de-las-centrales-nucleares-en-espana-289830?utm_source=lootura.com) — 2026-08-14T21:19:13.000Z

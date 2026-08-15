@@ -40,4 +40,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos](https://www.elindependiente.com/espana/madrid/2026/08/14/el-retiro-y-otros-cinco-parques-cerraran-este-viernes-desde-las-18-horas/?utm_source=lootura.com) — 2026-08-14T14:40:04.000Z
+No public source links.

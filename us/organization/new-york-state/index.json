@@ -1,0 +1,54 @@
+{
+  "id": "usa-new-york-state",
+  "name": "New York (state)",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/new-york-state",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/new-york-state",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/new-york-state/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/new-york-state/index.json",
+  "description": "Follow New York (state), a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "aliases": [
+    "NY",
+    "New York, United States",
+    "State of New York",
+    "NYS",
+    "NY state",
+    "The Empire State",
+    "US-NY",
+    "Empire State"
+  ],
+  "changes": [
+    {
+      "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+      "summary": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "What’s Next for Luigi Mangione After His Guilty Plea?",
+      "summary": "Mr. Mangione’s plea in the federal case could make it difficult for New York State prosecutors to try their own case.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "New York State first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "What’s Next for Luigi Mangione After His Guilty Plea?",
+      "url": "https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T19:27:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-15T00:45:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

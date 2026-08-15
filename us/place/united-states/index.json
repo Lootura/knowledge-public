@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -35,14 +35,14 @@
   ],
   "changes": [
     {
-      "title": "Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more",
-      "summary": "Jo Ling Kent spoke exclusively with outgoing Apple CEO Tim Cook about a new manufacturing plant in Houston, what it means for jobs, and what he wants his legacy to be as he prepares to step down as CEO.",
-      "date": "2026-08-14"
-    },
-    {
       "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
       "summary": "Keeping gas prices low is now the United States’ “goal No.",
-      "date": "2026-08-14"
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+      "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.",
+      "date": "2026-08-15"
     },
     {
       "title": "Justice Department expands military's power to detain migrants accused of trespassing",
@@ -60,28 +60,28 @@
       "date": "2026-08-14"
     },
     {
-      "title": "Trump says he will soon declare the Strait of Hormuz a U.S. territory",
-      "summary": "The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.",
+      "title": "Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued",
+      "summary": "A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday.",
       "date": "2026-08-14"
     },
     {
-      "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-      "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.",
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "summary": "David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.",
       "date": "2026-08-14"
     },
     {
-      "title": "The True Story Behind The Brink of War",
-      "summary": "Jeff Daniels as President Ronald Reagan —Courtesy of Angel Studios The Reykjavik Summit —when U.S. President Ronald Reagan and Soviet Union President Mikhail Gorbachev talked in person in 1986—is not known as an iconic bit of American history. But the face-to-face conversation between the leaders, held over Oct. 11 and.",
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
       "date": "2026-08-14"
     },
     {
-      "title": "What Wildfire Smoke Reveals About How We Respond to Climate Risk",
-      "summary": "The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.",
+      "title": "Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive",
+      "summary": "As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that they're getting dangerously hot.",
       "date": "2026-08-14"
     },
     {
-      "title": "Woman arrested and facing felony charges in World War II Memorial vandalism case, DOJ says",
-      "summary": "A woman accused of vandalizing the World War II Memorial has been arrested in Washington, U.S. Attorney for the District of Columbia Jeanine Pirro announced Friday.",
+      "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+      "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
       "date": "2026-08-14"
     }
   ],
@@ -99,22 +99,22 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Outgoing Apple CEO Tim Cook discusses new U.S. manufacturing, job impact and more",
-      "url": "https://www.cbsnews.com/video/outgoing-apple-ceo-tim-cook-discusses-new-us-manufacturing-job-impact-and-more/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T12:43:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
       "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T11:14:12.351Z",
+      "publishedAt": "2026-08-15T00:43:46.956Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Trump says he will soon declare the Strait of Hormuz a U.S. territory",
-      "url": "https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:17:59.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued",
+      "url": "https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:58:37.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:30:52.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "U.S. retail sales unexpectedly post largest drop in more than a year",
@@ -123,28 +123,28 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
-      "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-13T21:49:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:10:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive",
+      "url": "https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:40:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
       "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:17:02.000Z",
+      "publishedAt": "2026-08-15T00:24:04.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "The True Story Behind The Brink of War",
-      "url": "https://time.com/article/2026/08/14/brink-of-war-true-story/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:03:46.000Z",
-      "sourceId": "lootura-us-time"
-    },
-    {
-      "title": "What Wildfire Smoke Reveals About How We Respond to Climate Risk",
-      "url": "https://time.com/article/2026/08/14/climate-change-wildfire-air-pollution-risks/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:35:38.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+      "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:35:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 11

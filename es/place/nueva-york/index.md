@@ -3,7 +3,7 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres
 
 La Administración del alcalde de Nueva York, Zohran Mamdani, y la ONG Legal Aid Society pidieron este viernes a un tribunal desestimar la demanda de un.
+
+Date: 2026-08-14
+
+### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
+
+El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
 
 Date: 2026-08-14
 
@@ -62,12 +68,7 @@ Aunque el coste de la vida se ha disparado en los últimos años en España, las
 
 Date: 2026-08-08
 
-### El giro de guion de Rodri: de la gran oferta del Madrid a elegir al Barça
-
-El futuro de Rodri Hernández ha vivido un cambio de guion desde que se proclamó campeón del mundo con España en Nueva York y fue elegido el mejor jugador del campeonato. El centrocampista del Manchester City recibió entonces una gran oferta del Real Madrid pero se ha decantado por el interés del Barcelona por una cuest.
-
-Date: 2026-08-07
-
 ## Fuentes
 
+- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
 - [Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres](https://theobjective.com/internacional/2026-08-14/alcaldia-nueva-york-desestimar-demanda-congelacion-alquileres/?amp=&utm_source=lootura.com) — 2026-08-14T20:19:24.000Z

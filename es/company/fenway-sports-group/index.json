@@ -1,0 +1,45 @@
+{
+  "id": "es-fenway-sports-group",
+  "name": "Fenway Sports Group",
+  "type": "company",
+  "locale": "es",
+  "canonicalPath": "/es/company/fenway-sports-group",
+  "canonicalUrl": "https://atlas.lootura.com/es/company/fenway-sports-group",
+  "markdownUrl": "https://atlas.lootura.com/es/company/fenway-sports-group/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/company/fenway-sports-group/index.json",
+  "description": "Sigue la actividad de Fenway Sports Group en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Jeff Bezos entra como accionista minoritario en el Liverpool",
+      "summary": "Un consorcio que incluye al fundador de Amazon, Jeff Bezos, ha llegado a un acuerdo definitivo para comprar una participación minoritaria en el Liverpool , según informaron el viernes los propietarios del club de la Premier League, Fenway Sports Group (FSG). Seguir leyendo.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Jeff Bezos compra el 30% del Liverpool por 1.930 millones",
+      "summary": "Jeff Bezos debuta en el fútbol europeo. El fundador de Amazon se ha convertido en inversor del Liverpool a través de 1892 Holdings, el consorcio liderado por Amit Bhatia que ha alcanzado un acuerdo definitivo con Fenway Sports Group (FSG) para adquirir alrededor de un tercio del club inglés. La transacción está valorad.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Fenway Sports Group first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jeff Bezos entra como accionista minoritario en el Liverpool",
+      "url": "https://elpais.com/deportes/futbol/2026-08-14/jeff-bezos-entra-como-accionista-minoritario-en-el-liverpool.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T17:28:39.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Jeff Bezos compra el 30% del Liverpool por 1.930 millones",
+      "url": "https://www.expansion.com/directivos/deporte-negocio/2026/08/14/6a7f4a8de5fdeae81d8b459c.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:14:13.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
+}

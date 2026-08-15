@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "¿Cambia el calendario de cierre de las centrales nucleares en España?",
+      "summary": "Cartel indicador en la entrada a la central de Almaraz. Esteban Martinena Guerrer/Shutterstock El Gobierno de España ha aprobado la ampliación de funcionamiento de la central nuclear de Almaraz hasta el 8 de junio de 2030. La decisión afecta a sus dos reactores y sustituye las fechas de cierre anteriormente previstas:.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años",
       "summary": "El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.",
@@ -58,13 +63,15 @@
       "title": "Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»",
       "summary": "El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "El primer ministro de Suecia califica de “muy mala idea” la regulación de inmigrantes aprobada por España",
-      "summary": "El primer ministro de Suecia, el conservador Ulf Kristersson, ha cargado contra el proceso de regularización de inmigrantes realizado por el Gobierno de España , al considerar que es una “muy mala idea” Seguir leyendo...",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "¿Cambia el calendario de cierre de las centrales nucleares en España?",
+      "url": "https://theconversation.com/cambia-el-calendario-de-cierre-de-las-centrales-nucleares-en-espana-289830?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T21:19:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

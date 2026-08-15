@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad](https://www.elconfidencial.com/espana/andalucia/2026-08-14/cabalgata-historica-feria-malaga-2026-recorrido-horario-1qrt-1tna_4404798/?utm_source=lootura.com) — 2026-08-14T14:58:00.000Z
+No public source links.

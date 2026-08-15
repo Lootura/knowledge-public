@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
+      "date": "2026-08-14"
+    },
     {
       "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
       "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).",
@@ -62,19 +67,14 @@
       "title": "White House Press Secretary Karoline Leavitt to Step Down",
       "summary": "President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-      "summary": "Leavitt called it a \"bittersweet decision\" in a social media post Wednesday shortly after President Donald Trump announced she would be stepping down. She recently returned to the White House podium after the birth of her second child, a daughter named Viviana, in May.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T02:06:10.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
+      "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T22:55:06.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 1

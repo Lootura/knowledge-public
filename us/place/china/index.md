@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Guangzhou crucibles provide earliest direct evidence of brass-making in East Asia](https://phys.org/news/2026-08-guangzhou-crucibles-earliest-evidence-brass.html?utm_source=lootura.com) — 2026-08-14T20:20:03.000Z
+No public source links.

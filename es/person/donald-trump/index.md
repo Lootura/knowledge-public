@@ -3,20 +3,32 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-08-15T01:04:15.447Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
-
-El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
-
-Date: 2026-08-14
-
 ### Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio
 
 El presidente de EE UU asegurado que "será reemplazado por otro buque similar".
+
+Date: 2026-08-14
+
+### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
+
+El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
+
+Date: 2026-08-14
+
+### Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»
+
+«Jamás me disculparé. Hice lo correcto», dice a los que le crfitican por el aumento del precio de la gasolina.
+
+Date: 2026-08-14
+
+### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
+
+El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
 
 Date: 2026-08-14
 
@@ -56,19 +68,8 @@ El mercado petrolero se está volviendo a recalentar con la segunda fase de la g
 
 Date: 2026-08-12
 
-### Inditex eleva la apuesta en EE UU con la apertura de la primera tienda de Bershka
-
-Las tensiones comerciales y arancelarias que se suceden en Estados Unidos bajo la administración Trump no frenan los planes de crecimiento de Inditex en ese mercado, el segundo más importante para el grupo. Seguir leyendo.
-
-Date: 2026-08-11
-
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema](https://www.abc.es/internacional/trump-empena-construir-salon-baile-casa-blanca-20260814182031-nt.html?utm_source=lootura.com) — 2026-08-14T16:22:16.000Z
+- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
+- [Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»](https://www.elcorreo.com/internacional/eeuu/trump-anuncia-pronto-ormuz-territorio-20260815004650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-14T22:46:50.000Z
 - [Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio](https://www.larazon.es/internacional/trump-confirma-que-nuevo-portaaviones-sustituira-uss-abraham-lincoln-seis-meses-despliegue-oriente-medio_202608146a7f77ee71b42a0b5def9530.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T20:17:50.000Z

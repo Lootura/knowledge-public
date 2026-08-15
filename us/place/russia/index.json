@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -24,7 +24,7 @@
     },
     {
       "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "summary": "In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
+      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
       "date": "2026-08-14"
     },
     {
@@ -74,7 +74,13 @@
       "url": "https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com",
       "publishedAt": "2026-08-14T16:43:48.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:55:21.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

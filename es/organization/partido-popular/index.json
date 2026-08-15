@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
   "aliases": [
     "PP",
     "populares"
@@ -71,13 +71,7 @@
       "url": "https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com",
       "publishedAt": "2026-08-14T10:41:53.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos",
-      "url": "https://theobjective.com/espana/2026-08-14/melilla-centro-menores-centenar-camas-colchones-ignifugos/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T15:46:18.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,58 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Daily fragment: Donald Trump
+
+US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
+
+Date: 2026-08-15
+
+### Trump's vaccine order would require millions of individual shots last used decades ago
+
+Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.
+
+Date: 2026-08-14
+
+### FBI reports record decrease in violent crime in 2025
+
+Both the violent crime and murder rates have decreased annually since spiking in 2022, the bureau has found. President Donald Trump touted the statistics Friday.
+
+Date: 2026-08-14
+
+### Trump downplays concerns about living conditions on aircraft carrier
+
+President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.
+
+Date: 2026-08-14
+
+### Democrats grapple with Trump's push to limit transparency within the executive branch
+
+President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.
+
+Date: 2026-08-14
+
+### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
+
+Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
+
+Date: 2026-08-14
+
+### How The New York Times Reported on Trump’s Air Force One Ruse in Turkey
+
+President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.
+
+Date: 2026-08-14
+
+### President Trump Takes Credit for Steep Crime Rate Declines
+
+Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.
+
+Date: 2026-08-14
 
 ### Trump’s Justice Dept. Targets Smaller Fraud Cases
 
@@ -20,59 +68,13 @@ The war in Iran continues on as Vice President Vance says the new goal is to kee
 
 Date: 2026-08-14
 
-### Trump dismisses concerns from families about grim conditions aboard USS Lincoln
-
-President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.
-
-Date: 2026-08-14
-
-### Trump's vaccine order would require millions of individual shots last used decades ago
-
-Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.
-
-Date: 2026-08-14
-
-### ‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead
-
-Heavy machinery seen operating in famous Santa Elena Canyon amid outcry over new wall infrastructure in beloved Texas park Bulldozers have begun plowing up ground at the mouth of Big Bend national park’s famed Santa Elena Canyon as part of the Trump administration’s multibillion-dollar “smart wall” expansion on the US-.
-
-Date: 2026-08-14
-
-### Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations
-
-Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.
-
-Date: 2026-08-14
-
-### Judge drops Nevada case against electors accused of forging certificate in 2020 election
-
-The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).
-
-Date: 2026-08-14
-
-### Trump-Picked Kennedy Center Board Votes to Add Trump's Name
-
-The board of the Kennedy Center, appointed by President Trump, voted Thursday to add Trump’s name back to the building’s facade. They also voted to close the main building for renovations for two years, keeping only a small portion open.
-
-Date: 2026-08-14
-
-### Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms
-
-Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.
-
-Date: 2026-08-14
-
-### With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks
-
-Jared Kushner, President Trump’s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Trump says he will soon declare the Strait of Hormuz a U.S. territory](https://www.nbcnews.com/meet-the-press/video/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-u-s-territory-268334149883?utm_source=lootura.com) — 2026-08-14T20:17:59.000Z
-- [Trump dismisses concerns from families about grim conditions aboard USS Lincoln](https://www.nbcnews.com/politics/donald-trump/trump-dismisses-concerns-family-members-grim-conditions-uss-abraham-li-rcna592598?utm_source=lootura.com) — 2026-08-14T18:30:16.000Z
+- [Daily fragment: Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump?utm_source=lootura.com) — 2026-08-15T04:00:00.000Z
+- [FBI reports record decrease in violent crime in 2025](https://www.nbcnews.com/politics/justice-department/fbi-reports-record-decrease-violent-crime-2025-rcna592593?utm_source=lootura.com) — 2026-08-14T20:31:41.000Z
+- [Trump downplays concerns about living conditions on aircraft carrier](https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com) — 2026-08-14T23:32:43.000Z
+- [Democrats grapple with Trump's push to limit transparency within the executive branch](https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com) — 2026-08-14T21:49:04.000Z
 - [Trump's vaccine order would require millions of individual shots last used decades ago](https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago?utm_source=lootura.com) — 2026-08-14T20:16:56.000Z
-- [‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead](https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump?utm_source=lootura.com) — 2026-08-14T19:27:08.000Z
-- [Trump’s Justice Dept. Targets Smaller Fraud Cases](https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html?utm_source=lootura.com) — 2026-08-14T09:02:49.000Z
-- [Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations](https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html?utm_source=lootura.com) — 2026-08-14T19:44:08.000Z
+- [Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln](https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T22:55:06.000Z
+- [How The New York Times Reported on Trump’s Air Force One Ruse in Turkey](https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html?utm_source=lootura.com) — 2026-08-14T19:20:46.000Z
+- [President Trump Takes Credit for Steep Crime Rate Declines](https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html?utm_source=lootura.com) — 2026-08-14T22:02:24.000Z

@@ -1,0 +1,45 @@
+{
+  "id": "es-instituto-geografico-nacional",
+  "name": "Instituto Geográfico Nacional",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/instituto-geografico-nacional",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/instituto-geografico-nacional",
+  "markdownUrl": "https://atlas.lootura.com/es/place/instituto-geografico-nacional/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/instituto-geografico-nacional/index.json",
+  "description": "Sigue la actividad de Instituto Geográfico Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Un nuevo terremoto de 4,8 grados afecta a varias localidades de Granada",
+      "summary": "Un terremoto de 4,8 grados de magnitud y epicentro en Alhendín (Granada) ha sido sentido en la madrugada de este sábado, según ha informado el Instituto Geográfico Nacional (IGN). Según el organismo dependiente del Ministerio de Transportes, Movilidad y Agenda Urbana, este temblor se ha registrado a la 1:04 horas de es.",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Un terremoto de magnitud 4.8 se deja sentir en varias localidades de Granada",
+      "summary": "Un terremoto de magnitud 4.8 ha sido registrado cerca de Granada sobre las 01:04:41 de este viernes 14 de agosto, según los datos recogidos por el Instituto Geográfico Nacional (IGN). El epicentro del temblor, que ha afectado a la provincia de Granada, se ha localizado a 2 kilómetros de Alhendín y a kilómetros de profu.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Instituto Geográfico Nacional first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Un terremoto de magnitud 4.8 se deja sentir en varias localidades de Granada",
+      "url": "https://www.elconfidencial.com/espana/2026-08-15/un-terremoto-de-magnitud-4-8-se-deja-sentir-en-varias-localidades-de-granada_4406445/?utm_source=lootura.com",
+      "publishedAt": "2026-08-14T23:09:02.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Un nuevo terremoto de 4,8 grados afecta a varias localidades de Granada",
+      "url": "https://www.larazon.es/andalucia/granada/sentido-terremoto-48-grados-epicentro-alhendin-granada_202608156a7faf7ba046ad6ebcb1f1cd.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-15T00:14:51.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 2
+}

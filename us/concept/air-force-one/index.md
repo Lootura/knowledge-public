@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-13T16:54:41.422Z
+- Updated: 2026-08-15T01:04:37.915Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### How The New York Times Reported on Trump’s Air Force One Ruse in Turkey
+
+President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.
+
+Date: 2026-08-14
 
 ### Product availability changed in Europe
 
@@ -62,12 +68,6 @@ Millions are still at risk of flooding after powerful storms swept across the Mi
 
 Date: 2026-08-12
 
-### Product availability changed in Europe
-
-Ahead of a flight from Turkey, President Trump secretly left Air Force One and was moved to another plane with the help of a catering truck, according to a source, as the U.S. grappled with a threat from Iran.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [How The New York Times Reported on Trump’s Air Force One Ruse in Turkey](https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html?utm_source=lootura.com) — 2026-08-14T19:20:46.000Z
