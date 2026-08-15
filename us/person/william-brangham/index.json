@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/william-brangham/index.json",
   "description": "Follow William Brangham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-08-15T01:04:37.915Z",
-  "aliases": [],
+  "aliases": [
+    "Brangham",
+    "William"
+  ],
   "changes": [
     {
       "title": "Brooks and Atkins Stohr on 'woke' politics in America",

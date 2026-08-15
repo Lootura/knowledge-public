@@ -22,7 +22,7 @@ Date: 2026-08-14
 
 ### Discovered by Atlas
 
-New York State first entered the public knowledge record with source-backed evidence.
+New York (state) first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-14
 

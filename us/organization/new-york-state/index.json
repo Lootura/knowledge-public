@@ -10,14 +10,14 @@
   "description": "Follow New York (state), a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-08-15T01:04:37.915Z",
   "aliases": [
+    "Empire State",
     "NY",
+    "NY state",
+    "NYS",
     "New York, United States",
     "State of New York",
-    "NYS",
-    "NY state",
     "The Empire State",
-    "US-NY",
-    "Empire State"
+    "US-NY"
   ],
   "changes": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "New York State first entered the public knowledge record with source-backed evidence.",
+      "summary": "New York (state) first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-14"
     }
   ],

@@ -9,7 +9,10 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/jason-arday/index.json",
   "description": "Sigue la actividad de Jason Arday en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-08-15T01:04:15.447Z",
-  "aliases": [],
+  "aliases": [
+    "Arday",
+    "Jason"
+  ],
   "changes": [
     {
       "title": "Aparece muerto Jason Arday, el profesor universitario que dimitió la semana acusado de plagios y mentiras",
