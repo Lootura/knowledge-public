@@ -22,4 +22,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z
+No public source links.

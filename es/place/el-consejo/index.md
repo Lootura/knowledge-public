@@ -3,10 +3,28 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
+
+El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
+
+Date: 2026-09-01
+
+### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
+
+El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.
+
+Date: 2026-09-01
+
+### El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente
+
+Ceuta sigue concentrando los esfuerzos del Gobierno . El Consejo de Ministros ha aprobado este martes un real decreto ley con medidas urgentes para revitalizar su economía dotado con 309 millones de euros para lo que resta de año. Esa cantidad, en la que están incluidas partidas para reforzar los servicios esenciales,.
+
+Date: 2026-09-01
 
 ### El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos
 
@@ -50,24 +68,8 @@ Imposible poner el piloto automático en la política monetaria cuando la geopol
 
 Date: 2026-07-23
 
-### Discovered by Atlas
-
-El Consejo first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-21
-
-### La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios
-
-El Consejo de Ministros ha aprobado este martes el proyecto de la ley del tabaco , que amplía los espacios sin humo para incluir playas y terrazas, entre otros, y endurece la legislación para vapeadores y otros dispositivos. El texto impulsado por el Ministerio de Sanidad será remitido posteriormente a las Cortes para.
-
-Date: 2026-07-21
-
-### El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA
-
-El Consejo de Ministros aprobó este martes el decreto que actualiza la relación laboral especial de los artistas y del personal técnico, y que incorpora algunas de las reivindicaciones previstas en el Estatuto del Artista. La norma, elaborada por el Ministerio de Trabajo junto con el de Cultura regula el trabajo de los.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos](https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html?utm_source=lootura.com) — 2026-09-01T07:49:23.000Z
+- [El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos](https://www.abc.es/economia/gobierno-nombra-leire-iglesias-secretaria-estado-vivienda-20260901164938-nt.html?utm_source=lootura.com) — 2026-09-01T15:16:58.000Z
+- [Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas](https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com) — 2026-09-01T15:31:23.000Z
+- [El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente](https://theobjective.com/espana/politica/2026-09-01/gobierno-millones-ceuta-rebaja-fiscal/?utm_source=lootura.com) — 2026-09-01T12:57:27.000Z

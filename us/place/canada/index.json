@@ -66,19 +66,6 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
-      "url": "https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:00.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T20:47:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

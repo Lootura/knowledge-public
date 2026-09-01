@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
+      "summary": "Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete",
       "summary": "Dos personas han fallecido y una tercera ha resultado herida este jueves en un choque frontal entre dos turismos en el kilómetro 361 de la N-322 , a su paso por Albacete. Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla -La Mancha, el aviso del accidente se registró a las 550 horas. Las víctima.",
@@ -58,13 +63,15 @@
       "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
       "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa",
-      "summary": "Villarrubia de Santiago , en la provincia de Toledo, conserva una de las historias más curiosas relacionadas con Santa Teresa de Jesús . En el interior de la iglesia de San Bartolomé se guarda un antiguo baúl que, según la tradición, perteneció a la santa y quedó olvidado en la localidad durante uno de sus viajes por C.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
+      "url": "https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:35:30.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

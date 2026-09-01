@@ -22,5 +22,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Paxton allies launch $15 million ad campaign](https://www.politico.com/news/2026/08/31/ken-paxton-ad-campaign-01057911?utm_source=lootura.com) — 2026-08-31T21:55:45.000Z
-- [Trump may need to save Paxton in Texas Senate race](https://www.semafor.com/article/09/01/2026/trump-may-need-to-save-paxton-in-texas-senate-race?utm_source=lootura.com) — 2026-09-01T08:51:02.000Z
+No public source links.

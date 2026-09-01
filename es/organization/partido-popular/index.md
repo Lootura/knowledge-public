@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
 
 El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.
+
+Date: 2026-09-01
+
+### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
+
+Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un "respeto" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.
+
+Date: 2026-09-01
+
+### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
+
+Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
 
 Date: 2026-09-01
 
@@ -56,21 +68,8 @@ El Gobierno de Melilla ( PP ) ha reforzado desde este viernes los recursos del C
 
 Date: 2026-08-14
 
-### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
-
-El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.
-
-Date: 2026-08-14
-
-### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
-
-El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
-
-Date: 2026-08-14
-
 ## Fuentes
 
+- [El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos](https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com) — 2026-09-01T12:45:58.000Z
 - [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z
-- ["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"](https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com) — 2026-08-31T20:47:29.000Z
-- [Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño](https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html?utm_source=lootura.com) — 2026-08-31T22:20:48.000Z
-- [El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta](https://theobjective.com/espana/politica/2026-09-01/pp-reclama-gobierno-prohibir-concentraciones-apoyo-ceuta/?utm_source=lootura.com) — 2026-09-01T08:52:44.000Z
+- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z

@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/keir-starmer/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/keir-starmer/index.json",
   "description": "Follow Keir Starmer, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T21:10:24.211Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "Starmer"
   ],
   "changes": [
+    {
+      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
+      "summary": "Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Former U.K. Prime Minister Keir Starmer Steps Down From Parliament. Read His Full Statement Here",
+      "summary": "Keir Starmer departs 10 Downing Street in London, England, on March 4, 2026. —Wiktor Szymanowicz—Getty Images Keir Starmer, who resigned as Britain's Prime Minister in June, announced Tuesday he will also be stepping down from Parliament to focus on international affairs. Speaking to Camden New Journal , Starmer—who le.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Keir Starmer first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-20"
+    },
     {
       "title": "Andy Burnham formally appointed U.K. prime minster",
       "summary": "Andy Burnham was formally appointed the newest British prime minster, the seventh to take up the position in the last decade. NBC News’ Raf Sanchez reports on how Burnham differs from outgoing prime minster Keir Starmer and his meeting with King Charles III.",
@@ -22,13 +37,21 @@
       "title": "Why Britain is getting a new prime minister without a general election",
       "summary": "Veteran Labour Party politician Andy Burnham has become Britain's new prime minister He takes over from Keir Starmer, who announced his resignation last month.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Keir Starmer first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:24:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Former U.K. Prime Minister Keir Starmer Steps Down From Parliament. Read His Full Statement Here",
+      "url": "https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:43:50.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
 }

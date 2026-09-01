@@ -3,10 +3,22 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Las Euskal Jaiak toman Donostia las próximas dos semanas
+
+Además del Sagardo Eguna y el Gaztelu Eguna del sábado 5, destacan en el programa el recuerdo a la bailarina María Elena Arizmendi y el acto de canto coral 'Kantuz'.
+
+Date: 2026-09-01
+
+### Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta
+
+La actriz española Carmen Sevilla en el Festival de San Sebastián de 1956. Paco Marí / Kutxa Fototeka , CC BY-SA La muerte del sociólogo y filósofo francés Edgar Morin invita a recuperar una de sus aportaciones más sugerentes al estudio de la cultura contemporánea: su análisis del estrellato cinematográfico como expres.
+
+Date: 2026-09-01
 
 ### El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro
 
@@ -56,18 +68,7 @@ Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito ast
 
 Date: 2026-08-12
 
-### ¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?
-
-Valora la propuesta de Phoenix Fireworks y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.
-
-Date: 2026-08-11
-
-### Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle
-
-El Ayuntamiento destinará hasta medio millón de euros al programa de Acción Social facilitando que se repartan 100 comidas más que hasta ahora.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Las Euskal Jaiak toman Donostia las próximas dos semanas](https://www.diariovasco.com/san-sebastian/euskal-jaiak-toman-donostia-proximas-dos-semanas-20260901133015-nt_amp.html?utm_source=lootura.com) — 2026-09-01T11:30:15.000Z
+- [Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta](https://theconversation.com/por-que-carmen-sevilla-fue-una-estrella-edgar-morin-y-el-imaginario-de-la-espana-de-los-cincuenta-285983?utm_source=lootura.com) — 2026-09-01T15:54:32.000Z

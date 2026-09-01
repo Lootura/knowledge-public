@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -78,11 +78,11 @@
   ],
   "sources": [
     {
-      "title": "Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez",
-      "url": "https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T03:45:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad",
+      "url": "https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T19:10:58.000Z",
+      "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

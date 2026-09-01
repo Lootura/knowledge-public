@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T09:30:49.262Z",
+  "generatedAt": "2026-09-01T16:23:58.694Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|147|1788253804817",
+    "signature": "1.18.0|148|1788278594149",
     "version": "1.18.0",
-    "build": 147,
-    "latestEntityUpdatedAt": "2026-09-01T09:10:04.817Z"
+    "build": 148,
+    "latestEntityUpdatedAt": "2026-09-01T16:03:14.149Z"
   },
   "atlas": {
     "hero": {
@@ -20,49 +20,23 @@
       "title": "One person missing as two bodies recovered after Grand Canyon floods",
       "url": "https://atlas.lootura.com/us/place/grand-canyon",
       "path": "/us/place/grand-canyon",
-      "updatedAt": "2026-09-01T09:10:04.817Z",
-      "score": 1710,
-      "sourceCount": 7,
+      "updatedAt": "2026-09-01T16:03:14.149Z",
+      "score": 1698,
+      "sourceCount": 9,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-09-01T09:10:04.817Z",
-        "score": 1699,
-        "sourceCount": 145,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-venezuela",
-        "name": "Venezuela",
-        "type": "place",
-        "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-        "url": "https://atlas.lootura.com/us/place/venezuela",
-        "path": "/us/place/venezuela",
-        "updatedAt": "2026-09-01T09:10:04.817Z",
-        "score": 1668,
-        "sourceCount": 16,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
-        "type": "place",
-        "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-09-01T09:10:04.817Z",
-        "score": 1663,
-        "sourceCount": 414,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-09-01T16:03:14.149Z",
+        "score": 1675,
+        "sourceCount": 797,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +47,39 @@
         "title": "Could an American win men's singles at this year's U.S. Open?",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-09-01T09:10:04.817Z",
+        "updatedAt": "2026-09-01T16:03:14.149Z",
         "score": 1663,
-        "sourceCount": 801,
+        "sourceCount": 809,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-09-01T16:03:14.149Z",
+        "score": 1645,
+        "sourceCount": 148,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-china",
+        "name": "China",
+        "type": "place",
+        "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+        "url": "https://atlas.lootura.com/us/place/china",
+        "path": "/us/place/china",
+        "updatedAt": "2026-09-01T16:03:14.149Z",
+        "score": 1638,
+        "sourceCount": 76,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 173
+    "publicEntityCount": 177
   }
 }

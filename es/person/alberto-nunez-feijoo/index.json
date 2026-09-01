@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»",
+      "summary": "El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
       "summary": "El PP cree que la prórroga \"supone el reconocimiento del fracaso de la política energética\" de Sánchez y le afea que lo anuncie \"de tapadillo\" Leer.",
@@ -66,13 +71,15 @@
       "title": "Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta",
       "summary": "Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península",
-      "summary": "Mientras decenas de miles de personas abandonan Ceuta para regresar a Marruecos tras el fracaso de la entrada masiva, otros aún deambulan por las calles.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»",
+      "url": "https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:45:03.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

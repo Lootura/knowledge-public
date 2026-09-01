@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa](https://www.elconfidencial.com/espana/cataluna/2026-09-01/los-sindicatos-de-profesores-calientan-el-inicio-del-curso-con-huelgas-contra-salvador-illa_4415441/?utm_source=lootura.com) — 2026-09-01T03:00:00.000Z
+No public source links.

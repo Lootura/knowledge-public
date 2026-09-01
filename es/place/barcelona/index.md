@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»
+
+Después de un verano entero provocando al Atlético de Madrid con el fichaje imposible de Julián Álvarez , Joan Laporta ha hecho portavoz del presidente de otro club de Primera División . Este martes, un día después del Barcelona-Rayo , el man>Barcelona ante el micrófono de El Chiringuito de Jugones . Cabe recordar que.
+
+Date: 2026-09-01
+
+### El Barça ficha al delantero brasileño Gabriel Jesús, procedente del Arsenal inglés
+
+El delantero brasileño Gabriel Jesús será jugador del FC Barcelona las próximas tres temporadas, hasta el 30 de junio de 2029, tras el acuerdo alcanzado entre el Arsenal FC y el club azulgrana, según ha hecho oficial este martes la entidad culé. Nacido en São Paulo (Brasil) el 3 de abril de 1997, Gabriel Jesús comenzó.
+
+Date: 2026-09-01
 
 ### ¿Puede el casero subirme la renta un 20% a pesar de estar el piso en una zona tensionada?
 
@@ -56,21 +68,7 @@ Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabass
 
 Date: 2026-08-14
 
-### Estabilizado el fuego de Collserola que obliga a confinar a los vecinos Can Caralleu
-
-Los Bombers de Barcelona han logrado estabilizar el incendio forestal que desde primera hora de la tarde afecta a la sierra de Collserola. Las llamas no han afectado más de 10 hectáreas. El fuego ha empezado en la montaña de Sant Pere Màrtir, entre los municipios de Esplugues y Barcelona; y las columnas de humo son vis.
-
-Date: 2026-08-14
-
-### 23 calles, cinco mundos de 'El Señor de los Anillos' y un homenaje a Antònia Font: así serán las Fiestas de Gràcia 2026
-
-Las Fiestas de Gràcia 2026 volverán a convertir Barcelona en un escaparate de creatividad vecinal del 15 al 21 de agosto . Un total de 23 calles y plazas competirán este año en el tradicional concurso de decoración con propuestas que viajan de los recuerdos familiares al modernismo, los jardines fantásticos, la cultura.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [¿Puede el casero subirme la renta un 20% a pesar de estar el piso en una zona tensionada?](https://elpais.com/economia/vivienda/consultorio/2026-09-01/puede-el-casero-subirme-la-renta-un-20-a-pesar-de-estar-el-piso-en-una-zona-tensionada.html?utm_source=lootura.com) — 2026-09-01T07:46:59.000Z
-- [La Generalitat esconde por qué ignoró los siete avisos sobre "errores" en las pruebas PISA en Cataluña](https://www.elmundo.es/cataluna/2026/08/31/6a95e1a6fc6c835e428b45b2.html?utm_source=lootura.com) — 2026-08-31T20:47:09.000Z
-- [El ADN de la estrella de mar espinosa se organiza de forma distinta según el ambiente marino](https://www.larazon.es/andalucia/adn-estrella-mar-espinosa-organiza-forma-distinta-segun-ambiente-marino_202609016a9695493bfe5d1eff3ee207.html?utm_source=lootura.com) — 2026-09-01T09:05:13.000Z
-- [Barcelona y Sarajevo: una hermanamiento de tres décadas que sigue más vivo que nunca](https://www.larazon.es/cataluna/barcelona-sarajevo-hermanamiento-tres-decadas-que-sigue-mas-vivo-que-nunca_202609016a9695372d7d3022177a3614.html?utm_source=lootura.com) — 2026-09-01T09:04:55.000Z
+- [Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»](https://okdiario.com/deportes/laporta-hace-portavoz-martin-presa-verguenza-lo-que-estan-haciendo-rayo-20210031?utm_source=lootura.com) — 2026-09-01T15:52:55.000Z
+- [El Barça ficha al delantero brasileño Gabriel Jesús, procedente del Arsenal inglés](https://theobjective.com/deportes/futbol/2026-09-01/barca-ficha-gabriel-jesus/?utm_source=lootura.com) — 2026-09-01T14:15:00.000Z

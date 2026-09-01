@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,16 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
+      "summary": "CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Global finance ministers gather in North Carolina for G-20 summit",
       "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
@@ -61,11 +71,17 @@
   ],
   "sources": [
     {
-      "title": "Global finance ministers gather in North Carolina for G-20 summit",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:46:27.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "U.S. Treasury official on economic goals at G20 summit",
+      "url": "https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:06:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
+      "url": "https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:04:14.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -46,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [La amnistía, Europa y Conde-Pumpido](https://theobjective.com/elsubjetivo/opinion/2026-09-01/amnistia-europa-conde-pumpido-articulo-martin-seco/?utm_source=lootura.com) — 2026-09-01T03:25:00.000Z
+No public source links.

@@ -3,16 +3,10 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
-
-### The U.S. wants others to join its economic pressure campaign against Iran. Will they?
-
-NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.
-
-Date: 2026-09-01
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
@@ -20,9 +14,27 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-01
 
-### U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad
+### U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad
 
 The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
+
+Date: 2026-09-01
+
+### Oil prices rise again as U.S. renews Iran strikes
+
+Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.
+
+Date: 2026-09-01
+
+### SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign
+
+Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.
+
+Date: 2026-09-01
+
+### The U.S. wants others to join its economic pressure campaign against Iran. Will they?
+
+NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.
 
 Date: 2026-09-01
 
@@ -56,22 +68,9 @@ The war in Iran has underscored how disruptions to a key shipping route thousand
 
 Date: 2026-08-14
 
-### Brooks and Atkins Stohr on 'woke' politics in America
-
-David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.
-
-Date: 2026-08-14
-
-### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
-
-The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'](https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html?utm_source=lootura.com) — 2026-09-01T08:25:45.000Z
-- [The U.S. wants others to join its economic pressure campaign against Iran. Will they?](https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they?utm_source=lootura.com) — 2026-09-01T08:46:21.000Z
-- [U.S. Strikes May Have Targeted a New Type of Iranian Naval Mine](https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html?utm_source=lootura.com) — 2026-08-31T21:19:38.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z
-- [U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad](https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html?utm_source=lootura.com) — 2026-09-01T09:03:01.000Z
+- [Oil prices rise again as U.S. renews Iran strikes](https://www.cbsnews.com/video/oil-prices-rise-again-as-us-renews-iran-strikes/?utm_source=lootura.com) — 2026-09-01T15:09:34.000Z
+- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
+- [U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad](https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html?utm_source=lootura.com) — 2026-09-01T15:04:17.000Z

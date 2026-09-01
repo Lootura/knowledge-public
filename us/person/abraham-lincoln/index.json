@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -18,6 +18,11 @@
     "Uncle Abe"
   ],
   "changes": [
+    {
+      "title": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
+      "summary": "The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
       "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.",
@@ -62,13 +67,15 @@
       "title": "Parent says son feels a sense of ‘powerlessness’ aboard USS Abraham Lincoln",
       "summary": "Growing concerns are emerging over conditions aboard the USS Abraham Lincoln as sailors and families report low morale, supply shortages and months without a port call. In an interview with NBC News’ Tom Llamas, one parent calls for answers, saying her son feels a sense of “powerlessness” while serving aboard the carri.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano).",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T10:14:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

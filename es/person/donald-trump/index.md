@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez](https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html?utm_source=lootura.com) — 2026-09-01T03:45:00.000Z
+- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z

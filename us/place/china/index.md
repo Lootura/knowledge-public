@@ -3,20 +3,26 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
 
-### Hindu pilgrims, on arduous trek, among Nepal's missing
-
-Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain (Image credit: Rajesh Kumar Singh).
-
-Date: 2026-09-01
-
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal
+
+While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
+
+Date: 2026-09-01
+
+### Hindu pilgrims, on arduous trek, among Nepal's missing
+
+Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain (Image credit: Rajesh Kumar Singh).
 
 Date: 2026-09-01
 
@@ -62,13 +68,7 @@ The practice would align the United States more closely with countries like Chin
 
 Date: 2026-08-13
 
-### Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs
-
-The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Hindu pilgrims, on arduous trek, among Nepal's missing](https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing?utm_source=lootura.com) — 2026-09-01T07:08:12.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z
+- [China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal](https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html?utm_source=lootura.com) — 2026-09-01T10:44:07.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias
+
+"José Antonio Choclán Montalvo, magistrado en excedencia, es uno de los abogados más prestigiosos de España. Desde hoy, también es mi jefe", anuncia la expolítica en sus redes sociales Julio Iglesias contrata al abogado Choclán y se prepara para una posible investigación en España La abogada del Estado y exdiputada de.
+
+Date: 2026-09-01
 
 ### Julio Iglesias, cantante español (82 años): «En 1970 di 41 conciertos en 41 ciudades españolas distintas en 30 días; fue mi etapa rockera»
 
@@ -58,4 +64,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias](https://www.eldiario.es/politica/exdiputada-vox-macarena-olona-incorpora-despacho-abogado-aldama-julio-iglesias_1_13479228.html?utm_source=lootura.com) — 2026-09-01T11:03:31.000Z

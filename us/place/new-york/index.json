@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -92,29 +92,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Suspect and female victim dead after Times Square stabbing spree",
-      "url": "https://www.nbcnews.com/nightly-news/video/suspect-and-female-victim-dead-after-times-square-stabbing-spree-269123653799?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T23:05:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "A NY hospital tried to close its birthing center. This city united to fight back",
       "url": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com",
       "publishedAt": "2026-09-01T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators",
-      "url": "https://phys.org/news/2026-09-sharks-ny-hamptons-trackers-toothy.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:50:03.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
-      "url": "https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:48:13.000Z",
-      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 2
 }

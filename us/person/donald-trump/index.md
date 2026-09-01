@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -26,57 +26,57 @@ The proposal was quickly embraced by Democrats, particularly in California, who 
 
 Date: 2026-09-01
 
-### Army Secretary Dan Driscoll is stepping down, White House says
-
-Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).
-
-Date: 2026-09-01
-
-### Days after Trump announces Venezuela oil deal, White House fills in some of the details
-
-As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).
-
-Date: 2026-09-01
-
-### Trump may need to save Paxton in Texas Senate race
-
-The News Republicans are counting on President Donald Trump’s cavalry to carry Ken Paxton to victory — but it hasn’t come yet. Ultimately, the GOP expects MAGA Inc. to help its Texas Senate nominee win with a significant spend this fall, according to multiple Republican sources, although even presidential super PAC don.
-
-Date: 2026-09-01
-
-### Opinion: The Trump administration is burying science and health care in paperwork
-
-If you have ever interacted with the federal government, it’s probably involved a lot of paperwork. According to the federal government’s own estimate, in 2023, 10,503 million hours were spent filling out paperwork across federal agencies. The amount of time that people spend trying to navigate government bureaucracy t.
-
-Date: 2026-09-01
-
-### Funding milestone detected
-
-Under the Trump administration, competition for government funding for biomedical research has reached new heights . In June, the National Institutes of Health proposed one solution : limiting the number of grants each individual scientist can have at a given moment. The agency recently released the anonymized 3,307 re.
-
-Date: 2026-09-01
-
-### As MAHA champions nutrition, it’s ignoring the experts, dietitians say
-
-WASHINGTON — Changing Americans’ nutrition has been among the Trump administration’s most prominent health policies since Robert F. Kennedy Jr. became health secretary. Officials have flipped the food pyramid to emphasize the role of protein in the diet, encouraged the public to cut back on highly processed foods, and.
-
-Date: 2026-09-01
-
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
 Date: 2026-09-01
 
+### Trump to meet with U.S. oil executives amid Pentagon infighting
+
+President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.
+
+Date: 2026-09-01
+
+### SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign
+
+Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.
+
+Date: 2026-09-01
+
+### Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms
+
+A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could "derail" the midterm election if courts allow it to proceed. (Image credit: George Frey).
+
+Date: 2026-09-01
+
+### SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns
+
+The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik).
+
+Date: 2026-09-01
+
+### Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms
+
+A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.
+
+Date: 2026-09-01
+
+### Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval
+
+CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.
+
+Date: 2026-09-01
+
 ## Sources
 
+- [Trump to meet with U.S. oil executives amid Pentagon infighting](https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com) — 2026-09-01T15:03:00.000Z
 - [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
-- [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
 - [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
-- [Army Secretary Dan Driscoll is stepping down, White House says](https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down?utm_source=lootura.com) — 2026-09-01T04:43:57.000Z
+- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
 - [Whatever happened to the U.S. famine alert system that Trump shut down, then reopened](https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net?utm_source=lootura.com) — 2026-08-31T20:42:17.000Z
-- [Trump officials cut political interference ban after unusual Census Bureau report](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity?utm_source=lootura.com) — 2026-08-31T22:24:12.000Z
-- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z
-- [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
-- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
-- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z
+- [Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms](https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com) — 2026-09-01T10:00:00.000Z
+- [SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns](https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting?utm_source=lootura.com) — 2026-09-01T11:23:46.000Z
+- [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T10:00:16.000Z
+- [How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com) — 2026-09-01T14:50:57.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z

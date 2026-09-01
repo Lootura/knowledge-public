@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/julio-iglesias/index.json",
   "description": "Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Iglesias",
     "Julio"
   ],
   "changes": [
+    {
+      "title": "La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias",
+      "summary": "\"José Antonio Choclán Montalvo, magistrado en excedencia, es uno de los abogados más prestigiosos de España. Desde hoy, también es mi jefe\", anuncia la expolítica en sus redes sociales Julio Iglesias contrata al abogado Choclán y se prepara para una posible investigación en España La abogada del Estado y exdiputada de.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Julio Iglesias, cantante español (82 años): «En 1970 di 41 conciertos en 41 ciudades españolas distintas en 30 días; fue mi etapa rockera»",
       "summary": "Julio Iglesias es, todavía hoy, el artista español que más discos ha colocado en el mundo cantando en idiomas distintos al suyo. Su imagen quedó asociada durante décadas al romanticismo , los trajes claros y las baladas cantadas casi al oído, pero antes de esa etapa hubo otra bastante distinta. En una de sus entrevista.",
@@ -55,6 +60,13 @@
       "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias",
+      "url": "https://www.eldiario.es/politica/exdiputada-vox-macarena-olona-incorpora-despacho-abogado-aldama-julio-iglesias_1_13479228.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T11:03:31.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

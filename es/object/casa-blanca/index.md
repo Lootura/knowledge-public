@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [La Casa Blanca confirma la “privatización” del sector petrolero venezolano con un contrato de un siglo](https://elpais.com/us/2026-09-01/la-casa-blanca-confirma-la-privatizacion-del-sector-petrolero-venezolano-con-un-contrato-de-un-siglo.html?utm_source=lootura.com) — 2026-09-01T03:13:17.000Z
-- [El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán](https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html?utm_source=lootura.com) — 2026-09-01T05:04:26.000Z
+No public source links.

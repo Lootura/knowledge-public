@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "Democrats"
   ],
@@ -82,19 +82,7 @@
       "url": "https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district?utm_source=lootura.com",
       "publishedAt": "2026-09-01T08:46:53.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:35:53.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Markey and other Massachusetts Democrats face primaries",
-      "url": "https://www.semafor.com/article/09/01/2026/markey-and-other-massachusetts-democrats-face-primaries?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:54:25.000Z",
-      "sourceId": "lootura-us-semafor"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

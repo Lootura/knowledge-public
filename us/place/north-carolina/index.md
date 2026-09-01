@@ -3,10 +3,22 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Funding milestone detected
+
+Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.
+
+Date: 2026-09-01
+
+### Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval
+
+CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.
+
+Date: 2026-09-01
 
 ### Global finance ministers gather in North Carolina for G-20 summit
 
@@ -58,4 +70,5 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Global finance ministers gather in North Carolina for G-20 summit](https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com) — 2026-09-01T08:46:27.000Z
+- [U.S. Treasury official on economic goals at G20 summit](https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com) — 2026-09-01T15:06:23.000Z
+- [Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval](https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com) — 2026-09-01T13:04:14.000Z

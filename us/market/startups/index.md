@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z
+No public source links.

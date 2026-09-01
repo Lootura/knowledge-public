@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### ‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity
+
+Girls Gone Bible is on tour in the US, touting a regressive ideal of femininity through discussions of abstinence and mental health struggles At first glance, the crowd gathering outside a music venue in Red Bank, New Jersey, could have passed for a group of sorority rush hopefuls – or Ella Langley fans on their way to.
+
+Date: 2026-09-01
 
 ### This Teen Helped Native American Students Earn Ham Radio Licenses
 
@@ -62,12 +68,6 @@ The body of a missing girl was found in the Passaic River in New Jersey after a 
 
 Date: 2026-08-01
 
-### 'Software Error' Led Hundreds of Noncitizens to Vote in NJ
-
-New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity](https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity?utm_source=lootura.com) — 2026-09-01T12:00:58.000Z

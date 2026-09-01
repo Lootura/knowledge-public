@@ -3,10 +3,16 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-06T02:22:17.328Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera
+
+​El Ejecutivo no suelta a Felipe VI y lo sigue usando como parapeto. La portavoz asegura que las relaciones entre la Moncloa y la Casa Real son «bu...
+
+Date: 2026-09-01
 
 ### El Rey recibirá este jueves al presidente de Ceuta en Palma
 
@@ -58,4 +64,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera](https://www.eldebate.com/espana/20260901/gobierno-atribuye-bulo-derecha-rey-quisiera-ceuta-sanchez-impidiera_454232.html?utm_source=lootura.com) — 2026-09-01T13:38:34.000Z

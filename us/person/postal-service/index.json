@@ -1,0 +1,51 @@
+{
+  "id": "usa-postal-service",
+  "name": "Postal Service",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/postal-service",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/postal-service",
+  "markdownUrl": "https://atlas.lootura.com/us/person/postal-service/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/postal-service/index.json",
+  "description": "Follow Postal Service, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed. (Image credit: George Frey).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
+      "summary": "A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Postal Service first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Whistleblower says USPS system Trump ordered for mail ballots is flawed and untested",
+      "url": "https://www.nbcnews.com/politics/elections/whistleblower-usps-systems-mail-ballots-flawed-rcna595361?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T10:00:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T10:00:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 4
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,11 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas",
+      "summary": "El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide \"extremar las cautelas\" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”",
       "summary": "“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.",
@@ -65,13 +70,15 @@
       "title": "Gómez Bermúdez: \"La corrupción no es erradicable, pero sí es claramente reducible\"",
       "summary": "El abogado Javier Gómez Bermúdez cree que hay que «afinar» la figura del colaborador de la Justicia, sus «consecuencias y límites». Tras la sentencia del Tribunal Supremo del «caso mascarillas» que rebajó la condena a Víctor de Aldama por su confesión, para quien fuera magistrado de la Audiencia Nacional y presidente d.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "El juez del \"caso cloacas\" no accede a que el fiscal Stampa sea perjudicado",
-      "summary": "El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas",
+      "url": "https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:14:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

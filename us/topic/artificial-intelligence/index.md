@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -17,6 +17,18 @@ Date: 2026-09-01
 ### AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market
 
 Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).
+
+Date: 2026-09-01
+
+### John Ternus is Apple's new CEO, replacing Tim Cook
+
+John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.
+
+Date: 2026-09-01
+
+### Nvidia’s DLSS 5, explained
+
+Lara Croft in Shadow of the Tomb Raider, with a DLSS 5 mod applied. | Screenshot by Sean Hollister / The Verge Nvidia knows that DLSS 5 left a bad first impression . In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the com.
 
 Date: 2026-09-01
 
@@ -56,21 +68,9 @@ AI-based "tissue clocks" can estimate the biological age of human organs from hi
 
 Date: 2026-08-14
 
-### Teens are turning to AI chatbots for emotional support—here's how to keep kids safe
-
-It's 2 a.m., and a teenage girl, worrying about an issue with a friend, lies awake. Rather than wake her parents, she picks up her phone, opens an AI app and types, "I'm so stressed out, I can't sleep.".
-
-Date: 2026-08-13
-
-### AI isn’t ready to research itself
-
-Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?](https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com) — 2026-09-01T09:10:09.015Z
+- [John Ternus is Apple's new CEO, replacing Tim Cook](https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com) — 2026-09-01T15:00:28.000Z
 - [Mysteries of the deep and AI friendship: Books in brief](https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com) — 2026-09-01T09:10:09.016Z
 - [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
-- [AI chatbot use for emotional support tied to loneliness in students](https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html?utm_source=lootura.com) — 2026-08-31T22:50:01.000Z
+- [Nvidia’s DLSS 5, explained](https://www.theverge.com/games/986980/nvidias-dlss-5-explained?utm_source=lootura.com) — 2026-09-01T13:00:00.000Z

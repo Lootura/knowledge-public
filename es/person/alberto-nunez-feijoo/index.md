@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
+
+El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.
+
+Date: 2026-09-01
 
 ### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
 
@@ -62,12 +68,6 @@ Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez p
 
 Date: 2026-08-03
 
-### Feijóo critica la situación de las calles de Ceuta mientras las mafias fletan lanchas a la península
-
-Mientras decenas de miles de personas abandonan Ceuta para regresar a Marruecos tras el fracaso de la entrada masiva, otros aún deambulan por las calles.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»](https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com) — 2026-09-01T14:45:03.000Z

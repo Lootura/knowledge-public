@@ -3,10 +3,16 @@
 > Follow Vice President, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/person/vice-president
 
 ## Recent changes
+
+### Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says
+
+No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.
+
+Date: 2026-09-01
 
 ### Army secretary leaves after clashes with Hegseth
 
@@ -20,20 +26,18 @@ In private remarks, Vice President JD Vance explained why he engages with some i
 
 Date: 2026-09-01
 
-### Army Secretary Dan Driscoll submits resignation to White House
-
-Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.
-
-Date: 2026-08-31
-
 ### Discovered by Atlas
 
 Vice President first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-31
 
+### Army Secretary Dan Driscoll submits resignation to White House
+
+Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.
+
+Date: 2026-08-31
+
 ## Sources
 
-- [Army Secretary Dan Driscoll submits resignation to White House](https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com) — 2026-08-31T23:19:30.000Z
-- [Army secretary leaves after clashes with Hegseth](https://www.semafor.com/article/09/01/2026/army-secretary-leaves-after-clashes-with-hegseth?utm_source=lootura.com) — 2026-09-01T08:51:39.000Z
-- [Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives](https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html?utm_source=lootura.com) — 2026-09-01T06:33:06.000Z
+- [Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says](https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says?utm_source=lootura.com) — 2026-09-01T14:43:33.000Z

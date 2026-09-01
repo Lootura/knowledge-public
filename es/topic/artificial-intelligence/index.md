@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Los consultores se enfrentan a sus propios clientes por la IA](https://www.expansion.com/economia/financial-times/2026/09/01/6a968662e5fdea04498b4582.html?utm_source=lootura.com) — 2026-09-01T08:06:59.000Z
+- [La Junta busca con el sector agrario una posición unánime sobre la PAC](https://www.larazon.es/andalucia/junta-busca-sector-agrario-posicion-unanime-pac_202609016a96f4c03bfe5d1eff3f6121.html?utm_source=lootura.com) — 2026-09-01T15:55:14.000Z

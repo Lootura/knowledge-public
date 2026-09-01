@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio
+
+La Comunidad de Madrid redujo de forma significativa durante el mes de julio el número de pacientes pendientes de una primera consulta o de una prueba diagnóstica. En conjunto, las listas de espera estructurales de ambas categorías sumaron 37.977 pacientes menos, lo que supone una reducción del 4,4% respecto a junio, s.
+
+Date: 2026-09-01
 
 ### Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos
 
@@ -62,12 +68,6 @@ Planifica Madrid pone a la venta el ático de lujo por 6,7 millones de euros y e
 
 Date: 2026-08-07
 
-### La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros
-
-La Comunidad de Madrid, a través de la empresa pública Planifica Madrid, ha publicado este viernes la venta del ático de Chamberí, ubicado en la calle General Martínez Campos, por 6,69 millones de euros, sin impuestos, según el anuncio firmado por el consejero delegado de la empresa pública, Pedro Corbalán Ruiz Seguir.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio](https://theobjective.com/sanidad/2026-09-01/madrid-reduce-pacientes-listas-de-espera/?utm_source=lootura.com) — 2026-09-01T13:14:06.000Z

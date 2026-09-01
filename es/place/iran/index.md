@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos
+
+Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
+
+Date: 2026-09-01
 
 ### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
 
@@ -62,16 +68,7 @@ El mercado petrolero se está volviendo a recalentar con la segunda fase de la g
 
 Date: 2026-08-12
 
-### Irán nombra a un halcón al frente del Consejo de Seguridad en pleno pulso por Ormuz
-
-Los expertos apuntan que los cambios también buscan crear un contrapeso en el aparato del régimen, ante la creciente influencia de Mohammad Bagher Qalibaf, que lidera las negociaciones con Washington Leer.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
-- [Irán refuerza su aparato represivo con el regreso del "carnicero" Hossein Taeb, un veterano de inteligencia](https://www.elmundo.es/internacional/2026/08/31/6a95a5afe4d4d87e298b4575.html?utm_source=lootura.com) — 2026-08-31T20:46:54.000Z
-- [El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán](https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html?utm_source=lootura.com) — 2026-09-01T05:04:26.000Z
-- [Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza](https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com) — 2026-09-01T00:04:35.000Z
-- [El Ibex se aleja de los 20.000](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T09:05:47.000Z
+- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T15:40:36.000Z

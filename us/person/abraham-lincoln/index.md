@@ -3,10 +3,16 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says
+
+The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
+
+Date: 2026-09-01
 
 ### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
 
@@ -62,12 +68,6 @@ Growing concerns are emerging over conditions aboard the USS Abraham Lincoln as 
 
 Date: 2026-08-14
 
-### New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln
-
-The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano).
-
-Date: 2026-08-14
-
 ## Sources
 
-No public source links.
+- [U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says](https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html?utm_source=lootura.com) — 2026-09-01T10:14:44.000Z

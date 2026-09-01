@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval
+
+CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.
+
+Date: 2026-09-01
 
 ### Global finance ministers gather in North Carolina for G-20 summit
 
@@ -17,12 +29,6 @@ Date: 2026-09-01
 ### A Factory in Rural Ireland Is at the Center of a Dispute Over Russia
 
 Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
-
-Date: 2026-09-01
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
 Date: 2026-09-01
 
@@ -62,14 +68,7 @@ Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, wh
 
 Date: 2026-08-13
 
-### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
-
-Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Global finance ministers gather in North Carolina for G-20 summit](https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com) — 2026-09-01T08:46:27.000Z
-- [A Factory in Rural Ireland Is at the Center of a Dispute Over Russia](https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html?utm_source=lootura.com) — 2026-09-01T09:00:29.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
+- [Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval](https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com) — 2026-09-01T13:04:14.000Z

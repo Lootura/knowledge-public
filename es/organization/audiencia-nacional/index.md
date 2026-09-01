@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
+
+El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide "extremar las cautelas" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.
+
+Date: 2026-09-01
 
 ### Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”
 
@@ -62,12 +68,6 @@ El abogado Javier Gómez Bermúdez cree que hay que «afinar» la figura del col
 
 Date: 2026-08-09
 
-### El juez del "caso cloacas" no accede a que el fiscal Stampa sea perjudicado
-
-El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiago Pedraz, rechaza la personación del fiscal Ignacio Stampa como perjudicado y para ejercer la acusación particular, según ha podido saber en primicia LA RAZÓN. El instructor no accede a la solicitud de este profesional del Ministerio Público.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas](https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com) — 2026-09-01T09:14:00.000Z

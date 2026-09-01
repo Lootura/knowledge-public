@@ -40,4 +40,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles](https://www.larazon.es/lifestyle/moda/nicole-kidman-estrena-nueva-era-versace-junto-sandra-bullock-alfombra-roja-angeles_202609016a9676ff3bfe5d1eff3eb1d3.html?outputType=amp&utm_source=lootura.com) — 2026-09-01T09:05:14.000Z
+No public source links.

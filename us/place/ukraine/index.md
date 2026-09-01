@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Sources
 
-- [A Factory in Rural Ireland Is at the Center of a Dispute Over Russia](https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html?utm_source=lootura.com) — 2026-09-01T09:00:29.000Z
+No public source links.

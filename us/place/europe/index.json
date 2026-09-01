@@ -8,17 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
-    {
-      "title": "New policy brief outlines how EU policies can better support sponge restoration",
-      "summary": "Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, \"Achi.",
-      "date": "2026-09-01"
-    },
     {
       "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
       "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
@@ -27,6 +22,11 @@
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "New policy brief outlines how EU policies can better support sponge restoration",
+      "summary": "Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, \"Achi.",
       "date": "2026-09-01"
     },
     {
@@ -67,23 +67,17 @@
   ],
   "sources": [
     {
-      "title": "New policy brief outlines how EU policies can better support sponge restoration",
-      "url": "https://phys.org/news/2026-08-policy-outlines-eu-policies-sponge.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T03:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
       "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:32.000Z",
+      "publishedAt": "2026-09-01T10:59:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:51:03.000Z",
+      "publishedAt": "2026-09-01T13:30:10.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

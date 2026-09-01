@@ -3,10 +3,16 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-07T12:57:16.248Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
+
+### What Trump's Most-Favored-Nation Deal Means for Drug Prices
+
+President Donald Trump speaks in the Oval Office of the White House on Aug. 31, 2026. —Annabelle Gordon/CNP/Bloomberg—Getty Images The Trump Administration on Aug. 31 announced that nine mid-sized pharmaceutical companies had agreed to lower the prices that Medicaid programs pay for drugs, bringing the total number of.
+
+Date: 2026-09-01
 
 ### Trump Seeks to Restrict Birthright Citizenship With New Orders
 
@@ -58,4 +64,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [What Trump's Most-Favored-Nation Deal Means for Drug Prices](https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/?utm_source=lootura.com) — 2026-09-01T12:09:16.000Z

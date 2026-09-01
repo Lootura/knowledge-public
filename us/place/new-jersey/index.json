@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity",
+      "summary": "Girls Gone Bible is on tour in the US, touting a regressive ideal of femininity through discussions of abstinence and mental health struggles At first glance, the crowd gathering outside a music venue in Red Bank, New Jersey, could have passed for a group of sorority rush hopefuls – or Ella Langley fans on their way to.",
+      "date": "2026-09-01"
+    },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
       "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South , in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities.",
@@ -67,13 +72,15 @@
       "title": "Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says",
       "summary": "The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
-      "summary": "New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T12:00:58.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

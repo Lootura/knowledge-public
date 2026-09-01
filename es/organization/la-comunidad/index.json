@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio",
+      "summary": "La Comunidad de Madrid redujo de forma significativa durante el mes de julio el número de pacientes pendientes de una primera consulta o de una prueba diagnóstica. En conjunto, las listas de espera estructurales de ambas categorías sumaron 37.977 pacientes menos, lo que supone una reducción del 4,4% respecto a junio, s.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos",
       "summary": "La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.",
@@ -58,13 +63,15 @@
       "title": "Las fichas con imágenes y planos del ático de Chamberí y el piso de Gran Vía puestos a la venta por la Comunidad de Madrid",
       "summary": "Planifica Madrid pone a la venta el ático de lujo por 6,7 millones de euros y el inmueble de Gran Vía, para el que ya intentó encontrar comprador sin éxito en el pasado, por 11,8 millones La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones La Comunidad de Madrid ha puesto a la venta el.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
-      "summary": "La Comunidad de Madrid, a través de la empresa pública Planifica Madrid, ha publicado este viernes la venta del ático de Chamberí, ubicado en la calle General Martínez Campos, por 6,69 millones de euros, sin impuestos, según el anuncio firmado por el consejero delegado de la empresa pública, Pedro Corbalán Ruiz Seguir.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio",
+      "url": "https://theobjective.com/sanidad/2026-09-01/madrid-reduce-pacientes-listas-de-espera/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:14:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
+
+Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
+
+Date: 2026-09-01
 
 ### Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete
 
@@ -62,12 +68,6 @@ Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde un
 
 Date: 2026-08-04
 
-### La localidad de Castilla-La Mancha donde se guarda una curiosa reliquia vinculada a Santa Teresa
-
-Villarrubia de Santiago , en la provincia de Toledo, conserva una de las historias más curiosas relacionadas con Santa Teresa de Jesús . En el interior de la iglesia de San Bartolomé se guarda un antiguo baúl que, según la tradición, perteneció a la santa y quedó olvidado en la localidad durante uno de sus viajes por C.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z

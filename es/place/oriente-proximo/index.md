@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008
+
+Los últimos datos de inflación al alza, la guerra en Oriente Próximo y las previsibles subidas de tipos del BCE y la Fed han desatado el miedo entre los inversores ha quedarse 'pillados' en bonos a largo plazo de EEUU, Japón o Reino Unido Leer.
+
+Date: 2026-09-01
+
+### El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos
+
+Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
+
+Date: 2026-09-01
 
 ### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
 
@@ -56,20 +68,7 @@ Dicho contrato, del tipo EPC (ingeniería, aprovisionamiento, construcción y pu
 
 Date: 2026-08-13
 
-### Cómo los mapas han definido el 2026
-
-El intervencionismo estadounidense, la guerra en Oriente Próximo o la crisis migratoria en Ceuta tienen un trasfondo cartográfico.
-
-Date: 2026-08-12
-
-### El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte
-
-El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií](https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com) — 2026-09-01T06:00:00.000Z
-- [Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza](https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com) — 2026-09-01T00:04:35.000Z
-- [El Ibex se aleja de los 20.000](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T09:05:47.000Z
+- [El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008](https://www.elmundo.es/economia/dinero-inversion/2026/09/01/6a96d42bfdddffd3658b45a6.html?utm_source=lootura.com) — 2026-09-01T14:12:00.000Z
+- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T15:40:36.000Z

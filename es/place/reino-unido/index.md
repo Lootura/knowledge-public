@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [La venta masiva de bonos a nivel mundial se agudiza ante los temores inflacionarios](https://www.expansion.com/economia/financial-times/2026/09/01/6a969ec3468aeb0d5d8b4572.html?utm_source=lootura.com) — 2026-09-01T09:47:25.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Messi, el rey que abdica
+
+Leo Messi le dice adiós a la Selección Argentina . “Me voy vacío”, dice su nota de despedida. “Nos deja lleno”, digo en representación de todos los que amamos el fútbol. Se despide de la camiseta más sufriente, querida y gloriosa para él. Deja el refugio preferido para mí, el lugar en el que podía disfrutarlo sin culpa.
+
+Date: 2026-09-01
 
 ### Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»
 
@@ -62,14 +68,6 @@ La aportación del futbolista argentino se destinará a la recuperación de los 
 
 Date: 2026-08-04
 
-### Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios
-
-La presidenta madrileña quiere agradecer personalmente al argentino este gesto: "Esperamos recibirle pronto para darle el aplauso que se merece" Leer.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”](https://elpais.com/argentina/2026-08-31/los-argentinos-despiden-a-messi-de-su-seleccion-con-tristeza-y-reconocimiento-gracias-eternas-leo.html?utm_source=lootura.com) — 2026-08-31T18:44:49.000Z
-- [Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”](https://elpais.com/deportes/futbol/2026-08-31/leo-messi-se-retira-de-la-seleccion-argentina-duele-en-el-alma-pero-entiendo-que-es-el-momento.html?utm_source=lootura.com) — 2026-08-31T19:47:39.000Z
-- [Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»](https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com) — 2026-09-01T08:45:44.000Z
+- [Messi, el rey que abdica](https://elpais.com/deportes/futbol/2026-09-01/messi-el-rey-que-abdica.html?utm_source=lootura.com) — 2026-09-01T15:46:49.000Z

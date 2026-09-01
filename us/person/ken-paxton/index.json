@@ -11,14 +11,15 @@
   "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Ken Paxton Jr.",
-    "Warren Kenneth Paxton Jr.",
-    "W. Kenneth Paxton Jr.",
-    "Warren Kenneth Paxton, Jr.",
     "Ken Paxton, Jr.",
+    "Paxton",
+    "W. Kenneth Paxton Jr.",
     "Warren Kenneth Paxton",
+    "Warren Kenneth Paxton Jr.",
+    "Warren Kenneth Paxton, Jr.",
     "Warren Paxton",
-    "Warren Paxton, Jr.",
-    "Warren Paxton Jr."
+    "Warren Paxton Jr.",
+    "Warren Paxton, Jr."
   ],
   "changes": [
     {
@@ -32,19 +33,6 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [
-    {
-      "title": "Paxton allies launch $15 million ad campaign",
-      "url": "https://www.politico.com/news/2026/08/31/ken-paxton-ad-campaign-01057911?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T21:55:45.000Z",
-      "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "Trump may need to save Paxton in Texas Senate race",
-      "url": "https://www.semafor.com/article/09/01/2026/trump-may-need-to-save-paxton-in-texas-senate-race?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:51:02.000Z",
-      "sourceId": "lootura-us-semafor"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T17:26:26.730Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El PP acusa a Sánchez de tener una estrategia para \"atacar\" a Felipe VI y \"no enfadar\" a Marruecos",
+      "summary": "Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un \"respeto\" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Tellado acusa al Gobierno de denegar el auxilio a Ceuta y le responsabiliza de 150 muertes",
       "summary": "El secretario general del PP, Miguel Tellado, ha dicho que será la Audiencia Nacional la que dilucide responsabilidades judiciales y penales sobre lo ocurrido en Ceuta , pero ha acusado al Gobierno de denegar el auxilio a una comunidad autónoma y le ha responsabilizado de una «avalancha» con 150 muertos. Tellado ha hec.",
@@ -55,13 +60,15 @@
       "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
       "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
-      "summary": "Alberto Núñez Feijóo continúa en Ceuta este domingo y se ha reunido con asociaciones de la Guardia Civil y sindicatos de Policía en la sede del PP de la ciudad autónoma. En paralelo, Miguel Tellado, secretario general del partido, ha ahondado en la idea de culpar al Gobierno de lo ocurrido y también ha querido advertir.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP acusa a Sánchez de tener una estrategia para \"atacar\" a Felipe VI y \"no enfadar\" a Marruecos",
+      "url": "https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T12:45:58.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

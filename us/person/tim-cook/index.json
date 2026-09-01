@@ -1,0 +1,47 @@
+{
+  "id": "usa-tim-cook",
+  "name": "Tim Cook",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/tim-cook",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/tim-cook",
+  "markdownUrl": "https://atlas.lootura.com/us/person/tim-cook/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/tim-cook/index.json",
+  "description": "Follow Tim Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "aliases": [
+    "Tim Apple"
+  ],
+  "changes": [
+    {
+      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
+      "summary": "John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "John Ternus takes over as Apple’s new CEO",
+      "summary": "John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus . How will we look back on Cook’s legacy, and what will Apple look like under the leade.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tim Cook first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
+      "url": "https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:00:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "John Ternus takes over as Apple’s new CEO",
+      "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:28:43.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -48,6 +48,16 @@
       "date": "2026-09-01"
     },
     {
+      "title": "El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE",
+      "summary": "La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
+      "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
+      "date": "2026-09-01"
+    },
+    {
       "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
       "summary": "La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.",
       "date": "2026-09-01"
@@ -81,35 +91,19 @@
       "title": "Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: \"Lo vieron en España, ¿verdad?\"",
       "summary": "El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. \" Lo vie.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
-      "summary": "El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare",
-      "summary": "Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad",
-      "url": "https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T19:10:58.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:09:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
-      "url": "https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T06:00:00.000Z",
-      "sourceId": "lootura-es-el-orden-mundial"
-    },
-    {
-      "title": "El Ibex se aleja de los 20.000",
+      "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:05:47.000Z",
+      "publishedAt": "2026-09-01T15:40:36.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {

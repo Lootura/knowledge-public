@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -74,6 +74,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "La venta masiva de bonos a nivel mundial se agudiza ante los temores inflacionarios",
+      "url": "https://www.expansion.com/economia/financial-times/2026/09/01/6a969ec3468aeb0d5d8b4572.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:47:25.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
   "evidenceCount": 0
 }

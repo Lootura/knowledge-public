@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
+
+El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide "extremar las cautelas" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.
+
+Date: 2026-09-01
+
+### La 'rebelión' imparable de los alcaldes del PSOE: al menos 36 se manifestarán por Ceuta en contra de las órdenes de Sánchez
+
+Los "versos sueltos" (los llamó así la portavoz, Montse Mínguez) dentro del PSOE que acudirán este miércoles a concentraciones en apoyo a Ceuta en contra de las...
+
+Date: 2026-09-01
+
+### Más Madrid y el PSOE se personan en la causa del ático comprado por el Gobierno de Ayuso
+
+Ambos partidos solicitan formar parte del procedimiento tras las denuncias presentadas por Iustitia Europa y el PSOE y que ya están en manos del Juzgado La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso El PSOE y Más Madrid se han presentado como acusaci.
+
+Date: 2026-09-01
+
+### Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE
+
+Ceuta encara septiembre con la crisis migratoria todavía abierta un mes después de la entrada masiva registrada desde Marruecos. El Gobierno cifra en unas 5.000 las personas que permanecen en la ciudad autónoma , mientras continúan las devoluciones y se amplían los recursos de acogida para aliviar la situación en disti.
+
+Date: 2026-09-01
+
+### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
+
+Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
+
+Date: 2026-09-01
 
 ### El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción
 
@@ -38,40 +68,10 @@ El PP ha pedido a las delegaciones del Gobierno que «dejen de prohibir» concen
 
 Date: 2026-09-01
 
-### Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno
-
-La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.
-
-Date: 2026-08-14
-
-### El chavismo se fractura tras la captura de Maduro y los terremotos
-
-El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.
-
-Date: 2026-08-14
-
-### Deserción masiva en el PSOE de Huelva, el feudo socialista que parecía inexpugnable
-
-Cerca de 70 concejales han abandonado desde las municipales de 2023, nueve de ellos en la capital Leer.
-
-Date: 2026-08-14
-
-### El último golpe a la credibilidad de Sumar: su bandera verde se hunde con el PSOE en Almaraz
-
-El acuerdo de gobierno es taxativo sobre el cierre de las nucleares desde 2027 Leer.
-
-Date: 2026-08-14
-
-### Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno
-
-El grupo confederal pide mantener el calendario de cierre acordado y lamenta seguir un "camino irresponsable": "No podemos seguir el camino de la derecha y la extrema derecha" El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2030 por “el conflicto en Oriente Medio” Sumar ha rechazado la prórro.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción](https://www.elconfidencial.com/espana/2026-09-01/cgpj-bloqueo-renovacion-salas-clave-supremo_4399377/?utm_source=lootura.com) — 2026-09-01T03:00:00.000Z
-- [El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias](https://www.eldiario.es/politica/psoe-reclama-juez-caso-leire-diez-fiscalia-pueda-ver-rastreo-cuentas-bancarias_1_13478440.html?utm_source=lootura.com) — 2026-09-01T08:35:48.000Z
-- [Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE](https://www.larazon.es/espana/crisis-migratoria-ceuta-directo-ultima-hora-manifestaciones-enfrentamientos_202609016a96613a4941316b1e7301c7.html?outputType=amp&utm_source=lootura.com) — 2026-09-01T09:09:06.000Z
-- [Moguer, gobernado por el PSOE, se suma a las concentraciones por Ceuta](https://www.larazon.es/andalucia/moguer-gobernado-psoe-suma-concentraciones-ceuta_202609016a9694272d7d3022177a3423.html?utm_source=lootura.com) — 2026-09-01T09:00:23.000Z
-- [El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta](https://theobjective.com/espana/politica/2026-09-01/pp-reclama-gobierno-prohibir-concentraciones-apoyo-ceuta/?utm_source=lootura.com) — 2026-09-01T08:52:44.000Z
+- [El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas](https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com) — 2026-09-01T09:14:00.000Z
+- [La 'rebelión' imparable de los alcaldes del PSOE: al menos 36 se manifestarán por Ceuta en contra de las órdenes de Sánchez](https://amp.elmundo.es/espana/2026/09/01/6a96cbfffdddff325b8b457a.html?utm_source=lootura.com) — 2026-09-01T13:41:27.000Z
+- [Más Madrid y el PSOE se personan en la causa del ático comprado por el Gobierno de Ayuso](https://www.eldiario.es/madrid/madrid-persona-causa-atico-comprado-gobierno-ayuso_1_13478696.html?utm_source=lootura.com) — 2026-09-01T09:14:48.000Z
+- [Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE](https://www.larazon.es/espana/crisis-migratoria-ceuta-directo-ultima-hora-manifestaciones-enfrentamientos_202609016a96613a4941316b1e7301c7.html?utm_source=lootura.com) — 2026-09-01T15:45:39.000Z
+- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z

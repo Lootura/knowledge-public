@@ -3,10 +3,16 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
+
+### Alcaraz y la bendita sensación de la normalidad: “Si me dicen que vaya a ‘full’, yo voy a ir a ‘full”
+
+Cuatro meses y medio pueden suponer mucho o poco tiempo, según se mire. Según la percepción. En el caso de Carlos Alcaraz, el murciano considera que son una franja lo suficientemente amplia como para que haya olvidado ciertas rutinas. “Ha sido como si se me hubiera olvidado cómo es un día de partido. Estaba calentando.
+
+Date: 2026-09-01
 
 ### La frase de Carlos Alcaraz aplaudida por todos los psicólogos: «La felicidad ya es éxito»
 
@@ -34,4 +40,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Alcaraz y la bendita sensación de la normalidad: “Si me dicen que vaya a ‘full’, yo voy a ir a ‘full”](https://elpais.com/deportes/tenis/2026-09-01/alcaraz-y-la-bendita-sensacion-de-la-normalidad-si-me-dicen-que-vaya-a-full-yo-voy-a-ir-a-full.html?utm_source=lootura.com) — 2026-09-01T06:50:14.000Z

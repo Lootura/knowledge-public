@@ -52,4 +52,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail](https://www.pbs.org/newshour/nation/at-91-dale-grey-beard-sanders-reclaims-record-as-oldest-hiker-to-complete-the-appalachian-trail?utm_source=lootura.com) — 2026-08-31T22:00:34.000Z
+No public source links.

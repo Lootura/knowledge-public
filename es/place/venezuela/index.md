@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez](https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html?utm_source=lootura.com) — 2026-09-01T03:45:00.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -38,45 +38,45 @@ The Trump administration's plan to take a stake in tens of billions of barrels o
 
 Date: 2026-09-01
 
-### Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
-Listening to most of the media and Canada ’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took e.
-
-Date: 2026-09-01
-
-### Global finance ministers gather in North Carolina for G-20 summit
-
-The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
 Date: 2026-09-01
 
-### Days after Trump announces Venezuela oil deal, White House fills in some of the details
+### U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad
 
-As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).
-
-Date: 2026-09-01
-
-### The U.S. wants others to join its economic pressure campaign against Iran. Will they?
-
-NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.
+The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
 
 Date: 2026-09-01
 
-### Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives
+### Funding milestone detected
 
-In private remarks, Vice President JD Vance explained why he engages with some influencers accused of antisemitism. He also urged the audience to help articulate why a strong relationship with Israel is in America’s interest.
+Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.
+
+Date: 2026-09-01
+
+### Trump to meet with U.S. oil executives amid Pentagon infighting
+
+President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.
+
+Date: 2026-09-01
+
+### Oil prices rise again as U.S. renews Iran strikes
+
+Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.
 
 Date: 2026-09-01
 
 ## Sources
 
+- [U.S. Treasury official on economic goals at G20 summit](https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com) — 2026-09-01T15:06:23.000Z
+- [Trump to meet with U.S. oil executives amid Pentagon infighting](https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com) — 2026-09-01T15:03:00.000Z
+- [Oil prices rise again as U.S. renews Iran strikes](https://www.cbsnews.com/video/oil-prices-rise-again-as-us-renews-iran-strikes/?utm_source=lootura.com) — 2026-09-01T15:09:34.000Z
 - [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
 - [Could an American win men's singles at this year's U.S. Open?](https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com) — 2026-09-01T00:50:06.000Z
-- [Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish](https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [Daily fragment: TWA Flight 529](https://en.wikipedia.org/wiki/TWA_Flight_529?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z
-- [Army Secretary Dan Driscoll submits resignation to White House](https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com) — 2026-08-31T23:19:30.000Z
 - [Whatever happened to the U.S. famine alert system that Trump shut down, then reopened](https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net?utm_source=lootura.com) — 2026-08-31T20:42:17.000Z
-- [Global finance ministers gather in North Carolina for G-20 summit](https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com) — 2026-09-01T08:46:27.000Z
-- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z
-- [The U.S. wants others to join its economic pressure campaign against Iran. Will they?](https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they?utm_source=lootura.com) — 2026-09-01T08:46:21.000Z
-- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z
+- [Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms](https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com) — 2026-09-01T10:00:00.000Z
+- [Ice island survives run-in with Joe Island](https://phys.org/news/2026-09-ice-island-survives-joe.html?utm_source=lootura.com) — 2026-09-01T16:00:05.000Z
+- [‘Led us down such a dark path’: documentary explores how 9/11 changed America](https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point?utm_source=lootura.com) — 2026-09-01T11:00:03.000Z

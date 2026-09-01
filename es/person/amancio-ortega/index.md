@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### La reflexión de Amancio Ortega (90 años) sobre su vida: «No tenía tiempo para estudiar porque trabajaba las 24 horas del día»
+
+Amancio Ortega , a sus 90 años, es una de las personas más ricas del mundo. El fundador de Inditex ocupa la décima posición en la lista de multimillonarios en tiempo real de Forbes , con una fortuna estimada en unos 149.000 millones de dólares . En 1990, la periodista Covadonga O’Shea viajó hasta Arteixo para conocer p.
+
+Date: 2026-09-01
 
 ### Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings
 
@@ -62,12 +68,6 @@ Amancio Ortega first entered the public knowledge record with source-backed evid
 
 Date: 2026-07-23
 
-### Sandra Ortega ganó 307 millones con su holding empresarial gracias al alza de dividendos de Inditex
-
-Sandra Ortega, primogénita del principal accionista de Inditex, Amancio Ortega , y segunda mayor inversora a título individual del gigante textil, alcanzó unos beneficios de 307 millones de euros en 2025 a través de su holding empresarial Rosp Corunna. A través de este posee el 5,05% del capital del grupo gallego, adem.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [La reflexión de Amancio Ortega (90 años) sobre su vida: «No tenía tiempo para estudiar porque trabajaba las 24 horas del día»](https://okdiario.com/economia/reflexion-amancio-ortega-90-anos-sobre-vida-no-tenia-tiempo-estudiar-porque-trabajaba-24-horas-del-dia-20208116?utm_source=lootura.com) — 2026-09-01T16:00:04.000Z

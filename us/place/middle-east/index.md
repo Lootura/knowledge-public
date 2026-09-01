@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Thai police crackdown on sex workers ahead of USS Lincoln’s arrival
+
+Police in Pattaya, Thailand, are intensifying a crackdown on sex workers ahead of the arrival of the USS Lincoln after the aircraft carrier’s lengthy deployment in the Middle East. While prostitution is illegal in Thailand, sex workers often operate openly in major tourist hubs like Bangkok and Pattaya.
+
+Date: 2026-09-01
 
 ### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
 
@@ -62,12 +68,6 @@ A multinational maritime coalition was recently formed to secure international t
 
 Date: 2026-08-11
 
-### Trump Wants to Move On From the Middle East. It’s Not Letting Him.
-
-President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [Thai police crackdown on sex workers ahead of USS Lincoln’s arrival](https://www.nbcnews.com/video/thai-police-crackdown-on-sex-workers-ahead-of-uss-lincoln-s-arrival-269144133971?utm_source=lootura.com) — 2026-09-01T10:05:52.000Z

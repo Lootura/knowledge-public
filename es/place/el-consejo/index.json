@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos",
+      "summary": "El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
+      "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente",
+      "summary": "Ceuta sigue concentrando los esfuerzos del Gobierno . El Consejo de Ministros ha aprobado este martes un real decreto ley con medidas urgentes para revitalizar su economía dotado con 309 millones de euros para lo que resta de año. Esa cantidad, en la que están incluidas partidas para reforzar los servicios esenciales,.",
+      "date": "2026-09-01"
+    },
     {
       "title": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
       "summary": "A pesar de la firme oposición de los médicos, que han amenazado con convocar una huelga indefinida durante el otoño , el Consejo de Ministros dará luz verde este martes al proyecto de ley del Estatuto Marco, la norma que regula las condiciones laborales del personal que trabaja en el sistema sanitario, ha confirmado Ef.",
@@ -45,30 +60,27 @@
       "title": "El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía",
       "summary": "Imposible poner el piloto automático en la política monetaria cuando la geopolítica tiene subidos en una montaña rusa a los precios de las materias primas. El Consejo de Gobierno del Banco Central Europeo se reúne hoy en un entorno bien diferente al de la pasada cita de junio, cuando decidió la primera subida de tipos.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "El Consejo first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "La nueva ley del tabaco prohíbe fumar a los menores y hacerlo en playas, terrazas y campus universitarios",
-      "summary": "El Consejo de Ministros ha aprobado este martes el proyecto de la ley del tabaco , que amplía los espacios sin humo para incluir playas y terrazas, entre otros, y endurece la legislación para vapeadores y otros dispositivos. El texto impulsado por el Ministerio de Sanidad será remitido posteriormente a las Cortes para.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "El Gobierno pone límites a los niños 'influencers' tras aparcar la norma de la IA",
-      "summary": "El Consejo de Ministros aprobó este martes el decreto que actualiza la relación laboral especial de los artistas y del personal técnico, y que incorpora algunas de las reivindicaciones previstas en el Estatuto del Artista. La norma, elaborada por el Ministerio de Trabajo junto con el de Cultura regula el trabajo de los.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [
     {
-      "title": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
-      "url": "https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T07:49:23.000Z",
+      "title": "El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos",
+      "url": "https://www.abc.es/economia/gobierno-nombra-leire-iglesias-secretaria-estado-vivienda-20260901164938-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:16:58.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
+      "url": "https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:31:23.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente",
+      "url": "https://theobjective.com/espana/politica/2026-09-01/gobierno-millones-ceuta-rebaja-fiscal/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T12:57:27.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

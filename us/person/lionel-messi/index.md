@@ -34,4 +34,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
+No public source links.

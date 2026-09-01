@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,16 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Las Euskal Jaiak toman Donostia las próximas dos semanas",
+      "summary": "Además del Sagardo Eguna y el Gaztelu Eguna del sábado 5, destacan en el programa el recuerdo a la bailarina María Elena Arizmendi y el acto de canto coral 'Kantuz'.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta",
+      "summary": "La actriz española Carmen Sevilla en el Festival de San Sebastián de 1956. Paco Marí / Kutxa Fototeka , CC BY-SA La muerte del sociólogo y filósofo francés Edgar Morin invita a recuperar una de sus aportaciones más sugerentes al estudio de la cultura contemporánea: su análisis del estrellato cinematográfico como expres.",
+      "date": "2026-09-01"
+    },
     {
       "title": "El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro",
       "summary": "La 74ª edición del Festival de San Sebastián suma seis nuevos largometrajes a su Sección Oficial , una selección que mezcla cine de autor, primeras obras y nombres ya consolidados. Las películas de Fred Cavayé , Jesse Eisenberg , Amanda Kernell y Gabriel Martins , junto a los debuts de Ah Biao y Tony Vahl , competirán.",
@@ -59,18 +69,21 @@
       "title": "Así se ha vivido el eclipse en Gipuzkoa",
       "summary": "Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito astronómico único.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "¿Qué nota les das a los fuegos artificiales de este martes en la Semana Grande de San Sebastián?",
-      "summary": "Valora la propuesta de Phoenix Fireworks y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Donostia aprueba la ampliación de hasta 416 comidas diarias a personas en situación de calle",
-      "summary": "El Ayuntamiento destinará hasta medio millón de euros al programa de Acción Social facilitando que se repartan 100 comidas más que hasta ahora.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las Euskal Jaiak toman Donostia las próximas dos semanas",
+      "url": "https://www.diariovasco.com/san-sebastian/euskal-jaiak-toman-donostia-proximas-dos-semanas-20260901133015-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T11:30:15.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta",
+      "url": "https://theconversation.com/por-que-carmen-sevilla-fue-una-estrella-edgar-morin-y-el-imaginario-de-la-espana-de-los-cincuenta-285983?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:54:32.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -40,7 +40,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Kalshi permanently bans George Santos after he secretly bet on himself](https://www.nbcnews.com/now/video/kalshi-permanently-bans-george-santos-after-he-secretly-bet-on-himself-269105221531?utm_source=lootura.com) — 2026-08-31T16:56:17.000Z
-- [Kalshi bans former congressman George Santos for life after State of the Union trades](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets?utm_source=lootura.com) — 2026-08-31T20:21:47.000Z
-- [More Kalshi politician bans could be coming](https://www.semafor.com/article/09/01/2026/more-kalshi-politician-bans-could-be-coming?utm_source=lootura.com) — 2026-09-01T08:53:54.000Z
-- [Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why](https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com) — 2026-08-31T22:48:13.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### How the Supreme Court Locks Away Its Own History
 
 After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.
+
+Date: 2026-09-01
+
+### SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign
+
+Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.
+
+Date: 2026-09-01
+
+### SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns
+
+The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik).
 
 Date: 2026-09-01
 
@@ -56,21 +68,8 @@ Live audio, a new format and new voices have transformed and unsettled the court
 
 Date: 2026-08-13
 
-### Samuel Alito gained up to $2.9m from oil and gas assets since joining supreme court, analysis shows
-
-Critics argue US high court justice should recuse himself from upcoming fossil fuel firms’ climate accountability case Supreme court justice Samuel Alito gained up to $2.9m from his fossil fuel interests between 2005 and 2024, a new review of financial disclosures shows. The analysis from the non-profit advocacy group.
-
-Date: 2026-08-11
-
-### The U.S. Supreme Court Will Hear a Major Climate Change Case This Fall
-
-The U.S. Supreme Court building on May 4, 2026 in Washington, DC. —Andrew Harnik—Getty Images The Supreme Court is set to hear oral arguments this fall in a landmark case to determine whether local and state governments can sue fossil fuel companies for climate-related disaster costs. The case, Suncor v. Boulder , will.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
-- [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
-- [US supreme court allows Trump to keep building $400m White House ballroom](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com) — 2026-08-31T22:13:12.000Z
-- [How the Supreme Court Locks Away Its Own History](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com) — 2026-09-01T09:00:12.000Z
+- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
+- [SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns](https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting?utm_source=lootura.com) — 2026-09-01T11:23:46.000Z
+- [How the Supreme Court Locks Away Its Own History](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com) — 2026-09-01T13:59:33.000Z

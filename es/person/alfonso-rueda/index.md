@@ -3,10 +3,16 @@
 > Sigue la actividad de Alfonso Rueda en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/alfonso-rueda
 
 ## Cambios recientes
+
+### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
+
+El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.
+
+Date: 2026-09-01
 
 ### Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes
 
@@ -34,4 +40,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»](https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com) — 2026-09-01T14:45:03.000Z

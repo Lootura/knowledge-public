@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/army-secretary-dan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/army-secretary-dan/index.json",
   "description": "Follow Army Secretary Dan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,21 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Army Secretary Dan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
+      "summary": "President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
+      "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+      "summary": "No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.",
       "date": "2026-09-01"
     },
     {
@@ -34,23 +49,29 @@
   ],
   "sources": [
     {
+      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
+      "url": "https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:03:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
       "url": "https://www.cbsnews.com/news/army-secretary-dan-driscoll-resigns/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T01:05:25.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Army Secretary Dan Driscoll submits resignation to White House",
-      "url": "https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T23:19:30.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T11:23:46.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
-      "url": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T04:43:57.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+      "url": "https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:43:33.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

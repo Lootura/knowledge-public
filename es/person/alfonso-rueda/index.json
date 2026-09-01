@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alfonso-rueda/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alfonso-rueda/index.json",
   "description": "Sigue la actividad de Alfonso Rueda en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Alfonso",
     "Alfonso Rueda Valenzuela",
     "Rueda"
   ],
   "changes": [
+    {
+      "title": "Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»",
+      "summary": "El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Defensa da luz verde a la Xunta para la fábrica china en Ferrol pese a la alarma en sus informes",
       "summary": "El proyecto de la fábrica del gigante chino SAIC Motor previsto en Ferrol tendrá aval favorable del Ministerio de Defensa , según ha trasladado este mismo martes la ministra Margarita Robles , titular del departamento estatal, al presidente de la Xunta, Alfonso Rueda. Fuentes del Gobierno autonómico consultadas por Eur.",
@@ -36,6 +41,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»",
+      "url": "https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:45:03.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

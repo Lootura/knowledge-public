@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -73,5 +73,3 @@ Date: 2026-08-14
 - [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
 - [A NY hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [Affordability is the centerpiece of Democrats' message in Pennsylvania swing district](https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district?utm_source=lootura.com) — 2026-09-01T08:46:53.000Z
-- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
-- [Markey and other Massachusetts Democrats face primaries](https://www.semafor.com/article/09/01/2026/markey-and-other-massachusetts-democrats-face-primaries?utm_source=lootura.com) — 2026-09-01T08:54:25.000Z

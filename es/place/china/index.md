@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong](https://cincodias.elpais.com/mercados-financieros/2026-09-01/shein-cae-hasta-un-10-en-su-debut-en-la-bolsa-de-hong-kong.html?utm_source=lootura.com) — 2026-09-01T05:01:21.000Z
-- [Putin busca más negocios con China mientras India le pide que acabe con su "guerra interminable"](https://www.elmundo.es/internacional/2026/09/01/6a95cbe0e4d4d8e4788b457f.html?utm_source=lootura.com) — 2026-08-31T22:56:23.000Z
+No public source links.

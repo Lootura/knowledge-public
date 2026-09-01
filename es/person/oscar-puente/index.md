@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-- [Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"](https://www.20minutos.es/nacional/oscar-puente-niega-un-reproche-sanchez-rey-felipe-vi-es-hacia-quienes-utilizan-figura-monarca-una-crisis_7031324_0.html?utm_source=lootura.com) — 2026-09-01T07:57:02.000Z
+No public source links.

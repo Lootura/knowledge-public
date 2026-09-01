@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish](https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
-- [Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.](https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html?utm_source=lootura.com) — 2026-08-31T20:47:50.000Z
+No public source links.

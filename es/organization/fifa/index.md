@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»](https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com) — 2026-09-01T08:45:44.000Z
+No public source links.

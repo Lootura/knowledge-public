@@ -3,10 +3,22 @@
 > Sigue la actividad de Elma Sáiz Delgado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T02:13:05.012Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/elma-saiz
 
 ## Cambios recientes
+
+### Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"
+
+Moncloa baja el pistón con el Rey. La portavoz del Gobierno, Elma Saiz , ha asegurado que las referencias que este lunes realizó Pedro Sánchez durante su entrevista en la Ser a la ausencia de viajes de Felipe VI a Ceuta no solo no eran una crítica al Monarca. Además, aseguró que las relaciones entre el Gobierno y " Cas.
+
+Date: 2026-09-01
+
+### El Gobierno evita concretar el viaje del Rey a Ceuta y niega «ningún reproche» de Sánchez
+
+El Gobierno evita concretar fecha para el viaje del Rey a Ceuta tras la crisis migratoria. Elma Saiz ha confirmado este martes en la rueda de prensa posterior al Consejo de Ministros que Felipe VI acudirá a la ciudad autónoma, aunque no ha especificado cuándo. La portavoz del Ejecutivo ha tenido que salir al paso de la.
+
+Date: 2026-09-01
 
 ### Discovered by Atlas
 
@@ -28,4 +40,5 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"](https://www.elconfidencial.com/espana/2026-09-01/moncloa-niega-que-pedro-sanchez-criticara-al-rey_4416000/?utm_source=lootura.com) — 2026-09-01T13:50:00.000Z
+- [El Gobierno evita concretar el viaje del Rey a Ceuta y niega «ningún reproche» de Sánchez](https://theobjective.com/espana/politica/2026-09-01/gobierno-viaje-rey-ceuta-sanchez/?utm_source=lootura.com) — 2026-09-01T13:35:58.000Z

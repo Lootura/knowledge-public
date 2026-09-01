@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,6 +18,16 @@
   ],
   "changes": [
     {
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
+      "summary": "CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.",
+      "date": "2026-09-01"
+    },
+    {
       "title": "Global finance ministers gather in North Carolina for G-20 summit",
       "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
       "date": "2026-09-01"
@@ -25,11 +35,6 @@
     {
       "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
       "summary": "Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
     },
     {
@@ -61,32 +66,21 @@
       "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
       "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Poland says it thwarted Russian plot to kill an American citizen in a NATO country",
-      "summary": "Polish Prime Minister Donald Tusk said it marks the first time Russia sought to attack an American citizen in another NATO country.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Global finance ministers gather in North Carolina for G-20 summit",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:46:27.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:51:03.000Z",
+      "publishedAt": "2026-09-01T13:30:10.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
+      "url": "https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:04:14.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

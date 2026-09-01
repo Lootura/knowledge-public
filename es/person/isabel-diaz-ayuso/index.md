@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
+
+"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.
+
+Date: 2026-09-01
 
 ### Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”
 
@@ -62,12 +68,6 @@ Luis Arroyo cree que la polémica por el ático de Chamberí ha colocado a Isabe
 
 Date: 2026-08-09
 
-### El Gobierno de Ayuso pone a la venta el ático de Chamberí por 6,7 millones, casi 400.000 más de lo que pagó
-
-La empresa pública Planifica Madrid ha formalizado este viernes la puesta en venta del ático de lujo de 481 metros cuadrados del paseo del General Martínez Campos (Chamberí), que el Gobierno de Isabel Díaz Ayuso (PP) adquirió el pasado abril por 6,3 millones de euros con el argumento de destinarlo temporalmente a ofici.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"](https://www.20minutos.es/nacional/advertencia-ayuso-2022-que-resurge-tras-polemica-sanchez-con-rey-su-estrategia-es-una-republica-federal-laica_7031532_0.html?utm_source=lootura.com) — 2026-09-01T13:09:34.000Z

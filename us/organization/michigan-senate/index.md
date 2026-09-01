@@ -46,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
+No public source links.

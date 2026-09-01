@@ -3,16 +3,10 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T16:03:14.149Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
-
-### New policy brief outlines how EU policies can better support sponge restoration
-
-Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achi.
-
-Date: 2026-09-01
 
 ### Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.
 
@@ -23,6 +17,12 @@ Date: 2026-09-01
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### New policy brief outlines how EU policies can better support sponge restoration
+
+Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achi.
 
 Date: 2026-09-01
 
@@ -70,6 +70,5 @@ Date: 2026-08-14
 
 ## Sources
 
-- [New policy brief outlines how EU policies can better support sponge restoration](https://phys.org/news/2026-08-policy-outlines-eu-policies-sponge.html?utm_source=lootura.com) — 2026-09-01T03:00:01.000Z
-- [Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.](https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com) — 2026-09-01T09:00:32.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z
+- [Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.](https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com) — 2026-09-01T10:59:16.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "AI",
     "AI science",
@@ -35,6 +35,16 @@
     {
       "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
       "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
+      "summary": "John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Nvidia’s DLSS 5, explained",
+      "summary": "Lara Croft in Shadow of the Tomb Raider, with a DLSS 5 mod applied. | Screenshot by Sean Hollister / The Verge Nvidia knows that DLSS 5 left a bad first impression . In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the com.",
       "date": "2026-09-01"
     },
     {
@@ -66,24 +76,14 @@
       "title": "Organs age at different speeds: A blood test might soon tell which ones",
       "summary": "AI-based \"tissue clocks\" can estimate the biological age of human organs from histological images, researchers at the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences and the Ludwig Boltzmann Institute for Network Medicine (LBI-NetMed) at the University of Vienna showed. By analyzing more.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Teens are turning to AI chatbots for emotional support—here's how to keep kids safe",
-      "summary": "It's 2 a.m., and a teenage girl, worrying about an issue with a friend, lies awake. Rather than wake her parents, she picks up her phone, opens an AI app and types, \"I'm so stressed out, I can't sleep.\".",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "AI isn’t ready to research itself",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
-      "url": "https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:10:09.015Z",
-      "sourceId": "lootura-us-nature"
+      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
+      "url": "https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:00:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Mysteries of the deep and AI friendship: Books in brief",
@@ -98,11 +98,11 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "AI chatbot use for emotional support tied to loneliness in students",
-      "url": "https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:50:01.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Nvidia’s DLSS 5, explained",
+      "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

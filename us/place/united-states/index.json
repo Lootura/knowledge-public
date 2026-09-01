@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -60,32 +60,50 @@
       "date": "2026-09-01"
     },
     {
-      "title": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
-      "summary": "Listening to most of the media and Canada ’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took e.",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
     },
     {
-      "title": "Global finance ministers gather in North Carolina for G-20 summit",
-      "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
+      "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+      "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
       "date": "2026-09-01"
     },
     {
-      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
+      "title": "Funding milestone detected",
+      "summary": "Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.",
       "date": "2026-09-01"
     },
     {
-      "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
-      "summary": "NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.",
+      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
+      "summary": "President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.",
       "date": "2026-09-01"
     },
     {
-      "title": "Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives",
-      "summary": "In private remarks, Vice President JD Vance explained why he engages with some influencers accused of antisemitism. He also urged the audience to help articulate why a strong relationship with Israel is in America’s interest.",
+      "title": "Oil prices rise again as U.S. renews Iran strikes",
+      "summary": "Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.",
       "date": "2026-09-01"
     }
   ],
   "sources": [
+    {
+      "title": "U.S. Treasury official on economic goals at G20 summit",
+      "url": "https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:06:23.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
+      "url": "https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:03:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Oil prices rise again as U.S. renews Iran strikes",
+      "url": "https://www.cbsnews.com/video/oil-prices-rise-again-as-us-renews-iran-strikes/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:09:34.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
       "url": "https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com",
@@ -99,22 +117,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
-      "url": "https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:00.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
       "title": "Daily fragment: TWA Flight 529",
       "url": "https://en.wikipedia.org/wiki/TWA_Flight_529?utm_source=lootura.com",
       "publishedAt": "2026-09-01T04:00:00.000Z",
       "sourceId": "lootura-us-lootura-daily"
-    },
-    {
-      "title": "Army Secretary Dan Driscoll submits resignation to White House",
-      "url": "https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T23:19:30.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
@@ -123,28 +129,22 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Global finance ministers gather in North Carolina for G-20 summit",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:46:27.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T10:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:30:07.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Ice island survives run-in with Joe Island",
+      "url": "https://phys.org/news/2026-09-ice-island-survives-joe.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T16:00:05.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:46:21.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-      "url": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:45:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "‘Led us down such a dark path’: documentary explores how 9/11 changed America",
+      "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T11:00:03.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 17

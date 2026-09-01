@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Dos F-18 españoles de la OTAN despegan ante alerta por dron en la frontera Rumanía-Ucrania
 
 El sistema de radares rumano detectó a las 20.30 GMT del lunes dos objetos voladores cerca de la ciudad de Vílkove.
+
+Date: 2026-09-01
+
+### La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia
+
+La misión báltica de la OTAN ha desplegado brevemente aviones de combate esta madrugada después de un nuevo incidente con drones en el que al menos uno de esos aparatos penetró en el espacio aéreo de Estonia, según ha confirmado la Fuerza Aérea del país báltico. También la vecina Letonia ha elevado este martes su nivel.
 
 Date: 2026-09-01
 
@@ -62,12 +68,7 @@ El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio
 
 Date: 2026-08-11
 
-### Trump salió de Turquía tras un cambio de avión en secreto por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carrito utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN, en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza de Irán , se.
-
-Date: 2026-08-11
-
 ## Fuentes
 
+- [La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia](https://elpais.com/internacional/2026-09-01/la-otan-despliega-brevemente-aviones-de-combate-por-un-nuevo-ingreso-de-drones-en-el-espacio-aereo-de-estonia.html?utm_source=lootura.com) — 2026-09-01T10:30:04.000Z
 - [Dos F-18 españoles de la OTAN despegan ante alerta por dron en la frontera Rumanía-Ucrania](https://theobjective.com/internacional/2026-09-01/dos-f-18-espanoles-otan-dron-frontera-rumania-ucrania/?amp=&utm_source=lootura.com) — 2026-09-01T09:02:24.000Z

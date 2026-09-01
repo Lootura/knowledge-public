@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma
+
+La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.
+
+Date: 2026-09-01
 
 ### Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos
 
@@ -62,12 +68,6 @@ Francia ha reconocido a dos de los principales mandos de las Fuerzas Armadas esp
 
 Date: 2026-07-23
 
-### Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna
-
-Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma](https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html?utm_source=lootura.com) — 2026-09-01T15:29:56.000Z

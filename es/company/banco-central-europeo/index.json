@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/banco-central-europeo/index.json",
   "description": "Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "BCE",
     "El Banco Central"
   ],
   "changes": [
+    {
+      "title": "El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE",
+      "summary": "La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Los bancos duplican la liquidez que piden al BCE este año",
       "summary": "La ventanilla de Fráncfort vuelve a estar activa. En los últimos meses, los bancos de la zona euro han perdido el miedo a pedir dinero al Banco Central Europeo (BCE) y han disparado sus solicitudes a la barra libre de liquidez que semanalmente ofrece la autoridad monetaria. Las reticencias a usar este recurso empiezan.",
@@ -58,13 +63,15 @@
       "title": "Discovered by Atlas",
       "summary": "Banco Central Europeo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Beethoven, Cervantes o un pájaro: así son los nuevos billetes de euro",
-      "summary": "Un retrato del compositor alemán Ludwig van Beethoven, de la cantante de ópera griega Maria Callas o el dibujo de un pájaro: los ciudadanos europeos decidirán en una encuesta el diseño de la próxima serie de billetes en euros, que la presidenta del Banco Central Europeo (BCE), Christine Lagarde, presentó este jueves.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:09:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

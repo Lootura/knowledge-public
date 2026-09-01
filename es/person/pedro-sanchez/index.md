@@ -3,34 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Ceuta para aplazar las elecciones
-
-La premisa es que Pedro Sánchez aprovecha cualquier desgracia para sacar beneficio . En la entrevista en la Cadena SER dejó varias ideas que, entretejidas, apuntan a un plan que bien podría ser el aplazamiento de las elecciones. El primer mensaje fue la negación de la anormalidad en Ceuta y de la responsabilidad de Mar.
-
-Date: 2026-09-01
-
-### Pedro Sánchez, o la antidemocracia, por Antonio Elorza
-
-«Nada de rendir cuentas. Encubrimiento y exculpación de sí mismo como premisas para lo de siempre: rematar la faena con el ataque a la derecha».
-
-Date: 2026-09-01
-
-### Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"
-
-El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que exista un "reproche" hacia el Rey Felipe VI en las palabras del presidente del Gobierno, Pedro Sánchez , acerca de una posible visita a Ceuta ; remarcando que, de haberlo, "es hacia quienes han querido utilizar la figura del monarca en una.
-
-Date: 2026-09-01
-
-### Carlos Herrera ve a Pedro Sánchez señalar a Felipe VI por no visitar Ceuta y es contundente: «Tan chulo con su Rey y tan sumiso con el de Marruecos»
-
-En las últimas horas, Pedro Sánchez ha protagonizado centenares de titulares a raíz de su reciente entrevista en la Cadena SER , cuando se cumple un mes del estallido de la crisis migratoria en Ceuta. El presidente del Gobierno regresó hace tan solo unos días de sus vacaciones, que no han estado exentas de polémica, y.
-
-Date: 2026-09-01
 
 ### Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral
 
@@ -44,39 +20,63 @@ La crisis de Ceuta sigue sin tener fin y desborda y monopoliza al Gobierno desde
 
 Date: 2026-09-01
 
-### Novedades en 'Al día': el podcast de Juanlu Sánchez crece y Toño Fraguas se hace cargo de la newsletter matinal
+### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
 
-elDiario.es refuerza su apuesta por el periodismo de innovación y cercanía con el boletín y el podcast diario, que van a cumplir 6 años como líderes de sus respectivos formatos Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid La nueva temporada llega con novedades en dos de los formatos m.
-
-Date: 2026-09-01
-
-### Última hora de la actualidad política en España hoy | Crisis en ceuta: Sánchez preside hoy el Consejo de Seguridad Nacional
-
-Este martes, 1 de septiembre, Ceuta afronta una nueva jornada de tensión debido a la invasión perpetrada por miles de magrebíes y subsaharianos el pasado 30 de julio. A menos de una semana de que arranque el curso escolar, unos 20.000 inmigrantes ilegales siguen campando por las calles de la ciudad autónoma. En clave p.
+"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.
 
 Date: 2026-09-01
 
-### Sánchez señala a Felipe VI para desviar su fiasco en Ceuta
+### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
 
-La reaparición de Pedro Sánchez después de un mes ausente de vacaciones durante la mayor crisis migratoria y de seguridad que ha sufrido Ceuta en su historia reciente, no sirvió para despejar las grandes incógnitas que rodearon la avalancha y que siguen hoy sin explicación. Tampoco para concretar los plazos del retorno.
+Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un "respeto" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.
 
 Date: 2026-09-01
 
-### Moncloa deja en el aire que Sánchez acompañe al Rey en Ceuta ante el riesgo de enfadar a Mohamed VI
+### Ketty Garat, muy clara en el análisis de la entrevista de Pedro Sánchez: «El patrón es la tensión»
 
-La visita de Felipe VI, que no será inminente, ha puesto al presidente ante la encrucijada de viajar con él y enojar a Marruecos o seguir ausente.
+La entrevista de Pedro Sánchez en 'Hoy por hoy', en la 'Cadena SER' el pasado lunes no ha dejado indiferente a nadie. Se trata de la primera gran comparecencia del presidente del Gobierno desde la avalancha de migrantes a Ceuta a finales del mes de julio.Aunque Sánchez se desplazó a Ceuta apenas unas horas después de l.
+
+Date: 2026-09-01
+
+### Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta
+
+El Gobierno trata de exhibir normalidad con Zarzuela después de que Pedro Sánchez señalara abiertamente la ausencia del jefe de Estado en Ceuta a colación de la crisis generada por la entrada masiva del pasado 30 de julio. El presidente aprovechó su primera intervención pública en el arranque de curso, una entrevista e.
+
+Date: 2026-09-01
+
+### Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"
+
+Moncloa baja el pistón con el Rey. La portavoz del Gobierno, Elma Saiz , ha asegurado que las referencias que este lunes realizó Pedro Sánchez durante su entrevista en la Ser a la ausencia de viajes de Felipe VI a Ceuta no solo no eran una crítica al Monarca. Además, aseguró que las relaciones entre el Gobierno y " Cas.
+
+Date: 2026-09-01
+
+### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
+
+El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide "extremar las cautelas" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.
+
+Date: 2026-09-01
+
+### El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera
+
+​El Ejecutivo no suelta a Felipe VI y lo sigue usando como parapeto. La portavoz asegura que las relaciones entre la Moncloa y la Casa Real son «bu...
+
+Date: 2026-09-01
+
+### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
+
+En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
 
 Date: 2026-09-01
 
 ## Fuentes
 
-- [Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"](https://www.20minutos.es/nacional/oscar-puente-niega-un-reproche-sanchez-rey-felipe-vi-es-hacia-quienes-utilizan-figura-monarca-una-crisis_7031324_0.html?utm_source=lootura.com) — 2026-09-01T07:57:02.000Z
-- [Carlos Herrera ve a Pedro Sánchez señalar a Felipe VI por no visitar Ceuta y es contundente: «Tan chulo con su Rey y tan sumiso con el de Marruecos»](https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-senalar-felipe-visitar-20260901100934-nt.html?utm_source=lootura.com) — 2026-09-01T08:09:34.000Z
-- [Los 18 primeros antidisturbios a Ceuta fueron para proteger a Sánchez: quejas policiales por los recursos para cargos públicos](https://www.elmundo.es/espana/2026/08/31/6a95a923e4d4d8f55b8b4589.html?utm_source=lootura.com) — 2026-08-31T20:48:11.000Z
-- [La realidad desborda los cálculos de Sánchez y todavía faltan 4.000 plazas más en Ceuta](https://www.elmundo.es/espana/2026/09/01/6a95a4c3e85ece8d208b4595.html?utm_source=lootura.com) — 2026-08-31T23:04:23.000Z
-- ["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"](https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com) — 2026-08-31T20:47:29.000Z
-- [Sanchismo duro hasta el final: hostilidad con el Rey y negación de la alternancia](https://amp.elmundo.es/espana/2026/08/31/6a95c216e85ece1a5d8b4580.html?utm_source=lootura.com) — 2026-08-31T20:47:46.000Z
-- [Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño](https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html?utm_source=lootura.com) — 2026-08-31T22:20:48.000Z
+- [La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"](https://www.20minutos.es/nacional/advertencia-ayuso-2022-que-resurge-tras-polemica-sanchez-con-rey-su-estrategia-es-una-republica-federal-laica_7031532_0.html?utm_source=lootura.com) — 2026-09-01T13:09:34.000Z
+- [El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos](https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com) — 2026-09-01T12:45:58.000Z
+- [Ketty Garat, muy clara en el análisis de la entrevista de Pedro Sánchez: «El patrón es la tensión»](https://www.abc.es/recreo/ketty-garat-clara-analisis-entrevista-pedro-sanchez-patron-tension-20260901162354-nt.html?utm_source=lootura.com) — 2026-09-01T15:05:44.000Z
+- [Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta](https://www.abc.es/espana/moncloa-trata-exhibir-normalidad-rey-tras-senalarle-20260901135423-nt.html?utm_source=lootura.com) — 2026-09-01T15:00:10.000Z
+- [Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"](https://www.elconfidencial.com/espana/2026-09-01/moncloa-niega-que-pedro-sanchez-criticara-al-rey_4416000/?utm_source=lootura.com) — 2026-09-01T13:50:00.000Z
+- [El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas](https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com) — 2026-09-01T09:14:00.000Z
+- [El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera](https://www.eldebate.com/espana/20260901/gobierno-atribuye-bulo-derecha-rey-quisiera-ceuta-sanchez-impidiera_454232.html?utm_source=lootura.com) — 2026-09-01T13:38:34.000Z
+- [El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir](https://amp.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html?utm_source=lootura.com) — 2026-09-01T11:47:08.000Z
 - [Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral](https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html?utm_source=lootura.com) — 2026-09-01T03:30:01.000Z
 - [Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis](https://elpais.com/espana/2026-09-01/sanchez-intenta-bajar-la-presion-prometiendo-una-visita-del-rey-a-ceuta-cuando-se-supere-la-crisis.html?utm_source=lootura.com) — 2026-09-01T03:30:01.000Z
-- [Novedades en 'Al día': el podcast de Juanlu Sánchez crece y Toño Fraguas se hace cargo de la newsletter matinal](https://www.eldiario.es/redaccion/novedades-dia-podcast-juanlu-sanchez-crece-tono-fraguas-cargo-newsletter-matinal_132_13477652.html?utm_source=lootura.com) — 2026-09-01T05:30:17.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T16:50:35.319Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
+      "summary": "El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.",
+      "date": "2026-09-01"
+    },
     {
       "title": "El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta",
       "summary": "El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.",
@@ -59,13 +64,15 @@
       "title": "El presidente de Ceuta desmiente al Gobierno: aún quedan al menos 8.000 marroquíes",
       "summary": "«Contemos la verdad de lo que está pasando» . Así se tajante se ha expresado el presidente de Ceuta, Juan Jesús Vivas , que ha comparecido ante los medios de comunicación para desmentir al Gobierno. Según los datos que maneja la ciudad autónoma, aún quedan entre 8.000 y 11.000 inmigrantes de los 72.000 que asaltaron la.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Vivas pide unidad ante la crisis, al margen de ideologías: \"Todos los ceutíes con una sola voz diciendo Ceuta está en pie\"",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha hecho este sábado un llamamiento a la participación en la concentración convocada para este domingo por las comunidades religiosas como muestra de unidad de toda la ciudad ante la crisis migratoria . El dirigente ceutí ha defendido que el acto se desarrolle al margen de par.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
+      "url": "https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T12:48:35.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

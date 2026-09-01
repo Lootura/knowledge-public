@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple
+
+Matthew McConaughey y Woody Harrelson han colaborado a lo largo de los años en varios proyectos. Desde EDtv (1999), la sátira televisiva de Ron Howard a la primera temporada de True Detective (2014), una de las mejores series de la historia reciente de la televisión. Fuera de la gran pantalla son grandes amigos, aunque.
+
+Date: 2026-09-01
 
 ### A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA
 
@@ -62,12 +68,6 @@ Al igual que ocurre en Wall Street, donde un grupo muy reducido de tecnológicas
 
 Date: 2026-08-11
 
-### El iPhone tendrá una función para demostrar que una foto es real y no de IA
-
-Apple ya prepara una respuesta para combatir el problema de las imágenes de IA que buscan pasar por fotografías reales. El gigante tecnológico está desarrollando un sistema capaz de certificar que una foto salió de la cámara de un iPhone . La nueva función aparece documentada en el código de iOS 27 y podría debutar con.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple](https://okdiario.com/cool/television/dos-estrellas-hollywood-sospechan-que-son-hermanos-vida-real-historia-familiar-que-han-convertido-serie-llega-apple-20206630?utm_source=lootura.com) — 2026-09-01T16:00:57.000Z

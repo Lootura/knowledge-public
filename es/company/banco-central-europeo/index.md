@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
+
+### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
+
+La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.
+
+Date: 2026-09-01
 
 ### Los bancos duplican la liquidez que piden al BCE este año
 
@@ -62,12 +68,6 @@ Banco Central Europeo first entered the public knowledge record with source-back
 
 Date: 2026-07-23
 
-### Beethoven, Cervantes o un pájaro: así son los nuevos billetes de euro
-
-Un retrato del compositor alemán Ludwig van Beethoven, de la cantante de ópera griega Maria Callas o el dibujo de un pájaro: los ciudadanos europeos decidirán en una encuesta el diseño de la próxima serie de billetes en euros, que la presidenta del Banco Central Europeo (BCE), Christine Lagarde, presentó este jueves.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE](https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com) — 2026-09-01T15:09:00.000Z

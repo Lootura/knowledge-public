@@ -22,4 +22,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La Justicia de Qatar condena a OHLA a pagar 26,4 millones por las obras del hospital de Sidra](https://theobjective.com/espana/tribunales/2026-09-01/justicia-qatar-ohla-264-millones-obras-hospital-sidra/?utm_source=lootura.com) — 2026-09-01T08:10:19.000Z
+No public source links.

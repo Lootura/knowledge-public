@@ -1,0 +1,45 @@
+{
+  "id": "usa-downing-street",
+  "name": "Downing Street",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/downing-street",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/downing-street",
+  "markdownUrl": "https://atlas.lootura.com/us/person/downing-street/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/downing-street/index.json",
+  "description": "Follow Downing Street, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
+      "summary": "Keir Starmer, who left Downing Street in July after pressure from his own party, said he would quit his parliamentary seat to focus on a role in international affairs and defense.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Former U.K. Prime Minister Keir Starmer Steps Down From Parliament. Read His Full Statement Here",
+      "summary": "Keir Starmer departs 10 Downing Street in London, England, on March 4, 2026. —Wiktor Szymanowicz—Getty Images Keir Starmer, who resigned as Britain's Prime Minister in June, announced Tuesday he will also be stepping down from Parliament to focus on international affairs. Speaking to Camden New Journal , Starmer—who le.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Downing Street first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:24:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Former U.K. Prime Minister Keir Starmer Steps Down From Parliament. Read His Full Statement Here",
+      "url": "https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T13:43:50.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -1,0 +1,45 @@
+{
+  "id": "es-lindsay-clancy",
+  "name": "Lindsay Clancy",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/lindsay-clancy",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/lindsay-clancy",
+  "markdownUrl": "https://atlas.lootura.com/es/person/lindsay-clancy/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/lindsay-clancy/index.json",
+  "description": "Sigue la actividad de Lindsay Clancy en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Lindsay Clancy sigue sin veredicto: el jurado no consigue decidir si es culpable de matar a sus tres hijos",
+      "summary": "Lindsay Clacy, acusada de matar a sus tres hijos pequeños en 2023, sigue sin un veredicto en su juicio. Los miembros del jurado popular han notificado este martes al juez del caso que no han conseguido llegar a una decisión unánime sobre si condenar o no a la madre de Massachusetts.Clancy estranguló a sus tres hijos pe.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El jurado del caso de Lindsay Clancy no logra llegar a un veredicto unánime y el juez ordena seguir deliberando",
+      "summary": "Los miembros del jurado en el juicio por asesinato de Lindsay Clancy han notificado al juez este martes tras cuatro días de deliberaciones que no son capaces de llegar a una decisión unánime sobre si condenar a la mujer de Massachusetts por matar a sus tres hijos pequeños en su casa en 2023, una tragedia que su abogado.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Lindsay Clancy first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lindsay Clancy sigue sin veredicto: el jurado no consigue decidir si es culpable de matar a sus tres hijos",
+      "url": "https://www.abc.es/internacional/lindsay-clancy-sigue-veredicto-jurado-consigue-decidir-20260901165230-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:22:45.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El jurado del caso de Lindsay Clancy no logra llegar a un veredicto unánime y el juez ordena seguir deliberando",
+      "url": "https://elpais.com/sociedad/2026-09-01/el-jurado-del-juicio-de-lindsay-clancy-no-logra-llegar-a-un-veredicto-unanime-y-el-juez-les-pide-que-sigan-deliberando.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T14:53:36.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -26,6 +26,11 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Messi, el rey que abdica",
+      "summary": "Leo Messi le dice adiós a la Selección Argentina . “Me voy vacío”, dice su nota de despedida. “Nos deja lleno”, digo en representación de todos los que amamos el fútbol. Se despide de la camiseta más sufriente, querida y gloriosa para él. Deja el refugio preferido para mí, el lugar en el que podía disfrutarlo sin culpa.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
       "summary": "Es conocida por los aficionados del fútbol la buena relación que hay entre Gianni Infantino y Leo Messi . El presidente de la FIFA, como era de esperar, fue uno de los más emotivos a la hora de escribir una carta de despedida al futbolista después de anunciar su retirada de la selección argentina . Un discurso en el qu.",
@@ -70,32 +75,15 @@
       "title": "Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias",
       "summary": "La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Ayuso anuncia que Messi ha donado 80.000 euros para la reconstrucción de la Sierra Oeste de Madrid tras los incendios",
-      "summary": "La presidenta madrileña quiere agradecer personalmente al argentino este gesto: \"Esperamos recibirle pronto para darle el aplauso que se merece\" Leer.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [
     {
-      "title": "Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”",
-      "url": "https://elpais.com/argentina/2026-08-31/los-argentinos-despiden-a-messi-de-su-seleccion-con-tristeza-y-reconocimiento-gracias-eternas-leo.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T18:44:49.000Z",
+      "title": "Messi, el rey que abdica",
+      "url": "https://elpais.com/deportes/futbol/2026-09-01/messi-el-rey-que-abdica.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:46:49.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”",
-      "url": "https://elpais.com/deportes/futbol/2026-08-31/leo-messi-se-retira-de-la-seleccion-argentina-duele-en-el-alma-pero-entiendo-que-es-el-momento.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T19:47:39.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
-      "url": "https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:45:44.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

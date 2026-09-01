@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T16:02:38.774Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "summary": "La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos",
       "summary": "La inteligencia artificial está cambiando radicalmente las Fuerzas Armadas de Ucrania y su capacidad de combate. Tanto es así, que ya ahorra un 90% del tiempo de los analistas de Defensa ucranianos en la etapa de detección de indicios de la presencia enemiga en fotos y vídeos y detectando de forma independiente las pos.",
@@ -58,13 +63,15 @@
       "title": "Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países",
       "summary": "Francia ha reconocido a dos de los principales mandos de las Fuerzas Armadas españolas con algunas de sus más altas condecoraciones militares . El jefe de Estado Mayor de la Armada (Ajema), almirante general Antonio Piñeiro, y el jefe de la Fuerza Terrestre, teniente general Carlos Melero, han sido distinguidos por el.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
-      "summary": "Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "url": "https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:29:56.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

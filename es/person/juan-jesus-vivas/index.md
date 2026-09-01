@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-09-01T16:02:38.774Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
+
+El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
+
+Date: 2026-09-01
 
 ### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
 
@@ -62,12 +68,6 @@ Date: 2026-08-10
 
 Date: 2026-08-08
 
-### Vivas pide unidad ante la crisis, al margen de ideologías: "Todos los ceutíes con una sola voz diciendo Ceuta está en pie"
-
-El presidente de Ceuta, Juan Jesús Vivas , ha hecho este sábado un llamamiento a la participación en la concentración convocada para este domingo por las comunidades religiosas como muestra de unidad de toda la ciudad ante la crisis migratoria . El dirigente ceutí ha defendido que el acto se desarrolle al margen de par.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta](https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html?utm_source=lootura.com) — 2026-09-01T12:48:35.000Z
