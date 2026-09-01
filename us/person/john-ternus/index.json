@@ -9,7 +9,9 @@
   "jsonUrl": "https://atlas.lootura.com/us/person/john-ternus/index.json",
   "description": "Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-09-01T16:03:14.149Z",
-  "aliases": [],
+  "aliases": [
+    "Ternus"
+  ],
   "changes": [
     {
       "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
