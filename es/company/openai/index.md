@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [ChatGPT ha copiado una de las funciones más odiadas de Windows 11 en su app para Mac](https://hipertextual.com/inteligencia-artificial/chatgpt-ha-copiado-una-de-las-funciones-mas-odiadas-de-windows-11-en-su-app-para-mac/?utm_source=lootura.com) — 2026-08-14T18:25:00.000Z
+- [Europa designa a ChatGPT como buscador y ahora deberá cumplir reglas más duras](https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-buscador-ia/?utm_source=lootura.com) — 2026-08-31T18:25:00.000Z

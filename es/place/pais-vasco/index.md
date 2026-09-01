@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo
+
+Cataluña y País Vasco , las dos comunidades con un sistema educativo más condicionado por las políticas lingüísticas de sus gobiernos , presumieron durante años de resultados en PISA por encima de la media española y de la OCDE. La prueba, que se repite cada tres años y en la que participan cerca de cien países, es una.
+
+Date: 2026-08-31
+
+### Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000
+
+El 37,7% de las 82.492 compañías vascas no ha presentado sus cuentas en el registro, ni tiene signos de actividad en los dos últimos años.
+
+Date: 2026-08-31
 
 ### Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes
 
@@ -56,18 +68,7 @@ En los últimos tiempos la parrilla de TVE ha experimentado diversos cambios, au
 
 Date: 2026-08-08
 
-### Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi
-
-Trece afectados tuvieron que ser trasladados a un centro sanitario, mientras Salud pide extremar la precaución ante un fin de semana de calor y playas llenas.
-
-Date: 2026-08-07
-
-### Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía
-
-Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo](https://www.abc.es/sociedad/cataluna-pais-vasco-trampean-pruebas-pisa-maquillar-20260901013301-nt.html?utm_source=lootura.com) — 2026-08-31T23:33:01.000Z
+- [Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000](https://www.diariovasco.com/economia/empresas/euskadi-lidera-junto-navarra-cifra-empresas-fantasma-20260901002215-nt_amp.html?utm_source=lootura.com) — 2026-08-31T22:22:15.000Z

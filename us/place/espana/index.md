@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Bones of medieval kings saved from Spanish wildfire](https://phys.org/news/2026-08-bones-medieval-kings-spanish-wildfire.html?utm_source=lootura.com) — 2026-08-14T21:20:04.000Z
+No public source links.

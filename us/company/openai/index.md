@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [Artificial intelligence agents going rogue fuel calls for regulation](https://www.pbs.org/newshour/show/artificial-intelligence-agents-going-rogue-fuel-calls-for-regulation?utm_source=lootura.com) — 2026-08-31T22:40:11.000Z

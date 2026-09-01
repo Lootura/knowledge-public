@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
+
+en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
+
+Date: 2026-09-01
+
+### EEUU demanda a Amazon por cobrar de más a sus anunciantes
+
+La Comisión Federal de Comercio de Estados Unidos (FTC, por sus siglas en inglés) ha presentado una demanda contra Amazon alegando que el gigante del comercio electrónico engañó a los anunciantes al manipular los precios que pagaban para promocionar productos en su plataforma. Seguir leyendo.
+
+Date: 2026-08-31
+
+### La línea roja del mercado ante la que Estados Unidos va a acudir al rescate
+
+Los inversores que hayan desconectado totalmente en sus vacaciones y hoy enciendan sus pantallas pensarán que agosto ha sido un mes plácido. En este mes, el Ibex 35 español ha subido un 0,5%, rebasando los 20.000 puntos por primera vez en su historia , aunque ayer los perdió; y el S&P 500 avanzó alrededor de un 2,5%. S.
+
+Date: 2026-08-31
 
 ### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
 
@@ -50,27 +68,9 @@ Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis di
 
 Date: 2026-08-14
 
-### EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta
-
-El Departamento de Estado de Estados Unidos, encabezado por Marco Rubio, ha elevado el nivel de alerta en sus recomendaciones para los ciudadanos estadounidenses que tengan previsto viajar a España. En un mapa interactivo que puede consultarse a través de la web del departamento , el aviso de viaje para España incluye.
-
-Date: 2026-08-14
-
-### Rusia pide explicaciones a EEUU por la entrega de datos de inteligencia militar a Ucrania
-
-El ministro de Exteriores de Rusia, Serguéi Lavrov, aseguró este viernes que su país ha pedido explicaciones a Estados Unidos sobre la supuesta entrega a.
-
-Date: 2026-08-14
-
-### El Tesoro de Estados Unidos coloca bonos a 30 años al mayor interés en un cuarto de siglo
-
-Al igual que en cualquier cine, los mercados también tienen películas muy diferentes proyectándose al mismo tiempo en distintas salas. Si los máximos tras máximos de diferentes Bolsas parecen una de esas comedias románticas en las que todo sale bien y las subidas de las tecnológicas son como una de suspense , el mercad.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
-- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
-- [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z
-- [EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»](https://theobjective.com/internacional/2026-08-14/deniegan-entrada-eeuu-hijo-amlo-injerencia-politica-mexicana/?amp=&utm_source=lootura.com) — 2026-08-14T16:35:30.000Z
+- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
+- [EEUU demanda a Amazon por cobrar de más a sus anunciantes](https://www.expansion.com/economia-digital/2026/08/31/6a95d45de5fdeaed0c8b4581.html?utm_source=lootura.com) — 2026-08-31T19:32:35.000Z
+- [La línea roja del mercado ante la que Estados Unidos va a acudir al rescate](https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html?utm_source=lootura.com) — 2026-08-31T18:47:23.000Z
+- [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z

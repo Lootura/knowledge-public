@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Tamara Keith and Amy Walter on Trump's midterm influence
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
+
+Date: 2026-08-31
 
 ### What the July jobs report reveals about the strength of the economy
 
@@ -62,12 +68,6 @@ NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the la
 
 Date: 2026-07-20
 
-### Deadly shootings by ICE officers renew scrutiny of recruitment and training
-
-Two deadly shootings involving ICE officers reignited protests and renewed questions about tactics, training and recruitment at the agency. None of the agents involved were wearing body cameras, and neither of the victims was the intended target of the operation. Amna Nawaz discussed more with John Sandweg, who served.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z

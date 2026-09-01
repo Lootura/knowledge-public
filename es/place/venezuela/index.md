@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
+
+Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
+
+Date: 2026-08-31
 
 ### El chavismo se fractura tras la captura de Maduro y los terremotos
 
@@ -62,13 +68,6 @@ Tragedia en Colombia . Un potente terremoto de magnitud 7,4 ha azotado este lune
 
 Date: 2026-08-10
 
-### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
-
-Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
-- [Venezuela anuncia la excarcelación de más de 130 presos políticos](https://theobjective.com/internacional/2026-08-14/venezuela-excarcelacion-130-presos-politicos/?amp=&utm_source=lootura.com) — 2026-08-14T21:34:38.000Z
+- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z

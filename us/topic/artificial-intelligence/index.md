@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Mysteries of the deep and AI friendship: Books in brief
+
+Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.
+
+Date: 2026-09-01
+
+### AI chatbot use for emotional support tied to loneliness in students
+
+Young people leaning on AI chatbots for emotional support or personal advice are significantly more likely to struggle with serious emotional problems, feel isolated and doubt that they truly matter to others, a new uOttawa study warns.
+
+Date: 2026-08-31
 
 ### AI isn’t ready to research itself
 
@@ -56,20 +68,8 @@ Imagine a trio of bumbling, English lads who fantasize about becoming megastars 
 
 Date: 2026-08-13
 
-### Suno is trying to look more like a real music production tool
-
-Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequis.
-
-Date: 2026-08-13
-
-### Does Google even want to win at AI?
-
-Today on Decoder , I’m talking with Hayden Field, The Verge ’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the com.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
-- [AI isn’t ready to research itself](https://www.nature.com/articles/d41586-026-02494-5?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
-- [Einstein the musician, AI prophets and more: Books in brief](https://www.nature.com/articles/d41586-026-02504-6?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
+- [AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?](https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com) — 2026-09-01T03:32:00.995Z
+- [Mysteries of the deep and AI friendship: Books in brief](https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com) — 2026-09-01T03:32:00.995Z
+- [AI chatbot use for emotional support tied to loneliness in students](https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html?utm_source=lootura.com) — 2026-08-31T22:50:01.000Z

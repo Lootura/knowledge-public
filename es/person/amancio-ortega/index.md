@@ -70,5 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings](https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com) — 2026-08-14T16:21:28.000Z
-- [La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos](https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com) — 2026-08-14T22:13:30.000Z
+No public source links.

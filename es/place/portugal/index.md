@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Desvelan cómo fue el accidente mortal del ciclista Finlay Tarling en la Vuelta a Portugal](https://okdiario.com/deportes/desvelan-como-fue-accidente-mortal-del-ciclista-finlay-tarling-vuelta-portugal-19184548?utm_source=lootura.com) — 2026-08-14T20:06:30.000Z
-- [Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal](https://theobjective.com/deportes/2026-08-14/muere-finlay-tarling-ciclista-de-19-anos-cuando-corria-la-vuelta-a-portugal/?amp=&utm_source=lootura.com) — 2026-08-14T16:49:32.000Z
+No public source links.

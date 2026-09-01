@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”
+
+Pedro Sánchez se ha referido este lunes a la polémica que lleva un mes lastrando la imagen de la presidenta madrileña, Isabel Díaz Ayuso: el piso adquirido por la Comunidad de Madrid por 6,3 millones de euros , para uso de Ayuso como “oficina” temporal, pese a que la propiedad solo puede utilizarse como vivienda. “Lo q.
+
+Date: 2026-08-31
 
 ### Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse
 
@@ -62,12 +68,6 @@ La empresa pública Planifica Madrid ha formalizado este viernes la puesta en ve
 
 Date: 2026-08-07
 
-### La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí
-
-Planifica Madrid, la empresa pública a través de la que el Gobierno de Isabel Díaz Ayuso (PP) compró el ático de Chamberí, tiene una agenda. Está colgada en su página web y cualquiera la puede consultar. Es un calendario muy detallado: en él aparecen los encuentros, reuniones del consejo de administración, eventos, vis.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”](https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html?utm_source=lootura.com) — 2026-08-31T08:17:13.000Z

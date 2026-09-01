@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-10T09:16:50.904Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla
+
+El Consejo de Ministros aprobará este martes una subvención extraordinaria para ambas ciudades, dentro del plan de refuerzo económico un mes después de la crisis humanitaria El Gobierno reforzará los ERTE para Ceuta: derecho a paro sin cotización previa y 100% bonificados a las empresas El Gobierno aprobará este martes.
+
+Date: 2026-08-31
 
 ### La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos
 
@@ -62,12 +68,6 @@ El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernán
 
 Date: 2026-07-21
 
-### Encuesta | ¿Le parece bien que el Gobierno quiera prohibir fumar en terrazas, playas y piscinas?
-
-El Consejo de Ministros ha dado luz verde este martes, en segunda vuelta, al proyecto de reforma de la Ley 28/2005 de medidas sanitarias frente al tabaquismo, que inicia ahora su tramitación en las Cortes Generales. La principal novedad respecto al primer texto —aprobado en septiembre del año pasado— es la inclusión de.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla](https://www.eldiario.es/economia/gobierno-inyectara-21-5-millones-reforzar-servicios-publicos-desalinizadoras-ceuta-melilla_1_13477054.html?utm_source=lootura.com) — 2026-08-31T16:00:42.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [How The New York Times Reported on Trump’s Air Force One Ruse in Turkey](https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html?utm_source=lootura.com) — 2026-08-14T19:20:46.000Z
+No public source links.

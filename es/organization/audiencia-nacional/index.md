@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”
+
+“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.
+
+Date: 2026-08-31
 
 ### La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA
 
@@ -62,12 +68,6 @@ El juez que investiga las «cloacas del PSOE» en la Audiencia Nacional, Santiag
 
 Date: 2026-08-08
 
-### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
-
-Según la Audiencia Nacional, la cantante utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”](https://elpais.com/espana/2026-08-31/sanchez-defiende-a-zapatero-y-asegura-que-los-expresidentes-se-dedican-al-lobby-en-la-amplisima-mayoria-de-democracias.html?utm_source=lootura.com) — 2026-08-31T08:32:22.000Z

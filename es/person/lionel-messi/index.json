@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -22,9 +22,20 @@
     "Lionel Andres ''Leo'' Messi",
     "Lionel Andrés ''Leo'' Messi",
     "Lío",
-    "Messi"
+    "Messi",
+    "GOAT"
   ],
   "changes": [
+    {
+      "title": "Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”",
+      "summary": "Con 207 partidos y 125 goles a lo largo de 21 años, Lionel Messi es el jugador con más presencias en la historia de la selección argentina y su máximo goleador. Su despedida de la Albiceleste, anunciada este lunes a sus 39 años, no por esperada fue menos sentida por los argentinos, que multiplicaron sus mensajes para l.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”",
+      "summary": "“Ya está. Ya está”. En el estadio de Lusail, Lionel Messi miró al palco en el que estaba su familia, liderada por su padre Jorge, como siempre. Se vio el gesto y se escuchó la frase. Pero como suele ocurrir, lo esencial no se ve ni se escucha. Argentina se acaba de coronar como la mejor del mundo tras derrotar a Franci.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»",
       "summary": "El futbolista argentino Leo Messi se ha despedido de su padre, Jorge Messi, fallecido el pasado sábado a los 68 años, con una emotiva carta publicada en sus redes sociales en la que recuerda su papel fundamental desde los inicios de su carrera y lamenta no haber podido compartir con él sus últimos grandes momentos sobr.",
@@ -64,18 +75,21 @@
       "title": "Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso",
       "summary": "Leo Messi ha sido salvado por la justicia. Después de meses siendo acusado junto a la AFA de haber estafado siete millones de euros , finalmente los tribunales han decidido desestimar la demanda que tenía por el simple hecho de no haber jugado un amistoso que se había comprometido a jugar tras un acuerdo con una promot.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Casemiro se va con Messi: ficha por Inter Miami hasta 2027",
-      "summary": "Casemiro ya tiene nuevo equipo tras abanadonar el Manchester United. Ha firmado por un año, con opción a dos más, con el Inter Miami de Messi.",
-      "date": "2026-07-22"
-    },
-    {
-      "title": "Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: \"Tenemos que ser grandes en la derrota\"",
-      "summary": "El argentino, neutralizado por España, se vino abajo ante su grada al recibir la medalla de plata. La albiceleste no tiró a puerta y sólo creó peligro en el minuto 119. Leer.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”",
+      "url": "https://elpais.com/argentina/2026-08-31/los-argentinos-despiden-a-messi-de-su-seleccion-con-tristeza-y-reconocimiento-gracias-eternas-leo.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T18:44:49.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”",
+      "url": "https://elpais.com/deportes/futbol/2026-08-31/leo-messi-se-retira-de-la-seleccion-argentina-duele-en-el-alma-pero-entiendo-que-es-el-momento.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T19:47:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
 }

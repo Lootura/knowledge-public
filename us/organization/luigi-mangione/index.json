@@ -64,31 +64,6 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Luigi Mangione's lawyer speaks out after he announced plans to plead guilty in federal case",
-      "url": "https://www.cbsnews.com/video/luigi-mangiones-lawyer-speaks-out-after-he-announced-plans-to-plead-guilty-in-federal-case/?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:26:07.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’",
-      "url": "https://www.nbcnews.com/now/video/luigi-mangione-tells-judge-of-intent-to-shoot-brian-thompson-268318277657?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T15:55:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Luigi Mangione admits to killing CEO",
-      "url": "https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T23:07:24.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Luigi Mangione’s Case Hit a Cultural Nerve",
-      "url": "https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T22:27:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

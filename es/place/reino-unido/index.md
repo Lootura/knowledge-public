@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
+
+Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
+
+Date: 2026-08-31
 
 ### Farage denuncia una "campaña organizada" para alterar el resultado electoral
 
@@ -62,12 +68,6 @@ El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un
 
 Date: 2026-08-07
 
-### Aldi y Lidl ya no podrán alejar a sus competidores: Reino Unido endurecerá la normativa urbanística
-
-Los operadores alemanes de supermercados Aldi y Lidl ya no deberían poder impedir que sus competidores abran tiendas cerca de sus establecimientos en el Reino Unido, según ha declarado el regulador de la competencia, que busca igualar las condiciones para los minoristas alimentarios del país. Seguir leyendo.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z

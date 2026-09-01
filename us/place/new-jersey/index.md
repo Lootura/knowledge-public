@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### This Teen Helped Native American Students Earn Ham Radio Licenses
+
+For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South , in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities.
+
+Date: 2026-08-31
 
 ### ‘We get 200 tourists a day’: when your house becomes a TV star
 
@@ -62,12 +68,6 @@ New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 
 
 Date: 2026-07-22
 
-### Error Led to 400 Noncitizens Voting in New Jersey, Governor Says
-
-A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.
-
-Date: 2026-07-21
-
 ## Sources
 
-No public source links.
+- [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ruchira-shree-ham-radio?utm_source=lootura.com) — 2026-08-31T18:00:01.000Z

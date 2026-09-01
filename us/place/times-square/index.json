@@ -1,0 +1,45 @@
+{
+  "id": "usa-times-square",
+  "name": "Times Square",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/times-square",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/times-square",
+  "markdownUrl": "https://atlas.lootura.com/us/place/times-square/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/times-square/index.json",
+  "description": "Follow Times Square, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.",
+      "summary": "The police fired at the woman, who was holding two knives, after trying to use less lethal force, officials said. A woman, 32, was killed, and a man, 68, is in stable condition.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Suspect and female victim dead after Times Square stabbing spree",
+      "summary": "A woman armed with at least one knife slashed two people in New York City’s Times Square before she was shot by police, according to multiple officials. NBC News’ Sam Brock reports.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Times Square first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Suspect and female victim dead after Times Square stabbing spree",
+      "url": "https://www.nbcnews.com/nightly-news/video/suspect-and-female-victim-dead-after-times-square-stabbing-spree-269123653799?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:05:13.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.",
+      "url": "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T02:38:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

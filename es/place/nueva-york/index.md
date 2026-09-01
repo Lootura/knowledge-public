@@ -3,10 +3,22 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía
+
+La violencia sobrecogió este lunes por la tarde, a última hora de la noche en España, a Times Square , el gran centro neurálgico de Nueva York. Una mujer apuñaló a dos personas -una falleció, la otra resultó herida- antes de morir por disparos de la policía.Ocurrió cerca del cruce de la Séptima Avenida y la calle 42, p.
+
+Date: 2026-09-01
+
+### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
+
+en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
+
+Date: 2026-09-01
 
 ### Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres
 
@@ -56,19 +68,7 @@ La tensión entre Grifols y Gotham City Research sigue aumentando en un momento 
 
 Date: 2026-08-10
 
-### Rahm conquista su tercer anillo del LIV
-
-El vizcaíno se proclama de nuevo el mejor del circuito pese a una semana horrible en Nueva York, donde firma su peor posición: 41.
-
-Date: 2026-08-09
-
-### ¿Cuánto cuesta vivir en Madrid o Barcelona frente a Nueva York o Zúrich?
-
-Aunque el coste de la vida se ha disparado en los últimos años en España, las grandes capitales de nuestro país siguen siendo más económicas que otras muchas capitales internacionales. Así lo refleja el informe Mapping the World's Prices 2026, elaborado por Deutsche Bank Research Institute, que compara el precio de dec.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
-- [Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres](https://theobjective.com/internacional/2026-08-14/alcaldia-nueva-york-desestimar-demanda-congelacion-alquileres/?amp=&utm_source=lootura.com) — 2026-08-14T20:19:24.000Z
+- [Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía](https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html?utm_source=lootura.com) — 2026-09-01T00:03:03.000Z
+- [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z

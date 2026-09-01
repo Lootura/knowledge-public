@@ -3,10 +3,22 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”
+
+Con 207 partidos y 125 goles a lo largo de 21 años, Lionel Messi es el jugador con más presencias en la historia de la selección argentina y su máximo goleador. Su despedida de la Albiceleste, anunciada este lunes a sus 39 años, no por esperada fue menos sentida por los argentinos, que multiplicaron sus mensajes para l.
+
+Date: 2026-08-31
+
+### Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”
+
+“Ya está. Ya está”. En el estadio de Lusail, Lionel Messi miró al palco en el que estaba su familia, liderada por su padre Jorge, como siempre. Se vio el gesto y se escuchó la frase. Pero como suele ocurrir, lo esencial no se ve ni se escucha. Argentina se acaba de coronar como la mejor del mundo tras derrotar a Franci.
+
+Date: 2026-08-31
 
 ### Leo Messi se despide de su padre: «No sé qué voy a hacer sin ‘vos’, no sé cómo seguir»
 
@@ -56,18 +68,7 @@ Leo Messi ha sido salvado por la justicia. Después de meses siendo acusado junt
 
 Date: 2026-08-03
 
-### Casemiro se va con Messi: ficha por Inter Miami hasta 2027
-
-Casemiro ya tiene nuevo equipo tras abanadonar el Manchester United. Ha firmado por un año, con opción a dos más, con el Inter Miami de Messi.
-
-Date: 2026-07-22
-
-### Messi dice adiós entre lágrimas en una Argentina impotente y furiosa: "Tenemos que ser grandes en la derrota"
-
-El argentino, neutralizado por España, se vino abajo ante su grada al recibir la medalla de plata. La albiceleste no tiró a puerta y sólo creó peligro en el minuto 119. Leer.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”](https://elpais.com/argentina/2026-08-31/los-argentinos-despiden-a-messi-de-su-seleccion-con-tristeza-y-reconocimiento-gracias-eternas-leo.html?utm_source=lootura.com) — 2026-08-31T18:44:49.000Z
+- [Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”](https://elpais.com/deportes/futbol/2026-08-31/leo-messi-se-retira-de-la-seleccion-argentina-duele-en-el-alma-pero-entiendo-que-es-el-momento.html?utm_source=lootura.com) — 2026-08-31T19:47:39.000Z

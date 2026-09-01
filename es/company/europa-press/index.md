@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares](https://theobjective.com/espana/2026-08-14/mas-millar-personas-atendida-eclipse-mayoria-dolencias-oculares/?utm_source=lootura.com) — 2026-08-14T18:07:43.000Z
+No public source links.

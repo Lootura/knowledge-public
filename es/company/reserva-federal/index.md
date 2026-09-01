@@ -3,7 +3,7 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [El Ibex pierde los 20.000 pero salva agosto con un alza del 1%](https://cincodias.elpais.com/mercados-financieros/2026-08-31/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-31T15:42:00.000Z

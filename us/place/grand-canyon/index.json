@@ -1,0 +1,91 @@
+{
+  "id": "usa-grand-canyon",
+  "name": "Grand Canyon",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/grand-canyon",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/grand-canyon",
+  "markdownUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.json",
+  "description": "Follow Grand Canyon, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "aliases": [
+    "Cañon of Colorado"
+  ],
+  "changes": [
+    {
+      "title": "2 dead, at least 1 missing after Grand Canyon hit by flash floods",
+      "summary": "Violent flash floods hit the Grand Canyon's Bright Angel Canyon and Phantom Ranch area, causing \"extensive damage\" to the park's water infrastructure.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
+      "summary": "At least two people were killed after flash floods swept through parts of Grand Canyon National Park over the weekend.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
+      "summary": "Officials say one person still unaccounted for as forecast heavy rain and thunderstorms threaten further flooding A second death was confirmed by National Park Service officials on Monday after a flash flood sent a surge of water and debris through an area of the Grand Canyon over the weekend. Dozens of visitors had to.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "summary": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific Ocean Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history A deadly flash flood in the Grand Canyon over the weekend was likely driven by a confluence of climate.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Grand Canyon first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "At least two dead as rescuers search for missing in Grand Canyon",
+      "summary": "Search teams have been working around the clock to locate more than a dozen people who are still unaccounted for after a devastating flash flood tore through the Grand Canyon on Saturday. NBC News’ Dana Griffin has the latest.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Grand Canyon flash flood leaves 2 dead, others missing",
+      "summary": "Search and rescue teams have recovered two bodies following this weekend's flash floods in the Grand Canyon. The National Park Service says more than a dozen other people remain missing. Lodges and hotels are closed inside the park and more rain and flooding are possible. Ali Rogin reports.",
+      "date": "2026-08-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "2 dead, at least 1 missing after Grand Canyon hit by flash floods",
+      "url": "https://www.cbsnews.com/news/grand-canyon-national-park-flood-evacuation-helicopter-rescue-phantom-ranch/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T02:09:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
+      "url": "https://www.cbsnews.com/news/grand-canyon-flash-floods-missing-hikers/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T02:39:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "At least two dead as rescuers search for missing in Grand Canyon",
+      "url": "https://www.nbcnews.com/nightly-news/video/at-least-two-dead-as-rescuers-search-for-missing-in-grand-canyon-269123141896?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:14:21.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Grand Canyon flash flood leaves 2 dead, others missing",
+      "url": "https://www.pbs.org/newshour/show/grand-canyon-flash-flood-leaves-2-dead-others-missing?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:51:36.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:52:18.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:53:39.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 6
+}

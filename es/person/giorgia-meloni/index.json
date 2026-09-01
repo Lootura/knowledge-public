@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
@@ -61,6 +61,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El Gobierno responde a Meloni y prorroga también el control a los pasajeros procedentes de Italia",
+      "url": "https://elpais.com/espana/2026-08-31/el-gobierno-responde-a-meloni-y-prorroga-tambien-el-control-a-los-pasajeros-procedentes-de-italia.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T11:32:53.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
   "evidenceCount": 0
 }

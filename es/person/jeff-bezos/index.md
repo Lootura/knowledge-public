@@ -34,5 +34,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Jeff Bezos entra como accionista minoritario en el Liverpool](https://elpais.com/deportes/futbol/2026-08-14/jeff-bezos-entra-como-accionista-minoritario-en-el-liverpool.html?utm_source=lootura.com) — 2026-08-14T17:28:39.000Z
-- [Jeff Bezos compra el 30% del Liverpool por 1.930 millones](https://www.expansion.com/directivos/deporte-negocio/2026/08/14/6a7f4a8de5fdeae81d8b459c.html?utm_source=lootura.com) — 2026-08-14T22:14:13.000Z
+No public source links.

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T20:38:00.126Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
+      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
       "summary": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.",
@@ -54,18 +64,21 @@
       "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
       "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at what many perceive as the Venezuelan government’s botched response to twin earthquak.",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela",
-      "summary": "Plus, Sam Neill of “Jurassic Park” fame dies at 78.",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
-      "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.",
-      "date": "2026-07-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:56:53.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
+      "url": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:45:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
 }

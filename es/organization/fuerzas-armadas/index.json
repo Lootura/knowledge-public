@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T09:04:36.303Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos",
+      "summary": "La inteligencia artificial está cambiando radicalmente las Fuerzas Armadas de Ucrania y su capacidad de combate. Tanto es así, que ya ahorra un 90% del tiempo de los analistas de Defensa ucranianos en la etapa de detección de indicios de la presencia enemiga en fotos y vídeos y detectando de forma independiente las pos.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "summary": "La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico",
       "summary": "Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...",
@@ -53,18 +63,21 @@
       "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
       "summary": "Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Fuerzas armadas first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-21"
-    },
-    {
-      "title": "Zelenski destituye al jefe del ejército ucraniano tras días de protestas y nombra a su sucesor",
-      "summary": "El presidente ucraniano ha nombrado a Mykhailo Drapatyi como nuevo comandante en jefe de las Fuerzas Armadas y sucesor de Oleksandr Syrskyi Leer.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "url": "https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:34:57.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos",
+      "url": "https://www.businessinsider.es/defensa-espacio/como-ia-esta-cambiando-ejercito-ucrania-buscar-atacar-enemigos_7031093_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:30:00.000Z",
+      "sourceId": "lootura-es-business-insider-espana"
+    }
+  ],
+  "evidenceCount": 2
 }

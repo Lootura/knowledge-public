@@ -1,0 +1,34 @@
+{
+  "id": "usa-vice-president",
+  "name": "Vice President",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/vice-president",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/vice-president",
+  "markdownUrl": "https://atlas.lootura.com/us/person/vice-president/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/vice-president/index.json",
+  "description": "Follow Vice President, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Army Secretary Dan Driscoll submits resignation to White House",
+      "summary": "Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Vice President first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Army Secretary Dan Driscoll submits resignation to White House",
+      "url": "https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:19:30.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
+}

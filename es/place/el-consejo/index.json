@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T09:16:50.904Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla",
+      "summary": "El Consejo de Ministros aprobará este martes una subvención extraordinaria para ambas ciudades, dentro del plan de refuerzo económico un mes después de la crisis humanitaria El Gobierno reforzará los ERTE para Ceuta: derecho a paro sin cotización previa y 100% bonificados a las empresas El Gobierno aprobará este martes.",
+      "date": "2026-08-31"
+    },
     {
       "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
       "summary": "El Consejo extraordinario de ministros del Interior de la UE no fue el ajuste de cuentas que muchos anticipaban, sino un delicado ejercicio de equilibrio político. La reunión, solicitada por 22 Estados miembros a iniciativa de Italia y Dinamarca tras la crisis migratoria de Ceuta, concluyó con una declaración de princi.",
@@ -55,13 +60,15 @@
       "title": "El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines",
       "summary": "El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernández como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC) , así como de Joan Capdevila, Carmen Balsa y Marina Echebarría como consejeros de la misma entidad.La oficialización de estas designaciones se producen.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Encuesta | ¿Le parece bien que el Gobierno quiera prohibir fumar en terrazas, playas y piscinas?",
-      "summary": "El Consejo de Ministros ha dado luz verde este martes, en segunda vuelta, al proyecto de reforma de la Ley 28/2005 de medidas sanitarias frente al tabaquismo, que inicia ahora su tramitación en las Cortes Generales. La principal novedad respecto al primer texto —aprobado en septiembre del año pasado— es la inclusión de.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla",
+      "url": "https://www.eldiario.es/economia/gobierno-inyectara-21-5-millones-reforzar-servicios-publicos-desalinizadoras-ceuta-melilla_1_13477054.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T16:00:42.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

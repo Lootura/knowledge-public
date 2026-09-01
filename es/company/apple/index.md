@@ -3,10 +3,34 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA
+
+Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.
+
+Date: 2026-09-01
+
+### Las 10 mejores ofertas de hoy (1 de septiembre) en Amazon: hasta un 73% en Calvin Klein, Adidas, Apple y más
+
+El 1 de septiembre casi nadie estrena vida: repone. Vuelven los horarios y con ellos las llaves que en agosto daba igual perder, las toallitas que se acabaron hace dos semanas y el polo que no se plancha solo. Lo de hoy va justo de eso: de lo urgente y de lo aplazado, con las rebajas que han sobrevivido al verano . Toa.
+
+Date: 2026-09-01
+
+### Phil Schiller deja su puesto como jefe de la App Store de Apple
+
+La salida de Tim Cook como CEO y la asunción de John Ternus como su reemplazo no es el único cambio importante que llega a Apple. Según reporta Mark Gurman, de Bloomberg , Phil Schiller deja su puesto como jefe de la App Store y tampoco continuará al frente de la organización de los eventos de la compañía. De acuerdo c.
+
+Date: 2026-08-31
+
+### Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»
+
+El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim Cook finaliza hoy su mandato como CEO, con John Ternus como el designado para tomar las riendas de la compañía a partir de mañana, 1 de septiembre. Si bien el consejero delegado saliente no va a abandonar la empresa, puesto que asumirá el rol.
+
+Date: 2026-08-31
 
 ### Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple
 
@@ -44,30 +68,9 @@ Apple ya prepara una respuesta para combatir el problema de las imágenes de IA 
 
 Date: 2026-08-10
 
-### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
-
-El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.
-
-Date: 2026-08-10
-
-### Apple podría lanzar su propia pulsera sin pantalla al estilo Whoop o Fitbit Air
-
-El catálogo de wearables de Apple podría renovarse con nuevos productos, incluyendo una pulsera sin pantalla al estilo Whoop o Fitbit Air . Según reporta Mark Gurman, los de Cupertino analizan esta posibilidad como parte de la estrategia para evolucionar y renovar el catálogo que hoy lidera el Apple Watch. El periodist.
-
-Date: 2026-08-10
-
-### Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón
-
-Cuando Apple anunció iOS 26 con Liquid Glass , muchos usuarios pensaron que se trataba de una idea original nunca antes vista. La realidad es que Microsoft hizo algo parecido hace casi dos décadas con Windows Vista y Aero, una interfaz parecida que muchos todavía recuerdan con cariño. Con la moda impuesta por Apple, mu.
-
-Date: 2026-08-10
-
-### 'The Sticks', el nuevo drama juvenil de hockey de Netflix protagonizado por Michelle Monaghan, suma nuevos nombres a su elenco
-
-En un momento en el cual las series deportivas estaban de capa caída, Ted Lasso , cuya cuarta (y última) temporada se puede ver tanto en Apple TV como en Prime Video , llegó para darles un nuevo empujón y eso es lo que están aprovechando actualmente las plataformas de streaming. Así, tras el éxito cosechado por Más que.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA](https://www.businessinsider.es/big-tech/ternus-se-le-pide-un-nuevo-artilugio-milagroso-pero-clave-apple-sigue-estando-ia_7031061_0.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z
+- [Phil Schiller deja su puesto como jefe de la App Store de Apple](https://hipertextual.com/apple/phil-schiller-deja-su-puesto-como-jefe-de-la-app-store-de-apple/?utm_source=lootura.com) — 2026-08-31T17:30:41.000Z
+- [Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»](https://hipertextual.com/apple/tim-cook-dice-adios-ceo-apple-carta-empleados/?utm_source=lootura.com) — 2026-08-31T16:57:18.000Z
+- [Las 10 mejores ofertas de hoy (1 de septiembre) en Amazon: hasta un 73% en Calvin Klein, Adidas, Apple y más](https://www.larazon.es/compras/10-mejores-ofertas-hoy-1-septiembre-amazon-73-calvin-klein-adidas-apple-mas-3v3r_202609016a96194b4941316b1e72d5f5.html?utm_source=lootura.com) — 2026-09-01T01:21:26.000Z

@@ -67,19 +67,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Amancio Ortega y sus socios cierran la compra del operador logístico australiano Qube Holdings",
-      "url": "https://www.expansion.com/empresas/2026/08/14/6a7f3d9a468aeb57618b45b2.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:21:28.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
-      "url": "https://www.expansion.com/empresas/2026/08/14/6a7f4cb4468aebf4608b45c0.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T22:13:30.000Z",
-      "sourceId": "lootura-es-expansion"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

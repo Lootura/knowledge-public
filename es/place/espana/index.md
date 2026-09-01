@@ -3,10 +3,52 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía
+
+La violencia sobrecogió este lunes por la tarde, a última hora de la noche en España, a Times Square , el gran centro neurálgico de Nueva York. Una mujer apuñaló a dos personas -una falleció, la otra resultó herida- antes de morir por disparos de la policía.Ocurrió cerca del cruce de la Séptima Avenida y la calle 42, p.
+
+Date: 2026-09-01
+
+### A menor distancia, la convergencia de Andalucía sigue pendiente
+
+Andalucía ha comenzado a recortar la distancia económica que durante décadas la separó de España pero todavía está lejos de poder ganar la batalla de la convergencia. La comunidad ha crecido un 12,9% entre 2019 y 2025, seis décimas más que el conjunto nacional, cuyo avance fue del 12,3%. El diferencial es todavía mayor.
+
+Date: 2026-09-01
+
+### España necesita generosidad y altura de miras.
+
+España necesita generosidad y altura de miras. Se inicia el curso político en medio de un clima electoral que no favorece la resolución de los desafíos a los que se enfrenta España. Parece, una vez más, que los partidos seremos incapaces de anteponer la generosidad con España a los intereses partidistas de los próximos.
+
+Date: 2026-09-01
+
+### La factura madrileña de la vuelta al cole, la más alta de España
+
+El lápiz y el papel no son solo para los niños; también para los padres que, durante estos días, se ven obligados a hacer cuentas con vistas a cuadrar la economía familiar. A estas alturas no hay un hogar que se sobresalte por el encarecimiento de la «vuelta al cole». Y menos si viven en la Comunidad de Madrid, región.
+
+Date: 2026-09-01
+
+### El liderazgo no se va de vacaciones
+
+Pedro Sánchez ha disfrutado este verano, de momento, de 27 días de vacaciones, principalmente en la Residencia Real de La Mareta (Lanzarote). No habría nada especialmente relevante en ello si durante esas mismas semanas España no hubiera sufrido la crisis fronteriza más grave de nuestra democracia, tanto por su dimensi.
+
+Date: 2026-09-01
+
+### España o la ajenitud de lo propio
+
+Este verano he leído Ir a La Habana , de Leonardo Padura. El autor , al recorrer la ciudad desde su propia biografía, explica qué ocurre cuando el lugar al que uno pertenece empieza a resultar extraño. «Ajenitud»: así denomina a ese estado de extrañamiento que aparece «cuando se produce el choque entre lo deseado o rec.
+
+Date: 2026-09-01
+
+### Las secuelas de los incendios: erosión, inundaciones, contaminación del agua y degradación de ecosistemas
+
+Las recientes olas de incendios en España , Francia y otras regiones de Europa nos recuerdan que el problema no termina cuando el fuego se apaga. Tras las llamas se desencadenan sus efectos más persistentes: mayor riesgo de erosión e inundaciones, daños a las poblaciones y degradación de los ecosistemas. Incendios más.
+
+Date: 2026-08-31
 
 ### Uno de cada cuatro trabajadores de Baleares son extranjeros, frente a solo el 6% en Extremadura
 
@@ -26,56 +68,12 @@ Más de un millar de personas han sido atendidas entre las distintas comunidades
 
 Date: 2026-08-14
 
-### Euromillones deja un nuevo millonario en España y el bote sube a 37 millones
-
-La combinación ganadora del sorteo de Euromillones celebrado este viernes, 14 de agosto, ha estado formada por los números 5, 29, 39, 49 y 48. Las estrellas son 4 y 8. La recaudación ha ascendido a 45.051.483,40 euros. El boleto acertante de El Millón ha sido validado en el Despacho Receptor nº92.515 de Zaragoza , situ.
-
-Date: 2026-08-14
-
-### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
-
-El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
-
-Date: 2026-08-14
-
-### "¡Veinte veces más seguridad!": Marruecos remata en Castillejos "la segunda parte" de su guerra híbrida con España
-
-El diminuto puesto de Cafés Carrión, un tenderete ubicado nada más cruzar la frontera de Ceuta a Castillejos, jamás había registrado una facturación semejante a la acumulada...
-
-Date: 2026-08-14
-
-### La Liga de los campeones del mundo frente a la misión de Mourinho
-
-Como tras Sudáfrica, en 2010, el portugués llega al Madrid para derrocar a un Barça dominante, con el estilo y la mayoría de integrantes de la España que logró la segunda estrella Leer.
-
-Date: 2026-08-14
-
-### ¿Cambia el calendario de cierre de las centrales nucleares en España?
-
-Cartel indicador en la entrada a la central de Almaraz. Esteban Martinena Guerrer/Shutterstock El Gobierno de España ha aprobado la ampliación de funcionamiento de la central nuclear de Almaraz hasta el 8 de junio de 2030. La decisión afecta a sus dos reactores y sustituye las fechas de cierre anteriormente previstas:.
-
-Date: 2026-08-14
-
-### Almaraz gana tiempo y seguirá abierta hasta 2030
-
-Vista de la central de Almaraz (Cáceres). Angel L/Shutterstock Se acaba de publicar en el Boletín Oficial del Estado la orden por la que el Ministerio para la Transición Ecológica de España renueva la autorización de explotación de los dos reactores de la central nuclear de Almaraz . En la práctica, esto significa que.
-
-Date: 2026-08-14
-
-### Una prótesis 'espacial' para salvar la pierna de Pierre
-
-El tratamiento de Pierre empezó hace tres años, cuando tenía 35 años y vivía en España. Le diagnosticaron un osteosarcoma, un cáncer óseo que le carcomía la tibia izquierda y se decidió actuar con rapidez. Tras la extirpación del tumor, el espacio se rellenó con un espaciador provisional de cemento cargado con antibiót.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Euromillones deja un nuevo millonario en España y el bote sube a 37 millones](https://www.20minutos.es/nacional/euromillones-deja-un-nuevo-millonario-espana-bote-sube-37-millones-euros_7026004_0.html?utm_source=lootura.com) — 2026-08-14T20:40:20.000Z
-- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
-- [Uno de cada cuatro trabajadores de Baleares son extranjeros, frente a solo el 6% en Extremadura](https://elpais.com/economia/2026-08-14/uno-de-cada-cuatro-trabajadores-de-baleares-son-extranjeros-frente-a-solo-el-6-en-extremadura.html?utm_source=lootura.com) — 2026-08-14T18:07:24.000Z
-- [España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo](https://www.elindependiente.com/espana/2026/08/14/espana-fue-el-segundo-pais-de-la-ue-con-mas-nuevos-solicitantes-de-asilo-de-mayo/?utm_source=lootura.com) — 2026-08-14T16:29:07.000Z
-- ["¡Veinte veces más seguridad!": Marruecos remata en Castillejos "la segunda parte" de su guerra híbrida con España](https://amp.elmundo.es/espana/2026/08/14/6a7f47cdfc6c83e11d8b457f.html?utm_source=lootura.com) — 2026-08-14T20:44:58.000Z
-- [La Liga de los campeones del mundo frente a la misión de Mourinho](https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html?utm_source=lootura.com) — 2026-08-14T23:04:29.000Z
-- [¿Cambia el calendario de cierre de las centrales nucleares en España?](https://theconversation.com/cambia-el-calendario-de-cierre-de-las-centrales-nucleares-en-espana-289830?utm_source=lootura.com) — 2026-08-14T21:19:13.000Z
-- [Almaraz gana tiempo y seguirá abierta hasta 2030](https://theconversation.com/almaraz-gana-tiempo-y-seguira-abierta-hasta-2030-289854?utm_source=lootura.com) — 2026-08-14T21:19:22.000Z
-- [Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares](https://theobjective.com/espana/2026-08-14/mas-millar-personas-atendida-eclipse-mayoria-dolencias-oculares/?utm_source=lootura.com) — 2026-08-14T18:07:43.000Z
+- [Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía](https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html?utm_source=lootura.com) — 2026-09-01T00:03:03.000Z
+- [A menor distancia, la convergencia de Andalucía sigue pendiente](https://www.larazon.es/andalucia/menor-distancia-convergencia-andalucia-sigue-pendiente_202609016a96292e3bfe5d1eff3e7d62.html?utm_source=lootura.com) — 2026-09-01T01:23:58.000Z
+- [España necesita generosidad y altura de miras.](https://www.larazon.es/espana/espana-necesita-generosidad-altura-miras_202609016a95be322d7d3022177982d7.html?utm_source=lootura.com) — 2026-09-01T01:20:45.000Z
+- [La factura madrileña de la vuelta al cole, la más alta de España](https://www.larazon.es/madrid/factura-madrilena-vuelta-cole-mas-alta-espana_202609016a9629104941316b1e72e06a.html?utm_source=lootura.com) — 2026-09-01T01:23:28.000Z
+- [El liderazgo no se va de vacaciones](https://okdiario.com/opinion/liderazgo-no-va-vacaciones-20204395/amp?utm_source=lootura.com) — 2026-09-01T03:23:07.000Z
+- [Las secuelas de los incendios: erosión, inundaciones, contaminación del agua y degradación de ecosistemas](https://theconversation.com/las-secuelas-de-los-incendios-erosion-inundaciones-contaminacion-del-agua-y-degradacion-de-ecosistemas-290263?utm_source=lootura.com) — 2026-08-31T16:32:59.000Z
+- [España o la ajenitud de lo propio](https://theobjective.com/elsubjetivo/opinion/2026-09-01/espana-ajenitud-propio-articulo-marta-martin/?utm_source=lootura.com) — 2026-09-01T03:25:00.000Z

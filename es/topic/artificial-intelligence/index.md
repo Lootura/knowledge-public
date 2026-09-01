@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las mejores tecnológicas para invertir ahora](https://www.expansion.com/mercados/2026/08/15/6a7f52a1e5fdea22638b459b.html?utm_source=lootura.com) — 2026-08-14T22:11:48.000Z
+- [Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos](https://www.businessinsider.es/defensa-espacio/como-ia-esta-cambiando-ejercito-ucrania-buscar-atacar-enemigos_7031093_0.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z

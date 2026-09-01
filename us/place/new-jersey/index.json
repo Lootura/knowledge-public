@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
+      "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South , in New Jersey, the break allows her to ramp up her extracurricular pursuits. Much of her time is spent assisting with IEEE Princeton Central Jersey Section activities.",
+      "date": "2026-08-31"
+    },
     {
       "title": "‘We get 200 tourists a day’: when your house becomes a TV star",
       "summary": "What’s it like to live on the set of a soap opera? Or above Ted Lasso’s favourite pub? The residents of the homes made famous by hit TV shows tell all Half the world recognises the apartment that Carrie Bradshaw lives in. Or the New Jersey mansion where Tony Soprano ate, slept and obsessed over the ducks in his swimmin.",
@@ -67,13 +72,15 @@
       "title": "'Software Error' Led Hundreds of Noncitizens to Vote in NJ",
       "summary": "New Jersey Gov. Mikie Sherrill says a DMV software error led to more than 6,000 noncitizens being registered to vote when they signed up for driver’s licenses or ID cards. Four hundred of them actually cast ballots in New Jersey elections between 2023 and 2024. The governor says there is no evidence that any elections.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
-      "summary": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
+      "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T18:00:01.000Z",
+      "sourceId": "lootura-us-ieee-spectrum"
+    }
+  ],
+  "evidenceCount": 1
 }

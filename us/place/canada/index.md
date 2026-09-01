@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.
+
+At gathering of G20 finance ministers, the Treasury secretary accused Canada’s prime minister of starting a “political shouting match” over U.S. trade policies.
+
+Date: 2026-08-31
 
 ### What Wildfire Smoke Reveals About How We Respond to Climate Risk
 
@@ -62,12 +68,6 @@ British Columbia declared a state of emergency Saturday after a fast-moving wild
 
 Date: 2026-08-09
 
-### As the Climate Warms, Beavers are Coming for Canada’s Arctic
-
-Drawn by a warming climate, Canada’s furry national symbol is colonizing new territory, evading Inuit hunters and reshaping the world they find.
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.](https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html?utm_source=lootura.com) — 2026-08-31T20:47:50.000Z

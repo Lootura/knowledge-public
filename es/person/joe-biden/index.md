@@ -34,4 +34,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
+
+### Los bancos duplican la liquidez que piden al BCE este año
+
+La ventanilla de Fráncfort vuelve a estar activa. En los últimos meses, los bancos de la zona euro han perdido el miedo a pedir dinero al Banco Central Europeo (BCE) y han disparado sus solicitudes a la barra libre de liquidez que semanalmente ofrece la autoridad monetaria. Las reticencias a usar este recurso empiezan.
+
+Date: 2026-08-31
 
 ### Revolut logra licencia bancaria francesa y traslada a París el centro de su negocio en España
 
@@ -62,12 +68,6 @@ Un retrato del compositor alemán Ludwig van Beethoven, de la cantante de ópera
 
 Date: 2026-07-23
 
-### El BCE revela los billetes del futuro: así son las propuestas para los nuevos euros
-
-Los billetes del futuro se acercan. El Banco Central Europeo (BCE) ha dado a conocer hoy las propuestas de diseño preseleccionadas para la próxima serie de euros y ha puesto en marcha una encuesta para recabar la opinión de los ciudadanos de toda Europa. Seguir leyendo.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Los bancos duplican la liquidez que piden al BCE este año](https://www.expansion.com/empresas/banca/2026/09/01/6a95fb54e5fdeabb278b4585.html?utm_source=lootura.com) — 2026-08-31T22:44:34.000Z

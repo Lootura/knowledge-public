@@ -34,4 +34,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [‘The Mandalorian and Grogu’ confirma su fecha de estreno en Disney+](https://hipertextual.com/cine-television/the-mandalorian-and-grogu-fecha-de-estreno-disney/?utm_source=lootura.com) — 2026-08-14T17:21:34.000Z
+No public source links.

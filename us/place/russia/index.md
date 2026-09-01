@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+
+The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
+
+Date: 2026-09-01
+
+### Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China
+
+A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
+
+Date: 2026-08-31
 
 ### Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge
 
@@ -56,19 +68,7 @@ President Trump’s Air Force One subterfuge pales in comparison to the secrecy 
 
 Date: 2026-08-12
 
-### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
-
-Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.
-
-Date: 2026-08-11
-
-### Funding milestone detected
-
-Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge](https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com) — 2026-08-14T16:43:48.000Z
-- [Russia Campaigned to Derail Moldova’s Pro-Western Government](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com) — 2026-08-14T23:55:21.000Z
+- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
+- [Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China](https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com) — 2026-08-31T20:11:10.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,41 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
+      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
+      "summary": "Army Secretary Dan Driscoll is resigning, the White House confirmed.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Justices give Trump major legal victory on ballroom project",
+      "summary": "A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll submits resignation to White House",
+      "summary": "Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
+      "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "US supreme court allows Trump to keep building $400m White House ballroom",
+      "summary": "Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
       "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
@@ -32,50 +67,51 @@
       "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
       "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Trump’s dismal Patriot Games were the Hunger Games ordered off Temu | Aaron Timms",
-      "summary": "Monkey bars, gawky teenagers and a presidential cameo – all given a prime-time showcase by ABC – combined for the most leaden hour of America’s 250th birthday summer Culturally, it’s been a tough few months for Donald Trump. The UFC night he held at the White House for his birthday got lost amid the froth and excitemen.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-      "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
-      "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "President Trump is pressing ahead with an ambitious effort to reshape Washington with new construction and renovations. The White House projects alone are now estimated to cost at least $900 million, with taxpayers funding a significant portion, despite earlier promises that private donors would cover most of the bill.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Who Might Replace Karoline Leavitt as Press Secretary?",
-      "summary": "White House Press Secretary Karoline Leavitt addresses reporters during a news conference in the Brady Press Briefing Room at the White House in Washington, D.C., on December 1, 2025. —Chip Somodevilla—Getty Images With White House Press Secretary Karoline Leavitt set to step down from her role at the end of the month,.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "White House Press Secretary Karoline Leavitt to Step Down",
-      "summary": "President Donald Trump is announcing Karoline Leavitt will be departing as White House Press Secretary at the end of August after more than a year and half on the job. NBC’s Garrett Haake reports for TODAY.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-      "url": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T22:55:06.000Z",
+      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
+      "url": "https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:52:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
+      "url": "https://www.cbsnews.com/news/army-secretary-dan-driscoll-resigns/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:05:25.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:56:53.000Z",
+      "sourceId": "lootura-us-cnbc"
+    },
+    {
+      "title": "Justices give Trump major legal victory on ballroom project",
+      "url": "https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:12:55.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll submits resignation to White House",
+      "url": "https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:19:30.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:50:35.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "US supreme court allows Trump to keep building $400m White House ballroom",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:13:12.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 8
 }

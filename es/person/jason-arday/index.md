@@ -28,5 +28,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Aparece muerto Jason Arday, el profesor universitario que dimitió la semana acusado de plagios y mentiras](https://okdiario.com/internacional/aparece-muerto-jason-arday-profesor-universitario-raza-negra-que-dimitio-semana-pasada-plagiar-tesis-19184613?utm_source=lootura.com) — 2026-08-14T20:18:24.000Z
-- [Hallan muerto a Jason Arday, el exprofesor de Cambridge que plagió y falseó su currículo](https://theobjective.com/internacional/2026-08-14/hallan-muerto-jason-arday-exprofesor-cambridge-implicado-escandalo-plagio/?amp=&utm_source=lootura.com) — 2026-08-14T20:49:16.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”",
+      "summary": "“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.",
+      "date": "2026-08-31"
+    },
     {
       "title": "El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público",
       "summary": "Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.",
@@ -60,13 +65,15 @@
       "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
       "summary": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas",
-      "summary": "El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”",
+      "url": "https://elpais.com/espana/2026-08-31/sanchez-defiende-a-zapatero-y-asegura-que-los-expresidentes-se-dedican-al-lobby-en-la-amplisima-mayoria-de-democracias.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T08:32:22.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

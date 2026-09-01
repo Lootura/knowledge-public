@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/west-virginia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/west-virginia/index.json",
   "description": "Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-07T16:52:17.882Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "Almost Heaven",
     "State of West Virginia",
@@ -20,6 +20,11 @@
     "West Virginia, United States"
   ],
   "changes": [
+    {
+      "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail",
+      "summary": "Dale Sanders started last Sept. 6 in West Virginia, hiked the nearly 2,200-mile trail in out-of-order sections with breaks in between, and finished Monday atop Mount Katahdin in Maine.",
+      "date": "2026-08-31"
+    },
     {
       "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
       "summary": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country Roads.",
@@ -51,6 +56,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail",
+      "url": "https://www.pbs.org/newshour/nation/at-91-dale-grey-beard-sanders-reclaims-record-as-oldest-hiker-to-complete-the-appalachian-trail?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:00:34.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

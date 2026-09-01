@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Un curs entre la ràbia i l’esperança
+
+Comença un nou curs escolar amb el PP al capdavant de la Generalitat. El sentiment predominant entre la comunitat educativa és de ràbia i esperança. La ràbia és conseqüència dels continus atacs que ha patit l’educació pública des de l’arribada del PP al govern amb el suport de l’extrema dreta. Totes les decisions de la.
+
+Date: 2026-09-01
+
+### "Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"
+
+El presidente calificó ayer de "involución" una posible ecuación de gobierno conservador Leer.
+
+Date: 2026-08-31
+
+### Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño
+
+La baronesa del PP blinda la gestión de su portavoz y consejero de mayor confianza mientras el presidente del Gobierno aprovecha su primera aparición del curso para atacarla por la compra del ático Leer.
+
+Date: 2026-08-31
+
+### El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”
+
+El Partido Popular reprocha al presidente del Gobierno que exculpe a Marruecos de la crisis de Ceuta y busque culpables en otro lado, tras haber apuntado a Rusia, Israel y a la “internacional ultraderechista” de propagar los bulos que provocaron la entrada masiva. “Le ha faltado culpar a Franco”, ha ironizado este lune.
+
+Date: 2026-08-31
 
 ### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
 
@@ -44,30 +68,9 @@ El Ministerio de Infancia reunía este jueves a las comunidades autónomas para 
 
 Date: 2026-08-13
 
-### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
-
-Las comunidades autónomas gobernadas por el PP han prometido cumplir la ley y aceptar los menores migrantes que les correspondan para aliviar la emergencia en Ceuta, pero eso no implica que renuncien a confrontar con el Gobierno. La primera toma de contacto del Ministerio de Juventud e Infancia, que dirige Sira Rego, c.
-
-Date: 2026-08-13
-
-### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
-
-"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
-
-Date: 2026-08-13
-
-### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
-
-Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
-
-Date: 2026-08-13
-
-### Robles aplaza su comparecencia en el Senado para poder ser más "precisa y exhaustiva" en sus explicaciones sobre la crisis de Ceuta
-
-El PP acusa a Moncloa de frenar las explicaciones de la ministra tras la avalancha migratoria Leer.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
+- ["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"](https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com) — 2026-08-31T20:47:29.000Z
+- [Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño](https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html?utm_source=lootura.com) — 2026-08-31T22:20:48.000Z
+- [El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”](https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html?utm_source=lootura.com) — 2026-08-31T12:58:08.000Z
+- [Un curs entre la ràbia i l’esperança](https://www.elperiodicomediterraneo.com/opinion/2026/09/01/curs-rabia-l-esperanca-133821106.html?utm_source=lootura.com) — 2026-09-01T03:01:01.000Z

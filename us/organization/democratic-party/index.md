@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Trump calls for federal tax incentives to benefit TV and movie industry
+
+The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.
+
+Date: 2026-09-01
+
+### Tamara Keith and Amy Walter on Trump's midterm influence
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
+
+Date: 2026-08-31
+
+### Poll: Working class voters are still up for grabs
+
+Republicans and Democrats are fighting over working class voters. Americans don’t believe the rhetoric. Fifty-five percent of Americans think politicians are just trying to win votes when they say they will help the working class, according to new results from The POLITICO Poll. It’s a view held by majorities of people.
+
+Date: 2026-08-31
 
 ### House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries
 
@@ -50,26 +68,8 @@ David Crowley has a strategy to win over the voters who backed democratic social
 
 Date: 2026-08-13
 
-### Democratic senators demand answers about conditions aboard USS Abraham Lincoln
-
-Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln during the aircraft carrier's record-setting deployment.
-
-Date: 2026-08-13
-
-### Rep. Ro Khanna shares why he thinks Democrats should nominate a progressive in 2028
-
-NPR's Steve Inskeep asks Democratic Rep. Ro Khanna of California why he says Democrats should nominate a progressive for president in 2028 and why he's considering a run.
-
-Date: 2026-08-13
-
-### Primary voters send mixed signals about what they want from the Democratic Party
-
-Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries](https://www.nbcnews.com/meet-the-press/video/house-republican-says-gop-is-united-as-democrats-wage-proxy-battles-in-primaries-268335173958?utm_source=lootura.com) — 2026-08-14T20:45:14.000Z
-- [Democrats grapple with Trump's push to limit transparency within the executive branch](https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com) — 2026-08-14T21:49:04.000Z
-- [South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman](https://www.nytimes.com/2026/08/14/us/politics/florida-senate-nixon-tlaib.html?utm_source=lootura.com) — 2026-08-14T23:34:54.000Z
+- [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
+- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
+- [Poll: Working class voters are still up for grabs](https://www.politico.com/news/2026/08/31/working-class-voters-midterms-poll-01054992?utm_source=lootura.com) — 2026-08-31T09:00:00.000Z

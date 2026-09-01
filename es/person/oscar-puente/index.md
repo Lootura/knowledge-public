@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión
+
+Cercanías de Madrid estrenó ayer en presencia del ministro de Transportes, Óscar Puente, las primeras unidades de los trenes de gran capacidad de Stadler comprados por Renfe . Un material rodante que ha sido homologado a contra reloj para entrar en servicio en la fecha que había comprometido el Gobierno y que permite a.
+
+Date: 2026-09-01
 
 ### El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes
 
@@ -62,12 +68,6 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente de
 
 Date: 2026-07-25
 
-### Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»
-
-La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión](https://www.larazon.es/economia/nuevos-trenes-cercanias-madrid-posibilitan-renovacion-cascada-tres-nucleos-sola-inversion_202609016a95746b4941316b1e72311b.html?utm_source=lootura.com) — 2026-09-01T01:24:32.000Z

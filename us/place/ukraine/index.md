@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+
+The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
+
+Date: 2026-09-01
+
+### Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief
+
+The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine.
+
+Date: 2026-08-31
 
 ### Daily fragment: Donald Trump
 
@@ -56,18 +68,7 @@ Ukraine's drone forces could strike seven times more targets in Crimea if Wester
 
 Date: 2026-08-10
 
-### Ukrainian drone strikes deep inside Russia kill at least 13, authorities say
-
-The death toll is one of the highest among Russian civilians in recent months, as Ukraine seeks to disrupt Russia's oil supply.
-
-Date: 2026-08-10
-
-### Why Russia and Ukraine can't stop each other's air attacks
-
-Russia and Ukraine are both striking farther into each other's territory, and neither side has a good way to stop the attacks. With no quick fix, the winter ahead could be especially hard.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Daily fragment: Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump?utm_source=lootura.com) — 2026-08-15T04:00:00.000Z
+- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
+- [Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief](https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html?utm_source=lootura.com) — 2026-08-31T18:16:50.000Z

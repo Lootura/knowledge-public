@@ -58,5 +58,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones](https://www.larazon.es/tecnologia-consumo/ee-uu-taiwan-preparan-drones-submarinos-autonomos-frente-presion-china-acuerdo-busca-vigilar-estrecho-exponer-tripulaciones_202608146a7eb7a271b42a0b5dee6caa.html?utm_source=lootura.com) — 2026-08-14T20:00:00.000Z
-- [El IPC de Argentina repuntó en julio al 33,8% interanual y al 2,1% mensual](https://theobjective.com/actualidad/2026-08-14/el-ipc-de-argentina-repunto-en-julio-al-338-interanual-y-al-21-mensual/?utm_source=lootura.com) — 2026-08-14T16:12:44.000Z
+No public source links.

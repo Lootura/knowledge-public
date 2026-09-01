@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.json",
   "description": "Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La amnistía, Europa y Conde-Pumpido",
+      "summary": "Entramos en septiembre y se supone que será en este mes cuando el Tribunal Constitucional de Conde-Pumpido decidirá acerca del recurso de Puigdemont , decisión que el presidente de la Generalitat espera como agua de mayo, consciente de que juega en campo propio. El día 16 de julio, el Tribunal de Justicia de la Unión E.",
+      "date": "2026-09-01"
+    },
     {
       "title": "El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años",
       "summary": "El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.",
@@ -37,6 +42,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La amnistía, Europa y Conde-Pumpido",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-01/amnistia-europa-conde-pumpido-articulo-martin-seco/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:25:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

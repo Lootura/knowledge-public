@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història
+
+Barcelona conserva receptes que formen part de la seva memòria gastronòmica , però algunes han quedat tan arraconades que avui gairebé ningú les coneix. És el cas de l’encasada , també anomenada enquesada, un dolç tradicional barceloní que a començaments del segle XX era prou popular per aparèixer en àpats destacats de.
+
+Date: 2026-09-01
+
+### La Generalitat esconde por qué ignoró los siete avisos sobre "errores" en las pruebas PISA en Cataluña
+
+La gerente del Ayuntamiento de Barcelona Marta Clari será la nueva secretaria general de Educación tras la destitución de Teresa Sambola Leer.
+
+Date: 2026-08-31
+
+### Sandra Iglesias (MiniMed): "La actitud marca la diferencia en la ejecución"
+
+En momentos de incertidumbre Sandra Iglesias (Barcelona, 1973) se aferra a un recuerdo anclado en el pasillo de un hospital de Barcelona. Cuenta que, hace años, mientras explicaba una terapia a un niño, otro pequeño en la sala, su hermano, sentado en una silla en silencio observaba con atención. "Cuando terminamos y av.
+
+Date: 2026-08-31
 
 ### Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)
 
@@ -50,24 +68,8 @@ El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de 
 
 Date: 2026-08-13
 
-### Fallece Juan Ignacio Marín Arce, sindicalista de CCOO, a los 73 años
-
-El sindicalista Juan Ignacio Marín Arce (Barcelona, 1953), quién fue secretario general de la Federación del Metal de CC.OO., ha fallecido a los 73 años,.
-
-Date: 2026-08-13
-
-### Asalto violento con intento de secuestro en un Airbnb de Barcelona
-
-Los Mossos d’Esquadra detuvieron el miércoles a dos hombres acusados de participar, junto a otros dos o tres, en el asalto violento a una vivienda del Eixample en el que retuvieron a un joven tunecino creador de contenido, de paso por Barcelona. El resto de la banda huyó por los patios del interior de manzana, mientras.
-
-Date: 2026-08-13
-
-### Vueling aprovecha la debilidad del tren de alta velocidad y se mete de lleno en la pelea por la conexión Barcelona-Madrid
-
-La aerolínea Vueling regresa al campo de batalla en que se ha convertido la conexión Madrid-Barcelona. La compañía reabrirá el 5 de octubre su ruta aérea entre las dos ciudades, tratando de aprovechar el hueco de mercado que han abierto las continuas disfunciones y retrasos que sufre la alta velocidad ferroviaria. La l.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [La Generalitat esconde por qué ignoró los siete avisos sobre "errores" en las pruebas PISA en Cataluña](https://www.elmundo.es/cataluna/2026/08/31/6a95e1a6fc6c835e428b45b2.html?utm_source=lootura.com) — 2026-08-31T20:47:09.000Z
+- [El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història](https://www.elnacional.cat/ca/gourmeteria/articles/dolc-tradicional-barcelona-esta-punt-desapareixer-mes-segle-historia_1688128_102.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z
+- [Sandra Iglesias (MiniMed): "La actitud marca la diferencia en la ejecución"](https://www.expansion.com/estilo-vida/gestion/2026/09/01/6a95548b468aeb4d1d8b4573.html?utm_source=lootura.com) — 2026-08-31T22:45:07.000Z

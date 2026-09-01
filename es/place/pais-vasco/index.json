@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,16 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo",
+      "summary": "Cataluña y País Vasco , las dos comunidades con un sistema educativo más condicionado por las políticas lingüísticas de sus gobiernos , presumieron durante años de resultados en PISA por encima de la media española y de la OCDE. La prueba, que se repite cada tres años y en la que participan cerca de cien países, es una.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000",
+      "summary": "El 37,7% de las 82.492 compañías vascas no ha presentado sus cuentas en el registro, ni tiene signos de actividad en los dos últimos años.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes",
       "summary": "Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.",
@@ -62,18 +72,21 @@
       "title": "El refugio de Anne Igartiburu en el País Vasco perfecto para verano",
       "summary": "En los últimos tiempos la parrilla de TVE ha experimentado diversos cambios, aunque ahí se mantiene Anne Igartiburu , en la cadena pública desde 1997. La presentadora vasca, que conduce actualmente 'D Corazón', el espacio de crónica social, junto a Javi de Hoyos, está a las puertas de cumplir tres décadas en Televisión.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Las carabelas portuguesas dejan 17 atendidos en solo tres días en Euskadi",
-      "summary": "Trece afectados tuvieron que ser trasladados a un centro sanitario, mientras Salud pide extremar la precaución ante un fin de semana de calor y playas llenas.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Euskadi comprará forrajes de forma conjunta ante la escasez de pastos por la sequía",
-      "summary": "Se lanzará una encuesta a todos los profesionales ganaderos para determinar cuántas toneladas se necesitan.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo",
+      "url": "https://www.abc.es/sociedad/cataluna-pais-vasco-trampean-pruebas-pisa-maquillar-20260901013301-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T23:33:01.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000",
+      "url": "https://www.diariovasco.com/economia/empresas/euskadi-lidera-junto-navarra-cifra-empresas-fantasma-20260901002215-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:22:15.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 2
 }

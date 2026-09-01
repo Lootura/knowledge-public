@@ -45,25 +45,6 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Ex-Cambridge professor dies week after resigning amid plagiarism allegations",
-      "url": "https://www.cbsnews.com/news/jason-arday-dies-cambridge-professor-plagiarism/?utm_source=lootura.com",
-      "publishedAt": "2026-08-15T00:05:13.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning",
-      "url": "https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:28:18.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-      "url": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T23:25:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

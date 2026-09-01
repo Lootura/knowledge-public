@@ -28,4 +28,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [La justicia francesa tumba la ley que prohíbe el uso de las redes sociales a menores de 15 años](https://theobjective.com/internacional/2026-08-14/justicia-francesa-tumba-ley-uso-redes-sociales-menores-15-anos/?utm_source=lootura.com) — 2026-08-14T17:07:30.000Z
+No public source links.

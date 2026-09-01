@@ -3,10 +3,22 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-07T20:38:00.126Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says
+
+Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.
+
+Date: 2026-09-01
+
+### Analyst breaks down challenges U.S. will face to unlock Venezuela's oil
+
+President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.
+
+Date: 2026-08-31
 
 ### Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings
 
@@ -56,18 +68,7 @@ Threat of social unrest rises as public indignation at lack of disaster aid come
 
 Date: 2026-07-14
 
-### Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela
-
-Plus, Sam Neill of “Jurassic Park” fame dies at 78.
-
-Date: 2026-07-13
-
-### After Venezuela Earthquakes, a Youth Baseball League Counts the Dead
-
-Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.
-
-Date: 2026-07-10
-
 ## Sources
 
-No public source links.
+- [Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says](https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com) — 2026-09-01T01:56:53.000Z
+- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z

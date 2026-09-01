@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
+No public source links.

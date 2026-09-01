@@ -3,71 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
+### Sánchez señala a Felipe VI para desviar su fiasco en Ceuta
 
-El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
+La reaparición de Pedro Sánchez después de un mes ausente de vacaciones durante la mayor crisis migratoria y de seguridad que ha sufrido Ceuta en su historia reciente, no sirvió para despejar las grandes incógnitas que rodearon la avalancha y que siguen hoy sin explicación. Tampoco para concretar los plazos del retorno.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### El PP califica la prórroga de la central de Almaraz como un "parche a una gestión ideologizada de Sánchez"
+### Moncloa deja en el aire que Sánchez acompañe al Rey en Ceuta ante el riesgo de enfadar a Mohamed VI
 
-El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un " parche a la gestión ideologizada de Sánchez ". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el " reconocimiento del fracaso" de la "política energética" del Gobierno , según fuentes del partido, "cuyas co.
+La visita de Felipe VI, que no será inminente, ha puesto al presidente ante la encrucijada de viajar con él y enojar a Marruecos o seguir ausente.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”
+### Ceuta, la crisi que va desbordar Sánchez
 
-La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notas Ayuso critica que Sánchez se dé “la gran vida con los impuestos y recursos de todos” mientras evita hablar del ático La Universidad Complutense de Madrid ha r.
+Pedro Sánchez tenia un pla per començar el curs i recuperar la iniciativa. No queda clar si el fracàs de l'intent respon al disseny o a l'execució. Els titulars dels prime time estrenaven temporada a Ceuta i Presidència va decidir respondre a la crisi que tot ho ocupa amb una entrevista a la Cadena SER, prèvia al Conse.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### Sánchez intenta esconder en el Supremo el expediente de Plus Ultra mientras presume de transparencia
+### En Pedro Sánchez perd aura
 
-El Gobierno sigue defendiendo la limpieza de la operación, pero El Debate lleva años pleiteando contra la negativa de Sánchez a hacer público el r...
+Sembla que això de deixar entrar a tot déu a Espanya i donar prioritat a les vacances per sobre de governar està passant factura a l’aura del president del govern espanyol. Si les coses continuen així, no és gaire difícil preveure que perdrà la batalla de farmejar aura i que haurà d’entregar les claus del Palau de la M.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### Armengol gasta más de cuatro millones en los pinganillos que Sánchez concedió al independentismo
+### Retrato de terno descorbatado con hombre gris
 
-Españoles necesitando de traducción simultánea para hablar entre sí. Por ahora esto tiene el precio de casi cuatro millones de euros en tres años, pero el Congreso de los...
+Apoyar a los amigos en sus debuts es de ley, aunque se haga con un terno sin corbata. Que Sánchez lleva los trajes como lleva su cargo y dignidad: aparentemente revestido de seriedad y en el fondo despechugado y con un desahogo alejado de toda compostura . Y acorde con esa presentación fue toda su alocución. Ni el tono.
 
-Date: 2026-08-13
+Date: 2026-09-01
 
-### Envían a prisión a la hija del matrimonio asesinado en Tauste y a su pareja
+### El liderazgo no se va de vacaciones
 
-Los acusados del doble homicidio de Javier Sánchez, ex responsable de la Unión de Agricultores y Ganaderos de Aragón y su esposa, Esther Latorre, se han negado a declarar Leer.
+Pedro Sánchez ha disfrutado este verano, de momento, de 27 días de vacaciones, principalmente en la Residencia Real de La Mareta (Lanzarote). No habría nada especialmente relevante en ello si durante esas mismas semanas España no hubiera sufrido la crisis fronteriza más grave de nuestra democracia, tanto por su dimensi.
 
-Date: 2026-08-13
+Date: 2026-09-01
 
-### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
+### Ceuta para aplazar las elecciones
 
-Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
+La premisa es que Pedro Sánchez aprovecha cualquier desgracia para sacar beneficio . En la entrevista en la Cadena SER dejó varias ideas que, entretejidas, apuntan a un plan que bien podría ser el aplazamiento de las elecciones. El primer mensaje fue la negación de la anormalidad en Ceuta y de la responsabilidad de Mar.
 
-Date: 2026-08-13
+Date: 2026-09-01
 
-### Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta
+### Pedro Sánchez, o la antidemocracia, por Antonio Elorza
 
-El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.
+«Nada de rendir cuentas. Encubrimiento y exculpación de sí mismo como premisas para lo de siempre: rematar la faena con el ataque a la derecha».
 
-Date: 2026-08-13
+Date: 2026-09-01
 
-### Ayuso critica que Sánchez se dé "la gran vida con los impuestos y recursos de todos" mientras evita hablar del ático
+### El Rey se reúne con Sánchez en un encuentro ya programado en plena crisis migratoria en Ceuta
 
-La dirigente madrileña esquiva las preguntas de la prensa mientras espera que se diluya la polémica por el ático adquirido por la Comunidad de Madrid, ahora puesto de nuevo a la venta Ayuso redobla los ataques contra el Gobierno para enterrar la polémica del ático La presidenta de la Comunidad de Madrid, Isabel Díaz Ay.
+El Rey Felipe VI se ha reunido la tarde de este lunes con el presidente del Gobierno, Pedro Sánchez , en uno de los despachos habituales que mantienen varias veces al mes. El encuentro estaba agendado desde antes del verano y ha trascurrido con normalidad, según han informado fuentes de Moncloa a 20minutos . La reunión.
 
-Date: 2026-08-13
+Date: 2026-08-31
 
-### Gambas para Sánchez y menas para Ceuta
+### Israel acusa a Sánchez de "mentir con descaro" por vincular a Tel Aviv y Moscú con los bulos difundidos sobre la crisis en Ceuta
 
-Es impresionante comprobar lo poco que le importan a Pedro Sánchez las desgracias que sufren los españoles. Mientras Ceuta está viviendo la peor crisis de su historia reciente y una de las situaciones más delicadas que haya vivido últimamente cualquier ciudad española, el presidente del Gobierno, con su familia y a cos.
+El ministro de Exteriores de Israel , Gideon Saar, ha acusado este lunes al presidente del Gobierno, Pedro Sánchez , de lanzar "mentiras descaradas" por vincular a Tel Aviv a la crisis migratoria en Ceuta . Estas declaraciones se han producido tras la entrevista a Sánchez en la cadena Ser . En esta, el jefe del Ejecuti.
 
-Date: 2026-08-13
+Date: 2026-08-31
 
 ## Fuentes
 
-- [Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"](https://www.elmundo.es/espana/2026/08/14/6a7eee9ce4d4d88b488b459d.html?utm_source=lootura.com) — 2026-08-14T10:41:53.000Z
+- [El Rey se reúne con Sánchez en un encuentro ya programado en plena crisis migratoria en Ceuta](https://www.20minutos.es/nacional/rey-se-reune-con-sanchez-un-encuentro-ya-programado-plena-crisis-migratoria-ceuta_7031234_0.html?utm_source=lootura.com) — 2026-08-31T20:16:10.000Z
+- [Israel acusa a Sánchez de "mentir con descaro" por vincular a Tel Aviv y Moscú con los bulos difundidos sobre la crisis en Ceuta](https://www.20minutos.es/internacional/israel-acusa-sanchez-mentir-con-descaro-por-vincular-tel-aviv-moscu-con-los-bulos-difundidos-sobre-crisis-ceuta_7031113_0.html?utm_source=lootura.com) — 2026-08-31T15:05:40.000Z
+- [Alcaldes socialistas se rebelan contra la orden de Ferraz de no secundar la protesta por Ceuta](https://www.abc.es/espana/alcaldes-socialistas-rebelan-ordenes-ferraz-secundar-protesta-20260831013420-nt.html?utm_source=lootura.com) — 2026-08-31T23:34:20.000Z
+- [Sánchez señala a Felipe VI para desviar su fiasco en Ceuta](https://www.abc.es/espana/sanchez-involucra-rey-crisis-ceuta-20260831195137-nt.html?utm_source=lootura.com) — 2026-09-01T00:05:56.000Z
+- [Moncloa deja en el aire que Sánchez acompañe al Rey en Ceuta ante el riesgo de enfadar a Mohamed VI](https://www.eldebate.com/espana/20260901/moncloa-deja-aire-sanchez-acompane-rey-ceuta-ante-riesgo-enfadar-mohamed-vi_453910.html?utm_source=lootura.com) — 2026-09-01T02:30:00.000Z
+- [Los 18 primeros antidisturbios a Ceuta fueron para proteger a Sánchez: quejas policiales por los recursos para cargos públicos](https://www.elmundo.es/espana/2026/08/31/6a95a923e4d4d8f55b8b4589.html?utm_source=lootura.com) — 2026-08-31T20:48:11.000Z
+- ["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"](https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com) — 2026-08-31T20:47:29.000Z
+- [La realidad desborda los cálculos de Sánchez y todavía faltan 4.000 plazas más en Ceuta](https://amp.elmundo.es/espana/2026/09/01/6a95a4c3e85ece8d208b4595.html?utm_source=lootura.com) — 2026-08-31T23:04:22.000Z
+- [Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño](https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html?utm_source=lootura.com) — 2026-08-31T22:20:48.000Z
+- [Ceuta, la crisi que va desbordar Sánchez](https://www.elnacional.cat/ca/opinio/ceuta-crisi-va-desbordar-sanchez-pilar-velasco_1688569_102.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z

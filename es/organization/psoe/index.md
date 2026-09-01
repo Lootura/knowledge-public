@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción
+
+Comienza el nuevo curso y, con él, empieza a reactivarse la actividad judicial tras el parón estival. Este mes de septiembre, que estará marcado de nuevo por las causas judiciales que afectan al PSOE y el Gobierno, vuelven también a calentar motores en el Consejo General del Poder Judicial (CGPJ), donde los vocales esp.
+
+Date: 2026-09-01
 
 ### Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno
 
@@ -62,15 +68,6 @@ Date: 2026-08-13
 
 Date: 2026-08-13
 
-### El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»
-
-El primer juez que investigó la presunta 'cloaca' del PSOE , Arturo Zamarriego, apunta a que Santos Cerdán, exsecretario de Organización del PSOE, pago con fondos del partido a Leire Díez por los «servicios» llevados a cabo para desestabilizar las investigaciones judiciales que afectaban al Gobierno y a Ferraz. En un a.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [El chavismo se fractura tras la captura de Maduro y los terremotos](https://www.abc.es/internacional/chavismo-fractura-tras-captura-maduro-20260814013114-nt.html?utm_source=lootura.com) — 2026-08-14T23:39:31.000Z
-- [Deserción masiva en el PSOE de Huelva, el feudo socialista que parecía inexpugnable](https://www.elmundo.es/andalucia/2026/08/14/6a78943421efa04b648b45b7.html?utm_source=lootura.com) — 2026-08-14T20:44:46.000Z
-- [El último golpe a la credibilidad de Sumar: su bandera verde se hunde con el PSOE en Almaraz](https://www.elmundo.es/espana/2026/08/14/6a7f5d27e4d4d8a1138b45d8.html?utm_source=lootura.com) — 2026-08-14T20:44:31.000Z
-- [Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno](https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com) — 2026-08-14T09:39:41.000Z
+- [El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción](https://www.elconfidencial.com/espana/2026-09-01/cgpj-bloqueo-renovacion-salas-clave-supremo_4399377/?utm_source=lootura.com) — 2026-09-01T03:00:00.000Z

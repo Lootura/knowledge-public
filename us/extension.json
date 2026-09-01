@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T02:43:46.688Z",
+  "generatedAt": "2026-09-01T03:47:56.913Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|143|1786755877915",
+    "signature": "1.18.0|145|1788233516776",
     "version": "1.18.0",
-    "build": 143,
-    "latestEntityUpdatedAt": "2026-08-15T01:04:37.915Z"
+    "build": 145,
+    "latestEntityUpdatedAt": "2026-09-01T03:31:56.776Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-luigi-mangione",
-      "name": "Luigi Mangione",
+      "id": "usa-supreme-court",
+      "name": "Supreme court",
       "type": "organization",
-      "title": "Luigi Mangione admits to killing CEO",
-      "url": "https://atlas.lootura.com/us/organization/luigi-mangione",
-      "path": "/us/organization/luigi-mangione",
-      "updatedAt": "2026-08-15T01:04:37.915Z",
-      "score": 1709,
-      "sourceCount": 12,
+      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
+      "url": "https://atlas.lootura.com/us/organization/supreme-court",
+      "path": "/us/organization/supreme-court",
+      "updatedAt": "2026-09-01T03:31:56.776Z",
+      "score": 1716,
+      "sourceCount": 42,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-abraham-lincoln",
-        "name": "Abraham Lincoln",
-        "type": "person",
-        "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
-        "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
-        "path": "/us/person/abraham-lincoln",
-        "updatedAt": "2026-08-15T01:04:37.915Z",
-        "score": 1683,
-        "sourceCount": 14,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "Daily fragment: Donald Trump",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-08-15T01:04:37.915Z",
-        "score": 1662,
-        "sourceCount": 767,
+        "id": "usa-grand-canyon",
+        "name": "Grand Canyon",
+        "type": "place",
+        "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
+        "url": "https://atlas.lootura.com/us/place/grand-canyon",
+        "path": "/us/place/grand-canyon",
+        "updatedAt": "2026-09-01T03:31:56.776Z",
+        "score": 1700,
+        "sourceCount": 6,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +44,42 @@
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure",
+        "title": "Could an American win men's singles at this year's U.S. Open?",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-08-15T01:04:37.915Z",
-        "score": 1662,
-        "sourceCount": 781,
+        "updatedAt": "2026-09-01T03:31:56.776Z",
+        "score": 1680,
+        "sourceCount": 793,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-new-york",
-        "name": "New York City",
+        "id": "usa-venezuela",
+        "name": "Venezuela",
         "type": "place",
-        "title": "What’s Next for Luigi Mangione After His Guilty Plea?",
-        "url": "https://atlas.lootura.com/us/place/new-york",
-        "path": "/us/place/new-york",
-        "updatedAt": "2026-08-15T01:04:37.915Z",
-        "score": 1650,
-        "sourceCount": 100,
+        "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+        "url": "https://atlas.lootura.com/us/place/venezuela",
+        "path": "/us/place/venezuela",
+        "updatedAt": "2026-09-01T03:31:56.776Z",
+        "score": 1670,
+        "sourceCount": 14,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-lionel-messi",
+        "name": "Lionel Messi",
+        "type": "person",
+        "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
+        "url": "https://atlas.lootura.com/us/person/lionel-messi",
+        "path": "/us/person/lionel-messi",
+        "updatedAt": "2026-09-01T03:31:56.776Z",
+        "score": 1659,
+        "sourceCount": 3,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 161
+    "publicEntityCount": 170
   }
 }

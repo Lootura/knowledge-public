@@ -70,7 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [Luigi Mangione tells judge of ‘intent to shoot Brian Thompson’](https://www.nbcnews.com/now/video/luigi-mangione-tells-judge-of-intent-to-shoot-brian-thompson-268318277657?utm_source=lootura.com) — 2026-08-14T15:55:39.000Z
-- [Luigi Mangione admits to killing CEO](https://www.nbcnews.com/nightly-news/video/luigi-mangione-admits-to-killing-ceo-268342853771?utm_source=lootura.com) — 2026-08-14T23:07:24.000Z
-- [Mangione pleads guilty in federal court, leaving fate of state trial uncertain](https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea?utm_source=lootura.com) — 2026-08-14T16:05:24.000Z
-- [Luigi Mangione’s Case Hit a Cultural Nerve](https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html?utm_source=lootura.com) — 2026-08-14T22:27:24.000Z
+No public source links.

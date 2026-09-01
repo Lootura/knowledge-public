@@ -1,0 +1,59 @@
+{
+  "id": "usa-lionel-messi",
+  "name": "Lionel Messi",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/lionel-messi",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/lionel-messi",
+  "markdownUrl": "https://atlas.lootura.com/us/person/lionel-messi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/lionel-messi/index.json",
+  "description": "Follow Lionel Messi, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "aliases": [
+    "Messi",
+    "GOAT"
+  ],
+  "changes": [
+    {
+      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+      "summary": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer. (Image credit: Sergei Grits).",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
+      "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
+      "summary": "Lionel Messi’s retirement from the national soccer team, though widely expected, sparked fears of a diminished squad, and heartbreak over the departure of a national icon.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Lionel Messi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T16:37:05.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:50:35.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Lionel Messi’s Retirement From Soccer Sparks Heartbreak Across Argentina",
+      "url": "https://www.nytimes.com/2026/08/31/world/americas/lionel-messi-retirement-soccer-argentina.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:00:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
+}

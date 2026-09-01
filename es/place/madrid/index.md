@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión
+
+Cercanías de Madrid estrenó ayer en presencia del ministro de Transportes, Óscar Puente, las primeras unidades de los trenes de gran capacidad de Stadler comprados por Renfe . Un material rodante que ha sido homologado a contra reloj para entrar en servicio en la fecha que había comprometido el Gobierno y que permite a.
+
+Date: 2026-09-01
+
+### La factura madrileña de la vuelta al cole, la más alta de España
+
+El lápiz y el papel no son solo para los niños; también para los padres que, durante estos días, se ven obligados a hacer cuentas con vistas a cuadrar la economía familiar. A estas alturas no hay un hogar que se sobresalte por el encarecimiento de la «vuelta al cole». Y menos si viven en la Comunidad de Madrid, región.
+
+Date: 2026-09-01
+
+### Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”
+
+Pedro Sánchez se ha referido este lunes a la polémica que lleva un mes lastrando la imagen de la presidenta madrileña, Isabel Díaz Ayuso: el piso adquirido por la Comunidad de Madrid por 6,3 millones de euros , para uso de Ayuso como “oficina” temporal, pese a que la propiedad solo puede utilizarse como vivienda. “Lo q.
+
+Date: 2026-08-31
+
+### Felipe VI y la crisis de Ceuta: ¿hasta dónde puede actuar el rey sin el Gobierno?
+
+Felipe VI, durante la entrega de becas 'La Caixa' en el centro cultural CaixaForum el 12 de julio de 2023 en Madrid. OSCAR GONZALEZ FUENTES/Shutterstock A propósito de la crisis de seguridad nacional que padece Ceuta desde los dos últimos días de julio de 2026 , es inevitable preguntarse qué puede hacer el rey de Españ.
+
+Date: 2026-08-31
 
 ### El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham
 
@@ -44,32 +68,9 @@ La Unidad de Planificación Avanzada y Manufactura 3D (UPAM3D) del Hospital Gene
 
 Date: 2026-08-14
 
-### La casa del portero es ya un negocio inmobiliario en Madrid: “Reformada, genera unos 1.000 euros al mes para los vecinos”
-
-Bastan 20 segundos de búsqueda en algún portal inmobiliario para comprobar que en Madrid hasta la casa del portero se ha convertido en un negocio inmobiliario. Y es cada vez más lucrativo. En un edificio de la calle del Doctor Castelo, en Retiro, un anuncio destaca que “la antigua vivienda del portero ha sido reformada.
-
-Date: 2026-08-14
-
-### Rafa Mora, 43 años: «La media de lo que me han costado mis pisos está entre 40.000 y 55.000 euros; ahora, gano 6.000 euros en alquileres»
-
-Rafa Mora se sacó, hace unos años, una plaza como policía municipal en la ciudad madrileña de Pozuelo de Alarcón . Pero no solamente eso. El que fuera tronista en Mujeres, hombres y viceversa ha decidido invertir en varios pisos por toda la Comunidad de Madrid y alrededores. «Compramos el primer piso por 80.000 euros,.
-
-Date: 2026-08-14
-
-### Madrid estrena nuevos mapas interactivos en las marquesinas de autobuses interurbanos
-
-Las marquesinas de los autobuses interurbanos de la Comunidad de Madrid comienzan a incorporar una nueva herramienta que permitirá a sus usuarios consultar información sobre el transporte público. Se trata de pantallas táctiles con mapas interactivos que permitirán consultar datos de la red de transporte, localizar par.
-
-Date: 2026-08-14
-
-### La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”
-
-La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notas Ayuso critica que Sánchez se dé “la gran vida con los impuestos y recursos de todos” mientras evita hablar del ático La Universidad Complutense de Madrid ha r.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [La Liga de los campeones del mundo frente a la misión de Mourinho](https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dece6e4d4d8a1138b459a.html?utm_source=lootura.com) — 2026-08-14T23:04:29.000Z
-- [Diomandé, Gordon, Lee... LaLiga vuelve con fuerza al mercado y crece en gasto](https://www.elmundo.es/deportes/futbol/primera-division/2026/08/15/6a7dfe0be85eced76c8b4573.html?utm_source=lootura.com) — 2026-08-14T23:04:30.000Z
-- [El fichaje del 'Cuti' Romero por el Atlético está al caer: anuncia su marcha del Tottenham](https://okdiario.com/deportes/fichaje-del-cuti-romero-atletico-esta-caer-anuncia-marcha-del-tottenham-19184639/amp?utm_source=lootura.com) — 2026-08-14T20:27:53.000Z
+- [Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”](https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html?utm_source=lootura.com) — 2026-08-31T08:17:13.000Z
+- [Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión](https://www.larazon.es/economia/nuevos-trenes-cercanias-madrid-posibilitan-renovacion-cascada-tres-nucleos-sola-inversion_202609016a95746b4941316b1e72311b.html?utm_source=lootura.com) — 2026-09-01T01:24:32.000Z
+- [La factura madrileña de la vuelta al cole, la más alta de España](https://www.larazon.es/madrid/factura-madrilena-vuelta-cole-mas-alta-espana_202609016a9629104941316b1e72e06a.html?utm_source=lootura.com) — 2026-09-01T01:23:28.000Z
+- [Felipe VI y la crisis de Ceuta: ¿hasta dónde puede actuar el rey sin el Gobierno?](https://theconversation.com/felipe-vi-y-la-crisis-de-ceuta-hasta-donde-puede-actuar-el-rey-sin-el-gobierno-290491?utm_source=lootura.com) — 2026-08-31T17:29:35.000Z

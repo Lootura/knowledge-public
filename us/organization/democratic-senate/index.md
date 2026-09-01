@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-11T08:52:22.235Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech](https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html?utm_source=lootura.com) — 2026-09-01T00:45:07.000Z

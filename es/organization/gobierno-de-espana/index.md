@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [¿Cambia el calendario de cierre de las centrales nucleares en España?](https://theconversation.com/cambia-el-calendario-de-cierre-de-las-centrales-nucleares-en-espana-289830?utm_source=lootura.com) — 2026-08-14T21:19:13.000Z
+No public source links.

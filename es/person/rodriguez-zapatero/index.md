@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”
+
+“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.
+
+Date: 2026-08-31
 
 ### El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público
 
@@ -62,12 +68,6 @@ La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Lu
 
 Date: 2026-07-24
 
-### El juez tumba la nulidad que Zapatero pedía del ‘caso Plus Ultra’ por los registros y el bloqueo de sus cuentas
-
-El juez de la Audiencia Nacional José Luis Calama ha inadmitido a trámite el incidente de nulidad de actuaciones que la defensa de José Luis Rodríguez Zapatero había presentado contra doce resoluciones dictadas en el caso Plus Ultra o caso Zapatero , entre ellas los autos que autorizaron la entrada y registro en la sed.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”](https://elpais.com/espana/2026-08-31/sanchez-defiende-a-zapatero-y-asegura-que-los-expresidentes-se-dedican-al-lobby-en-la-amplisima-mayoria-de-democracias.html?utm_source=lootura.com) — 2026-08-31T08:32:22.000Z

@@ -3,20 +3,26 @@
 > Follow Mykhailo Fedorov, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-16T20:55:05.764Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/person/mykhailo-fedorov
 
 ## Recent changes
 
-### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
+### Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief
 
-Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
+The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine.
 
-Date: 2026-07-16
+Date: 2026-08-31
 
 ### Discovered by Atlas
 
 Mykhailo Fedorov first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-16
+
+### Ukrainian's Zelenskyy faces major backlash for ousting defense chief Mykhailo Fedorov amid progress vs. Russia
+
+Ukrainians are demonstrating in Kyiv and senior figures announcing their resignations over President Volodymyr Zelenksyy's move to oust his popular defense chief.
 
 Date: 2026-07-16
 
@@ -40,4 +46,4 @@ Date: 2026-07-16
 
 ## Sources
 
-No public source links.
+- [Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief](https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html?utm_source=lootura.com) — 2026-08-31T18:16:50.000Z

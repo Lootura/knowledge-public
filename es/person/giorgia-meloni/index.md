@@ -3,7 +3,7 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno responde a Meloni y prorroga también el control a los pasajeros procedentes de Italia](https://elpais.com/espana/2026-08-31/el-gobierno-responde-a-meloni-y-prorroga-tambien-el-control-a-los-pasajeros-procedentes-de-italia.html?utm_source=lootura.com) — 2026-08-31T11:32:53.000Z

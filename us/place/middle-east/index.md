@@ -70,5 +70,4 @@ Date: 2026-08-11
 
 ## Sources
 
-- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure](https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html?utm_source=lootura.com) — 2026-08-14T16:16:22.000Z
+No public source links.

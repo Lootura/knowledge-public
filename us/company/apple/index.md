@@ -3,10 +3,28 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Read Tim Cook’s final message to Apple staff as CEO
+
+Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. Sending lots of love to the Apple com.
+
+Date: 2026-08-31
+
+### I went to the loneliest baseball game on Apple Vision Pro
+
+Ceddanne Rafaela is tagged out at home plate at Yankee Stadium on August 28th. | Getty Images This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple a.
+
+Date: 2026-08-31
+
+### Phil Schiller is leaving his biggest jobs at Apple
+
+Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg . Following the change, Schiller will keep his Apple Fellow title and continue "working on unspecified initiatives," Bloomberg reports. Schiller initially joined Appl.
+
+Date: 2026-08-31
 
 ### Discovered by Atlas
 
@@ -16,4 +34,6 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Read Tim Cook’s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff?utm_source=lootura.com) — 2026-08-31T16:30:45.000Z
+- [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game?utm_source=lootura.com) — 2026-08-31T21:18:27.000Z
+- [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down?utm_source=lootura.com) — 2026-08-31T16:54:07.000Z

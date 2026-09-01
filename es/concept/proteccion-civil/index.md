@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Localizan en Almería un cadáver durante el operativo de búsqueda de un desaparecido](https://theobjective.com/sociedad/suceso/2026-08-14/localizan-almeria-cadaver-operativo-busqueda-desaparecido/?utm_source=lootura.com) — 2026-08-14T18:42:30.000Z
+No public source links.

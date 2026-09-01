@@ -28,5 +28,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [What’s Next for Luigi Mangione After His Guilty Plea?](https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html?utm_source=lootura.com) — 2026-08-14T19:27:54.000Z
-- [John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98](https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com) — 2026-08-15T00:45:01.000Z
+No public source links.

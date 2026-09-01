@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
+
+La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.
+
+Date: 2026-09-01
 
 ### Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo
 
@@ -62,12 +68,6 @@ Las Bolsas hacen un alto en el camino . Después de una semana histórica en la 
 
 Date: 2026-08-10
 
-### El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz
-
-Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Próximo.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo](https://cincodias.elpais.com/mercados-financieros/2026-08-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-14T16:18:57.000Z
+- [Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza](https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com) — 2026-09-01T00:04:35.000Z

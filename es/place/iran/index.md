@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
+
+La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.
+
+Date: 2026-09-01
+
+### Irán refuerza su aparato represivo con el regreso del "carnicero" Hossein Taeb, un veterano de inteligencia
+
+Altos cargos del régimen creen que el conflicto derivará en una guerra híbrida en la que Washington intentará provocar una revuelta interna en el país Leer.
+
+Date: 2026-08-31
 
 ### El Ibex frena ante nuevos máximos y baja de los 20.200 puntos
 
@@ -56,18 +68,8 @@ El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. 
 
 Date: 2026-08-11
 
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
-### La caída de reservas anticipa un crudo a 140 dólares en otoño
-
-El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán, una vez que se han visto las costuras a los planes del presidente de Estados Unidos,...
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
+- [Irán refuerza su aparato represivo con el regreso del "carnicero" Hossein Taeb, un veterano de inteligencia](https://www.elmundo.es/internacional/2026/08/31/6a95a5afe4d4d87e298b4575.html?utm_source=lootura.com) — 2026-08-31T20:46:54.000Z
+- [Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza](https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com) — 2026-09-01T00:04:35.000Z

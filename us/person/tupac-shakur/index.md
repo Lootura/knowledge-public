@@ -3,7 +3,7 @@
 > Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T12:57:57.710Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/person/tupac-shakur
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [Ex-gang leader found guilty in Tupac Shakur's 1996 killing](https://www.nbcnews.com/nightly-news/video/ex-gang-leader-found-guilty-in-tupac-shakur-s-1996-killing-269135429661?utm_source=lootura.com) — 2026-09-01T01:47:33.000Z

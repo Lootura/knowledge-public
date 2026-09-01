@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T05:05:29.983Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa",
+      "summary": "Los sindicatos USTEC-STEs y CGT harán huelga el próximo 8 de septiembre, el primer día lectivo del nuevo curso en Cataluña. Son dos de las centrales mayoritarias en el sector, aunque CCOO, UGT y Aspepc-Sps, que en un principio también convocaron protestas el curso pasado , se han descolgado de la convocatoria. ISTEC, a.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027",
       "summary": "Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.",
@@ -58,13 +63,15 @@
       "title": "Discovered by Atlas",
       "summary": "Salvador Illa first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-16"
-    },
-    {
-      "title": "Illa saca pecho tras la sentencia del TJUE y pide que se aplique la amnistía de forma \"diligente, integral y sin subterfugios\"",
-      "summary": "El presidente de la Generalitat, Salvador Illa, ha sacado pecho tras conocer el aval del Tribunal de Justicia de la Unión Europea (TJUE) a la Ley de amnistía aprobada por el...",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-01/los-sindicatos-de-profesores-calientan-el-inicio-del-curso-con-huelgas-contra-salvador-illa_4415441/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

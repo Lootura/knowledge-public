@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
+
+Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
+
+Date: 2026-08-31
 
 ### Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio
 
@@ -62,14 +68,7 @@ El presidente estadounidense asegura que pasará a ser una de sus principales as
 
 Date: 2026-08-12
 
-### La caída de reservas anticipa un crudo a 140 dólares en otoño
-
-El mercado petrolero se está volviendo a recalentar con la segunda fase de la guerra en Irán , una vez que se han visto las costuras a los planes del presidente de Estados Unidos, Donald Trump , para poner fin al conflicto rápidamente, y que se van agotando las reservas de crudo y derivados del petróleo en los países d.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"](https://www.20minutos.es/internacional/trump-ceuta-biden-frontera-espana_7026007_0.html?utm_source=lootura.com) — 2026-08-14T21:18:46.000Z
-- [Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»](https://www.elcorreo.com/internacional/eeuu/trump-anuncia-pronto-ormuz-territorio-20260815004650-ntrc_amp.html?utm_source=lootura.com) — 2026-08-14T22:46:50.000Z
-- [Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio](https://www.larazon.es/internacional/trump-confirma-que-nuevo-portaaviones-sustituira-uss-abraham-lincoln-seis-meses-despliegue-oriente-medio_202608146a7f77ee71b42a0b5def9530.html?outputType=amp&utm_source=lootura.com) — 2026-08-14T20:17:50.000Z
+- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
+- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z

@@ -3,10 +3,16 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T13:01:52.610Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
+
+### Tamara Keith and Amy Walter on Trump's midterm influence
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
+
+Date: 2026-08-31
 
 ### A Spurned Schumer Reaches Out to the Left
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z

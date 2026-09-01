@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.json",
   "description": "Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T13:01:52.610Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.",
+      "date": "2026-08-31"
+    },
     {
       "title": "A Spurned Schumer Reaches Out to the Left",
       "summary": "In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.",
@@ -37,6 +42,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:35:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

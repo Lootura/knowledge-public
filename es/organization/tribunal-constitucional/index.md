@@ -3,10 +3,16 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### La amnistía, Europa y Conde-Pumpido
+
+Entramos en septiembre y se supone que será en este mes cuando el Tribunal Constitucional de Conde-Pumpido decidirá acerca del recurso de Puigdemont , decisión que el presidente de la Generalitat espera como agua de mayo, consciente de que juega en campo propio. El día 16 de julio, el Tribunal de Justicia de la Unión E.
+
+Date: 2026-09-01
 
 ### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
 
@@ -40,4 +46,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [La amnistía, Europa y Conde-Pumpido](https://theobjective.com/elsubjetivo/opinion/2026-09-01/amnistia-europa-conde-pumpido-articulo-martin-seco/?utm_source=lootura.com) — 2026-09-01T03:25:00.000Z

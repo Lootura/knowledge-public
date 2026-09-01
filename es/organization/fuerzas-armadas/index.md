@@ -3,10 +3,22 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos
+
+La inteligencia artificial está cambiando radicalmente las Fuerzas Armadas de Ucrania y su capacidad de combate. Tanto es así, que ya ahorra un 90% del tiempo de los analistas de Defensa ucranianos en la etapa de detección de indicios de la presencia enemiga en fotos y vídeos y detectando de forma independiente las pos.
+
+Date: 2026-09-01
+
+### La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma
+
+La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.
+
+Date: 2026-08-31
 
 ### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
 
@@ -56,18 +68,7 @@ Buscando un equilibrio que calme las calles y no le cueste más capital polític
 
 Date: 2026-07-22
 
-### Discovered by Atlas
-
-Fuerzas armadas first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-21
-
-### Zelenski destituye al jefe del ejército ucraniano tras días de protestas y nombra a su sucesor
-
-El presidente ucraniano ha nombrado a Mykhailo Drapatyi como nuevo comandante en jefe de las Fuerzas Armadas y sucesor de Oleksandr Syrskyi Leer.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma](https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html?utm_source=lootura.com) — 2026-08-31T23:34:57.000Z
+- [Cómo la IA está cambiando el Ejército de Ucrania y ayudando a buscar y atacar enemigos](https://www.businessinsider.es/defensa-espacio/como-ia-esta-cambiando-ejercito-ucrania-buscar-atacar-enemigos_7031093_0.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z

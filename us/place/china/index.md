@@ -3,10 +3,28 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Trump's plan for economic D-day for Iran has one big hole: China
+
+The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.
+
+Date: 2026-08-31
+
+### Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China
+
+A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
+
+Date: 2026-08-31
+
+### JMGO’s very bright all-in-one projector looks ideal for gamers and sports
+
+JMGO’s Iris Ultra Max 4K 120Hz Google TV projector. | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an.
+
+Date: 2026-08-31
 
 ### Guangzhou crucibles provide earliest direct evidence of brass-making in East Asia
 
@@ -50,24 +68,8 @@ The drills come amid rising tensions with China, which frequently sends military
 
 Date: 2026-08-13
 
-### How China Remembers Zhu Rongji, the Premier Who Spoke His Mind
-
-Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.
-
-Date: 2026-08-13
-
-### Why the World Is Still Investing in America
-
-American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.
-
-Date: 2026-08-13
-
-### Has the U.S. lost its dominance to China?
-
-Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker 's Evan Osnos discusses his story "The Future, Made in China.".
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Trump's plan for economic D-day for Iran has one big hole: China](https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china?utm_source=lootura.com) — 2026-08-31T20:48:03.000Z
+- [Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China](https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com) — 2026-08-31T20:11:10.000Z
+- [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs?utm_source=lootura.com) — 2026-08-31T22:00:00.000Z

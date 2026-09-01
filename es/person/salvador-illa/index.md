@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa
+
+Los sindicatos USTEC-STEs y CGT harán huelga el próximo 8 de septiembre, el primer día lectivo del nuevo curso en Cataluña. Son dos de las centrales mayoritarias en el sector, aunque CCOO, UGT y Aspepc-Sps, que en un principio también convocaron protestas el curso pasado , se han descolgado de la convocatoria. ISTEC, a.
+
+Date: 2026-09-01
 
 ### Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027
 
@@ -62,12 +68,6 @@ Salvador Illa first entered the public knowledge record with source-backed evide
 
 Date: 2026-07-16
 
-### Illa saca pecho tras la sentencia del TJUE y pide que se aplique la amnistía de forma "diligente, integral y sin subterfugios"
-
-El presidente de la Generalitat, Salvador Illa, ha sacado pecho tras conocer el aval del Tribunal de Justicia de la Unión Europea (TJUE) a la Ley de amnistía aprobada por el...
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa](https://www.elconfidencial.com/espana/cataluna/2026-09-01/los-sindicatos-de-profesores-calientan-el-inicio-del-curso-con-huelgas-contra-salvador-illa_4415441/?utm_source=lootura.com) — 2026-09-01T03:00:00.000Z

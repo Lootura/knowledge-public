@@ -3,78 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Daily fragment: Donald Trump
+### Supreme Court continues to allow construction of Trump's White House ballroom
 
-US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
+The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.
 
-Date: 2026-08-15
+Date: 2026-09-01
 
-### Trump's vaccine order would require millions of individual shots last used decades ago
+### Trump calls for federal tax incentives to benefit TV and movie industry
 
-Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.
+The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### FBI reports record decrease in violent crime in 2025
+### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
 
-Both the violent crime and murder rates have decreased annually since spiking in 2022, the bureau has found. President Donald Trump touted the statistics Friday.
+The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### Trump downplays concerns about living conditions on aircraft carrier
+### Justices give Trump major legal victory on ballroom project
 
-President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.
+A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Democrats grapple with Trump's push to limit transparency within the executive branch
+### Whatever happened to the U.S. famine alert system that Trump shut down, then reopened
 
-President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.
+The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth? (Image credit: Sally Hayden/SOPA Images/LightRocket).
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
+### Trump officials cut political interference ban after unusual Census Bureau report
 
-Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
+After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned. (Image credit: Michael Zamora).
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### How The New York Times Reported on Trump’s Air Force One Ruse in Turkey
+### Trump's plan for economic D-day for Iran has one big hole: China
 
-President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.
+The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### President Trump Takes Credit for Steep Crime Rate Declines
+### News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges
 
-Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.
+In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Trump’s Justice Dept. Targets Smaller Fraud Cases
+### Tamara Keith and Amy Walter on Trump's midterm influence
 
-As the Trump administration drops charges against corporations and the wealthy, it is also taking aim at small-scale fraud cases, including against the operator of a weathered food truck in California.
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Trump says he will soon declare the Strait of Hormuz a U.S. territory
+### Analyst breaks down challenges U.S. will face to unlock Venezuela's oil
 
-The war in Iran continues on as Vice President Vance says the new goal is to keep costs down for Americans and President Trump disputes reports about mental health issues on deployed ships. NBC’s Monica Alba, Keir Simmons and Gordon Lubold bring their latest reporting on the war to the table.
+President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
 ## Sources
 
-- [Daily fragment: Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump?utm_source=lootura.com) — 2026-08-15T04:00:00.000Z
-- [FBI reports record decrease in violent crime in 2025](https://www.nbcnews.com/politics/justice-department/fbi-reports-record-decrease-violent-crime-2025-rcna592593?utm_source=lootura.com) — 2026-08-14T20:31:41.000Z
-- [Trump downplays concerns about living conditions on aircraft carrier](https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com) — 2026-08-14T23:32:43.000Z
-- [Democrats grapple with Trump's push to limit transparency within the executive branch](https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch?utm_source=lootura.com) — 2026-08-14T21:49:04.000Z
-- [Trump's vaccine order would require millions of individual shots last used decades ago](https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago?utm_source=lootura.com) — 2026-08-14T20:16:56.000Z
-- [Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln](https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T22:55:06.000Z
-- [How The New York Times Reported on Trump’s Air Force One Ruse in Turkey](https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html?utm_source=lootura.com) — 2026-08-14T19:20:46.000Z
-- [President Trump Takes Credit for Steep Crime Rate Declines](https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html?utm_source=lootura.com) — 2026-08-14T22:02:24.000Z
+- [Supreme Court continues to allow construction of Trump's White House ballroom](https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com) — 2026-09-01T01:52:30.000Z
+- [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
+- [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
+- [Whatever happened to the U.S. famine alert system that Trump shut down, then reopened](https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net?utm_source=lootura.com) — 2026-08-31T20:42:17.000Z
+- [Trump officials cut political interference ban after unusual Census Bureau report](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity?utm_source=lootura.com) — 2026-08-31T22:24:12.000Z
+- [Trump's plan for economic D-day for Iran has one big hole: China](https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china?utm_source=lootura.com) — 2026-08-31T20:48:03.000Z
+- [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
+- [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
+- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z
+- [US supreme court allows Trump to keep building $400m White House ballroom](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com) — 2026-08-31T22:13:12.000Z

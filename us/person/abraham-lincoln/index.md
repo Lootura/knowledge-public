@@ -70,8 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [Trump downplays concerns about living conditions on aircraft carrier](https://www.nbcnews.com/nightly-news/video/trump-downplays-concerns-about-living-conditions-on-aircraft-carrier-268343365616?utm_source=lootura.com) — 2026-08-14T23:32:43.000Z
-- [Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln](https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T22:55:06.000Z
-- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z
-- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-15T00:24:04.000Z
+No public source links.

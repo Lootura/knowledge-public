@@ -3,10 +3,28 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Could an American win men's singles at this year's U.S. Open?
+
+The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.
+
+Date: 2026-09-01
+
+### Suspect and female victim dead after Times Square stabbing spree
+
+A woman armed with at least one knife slashed two people in New York City’s Times Square before she was shot by police, according to multiple officials. NBC News’ Sam Brock reports.
+
+Date: 2026-08-31
+
+### Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why
+
+Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse in Central Islip, New York, after being sentenced on April 25, 2025. —Howard Schnapp—Newsday RM/Getty Images The prediction-market exchange Kalshi has permanently prohibited former Rep. George Santos from accessing the platform after establi.
+
+Date: 2026-08-31
 
 ### John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98
 
@@ -50,26 +68,8 @@ American flags fly at the New York Stock Exchange in New York, New York. —Sven
 
 Date: 2026-08-13
 
-### For Blakeman, Trump Could Make and Break His Bid to Lead New York
-
-Bruce Blakeman, who is vying to become the state’s second Republican governor in the last 50 years, pushes President Trump’s agenda even as he avoids mentioning his name.
-
-Date: 2026-08-12
-
-### Jury in Luigi Mangione’s state trial will be anonymous, judge rules
-
-Luigi Mangione appeared Tuesday morning in a New York courtroom where plans were nearly finalized for his state murder trial, which the judge has ruled will have an anonymous jury.
-
-Date: 2026-08-11
-
-### Captain of boat that capsized in New York facing federal charges after mom, infant die
-
-Manuel Hernandez, the boat's 46-year-old captain, was arrested on reckless endangerment charges and also charged in federal court with two counts of misconduct and neglect.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Luigi Mangione's lawyer speaks out after he announced plans to plead guilty in federal case](https://www.cbsnews.com/video/luigi-mangiones-lawyer-speaks-out-after-he-announced-plans-to-plead-guilty-in-federal-case/?utm_source=lootura.com) — 2026-08-14T16:26:07.000Z
-- [What’s Next for Luigi Mangione After His Guilty Plea?](https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html?utm_source=lootura.com) — 2026-08-14T19:27:54.000Z
-- [John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98](https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com) — 2026-08-15T00:45:01.000Z
+- [Could an American win men's singles at this year's U.S. Open?](https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com) — 2026-09-01T00:50:06.000Z
+- [Suspect and female victim dead after Times Square stabbing spree](https://www.nbcnews.com/nightly-news/video/suspect-and-female-victim-dead-after-times-square-stabbing-spree-269123653799?utm_source=lootura.com) — 2026-08-31T23:05:13.000Z
+- [Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why](https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com) — 2026-08-31T22:48:13.000Z

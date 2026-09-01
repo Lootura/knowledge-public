@@ -46,6 +46,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [Ex-Cambridge professor dies week after resigning amid plagiarism allegations](https://www.cbsnews.com/news/jason-arday-dies-cambridge-professor-plagiarism/?utm_source=lootura.com) — 2026-08-15T00:05:13.000Z
-- [Jason Arday, ex-Cambridge professor accused of plagiarism, found dead week after resigning](https://www.nbcnews.com/world/united-kingdom/jason-arday-ex-cambridge-professor-accused-plagiarism-found-dead-week-rcna592616?utm_source=lootura.com) — 2026-08-14T20:28:18.000Z
-- [Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation](https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation?utm_source=lootura.com) — 2026-08-14T23:25:02.000Z
+No public source links.

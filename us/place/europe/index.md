@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+
+The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
+
+Date: 2026-09-01
+
+### New policy brief outlines how EU policies can better support sponge restoration
+
+Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achi.
+
+Date: 2026-09-01
 
 ### France's top court blocks under-15 social media ban, citing constitutional freedoms
 
@@ -56,22 +68,7 @@ Extreme temperatures and repeated wildfires are pushing infrastructure to the li
 
 Date: 2026-08-14
 
-### Evidence of bird strike after man nearly sucked out of plane window, NTSB says
-
-A bird strike may have been the cause of an incident in which a passenger was nearly sucked out of a broken window aboard a Ryanair flight in Europe last month, the NTSB found.
-
-Date: 2026-08-14
-
-### EU cities plan to compensate for a fifth of their emissions through carbon removal, but few have thought through how
-
-An analysis of 103 European cities' climate-neutral plans for 2030 (including 22 capital cities) shows that municipalities are planning to rely on carbon removal to compensate for about a fifth of their emissions. This would mean removing roughly 61 million tonnes of emissions from the atmosphere—close to Austria's ann.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical](https://www.nature.com/articles/d41586-026-02503-7?utm_source=lootura.com) — 2026-08-14T20:28:33.125Z
-- [France's top court blocks under-15 social media ban, citing constitutional freedoms](https://www.pbs.org/newshour/world/frances-top-court-blocks-under-15-social-media-ban-citing-constitutional-freedoms?utm_source=lootura.com) — 2026-08-14T18:33:06.000Z
-- [Greece toughens stance on illegal migration with new deportation plan](https://www.pbs.org/newshour/show/greece-toughens-stance-on-illegal-migration-with-new-deportation-plan?utm_source=lootura.com) — 2026-08-14T22:40:56.000Z
-- [Europe's mountain summits are warming—vegetation is responding in surprisingly different ways](https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html?utm_source=lootura.com) — 2026-08-14T22:00:01.000Z
-- [Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive](https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html?utm_source=lootura.com) — 2026-08-14T23:40:01.000Z
+- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
+- [New policy brief outlines how EU policies can better support sponge restoration](https://phys.org/news/2026-08-policy-outlines-eu-policies-sponge.html?utm_source=lootura.com) — 2026-09-01T03:00:01.000Z

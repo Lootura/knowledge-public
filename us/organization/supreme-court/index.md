@@ -3,10 +3,34 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Supreme Court continues to allow construction of Trump's White House ballroom
+
+The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.
+
+Date: 2026-09-01
+
+### Justices give Trump major legal victory on ballroom project
+
+A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.
+
+Date: 2026-08-31
+
+### News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges
+
+In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.
+
+Date: 2026-08-31
+
+### US supreme court allows Trump to keep building $400m White House ballroom
+
+Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.
+
+Date: 2026-08-31
 
 ### An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce
 
@@ -44,30 +68,9 @@ President Donald Trump’s planned ballroom is in jeopardy after a federal appea
 
 Date: 2026-08-10
 
-### Trump to appeal White House ballroom ruling to Supreme Court
-
-After a federal appeals court halted construction of the White House ballroom on Friday, President Trump said he would appeal the ruling to the Supreme Court. Taurean Small has more.
-
-Date: 2026-08-09
-
-### What to know about Trump's new attempt to limit birthright citizenship
-
-A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with "adjustments" keeping the decision in mind, President Donald Trump said.
-
-Date: 2026-08-08
-
-### Trump renews push to fire Fed Governor Lisa Cook
-
-Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court. (Image credit: Kevin Dietsch).
-
-Date: 2026-08-07
-
-### Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook
-
-The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce](https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html?utm_source=lootura.com) — 2026-08-14T13:29:01.000Z
+- [Supreme Court continues to allow construction of Trump's White House ballroom](https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com) — 2026-09-01T01:52:30.000Z
+- [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
+- [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
+- [US supreme court allows Trump to keep building $400m White House ballroom](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com) — 2026-08-31T22:13:12.000Z

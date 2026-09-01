@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión",
+      "summary": "Cercanías de Madrid estrenó ayer en presencia del ministro de Transportes, Óscar Puente, las primeras unidades de los trenes de gran capacidad de Stadler comprados por Renfe . Un material rodante que ha sido homologado a contra reloj para entrar en servicio en la fecha que había comprometido el Gobierno y que permite a.",
+      "date": "2026-09-01"
+    },
     {
       "title": "El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes",
       "summary": "No está concitando mucha atención con el eclipse , la invasión de Ceuta , los incendios , el ataque de Óscar Puente al Rey , los casos de corrupción o los fichajes de verano , pero el precio de la luz vuelve a estar disparado este verano, a pesar del sol de justicia que luce día tras día en toda España. Una escalada qu.",
@@ -60,13 +65,15 @@
       "title": "Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
-      "summary": "La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por los populares al asegurar que la Unidad Militar de Emergenci.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión",
+      "url": "https://www.larazon.es/economia/nuevos-trenes-cercanias-madrid-posibilitan-renovacion-cascada-tres-nucleos-sola-inversion_202609016a95746b4941316b1e72311b.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T01:24:32.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

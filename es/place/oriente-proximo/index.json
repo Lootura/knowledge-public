@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-01T03:31:35.854Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
+      "summary": "La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo",
       "summary": "Los inversores se han movido entre las dudas y la incertidumbre en la segunda semana de agosto, uno de los meses en los que tradicionalmente el volumen de negociación es menor que el resto del año debido a la época estival. Las Bolsas han encarado el viernes entre la reacción a una inflación estadounidense más benévola.",
@@ -60,19 +65,14 @@
       "title": "Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro",
       "summary": "Las Bolsas hacen un alto en el camino . Después de una semana histórica en la que los índices europeos y estadounidenses enlazaron récord tras récord, la euforia ha dado paso a la prudencia y los principales selectivos apenas registraron movimientos. Con las negociaciones en Oriente Próximo encalladas, la temporada de.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "El Ibex 35 cierra plano (-0,01 %) una sesión volátil marcada por dudas sobre Ormuz",
-      "summary": "Los inversores siguen este lunes pendientes de los acontecimientos en Oriente Próximo.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-14/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:18:57.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
+      "url": "https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T00:04:35.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

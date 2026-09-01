@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Putin busca más negocios con China mientras India le pide que acabe con su "guerra interminable"
+
+Moscú necesita que sus dos grandes socios asiáticos mantengan abierto el pulmón económico que le permite resistir las sanciones Leer.
+
+Date: 2026-08-31
 
 ### EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones
 
@@ -62,13 +68,6 @@ Una mujer china ha acudido a la Justicia después de descubrir que su marido hab
 
 Date: 2026-08-12
 
-### Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol
-
-Las dudas sobre el proyecto para instalar una fábrica de coches eléctricos chinos en Ferrol (A Coruña), donde también tiene su base uno de los mayores arsenales de la Armada española, se han disipado en 48 horas. La ministra de Defensa, Margarita Robles, ha comunicado este martes al presidente de la Xunta de Galicia, A.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [EE UU y Taiwán preparan drones submarinos autónomos frente a la presión china: el acuerdo busca vigilar el estrecho sin exponer tripulaciones](https://www.larazon.es/tecnologia-consumo/ee-uu-taiwan-preparan-drones-submarinos-autonomos-frente-presion-china-acuerdo-busca-vigilar-estrecho-exponer-tripulaciones_202608146a7eb7a271b42a0b5dee6caa.html?utm_source=lootura.com) — 2026-08-14T20:00:00.000Z
-- [Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China](https://www.larazon.es/internacional/bruselas-rechaza-acusaciones-elusion-aranceles-china_202608146a7f717ca046ad6ebcb19681.html?utm_source=lootura.com) — 2026-08-14T19:50:20.000Z
+- [Putin busca más negocios con China mientras India le pide que acabe con su "guerra interminable"](https://www.elmundo.es/internacional/2026/09/01/6a95cbe0e4d4d8e4788b457f.html?utm_source=lootura.com) — 2026-08-31T22:56:23.000Z

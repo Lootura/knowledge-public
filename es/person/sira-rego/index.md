@@ -3,10 +3,22 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-09-01T03:31:35.854Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### Sira Rego confronta el discurso ultra en el Congreso: “No voy a discutir si un niño merece tener derechos”
+
+La ministra Sira Rego se ha lanzado a dar la batalla ideológica y confrontar con el discurso más ultra en su comparecencia de este lunes en el Congreso. “No voy a discutir si un niño merece tener derechos”, ha advertido ante la Comisión de Juventud e Infancia al inicio de una intervención fundamentalmente política, que.
+
+Date: 2026-08-31
+
+### La ministra de Infancia ve “imprescindible” acoger en la Península a los menores de Ceuta
+
+La ministra de Infancia y Juventud, Sira Rego, ha vuelto a insistir este lunes en la necesidad de proceder a la acogida en la Península de los menores migrantes que se encuentran en Ceuta, una medida que ha considerado “imprescindible” para “destensionar” la situación de crisis de la ciudad autónoma y “garantizar los c.
+
+Date: 2026-08-31
 
 ### El PP intenta aplazar el debate sobre la acogida a los menores hacinados en Ceuta
 
@@ -58,4 +70,5 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Sira Rego confronta el discurso ultra en el Congreso: “No voy a discutir si un niño merece tener derechos”](https://elpais.com/espana/2026-08-31/sira-rego-confronta-el-discurso-ultra-en-el-congreso-no-voy-a-discutir-si-un-nino-merece-tener-derechos.html?utm_source=lootura.com) — 2026-08-31T15:42:27.000Z
+- [La ministra de Infancia ve “imprescindible” acoger en la Península a los menores de Ceuta](https://www.lavanguardia.com/politica/20260831/11623954/ministra-infancia-ve-imprescindible-acoger-peninsula-menores-ceuta.html?utm_source=lootura.com) — 2026-08-31T15:00:55.000Z

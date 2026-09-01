@@ -34,5 +34,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno](https://elpais.com/economia/2026-08-14/sumar-rechaza-la-prorroga-de-la-planta-de-almaraz-y-acusa-al-psoe-de-incumplir-los-acuerdos.html?utm_source=lootura.com) — 2026-08-14T09:39:41.000Z
-- [Almaraz gana tiempo y seguirá abierta hasta 2030](https://theconversation.com/almaraz-gana-tiempo-y-seguira-abierta-hasta-2030-289854?utm_source=lootura.com) — 2026-08-14T21:19:22.000Z
+No public source links.

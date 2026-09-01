@@ -3,80 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-01T03:31:56.776Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
+### Could an American win men's singles at this year's U.S. Open?
 
-Keeping gas prices low is now the United States’ “goal No.
+The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.
 
-Date: 2026-08-15
+Date: 2026-09-01
 
-### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
+### Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says
 
-Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
+Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.
 
-Date: 2026-08-15
+Date: 2026-09-01
 
-### Justice Department expands military's power to detain migrants accused of trespassing
+### Daily fragment: TWA Flight 529
 
-The Justice Department issued a legal opinion giving the U.S. military broader powers to detain migrants near certain areas along the southern border.
+TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### U.S. retail sales unexpectedly post largest drop in more than a year
+### Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars
 
-The drop in spending raised concern among some economists about the resiliency of consumers who have powered the economy forward despite nagging inflation and soaring gasoline prices.
+The resignation of Daniel P. Driscoll, the secretary of the Army, had been expected but comes at a tumultuous time for the service.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
+### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
 
-The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
+The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
 
-Date: 2026-08-14
+Date: 2026-09-01
 
-### Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued
+### Army Secretary Dan Driscoll submits resignation to White House
 
-A magnitude-7.7 earthquake hit off the coast of Indonesia in the eastern Flores region, the United States Geological Survey reported on Friday.
+Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Brooks and Atkins Stohr on 'woke' politics in America
+### Whatever happened to the U.S. famine alert system that Trump shut down, then reopened
 
-David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Iran.
+The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth? (Image credit: Sally Hayden/SOPA Images/LightRocket).
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
+### Lionel Messi says he's retiring from playing internationally for Argentina
 
-The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
+The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer. (Image credit: Sergei Grits).
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive
+### Analyst breaks down challenges U.S. will face to unlock Venezuela's oil
 
-As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that they're getting dangerously hot.
+President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
-### Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War
+### U.S. Strikes May Have Targeted a New Type of Iranian Naval Mine
 
-Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.
+The U.S. military said its attacks against Iran were in response to a threat to the Strait of Hormuz.
 
-Date: 2026-08-14
+Date: 2026-08-31
 
 ## Sources
 
-- [Justice Department expands military's power to detain migrants accused of trespassing](https://www.cbsnews.com/news/justice-department-opinion-military-migrants-trespassing/?utm_source=lootura.com) — 2026-08-14T16:49:47.000Z
-- [USS Washington aircraft carrier heads to Middle East to replace USS Lincoln](https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/?utm_source=lootura.com) — 2026-08-14T20:15:48.000Z
-- [Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure](https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504?utm_source=lootura.com) — 2026-08-15T00:43:46.956Z
-- [Magnitude-7.7 quake hits off coast of Indonesia and tsunami warning issued](https://www.nbcnews.com/world/indonesia/earthquake-indonesia-rcna592638?utm_source=lootura.com) — 2026-08-14T22:58:37.000Z
-- [Brooks and Atkins Stohr on 'woke' politics in America](https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america?utm_source=lootura.com) — 2026-08-14T22:30:52.000Z
-- [U.S. retail sales unexpectedly post largest drop in more than a year](https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year?utm_source=lootura.com) — 2026-08-14T14:34:17.000Z
-- [New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln](https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln?utm_source=lootura.com) — 2026-08-14T23:10:05.000Z
-- [Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive](https://phys.org/news/2026-08-green-roofs-cool-cities-summer.html?utm_source=lootura.com) — 2026-08-14T23:40:01.000Z
-- [Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln](https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html?utm_source=lootura.com) — 2026-08-15T00:24:04.000Z
-- [Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War](https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html?utm_source=lootura.com) — 2026-08-14T22:35:07.000Z
+- [Could an American win men's singles at this year's U.S. Open?](https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com) — 2026-09-01T00:50:06.000Z
+- [Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says](https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com) — 2026-09-01T01:56:53.000Z
+- [Daily fragment: TWA Flight 529](https://en.wikipedia.org/wiki/TWA_Flight_529?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z
+- [Army Secretary Dan Driscoll submits resignation to White House](https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com) — 2026-08-31T23:19:30.000Z
+- [Whatever happened to the U.S. famine alert system that Trump shut down, then reopened](https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net?utm_source=lootura.com) — 2026-08-31T20:42:17.000Z
+- [Lionel Messi says he's retiring from playing internationally for Argentina](https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer?utm_source=lootura.com) — 2026-08-31T16:37:05.000Z
+- [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z
+- [U.S. Strikes May Have Targeted a New Type of Iranian Naval Mine](https://www.nytimes.com/2026/08/31/us/politics/us-strikes-iran-new-naval-mine.html?utm_source=lootura.com) — 2026-08-31T21:19:38.000Z
+- [Army Secretary Daniel Driscoll Resigns as U.S. Military Grapples With Two Wars](https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html?utm_source=lootura.com) — 2026-09-01T01:14:55.000Z
+- [How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com) — 2026-09-01T02:50:48.000Z

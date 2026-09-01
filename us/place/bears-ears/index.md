@@ -34,4 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments](https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html?utm_source=lootura.com) — 2026-08-14T15:46:47.000Z
+No public source links.

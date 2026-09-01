@@ -28,5 +28,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Un terremoto de magnitud 4.8 se deja sentir en varias localidades de Granada](https://www.elconfidencial.com/espana/2026-08-15/un-terremoto-de-magnitud-4-8-se-deja-sentir-en-varias-localidades-de-granada_4406445/?utm_source=lootura.com) — 2026-08-14T23:09:02.000Z
-- [Un nuevo terremoto de 4,8 grados afecta a varias localidades de Granada](https://www.larazon.es/andalucia/granada/sentido-terremoto-48-grados-epicentro-alhendin-granada_202608156a7faf7ba046ad6ebcb1f1cd.html?utm_source=lootura.com) — 2026-08-15T00:14:51.000Z
+No public source links.

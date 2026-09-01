@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro](https://www.larazon.es/pais-vasco/festival-san-sebastian-incorpora-seis-nuevas-peliculas-seccion-oficial-que-competiran-concha-oro-b30m_202608146a7f73cd71b42a0b5def8d6d.html?utm_source=lootura.com) — 2026-08-14T20:00:13.000Z
+No public source links.

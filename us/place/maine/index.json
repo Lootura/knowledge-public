@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail",
+      "summary": "Dale Sanders started last Sept. 6 in West Virginia, hiked the nearly 2,200-mile trail in out-of-order sections with breaks in between, and finished Monday atop Mount Katahdin in Maine.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Platner announced as speaker for activist-led event in Maine",
       "summary": "Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.",
@@ -61,13 +66,15 @@
       "title": "How a community rallied around a little girl and her love for roosters",
       "summary": "CBS News contributor David Begnaud shows how the small town of Ogunquit, Maine, rallied around a 6-year-old girl when local code enforcement officials told the girl's family to take a flock of tin roosters off their property.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Bernie Sanders on if he regrets Platner endorsement: ‘Easier to be a Monday morning quarterback’",
-      "summary": "In an exclusive interview with Meet the Press, Sen. Bernie Sanders (I-Vt.) shares his thoughts on the Maine Senate race after Sen. John Fetterman (D-Pa.) criticized Sanders for having “no regrets” over endorsing Graham Platner.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail",
+      "url": "https://www.pbs.org/newshour/nation/at-91-dale-grey-beard-sanders-reclaims-record-as-oldest-hiker-to-complete-the-appalachian-trail?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:00:34.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

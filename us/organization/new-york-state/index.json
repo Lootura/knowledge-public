@@ -36,19 +36,6 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "What’s Next for Luigi Mangione After His Guilty Plea?",
-      "url": "https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T19:27:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
-      "url": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-15T00:45:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El régimen talibán cumple cinco años en el poder entre el orden forzado y el colapso humanitario](https://www.elmundo.es/internacional/2026/08/14/6a7f23ece4d4d8402c8b458c.html?utm_source=lootura.com) — 2026-08-14T20:44:18.000Z
+No public source links.

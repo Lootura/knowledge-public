@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-15T02:43:51.728Z",
+  "generatedAt": "2026-09-01T03:48:00.963Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|143|1786755855447",
+    "signature": "1.18.0|145|1788233495854",
     "version": "1.18.0",
-    "build": 143,
-    "latestEntityUpdatedAt": "2026-08-15T01:04:15.447Z"
+    "build": 145,
+    "latestEntityUpdatedAt": "2026-09-01T03:31:35.854Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-espana",
-      "name": "España",
-      "type": "place",
-      "title": "España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo",
-      "url": "https://atlas.lootura.com/es/place/espana",
-      "path": "/es/place/espana",
-      "updatedAt": "2026-08-15T01:04:15.447Z",
-      "score": 1631,
-      "sourceCount": 1197,
+      "id": "es-partido-popular",
+      "name": "Partido Popular",
+      "type": "organization",
+      "title": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
+      "url": "https://atlas.lootura.com/es/organization/partido-popular",
+      "path": "/es/organization/partido-popular",
+      "updatedAt": "2026-09-01T03:31:35.854Z",
+      "score": 1664,
+      "sourceCount": 298,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-portugal",
-        "name": "República Portuguesa",
+        "id": "es-espana",
+        "name": "España",
         "type": "place",
-        "title": "Desvelan cómo fue el accidente mortal del ciclista Finlay Tarling en la Vuelta a Portugal",
-        "url": "https://atlas.lootura.com/es/place/portugal",
-        "path": "/es/place/portugal",
-        "updatedAt": "2026-08-15T01:04:15.447Z",
-        "score": 1629,
-        "sourceCount": 18,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-transicion-ecologica",
-        "name": "Ministerio para la Transición Ecológica y el Reto Demográfico",
-        "type": "person",
-        "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
-        "url": "https://atlas.lootura.com/es/person/transicion-ecologica",
-        "path": "/es/person/transicion-ecologica",
-        "updatedAt": "2026-08-15T01:04:15.447Z",
-        "score": 1628,
-        "sourceCount": 14,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-amancio-ortega",
-        "name": "Amancio Ortega",
-        "type": "person",
-        "title": "La patrimonial de Amancio Ortega gana casi un 8% más y suma 117.083 millones en activos",
-        "url": "https://atlas.lootura.com/es/person/amancio-ortega",
-        "path": "/es/person/amancio-ortega",
-        "updatedAt": "2026-08-15T01:04:15.447Z",
-        "score": 1620,
-        "sourceCount": 12,
+        "title": "España necesita generosidad y altura de miras.",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-09-01T03:31:35.854Z",
+        "score": 1636,
+        "sourceCount": 1204,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "es-pedro-sanchez",
         "name": "Pedro Sánchez",
         "type": "person",
-        "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
+        "title": "Sánchez señala a Felipe VI para desviar su fiasco en Ceuta",
         "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
         "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-08-15T01:04:15.447Z",
-        "score": 1620,
-        "sourceCount": 394,
+        "updatedAt": "2026-09-01T03:31:35.854Z",
+        "score": 1635,
+        "sourceCount": 413,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-barcelona",
+        "name": "Barcelona",
+        "type": "place",
+        "title": "El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història",
+        "url": "https://atlas.lootura.com/es/place/barcelona",
+        "path": "/es/place/barcelona",
+        "updatedAt": "2026-09-01T03:31:35.854Z",
+        "score": 1633,
+        "sourceCount": 164,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "EEUU demanda a Amazon por cobrar de más a sus anunciantes",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-09-01T03:31:35.854Z",
+        "score": 1628,
+        "sourceCount": 284,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 212
+    "publicEntityCount": 218
   }
 }

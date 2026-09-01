@@ -14,7 +14,8 @@
     "Naciones Unidas",
     "United Nations Organization",
     "the U.N.",
-    "the UN"
+    "the UN",
+    "Verenigde Naties"
   ],
   "changes": [
     {
@@ -68,13 +69,6 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [
-    {
-      "title": "El régimen talibán cumple cinco años en el poder entre el orden forzado y el colapso humanitario",
-      "url": "https://www.elmundo.es/internacional/2026/08/14/6a7f23ece4d4d8402c8b458c.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T20:44:18.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

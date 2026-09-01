@@ -1,0 +1,39 @@
+# Tim Cook
+
+> Sigue la actividad de Tim Cook en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+
+- Type: person
+- Actualizado: 2026-09-01T03:31:35.854Z
+- Canonical: https://atlas.lootura.com/es/person/tim-cook
+
+## Cambios recientes
+
+### A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA
+
+Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.
+
+Date: 2026-09-01
+
+### Discovered by Atlas
+
+Tim Cook first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Phil Schiller deja su puesto como jefe de la App Store de Apple
+
+La salida de Tim Cook como CEO y la asunción de John Ternus como su reemplazo no es el único cambio importante que llega a Apple. Según reporta Mark Gurman, de Bloomberg , Phil Schiller deja su puesto como jefe de la App Store y tampoco continuará al frente de la organización de los eventos de la compañía. De acuerdo c.
+
+Date: 2026-08-31
+
+### Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»
+
+El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim Cook finaliza hoy su mandato como CEO, con John Ternus como el designado para tomar las riendas de la compañía a partir de mañana, 1 de septiembre. Si bien el consejero delegado saliente no va a abandonar la empresa, puesto que asumirá el rol.
+
+Date: 2026-08-31
+
+## Fuentes
+
+- [A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA](https://www.businessinsider.es/big-tech/ternus-se-le-pide-un-nuevo-artilugio-milagroso-pero-clave-apple-sigue-estando-ia_7031061_0.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z
+- [Phil Schiller deja su puesto como jefe de la App Store de Apple](https://hipertextual.com/apple/phil-schiller-deja-su-puesto-como-jefe-de-la-app-store-de-apple/?utm_source=lootura.com) — 2026-08-31T17:30:41.000Z
+- [Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»](https://hipertextual.com/apple/tim-cook-dice-adios-ceo-apple-carta-empleados/?utm_source=lootura.com) — 2026-08-31T16:57:18.000Z

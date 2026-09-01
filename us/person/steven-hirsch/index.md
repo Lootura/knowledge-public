@@ -28,4 +28,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Mangione pleads guilty in federal court, leaving fate of state trial uncertain](https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea?utm_source=lootura.com) — 2026-08-14T16:05:24.000Z
+No public source links.

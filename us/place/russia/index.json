@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-01T03:31:56.776Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,16 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
+      "date": "2026-08-31"
+    },
     {
       "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
       "summary": "This attack comes after the United Nations reported that July was the deadliest month for Ukrainian civilians since the early weeks of Russia's invasion.",
@@ -56,29 +66,19 @@
       "title": "For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’",
       "summary": "President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
-      "summary": "Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
-      "url": "https://www.pbs.org/newshour/world/russian-drones-kill-a-woman-and-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T16:43:48.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:22:56.000Z",
+      "sourceId": "lootura-us-cnbc"
     },
     {
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-14T23:55:21.000Z",
+      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T20:11:10.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
