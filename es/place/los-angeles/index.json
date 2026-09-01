@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-angeles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-angeles/index.json",
   "description": "Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T09:08:34.474Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "City of Angels",
     "City of Los Angeles",
@@ -28,6 +28,11 @@
     "Tinsel Town"
   ],
   "changes": [
+    {
+      "title": "Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles",
+      "summary": "Las actrices se reencuentran en la premiere de ‘Practical Magic 2’ con dos looks negros completamente opuestos: Kidman lleva el primer diseño de Atelier Versace de Pieter Mulier y Bullock apuesta por Louis Vuitton.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Hallazgo insólito en un yacimiento urbano de Los Ángeles: descubren un sapo extinto de la Edad de Hielo que convivió con mamuts",
       "summary": "Un equipo de paleontólogos identificó una nueva especie extinta de sapo en el yacimiento de La Brea Tar Pits , en pleno centro de Los Ángeles , que convivió con mamuts y tigres dientes de sable durante la última Edad de Hielo . El hallazgo fue publicado en el Journal of Vertebrate Paleontology en agosto de 2026 y corre.",
@@ -49,6 +54,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles",
+      "url": "https://www.larazon.es/lifestyle/moda/nicole-kidman-estrena-nueva-era-versace-junto-sandra-bullock-alfombra-roja-angeles_202609016a9676ff3bfe5d1eff3eb1d3.html?outputType=amp&utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:05:14.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

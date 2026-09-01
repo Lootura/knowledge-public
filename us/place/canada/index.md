@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish
+
+Listening to most of the media and Canada ’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took e.
+
+Date: 2026-09-01
 
 ### Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.
 
@@ -62,12 +68,7 @@ There have been 183 new wildfires, including eight large ones, across the U.S. s
 
 Date: 2026-08-09
 
-### Wildfires in western Canada forces more than 20,000 people to evacuate
-
-British Columbia declared a state of emergency Saturday after a fast-moving wildfire destroyed homes and forced more than 20,000 people to flee their communities.
-
-Date: 2026-08-09
-
 ## Sources
 
+- [Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish](https://www.foxnews.com/opinion/fears-canadian-trade-war-overblown-skirmish?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.](https://www.nytimes.com/2026/08/31/us/politics/canada-bessent-carney-trade.html?utm_source=lootura.com) — 2026-08-31T20:47:50.000Z

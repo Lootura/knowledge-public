@@ -3,10 +3,34 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Trump calls for federal tax incentives to benefit TV and movie industry
+
+The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.
+
+Date: 2026-09-01
+
+### A NY hospital tried to close its birthing center. This city united to fight back
+
+Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).
+
+Date: 2026-09-01
+
+### Affordability is the centerpiece of Democrats' message in Pennsylvania swing district
+
+A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.
+
+Date: 2026-09-01
+
+### Markey and other Massachusetts Democrats face primaries
+
+Multiple Massachusetts Democrats are facing primary challengers on Tuesday, led by Sen. Ed Markey, who warned voters that replacing him would mean losing a progressive champion and supporter of transgender rights in Washington. “We need universal childcare and Medicare for all,” Markey told supporters in Dorchester at.
+
+Date: 2026-09-01
 
 ### Trump calls for federal tax incentives to benefit TV and movie industry
 
@@ -44,32 +68,10 @@ Representative Rashida Tlaib was supposed to headline an event called “Chomp t
 
 Date: 2026-08-14
 
-### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
-
-Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.
-
-Date: 2026-08-14
-
-### Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party
-
-Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.
-
-Date: 2026-08-13
-
-### Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state
-
-The newly minted GOP ticket wasted no time before hammering Democrats over fraud. Dozens of people have been convicted of stealing hundreds of millions of dollars meant to provide food, shelter, healthcare and childcare to people in need.
-
-Date: 2026-08-13
-
-### Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition
-
-David Crowley has a strategy to win over the voters who backed democratic socialist Francesca Hong on Tuesday: make the governor’s race an existential fight against “MAGA extremism." Wisconsin Democrats have spent the past day scrambling to unite the far left and centrist factions of the party after a bitter primary ba.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
+- [A NY hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+- [Affordability is the centerpiece of Democrats' message in Pennsylvania swing district](https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district?utm_source=lootura.com) — 2026-09-01T08:46:53.000Z
 - [Tamara Keith and Amy Walter on Trump's midterm influence](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence?utm_source=lootura.com) — 2026-08-31T22:35:53.000Z
-- [Poll: Working class voters are still up for grabs](https://www.politico.com/news/2026/08/31/working-class-voters-midterms-poll-01054992?utm_source=lootura.com) — 2026-08-31T09:00:00.000Z
+- [Markey and other Massachusetts Democrats face primaries](https://www.semafor.com/article/09/01/2026/markey-and-other-massachusetts-democrats-face-primaries?utm_source=lootura.com) — 2026-09-01T08:54:25.000Z

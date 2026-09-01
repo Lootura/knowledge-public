@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Sira Rego confronta el discurso ultra en el Congreso: “No voy a discutir si un niño merece tener derechos”](https://elpais.com/espana/2026-08-31/sira-rego-confronta-el-discurso-ultra-en-el-congreso-no-voy-a-discutir-si-un-nino-merece-tener-derechos.html?utm_source=lootura.com) — 2026-08-31T15:42:27.000Z
-- [La ministra de Infancia ve “imprescindible” acoger en la Península a los menores de Ceuta](https://www.lavanguardia.com/politica/20260831/11623954/ministra-infancia-ve-imprescindible-acoger-peninsula-menores-ceuta.html?utm_source=lootura.com) — 2026-08-31T15:00:55.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-11T16:55:14.081Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/person/tyler-robinson
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-07-08
 
 ## Sources
 
-No public source links.
+- [Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case](https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z

@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Funding bill at the top of the agenda as House returns from recess](https://www.npr.org/2026/08/31/nx-s1-5945760/funding-bill-at-the-top-of-the-agenda-as-house-returns-from-recess?utm_source=lootura.com) — 2026-08-31T08:46:00.000Z
+- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z

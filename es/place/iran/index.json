@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -21,6 +21,16 @@
     {
       "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
       "summary": "La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
+      "summary": "Dan Driscoll ha presentado su renuncia este lunes, después de meses de tensión con el jefe del Pentágono, Pete Hegseth La purga de Hegseth ataca la cúpula del Pentágono y alimenta la bunkerización de la Casa Blanca El secretario del Ejército, Dan Driscoll, ha presentado su dimisión este lunes, según ha anunciado la Cas.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Ibex se aleja de los 20.000",
+      "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
       "date": "2026-09-01"
     },
     {
@@ -57,16 +67,6 @@
       "title": "Irán nombra a un halcón al frente del Consejo de Seguridad en pleno pulso por Ormuz",
       "summary": "Los expertos apuntan que los cambios también buscan crear un contrapeso en el aparato del régimen, ante la creciente influencia de Mohammad Bagher Qalibaf, que lidera las negociaciones con Washington Leer.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "El ejército estadounidense abre fuego contra un barco de bandera panameña que ha intentado romper el bloqueo en Irán",
-      "summary": "Un helicóptero lanzó dos misiles contra la sala de máquinas del carguero panameño Leer.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El Ibex sube un 0,2% y alcanza nuevos máximos con el impulso de Repsol por el repunte en el precio del petróleo",
-      "summary": "El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
@@ -83,11 +83,23 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
+      "title": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
+      "url": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T05:04:26.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
       "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
       "url": "https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T00:04:35.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "El Ibex se aleja de los 20.000",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:05:47.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

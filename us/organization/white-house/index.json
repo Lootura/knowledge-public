@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,28 @@
   ],
   "changes": [
     {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
+      "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
+      "summary": "Army Secretary Dan Driscoll is resigning, the White House confirmed.",
       "date": "2026-09-01"
     },
     {
-      "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
-      "summary": "Army Secretary Dan Driscoll is resigning, the White House confirmed.",
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+      "summary": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
+      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
       "date": "2026-09-01"
     },
     {
@@ -52,30 +67,9 @@
       "title": "US supreme court allows Trump to keep building $400m White House ballroom",
       "summary": "Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "summary": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
-    {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:52:30.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
       "url": "https://www.cbsnews.com/news/army-secretary-dan-driscoll-resigns/?utm_source=lootura.com",
@@ -83,10 +77,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:56:53.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "url": "https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:15:39.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Justices give Trump major legal victory on ballroom project",
@@ -99,6 +93,18 @@
       "url": "https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com",
       "publishedAt": "2026-08-31T23:19:30.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T04:43:57.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:30:07.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",

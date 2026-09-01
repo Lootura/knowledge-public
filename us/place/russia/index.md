@@ -3,10 +3,28 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Global finance ministers gather in North Carolina for G-20 summit
+
+The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.
+
+Date: 2026-09-01
+
+### A Factory in Rural Ireland Is at the Center of a Dispute Over Russia
+
+Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
+
+Date: 2026-09-01
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
 
 ### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
 
@@ -50,25 +68,8 @@ Polish Prime Minister Donald Tusk said it marks the first time Russia sought to 
 
 Date: 2026-08-13
 
-### By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea
-
-Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).
-
-Date: 2026-08-13
-
-### Product availability changed in Europe
-
-President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
-
-Date: 2026-08-12
-
-### For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’
-
-President Trump’s Air Force One subterfuge pales in comparison to the secrecy surrounding Russia’s president, whose fixation on security has reached new heights in recent years.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
-- [Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China](https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com) — 2026-08-31T20:11:10.000Z
+- [Global finance ministers gather in North Carolina for G-20 summit](https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com) — 2026-09-01T08:46:27.000Z
+- [A Factory in Rural Ireland Is at the Center of a Dispute Over Russia](https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html?utm_source=lootura.com) — 2026-09-01T09:00:29.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z

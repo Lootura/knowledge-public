@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### How the Supreme Court Locks Away Its Own History
+
+After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.
+
+Date: 2026-09-01
 
 ### Supreme Court continues to allow construction of Trump's White House ballroom
 
@@ -62,15 +68,9 @@ The U.S. Supreme Court building on May 4, 2026 in Washington, DC. —Andrew Harn
 
 Date: 2026-08-11
 
-### Trump Vows to Take Ballroom Battle to the Supreme Court
-
-President Donald Trump’s planned ballroom is in jeopardy after a federal appeals court ruled Congress should have approved the project first. The president is now calling on the Supreme Court to overturn that decision. NBC’s Gabe Gutierrez reports for TODAY.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Supreme Court continues to allow construction of Trump's White House ballroom](https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com) — 2026-09-01T01:52:30.000Z
 - [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
 - [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
 - [US supreme court allows Trump to keep building $400m White House ballroom](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com) — 2026-08-31T22:13:12.000Z
+- [How the Supreme Court Locks Away Its Own History](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com) — 2026-09-01T09:00:12.000Z

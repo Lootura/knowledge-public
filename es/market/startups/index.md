@@ -3,7 +3,7 @@
 > Sigue la actividad de Startups en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: market
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/market/startups
 
 ## Cambios recientes
@@ -22,4 +22,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [La Justicia de Qatar condena a OHLA a pagar 26,4 millones por las obras del hospital de Sidra](https://theobjective.com/espana/tribunales/2026-09-01/justicia-qatar-ohla-264-millones-obras-hospital-sidra/?utm_source=lootura.com) — 2026-09-01T08:10:19.000Z

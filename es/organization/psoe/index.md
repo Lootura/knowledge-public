@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
@@ -11,6 +11,30 @@
 ### El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción
 
 Comienza el nuevo curso y, con él, empieza a reactivarse la actividad judicial tras el parón estival. Este mes de septiembre, que estará marcado de nuevo por las causas judiciales que afectan al PSOE y el Gobierno, vuelven también a calentar motores en el Consejo General del Poder Judicial (CGPJ), donde los vocales esp.
+
+Date: 2026-09-01
+
+### El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias
+
+El partido exige “extremar las cautelas” para que no haya “ninguna filtración” y pide que solo Anticorrupción pueda tener acceso a la pieza separada sobre sus depósitos El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias El PSOE ha solicitado al.
+
+Date: 2026-09-01
+
+### Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE
+
+Miles de migrantes permanecen todavía en la ciudad autónoma mientras continúan las devoluciones y aumenta la presión para buscar una salida a los menores. Sigue en directo las noticias de Ceuta y Melilla.
+
+Date: 2026-09-01
+
+### Moguer, gobernado por el PSOE, se suma a las concentraciones por Ceuta
+
+El alcalde de Moguer (Huelva), el socialista Gustavo Cuéllar, ha confirmado la adhesión de su Ayuntamiento a las manifestaciones convocadas para mañana por la situación en Ceuta, desmarcándose de las directrices generales de su partido, por "una cuestión de solidaridad territorial, una cuestión de empatía" . Además, ha.
+
+Date: 2026-09-01
+
+### El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta
+
+El PP ha pedido a las delegaciones del Gobierno que «dejen de prohibir» concentraciones de apoyo a Ceuta en algunos puntos de España porque, según ha dicho, esa iniciativa no es «contra nadie». Además, ha apelado a la «conciencia solidaria» de los dirigentes del PSOE ante la situación que vive la ciudad autónoma, tras.
 
 Date: 2026-09-01
 
@@ -44,30 +68,10 @@ El grupo confederal pide mantener el calendario de cierre acordado y lamenta seg
 
 Date: 2026-08-14
 
-### Sumar rechaza la prórroga de Almaraz y dice que incumple los acuerdos de gobierno
-
-Sumar ha rechazado la decisión del Ministerio para la Transición Ecológica de autorizar la ampliación de la vida de la central nuclear de Almaraz hasta el 2030 y considera que la medida supone un incumplimiento de los acuerdos para la formación de gobierno entre el PSOE y la formación política. Seguir leyendo...
-
-Date: 2026-08-14
-
-### El juzgado de Madrid se inhibe a favor de Pedraz señalando a la cúpula del PSOE como impulsora de las 'cloacas'
-
-Zamarriego apunta que Leire Díez es una pieza secundaria de un «importante entramado delictivo» con responsables de «mayor nivel de jerarquía».
-
-Date: 2026-08-13
-
-### El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE
-
-El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.
-
-Date: 2026-08-13
-
-### El PP desafía al PSOE a que llame a consultas a la embajadora de Marruecos
-
-"Tendría que ser el gobierno en bloque el que saliera a defender la integridad territorial, a decir que esa invasión no se puede repetir", avisa de los Santos Leer.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [El CGPJ se prepara para otro bloqueo por la renovación de las salas clave del TS como la que juzga la corrupción](https://www.elconfidencial.com/espana/2026-09-01/cgpj-bloqueo-renovacion-salas-clave-supremo_4399377/?utm_source=lootura.com) — 2026-09-01T03:00:00.000Z
+- [El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias](https://www.eldiario.es/politica/psoe-reclama-juez-caso-leire-diez-fiscalia-pueda-ver-rastreo-cuentas-bancarias_1_13478440.html?utm_source=lootura.com) — 2026-09-01T08:35:48.000Z
+- [Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE](https://www.larazon.es/espana/crisis-migratoria-ceuta-directo-ultima-hora-manifestaciones-enfrentamientos_202609016a96613a4941316b1e7301c7.html?outputType=amp&utm_source=lootura.com) — 2026-09-01T09:09:06.000Z
+- [Moguer, gobernado por el PSOE, se suma a las concentraciones por Ceuta](https://www.larazon.es/andalucia/moguer-gobernado-psoe-suma-concentraciones-ceuta_202609016a9694272d7d3022177a3423.html?utm_source=lootura.com) — 2026-09-01T09:00:23.000Z
+- [El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta](https://theobjective.com/espana/politica/2026-09-01/pp-reclama-gobierno-prohibir-concentraciones-apoyo-ceuta/?utm_source=lootura.com) — 2026-09-01T08:52:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,11 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "Global finance ministers gather in North Carolina for G-20 summit",
+      "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
+      "date": "2026-09-01"
+    },
     {
       "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
       "summary": "Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.",
@@ -54,6 +59,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Global finance ministers gather in North Carolina for G-20 summit",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:46:27.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 1
 }

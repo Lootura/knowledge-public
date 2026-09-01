@@ -3,20 +3,38 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Supreme Court continues to allow construction of Trump's White House ballroom
-
-The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.
-
-Date: 2026-09-01
-
 ### Army Secretary Dan Driscoll resigning after friction with Hegseth
 
 Army Secretary Dan Driscoll is resigning, the White House confirmed.
+
+Date: 2026-09-01
+
+### U.S.-Venezuela oil deal will rely on North American Blue Energy Partners
+
+The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.
+
+Date: 2026-09-01
+
+### Army Secretary Dan Driscoll is stepping down, White House says
+
+Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).
+
+Date: 2026-09-01
+
+### Days after Trump announces Venezuela oil deal, White House fills in some of the details
+
+As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).
+
+Date: 2026-09-01
+
+### Supreme Court continues to allow construction of Trump's White House ballroom
+
+The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.
 
 Date: 2026-09-01
 
@@ -50,30 +68,13 @@ Justices’ 5-4 ruling permits Trump administration appeal to block lower court 
 
 Date: 2026-08-31
 
-### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
-
-Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
-
-Date: 2026-08-14
-
-### Feds probe 'mention markets' amid White House Kalshi controversy
-
-Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipulators. (Image credit: Erin Hooley/AP Photo/Erin Hooley).
-
-Date: 2026-08-14
-
-### Judge drops Nevada case against electors accused of forging certificate in 2020 election
-
-The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020. (Image credit: John Locher).
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Supreme Court continues to allow construction of Trump's White House ballroom](https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com) — 2026-09-01T01:52:30.000Z
 - [Army Secretary Dan Driscoll resigning after friction with Hegseth](https://www.cbsnews.com/news/army-secretary-dan-driscoll-resigns/?utm_source=lootura.com) — 2026-09-01T01:05:25.000Z
-- [Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says](https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com) — 2026-09-01T01:56:53.000Z
+- [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
 - [Justices give Trump major legal victory on ballroom project](https://www.nbcnews.com/nightly-news/video/justices-give-trump-major-legal-victory-on-ballroom-project-269123141875?utm_source=lootura.com) — 2026-08-31T23:12:55.000Z
 - [Army Secretary Dan Driscoll submits resignation to White House](https://www.nbcnews.com/video/army-scretary-dan-driscoll-submits-resignation-to-white-house-269124677749?utm_source=lootura.com) — 2026-08-31T23:19:30.000Z
+- [Army Secretary Dan Driscoll is stepping down, White House says](https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down?utm_source=lootura.com) — 2026-09-01T04:43:57.000Z
+- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z
 - [News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com) — 2026-08-31T22:50:35.000Z
 - [US supreme court allows Trump to keep building $400m White House ballroom](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com) — 2026-08-31T22:13:12.000Z

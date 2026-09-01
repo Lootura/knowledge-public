@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -19,6 +19,16 @@
     {
       "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
       "summary": "La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
+      "summary": "La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Ibex se aleja de los 20.000",
+      "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
       "date": "2026-09-01"
     },
     {
@@ -55,25 +65,27 @@
       "title": "El Líbano, primer país de Oriente Próximo que aprueba abolir la pena de muerte",
       "summary": "El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pena de muerte , el primer país en dar este paso histórico en la región de Oriente Próximo , tras llevar más de 20 años sin la aplicación de la pena capital. La pena de muerte ha sido abolida tras la introducción de enmiendas, de modo que los de.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo",
-      "summary": "El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro",
-      "summary": "Las Bolsas hacen un alto en el camino . Después de una semana histórica en la que los índices europeos y estadounidenses enlazaron récord tras récord, la euforia ha dado paso a la prudencia y los principales selectivos apenas registraron movimientos. Con las negociaciones en Oriente Próximo encalladas, la temporada de.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
+    {
+      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
+      "url": "https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T06:00:00.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
+    },
     {
       "title": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
       "url": "https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T00:04:35.000Z",
       "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "El Ibex se aleja de los 20.000",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:05:47.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

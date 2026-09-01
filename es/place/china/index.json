@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,11 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong",
+      "summary": "La plataforma china de compraventa de ropa online Shein ha protagonizado un accidentado debut en la Bolsa de Hong Kong al desplomarse hasta un 10% en las primeras horas de cotización. La compañía ha sufrido años de vaivenes y planes frustrados para empezar a cotizar, que provocaron una caída del 73% en su valoración de.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Putin busca más negocios con China mientras India le pide que acabe con su \"guerra interminable\"",
       "summary": "Moscú necesita que sus dos grandes socios asiáticos mantengan abierto el pulmón económico que le permite resistir las sanciones Leer.",
@@ -71,14 +76,15 @@
       "title": "LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo",
       "summary": "No es una época fácil para el sector del lujo en Bolsa. Arrastrado por varios factores, como la caída de la demanda desde China, ha sufrido mucho en los últimos cinco años y su mayor exponente, LVMH, ha perdido un tercio de su valor de mercado. Tras un mes de aparente recuperación, de la mano de unos resultados trimest.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Una mujer descubre que su marido intentaba tener un hijo con su amante mediante fecundación in vitro y pide destruir el embrión",
-      "summary": "Una mujer china ha acudido a la Justicia después de descubrir que su marido había iniciado un proceso de fecundación in vitro con su amante. Además de reclamar la destrucción del embrión congelado, el caso ha abierto un debate en China ante la falta de una respuesta clara sobre quién puede decidir su destino. Zhu descu.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
+    {
+      "title": "Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-01/shein-cae-hasta-un-10-en-su-debut-en-la-bolsa-de-hong-kong.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T05:01:21.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "Putin busca más negocios con China mientras India le pide que acabe con su \"guerra interminable\"",
       "url": "https://www.elmundo.es/internacional/2026/09/01/6a95cbe0e4d4d8e4788b457f.html?utm_source=lootura.com",
@@ -86,5 +92,5 @@
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

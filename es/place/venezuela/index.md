@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
+
+La renovada apuesta de Repsol por Venezuela avanza. La multinacional está encontrando el camino cada vez más despejado para poder desarrollar su actividad en el país latinoamericano, donde está presente desde 1993 y donde aspira a triplicar su apuesta actual. La última demostración de este avance llegó este mismo fin d.
+
+Date: 2026-09-01
 
 ### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
 
@@ -62,12 +68,6 @@ La escala de Richter de un terremoto no determina de manera exacta el daño, ya 
 
 Date: 2026-08-10
 
-### Pánico en las calles, edificios colapsados... los vídeos más impactantes del terremoto que ha azotado a Colombia
-
-Tragedia en Colombia . Un potente terremoto de magnitud 7,4 ha azotado este lunes el país e incluso se ha llegado a sentir en Panamá, Venezuela y Ecuador . El seísmo, que ha provocado al menos 22 muertos, ha causado el colapso de varios edificios, desprendimientos de fachadas, graves daños en aeropuertos e incluso derr.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z
+- [Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez](https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html?utm_source=lootura.com) — 2026-09-01T03:45:00.000Z

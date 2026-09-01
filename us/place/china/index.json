@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,16 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
+      "summary": "Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain (Image credit: Rajesh Kumar Singh).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Trump's plan for economic D-day for Iran has one big hole: China",
       "summary": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.",
@@ -59,37 +69,21 @@
       "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
       "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Why China should reassess how it rewards young scientists",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-      "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan. (Image credit: Chiang Ying-ying).",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T20:48:03.000Z",
+      "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T07:08:12.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T20:11:10.000Z",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:51:03.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

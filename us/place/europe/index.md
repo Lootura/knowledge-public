@@ -3,20 +3,32 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
-
-The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
-
-Date: 2026-09-01
-
 ### New policy brief outlines how EU policies can better support sponge restoration
 
 Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achi.
+
+Date: 2026-09-01
+
+### Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.
+
+As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
+
+Date: 2026-09-01
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+
+The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
 
 Date: 2026-09-01
 
@@ -56,19 +68,8 @@ The continent’s railways and roads “were engineered for a climate that no lo
 
 Date: 2026-08-14
 
-### US could exhaust domestic phosphorus within 40 years, but waste offers reserves
-
-The United States could exhaust its domestic phosphorus supply within 40 years. Europe, Latin America and Southeast Asia already depend on imports from China and Morocco to meet their needs. Without phosphorus, crops cannot grow—and without a reliable supply of the mineral, the world's food supply is at risk.
-
-Date: 2026-08-14
-
-### Heat Is Hammering Europe, Again. Here’s What That Looks Like.
-
-Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
 - [New policy brief outlines how EU policies can better support sponge restoration](https://phys.org/news/2026-08-policy-outlines-eu-policies-sponge.html?utm_source=lootura.com) — 2026-09-01T03:00:01.000Z
+- [Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.](https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com) — 2026-09-01T09:00:32.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z

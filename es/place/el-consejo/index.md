@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos
+
+A pesar de la firme oposición de los médicos, que han amenazado con convocar una huelga indefinida durante el otoño , el Consejo de Ministros dará luz verde este martes al proyecto de ley del Estatuto Marco, la norma que regula las condiciones laborales del personal que trabaja en el sistema sanitario, ha confirmado Ef.
+
+Date: 2026-09-01
 
 ### El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla
 
@@ -62,12 +68,6 @@ El Consejo de Ministros aprobó este martes el decreto que actualiza la relació
 
 Date: 2026-07-21
 
-### El Gobierno nombra a Juan José Ganuza presidente de la CNMC y tres consejeros afines
-
-El Consejo de Ministros ha aprobado el nombramiento de Juan José Ganuza Fernández como nuevo presidente de la Comisión Nacional de los Mercados y la Competencia (CNMC) , así como de Joan Capdevila, Carmen Balsa y Marina Echebarría como consejeros de la misma entidad.La oficialización de estas designaciones se producen.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla](https://www.eldiario.es/economia/gobierno-inyectara-21-5-millones-reforzar-servicios-publicos-desalinizadoras-ceuta-melilla_1_13477054.html?utm_source=lootura.com) — 2026-08-31T16:00:42.000Z
+- [El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos](https://www.abc.es/sociedad/consejo-ministros-aprobara-hoy-nuevo-estatuto-marco-20260901094923-nt.html?utm_source=lootura.com) — 2026-09-01T07:49:23.000Z

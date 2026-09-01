@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong
+
+La plataforma china de compraventa de ropa online Shein ha protagonizado un accidentado debut en la Bolsa de Hong Kong al desplomarse hasta un 10% en las primeras horas de cotización. La compañía ha sufrido años de vaivenes y planes frustrados para empezar a cotizar, que provocaron una caída del 73% en su valoración de.
+
+Date: 2026-09-01
 
 ### Putin busca más negocios con China mientras India le pide que acabe con su "guerra interminable"
 
@@ -62,12 +68,7 @@ No es una época fácil para el sector del lujo en Bolsa. Arrastrado por varios 
 
 Date: 2026-08-12
 
-### Una mujer descubre que su marido intentaba tener un hijo con su amante mediante fecundación in vitro y pide destruir el embrión
-
-Una mujer china ha acudido a la Justicia después de descubrir que su marido había iniciado un proceso de fecundación in vitro con su amante. Además de reclamar la destrucción del embrión congelado, el caso ha abierto un debate en China ante la falta de una respuesta clara sobre quién puede decidir su destino. Zhu descu.
-
-Date: 2026-08-12
-
 ## Fuentes
 
+- [Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong](https://cincodias.elpais.com/mercados-financieros/2026-09-01/shein-cae-hasta-un-10-en-su-debut-en-la-bolsa-de-hong-kong.html?utm_source=lootura.com) — 2026-09-01T05:01:21.000Z
 - [Putin busca más negocios con China mientras India le pide que acabe con su "guerra interminable"](https://www.elmundo.es/internacional/2026/09/01/6a95cbe0e4d4d8e4788b457f.html?utm_source=lootura.com) — 2026-08-31T22:56:23.000Z

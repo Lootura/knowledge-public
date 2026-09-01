@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Detenido por quemar las casas de dos hombres que robaron en la suya en Toledo
+
+Un hombre ha sido detenido y ha ingresado en prisión por q uemar las casas de otros dos que previamente habían robado en su domicilio , a punta de pistola, y que también han sido detenidos. Según ha informado la Guardia Civil , los tres han sido detenidos en la provincia de Toledo como responsables de un total de once.
+
+Date: 2026-09-01
+
+### Salvamento Marítimo y la Guardia Civil rescatan a 24 inmigrantes en una patera en Cabrera
+
+Salvamento Marítimo y la Guardia Civil han rescatado esta madrugada a 24 inmigrantes de origen subsahariano en una patera en la zona de las islas Bledes, en el parque nacional de Cabrera. La intervención ha sido a las 4.23 horas y han participado Salvamento Marítimo, el servicio Marítimo Provincial destacado en Cabrera.
+
+Date: 2026-09-01
 
 ### Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos
 
@@ -56,18 +68,7 @@ Llanes intenta retomar una cierta normalidad una semana después del crimen de L
 
 Date: 2026-08-11
 
-### Marlaska escurre el bulto sobre la zodiac que utilizó Sánchez para ir a bucear y se lo pasa a la Guardia Civil
-
-El ministro del Interior, Fernando Grande-Marlaska , ha rechazado asumir en primera persona las explicaciones sobre la zodiac que emplea Pedro Sánchez para sus salidas a practicar buceo en Lanzarote, donde pasa sus vacaciones. En su lugar, remite a la Guardia Civil , endosando así a las Fuerzas y Cuerpos de Seguridad d.
-
-Date: 2026-08-11
-
-### Detenidas 15 personas, incluido un guardia civil, con tonelada y media de cocaína en La Coruña
-
-Un total de 15 personas, entre ellas un agente de la Guardia Civil, han sido detenidas en una operación contra el narcotráfico en Mugía (La Coruña), en la.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Detenido por quemar las casas de dos hombres que robaron en la suya en Toledo](https://www.elconfidencial.com/espana/2026-09-01/detenido-quemar-casas-de-dos-hombres-que-le-robaron_4415715/?utm_source=lootura.com) — 2026-09-01T08:21:00.000Z
+- [Salvamento Marítimo y la Guardia Civil rescatan a 24 inmigrantes en una patera en Cabrera](https://theobjective.com/sociedad/suceso/2026-09-01/rescatan-24-inmigrantes-patera-parque-cabrera/?utm_source=lootura.com) — 2026-09-01T08:55:11.000Z

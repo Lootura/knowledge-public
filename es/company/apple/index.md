@@ -70,7 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA](https://www.businessinsider.es/big-tech/ternus-se-le-pide-un-nuevo-artilugio-milagroso-pero-clave-apple-sigue-estando-ia_7031061_0.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z
-- [Phil Schiller deja su puesto como jefe de la App Store de Apple](https://hipertextual.com/apple/phil-schiller-deja-su-puesto-como-jefe-de-la-app-store-de-apple/?utm_source=lootura.com) — 2026-08-31T17:30:41.000Z
-- [Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»](https://hipertextual.com/apple/tim-cook-dice-adios-ceo-apple-carta-empleados/?utm_source=lootura.com) — 2026-08-31T16:57:18.000Z
-- [Las 10 mejores ofertas de hoy (1 de septiembre) en Amazon: hasta un 73% en Calvin Klein, Adidas, Apple y más](https://www.larazon.es/compras/10-mejores-ofertas-hoy-1-septiembre-amazon-73-calvin-klein-adidas-apple-mas-3v3r_202609016a96194b4941316b1e72d5f5.html?utm_source=lootura.com) — 2026-09-01T01:21:26.000Z
+No public source links.

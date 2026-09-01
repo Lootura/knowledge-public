@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Hindu pilgrims, on arduous trek, among Nepal's missing
+
+Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain (Image credit: Rajesh Kumar Singh).
+
+Date: 2026-09-01
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
 
 ### Trump's plan for economic D-day for Iran has one big hole: China
 
@@ -56,20 +68,7 @@ The report specifically highlights that China responded to new tariffs in 2018 b
 
 Date: 2026-08-13
 
-### Why China should reassess how it rewards young scientists
-
-Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.
-
-Date: 2026-08-13
-
-### Taiwan briefly slows its mobile internet to text-only speed as part of defense drill
-
-The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan. (Image credit: Chiang Ying-ying).
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Trump's plan for economic D-day for Iran has one big hole: China](https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china?utm_source=lootura.com) — 2026-08-31T20:48:03.000Z
-- [Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China](https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html?utm_source=lootura.com) — 2026-08-31T20:11:10.000Z
-- [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs?utm_source=lootura.com) — 2026-08-31T22:00:00.000Z
+- [Hindu pilgrims, on arduous trek, among Nepal's missing](https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing?utm_source=lootura.com) — 2026-09-01T07:08:12.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T08:51:03.000Z

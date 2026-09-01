@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/los-angeles
 
 ## Cambios recientes
+
+### Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles
+
+Las actrices se reencuentran en la premiere de ‘Practical Magic 2’ con dos looks negros completamente opuestos: Kidman lleva el primer diseño de Atelier Versace de Pieter Mulier y Bullock apuesta por Louis Vuitton.
+
+Date: 2026-09-01
 
 ### Hallazgo insólito en un yacimiento urbano de Los Ángeles: descubren un sapo extinto de la Edad de Hielo que convivió con mamuts
 
@@ -34,4 +40,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles](https://www.larazon.es/lifestyle/moda/nicole-kidman-estrena-nueva-era-versace-junto-sandra-bullock-alfombra-roja-angeles_202609016a9676ff3bfe5d1eff3eb1d3.html?outputType=amp&utm_source=lootura.com) — 2026-09-01T09:05:14.000Z

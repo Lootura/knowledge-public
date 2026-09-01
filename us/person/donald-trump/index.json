@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,8 +26,13 @@
   ],
   "changes": [
     {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
+      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
       "date": "2026-09-01"
     },
     {
@@ -36,51 +41,46 @@
       "date": "2026-09-01"
     },
     {
-      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
+      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+      "summary": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).",
       "date": "2026-09-01"
     },
     {
-      "title": "Justices give Trump major legal victory on ballroom project",
-      "summary": "A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.",
-      "date": "2026-08-31"
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
+      "date": "2026-09-01"
     },
     {
-      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
-      "summary": "The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth? (Image credit: Sally Hayden/SOPA Images/LightRocket).",
-      "date": "2026-08-31"
+      "title": "Trump may need to save Paxton in Texas Senate race",
+      "summary": "The News Republicans are counting on President Donald Trump’s cavalry to carry Ken Paxton to victory — but it hasn’t come yet. Ultimately, the GOP expects MAGA Inc. to help its Texas Senate nominee win with a significant spend this fall, according to multiple Republican sources, although even presidential super PAC don.",
+      "date": "2026-09-01"
     },
     {
-      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
-      "summary": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned. (Image credit: Michael Zamora).",
-      "date": "2026-08-31"
+      "title": "Opinion: The Trump administration is burying science and health care in paperwork",
+      "summary": "If you have ever interacted with the federal government, it’s probably involved a lot of paperwork. According to the federal government’s own estimate, in 2023, 10,503 million hours were spent filling out paperwork across federal agencies. The amount of time that people spend trying to navigate government bureaucracy t.",
+      "date": "2026-09-01"
     },
     {
-      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-      "summary": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.",
-      "date": "2026-08-31"
+      "title": "Funding milestone detected",
+      "summary": "Under the Trump administration, competition for government funding for biomedical research has reached new heights . In June, the National Institutes of Health proposed one solution : limiting the number of grants each individual scientist can have at a given moment. The agency recently released the anonymized 3,307 re.",
+      "date": "2026-09-01"
     },
     {
-      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
-      "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
-      "date": "2026-08-31"
+      "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+      "summary": "WASHINGTON — Changing Americans’ nutrition has been among the Trump administration’s most prominent health policies since Robert F. Kennedy Jr. became health secretary. Officials have flipped the food pyramid to emphasize the role of protein in the diet, encouraged the public to cut back on highly processed foods, and.",
+      "date": "2026-09-01"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
-      "date": "2026-08-31"
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "url": "https://www.cbsnews.com/news/supreme-court-trump-white-house-ballroom-construction/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:52:30.000Z",
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "url": "https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:15:39.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -93,7 +93,13 @@
       "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
       "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com",
       "publishedAt": "2026-09-01T02:03:18.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T04:43:57.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
@@ -108,9 +114,9 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-      "url": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T20:48:03.000Z",
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:30:07.000Z",
       "sourceId": "lootura-us-npr-world"
     },
     {
@@ -130,13 +136,7 @@
       "url": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com",
       "publishedAt": "2026-08-31T22:45:48.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "US supreme court allows Trump to keep building $400m White House ballroom",
-      "url": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:13:12.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 14
+  "evidenceCount": 18
 }

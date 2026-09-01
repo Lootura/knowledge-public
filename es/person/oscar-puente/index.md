@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"
+
+El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que exista un "reproche" hacia el Rey Felipe VI en las palabras del presidente del Gobierno, Pedro Sánchez , acerca de una posible visita a Ceuta ; remarcando que, de haberlo, "es hacia quienes han querido utilizar la figura del monarca en una.
+
+Date: 2026-09-01
 
 ### Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión
 
@@ -62,12 +68,6 @@ Evita valorar las declaraciones de Óscar Puente en redes sociales y muestra cor
 
 Date: 2026-07-25
 
-### Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión](https://www.larazon.es/economia/nuevos-trenes-cercanias-madrid-posibilitan-renovacion-cascada-tres-nucleos-sola-inversion_202609016a95746b4941316b1e72311b.html?utm_source=lootura.com) — 2026-09-01T01:24:32.000Z
+- [Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"](https://www.20minutos.es/nacional/oscar-puente-niega-un-reproche-sanchez-rey-felipe-vi-es-hacia-quienes-utilizan-figura-monarca-una-crisis_7031324_0.html?utm_source=lootura.com) — 2026-09-01T07:57:02.000Z

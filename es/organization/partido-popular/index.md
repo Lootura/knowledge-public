@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
+
+El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.
+
+Date: 2026-09-01
+
+### El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta
+
+El PP ha pedido a las delegaciones del Gobierno que «dejen de prohibir» concentraciones de apoyo a Ceuta en algunos puntos de España porque, según ha dicho, esa iniciativa no es «contra nadie». Además, ha apelado a la «conciencia solidaria» de los dirigentes del PSOE ante la situación que vive la ciudad autónoma, tras.
+
+Date: 2026-09-01
 
 ### Un curs entre la ràbia i l’esperança
 
@@ -56,21 +68,9 @@ El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como
 
 Date: 2026-08-14
 
-### El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"
-
-El vicesecretario de Política Autonómica y Municipal y Análisis Electoral del PP, Elías Bendodo, ha criticado este viernes que el Ministerio del Interior "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha de 70.000 inmigrantes que violentaron nuestras fronteras en Ceuta ". En declar.
-
-Date: 2026-08-14
-
-### Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta
-
-El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z
 - ["Que convoque elecciones y la derecha tendrá una mayoría histórica": el PP responde a Sánchez por deslegitimar "la alternancia"](https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com) — 2026-08-31T20:47:29.000Z
 - [Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño](https://www.elmundo.es/madrid/2026/09/01/6a95b7dae9cf4af5038b459f.html?utm_source=lootura.com) — 2026-08-31T22:20:48.000Z
-- [El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”](https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html?utm_source=lootura.com) — 2026-08-31T12:58:08.000Z
-- [Un curs entre la ràbia i l’esperança](https://www.elperiodicomediterraneo.com/opinion/2026/09/01/curs-rabia-l-esperanca-133821106.html?utm_source=lootura.com) — 2026-09-01T03:01:01.000Z
+- [El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta](https://theobjective.com/espana/politica/2026-09-01/pp-reclama-gobierno-prohibir-concentraciones-apoyo-ceuta/?utm_source=lootura.com) — 2026-09-01T08:52:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,11 @@
     {
       "title": "Mysteries of the deep and AI friendship: Books in brief",
       "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
       "date": "2026-09-01"
     },
     {
@@ -71,25 +76,26 @@
       "title": "AI isn’t ready to research itself",
       "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
       "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
       "url": "https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T03:32:00.995Z",
+      "publishedAt": "2026-09-01T09:10:09.015Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Mysteries of the deep and AI friendship: Books in brief",
       "url": "https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T03:32:00.995Z",
+      "publishedAt": "2026-09-01T09:10:09.016Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "AI chatbot use for emotional support tied to loneliness in students",
@@ -98,5 +104,5 @@
       "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

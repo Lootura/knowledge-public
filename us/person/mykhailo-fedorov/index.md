@@ -46,4 +46,4 @@ Date: 2026-07-16
 
 ## Sources
 
-- [Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief](https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html?utm_source=lootura.com) — 2026-08-31T18:16:50.000Z
+No public source links.

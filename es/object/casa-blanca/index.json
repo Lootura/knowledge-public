@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
+      "summary": "Dan Driscoll ha presentado su renuncia este lunes, después de meses de tensión con el jefe del Pentágono, Pete Hegseth La purga de Hegseth ataca la cúpula del Pentágono y alimenta la bunkerización de la Casa Blanca El secretario del Ejército, Dan Driscoll, ha presentado su dimisión este lunes, según ha anunciado la Cas.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
       "summary": "El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.",
@@ -64,13 +69,21 @@
       "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
       "summary": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Casa Blanca confirma la “privatización” del sector petrolero venezolano con un contrato de un siglo",
+      "url": "https://elpais.com/us/2026-09-01/la-casa-blanca-confirma-la-privatizacion-del-sector-petrolero-venezolano-con-un-contrato-de-un-siglo.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:13:17.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
+      "url": "https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T05:04:26.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

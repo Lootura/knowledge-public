@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Mysteries of the deep and AI friendship: Books in brief
 
 Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.
+
+Date: 2026-09-01
+
+### AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market
+
+Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).
 
 Date: 2026-09-01
 
@@ -62,14 +68,9 @@ Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agen
 
 Date: 2026-08-13
 
-### I looked inside an AI generated movie, and the best parts were all human
-
-Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to acc.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?](https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com) — 2026-09-01T03:32:00.995Z
-- [Mysteries of the deep and AI friendship: Books in brief](https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com) — 2026-09-01T03:32:00.995Z
+- [AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?](https://www.nature.com/articles/d41586-026-02684-1?utm_source=lootura.com) — 2026-09-01T09:10:09.015Z
+- [Mysteries of the deep and AI friendship: Books in brief](https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com) — 2026-09-01T09:10:09.016Z
+- [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [AI chatbot use for emotional support tied to loneliness in students](https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html?utm_source=lootura.com) — 2026-08-31T22:50:01.000Z

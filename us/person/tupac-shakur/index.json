@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.json",
   "description": "Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Shakur",
     "Tupac"
   ],
   "changes": [
+    {
+      "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+      "summary": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans for decades. (Image credit: Bizuayehu Tesfaye).",
+      "date": "2026-09-01"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Tupac Shakur first entered the public knowledge record with source-backed evidence.",
@@ -41,7 +46,13 @@
       "url": "https://www.nbcnews.com/nightly-news/video/ex-gang-leader-found-guilty-in-tupac-shakur-s-1996-killing-269135429661?utm_source=lootura.com",
       "publishedAt": "2026-09-01T01:47:33.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T04:57:01.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

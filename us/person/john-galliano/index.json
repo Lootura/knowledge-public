@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/john-galliano/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/john-galliano/index.json",
   "description": "Follow John Galliano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Galliano",
     "John Charles Galliano",
@@ -26,6 +26,11 @@
       "date": "2026-09-01"
     },
     {
+      "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano",
+      "summary": "The Metropolitan Museum of Art is canceling exhibit honoring British designer John Galliano. The exhibit had led to backlash because of the designer's past antisemitic and racist statements. (Image credit: Jacques Brinon).",
+      "date": "2026-09-01"
+    },
+    {
       "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
       "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
       "date": "2026-08-31"
@@ -39,11 +44,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T05:43:37.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
       "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
       "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges?utm_source=lootura.com",
       "publishedAt": "2026-08-31T22:50:35.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

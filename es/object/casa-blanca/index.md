@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán
+
+Dan Driscoll ha presentado su renuncia este lunes, después de meses de tensión con el jefe del Pentágono, Pete Hegseth La purga de Hegseth ataca la cúpula del Pentágono y alimenta la bunkerización de la Casa Blanca El secretario del Ejército, Dan Driscoll, ha presentado su dimisión este lunes, según ha anunciado la Cas.
+
+Date: 2026-09-01
 
 ### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
 
@@ -62,12 +68,7 @@ Trump también reavivó la idea de servir un tercer mandato, algo prohibido por 
 
 Date: 2026-07-25
 
-### Trump bromea sobre un tercer mandato en la celebración de la cena de corresponsales
-
-El presidente de Estados Unidos, Donald Trump , ha aprovechado su regreso a la Cena de Corresponsales de la Casa Blanca para recordar el intento de ataque que motivó la suspensión de la edición anterior y ha defendido que la violencia política «no cambiará» el sistema democrático estadounidense, al tiempo que ha puesto.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [La Casa Blanca confirma la “privatización” del sector petrolero venezolano con un contrato de un siglo](https://elpais.com/us/2026-09-01/la-casa-blanca-confirma-la-privatizacion-del-sector-petrolero-venezolano-con-un-contrato-de-un-siglo.html?utm_source=lootura.com) — 2026-09-01T03:13:17.000Z
+- [El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán](https://www.eldiario.es/internacional/secretario-ejercito-eeuu-dimite-aumenta-vacio-liderazgo-medio-guerra-iran_1_13478327.html?utm_source=lootura.com) — 2026-09-01T05:04:26.000Z

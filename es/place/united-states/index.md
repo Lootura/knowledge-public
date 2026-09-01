@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
 
 en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
+
+Date: 2026-09-01
+
+### El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií
+
+La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.
+
+Date: 2026-09-01
+
+### El Ibex se aleja de los 20.000
+
+Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
 
 Date: 2026-09-01
 
@@ -56,21 +68,9 @@ Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grup
 
 Date: 2026-08-14
 
-### Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio
-
-Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados Unidos, William Taft, en 1910: “Después del duro y agotador trabajo al que uno se somete entre el otoño y la primavera, [esos meses de descanso] son necesarios para poder continuar el trabajo al año siguiente con la energía y la eficacia qu.
-
-Date: 2026-08-14
-
-### EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles
-
-Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis diplomática abierta entre Tokio y Moscú por la reciente visita del presidente.
-
-Date: 2026-08-14
-
 ## Fuentes
 
 - [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
-- [EEUU demanda a Amazon por cobrar de más a sus anunciantes](https://www.expansion.com/economia-digital/2026/08/31/6a95d45de5fdeaed0c8b4581.html?utm_source=lootura.com) — 2026-08-31T19:32:35.000Z
-- [La línea roja del mercado ante la que Estados Unidos va a acudir al rescate](https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html?utm_source=lootura.com) — 2026-08-31T18:47:23.000Z
+- [El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií](https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com) — 2026-09-01T06:00:00.000Z
+- [El Ibex se aleja de los 20.000](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T09:05:47.000Z
 - [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z

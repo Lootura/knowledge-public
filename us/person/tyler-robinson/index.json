@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.json",
   "description": "Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-11T16:55:14.081Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [],
   "changes": [
     {
@@ -47,6 +47,13 @@
       "date": "2026-07-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
   "evidenceCount": 0
 }

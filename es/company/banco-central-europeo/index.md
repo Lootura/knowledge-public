@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Los bancos duplican la liquidez que piden al BCE este año](https://www.expansion.com/empresas/banca/2026/09/01/6a95fb54e5fdeabb278b4585.html?utm_source=lootura.com) — 2026-08-31T22:44:34.000Z
+No public source links.

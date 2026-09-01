@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Europa designa a ChatGPT como buscador y ahora deberá cumplir reglas más duras](https://hipertextual.com/inteligencia-artificial/chatgpt-comision-europea-dsa-buscador-ia/?utm_source=lootura.com) — 2026-08-31T18:25:00.000Z
+No public source links.

@@ -3,20 +3,20 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
 
-### Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía
-
-La violencia sobrecogió este lunes por la tarde, a última hora de la noche en España, a Times Square , el gran centro neurálgico de Nueva York. Una mujer apuñaló a dos personas -una falleció, la otra resultó herida- antes de morir por disparos de la policía.Ocurrió cerca del cruce de la Séptima Avenida y la calle 42, p.
-
-Date: 2026-09-01
-
 ### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
 
 en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
+
+Date: 2026-09-01
+
+### Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía
+
+La violencia sobrecogió este lunes por la tarde, a última hora de la noche en España, a Times Square , el gran centro neurálgico de Nueva York. Una mujer apuñaló a dos personas -una falleció, la otra resultó herida- antes de morir por disparos de la policía.Ocurrió cerca del cruce de la Séptima Avenida y la calle 42, p.
 
 Date: 2026-09-01
 
@@ -70,5 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía](https://www.abc.es/internacional/mujer-apunala-dos-personas-times-square-nueva-20260901020303-nt.html?utm_source=lootura.com) — 2026-09-01T00:03:03.000Z
 - [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z

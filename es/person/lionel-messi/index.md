@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»
+
+Es conocida por los aficionados del fútbol la buena relación que hay entre Gianni Infantino y Leo Messi . El presidente de la FIFA, como era de esperar, fue uno de los más emotivos a la hora de escribir una carta de despedida al futbolista después de anunciar su retirada de la selección argentina . Un discurso en el qu.
+
+Date: 2026-09-01
 
 ### Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”
 
@@ -62,13 +68,8 @@ La presidenta madrileña quiere agradecer personalmente al argentino este gesto:
 
 Date: 2026-08-04
 
-### Una jueza de EEUU desestima la demanda a Messi por estafar siete millones de euros tras no jugar un amistoso
-
-Leo Messi ha sido salvado por la justicia. Después de meses siendo acusado junto a la AFA de haber estafado siete millones de euros , finalmente los tribunales han decidido desestimar la demanda que tenía por el simple hecho de no haber jugado un amistoso que se había comprometido a jugar tras un acuerdo con una promot.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Los argentinos despiden a Messi de su selección con tristeza y reconocimiento: “Gracias eternas, Leo”](https://elpais.com/argentina/2026-08-31/los-argentinos-despiden-a-messi-de-su-seleccion-con-tristeza-y-reconocimiento-gracias-eternas-leo.html?utm_source=lootura.com) — 2026-08-31T18:44:49.000Z
 - [Leo Messi se retira de la selección argentina: “Duele en el alma, pero entiendo que es el momento”](https://elpais.com/deportes/futbol/2026-08-31/leo-messi-se-retira-de-la-seleccion-argentina-duele-en-el-alma-pero-entiendo-que-es-el-momento.html?utm_source=lootura.com) — 2026-08-31T19:47:39.000Z
+- [Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»](https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com) — 2026-09-01T08:45:44.000Z

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
+      "date": "2026-09-01"
+    },
     {
       "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
       "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
@@ -54,24 +64,20 @@
       "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
       "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
-      "summary": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
-      "summary": "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at what many perceive as the Venezuelan government’s botched response to twin earthquak.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [
     {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:56:53.000Z",
-      "sourceId": "lootura-us-cnbc"
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "url": "https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:15:39.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:30:07.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
@@ -80,5 +86,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

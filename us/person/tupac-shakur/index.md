@@ -3,10 +3,16 @@
 > Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/person/tupac-shakur
 
 ## Recent changes
+
+### Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur
+
+A jury found Duane "Keffe D" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans for decades. (Image credit: Bizuayehu Tesfaye).
+
+Date: 2026-09-01
 
 ### Discovered by Atlas
 
@@ -35,3 +41,4 @@ Date: 2026-08-09
 ## Sources
 
 - [Ex-gang leader found guilty in Tupac Shakur's 1996 killing](https://www.nbcnews.com/nightly-news/video/ex-gang-leader-found-guilty-in-tupac-shakur-s-1996-killing-269135429661?utm_source=lootura.com) — 2026-09-01T01:47:33.000Z
+- [Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur](https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder?utm_source=lootura.com) — 2026-09-01T04:57:01.000Z

@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Could an American win men's singles at this year's U.S. Open?
 
 The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.
+
+Date: 2026-09-01
+
+### A NY hospital tried to close its birthing center. This city united to fight back
+
+Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).
+
+Date: 2026-09-01
+
+### Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators
+
+Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.
 
 Date: 2026-09-01
 
@@ -56,20 +68,10 @@ The artist’s latest swerve sees her creating an alien inflatable landscape for
 
 Date: 2026-08-14
 
-### Funding milestone detected
-
-New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.
-
-Date: 2026-08-13
-
-### Why the World Is Still Investing in America
-
-American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Could an American win men's singles at this year's U.S. Open?](https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com) — 2026-09-01T00:50:06.000Z
 - [Suspect and female victim dead after Times Square stabbing spree](https://www.nbcnews.com/nightly-news/video/suspect-and-female-victim-dead-after-times-square-stabbing-spree-269123653799?utm_source=lootura.com) — 2026-08-31T23:05:13.000Z
+- [A NY hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+- [Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators](https://phys.org/news/2026-09-sharks-ny-hamptons-trackers-toothy.html?utm_source=lootura.com) — 2026-09-01T08:50:03.000Z
 - [Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why](https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com) — 2026-08-31T22:48:13.000Z

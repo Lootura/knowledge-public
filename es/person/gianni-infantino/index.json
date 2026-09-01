@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/gianni-infantino/index.json",
   "description": "Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "Gianni",
     "Infantino"
   ],
   "changes": [
+    {
+      "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
+      "summary": "Es conocida por los aficionados del fútbol la buena relación que hay entre Gianni Infantino y Leo Messi . El presidente de la FIFA, como era de esperar, fue uno de los más emotivos a la hora de escribir una carta de despedida al futbolista después de anunciar su retirada de la selección argentina . Un discurso en el qu.",
+      "date": "2026-09-01"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.",
@@ -58,13 +63,15 @@
       "title": "Tebas, a la carga contra Infantino: \"No debe continuar al frente de la FIFA\"",
       "summary": "El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino \"no debe continuar al frente de la FIFA\" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo \"la punta del iceberg\" y no resuelve \"el problema de gobernanza\". \"Infantino no debe continuar. Que la FIFA haya retirado su propue.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
-      "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
+      "url": "https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:45:44.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

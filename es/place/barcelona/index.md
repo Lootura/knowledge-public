@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### ¿Puede el casero subirme la renta un 20% a pesar de estar el piso en una zona tensionada?
+
+Pregunta. Mi madre, de 79 años, es inquilina desde hace 16 años de un piso en Barcelona. El próximo 31 de octubre vence el contrato y el arrendador nos ha comunicado su intención de no renovarlo en las condiciones actuales. Nos propone una subida del 20% y un plazo de prórroga de tres años con subida del IPC. ¿Existe a.
+
+Date: 2026-09-01
+
+### El ADN de la estrella de mar espinosa se organiza de forma distinta según el ambiente marino
+
+Un equipo de investigadores de la Estación Biológica de Doñana (EBD), perteneciente al Centro Superior de Investigaciones Científicas (CSIC) y la Universidad de Barcelona (UB) han descubierto que casi una quinta parte (18,6%) del material genético de la estrella de mar espinosa ('marthasterias glacialis') se organiza d.
+
+Date: 2026-09-01
+
+### Barcelona y Sarajevo: una hermanamiento de tres décadas que sigue más vivo que nunca
+
+En verano de 1992 , mientras Barcelona celebraba sus Juegos Olímpicos y proyectaba al mundo una imagen de modernidad, apertura y convivencia, Sarajevo vivía el reverso más oscuro de aquella Europa. La capital bosnia acababa de quedar atrapada por un asedio que se prolongaría hasta casi cuatro años (1992-1995) y que con.
+
+Date: 2026-09-01
 
 ### El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història
 
@@ -50,26 +68,9 @@ Las Fiestas de Gràcia 2026 volverán a convertir Barcelona en un escaparate de 
 
 Date: 2026-08-14
 
-### Decathlon abre tres nuevas tiendas en estos lugares de Cataluña: fechas y novedades
-
-Decathlon abre tres nuevas tiendas en la provincia de Barcelona, en el marco de su estrategia de expansión en este territorio: Decathlon City Consell de Cent (Barcelona) y Decathlon City Splau (Cornellà de Llobregat), ambas en agosto, y Decathlon City Sants (Barcelona), en septiembre. Con estas tres aperturas, Decathlo.
-
-Date: 2026-08-14
-
-### AEMET prevé chubascos y nubes altas en Barcelona; ambiente cálido y vientos cambiantes
-
-Cielo con intervalos de nubes altas y la posibilidad de chubascos con tormenta en algunas áreas de la provincia, especialmente en el Prepirineo. Las temperaturas se mantendrán elevadas en el interior y el viento será flojo, con cambios en el sur. Aquí tienes la previsión del tiempo en Barcelona hoy, en los núcleos más.
-
-Date: 2026-08-14
-
-### Principio de acuerdo entre el Barcelona y el PSG: Ferran Torres se marcharía por cerca de 50 millones
-
-El Barcelona y el PSG han alcanzado un principio de acuerdo para el traspaso de Ferran Torres por 50 millones de euros.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [¿Puede el casero subirme la renta un 20% a pesar de estar el piso en una zona tensionada?](https://elpais.com/economia/vivienda/consultorio/2026-09-01/puede-el-casero-subirme-la-renta-un-20-a-pesar-de-estar-el-piso-en-una-zona-tensionada.html?utm_source=lootura.com) — 2026-09-01T07:46:59.000Z
 - [La Generalitat esconde por qué ignoró los siete avisos sobre "errores" en las pruebas PISA en Cataluña](https://www.elmundo.es/cataluna/2026/08/31/6a95e1a6fc6c835e428b45b2.html?utm_source=lootura.com) — 2026-08-31T20:47:09.000Z
-- [El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història](https://www.elnacional.cat/ca/gourmeteria/articles/dolc-tradicional-barcelona-esta-punt-desapareixer-mes-segle-historia_1688128_102.html?utm_source=lootura.com) — 2026-09-01T03:30:00.000Z
-- [Sandra Iglesias (MiniMed): "La actitud marca la diferencia en la ejecución"](https://www.expansion.com/estilo-vida/gestion/2026/09/01/6a95548b468aeb4d1d8b4573.html?utm_source=lootura.com) — 2026-08-31T22:45:07.000Z
+- [El ADN de la estrella de mar espinosa se organiza de forma distinta según el ambiente marino](https://www.larazon.es/andalucia/adn-estrella-mar-espinosa-organiza-forma-distinta-segun-ambiente-marino_202609016a9695493bfe5d1eff3ee207.html?utm_source=lootura.com) — 2026-09-01T09:05:13.000Z
+- [Barcelona y Sarajevo: una hermanamiento de tres décadas que sigue más vivo que nunca](https://www.larazon.es/cataluna/barcelona-sarajevo-hermanamiento-tres-decadas-que-sigue-mas-vivo-que-nunca_202609016a9695372d7d3022177a3614.html?utm_source=lootura.com) — 2026-09-01T09:04:55.000Z

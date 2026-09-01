@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Global finance ministers gather in North Carolina for G-20 summit
+
+The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.
+
+Date: 2026-09-01
 
 ### North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal
 
@@ -52,4 +58,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Global finance ministers gather in North Carolina for G-20 summit](https://www.npr.org/2026/09/01/nx-s1-5950481/global-finance-ministers-gather-in-north-carolina-for-g-20-summit?utm_source=lootura.com) — 2026-09-01T08:46:27.000Z

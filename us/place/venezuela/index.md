@@ -3,10 +3,22 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### U.S.-Venezuela oil deal will rely on North American Blue Energy Partners
+
+The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.
+
+Date: 2026-09-01
+
+### Days after Trump announces Venezuela oil deal, White House fills in some of the details
+
+As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).
+
+Date: 2026-09-01
 
 ### Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says
 
@@ -56,19 +68,8 @@ Mass migration, which defines modern Venezuela, has heavily marked the earthquak
 
 Date: 2026-07-17
 
-### He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela
-
-A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.
-
-Date: 2026-07-15
-
-### ‘God is punishing the politicians’: anger at earthquake response grows in Venezuela
-
-Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention • A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela Public anger at what many perceive as the Venezuelan government’s botched response to twin earthquak.
-
-Date: 2026-07-14
-
 ## Sources
 
-- [Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says](https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html?utm_source=lootura.com) — 2026-09-01T01:56:53.000Z
+- [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
+- [Days after Trump announces Venezuela oil deal, White House fills in some of the details](https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com) — 2026-09-01T08:30:07.000Z
 - [Analyst breaks down challenges U.S. will face to unlock Venezuela's oil](https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com) — 2026-08-31T22:45:48.000Z

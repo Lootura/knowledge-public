@@ -1,0 +1,38 @@
+{
+  "id": "usa-rice-university",
+  "name": "Rice University",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/rice-university",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/rice-university",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/rice-university/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/rice-university/index.json",
+  "description": "Follow Rice University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "aliases": [
+    "William Marsh Rice University",
+    "Rice",
+    "Rice University, Houston"
+  ],
+  "changes": [
+    {
+      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
+      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rice University first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
+      "url": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil?utm_source=lootura.com",
+      "publishedAt": "2026-08-31T22:45:48.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
+}

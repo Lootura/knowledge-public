@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»
+
+Es conocida por los aficionados del fútbol la buena relación que hay entre Gianni Infantino y Leo Messi . El presidente de la FIFA, como era de esperar, fue uno de los más emotivos a la hora de escribir una carta de despedida al futbolista después de anunciar su retirada de la selección argentina . Un discurso en el qu.
+
+Date: 2026-09-01
 
 ### European criticism of FIFA ruling grew
 
@@ -62,12 +68,6 @@ El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marz
 
 Date: 2026-08-05
 
-### El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»
-
-El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»](https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com) — 2026-09-01T08:45:44.000Z

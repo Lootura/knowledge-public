@@ -1,0 +1,50 @@
+{
+  "id": "usa-north-american-blue",
+  "name": "North American Blue",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/north-american-blue",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/north-american-blue",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/north-american-blue/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/north-american-blue/index.json",
+  "description": "Follow North American Blue, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "North American Blue first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
+      "url": "https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T03:15:39.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+      "url": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:30:07.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 2
+}

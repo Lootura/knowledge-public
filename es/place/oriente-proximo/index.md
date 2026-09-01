@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
 
 La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.
+
+Date: 2026-09-01
+
+### El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií
+
+La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.
+
+Date: 2026-09-01
+
+### El Ibex se aleja de los 20.000
+
+Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
 
 Date: 2026-09-01
 
@@ -56,18 +68,8 @@ El Parlamento libanés aprobó este martes el proyecto de ley para abolir la pen
 
 Date: 2026-08-11
 
-### El petróleo sube ante el punto muerto de las negociaciones de paz en Oriente Próximo
-
-El petróleo vuelve a marcar el ritmo de los mercados en la sesión del martes. El bloqueo de las negociaciones entre Estados Unidos e Irán para alcanzar un acuerdo de paz y normalizar el tránsito marítimo por el estrecho de Ormuz mantiene viva la prima de riesgo geopolítica y devuelve las dudas sobre la inflación al pri.
-
-Date: 2026-08-11
-
-### Los gestores redoblan su apetito por la Bolsa europea mientras los mercados se toman un respiro
-
-Las Bolsas hacen un alto en el camino . Después de una semana histórica en la que los índices europeos y estadounidenses enlazaron récord tras récord, la euforia ha dado paso a la prudencia y los principales selectivos apenas registraron movimientos. Con las negociaciones en Oriente Próximo encalladas, la temporada de.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií](https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com) — 2026-09-01T06:00:00.000Z
 - [Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza](https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html?utm_source=lootura.com) — 2026-09-01T00:04:35.000Z
+- [El Ibex se aleja de los 20.000](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T09:05:47.000Z

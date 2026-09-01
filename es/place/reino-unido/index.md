@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z
+No public source links.

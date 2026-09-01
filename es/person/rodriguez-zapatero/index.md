@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”](https://elpais.com/espana/2026-08-31/sanchez-defiende-a-zapatero-y-asegura-que-los-expresidentes-se-dedican-al-lobby-en-la-amplisima-mayoria-de-democracias.html?utm_source=lootura.com) — 2026-08-31T08:32:22.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Seguridad nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T12:41:31.837Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/seguridad-nacional
 
 ## Cambios recientes
+
+### Última hora de la actualidad política en España hoy | Crisis en ceuta: Sánchez preside hoy el Consejo de Seguridad Nacional
+
+Este martes, 1 de septiembre, Ceuta afronta una nueva jornada de tensión debido a la invasión perpetrada por miles de magrebíes y subsaharianos el pasado 30 de julio. A menos de una semana de que arranque el curso escolar, unos 20.000 inmigrantes ilegales siguen campando por las calles de la ciudad autónoma. En clave p.
+
+Date: 2026-09-01
 
 ### Maíllo reclama a Sánchez que convoque el Consejo de Seguridad Nacional ante los "agujeros negros" en la crisis de Ceuta
 
@@ -62,12 +68,6 @@ El Gobierno ha destituido con efecto inmediato , desde el 1 de agosto, a la func
 
 Date: 2026-08-03
 
-### Moncloa fulmina a la funcionaria de Seguridad Nacional que dio el dato de las llegadas a Ceuta
-
-El Ministerio de Presidencia ha procedido al cese fulminante de la responsable de comunicación del Departamento de Seguridad Nacional (DSN), según ha adelantado El País y confirman fuentes militares a THE OBJECTIVE . La destitución se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Última hora de la actualidad política en España hoy | Crisis en ceuta: Sánchez preside hoy el Consejo de Seguridad Nacional](https://okdiario.com/espana/siga-aqui-directo-ultima-hora-sobre-situacion-ceuta-sanchez-preside-hoy-consejo-seguridad-nacional-20205285?utm_source=lootura.com) — 2026-09-01T08:57:31.000Z

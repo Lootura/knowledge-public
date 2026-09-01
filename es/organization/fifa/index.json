@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fifa/index.json",
   "description": "Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "Federacion Internacional de Futbol Asociacion",
     "Federacion Internacional de Futbol Asociados",
@@ -19,6 +19,11 @@
     "International Federation of Association Football"
   ],
   "changes": [
+    {
+      "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
+      "summary": "Es conocida por los aficionados del fútbol la buena relación que hay entre Gianni Infantino y Leo Messi . El presidente de la FIFA, como era de esperar, fue uno de los más emotivos a la hora de escribir una carta de despedida al futbolista después de anunciar su retirada de la selección argentina . Un discurso en el qu.",
+      "date": "2026-09-01"
+    },
     {
       "title": "European criticism of FIFA ruling grew",
       "summary": "La Federación de Fútbol de Estados Unidos , U.S. Soccer de nombre oficial, se aleja de Donald Trump y da la espalda a Gianni Infantino . A la vez que el presidente del país sacaba la cara por el presidente de la FIFA , dándole su apoyo para que siguiera en el cargo, esta federación se adhería al comunicado que UEFA (Eu.",
@@ -63,13 +68,15 @@
       "title": "Gianni Infantino, un 'animal' herido: \"Ahora es más peligroso que nunca\"",
       "summary": "El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "El Príncipe de Jordania desvela las artes oscuras de Infantino para ganar apoyos en la FIFA: «Es un chantaje»",
-      "summary": "El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»",
+      "url": "https://okdiario.com/deportes/infantino-pelotea-messi-retirarse-argentina-gracias-unir-aficionados-todo-mundo-20205999?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:45:44.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

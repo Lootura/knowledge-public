@@ -3,10 +3,16 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T05:36:59.242Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
+
+### AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market
+
+Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).
+
+Date: 2026-09-01
 
 ### ‘That is not acceptable’: Judge orders Google to make rival app store installs easier
 
@@ -40,4 +46,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z

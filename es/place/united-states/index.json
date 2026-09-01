@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -48,6 +48,16 @@
       "date": "2026-09-01"
     },
     {
+      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
+      "summary": "La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Ibex se aleja de los 20.000",
+      "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
+      "date": "2026-09-01"
+    },
+    {
       "title": "EEUU demanda a Amazon por cobrar de más a sus anunciantes",
       "summary": "La Comisión Federal de Comercio de Estados Unidos (FTC, por sus siglas en inglés) ha presentado una demanda contra Amazon alegando que el gigante del comercio electrónico engañó a los anunciantes al manipular los precios que pagaban para promocionar productos en su plataforma. Seguir leyendo.",
       "date": "2026-08-31"
@@ -81,16 +91,6 @@
       "title": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare",
       "summary": "Luigi Mangione , acusado de haber asesinado al consejero delegado del mayor grupo asegurador de salud de Estados Unidos, ha admitido este viernes que asesinó a Brian Thompson y se ha declarado culpable de los cargos federales de acoso ante el juez. Mangione ha reconocido que disparó a Brian Thompson, director ejecutivo.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
-      "summary": "Dos o tres meses de vacaciones son necesarios. Lo dijo un presidente de Estados Unidos, William Taft, en 1910: “Después del duro y agotador trabajo al que uno se somete entre el otoño y la primavera, [esos meses de descanso] son necesarios para poder continuar el trabajo al año siguiente con la energía y la eficacia qu.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "EEUU declara su apoyo total a Japón en la crisis con Rusia tras la visita de Putin a las Kuriles",
-      "summary": "Estados Unidos ha declarado su apoyo «inquebrantable» a Japón en la crisis diplomática abierta entre Tokio y Moscú por la reciente visita del presidente.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
@@ -101,15 +101,15 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "EEUU demanda a Amazon por cobrar de más a sus anunciantes",
-      "url": "https://www.expansion.com/economia-digital/2026/08/31/6a95d45de5fdeaed0c8b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T19:32:35.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
+      "url": "https://elordenmundial.com/mito-odio-estados-unidos-guerra-santa-suni-chii/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T06:00:00.000Z",
+      "sourceId": "lootura-es-el-orden-mundial"
     },
     {
-      "title": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
-      "url": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T18:47:23.000Z",
+      "title": "El Ibex se aleja de los 20.000",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:05:47.000Z",
       "sourceId": "lootura-es-expansion"
     },
     {

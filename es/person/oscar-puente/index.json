@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Óscar Puente niega un \"reproche\" de Sánchez al Rey Felipe VI: \"Es hacia quienes utilizan la figura del monarca en una crisis\"",
+      "summary": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que exista un \"reproche\" hacia el Rey Felipe VI en las palabras del presidente del Gobierno, Pedro Sánchez , acerca de una posible visita a Ceuta ; remarcando que, de haberlo, \"es hacia quienes han querido utilizar la figura del monarca en una.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión",
       "summary": "Cercanías de Madrid estrenó ayer en presencia del ministro de Transportes, Óscar Puente, las primeras unidades de los trenes de gran capacidad de Stadler comprados por Renfe . Un material rodante que ha sido homologado a contra reloj para entrar en servicio en la fecha que había comprometido el Gobierno y que permite a.",
@@ -60,19 +65,14 @@
       "title": "Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar \"juntos\" con el Gobierno de Sánchez",
       "summary": "Evita valorar las declaraciones de Óscar Puente en redes sociales y muestra cordialidad en el trato con el presidente del Gobierno, asegurando estar \"centrados en lo más importante ahora mismo\" De “miserable” a “mamarracha”: la gestión de los incendios provoca una nueva bronca política entre el PP de Ayuso y el Gobiern.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Así ha sido el saludo de Sánchez y Ayuso en su visita a los incendios de Madrid en plena 'tormenta' por las palabras de Óscar Puente",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , y el presidente del Gobierno central, Pedro Sánchez , se han saludado con un frío pero formal apretón de manos a la llegada del segundo al puesto de mando avanzado que vigila los incendios que azotan Madrid y Ávila. El jefe del Ejecutivo asiste a la reunión d.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión",
-      "url": "https://www.larazon.es/economia/nuevos-trenes-cercanias-madrid-posibilitan-renovacion-cascada-tres-nucleos-sola-inversion_202609016a95746b4941316b1e72311b.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:24:32.000Z",
-      "sourceId": "lootura-es-la-razon"
+      "title": "Óscar Puente niega un \"reproche\" de Sánchez al Rey Felipe VI: \"Es hacia quienes utilizan la figura del monarca en una crisis\"",
+      "url": "https://www.20minutos.es/nacional/oscar-puente-niega-un-reproche-sanchez-rey-felipe-vi-es-hacia-quienes-utilizan-figura-monarca-una-crisis_7031324_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T07:57:02.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 1

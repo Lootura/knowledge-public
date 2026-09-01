@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [This Teen Helped Native American Students Earn Ham Radio Licenses](https://spectrum.ieee.org/ruchira-shree-ham-radio?utm_source=lootura.com) — 2026-08-31T18:00:01.000Z
+No public source links.

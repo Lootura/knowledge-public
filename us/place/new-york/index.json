@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -36,6 +36,16 @@
     {
       "title": "Could an American win men's singles at this year's U.S. Open?",
       "summary": "The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+      "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators",
+      "summary": "Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.",
       "date": "2026-09-01"
     },
     {
@@ -72,16 +82,6 @@
       "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
       "summary": "The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that onl.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Why the World Is Still Investing in America",
-      "summary": "American flags fly at the New York Stock Exchange in New York, New York. —Sven Hoppe—Getty Images The world is not selling America short, even if Americans sometimes do. After spending much of the past few months traveling from Europe to India to China, I’ve been struck by the disconnect between how many Americans talk.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -98,11 +98,23 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators",
+      "url": "https://phys.org/news/2026-09-sharks-ny-hamptons-trackers-toothy.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:50:03.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
       "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
       "url": "https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com",
       "publishedAt": "2026-08-31T22:48:13.000Z",
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

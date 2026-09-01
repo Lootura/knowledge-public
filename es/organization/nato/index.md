@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Dos F-18 españoles de la OTAN despegan ante alerta por dron en la frontera Rumanía-Ucrania
+
+El sistema de radares rumano detectó a las 20.30 GMT del lunes dos objetos voladores cerca de la ciudad de Vílkove.
+
+Date: 2026-09-01
 
 ### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, fue trasladado oculto en un carri
 
 Date: 2026-08-11
 
-### La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos
-
-El pacto firmado en Meca deja abiertos muchos interrogantes sobre los límites de la defensa mútua y hasta qué puntos los países firmantes están dispuestos a defender a sus aliados en caso de agresión Leer.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Dos F-18 españoles de la OTAN despegan ante alerta por dron en la frontera Rumanía-Ucrania](https://theobjective.com/internacional/2026-09-01/dos-f-18-espanoles-otan-dron-frontera-rumania-ucrania/?amp=&utm_source=lootura.com) — 2026-09-01T09:02:24.000Z

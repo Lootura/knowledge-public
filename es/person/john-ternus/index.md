@@ -28,5 +28,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Phil Schiller deja su puesto como jefe de la App Store de Apple](https://hipertextual.com/apple/phil-schiller-deja-su-puesto-como-jefe-de-la-app-store-de-apple/?utm_source=lootura.com) — 2026-08-31T17:30:41.000Z
-- [Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»](https://hipertextual.com/apple/tim-cook-dice-adios-ceo-apple-carta-empleados/?utm_source=lootura.com) — 2026-08-31T16:57:18.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/george-santos/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/george-santos/index.json",
   "description": "Follow George Santos, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Anthony Devolder",
     "George",
@@ -18,6 +18,11 @@
     "Santos"
   ],
   "changes": [
+    {
+      "title": "More Kalshi politician bans could be coming",
+      "summary": "Kalshi is conducting ongoing investigations into other political figures who may have conducted insider trading after suspending four yesterday, a person familiar with the probes told Semafor. The prediction market said it would ban former Rep. George Santos, R-N.Y., for life — a Kalshi first — after he used it to cash.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Kalshi permanently bans George Santos after he secretly bet on himself",
       "summary": "Kalshi has issued a lifetime ban to former Rep. George Santos after he secretly placed a bet against his own unannounced plans to attend the State of the Union.",
@@ -53,11 +58,17 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "More Kalshi politician bans could be coming",
+      "url": "https://www.semafor.com/article/09/01/2026/more-kalshi-politician-bans-could-be-coming?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:53:54.000Z",
+      "sourceId": "lootura-us-semafor"
+    },
+    {
       "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
       "url": "https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com",
       "publishedAt": "2026-08-31T22:48:13.000Z",
       "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

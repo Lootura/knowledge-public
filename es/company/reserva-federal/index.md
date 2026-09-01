@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El Ibex pierde los 20.000 pero salva agosto con un alza del 1%](https://cincodias.elpais.com/mercados-financieros/2026-08-31/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-08-31T15:42:00.000Z
+No public source links.

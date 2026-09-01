@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T09:09:26.468Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
+    {
+      "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
+      "summary": "El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta",
+      "summary": "El PP ha pedido a las delegaciones del Gobierno que «dejen de prohibir» concentraciones de apoyo a Ceuta en algunos puntos de España porque, según ha dicho, esa iniciativa no es «contra nadie». Además, ha apelado a la «conciencia solidaria» de los dirigentes del PSOE ante la situación que vive la ciudad autónoma, tras.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Un curs entre la ràbia i l’esperança",
       "summary": "Comença un nou curs escolar amb el PP al capdavant de la Generalitat. El sentiment predominant entre la comunitat educativa és de ràbia i esperança. La ràbia és conseqüència dels continus atacs que ha patit l’educació pública des de l’arribada del PP al govern amb el suport de l’extrema dreta. Totes les decisions de la.",
@@ -53,19 +63,15 @@
       "title": "El PP califica la prórroga de la central de Almaraz como un \"parche a una gestión ideologizada de Sánchez\"",
       "summary": "El PP califica la prórroga de la central nuclear de Almaraz , en Cáceres, como un \" parche a la gestión ideologizada de Sánchez \". La decisión de alargar hasta 2030 la vida de la instalación extremeña supone el \" reconocimiento del fracaso\" de la \"política energética\" del Gobierno , según fuentes del partido, \"cuyas co.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "El PP critica que el Gobierno \"movilizara a 33.600 efectivos policiales\" para el eclipse y solo 60 \"para la avalancha en Ceuta\"",
-      "summary": "El vicesecretario de Política Autonómica y Municipal y Análisis Electoral del PP, Elías Bendodo, ha criticado este viernes que el Ministerio del Interior \"movilizara a 33.600 efectivos policiales\" para el eclipse y solo 60 \"para la avalancha de 70.000 inmigrantes que violentaron nuestras fronteras en Ceuta \". En declar.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Infancia acusa a las comunidades del PP de boicotear el debate sobre los menores migrantes de Ceuta",
-      "summary": "El Ministerio de Infancia reunía este jueves a las comunidades autónomas para abordar, por primera vez de forma conjunta, la situación de los 1.898 menores migrantes no...",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
+    {
+      "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
+      "url": "https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:04:56.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
     {
       "title": "\"Que convoque elecciones y la derecha tendrá una mayoría histórica\": el PP responde a Sánchez por deslegitimar \"la alternancia\"",
       "url": "https://www.elmundo.es/espana/2026/08/31/6a95ce10e85eceb0388b4570.html?utm_source=lootura.com",
@@ -79,16 +85,10 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
-      "url": "https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T12:58:08.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Un curs entre la ràbia i l’esperança",
-      "url": "https://www.elperiodicomediterraneo.com/opinion/2026/09/01/curs-rabia-l-esperanca-133821106.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T03:01:01.000Z",
-      "sourceId": "lootura-es-el-periodico-mediterraneo"
+      "title": "El PP reclama al Gobierno que «deje de prohibir» las concentraciones en apoyo a Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-09-01/pp-reclama-gobierno-prohibir-concentraciones-apoyo-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:52:44.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 4

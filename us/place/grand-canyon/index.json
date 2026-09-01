@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.json",
   "description": "Follow Grand Canyon, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T03:31:56.776Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Cañon of Colorado"
   ],
@@ -36,6 +36,11 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Grand Canyon first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "One person missing as two bodies recovered after Grand Canyon floods",
+      "summary": "One person is still missing after authorities recovered two bodies following flash flooding in the Grand Canyon.",
       "date": "2026-09-01"
     },
     {
@@ -69,6 +74,12 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "One person missing as two bodies recovered after Grand Canyon floods",
+      "url": "https://www.nbcnews.com/now/video/one-person-missing-as-two-bodies-recovered-after-grand-canyon-floods-269143109693?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T08:20:43.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Grand Canyon flash flood leaves 2 dead, others missing",
       "url": "https://www.pbs.org/newshour/show/grand-canyon-flash-flood-leaves-2-dead-others-missing?utm_source=lootura.com",
       "publishedAt": "2026-08-31T22:51:36.000Z",
@@ -87,5 +98,5 @@
       "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

@@ -3,10 +3,16 @@
 > Follow George Santos, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/person/george-santos
 
 ## Recent changes
+
+### More Kalshi politician bans could be coming
+
+Kalshi is conducting ongoing investigations into other political figures who may have conducted insider trading after suspending four yesterday, a person familiar with the probes told Semafor. The prediction market said it would ban former Rep. George Santos, R-N.Y., for life — a Kalshi first — after he used it to cash.
+
+Date: 2026-09-01
 
 ### Kalshi permanently bans George Santos after he secretly bet on himself
 
@@ -36,4 +42,5 @@ Date: 2026-08-31
 
 - [Kalshi permanently bans George Santos after he secretly bet on himself](https://www.nbcnews.com/now/video/kalshi-permanently-bans-george-santos-after-he-secretly-bet-on-himself-269105221531?utm_source=lootura.com) — 2026-08-31T16:56:17.000Z
 - [Kalshi bans former congressman George Santos for life after State of the Union trades](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets?utm_source=lootura.com) — 2026-08-31T20:21:47.000Z
+- [More Kalshi politician bans could be coming](https://www.semafor.com/article/09/01/2026/more-kalshi-politician-bans-could-be-coming?utm_source=lootura.com) — 2026-09-01T08:53:54.000Z
 - [Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why](https://time.com/article/2026/08/31/kalshi-george-santos-lifetime-ban/?utm_source=lootura.com) — 2026-08-31T22:48:13.000Z

@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T03:31:56.776Z
+- Updated: 2026-09-01T09:10:04.817Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### A Factory in Rural Ireland Is at the Center of a Dispute Over Russia
+
+Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
+
+Date: 2026-09-01
 
 ### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
 
@@ -62,13 +68,6 @@ The higher tempo of Ukrainian strikes has fueled discontent among Russians, but 
 
 Date: 2026-08-11
 
-### Funding milestone detected
-
-Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20](https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html?utm_source=lootura.com) — 2026-09-01T03:22:56.000Z
-- [Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief](https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html?utm_source=lootura.com) — 2026-08-31T18:16:50.000Z
+- [A Factory in Rural Ireland Is at the Center of a Dispute Over Russia](https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html?utm_source=lootura.com) — 2026-09-01T09:00:29.000Z

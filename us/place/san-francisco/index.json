@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/san-francisco/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/san-francisco/index.json",
   "description": "Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T05:36:59.242Z",
+  "updatedAt": "2026-09-01T09:10:04.817Z",
   "aliases": [
     "Baghdad by the Bay",
     "City and County of San Francisco",
@@ -26,6 +26,11 @@
     "The Golden City"
   ],
   "changes": [
+    {
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
+      "date": "2026-09-01"
+    },
     {
       "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
       "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously d.",
@@ -52,6 +57,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

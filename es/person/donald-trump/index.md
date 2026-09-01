@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T09:09:26.468Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
+
+La renovada apuesta de Repsol por Venezuela avanza. La multinacional está encontrando el camino cada vez más despejado para poder desarrollar su actividad en el país latinoamericano, donde está presente desde 1993 y donde aspira a triplicar su apuesta actual. La última demostración de este avance llegó este mismo fin d.
+
+Date: 2026-09-01
 
 ### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
 
@@ -62,13 +68,6 @@ La charla del escritor Regino Mateo coincidió con la hora del acontecimiento: "
 
 Date: 2026-08-12
 
-### Donald Trump anuncia que Karoline Leavitt, su secretaria de prensa, dejará el cargo este mes
-
-El presidente estadounidense asegura que pasará a ser una de sus principales asesoras externas.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
-- [Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela](https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html?utm_source=lootura.com) — 2026-08-31T17:25:03.000Z
+- [Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez](https://elpais.com/economia/2026-09-01/repsol-refuerza-su-apuesta-por-venezuela-en-pleno-acercamiento-petrolero-entre-trump-y-delcy-rodriguez.html?utm_source=lootura.com) — 2026-09-01T03:45:00.000Z
