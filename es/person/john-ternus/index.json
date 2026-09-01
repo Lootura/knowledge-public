@@ -9,7 +9,9 @@
   "jsonUrl": "https://atlas.lootura.com/es/person/john-ternus/index.json",
   "description": "Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-09-01T03:31:35.854Z",
-  "aliases": [],
+  "aliases": [
+    "Ternus"
+  ],
   "changes": [
     {
       "title": "Phil Schiller deja su puesto como jefe de la App Store de Apple",
