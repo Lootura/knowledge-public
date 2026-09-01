@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez",
       "summary": "La renovada apuesta de Repsol por Venezuela avanza. La multinacional está encontrando el camino cada vez más despejado para poder desarrollar su actividad en el país latinoamericano, donde está presente desde 1993 y donde aspira a triplicar su apuesta actual. La última demostración de este avance llegó este mismo fin d.",
@@ -69,20 +74,15 @@
       "title": "Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney",
       "summary": "El precio supone un récord para la NBA.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Ajenos al fenómeno del siglo: las 25 personas que cambiaron el eclipse por la Feria del Libro Viejo de Santander",
-      "summary": "La charla del escritor Regino Mateo coincidió con la hora del acontecimiento: \"Vamos a intentar eclipsar el eclipse con la cultura y la música\" Entrevista - Regino Mateo, biógrafo de Bach: “El bombo me parece el instrumento adecuado para Trump” Dentro de unos años alguien les preguntará ¿dónde estabas el día del eclips.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad",
-      "url": "https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T19:10:58.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:42:07.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

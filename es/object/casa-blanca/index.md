@@ -3,7 +3,7 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Fuentes
 
-No public source links.
+- [La guerra en Irán vuelve a encarecer la gasolina y Trump convoca a las petroleras a la Casa Blanca](https://www.expansion.com/economia/2026/09/01/6a970e35e5fdea4b068b4586.html?utm_source=lootura.com) — 2026-09-01T17:41:25.000Z

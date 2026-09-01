@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Send your questions for Richard Engel on Ukraine and more
+
+Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.
+
+Date: 2026-09-01
+
+### Germany blames Russia for attempted drone attack at Leipzig airport
+
+Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
 
 ### A Factory in Rural Ireland Is at the Center of a Dispute Over Russia
 
@@ -56,18 +68,7 @@ The deadly strikes are part of a long-running maritime battle with Ukraine and e
 
 Date: 2026-08-13
 
-### Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles
-
-Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.
-
-Date: 2026-08-11
-
-### Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War
-
-The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [Send your questions for Richard Engel on Ukraine and more](https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com) — 2026-09-01T17:57:01.000Z
+- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z

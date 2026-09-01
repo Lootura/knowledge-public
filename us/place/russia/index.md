@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### Send your questions for Richard Engel on Ukraine and more
+
+Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.
+
+Date: 2026-09-01
+
+### Germany blames Russia for attempted drone attack at Leipzig airport
+
+Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### Weeks After Failed Drone Attack, Germany Points Finger at Russia
+
+The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. Russia said Germany had provided no evidence.
 
 Date: 2026-09-01
 
@@ -50,25 +68,9 @@ This attack comes after the United Nations reported that July was the deadliest 
 
 Date: 2026-08-14
 
-### Russia Campaigned to Derail Moldova’s Pro-Western Government
-
-In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
-
-Date: 2026-08-14
-
-### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
-
-The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
-
-Date: 2026-08-13
-
-### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
-
-Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
-- [Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval](https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com) — 2026-09-01T13:04:14.000Z
+- [Send your questions for Richard Engel on Ukraine and more](https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com) — 2026-09-01T17:57:01.000Z
+- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z
+- [Weeks After Failed Drone Attack, Germany Points Finger at Russia](https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html?utm_source=lootura.com) — 2026-09-01T18:22:25.000Z

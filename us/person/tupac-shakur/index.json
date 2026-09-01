@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.json",
   "description": "Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Shakur",
     "Tupac"
@@ -42,17 +42,11 @@
   ],
   "sources": [
     {
-      "title": "Ex-gang leader found guilty in Tupac Shakur's 1996 killing",
-      "url": "https://www.nbcnews.com/nightly-news/video/ex-gang-leader-found-guilty-in-tupac-shakur-s-1996-killing-269135429661?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T01:47:33.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
       "url": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder?utm_source=lootura.com",
       "publishedAt": "2026-09-01T04:57:01.000Z",
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says](https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html?utm_source=lootura.com) — 2026-09-01T10:14:44.000Z
+No public source links.

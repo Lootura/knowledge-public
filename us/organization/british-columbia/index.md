@@ -3,10 +3,16 @@
 > Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/british-columbia
 
 ## Recent changes
+
+### Peekaboo island: the floating forest confounding nature watchers in western Canada
+
+A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.
+
+Date: 2026-09-01
 
 ### Fires grip western U.S., British Columbia: "It doesn't seem like it's real"
 
@@ -46,4 +52,4 @@ Date: 2026-08-08
 
 ## Sources
 
-No public source links.
+- [Peekaboo island: the floating forest confounding nature watchers in western Canada](https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com) — 2026-09-01T20:06:49.000Z

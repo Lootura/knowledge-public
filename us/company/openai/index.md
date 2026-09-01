@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI "civilizations." Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.
+
+Date: 2026-09-01
 
 ### OpenAI is losing its second executive this week
 
@@ -58,4 +64,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [The rise of AI ‘civilizations’ and the fall of corporate responsibility](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack?utm_source=lootura.com) — 2026-09-01T19:02:54.000Z

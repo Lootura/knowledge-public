@@ -8,13 +8,33 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
+    {
+      "title": "Canada's Labrador Shelf preserves climate records once thought erased by ice",
+      "summary": "The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the largest ice masses in Earth's history, which once covered vast parts of North America.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
+      "summary": "A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "summary": "Amid a trade war, Canada’s Liberals swept three special votes and new polling suggested strong support for Prime Minister Mark Carney and his retaliatory tariffs against the U.S.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg . The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish",
       "summary": "Listening to most of the media and Canada ’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took e.",
@@ -44,28 +64,33 @@
       "title": "At least 200 major wildfires burn across U.S. and Canada",
       "summary": "Hot and dry conditions are fueling at least 200 major wildfires in the western U.S. and Canada. Meanwhile, images show the scale of destruction in Spokane, Washington, from the fires there last week. Ian Lee reports.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Thousands evacuated as wildfires burn across western U.S. and Canada",
-      "summary": "Wildfires are burning across the western U.S. and Canada, leaving some residents keeping a wary eye out for possible evacuation orders.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Wildfires in western Canada force more than 20,000 people to evacuate",
-      "summary": "The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
-      "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Crews battle wildfires in western U.S. and Canada",
-      "summary": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Canada's Labrador Shelf preserves climate records once thought erased by ice",
+      "url": "https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:40:05.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
+      "url": "https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:06:49.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
+      "url": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T19:47:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:22:56.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 4
 }

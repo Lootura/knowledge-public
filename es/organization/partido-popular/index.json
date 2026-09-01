@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [
     "PP",
     "populares"
@@ -20,13 +20,23 @@
       "date": "2026-09-01"
     },
     {
-      "title": "El PP acusa a Sánchez de tener una estrategia para \"atacar\" a Felipe VI y \"no enfadar\" a Marruecos",
-      "summary": "Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un \"respeto\" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.",
+      "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
+      "summary": "Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.",
       "date": "2026-09-01"
     },
     {
-      "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
-      "summary": "Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.",
+      "title": "Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»",
+      "summary": "PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles",
+      "summary": "La convocatoria de concentraciones en los ayuntamientos en solidaridad con Ceuta ha desatado un nuevo enfrentamiento entre la Delegación del Gobierno de Madrid y el PP. El ayuntamiento comunicó la convocatoria a la delegación y ésta ha respondido con una aclaración técnica que ha provocado las iras de los populares. “Q.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El PP acusa a Sánchez de tener una estrategia para \"atacar\" a Felipe VI y \"no enfadar\" a Marruecos",
+      "summary": "Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un \"respeto\" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.",
       "date": "2026-09-01"
     },
     {
@@ -53,24 +63,14 @@
       "title": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
       "summary": "El Partido Popular reprocha al presidente del Gobierno que exculpe a Marruecos de la crisis de Ceuta y busque culpables en otro lado, tras haber apuntado a Rusia, Israel y a la “internacional ultraderechista” de propagar los bulos que provocaron la entrada masiva. “Le ha faltado culpar a Franco”, ha ironizado este lune.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Feijóo celebra la \"rectificación\" del Gobierno al prorrogar Almaraz, aunque considera la decisión \"tardía e incompleta\"",
-      "summary": "El PP cree que la prórroga \"supone el reconocimiento del fracaso de la política energética\" de Sánchez y le afea que lo anuncie \"de tapadillo\" Leer.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos",
-      "summary": "El Gobierno de Melilla ( PP ) ha reforzado desde este viernes los recursos del Centro de Acogida de Menores ‘La Purísima Concepción’ con 100 camas y 100 colchones ignífugos ante su «sobreocupación» , un día antes del llamamiento en redes sociales de Marruecos para entrar «masivamente» en Ceuta y Melilla, y reclama agil.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "El PP acusa a Sánchez de tener una estrategia para \"atacar\" a Felipe VI y \"no enfadar\" a Marruecos",
-      "url": "https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T12:45:58.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»",
+      "url": "https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:37:31.000Z",
+      "sourceId": "lootura-es-el-debate"
     },
     {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
@@ -79,11 +79,17 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
+      "title": "Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles",
+      "url": "https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T17:58:40.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
       "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
       "url": "https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T15:35:30.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

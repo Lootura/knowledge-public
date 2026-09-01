@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ El consejero de Seguridad vincula el auge de las convocatorias del PP con la cri
 
 Date: 2026-09-01
 
-### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
-
-Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un "respeto" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.
-
-Date: 2026-09-01
-
 ### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
 
 Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
+
+Date: 2026-09-01
+
+### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
+
+PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
+
+Date: 2026-09-01
+
+### Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles
+
+La convocatoria de concentraciones en los ayuntamientos en solidaridad con Ceuta ha desatado un nuevo enfrentamiento entre la Delegación del Gobierno de Madrid y el PP. El ayuntamiento comunicó la convocatoria a la delegación y ésta ha respondido con una aclaración técnica que ha provocado las iras de los populares. “Q.
+
+Date: 2026-09-01
+
+### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
+
+Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un "respeto" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.
 
 Date: 2026-09-01
 
@@ -56,20 +68,9 @@ El Partido Popular reprocha al presidente del Gobierno que exculpe a Marruecos d
 
 Date: 2026-08-31
 
-### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
-
-El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
-
-Date: 2026-08-14
-
-### Melilla refuerza el centro de menores con un centenar de camas y colchones ignífugos
-
-El Gobierno de Melilla ( PP ) ha reforzado desde este viernes los recursos del Centro de Acogida de Menores ‘La Purísima Concepción’ con 100 camas y 100 colchones ignífugos ante su «sobreocupación» , un día antes del llamamiento en redes sociales de Marruecos para entrar «masivamente» en Ceuta y Melilla, y reclama agil.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos](https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com) — 2026-09-01T12:45:58.000Z
+- [Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»](https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com) — 2026-09-01T18:37:31.000Z
 - [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z
+- [Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles](https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html?utm_source=lootura.com) — 2026-09-01T17:58:40.000Z
 - [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z

@@ -3,7 +3,7 @@
 > Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/michigan-senate
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Democratic contender Abdul El-Sayed hits back at JD Vance over ‘evil’ taunt](https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil?utm_source=lootura.com) — 2026-09-01T20:21:27.000Z

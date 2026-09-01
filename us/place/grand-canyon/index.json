@@ -8,21 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/grand-canyon/index.json",
   "description": "Follow Grand Canyon, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Cañon of Colorado"
   ],
   "changes": [
-    {
-      "title": "2 dead, at least 1 missing after Grand Canyon hit by flash floods",
-      "summary": "Violent flash floods hit the Grand Canyon's Bright Angel Canyon and Phantom Ranch area, causing \"extensive damage\" to the park's water infrastructure.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
-      "summary": "At least two people were killed after flash floods swept through parts of Grand Canyon National Park over the weekend.",
-      "date": "2026-09-01"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Grand Canyon first entered the public knowledge record with source-backed evidence.",
@@ -36,6 +26,16 @@
     {
       "title": "Death Toll Rises in Grand Canyon Floods; 1 Hiker Remains Missing",
       "summary": "Authorities are bringing in more resources as they try to track down one hiker who is still unaccounted for and may have been hiking in the Grand Canyon’s lower rim when dangerous flood floods swept through the popular area. It comes as officials confirm they have discovered the bodies of two men. Crews are now assessi.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "2 dead, at least 1 missing after Grand Canyon hit by flash floods",
+      "summary": "Violent flash floods hit the Grand Canyon's Bright Angel Canyon and Phantom Ranch area, causing \"extensive damage\" to the park's water infrastructure.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
+      "summary": "At least two people were killed after flash floods swept through parts of Grand Canyon National Park over the weekend.",
       "date": "2026-09-01"
     },
     {
@@ -66,24 +66,6 @@
   ],
   "sources": [
     {
-      "title": "2 dead, at least 1 missing after Grand Canyon hit by flash floods",
-      "url": "https://www.cbsnews.com/news/grand-canyon-national-park-flood-evacuation-helicopter-rescue-phantom-ranch/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T02:09:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
-      "url": "https://www.cbsnews.com/news/grand-canyon-flash-floods-missing-hikers/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T02:39:49.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "At least two dead as rescuers search for missing in Grand Canyon",
-      "url": "https://www.nbcnews.com/nightly-news/video/at-least-two-dead-as-rescuers-search-for-missing-in-grand-canyon-269123141896?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T23:14:21.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Death Toll Rises in Grand Canyon Floods; 1 Hiker Remains Missing",
       "url": "https://www.today.com/video/grand-canyon-flash-floods-leave-2-dead-1-missing-269143109978?utm_source=lootura.com",
       "publishedAt": "2026-09-01T11:18:55.000Z",
@@ -94,13 +76,7 @@
       "url": "https://www.nbcnews.com/now/video/one-person-missing-as-two-bodies-recovered-after-grand-canyon-floods-269143109693?utm_source=lootura.com",
       "publishedAt": "2026-09-01T08:20:43.000Z",
       "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "US border patrol expected to aid Grand Canyon search for missing person",
-      "url": "https://www.theguardian.com/us-news/2026/sep/01/border-patrol-missing-person-grand-canyon-flood?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T14:19:17.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 2
 }

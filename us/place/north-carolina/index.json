@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -21,6 +21,11 @@
     {
       "title": "Funding milestone detected",
       "summary": "Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Ocean heat waves linked with poorer health among children in coastal communities",
+      "summary": "Marine heat waves—periods of abnormally warm ocean temperatures—may have negative health effects on children who live in coastal communities in low- and middle-income countries, according to a study led by researchers at Penn State and the University of North Carolina at Chapel Hill.",
       "date": "2026-09-01"
     },
     {
@@ -62,11 +67,6 @@
       "title": "Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund",
       "summary": "GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules",
-      "summary": "The Ethics Committee called for the censure of Representative Chuck Edwards, Republican of North Carolina, who showered two female staffers with lavish gifts and affection.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -77,10 +77,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
-      "url": "https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:04:14.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Ocean heat waves linked with poorer health among children in coastal communities",
+      "url": "https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
   "evidenceCount": 2

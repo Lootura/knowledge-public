@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.json",
   "description": "Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-20T06:43:38.114Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Markwayne",
     "Mullin"
   ],
   "changes": [
+    {
+      "title": "No plans for ICE to be at polls for midterms, DHS says",
+      "summary": "A senior DHS official said ICE will do their regular duties on the day of midterm elections, though Sec. Markwayne Mullin said agents would enter a polling place to serve a warrant.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
+      "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Becker: \"Hardly a week goes by\" without Trump administration threatening election official arrests",
       "summary": "CBS News contributors David Becker and Chris Krebs joined \"Face the Nation with Margaret Brennan\" in the wake of President Trump's primetime speech last week accusing China of accessing election data. Meanwhile, Homeland Security Secretary Markwayne Mullin said that if election officials do not secure elections, they c.",
@@ -40,6 +50,19 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "No plans for ICE to be at polls for midterms, DHS says",
+      "url": "https://www.nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:18:58.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation",
+      "url": "https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:09:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
 }

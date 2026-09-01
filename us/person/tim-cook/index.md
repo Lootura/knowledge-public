@@ -3,10 +3,28 @@
 > Follow Tim Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/person/tim-cook
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Tim Cook first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company
+
+Ternus faces challenges that will force him to step outside his comfort zone in hardware engineering.
+
+Date: 2026-09-01
+
+### Tim Cook did alright by the environment — but AI could upend his climate legacy
+
+As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company to meet the clima.
+
+Date: 2026-09-01
 
 ### John Ternus is Apple's new CEO, replacing Tim Cook
 
@@ -20,13 +38,7 @@ John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPh
 
 Date: 2026-09-01
 
-### Discovered by Atlas
-
-Tim Cook first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [John Ternus is Apple's new CEO, replacing Tim Cook](https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com) — 2026-09-01T15:00:28.000Z
-- [John Ternus takes over as Apple’s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook?utm_source=lootura.com) — 2026-09-01T13:28:43.000Z
+- [Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company](https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com) — 2026-09-01T22:06:30.000Z
+- [Tim Cook did alright by the environment — but AI could upend his climate legacy](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy?utm_source=lootura.com) — 2026-09-01T19:43:39.000Z

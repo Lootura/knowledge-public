@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”
+
+“Ojalá no nos lo hubieran dicho”. El martes a las siete de la mañana, un grupo de mujeres migrantes se presentó en una de las naves del Polígono de El Tarajal de Ceuta en las que trabajaban agentes de Policía Nacional a decirles que un empleado de seguridad les había avisado de que el jueves a mediodía ya no podían seg.
+
+Date: 2026-09-01
 
 ### Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»
 
@@ -62,12 +68,6 @@ Ceuta ha recobrado parte de la calma robada con la entrada multitudinaria de mil
 
 Date: 2026-08-01
 
-### La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”
-
-En pequeños racimos, debajo de un agua cristalina, se ven las siluetas de cuerpos sumergidos muy cerca de la frontera de El Tarajal en Ceuta . Dos de ellos están cogidos de la mano. Son la desgracia sumergida, y todavía por conocer, que ha dejado el cruce multitudinario de personas desde Marruecos de esta semana y de l.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”](https://elpais.com/espana/2026-09-01/nervios-y-miedo-entre-familias-migrantes-acampadas-en-las-calles-de-ceuta-damos-vueltas-para-encontrar-donde-dormir.html?utm_source=lootura.com) — 2026-09-01T19:06:18.000Z

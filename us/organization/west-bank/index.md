@@ -3,10 +3,16 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
+
+### Funding milestone detected
+
+The agency warns further cuts are unavoidable without new funding.
+
+Date: 2026-09-01
 
 ### Palestinian Rappers Shabjdeed and Saint Levant in Spat Over Authenticity
 
@@ -40,4 +46,4 @@ Date: 2026-08-13
 
 ## Sources
 
-No public source links.
+- [UN food agency halves West Bank aid from 400,000 to 200,000 people because of funding shortages](https://www.pbs.org/newshour/world/un-food-agency-halves-west-bank-aid-from-400000-to-200000-people-because-of-funding-shortages?utm_source=lootura.com) — 2026-09-01T22:01:24.000Z

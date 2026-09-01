@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Why did Army Secretary Dan Driscoll resign?
+
+The White House has confirmed that Army Secretary Dan Driscoll is resigning. The move comes after months of friction between him and Defense Secretary Pete Hegseth. Marine veteran and former CIA officer Elliot Ackerman joins with analysis.
+
+Date: 2026-09-01
 
 ### Army Secretary Dan Driscoll resigning after friction with Hegseth
 
@@ -62,16 +68,6 @@ Venezuelan interim authorities have granted North American Blue Energy Partners 
 
 Date: 2026-09-01
 
-### Justices give Trump major legal victory on ballroom project
-
-A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.
-
-Date: 2026-08-31
-
 ## Sources
 
-- [Army Secretary Dan Driscoll resigning after friction with Hegseth](https://www.cbsnews.com/news/army-secretary-dan-driscoll-resigns/?utm_source=lootura.com) — 2026-09-01T01:05:25.000Z
-- [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
-- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
-- [Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says](https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says?utm_source=lootura.com) — 2026-09-01T14:43:33.000Z
-- [What Trump's Most-Favored-Nation Deal Means for Drug Prices](https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/?utm_source=lootura.com) — 2026-09-01T12:09:16.000Z
+- [Why did Army Secretary Dan Driscoll resign?](https://www.cbsnews.com/video/why-did-army-secretary-dan-driscoll-resign/?utm_source=lootura.com) — 2026-09-01T21:56:58.000Z

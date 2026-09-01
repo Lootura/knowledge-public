@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-08-13
 
 ## Sources
 
-- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
-- [SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns](https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting?utm_source=lootura.com) — 2026-09-01T11:23:46.000Z
+- [Why the Supreme Court's ballroom ruling could matter beyond the ballroom](https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers?utm_source=lootura.com) — 2026-09-01T11:00:41.000Z
 - [How the Supreme Court Locks Away Its Own History](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com) — 2026-09-01T13:59:33.000Z

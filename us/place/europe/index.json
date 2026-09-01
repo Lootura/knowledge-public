@@ -8,20 +8,35 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
     },
     {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "title": "Europe should adapt, not copy, China’s practical PhD",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "A roadmap for animal-free chemical testing",
+      "summary": "For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
       "date": "2026-09-01"
     },
     {
@@ -48,36 +63,33 @@
       "title": "Europe's mountain summits are warming—vegetation is responding in surprisingly different ways",
       "summary": "Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetat.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive",
-      "summary": "As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that they're getting dangerously hot.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon",
-      "summary": "Another day of near record heat baked the continent on Friday, but temperatures could retreat to seasonal averages in the coming days.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "As Europe Gets Hotter, Its Transportation Systems Struggle to Cope",
-      "summary": "The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T10:59:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Europe should adapt, not copy, China’s practical PhD",
+      "url": "https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:22:32.693Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "url": "https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:58:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "A roadmap for animal-free chemical testing",
+      "url": "https://phys.org/news/2026-09-roadmap-animal-free-chemical.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:40:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     },
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:30:10.000Z",
+      "publishedAt": "2026-09-01T21:57:53.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,16 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy",
+      "summary": "El mercado de fichajes llega a su fin este martes. A las 00:00 horas del 2 de septiembre no se podrán hacer más operaciones. Es decir, hasta las 23:59 horas de este martes los clubes podrán fichar e inscribir a jugadores en sus plantillas . Sigue en OKDIARIO todo lo que suceda en las últimas horas del mercado, con info.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos",
+      "summary": "El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»",
       "summary": "Después de un verano entero provocando al Atlético de Madrid con el fichaje imposible de Julián Álvarez , Joan Laporta ha hecho portavoz del presidente de otro club de Primera División . Este martes, un día después del Barcelona-Rayo , el man>Barcelona ante el micrófono de El Chiringuito de Jugones . Cabe recordar que.",
@@ -60,30 +70,20 @@
       "title": "Sandra Iglesias (MiniMed): \"La actitud marca la diferencia en la ejecución\"",
       "summary": "En momentos de incertidumbre Sandra Iglesias (Barcelona, 1973) se aferra a un recuerdo anclado en el pasillo de un hospital de Barcelona. Cuenta que, hace años, mientras explicaba una terapia a un niño, otro pequeño en la sala, su hermano, sentado en una silla en silencio observaba con atención. \"Cuando terminamos y av.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)",
-      "summary": "Los bomberos han dado por estabilizado el incendio forestal que se ha declarado sobre las 15.40 horas de este viernes en una zona próxima a la avenida Pearson de Barcelona y que ha calcinado unas 10 hectáreas de terreno forestal de la sierra de Collserola. Así lo ha comunicado el tercer teniente de alcalde de Barcelona.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
-      "summary": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»",
-      "url": "https://okdiario.com/deportes/laporta-hace-portavoz-martin-presa-verguenza-lo-que-estan-haciendo-rayo-20210031?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:52:55.000Z",
+      "title": "Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy",
+      "url": "https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:21:22.000Z",
       "sourceId": "lootura-es-ok-diario"
     },
     {
-      "title": "El Barça ficha al delantero brasileño Gabriel Jesús, procedente del Arsenal inglés",
-      "url": "https://theobjective.com/deportes/futbol/2026-09-01/barca-ficha-gabriel-jesus/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T14:15:00.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos",
+      "url": "https://okdiario.com/deportes/gimenez-casado-son-bombas-del-cierre-del-mercado-fichajes-fofana-llega-sevilla-betis-aguanta-ceballos-20211564/amp?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:13:39.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 2

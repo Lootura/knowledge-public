@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "AI",
     "AI science",
@@ -28,68 +28,74 @@
   ],
   "changes": [
     {
-      "title": "Mysteries of the deep and AI friendship: Books in brief",
-      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
       "date": "2026-09-01"
     },
     {
-      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
-      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
+      "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02370-2 Academics worldwide are rethinking their assessment approaches — from developing exams that artificial-intelligence tools can’t pass to sneaking hidden AI prompts into tasks to catch cheating students.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "When AI does science, who is accountable for mistakes?",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When AI does science, who is accountable for mistakes?",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Side of slop? Bizarre AI food images jump from online to IRL menus",
+      "summary": "AI “slop” is increasingly on offer at brick-and-mortar establishments.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Trump's pro-data center stance is putting pressure on Republicans ahead of midterms",
+      "summary": "Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
+      "summary": "Researchers today announced AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules with a 1,000-fold reduction in computational costs over existing methods. Developed and validated by scientists from St. Jude Children's Research Hospital, University of Pavia, Dana Farber Cancer.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company to meet the clima.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Mysteries of the deep and AI friendship: Books in brief",
+      "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
       "date": "2026-09-01"
     },
     {
       "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
       "summary": "John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Nvidia’s DLSS 5, explained",
-      "summary": "Lara Croft in Shadow of the Tomb Raider, with a DLSS 5 mod applied. | Screenshot by Sean Hollister / The Verge Nvidia knows that DLSS 5 left a bad first impression . In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the com.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "AI chatbot use for emotional support tied to loneliness in students",
-      "summary": "Young people leaning on AI chatbots for emotional support or personal advice are significantly more likely to struggle with serious emotional problems, feel isolated and doubt that they truly matter to others, a new uOttawa study warns.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "AI isn’t ready to research itself",
-      "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Einstein the musician, AI prophets and more: Books in brief",
-      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6 Andrew Robinson reviews five of the best science picks.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Exclusive: Claude Was Put in Charge of Human Workers—and Fired One",
-      "summary": "A view of items on sale at Andon Market. —Courtesy of Andon Labs A version of Claude that was put in charge of running a retail store—including managing a team of real human workers—fired its first employee last month, in a move described by researchers as a watershed moment in AI’s impact on the economy. The news has.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Organs age at different speeds: A blood test might soon tell which ones",
-      "summary": "AI-based \"tissue clocks\" can estimate the biological age of human organs from histological images, researchers at the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences and the Ludwig Boltzmann Institute for Network Medicine (LBI-NetMed) at the University of Vienna showed. By analyzing more.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
-      "url": "https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:00:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
+      "url": "https://www.nature.com/articles/d41586-026-02370-2?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:22:32.694Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Mysteries of the deep and AI friendship: Books in brief",
-      "url": "https://www.nature.com/articles/d41586-026-02725-9?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:10:09.016Z",
+      "title": "When AI does science, who is accountable for mistakes?",
+      "url": "https://www.nature.com/articles/d41586-026-02735-7?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:22:32.693Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Side of slop? Bizarre AI food images jump from online to IRL menus",
+      "url": "https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:00:41.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
@@ -98,11 +104,29 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Nvidia’s DLSS 5, explained",
-      "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "title": "Trump's pro-data center stance is putting pressure on Republicans ahead of midterms",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:22:34.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
+      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:00:07.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T19:02:54.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T19:43:39.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 8
 }

@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas](https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com) — 2026-09-01T09:14:00.000Z
+No public source links.

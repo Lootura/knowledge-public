@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,16 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Send your questions for Richard Engel on Ukraine and more",
+      "summary": "Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
+      "date": "2026-09-01"
+    },
     {
       "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
       "summary": "Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.",
@@ -56,18 +66,21 @@
       "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
       "summary": "The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Russian attacks kill 10 in Ukraine as Zelenskyy says Moscow is getting more North Korean missiles",
-      "summary": "Russia attacked Ukrainian cities with missiles, drones and glide bombs Tuesday, killing at least 10 civilians, officials said, as President Volodymyr Zelenskyy said Moscow is getting new military help from North Korea for its more than 4-year-old invasion.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-      "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Send your questions for Richard Engel on Ukraine and more",
+      "url": "https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T17:57:01.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "url": "https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:58:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
 }

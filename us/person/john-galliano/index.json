@@ -8,18 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/john-galliano/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/john-galliano/index.json",
   "description": "Follow John Galliano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Galliano",
     "John Charles Galliano",
     "Juan Carlos Antonio Galliano-Guillén"
   ],
   "changes": [
-    {
-      "title": "What to know after John Galliano's Met Gala exhibit canceled",
-      "summary": "John Galliano's exhibit for the 2027 Met Gala has been canceled after weeks of backlash over his past antisemitic and racist comments. CBS News fashion contributor Lauren Sherman reports.",
-      "date": "2026-09-01"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "John Galliano first entered the public knowledge record with source-backed evidence.",
@@ -31,6 +26,11 @@
       "date": "2026-09-01"
     },
     {
+      "title": "What to know after John Galliano's Met Gala exhibit canceled",
+      "summary": "John Galliano's exhibit for the 2027 Met Gala has been canceled after weeks of backlash over his past antisemitic and racist comments. CBS News fashion contributor Lauren Sherman reports.",
+      "date": "2026-09-01"
+    },
+    {
       "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
       "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
       "date": "2026-08-31"
@@ -38,17 +38,11 @@
   ],
   "sources": [
     {
-      "title": "What to know after John Galliano's Met Gala exhibit canceled",
-      "url": "https://www.cbsnews.com/video/john-gallianos-met-gala-exhibit-canceled/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T00:42:57.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano",
       "url": "https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled?utm_source=lootura.com",
       "publishedAt": "2026-09-01T05:43:37.000Z",
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

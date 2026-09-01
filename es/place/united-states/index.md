@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
-
-en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
-
-Date: 2026-09-01
 
 ### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
 
@@ -23,6 +17,42 @@ Date: 2026-09-01
 ### El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos
 
 Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
+
+Date: 2026-09-01
+
+### Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square
+
+La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a dos personas en Times Square , dejando una persona herida y provocando la muerte a Erin Piacenti, vicepresidenta de Bank of America que falleció a causa de las heridas tras ser trasladada al hospital.El alcalde de la Ciudad, Zohran Mamdani , ha.
+
+Date: 2026-09-01
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
+
+Date: 2026-09-01
+
+### La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años
+
+Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.
+
+Date: 2026-09-01
+
+### EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz
+
+El Mando Central de Estados Unidos (Centcom) ha anunciado que este martes ha iniciado una nueva ronda de ataques contra objetivos militares en Irán, en la última señal del retorno a las hostilidades entre los dos países tras un mes de relativa calma. El Pentágono ha confirmado que los ataques han comenzado a las 18h y.
+
+Date: 2026-09-01
+
+### Petróleo pesado venezolano para las refinerías estadounidenses
+
+Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estados Unidos, que produce más petróleo que ningún otro país del mundo, acaba de cerrar con Venezuela un acuerdo de largo alcance para desarrollar algunos de sus principales campos petroleros. ¿Por qué? La respuesta habitual apunta a la geopolít.
+
+Date: 2026-09-01
+
+### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
+
+en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
 
 Date: 2026-09-01
 
@@ -38,38 +68,12 @@ Geopolítica, inflación y bancos centrales dominan la actualidad de los mercado
 
 Date: 2026-09-01
 
-### EEUU demanda a Amazon por cobrar de más a sus anunciantes
-
-La Comisión Federal de Comercio de Estados Unidos (FTC, por sus siglas en inglés) ha presentado una demanda contra Amazon alegando que el gigante del comercio electrónico engañó a los anunciantes al manipular los precios que pagaban para promocionar productos en su plataforma. Seguir leyendo.
-
-Date: 2026-08-31
-
-### La línea roja del mercado ante la que Estados Unidos va a acudir al rescate
-
-Los inversores que hayan desconectado totalmente en sus vacaciones y hoy enciendan sus pantallas pensarán que agosto ha sido un mes plácido. En este mes, el Ibex 35 español ha subido un 0,5%, rebasando los 20.000 puntos por primera vez en su historia , aunque ayer los perdió; y el S&P 500 avanzó alrededor de un 2,5%. S.
-
-Date: 2026-08-31
-
-### EEUU retira la visa al hijo de AMLO: «Es una injerencia en la política mexicana»
-
-El hijo del expresidente mexicano Andrés Manuel López Obrador ha denunciado que las autoridades de Estados Unidos le han denegado la entrada al país por.
-
-Date: 2026-08-14
-
-### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
-
-La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
-
-Date: 2026-08-14
-
-### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
-
-El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
-
-Date: 2026-08-14
-
 ## Fuentes
 
+- [Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square](https://www.abc.es/sociedad/muere-vicepresidenta-bank-america-tras-apunalada-mujer-20260901211759-nt.html?utm_source=lootura.com) — 2026-09-01T19:19:09.000Z
 - [El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE](https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com) — 2026-09-01T15:09:00.000Z
-- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T15:40:36.000Z
-- [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z
+- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-01T20:42:07.000Z
+- [La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años](https://www.elmundo.es/internacional/2026/09/01/6a9701fa21efa06c038b4597.html?utm_source=lootura.com) — 2026-09-01T17:46:13.000Z
+- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z
+- [EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz](https://www.lavanguardia.com/internacional/20260901/11624944/ee-uu-vuelve-atacar-objetivos-militares-iran-represalia-bloqueo-ormuz.html?utm_source=lootura.com) — 2026-09-01T17:08:37.000Z
+- [Petróleo pesado venezolano para las refinerías estadounidenses](https://theconversation.com/petroleo-pesado-venezolano-para-las-refinerias-estadounidenses-290954?utm_source=lootura.com) — 2026-09-01T16:01:24.000Z

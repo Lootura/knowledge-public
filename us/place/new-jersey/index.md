@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity](https://www.theguardian.com/us-news/2026/sep/01/girls-gone-bible-podcast-young-women-christianity?utm_source=lootura.com) — 2026-09-01T12:00:58.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Funding milestone detected
 
 Chris Pilkerton, assistant secretary for investment security at the U.S. Treasury Department, is at the G20 summit in Asheville, North Carolina, and joins CBS News with more on what to expect.
+
+Date: 2026-09-01
+
+### Ocean heat waves linked with poorer health among children in coastal communities
+
+Marine heat waves—periods of abnormally warm ocean temperatures—may have negative health effects on children who live in coastal communities in low- and middle-income countries, according to a study led by researchers at Penn State and the University of North Carolina at Chapel Hill.
 
 Date: 2026-09-01
 
@@ -62,13 +68,7 @@ GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announ
 
 Date: 2026-08-03
 
-### House Ethics Panel Finds Rep. Chuck Edwards Likely Violated Sexual Harassment Rules
-
-The Ethics Committee called for the censure of Representative Chuck Edwards, Republican of North Carolina, who showered two female staffers with lavish gifts and affection.
-
-Date: 2026-08-03
-
 ## Sources
 
 - [U.S. Treasury official on economic goals at G20 summit](https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com) — 2026-09-01T15:06:23.000Z
-- [Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval](https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com) — 2026-09-01T13:04:14.000Z
+- [Ocean heat waves linked with poorer health among children in coastal communities](https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html?utm_source=lootura.com) — 2026-09-01T21:20:01.000Z

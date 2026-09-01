@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
   "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Charles Marion Edwards",
     "Chuck",
     "Edwards"
   ],
   "changes": [
+    {
+      "title": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides",
+      "summary": "The House Ethics Committee detailed the North Carolina Republican's \"unprofessional and inappropriate conduct\" toward two young women who worked for him.",
+      "date": "2026-09-01"
+    },
     {
       "title": "North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards",
       "summary": "State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.",
@@ -51,6 +56,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides",
+      "url": "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:17:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

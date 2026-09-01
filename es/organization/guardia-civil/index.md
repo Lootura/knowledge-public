@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Salvamento Marítimo y la Guardia Civil rescatan a 24 inmigrantes en una patera en Cabrera](https://theobjective.com/sociedad/suceso/2026-09-01/rescatan-24-inmigrantes-patera-parque-cabrera/?utm_source=lootura.com) — 2026-09-01T08:55:11.000Z
+No public source links.

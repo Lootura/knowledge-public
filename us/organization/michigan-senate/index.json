@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/michigan-senate/index.json",
   "description": "Follow Michigan Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [],
   "changes": [
     {
@@ -42,6 +42,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Democratic contender Abdul El-Sayed hits back at JD Vance over ‘evil’ taunt",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:21:27.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos](https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com) — 2026-09-01T12:45:58.000Z
+No public source links.

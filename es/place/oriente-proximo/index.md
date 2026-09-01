@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -71,4 +71,4 @@ Date: 2026-08-13
 ## Fuentes
 
 - [El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008](https://www.elmundo.es/economia/dinero-inversion/2026/09/01/6a96d42bfdddffd3658b45a6.html?utm_source=lootura.com) — 2026-09-01T14:12:00.000Z
-- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T15:40:36.000Z
+- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-09-01
 ### China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal
 
 While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
+
+Date: 2026-09-01
+
+### Europe should adapt, not copy, China’s practical PhD
+
+Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
 
 Date: 2026-09-01
 
@@ -62,13 +68,9 @@ The United States could exhaust its domestic phosphorus supply within 40 years. 
 
 Date: 2026-08-14
 
-### Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals
-
-The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
-
-Date: 2026-08-13
-
 ## Sources
 
-- [China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal](https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html?utm_source=lootura.com) — 2026-09-01T10:44:07.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
+- [China’s regulatory innovation for new biomedical technologies](https://www.nature.com/articles/d41586-026-02737-5?utm_source=lootura.com) — 2026-09-01T22:22:32.693Z
+- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-01T22:22:32.693Z
+- [China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal](https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html?utm_source=lootura.com) — 2026-09-01T21:10:03.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-No public source links.
+- [Meta lanza una IA capaz de distinguir 20 voces en una sola grabación](https://hipertextual.com/inteligencia-artificial/meta-muse-voice-transcribe-ia-transcripcion-tiempo-real/?utm_source=lootura.com) — 2026-09-01T21:50:00.000Z

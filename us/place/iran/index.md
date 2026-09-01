@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -14,15 +14,21 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-01
 
-### U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad
-
-The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
-
-Date: 2026-09-01
-
 ### Oil prices rise again as U.S. renews Iran strikes
 
 Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.
+
+Date: 2026-09-01
+
+### U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says
+
+U.S. Central Command did not say precisely what it was trying to destroy in Iran, but it said the attacks were aimed at Iran’s Islamic Revolutionary Guards Corps.
+
+Date: 2026-09-01
+
+### U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad
+
+The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.
 
 Date: 2026-09-01
 
@@ -62,15 +68,8 @@ Keeping gas prices low is now the United States’ “goal No.
 
 Date: 2026-08-15
 
-### Hormuz chaos highlights risks for other global trade chokepoints
-
-The war in Iran has underscored how disruptions to a key shipping route thousands of miles away can have a material impact on American consumers.
-
-Date: 2026-08-14
-
 ## Sources
 
 - [Oil prices rise again as U.S. renews Iran strikes](https://www.cbsnews.com/video/oil-prices-rise-again-as-us-renews-iran-strikes/?utm_source=lootura.com) — 2026-09-01T15:09:34.000Z
-- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
-- [U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad](https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html?utm_source=lootura.com) — 2026-09-01T15:04:17.000Z
+- [U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html?utm_source=lootura.com) — 2026-09-01T22:17:32.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z

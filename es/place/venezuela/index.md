@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Petróleo pesado venezolano para las refinerías estadounidenses
+
+Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estados Unidos, que produce más petróleo que ningún otro país del mundo, acaba de cerrar con Venezuela un acuerdo de largo alcance para desarrollar algunos de sus principales campos petroleros. ¿Por qué? La respuesta habitual apunta a la geopolít.
+
+Date: 2026-09-01
 
 ### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
 
@@ -62,12 +68,6 @@ Este lunes la tierra se abrió bajo el Valle del Cauca, en Colombia. Un terremot
 
 Date: 2026-08-11
 
-### Mucha gente se hace la misma pregunta tras el terremoto de Colombia: por qué los daños han sido tan distintos a los de Venezuela
-
-La escala de Richter de un terremoto no determina de manera exacta el daño, ya que depende de otros factores como la profundidad. Es por ello que el registrado este lunes en Colombia de magnitud 7,4 es totalmente distinto al «doblete sísmico» registrado en Venezuela hace apenas mes y medio, a pesar de tener una intensi.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Petróleo pesado venezolano para las refinerías estadounidenses](https://theconversation.com/petroleo-pesado-venezolano-para-las-refinerias-estadounidenses-290954?utm_source=lootura.com) — 2026-09-01T16:01:24.000Z

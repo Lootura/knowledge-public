@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple
 
 Matthew McConaughey y Woody Harrelson han colaborado a lo largo de los años en varios proyectos. Desde EDtv (1999), la sátira televisiva de Ron Howard a la primera temporada de True Detective (2014), una de las mejores series de la historia reciente de la televisión. Fuera de la gran pantalla son grandes amigos, aunque.
+
+Date: 2026-09-01
+
+### Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook
+
+Si Steve Jobs ya ha pasado a la historia como mito a secas , sin que haga falta ponerle adjetivos a su figura; Tim Cook abandona los mandos de Apple como la máquina perfecta de ganar dinero que heredó. Pese a los años y los rivales que han caído en el camino, la manzana mordida acumula aún beneficios récord. Desde este.
+
+Date: 2026-09-01
+
+### El primer iPhone plegable de Apple está a la vuelta de la esquina y esto es lo que sabemos
+
+Desde que Samsung y Google lanzaron sus primeros plegables en 2019 y 2023, respectivamente, se han sucedido los rumores sobre el primer iPhone de este tipo que ahora, por fin, estaría a punto de ser presentado la próxima semana . En los últimos años, Apple ha diversificado su catálogo con los iPhone asequibles de la se.
 
 Date: 2026-09-01
 
@@ -56,18 +68,8 @@ Xiaomi acaba de dejarnos con la boca abierta de par en par. La compañía estaba
 
 Date: 2026-08-13
 
-### El 'MonsterVerse' de Apple TV suma dos grandes fichajes a su nueva serie con Wyatt Russell
-
-El 'MonsterVerse' continúa expandiéndose en televisión. Después del éxito de Monarch: El legado de los monstruos, Apple TV y Legendary ya trabajan en una nueva serie ambientada en este universo y protagonizada por Wyatt Russell . Ahora, tal como confirma un reciente informe del medio Deadline, el proyecto acaba de suma.
-
-Date: 2026-08-11
-
-### ¿Cuáles son los 'Siete Magníficos' del mercado asiático?
-
-Al igual que ocurre en Wall Street, donde un grupo muy reducido de tecnológicas, conocidas como los Siete Magníficos (Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia y Tesla) agrupan una parte muy significativa del peso de la Bolsa americana, el patrón también se repite en Asia. Los Siete Magníficos de los mercados em.
-
-Date: 2026-08-11
-
 ## Fuentes
 
+- [Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook](https://elpais.com/economia/2026-09-01/ternus-toma-el-mando-en-apple-entre-la-leyenda-de-jobs-y-la-maquina-de-ganar-de-dinero-de-cook.html?utm_source=lootura.com) — 2026-09-01T18:12:00.000Z
+- [El primer iPhone plegable de Apple está a la vuelta de la esquina y esto es lo que sabemos](https://www.larazon.es/tecnologia/primer-iphone-plegable-apple-esta-vuelta-esquina-esto-que-sabemos_202609016a972d7d3bfe5d1eff3f943b.html?utm_source=lootura.com) — 2026-09-01T20:25:13.000Z
 - [Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple](https://okdiario.com/cool/television/dos-estrellas-hollywood-sospechan-que-son-hermanos-vida-real-historia-familiar-que-han-convertido-serie-llega-apple-20206630?utm_source=lootura.com) — 2026-09-01T16:00:57.000Z

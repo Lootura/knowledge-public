@@ -3,10 +3,16 @@
 > Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/person/chuck-edwards
 
 ## Recent changes
+
+### House censures Rep. Chuck Edwards over "inappropriate conduct" toward aides
+
+The House Ethics Committee detailed the North Carolina Republican's "unprofessional and inappropriate conduct" toward two young women who worked for him.
+
+Date: 2026-09-01
 
 ### North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards
 
@@ -52,4 +58,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [House censures Rep. Chuck Edwards over "inappropriate conduct" toward aides](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com) — 2026-09-01T22:17:00.000Z

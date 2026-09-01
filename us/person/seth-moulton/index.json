@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.json",
   "description": "Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Moulton",
     "Seth Wilbur Moulton"
@@ -20,13 +20,23 @@
       "date": "2026-09-01"
     },
     {
-      "title": "In Massachusetts, Sen. Ed Markey and Rep. Seth Moulton vie for Senate nomination",
-      "summary": "Sen. Ed Markey faces Congressman Seth Moulton in the Massachusetts Senate primary. Both candidates have similar progressive platforms.",
+      "title": "Discovered by Atlas",
+      "summary": "Seth Moulton first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Seth Moulton first entered the public knowledge record with source-backed evidence.",
+      "title": "Moulton says he shares same progressive values as Markey but isn’t afraid to challenge establishment",
+      "summary": "Rep. Seth Moulton (D-Mass.) joins Meet the Press NOW to discuss his primary challenge to incumbent Sen. Ed Markey (D-Mass.).",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Rep. Seth Moulton targets Sen. Ed Markey in Massachusetts Democratic primary amid broader calls for generational change",
+      "summary": "The primary is crucial in heavily Democratic Massachusetts, and the winner will be expected to prevail in November's general election.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "In Massachusetts, Sen. Ed Markey and Rep. Seth Moulton vie for Senate nomination",
+      "summary": "Sen. Ed Markey faces Congressman Seth Moulton in the Massachusetts Senate primary. Both candidates have similar progressive platforms.",
       "date": "2026-09-01"
     }
   ],
@@ -38,11 +48,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "In Massachusetts, Sen. Ed Markey and Rep. Seth Moulton vie for Senate nomination",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5948069/in-massachusetts-sen-ed-markey-and-rep-seth-moulton-vie-for-senate-nomination?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:45:49.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Moulton says he shares same progressive values as Markey but isn’t afraid to challenge establishment",
+      "url": "https://www.nbcnews.com/meet-the-press/video/moulton-says-he-shares-same-progressive-values-as-markey-but-isn-t-afraid-to-challenge-establishment-269174341545?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:13:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Rep. Seth Moulton targets Sen. Ed Markey in Massachusetts Democratic primary amid broader calls for generational change",
+      "url": "https://www.pbs.org/newshour/politics/rep-seth-moulton-targets-sen-ed-markey-in-massachusetts-democratic-primary-amid-broader-calls-for-generational-change?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:32:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

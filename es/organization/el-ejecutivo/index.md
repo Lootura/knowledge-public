@@ -40,5 +40,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera](https://www.eldebate.com/espana/20260901/gobierno-atribuye-bulo-derecha-rey-quisiera-ceuta-sanchez-impidiera_454232.html?utm_source=lootura.com) — 2026-09-01T13:38:34.000Z
-- [Estas son las ayudas aprobadas por el Gobierno en respuesta a la crisis en Ceuta](https://www.eldiario.es/economia/son-ayudas-aprobadas-gobierno-respuesta-crisis-ceuta_1_13479300.html?utm_source=lootura.com) — 2026-09-01T11:32:16.000Z
+No public source links.

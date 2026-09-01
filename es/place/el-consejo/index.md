@@ -3,20 +3,20 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
 
-### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
-
-El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
-
-Date: 2026-09-01
-
 ### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
 
 El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.
+
+Date: 2026-09-01
+
+### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
+
+El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
 
 Date: 2026-09-01
 
@@ -70,6 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos](https://www.abc.es/economia/gobierno-nombra-leire-iglesias-secretaria-estado-vivienda-20260901164938-nt.html?utm_source=lootura.com) — 2026-09-01T15:16:58.000Z
 - [Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas](https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com) — 2026-09-01T15:31:23.000Z
-- [El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente](https://theobjective.com/espana/politica/2026-09-01/gobierno-millones-ceuta-rebaja-fiscal/?utm_source=lootura.com) — 2026-09-01T12:57:27.000Z

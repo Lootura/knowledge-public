@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -11,18 +11,6 @@
 ### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
 
 The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
-
-Date: 2026-09-01
-
-### U.S.-Venezuela oil deal will rely on North American Blue Energy Partners
-
-The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.
-
-Date: 2026-09-01
-
-### Trump calls for federal tax incentives to benefit TV and movie industry
-
-The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.
 
 Date: 2026-09-01
 
@@ -38,21 +26,9 @@ President Trump will meet with U.S. oil executives over the price of oil. This c
 
 Date: 2026-09-01
 
-### SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign
-
-Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.
-
-Date: 2026-09-01
-
 ### Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms
 
 A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could "derail" the midterm election if courts allow it to proceed. (Image credit: George Frey).
-
-Date: 2026-09-01
-
-### SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns
-
-The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik).
 
 Date: 2026-09-01
 
@@ -62,21 +38,45 @@ A report detailed “grave concerns” that a new system being rushed into use b
 
 Date: 2026-09-01
 
-### Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval
+### Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?
 
-CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.
+President Trump framed last week's deal for the U.S. government to take a stake in Venezuelan oil as a boon for the depleted Strategic Petroleum Reserve. But the plan faces some hurdles, experts say.
+
+Date: 2026-09-01
+
+### Funding milestone detected
+
+The legislation, which already passed the Senate, now goes to President Donald Trump to become law, checking off the main item on Congress’ to-do list ahead of the midterms.
+
+Date: 2026-09-01
+
+### ICE says it has enough body cameras now, after series of deadly shootings
+
+Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration. (Image credit: Michael M. Santiago).
+
+Date: 2026-09-01
+
+### Trump's pro-data center stance is putting pressure on Republicans ahead of midterms
+
+Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.
+
+Date: 2026-09-01
+
+### What to Know About Venezuelan Energy Following Trump’s Oil Deal
+
+The Trump administration’s deal with a private oil company to increase oil production in the South American country could take many years to come to fruition.
 
 Date: 2026-09-01
 
 ## Sources
 
 - [Trump to meet with U.S. oil executives amid Pentagon infighting](https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com) — 2026-09-01T15:03:00.000Z
-- [U.S.-Venezuela oil deal will rely on North American Blue Energy Partners](https://www.cbsnews.com/news/white-house-trump-venezuela-oil-deal-north-american-blue-energy-partners/?utm_source=lootura.com) — 2026-09-01T03:15:39.000Z
-- [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
-- [SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign](https://www.today.com/video/army-secretary-dan-driscoll-expected-to-resign-after-clashes-269143621865?utm_source=lootura.com) — 2026-09-01T11:39:23.000Z
-- [Whatever happened to the U.S. famine alert system that Trump shut down, then reopened](https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net?utm_source=lootura.com) — 2026-08-31T20:42:17.000Z
+- [Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?](https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com) — 2026-09-01T22:08:58.000Z
+- [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z
+- [ICE says it has enough body cameras now, after series of deadly shootings](https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration?utm_source=lootura.com) — 2026-09-01T17:52:37.000Z
+- [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z
 - [Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms](https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com) — 2026-09-01T10:00:00.000Z
-- [SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns](https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting?utm_source=lootura.com) — 2026-09-01T11:23:46.000Z
-- [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T10:00:16.000Z
-- [How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com) — 2026-09-01T14:50:57.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
+- [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T16:09:41.000Z
+- [What to Know About Venezuelan Energy Following Trump’s Oil Deal](https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html?utm_source=lootura.com) — 2026-09-01T17:54:05.000Z
+- [Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently](https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html?utm_source=lootura.com) — 2026-09-01T22:03:00.000Z
+- [How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com) — 2026-09-01T16:12:47.000Z

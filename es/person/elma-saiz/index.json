@@ -39,19 +39,6 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Moncloa niega críticas de Sánchez al Rey: \"No fue ningún reproche\"",
-      "url": "https://www.elconfidencial.com/espana/2026-09-01/moncloa-niega-que-pedro-sanchez-criticara-al-rey_4416000/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:50:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El Gobierno evita concretar el viaje del Rey a Ceuta y niega «ningún reproche» de Sánchez",
-      "url": "https://theobjective.com/espana/politica/2026-09-01/gobierno-viaje-rey-ceuta-sanchez/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:35:58.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

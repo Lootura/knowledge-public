@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square
+
+La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a dos personas en Times Square , dejando una persona herida y provocando la muerte a Erin Piacenti, vicepresidenta de Bank of America que falleció a causa de las heridas tras ser trasladada al hospital.El alcalde de la Ciudad, Zohran Mamdani , ha.
+
+Date: 2026-09-01
 
 ### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
 
@@ -62,12 +68,6 @@ El cine es el único arte capaz de capturar la esencia de un lugar. El celuloide
 
 Date: 2026-08-10
 
-### Grifols acusa a Gotham de obstaculizar la obtención de pruebas para preparar el juicio en Nueva York
-
-La tensión entre Grifols y Gotham City Research sigue aumentando en un momento clave del proceso que se sigue por difamación en Nueva York. La empresa de hemoderivados ha acusado al fondo norteamericano de estar obstaculizando la entrega de la documentación pactada para preparar el juicio que se celebrará en 2027. Goth.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang](https://es.wikipedia.org/wiki/Informe_de_la_Oficina_de_Derechos_Humanos_de_la_ONU_sobre_Sinkiang?utm_source=lootura.com) — 2026-09-01T04:00:00.000Z
+- [Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square](https://www.abc.es/sociedad/muere-vicepresidenta-bank-america-tras-apunalada-mujer-20260901211759-nt.html?utm_source=lootura.com) — 2026-09-01T19:19:09.000Z

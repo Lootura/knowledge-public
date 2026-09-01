@@ -40,5 +40,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Keir Starmer, Former UK Prime Minister, Says He Will Resign From Parliament](https://www.nytimes.com/2026/09/01/world/europe/keir-starmer-uk-prime-minister-resigns-mp.html?utm_source=lootura.com) — 2026-09-01T14:24:02.000Z
-- [Former U.K. Prime Minister Keir Starmer Steps Down From Parliament. Read His Full Statement Here](https://time.com/article/2026/09/01/keir-starmer-resigns-british-parliament-statement-new-role/?utm_source=lootura.com) — 2026-09-01T13:43:50.000Z
+No public source links.

@@ -3,10 +3,58 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
+
+### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
+
+En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
+
+Date: 2026-09-01
+
+### Rusia se suma a Israel y carga contra Sánchez por vincularlos con los “bulos” sobre Ceuta
+
+Moscú ha conminado al presidente del Gobierno, Pedro Sánchez, a presentar evidencias para sostener que ha existido —como dijo— una campaña de desinformación rusa en torno a la crisis de Ceuta . Además, ha recordado que existen canales diplomáticos para formalizar este tipo de acusaciones. “Tenemos una embajada en Madri.
+
+Date: 2026-09-01
+
+### Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como "acto institucional"
+
+El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. "Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas",.
+
+Date: 2026-09-01
+
+### Bruselas contradice el relato de Sánchez: Moscú intentó "sacar partido" de la crisis de Ceuta, pero no la provocó
+
+En sus explicaciones sobre el asalto a Ceuta , Pedro Sánchez ha apuntado a una tergiversación de la sentencia del Tribunal Supremo que prohíbe las devoluciones en caliente de los inmigrantes que cruzan a nado la frontera, tesis que fue expandida por "bulos" alentados por redes sociales "asociadas a Rusia, Israel" y la.
+
+Date: 2026-09-01
+
+### Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre
+
+El Ayuntamiento de Madrid ha acusado este martes al Gobierno de Pedro Sánchez de “boicotear” la concentración por Ceuta que el Consistorio ha convocado para este miércoles tras haber recibido un escrito de la Delegación del Gobierno que le reprocha haber solicitado la autorización por la vía del derecho de reunión, pes.
+
+Date: 2026-09-01
+
+### La UE asegura que "no hay pruebas concluyentes" de que la crisis de Ceuta la provocara una campaña de desinformación de Rusia
+
+El Servicio Europeo de Acción Exterior admite que "en el caso de Ceuta, observamos intentos por parte de Rusia de explotar la crisis en internet", pero no se han encontrado evidencias de su participación en el origen de la crisis y no se menciona a Israel Sánchez anuncia que el rey Felipe VI irá a Ceuta “cuando se den.
+
+Date: 2026-09-01
+
+### Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase
+
+Bruselas no tiene pruebas de una supuesta implicación de Rusia en una campaña de desinformación que habría provocado la crisis migratoria en Ceuta, como sostiene el Ejecutivo de Pedro Sánchez, pero sí cree que está intentando “sacar partido” de la complicada situación en que se encuentra la ciudad autónoma después del.
+
+Date: 2026-09-01
+
+### El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»
+
+El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.
+
+Date: 2026-09-01
 
 ### Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral
 
@@ -20,63 +68,13 @@ La crisis de Ceuta sigue sin tener fin y desborda y monopoliza al Gobierno desde
 
 Date: 2026-09-01
 
-### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
-
-"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.
-
-Date: 2026-09-01
-
-### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
-
-Las palabras del presidente del Gobierno, Pedro Sánchez, sobre el rey Felipe VI y su ausencia en Ceuta durante su reinado siguen molestando al Partido Popular, que exige al jefe del Ejecutivo un "respeto" a la Corona. El secretario general del PP, Miguel Tellado, ha ido más allá este martes al acusar al Ejecutivo de te.
-
-Date: 2026-09-01
-
-### Ketty Garat, muy clara en el análisis de la entrevista de Pedro Sánchez: «El patrón es la tensión»
-
-La entrevista de Pedro Sánchez en 'Hoy por hoy', en la 'Cadena SER' el pasado lunes no ha dejado indiferente a nadie. Se trata de la primera gran comparecencia del presidente del Gobierno desde la avalancha de migrantes a Ceuta a finales del mes de julio.Aunque Sánchez se desplazó a Ceuta apenas unas horas después de l.
-
-Date: 2026-09-01
-
-### Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta
-
-El Gobierno trata de exhibir normalidad con Zarzuela después de que Pedro Sánchez señalara abiertamente la ausencia del jefe de Estado en Ceuta a colación de la crisis generada por la entrada masiva del pasado 30 de julio. El presidente aprovechó su primera intervención pública en el arranque de curso, una entrevista e.
-
-Date: 2026-09-01
-
-### Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"
-
-Moncloa baja el pistón con el Rey. La portavoz del Gobierno, Elma Saiz , ha asegurado que las referencias que este lunes realizó Pedro Sánchez durante su entrevista en la Ser a la ausencia de viajes de Felipe VI a Ceuta no solo no eran una crítica al Monarca. Además, aseguró que las relaciones entre el Gobierno y " Cas.
-
-Date: 2026-09-01
-
-### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
-
-El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide "extremar las cautelas" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.
-
-Date: 2026-09-01
-
-### El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera
-
-​El Ejecutivo no suelta a Felipe VI y lo sigue usando como parapeto. La portavoz asegura que las relaciones entre la Moncloa y la Casa Real son «bu...
-
-Date: 2026-09-01
-
-### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
-
-En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"](https://www.20minutos.es/nacional/advertencia-ayuso-2022-que-resurge-tras-polemica-sanchez-con-rey-su-estrategia-es-una-republica-federal-laica_7031532_0.html?utm_source=lootura.com) — 2026-09-01T13:09:34.000Z
-- [El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos](https://www.20minutos.es/nacional/pp-acusa-sanchez-tener-una-estrategia-para-atacar-felipe-vi-no-enfadar-marruecos-fruto-sus-complejos_7031516_0.html?utm_source=lootura.com) — 2026-09-01T12:45:58.000Z
-- [Ketty Garat, muy clara en el análisis de la entrevista de Pedro Sánchez: «El patrón es la tensión»](https://www.abc.es/recreo/ketty-garat-clara-analisis-entrevista-pedro-sanchez-patron-tension-20260901162354-nt.html?utm_source=lootura.com) — 2026-09-01T15:05:44.000Z
-- [Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta](https://www.abc.es/espana/moncloa-trata-exhibir-normalidad-rey-tras-senalarle-20260901135423-nt.html?utm_source=lootura.com) — 2026-09-01T15:00:10.000Z
-- [Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"](https://www.elconfidencial.com/espana/2026-09-01/moncloa-niega-que-pedro-sanchez-criticara-al-rey_4416000/?utm_source=lootura.com) — 2026-09-01T13:50:00.000Z
-- [El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas](https://www.elconfidencial.com/espana/2026-09-01/el-psoe-pide-al-juez-pedraz-que-solo-anticorrupcion-pueda-acceder-a-sus-cuentas_4415782/?utm_source=lootura.com) — 2026-09-01T09:14:00.000Z
-- [El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera](https://www.eldebate.com/espana/20260901/gobierno-atribuye-bulo-derecha-rey-quisiera-ceuta-sanchez-impidiera_454232.html?utm_source=lootura.com) — 2026-09-01T13:38:34.000Z
+- [Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como "acto institucional"](https://www.20minutos.es/madrid/ayuntamiento-madrid-denuncia-que-gobierno-prohibe-concentracion-este-miercoles-cibeles-apoyo-ceuta_7031700_0.html?utm_source=lootura.com) — 2026-09-01T17:51:13.000Z
+- [Bruselas contradice el relato de Sánchez: Moscú intentó "sacar partido" de la crisis de Ceuta, pero no la provocó](https://www.elindependiente.com/espana/2026/09/01/bruselas-contradice-el-relato-de-sanchez-moscu-intento-sacar-partido-de-la-crisis-de-ceuta-pero-no-la-provoco/?utm_source=lootura.com) — 2026-09-01T17:15:53.000Z
 - [El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir](https://amp.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html?utm_source=lootura.com) — 2026-09-01T11:47:08.000Z
-- [Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral](https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html?utm_source=lootura.com) — 2026-09-01T03:30:01.000Z
-- [Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis](https://elpais.com/espana/2026-09-01/sanchez-intenta-bajar-la-presion-prometiendo-una-visita-del-rey-a-ceuta-cuando-se-supere-la-crisis.html?utm_source=lootura.com) — 2026-09-01T03:30:01.000Z
+- [Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre](https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html?utm_source=lootura.com) — 2026-09-01T18:45:17.000Z
+- [Rusia se suma a Israel y carga contra Sánchez por vincularlos con los “bulos” sobre Ceuta](https://elpais.com/espana/2026-09-01/rusia-exige-pruebas-a-pedro-sanchez-y-le-acusa-de-correr-tras-los-microfonos.html?utm_source=lootura.com) — 2026-09-01T13:17:17.000Z
+- [La UE asegura que "no hay pruebas concluyentes" de que la crisis de Ceuta la provocara una campaña de desinformación de Rusia](https://www.eldiario.es/internacional/ue-asegura-no-hay-pruebas-concluyentes-crisis-ceuta-provocara-campana-desinformacion-rusia_1_13480516.html?utm_source=lootura.com) — 2026-09-01T17:18:17.000Z
+- [Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase](https://www.lavanguardia.com/politica/20260901/11624965/bruselas-acusa-rusia-querer-sacar-partido-crisis-ceuta-cree-provocase.html?utm_source=lootura.com) — 2026-09-01T18:08:27.000Z
+- [El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»](https://okdiario.com/espana/lider-psoe-ceuta-pido-todos-socialistas-espana-que-no-hagan-caso-sanchez-vayan-manisfestacion-20211865?utm_source=lootura.com) — 2026-09-01T21:51:58.000Z

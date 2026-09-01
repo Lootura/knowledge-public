@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/british-columbia/index.json",
   "description": "Follow British Columbia, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "B.C.",
     "BC",
@@ -16,6 +16,11 @@
     "Province of British Columbia"
   ],
   "changes": [
+    {
+      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
+      "summary": "A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Fires grip western U.S., British Columbia: \"It doesn't seem like it's real\"",
       "summary": "Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.",
@@ -47,6 +52,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
+      "url": "https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:06:49.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

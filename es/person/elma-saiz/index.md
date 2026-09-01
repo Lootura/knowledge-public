@@ -40,5 +40,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"](https://www.elconfidencial.com/espana/2026-09-01/moncloa-niega-que-pedro-sanchez-criticara-al-rey_4416000/?utm_source=lootura.com) — 2026-09-01T13:50:00.000Z
-- [El Gobierno evita concretar el viaje del Rey a Ceuta y niega «ningún reproche» de Sánchez](https://theobjective.com/espana/politica/2026-09-01/gobierno-viaje-rey-ceuta-sanchez/?utm_source=lootura.com) — 2026-09-01T13:35:58.000Z
+No public source links.

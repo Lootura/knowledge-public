@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara
+
+El Servicio de Acción Exterior (SEAE) de la Unión Europea ha confirmado que, durante la crisis de Ceuta, se identificaron “intentos por parte de Rusia de sacar partido” de la situación a través de las redes sociales, según ha indicado un portavoz en Bruselas. Con todo, puntualiza, no hay “pruebas concluyentes” que apun.
+
+Date: 2026-09-01
 
 ### España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo
 
@@ -62,12 +68,6 @@ Date: 2026-08-13
 
 Date: 2026-08-13
 
-### El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027
-
-El mapa eurovisivo suma un nuevo destino costero a su historial de sedes. Tras un periodo de evaluación técnica donde la candidatura de la capital quedó descartada, la BNT y la Unión Europea de Radiodifusión han formalizado la designación de Burgas como la ciudad encargada de albergar la 71.ª edición del Festival de Eu.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara](https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html?utm_source=lootura.com) — 2026-09-01T17:47:26.000Z

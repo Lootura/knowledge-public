@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma](https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html?utm_source=lootura.com) — 2026-09-01T15:29:56.000Z
+No public source links.

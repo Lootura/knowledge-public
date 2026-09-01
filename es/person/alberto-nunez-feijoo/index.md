@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
 
 El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.
+
+Date: 2026-09-01
+
+### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
+
+PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
 
 Date: 2026-09-01
 
@@ -62,12 +68,7 @@ Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centen
 
 Date: 2026-08-03
 
-### Feijóo recrimina a Sánchez que no pida explicaciones a Marruecos por la “ocupación” de Ceuta
-
-Alberto Núñez Feijóo ha dado un paso más en sus críticas a Pedro Sánchez por la entrada de 50.000 inmigrantes procedecentes del país magrebí a Ceuta. En este sentido, el líder del PP ha recriminado al presidente del Gobierno que no le haya pedido explicaciones a Marruecos por la “ocupación premeditada” y “la ruptura de.
-
-Date: 2026-08-03
-
 ## Fuentes
 
+- [Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»](https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com) — 2026-09-01T18:37:31.000Z
 - [Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»](https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com) — 2026-09-01T14:45:03.000Z

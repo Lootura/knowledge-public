@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "startup funding"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "House passes short-term funding bill to prevent a shutdown before the election",
+      "url": "https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:06:15.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
   "evidenceCount": 0
 }

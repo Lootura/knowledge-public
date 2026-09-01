@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
+      "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Woman killed in Times Square stabbing attack worked for Bank of America",
+      "summary": "The woman who died, Erin Piacenti, 32, was one of two people who were stabbed Monday afternoon in the tourist and theater hub, a few blocks from Bank of America's office tower in New York.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Could an American win men's singles at this year's U.S. Open?",
       "summary": "The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.",
@@ -72,30 +82,20 @@
       "title": "Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern",
       "summary": "Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in New York City, is expected in federal court as sources say he may plea guilty. Legal analyst Joe Tamburino joins with more details about the questions concerning the future of his New York state trial.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
-      "summary": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons",
-      "summary": "The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that onl.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Could an American win men's singles at this year's U.S. Open?",
-      "url": "https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T00:50:06.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation",
+      "url": "https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:09:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Woman killed in Times Square stabbing attack worked for Bank of America",
+      "url": "https://www.pbs.org/newshour/nation/woman-killed-in-times-square-stabbing-attack-worked-for-bank-of-america?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:33:32.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

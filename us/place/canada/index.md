@@ -3,10 +3,34 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada's Labrador Shelf preserves climate records once thought erased by ice
+
+The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the largest ice masses in Earth's history, which once covered vast parts of North America.
+
+Date: 2026-09-01
+
+### Peekaboo island: the floating forest confounding nature watchers in western Canada
+
+A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.
+
+Date: 2026-09-01
+
+### Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks
+
+Amid a trade war, Canada’s Liberals swept three special votes and new polling suggested strong support for Prime Minister Mark Carney and his retaliatory tariffs against the U.S.
+
+Date: 2026-09-01
+
+### Apple Maps follows Google in renaming Lake Ontario
+
+Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg . The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows.
+
+Date: 2026-09-01
 
 ### Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish
 
@@ -44,30 +68,9 @@ Hot and dry conditions are fueling at least 200 major wildfires in the western U
 
 Date: 2026-08-11
 
-### Thousands evacuated as wildfires burn across western U.S. and Canada
-
-Wildfires are burning across the western U.S. and Canada, leaving some residents keeping a wary eye out for possible evacuation orders.
-
-Date: 2026-08-10
-
-### Wildfires in western Canada force more than 20,000 people to evacuate
-
-The Royal Canadian Mounted Police said an 80-year-old woman died while trying to escape a wildfire that forced evacuations in the Okanagan Lake region.
-
-Date: 2026-08-10
-
-### Fires grip western U.S., British Columbia: "It doesn't seem like it's real"
-
-Nearly 100 large wildfires strained firefighting resources around the U.S. this weekend. The fire danger also exploded in Canada amid hot and dry conditions. Gwen Baumgardner reports, and Andrew Kozak has the forecast.
-
-Date: 2026-08-10
-
-### Crews battle wildfires in western U.S. and Canada
-
-There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday. (Image credit: U.S. Forest Service/Fishlake National Forest).
-
-Date: 2026-08-09
-
 ## Sources
 
-No public source links.
+- [Canada's Labrador Shelf preserves climate records once thought erased by ice](https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html?utm_source=lootura.com) — 2026-09-01T21:40:05.000Z
+- [Peekaboo island: the floating forest confounding nature watchers in western Canada](https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com) — 2026-09-01T20:06:49.000Z
+- [Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks](https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html?utm_source=lootura.com) — 2026-09-01T19:47:32.000Z
+- [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming?utm_source=lootura.com) — 2026-09-01T21:22:56.000Z

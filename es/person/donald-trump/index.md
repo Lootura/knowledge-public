@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
+
+Date: 2026-09-01
 
 ### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
 
@@ -62,12 +68,6 @@ El precio supone un récord para la NBA.
 
 Date: 2026-08-12
 
-### Ajenos al fenómeno del siglo: las 25 personas que cambiaron el eclipse por la Feria del Libro Viejo de Santander
-
-La charla del escritor Regino Mateo coincidió con la hora del acontecimiento: "Vamos a intentar eclipsar el eclipse con la cultura y la música" Entrevista - Regino Mateo, biógrafo de Bach: “El bombo me parece el instrumento adecuado para Trump” Dentro de unos años alguien les preguntará ¿dónde estabas el día del eclips.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [La guerra se reinicia en Ormuz y decae la confianza en que Trump afiance su seguridad](https://www.elcorreo.com/internacional/oriente-proximo/guerra-reinicia-ormuz-decae-confianza-trump-afiance-20260831211058-ntrc_amp.html?utm_source=lootura.com) — 2026-08-31T19:10:58.000Z
+- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-01T20:42:07.000Z

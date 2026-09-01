@@ -3,16 +3,10 @@
 > Follow Met Gala, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: event
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/event/met-gala
 
 ## Recent changes
-
-### What to know after John Galliano's Met Gala exhibit canceled
-
-John Galliano's exhibit for the 2027 Met Gala has been canceled after weeks of backlash over his past antisemitic and racist comments. CBS News fashion contributor Lauren Sherman reports.
-
-Date: 2026-09-01
 
 ### Discovered by Atlas
 
@@ -26,6 +20,12 @@ The Metropolitan Museum of Art is canceling exhibit honoring British designer Jo
 
 Date: 2026-09-01
 
+### What to know after John Galliano's Met Gala exhibit canceled
+
+John Galliano's exhibit for the 2027 Met Gala has been canceled after weeks of backlash over his past antisemitic and racist comments. CBS News fashion contributor Lauren Sherman reports.
+
+Date: 2026-09-01
+
 ### News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges
 
 In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.
@@ -34,5 +34,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [What to know after John Galliano's Met Gala exhibit canceled](https://www.cbsnews.com/video/john-gallianos-met-gala-exhibit-canceled/?utm_source=lootura.com) — 2026-09-01T00:42:57.000Z
 - [Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano](https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled?utm_source=lootura.com) — 2026-09-01T05:43:37.000Z

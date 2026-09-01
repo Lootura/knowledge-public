@@ -3,20 +3,38 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.
-
-As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
-
-Date: 2026-09-01
-
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-01
+
+### Europe should adapt, not copy, China’s practical PhD
+
+Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
+
+Date: 2026-09-01
+
+### Germany blames Russia for attempted drone attack at Leipzig airport
+
+Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### A roadmap for animal-free chemical testing
+
+For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of.
+
+Date: 2026-09-01
+
+### Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.
+
+As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
 
 Date: 2026-09-01
 
@@ -50,25 +68,9 @@ Decades of climate change have not left Europe's mountain vegetation unscathed. 
 
 Date: 2026-08-14
 
-### Green roofs can help cool cities in the summer heat, but building them is only the first step. Many don't survive
-
-As summer temperatures soar across the United States and Europe, cities are being forced to confront the difficult reality that they're getting dangerously hot.
-
-Date: 2026-08-14
-
-### More Wildfires and Extreme Heat Roil Europe, but Relief Is on the Horizon
-
-Another day of near record heat baked the continent on Friday, but temperatures could retreat to seasonal averages in the coming days.
-
-Date: 2026-08-14
-
-### As Europe Gets Hotter, Its Transportation Systems Struggle to Cope
-
-The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.](https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html?utm_source=lootura.com) — 2026-09-01T10:59:16.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T13:30:10.000Z
+- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-01T22:22:32.693Z
+- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
+- [A roadmap for animal-free chemical testing](https://phys.org/news/2026-09-roadmap-animal-free-chemical.html?utm_source=lootura.com) — 2026-09-01T21:40:02.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z

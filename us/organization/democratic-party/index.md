@@ -3,10 +3,28 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Affordability is the centerpiece of Democrats' message in Pennsylvania swing district
+
+A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.
+
+Date: 2026-09-01
+
+### House adopts resolution condemning socialism, with 8 Democrats joining Republicans
+
+GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.
+
+Date: 2026-09-01
+
+### A N.Y. hospital tried to close its birthing center. This city united to fight back
+
+Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).
+
+Date: 2026-09-01
 
 ### Trump calls for federal tax incentives to benefit TV and movie industry
 
@@ -17,12 +35,6 @@ Date: 2026-09-01
 ### A NY hospital tried to close its birthing center. This city united to fight back
 
 Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).
-
-Date: 2026-09-01
-
-### Affordability is the centerpiece of Democrats' message in Pennsylvania swing district
-
-A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.
 
 Date: 2026-09-01
 
@@ -56,20 +68,8 @@ Rep. Mike Flood (R-Neb.) joins Meet the Press NOW to discuss his re-election cam
 
 Date: 2026-08-14
 
-### Democrats grapple with Trump's push to limit transparency within the executive branch
-
-President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.
-
-Date: 2026-08-14
-
-### South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman
-
-Representative Rashida Tlaib was supposed to headline an event called “Chomp the Oligarchy” for three candidates for Congress who face Jewish Democrats in Tuesday’s primary.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Trump calls for federal tax incentives to benefit TV and movie industry](https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com) — 2026-09-01T02:03:18.000Z
-- [A NY hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+- [House adopts resolution condemning socialism, with 8 Democrats joining Republicans](https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/?utm_source=lootura.com) — 2026-09-01T21:53:00.000Z
+- [A N.Y. hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [Affordability is the centerpiece of Democrats' message in Pennsylvania swing district](https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district?utm_source=lootura.com) — 2026-09-01T08:46:53.000Z

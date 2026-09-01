@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T13:03:33.343Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”",
+      "summary": "“Ojalá no nos lo hubieran dicho”. El martes a las siete de la mañana, un grupo de mujeres migrantes se presentó en una de las naves del Polígono de El Tarajal de Ceuta en las que trabajaban agentes de Policía Nacional a decirles que un empleado de seguridad les había avisado de que el jueves a mediodía ya no podían seg.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Niñas marroquíes de 11 años duermen en un polígono de Ceuta: «Mis padres me mandaron sola a España»",
       "summary": "El polígono de El Tarajal se ha convertido en el refugio de los inmigrantes que no caben en los centros de acogida de Ceuta y que no quieren regresar a Marruecos . OKDIARIO ha recorrido la zona y ha encontrado una realidad que estremece: menores de 11 años durmiendo entre cartones , solos, sin familia y sin ningún tipo.",
@@ -55,13 +60,15 @@
       "title": "Ceuta recobra parte de la calma en medio de la tensión política",
       "summary": "Ceuta ha recobrado parte de la calma robada con la entrada multitudinaria de miles de marroquíes en una crisis de cifras inéditas . Por las calles del centro y cerca de la frontera de El Tarajal todavía se veían este sábado jóvenes con bolsas deambulando de un lado para otro, pero en grupos mucho menos numerosos que en.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "La desgracia sumergida en la frontera de Ceuta: “Hay más muertos en el mar”",
-      "summary": "En pequeños racimos, debajo de un agua cristalina, se ven las siluetas de cuerpos sumergidos muy cerca de la frontera de El Tarajal en Ceuta . Dos de ellos están cogidos de la mano. Son la desgracia sumergida, y todavía por conocer, que ha dejado el cruce multitudinario de personas desde Marruecos de esta semana y de l.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”",
+      "url": "https://elpais.com/espana/2026-09-01/nervios-y-miedo-entre-familias-migrantes-acampadas-en-las-calles-de-ceuta-damos-vueltas-para-encontrar-donde-dormir.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T19:06:18.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

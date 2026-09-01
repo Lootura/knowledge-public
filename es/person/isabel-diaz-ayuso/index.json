@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, no ha tardado en responder a la decisión de la Delegación del Gobierno en Madrid de no autorizar la concentración de apoyo a Ceuta de este miércoles, salvo que sea convocada «bajo la consideración de acto institucional o que la convoque un particular» «No tien.",
+      "date": "2026-09-01"
+    },
     {
       "title": "La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: \"Su estrategia es una Republica Federal Laica\"",
       "summary": "\"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto\". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.",
@@ -59,19 +64,14 @@
       "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
       "summary": "El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: \"Es un juguete roto\"",
-      "summary": "Luis Arroyo cree que la polémica por el ático de Chamberí ha colocado a Isabel Díaz Ayuso ante una de las crisis políticas más difíciles de su trayectoria. El analista aprovechó este sábado su intervención en Malas Lenguas Noche para cargar contra la gestión del Gobierno madrileño y recuperar un episodio que sigue pesa.",
-      "date": "2026-08-09"
     }
   ],
   "sources": [
     {
-      "title": "La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: \"Su estrategia es una Republica Federal Laica\"",
-      "url": "https://www.20minutos.es/nacional/advertencia-ayuso-2022-que-resurge-tras-polemica-sanchez-con-rey-su-estrategia-es-una-republica-federal-laica_7031532_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:09:34.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»",
+      "url": "https://okdiario.com/espana/mensaje-ayuso-delegado-del-gobierno-madrid-no-tiene-narices-mandarnos-antidisturbios-20211518?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T19:52:44.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### DHS Secretary Mullin says thousands arrested in New York immigration operation
+
+During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
+
+Date: 2026-09-01
+
+### Woman killed in Times Square stabbing attack worked for Bank of America
+
+The woman who died, Erin Piacenti, 32, was one of two people who were stabbed Monday afternoon in the tourist and theater hub, a few blocks from Bank of America's office tower in New York.
+
+Date: 2026-09-01
 
 ### Could an American win men's singles at this year's U.S. Open?
 
@@ -56,19 +68,7 @@ Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson i
 
 Date: 2026-08-14
 
-### John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98
-
-Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.
-
-Date: 2026-08-14
-
-### ‘I’ve never done anything like this in my life’: Marina Abramović on making art with balloons
-
-The artist’s latest swerve sees her creating an alien inflatable landscape for New York’s Balloon Museum Oversized inflatable blades of grass graze my face as I wind a path through the glowing white gallery space. Little papery squares of snow blow, some sticking to my hair. The path through the room curves so that onl.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Could an American win men's singles at this year's U.S. Open?](https://www.cbsnews.com/video/could-an-american-win-mens-singles-at-this-years-us-open/?utm_source=lootura.com) — 2026-09-01T00:50:06.000Z
-- [A NY hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+- [WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation](https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com) — 2026-09-01T18:09:50.000Z
+- [Woman killed in Times Square stabbing attack worked for Bank of America](https://www.pbs.org/newshour/nation/woman-killed-in-times-square-stabbing-attack-worked-for-bank-of-america?utm_source=lootura.com) — 2026-09-01T18:33:32.000Z

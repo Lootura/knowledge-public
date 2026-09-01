@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, no ha tardado en responder a la decisión de la Delegación del Gobierno en Madrid de no autorizar la concentración de apoyo a Ceuta de este miércoles, salvo que sea convocada «bajo la consideración de acto institucional o que la convoque un particular» «No tien.
+
+Date: 2026-09-01
 
 ### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
 
@@ -62,12 +68,6 @@ El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo
 
 Date: 2026-08-09
 
-### Luis Arroyo recuerda cómo acabó Casado y sentencia a Ayuso por el ático: "Es un juguete roto"
-
-Luis Arroyo cree que la polémica por el ático de Chamberí ha colocado a Isabel Díaz Ayuso ante una de las crisis políticas más difíciles de su trayectoria. El analista aprovechó este sábado su intervención en Malas Lenguas Noche para cargar contra la gestión del Gobierno madrileño y recuperar un episodio que sigue pesa.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"](https://www.20minutos.es/nacional/advertencia-ayuso-2022-que-resurge-tras-polemica-sanchez-con-rey-su-estrategia-es-una-republica-federal-laica_7031532_0.html?utm_source=lootura.com) — 2026-09-01T13:09:34.000Z
+- [El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»](https://okdiario.com/espana/mensaje-ayuso-delegado-del-gobierno-madrid-no-tiene-narices-mandarnos-antidisturbios-20211518?utm_source=lootura.com) — 2026-09-01T19:52:44.000Z

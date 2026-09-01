@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy
+
+El mercado de fichajes llega a su fin este martes. A las 00:00 horas del 2 de septiembre no se podrán hacer más operaciones. Es decir, hasta las 23:59 horas de este martes los clubes podrán fichar e inscribir a jugadores en sus plantillas . Sigue en OKDIARIO todo lo que suceda en las últimas horas del mercado, con info.
+
+Date: 2026-09-01
+
+### Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos
+
+El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.
+
+Date: 2026-09-01
 
 ### Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»
 
@@ -56,19 +68,7 @@ En momentos de incertidumbre Sandra Iglesias (Barcelona, 1973) se aferra a un re
 
 Date: 2026-08-31
 
-### Los bomberos dan por estabilizado el incendio de Collserola (Barcelona)
-
-Los bomberos han dado por estabilizado el incendio forestal que se ha declarado sobre las 15.40 horas de este viernes en una zona próxima a la avenida Pearson de Barcelona y que ha calcinado unas 10 hectáreas de terreno forestal de la sierra de Collserola. Así lo ha comunicado el tercer teniente de alcalde de Barcelona.
-
-Date: 2026-08-14
-
-### Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización
-
-Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»](https://okdiario.com/deportes/laporta-hace-portavoz-martin-presa-verguenza-lo-que-estan-haciendo-rayo-20210031?utm_source=lootura.com) — 2026-09-01T15:52:55.000Z
-- [El Barça ficha al delantero brasileño Gabriel Jesús, procedente del Arsenal inglés](https://theobjective.com/deportes/futbol/2026-09-01/barca-ficha-gabriel-jesus/?utm_source=lootura.com) — 2026-09-01T14:15:00.000Z
+- [Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy](https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com) — 2026-09-01T21:21:22.000Z
+- [Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos](https://okdiario.com/deportes/gimenez-casado-son-bombas-del-cierre-del-mercado-fichajes-fofana-llega-sevilla-betis-aguanta-ceballos-20211564/amp?utm_source=lootura.com) — 2026-09-01T22:13:39.000Z

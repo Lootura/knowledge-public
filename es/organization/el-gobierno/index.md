@@ -3,10 +3,52 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
+
+El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.
+
+Date: 2026-09-01
+
+### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
+
+En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
+
+Date: 2026-09-01
+
+### Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig
+
+El Gobierno alemán ha señalado formalmente este martes a Rusia como responsable de un ataque con drones bomba en el aeropuerto de Leipzig. Pocos dudaban de la posible autoría rusa del atentado fallido del 4 de agosto que tenía como objetivo aviones de carga ucranios . Por la gravedad de la acusación, el Ejecutivo feder.
+
+Date: 2026-09-01
+
+### Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta
+
+El Gobierno ha anunciado que ya hay disponibles más de 3.400 nuevas plazas para acoger a inmigrantes en Ceuta . Además, el Ejecutivo ha cifrado en 3.519 los migrantes retornados hasta este lunes 31 de agosto desde la ciudad autónoma a Marruecos , en 214 los que han sido expulsados y ha aclarado que son 1.612 los menore.
+
+Date: 2026-09-01
+
+### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
+
+El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
+
+Date: 2026-09-01
+
+### Guerra híbrida contra Europa
+
+“No estamos en guerra, pero tampoco ya en paz”, advierte desde hace meses Friedrich Merz. Podría parecer una afirmación exagerada o alarmista. No lo es. El Gobierno alemán acusó este martes a Moscú de estar detrás del ataque con drones en el aeropuerto de Leipzig el 4 de agosto pasado, y certificó así el diagnóstico de.
+
+Date: 2026-09-01
+
+### El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta
+
+El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.
+
+Date: 2026-09-01
 
 ### Aprobadas bonificaciones permanentes en Sociedades e IRPF para Ceuta y Melilla en un bloque de 309 millones
 
@@ -26,57 +68,12 @@ El Gobierno trata de exhibir normalidad con Zarzuela después de que Pedro Sánc
 
 Date: 2026-09-01
 
-### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
-
-El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
-
-Date: 2026-09-01
-
-### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
-
-El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.
-
-Date: 2026-09-01
-
-### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
-
-El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
-
-Date: 2026-09-01
-
-### El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera
-
-​El Ejecutivo no suelta a Felipe VI y lo sigue usando como parapeto. La portavoz asegura que las relaciones entre la Moncloa y la Casa Real son «bu...
-
-Date: 2026-09-01
-
-### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
-
-En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
-
-Date: 2026-09-01
-
-### Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig
-
-El Gobierno alemán ha señalado formalmente este martes a Rusia como responsable de un ataque con drones bomba en el aeropuerto de Leipzig. Pocos dudaban de la posible autoría rusa del atentado fallido del 4 de agosto que tenía como objetivo aviones de carga ucranios . Por la gravedad de la acusación, el ejecutivo feder.
-
-Date: 2026-09-01
-
-### El Gobierno extiende el Abono Único a la red de transporte autonómico y local
-
-El Ministerio de Transportes extiende el abono a redes de transporte autonómicas y municipales que quieran sumarse, con una opción más barata para jóvenes Puente presenta en Madrid los nuevos trenes de Cercanías, prueba del algodón frente a un historial de retrasos El Ministerio de Transportes y Movilidad Sostenible ha.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Aprobadas bonificaciones permanentes en Sociedades e IRPF para Ceuta y Melilla en un bloque de 309 millones](https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-aprueba-bonificaciones-permanentes-sociedades-irpf-para-ceuta-melilla-un-paquete-309-millones_7031491_0.html?utm_source=lootura.com) — 2026-09-01T11:39:55.000Z
-- [El Gobierno habilita parcelas del puerto, terrenos de Vivienda y un cuartel para la acogida](https://www.20minutos.es/nacional/gobierno-habilita-parcelas-puerto-terrenos-vivienda-un-cuartel-para-acogida-inmigrantes-ceuta_7031505_0.html?utm_source=lootura.com) — 2026-09-01T12:00:23.000Z
-- [Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta](https://www.abc.es/espana/moncloa-trata-exhibir-normalidad-rey-tras-senalarle-20260901135423-nt.html?utm_source=lootura.com) — 2026-09-01T15:00:10.000Z
-- [El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos](https://www.abc.es/economia/gobierno-nombra-leire-iglesias-secretaria-estado-vivienda-20260901164938-nt.html?utm_source=lootura.com) — 2026-09-01T15:16:58.000Z
 - [Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas](https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com) — 2026-09-01T15:31:23.000Z
-- [El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta](https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html?utm_source=lootura.com) — 2026-09-01T12:48:35.000Z
-- [El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera](https://www.eldebate.com/espana/20260901/gobierno-atribuye-bulo-derecha-rey-quisiera-ceuta-sanchez-impidiera_454232.html?utm_source=lootura.com) — 2026-09-01T13:38:34.000Z
+- [Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig](https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html?utm_source=lootura.com) — 2026-09-01T16:42:24.000Z
+- [Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta](https://www.elconfidencial.com/espana/2026-09-01/moncloa-anuncia-3-400-nuevas-plazas-para-acoger-migrantes_4416131/?utm_source=lootura.com) — 2026-09-01T16:33:00.000Z
 - [El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir](https://amp.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html?utm_source=lootura.com) — 2026-09-01T11:47:08.000Z
-- [Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig](https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html?utm_source=lootura.com) — 2026-09-01T15:41:43.000Z
-- [El Gobierno extiende el Abono Único a la red de transporte autonómico y local](https://www.eldiario.es/economia/gobierno-extiende-abono-unico-red-transporte-autonomico-local_1_13478896.html?utm_source=lootura.com) — 2026-09-01T10:07:06.000Z
+- [El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta](https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html?utm_source=lootura.com) — 2026-09-01T12:48:35.000Z
+- [Guerra híbrida contra Europa](https://elpais.com/opinion/2026-09-01/guerra-hibrida-contra-europa.html?utm_source=lootura.com) — 2026-09-01T19:15:51.000Z
+- [El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta](https://www.eldiario.es/madrid/somos/delegacion-gobierno-madrid-pide-ayuntamiento-convoque-protesta-ceuta-acto-institucional-autorizarla_1_13480691.html?utm_source=lootura.com) — 2026-09-01T18:30:37.000Z

@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z

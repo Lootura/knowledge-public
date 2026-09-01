@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/tim-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/tim-cook/index.json",
   "description": "Sigue la actividad de Tim Cook en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-01T22:22:06.366Z",
   "aliases": [
     "Tim Apple"
   ],
   "changes": [
     {
-      "title": "A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA",
-      "summary": "Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.",
+      "title": "Discovered by Atlas",
+      "summary": "Tim Cook first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Tim Cook first entered the public knowledge record with source-backed evidence.",
+      "title": "Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook",
+      "summary": "Si Steve Jobs ya ha pasado a la historia como mito a secas , sin que haga falta ponerle adjetivos a su figura; Tim Cook abandona los mandos de Apple como la máquina perfecta de ganar dinero que heredó. Pese a los años y los rivales que han caído en el camino, la manzana mordida acumula aún beneficios récord. Desde este.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA",
+      "summary": "Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.",
       "date": "2026-09-01"
     },
     {
@@ -34,6 +39,13 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook",
+      "url": "https://elpais.com/economia/2026-09-01/ternus-toma-el-mando-en-apple-entre-la-leyenda-de-jobs-y-la-maquina-de-ganar-de-dinero-de-cook.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:12:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

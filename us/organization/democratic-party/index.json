@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
+      "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
+      "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
+      "summary": "Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
+      "date": "2026-09-01"
+    },
     {
       "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
       "summary": "The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.",
@@ -21,11 +36,6 @@
     {
       "title": "A NY hospital tried to close its birthing center. This city united to fight back",
       "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
-      "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
       "date": "2026-09-01"
     },
     {
@@ -52,27 +62,17 @@
       "title": "House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries",
       "summary": "Rep. Mike Flood (R-Neb.) joins Meet the Press NOW to discuss his re-election campaign in a district Democrats are eyeing as a possible pickup.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
-      "summary": "President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "South Florida Venue Cancels Rally With a Pro-Palestinian Congresswoman",
-      "summary": "Representative Rashida Tlaib was supposed to headline an event called “Chomp the Oligarchy” for three candidates for Congress who face Jewish Democrats in Tuesday’s primary.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-federal-tax-incentives-benefit-tv-movie-industry-rcna595456?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T02:03:18.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
+      "url": "https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T21:53:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+      "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
       "url": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com",
       "publishedAt": "2026-09-01T09:00:00.000Z",
       "sourceId": "lootura-us-npr"

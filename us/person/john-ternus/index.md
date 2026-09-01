@@ -3,10 +3,22 @@
 > Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-01T22:22:28.371Z
 - Canonical: https://atlas.lootura.com/us/person/john-ternus
 
 ## Recent changes
+
+### Discovered by Atlas
+
+John Ternus first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company
+
+Ternus faces challenges that will force him to step outside his comfort zone in hardware engineering.
+
+Date: 2026-09-01
 
 ### John Ternus is Apple's new CEO, replacing Tim Cook
 
@@ -20,13 +32,6 @@ John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPh
 
 Date: 2026-09-01
 
-### Discovered by Atlas
-
-John Ternus first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [John Ternus is Apple's new CEO, replacing Tim Cook](https://www.cbsnews.com/video/this-is-apples-new-ceo/?utm_source=lootura.com) — 2026-09-01T15:00:28.000Z
-- [John Ternus takes over as Apple’s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook?utm_source=lootura.com) — 2026-09-01T13:28:43.000Z
+- [Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company](https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com) — 2026-09-01T22:06:30.000Z

@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio](https://theobjective.com/sanidad/2026-09-01/madrid-reduce-pacientes-listas-de-espera/?utm_source=lootura.com) — 2026-09-01T13:14:06.000Z
+No public source links.

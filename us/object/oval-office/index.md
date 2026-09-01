@@ -64,4 +64,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [What Trump's Most-Favored-Nation Deal Means for Drug Prices](https://time.com/article/2026/09/01/what-trump-most-favored-nation-deal-means-for-drug-prices/?utm_source=lootura.com) — 2026-09-01T12:09:16.000Z
+No public source links.

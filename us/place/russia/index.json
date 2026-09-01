@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-01T22:22:28.371Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,21 @@
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Send your questions for Richard Engel on Ukraine and more",
+      "summary": "Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. Russia said Germany had provided no evidence.",
       "date": "2026-09-01"
     },
     {
@@ -51,36 +66,33 @@
       "title": "Russian drones kill a woman and 9-year-old son at home as Ukrainian civilian casualties surge",
       "summary": "This attack comes after the United Nations reported that July was the deadliest month for Ukrainian civilians since the early weeks of Russia's invasion.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-      "summary": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-      "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
+      "title": "Send your questions for Richard Engel on Ukraine and more",
+      "url": "https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T17:57:01.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "url": "https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:58:15.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:30:10.000Z",
+      "publishedAt": "2026-09-01T21:57:53.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
-      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
-      "url": "https://time.com/article/2026/09/01/trump-defends-hosting-russia-g20-european-disapproval-ukraine-war/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:04:14.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T18:22:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

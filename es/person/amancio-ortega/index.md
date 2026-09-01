@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [La reflexión de Amancio Ortega (90 años) sobre su vida: «No tenía tiempo para estudiar porque trabajaba las 24 horas del día»](https://okdiario.com/economia/reflexion-amancio-ortega-90-anos-sobre-vida-no-tenia-tiempo-estudiar-porque-trabajaba-24-horas-del-dia-20208116?utm_source=lootura.com) — 2026-09-01T16:00:04.000Z
+No public source links.

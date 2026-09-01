@@ -3,20 +3,26 @@
 > Sigue la actividad de Tim Cook en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-01T22:22:06.366Z
 - Canonical: https://atlas.lootura.com/es/person/tim-cook
 
 ## Cambios recientes
 
-### A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA
-
-Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.
-
-Date: 2026-09-01
-
 ### Discovered by Atlas
 
 Tim Cook first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook
+
+Si Steve Jobs ya ha pasado a la historia como mito a secas , sin que haga falta ponerle adjetivos a su figura; Tim Cook abandona los mandos de Apple como la máquina perfecta de ganar dinero que heredó. Pese a los años y los rivales que han caído en el camino, la manzana mordida acumula aún beneficios récord. Desde este.
+
+Date: 2026-09-01
+
+### A Ternus se le pide un nuevo artilugio milagroso, pero la clave de Apple sigue estando en la IA
+
+Tras 15 años como timonel y superada la dificilísima comparativa con Steve Jobs, Tim Cook abandona la primera línea de Apple con una paradoja a cuestas. Cede las riendas de una compañía formidablemente rica y estupendamente engrasada justo cuando la industria que ayudó a construir muta hacia un nuevo hábitat. John Tern.
 
 Date: 2026-09-01
 
@@ -34,4 +40,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-No public source links.
+- [Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook](https://elpais.com/economia/2026-09-01/ternus-toma-el-mando-en-apple-entre-la-leyenda-de-jobs-y-la-maquina-de-ganar-de-dinero-de-cook.html?utm_source=lootura.com) — 2026-09-01T18:12:00.000Z
