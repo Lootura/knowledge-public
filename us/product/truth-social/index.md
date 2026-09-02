@@ -3,7 +3,7 @@
 > Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/product/truth-social
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-No public source links.
+- [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com) — 2026-09-02T21:22:50.000Z

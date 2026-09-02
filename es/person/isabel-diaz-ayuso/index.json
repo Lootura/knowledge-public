@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "Ayuso",
     "Isabel",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
-      "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
+      "title": "Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta",
+      "summary": "El entorno de Isabel Díaz Ayuso ha reconocido por primera vez este miércoles a EL PAÍS que la presidenta sí visitó el ático de lujo por el que el Gobierno regional pagó 6,3 millones de euros, pero aclara que lo hizo después de que se ejecutara su compra, nunca antes. Según esta versión, Ayuso meditaba trasladar aquí su.",
       "date": "2026-09-02"
     },
     {
-      "title": "Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta",
-      "summary": "El entorno de Isabel Díaz Ayuso ha reconocido por primera vez este miércoles a EL PAÍS que la presidenta sí visitó el ático de lujo por el que el Gobierno regional pagó 6,3 millones de euros, pero aclara que lo hizo después de que se ejecutara su compra, nunca antes. Según esta versión, Ayuso meditaba trasladar aquí su.",
+      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
+      "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
       "date": "2026-09-02"
     },
     {
@@ -72,13 +72,7 @@
       "url": "https://elpais.com/espana/madrid/2026-09-02/el-gobierno-de-ayuso-reconoce-que-la-presidenta-o-alguien-de-su-equipo-visito-el-atico-antes-de-comprarlo-obvio.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T12:41:25.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
-      "url": "https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:23:33.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

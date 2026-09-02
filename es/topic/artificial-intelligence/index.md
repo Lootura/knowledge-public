@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto](https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:15.000Z
+- [Google lanza Gemini 3.8 Flash, su IA más inteligente para programar](https://hipertextual.com/inteligencia-artificial/gemini-3-8-flash-cyber-google/?utm_source=lootura.com) — 2026-09-02T18:47:33.000Z

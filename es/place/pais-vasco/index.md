@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-13
 ## Fuentes
 
 - [Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco](https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com) — 2026-09-02T15:25:38.000Z
-- [Jesús Calleja se apunta al ‘farmeo de aura’ y el momento se convierte en viral: ¿y tú, eres un experto o todavía estás en prácticas?](https://okdiario.com/cool/famosos/jesus-calleja-apunta-farmeo-aura-momento-convierte-viral-tu-eres-experto-o-todavia-estas-practicas-20215461?utm_source=lootura.com) — 2026-09-02T18:30:36.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -57,10 +57,10 @@
   ],
   "sources": [
     {
-      "title": "Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto",
-      "url": "https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:36:15.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Google lanza Gemini 3.8 Flash, su IA más inteligente para programar",
+      "url": "https://hipertextual.com/inteligencia-artificial/gemini-3-8-flash-cyber-google/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:47:33.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
   "evidenceCount": 0

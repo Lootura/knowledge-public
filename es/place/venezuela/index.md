@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto](https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:15.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [US and Iran Trade New Strikes as the War Enters its 7th Month](https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com) — 2026-09-02T11:17:56.000Z
 - [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z

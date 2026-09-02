@@ -3,7 +3,7 @@
 > Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/person/seth-moulton
 
 ## Recent changes
@@ -52,4 +52,5 @@ Date: 2026-09-01
 
 ## Sources
 
+- [Kornacki: How Democratic incumbents survived primary challenges in Massachusetts](https://www.nbcnews.com/meet-the-press/video/kornacki-how-democratic-incumbents-survived-primary-challenges-in-massachusetts-269240389556?utm_source=lootura.com) — 2026-09-02T21:04:44.000Z
 - [Massachusetts Sen. Markey wins primary over opponent who called for generational change](https://www.pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change?utm_source=lootura.com) — 2026-09-02T16:18:42.000Z

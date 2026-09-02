@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-09-02
 ### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
 
 In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
+
+Date: 2026-09-02
+
+### Progressive Senate candidates rack up primary wins even as they get outspent
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-09-02
 
@@ -62,14 +68,9 @@ President Donald Trump speaks in the Oval Office of the White House on Aug. 31, 
 
 Date: 2026-09-01
 
-### Army Secretary Dan Driscoll is stepping down, White House says
-
-Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Trump invites battleground Republicans to Rose Garden dinner](https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406?utm_source=lootura.com) — 2026-09-02T13:32:27.000Z
+- [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com) — 2026-09-02T21:22:50.000Z
+- [Progressive Senate candidates rack up primary wins even as they get outspent](https://www.nbcnews.com/politics/politics-news/progressive-senate-candidates-rack-primary-wins-even-get-outspent-rcna595769?utm_source=lootura.com) — 2026-09-02T21:05:45.000Z
 - [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z
 - [Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com) — 2026-09-02T14:47:31.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto](https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:15.000Z
 - [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T18:36:07.000Z
-- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de La Policía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/person/la-policia
 
 ## Cambios recientes
@@ -29,6 +29,12 @@ Date: 2026-09-02
 ### La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria
 
 « La finalidad migratoria opera solo como una cobertura formal que sirve para fomentar, impulsar y dirigir un flujo masivo de personas a la frontera de Ceuta », concluye el informe que el Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía Nacional . El documento en poder de la juez de la Audiencia Naciona.
+
+Date: 2026-09-02
+
+### La Policía dispersa con pelotas de goma la concentración por Ceuta frente al Congreso
+
+Cientos de ceutíes residentes en Madrid se han reunido frente al Congreso de los Diputados este miércoles. Allí han exigido «soluciones inmediatas» al.
 
 Date: 2026-09-02
 
@@ -62,15 +68,10 @@ La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a do
 
 Date: 2026-09-01
 
-### La Policía ha expulsado desde el cruce masivo a 214 marroquíes: tres con antecedentes por yihadismo
-
-Desde el cruce masivo durante los días 30 y 31 de julio, por el que entraron en Ceuta más de 70.000 personas, han sido expulsados a Marruecos 214 inmigrantes por delinquir, según un informe del Ministerio del Interior. Fuentes policiales detallan que tres de los expulsados contaban con antecedentes por delitos relacion.
-
-Date: 2026-09-01
-
 ## Fuentes
 
 - [Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"](https://www.eldiario.es/politica/miles-ciudadanos-salen-calle-apoyo-ceuta-gestion-gobierno-sanchez-traidor_1_13482914.html?utm_source=lootura.com) — 2026-09-02T17:50:14.000Z
 - [La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta](https://www.eldiario.es/politica/policia-analiza-imagenes-redes-sociales-apuntar-posible-participacion-agentes-marroquies-asalto-ceuta_1_13482964.html?utm_source=lootura.com) — 2026-09-02T15:43:57.000Z
+- [La Policía dispersa con pelotas de goma la concentración por Ceuta frente al Congreso](https://theobjective.com/espana/2026-09-02/policia-dispersa-pelotas-de-goma-concentracion-ceuta-frente-congreso/?amp=&utm_source=lootura.com) — 2026-09-02T21:46:14.000Z
 - [La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»](https://theobjective.com/espana/2026-09-02/policia-complicidad-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:58:44.000Z
 - [La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria](https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com) — 2026-09-02T18:22:21.000Z

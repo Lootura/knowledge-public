@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -78,23 +78,11 @@
   ],
   "sources": [
     {
-      "title": "Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto",
-      "url": "https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:36:15.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca",
       "url": "https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:36:07.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
-      "url": "https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T08:06:24.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

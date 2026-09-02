@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy?utm_source=lootura.com) — 2026-09-02T18:48:14.000Z
+No public source links.

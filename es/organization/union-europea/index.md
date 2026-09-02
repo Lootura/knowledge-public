@@ -3,14 +3,14 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
 
 ### Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta
 
-Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea mientras sonaba por los altavoces «Ceuta no se vende y Ceuta no tiene dueño».
+Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea y la Ertzaintza ha desplegado un importante dispositivo.
 
 Date: 2026-09-02
 

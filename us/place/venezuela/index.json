@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -18,6 +18,16 @@
     {
       "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
       "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’",
+      "summary": "Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+      "summary": "Oil giant Chevron confirmed that it will expand operations in Venezuela after President Donald Trump announced an ambitious deal to develop the nation's oil reserves and give the Pentagon a stake in the profits.",
       "date": "2026-09-02"
     },
     {
@@ -54,16 +64,6 @@
       "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
       "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Aid worker describes crisis in Venezuela, one month after devastating earthquakes",
-      "summary": "Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
-      "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.",
-      "date": "2026-07-24"
     }
   ],
   "sources": [
@@ -74,11 +74,23 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T20:42:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+      "url": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:39:57.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
       "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T16:20:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Fragmento del día: Corea del Norte
+
+Corea del Norte afirma que ha detonado una bomba de hidrógeno, equivalente a unos 100 kilotones de TNT. El Servicio Geológico de los Estados Unidos informó de un terremoto de 6.3 magnitud, no lejos del sitio de prueba nuclear de Punggye-ri.
+
+Date: 2026-09-03
 
 ### Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal
 
@@ -20,15 +26,15 @@ El mundo cada vez está más endeudado y el señor mercado se empieza a poner ne
 
 Date: 2026-09-02
 
-### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
-
-Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
-
-Date: 2026-09-02
-
 ### Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno
 
 La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.
+
+Date: 2026-09-02
+
+### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
+
+Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
 
 Date: 2026-09-02
 
@@ -62,15 +68,9 @@ Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condol
 
 Date: 2026-09-01
 
-### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
-
-La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.
-
-Date: 2026-09-01
-
 ## Fuentes
 
 - [Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal](https://elpais.com/economia/2026-09-02/victoria-para-google-en-los-tribunales-el-gigante-evita-la-particion-de-su-negocio-principal.html?utm_source=lootura.com) — 2026-09-02T15:48:49.000Z
 - [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T16:12:17.000Z
-- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
+- [Fragmento del día: Corea del Norte](https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com) — 2026-09-03T04:00:00.000Z
 - [Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno](https://theobjective.com/internacional/2026-09-02/sheinbaum-acusa-eeuu-usar-tacticas-injerencia-dividir-gobierno/?amp=&utm_source=lootura.com) — 2026-09-02T15:44:08.000Z

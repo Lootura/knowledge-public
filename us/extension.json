@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T19:32:13.342Z",
+  "generatedAt": "2026-09-02T22:34:39.567Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|155|1788376569956",
+    "signature": "1.18.0|156|1788387670846",
     "version": "1.18.0",
-    "build": 155,
-    "latestEntityUpdatedAt": "2026-09-02T19:16:09.956Z"
+    "build": 156,
+    "latestEntityUpdatedAt": "2026-09-02T22:21:10.846Z"
   },
   "atlas": {
     "hero": {
@@ -20,36 +20,36 @@
       "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
       "url": "https://atlas.lootura.com/us/place/china",
       "path": "/us/place/china",
-      "updatedAt": "2026-09-02T19:16:09.956Z",
-      "score": 1656,
+      "updatedAt": "2026-09-02T22:21:10.846Z",
+      "score": 1651,
       "sourceCount": 83,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-venezuela",
+        "name": "Venezuela",
         "type": "place",
-        "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-09-02T19:16:09.956Z",
-        "score": 1639,
-        "sourceCount": 432,
+        "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+        "url": "https://atlas.lootura.com/us/place/venezuela",
+        "path": "/us/place/venezuela",
+        "updatedAt": "2026-09-02T22:21:10.846Z",
+        "score": 1650,
+        "sourceCount": 21,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
-        "type": "place",
-        "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-09-02T19:16:09.956Z",
-        "score": 1639,
-        "sourceCount": 854,
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-09-02T22:21:10.846Z",
+        "score": 1645,
+        "sourceCount": 49,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "Trump to Nominate Hung Cao as Navy Secretary",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-02T19:16:09.956Z",
-        "score": 1628,
-        "sourceCount": 826,
+        "updatedAt": "2026-09-02T22:21:10.846Z",
+        "score": 1642,
+        "sourceCount": 829,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-white-house",
-        "name": "White House",
-        "type": "organization",
-        "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
-        "url": "https://atlas.lootura.com/us/organization/white-house",
-        "path": "/us/organization/white-house",
-        "updatedAt": "2026-09-02T19:16:09.956Z",
-        "score": 1620,
-        "sourceCount": 153,
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "Exploring U.S. Open food trends, beyond the Honey Deuce",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-09-02T22:21:10.846Z",
+        "score": 1642,
+        "sourceCount": 860,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 179
+    "publicEntityCount": 180
   }
 }

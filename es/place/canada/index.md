@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
+No public source links.

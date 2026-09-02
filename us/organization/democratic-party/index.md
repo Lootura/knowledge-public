@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?
 
 For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.
+
+Date: 2026-09-02
+
+### House Democrats block constitutional amendment to lock Supreme Court at 9 justices
+
+The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.
 
 Date: 2026-09-02
 
@@ -62,12 +68,7 @@ The proposal was quickly embraced by Democrats, particularly in California, who 
 
 Date: 2026-09-01
 
-### Tamara Keith and Amy Walter on Trump's midterm influence
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
-
-Date: 2026-08-31
-
 ## Sources
 
+- [House Democrats block constitutional amendment to lock Supreme Court at 9 justices](https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com) — 2026-09-02T20:38:43.000Z
 - [Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com) — 2026-09-02T15:56:27.000Z

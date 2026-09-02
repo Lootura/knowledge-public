@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,11 +16,6 @@
     "ir"
   ],
   "changes": [
-    {
-      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "summary": "Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.",
-      "date": "2026-09-02"
-    },
     {
       "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
       "summary": "The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.",
@@ -42,28 +37,33 @@
       "date": "2026-09-02"
     },
     {
-      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
-      "summary": "The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
       "summary": "Iran fired on U.S. allies in the Gulf early Wednesday following a night of American bombardment that Iranian officials say included a deadly strike on a wedding party.",
       "date": "2026-09-02"
     },
     {
       "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "summary": "President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
-      "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
+      "summary": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.",
       "date": "2026-09-02"
     },
     {
       "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
       "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
+      "summary": "Iran is making fresh claims about the latest round of strikes in the region. This comes as U.S. military leaders navigate tensions sparked by resignations and recent firings. CBS News' Eleanor Watson has more.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential",
+      "summary": "President Trump on Wednesday downplayed the importance of a peace deal with Tehran while calling on Iranian citizens to take over their government. CBS News' Weijia Jiang and Samantha Vinograd have the latest.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+      "summary": "Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.",
       "date": "2026-09-02"
     }
   ],
@@ -72,6 +72,12 @@
       "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
       "url": "https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T16:56:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential",
+      "url": "https://www.cbsnews.com/video/iran-attacks-us-allies-gulf-region-trump-downplays-peace-deal-potential/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:57:26.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -87,22 +93,10 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
-      "url": "https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:17:56.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
       "url": "https://www.pbs.org/newshour/world/iran-fires-on-its-gulf-neighbors-retaliating-for-u-s-strikes-after-a-wedding-was-hit?utm_source=lootura.com",
       "publishedAt": "2026-09-02T15:46:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T00:23:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
@@ -113,7 +107,7 @@
     {
       "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:00:47.000Z",
+      "publishedAt": "2026-09-02T19:56:52.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -129,5 +123,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 9
 }

@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos
+
+Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.
+
+Date: 2026-09-02
+
+### 72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz
+
+Lo habían advertido. Alcaldes socialistas de todo el país, la gran mayoría de ellos andaluces, han salido a la calle este miércoles para apoyar la ciudad de Ceuta en su día grande. Unas concentraciones que no han sido del agrado de Ferraz, que en los últimos días han tratado de frenar la iniciativa de los alcaldes. Alg.
+
+Date: 2026-09-02
+
+### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
+
+El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
+
+Date: 2026-09-02
 
 ### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
 
@@ -17,12 +35,6 @@ Date: 2026-09-02
 ### 72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz
 
 Algunos han secundado la convocatoria de la FEMP y otros han organizado su propio acto para sortear la prohibición de la Ejecutiva Federal socialista.
-
-Date: 2026-09-02
-
-### En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos
-
-Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.
 
 Date: 2026-09-02
 
@@ -56,20 +68,8 @@ El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El preside
 
 Date: 2026-09-01
 
-### La 'rebelión' imparable de los alcaldes del PSOE: al menos 30 se manifestarán por Ceuta en contra de las órdenes de Sánchez
-
-En Andalucía ya son 13, la mayoría en respuesta a la convocatoria de la FEMP, los que se manifestarán mientras se suman regidores en León, Mérida o Valencia Leer.
-
-Date: 2026-09-01
-
-### El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»
-
-El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz](https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:47:30.000Z
+- [72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz](https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt.html?utm_source=lootura.com) — 2026-09-02T19:35:16.000Z
 - [En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos](https://theobjective.com/espana/2026-09-02/sumario-tarde-concentraciones-ceuta-informe-policial-marruecos/?utm_source=lootura.com) — 2026-09-02T17:56:10.000Z
-- [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z
+- [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z

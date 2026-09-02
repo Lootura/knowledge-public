@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton
+
+James Talarico's Senate campaign is accusing Ken Paxton and his campaign treasurer of "illegally spending" $1 million that was routed to a Paxton-aligned super PAC.
+
+Date: 2026-09-02
 
 ### Trump may need to save Paxton in Texas Senate race
 
@@ -22,4 +28,4 @@ Date: 2026-08-31
 
 ## Sources
 
-No public source links.
+- [Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton](https://www.cbsnews.com/news/texas-dark-money-talarico-complaint-paxton/?utm_source=lootura.com) — 2026-09-02T21:23:00.000Z

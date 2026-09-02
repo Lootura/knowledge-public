@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [How will tariffs affect the midterms? In this Michigan border town, it's complicated](https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z
+No public source links.

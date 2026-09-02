@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/lake-ontario/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/lake-ontario/index.json",
   "description": "Follow Lake Ontario, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "Lake America"
   ],
   "changes": [
     {
-      "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
-      "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
-      "date": "2026-09-01"
+      "title": "GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’",
+      "summary": "Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.",
+      "date": "2026-09-02"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Lake Ontario first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+      "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
       "date": "2026-09-01"
     },
     {
@@ -29,6 +34,13 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’",
+      "url": "https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T20:42:35.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

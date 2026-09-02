@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "EU",
     "European Union"
@@ -17,6 +17,16 @@
     {
       "title": "US politics is not the world's template for polarization, experts warn",
       "summary": "Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests",
+      "summary": "Nearly half of people living in Europe on an average income can only afford to buy the equivalent of a one-bedroom apartment or studio apartment, while 39% of Europeans cannot afford to rent a property this size.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
+      "summary": "Some of Europe's most well-known historic manuscripts, including the York Gospels, have proven to be biological time capsules for uncovering the 3,500-year history of the sheeppox virus (SPPV).",
       "date": "2026-09-02"
     },
     {
@@ -53,16 +63,6 @@
       "title": "Europe should adapt, not copy, China’s practical PhD",
       "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "A roadmap for animal-free chemical testing",
-      "summary": "For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -73,11 +73,17 @@
       "sourceId": "lootura-us-phys-org"
     },
     {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:43:50.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests",
+      "url": "https://phys.org/news/2026-09-europe-housing-crisis-continental-million.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:00:03.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
+      "url": "https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:20:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

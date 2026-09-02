@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-09-02
 ### New Jersey asks Supreme Court to resolve fight over Kalshi's future
 
 If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).
+
+Date: 2026-09-02
+
+### House Democrats block constitutional amendment to lock Supreme Court at 9 justices
+
+The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.
 
 Date: 2026-09-02
 
@@ -62,13 +68,8 @@ In our news wrap Monday, the Supreme Court is allowing construction to continue 
 
 Date: 2026-08-31
 
-### US supreme court allows Trump to keep building $400m White House ballroom
-
-Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.
-
-Date: 2026-08-31
-
 ## Sources
 
+- [House Democrats block constitutional amendment to lock Supreme Court at 9 justices](https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com) — 2026-09-02T20:38:43.000Z
 - [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z
 - [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z

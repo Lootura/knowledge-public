@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -24,6 +24,11 @@
     {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+      "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
       "date": "2026-09-02"
     },
     {
@@ -60,14 +65,15 @@
       "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
       "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "US supreme court allows Trump to keep building $400m White House ballroom",
-      "summary": "Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
+    {
+      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+      "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T20:38:43.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
@@ -81,5 +87,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

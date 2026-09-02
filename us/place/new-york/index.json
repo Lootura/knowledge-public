@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -84,6 +84,13 @@
       "date": "2026-08-15"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "NYC, the nation's largest school system, bans AI for students through 8th grade",
+      "url": "https://phys.org/news/2026-09-nyc-nation-largest-school-ai.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:00:03.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,6 +22,21 @@
   ],
   "changes": [
     {
+      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
+      "summary": "Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
+      "summary": "Lo habían advertido. Alcaldes socialistas de todo el país, la gran mayoría de ellos andaluces, han salido a la calle este miércoles para apoyar la ciudad de Ceuta en su día grande. Unas concentraciones que no han sido del agrado de Ferraz, que en los últimos días han tratado de frenar la iniciativa de los alcaldes. Alg.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
+      "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
       "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
       "date": "2026-09-02"
@@ -29,11 +44,6 @@
     {
       "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
       "summary": "Algunos han secundado la convocatoria de la FEMP y otros han organizado su propio acto para sortear la prohibición de la Ejecutiva Federal socialista.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
-      "summary": "Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.",
       "date": "2026-09-02"
     },
     {
@@ -60,23 +70,13 @@
       "title": "El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord",
       "summary": "El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "La 'rebelión' imparable de los alcaldes del PSOE: al menos 30 se manifestarán por Ceuta en contra de las órdenes de Sánchez",
-      "summary": "En Andalucía ya son 13, la mayoría en respuesta a la convocatoria de la FEMP, los que se manifestarán mientras se suman regidores en León, Mérida o Valencia Leer.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»",
-      "summary": "El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
       "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
-      "url": "https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:47:30.000Z",
+      "url": "https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:35:16.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
@@ -86,9 +86,9 @@
       "sourceId": "lootura-es-the-objective"
     },
     {
-      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
-      "url": "https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:23:33.000Z",
+      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T20:35:23.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

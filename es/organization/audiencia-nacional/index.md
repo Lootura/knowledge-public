@@ -3,7 +3,7 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
@@ -26,18 +26,6 @@ El informe enviado a la Audiencia Nacional evita mencionar al Gobierno marroquí
 
 Date: 2026-09-02
 
-### Los mensajes que se enviaban los asaltantes de Ceuta: "La poli lleva ropa normal, bajad a Castillejos..."
-
-El informe policial de 55 páginas sobre el asalto a la frontera de Ceuta, entregado este pasado lunes a la jueza María Tardón en la Audiencia Nacional, aparte de enfatizar el papel fundamental de las fuerzas de seguridad marroquíes para hacer un "guiado activo" de los inmigrantes hacia la ciudad autónoma , también deta.
-
-Date: 2026-09-02
-
-### El informe policial contradice al Gobierno y dice que autoridades marroquíes participaron en el "guiado activo" de migrantes
-
-El informe policial entregado en la Audiencia Nacional este lunes señala a gendarmes y policías de paisano de Marruecos como "sujetos activos" que participaron en la entrada masiva de inmigrantes a Ceuta. El documento apunta a Rabat por "la escasa presencia de Fuerzas y Cuerpos de Seguridad de Marruecos" en la zona y p.
-
-Date: 2026-09-02
-
 ### Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta
 
 El informe que el Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía ha remitido a la juez de la Audiencia Nacional incluye una serie de imágenes que demuestran la...
@@ -47,12 +35,6 @@ Date: 2026-09-02
 ### El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta
 
 El informe que el Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía ha entregado en la Audiencia Nacional analiza imágenes y mensajes de redes sociales y habla de “permisividad” de las Fuerzas de seguridad marroquíes. En el documento, al que ha tenido acceso EL PAÍS, la Policía concluye que agentes de Ra.
-
-Date: 2026-09-02
-
-### El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta
-
-El informe que la Policía Nacional ha entregado a la Audiencia Nacional sobre la crisis de Ceuta concluye que la finalidad migratoria fue solo “la cobertura formal” para fomentar, impulsar y dirigir una avalancha de personas a la frontera de Ceuta. Seguir leyendo...
 
 Date: 2026-09-02
 
@@ -68,15 +50,31 @@ El informe que recibió la juez de la Audiencia Nacional María Tardón de la Po
 
 Date: 2026-09-02
 
+### El informe sobre Ceuta amenaza con aislar aún más a Sánchez por exculpar a Marruecos
+
+El jefe del Gobierno, Pedro Sánchez, se arriesga este jueves a quedarse aislado parlamentariamente si decide seguir defendiendo la nula participación de Marruecos tras el informe policial remitido el martes a la Audiencia Nacional . El Ejecutivo se enrocaba este miércoles en que esa investigación no sostiene que Rabat.
+
+Date: 2026-09-02
+
+### Los mensajes que se enviaban los asaltantes de Ceuta: "La poli lleva ropa normal, bajad a Castillejos..."
+
+El informe policial de 55 páginas sobre el asalto a la frontera de Ceuta, entregado este pasado lunes a la jueza María Tardón en la Audiencia Nacional, aparte de enfatizar el papel fundamental de las fuerzas de seguridad marroquíes para hacer un "guiado activo" de los inmigrantes hacia la ciudad autónoma , también deta.
+
+Date: 2026-09-02
+
+### El informe policial contradice al Gobierno y dice que autoridades marroquíes participaron en el "guiado activo" de migrantes
+
+El informe policial entregado en la Audiencia Nacional este lunes señala a gendarmes y policías de paisano de Marruecos como "sujetos activos" que participaron en la entrada masiva de inmigrantes a Ceuta. El documento apunta a Rabat por "la escasa presencia de Fuerzas y Cuerpos de Seguridad de Marruecos" en la zona y p.
+
+Date: 2026-09-02
+
 ## Fuentes
 
-- [Los mensajes que se enviaban los asaltantes de Ceuta: "La poli lleva ropa normal, bajad a Castillejos..."](https://www.20minutos.es/nacional/los-mensajes-que-se-enviaban-los-asaltantes-ceuta-poli-lleva-ropa-normal-bajad-castillejos-todo-marruecos-esta-aqui_7032174_0.html?utm_source=lootura.com) — 2026-09-02T17:49:06.000Z
-- [El informe policial contradice al Gobierno y dice que autoridades marroquíes participaron en el "guiado activo" de migrantes](https://www.20minutos.es/nacional/informe-policial-senala-que-autoridades-policiales-marruecos-participaron-guiado-activo-migrantes-hacia-ceuta_7032160_0.html?utm_source=lootura.com) — 2026-09-02T16:51:38.000Z
+- [El informe sobre Ceuta amenaza con aislar aún más a Sánchez por exculpar a Marruecos](https://www.elconfidencial.com/espana/2026-09-02/el-informe-sobre-ceuta-aislar-aun-mas-a-sanchez_4416864/?utm_source=lootura.com) — 2026-09-02T20:10:00.000Z
 - [Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a985703fc6c8386058b45b4.html?utm_source=lootura.com) — 2026-09-02T17:08:34.000Z
-- [El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta](https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T16:10:41.000Z
+- [El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta](https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T19:49:23.000Z
 - [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
 - [El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria](https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T14:16:34.000Z
 - [La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta](https://www.eldiario.es/politica/policia-analiza-imagenes-redes-sociales-apuntar-posible-participacion-agentes-marroquies-asalto-ceuta_1_13482964.html?utm_source=lootura.com) — 2026-09-02T15:43:57.000Z
-- [El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta](https://www.lavanguardia.com/politica/20260902/11625773/informe-policial-senala-permisividad-policias-marroquies-guiaron-cruce-masivo-ceuta.html?utm_source=lootura.com) — 2026-09-02T16:39:53.000Z
 - [La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»](https://theobjective.com/espana/2026-09-02/policia-complicidad-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:58:44.000Z
 - [Lea aquí el informe policial íntegro que destroza la versión del Gobierno sobre Ceuta](https://theobjective.com/espana/2026-09-02/lea-informe-policial-destroza-version-gobierno-ceuta/?utm_source=lootura.com) — 2026-09-02T18:42:20.000Z

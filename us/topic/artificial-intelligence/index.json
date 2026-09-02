@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "AI",
     "AI science",
@@ -30,6 +30,11 @@
     {
       "title": "AI agents are hacking systems without any input from humans. How did we get here?",
       "summary": "AI agents are systems that work on their own to handle tasks for humans. They've recently made headlines for actions they've taken, such as hacking, without human supervision.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "AI-designed proteins enable a new generation of RNA transporters",
+      "summary": "RNA-based therapeutics use RNA as a blueprint that enables cells to produce specific proteins—including proteins that can precisely modify genes. For this to work, the RNA must reach the inside of the cell intact. Delivery systems currently used for this purpose include virus-derived vehicles and lipid nanoparticles, t.",
       "date": "2026-09-02"
     },
     {
@@ -71,19 +76,14 @@
       "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
       "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Side of slop? Bizarre AI food images jump from online to IRL menus",
-      "summary": "AI “slop” is increasingly on offer at brick-and-mortar establishments.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Designing physics experiments with artificial intelligence",
-      "url": "https://www.nature.com/articles/s41586-026-10898-6?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T19:16:14.818Z",
-      "sourceId": "lootura-us-nature"
+      "title": "OpenAI confirms \"critical\" risks of Astra model, despite plans to release it soon",
+      "url": "https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:40:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "AI agents are hacking systems without any input from humans. How did we get here?",
@@ -92,23 +92,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "AI automates the creation of custom functional materials atom by atom",
-      "url": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:40:06.000Z",
+      "title": "AI-designed proteins enable a new generation of RNA transporters",
+      "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:00:01.000Z",
       "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T17:52:56.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:47:03.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting](https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting?utm_source=lootura.com) — 2026-09-02T12:22:42.000Z
+- [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z

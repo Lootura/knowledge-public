@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes](https://www.abc.es/economia/yolanda-diaz-analiza-datos-paro-registrados-agosto-20260902111607-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:36.000Z
+No public source links.

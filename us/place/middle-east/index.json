@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
-      "url": "https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:17:56.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "The Navy’s Logistical Nightmare in the Iran War",
       "url": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T10:27:52.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

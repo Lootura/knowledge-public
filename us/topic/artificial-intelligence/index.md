@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### AI agents are hacking systems without any input from humans. How did we get here?
 
 AI agents are systems that work on their own to handle tasks for humans. They've recently made headlines for actions they've taken, such as hacking, without human supervision.
+
+Date: 2026-09-02
+
+### AI-designed proteins enable a new generation of RNA transporters
+
+RNA-based therapeutics use RNA as a blueprint that enables cells to produce specific proteins—including proteins that can precisely modify genes. For this to work, the RNA must reach the inside of the cell intact. Delivery systems currently used for this purpose include virus-derived vehicles and lipid nanoparticles, t.
 
 Date: 2026-09-02
 
@@ -62,16 +68,8 @@ Spiking prices and rental bidding wars are raising fears of more displacement in
 
 Date: 2026-09-01
 
-### Side of slop? Bizarre AI food images jump from online to IRL menus
-
-AI “slop” is increasingly on offer at brick-and-mortar establishments.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Designing physics experiments with artificial intelligence](https://www.nature.com/articles/s41586-026-10898-6?utm_source=lootura.com) — 2026-09-02T19:16:14.818Z
+- [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z
 - [AI agents are hacking systems without any input from humans. How did we get here?](https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here?utm_source=lootura.com) — 2026-09-02T18:46:26.000Z
-- [AI automates the creation of custom functional materials atom by atom](https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html?utm_source=lootura.com) — 2026-09-02T18:40:06.000Z
-- [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails?utm_source=lootura.com) — 2026-09-02T17:52:56.000Z
-- [Google is sending MrBeast into the wilderness, armed with AI](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit?utm_source=lootura.com) — 2026-09-02T15:47:03.000Z
+- [AI-designed proteins enable a new generation of RNA transporters](https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html?utm_source=lootura.com) — 2026-09-02T22:00:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,6 +44,11 @@
   ],
   "changes": [
     {
+      "title": "Fragmento del día: Corea del Norte",
+      "summary": "Corea del Norte afirma que ha detonado una bomba de hidrógeno, equivalente a unos 100 kilotones de TNT. El Servicio Geológico de los Estados Unidos informó de un terremoto de 6.3 magnitud, no lejos del sitio de prueba nuclear de Punggye-ri.",
+      "date": "2026-09-03"
+    },
+    {
       "title": "Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal",
       "summary": "Alphabet, la matriz empresarial detrás del motor de búsqueda online más popular del mundo, Google, ha obtenido este miércoles una importante victoria para su negocio en los tribunales de Estados Unidos. Si ya en el pasado Alphabet esquivó el tener que vender el navegador Google Chrome por su posición dominante, en esta.",
       "date": "2026-09-02"
@@ -54,13 +59,13 @@
       "date": "2026-09-02"
     },
     {
-      "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
-      "summary": "Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.",
+      "title": "Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno",
+      "summary": "La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.",
       "date": "2026-09-02"
     },
     {
-      "title": "Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno",
-      "summary": "La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.",
+      "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
+      "summary": "Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.",
       "date": "2026-09-02"
     },
     {
@@ -87,11 +92,6 @@
       "title": "La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años",
       "summary": "Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE",
-      "summary": "La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -108,10 +108,10 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
-      "url": "https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T08:06:24.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Fragmento del día: Corea del Norte",
+      "url": "https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
     },
     {
       "title": "Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno",

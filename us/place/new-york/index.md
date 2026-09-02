@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-15
 
 ## Sources
 
-No public source links.
+- [NYC, the nation's largest school system, bans AI for students through 8th grade](https://phys.org/news/2026-09-nyc-nation-largest-school-ai.html?utm_source=lootura.com) — 2026-09-02T21:00:03.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa](https://www.elmundo.es/espana/2026/09/02/6a9825d2fc6c83303f8b459d.html?utm_source=lootura.com) — 2026-09-02T13:47:56.000Z

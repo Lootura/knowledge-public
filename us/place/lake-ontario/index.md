@@ -3,20 +3,26 @@
 > Follow Lake Ontario, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/lake-ontario
 
 ## Recent changes
 
-### Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently
+### GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’
 
-Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.
+Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### Discovered by Atlas
 
 Lake Ontario first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently
+
+Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.
 
 Date: 2026-09-01
 
@@ -28,4 +34,4 @@ Date: 2026-09-01
 
 ## Sources
 
-No public source links.
+- [GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’](https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com) — 2026-09-02T20:42:35.000Z

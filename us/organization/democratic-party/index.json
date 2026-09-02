@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,11 @@
     {
       "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "summary": "For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+      "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
       "date": "2026-09-02"
     },
     {
@@ -57,14 +62,15 @@
       "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
       "summary": "The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
+    {
+      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
+      "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T20:38:43.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com",
@@ -72,5 +78,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

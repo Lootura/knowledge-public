@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/la-policia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/la-policia/index.json",
   "description": "Sigue la actividad de La Policía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [],
   "changes": [
     {
@@ -29,6 +29,11 @@
     {
       "title": "La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria",
       "summary": "« La finalidad migratoria opera solo como una cobertura formal que sirve para fomentar, impulsar y dirigir un flujo masivo de personas a la frontera de Ceuta », concluye el informe que el Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía Nacional . El documento en poder de la juez de la Audiencia Naciona.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "La Policía dispersa con pelotas de goma la concentración por Ceuta frente al Congreso",
+      "summary": "Cientos de ceutíes residentes en Madrid se han reunido frente al Congreso de los Diputados este miércoles. Allí han exigido «soluciones inmediatas» al.",
       "date": "2026-09-02"
     },
     {
@@ -55,11 +60,6 @@
       "title": "Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square",
       "summary": "La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a dos personas en Times Square , dejando una persona herida y provocando la muerte a Erin Piacenti, vicepresidenta de Bank of America que falleció a causa de las heridas tras ser trasladada al hospital.El alcalde de la Ciudad, Zohran Mamdani , ha.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "La Policía ha expulsado desde el cruce masivo a 214 marroquíes: tres con antecedentes por yihadismo",
-      "summary": "Desde el cruce masivo durante los días 30 y 31 de julio, por el que entraron en Ceuta más de 70.000 personas, han sido expulsados a Marruecos 214 inmigrantes por delinquir, según un informe del Ministerio del Interior. Fuentes policiales detallan que tres de los expulsados contaban con antecedentes por delitos relacion.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -76,6 +76,12 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
+      "title": "La Policía dispersa con pelotas de goma la concentración por Ceuta frente al Congreso",
+      "url": "https://theobjective.com/espana/2026-09-02/policia-dispersa-pelotas-de-goma-concentracion-ceuta-frente-congreso/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:46:14.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
       "title": "La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»",
       "url": "https://theobjective.com/espana/2026-09-02/policia-complicidad-marruecos-ceuta/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T17:58:44.000Z",
@@ -88,5 +94,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

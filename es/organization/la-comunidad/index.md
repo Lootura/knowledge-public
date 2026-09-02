@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### La Comunidad reconoce ahora que Ayuso visitó el ático tras su compra
+
+«Cuando se compra un inmueble, obvio que se visita», deslizaba este miércoles en la rueda de prensa posterior al Consejo de Gobierno Miguel Ángel García Martín, consejero de Presidencia, Justicia y Administración Local, cuando ha sido preguntado sobre si la presidenta o alguien de su equipo habían acudido el ático de C.
+
+Date: 2026-09-02
 
 ### La Comunidad reconoce ahora que Ayuso visitó el ático en primavera tras su compra
 
@@ -62,12 +68,6 @@ El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 
 
 Date: 2026-08-08
 
-### La Comunidad de Madrid saca a la venta por 6,7 millones el ático de Chamberí y otros inmuebles
-
-La Comunidad de Madrid , a través de la empresa pública Planifica Madrid, ha sacado a la venta el ático adquirido por el Ejecutivo autonómico por un precio de salida de 6,7 millones de euros, situado en el paseo del General Martínez Campos, en el distrito de Chamberí, además de cuatro inmuebles ubicados en Gran Vía , q.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [La Comunidad reconoce ahora que Ayuso visitó el ático en primavera tras su compra](https://www.abc.es/espana/madrid/ayuso-visito-atico-chamberi-despues-compra-20260902173019-nt.html?utm_source=lootura.com) — 2026-09-02T17:39:50.000Z
+- [La Comunidad reconoce ahora que Ayuso visitó el ático tras su compra](https://www.abc.es/espana/madrid/ayuso-visito-atico-chamberi-despues-compra-20260902173019-nt.html?utm_source=lootura.com) — 2026-09-02T21:10:36.000Z

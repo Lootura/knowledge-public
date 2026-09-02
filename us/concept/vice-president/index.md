@@ -40,4 +40,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [JD Vance talks end times, Antichrist and AI on faith podcast](https://www.nbcnews.com/politics/trump-administration/jd-vance-talks-end-antichrist-ai-faith-podcast-rcna595733?utm_source=lootura.com) — 2026-09-02T18:29:33.000Z
+No public source links.

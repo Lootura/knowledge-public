@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [González Corral destaca que el presupuesto de prevención y extinción de incendios ha pasado de 90 a 200 millones desde 2022](https://www.larazon.es/castilla-y-leon/gonzalez-corral-destaca-que-presupuesto-prevencion-extincion-incendios-pasado-90-200-millones-2022_202609026a9872492d7d3022177c2fca.html?utm_source=lootura.com) — 2026-09-02T19:00:25.000Z
+No public source links.

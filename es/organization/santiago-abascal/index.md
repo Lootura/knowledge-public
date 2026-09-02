@@ -3,10 +3,22 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
+
+Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
+
+Date: 2026-09-02
+
+### Abascal en Cibeles: «Pedro Sánchez es un lacayo de Mohamed VI, un traidor a España»
+
+El líder de Vox, Santiago Abascal , presente en la manifestación de Madrid en apoyo a Ceuta, ha asegurado que «tenemos que apoyar a Ceuta contra este Gobierno que la ha traicionado». Ha añadido que Pedro Sánchez «es un lacayo de Mohamed VI, un traidor a España». Ha acusado al jefe del Ejecutivo, Pedro Sánchez, de ser «.
+
+Date: 2026-09-02
 
 ### Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»
 
@@ -56,18 +68,7 @@ El líder de Vox, Santiago Abascal, ha anunciado que su partido promoverá la ac
 
 Date: 2026-08-08
 
-### Los menores de Ceuta no son ilegales
-
-Los menores que llegaron a Ceuta en medio de la avalancha no son irregulares por mucho que Santiago Abascal los considere “invasores” y los pactos de gobierno de Vox con el PP los deshumanicen. El asalto a la frontera deja dudas sobre los servicios de información españoles, la colaboración más o menos leal de Marruecos.
-
-Date: 2026-08-07
-
-### “Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta
-
-La estrategia fallida en Ceuta se ha unido estos días a lo que ya compartían el eurodiputado Alvise Pérez, el agitador Vito Quiles, el líder de Vox, Santiago Abascal, y el grupo neonazi Núcleo Nacional. Desde que el pasado jueves se produjera el acceso masivo de migrantes a la ciudad , las distintas facciones de la ult.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»](https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com) — 2026-09-02T21:00:10.000Z
+- [Abascal en Cibeles: «Pedro Sánchez es un lacayo de Mohamed VI, un traidor a España»](https://okdiario.com/espana/abascal-cibeles-pedro-sanchez-lacayo-mohamed-vi-traidor-espana-20216991?utm_source=lootura.com) — 2026-09-02T19:47:10.000Z

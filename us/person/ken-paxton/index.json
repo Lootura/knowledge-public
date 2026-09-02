@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-02T22:21:10.846Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -23,6 +23,11 @@
   ],
   "changes": [
     {
+      "title": "Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton",
+      "summary": "James Talarico's Senate campaign is accusing Ken Paxton and his campaign treasurer of \"illegally spending\" $1 million that was routed to a Paxton-aligned super PAC.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Trump may need to save Paxton in Texas Senate race",
       "summary": "The News Republicans are counting on President Donald Trump’s cavalry to carry Ken Paxton to victory — but it hasn’t come yet. Ultimately, the GOP expects MAGA Inc. to help its Texas Senate nominee win with a significant spend this fall, according to multiple Republican sources, although even presidential super PAC don.",
       "date": "2026-09-01"
@@ -33,6 +38,13 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton",
+      "url": "https://www.cbsnews.com/news/texas-dark-money-talarico-complaint-paxton/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:23:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -27,23 +27,8 @@
       "date": "2026-09-02"
     },
     {
-      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
-      "summary": "Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Ni el Seat Ibiza ni el Toyota Corolla: así queda el ranking de coches más vendidos en España hasta septiembre",
-      "summary": "La matriculación de turismos y todoterrenos ha alcanzado en España las 68.544 unidades en agosto . Una cifra que, más allá del dato, deja una realidad clara: el mercado automovilístico español continúa creciendo. Las matriculaciones han aumentado un 11,8% en el octavo mes del año respecto al mismo periodo de 2025 , seg.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños",
       "summary": "El Ministerio de Sanidad, en coordinación con Protección Civil, ha evacuado a cinco soldados ucranianos heridos con quemaduras leves durante la guerra.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Uber recortará 3.300 puestos de trabajo en todo el mundo para simplificar su organigrama",
-      "summary": "Uber ha anunciado que reducirá el 10% de su plantilla en todo el mundo, es decir, eliminará 3.300 puestos de trabajo, como parte de su plan para simplificar la estructura de la compañía. Así la empresa, también presente en España, tanto en reparto a domicilio como en su flota de vehículos con conductor (VTC), reducirá.",
       "date": "2026-09-02"
     },
     {
@@ -62,12 +47,39 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Así ha sido el emocionante momento en el que ha sonado el himno de España durante la manifestación en Ceuta",
-      "summary": "La ciudad ha salido el día de su fiesta autonómica a reinvindicar que «Ceuta no se vende, Ceuta se defiende».",
+      "title": "Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta",
+      "summary": "Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea y la Ertzaintza ha desplegado un importante dispositivo.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Clamor masivo en España contra la invasión de Ceuta",
+      "summary": "Coincidiendo con el Día de Ceuta más anómalo que se recuerda, miles de ciudadanos de toda España se unieron este miércoles ante los ayuntamientos de sus pueblos y ciudades...",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
+      "summary": "Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Decenas de miles de personas se concentran en España en apoyo a Ceuta y al grito de \"Gobierno dimisión\"",
+      "summary": "Banderas de España y de Ceuta, pancartas y gritos que censuraban la gestión del Gobierno durante la crisis -y pedían su dimisión- y cientos de miles de personas han sido la imagen de un centro de Madrid abarrotado para mostrar su apoyo a la ciudad autónoma y exigir su defensa como territorio español. La multitud atesta.",
       "date": "2026-09-02"
     }
   ],
   "sources": [
+    {
+      "title": "Decenas de miles de personas se concentran en España en apoyo a Ceuta y al grito de \"Gobierno dimisión\"",
+      "url": "https://www.20minutos.es/nacional/decenas-miles-personas-abarrotan-centro-madrid-para-apoyar-ceuta-grito-gobierno-dimision_7032207_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:52:01.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "España se echa a la calle para defender a Ceuta",
+      "url": "https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:25:44.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy",
       "url": "https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di_amp.html?utm_source=lootura.com",
@@ -87,15 +99,21 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
+      "title": "Ceuta es un clamor contra el Gobierno: \"¡Esta fuerza es imparable\"",
+      "url": "https://www.elconfidencial.com/espana/2026-09-02/ceuta-es-un-clamor-contra-el-gobierno_4416886/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:44:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
       "title": "Marlaska niega que la Policía atribuya la avalancha a Rabat pese a los informes e imágenes que lo acreditan",
       "url": "https://www.elcorreo.com/politica/marlaska-pide-explicaciones-director-policia-informe-atribuiria-20260902081205-ntrc_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T06:12:06.000Z",
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Así ha sido el emocionante momento en el que ha sonado el himno de España durante la manifestación en Ceuta",
-      "url": "https://www.eldebate.com/espana/20260902/asi-sido-emocionante-momento-sonado-himno-espana-durante-manifestacion-ceuta_454790.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:46:35.000Z",
+      "title": "Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»",
+      "url": "https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:00:10.000Z",
       "sourceId": "lootura-es-el-debate"
     },
     {
@@ -109,25 +127,7 @@
       "url": "https://www.eldiario.es/politica/policia-analiza-imagenes-redes-sociales-apuntar-posible-participacion-agentes-marroquies-asalto-ceuta_1_13482964.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T15:43:57.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Clamor masivo en España contra la invasión de Ceuta",
-      "url": "https://amp.expansion.com/economia/politica/2026/09/02/6a986acd468aebdd638b4584.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:45:02.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
-      "url": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:05:50.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Bonoloto: Comprueba el resultado del sorteo de hoy miércoles 2 de septiembre de 2026",
-      "url": "https://www.larazon.es/loteria/bonoloto-comprueba-resultado-sorteo-hoy-miercoles-2-septiembre-2026-b51m_202609026a9872434941316b1e754221.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T19:00:19.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 18
+  "evidenceCount": 23
 }

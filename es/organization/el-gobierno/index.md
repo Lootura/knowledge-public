@@ -3,7 +3,7 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
 
 El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
+
+Date: 2026-09-02
+
+### Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"
+
+Hoy miércoles 2 de septiembre se ha estrenado 'La Mesa', el programa que supone el esperado desembarco de Cristina Pardo en Antena 3.
 
 Date: 2026-09-02
 
@@ -62,14 +68,7 @@ Date: 2026-09-02
 
 Date: 2026-09-01
 
-### El Gobierno hace autocrítica en privado por actuar "tarde" y por los excesos de Marlaska y Robles
-
-El Ejecutivo ve "casi imposible" darle la vuelta al "relato" y cree que pasarán varias semanas antes de normalizar Ceuta: "Esto va para largo" Leer.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [El informe revienta la comparecencia de Sánchez y noquea al Gobierno](https://www.abc.es/espana/informe-policial-sobre-ceuta-revienta-comparecencia-sanchez-20260902190127-nt.html?utm_source=lootura.com) — 2026-09-02T18:18:24.000Z
 - [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
-- [El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC](https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html?utm_source=lootura.com) — 2026-09-02T15:05:50.000Z
+- [Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"](https://okdiario.com/cool/television/cristina-pardo-estrena-mesa-ataque-sanchez-ceuta-gobierno-no-actuado-20219035/amp?utm_source=lootura.com) — 2026-09-02T22:10:39.000Z

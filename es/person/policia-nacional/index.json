@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/policia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/policia-nacional/index.json",
   "description": "Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
-      "summary": "Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...",
-      "date": "2026-09-02"
-    },
-    {
       "title": "De “complexión fuerte”, pelo corto y gorras: así deduce la Policía que había agentes encubiertos de Rabat en la crisis",
       "summary": "Varones, de entre 30 y 50 años, de “complexión fuerte” y “pelo corto (‘arreglado’)”. “Visten camisetas o polos de colores neutros” y gorras, algunos incluso con “logotipos policiales”. Así deduce la Policía Nacional que había agentes encubiertos de Rabat durante la entrada masiva de migrantes a Ceuta los días 30 y 31 d.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta",
-      "summary": "El informe que la Policía Nacional ha entregado a la Audiencia Nacional sobre la crisis de Ceuta concluye que la finalidad migratoria fue solo “la cobertura formal” para fomentar, impulsar y dirigir una avalancha de personas a la frontera de Ceuta. Seguir leyendo...",
       "date": "2026-09-02"
     },
     {
@@ -47,6 +37,11 @@
       "date": "2026-09-02"
     },
     {
+      "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
+      "summary": "Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación",
       "summary": "El Ministerio del Interior niega la existencia de un informe policial que implique a autoridades policiales marroquíes en la entrada masiva de migrantes en Ceuta. En un comunicado, la cartera de Fernando Grande-Marlaska asegura que así se lo ha transmitido al ministro el director general de la Policía Nacional, Francis.",
       "date": "2026-09-02"
@@ -60,26 +55,25 @@
       "title": "Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora",
       "summary": "Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conocerse el informe elaborado por la Policía Nacional que, según El Español , apuntaría a Marruecos como responsable de la entrada masiva de más de 70.000 inmigrantes a Ceuta a finales de julio. En este sentido, el líder del PP, quien ha señalado q.",
       "date": "2026-09-02"
+    },
+    {
+      "title": "El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta",
+      "summary": "El director general de la Policía Nacional, Francisco Pardo, ha comunicado al ministro del Interior, Fernando Grande-Marlaska, que “no existe informe policial alguno” que atribuya a Marruecos la planificación o ejecución de lo sucedido los días 30 y 31 de julio en Ceuta, según ha informado en un comunicado el Ministeri.",
+      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
-      "url": "https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T07:44:42.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Las tres oleadas del salto a Ceuta recogidas por la Policía: primero jóvenes marroquíes en neopreno, después “grupos familiares completos”",
+      "url": "https://elpais.com/espana/2026-09-02/las-tres-oleadas-del-salto-a-ceuta-recogidas-por-la-policia-primero-jovenes-marroquies-en-neopreno-despues-grupos-familiares-completos.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:59:19.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "De “complexión fuerte”, pelo corto y gorras: así deduce la Policía que había agentes encubiertos de Rabat en la crisis",
       "url": "https://elpais.com/espana/2026-09-02/de-complexion-fuerte-pelo-corto-y-gorras-asi-describe-la-policia-a-los-agentes-dinamizadores-de-rabat-en-la-entrada-a-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T17:53:46.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260902/11625773/informe-policial-senala-permisividad-policias-marroquies-guiaron-cruce-masivo-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:39:53.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     },
     {
       "title": "La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»",
@@ -106,5 +100,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 6
 }

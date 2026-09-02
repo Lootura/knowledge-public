@@ -28,4 +28,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Animal-bone records reveal how cattle and sheep fueled medieval England's changing economy](https://phys.org/news/2026-08-animal-bone-reveal-cattle-sheep.html?utm_source=lootura.com) — 2026-09-02T18:00:01.000Z
+No public source links.

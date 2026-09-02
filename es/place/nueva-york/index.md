@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Descalabro de Jódar en Nueva York
+
+El madrileño se estrella en su debut en el torneo contra el 'lucky loser' Bu.
+
+Date: 2026-09-02
 
 ### ¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open
 
@@ -62,12 +68,6 @@ John Galliano en un fotograma del documental _Auge y caída de John Galliano_. N
 
 Date: 2026-08-13
 
-### Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas
-
-Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que persigue desde 2020, cuando la pandemia y el auge que esta provocó sobre el comercio online disparó su valoración empresarial hasta rozar los 100.000 millones de dólares en 2022. Tras intentarlo sin éxito en los mercados de Nueva York y Lon.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open](https://www.20minutos.es/deportes/tenis/rafa-jodar-bu-yunchaokete-directo-ultima-hora-mejores-puntos-resultado-primera-ronda-us-open-2026_7032071_6.html?utm_source=lootura.com) — 2026-09-02T16:33:00.000Z
+- [Descalabro de Jódar en Nueva York](https://www.elcorreo.com/deportes/tenis/open-usa/descalabro-jodar-nueva-york-20260902233414-ntrc_amp.html?utm_source=lootura.com) — 2026-09-02T21:34:14.000Z

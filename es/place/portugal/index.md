@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Una investigación abierta en Portugal arroja luz sobre cómo la trama de Aldama movía fondos del fraude fiscal en España](https://www.eldiario.es/politica/investigacion-abierta-portugal-arroja-luz-trama-aldama-movia-fondos-fraude-fiscal-espana_1_13482826.html?utm_source=lootura.com) — 2026-09-02T15:22:40.000Z
+No public source links.

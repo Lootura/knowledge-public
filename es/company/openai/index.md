@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI](https://theconversation.com/miles-de-agentes-de-ia-deciden-unirse-para-un-ciberataque-masivo-por-sorpresa-el-reciente-caso-de-openai-290974?utm_source=lootura.com) — 2026-09-02T15:30:40.000Z
+No public source links.

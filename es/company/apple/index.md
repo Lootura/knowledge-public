@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte
+
+Malas noticias si todavía tienes un Mac con chip Intel : muchas de las apps que usas a diario ya pueden dejarte sin soporte . Según reporta Macrumors , Apple ha notificado a los desarrolladores de aplicaciones universales que se distribuyen a través de la App Store que están autorizados a eliminar el soporte para los e.
+
+Date: 2026-09-02
 
 ### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
 
@@ -62,12 +68,6 @@ La salida de Tim Cook como CEO y la asunción de John Ternus como su reemplazo n
 
 Date: 2026-08-31
 
-### Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»
-
-El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim Cook finaliza hoy su mandato como CEO, con John Ternus como el designado para tomar las riendas de la compañía a partir de mañana, 1 de septiembre. Si bien el consejero delegado saliente no va a abandonar la empresa, puesto que asumirá el rol.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
+- [Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte](https://hipertextual.com/apple/apps-universales-abandonar-soporte-mac-con-chips-intel/?utm_source=lootura.com) — 2026-09-02T20:01:29.000Z

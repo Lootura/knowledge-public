@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
 
 El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
+
+### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
+
+Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
+
+Date: 2026-09-02
+
+### Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”
+
+Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.
+
+Date: 2026-09-02
+
+### Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»
+
+El líder del PP, Alberto Núñez Feijóo , ha acudido este miércoles a la masiva manifestación de la madrileña plaza de Cibeles en apoyo a Ceuta. Allí ha acusado al presidente del Gobierno, Pedro Sánchez, de «mentir» a los españoles y de «ocultar» los informes sobre la «invasión» de Ceuta, y prometió que su partido va a «.
 
 Date: 2026-09-02
 
@@ -50,24 +68,9 @@ PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que
 
 Date: 2026-09-01
 
-### Feijóo celebra la "rectificación" del Gobierno al prorrogar Almaraz, aunque considera la decisión "tardía e incompleta"
-
-El PP cree que la prórroga "supone el reconocimiento del fracaso de la política energética" de Sánchez y le afea que lo anuncie "de tapadillo" Leer.
-
-Date: 2026-08-14
-
-### El PP cuestiona al Gobierno de Sánchez después de que Marruecos amagara con suspender el acuerdo de extradición
-
-Con el paso de los días desde la entrada masiva en Ceuta, el Partido Popular ha ido endureciendo su tono sobre Marruecos, al que evitó apuntar en los primeros compases de la crisis. “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”, subrayó el miércoles el líder del PP, Alberto Núñez Feijóo, d.
-
-Date: 2026-08-13
-
-### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
-
-Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
-
-Date: 2026-08-10
-
 ## Fuentes
 
+- [Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»](https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com) — 2026-09-02T21:00:10.000Z
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
+- [Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com) — 2026-09-02T20:30:27.000Z
+- [Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»](https://okdiario.com/espana/feijoo-cibeles-pais-tomado-muy-buena-nota-que-ciudad-espanola-sido-invadida-ocupada-20218865?utm_source=lootura.com) — 2026-09-02T20:14:45.000Z

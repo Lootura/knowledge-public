@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### US politics is not the world's template for polarization, experts warn
 
 Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.
+
+Date: 2026-09-02
+
+### Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests
+
+Nearly half of people living in Europe on an average income can only afford to buy the equivalent of a one-bedroom apartment or studio apartment, while 39% of Europeans cannot afford to rent a property this size.
+
+Date: 2026-09-02
+
+### Hidden DNA in medieval gospels reveals history of deadly livestock virus
+
+Some of Europe's most well-known historic manuscripts, including the York Gospels, have proven to be biological time capsules for uncovering the 3,500-year history of the sheeppox virus (SPPV).
 
 Date: 2026-09-02
 
@@ -56,19 +68,8 @@ Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Euro
 
 Date: 2026-09-01
 
-### A roadmap for animal-free chemical testing
-
-For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of.
-
-Date: 2026-09-01
-
-### Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.
-
-As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [US politics is not the world's template for polarization, experts warn](https://phys.org/news/2026-09-politics-world-template-polarization-experts.html?utm_source=lootura.com) — 2026-09-02T19:00:02.000Z
-- [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com) — 2026-09-02T16:43:50.000Z
+- [Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests](https://phys.org/news/2026-09-europe-housing-crisis-continental-million.html?utm_source=lootura.com) — 2026-09-02T22:00:03.000Z
+- [Hidden DNA in medieval gospels reveals history of deadly livestock virus](https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html?utm_source=lootura.com) — 2026-09-02T21:20:02.000Z

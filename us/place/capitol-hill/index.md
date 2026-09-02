@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-13T05:38:46.136Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Progressive Senate candidates rack up primary wins even as they get outspent
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-09-02
 
 ### 3 takeaways from David Crowley’s comeback: From the Politics Desk
 
@@ -62,12 +68,6 @@ Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a r
 
 Date: 2026-07-14
 
-### Funding milestone detected
-
-Supreme Court justices are asking lawmakers on Capitol Hill to increase their 2027 budget, with most of the additional funding earmarked for security. Ann E. Marimow, a New York Times reporter, explains why the justices say these measures are necessary to protect them from rising threats.
-
-Date: 2026-07-14
-
 ## Sources
 
-No public source links.
+- [Progressive Senate candidates rack up primary wins even as they get outspent](https://www.nbcnews.com/politics/politics-news/progressive-senate-candidates-rack-primary-wins-even-get-outspent-rcna595769?utm_source=lootura.com) — 2026-09-02T21:05:45.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Descalabro de Jódar en Nueva York",
+      "summary": "El madrileño se estrella en su debut en el torneo contra el 'lucky loser' Bu.",
+      "date": "2026-09-02"
+    },
     {
       "title": "¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open",
       "summary": "Rafa Jódar aterriza en el último Grand Slam, el US Open , con el objetivo de seguir creciendo en el mundo del tenis. Tras un ascenso meteórico en los últimos meses, que le ha permitido colocarse en el número 11 del mundo , debutará en Nueva York frente al asiático Bu Yunchaokete , jugador con el que se citó este miérco.",
@@ -85,19 +90,14 @@
       "title": "John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?",
       "summary": "John Galliano en un fotograma del documental _Auge y caída de John Galliano_. Nicholas Matthews/StudioTF1 , FAL El Metropolitan Museum of Art de Nueva York anunció el pasado 31 de julio que la gran exposición de primavera de 2027 de su Costume Institute estará dedicada a John Galliano. John Galliano: Horizons recorrerá.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Inditex contra Shein: por qué el gigante español quintuplica los beneficios del asiático con solo un 10% más de ventas",
-      "summary": "Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que persigue desde 2020, cuando la pandemia y el auge que esta provocó sobre el comercio online disparó su valoración empresarial hasta rozar los 100.000 millones de dólares en 2022. Tras intentarlo sin éxito en los mercados de Nueva York y Lon.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open",
-      "url": "https://www.20minutos.es/deportes/tenis/rafa-jodar-bu-yunchaokete-directo-ultima-hora-mejores-puntos-resultado-primera-ronda-us-open-2026_7032071_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:33:00.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Descalabro de Jódar en Nueva York",
+      "url": "https://www.elcorreo.com/deportes/tenis/open-usa/descalabro-jodar-nueva-york-20260902233414-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:34:14.000Z",
+      "sourceId": "lootura-es-el-correo"
     }
   ],
   "evidenceCount": 1

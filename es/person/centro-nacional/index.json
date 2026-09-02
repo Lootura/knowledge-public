@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.json",
   "description": "Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-02T22:20:34.206Z",
   "aliases": [],
   "changes": [
     {
@@ -32,11 +32,6 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Documento | Los “organizadores” en el terreno: presuntos agentes marroquíes encubiertos",
-      "summary": "El informe de la policía analiza con detalles la fase previa al asalto de la frontera de Ceuta del día 31 de julio, la estrategia operativa del momento y sus consecuencias posteriores. En 55 páginas, los responsables del Centro Nacional de Inmigración y Fronteras dibujan la planificación previa para movilizar un flujo.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria",
       "summary": "« La finalidad migratoria opera solo como una cobertura formal que sirve para fomentar, impulsar y dirigir un flujo masivo de personas a la frontera de Ceuta », concluye el informe que el Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía Nacional . El documento en poder de la juez de la Audiencia Naciona.",
       "date": "2026-09-02"
@@ -44,6 +39,11 @@
     {
       "title": "El informe de la Policía desvela fotos de agentes de Marruecos guiando la invasión de Ceuta",
       "summary": "Agentes «uniformados» y no uniformados de Marruecos guiaron el asalto a Ceuta. El informe del Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía Nacional incluye una treintena de fotos donde gendarmes del reino alauita con y sin uniforme coordinan las acciones por las que llegaron 80.000 inmigrantes a la.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Documento | Los “organizadores” en el terreno: presuntos agentes marroquíes encubiertos",
+      "summary": "El informe de la policía analiza con detalles la fase previa al asalto de la frontera de Ceuta del día 31 de julio, la estrategia operativa del momento y sus consecuencias posteriores. En 55 páginas, los responsables del Centro Nacional de Inmigración y Fronteras dibujan la planificación previa para movilizar un flujo.",
       "date": "2026-09-02"
     },
     {
@@ -78,14 +78,8 @@
     {
       "title": "El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta",
       "url": "https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:10:41.000Z",
+      "publishedAt": "2026-09-02T19:49:23.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Documento | Los “organizadores” en el terreno: presuntos agentes marroquíes encubiertos",
-      "url": "https://www.lavanguardia.com/politica/20260902/11625812/documento-organizadores-terreno-presuntos-agentes-marroquies-encubiertos.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:00:13.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     },
     {
       "title": "La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria",
@@ -100,5 +94,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 5
 }

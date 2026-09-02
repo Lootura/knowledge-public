@@ -64,4 +64,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Trump Suggests Renaming Strait of Hormuz the 'Trump Strait' Amid Renewed Iran Hostilities](https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/?utm_source=lootura.com) — 2026-09-02T18:59:01.000Z
+No public source links.

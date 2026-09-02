@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»](https://www.abc.es/internacional/ue-considera-ataque-hibrido-leipzig-terrorismo-patrocinado-20260902125326-nt.html?utm_source=lootura.com) — 2026-09-02T18:07:09.000Z
+No public source links.

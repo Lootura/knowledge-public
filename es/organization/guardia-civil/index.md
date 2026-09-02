@@ -3,7 +3,7 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas
 
 Tres agentes de la Guardia Civil han resultado heridos este miércoles al interceptar una embarcación de gran potencia que transportaba una veintena de garrafas de gasolina, presuntamente destinadas al traslado de inmigrantes y al reabastecimiento de combustible de otras pateras taxi (práctica conocida como petaqueo ),.
+
+Date: 2026-09-02
+
+### La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura
+
+La investigación judicial sobre el grave accidente ferroviario ocurrido el pasado 18 de enero en Adamuz (Córdoba) ya tiene una respuesta técnica sobre el origen del desastre. El Informe Técnico de Inspección Ocular elaborado por los especialistas del Departamento de Escena del Crimen de la Guardia Civil y entregado en.
+
+Date: 2026-09-02
+
+### Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia
+
+Tres guardias civiles han resultado heridos este miércoles al ser embestida su patrullera por una narcolancha que ha sido interceptada en Cabo Cope , en el término municipal de Águilas, y cuyos dos ocupantes han sido detenidos. Según ha informado la Asociación Unificada de Guardias Civiles (AUGC), los hechos se han pro.
 
 Date: 2026-09-02
 
@@ -56,18 +68,8 @@ Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en
 
 Date: 2026-08-14
 
-### Hallan a un ciclista muerto en la cuneta de la N-5 en el término municipal de Jaraicejo (Cáceres)
-
-Hallado sin vida un ciclista en la cuneta de la N-5, a la altura del kilómetro 217, dentro del término municipal de Jaraicejo (Cáceres). El descubrimiento se produjo sobre las 12:10 horas del pasado día 12, cuando la Central 062 de la Guardia Civil recibió un aviso que alertaba de la presencia de una persona aparenteme.
-
-Date: 2026-08-14
-
-### El aviso de la Guardia Civil a los migrantes que intenten entrar en Ceuta: "Si logras cruzar, te devolverán"
-
-La Guardia Civil ha difundido un mensaje a través de sus redes sociales en español, francés y árabe con el que tratan de disuadir a las personas que estén pensando en acceder de manera irregular a España ya que, si lo hacen, han advertido, serán devueltos a su país de origen. "No te dejes engañar. Todo lo que te promet.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura](https://www.abc.es/espana/andalucia/guardia-civil-confirma-accidente-adamuz-rotura-soldadura-20260902232236-nts.html?utm_source=lootura.com) — 2026-09-02T21:34:55.000Z
 - [Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas](https://okdiario.com/espana/heridos-3-guardias-civiles-embestidos-planeadora-mafias-inmigracion-aguilas-20218621?utm_source=lootura.com) — 2026-09-02T19:07:32.000Z
+- [Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia](https://theobjective.com/espana/2026-09-02/heridos-guardias-civiles-embestidos-narcolancha-murcia/?utm_source=lootura.com) — 2026-09-02T19:34:04.000Z

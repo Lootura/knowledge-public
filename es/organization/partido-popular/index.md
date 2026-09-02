@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-02T22:20:34.206Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -14,15 +14,27 @@ El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska
 
 Date: 2026-09-02
 
-### El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo
-
-La diputada del PP en la Junta General del Principado de Asturias (JGPA) Beatriz Polledo ha exigido al Gobierno presidido por el socialista Adrián Barbón que salga «inmediatamente» a dar explicaciones sobre lo ocurrido con el piso de La Florida, en Oviedo, que el Principado llegó a plantear como recurso para acoger a m.
-
-Date: 2026-09-02
-
 ### Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"
 
 Convocados por el PP y con el respaldo de Vox los manifestantes se concentran frente a los ayuntamientos de todo el país para remarcar la españolidad de la ciudad autónoma entre insultos al presidente del Gobierno y ataques a la prensa El informe - La Policía analiza imágenes de redes sociales para apuntar a la posible.
+
+Date: 2026-09-02
+
+### Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»
+
+El líder del PP, Alberto Núñez Feijóo , ha acudido este miércoles a la masiva manifestación de la madrileña plaza de Cibeles en apoyo a Ceuta. Allí ha acusado al presidente del Gobierno, Pedro Sánchez, de «mentir» a los españoles y de «ocultar» los informes sobre la «invasión» de Ceuta, y prometió que su partido va a «.
+
+Date: 2026-09-02
+
+### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
+
+El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
+
+Date: 2026-09-02
+
+### El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo
+
+La diputada del PP en la Junta General del Principado de Asturias (JGPA) Beatriz Polledo ha exigido al Gobierno presidido por el socialista Adrián Barbón que salga «inmediatamente» a dar explicaciones sobre lo ocurrido con el piso de La Florida, en Oviedo, que el Principado llegó a plantear como recurso para acoger a m.
 
 Date: 2026-09-02
 
@@ -56,21 +68,9 @@ El acuerdo, suscrito en 2021 y renovado en 2024, está "en activo y desarrollán
 
 Date: 2026-09-02
 
-### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
-
-El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
-
-Date: 2026-09-02
-
-### Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país
-
-El líder del PP pide llamar a consultas al embajador español para determinar las respuestas contra Rabat mientras reclama la convocatoria de elecciones generales y "darle al pueblo voz" El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política d.
-
-Date: 2026-09-02
-
 ## Fuentes
 
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
 - [Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"](https://www.eldiario.es/politica/miles-ciudadanos-salen-calle-apoyo-ceuta-gestion-gobierno-sanchez-traidor_1_13482914.html?utm_source=lootura.com) — 2026-09-02T17:50:14.000Z
-- [El clamor contra el Gobierno por Ceuta moviliza a miles de personas en España](https://www.lavanguardia.com/politica/20260902/11625827/clamor-gobierno-ceuta-moviliza-miles-personas-principales-ciudades.html?utm_source=lootura.com) — 2026-09-02T18:17:16.000Z
-- [El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo](https://theobjective.com/espana/politica/2026-09-02/pp-barbon-corrupcion-piso-menas-oviedo/?utm_source=lootura.com) — 2026-09-02T15:21:16.000Z
+- [Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»](https://okdiario.com/espana/feijoo-cibeles-pais-tomado-muy-buena-nota-que-ciudad-espanola-sido-invadida-ocupada-20218865?utm_source=lootura.com) — 2026-09-02T20:14:45.000Z
+- [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z

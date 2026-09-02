@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters](https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z
+No public source links.

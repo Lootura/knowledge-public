@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-02T22:21:10.846Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches
 
 The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.
+
+Date: 2026-09-02
+
+### GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’
+
+Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.
+
+Date: 2026-09-02
+
+### U.S. oil giant Chevron confirms it will expand operations in Venezuela
+
+Oil giant Chevron confirmed that it will expand operations in Venezuela after President Donald Trump announced an ambitious deal to develop the nation's oil reserves and give the Pentagon a stake in the profits.
 
 Date: 2026-09-02
 
@@ -56,19 +68,9 @@ A plane with 147 Venezuelans landed on Monday in the South American country amid
 
 Date: 2026-08-04
 
-### Aid worker describes crisis in Venezuela, one month after devastating earthquakes
-
-Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.
-
-Date: 2026-07-24
-
-### Venezuela’s Earthquakes Show Wealth Divide, Even in Death
-
-Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.
-
-Date: 2026-07-24
-
 ## Sources
 
 - [U.S. and Venezuela sign new oil deal](https://www.cbsnews.com/video/us-and-venezuela-sign-new-oil-deal/?utm_source=lootura.com) — 2026-09-02T17:04:17.000Z
+- [GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’](https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com) — 2026-09-02T20:42:35.000Z
+- [U.S. oil giant Chevron confirms it will expand operations in Venezuela](https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com) — 2026-09-02T21:39:57.000Z
 - [Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches](https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com) — 2026-09-02T16:20:36.000Z
