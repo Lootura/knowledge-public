@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas
+
+Tres agentes de la Guardia Civil han resultado heridos este miércoles al interceptar una embarcación de gran potencia que transportaba una veintena de garrafas de gasolina, presuntamente destinadas al traslado de inmigrantes y al reabastecimiento de combustible de otras pateras taxi (práctica conocida como petaqueo ),.
+
+Date: 2026-09-02
 
 ### La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla
 
@@ -62,13 +68,6 @@ La Guardia Civil ha difundido un mensaje a través de sus redes sociales en espa
 
 Date: 2026-08-13
 
-### Muere una mujer de 52 años al darse un baño en el embalse de Valdemurio (Asturias) tras ver el eclipse
-
-Buzos de la Guardia Civil han hallado sin vida a una mujer de 52 años, vecina de Trubia (Oviedo), que permanecía desaparecida desde la noche del miércoles en el embalse asturiano de Valdemurio . La víctima se había zambullido en el agua tras contemplar el eclipse solar y no volvió a salir a la superficie. La pareja hab.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla](https://www.20minutos.es/nacional/guardia-civil-localiza-17-inmigrantes-las-islas-chafarinas-los-traslada-melilla_7032031_0.html?utm_source=lootura.com) — 2026-09-02T13:02:42.000Z
-- [El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil](https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z
+- [Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas](https://okdiario.com/espana/heridos-3-guardias-civiles-embestidos-planeadora-mafias-inmigracion-aguilas-20218621?utm_source=lootura.com) — 2026-09-02T19:07:32.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### ¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open
+
+Rafa Jódar aterriza en el último Grand Slam, el US Open , con el objetivo de seguir creciendo en el mundo del tenis. Tras un ascenso meteórico en los últimos meses, que le ha permitido colocarse en el número 11 del mundo , debutará en Nueva York frente al asiático Bu Yunchaokete , jugador con el que se citó este miérco.
+
+Date: 2026-09-02
 
 ### Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa
 
@@ -62,12 +68,6 @@ Shein ultima los preparativos para su esperada salida a Bolsa . Un objetivo que 
 
 Date: 2026-08-12
 
-### El precio del alquiler en Madrid y Barcelona ha subido más que en Nueva York desde la pandemia
-
-En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona se presentan como destinos bastante atractivos para aquellos que buscan disfrutar de un ocio barato (o al menos no tan caro como en otras grandes urbes pertenecientes al llamado 'club de los países ricos'), un punto a favor eclipsado por lo.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open](https://www.20minutos.es/deportes/tenis/rafa-jodar-bu-yunchaokete-directo-ultima-hora-mejores-puntos-resultado-primera-ronda-us-open-2026_7032071_6.html?utm_source=lootura.com) — 2026-09-02T16:33:00.000Z

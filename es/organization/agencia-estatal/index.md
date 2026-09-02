@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor](https://www.elconfidencial.com/espana/2026-09-02/aviso-naranja-aemet-calor-lluvias_4416342/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.json",
   "description": "Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "Demográfico",
     "Ecológica",
@@ -75,11 +75,11 @@
   ],
   "sources": [
     {
-      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
-      "url": "https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:10:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "González Corral destaca que el presupuesto de prevención y extinción de incendios ha pasado de 90 a 200 millones desde 2022",
+      "url": "https://www.larazon.es/castilla-y-leon/gonzalez-corral-destaca-que-presupuesto-prevencion-extincion-incendios-pasado-90-200-millones-2022_202609026a9872492d7d3022177c2fca.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:00:25.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

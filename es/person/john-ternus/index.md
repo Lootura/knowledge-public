@@ -40,5 +40,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus](https://elpais.com/economia/2026-09-02/apple-aprueba-una-retribucion-en-acciones-de-55-millones-de-dolares-para-su-nuevo-ceo.html?utm_source=lootura.com) — 2026-09-02T11:07:43.000Z
-- [Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple](https://www.expansion.com/economia-digital/companias/2026/09/02/6a97e3e3e5fdeae3298b459e.html?utm_source=lootura.com) — 2026-09-02T09:16:42.000Z
+No public source links.

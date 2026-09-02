@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T05:23:47.929Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes",
+      "summary": "Yolanda Díaz ha analizado los datos de agosto de la Seguridad Social , que registran un aumento del paro de 44.419 personas, y ha atribuido estas cifras a las nuevas altas en las oficinas de empleo de los inmigrantes regularizados .En su valoración de los datos del mercado laboral del octavo mes del año, la vicepreside.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado",
       "summary": "Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.",
@@ -61,13 +66,15 @@
       "title": "El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "El rechazo de las patronales complica la llegada de Díaz a la OIT",
-      "summary": "Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes",
+      "url": "https://www.abc.es/economia/yolanda-diaz-analiza-datos-paro-registrados-agosto-20260902111607-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:36:36.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

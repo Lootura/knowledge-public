@@ -28,4 +28,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
+No public source links.

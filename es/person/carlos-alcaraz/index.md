@@ -3,7 +3,7 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026](https://okdiario.com/deportes/que-hora-carlos-alcaraz-faria-donde-ver-gratis-television-directo-vivo-online-partido-del-us-open-2026-20207254?utm_source=lootura.com) — 2026-09-02T15:30:20.000Z
+- [A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026](https://okdiario.com/deportes/que-hora-carlos-alcaraz-faria-donde-ver-gratis-television-directo-vivo-online-partido-del-us-open-2026-20207254?utm_source=lootura.com) — 2026-09-02T18:34:20.000Z

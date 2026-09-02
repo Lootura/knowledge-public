@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T13:33:14.000Z
+- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T16:12:17.000Z

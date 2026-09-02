@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta
+
+Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea mientras sonaba por los altavoces «Ceuta no se vende y Ceuta no tiene dueño».
+
+Date: 2026-09-02
 
 ### Kaja Kallas califica el ataque híbrido ruso de Liepzig de "terrorismo patrocinado por el Estado"
 
@@ -62,12 +68,6 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-08-13
 
-### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
-
-La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta](https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:21:40.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco
 
 El Sindicato Médico de Euskadi secunda una decisión que llega en respuesta a la aprobación este martes en el Consejo de Ministros del anteproyecto que modificará las condiciones laborales de los trabajadores sanitarios.
+
+Date: 2026-09-02
+
+### Jesús Calleja se apunta al ‘farmeo de aura’ y el momento se convierte en viral: ¿y tú, eres un experto o todavía estás en prácticas?
+
+Jesús Calleja ha demostrado que no hay tendencia viral que se le resista. El presentador ha protagonizado un divertido momento junto a Álex González y su novia, Carla Virgós , durante una boda celebrada en el País Vasco, donde los tres se han animado a poner en práctica uno de los conceptos que más se han popularizado.
 
 Date: 2026-09-02
 
@@ -62,12 +68,7 @@ Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vas
 
 Date: 2026-08-13
 
-### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
-
-El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
-
-Date: 2026-08-12
-
 ## Fuentes
 
 - [Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco](https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com) — 2026-09-02T15:25:38.000Z
+- [Jesús Calleja se apunta al ‘farmeo de aura’ y el momento se convierte en viral: ¿y tú, eres un experto o todavía estás en prácticas?](https://okdiario.com/cool/famosos/jesus-calleja-apunta-farmeo-aura-momento-convierte-viral-tu-eres-experto-o-todavia-estas-practicas-20215461?utm_source=lootura.com) — 2026-09-02T18:30:36.000Z

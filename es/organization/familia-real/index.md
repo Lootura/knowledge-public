@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega](https://www.abc.es/gente/marius-borg-acepta-continuar-detencion-preventiva-perjudicar-20260902170251-nt.html?utm_source=lootura.com) — 2026-09-02T15:30:31.000Z
+No public source links.

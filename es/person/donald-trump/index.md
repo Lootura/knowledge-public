@@ -3,16 +3,10 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
 
 ### La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca
 
@@ -23,6 +17,12 @@ Date: 2026-09-02
 ### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
 
 Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
+
+Date: 2026-09-02
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
 
 Date: 2026-09-02
 
@@ -70,6 +70,6 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T13:18:35.000Z
-- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
+- [Trump formaliza la entrada de EE.UU. en el petróleo venezolano y decidirá su reparto](https://www.abc.es/internacional/trump-formaliza-entrada-eeuu-petroleo-venezolano-decidira-20260901193126-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:15.000Z
+- [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T18:36:07.000Z
 - [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z

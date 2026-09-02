@@ -3,7 +3,7 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
@@ -11,6 +11,12 @@
 ### China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal
 
 Las autoridades de China han elevado este miércoles a 21 la cifra de muertos tras la devastadora riada que tuvo lugar la semana pasada en la zona fronteriza entre la región autónoma china de Tíbet y Nepal y que ha dejado ya más de 1.100 muertos en territorio nepalí. Así, las autoridades de la citada región, conocida en.
+
+Date: 2026-09-02
+
+### Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante
+
+Para conseguir un pelo radiante hay que recurrir a nuevas técnicas. En este caso, la técnica china para lavarse el pelo es Chinese Head Spa.
 
 Date: 2026-09-02
 
@@ -62,12 +68,7 @@ Todas esas herramientas pueden ser necesarias, pero funcionan mejor cuando se ap
 
 Date: 2026-08-13
 
-### Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche
-
-China ultima una enorme planta termosolar construida a más de 4.600 metros de altitud, capaz de almacenar el calor del día en sales fundidas para seguir generando electricidad durante la noche.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante](https://okdiario.com/cool/belleza/ni-champus-caros-ni-mascarillas-tecnica-china-lavarse-pelo-lucir-cabello-mas-suave-extrabrillante-20218636/amp?utm_source=lootura.com) — 2026-09-02T19:10:51.000Z
 - [China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal](https://theobjective.com/internacional/2026-09-02/china-eleva-cifra-fallecidos-territorio-riadas-nepal/?utm_source=lootura.com) — 2026-09-02T14:58:49.000Z

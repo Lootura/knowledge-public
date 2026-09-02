@@ -70,4 +70,4 @@ Date: 2026-07-09
 
 ## Sources
 
-- [Charlie Kirk's alleged killer will stand trial for aggravated murder](https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com) — 2026-09-02T00:34:00.000Z
+No public source links.

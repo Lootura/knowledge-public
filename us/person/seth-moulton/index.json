@@ -8,25 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.json",
   "description": "Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "Moulton",
     "Seth Wilbur Moulton"
   ],
   "changes": [
     {
+      "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
+      "summary": "Sen. Ed Markey, 80, defeated Rep. Seth Moulton, 47, who had attempted to argue that it was time to do away with the \"status quo\" in his pursuit to oust the octogenarian.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate",
       "summary": "Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Massachusetts.",
       "date": "2026-09-02"
     },
     {
-      "title": "Massachusetts Democratic Senate primary pits age against ideology",
-      "summary": "Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.",
+      "title": "Discovered by Atlas",
+      "summary": "Seth Moulton first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Seth Moulton first entered the public knowledge record with source-backed evidence.",
+      "title": "Massachusetts Democratic Senate primary pits age against ideology",
+      "summary": "Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.",
       "date": "2026-09-01"
     },
     {
@@ -45,6 +50,13 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
+      "url": "https://www.pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:18:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

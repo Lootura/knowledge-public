@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
+
+El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
+
+Date: 2026-09-02
+
+### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
+
+Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
+
+Date: 2026-09-02
+
+### Abascal carga directamente contra el Gobierno en la concentración de Madrid
+
+El líder de Vox ha asegurado que Pedro Sánchez «está al servicio como lacayo del gobierno, del régimen de Marruecos».
+
+Date: 2026-09-02
+
+### Miles de españoles inundan las calles en solidaridad con Ceuta, en imágenes
+
+Miles de personas se concentran en la plaza de Cibeles en apoyo al pueblo ceutí. EFE Vista general de la plaza de Cibeles y la manifestación con motivo del Día de Ceuta en Madrid. EFE Manifestación ante el Congreso de los Diputados, en Madrid. EFE Manifestación ante el Congreso de los Diputados, en Madrid. EFE Miles de.
+
+Date: 2026-09-02
 
 ### Crisis en Ceuta, última hora en directo: La jueza pidió a la policía que no informará a Marlaska
 
@@ -23,12 +47,6 @@ Date: 2026-09-02
 ### Almeida promete minimizar las molestias a los vecinos de Madring: «Es una oportunidad única»
 
 El alcalde de Madrid, José Luis Martínez-Almeida , ha defendido este martes que la llegada del Gran Premio de España de Fórmula 1 constituye una «oportunidad única» para la capital, al tiempo que ha asegurado que el Ayuntamiento adoptará las medidas necesarias para minimizar las molestias que el evento pueda ocasionar.
-
-Date: 2026-09-02
-
-### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
-
-El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
 
 Date: 2026-09-02
 
@@ -50,27 +68,9 @@ Date: 2026-09-02
 
 Date: 2026-09-02
 
-### Guía del tráfico en Madrid tras las vacaciones: fin de las obras en Metro, carreteras reabiertas y servicios gratuitos
-
-Septiembre es el mes de regreso a la normalidad tras las vacaciones. La mayoría de cortes en carreteras y líneas de Metro se producen en agosto, aprovechando el receso de habitantes en Madrid . Con la entrada del noveno mes del año, tanto las zonas urbanas como las autovías y el suburbano vuelven poco a poco a sus tray.
-
-Date: 2026-09-02
-
-### Almeida acusa al delegado del Gobierno de intentar "desalentar" el apoyo a Ceuta
-
-El alcalde de Madrid, José Luis Martínez-Almeida, ha acusado este miércoles al delegado del Gobierno en Madrid, Francisco Martín, de intentar "desincentivar y desalentar" la asistencia a la concentración convocada este miércoles en la plaza de Cibeles con motivo del Día de Ceuta pero la respuesta va a ser "contundente".
-
-Date: 2026-09-02
-
-### Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN
-
-El primer Clásico de la temporada ya tiene fecha, hora y televisión . El próximo domingo 25 de octubre a las 21:00 horas , DAZN emitirá el primer FC Barcelona-Real Madrid del curso, un encuentro que estará marcado por varios alicientes. Será el regreso de José Mourinho al feudo azulgrana tras su vuelta al banquillo mad.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Crisis en Ceuta, última hora en directo: La jueza pidió a la policía que no informará a Marlaska](https://www.larazon.es/espana/crisis-ceuta-ultima-hora-directo-jueza-pidio-policia-que-informara-marlaska_202609026a982c922d7d3022177be954.html?utm_source=lootura.com) — 2026-09-02T15:40:18.000Z
-- [Ayuso visitó el ático tras su compra por la Comunidad de Madrid](https://www.lavanguardia.com/politica/20260902/11625701/ayuso-visito-atico-chamberi-compra-comunidad-madrid.html?utm_source=lootura.com) — 2026-09-02T15:00:57.000Z
-- [Almeida promete minimizar las molestias a los vecinos de Madring: «Es una oportunidad única»](https://okdiario.com/deportes/almeida-promete-minimizar-molestias-vecinos-madring-oportunidad-unica-20217324?utm_source=lootura.com) — 2026-09-02T15:31:12.000Z
+- [Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy](https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di_amp.html?utm_source=lootura.com) — 2026-09-02T19:14:14.000Z
+- [Abascal carga directamente contra el Gobierno en la concentración de Madrid](https://www.eldebate.com/espana/20260902/abascal-carga-directamente-contra-gobierno-concentracion-madrid_454785.html?utm_source=lootura.com) — 2026-09-02T18:40:18.000Z
+- [Miles de españoles inundan las calles en solidaridad con Ceuta, en imágenes](https://theobjective.com/galerias/espana/2026-09-02/concentraciones-espanoles-solidaridad-ceuta/?utm_source=lootura.com) — 2026-09-02T19:01:09.000Z
 - [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z

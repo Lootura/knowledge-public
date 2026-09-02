@@ -3,7 +3,7 @@
 > Follow Grand Canyon, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/grand-canyon
 
 ## Recent changes

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/gran-via/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/gran-via/index.json",
   "description": "Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "Calle Gran Via",
     "Calle Gran Vía",
@@ -17,6 +17,11 @@
     "Gran Vía, Madrid"
   ],
   "changes": [
+    {
+      "title": "Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo",
+      "summary": "Telefónica ha cerrado la venta de su antigua sede corporativa en la Gran Vía madrileña al empresario murciano Tomás Olivo , una de las grandes fortunas españolas. Telefónica y Tomás Olivo habían alcanzado un principio de acuerdo, que se conoció el pasado 21 de mayo, aunque a la operación le faltaban aún varios flecos q.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Telefónica cierra la venta de su histórica sede en Gran Vía a Tomás Olivo por 200 millones",
       "summary": "Telefónica finalmente se desprende de su primera e histórica sede en el número 28 de Gran Vía. La operadora de telecomunicaciones escrituró este martes la venta al empresario inmobiliario Tomás Olivo por 200 millones de euros, avanzan en exclusiva a CincoDías fuentes conocedoras de la transacción. Seguir leyendo.",
@@ -55,10 +60,10 @@
   ],
   "sources": [
     {
-      "title": "Telefónica cierra la venta de su histórica sede en Gran Vía a Tomás Olivo por 200 millones",
-      "url": "https://cincodias.elpais.com/companias/2026-09-02/telefonica-cierra-la-venta-de-su-historica-sede-en-gran-via-a-tomas-olivo-por-mas-de-200-millones.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T12:35:38.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/09/02/6a984d54e5fdeaed0c8b457a.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:48:55.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 1

@@ -70,4 +70,4 @@ Date: 2026-08-15
 
 ## Sources
 
-- [Former President Joe Biden Will Attend Sept. 11 Ceremony in New York](https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html?utm_source=lootura.com) — 2026-09-01T23:50:54.000Z
+No public source links.

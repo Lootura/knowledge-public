@@ -3,7 +3,7 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [USS Lincoln Docks After Nearly 300 Continuous Days at Sea](https://www.today.com/video/uss-lincoln-finally-docks-after-record-middle-east-deployment-269200453646?utm_source=lootura.com) — 2026-09-02T11:14:18.000Z
 - [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z
-- [U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break](https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html?utm_source=lootura.com) — 2026-09-02T09:32:29.000Z

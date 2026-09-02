@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -19,6 +19,11 @@
     {
       "title": "Who Approves Trump’s Washington Makeover Projects?",
       "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).",
       "date": "2026-09-02"
     },
     {
@@ -60,14 +65,15 @@
       "title": "US supreme court allows Trump to keep building $400m White House ballroom",
       "summary": "Justices’ 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work A divided US supreme court has permitted Donald Trump to continue building his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed. In a 5-4 ruling, th.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
-      "summary": "A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
+    {
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:17:19.000Z",
+      "sourceId": "lootura-us-npr"
+    },
     {
       "title": "Who Approves Trump’s Washington Makeover Projects?",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
@@ -75,5 +81,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

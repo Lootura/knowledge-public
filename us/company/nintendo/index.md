@@ -34,4 +34,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [The amazing USB-C gadgets that play old Nintendo cartridges](https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes?utm_source=lootura.com) — 2026-09-02T11:30:00.000Z
+No public source links.

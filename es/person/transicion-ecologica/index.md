@@ -3,7 +3,7 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil](https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z
+- [González Corral destaca que el presupuesto de prevención y extinción de incendios ha pasado de 90 a 200 millones desde 2022](https://www.larazon.es/castilla-y-leon/gonzalez-corral-destaca-que-presupuesto-prevencion-extincion-incendios-pasado-90-200-millones-2022_202609026a9872492d7d3022177c2fca.html?utm_source=lootura.com) — 2026-09-02T19:00:25.000Z

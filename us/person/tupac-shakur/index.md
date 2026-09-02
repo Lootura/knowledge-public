@@ -52,4 +52,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Defense attorney believes jury had "preconceived notions" in Tupac trial](https://www.cbsnews.com/news/tupac-murder-trial-duane-davis-lawyer-jury-didnt-review-evidence/?utm_source=lootura.com) — 2026-09-02T02:57:24.000Z
+No public source links.

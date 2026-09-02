@@ -3,10 +3,16 @@
 > Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/person/seth-moulton
 
 ## Recent changes
+
+### Massachusetts Sen. Markey wins primary over opponent who called for generational change
+
+Sen. Ed Markey, 80, defeated Rep. Seth Moulton, 47, who had attempted to argue that it was time to do away with the "status quo" in his pursuit to oust the octogenarian.
+
+Date: 2026-09-02
 
 ### Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate
 
@@ -14,15 +20,15 @@ Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Ma
 
 Date: 2026-09-02
 
-### Massachusetts Democratic Senate primary pits age against ideology
-
-Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.
-
-Date: 2026-09-01
-
 ### Discovered by Atlas
 
 Seth Moulton first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-01
+
+### Massachusetts Democratic Senate primary pits age against ideology
+
+Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.
 
 Date: 2026-09-01
 
@@ -46,4 +52,4 @@ Date: 2026-09-01
 
 ## Sources
 
-No public source links.
+- [Massachusetts Sen. Markey wins primary over opponent who called for generational change](https://www.pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change?utm_source=lootura.com) — 2026-09-02T16:18:42.000Z

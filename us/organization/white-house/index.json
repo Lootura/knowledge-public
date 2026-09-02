@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,11 +19,6 @@
   ],
   "changes": [
     {
-      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
-      "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Who Approves Trump’s Washington Makeover Projects?",
       "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
       "date": "2026-09-02"
@@ -31,6 +26,11 @@
     {
       "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
       "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+      "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.",
       "date": "2026-09-02"
     },
     {
@@ -77,12 +77,6 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T02:31:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "Who Approves Trump’s Washington Makeover Projects?",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T09:04:09.000Z",
@@ -95,5 +89,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

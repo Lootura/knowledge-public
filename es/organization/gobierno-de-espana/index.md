@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”](https://www.larazon.es/castilla-y-leon/alicia-garcia-sanchez-esta-ocupado-descansar-cuestiones-judiciales-pero-preocupa-personas-dependientes-discapacidad_202609026a9844893bfe5d1eff40b15d.html?utm_source=lootura.com) — 2026-09-02T15:45:13.000Z
+No public source links.

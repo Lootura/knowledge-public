@@ -3,7 +3,7 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [Trump Suggests Renaming Strait of Hormuz the 'Trump Strait' Amid Renewed Iran Hostilities](https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/?utm_source=lootura.com) — 2026-09-02T18:59:01.000Z

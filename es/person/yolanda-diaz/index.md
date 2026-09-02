@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T05:23:47.929Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes
+
+Yolanda Díaz ha analizado los datos de agosto de la Seguridad Social , que registran un aumento del paro de 44.419 personas, y ha atribuido estas cifras a las nuevas altas en las oficinas de empleo de los inmigrantes regularizados .En su valoración de los datos del mercado laboral del octavo mes del año, la vicepreside.
+
+Date: 2026-09-02
 
 ### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
 
@@ -62,12 +68,6 @@ Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras cl
 
 Date: 2026-07-23
 
-### El rechazo de las patronales complica la llegada de Díaz a la OIT
-
-Abandonados todos los cargos orgánicos en Sumar y con el fin de su carrera en primera línea de la política cuando acabe la legislatura, la vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, lleva tiempo buscando la forma de dirigir la Organización Internacional del Trabajo (OIT), una agencia de las Naciones Un.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes](https://www.abc.es/economia/yolanda-diaz-analiza-datos-paro-registrados-agosto-20260902111607-nt.html?utm_source=lootura.com) — 2026-09-02T18:36:36.000Z

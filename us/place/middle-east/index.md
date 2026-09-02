@@ -3,16 +3,10 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
-
-### Thousands of U.S. service members arrive in Thailand after record stint at sea
-
-About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East.
-
-Date: 2026-09-02
 
 ### The Navy’s Logistical Nightmare in the Iran War
 
@@ -23,6 +17,12 @@ Date: 2026-09-02
 ### US and Iran Trade New Strikes as the War Enters its 7th Month
 
 The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.
+
+Date: 2026-09-02
+
+### Thousands of U.S. service members arrive in Thailand after record stint at sea
+
+About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East.
 
 Date: 2026-09-02
 
@@ -71,5 +71,4 @@ Date: 2026-08-13
 ## Sources
 
 - [US and Iran Trade New Strikes as the War Enters its 7th Month](https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com) — 2026-09-02T11:17:56.000Z
-- [Thousands of U.S. service members arrive in Thailand after record stint at sea](https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651?utm_source=lootura.com) — 2026-09-02T04:24:12.000Z
 - [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z

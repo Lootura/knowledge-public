@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).",
+      "date": "2026-09-02"
+    },
     {
       "title": "‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity",
       "summary": "Girls Gone Bible is on tour in the US, touting a regressive ideal of femininity through discussions of abstinence and mental health struggles At first glance, the crowd gathering outside a music venue in Red Bank, New Jersey, could have passed for a group of sorority rush hopefuls – or Ella Langley fans on their way to.",
@@ -67,13 +72,15 @@
       "title": "Nurse-led initiative reduces unplanned extubations",
       "summary": "A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says",
-      "summary": "The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:17:19.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

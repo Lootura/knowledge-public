@@ -28,4 +28,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Brennan suma su tercera etapa en la Vuelta ganando con facilidad en Lorca](https://okdiario.com/deportes/brennan-suma-tercera-etapa-vuelta-ganando-facilidad-lorca-20217005?utm_source=lootura.com) — 2026-09-02T15:34:30.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,6 +19,11 @@
   ],
   "changes": [
     {
+      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
+      "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas",
       "summary": "Irán respondió así a los bombardeos estadounidenses lanzados este martes, en lo que supone el segundo ataque en menos de 48 horas, después de un mes sin que trascendieran nuevas agresiones cruzadas entre ambos países Leer.",
       "date": "2026-09-02"
@@ -26,11 +31,6 @@
     {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
-      "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
       "date": "2026-09-02"
     },
     {
@@ -73,21 +73,9 @@
     {
       "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T13:33:14.000Z",
+      "publishedAt": "2026-09-02T16:12:17.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas",
-      "url": "https://www.elmundo.es/internacional/2026/09/01/6a973d46fdddff822f8b45ae.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T05:17:47.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T02:45:54.000Z",
-      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "US politics is not the world's template for polarization, experts warn",
+      "summary": "Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "The best tech and gadgets announced at IFA so far",
+      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including more competi.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Wind damage can trigger years of forest vulnerability",
       "summary": "Windstorms are among the most important natural disturbances in Northern Europe, where they cause extensive tree mortality, timber losses and long-lasting changes in forest structure. Large-scale windstorm damage has increased across Central and Northern European forests in recent decades, while in boreal regions such.",
@@ -53,25 +63,21 @@
       "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
       "summary": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "New policy brief outlines how EU policies can better support sponge restoration",
-      "summary": "Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, \"Achi.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-      "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Wind damage can trigger years of forest vulnerability",
-      "url": "https://phys.org/news/2026-09-trigger-years-forest-vulnerability.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:40:08.000Z",
+      "title": "US politics is not the world's template for polarization, experts warn",
+      "url": "https://phys.org/news/2026-09-politics-world-template-polarization-experts.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:00:02.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "The best tech and gadgets announced at IFA so far",
+      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:43:50.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

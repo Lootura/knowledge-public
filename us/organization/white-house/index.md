@@ -3,16 +3,10 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
-
-### Former Biden White House Aide Wins Massachusetts Democratic House Primary
-
-Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.
-
-Date: 2026-09-02
 
 ### Who Approves Trump’s Washington Makeover Projects?
 
@@ -23,6 +17,12 @@ Date: 2026-09-02
 ### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
 
 In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
+
+Date: 2026-09-02
+
+### Former Biden White House Aide Wins Massachusetts Democratic House Primary
+
+Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.
 
 Date: 2026-09-02
 
@@ -71,6 +71,5 @@ Date: 2026-09-01
 ## Sources
 
 - [Trump invites battleground Republicans to Rose Garden dinner](https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406?utm_source=lootura.com) — 2026-09-02T13:32:27.000Z
-- [Former Biden White House Aide Wins Massachusetts Democratic House Primary](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com) — 2026-09-02T02:31:16.000Z
 - [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z
 - [Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com) — 2026-09-02T14:47:31.000Z

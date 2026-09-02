@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,11 +44,6 @@
   ],
   "changes": [
     {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal",
       "summary": "Alphabet, la matriz empresarial detrás del motor de búsqueda online más popular del mundo, Google, ha obtenido este miércoles una importante victoria para su negocio en los tribunales de Estados Unidos. Si ya en el pasado Alphabet esquivó el tener que vender el navegador Google Chrome por su posición dominante, en esta.",
       "date": "2026-09-02"
@@ -66,6 +61,11 @@
     {
       "title": "Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno",
       "summary": "La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
       "date": "2026-09-02"
     },
     {
@@ -104,14 +104,8 @@
     {
       "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T13:33:14.000Z",
+      "publishedAt": "2026-09-02T16:12:17.000Z",
       "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T02:45:54.000Z",
-      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
@@ -126,5 +120,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

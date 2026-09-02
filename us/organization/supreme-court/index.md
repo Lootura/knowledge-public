@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Who Approves Trump’s Washington Makeover Projects?
 
 The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+
+Date: 2026-09-02
+
+### New Jersey asks Supreme Court to resolve fight over Kalshi's future
+
+If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).
 
 Date: 2026-09-02
 
@@ -62,12 +68,7 @@ Justices’ 5-4 ruling permits Trump administration appeal to block lower court 
 
 Date: 2026-08-31
 
-### An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce
-
-A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.
-
-Date: 2026-08-14
-
 ## Sources
 
+- [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z
 - [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z

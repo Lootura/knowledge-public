@@ -68,13 +68,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:05:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

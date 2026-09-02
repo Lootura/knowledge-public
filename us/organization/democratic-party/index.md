@@ -3,20 +3,20 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### House votes to condemn socialism, with 8 Democrats joining Republicans
-
-GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.
-
-Date: 2026-09-02
-
 ### Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?
 
 For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.
+
+Date: 2026-09-02
+
+### House votes to condemn socialism, with 8 Democrats joining Republicans
+
+GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.
 
 Date: 2026-09-02
 
@@ -70,5 +70,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [House votes to condemn socialism, with 8 Democrats joining Republicans](https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/?utm_source=lootura.com) — 2026-09-02T00:49:00.000Z
-- [Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com) — 2026-09-02T13:11:07.000Z
+- [Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com) — 2026-09-02T15:56:27.000Z

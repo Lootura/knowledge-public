@@ -2,11 +2,29 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Type: organization
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
+
+El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
+
+Date: 2026-09-02
+
+### El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC
+
+Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.
+
+Date: 2026-09-02
+
+### El informe revienta la comparecencia de Sánchez y noquea al Gobierno
+
+El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva de migrantes por la frontera con Marruecos los días 30 y 31.
+
+Date: 2026-09-02
 
 ### La crisis lleva al límite la relación entre el Gobierno y Zarzuela
 
@@ -20,21 +38,9 @@ El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía
 
 Date: 2026-09-02
 
-### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
-
-El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
-
-Date: 2026-09-02
-
 ### ¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?
 
 El Gobierno defiende que debería haber tenido acceso a las conclusiones de ese atestado aportado a la Audiencia Nacional, mientras el partido que pidió investigar la entrada masiva sugiere que el ministro está ejerciendo una presión ilegal Marlaska pregunta al director de la Policía por el supuesto informe que atribuía.
-
-Date: 2026-09-02
-
-### El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC
-
-Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.
 
 Date: 2026-09-02
 
@@ -62,16 +68,8 @@ El Ejecutivo ve "casi imposible" darle la vuelta al "relato" y cree que pasarán
 
 Date: 2026-09-01
 
-### El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir
-
-En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [La crisis lleva al límite la relación entre el Gobierno y Zarzuela](https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html?utm_source=lootura.com) — 2026-09-02T15:29:18.000Z
-- [El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil](https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z
+- [El informe revienta la comparecencia de Sánchez y noquea al Gobierno](https://www.abc.es/espana/informe-policial-sobre-ceuta-revienta-comparecencia-sanchez-20260902190127-nt.html?utm_source=lootura.com) — 2026-09-02T18:18:24.000Z
 - [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
-- [¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?](https://www.eldiario.es/politica/deberia-haber-informado-policia-marlaska-contenido-informes-pidio-jueza-ceuta_1_13481636.html?utm_source=lootura.com) — 2026-09-02T09:44:35.000Z
 - [El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC](https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html?utm_source=lootura.com) — 2026-09-02T15:05:50.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
+
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
 
 ### Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta
 
@@ -17,12 +23,6 @@ Date: 2026-09-02
 ### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
 
 El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
-
-Date: 2026-09-02
-
-### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
-
-El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
 
 Date: 2026-09-02
 
@@ -70,8 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"](https://www.20minutos.es/nacional/feijoo-pide-convocar-embajadora-marruecos-adelantar-elecciones-nos-han-mentido-cara_7032032_0.html?utm_source=lootura.com) — 2026-09-02T13:04:05.000Z
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
-- [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
-- [Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país](https://www.eldiario.es/politica/feijoo-acusa-marruecos-ataque-frontera-ceuta-pide-gobierno-tome-medidas-pais_1_13482453.html?utm_source=lootura.com) — 2026-09-02T12:42:09.000Z
-- [Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora](https://www.lavanguardia.com/politica/20260902/11625566/feijoo-exige-sanchez-convoque-embajadora-marruecos-informe-policia.html?utm_source=lootura.com) — 2026-09-02T12:16:24.000Z

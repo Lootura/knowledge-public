@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
 
 Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
+
+Date: 2026-09-02
+
+### Bessent says China agrees Iran shouldn't have nuclear weapons
+
+Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.
+
+Date: 2026-09-02
+
+### China presses U.S. for answers after a man dies hours after entering ICE custody
+
+The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
 
 Date: 2026-09-02
 
@@ -56,19 +68,8 @@ While journalists can report freely on grief and anger in Nepal, China’s offic
 
 Date: 2026-09-01
 
-### Europe should adapt, not copy, China’s practical PhD
-
-Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
-
-Date: 2026-09-01
-
-### Hindu pilgrims, on arduous trek, among Nepal's missing
-
-Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain (Image credit: Rajesh Kumar Singh).
-
-Date: 2026-09-01
-
 ## Sources
 
+- [Bessent says China agrees Iran shouldn't have nuclear weapons](https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com) — 2026-09-02T16:56:59.000Z
+- [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z
 - [At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports](https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com) — 2026-09-02T03:34:29.000Z
-- [The World Can’t Ignore Nepal. We Are All in Danger.](https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/?utm_source=lootura.com) — 2026-09-02T15:00:00.000Z

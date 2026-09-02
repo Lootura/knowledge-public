@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
+
+Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
+
+Date: 2026-09-02
+
+### Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)
+
+La 'consellera' Núria Parlon critica "los discursos de odio" y subraya que los dos menores detenidos por el crimen son catalanes Leer.
+
+Date: 2026-09-02
 
 ### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
 
@@ -56,18 +68,7 @@ Pregunta. Mi madre, de 79 años, es inquilina desde hace 16 años de un piso en 
 
 Date: 2026-09-01
 
-### El ADN de la estrella de mar espinosa se organiza de forma distinta según el ambiente marino
-
-Un equipo de investigadores de la Estación Biológica de Doñana (EBD), perteneciente al Centro Superior de Investigaciones Científicas (CSIC) y la Universidad de Barcelona (UB) han descubierto que casi una quinta parte (18,6%) del material genético de la estrella de mar espinosa ('marthasterias glacialis') se organiza d.
-
-Date: 2026-09-01
-
-### Barcelona y Sarajevo: una hermanamiento de tres décadas que sigue más vivo que nunca
-
-En verano de 1992 , mientras Barcelona celebraba sus Juegos Olímpicos y proyectaba al mundo una imagen de modernidad, apertura y convivencia, Sarajevo vivía el reverso más oscuro de aquella Europa. La capital bosnia acababa de quedar atrapada por un asedio que se prolongaría hasta casi cuatro años (1992-1995) y que con.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Illa y Collboni viajan a Kiev en plena escalada de ataques rusos](https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com) — 2026-09-02T15:32:41.000Z
+- [Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy](https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di_amp.html?utm_source=lootura.com) — 2026-09-02T19:14:14.000Z
+- [Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)](https://www.elmundo.es/cataluna/2026/09/02/6a9805ade85ececf5c8b459f.html?utm_source=lootura.com) — 2026-09-02T13:02:34.000Z

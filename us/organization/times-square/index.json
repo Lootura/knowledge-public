@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/times-square/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/times-square/index.json",
   "description": "Follow Times Square, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [],
   "changes": [
     {
@@ -44,17 +44,11 @@
   ],
   "sources": [
     {
-      "title": "Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti",
-      "url": "https://www.cbsnews.com/newyork/news/erin-piacenti-times-square-stabbing-nypd-shooting/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T03:35:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T02:02:57.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

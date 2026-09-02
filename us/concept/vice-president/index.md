@@ -3,7 +3,7 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [JD Vance courts Jewish Republicans. Tucker Carlson still looms.](https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877?utm_source=lootura.com) — 2026-09-02T00:15:24.000Z
+- [JD Vance talks end times, Antichrist and AI on faith podcast](https://www.nbcnews.com/politics/trump-administration/jd-vance-talks-end-antichrist-ai-faith-podcast-rcna595733?utm_source=lootura.com) — 2026-09-02T18:29:33.000Z

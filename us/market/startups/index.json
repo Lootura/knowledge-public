@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "startup funding"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "1Password wades into a right-wing mess after funding a Linux project",
+      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:48:14.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
   "evidenceCount": 0
 }

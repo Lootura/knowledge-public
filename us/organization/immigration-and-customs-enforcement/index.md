@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### China presses U.S. for answers after a man dies hours after entering ICE custody
+
+The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
+
+Date: 2026-09-02
 
 ### ICE says it now has enough body cameras. And, Congress averts shutdown before midterms
 
@@ -62,12 +68,6 @@ Dozens of Democratic U.S. senators and Maine's Independent senator are demanding
 
 Date: 2026-07-20
 
-### ICE officer in Maine shooting has history of violent behavior, relatives say
-
-The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
-
-Date: 2026-07-18
-
 ## Sources
 
-- [ICE says it now has enough body cameras. And, Congress averts shutdown before midterms](https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown?utm_source=lootura.com) — 2026-09-02T11:08:04.000Z
+- [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z

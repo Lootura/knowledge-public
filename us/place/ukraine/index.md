@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-13
 ## Sources
 
 - [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z
-- [Attacks in Black Sea Threaten to Strangle Global Grain Supply](https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com) — 2026-09-02T09:05:50.000Z

@@ -3,20 +3,26 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
 
-### Ayuso visitó el ático tras su compra por la Comunidad de Madrid
-
-La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...
-
-Date: 2026-09-02
-
 ### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
 
 El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
+
+Date: 2026-09-02
+
+### Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta
+
+El entorno de Isabel Díaz Ayuso ha reconocido por primera vez este miércoles a EL PAÍS que la presidenta sí visitó el ático de lujo por el que el Gobierno regional pagó 6,3 millones de euros, pero aclara que lo hizo después de que se ejecutara su compra, nunca antes. Según esta versión, Ayuso meditaba trasladar aquí su.
+
+Date: 2026-09-02
+
+### Ayuso visitó el ático tras su compra por la Comunidad de Madrid
+
+La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...
 
 Date: 2026-09-02
 
@@ -62,13 +68,7 @@ Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presid
 
 Date: 2026-08-10
 
-### La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático
-
-El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Ayuso visitó el ático tras su compra por la Comunidad de Madrid](https://www.lavanguardia.com/politica/20260902/11625701/ayuso-visito-atico-chamberi-compra-comunidad-madrid.html?utm_source=lootura.com) — 2026-09-02T15:00:57.000Z
+- [Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta](https://elpais.com/espana/madrid/2026-09-02/el-gobierno-de-ayuso-reconoce-que-la-presidenta-o-alguien-de-su-equipo-visito-el-atico-antes-de-comprarlo-obvio.html?utm_source=lootura.com) — 2026-09-02T12:41:25.000Z
 - [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z

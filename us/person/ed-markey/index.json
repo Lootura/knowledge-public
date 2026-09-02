@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ed-markey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ed-markey/index.json",
   "description": "Follow Ed Markey, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "Edward J. Markey",
     "Edward John \"Ed\" Markey",
@@ -17,6 +17,11 @@
     "Markey"
   ],
   "changes": [
+    {
+      "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
+      "summary": "Sen. Ed Markey, 80, defeated Rep. Seth Moulton, 47, who had attempted to argue that it was time to do away with the \"status quo\" in his pursuit to oust the octogenarian.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
       "summary": "Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Massachusetts.",
@@ -65,10 +70,16 @@
   ],
   "sources": [
     {
-      "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
-      "url": "https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T03:22:01.000Z",
+      "title": "Progressive victory in Massachusetts as Markey sweeps Democratic Senate primary",
+      "url": "https://www.cbsnews.com/video/progressive-victory-in-massachusetts-as-markey-sweeps-democratic-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:04:00.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
+      "url": "https://www.pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:18:42.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 2

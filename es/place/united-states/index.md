@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
 
 ### Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal
 
@@ -35,6 +29,12 @@ Date: 2026-09-02
 ### Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno
 
 La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.
+
+Date: 2026-09-02
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
 
 Date: 2026-09-02
 
@@ -71,7 +71,6 @@ Date: 2026-09-01
 ## Fuentes
 
 - [Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal](https://elpais.com/economia/2026-09-02/victoria-para-google-en-los-tribunales-el-gigante-evita-la-particion-de-su-negocio-principal.html?utm_source=lootura.com) — 2026-09-02T15:48:49.000Z
-- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T13:33:14.000Z
-- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
+- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T16:12:17.000Z
 - [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
 - [Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno](https://theobjective.com/internacional/2026-09-02/sheinbaum-acusa-eeuu-usar-tacticas-injerencia-dividir-gobierno/?amp=&utm_source=lootura.com) — 2026-09-02T15:44:08.000Z

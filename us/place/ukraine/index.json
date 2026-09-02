@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -74,13 +74,7 @@
       "url": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T01:53:53.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "url": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:05:50.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

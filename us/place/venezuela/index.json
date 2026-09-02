@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -16,13 +16,13 @@
   ],
   "changes": [
     {
-      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
+      "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
+      "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
       "date": "2026-09-02"
     },
     {
-      "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
-      "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
       "date": "2026-09-02"
     },
     {
@@ -68,17 +68,17 @@
   ],
   "sources": [
     {
-      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:08:03.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "U.S. and Venezuela sign new oil deal",
+      "url": "https://www.cbsnews.com/video/us-and-venezuela-sign-new-oil-deal/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T17:04:17.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
       "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
       "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:10:14.000Z",
+      "publishedAt": "2026-09-02T16:20:36.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

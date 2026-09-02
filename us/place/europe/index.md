@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### US politics is not the world's template for polarization, experts warn
+
+Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.
+
+Date: 2026-09-02
+
+### The best tech and gadgets announced at IFA so far
+
+The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including more competi.
+
+Date: 2026-09-02
 
 ### Wind damage can trigger years of forest vulnerability
 
@@ -56,18 +68,7 @@ As blazes surge across Europe, the country is making a trade-off to protect its 
 
 Date: 2026-09-01
 
-### New policy brief outlines how EU policies can better support sponge restoration
-
-Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achi.
-
-Date: 2026-09-01
-
-### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
-
-The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Wind damage can trigger years of forest vulnerability](https://phys.org/news/2026-09-trigger-years-forest-vulnerability.html?utm_source=lootura.com) — 2026-09-02T14:40:08.000Z
+- [US politics is not the world's template for polarization, experts warn](https://phys.org/news/2026-09-politics-world-template-polarization-experts.html?utm_source=lootura.com) — 2026-09-02T19:00:02.000Z
+- [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com) — 2026-09-02T16:43:50.000Z

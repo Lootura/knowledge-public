@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/oval-office/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/oval-office/index.json",
   "description": "Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [],
   "changes": [
     {
@@ -57,6 +57,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Trump Suggests Renaming Strait of Hormuz the 'Trump Strait' Amid Renewed Iran Hostilities",
+      "url": "https://time.com/article/2026/09/02/trump-suggests-renaming-strait-of-hormuz-after-himself-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:59:01.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
   "evidenceCount": 0
 }

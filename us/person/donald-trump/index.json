@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,11 +25,6 @@
     "Trump"
   ],
   "changes": [
-    {
-      "title": "Here are the military officials who've been fired or resigned under Hegseth",
-      "summary": "At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.",
-      "date": "2026-09-02"
-    },
     {
       "title": "Trump to Nominate Hung Cao as Navy Secretary",
       "summary": "The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.",
@@ -74,13 +69,18 @@
       "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
       "summary": "President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.",
       "date": "2026-09-02"
+    },
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
+      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Here are the military officials who've been fired or resigned under Hegseth",
-      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T01:43:00.000Z",
+      "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
+      "url": "https://www.cbsnews.com/video/iran-claims-us-struck-wedding-party-as-trump-navigates-pentagon-leadership-infighting/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T17:31:56.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -102,6 +102,24 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
+      "title": "Heads or tails? $1 coin with Trump's face and gold finish go on sale",
+      "url": "https://www.pbs.org/newshour/politics/heads-or-tails-1-coin-with-trumps-face-and-gold-finish-go-on-sale?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T17:10:25.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Top U.S. doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion",
+      "url": "https://www.pbs.org/newshour/health/top-u-s-doctors-offer-updated-flu-and-covid-vaccine-recommendations-aiming-to-ease-confusion?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:21:19.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
+      "url": "https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:55:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
       "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176?utm_source=lootura.com",
       "publishedAt": "2026-09-02T09:00:00.000Z",
@@ -114,29 +132,11 @@
       "sourceId": "lootura-us-politico"
     },
     {
-      "title": "Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture",
-      "url": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:21:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:43:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:00:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Trump to Nominate Hung Cao as Navy Secretary",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:25:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Israel ‘seeking Trump’s support for plan to expel Palestinians from Gaza’",
+      "url": "https://www.theguardian.com/world/2026/sep/02/israel-seeking-trumps-support-for-plan-to-expel-palestinians-from-gaza?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:20:36.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 19
 }

@@ -3,20 +3,20 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
 
-### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
-
-Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
-
-Date: 2026-09-02
-
 ### How will tariffs affect the midterms? In this Michigan border town, it's complicated
 
 The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).
+
+Date: 2026-09-02
+
+### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
+
+Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
 
 Date: 2026-09-02
 
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal](https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com) — 2026-09-02T14:08:03.000Z
 - [How will tariffs affect the midterms? In this Michigan border town, it's complicated](https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z

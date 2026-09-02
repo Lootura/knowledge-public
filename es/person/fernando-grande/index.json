@@ -8,22 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/fernando-grande/index.json",
   "description": "Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [],
   "changes": [
     {
       "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
       "summary": "Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación",
-      "summary": "El Ministerio del Interior niega la existencia de un informe policial que implique a autoridades policiales marroquíes en la entrada masiva de migrantes en Ceuta. En un comunicado, la cartera de Fernando Grande-Marlaska asegura que así se lo ha transmitido al ministro el director general de la Policía Nacional, Francis.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos",
-      "summary": "El Ministerio del Interior sigue sosteniendo que el informe de la Policía Nacional sobre la invasión de Ceuta no vincula la avalancha con la actuación de las autoridades de Marruecos, según informan fuentes del área de Fernando Grande-Marlaska. La juez de la Audiencia Nacional Ana María Tardón ha aceptado la solicitud.",
       "date": "2026-09-02"
     },
     {
@@ -34,6 +24,21 @@
     {
       "title": "El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria",
       "summary": "El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Tres escritos de mandos policiales a Interior aseguran que ningún informe atribuye “la autoría del asalto a Ceuta a ningún gobierno”",
+      "summary": "Los superiores de los agentes del CENIF, el Centro Nacional de Inmigración y Fronteras, que hicieron el informe para la juez Tardón en el que apuntan que agentes marroquíes “guiaron” a los inmigrantes en el asalto a Ceuta, dejaron este miércoles por escrito, ante la petición del ministro del Interior, Fernando Grande-M.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación",
+      "summary": "El Ministerio del Interior niega la existencia de un informe policial que implique a autoridades policiales marroquíes en la entrada masiva de migrantes en Ceuta. En un comunicado, la cartera de Fernando Grande-Marlaska asegura que así se lo ha transmitido al ministro el director general de la Policía Nacional, Francis.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos",
+      "summary": "El Ministerio del Interior sigue sosteniendo que el informe de la Policía Nacional sobre la invasión de Ceuta no vincula la avalancha con la actuación de las autoridades de Marruecos, según informan fuentes del área de Fernando Grande-Marlaska. La juez de la Audiencia Nacional Ana María Tardón ha aceptado la solicitud.",
       "date": "2026-09-02"
     },
     {
@@ -55,31 +60,20 @@
       "title": "El PP pide la dimisión de Marlaska al decir que no conocía un informe policial sobre Ceuta",
       "summary": "El PP ha pedido este miércoles la dimisión del ministro del Interior, Fernando Grande-Marlaska , tras acusarlo de mentir por decir que no conocía un informe de la Policía que advertía de la llegada masiva de inmigrantes a Ceuta a finales de julio. «Hoy Marlaska se hace el sorprendido con un informe de la Policía que ad.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "El presidente del Senado afirma que el Gobierno “está en rebeldía\" al no comparecer sus ministros",
-      "summary": "El presidente del Senado, Pedro Rollán , afirmó este miércoles que el Gobierno está \"en rebeldía con las Cortes Generales \" y lamentó \"profundamente\" que el ministro del Interior, Fernando Grande-Marlaska , no haya comparecido en la Cámara Alta \"como era su obligación en el día de hoy\" para informar de la crisis en Ceu.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
-    {
-      "title": "Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación",
-      "url": "https://www.20minutos.es/nacional/interior-relativiza-aviso-entrada-masiva-ceuta-29-julio-niega-que-informe-policial-atribuya-marruecos-planificacion_7032055_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T13:42:19.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos",
-      "url": "https://www.abc.es/espana/marlaska-mantiene-informe-policia-sobre-ceuta-permite-20260902152007-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:31:43.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
       "url": "https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T07:44:42.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Tres escritos de mandos policiales a Interior aseguran que ningún informe atribuye “la autoría del asalto a Ceuta a ningún gobierno”",
+      "url": "https://elpais.com/espana/2026-09-02/tres-escritos-de-mandos-policiales-a-interior-aseguran-que-ningun-informe-atribuye-la-autoria-del-asalto-a-ceuta-a-ningun-gobierno.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:09:39.000Z",
+      "sourceId": "lootura-es-el-pais"
     },
     {
       "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
@@ -92,13 +86,7 @@
       "url": "https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T14:16:34.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta",
-      "url": "https://www.lavanguardia.com/politica/20260902/11625614/director-policia-comunica-marlaska-ningun-informe-situa-marruecos-asalto-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T13:18:35.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 4
 }

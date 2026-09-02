@@ -3,20 +3,32 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
-
-El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
-
-Date: 2026-09-02
-
 ### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
 
 El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
+
+Date: 2026-09-02
+
+### 72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz
+
+Algunos han secundado la convocatoria de la FEMP y otros han organizado su propio acto para sortear la prohibición de la Ejecutiva Federal socialista.
+
+Date: 2026-09-02
+
+### En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos
+
+Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.
+
+Date: 2026-09-02
+
+### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
+
+El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
 
 Date: 2026-09-02
 
@@ -56,19 +68,8 @@ El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del
 
 Date: 2026-09-01
 
-### El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables
-
-El Grupo Municipal Socialista ha registrado este martes una petición de información para solicitar por escrito el expediente completo y toda la documentación técnica, jurídica y administrativa de Casa Árabe , ante «la falta de transparencia», y ha pedido al alcalde de Madrid, José Luis Martínez-Almeida , que «deje de b.
-
-Date: 2026-09-01
-
-### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord
-
-El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez](https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com) — 2026-09-02T11:13:52.000Z
+- [72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz](https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:47:30.000Z
+- [En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos](https://theobjective.com/espana/2026-09-02/sumario-tarde-concentraciones-ceuta-informe-policial-marruecos/?utm_source=lootura.com) — 2026-09-02T17:56:10.000Z
 - [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z

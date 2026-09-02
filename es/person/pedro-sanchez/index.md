@@ -3,7 +3,7 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
@@ -11,6 +11,48 @@
 ### Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta
 
 Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...
+
+Date: 2026-09-02
+
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
+
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
+
+### ¿Elecciones, para qué?
+
+Cualquiera ve que el problema de Sánchez con el Rey es de puro sometimiento, entendiendo que no se trata de que Sánchez deba someterse al Rey, algo fuera de lugar que nadie reclama, no; es el Rey el que tendría que someterse a Sánchez, en el sentido de subordinarse a su capricho y voluntad personal, incluso cuando qued.
+
+Date: 2026-09-02
+
+### El informe revienta la comparecencia de Sánchez y noquea al Gobierno
+
+El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva de migrantes por la frontera con Marruecos los días 30 y 31.
+
+Date: 2026-09-02
+
+### Abascal carga directamente contra el Gobierno en la concentración de Madrid
+
+El líder de Vox ha asegurado que Pedro Sánchez «está al servicio como lacayo del gobierno, del régimen de Marruecos».
+
+Date: 2026-09-02
+
+### Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"
+
+Convocados por el PP y con el respaldo de Vox los manifestantes se concentran frente a los ayuntamientos de todo el país para remarcar la españolidad de la ciudad autónoma entre insultos al presidente del Gobierno y ataques a la prensa El informe - La Policía analiza imágenes de redes sociales para apuntar a la posible.
+
+Date: 2026-09-02
+
+### Miles de ceutíes reivindican en una marcha la "españolidad" de la ciudad fronteriza: "Nos sentimos abandonados"
+
+En la marcha de este miércoles en la ciudad autónoma se han repetido los cánticos contra el Gobierno de Pedro Sánchez, al que acusan de abandono y "traición" Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: “¡Sánchez, traidor!” Un grupo de militares camina por la principal calle c.
+
+Date: 2026-09-02
+
+### Última hora de la crisis de Ceuta, en directo | Manifestaciones, inmigración, Gobierno y actualidad política de España hoy
+
+Ceuta sigue sufriendo las consecuencias de la invasión de miles de magrebíes y subsaharianos del pasado 30 de julio. La tensión en la ciudad autónoma sigue escalando y los ciudadanos denuncian la inseguridad que sienten en las calles y llaman al Gobierno de Pedro Sánchez a actuar de una vez por todas.Precisamente, este.
 
 Date: 2026-09-02
 
@@ -26,57 +68,13 @@ El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras e
 
 Date: 2026-09-02
 
-### Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa
-
-La mujer de Pedro Sánchez debe declarar como querellada el próximo 23 de octubre Leer.
-
-Date: 2026-09-02
-
-### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
-
-El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
-
-Date: 2026-09-02
-
-### Interior niega que el informe enviado a la juez atribuya "a las Fuerzas de Seguridad" de Marruecos el ataque a Ceuta
-
-El Ministerio del Interior ha desmentido este miércoles que el ataque a la frontera española desde Ceuta -así definido por el presidente, Pedro Sánchez, el 31 de julio, como un...
-
-Date: 2026-09-02
-
-### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
-
-El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
-
-Date: 2026-09-02
-
-### Sánchez hace autocrítica con Ceuta: “Me hago cargo de que para muchos la respuesta del Estado es insuficiente”
-
-El presidente difunde un mensaje a los ceutíes en el día de la ciudad y horas antes de las manifestaciones convocadas por todo el país: "Vamos a seguir movilizando todos los recursos a nuestro alcance para que la ciudad recupere cuanto antes la normalidad" Marlaska pregunta al director de la Policía por el supuesto inf.
-
-Date: 2026-09-02
-
-### Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”
-
-La portavoz del Grupo Parlamentario Popular en el Senado, Alicia García, afirmó hoy que el presidente del Gobierno de España, Pedro Sánchez, está “muy ocupado con descansar y con defenderse de la corrupción” y “muy ocupado en las cuestiones judiciales que le afectan, pero no se preocupa” por las personas con discapacid.
-
-Date: 2026-09-02
-
-### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
-
-Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"](https://www.20minutos.es/nacional/feijoo-pide-convocar-embajadora-marruecos-adelantar-elecciones-nos-han-mentido-cara_7032032_0.html?utm_source=lootura.com) — 2026-09-02T13:04:05.000Z
-- [Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa](https://www.elmundo.es/espana/2026/09/02/6a9825d2fc6c83303f8b459d.html?utm_source=lootura.com) — 2026-09-02T13:47:56.000Z
+- [¿Elecciones, para qué?](https://www.abc.es/opinion/julian-quiros-elecciones-20260902112146-nt.html?utm_source=lootura.com) — 2026-09-02T18:10:41.000Z
+- [El informe revienta la comparecencia de Sánchez y noquea al Gobierno](https://www.abc.es/espana/informe-policial-sobre-ceuta-revienta-comparecencia-sanchez-20260902190127-nt.html?utm_source=lootura.com) — 2026-09-02T18:18:24.000Z
+- [Abascal carga directamente contra el Gobierno en la concentración de Madrid](https://www.eldebate.com/espana/20260902/abascal-carga-directamente-contra-gobierno-concentracion-madrid_454785.html?utm_source=lootura.com) — 2026-09-02T18:40:18.000Z
 - [Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com) — 2026-09-02T07:44:42.000Z
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
-- [Interior niega que el informe enviado a la juez atribuya "a las Fuerzas de Seguridad" de Marruecos el ataque a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a9820e2e85ece0b188b4580.html?utm_source=lootura.com) — 2026-09-02T13:30:27.000Z
-- [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
-- [La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez](https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com) — 2026-09-02T11:13:52.000Z
-- [Sánchez hace autocrítica con Ceuta: “Me hago cargo de que para muchos la respuesta del Estado es insuficiente”](https://www.eldiario.es/politica/sanchez-autocritica-ceuta-cargo-respuesta-insuficiente_1_13481784.html?utm_source=lootura.com) — 2026-09-02T10:34:38.000Z
-- [Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”](https://www.larazon.es/castilla-y-leon/alicia-garcia-sanchez-esta-ocupado-descansar-cuestiones-judiciales-pero-preocupa-personas-dependientes-discapacidad_202609026a9844893bfe5d1eff40b15d.html?utm_source=lootura.com) — 2026-09-02T15:45:13.000Z
-- [El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara](https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com) — 2026-09-02T13:38:39.000Z
+- [Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"](https://www.eldiario.es/politica/miles-ciudadanos-salen-calle-apoyo-ceuta-gestion-gobierno-sanchez-traidor_1_13482914.html?utm_source=lootura.com) — 2026-09-02T17:50:14.000Z
+- [Miles de ceutíes reivindican en una marcha la "españolidad" de la ciudad fronteriza: "Nos sentimos abandonados"](https://www.eldiario.es/politica/decenas-miles-ceuties-reivindican-marcha-espanolidad-ciudad-fronteriza-sentimos-abandonados_1_13483383.html?utm_source=lootura.com) — 2026-09-02T18:53:52.000Z
+- [Última hora de la crisis de Ceuta, en directo | Manifestaciones, inmigración, Gobierno y actualidad política de España hoy](https://okdiario.com/espana/ultimas-noticias-invasion-ceuta-siga-aqui-directo-concentraciones-toda-espana-apoyo-ciudad-autonoma-20212660/amp?utm_source=lootura.com) — 2026-09-02T19:08:51.000Z

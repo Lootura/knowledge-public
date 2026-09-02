@@ -64,4 +64,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara](https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com) — 2026-09-02T13:38:39.000Z
+No public source links.

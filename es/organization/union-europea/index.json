@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta",
+      "summary": "Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea mientras sonaba por los altavoces «Ceuta no se vende y Ceuta no tiene dueño».",
+      "date": "2026-09-02"
+    },
     {
       "title": "Kaja Kallas califica el ataque híbrido ruso de Liepzig de \"terrorismo patrocinado por el Estado\"",
       "summary": "La alta representante de la Unión Europea para Política Exterior y Seguridad, Kaja Kallas , aseguró este miércoles que el ataque híbrido con drones de hace un mes en un aeropuerto de la ciudad alemana de Leipzig, del que Berlín responsabiliza a Rusia, tiene \"todas las características del terrorismo patrocinado por el E.",
@@ -58,13 +63,15 @@
       "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
-      "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta",
+      "url": "https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:21:40.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

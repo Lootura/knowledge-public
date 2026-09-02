@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -47,11 +47,6 @@
       "date": "2026-09-02"
     },
     {
-      "title": "USS Lincoln Docks After Nearly 300 Continuous Days at Sea",
-      "summary": "After more than 280 days at sea and reports of deteriorating conditions and morale, thousands of sailors and Marines from the USS Abraham Lincoln are finally on land. The ship arrived at a port in Eastern Thailand on Wednesday to take a four-day break from its deployment supporting the war in Iran before heading home t.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
       "summary": "Iran fired on U.S. allies in the Gulf early Wednesday following a night of American bombardment that Iranian officials say included a deadly strike on a wedding party.",
       "date": "2026-09-02"
@@ -62,12 +57,29 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
-      "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern.",
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+      "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
+      "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
       "date": "2026-09-02"
     }
   ],
   "sources": [
+    {
+      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
+      "url": "https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:56:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
+      "url": "https://www.cbsnews.com/video/iran-claims-us-struck-wedding-party-as-trump-navigates-pentagon-leadership-infighting/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T17:31:56.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Iran war ramps up again amid series of resignations and firings in U.S. military",
       "url": "https://www.cbsnews.com/video/iran-war-ramps-up-again-amid-resignations-and-firings-in-us-military/?utm_source=lootura.com",
@@ -78,12 +90,6 @@
       "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
       "url": "https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com",
       "publishedAt": "2026-09-02T11:17:56.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "USS Lincoln Docks After Nearly 300 Continuous Days at Sea",
-      "url": "https://www.today.com/video/uss-lincoln-finally-docks-after-record-middle-east-deployment-269200453646?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:14:18.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -121,12 +127,6 @@
       "url": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T10:27:52.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
-      "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:41:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 12

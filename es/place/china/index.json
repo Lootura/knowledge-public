@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -30,6 +30,11 @@
     {
       "title": "China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal",
       "summary": "Las autoridades de China han elevado este miércoles a 21 la cifra de muertos tras la devastadora riada que tuvo lugar la semana pasada en la zona fronteriza entre la región autónoma china de Tíbet y Nepal y que ha dejado ya más de 1.100 muertos en territorio nepalí. Así, las autoridades de la citada región, conocida en.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante",
+      "summary": "Para conseguir un pelo radiante hay que recurrir a nuevas técnicas. En este caso, la técnica china para lavarse el pelo es Chinese Head Spa.",
       "date": "2026-09-02"
     },
     {
@@ -71,14 +76,15 @@
       "title": "Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»",
       "summary": "Todas esas herramientas pueden ser necesarias, pero funcionan mejor cuando se apoyan en ciudadanos responsables.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche",
-      "summary": "China ultima una enorme planta termosolar construida a más de 4.600 metros de altitud, capaz de almacenar el calor del día en sales fundidas para seguir generando electricidad durante la noche.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
+    {
+      "title": "Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante",
+      "url": "https://okdiario.com/cool/belleza/ni-champus-caros-ni-mascarillas-tecnica-china-lavarse-pelo-lucir-cabello-mas-suave-extrabrillante-20218636/amp?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T19:10:51.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
     {
       "title": "China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal",
       "url": "https://theobjective.com/internacional/2026-09-02/china-eleva-cifra-fallecidos-territorio-riadas-nepal/?utm_source=lootura.com",
@@ -86,5 +92,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

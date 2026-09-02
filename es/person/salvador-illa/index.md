@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Illa y Collboni viajan a Kiev en plena escalada de ataques rusos](https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com) — 2026-09-02T15:32:41.000Z
+No public source links.

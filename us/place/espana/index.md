@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’](https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup?utm_source=lootura.com) — 2026-09-02T12:00:23.000Z
+No public source links.

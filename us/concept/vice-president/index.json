@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
   "aliases": [
     "EVP",
     "VP",
@@ -43,10 +43,10 @@
   ],
   "sources": [
     {
-      "title": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
-      "url": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T00:15:24.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "JD Vance talks end times, Antichrist and AI on faith podcast",
+      "url": "https://www.nbcnews.com/politics/trump-administration/jd-vance-talks-end-antichrist-ai-faith-podcast-rcna595733?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:29:33.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
   "evidenceCount": 0

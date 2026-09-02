@@ -70,4 +70,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Attacks in Black Sea Threaten to Strangle Global Grain Supply](https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com) — 2026-09-02T09:05:50.000Z
+No public source links.

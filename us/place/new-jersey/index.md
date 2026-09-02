@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-02T19:16:09.956Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### New Jersey asks Supreme Court to resolve fight over Kalshi's future
+
+If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).
+
+Date: 2026-09-02
 
 ### ‘Demonic oppression’ and ‘girly convos’: the podcast wooing young women back to Christianity
 
@@ -62,12 +68,6 @@ A nurse-led initiative at a New Jersey hospital reversed an upward trend of unpl
 
 Date: 2026-08-03
 
-### Body of missing girl found in New Jersey's Passaic River after 2-day search, mayor says
-
-The body of a missing girl was found in the Passaic River in New Jersey after a two-day search, officials said.
-
-Date: 2026-08-01
-
 ## Sources
 
-No public source links.
+- [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z

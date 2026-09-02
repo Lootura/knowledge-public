@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [Una investigación abierta en Portugal arroja luz sobre cómo la trama de Aldama movía fondos del fraude fiscal en España](https://www.eldiario.es/politica/investigacion-abierta-portugal-arroja-luz-trama-aldama-movia-fondos-fraude-fiscal-espana_1_13482826.html?utm_source=lootura.com) — 2026-09-02T15:22:40.000Z

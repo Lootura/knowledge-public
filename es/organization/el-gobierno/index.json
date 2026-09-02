@@ -1,16 +1,31 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
+      "summary": "El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
+      "summary": "Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El informe revienta la comparecencia de Sánchez y noquea al Gobierno",
+      "summary": "El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva de migrantes por la frontera con Marruecos los días 30 y 31.",
+      "date": "2026-09-02"
+    },
     {
       "title": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
       "summary": "Cambio de tono. El Gobierno buscó este martes maquillar el evidente deterioro de su relación con Zarzuela, una situación que se lleva larvando durante años, pero que se ha exhibido con más nitidez en las últimas semanas al calor de la crisis migratoria de Ceuta. En Moncloa se afanan ahora por proyectar «total normalida.",
@@ -22,18 +37,8 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
-      "summary": "El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?",
       "summary": "El Gobierno defiende que debería haber tenido acceso a las conclusiones de ese atestado aportado a la Audiencia Nacional, mientras el partido que pidió investigar la entrada masiva sugiere que el ministro está ejerciendo una presión ilegal Marlaska pregunta al director de la Policía por el supuesto informe que atribuía.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
-      "summary": "Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.",
       "date": "2026-09-02"
     },
     {
@@ -55,25 +60,14 @@
       "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
       "summary": "El Ejecutivo ve \"casi imposible\" darle la vuelta al \"relato\" y cree que pasarán varias semanas antes de normalizar Ceuta: \"Esto va para largo\" Leer.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
-      "summary": "En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
-      "url": "https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:29:18.000Z",
+      "title": "El informe revienta la comparecencia de Sánchez y noquea al Gobierno",
+      "url": "https://www.abc.es/espana/informe-policial-sobre-ceuta-revienta-comparecencia-sanchez-20260902190127-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:18:24.000Z",
       "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
-      "url": "https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:10:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
     },
     {
       "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
@@ -82,17 +76,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?",
-      "url": "https://www.eldiario.es/politica/deberia-haber-informado-policia-marlaska-contenido-informes-pidio-jueza-ceuta_1_13481636.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:44:35.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
       "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
       "url": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T15:05:50.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

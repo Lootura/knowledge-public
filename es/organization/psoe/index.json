@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-02T19:15:45.319Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,13 +22,23 @@
   ],
   "changes": [
     {
-      "title": "La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez",
-      "summary": "El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.",
+      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
+      "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
       "date": "2026-09-02"
     },
     {
-      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
-      "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
+      "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
+      "summary": "Algunos han secundado la convocatoria de la FEMP y otros han organizado su propio acto para sortear la prohibición de la Ejecutiva Federal socialista.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
+      "summary": "Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez",
+      "summary": "El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.",
       "date": "2026-09-02"
     },
     {
@@ -60,24 +70,20 @@
       "title": "El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»",
       "summary": "El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables",
-      "summary": "El Grupo Municipal Socialista ha registrado este martes una petición de información para solicitar por escrito el expediente completo y toda la documentación técnica, jurídica y administrativa de Casa Árabe , ante «la falta de transparencia», y ha pedido al alcalde de Madrid, José Luis Martínez-Almeida , que «deje de b.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord",
-      "summary": "El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez",
-      "url": "https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:13:52.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
+      "url": "https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:47:30.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
+      "url": "https://theobjective.com/espana/2026-09-02/sumario-tarde-concentraciones-ceuta-informe-policial-marruecos/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T17:56:10.000Z",
+      "sourceId": "lootura-es-the-objective"
     },
     {
       "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
@@ -86,5 +92,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

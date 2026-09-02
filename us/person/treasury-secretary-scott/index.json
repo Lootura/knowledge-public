@@ -1,0 +1,50 @@
+{
+  "id": "usa-treasury-secretary-scott",
+  "name": "Treasury Secretary Scott",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/treasury-secretary-scott",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/treasury-secretary-scott",
+  "markdownUrl": "https://atlas.lootura.com/us/person/treasury-secretary-scott/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/treasury-secretary-scott/index.json",
+  "description": "Follow Treasury Secretary Scott, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+      "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
+      "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Treasury Secretary Scott first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'",
+      "summary": "Treasury Secretary Scott Bessent said Tuesday that 19 of the members of the G20 agreed to address streams of \"cheap exports\" that cause global economic imbalances, but China dissented.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
+      "url": "https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T16:56:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+      "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:34:29.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

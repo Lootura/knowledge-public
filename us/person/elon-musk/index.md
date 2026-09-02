@@ -58,4 +58,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [Elon Musk’s heterodox robotaxi philosophy gets put to the test](https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar?utm_source=lootura.com) — 2026-09-02T12:00:00.000Z
+No public source links.

@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-02T19:15:45.319Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
-
-El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.
-
-Date: 2026-09-02
-
 ### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
 
 Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
+
+Date: 2026-09-02
+
+### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
+
+El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.
 
 Date: 2026-09-02
 
@@ -70,6 +70,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus](https://elpais.com/economia/2026-09-02/apple-aprueba-una-retribucion-en-acciones-de-55-millones-de-dolares-para-su-nuevo-ceo.html?utm_source=lootura.com) — 2026-09-02T11:07:43.000Z
 - [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
-- [Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple](https://www.expansion.com/economia-digital/companias/2026/09/02/6a97e3e3e5fdeae3298b459e.html?utm_source=lootura.com) — 2026-09-02T09:16:42.000Z

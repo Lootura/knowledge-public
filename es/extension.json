@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:15:09.205Z",
+  "generatedAt": "2026-09-02T19:32:17.843Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|154|1788364623180",
+    "signature": "1.18.0|155|1788376545319",
     "version": "1.18.0",
-    "build": 154,
-    "latestEntityUpdatedAt": "2026-09-02T15:57:03.180Z"
+    "build": 155,
+    "latestEntityUpdatedAt": "2026-09-02T19:15:45.319Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
       "url": "https://atlas.lootura.com/es/place/madrid",
       "path": "/es/place/madrid",
-      "updatedAt": "2026-09-02T15:57:03.180Z",
-      "score": 1752,
-      "sourceCount": 765,
+      "updatedAt": "2026-09-02T19:15:45.319Z",
+      "score": 1748,
+      "sourceCount": 768,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,22 +34,22 @@
         "title": "Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos",
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-09-02T15:57:03.180Z",
-        "score": 1700,
-        "sourceCount": 91,
+        "updatedAt": "2026-09-02T19:15:45.319Z",
+        "score": 1707,
+        "sourceCount": 98,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-09-02T15:57:03.180Z",
-        "score": 1695,
-        "sourceCount": 458,
+        "id": "es-espana",
+        "name": "España",
+        "type": "place",
+        "title": "Crisis en Ceuta, última hora en directo: La jueza pidió a la policía que no informará a Marlaska",
+        "url": "https://atlas.lootura.com/es/place/espana",
+        "path": "/es/place/espana",
+        "updatedAt": "2026-09-02T19:15:45.319Z",
+        "score": 1707,
+        "sourceCount": 1272,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,22 +60,22 @@
         "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
         "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
         "path": "/es/person/isabel-diaz-ayuso",
-        "updatedAt": "2026-09-02T15:57:03.180Z",
-        "score": 1690,
-        "sourceCount": 47,
+        "updatedAt": "2026-09-02T19:15:45.319Z",
+        "score": 1700,
+        "sourceCount": 48,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-09-02T15:57:03.180Z",
-        "score": 1683,
-        "sourceCount": 1261,
+        "id": "es-pedro-sanchez",
+        "name": "Pedro Sánchez",
+        "type": "person",
+        "title": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
+        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+        "path": "/es/person/pedro-sanchez",
+        "updatedAt": "2026-09-02T19:15:45.319Z",
+        "score": 1695,
+        "sourceCount": 464,
         "isBreaking": false,
         "isPinned": false
       }

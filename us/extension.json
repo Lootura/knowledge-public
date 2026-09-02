@@ -1,42 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:15:03.389Z",
+  "generatedAt": "2026-09-02T19:32:13.342Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|154|1788364641261",
+    "signature": "1.18.0|155|1788376569956",
     "version": "1.18.0",
-    "build": 154,
-    "latestEntityUpdatedAt": "2026-09-02T15:57:21.261Z"
+    "build": 155,
+    "latestEntityUpdatedAt": "2026-09-02T19:16:09.956Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-iran",
-      "name": "Iran",
+      "id": "usa-china",
+      "name": "China",
       "type": "place",
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "url": "https://atlas.lootura.com/us/place/iran",
-      "path": "/us/place/iran",
-      "updatedAt": "2026-09-02T15:57:21.261Z",
-      "score": 1707,
-      "sourceCount": 430,
+      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
+      "url": "https://atlas.lootura.com/us/place/china",
+      "path": "/us/place/china",
+      "updatedAt": "2026-09-02T19:16:09.956Z",
+      "score": 1656,
+      "sourceCount": 83,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-iran",
+        "name": "Iran",
+        "type": "place",
+        "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-09-02T19:16:09.956Z",
+        "score": 1639,
+        "sourceCount": 432,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+        "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-09-02T15:57:21.261Z",
-        "score": 1694,
-        "sourceCount": 846,
+        "updatedAt": "2026-09-02T19:16:09.956Z",
+        "score": 1639,
+        "sourceCount": 854,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +60,9 @@
         "title": "Trump to Nominate Hung Cao as Navy Secretary",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-02T15:57:21.261Z",
-        "score": 1639,
-        "sourceCount": 820,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-china",
-        "name": "China",
-        "type": "place",
-        "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
-        "url": "https://atlas.lootura.com/us/place/china",
-        "path": "/us/place/china",
-        "updatedAt": "2026-09-02T15:57:21.261Z",
+        "updatedAt": "2026-09-02T19:16:09.956Z",
         "score": 1628,
-        "sourceCount": 81,
+        "sourceCount": 826,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +70,16 @@
         "id": "usa-white-house",
         "name": "White House",
         "type": "organization",
-        "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+        "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-09-02T15:57:21.261Z",
-        "score": 1624,
+        "updatedAt": "2026-09-02T19:16:09.956Z",
+        "score": 1620,
         "sourceCount": 153,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 177
+    "publicEntityCount": 179
   }
 }
