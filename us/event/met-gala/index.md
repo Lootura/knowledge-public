@@ -3,7 +3,7 @@
 > Follow Met Gala, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: event
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/event/met-gala
 
 ## Recent changes

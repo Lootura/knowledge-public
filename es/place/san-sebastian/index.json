@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -77,13 +77,7 @@
       "url": "https://www.diariovasco.com/san-sebastian/euskal-jaiak-toman-donostia-proximas-dos-semanas-20260901133015-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T11:30:15.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta",
-      "url": "https://theconversation.com/por-que-carmen-sevilla-fue-una-estrella-edgar-morin-y-el-imaginario-de-la-espana-de-los-cincuenta-285983?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:54:32.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/john-ternus
 
 ## Recent changes
+
+### What to expect from new Apple CEO John Ternus as Tim Cook steps down
+
+John Ternus officially took over for Tim Cook as Apple CEO on Tuesday, becoming the tech giant's first new leader in 15 years. CBS News' Jo Ling Kent reports and CBS News contributor Patrick McGee breaks down what to expect.
+
+Date: 2026-09-02
 
 ### Discovered by Atlas
 
@@ -20,18 +26,7 @@ Ternus faces challenges that will force him to step outside his comfort zone in 
 
 Date: 2026-09-01
 
-### John Ternus is Apple's new CEO, replacing Tim Cook
-
-John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.
-
-Date: 2026-09-01
-
-### John Ternus takes over as Apple’s new CEO
-
-John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus . How will we look back on Cook’s legacy, and what will Apple look like under the leade.
-
-Date: 2026-09-01
-
 ## Sources
 
+- [What to expect from new Apple CEO John Ternus as Tim Cook steps down](https://www.cbsnews.com/video/what-to-expect-from-john-ternus-as-apple-ceo-as-tim-cook-steps-down/?utm_source=lootura.com) — 2026-09-02T00:10:36.000Z
 - [Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company](https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com) — 2026-09-01T22:06:30.000Z

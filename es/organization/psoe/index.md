@@ -3,16 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
+### El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz
 
-Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
+La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### La 'rebelión' imparable de los alcaldes del PSOE: al menos 30 se manifestarán por Ceuta en contra de las órdenes de Sánchez
 
@@ -29,6 +29,18 @@ Date: 2026-09-01
 ### El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables
 
 El Grupo Municipal Socialista ha registrado este martes una petición de información para solicitar por escrito el expediente completo y toda la documentación técnica, jurídica y administrativa de Casa Árabe , ante «la falta de transparencia», y ha pedido al alcalde de Madrid, José Luis Martínez-Almeida , que «deje de b.
+
+Date: 2026-09-01
+
+### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord
+
+El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
+
+Date: 2026-09-01
+
+### Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"
+
+«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...
 
 Date: 2026-09-01
 
@@ -56,22 +68,11 @@ Comienza el nuevo curso y, con él, empieza a reactivarse la actividad judicial 
 
 Date: 2026-09-01
 
-### El PSOE reclama al juez del caso Leire Díez que solo la Fiscalía pueda ver el rastreo de sus cuentas bancarias
-
-El partido exige “extremar las cautelas” para que no haya “ninguna filtración” y pide que solo Anticorrupción pueda tener acceso a la pieza separada sobre sus depósitos El juez Pedraz abre la puerta a imputar al PSOE en el caso Leire Díez al permitir el análisis de seis de sus cuentas bancarias El PSOE ha solicitado al.
-
-Date: 2026-09-01
-
-### Crisis migratoria en Ceuta y Marruecos, en directo: última hora de las manifestaciones, enfrentamientos y grietas en el Gobierno del PSOE
-
-Miles de migrantes permanecen todavía en la ciudad autónoma mientras continúan las devoluciones y aumenta la presión para buscar una salida a los menores. Sigue en directo las noticias de Ceuta y Melilla.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones](https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html?utm_source=lootura.com) — 2026-09-01T19:45:10.000Z
+- [El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord](https://www.elmundo.es/espana/encuestas/2026/09/01/6a9718dce85eceb0388b4599.html?utm_source=lootura.com) — 2026-09-01T20:44:10.000Z
+- [Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"](https://amp.elmundo.es/espana/2026/09/01/6a971acbfc6c8347758b4593.html?utm_source=lootura.com) — 2026-09-01T20:44:20.000Z
 - [La 'rebelión' imparable de los alcaldes del PSOE: al menos 30 se manifestarán por Ceuta en contra de las órdenes de Sánchez](https://www.elmundo.es/espana/2026/09/01/6a96cbfffdddff325b8b457a.html?utm_source=lootura.com) — 2026-09-01T13:41:28.000Z
+- [El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz](https://www.larazon.es/andalucia/apoyo-ceuta-abre-brecha-seno-psoe-andaluz_202609026a97790c2d7d3022177b1a45.html?utm_source=lootura.com) — 2026-09-02T01:17:00.000Z
 - [El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»](https://okdiario.com/espana/lider-psoe-ceuta-pido-todos-socialistas-espana-que-no-hagan-caso-sanchez-vayan-manisfestacion-20211865?utm_source=lootura.com) — 2026-09-01T21:51:58.000Z
-- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z
 - [El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables](https://theobjective.com/espana/politica/2026-09-01/psoe-expediente-casa-arabe-almeida-culpables/?utm_source=lootura.com) — 2026-09-01T19:17:13.000Z

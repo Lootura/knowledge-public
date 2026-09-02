@@ -70,7 +70,4 @@ Date: 2026-08-11
 
 ## Sources
 
-- [Canada's Labrador Shelf preserves climate records once thought erased by ice](https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html?utm_source=lootura.com) — 2026-09-01T21:40:05.000Z
-- [Peekaboo island: the floating forest confounding nature watchers in western Canada](https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com) — 2026-09-01T20:06:49.000Z
-- [Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks](https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html?utm_source=lootura.com) — 2026-09-01T19:47:32.000Z
-- [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming?utm_source=lootura.com) — 2026-09-01T21:22:56.000Z
+No public source links.

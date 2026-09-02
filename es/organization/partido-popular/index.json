@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "PP",
     "populares"
@@ -17,6 +17,16 @@
     {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
       "summary": "El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord",
+      "summary": "El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
+      "summary": "La Federación de Municipios y Provincias ha convocado para esta tarde a las 20 horas concentraciones frente a todas las sedes municipales de España en apoyo de Ceuta, que, precisamente, hoy celebra su día. Seguir leyendo...",
       "date": "2026-09-01"
     },
     {
@@ -53,25 +63,9 @@
       "title": "\"Que convoque elecciones y la derecha tendrá una mayoría histórica\": el PP responde a Sánchez por deslegitimar \"la alternancia\"",
       "summary": "El presidente calificó ayer de \"involución\" una posible ecuación de gobierno conservador Leer.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño",
-      "summary": "La baronesa del PP blinda la gestión de su portavoz y consejero de mayor confianza mientras el presidente del Gobierno aprovecha su primera aparición del curso para atacarla por la compra del ático Leer.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
-      "summary": "El Partido Popular reprocha al presidente del Gobierno que exculpe a Marruecos de la crisis de Ceuta y busque culpables en otro lado, tras haber apuntado a Rusia, Israel y a la “internacional ultraderechista” de propagar los bulos que provocaron la entrada masiva. “Le ha faltado culpar a Franco”, ha ironizado este lune.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
-    {
-      "title": "Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»",
-      "url": "https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:37:31.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
     {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
       "url": "https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com",
@@ -79,17 +73,17 @@
       "sourceId": "lootura-es-el-diario-vasco"
     },
     {
-      "title": "Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles",
-      "url": "https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:58:40.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/09/01/6a9718dce85eceb0388b4599.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:44:10.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
-      "url": "https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:35:30.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
+      "url": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:05:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

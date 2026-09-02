@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Petróleo pesado venezolano para las refinerías estadounidenses](https://theconversation.com/petroleo-pesado-venezolano-para-las-refinerias-estadounidenses-290954?utm_source=lootura.com) — 2026-09-01T16:01:24.000Z
+No public source links.

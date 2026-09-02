@@ -3,22 +3,10 @@
 > Sigue la actividad de El Ayuntamiento en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/el-ayuntamiento
 
 ## Cambios recientes
-
-### Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como "acto institucional"
-
-El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. "Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas",.
-
-Date: 2026-09-01
-
-### La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»
-
-El Ayuntamiento de Madrid confirma que ha recibido un escrito en el que se deniega la autorización de la concentración en la capital.
-
-Date: 2026-09-01
 
 ### Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre
 
@@ -29,6 +17,18 @@ Date: 2026-09-01
 ### El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta
 
 El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.
+
+Date: 2026-09-01
+
+### Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como "acto institucional"
+
+El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. "Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas",.
+
+Date: 2026-09-01
+
+### La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»
+
+El Ayuntamiento de Madrid confirma que ha recibido un escrito en el que se deniega la autorización de la concentración en la capital.
 
 Date: 2026-09-01
 
@@ -70,7 +70,5 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como "acto institucional"](https://www.20minutos.es/madrid/ayuntamiento-madrid-denuncia-que-gobierno-prohibe-concentracion-este-miercoles-cibeles-apoyo-ceuta_7031700_0.html?utm_source=lootura.com) — 2026-09-01T17:51:13.000Z
-- [La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»](https://www.eldebate.com/espana/madrid/20260901/delegacion-gobierno-madrid-no-autoriza-concentracion-apoyo-ceuta-iban-asistir-feijoo-abascal_454349.html?utm_source=lootura.com) — 2026-09-01T17:20:36.000Z
 - [Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre](https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html?utm_source=lootura.com) — 2026-09-01T18:45:17.000Z
 - [El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta](https://www.eldiario.es/madrid/somos/delegacion-gobierno-madrid-pide-ayuntamiento-convoque-protesta-ceuta-acto-institucional-autorizarla_1_13480691.html?utm_source=lootura.com) — 2026-09-01T18:30:37.000Z

@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Putin Pledges Increased Strikes in Ukraine and Support for Iran
+
+The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.
+
+Date: 2026-09-02
 
 ### Send your questions for Richard Engel on Ukraine and more
 
@@ -17,6 +23,12 @@ Date: 2026-09-01
 ### Germany blames Russia for attempted drone attack at Leipzig airport
 
 Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks
+
+The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.
 
 Date: 2026-09-01
 
@@ -56,19 +68,9 @@ Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. 
 
 Date: 2026-08-13
 
-### Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
-
-The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
-
-Date: 2026-08-13
-
-### Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies
-
-The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Send your questions for Richard Engel on Ukraine and more](https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com) — 2026-09-01T17:57:01.000Z
+- [Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks](https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks?utm_source=lootura.com) — 2026-09-01T23:15:02.000Z
 - [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
+- [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z

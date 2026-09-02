@@ -8,19 +8,9 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-ayuntamiento/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-ayuntamiento/index.json",
   "description": "Sigue la actividad de El Ayuntamiento en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como \"acto institucional\"",
-      "summary": "El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. \"Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas\",.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»",
-      "summary": "El Ayuntamiento de Madrid confirma que ha recibido un escrito en el que se deniega la autorización de la concentración en la capital.",
-      "date": "2026-09-01"
-    },
     {
       "title": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
       "summary": "El Ayuntamiento de Madrid ha acusado este martes al Gobierno de Pedro Sánchez de “boicotear” la concentración por Ceuta que el Consistorio ha convocado para este miércoles tras haber recibido un escrito de la Delegación del Gobierno que le reprocha haber solicitado la autorización por la vía del derecho de reunión, pes.",
@@ -29,6 +19,16 @@
     {
       "title": "El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta",
       "summary": "El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como \"acto institucional\"",
+      "summary": "El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. \"Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas\",.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»",
+      "summary": "El Ayuntamiento de Madrid confirma que ha recibido un escrito en el que se deniega la autorización de la concentración en la capital.",
       "date": "2026-09-01"
     },
     {
@@ -64,18 +64,6 @@
   ],
   "sources": [
     {
-      "title": "Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como \"acto institucional\"",
-      "url": "https://www.20minutos.es/madrid/ayuntamiento-madrid-denuncia-que-gobierno-prohibe-concentracion-este-miercoles-cibeles-apoyo-ceuta_7031700_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:51:13.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "La delegación del Gobierno en Madrid no autoriza la concentración en apoyo a Ceuta aunque dice que admitirá un «acto institucional»",
-      "url": "https://www.eldebate.com/espana/madrid/20260901/delegacion-gobierno-madrid-no-autoriza-concentracion-apoyo-ceuta-iban-asistir-feijoo-abascal_454349.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:20:36.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
       "title": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
       "url": "https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T18:45:17.000Z",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

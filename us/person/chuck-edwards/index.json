@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/chuck-edwards/index.json",
   "description": "Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Charles Marion Edwards",
     "Chuck",
@@ -18,6 +18,11 @@
     {
       "title": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides",
       "summary": "The House Ethics Committee detailed the North Carolina Republican's \"unprofessional and inappropriate conduct\" toward two young women who worked for him.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+      "summary": "The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members. (Image credit: Allison Robbert).",
       "date": "2026-09-01"
     },
     {
@@ -62,7 +67,13 @@
       "url": "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:17:00.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:18:20.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

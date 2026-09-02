@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/charlie-kirk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/charlie-kirk/index.json",
   "description": "Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Charles J. Kirk",
     "Charles James Kirk",
@@ -16,6 +16,21 @@
     "Charlie"
   ],
   "changes": [
+    {
+      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
+      "summary": "A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+      "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward",
+      "summary": "A judge in Utah is expected to decide whether there is enough evidence to move forward with a trial against the man accused of fatally shooting Charlie Kirk.",
+      "date": "2026-09-01"
+    },
     {
       "title": "U.S. Says It Revoked More Than 175,000 Visas Under Trump",
       "summary": "Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.",
@@ -50,30 +65,27 @@
       "title": "Charlie Kirk murder suspect said \"he wishes he hadn't done it,\" roommate says",
       "summary": "Lance Twiggs said in a recorded interview with a Utah prosecutor that he saw Robinson the day after Charlie Kirk was shot and killed.",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Prosecutors to play interview with Tyler Robinson's roommate in Charlie Kirk trial",
-      "summary": "Video of an interview with the roommate of Tyler Robinson, the suspect in the killing of Charlie Kirk, is set to be played in court Thursday. Robinson allegedly confessed to killing Kirk in a conversation with the roommate. CBS News correspondent Carter Evans reports.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "Details on preliminary hearing in Charlie Kirk murder case",
-      "summary": "A critical hearing is continuing this week for Tyler Robinson, the man accused of killing Charlie Kirk. CBS News' Anna Schecter reports.",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "Clips of interview with roommate of Charlie Kirk murder suspect to be played in court",
-      "summary": "Prosecutors plan to play audio clips of an interview with the roommate of Charlie Kirk's accused killer during a preliminary hearing on Thursday. CBS News legal contributor Caroline Polisi has more details.",
-      "date": "2026-07-09"
     }
   ],
   "sources": [
     {
-      "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
+      "url": "https://www.cbsnews.com/video/accused-charlie-kirk-shooter-tyler-robinson-must-stand-trial-judge-rules/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:29:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+      "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:34:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward",
+      "url": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:02:54.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 3
 }

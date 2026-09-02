@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
 
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
@@ -62,12 +68,6 @@ La Administración Trump ha abierto un nuevo frente comercial con uno de sus pri
 
 Date: 2026-08-13
 
-### Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney
-
-El precio supone un récord para la NBA.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-01T20:42:07.000Z
+- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z

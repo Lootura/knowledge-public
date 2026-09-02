@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Entre yates, lujo y glamour en Puerto Portals: un cocinero persigue a un camarero para pegarle y tiene que actuar la Guardia Civil
+
+Pesadilla en la cocina en toda regla. Una fuerte discusión entre un cocinero y un camarero en una exclusiva cafetería de Puerto Portals terminó con momentos de tensión, una persecución por el interior del establecimiento y la intervención de la Guardia Civil . El camarero habría asegurado que recibió amenazas de muerte.
+
+Date: 2026-09-02
 
 ### Salvamento Marítimo y la Guardia Civil rescatan a 24 inmigrantes en una patera en Cabrera
 
@@ -62,12 +68,6 @@ El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia
 
 Date: 2026-08-11
 
-### El robo de la pistola por el guardia civil asesino de Laura: «Llevamos dieciséis años pidiendo armeros»
-
-Llanes intenta retomar una cierta normalidad una semana después del crimen de Laura Cruz, la guardia civil asesinada por su expareja, Dámaso , que también era agente de la Benemérita. La Policía Judicial de la Guardia Civil de la Comandancia de Gijón ha asumido la investigación para esclarecer los hechos, aunque con el.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Entre yates, lujo y glamour en Puerto Portals: un cocinero persigue a un camarero para pegarle y tiene que actuar la Guardia Civil](https://okdiario.com/baleares/yates-lujo-glamour-puerto-portals-cocinero-persigue-camarero-pegarle-tiene-que-actuar-guardia-civil-20208800?utm_source=lootura.com) — 2026-09-02T02:00:03.000Z

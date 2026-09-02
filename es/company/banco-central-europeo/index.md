@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE](https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com) — 2026-09-01T15:09:00.000Z
+No public source links.

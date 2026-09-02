@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas](https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com) — 2026-09-01T15:31:23.000Z
+No public source links.

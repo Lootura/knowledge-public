@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/amancio-ortega/index.json",
   "description": "Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "Amancio",
     "Amancio Ortega Gaona",
@@ -16,6 +16,16 @@
     "Ortega"
   ],
   "changes": [
+    {
+      "title": "Prueba de fuego para Inditex, que cotiza cerca de récord",
+      "summary": "Con la cotización de sus acciones en zona de máximos recientes, la compañía fundada por Amancio Ortega presentará sus resultados del primer semestre fiscal de 2026 el miércoles 9 de septiembre. Se espera que presente un beneficio neto superior a los 3.000 millones de euros frente a los 2.791 millones de un año antes y.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Amancio Ortega (90 años), sobre su patrimonio: «Si he ganado tanto dinero ha sido porque mi objetivo no ha sido nunca ganar dinero»",
+      "summary": "Amancio Ortega es uno de los empresarios españoles más importantes de la historia y una de las figuras más discretas del mundo de los negocio s. El fundador de Inditex ha construido una de las mayores fortunas del planeta sin apenas conceder entrevistas y manteniendo siempre una enorme distancia con la exposición públi.",
+      "date": "2026-09-01"
+    },
     {
       "title": "La reflexión de Amancio Ortega (90 años) sobre su vida: «No tenía tiempo para estudiar porque trabajaba las 24 horas del día»",
       "summary": "Amancio Ortega , a sus 90 años, es una de las personas más ricas del mundo. El fundador de Inditex ocupa la décima posición en la lista de multimillonarios en tiempo real de Forbes , con una fortuna estimada en unos 149.000 millones de dólares . En 1990, la periodista Covadonga O’Shea viajó hasta Arteixo para conocer p.",
@@ -55,18 +65,21 @@
       "title": "Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia",
       "summary": "Amancio Ortega está muy unido a una pequeña localidad de Valladolid donde nació su madre y donde tiene sus raíces familiares.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»",
-      "summary": "Amancio Ortega creció en la pequeña localidad de Busdongo de Arriba, donde nació porque su padre se encontraba trabajando allí.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Amancio Ortega first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Prueba de fuego para Inditex, que cotiza cerca de récord",
+      "url": "https://www.expansion.com/inversion/2026/09/02/6a970ae9468aeb4f2d8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:02:40.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Amancio Ortega (90 años), sobre su patrimonio: «Si he ganado tanto dinero ha sido porque mi objetivo no ha sido nunca ganar dinero»",
+      "url": "https://okdiario.com/cool/famosos/amancio-ortega-90-anos-sobre-propio-patrimonio-si-he-ganado-tanto-dinero-sido-porque-objetivo-no-sido-nunca-ganar-dinero-realidad-20156084?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:55:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 2
 }

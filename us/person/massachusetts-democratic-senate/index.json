@@ -1,0 +1,45 @@
+{
+  "id": "usa-massachusetts-democratic-senate",
+  "name": "Massachusetts Democratic Senate",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/massachusetts-democratic-senate",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/massachusetts-democratic-senate",
+  "markdownUrl": "https://atlas.lootura.com/us/person/massachusetts-democratic-senate/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/massachusetts-democratic-senate/index.json",
+  "description": "Follow Massachusetts Democratic Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger",
+      "summary": "The oldest senator in Massachusetts history used a progressive message to beat Representative Seth Moulton, 47, defying calls for generational change.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Massachusetts Democratic Senate primary pits age against ideology",
+      "summary": "Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Massachusetts Democratic Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Massachusetts Democratic Senate primary pits age against ideology",
+      "url": "https://www.cbsnews.com/video/massachusetts-democratic-primary-pits-age-against-ideology/?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:38:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:06:12.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

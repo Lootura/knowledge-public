@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots",
+      "summary": "With just days until the first ballots are set to be mailed to voters, a whistleblower inside the U.S. Postal Service is warning that a new delivery system could disrupt the handling of election mail and potentially put the midterm elections at risk. Amna Nawaz discussed more with Jacob Bogage of Reuters.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.",
@@ -57,13 +62,15 @@
       "title": "Iran war hurting U.S. allies in region, former Jordanian foreign minister says",
       "summary": "For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Tamara Keith and Jasmine Wright on the political fallout of Trump's address",
-      "summary": "NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots",
+      "url": "https://www.pbs.org/newshour/show/whistleblower-warns-usps-rushing-new-system-that-could-jeopardize-mail-in-ballots?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:55:44.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

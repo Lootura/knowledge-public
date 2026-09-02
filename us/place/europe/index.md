@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Europe should adapt, not copy, China’s practical PhD
+
+Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
+
+Date: 2026-09-02
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
@@ -14,15 +20,15 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-01
 
-### Europe should adapt, not copy, China’s practical PhD
-
-Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
-
-Date: 2026-09-01
-
 ### Germany blames Russia for attempted drone attack at Leipzig airport
 
 Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### Europe should adapt, not copy, China’s practical PhD
+
+Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
 
 Date: 2026-09-01
 
@@ -62,15 +68,8 @@ Eleven years into a migration crisis, Greece is trying to stop boats crossing fr
 
 Date: 2026-08-14
 
-### Europe's mountain summits are warming—vegetation is responding in surprisingly different ways
-
-Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetat.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-01T22:22:32.693Z
+- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
 - [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
-- [A roadmap for animal-free chemical testing](https://phys.org/news/2026-09-roadmap-animal-free-chemical.html?utm_source=lootura.com) — 2026-09-01T21:40:02.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T23:38:51.000Z

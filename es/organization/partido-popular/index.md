@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -11,6 +11,18 @@
 ### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
 
 El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.
+
+Date: 2026-09-01
+
+### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord
+
+El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
+
+Date: 2026-09-01
+
+### El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta
+
+La Federación de Municipios y Provincias ha convocado para esta tarde a las 20 horas concentraciones frente a todas las sedes municipales de España en apoyo de Ceuta, que, precisamente, hoy celebra su día. Seguir leyendo...
 
 Date: 2026-09-01
 
@@ -56,21 +68,8 @@ El presidente calificó ayer de "involución" una posible ecuación de gobierno 
 
 Date: 2026-08-31
 
-### Ayuso protege a García, su 'hombre para todo' entre los ataques de Sánchez por la compra del ático y el malestar de parte del PP madrileño
-
-La baronesa del PP blinda la gestión de su portavoz y consejero de mayor confianza mientras el presidente del Gobierno aprovecha su primera aparición del curso para atacarla por la compra del ático Leer.
-
-Date: 2026-08-31
-
-### El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”
-
-El Partido Popular reprocha al presidente del Gobierno que exculpe a Marruecos de la crisis de Ceuta y busque culpables en otro lado, tras haber apuntado a Rusia, Israel y a la “internacional ultraderechista” de propagar los bulos que provocaron la entrada masiva. “Le ha faltado culpar a Franco”, ha ironizado este lune.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-- [Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»](https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com) — 2026-09-01T18:37:31.000Z
 - [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z
-- [Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles](https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html?utm_source=lootura.com) — 2026-09-01T17:58:40.000Z
-- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z
+- [El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord](https://www.elmundo.es/espana/encuestas/2026/09/01/6a9718dce85eceb0388b4599.html?utm_source=lootura.com) — 2026-09-01T20:44:10.000Z
+- [El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta](https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html?utm_source=lootura.com) — 2026-09-01T22:05:00.000Z

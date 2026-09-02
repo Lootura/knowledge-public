@@ -3,10 +3,22 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Prueba de fuego para Inditex, que cotiza cerca de récord
+
+Con la cotización de sus acciones en zona de máximos recientes, la compañía fundada por Amancio Ortega presentará sus resultados del primer semestre fiscal de 2026 el miércoles 9 de septiembre. Se espera que presente un beneficio neto superior a los 3.000 millones de euros frente a los 2.791 millones de un año antes y.
+
+Date: 2026-09-02
+
+### Amancio Ortega (90 años), sobre su patrimonio: «Si he ganado tanto dinero ha sido porque mi objetivo no ha sido nunca ganar dinero»
+
+Amancio Ortega es uno de los empresarios españoles más importantes de la historia y una de las figuras más discretas del mundo de los negocio s. El fundador de Inditex ha construido una de las mayores fortunas del planeta sin apenas conceder entrevistas y manteniendo siempre una enorme distancia con la exposición públi.
+
+Date: 2026-09-01
 
 ### La reflexión de Amancio Ortega (90 años) sobre su vida: «No tenía tiempo para estudiar porque trabajaba las 24 horas del día»
 
@@ -56,18 +68,7 @@ Amancio Ortega está muy unido a una pequeña localidad de Valladolid donde naci
 
 Date: 2026-08-04
 
-### Amancio Ortega, sobre su vida en Busdongo de Arbas: «En casa no había lujos; no había nada de nada, pero nos educaron con valores»
-
-Amancio Ortega creció en la pequeña localidad de Busdongo de Arriba, donde nació porque su padre se encontraba trabajando allí.
-
-Date: 2026-07-25
-
-### Discovered by Atlas
-
-Amancio Ortega first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Prueba de fuego para Inditex, que cotiza cerca de récord](https://www.expansion.com/inversion/2026/09/02/6a970ae9468aeb4f2d8b4580.html?utm_source=lootura.com) — 2026-09-02T00:02:40.000Z
+- [Amancio Ortega (90 años), sobre su patrimonio: «Si he ganado tanto dinero ha sido porque mi objetivo no ha sido nunca ganar dinero»](https://okdiario.com/cool/famosos/amancio-ortega-90-anos-sobre-propio-patrimonio-si-he-ganado-tanto-dinero-sido-porque-objetivo-no-sido-nunca-ganar-dinero-realidad-20156084?utm_source=lootura.com) — 2026-09-01T22:55:40.000Z

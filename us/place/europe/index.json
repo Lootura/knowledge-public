@@ -8,25 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
+      "title": "Europe should adapt, not copy, China’s practical PhD",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
     },
     {
-      "title": "Europe should adapt, not copy, China’s practical PhD",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
       "date": "2026-09-01"
     },
     {
-      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
-      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
+      "title": "Europe should adapt, not copy, China’s practical PhD",
+      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
       "date": "2026-09-01"
     },
     {
@@ -58,18 +63,13 @@
       "title": "Greece toughens stance on illegal migration with new deportation plan",
       "summary": "Eleven years into a migration crisis, Greece is trying to stop boats crossing from North Africa to the Greek island of Crete. Five European Union countries have made a breakthrough in their efforts to deport migrants crossing the Mediterranean Sea. Uganda in East Africa has agreed to accept them, although the deal has.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Europe's mountain summits are warming—vegetation is responding in surprisingly different ways",
-      "summary": "Decades of climate change have not left Europe's mountain vegetation unscathed. However, the changes observed do not always match expectations. As a new international study by a research team led by researchers from the University of Vienna, the Austrian Academy of Sciences and the BOKU University shows, alpine vegetat.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
       "title": "Europe should adapt, not copy, China’s practical PhD",
       "url": "https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:22:32.693Z",
+      "publishedAt": "2026-09-02T02:50:09.608Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -79,17 +79,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "A roadmap for animal-free chemical testing",
-      "url": "https://phys.org/news/2026-09-roadmap-animal-free-chemical.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:40:02.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:57:53.000Z",
+      "publishedAt": "2026-09-01T23:38:51.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa
+
+Carlos Alcaraz, el gran mago contemporáneo de la raqueta, ha llegado a Nueva York con la misión de hacer 'el más difícil todavía': volver a la pista en un 'grande' tras una lesión larga, sin jugar ningún torneo previo, y levantar el trofeo. De cero a cien.Solo se recuerda el caso de Roger Federer , al que están colmand.
+
+Date: 2026-09-01
 
 ### Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square
 
@@ -62,12 +68,6 @@ En un mundo sometido a un esfuerzo económico cada vez mayor, Madrid y Barcelona
 
 Date: 2026-08-10
 
-### Tráiler de ‘The Only Living Pickpocket in New York’: Los Oscar le deben una nominación a John Turturro
-
-El cine es el único arte capaz de capturar la esencia de un lugar. El celuloide tiene a verdaderos expertos dentro de la radiografía urbana . Ahí está Fellini con Roma, Wong Kar-wai con Hong Kong o Woody Allen con Nueva York. Ahora, es precisamente esta última la que vuelve a contar con una oda incondicional de la mano.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square](https://www.abc.es/sociedad/muere-vicepresidenta-bank-america-tras-apunalada-mujer-20260901211759-nt.html?utm_source=lootura.com) — 2026-09-01T19:19:09.000Z
+- [Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa](https://www.abc.es/deportes/tenis/solvencia-enemigos-alcaraz-planta-segunda-ronda-motivos-20260901002143-nt.html?utm_source=lootura.com) — 2026-09-01T23:19:30.000Z

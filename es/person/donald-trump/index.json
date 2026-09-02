@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.",
@@ -69,18 +74,13 @@
       "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
       "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Venden los Lakers por 12.500 millones de dólares a un empresario relacionado con Trump y a un antiguo alto cargo de Disney",
-      "summary": "El precio supone un récord para la NBA.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:42:07.000Z",
+      "publishedAt": "2026-09-02T02:45:54.000Z",
       "sourceId": "lootura-es-cinco-dias"
     }
   ],

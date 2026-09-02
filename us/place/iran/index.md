@@ -3,10 +3,28 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says
+
+Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.
+
+Date: 2026-09-02
+
+### Putin Pledges Increased Strikes in Ukraine and Support for Iran
+
+The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.
+
+Date: 2026-09-02
+
+### Trump to Nominate Hung Cao as Navy Secretary
+
+The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.
+
+Date: 2026-09-02
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
@@ -17,6 +35,12 @@ Date: 2026-09-01
 ### Oil prices rise again as U.S. renews Iran strikes
 
 Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.
+
+Date: 2026-09-01
+
+### News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz
+
+In our news wrap Tuesday, the U.S. struck targets inside Iran in response to what it called attempted attacks against ships in the Strait of Hormuz, the jury in the Lindsay Clancy trial spent a fourth day deliberating, telling the judge at one point that they were struggling to reach a unanimous decision and John Ternu.
 
 Date: 2026-09-01
 
@@ -44,32 +68,11 @@ NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U
 
 Date: 2026-09-01
 
-### U.S. Strikes May Have Targeted a New Type of Iranian Naval Mine
-
-The U.S. military said its attacks against Iran were in response to a threat to the Strait of Hormuz.
-
-Date: 2026-08-31
-
-### Trump's plan for economic D-day for Iran has one big hole: China
-
-The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.
-
-Date: 2026-08-31
-
-### Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China
-
-A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-
-Date: 2026-08-31
-
-### Low oil prices now ‘goal No. 1’ in Iran war, Vance says, as U.S. threatens new economic pressure
-
-Keeping gas prices low is now the United States’ “goal No.
-
-Date: 2026-08-15
-
 ## Sources
 
 - [Oil prices rise again as U.S. renews Iran strikes](https://www.cbsnews.com/video/oil-prices-rise-again-as-us-renews-iran-strikes/?utm_source=lootura.com) — 2026-09-01T15:09:34.000Z
-- [U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html?utm_source=lootura.com) — 2026-09-01T22:17:32.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T21:57:53.000Z
+- [News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-u-s-strikes-iran-after-attempted-attacks-against-ships-in-strait-of-hormuz?utm_source=lootura.com) — 2026-09-01T22:55:25.000Z
+- [U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html?utm_source=lootura.com) — 2026-09-02T00:23:07.000Z
+- [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z
+- [Trump to Nominate Hung Cao as Navy Secretary](https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html?utm_source=lootura.com) — 2026-09-02T01:24:42.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T23:38:51.000Z

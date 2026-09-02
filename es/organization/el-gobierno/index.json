@@ -8,13 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
-      "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
-      "date": "2026-09-01"
+      "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
+      "summary": "«¿5.000? Eso no se lo cree nadie» . La cifra que ofreció Pedro Sánchez sobre los ilegales que permanecen en Ceuta ha causado si cabe más indignación a las autoridades de la ciudad, que aproximan a esa cifra sólo los menores, que en teoría les corresponde gestionar a los servicios sociales de la administración local. Pe.",
+      "date": "2026-09-02"
     },
     {
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
@@ -24,11 +24,6 @@
     {
       "title": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
       "summary": "El Gobierno alemán ha señalado formalmente este martes a Rusia como responsable de un ataque con drones bomba en el aeropuerto de Leipzig. Pocos dudaban de la posible autoría rusa del atentado fallido del 4 de agosto que tenía como objetivo aviones de carga ucranios . Por la gravedad de la acusación, el Ejecutivo feder.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta",
-      "summary": "El Gobierno ha anunciado que ya hay disponibles más de 3.400 nuevas plazas para acoger a inmigrantes en Ceuta . Además, el Ejecutivo ha cifrado en 3.519 los migrantes retornados hasta este lunes 31 de agosto desde la ciudad autónoma a Marruecos , en 214 los que han sido expulsados y ha aclarado que son 1.612 los menore.",
       "date": "2026-09-01"
     },
     {
@@ -47,28 +42,27 @@
       "date": "2026-09-01"
     },
     {
+      "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
+      "summary": "El Ejecutivo ve \"casi imposible\" darle la vuelta al \"relato\" y cree que pasarán varias semanas antes de normalizar Ceuta: \"Esto va para largo\" Leer.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
+      "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta",
+      "summary": "El Gobierno ha anunciado que ya hay disponibles más de 3.400 nuevas plazas para acoger a inmigrantes en Ceuta . Además, el Ejecutivo ha cifrado en 3.519 los migrantes retornados hasta este lunes 31 de agosto desde la ciudad autónoma a Marruecos , en 214 los que han sido expulsados y ha aclarado que son 1.612 los menore.",
+      "date": "2026-09-01"
+    },
+    {
       "title": "Aprobadas bonificaciones permanentes en Sociedades e IRPF para Ceuta y Melilla en un bloque de 309 millones",
       "summary": "El Gobierno ha movilizado un paquete económico de 309 millones de euros de apoyo y dinamización para Ceuta, cuando se cumple un mes desde que estalló la crisis migratoria y humanitaria en la ciudad autónoma. El Real Decreto-ley de medidas urgentes incluye un refuerzo de los servicios esenciales, de la seguridad, de la.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno habilita parcelas del puerto, terrenos de Vivienda y un cuartel para la acogida",
-      "summary": "El Gobierno ha aprobado este martes la habilitación de tres nuevos espacios para la acogida de los inmigrantes que permanecen en Ceuta desde la entrada masiva del 30 de julio. Las nuevas ubicaciones se desplegarán en parcelas del puerto de la ciudad, terrenos del Ministerio de Vivienda y un cuartel militar, que se unen.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Moncloa trata ahora de exhibir normalidad con el Rey tras señalarle por Ceuta",
-      "summary": "El Gobierno trata de exhibir normalidad con Zarzuela después de que Pedro Sánchez señalara abiertamente la ausencia del jefe de Estado en Ceuta a colación de la crisis generada por la entrada masiva del pasado 30 de julio. El presidente aprovechó su primera intervención pública en el arranque de curso, una entrevista e.",
       "date": "2026-09-01"
     }
   ],
   "sources": [
-    {
-      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
-      "url": "https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:31:23.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
       "url": "https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html?utm_source=lootura.com",
@@ -76,10 +70,10 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta",
-      "url": "https://www.elconfidencial.com/espana/2026-09-01/moncloa-anuncia-3-400-nuevas-plazas-para-acoger-migrantes_4416131/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T16:33:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
+      "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
+      "url": "https://www.elmundo.es/espana/2026/09/01/6a9700b4e85ece5b578b45b9.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:44:01.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
@@ -104,6 +98,12 @@
       "url": "https://www.eldiario.es/madrid/somos/delegacion-gobierno-madrid-pide-ayuntamiento-convoque-protesta-ceuta-acto-institucional-autorizarla_1_13480691.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T18:30:37.000Z",
       "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
+      "url": "https://www.larazon.es/espana/gobierno-vivas-estalla-menores-ceuta-son-inmanejables_202609026a9775213bfe5d1eff3fc2bc.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T01:00:17.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
   "evidenceCount": 7

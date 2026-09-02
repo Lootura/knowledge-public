@@ -3,7 +3,7 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-03
 ## Sources
 
 - [U.S. Treasury official on economic goals at G20 summit](https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com) — 2026-09-01T15:06:23.000Z
-- [Ocean heat waves linked with poorer health among children in coastal communities](https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html?utm_source=lootura.com) — 2026-09-01T21:20:01.000Z

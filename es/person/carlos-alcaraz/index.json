@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.json",
   "description": "Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "Alcaraz",
     "Carlos",
     "Carlos Alcaraz Garfia"
   ],
   "changes": [
+    {
+      "title": "Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa",
+      "summary": "Carlos Alcaraz, el gran mago contemporáneo de la raqueta, ha llegado a Nueva York con la misión de hacer 'el más difícil todavía': volver a la pista en un 'grande' tras una lesión larga, sin jugar ningún torneo previo, y levantar el trofeo. De cero a cien.Solo se recuerda el caso de Roger Federer , al que están colmand.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Alcaraz y la bendita sensación de la normalidad: “Si me dicen que vaya a ‘full’, yo voy a ir a ‘full”",
       "summary": "Cuatro meses y medio pueden suponer mucho o poco tiempo, según se mire. Según la percepción. En el caso de Carlos Alcaraz, el murciano considera que son una franja lo suficientemente amplia como para que haya olvidado ciertas rutinas. “Ha sido como si se me hubiera olvidado cómo es un día de partido. Estaba calentando.",
@@ -43,10 +48,10 @@
   ],
   "sources": [
     {
-      "title": "Alcaraz y la bendita sensación de la normalidad: “Si me dicen que vaya a ‘full’, yo voy a ir a ‘full”",
-      "url": "https://elpais.com/deportes/tenis/2026-09-01/alcaraz-y-la-bendita-sensacion-de-la-normalidad-si-me-dicen-que-vaya-a-full-yo-voy-a-ir-a-full.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T06:50:14.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa",
+      "url": "https://www.abc.es/deportes/tenis/solvencia-enemigos-alcaraz-planta-segunda-ronda-motivos-20260901002143-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T23:19:30.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

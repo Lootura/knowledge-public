@@ -3,7 +3,7 @@
 > Follow Chuck Edwards, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/chuck-edwards
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### House censures Rep. Chuck Edwards over "inappropriate conduct" toward aides
 
 The House Ethics Committee detailed the North Carolina Republican's "unprofessional and inappropriate conduct" toward two young women who worked for him.
+
+Date: 2026-09-01
+
+### North Carolina Rep. Chuck Edwards is formally censured over harassment allegations
+
+The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members. (Image credit: Allison Robbert).
 
 Date: 2026-09-01
 
@@ -59,3 +65,4 @@ Date: 2026-08-03
 ## Sources
 
 - [House censures Rep. Chuck Edwards over "inappropriate conduct" toward aides](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com) — 2026-09-01T22:17:00.000Z
+- [North Carolina Rep. Chuck Edwards is formally censured over harassment allegations](https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote?utm_source=lootura.com) — 2026-09-01T22:18:20.000Z

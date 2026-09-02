@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -82,17 +82,11 @@
       "sourceId": "lootura-es-el-correo"
     },
     {
-      "title": "Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000",
-      "url": "https://www.diariovasco.com/economia/empresas/euskadi-lidera-junto-navarra-cifra-empresas-fantasma-20260901002215-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-08-31T22:22:15.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
       "url": "https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T09:04:56.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

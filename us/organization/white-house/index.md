@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Former Biden White House Aide Wins Massachusetts Democratic House Primary
+
+Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.
+
+Date: 2026-09-02
 
 ### Why did Army Secretary Dan Driscoll resign?
 
@@ -62,12 +68,7 @@ The Supreme Court divided 5-4 in allowing construction of the new White House ba
 
 Date: 2026-09-01
 
-### Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says
-
-Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [Why did Army Secretary Dan Driscoll resign?](https://www.cbsnews.com/video/why-did-army-secretary-dan-driscoll-resign/?utm_source=lootura.com) — 2026-09-01T21:56:58.000Z
+- [Former Biden White House Aide Wins Massachusetts Democratic House Primary](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com) — 2026-09-02T02:31:16.000Z

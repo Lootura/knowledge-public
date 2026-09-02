@@ -3,10 +3,16 @@
 > Sigue la actividad de María Jesús Montero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-05T17:26:26.730Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/person/maria-jesus-montero
 
 ## Cambios recientes
+
+### El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz
+
+La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.
+
+Date: 2026-09-02
 
 ### Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont
 
@@ -34,4 +40,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz](https://www.larazon.es/andalucia/apoyo-ceuta-abre-brecha-seno-psoe-andaluz_202609026a97790c2d7d3022177b1a45.html?utm_source=lootura.com) — 2026-09-02T01:17:00.000Z

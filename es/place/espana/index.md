@@ -3,28 +3,28 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Última hora de la actualidad política en España hoy | Crisis en Ceuta: un menor marroquí detenido y tres yihadistas expulsados de España
+### Las grandes fortunas que más partido han sacado a este verano
 
-Este martes, 1 de septiembre, Ceuta afronta una nueva jornada de tensión debido a la invasión perpetrada por miles de magrebíes y subsaharianos el pasado 30 de julio. A menos de una semana de que arranque el curso escolar, unos 20.000 inmigrantes ilegales siguen campando por las calles de la ciudad autónoma. En clave p.
+Dos de las personas más acaudaladas en España han logrado sortear la incertidumbre del mercado este verano con sus sicav. Pese a la volatilidad, han obtenido rentabilidades superiores al 1% desde el inicio de julio.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta
+### La comunidad que más paga por los incendios: 5,4 millones de indemnizaciones agrarias en una década
 
-La actriz española Carmen Sevilla en el Festival de San Sebastián de 1956. Paco Marí / Kutxa Fototeka , CC BY-SA La muerte del sociólogo y filósofo francés Edgar Morin invita a recuperar una de sus aportaciones más sugerentes al estudio de la cultura contemporánea: su análisis del estrellato cinematográfico como expres.
+Andalucía encabeza, con diferencia, el reparto autonómico de las indemnizaciones agrarias por incendio en toda España. Según los datos difundidos por Agroseguro, la comunidad andaluza ha recibido 5.465.335 euros en indemnizaciones entre 2017 y 2025, la cifra más alta de todas las comunidades autónomas y muy por encima.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
+### Las 15 mejores ofertas de hoy (2 de septiembre) por los 15 años de Amazon España: hasta un 74% en Columbia, roborock, Philips y más
 
-PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
+Amazon cumple quince años vendiendo en España y lo celebra como suele: tirando precios durante unos días. Cae en buen momento, porque septiembre es el mes en el que uno repone lo que agosto se llevó por delante, vuelve a pisar la montaña los fines de semana y se acuerda de que el coche lleva miles de kilómetros sin un.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio
 
@@ -38,43 +38,45 @@ El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del
 
 Date: 2026-09-01
 
-### Última ‘Carta Marrueca’, al modo de José Cadalso
+### España registra el mejor julio de su historia, menos aquí: ¿Qué está pasando este verano en Canarias?
 
-Amigo Ben-Beley, Me dice nuestro común amigo Gazel que te ha referido en una reciente carta mi diagnóstico de que España no es sino el esqueleto de un gigante, por lo que me veo en el deber de afinar mejor mi juicio para que no erréis el vuestro. Como me llamo Nuño que cualquiera de los setenta mil informadores que ten.
-
-Date: 2026-09-01
-
-### ¿Son todas las confesiones iguales ante el fisco en España?
-
-encierro/Shutterstock La financiación directa del Estado español a la Iglesia católica es un viejo asunto que data de la Constitución de 1837 . Ya en su artículo 11 comprometía a España a “mantener el culto y los ministros de la religión católica que profesan los españoles”. Siglo XIX: desamortización y Concordato Dich.
+En julio, fue la única comunidad en la que las llegadas internacionales cayeron un 0,7% y arrastran el gasto total a los 2.188 millones de euros Leer.
 
 Date: 2026-09-01
 
-### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
+### Las mafias usan a los inmigrantes expulsados de Ceuta para traer cocaína a España en narcolanchas
 
-"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.
-
-Date: 2026-09-01
-
-### Tronchon conquista la sierra del lince en Albacete
-
-En la carretera secundaria y solitaria que conduce a Elche de la Sierra, de repente un cartel en amarillo flúor. «Atención precaución, zona de paso de linces». Unos kilómetros más allá, la señal de tráfico nunca vista. Un triángulo de peligro con la cara de un lince. Hasta este punto de la España fascinante y desconoci.
+El fenómeno evidencia la estrecha conexión entre las distintas actividades de las organizaciones criminales que operan a ambos lados del Estrecho Leer.
 
 Date: 2026-09-01
 
-### Los fondos españoles logran hasta agosto una rentabilidad del 4,4%
+### La prima de riesgo de Francia sobre España bate su récord histórico
 
-Los fondos de inversión registrados en España han obtenido una rentabilidad para sus partícipes del 4,39% en lo que va de año, con todas las categorías en positivo. Estas instituciones de inversión colectiva acumulan activos por valor de 482.000 millones de euros, de acuerdo con los datos divulgados hoy por Inverco . D.
+La tensión global en el mercado de bonos tiene como una de sus principales víctimas a Francia . El coste de los bonos públicos que emite el Gobierno galo con vencimiento a 10 años ha aumentado en más de 60 puntos básicos durante el verano, situándose en el 4,23% , máximo desde 2008. Seguir leyendo.
+
+Date: 2026-09-01
+
+### El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta
+
+La Federación de Municipios y Provincias ha convocado para esta tarde a las 20 horas concentraciones frente a todas las sedes municipales de España en apoyo de Ceuta, que, precisamente, hoy celebra su día. Seguir leyendo...
+
+Date: 2026-09-01
+
+### Última hora de la actualidad política en España hoy | Crisis en Ceuta: un menor marroquí detenido y tres yihadistas expulsados de España
+
+Este martes, 1 de septiembre, Ceuta afronta una nueva jornada de tensión debido a la invasión perpetrada por miles de magrebíes y subsaharianos el pasado 30 de julio. A menos de una semana de que arranque el curso escolar, unos 20.000 inmigrantes ilegales siguen campando por las calles de la ciudad autónoma. En clave p.
 
 Date: 2026-09-01
 
 ## Fuentes
 
-- [Fernando Aramburu: «'Patria' es ya un bien público, está en tantas casas que tiene vida propia»](https://www.abc.es/cultura/cultural/fernando-aramburu-gente-activa-terrorismo-pedido-perdon-20260901185643-nt.html?utm_source=lootura.com) — 2026-09-01T19:12:45.000Z
-- [Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»](https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com) — 2026-09-01T18:37:31.000Z
+- [Las cuentas de España para evitar una tragedia de otro siglo](https://www.abc.es/deportes/baloncesto/cuentas-espana-evitar-tragedia-siglo-20260902010515-nt.html?utm_source=lootura.com) — 2026-09-01T23:28:33.000Z
 - [La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio](https://amp.elmundo.es/espana/2026/09/01/6a973a14e9cf4a04528b457c.html?utm_source=lootura.com) — 2026-09-01T21:23:46.000Z
+- [España registra el mejor julio de su historia, menos aquí: ¿Qué está pasando este verano en Canarias?](https://www.elmundo.es/economia/2026/09/02/6a970b9de9cf4ac9718b45ab.html?utm_source=lootura.com) — 2026-09-01T23:28:19.000Z
+- [Las mafias usan a los inmigrantes expulsados de Ceuta para traer cocaína a España en narcolanchas](https://www.elmundo.es/espana/2026/09/02/6a9702adfc6c839e088b4589.html?utm_source=lootura.com) — 2026-09-01T23:32:40.000Z
+- [La prima de riesgo de Francia sobre España bate su récord histórico](https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html?utm_source=lootura.com) — 2026-09-01T18:30:51.000Z
+- [Las grandes fortunas que más partido han sacado a este verano](https://www.expansion.com/inversion/2026/09/02/6a955940e5fdea2d448b4573.html?utm_source=lootura.com) — 2026-09-02T00:02:41.000Z
+- [La comunidad que más paga por los incendios: 5,4 millones de indemnizaciones agrarias en una década](https://www.larazon.es/andalucia/comunidad-que-mas-paga-incendios-54-millones-indemnizaciones-agrarias-decada_202609026a976e892d7d3022177b13c2.html?utm_source=lootura.com) — 2026-09-02T00:32:09.000Z
+- [Las 15 mejores ofertas de hoy (2 de septiembre) por los 15 años de Amazon España: hasta un 74% en Columbia, roborock, Philips y más](https://www.larazon.es/compras/15-mejores-ofertas-hoy-2-septiembre-15-anos-amazon-espana-74-columbia-roborock-philips-mas-3v3r_202609026a976e3c2d7d3022177b1345.html?utm_source=lootura.com) — 2026-09-02T01:18:22.000Z
+- [El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta](https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html?utm_source=lootura.com) — 2026-09-01T22:05:00.000Z
 - [El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»](https://okdiario.com/espana/lider-psoe-ceuta-pido-todos-socialistas-espana-que-no-hagan-caso-sanchez-vayan-manisfestacion-20211865?utm_source=lootura.com) — 2026-09-01T21:51:58.000Z
-- [Última hora de la actualidad política en España hoy | Crisis en Ceuta: un menor marroquí detenido y tres yihadistas expulsados de España](https://okdiario.com/espana/siga-aqui-directo-ultima-hora-sobre-situacion-ceuta-sanchez-preside-hoy-consejo-seguridad-nacional-20205285?utm_source=lootura.com) — 2026-09-01T20:15:31.000Z
-- [Última ‘Carta Marrueca’, al modo de José Cadalso](https://okdiario.com/opinion/ultima-carta-marrueca-modo-jose-cadalso-20211430?utm_source=lootura.com) — 2026-09-01T20:11:22.000Z
-- [¿Son todas las confesiones iguales ante el fisco en España?](https://theconversation.com/son-todas-las-confesiones-iguales-ante-el-fisco-en-espana-253588?utm_source=lootura.com) — 2026-09-01T16:01:30.000Z
-- [Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta](https://theconversation.com/por-que-carmen-sevilla-fue-una-estrella-edgar-morin-y-el-imaginario-de-la-espana-de-los-cincuenta-285983?utm_source=lootura.com) — 2026-09-01T15:54:32.000Z

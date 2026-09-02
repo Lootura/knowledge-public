@@ -3,20 +3,20 @@
 > Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/markwayne-mullin
 
 ## Recent changes
 
-### No plans for ICE to be at polls for midterms, DHS says
-
-A senior DHS official said ICE will do their regular duties on the day of midterm elections, though Sec. Markwayne Mullin said agents would enter a polling place to serve a warrant.
-
-Date: 2026-09-01
-
 ### DHS Secretary Mullin says thousands arrested in New York immigration operation
 
 During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
+
+Date: 2026-09-01
+
+### No plans for ICE to be at polls for midterms, DHS says
+
+A senior DHS official said ICE will do their regular duties on the day of midterm elections, though Sec. Markwayne Mullin said agents would enter a polling place to serve a warrant.
 
 Date: 2026-09-01
 
@@ -52,5 +52,4 @@ Date: 2026-07-17
 
 ## Sources
 
-- [No plans for ICE to be at polls for midterms, DHS says](https://www.nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594?utm_source=lootura.com) — 2026-09-01T20:18:58.000Z
 - [WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation](https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com) — 2026-09-01T18:09:50.000Z

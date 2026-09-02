@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -75,13 +75,7 @@
       "url": "https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T15:06:23.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Ocean heat waves linked with poorer health among children in coastal communities",
-      "url": "https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:20:01.000Z",
-      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

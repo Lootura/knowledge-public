@@ -3,7 +3,7 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
@@ -28,7 +28,7 @@ Date: 2026-09-01
 
 ### Discovered by Atlas
 
-Vice President first entered the public knowledge record with source-backed evidence.
+Vice president first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-31
 
@@ -40,4 +40,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech](https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html?utm_source=lootura.com) — 2026-09-01T14:01:39.000Z
+- [JD Vance courts Jewish Republicans. Tucker Carlson still looms.](https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877?utm_source=lootura.com) — 2026-09-02T00:15:24.000Z

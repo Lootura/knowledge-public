@@ -3,20 +3,20 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple
-
-Matthew McConaughey y Woody Harrelson han colaborado a lo largo de los años en varios proyectos. Desde EDtv (1999), la sátira televisiva de Ron Howard a la primera temporada de True Detective (2014), una de las mejores series de la historia reciente de la televisión. Fuera de la gran pantalla son grandes amigos, aunque.
-
-Date: 2026-09-01
-
 ### Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook
 
 Si Steve Jobs ya ha pasado a la historia como mito a secas , sin que haga falta ponerle adjetivos a su figura; Tim Cook abandona los mandos de Apple como la máquina perfecta de ganar dinero que heredó. Pese a los años y los rivales que han caído en el camino, la manzana mordida acumula aún beneficios récord. Desde este.
+
+Date: 2026-09-01
+
+### Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple
+
+Matthew McConaughey y Woody Harrelson han colaborado a lo largo de los años en varios proyectos. Desde EDtv (1999), la sátira televisiva de Ron Howard a la primera temporada de True Detective (2014), una de las mejores series de la historia reciente de la televisión. Fuera de la gran pantalla son grandes amigos, aunque.
 
 Date: 2026-09-01
 
@@ -71,5 +71,3 @@ Date: 2026-08-13
 ## Fuentes
 
 - [Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook](https://elpais.com/economia/2026-09-01/ternus-toma-el-mando-en-apple-entre-la-leyenda-de-jobs-y-la-maquina-de-ganar-de-dinero-de-cook.html?utm_source=lootura.com) — 2026-09-01T18:12:00.000Z
-- [El primer iPhone plegable de Apple está a la vuelta de la esquina y esto es lo que sabemos](https://www.larazon.es/tecnologia/primer-iphone-plegable-apple-esta-vuelta-esquina-esto-que-sabemos_202609016a972d7d3bfe5d1eff3f943b.html?utm_source=lootura.com) — 2026-09-01T20:25:13.000Z
-- [Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple](https://okdiario.com/cool/television/dos-estrellas-hollywood-sospechan-que-son-hermanos-vida-real-historia-familiar-que-han-convertido-serie-llega-apple-20206630?utm_source=lootura.com) — 2026-09-01T16:00:57.000Z

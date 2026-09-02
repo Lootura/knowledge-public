@@ -1,0 +1,32 @@
+# Pete Hegseth
+
+> Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+
+- Type: person
+- Updated: 2026-09-02T02:50:05.135Z
+- Canonical: https://atlas.lootura.com/us/person/pete-hegseth
+
+## Recent changes
+
+### Here are the military officials who've been fired or resigned under Hegseth
+
+At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.
+
+Date: 2026-09-02
+
+### Discovered by Atlas
+
+Pete Hegseth first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-02
+
+### Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says
+
+To discuss the resignation of Secretary of the Army Dan Driscoll and the tension inside the Pentagon under Pete Hegseth, Geoff Bennett spoke with Frank Kendall of the Center for American Progress. He was Air Force Secretary during the Biden administration and co-wrote "Lethal Autonomy: The Future of Warfare Whether We.
+
+Date: 2026-09-01
+
+## Sources
+
+- [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
+- [Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says](https://www.pbs.org/newshour/show/hegseth-has-created-climate-of-fear-at-pentagon-former-air-force-secretary-says?utm_source=lootura.com) — 2026-09-01T22:47:51.000Z

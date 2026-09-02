@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos
+
+La Policía Nacional habría informado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva desde Marruecos a Ceuta los días 30 y 31 de julio, de que esta fue guiada por gendarmes marroquíes bajo las órdenes de agentes de paisano y con un objetivo distinto al meramente migratorio, según ha pu.
+
+Date: 2026-09-02
 
 ### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
 
@@ -62,12 +68,6 @@ El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago 
 
 Date: 2026-08-11
 
-### Gómez Bermúdez: "La corrupción no es erradicable, pero sí es claramente reducible"
-
-El abogado Javier Gómez Bermúdez cree que hay que «afinar» la figura del colaborador de la Justicia, sus «consecuencias y límites». Tras la sentencia del Tribunal Supremo del «caso mascarillas» que rebajó la condena a Víctor de Aldama por su confesión, para quien fuera magistrado de la Audiencia Nacional y presidente d.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos](https://www.20minutos.es/nacional/marlaska-pide-explicaciones-policia-tras-conocerse-que-entrada-masiva-ceuta-habria-sido-planificada-desde-marruecos_7031758_0.html?utm_source=lootura.com) — 2026-09-02T00:30:48.000Z

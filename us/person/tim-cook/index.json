@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tim-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tim-cook/index.json",
   "description": "Follow Tim Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Tim Apple"
   ],
   "changes": [
+    {
+      "title": "What to expect from new Apple CEO John Ternus as Tim Cook steps down",
+      "summary": "John Ternus officially took over for Tim Cook as Apple CEO on Tuesday, becoming the tech giant's first new leader in 15 years. CBS News' Jo Ling Kent reports and CBS News contributor Patrick McGee breaks down what to expect.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Tim Cook first entered the public knowledge record with source-backed evidence.",
@@ -27,30 +32,20 @@
       "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
       "summary": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the company to meet the clima.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "John Ternus is Apple's new CEO, replacing Tim Cook",
-      "summary": "John Ternus is stepping up and into the shoes of former Apple CEO Tim Cook. CBS News' Jo Ling Kent reports, plus Puck AI correspondent Ian Krietzberg shares his thoughts on the Apple turnover and the Hugging Face AI breach.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "John Ternus takes over as Apple’s new CEO",
-      "summary": "John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus . How will we look back on Cook’s legacy, and what will Apple look like under the leade.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
+    {
+      "title": "What to expect from new Apple CEO John Ternus as Tim Cook steps down",
+      "url": "https://www.cbsnews.com/video/what-to-expect-from-john-ternus-as-apple-ceo-as-tim-cook-steps-down/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:10:36.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company",
       "url": "https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:06:30.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T19:43:39.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
   "evidenceCount": 2

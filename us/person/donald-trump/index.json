@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,6 +26,16 @@
   ],
   "changes": [
     {
+      "title": "Here are the military officials who've been fired or resigned under Hegseth",
+      "summary": "At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Trump to Nominate Hung Cao as Navy Secretary",
+      "summary": "The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
       "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
       "date": "2026-09-01"
@@ -38,11 +48,6 @@
     {
       "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
       "summary": "President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
-      "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed. (Image credit: George Frey).",
       "date": "2026-09-01"
     },
     {
@@ -69,11 +74,6 @@
       "title": "Trump's pro-data center stance is putting pressure on Republicans ahead of midterms",
       "summary": "Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "What to Know About Venezuelan Energy Following Trump’s Oil Deal",
-      "summary": "The Trump administration’s deal with a private oil company to increase oil production in the South American country could take many years to come to fruition.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -87,6 +87,12 @@
       "title": "Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?",
       "url": "https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:08:58.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Here are the military officials who've been fired or resigned under Hegseth",
+      "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T01:43:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -108,10 +114,10 @@
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Springfield's Haitian community braces for deportations after protected status ends",
+      "url": "https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:30:21.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms",
@@ -130,13 +136,7 @@
       "url": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:03:00.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T16:12:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 16
 }

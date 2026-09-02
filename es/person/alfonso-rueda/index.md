@@ -40,4 +40,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»](https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com) — 2026-09-01T14:45:03.000Z
+No public source links.

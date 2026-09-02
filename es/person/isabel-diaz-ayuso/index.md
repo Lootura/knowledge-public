@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»](https://okdiario.com/espana/mensaje-ayuso-delegado-del-gobierno-madrid-no-tiene-narices-mandarnos-antidisturbios-20211518?utm_source=lootura.com) — 2026-09-01T19:52:44.000Z
+No public source links.

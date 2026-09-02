@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [Las cuentas de España para evitar una tragedia de otro siglo](https://www.abc.es/deportes/baloncesto/cuentas-espana-evitar-tragedia-siglo-20260902010515-nt.html?utm_source=lootura.com) — 2026-09-01T23:28:33.000Z

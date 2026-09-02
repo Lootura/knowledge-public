@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "House votes to condemn socialism, with 8 Democrats joining Republicans",
+      "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
+      "summary": "Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
+      "date": "2026-09-01"
+    },
     {
       "title": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
       "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
@@ -21,11 +31,6 @@
     {
       "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
       "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
-      "summary": "Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
       "date": "2026-09-01"
     },
     {
@@ -57,18 +62,13 @@
       "title": "Poll: Working class voters are still up for grabs",
       "summary": "Republicans and Democrats are fighting over working class voters. Americans don’t believe the rhetoric. Fifty-five percent of Americans think politicians are just trying to win votes when they say they will help the working class, according to new results from The POLITICO Poll. It’s a view held by majorities of people.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "House Republican says GOP is 'united' as Democrats wage 'proxy battles' in primaries",
-      "summary": "Rep. Mike Flood (R-Neb.) joins Meet the Press NOW to discuss his re-election campaign in a district Democrats are eyeing as a possible pickup.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
+      "title": "House votes to condemn socialism, with 8 Democrats joining Republicans",
       "url": "https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:53:00.000Z",
+      "publishedAt": "2026-09-02T00:49:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -76,13 +76,7 @@
       "url": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com",
       "publishedAt": "2026-09-01T09:00:00.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5938774/affordability-is-the-centerpiece-of-democrats-message-in-pennsylvania-swing-district?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:46:53.000Z",
-      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

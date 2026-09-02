@@ -46,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Democratic contender Abdul El-Sayed hits back at JD Vance over ‘evil’ taunt](https://www.theguardian.com/us-news/2026/sep/01/abdul-el-sayed-jd-vance-evil?utm_source=lootura.com) — 2026-09-01T20:21:27.000Z
+No public source links.

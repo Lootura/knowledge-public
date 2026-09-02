@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+      "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Why did Army Secretary Dan Driscoll resign?",
       "summary": "The White House has confirmed that Army Secretary Dan Driscoll is resigning. The move comes after months of friction between him and Defense Secretary Pete Hegseth. Marine veteran and former CIA officer Elliot Ackerman joins with analysis.",
@@ -62,11 +67,6 @@
       "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
       "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -75,7 +75,13 @@
       "url": "https://www.cbsnews.com/video/why-did-army-secretary-dan-driscoll-resign/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T21:56:58.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:31:16.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

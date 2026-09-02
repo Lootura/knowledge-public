@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T22:38:19.108Z",
+  "generatedAt": "2026-09-02T03:04:37.209Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|150|1788301326366",
+    "signature": "1.18.0|151|1788317383209",
     "version": "1.18.0",
-    "build": 150,
-    "latestEntityUpdatedAt": "2026-09-01T22:22:06.366Z"
+    "build": 151,
+    "latestEntityUpdatedAt": "2026-09-02T02:49:43.209Z"
   },
   "atlas": {
     "hero": {
@@ -20,36 +20,49 @@
       "title": "Moncloa niega críticas de Sánchez al Rey: \"No fue ningún reproche\"",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-09-01T22:22:06.366Z",
-      "score": 1725,
-      "sourceCount": 437,
+      "updatedAt": "2026-09-02T02:49:43.209Z",
+      "score": 1713,
+      "sourceCount": 442,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "es-iran",
+        "name": "Irán",
+        "type": "place",
+        "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+        "url": "https://atlas.lootura.com/es/place/iran",
+        "path": "/es/place/iran",
+        "updatedAt": "2026-09-02T02:49:43.209Z",
+        "score": 1695,
+        "sourceCount": 199,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
+        "title": "El delegado del Gobierno reitera que «no hay prohibición» de manifestación por Ceuta",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-09-01T22:22:06.366Z",
-        "score": 1670,
+        "updatedAt": "2026-09-02T02:49:43.209Z",
+        "score": 1663,
         "sourceCount": 754,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-psoe",
-        "name": "Partido Socialista Obrero Español",
-        "type": "organization",
-        "title": "El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»",
-        "url": "https://atlas.lootura.com/es/organization/psoe",
-        "path": "/es/organization/psoe",
-        "updatedAt": "2026-09-01T22:22:06.366Z",
-        "score": 1670,
-        "sourceCount": 195,
+        "id": "es-united-states",
+        "name": "Estados Unidos",
+        "type": "place",
+        "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+        "url": "https://atlas.lootura.com/es/place/united-states",
+        "path": "/es/place/united-states",
+        "updatedAt": "2026-09-02T02:49:43.209Z",
+        "score": 1656,
+        "sourceCount": 292,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +70,16 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "Última hora de la actualidad política en España hoy | Crisis en Ceuta: un menor marroquí detenido y tres yihadistas expulsados de España",
+        "title": "Las 15 mejores ofertas de hoy (2 de septiembre) por los 15 años de Amazon España: hasta un 74% en Columbia, roborock, Philips y más",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-09-01T22:22:06.366Z",
-        "score": 1661,
-        "sourceCount": 1228,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-iran",
-        "name": "Irán",
-        "type": "place",
-        "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
-        "url": "https://atlas.lootura.com/es/place/iran",
-        "path": "/es/place/iran",
-        "updatedAt": "2026-09-01T22:22:06.366Z",
-        "score": 1656,
-        "sourceCount": 198,
+        "updatedAt": "2026-09-02T02:49:43.209Z",
+        "score": 1653,
+        "sourceCount": 1235,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 219
+    "publicEntityCount": 218
   }
 }

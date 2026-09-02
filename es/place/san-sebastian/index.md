@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-12
 ## Fuentes
 
 - [Las Euskal Jaiak toman Donostia las próximas dos semanas](https://www.diariovasco.com/san-sebastian/euskal-jaiak-toman-donostia-proximas-dos-semanas-20260901133015-nt_amp.html?utm_source=lootura.com) — 2026-09-01T11:30:15.000Z
-- [Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta](https://theconversation.com/por-que-carmen-sevilla-fue-una-estrella-edgar-morin-y-el-imaginario-de-la-espana-de-los-cincuenta-285983?utm_source=lootura.com) — 2026-09-01T15:54:32.000Z

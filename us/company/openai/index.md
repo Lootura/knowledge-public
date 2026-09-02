@@ -64,4 +64,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [The rise of AI ‘civilizations’ and the fall of corporate responsibility](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack?utm_source=lootura.com) — 2026-09-01T19:02:54.000Z
+No public source links.

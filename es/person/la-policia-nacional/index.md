@@ -3,10 +3,16 @@
 > Sigue la actividad de La Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/person/la-policia-nacional
 
 ## Cambios recientes
+
+### Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos
+
+La Policía Nacional habría informado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva desde Marruecos a Ceuta los días 30 y 31 de julio, de que esta fue guiada por gendarmes marroquíes bajo las órdenes de agentes de paisano y con un objetivo distinto al meramente migratorio, según ha pu.
+
+Date: 2026-09-02
 
 ### La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio
 
@@ -62,13 +68,7 @@ La Policía Nacional ha arrestado en Valencia a once individuos acusados de inte
 
 Date: 2026-08-13
 
-### Detenido en Almería uno de los miembros de una red que producía cocaína en laboratorios clandestinos
-
-La Policía Nacional ha arrestado en Almería a uno de los 27 presuntos miembros de una macrored criminal dedicada a fabricar cocaína en laboratorios clandestinos para su distribución a otras organizaciones delictivas en España . En el operativo, los agentes han incautado 163 kilos de cocaína y han desmantelado cuatro la.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos](https://www.20minutos.es/nacional/marlaska-pide-explicaciones-policia-tras-conocerse-que-entrada-masiva-ceuta-habria-sido-planificada-desde-marruecos_7031758_0.html?utm_source=lootura.com) — 2026-09-02T00:30:48.000Z
 - [La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio](https://amp.elmundo.es/espana/2026/09/01/6a973a14e9cf4a04528b457c.html?utm_source=lootura.com) — 2026-09-01T21:23:46.000Z
-- [El informe de la Policía apunta a una "coordinación" interna por parte de Marruecos en el asalto a Ceuta](https://www.larazon.es/espana/informe-policia-apunta-coordinacion-interna-asalto-ceuta_202609016a9734f73bfe5d1eff3f9a07.html?utm_source=lootura.com) — 2026-09-01T20:26:31.000Z

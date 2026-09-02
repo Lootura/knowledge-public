@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Meta lanza una IA capaz de distinguir 20 voces en una sola grabación](https://hipertextual.com/inteligencia-artificial/meta-muse-voice-transcribe-ia-transcripcion-tiempo-real/?utm_source=lootura.com) — 2026-09-01T21:50:00.000Z
+- [Mahou, Heineken y Damm aceleran su diversificación](https://amp.expansion.com/empresas/distribucion/2026/09/02/6a970f51468aeb0d5d8b4598.html?utm_source=lootura.com) — 2026-09-02T00:02:29.000Z

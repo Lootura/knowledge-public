@@ -3,10 +3,16 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
+
+### Un salvavidas de 2.500 millones de bancos españoles evitó la suspensión de pagos de Correos
+
+Un salvavidas financiero de 2.500 millones de euros brindado por un puñado de bancos españoles durante los años inmediatamente posteriores a la pandemia, en los que Correos era incapaz de generar los recursos suficientes para pagar las facturas pendientes y las nóminas de sus empleados, salvó al operador postal del Est.
+
+Date: 2026-09-01
 
 ### El Gobierno de Ayuso adjudica la reforma de la sede con la que justificó la compra del ático
 
@@ -62,12 +68,6 @@ Nuevo avance en el cerco al entorno del presidente del Gobierno, Pedro Sánchez.
 
 Date: 2026-07-10
 
-### La relación de Serrano con Leire Díez: de Correos a los ‘chats’ seguros tras los días de reflexión de Sánchez
-
-El último informe de la UCO en el caso SEPI muestra una radiografía de la estrecha relación que mantuvo el exjefe de Gabinete de Pedro Sánchez y expresidente de Correos Juan Manuel Serrano con la supuesta fontanera Leire Díez . Una relación que comenzó antes del enchufe de Díez en la entidad dependiente de la SEPI y se.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [Un salvavidas de 2.500 millones de bancos españoles evitó la suspensión de pagos de Correos](https://www.abc.es/economia/salvavidas-2500-millones-bancos-espanoles-salvo-correos-20260902010635-nt.html?utm_source=lootura.com) — 2026-09-01T23:32:12.000Z

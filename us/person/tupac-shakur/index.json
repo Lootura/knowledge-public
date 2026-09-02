@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.json",
   "description": "Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Shakur",
     "Tupac"
   ],
   "changes": [
+    {
+      "title": "Duane Davis' attorney doesn't believe jury considered all evidence before Tupac murder conviction",
+      "summary": "Michael Sanft, Duane \"Keefe D\" Davis' defense attorney, joins \"The Daily Report\" to discuss his client's conviction for the 1996 murder of Tupac Shakur and shares his concerns about the jury's \"preconceived notions.\".",
+      "date": "2026-09-02"
+    },
     {
       "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
       "summary": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans for decades. (Image credit: Bizuayehu Tesfaye).",
@@ -42,10 +47,10 @@
   ],
   "sources": [
     {
-      "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
-      "url": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T04:57:01.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Duane Davis' attorney doesn't believe jury considered all evidence before Tupac murder conviction",
+      "url": "https://www.cbsnews.com/video/duane-davis-attorney-doesnt-believe-jury-considered-all-evidence-before-tupac-murder-conviction/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:04:18.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

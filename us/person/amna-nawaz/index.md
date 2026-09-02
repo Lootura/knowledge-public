@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots
+
+With just days until the first ballots are set to be mailed to voters, a whistleblower inside the U.S. Postal Service is warning that a new delivery system could disrupt the handling of election mail and potentially put the midterm elections at risk. Amna Nawaz discussed more with Jacob Bogage of Reuters.
+
+Date: 2026-09-01
 
 ### Tamara Keith and Amy Walter on Trump's midterm influence
 
@@ -62,12 +68,6 @@ For perspective on the latest developments in the Iran war and the regional rami
 
 Date: 2026-07-20
 
-### Tamara Keith and Jasmine Wright on the political fallout of Trump's address
-
-NPR's Tamara Keith and Jasmine Wright of NOTUS join Amna Nawaz to discuss the latest political news, including Arizona's primary elections, where Republicans will choose a nominee to challenge the incumbent Democratic governor, Troy Jackson appearing to clinch the Democratic nomination for Senate following Graham Platn.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots](https://www.pbs.org/newshour/show/whistleblower-warns-usps-rushing-new-system-that-could-jeopardize-mail-in-ballots?utm_source=lootura.com) — 2026-09-01T22:55:44.000Z

@@ -8,12 +8,12 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/cadena-ser/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/cadena-ser/index.json",
   "description": "Sigue la actividad de Sociedad Española de Radiodifusión en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
-    "Sociedad Española de Radiodifusión",
-    "SER",
     "La SER",
-    "La Ser"
+    "La Ser",
+    "SER",
+    "Sociedad Española de Radiodifusión"
   ],
   "changes": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Cadena Ser first entered the public knowledge record with source-backed evidence.",
+      "summary": "Cadena SER first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-01"
     }
   ],

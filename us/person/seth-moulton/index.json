@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/seth-moulton/index.json",
   "description": "Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Moulton",
     "Seth Wilbur Moulton"
   ],
   "changes": [
+    {
+      "title": "Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate",
+      "summary": "Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Massachusetts.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Massachusetts Democratic Senate primary pits age against ideology",
       "summary": "Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.",
@@ -48,17 +53,11 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Moulton says he shares same progressive values as Markey but isn’t afraid to challenge establishment",
-      "url": "https://www.nbcnews.com/meet-the-press/video/moulton-says-he-shares-same-progressive-values-as-markey-but-isn-t-afraid-to-challenge-establishment-269174341545?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:13:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Rep. Seth Moulton targets Sen. Ed Markey in Massachusetts Democratic primary amid broader calls for generational change",
-      "url": "https://www.pbs.org/newshour/politics/rep-seth-moulton-targets-sen-ed-markey-in-massachusetts-democratic-primary-amid-broader-calls-for-generational-change?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:32:58.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate",
+      "url": "https://www.cbsnews.com/boston/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:44:45.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "EVP",
     "VP",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Vice President first entered the public knowledge record with source-backed evidence.",
+      "summary": "Vice president first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-31"
     },
     {
@@ -43,10 +43,10 @@
   ],
   "sources": [
     {
-      "title": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech",
-      "url": "https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T14:01:39.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+      "url": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:15:24.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 0

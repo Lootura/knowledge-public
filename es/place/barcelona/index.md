@@ -3,7 +3,7 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-09-01
 ### Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos
 
 El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.
+
+Date: 2026-09-01
+
+### The Weeknd deslumbra, literalmente, en su concierto en Barcelona
+
+El cantante canadiense, responsable de 'Blinding lights', la canción más escuchada de la historia de Spotify, triunfa ante cerca de 50.000 personas en el Estadio Olímpico.
 
 Date: 2026-09-01
 
@@ -62,13 +68,8 @@ La gerente del Ayuntamiento de Barcelona Marta Clari será la nueva secretaria g
 
 Date: 2026-08-31
 
-### Sandra Iglesias (MiniMed): "La actitud marca la diferencia en la ejecución"
-
-En momentos de incertidumbre Sandra Iglesias (Barcelona, 1973) se aferra a un recuerdo anclado en el pasillo de un hospital de Barcelona. Cuenta que, hace años, mientras explicaba una terapia a un niño, otro pequeño en la sala, su hermano, sentado en una silla en silencio observaba con atención. "Cuando terminamos y av.
-
-Date: 2026-08-31
-
 ## Fuentes
 
+- [The Weeknd deslumbra, literalmente, en su concierto en Barcelona](https://www.abc.es/cultura/the-weeknd-deslumbra-literalmente-concierto-barcelona-20260902013450-nt_amp.html?utm_source=lootura.com) — 2026-09-01T23:34:51.000Z
 - [Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy](https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com) — 2026-09-01T21:21:22.000Z
 - [Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos](https://okdiario.com/deportes/gimenez-casado-son-bombas-del-cierre-del-mercado-fichajes-fofana-llega-sevilla-betis-aguanta-ceballos-20211564/amp?utm_source=lootura.com) — 2026-09-01T22:13:39.000Z

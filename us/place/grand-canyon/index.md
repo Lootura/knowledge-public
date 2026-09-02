@@ -70,5 +70,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Death Toll Rises in Grand Canyon Floods; 1 Hiker Remains Missing](https://www.today.com/video/grand-canyon-flash-floods-leave-2-dead-1-missing-269143109978?utm_source=lootura.com) — 2026-09-01T11:18:55.000Z
-- [One person missing as two bodies recovered after Grand Canyon floods](https://www.nbcnews.com/now/video/one-person-missing-as-two-bodies-recovered-after-grand-canyon-floods-269143109693?utm_source=lootura.com) — 2026-09-01T08:20:43.000Z
+No public source links.

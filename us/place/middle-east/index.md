@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Sources
 
-- [Thai police crackdown on sex workers ahead of USS Lincoln’s arrival](https://www.nbcnews.com/video/thai-police-crackdown-on-sex-workers-ahead-of-uss-lincoln-s-arrival-269144133971?utm_source=lootura.com) — 2026-09-01T10:05:52.000Z
+- [US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities](https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch?utm_source=lootura.com) — 2026-09-02T01:06:08.000Z

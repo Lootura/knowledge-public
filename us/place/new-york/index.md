@@ -3,14 +3,26 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
+### Woman Killed in Times Square Stabbing Identified as Bank of America VP
+
+The New York Police Department made public the names of some of the people involved in a seemingly random knife attack on a crowded Manhattan street, but questions remained.
+
+Date: 2026-09-02
+
 ### DHS Secretary Mullin says thousands arrested in New York immigration operation
 
 During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
+
+Date: 2026-09-01
+
+### Former President Joe Biden Will Attend Sept. 11 Ceremony in New York
+
+Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.
 
 Date: 2026-09-01
 
@@ -56,19 +68,8 @@ Decades before his rise to the New York State appellate court, he was a probatio
 
 Date: 2026-08-15
 
-### What’s Next for Luigi Mangione After His Guilty Plea?
-
-Mr. Mangione’s plea in the federal case could make it difficult for New York State prosecutors to try their own case.
-
-Date: 2026-08-14
-
-### Luigi Mangione's potential plea deal in federal trial sparks double jeopardy concern
-
-Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson in New York City, is expected in federal court as sources say he may plea guilty. Legal analyst Joe Tamburino joins with more details about the questions concerning the future of his New York state trial.
-
-Date: 2026-08-14
-
 ## Sources
 
 - [WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation](https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com) — 2026-09-01T18:09:50.000Z
-- [Woman killed in Times Square stabbing attack worked for Bank of America](https://www.pbs.org/newshour/nation/woman-killed-in-times-square-stabbing-attack-worked-for-bank-of-america?utm_source=lootura.com) — 2026-09-01T18:33:32.000Z
+- [Woman Killed in Times Square Stabbing Identified as Bank of America VP](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html?utm_source=lootura.com) — 2026-09-02T00:25:16.000Z
+- [Former President Joe Biden Will Attend Sept. 11 Ceremony in New York](https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html?utm_source=lootura.com) — 2026-09-01T23:50:54.000Z

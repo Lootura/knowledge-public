@@ -3,20 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
-La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos
 
 Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
+
+Date: 2026-09-01
+
+### La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años
+
+Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.
+
+Date: 2026-09-01
+
+### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
+
+La intervención coordinada de Estados Unidos y Japón a finales de julio para frenar el desplome del yen ha abierto un conflicto con las autoridades monetarias europeas. El presidente del Bundesbank y miembro del Consejo de Gobierno del Banco Central Europeo (BCE), Joachim Nagel, ha reprochado hoy a Washington que, para.
 
 Date: 2026-09-01
 
@@ -29,12 +41,6 @@ Date: 2026-09-01
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
 La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
-
-Date: 2026-09-01
-
-### La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años
-
-Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.
 
 Date: 2026-09-01
 
@@ -62,18 +68,8 @@ La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a 
 
 Date: 2026-09-01
 
-### El Ibex se aleja de los 20.000
-
-Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square](https://www.abc.es/sociedad/muere-vicepresidenta-bank-america-tras-apunalada-mujer-20260901211759-nt.html?utm_source=lootura.com) — 2026-09-01T19:19:09.000Z
-- [El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE](https://cincodias.elpais.com/mercados-financieros/2026-09-01/el-bundesbank-reprocha-a-ee-uu-que-vendiera-euros-para-apoyar-al-yen-sin-avisar-antes-al-bce.html?utm_source=lootura.com) — 2026-09-01T15:09:00.000Z
-- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-01T20:42:07.000Z
+- [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
 - [La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años](https://www.elmundo.es/internacional/2026/09/01/6a9701fa21efa06c038b4597.html?utm_source=lootura.com) — 2026-09-01T17:46:13.000Z
 - [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z
-- [EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz](https://www.lavanguardia.com/internacional/20260901/11624944/ee-uu-vuelve-atacar-objetivos-militares-iran-represalia-bloqueo-ormuz.html?utm_source=lootura.com) — 2026-09-01T17:08:37.000Z
-- [Petróleo pesado venezolano para las refinerías estadounidenses](https://theconversation.com/petroleo-pesado-venezolano-para-las-refinerias-estadounidenses-290954?utm_source=lootura.com) — 2026-09-01T16:01:24.000Z

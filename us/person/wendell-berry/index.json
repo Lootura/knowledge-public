@@ -8,8 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/wendell-berry/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/wendell-berry/index.json",
   "description": "Follow Wendell Berry, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
-  "aliases": [],
+  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "aliases": [
+    "Berry",
+    "Wendell"
+  ],
   "changes": [
     {
       "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",

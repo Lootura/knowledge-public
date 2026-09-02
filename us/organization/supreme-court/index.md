@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### How the Supreme Court Locks Away Its Own History
 
 After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.
+
+Date: 2026-09-01
+
+### Springfield's Haitian community braces for deportations after protected status ends
+
+In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flas.
 
 Date: 2026-09-01
 
@@ -62,13 +68,8 @@ The planned 90,000-square-foot ballroom is estimated to cost $400 million and is
 
 Date: 2026-08-14
 
-### How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions
-
-Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.
-
-Date: 2026-08-13
-
 ## Sources
 
 - [Why the Supreme Court's ballroom ruling could matter beyond the ballroom](https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers?utm_source=lootura.com) — 2026-09-01T11:00:41.000Z
+- [Springfield's Haitian community braces for deportations after protected status ends](https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com) — 2026-09-01T22:30:21.000Z
 - [How the Supreme Court Locks Away Its Own History](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com) — 2026-09-01T13:59:33.000Z

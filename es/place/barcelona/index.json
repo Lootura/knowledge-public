@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -29,6 +29,11 @@
     {
       "title": "Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos",
       "summary": "El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "The Weeknd deslumbra, literalmente, en su concierto en Barcelona",
+      "summary": "El cantante canadiense, responsable de 'Blinding lights', la canción más escuchada de la historia de Spotify, triunfa ante cerca de 50.000 personas en el Estadio Olímpico.",
       "date": "2026-09-01"
     },
     {
@@ -65,14 +70,15 @@
       "title": "La Generalitat esconde por qué ignoró los siete avisos sobre \"errores\" en las pruebas PISA en Cataluña",
       "summary": "La gerente del Ayuntamiento de Barcelona Marta Clari será la nueva secretaria general de Educación tras la destitución de Teresa Sambola Leer.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Sandra Iglesias (MiniMed): \"La actitud marca la diferencia en la ejecución\"",
-      "summary": "En momentos de incertidumbre Sandra Iglesias (Barcelona, 1973) se aferra a un recuerdo anclado en el pasillo de un hospital de Barcelona. Cuenta que, hace años, mientras explicaba una terapia a un niño, otro pequeño en la sala, su hermano, sentado en una silla en silencio observaba con atención. \"Cuando terminamos y av.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
+    {
+      "title": "The Weeknd deslumbra, literalmente, en su concierto en Barcelona",
+      "url": "https://www.abc.es/cultura/the-weeknd-deslumbra-literalmente-concierto-barcelona-20260902013450-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T23:34:51.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy",
       "url": "https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com",
@@ -86,5 +92,5 @@
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/times-square/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/times-square/index.json",
   "description": "Follow Times Square, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
+      "summary": "Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.",
       "summary": "The police fired at the woman, who was holding two knives, after trying to use less lethal force, officials said. A woman, 32, was killed, and a man, 68, is in stable condition.",
@@ -34,23 +39,11 @@
   ],
   "sources": [
     {
-      "title": "Victim in Times Square stabbing identified as Bank of America employee",
-      "url": "https://www.cbsnews.com/news/erin-piacenti-times-square-stabbing-nypd-shooting/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:50:33.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Woman killed in Times Square stabbing attack worked for Bank of America",
-      "url": "https://www.pbs.org/newshour/nation/woman-killed-in-times-square-stabbing-attack-worked-for-bank-of-america?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:33:32.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.",
-      "url": "https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T02:38:58.000Z",
+      "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:02:57.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica](https://theobjective.com/espana/politica/2026-09-01/barones-psoe-autonomias-pp-contra-financiacion-autonomica/?utm_source=lootura.com) — 2026-09-01T15:35:30.000Z
+No public source links.

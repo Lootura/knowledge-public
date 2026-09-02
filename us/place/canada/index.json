@@ -66,31 +66,6 @@
       "date": "2026-08-11"
     }
   ],
-  "sources": [
-    {
-      "title": "Canada's Labrador Shelf preserves climate records once thought erased by ice",
-      "url": "https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:40:05.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
-      "url": "https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:06:49.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks",
-      "url": "https://www.nytimes.com/2026/09/01/world/canada/carney-trump-trade-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T19:47:32.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Apple Maps follows Google in renaming Lake Ontario",
-      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:22:56.000Z",
-      "sourceId": "lootura-us-the-verge"
-    }
-  ],
-  "evidenceCount": 4
+  "sources": [],
+  "evidenceCount": 0
 }

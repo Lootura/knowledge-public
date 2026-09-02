@@ -52,4 +52,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Peekaboo island: the floating forest confounding nature watchers in western Canada](https://www.theguardian.com/world/2026/sep/01/tiny-island-canada-appeared-vanished-reappeared?utm_source=lootura.com) — 2026-09-01T20:06:49.000Z
+No public source links.

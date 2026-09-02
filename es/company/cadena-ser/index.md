@@ -3,7 +3,7 @@
 > Sigue la actividad de Sociedad Española de Radiodifusión en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/company/cadena-ser
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-09-01
 
 ### Discovered by Atlas
 
-Cadena Ser first entered the public knowledge record with source-backed evidence.
+Cadena SER first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-09-01
 

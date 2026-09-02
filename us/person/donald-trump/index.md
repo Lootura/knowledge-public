@@ -3,10 +3,22 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Here are the military officials who've been fired or resigned under Hegseth
+
+At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.
+
+Date: 2026-09-02
+
+### Trump to Nominate Hung Cao as Navy Secretary
+
+The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.
+
+Date: 2026-09-02
 
 ### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
 
@@ -23,12 +35,6 @@ Date: 2026-09-01
 ### Trump to meet with U.S. oil executives amid Pentagon infighting
 
 President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.
-
-Date: 2026-09-01
-
-### Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms
-
-A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could "derail" the midterm election if courts allow it to proceed. (Image credit: George Frey).
 
 Date: 2026-09-01
 
@@ -62,21 +68,15 @@ Trump's pro-data center stance is out of step with voters. Republicans are tryin
 
 Date: 2026-09-01
 
-### What to Know About Venezuelan Energy Following Trump’s Oil Deal
-
-The Trump administration’s deal with a private oil company to increase oil production in the South American country could take many years to come to fruition.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [Trump to meet with U.S. oil executives amid Pentagon infighting](https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com) — 2026-09-01T15:03:00.000Z
 - [Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?](https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com) — 2026-09-01T22:08:58.000Z
+- [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
 - [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z
 - [ICE says it has enough body cameras now, after series of deadly shootings](https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration?utm_source=lootura.com) — 2026-09-01T17:52:37.000Z
 - [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z
-- [Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms](https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps?utm_source=lootura.com) — 2026-09-01T10:00:00.000Z
+- [Springfield's Haitian community braces for deportations after protected status ends](https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com) — 2026-09-01T22:30:21.000Z
 - [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T16:09:41.000Z
 - [What to Know About Venezuelan Energy Following Trump’s Oil Deal](https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html?utm_source=lootura.com) — 2026-09-01T17:54:05.000Z
 - [Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently](https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html?utm_source=lootura.com) — 2026-09-01T22:03:00.000Z
-- [How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html?utm_source=lootura.com) — 2026-09-01T16:12:47.000Z

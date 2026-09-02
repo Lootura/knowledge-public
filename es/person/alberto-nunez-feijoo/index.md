@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T02:49:43.209Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía
+
+La convocatoria de Madrid en formato de acto institucional, se mantiene pese a la no autorización por parte de la Delegación del Gobierno como manifestación Leer.
+
+Date: 2026-09-01
 
 ### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
 
@@ -62,13 +68,6 @@ El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), A
 
 Date: 2026-08-03
 
-### Feijóo ve a Sánchez un «paria» en Europa y pone en duda que el CNI no supiera de la «ocupación premeditada» de Ceuta
-
-Para el jefe de la oposición, la entrada masiva a la ciudad autónoma de centenares de miles de personas procedentes de Marruecos «no ha sido un incidente más».
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»](https://www.eldebate.com/espana/20260901/feijoo-abascal-aseguran-iran-manifestacion-pese-prohibicion-le-tienen-miedo-espana-hable_454371.html?utm_source=lootura.com) — 2026-09-01T18:37:31.000Z
-- [Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»](https://theobjective.com/espana/politica/2026-09-01/rueda-feijoo-atico-ayuso/?utm_source=lootura.com) — 2026-09-01T14:45:03.000Z
+- [Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía](https://www.elmundo.es/espana/2026/09/02/6a972b98fc6c835a738b4581.html?utm_source=lootura.com) — 2026-09-01T23:32:39.000Z

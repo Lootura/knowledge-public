@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/pedro-sanchez/index.json",
   "description": "Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "P S",
     "P. S.",
@@ -18,6 +18,21 @@
   ],
   "changes": [
     {
+      "title": "El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz",
+      "summary": "La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
+      "summary": "«¿5.000? Eso no se lo cree nadie» . La cifra que ofreció Pedro Sánchez sobre los ilegales que permanecen en Ceuta ha causado si cabe más indignación a las autoridades de la ciudad, que aproximan a esa cifra sólo los menores, que en teoría les corresponde gestionar a los servicios sociales de la administración local. Pe.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El vídeo que convirtió al 'sheriff de Magaluf' en viral con 13 millones de reproducciones y que ahora lo quiere hacer desaparecer",
+      "summary": "Miguel Sánchez, el vigilante de seguridad conocido popularmente como el sheriff de Magaluf, está cansado de que un vídeo grabado hace años durante una intervención en un hotel de Magaluf, Mallorca, continúe circulando por internet y las redes sociales. La grabación, realizada por un joven turista inglés, se convirtió e.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
       "summary": "En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...",
       "date": "2026-09-01"
@@ -25,11 +40,6 @@
     {
       "title": "Rusia se suma a Israel y carga contra Sánchez por vincularlos con los “bulos” sobre Ceuta",
       "summary": "Moscú ha conminado al presidente del Gobierno, Pedro Sánchez, a presentar evidencias para sostener que ha existido —como dijo— una campaña de desinformación rusa en torno a la crisis de Ceuta . Además, ha recordado que existen canales diplomáticos para formalizar este tipo de acusaciones. “Tenemos una embajada en Madri.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como \"acto institucional\"",
-      "summary": "El Ayuntamiento de Madrid ha denunciado este martes que el Gobierno ha prohibido la concentración en apoyo a Ceuta convocada para este miércoles en Cibeles. \"Ante este intento del Gobierno de [Pedro] Sánchez de boicotear las muestras ciudadanas de apoyo al pueblo de Ceuta, se están estudiando las posibles respuestas\",.",
       "date": "2026-09-01"
     },
     {
@@ -48,38 +58,28 @@
       "date": "2026-09-01"
     },
     {
-      "title": "Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase",
-      "summary": "Bruselas no tiene pruebas de una supuesta implicación de Rusia en una campaña de desinformación que habría provocado la crisis migratoria en Ceuta, como sostiene el Ejecutivo de Pedro Sánchez, pero sí cree que está intentando “sacar partido” de la complicada situación en que se encuentra la ciudad autónoma después del.",
-      "date": "2026-09-01"
-    },
-    {
       "title": "El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»",
       "summary": "El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.",
       "date": "2026-09-01"
     },
     {
-      "title": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
-      "summary": "Marruecos no se ha pronunciado oficialmente ante una eventual visita de Felipe VI a Ceuta , aunque los medios de comunicación se han hecho eco del anuncio efectuado este lunes por el presidente del Gobierno, Pedro Sánchez, en la Cadena SER. Un responsable político y analista de las relaciones bilaterales, que prefiere.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis",
-      "summary": "La crisis de Ceuta sigue sin tener fin y desborda y monopoliza al Gobierno desde hace un mes en todas sus vertientes, la humanitaria, la social, la política. Después de un mes en silencio, Pedro Sánchez preparó una noticia importante para su primera entrevista de la temporada, su reaparición tras el verano, en la Caden.",
+      "title": "Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: \"Hay que defender Ceuta hoy\"",
+      "summary": "«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...",
       "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Madrid dice que el Gobierno boicotea la concentración por Ceuta y el delegado matiza que puede hacerse como \"acto institucional\"",
-      "url": "https://www.20minutos.es/madrid/ayuntamiento-madrid-denuncia-que-gobierno-prohibe-concentracion-este-miercoles-cibeles-apoyo-ceuta_7031700_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:51:13.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
       "title": "Bruselas contradice el relato de Sánchez: Moscú intentó \"sacar partido\" de la crisis de Ceuta, pero no la provocó",
       "url": "https://www.elindependiente.com/espana/2026/09/01/bruselas-contradice-el-relato-de-sanchez-moscu-intento-sacar-partido-de-la-crisis-de-ceuta-pero-no-la-provoco/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T17:15:53.000Z",
       "sourceId": "lootura-es-el-independiente"
+    },
+    {
+      "title": "Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: \"Hay que defender Ceuta hoy\"",
+      "url": "https://amp.elmundo.es/espana/2026/09/01/6a971acbfc6c8347758b4593.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T20:44:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
@@ -106,17 +106,29 @@
       "sourceId": "lootura-es-eldiario-es"
     },
     {
-      "title": "Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase",
-      "url": "https://www.lavanguardia.com/politica/20260901/11624965/bruselas-acusa-rusia-querer-sacar-partido-crisis-ceuta-cree-provocase.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:08:27.000Z",
+      "title": "El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz",
+      "url": "https://www.larazon.es/andalucia/apoyo-ceuta-abre-brecha-seno-psoe-andaluz_202609026a97790c2d7d3022177b1a45.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T01:17:00.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
+      "url": "https://www.larazon.es/espana/gobierno-vivas-estalla-menores-ceuta-son-inmanejables_202609026a9775213bfe5d1eff3fc2bc.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T01:00:17.000Z",
+      "sourceId": "lootura-es-la-razon"
+    },
+    {
+      "title": "Hablar claro en Ceuta",
+      "url": "https://www.lavanguardia.com/opinion/20260902/11625019/hablar-claro-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T22:05:00.000Z",
       "sourceId": "lootura-es-la-vanguardia"
     },
     {
-      "title": "El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»",
-      "url": "https://okdiario.com/espana/lider-psoe-ceuta-pido-todos-socialistas-espana-que-no-hagan-caso-sanchez-vayan-manisfestacion-20211865?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:51:58.000Z",
+      "title": "El vídeo que convirtió al 'sheriff de Magaluf' en viral con 13 millones de reproducciones y que ahora lo quiere hacer desaparecer",
+      "url": "https://okdiario.com/baleares/video-que-convirtio-sheriff-magaluf-viral-13-millones-reproducciones-que-ahora-lo-quiere-hacer-desaparecer-20209053/amp?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:00:58.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 11
 }

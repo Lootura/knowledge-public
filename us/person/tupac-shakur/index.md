@@ -3,10 +3,16 @@
 > Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T02:50:05.135Z
 - Canonical: https://atlas.lootura.com/us/person/tupac-shakur
 
 ## Recent changes
+
+### Duane Davis' attorney doesn't believe jury considered all evidence before Tupac murder conviction
+
+Michael Sanft, Duane "Keefe D" Davis' defense attorney, joins "The Daily Report" to discuss his client's conviction for the 1996 murder of Tupac Shakur and shares his concerns about the jury's "preconceived notions.".
+
+Date: 2026-09-02
 
 ### Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur
 
@@ -40,4 +46,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur](https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder?utm_source=lootura.com) — 2026-09-01T04:57:01.000Z
+- [Duane Davis' attorney doesn't believe jury considered all evidence before Tupac murder conviction](https://www.cbsnews.com/video/duane-davis-attorney-doesnt-believe-jury-considered-all-evidence-before-tupac-murder-conviction/?utm_source=lootura.com) — 2026-09-02T00:04:18.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -67,11 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Thai police crackdown on sex workers ahead of USS Lincoln’s arrival",
-      "url": "https://www.nbcnews.com/video/thai-police-crackdown-on-sex-workers-ahead-of-uss-lincoln-s-arrival-269144133971?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T10:05:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T01:06:08.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-02T02:49:43.209Z",
   "aliases": [
     "POR",
     "PRT",
@@ -68,6 +68,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Las cuentas de España para evitar una tragedia de otro siglo",
+      "url": "https://www.abc.es/deportes/baloncesto/cuentas-espana-evitar-tragedia-siglo-20260902010515-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T23:28:33.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

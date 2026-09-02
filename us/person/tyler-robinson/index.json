@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.json",
   "description": "Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T22:22:28.371Z",
+  "updatedAt": "2026-09-02T02:50:05.135Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
+      "summary": "A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+      "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward",
+      "summary": "A judge in Utah is expected to decide whether there is enough evidence to move forward with a trial against the man accused of fatally shooting Charlie Kirk.",
+      "date": "2026-09-01"
+    },
     {
       "title": "Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown",
       "summary": "New surveillance footage played in a Utah courtroom shows the moments prosecutors allege Tyler Robinson , the accused gunman, stalked and killed conservative activist Charlie Kirk. Speaking from outside Utah's Fourth District Court in Provo, Benny Johnson, a conservative commentator and close friend of Kirk, labeled th.",
@@ -49,11 +64,23 @@
   ],
   "sources": [
     {
-      "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
+      "url": "https://www.cbsnews.com/video/accused-charlie-kirk-shooter-tyler-robinson-must-stand-trial-judge-rules/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:29:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+      "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T00:34:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward",
+      "url": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489?utm_source=lootura.com",
+      "publishedAt": "2026-09-01T15:02:54.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 3
 }
