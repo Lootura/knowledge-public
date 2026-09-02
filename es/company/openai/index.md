@@ -70,4 +70,4 @@ Date: 2026-07-15
 
 ## Fuentes
 
-- [Meta lanza una IA capaz de distinguir 20 voces en una sola grabación](https://hipertextual.com/inteligencia-artificial/meta-muse-voice-transcribe-ia-transcripcion-tiempo-real/?utm_source=lootura.com) — 2026-09-01T21:50:00.000Z
+No public source links.

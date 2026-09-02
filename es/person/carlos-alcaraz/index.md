@@ -46,4 +46,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa](https://www.abc.es/deportes/tenis/solvencia-enemigos-alcaraz-planta-segunda-ronda-motivos-20260901002143-nt.html?utm_source=lootura.com) — 2026-09-01T23:19:30.000Z
+No public source links.

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "Kaja Kallas califica el ataque híbrido ruso de Liepzig de \"terrorismo patrocinado por el Estado\"",
+      "summary": "La alta representante de la Unión Europea para Política Exterior y Seguridad, Kaja Kallas , aseguró este miércoles que el ataque híbrido con drones de hace un mes en un aeropuerto de la ciudad alemana de Leipzig, del que Berlín responsabiliza a Rusia, tiene \"todas las características del terrorismo patrocinado por el E.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara",
       "summary": "El Servicio de Acción Exterior (SEAE) de la Unión Europea ha confirmado que, durante la crisis de Ceuta, se identificaron “intentos por parte de Rusia de sacar partido” de la situación a través de las redes sociales, según ha indicado un portavoz en Bruselas. Con todo, puntualiza, no hay “pruebas concluyentes” que apun.",
@@ -58,11 +63,6 @@
       "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
       "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Cinco días de asedio de colonos a una familia en Cisjordania",
-      "summary": "“Un horrible acto de terror”. Así ha descrito la ocupación, desde hace cinco días, de dos casas palestinas por parte de colonos israelíes en la localidad de Qusra, en Cisjordania. La condena no viene de un grupo de derechos humanos o de la siempre “preocupada” Unión Europea, sino de un gran aliado de Israel, el embajad.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -71,7 +71,13 @@
       "url": "https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T17:47:26.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Kaja Kallas califica el ataque híbrido ruso de Liepzig de \"terrorismo patrocinado por el Estado\"",
+      "url": "https://www.larazon.es/internacional/kaja-kallas-califica-ataque-hibrido-ruso-liepzig-terrorismo-patrocinado-estado_202609026a97db1c2d7d3022177b6312.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T08:15:24.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

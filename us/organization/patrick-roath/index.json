@@ -1,0 +1,45 @@
+{
+  "id": "usa-patrick-roath",
+  "name": "Patrick Roath",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/patrick-roath",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/patrick-roath",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/patrick-roath/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/patrick-roath/index.json",
+  "description": "Follow Patrick Roath, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Democratic Rep. Stephen Lynch defeats a younger challenger in Massachusetts primary",
+      "summary": "Lynch won against Patrick Roath, NBC News projects, who is more than three decades younger and came at him from the left.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
+      "summary": "Representative Stephen Lynch, 71, a centrist, beat Patrick Roath, 39, in a primary that reflected the party’s generational and ideological divides.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Patrick Roath first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Democratic Rep. Stephen Lynch defeats a younger challenger in Massachusetts primary",
+      "url": "https://www.nbcnews.com/politics/2026-election/democratic-rep-stephen-lynch-defeats-younger-challenger-massachusetts-rcna594726?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:11:57.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
+      "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:42:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

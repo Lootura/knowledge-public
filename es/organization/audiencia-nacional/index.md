@@ -3,10 +3,22 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta
+
+El informe del Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía Nacional entregado este lunes en la Audiencia Nacional involucra a agentes de los cuerpos de seguridad de Marruecos en la planificación y ejecución de la entrada masiva de migrantes en Ceuta el 30 y 31 de julio . Tal y como ha adelantado El.
+
+Date: 2026-09-02
+
+### Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo
+
+El ministro del Interior, Fernando Grande-Marlaska, ha exigido al director de la Policía Nacional, Francisco Pardo, que le informe “a la mayor brevedad” sobre el contenido de un informe que el del Centro Nacional de Inmigración y Fronteras (CENIF) habría remitido a la Audiencia Nacional que atribuiría a Marruecos el as.
+
+Date: 2026-09-02
 
 ### Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos
 
@@ -56,18 +68,7 @@ Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras 
 
 Date: 2026-08-12
 
-### El fiscal Stampa recurre el "no" del juez a que fuera agraviado por las cloacas
-
-El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.
-
-Date: 2026-08-12
-
-### El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña
-
-El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos](https://www.20minutos.es/nacional/marlaska-pide-explicaciones-policia-tras-conocerse-que-entrada-masiva-ceuta-habria-sido-planificada-desde-marruecos_7031758_0.html?utm_source=lootura.com) — 2026-09-02T00:30:48.000Z
+- [El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta](https://www.20minutos.es/nacional/informe-policial-entregado-juez-atribuye-policia-marruecos-planificacion-entrada-masiva-ceuta_7031818_0.html?utm_source=lootura.com) — 2026-09-02T07:31:55.000Z
+- [Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo](https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html?utm_source=lootura.com) — 2026-09-02T06:16:08.000Z

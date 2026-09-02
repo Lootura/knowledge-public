@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,11 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
+      "summary": "Las derechas unen fuerzas en el arranque del curso político para movilizar la calle en una protesta que auguran “masiva” por la crisis de Ceuta y con la que esperan elevar la presión sobre el Gobierno en la víspera de la comparecencia de Pedro Sánchez el jueves en el Congreso . El PP, a través de la Federación Española.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía",
       "summary": "La convocatoria de Madrid en formato de acto institucional, se mantiene pese a la no autorización por parte de la Delegación del Gobierno como manifestación Leer.",
@@ -66,11 +71,6 @@
       "title": "Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta",
       "summary": "Alberto Núñez Feijóo quiere aprovechar su influencia en Europa para orientar a los países europeos que se reúnen este martes para abordar la crisis de Ceuta para que den una respuesta a la política migratoria y diplomática de Pedro Sánchez. “Pone en peligro la soberanía nacional y europea”, señala una carta enviada por.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21",
-      "summary": "El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
@@ -79,7 +79,13 @@
       "url": "https://www.elmundo.es/espana/2026/09/02/6a972b98fc6c835a738b4581.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T23:32:39.000Z",
       "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
+      "url": "https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

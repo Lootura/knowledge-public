@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN
+
+El primer Clásico de la temporada ya tiene fecha, hora y televisión . El próximo domingo 25 de octubre a las 21:00 horas , DAZN emitirá el primer FC Barcelona-Real Madrid del curso, un encuentro que estará marcado por varios alicientes. Será el regreso de José Mourinho al feudo azulgrana tras su vuelta al banquillo mad.
+
+Date: 2026-09-02
 
 ### Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy
 
@@ -62,14 +68,6 @@ Barcelona conserva receptes que formen part de la seva memòria gastronòmica , 
 
 Date: 2026-09-01
 
-### La Generalitat esconde por qué ignoró los siete avisos sobre "errores" en las pruebas PISA en Cataluña
-
-La gerente del Ayuntamiento de Barcelona Marta Clari será la nueva secretaria general de Educación tras la destitución de Teresa Sambola Leer.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-- [The Weeknd deslumbra, literalmente, en su concierto en Barcelona](https://www.abc.es/cultura/the-weeknd-deslumbra-literalmente-concierto-barcelona-20260902013450-nt_amp.html?utm_source=lootura.com) — 2026-09-01T23:34:51.000Z
-- [Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy](https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com) — 2026-09-01T21:21:22.000Z
-- [Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos](https://okdiario.com/deportes/gimenez-casado-son-bombas-del-cierre-del-mercado-fichajes-fofana-llega-sevilla-betis-aguanta-ceballos-20211564/amp?utm_source=lootura.com) — 2026-09-01T22:13:39.000Z
+- [Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN](https://www.larazon.es/television/programas-tv/barcelonareal-madrid-primer-clasico-mourinho-tiene-fecha-hora-vera-dazn_202609026a97d9e53bfe5d1eff400e09.html?utm_source=lootura.com) — 2026-09-02T08:10:13.000Z

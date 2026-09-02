@@ -40,4 +40,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz](https://www.larazon.es/andalucia/apoyo-ceuta-abre-brecha-seno-psoe-andaluz_202609026a97790c2d7d3022177b1a45.html?utm_source=lootura.com) — 2026-09-02T01:17:00.000Z
+No public source links.

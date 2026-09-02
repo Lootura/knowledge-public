@@ -28,5 +28,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un "reproche" decir que lleva 20 años sin ir](https://amp.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html?utm_source=lootura.com) — 2026-09-01T11:47:08.000Z
-- [El delegado del Gobierno reitera que «no hay prohibición» de manifestación por Ceuta](https://theobjective.com/espana/politica/2026-09-01/delegado-gobierno-prohibicion-manifestacion-ceuta/?utm_source=lootura.com) — 2026-09-01T20:06:09.000Z
+No public source links.

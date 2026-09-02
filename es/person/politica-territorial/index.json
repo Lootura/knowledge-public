@@ -8,17 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/politica-territorial/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/politica-territorial/index.json",
   "description": "Sigue la actividad de Política Territorial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha elevado a unas 80.000 las personas inmigrantes que entraron en Ceuta.",
-      "date": "2026-08-10"
+      "title": "Torres admite que el Gobierno desconoce el informe: \"No sabemos si es de un agente particular\"",
+      "summary": "El ministro de Política Territorial y coordinador del mando único para la gestión de la crisis en Ceuta, Ángel Víctor Torres , ha reconocido este miércoles que el Gobierno desconocía el contenido del informe de la Policía Nacional que atribuye a Marruecos la responsabilidad del asalto a la frontera ceutí de finales de.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Torres confirma que algunos de los menas de Ceuta pueden tener derecho al asilo",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha afirmado que el Gobierno quiere que los menores que entraron en Ceuta de forma irregular el pasado mes de julio «puedan ser reagrupados con sus familias» , pero ha avisado de que «habrá quien tenga derecho a asilo y menores que no pueda.",
+      "date": "2026-09-02"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Política Territorial first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha elevado a unas 80.000 las personas inmigrantes que entraron en Ceuta.",
       "date": "2026-08-10"
     },
     {
@@ -32,6 +42,19 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Torres admite que el Gobierno desconoce el informe: \"No sabemos si es de un agente particular\"",
+      "url": "https://www.20minutos.es/nacional/torres-admite-que-gobierno-desconoce-informe-policia-que-senala-marruecos-no-sabemos-si-es-un-agente-particular_7031800_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:06:09.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Torres confirma que algunos de los menas de Ceuta pueden tener derecho al asilo",
+      "url": "https://theobjective.com/espana/politica/2026-09-02/torres-menas-ceuta-gobierno/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:44:57.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,21 @@
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
+      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
+      "summary": "The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
     },
     {
@@ -28,18 +43,8 @@
       "date": "2026-09-01"
     },
     {
-      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
-      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
-      "date": "2026-09-01"
-    },
-    {
       "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
       "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
-      "summary": "The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.",
       "date": "2026-09-01"
     },
     {
@@ -61,20 +66,9 @@
       "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
       "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-      "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
-    {
-      "title": "Send your questions for Richard Engel on Ukraine and more",
-      "url": "https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:57:01.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
     {
       "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
       "url": "https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks?utm_source=lootura.com",
@@ -90,15 +84,9 @@
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T23:38:51.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T23:38:03.000Z",
+      "publishedAt": "2026-09-02T03:04:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

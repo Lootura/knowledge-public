@@ -1,55 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T06:22:13.739Z",
+  "generatedAt": "2026-09-02T08:37:58.786Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|152|1788317405135",
+    "signature": "1.18.0|153|1788337392897",
     "version": "1.18.0",
-    "build": 152,
-    "latestEntityUpdatedAt": "2026-09-02T02:50:05.135Z"
+    "build": 153,
+    "latestEntityUpdatedAt": "2026-09-02T08:23:12.897Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
+      "id": "usa-iran",
+      "name": "Iran",
       "type": "place",
-      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-09-02T02:50:05.135Z",
-      "score": 1662,
-      "sourceCount": 827,
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "url": "https://atlas.lootura.com/us/place/iran",
+      "path": "/us/place/iran",
+      "updatedAt": "2026-09-02T08:23:12.897Z",
+      "score": 1722,
+      "sourceCount": 423,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-09-02T02:50:05.135Z",
-        "score": 1650,
-        "sourceCount": 420,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-charlie-kirk",
-        "name": "Charlie Kirk",
-        "type": "person",
-        "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
-        "url": "https://atlas.lootura.com/us/person/charlie-kirk",
-        "path": "/us/person/charlie-kirk",
-        "updatedAt": "2026-09-02T02:50:05.135Z",
-        "score": 1636,
-        "sourceCount": 15,
+        "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-09-02T08:23:12.897Z",
+        "score": 1705,
+        "sourceCount": 833,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +47,39 @@
         "title": "Trump to Nominate Hung Cao as Navy Secretary",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-02T02:50:05.135Z",
-        "score": 1626,
+        "updatedAt": "2026-09-02T08:23:12.897Z",
+        "score": 1644,
         "sourceCount": 810,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-russia",
-        "name": "Russia",
-        "type": "place",
-        "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-        "url": "https://atlas.lootura.com/us/place/russia",
-        "path": "/us/place/russia",
-        "updatedAt": "2026-09-02T02:50:05.135Z",
-        "score": 1619,
-        "sourceCount": 111,
+        "id": "usa-ed-markey",
+        "name": "Ed Markey",
+        "type": "person",
+        "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
+        "url": "https://atlas.lootura.com/us/person/ed-markey",
+        "path": "/us/person/ed-markey",
+        "updatedAt": "2026-09-02T08:23:12.897Z",
+        "score": 1641,
+        "sourceCount": 8,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-white-house",
+        "name": "White House",
+        "type": "organization",
+        "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+        "url": "https://atlas.lootura.com/us/organization/white-house",
+        "path": "/us/organization/white-house",
+        "updatedAt": "2026-09-02T08:23:12.897Z",
+        "score": 1638,
+        "sourceCount": 150,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 178
+    "publicEntityCount": 180
   }
 }

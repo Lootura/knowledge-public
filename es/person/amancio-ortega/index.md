@@ -3,7 +3,7 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-04
 ## Fuentes
 
 - [Prueba de fuego para Inditex, que cotiza cerca de récord](https://www.expansion.com/inversion/2026/09/02/6a970ae9468aeb4f2d8b4580.html?utm_source=lootura.com) — 2026-09-02T00:02:40.000Z
-- [Amancio Ortega (90 años), sobre su patrimonio: «Si he ganado tanto dinero ha sido porque mi objetivo no ha sido nunca ganar dinero»](https://okdiario.com/cool/famosos/amancio-ortega-90-anos-sobre-propio-patrimonio-si-he-ganado-tanto-dinero-sido-porque-objetivo-no-sido-nunca-ganar-dinero-realidad-20156084?utm_source=lootura.com) — 2026-09-01T22:55:40.000Z

@@ -3,10 +3,22 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Thousands of U.S. service members arrive in Thailand after record stint at sea
+
+About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East.
+
+Date: 2026-09-02
+
+### The Navy’s Logistical Nightmare in the Iran War
+
+Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.
+
+Date: 2026-09-02
 
 ### Thai police crackdown on sex workers ahead of USS Lincoln’s arrival
 
@@ -56,18 +68,7 @@ Sailors and family members who were evacuated from U.S. bases in the Middle East
 
 Date: 2026-08-13
 
-### Sailors and their families have lives on pause, uncertain if they'll return to Mideast
-
-Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).
-
-Date: 2026-08-13
-
-### Send your questions for Keir Simmons
-
-A multinational maritime coalition was recently formed to secure international trade routes throughout the Middle East.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities](https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch?utm_source=lootura.com) — 2026-09-02T01:06:08.000Z
+- [Thousands of U.S. service members arrive in Thailand after record stint at sea](https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651?utm_source=lootura.com) — 2026-09-02T04:24:12.000Z
+- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T04:00:00.000Z

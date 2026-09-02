@@ -3,10 +3,34 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Sheinbaum cumple dos años al frente de México marcados por la tensión con López Obrador y Trump
+
+La presidenta de México, Claudia Sheinbaum, cumplió este martes dos años al frente de un gobierno que vive su día a día entre dos fuegos: la influencia doméstica del expresidente Andrés Manuel López Obrador y la vigilancia externa de Donald Trump y sus advertencias de tinte intervencionista.La presidenta dará su 'Infor.
+
+Date: 2026-09-02
+
+### Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos
+
+Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.
+
+Date: 2026-09-02
+
+### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
+
+Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.
+
+Date: 2026-09-02
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
 
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
@@ -44,30 +68,9 @@ El presidente estadounidense, el republicano Donald Trump , dijo este viernes en
 
 Date: 2026-08-14
 
-### Trump anuncia que «muy pronto» Ormuz será «un territorio de EE UU»
-
-«Jamás me disculparé. Hice lo correcto», dice a los que le crfitican por el aumento del precio de la gasolina.
-
-Date: 2026-08-14
-
-### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
-
-El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
-
-Date: 2026-08-14
-
-### EEUU paga el mayor interés por su deuda a 30 años desde 2001
-
-EEUU ha pagado los mayores intereses para vender bonos a 30 años desde 2001 , mientras los inversores muestran su preocupación por el creciente volumen de deuda del país bajo la Administración de Donald Trump, así como por una inflación que sigue siendo persistentemente elevada. Seguir leyendo.
-
-Date: 2026-08-13
-
-### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
-
-La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Sheinbaum cumple dos años al frente de México marcados por la tensión con López Obrador y Trump](https://www.abc.es/internacional/tension-lopez-obrador-trump-sheinbaum-cumple-dos-20260831010813-nt.html?utm_source=lootura.com) — 2026-09-02T07:41:23.000Z
+- [Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos](https://cincodias.elpais.com/mercados-financieros/2026-09-02/warsh-se-topa-con-el-calendario-electoral-de-trump-los-analistas-divididos-sobre-cuando-subira-tipos.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
+- [Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump](https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com) — 2026-09-02T03:30:00.000Z
 - [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z

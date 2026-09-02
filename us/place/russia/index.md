@@ -3,10 +3,28 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+
+Date: 2026-09-02
+
+### Germany blames Russia for attempted drone attack at Leipzig airport
+
+Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks
+
+The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.
+
+Date: 2026-09-01
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
@@ -20,21 +38,9 @@ Richard Engel is back in Ukraine to report on its intensifying war with Russia, 
 
 Date: 2026-09-01
 
-### Germany blames Russia for attempted drone attack at Leipzig airport
-
-Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
-
-Date: 2026-09-01
-
 ### Weeks After Failed Drone Attack, Germany Points Finger at Russia
 
 The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”.
-
-Date: 2026-09-01
-
-### Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks
-
-The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.
 
 Date: 2026-09-01
 
@@ -62,16 +68,8 @@ The meeting underscored Washington's willingness to reopen diplomatic talks with
 
 Date: 2026-09-01
 
-### Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China
-
-A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-
-Date: 2026-08-31
-
 ## Sources
 
-- [Send your questions for Richard Engel on Ukraine and more](https://www.nbcnews.com/world/ukraine/send-questions-richard-engel-ukraine-rcna594551?utm_source=lootura.com) — 2026-09-01T17:57:01.000Z
 - [Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks](https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks?utm_source=lootura.com) — 2026-09-01T23:15:02.000Z
 - [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T23:38:51.000Z
-- [Weeks After Failed Drone Attack, Germany Points Finger at Russia](https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html?utm_source=lootura.com) — 2026-09-01T23:38:03.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/times-square/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/times-square/index.json",
   "description": "Follow Times Square, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [],
   "changes": [
     {
       "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
       "summary": "Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti",
+      "summary": "Erin Piacenti was identified as one of the two people stabbed by a woman Monday afternoon in Times Square before police shot and killed the suspect.",
       "date": "2026-09-02"
     },
     {
@@ -39,11 +44,17 @@
   ],
   "sources": [
     {
+      "title": "Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti",
+      "url": "https://www.cbsnews.com/newyork/news/erin-piacenti-times-square-stabbing-nypd-shooting/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:35:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
       "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T02:02:57.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

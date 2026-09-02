@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [U.S. Treasury official on economic goals at G20 summit](https://www.cbsnews.com/video/bessent-warns-world-is-awash-in-debt-amid-g20-summit/?utm_source=lootura.com) — 2026-09-01T15:06:23.000Z
+No public source links.

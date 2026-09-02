@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -71,5 +71,4 @@ Date: 2026-08-15
 ## Sources
 
 - [WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation](https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com) — 2026-09-01T18:09:50.000Z
-- [Woman Killed in Times Square Stabbing Identified as Bank of America VP](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html?utm_source=lootura.com) — 2026-09-02T00:25:16.000Z
 - [Former President Joe Biden Will Attend Sept. 11 Ceremony in New York](https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html?utm_source=lootura.com) — 2026-09-01T23:50:54.000Z

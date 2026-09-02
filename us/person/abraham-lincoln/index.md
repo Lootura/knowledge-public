@@ -3,10 +3,22 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
+
+Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
+
+Date: 2026-09-02
+
+### The Navy’s Logistical Nightmare in the Iran War
+
+Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.
+
+Date: 2026-09-02
 
 ### U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says
 
@@ -56,18 +68,7 @@ Asked whether the deployment of the Abraham Lincoln had gone on too long, the pr
 
 Date: 2026-08-14
 
-### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
-
-Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.
-
-Date: 2026-08-14
-
-### Parent says son feels a sense of ‘powerlessness’ aboard USS Abraham Lincoln
-
-Growing concerns are emerging over conditions aboard the USS Abraham Lincoln as sailors and families report low morale, supply shortages and months without a port call. In an interview with NBC News’ Tom Llamas, one parent calls for answers, saying her son feels a sense of “powerlessness” while serving aboard the carri.
-
-Date: 2026-08-14
-
 ## Sources
 
-No public source links.
+- [U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break](https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html?utm_source=lootura.com) — 2026-09-02T06:01:40.000Z
+- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T04:00:00.000Z

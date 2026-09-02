@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -21,6 +21,16 @@
     "La Audiencia Nacional"
   ],
   "changes": [
+    {
+      "title": "El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta",
+      "summary": "El informe del Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía Nacional entregado este lunes en la Audiencia Nacional involucra a agentes de los cuerpos de seguridad de Marruecos en la planificación y ejecución de la entrada masiva de migrantes en Ceuta el 30 y 31 de julio . Tal y como ha adelantado El.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha exigido al director de la Policía Nacional, Francisco Pardo, que le informe “a la mayor brevedad” sobre el contenido de un informe que el del Centro Nacional de Inmigración y Fronteras (CENIF) habría remitido a la Audiencia Nacional que atribuiría a Marruecos el as.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos",
       "summary": "La Policía Nacional habría informado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva desde Marruecos a Ceuta los días 30 y 31 de julio, de que esta fue guiada por gendarmes marroquíes bajo las órdenes de agentes de paisano y con un objetivo distinto al meramente migratorio, según ha pu.",
@@ -60,25 +70,21 @@
       "title": "El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra",
       "summary": "Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras de Díez para obtener información comprometida sobre jueces, fiscales y mandos de la UCO Leer.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El fiscal Stampa recurre el \"no\" del juez a que fuera agraviado por las cloacas",
-      "summary": "El fiscal Ignacio Stampa recurre la negativa del juez de la Audiencia Nacional (AN) Santiago Pedraz a tenerle personado como perjudicado por las «cloacas del PSOE». Stampa defiende que el magistrado instructor le denegó que pudiese ejercer la acusación particular con una «motivación tan escueta como errónea». El titula.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "El juez del caso Leire descarta aceptar como acusación al jefe de la investigación policial del referéndum de Cataluña",
-      "summary": "El juez de la Audiencia Nacional que investiga el 'caso Leire Díez' , Santiago Pedraz, ha rechazado aceptar como acusación particular al coronel de la Guardia Civil Daniel Baena, jefe de la investigación policial sobre el referéndum ilegal de independencia de Cataluña del 1 de octubre de 2017. El magistrado aduce que n.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Marlaska pide explicaciones a la Policía tras conocerse que la entrada masiva en Ceuta habría sido planificada desde Marruecos",
-      "url": "https://www.20minutos.es/nacional/marlaska-pide-explicaciones-policia-tras-conocerse-que-entrada-masiva-ceuta-habria-sido-planificada-desde-marruecos_7031758_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T00:30:48.000Z",
+      "title": "El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta",
+      "url": "https://www.20minutos.es/nacional/informe-policial-entregado-juez-atribuye-policia-marruecos-planificacion-entrada-masiva-ceuta_7031818_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:31:55.000Z",
       "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo",
+      "url": "https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T06:16:08.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

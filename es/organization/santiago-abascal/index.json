@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/santiago-abascal/index.json",
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Santiago Abascal Conde"
   ],
   "changes": [
+    {
+      "title": "Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»",
+      "summary": "El líder de Vox , Santiago Abascal , ha defendido este miércoles la necesidad de que todos los españoles salgan a las calles a concentrarse en apoyo a Ceuta frente a un Gobierno que les ha traicionado y que no ha evitado la «invasión» de la que fueron objeto a finales de julio. «Hoy no importan ni permisos, ni convocan.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta",
       "summary": "El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.",
@@ -57,13 +62,15 @@
       "title": "“Esto no es Torre Pacheco”: la estrategia fallida de la ultraderecha en Ceuta",
       "summary": "La estrategia fallida en Ceuta se ha unido estos días a lo que ya compartían el eurodiputado Alvise Pérez, el agitador Vito Quiles, el líder de Vox, Santiago Abascal, y el grupo neonazi Núcleo Nacional. Desde que el pasado jueves se produjera el acceso masivo de migrantes a la ciudad , las distintas facciones de la ult.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado",
-      "summary": "El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»",
+      "url": "https://theobjective.com/espana/politica/2026-09-02/abascal-salir-contra-traicion-gobierno-ceuta-invasion/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:59:45.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

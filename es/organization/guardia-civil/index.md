@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Entre yates, lujo y glamour en Puerto Portals: un cocinero persigue a un camarero para pegarle y tiene que actuar la Guardia Civil](https://okdiario.com/baleares/yates-lujo-glamour-puerto-portals-cocinero-persigue-camarero-pegarle-tiene-que-actuar-guardia-civil-20208800?utm_source=lootura.com) — 2026-09-02T02:00:03.000Z
+No public source links.

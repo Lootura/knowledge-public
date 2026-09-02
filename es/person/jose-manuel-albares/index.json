@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Albares afea que algunos socios europeos participen \"en la desinformación\" sobre Ceuta y reclama \"solidaridad\" con España",
+      "summary": "España sigue reclamando \"solidaridad\" por parte del resto de gobiernos de la UE ante la crisis en Ceuta, y ese ha sido el llamamiento que ha hecho este miércoles, de nuevo, el ministro de Exteriores, José Manuel Albares, en la reunión de titulares del ramo en Dublín. Además, ha acusado a algunos gobiernos europeos de p.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
@@ -58,13 +63,15 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
       "summary": "El Gobierno registrará este viernes en el Congreso las solicitudes de comparecencia a petición propia y en periodo extraordinario de los ministros Fernando Grande-Marlaska, José Manuel Albares, Margarita Robles y Félix Bolaños para explicar la crisis migratoria en Ceuta por la que entraron más de 72.000 migrantes ilega.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella",
-      "summary": "Felipe VI viaja este jueves por la noche a Cali ( Colombia ) desde Palma para asistir a la toma de posesión como nuevo presidente colombiano de Abelardo de la Espriella , con quien mantendrá una reunión antes de la ceremonia. El rey de España, que viaja acompañado del ministro de Asuntos Exteriores, José Manuel Albares.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Albares afea que algunos socios europeos participen \"en la desinformación\" sobre Ceuta y reclama \"solidaridad\" con España",
+      "url": "https://www.20minutos.es/nacional/albares-afea-que-algunos-socios-europeos-participen-desinformacion-sobre-ceuta-reclama-solidaridad-con-espana_7031808_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:24:26.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

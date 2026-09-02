@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
+
+Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.
+
+Date: 2026-09-02
 
 ### El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán
 
@@ -62,12 +68,6 @@ Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidenta
 
 Date: 2026-08-01
 
-### Trump arremete contra las "noticias falsas" en la cena de corresponsales de la Casa Blanca
-
-Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-- [La guerra en Irán vuelve a encarecer la gasolina y Trump convoca a las petroleras a la Casa Blanca](https://www.expansion.com/economia/2026/09/01/6a970e35e5fdea4b068b4586.html?utm_source=lootura.com) — 2026-09-01T17:41:25.000Z
+- [Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump](https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com) — 2026-09-02T03:30:00.000Z

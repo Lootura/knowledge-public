@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
+      "summary": "Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consumo. Hijos de Rivera es la excepción, al crecer en ventas y elevar sus ganancias.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Los inversores vuelven a apostar con fuerza por Wall Street",
       "summary": "Los inversores vuelven a apostar por la renta variable estadounidense , dejando atrás los temores que desencadenaron la caída de las acciones de semiconductores en julio para volver a comprar tras la caída en el sector tecnológico. Seguir leyendo.",
@@ -57,13 +62,15 @@
       "title": "Más allá de Leopold Aschenbrenner: el desplome de la IA arrasa a los fondos estrella de Wall Street",
       "summary": "La IA y su tirón en Bolsa se lo han dado todo a una generación de inversores profesionales especializados en tecnología, con ganancias de miles de millones de dólares en apenas tres años. Pero las caídas bursátiles de las grandes tecnológicas y de los fabricantes de chips en el último mes, motivadas por la desconfianza.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Wall Street first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/02/6a97a9bae5fdea833a8b45a0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T05:08:56.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

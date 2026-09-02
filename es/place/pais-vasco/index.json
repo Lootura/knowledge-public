@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,11 +23,6 @@
     "Vascongadas"
   ],
   "changes": [
-    {
-      "title": "Zupiria sobre la Policía Nacional en Euskadi: «Hay ilegales que cometen delitos y ahí me gustaría que hicieran más»",
-      "summary": "El consejero de Seguridad del Gobierno vasco ha exigido «más implicación» en materia de extranjería e inmigración.",
-      "date": "2026-09-01"
-    },
     {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
       "summary": "El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.",
@@ -72,15 +67,14 @@
       "title": "Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones",
       "summary": "El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.",
       "date": "2026-08-12"
+    },
+    {
+      "title": "Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»",
+      "summary": "Aunque la actriz Amaia Salamanca es madrileña, muchos de sus recuerdos de niña están ligados a Vizcaya . ya que cuando llegaba el verano y las vacaciones, cambiaba Madrid por un pueblo entre montañas en el que vivía parte de su familia. Pasó tantos veranos allí durante su infancia y juventud que aquel lugar del País Va.",
+      "date": "2026-08-12"
     }
   ],
   "sources": [
-    {
-      "title": "Zupiria sobre la Policía Nacional en Euskadi: «Hay ilegales que cometen delitos y ahí me gustaría que hicieran más»",
-      "url": "https://www.elcorreo.com/politica/zupiria-exige-implicacion-policia-nacional-materia-extranjeria-20260901100340-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T08:03:40.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
     {
       "title": "Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»",
       "url": "https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com",
@@ -88,5 +82,5 @@
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

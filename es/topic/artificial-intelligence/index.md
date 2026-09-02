@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Mahou, Heineken y Damm aceleran su diversificación](https://amp.expansion.com/empresas/distribucion/2026/09/02/6a970f51468aeb0d5d8b4598.html?utm_source=lootura.com) — 2026-09-02T00:02:29.000Z
+- [Los bancos de Wall Street exigen rebajas a los bufetes por la IA](https://amp.expansion.com/economia/financial-times/2026/09/02/6a973884e5fdeacf3e8b4582.html?utm_source=lootura.com) — 2026-09-02T00:02:29.000Z

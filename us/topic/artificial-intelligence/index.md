@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -71,7 +71,7 @@ Date: 2026-09-01
 ## Sources
 
 - [From Trojan horses to AI-proof exams: how professors are tackling students’ AI use](https://www.nature.com/articles/d41586-026-02370-2?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
-- [When AI does science, who is accountable for mistakes?](https://www.nature.com/articles/d41586-026-02735-7?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
+- [When AI does science, who is accountable for mistakes?](https://www.nature.com/articles/d41586-026-02735-7?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
 - [Side of slop? Bizarre AI food images jump from online to IRL menus](https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786?utm_source=lootura.com) — 2026-09-01T18:00:41.000Z
 - [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
 - [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z

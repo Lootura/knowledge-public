@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Messi, el rey que abdica](https://elpais.com/deportes/futbol/2026-09-01/messi-el-rey-que-abdica.html?utm_source=lootura.com) — 2026-09-01T15:46:49.000Z
+No public source links.

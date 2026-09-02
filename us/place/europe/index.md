@@ -3,7 +3,7 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
@@ -18,11 +18,17 @@ Date: 2026-09-02
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### Germany blames Russia for attempted drone attack at Leipzig airport
 
 Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
+
+Date: 2026-09-01
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
 Date: 2026-09-01
 
@@ -62,14 +68,8 @@ France last month became the first country in the European Union to pass a blank
 
 Date: 2026-08-14
 
-### Greece toughens stance on illegal migration with new deportation plan
-
-Eleven years into a migration crisis, Greece is trying to stop boats crossing from North Africa to the Greek island of Crete. Five European Union countries have made a breakthrough in their efforts to deport migrants crossing the Mediterranean Sea. Uganda in East Africa has agreed to accept them, although the deal has.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
+- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
 - [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T23:38:51.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street
+
+Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consumo. Hijos de Rivera es la excepción, al crecer en ventas y elevar sus ganancias.
+
+Date: 2026-09-02
 
 ### Los inversores vuelven a apostar con fuerza por Wall Street
 
@@ -62,12 +68,6 @@ La IA y su tirón en Bolsa se lo han dado todo a una generación de inversores p
 
 Date: 2026-08-06
 
-### Discovered by Atlas
-
-Wall Street first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street](https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/02/6a97a9bae5fdea833a8b45a0.html?utm_source=lootura.com) — 2026-09-02T05:08:56.000Z

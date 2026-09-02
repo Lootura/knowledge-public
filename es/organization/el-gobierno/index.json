@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Banca y operadores del juego pagarán 50 millones al año para financiar la nueva agencia antiblanqueo",
+      "summary": "El Gobierno ultima una metamorfosis de su arquitectura antiblanqueo con un coste que no se cargará a los ciudadanos. El Ministerio de Economía anunció a finales de julio la creación de una nueva autoridad, la Autoridad Nacional de Integridad Financiera ( ANIFI ), que tendrá la misión de luchar contra el blanqueo de cap.",
+      "date": "2026-09-02"
+    },
     {
       "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
       "summary": "«¿5.000? Eso no se lo cree nadie» . La cifra que ofreció Pedro Sánchez sobre los ilegales que permanecen en Ceuta ha causado si cabe más indignación a las autoridades de la ciudad, que aproximan a esa cifra sólo los menores, que en teoría les corresponde gestionar a los servicios sociales de la administración local. Pe.",
       "date": "2026-09-02"
+    },
+    {
+      "title": "Guerra híbrida contra Europa",
+      "summary": "“No estamos en guerra, pero tampoco ya en paz”, advierte desde hace meses Friedrich Merz. Podría parecer una afirmación exagerada o alarmista. No lo es. El Gobierno alemán acusó este martes a Moscú de estar detrás del ataque con drones en el aeropuerto de Leipzig el 4 de agosto pasado, y certificó así el diagnóstico de.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
+      "summary": "El Ejecutivo ve \"casi imposible\" darle la vuelta al \"relato\" y cree que pasarán varias semanas antes de normalizar Ceuta: \"Esto va para largo\" Leer.",
+      "date": "2026-09-01"
     },
     {
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
@@ -32,18 +47,8 @@
       "date": "2026-09-01"
     },
     {
-      "title": "Guerra híbrida contra Europa",
-      "summary": "“No estamos en guerra, pero tampoco ya en paz”, advierte desde hace meses Friedrich Merz. Podría parecer una afirmación exagerada o alarmista. No lo es. El Gobierno alemán acusó este martes a Moscú de estar detrás del ataque con drones en el aeropuerto de Leipzig el 4 de agosto pasado, y certificó así el diagnóstico de.",
-      "date": "2026-09-01"
-    },
-    {
       "title": "El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta",
       "summary": "El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
-      "summary": "El Ejecutivo ve \"casi imposible\" darle la vuelta al \"relato\" y cree que pasarán varias semanas antes de normalizar Ceuta: \"Esto va para largo\" Leer.",
       "date": "2026-09-01"
     },
     {
@@ -55,18 +60,13 @@
       "title": "Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta",
       "summary": "El Gobierno ha anunciado que ya hay disponibles más de 3.400 nuevas plazas para acoger a inmigrantes en Ceuta . Además, el Ejecutivo ha cifrado en 3.519 los migrantes retornados hasta este lunes 31 de agosto desde la ciudad autónoma a Marruecos , en 214 los que han sido expulsados y ha aclarado que son 1.612 los menore.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Aprobadas bonificaciones permanentes en Sociedades e IRPF para Ceuta y Melilla en un bloque de 309 millones",
-      "summary": "El Gobierno ha movilizado un paquete económico de 309 millones de euros de apoyo y dinamización para Ceuta, cuando se cumple un mes desde que estalló la crisis migratoria y humanitaria en la ciudad autónoma. El Real Decreto-ley de medidas urgentes incluye un refuerzo de los servicios esenciales, de la seguridad, de la.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
-      "url": "https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T16:42:24.000Z",
+      "title": "Banca y operadores del juego pagarán 50 millones al año para financiar la nueva agencia antiblanqueo",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/banca-y-operadores-del-juego-pagaran-50-millones-al-ano-para-financiar-la-nueva-agencia-antiblanqueo.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:30:01.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -76,35 +76,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
-      "url": "https://amp.elmundo.es/espana/2026/09/01/6a96a8f7e4d4d821098b4587.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T11:47:08.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
-      "url": "https://elpais.com/espana/2026-09-01/el-gobierno-anuncia-un-plan-de-choque-por-valor-de-309-millones-para-ayudar-a-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T12:48:35.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "Guerra híbrida contra Europa",
       "url": "https://elpais.com/opinion/2026-09-01/guerra-hibrida-contra-europa.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T19:15:51.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta",
-      "url": "https://www.eldiario.es/madrid/somos/delegacion-gobierno-madrid-pide-ayuntamiento-convoque-protesta-ceuta-acto-institucional-autorizarla_1_13480691.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:30:37.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»",
-      "url": "https://www.larazon.es/espana/gobierno-vivas-estalla-menores-ceuta-son-inmanejables_202609026a9775213bfe5d1eff3fc2bc.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T01:00:17.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 3
 }

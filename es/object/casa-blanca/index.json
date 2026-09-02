@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump",
+      "summary": "Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.",
+      "date": "2026-09-02"
+    },
     {
       "title": "El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán",
       "summary": "Dan Driscoll ha presentado su renuncia este lunes, después de meses de tensión con el jefe del Pentágono, Pete Hegseth La purga de Hegseth ataca la cúpula del Pentágono y alimenta la bunkerización de la Casa Blanca El secretario del Ejército, Dan Driscoll, ha presentado su dimisión este lunes, según ha anunciado la Cas.",
@@ -64,20 +69,15 @@
       "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
       "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
-      "summary": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer.",
-      "date": "2026-07-25"
     }
   ],
   "sources": [
     {
-      "title": "La guerra en Irán vuelve a encarecer la gasolina y Trump convoca a las petroleras a la Casa Blanca",
-      "url": "https://www.expansion.com/economia/2026/09/01/6a970e35e5fdea4b068b4586.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:41:25.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump",
+      "url": "https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:30:00.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

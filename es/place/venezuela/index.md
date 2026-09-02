@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
+
+Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.
+
+Date: 2026-09-02
 
 ### Petróleo pesado venezolano para las refinerías estadounidenses
 
@@ -62,12 +68,6 @@ Los gobiernos de Venezuela e Israel han anunciado que pondrán en marcha un meca
 
 Date: 2026-08-11
 
-### Las diferencias que separan a los terremotos de Colombia y Venezuela
-
-Este lunes la tierra se abrió bajo el Valle del Cauca, en Colombia. Un terremoto de magnitud 7,4, con epicentro en San José del Palmar, sacudió el suroccidente del país y provocó daños importantes en Cali, Pereira y Quibdó, sumándose a la larga lista de temblores que han golpeado a América Latina este año. Llegó semana.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump](https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com) — 2026-09-02T03:30:00.000Z

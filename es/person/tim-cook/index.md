@@ -40,4 +40,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook](https://elpais.com/economia/2026-09-01/ternus-toma-el-mando-en-apple-entre-la-leyenda-de-jobs-y-la-maquina-de-ganar-de-dinero-de-cook.html?utm_source=lootura.com) — 2026-09-01T18:12:00.000Z
+No public source links.

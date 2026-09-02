@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech](https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html?utm_source=lootura.com) — 2026-09-01T14:01:39.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/person/tyler-robinson
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-07-08
 
 - [Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules](https://www.cbsnews.com/video/accused-charlie-kirk-shooter-tyler-robinson-must-stand-trial-judge-rules/?utm_source=lootura.com) — 2026-09-02T00:29:24.000Z
 - [Charlie Kirk's alleged killer will stand trial for aggravated murder](https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com) — 2026-09-02T00:34:00.000Z
-- [Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward](https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489?utm_source=lootura.com) — 2026-09-01T15:02:54.000Z

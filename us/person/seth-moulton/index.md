@@ -46,5 +46,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Massachusetts Democratic Senate primary pits age against ideology](https://www.cbsnews.com/video/massachusetts-democratic-primary-pits-age-against-ideology/?utm_source=lootura.com) — 2026-09-01T15:38:37.000Z
-- [Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate](https://www.cbsnews.com/boston/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com) — 2026-09-02T02:44:45.000Z
+No public source links.

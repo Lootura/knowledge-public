@@ -3,10 +3,52 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Manifestación en apoyo a Ceuta en Madrid hoy, miércoles 2 de septiembre: horario, lugar, cortes de tráfico y todo lo que debes saber
+
+La capital y numerosos municipios de la región se sumarán este miércoles a una convocatoria nacional surgida tras los episodios registrados a finales de julio y las últimas semanas de tensión migratoria.
+
+Date: 2026-09-02
+
+### Una mujer, herida grave al chocar un coche y una moto en Moratalaz (Madrid)
+
+Una motorista ha resultado herida de carácter grave tras una colisión lateral entre un turismo y la moto en la que circulaba durante la noche de este martes, a la altura del distrito madrileño de Moratalaz . El accidente ha sido registrado minutos antes de las 00.00 horas a la altura del punto kilométrico 7,9 de la M-3.
+
+Date: 2026-09-02
+
+### Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta
+
+Última hora de la crisis en Ceuta, en directo Manifestaciones por Ceuta en España: horarios y lugares Manifestación en apoyo a Ceuta en Madrid hoy: horario, lugar y cortes El informe policial complica la defensa de Marruecos que Sánchez preparaba para el Congreso El ministro del Interior, Fernando Grande-Marlaska , se.
+
+Date: 2026-09-02
+
+### Guía del tráfico en Madrid tras las vacaciones: fin de las obras en Metro, carreteras reabiertas y servicios gratuitos
+
+Septiembre es el mes de regreso a la normalidad tras las vacaciones. La mayoría de cortes en carreteras y líneas de Metro se producen en agosto, aprovechando el receso de habitantes en Madrid . Con la entrada del noveno mes del año, tanto las zonas urbanas como las autovías y el suburbano vuelven poco a poco a sus tray.
+
+Date: 2026-09-02
+
+### Almeida acusa al delegado del Gobierno de intentar "desalentar" el apoyo a Ceuta
+
+El alcalde de Madrid, José Luis Martínez-Almeida, ha acusado este miércoles al delegado del Gobierno en Madrid, Francisco Martín, de intentar "desincentivar y desalentar" la asistencia a la concentración convocada este miércoles en la plaza de Cibeles con motivo del Día de Ceuta pero la respuesta va a ser "contundente".
+
+Date: 2026-09-02
+
+### Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN
+
+El primer Clásico de la temporada ya tiene fecha, hora y televisión . El próximo domingo 25 de octubre a las 21:00 horas , DAZN emitirá el primer FC Barcelona-Real Madrid del curso, un encuentro que estará marcado por varios alicientes. Será el regreso de José Mourinho al feudo azulgrana tras su vuelta al banquillo mad.
+
+Date: 2026-09-02
+
+### El Ibex 35 cae un 0,17% en la apertura, hasta los 19.790 puntos, con el petróleo a casi 95 dólares
+
+El índice Ibex 35 de la Bolsa de Madrid ha arrancado la sesión de este miércoles con una caída del 0,17% que le ha llevado a situarse en los 19.790 puntos, perdiendo la cota de los 19.800 enteros que logró retener el martes pese a cerrar con un retroceso del 0,75%. No obstante, pasados unos minutos de la apertura , el.
+
+Date: 2026-09-02
 
 ### Retiran del mercado tres salsas etiquetadas como «sin gluten» que sí contenían este alérgeno
 
@@ -26,57 +68,15 @@ El Ayuntamiento de Madrid ha acusado este martes al Gobierno de Pedro Sánchez d
 
 Date: 2026-09-01
 
-### El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta
-
-El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.
-
-Date: 2026-09-01
-
-### Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy
-
-El mercado de fichajes llega a su fin este martes. A las 00:00 horas del 2 de septiembre no se podrán hacer más operaciones. Es decir, hasta las 23:59 horas de este martes los clubes podrán fichar e inscribir a jugadores en sus plantillas . Sigue en OKDIARIO todo lo que suceda en las últimas horas del mercado, con info.
-
-Date: 2026-09-01
-
-### Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos
-
-El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.
-
-Date: 2026-09-01
-
-### Jonathan David, nuevo delantero del Atlético de Madrid hasta junio de 2027
-
-El delantero canadiense Jonathan David jugará en el Atlético de Madrid durante la temporada 2026-27 , ha anunciado este martes el club rojiblanco, que ha llegado a un acuerdo con la Juventus para la cesión del futbolista, que completará el ataque de los de Diego Pablo Simeone. ¡Bienvenido, Jonathan David! Nuestro club.
-
-Date: 2026-09-01
-
-### El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables
-
-El Grupo Municipal Socialista ha registrado este martes una petición de información para solicitar por escrito el expediente completo y toda la documentación técnica, jurídica y administrativa de Casa Árabe , ante «la falta de transparencia», y ha pedido al alcalde de Madrid, José Luis Martínez-Almeida , que «deje de b.
-
-Date: 2026-09-01
-
-### El delegado del Gobierno reitera que «no hay prohibición» de manifestación por Ceuta
-
-El delegado del Gobierno en Madrid, Francisco Martín, ha recalcado que «no ha habido absolutamente ninguna prohibición» de las manifestaciones en favor de Ceuta , y ha recordado que los ayuntamientos son una institución y que, por tanto, no pueden ejercer el derecho de reunión. En declaraciones para la ‘Cadena Ser’, re.
-
-Date: 2026-09-01
-
-### Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía
-
-La convocatoria de Madrid en formato de acto institucional, se mantiene pese a la no autorización por parte de la Delegación del Gobierno como manifestación Leer.
-
-Date: 2026-09-01
-
 ## Fuentes
 
+- [Manifestación en apoyo a Ceuta en Madrid hoy, miércoles 2 de septiembre: horario, lugar, cortes de tráfico y todo lo que debes saber](https://www.elconfidencial.com/espana/madrid/2026-09-02/1qrt-manifestacion-apoyo-ceuta-madrid-hoy-miercoles-horario-lugar-cortes_4415634/?utm_source=lootura.com) — 2026-09-02T03:45:00.000Z
+- [Una mujer, herida grave al chocar un coche y una moto en Moratalaz (Madrid)](https://www.elconfidencial.com/espana/madrid/2026-09-02/motorista-herida-accidente-m30-madrid-1tna-1tps_4416278/?utm_source=lootura.com) — 2026-09-02T05:26:00.000Z
+- [Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta](https://www.elconfidencial.com/espana/2026-09-02/crisis-migratoria-ceuta-policia-1tps_4416273/?utm_source=lootura.com) — 2026-09-02T04:56:00.000Z
+- [Guía del tráfico en Madrid tras las vacaciones: fin de las obras en Metro, carreteras reabiertas y servicios gratuitos](https://www.elconfidencial.com/espana/madrid/2026-09-02/guia-trafico-madrid-vacaciones-fin-obras-metro-carreteras-reabiertas-servicios-gratuitos_4415867/?utm_source=lootura.com) — 2026-09-02T03:00:00.000Z
 - [Retiran del mercado tres salsas etiquetadas como «sin gluten» que sí contenían este alérgeno](https://www.diariovasco.com/sociedad/retiran-mercado-tres-salsas-etiquetadas-gluten-contenian-20260901105600-nt_amp.html?utm_source=lootura.com) — 2026-09-01T08:56:00.000Z
 - [Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía](https://www.elmundo.es/espana/2026/09/02/6a972b98fc6c835a738b4581.html?utm_source=lootura.com) — 2026-09-01T23:32:39.000Z
 - [Madrid amplía a los 50 años los avales para comprar una casa con financiación de hasta el 100% para los menores de 40](https://www.elmundo.es/madrid/2026/09/01/6a96f440fc6c83303f8b457b.html?utm_source=lootura.com) — 2026-09-01T20:43:43.000Z
 - [Delegación de Gobierno pone trabas a la manifestación de Madrid, que se celebrará como 'acto institucional' del Ayuntamiento](https://amp.elmundo.es/madrid/2026/09/01/6a970f72fc6c83502d8b4578.html?utm_source=lootura.com) — 2026-09-01T17:49:03.000Z
 - [Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre](https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html?utm_source=lootura.com) — 2026-09-01T18:45:17.000Z
-- [El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta](https://www.eldiario.es/madrid/somos/delegacion-gobierno-madrid-pide-ayuntamiento-convoque-protesta-ceuta-acto-institucional-autorizarla_1_13480691.html?utm_source=lootura.com) — 2026-09-01T18:30:37.000Z
-- [Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy](https://okdiario.com/deportes/mercado-fichajes-directo-ultima-hora-traspasos-rumores-real-madrid-barcelona-atletico-madrid-vivo-20210608?utm_source=lootura.com) — 2026-09-01T21:21:22.000Z
-- [Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos](https://okdiario.com/deportes/gimenez-casado-son-bombas-del-cierre-del-mercado-fichajes-fofana-llega-sevilla-betis-aguanta-ceballos-20211564/amp?utm_source=lootura.com) — 2026-09-01T22:13:39.000Z
-- [Jonathan David, nuevo delantero del Atlético de Madrid hasta junio de 2027](https://theobjective.com/deportes/futbol/2026-09-01/jonathan-david-delantero-atletico-madrid/?utm_source=lootura.com) — 2026-09-01T21:01:36.000Z
-- [El PSOE solicita el expediente de Casa Árabe y pide a Almeida que «deje de buscar» culpables](https://theobjective.com/espana/politica/2026-09-01/psoe-expediente-casa-arabe-almeida-culpables/?utm_source=lootura.com) — 2026-09-01T19:17:13.000Z
+- [Almeida acusa al delegado del Gobierno de intentar "desalentar" el apoyo a Ceuta](https://www.larazon.es/madrid/almeida-acusa-delegado-gobierno-intentar-desalentar-apoyo-ceuta_202609026a97dac73bfe5d1eff400f6d.html?utm_source=lootura.com) — 2026-09-02T08:13:59.000Z

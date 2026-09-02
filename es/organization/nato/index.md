@@ -3,20 +3,26 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
 
-### La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia
+### Marruecos: la grieta que rompe la política exterior de Sánchez
 
-La misión báltica de la OTAN ha desplegado brevemente aviones de combate esta madrugada después de un nuevo incidente con drones en el que al menos uno de esos aparatos penetró en el espacio aéreo de Estonia, según ha confirmado la Fuerza Aérea del país báltico. También la vecina Letonia ha elevado este martes su nivel.
+La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### Alemania acusa a Rusia del intento de atentado con un dron cargado de explosivos en Leipzig
 
 La gravedad del ataque, ocurrido el pasado 4 de agosto, reside en el carácter estratégico del aeropuerto alemán, que participa en operaciones logísticas vinculadas a la OTAN y al apoyo a Ucrania Leer.
+
+Date: 2026-09-01
+
+### La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia
+
+La misión báltica de la OTAN ha desplegado brevemente aviones de combate esta madrugada después de un nuevo incidente con drones en el que al menos uno de esos aparatos penetró en el espacio aéreo de Estonia, según ha confirmado la Fuerza Aérea del país báltico. También la vecina Letonia ha elevado este martes su nivel.
 
 Date: 2026-09-01
 
@@ -62,13 +68,7 @@ El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los 
 
 Date: 2026-08-11
 
-### Trump salió de Turquía escondido en un camión ante un posible atentado de Irán
-
-El presidente de Estados Unidos, Donald Trump , fue trasladado oculto en un camión de catering utilizado para transportar equipaje y personal antes de abandonar Turquía tras participar en la cumbre de la OTAN , en un viaje de regreso a Estados Unidos en el que un segundo avión fue utilizado como señuelo ante la amenaza.
-
-Date: 2026-08-11
-
 ## Fuentes
 
 - [Alemania acusa a Rusia del intento de atentado con un dron cargado de explosivos en Leipzig](https://www.elmundo.es/internacional/2026/09/01/6a96f561e4d4d8f7238b4578.html?utm_source=lootura.com) — 2026-09-01T18:16:04.000Z
-- [La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia](https://elpais.com/internacional/2026-09-01/la-otan-despliega-brevemente-aviones-de-combate-por-un-nuevo-ingreso-de-drones-en-el-espacio-aereo-de-estonia.html?utm_source=lootura.com) — 2026-09-01T10:30:04.000Z
+- [Marruecos: la grieta que rompe la política exterior de Sánchez](https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com) — 2026-09-02T06:00:21.000Z

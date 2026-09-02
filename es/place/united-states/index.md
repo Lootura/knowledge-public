@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP
+
+Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.
+
+Date: 2026-09-02
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
 
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
@@ -56,20 +68,7 @@ Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estad
 
 Date: 2026-09-01
 
-### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
-
-en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
-
-Date: 2026-09-01
-
-### El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií
-
-La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.
-
-Date: 2026-09-01
-
 ## Fuentes
 
+- [La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP](https://www.abc.es/summum/gente-vip/formula-vela-llega-valencia-kylian-mbappe-ryan-20260902133516-nt.html?utm_source=lootura.com) — 2026-09-02T07:23:37.000Z
 - [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
-- [La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años](https://www.elmundo.es/internacional/2026/09/01/6a9701fa21efa06c038b4597.html?utm_source=lootura.com) — 2026-09-01T17:46:13.000Z
-- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z

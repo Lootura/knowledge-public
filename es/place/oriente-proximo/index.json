@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo",
+      "summary": "La cautela sobre los tipos de interés y los nuevos ataques contra Irán mantienen a los inversores mayoritariamente al margen del riesgo. Los bonos retroceden (y suben sus rentabilidades) ante la reanudación de los combates en Oriente Próximo, tras el lanzamiento por parte de EE UU de una ofensiva contra el Cuerpo de la.",
+      "date": "2026-09-02"
+    },
     {
       "title": "El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008",
       "summary": "Los últimos datos de inflación al alza, la guerra en Oriente Próximo y las previsibles subidas de tipos del BCE y la Fed han desatado el miedo entre los inversores ha quedarse 'pillados' en bonos a largo plazo de EEUU, Japón o Reino Unido Leer.",
@@ -60,26 +65,15 @@
       "title": "El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano",
       "summary": "La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobierno para desescalar las medidas de alivio frente al aumento de precios que activó en marzo por la...",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo",
-      "summary": "Dicho contrato, del tipo EPC (ingeniería, aprovisionamiento, construcción y puesta en marcha) se ha acordado en régimen de \"llave en mano\", según informa la...",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
     {
-      "title": "El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008",
-      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/09/01/6a96d42bfdddffd3658b45a6.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T14:12:00.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:08:26.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:15:21.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

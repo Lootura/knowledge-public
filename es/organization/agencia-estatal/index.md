@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta
+
+Tras unas semanas de termómetros bajos y anormales para la época, el calor extremo está a punto de imponerse de nuevo en España. Así lo ha confirmado la Agencia Estatal de Meteorología (Aemet) , que lanzó este pasado martes una nota informativa en la que advertían de que un nuevo episodio de altas temperaturas afectará.
+
+Date: 2026-09-02
 
 ### El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos
 
@@ -40,4 +46,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta](https://www.abc.es/sociedad/aemet-avisa-regreso-calor-extremo-espana-grados-20260902091117-nt.html?utm_source=lootura.com) — 2026-09-02T07:25:08.000Z

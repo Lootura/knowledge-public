@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.json",
   "description": "Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [],
   "changes": [
     {
@@ -74,13 +74,7 @@
       "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T00:34:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward",
-      "url": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:02:54.000Z",
-      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

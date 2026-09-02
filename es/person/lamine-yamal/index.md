@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-12T09:08:34.474Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Desvelan el plan de Marruecos para llevarse a Lamine Yamal: «Nos reunimos con sus padres…»](https://okdiario.com/deportes/desvelan-plan-marruecos-llevarse-lamine-yamal-nos-reunimos-sus-padres-20213040?utm_source=lootura.com) — 2026-09-02T08:11:15.000Z

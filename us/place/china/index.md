@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -14,11 +14,17 @@ Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Euro
 
 Date: 2026-09-02
 
+### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
+
+Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
+
+Date: 2026-09-02
+
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### Families desperately search for loved ones swept away in Nepal floods
 
@@ -29,6 +35,12 @@ Date: 2026-09-01
 ### China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'
 
 Treasury Secretary Scott Bessent said Tuesday that 19 of the members of the G20 agreed to address streams of "cheap exports" that cause global economic imbalances, but China dissented.
+
+Date: 2026-09-01
+
+### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+
+As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
 Date: 2026-09-01
 
@@ -56,22 +68,11 @@ The Trump administration says it's asking countries to voluntarily cut off busin
 
 Date: 2026-08-31
 
-### Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China
-
-A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-
-Date: 2026-08-31
-
-### JMGO’s very bright all-in-one projector looks ideal for gamers and sports
-
-JMGO’s Iris Ultra Max 4K 120Hz Google TV projector. | Image: JMGO JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an.
-
-Date: 2026-08-31
-
 ## Sources
 
-- [China’s regulatory innovation for new biomedical technologies](https://www.nature.com/articles/d41586-026-02737-5?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
-- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
+- [China’s regulatory innovation for new biomedical technologies](https://www.nature.com/articles/d41586-026-02737-5?utm_source=lootura.com) — 2026-09-02T08:23:16.752Z
+- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
 - [Families desperately search for loved ones swept away in Nepal floods](https://www.pbs.org/newshour/show/families-desperately-search-for-loved-ones-swept-away-in-nepal-floods?utm_source=lootura.com) — 2026-09-01T22:40:44.000Z
 - [China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'](https://www.pbs.org/newshour/economy/china-dissents-as-bessent-says-19-finance-ministers-agree-to-address-cheap-exports?utm_source=lootura.com) — 2026-09-01T23:35:45.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-01T23:38:51.000Z
+- [At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports](https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com) — 2026-09-02T03:34:29.000Z
+- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z

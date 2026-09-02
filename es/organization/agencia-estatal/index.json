@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
     "government agency of Spain"
   ],
   "changes": [
+    {
+      "title": "La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta",
+      "summary": "Tras unas semanas de termómetros bajos y anormales para la época, el calor extremo está a punto de imponerse de nuevo en España. Así lo ha confirmado la Agencia Estatal de Meteorología (Aemet) , que lanzó este pasado martes una nota informativa en la que advertían de que un nuevo episodio de altas temperaturas afectará.",
+      "date": "2026-09-02"
+    },
     {
       "title": "El Retiro y otros cinco parques de Madrid cerrarán hoy desde las 18 horas por los fuertes vientos",
       "summary": "El Retiro y otros cinco parques históricos cerrarán desde las 18 horas de este viernes por condiciones meteorológicas adversas, ha informado el Ayuntamiento de Madrid en un comunicado a partir de las previsiones de la Agencia Estatal de Meteorología (Aemet). El cierre afecta al parque del Capricho, la Rosaleda del Parq.",
@@ -41,6 +46,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta",
+      "url": "https://www.abc.es/sociedad/aemet-avisa-regreso-calor-extremo-espana-grados-20260902091117-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:25:08.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

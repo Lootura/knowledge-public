@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos
+
+Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.
+
+Date: 2026-09-02
 
 ### El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU
 
@@ -62,12 +68,6 @@ Banco Santander y Webster Financial Corporation han anunciado que ya tienen la a
 
 Date: 2026-08-05
 
-### Santander acelera la adquisición de Webster tras lograr la autorización de la Fed
-
-Santander acelera la adquisición de Webster tras recibir la aprobación de la Reserva Federal (Fed). El banco, que hizo pública la compra a inicios de febrero, prevé cerrar la...
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos](https://cincodias.elpais.com/mercados-financieros/2026-09-02/warsh-se-topa-con-el-calendario-electoral-de-trump-los-analistas-divididos-sobre-cuando-subira-tipos.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura
+
+Uno de los socialistas con mayor perfil político del Consejo de Ministros, Óscar Puente, quiere la maquinaria de su departamento al máximo de revoluciones para abordar los últimos meses de la legislatura . El arranque del curso político se ha producido con un cambio de calado en la estructura del Ministerio de Transpor.
+
+Date: 2026-09-02
 
 ### Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"
 
@@ -62,12 +68,6 @@ La situación en Ceuta sigue siendo muy delicada después de la llegada masiva d
 
 Date: 2026-08-01
 
-### Ayuso aparca las polémicas del viernes y cambia al tono institucional para trabajar "juntos" con el Gobierno de Sánchez
-
-Evita valorar las declaraciones de Óscar Puente en redes sociales y muestra cordialidad en el trato con el presidente del Gobierno, asegurando estar "centrados en lo más importante ahora mismo" De “miserable” a “mamarracha”: la gestión de los incendios provoca una nueva bronca política entre el PP de Ayuso y el Gobiern.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura](https://elpais.com/economia/2026-09-02/puente-reestructura-la-cupula-de-transportes-para-acelerar-politicas-verdes-en-el-final-de-la-legislatura.html?utm_source=lootura.com) — 2026-09-02T03:15:00.000Z

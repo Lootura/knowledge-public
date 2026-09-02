@@ -28,4 +28,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años](https://www.elmundo.es/internacional/2026/09/01/6a9701fa21efa06c038b4597.html?utm_source=lootura.com) — 2026-09-01T17:46:13.000Z
+No public source links.

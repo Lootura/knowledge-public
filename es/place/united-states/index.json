@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -19,6 +19,7 @@
     "Los Estados Unidos de América",
     "Merica",
     "Murica",
+    "Old City of Palestine",
     "U. S.",
     "U. S. A.",
     "U.S.",
@@ -39,10 +40,19 @@
     "the US of America",
     "the USA",
     "the United States",
-    "the United States of America",
-    "Old City of Palestine"
+    "the United States of America"
   ],
   "changes": [
+    {
+      "title": "La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP",
+      "summary": "Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
@@ -82,37 +92,21 @@
       "title": "Petróleo pesado venezolano para las refinerías estadounidenses",
       "summary": "Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estados Unidos, que produce más petróleo que ningún otro país del mundo, acaba de cerrar con Venezuela un acuerdo de largo alcance para desarrollar algunos de sus principales campos petroleros. ¿Por qué? La respuesta habitual apunta a la geopolít.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang",
-      "summary": "en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El mito del odio milenario. Cómo Estados Unidos fabricó la guerra santa suní-chií",
-      "summary": "La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a esto, en 2003, durante la invasión de Irak, Washington conjuró los fantasmas del enfrentamiento religioso. La estrategia destruyó el país y extendió el cisma y la violencia por todo Oriente Próximo.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
+      "title": "La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP",
+      "url": "https://www.abc.es/summum/gente-vip/formula-vela-llega-valencia-kylian-mbappe-ryan-20260902133516-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:23:37.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T02:45:54.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años",
-      "url": "https://www.elmundo.es/internacional/2026/09/01/6a9701fa21efa06c038b4597.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T17:46:13.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:08:26.000Z",
-      "sourceId": "lootura-es-expansion"
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

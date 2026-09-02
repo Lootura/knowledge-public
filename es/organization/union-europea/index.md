@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Kaja Kallas califica el ataque híbrido ruso de Liepzig de "terrorismo patrocinado por el Estado"
+
+La alta representante de la Unión Europea para Política Exterior y Seguridad, Kaja Kallas , aseguró este miércoles que el ataque híbrido con drones de hace un mes en un aeropuerto de la ciudad alemana de Leipzig, del que Berlín responsabiliza a Rusia, tiene "todas las características del terrorismo patrocinado por el E.
+
+Date: 2026-09-02
 
 ### Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara
 
@@ -62,12 +68,7 @@ La Administración Trump ha abierto un nuevo frente comercial con uno de sus pri
 
 Date: 2026-08-13
 
-### Cinco días de asedio de colonos a una familia en Cisjordania
-
-“Un horrible acto de terror”. Así ha descrito la ocupación, desde hace cinco días, de dos casas palestinas por parte de colonos israelíes en la localidad de Qusra, en Cisjordania. La condena no viene de un grupo de derechos humanos o de la siempre “preocupada” Unión Europea, sino de un gran aliado de Israel, el embajad.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara](https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html?utm_source=lootura.com) — 2026-09-01T17:47:26.000Z
+- [Kaja Kallas califica el ataque híbrido ruso de Liepzig de "terrorismo patrocinado por el Estado"](https://www.larazon.es/internacional/kaja-kallas-califica-ataque-hibrido-ruso-liepzig-terrorismo-patrocinado-estado_202609026a97db1c2d7d3022177b6312.html?utm_source=lootura.com) — 2026-09-02T08:15:24.000Z

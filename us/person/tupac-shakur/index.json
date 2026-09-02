@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tupac-shakur/index.json",
   "description": "Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [
     "Shakur",
     "Tupac"
@@ -17,6 +17,11 @@
     {
       "title": "Duane Davis' attorney doesn't believe jury considered all evidence before Tupac murder conviction",
       "summary": "Michael Sanft, Duane \"Keefe D\" Davis' defense attorney, joins \"The Daily Report\" to discuss his client's conviction for the 1996 murder of Tupac Shakur and shares his concerns about the jury's \"preconceived notions.\".",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Defense attorney believes jury had \"preconceived notions\" in Tupac trial",
+      "summary": "Duane \"Keffe D\" Davis was convicted of first-degree murder nearly 30 years after the drive-by shooting that killed Tupac Shakur.",
       "date": "2026-09-02"
     },
     {
@@ -51,7 +56,13 @@
       "url": "https://www.cbsnews.com/video/duane-davis-attorney-doesnt-believe-jury-considered-all-evidence-before-tupac-murder-conviction/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T00:04:18.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Defense attorney believes jury had \"preconceived notions\" in Tupac trial",
+      "url": "https://www.cbsnews.com/news/tupac-murder-trial-duane-davis-lawyer-jury-didnt-review-evidence/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T02:57:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

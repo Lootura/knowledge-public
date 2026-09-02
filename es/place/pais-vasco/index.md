@@ -3,16 +3,10 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
-
-### Zupiria sobre la Policía Nacional en Euskadi: «Hay ilegales que cometen delitos y ahí me gustaría que hicieran más»
-
-El consejero de Seguridad del Gobierno vasco ha exigido «más implicación» en materia de extranjería e inmigración.
-
-Date: 2026-09-01
 
 ### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
 
@@ -68,7 +62,12 @@ El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubr
 
 Date: 2026-08-12
 
+### Amaia Salamanca (40 años) revela el lugar del País Vasco que marcó su infancia: «Lo tengo en el corazón»
+
+Aunque la actriz Amaia Salamanca es madrileña, muchos de sus recuerdos de niña están ligados a Vizcaya . ya que cuando llegaba el verano y las vacaciones, cambiaba Madrid por un pueblo entre montañas en el que vivía parte de su familia. Pasó tantos veranos allí durante su infancia y juventud que aquel lugar del País Va.
+
+Date: 2026-08-12
+
 ## Fuentes
 
-- [Zupiria sobre la Policía Nacional en Euskadi: «Hay ilegales que cometen delitos y ahí me gustaría que hicieran más»](https://www.elcorreo.com/politica/zupiria-exige-implicacion-policia-nacional-materia-extranjeria-20260901100340-nt_amp.html?utm_source=lootura.com) — 2026-09-01T08:03:40.000Z
 - [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z

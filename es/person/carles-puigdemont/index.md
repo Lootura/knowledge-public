@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T09:04:36.303Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza
+
+Después de un mes de crisis de Ceuta, Junts ha optado por entrar en el debate sobre la integridad territorial de España . Lo ha hecho el presidente del partido, Carles Puigdemont, en persona, aunque de manera indirecta, recomendando un artículo del medio Middle East Eyes en el que se compara a Ceuta y Melilla con Gaza.
+
+Date: 2026-09-02
 
 ### Mi héroe ya no es Puigdemont, sino Trump
 
@@ -62,12 +68,6 @@ Los fichajes de independientes siempre son complicados en política. En 2024, Ca
 
 Date: 2026-07-22
 
-### Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía
-
-Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza](https://www.elconfidencial.com/espana/cataluna/2026-09-02/puigdemont-descolonizar-ceuta-melilla-gaza_4416113/?utm_source=lootura.com) — 2026-09-02T03:00:00.000Z

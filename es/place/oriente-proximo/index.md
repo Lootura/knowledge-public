@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo
+
+La cautela sobre los tipos de interés y los nuevos ataques contra Irán mantienen a los inversores mayoritariamente al margen del riesgo. Los bonos retroceden (y suben sus rentabilidades) ante la reanudación de los combates en Oriente Próximo, tras el lanzamiento por parte de EE UU de una ofensiva contra el Cuerpo de la.
+
+Date: 2026-09-02
 
 ### El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008
 
@@ -62,13 +68,6 @@ La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobie
 
 Date: 2026-08-13
 
-### Técnicas Reunidas gana un macrocontrato de 1.430 millones en Oriente Próximo
-
-Dicho contrato, del tipo EPC (ingeniería, aprovisionamiento, construcción y puesta en marcha) se ha acordado en régimen de "llave en mano", según informa la...
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [El mercado de bonos hace saltar las alarmas: los inversores venden deuda pública que se dispara a niveles críticos de 2008](https://www.elmundo.es/economia/dinero-inversion/2026/09/01/6a96d42bfdddffd3658b45a6.html?utm_source=lootura.com) — 2026-09-01T14:12:00.000Z
-- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z
+- [Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T07:15:21.000Z

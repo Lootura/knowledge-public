@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España
+
+España sigue reclamando "solidaridad" por parte del resto de gobiernos de la UE ante la crisis en Ceuta, y ese ha sido el llamamiento que ha hecho este miércoles, de nuevo, el ministro de Exteriores, José Manuel Albares, en la reunión de titulares del ramo en Dublín. Además, ha acusado a algunos gobiernos europeos de p.
+
+Date: 2026-09-02
 
 ### Exteriores confirma un español fallecido en el terremoto de Colombia
 
@@ -62,12 +68,6 @@ El Gobierno registrará este viernes en el Congreso las solicitudes de comparece
 
 Date: 2026-08-07
 
-### Felipe VI viaja a Colombia para asistir a la investidura del presidente De la Espriella
-
-Felipe VI viaja este jueves por la noche a Cali ( Colombia ) desde Palma para asistir a la toma de posesión como nuevo presidente colombiano de Abelardo de la Espriella , con quien mantendrá una reunión antes de la ceremonia. El rey de España, que viaja acompañado del ministro de Asuntos Exteriores, José Manuel Albares.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España](https://www.20minutos.es/nacional/albares-afea-que-algunos-socios-europeos-participen-desinformacion-sobre-ceuta-reclama-solidaridad-con-espana_7031808_0.html?utm_source=lootura.com) — 2026-09-02T07:24:26.000Z

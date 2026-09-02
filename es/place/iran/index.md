@@ -3,10 +3,34 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo
+
+La cautela sobre los tipos de interés y los nuevos ataques contra Irán mantienen a los inversores mayoritariamente al margen del riesgo. Los bonos retroceden (y suben sus rentabilidades) ante la reanudación de los combates en Oriente Próximo, tras el lanzamiento por parte de EE UU de una ofensiva contra el Cuerpo de la.
+
+Date: 2026-09-02
+
+### Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas
+
+Irán respondió así a los bombardeos estadounidenses lanzados este martes, en lo que supone el segundo ataque en menos de 48 horas, después de un mes sin que trascendieran nuevas agresiones cruzadas entre ambos países Leer.
+
+Date: 2026-09-02
+
+### Marruecos: la grieta que rompe la política exterior de Sánchez
+
+La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.
+
+Date: 2026-09-02
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
 
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
@@ -44,34 +68,9 @@ La república islámica ha respondido con una oleada de misiles balísticos cont
 
 Date: 2026-09-01
 
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
-
-Date: 2026-09-01
-
-### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
-
-PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
-
-Date: 2026-09-01
-
-### EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz
-
-El Mando Central de Estados Unidos (Centcom) ha anunciado que este martes ha iniciado una nueva ronda de ataques contra objetivos militares en Irán, en la última señal del retorno a las hostilidades entre los dos países tras un mes de relativa calma. El Pentágono ha confirmado que los ataques han comenzado a las 18h y.
-
-Date: 2026-09-01
-
-### Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza
-
-La reanudación de las hostilidades en Oriente Próximo , con el intercambio de ataques entre EEUU e Irán , ha elevado de nuevo la tensión en los mercados energéticos internacionales, con subidas tanto en la cotización del petróleo como del gas . El final de la guerra se atisba cada vez más lejano y la inestabilidad vuel.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Irán responde al ataque de EE.UU. con una oleada de misiles contra sus bases militares en Jordania](https://www.abc.es/internacional/iran-responde-ataque-eeuu-oleada-misiles-bases-20260902001102-nt.html?utm_source=lootura.com) — 2026-09-01T23:31:38.000Z
+- [Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T07:15:21.000Z
+- [Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas](https://www.elmundo.es/internacional/2026/09/01/6a973d46fdddff822f8b45ae.html?utm_source=lootura.com) — 2026-09-02T05:17:47.000Z
+- [Marruecos: la grieta que rompe la política exterior de Sánchez](https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com) — 2026-09-02T06:00:21.000Z
 - [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
-- [Irán ataca bases estadounidenses en Bahréin tras golpear por segunda vez las de Jordania en menos de 48 horas](https://www.elmundo.es/internacional/2026/09/01/6a973d46fdddff822f8b45ae.html?utm_source=lootura.com) — 2026-09-01T21:10:22.000Z
-- [El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos](https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html?utm_source=lootura.com) — 2026-09-01T20:08:26.000Z
-- [Irán ataca contra objetivos de EEUU como respuesta por los recientes bombardeos](https://theobjective.com/internacional/2026-09-01/iran-ataca-objetivos-eeuu-respuesta-bombardeos/?amp=&utm_source=lootura.com) — 2026-09-01T21:32:17.000Z

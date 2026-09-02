@@ -3,10 +3,16 @@
 > Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-06T10:35:46.342Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/vicente-valles
 
 ## Cambios recientes
+
+### Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027
+
+Cómo no recordar aquella reacción de Àngels Barceló en directo en antena, en la Cadena SER, con la comparecencia de Pedro Sánchez al conocer la fecha de las elecciones generales de 2023, en pleno verano.Se podía intuir, pero la presentadora explicó, posteriormente, que estaba relacionado con sus vacaciones, agendadas p.
+
+Date: 2026-09-02
 
 ### Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones
 
@@ -34,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027](https://www.abc.es/recreo/vicente-valles-avisa-espana-pedro-sanchez-convoca-elecciones-legislatura-20260901193124-nt.html?utm_source=lootura.com) — 2026-09-02T07:14:09.000Z

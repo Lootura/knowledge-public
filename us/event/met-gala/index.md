@@ -34,4 +34,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano](https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled?utm_source=lootura.com) — 2026-09-01T05:43:37.000Z
+No public source links.

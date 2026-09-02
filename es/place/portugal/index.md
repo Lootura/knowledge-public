@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Las cuentas de España para evitar una tragedia de otro siglo](https://www.abc.es/deportes/baloncesto/cuentas-espana-evitar-tragedia-siglo-20260902010515-nt.html?utm_source=lootura.com) — 2026-09-01T23:28:33.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Follow Ed Markey, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/person/ed-markey
 
 ## Recent changes
+
+### Markey defeats Moulton in Massachusetts' Democratic primary for Senate
+
+Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Massachusetts.
+
+Date: 2026-09-02
+
+### Markey says win is a testament to the 'power of the Progressive movement'
+
+Sen. Ed Markey delivered a victory speech after his projected win in the Massachusetts Democratic Senate primary where he spoke directly to young voters saying their voices were the ones that needed to be heard now.
+
+Date: 2026-09-02
 
 ### Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate
 
@@ -52,5 +64,5 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Massachusetts Democratic Senate primary pits age against ideology](https://www.cbsnews.com/video/massachusetts-democratic-primary-pits-age-against-ideology/?utm_source=lootura.com) — 2026-09-01T15:38:37.000Z
-- [Ed Markey defeats Seth Moulton in Massachusetts' Democratic primary for Senate](https://www.cbsnews.com/boston/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com) — 2026-09-02T02:44:45.000Z
+- [Markey defeats Moulton in Massachusetts' Democratic primary for Senate](https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com) — 2026-09-02T03:22:01.000Z
+- [Markey says win is a testament to the 'power of the Progressive movement'](https://www.nbcnews.com/video/markey-says-win-is-a-testament-to-the-power-of-the-progressive-movement-269193285763?utm_source=lootura.com) — 2026-09-02T03:30:27.000Z

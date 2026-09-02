@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Marruecos: la grieta que rompe la política exterior de Sánchez
+
+La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.
+
+Date: 2026-09-02
+
+### La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE
+
+Asegura que se trata de la primera vez que desde el Gobierno de España "se intenta parar" una concentración convocada por esta federación.
+
+Date: 2026-09-02
 
 ### ¿Cambia el calendario de cierre de las centrales nucleares en España?
 
@@ -56,18 +68,7 @@ La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al t
 
 Date: 2026-08-11
 
-### Suecia critica la regularización masiva de Sánchez y la califica como de «muy mala idea»
-
-El primer ministro de Suecia , Ulf Kristersson, ha calificado de «muy mala idea» poner en marcha medidas que puedan poner en peligro la estabilidad de Europ a, en alusión a las políticas de regularización del Gobierno de España , ya que podrían desencadenar en una crisis migratoria como la de 2015. Kristersson ha adver.
-
-Date: 2026-08-11
-
-### Albares aplaude que Rabat pida el retorno inmediato de sus menores «sin contrapartida»
-
-El Gobierno de España confirma que Rabat, tal y como lleva trasladando desde la pasada semana el reino alauí a distintas agencias internacionales, entre ellas, EFE, aspira al retorno de «forma inmediata» de todos los niños y adolescentes procedentes del país magrebí que llegaron a Ceuta durante la avalancha migratoria.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Marruecos: la grieta que rompe la política exterior de Sánchez](https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com) — 2026-09-02T06:00:21.000Z
+- [La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE](https://www.larazon.es/andalucia/presidenta-femp-asegura-que-concentraciones-ceuta-son-partidistas-lamenta-insultos-psoe_202609026a97dc492d7d3022177b649e.html?outputType=amp&utm_source=lootura.com) — 2026-09-02T08:20:25.000Z

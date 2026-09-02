@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-06T10:35:46.342Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Vallés",
     "Vicente"
   ],
   "changes": [
+    {
+      "title": "Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027",
+      "summary": "Cómo no recordar aquella reacción de Àngels Barceló en directo en antena, en la Cadena SER, con la comparecencia de Pedro Sánchez al conocer la fecha de las elecciones generales de 2023, en pleno verano.Se podía intuir, pero la presentadora explicó, posteriormente, que estaba relacionado con sus vacaciones, agendadas p.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Vicente Vallés, convencido de cuál es la mejor zona de España para ir de vacaciones",
       "summary": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habituales reproches a Moncloa, tiene muy claro cuál es su lugar ide.",
@@ -35,6 +40,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027",
+      "url": "https://www.abc.es/recreo/vicente-valles-avisa-espana-pedro-sanchez-convoca-elecciones-legislatura-20260901193124-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T07:14:09.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

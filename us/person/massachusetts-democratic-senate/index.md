@@ -3,7 +3,7 @@
 > Follow Massachusetts Democratic Senate, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/person/massachusetts-democratic-senate
 
 ## Recent changes
@@ -14,11 +14,11 @@ The oldest senator in Massachusetts history used a progressive message to beat R
 
 Date: 2026-09-02
 
-### Massachusetts Democratic Senate primary pits age against ideology
+### Markey says win is a testament to the 'power of the Progressive movement'
 
-Younger centrist Seth Moulton and older progressive Ed Markey are fighting for the Senate nomination in the Massachusetts Democratic primary. CBS News congressional reporter Taurean Small has more.
+Sen. Ed Markey delivered a victory speech after his projected win in the Massachusetts Democratic Senate primary where he spoke directly to young voters saying their voices were the ones that needed to be heard now.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### Discovered by Atlas
 
@@ -28,5 +28,5 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Massachusetts Democratic Senate primary pits age against ideology](https://www.cbsnews.com/video/massachusetts-democratic-primary-pits-age-against-ideology/?utm_source=lootura.com) — 2026-09-01T15:38:37.000Z
-- [Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html?utm_source=lootura.com) — 2026-09-02T02:06:12.000Z
+- [Markey says win is a testament to the 'power of the Progressive movement'](https://www.nbcnews.com/video/markey-says-win-is-a-testament-to-the-power-of-the-progressive-movement-269193285763?utm_source=lootura.com) — 2026-09-02T03:30:27.000Z
+- [Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html?utm_source=lootura.com) — 2026-09-02T03:50:54.000Z

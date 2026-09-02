@@ -3,7 +3,7 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
@@ -14,69 +14,69 @@ Dos de las personas más acaudaladas en España han logrado sortear la incertidu
 
 Date: 2026-09-02
 
-### La comunidad que más paga por los incendios: 5,4 millones de indemnizaciones agrarias en una década
+### Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España
 
-Andalucía encabeza, con diferencia, el reparto autonómico de las indemnizaciones agrarias por incendio en toda España. Según los datos difundidos por Agroseguro, la comunidad andaluza ha recibido 5.465.335 euros en indemnizaciones entre 2017 y 2025, la cifra más alta de todas las comunidades autónomas y muy por encima.
-
-Date: 2026-09-02
-
-### Las 15 mejores ofertas de hoy (2 de septiembre) por los 15 años de Amazon España: hasta un 74% en Columbia, roborock, Philips y más
-
-Amazon cumple quince años vendiendo en España y lo celebra como suele: tirando precios durante unos días. Cae en buen momento, porque septiembre es el mes en el que uno repone lo que agosto se llevó por delante, vuelve a pisar la montaña los fines de semana y se acuerda de que el coche lleva miles de kilómetros sin un.
+España sigue reclamando "solidaridad" por parte del resto de gobiernos de la UE ante la crisis en Ceuta, y ese ha sido el llamamiento que ha hecho este miércoles, de nuevo, el ministro de Exteriores, José Manuel Albares, en la reunión de titulares del ramo en Dublín. Además, ha acusado a algunos gobiernos europeos de p.
 
 Date: 2026-09-02
 
-### La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio
+### La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta
 
-La Policía Nacional ha informado a la juez María Tardón, que investiga el salto de unas 80.000 personas de Marruecos a España por la frontera de Ceuta los días 30 y 31 de...
+Tras unas semanas de termómetros bajos y anormales para la época, el calor extremo está a punto de imponerse de nuevo en España. Así lo ha confirmado la Agencia Estatal de Meteorología (Aemet) , que lanzó este pasado martes una nota informativa en la que advertían de que un nuevo episodio de altas temperaturas afectará.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»
+### Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027
 
-El líder del PSOE en Ceuta, Melchor León , ha vuelto a ser un verso suelto del partido de Pedro Sánchez, a quien lleva criticando desde hace semanas por la dejación de funciones en la grave crisis de Ceuta tras la invasión del 30 de julio. En declaraciones a Iker Jiménez en Horizonte , Melchor León ha pedido a los soci.
+Cómo no recordar aquella reacción de Àngels Barceló en directo en antena, en la Cadena SER, con la comparecencia de Pedro Sánchez al conocer la fecha de las elecciones generales de 2023, en pleno verano.Se podía intuir, pero la presentadora explicó, posteriormente, que estaba relacionado con sus vacaciones, agendadas p.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### España registra el mejor julio de su historia, menos aquí: ¿Qué está pasando este verano en Canarias?
+### Airbus confirma el cierre de la mesa de negociación de la huelga y recalca su “justa” propuesta
 
-En julio, fue la única comunidad en la que las llegadas internacionales cayeron un 0,7% y arrastran el gasto total a los 2.188 millones de euros Leer.
+Airbus ha confirmado este miércoles el cierre de la mesa de negociación con los sindicatos que promueven la huelga (CGT, ÚTIL y UGT) y ha reivindicado su “equilibrada y justa” propuesta, que mejora las condiciones de los trabajadores al tiempo que garantiza que Airbus mantenga una posición fuerte en España. Seguir leye.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Las mafias usan a los inmigrantes expulsados de Ceuta para traer cocaína a España en narcolanchas
+### La nueva ley antiblanqueo obligará a los clubes de fútbol a informar de sus fichajes y cambios en el accionariado
 
-El fenómeno evidencia la estrecha conexión entre las distintas actividades de las organizaciones criminales que operan a ambos lados del Estrecho Leer.
+Los grandes equipos de fútbol de España tendrán que someter a un mayor escrutinio sus operaciones financieras. La nueva ley de prevención del blanqueo de capitales que prepara el Gobierno obligará a los clubes a identificar a los inversores, patrocinadores e intermediarios con los que trabajan y a comunicar a las autor.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### La prima de riesgo de Francia sobre España bate su récord histórico
+### Manifestaciones por Ceuta en la ciudad autónoma y el resto de España: horarios y lugar de las movilizaciones
 
-La tensión global en el mercado de bonos tiene como una de sus principales víctimas a Francia . El coste de los bonos públicos que emite el Gobierno galo con vencimiento a 10 años ha aumentado en más de 60 puntos básicos durante el verano, situándose en el 4,23% , máximo desde 2008. Seguir leyendo.
+Coincidiendo con el Día de Ceuta , más de 260 municipios españoles saldrán este miércoles 2 de septiembre a la calle para mostrar su apoyo a la ciudad autónoma. Las concentraciones están convocadas a las 20:00 horas en el conjunto del país , mientras que en Ceuta y Canarias comenzarán una hora antes, a las 19:00 horas.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta
+### Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta
 
-La Federación de Municipios y Provincias ha convocado para esta tarde a las 20 horas concentraciones frente a todas las sedes municipales de España en apoyo de Ceuta, que, precisamente, hoy celebra su día. Seguir leyendo...
+Última hora de la crisis en Ceuta, en directo Manifestaciones por Ceuta en España: horarios y lugares Manifestación en apoyo a Ceuta en Madrid hoy: horario, lugar y cortes El informe policial complica la defensa de Marruecos que Sánchez preparaba para el Congreso El ministro del Interior, Fernando Grande-Marlaska , se.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Última hora de la actualidad política en España hoy | Crisis en Ceuta: un menor marroquí detenido y tres yihadistas expulsados de España
+### Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza
 
-Este martes, 1 de septiembre, Ceuta afronta una nueva jornada de tensión debido a la invasión perpetrada por miles de magrebíes y subsaharianos el pasado 30 de julio. A menos de una semana de que arranque el curso escolar, unos 20.000 inmigrantes ilegales siguen campando por las calles de la ciudad autónoma. En clave p.
+Después de un mes de crisis de Ceuta, Junts ha optado por entrar en el debate sobre la integridad territorial de España . Lo ha hecho el presidente del partido, Carles Puigdemont, en persona, aunque de manera indirecta, recomendando un artículo del medio Middle East Eyes en el que se compara a Ceuta y Melilla con Gaza.
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE
+
+Asegura que se trata de la primera vez que desde el Gobierno de España "se intenta parar" una concentración convocada por esta federación.
+
+Date: 2026-09-02
 
 ## Fuentes
 
-- [Las cuentas de España para evitar una tragedia de otro siglo](https://www.abc.es/deportes/baloncesto/cuentas-espana-evitar-tragedia-siglo-20260902010515-nt.html?utm_source=lootura.com) — 2026-09-01T23:28:33.000Z
-- [La Policía informa a la Justicia de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta el 30 y 31 de julio](https://amp.elmundo.es/espana/2026/09/01/6a973a14e9cf4a04528b457c.html?utm_source=lootura.com) — 2026-09-01T21:23:46.000Z
+- [Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España](https://www.20minutos.es/nacional/albares-afea-que-algunos-socios-europeos-participen-desinformacion-sobre-ceuta-reclama-solidaridad-con-espana_7031808_0.html?utm_source=lootura.com) — 2026-09-02T07:24:26.000Z
+- [La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta](https://www.abc.es/sociedad/aemet-avisa-regreso-calor-extremo-espana-grados-20260902091117-nt.html?utm_source=lootura.com) — 2026-09-02T07:25:08.000Z
+- [Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027](https://www.abc.es/recreo/vicente-valles-avisa-espana-pedro-sanchez-convoca-elecciones-legislatura-20260901193124-nt.html?utm_source=lootura.com) — 2026-09-02T07:14:09.000Z
+- [Airbus confirma el cierre de la mesa de negociación de la huelga y recalca su “justa” propuesta](https://cincodias.elpais.com/companias/2026-09-02/airbus-confirma-el-cierre-de-la-mesa-de-negociacion-de-la-huelga-y-recalca-su-solida-propuesta.html?utm_source=lootura.com) — 2026-09-02T07:19:40.000Z
+- [La nueva ley antiblanqueo obligará a los clubes de fútbol a informar de sus fichajes y cambios en el accionariado](https://elpais.com/economia/2026-09-02/la-nueva-ley-antiblanqueo-obligara-a-los-clubes-de-futbol-a-informar-de-sus-fichajes-y-cambios-en-el-accionariado.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
+- [Manifestaciones por Ceuta en la ciudad autónoma y el resto de España: horarios y lugar de las movilizaciones](https://www.elconfidencial.com/espana/2026-09-02/manifestaciones-hoy-en-ceuta-y-espana-1qrt_4416327/?utm_source=lootura.com) — 2026-09-02T07:46:00.000Z
+- [Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta](https://www.elconfidencial.com/espana/2026-09-02/crisis-migratoria-ceuta-policia-1tps_4416273/?utm_source=lootura.com) — 2026-09-02T04:56:00.000Z
+- [Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza](https://www.elconfidencial.com/espana/cataluna/2026-09-02/puigdemont-descolonizar-ceuta-melilla-gaza_4416113/?utm_source=lootura.com) — 2026-09-02T03:00:00.000Z
+- [La Policía informa a la jueza de que agentes de Marruecos planificaron y ejecutaron el salto de Ceuta](https://amp.elmundo.es/espana/2026/09/01/6a973a14e9cf4a04528b457c.html?utm_source=lootura.com) — 2026-09-01T21:23:46.000Z
 - [España registra el mejor julio de su historia, menos aquí: ¿Qué está pasando este verano en Canarias?](https://www.elmundo.es/economia/2026/09/02/6a970b9de9cf4ac9718b45ab.html?utm_source=lootura.com) — 2026-09-01T23:28:19.000Z
-- [Las mafias usan a los inmigrantes expulsados de Ceuta para traer cocaína a España en narcolanchas](https://www.elmundo.es/espana/2026/09/02/6a9702adfc6c839e088b4589.html?utm_source=lootura.com) — 2026-09-01T23:32:40.000Z
-- [La prima de riesgo de Francia sobre España bate su récord histórico](https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html?utm_source=lootura.com) — 2026-09-01T18:30:51.000Z
-- [Las grandes fortunas que más partido han sacado a este verano](https://www.expansion.com/inversion/2026/09/02/6a955940e5fdea2d448b4573.html?utm_source=lootura.com) — 2026-09-02T00:02:41.000Z
-- [La comunidad que más paga por los incendios: 5,4 millones de indemnizaciones agrarias en una década](https://www.larazon.es/andalucia/comunidad-que-mas-paga-incendios-54-millones-indemnizaciones-agrarias-decada_202609026a976e892d7d3022177b13c2.html?utm_source=lootura.com) — 2026-09-02T00:32:09.000Z
-- [Las 15 mejores ofertas de hoy (2 de septiembre) por los 15 años de Amazon España: hasta un 74% en Columbia, roborock, Philips y más](https://www.larazon.es/compras/15-mejores-ofertas-hoy-2-septiembre-15-anos-amazon-espana-74-columbia-roborock-philips-mas-3v3r_202609026a976e3c2d7d3022177b1345.html?utm_source=lootura.com) — 2026-09-02T01:18:22.000Z
-- [El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta](https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html?utm_source=lootura.com) — 2026-09-01T22:05:00.000Z
-- [El líder de PSOE de Ceuta: «Pido a todos los socialistas de España que no hagan caso a Sánchez y vayan a la manifestación»](https://okdiario.com/espana/lider-psoe-ceuta-pido-todos-socialistas-espana-que-no-hagan-caso-sanchez-vayan-manisfestacion-20211865?utm_source=lootura.com) — 2026-09-01T21:51:58.000Z

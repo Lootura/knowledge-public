@@ -3,7 +3,7 @@
 > Follow Times Square, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/organization/times-square
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### ‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner
 
 Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.
+
+Date: 2026-09-02
+
+### Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti
+
+Erin Piacenti was identified as one of the two people stabbed by a woman Monday afternoon in Times Square before police shot and killed the suspect.
 
 Date: 2026-09-02
 
@@ -40,4 +46,5 @@ Date: 2026-08-31
 
 ## Sources
 
+- [Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti](https://www.cbsnews.com/newyork/news/erin-piacenti-times-square-stabbing-nypd-shooting/?utm_source=lootura.com) — 2026-09-02T03:35:05.000Z
 - [‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner](https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html?utm_source=lootura.com) — 2026-09-02T02:02:57.000Z

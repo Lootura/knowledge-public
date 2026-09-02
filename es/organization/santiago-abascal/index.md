@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»
+
+El líder de Vox , Santiago Abascal , ha defendido este miércoles la necesidad de que todos los españoles salgan a las calles a concentrarse en apoyo a Ceuta frente a un Gobierno que les ha traicionado y que no ha evitado la «invasión» de la que fueron objeto a finales de julio. «Hoy no importan ni permisos, ni convocan.
+
+Date: 2026-09-02
 
 ### Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta
 
@@ -62,12 +68,6 @@ La estrategia fallida en Ceuta se ha unido estos días a lo que ya compartían e
 
 Date: 2026-08-04
 
-### Abascal acusa al Gobierno de cometer un delito de traición contra la seguridad del Estado
-
-El líder de Vox , Santiago Abascal , ha acusado este martes al Gobierno de cometer un « delito permanente » contra la seguridad del Estado y de «traición» que, a su juicio, «compromete la paz, la soberanía y la defensa nacional». Abascal ha reaccionado así, a través de un mensaje que ha publicado en la red social X, a.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»](https://theobjective.com/espana/politica/2026-09-02/abascal-salir-contra-traicion-gobierno-ceuta-invasion/?utm_source=lootura.com) — 2026-09-02T07:59:45.000Z

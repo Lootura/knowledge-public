@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T09:04:36.303Z",
+  "updatedAt": "2026-09-02T08:22:48.056Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza",
+      "summary": "Después de un mes de crisis de Ceuta, Junts ha optado por entrar en el debate sobre la integridad territorial de España . Lo ha hecho el presidente del partido, Carles Puigdemont, en persona, aunque de manera indirecta, recomendando un artículo del medio Middle East Eyes en el que se compara a Ceuta y Melilla con Gaza.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Mi héroe ya no es Puigdemont, sino Trump",
       "summary": "Hasta ahora, mi héroe de la política era Carles Puigdemont , el expresidente de la Generalitat de Cataluña . Tras asestar el golpe de Estado más bien ridículo de 2017, reclamó públicamente a sus secuaces que al día siguiente fueran todos a trabajar en sus respectivos despachos, como si nada. Y algunos cándidos así lo h.",
@@ -62,13 +67,15 @@
       "title": "El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas",
       "summary": "Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir de la Ley de Amnistía",
-      "summary": "Carles Puigdemont, ex presidente de la Generalitat de Cataluña y líder de Junts, ha presentado un escrito ante la Secretaría General de la Comisión Europea en el que denuncia a España por el incumplimiento de la Ley de Amnistía. El ex presidente catalán responde así después de que el Tribunal de Justicia de la Unión ..",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-02/puigdemont-descolonizar-ceuta-melilla-gaza_4416113/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

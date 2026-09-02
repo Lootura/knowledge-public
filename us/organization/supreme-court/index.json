@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -17,13 +17,13 @@
   ],
   "changes": [
     {
-      "title": "How the Supreme Court Locks Away Its Own History",
-      "summary": "After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.",
+      "title": "Springfield's Haitian community braces for deportations after protected status ends",
+      "summary": "In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flas.",
       "date": "2026-09-01"
     },
     {
-      "title": "Springfield's Haitian community braces for deportations after protected status ends",
-      "summary": "In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flas.",
+      "title": "How the Supreme Court Locks Away Its Own History",
+      "summary": "After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.",
       "date": "2026-09-01"
     },
     {
@@ -79,13 +79,7 @@
       "url": "https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:30:21.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "How the Supreme Court Locks Away Its Own History",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T13:59:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

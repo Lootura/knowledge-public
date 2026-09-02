@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T08:23:12.897Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -20,21 +20,21 @@ The announcement came amid a purge of leadership at the Pentagon and a stalling 
 
 Date: 2026-09-02
 
-### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
+### U.S. military strikes Iran, while Trump vows more for Tehran's retaliation
 
-The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
+The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war. (Image credit: Amirhosein Khorgooi).
 
-Date: 2026-09-01
+Date: 2026-09-02
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
 As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Trump to meet with U.S. oil executives amid Pentagon infighting
+### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
 
-President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.
+The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
 
 Date: 2026-09-01
 
@@ -70,12 +70,12 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Trump to meet with U.S. oil executives amid Pentagon infighting](https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com) — 2026-09-01T15:03:00.000Z
 - [Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?](https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com) — 2026-09-01T22:08:58.000Z
 - [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
 - [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z
 - [ICE says it has enough body cameras now, after series of deadly shootings](https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration?utm_source=lootura.com) — 2026-09-01T17:52:37.000Z
 - [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z
+- [U.S. military strikes Iran, while Trump vows more for Tehran's retaliation](https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war?utm_source=lootura.com) — 2026-09-02T06:15:11.000Z
 - [Springfield's Haitian community braces for deportations after protected status ends](https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com) — 2026-09-01T22:30:21.000Z
 - [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T16:09:41.000Z
 - [What to Know About Venezuelan Energy Following Trump’s Oil Deal](https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html?utm_source=lootura.com) — 2026-09-01T17:54:05.000Z

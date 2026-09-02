@@ -3,10 +3,16 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T08:22:48.056Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta
+
+Las derechas unen fuerzas en el arranque del curso político para movilizar la calle en una protesta que auguran “masiva” por la crisis de Ceuta y con la que esperan elevar la presión sobre el Gobierno en la víspera de la comparecencia de Pedro Sánchez el jueves en el Congreso . El PP, a través de la Federación Española.
+
+Date: 2026-09-02
 
 ### Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía
 
@@ -62,12 +68,7 @@ Alberto Núñez Feijóo quiere aprovechar su influencia en Europa para orientar 
 
 Date: 2026-08-04
 
-### Muere Pablo Vázquez, asesor de Feijóo y presidente del ‘think tank’ del PP Reformismo 21
-
-El economista Pablo Vázquez Vega, asesor del líder del Partido Popular (PP), Alberto Núñez Feijóo, y presidente del principal think tank vinculado a la formación política, Reformismo 21, ha fallecido este lunes a los 60 años de edad, según ha informado el propio Núñez Feijóo a través de sus redes sociales. Seguir leyen.
-
-Date: 2026-08-03
-
 ## Fuentes
 
 - [Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía](https://www.elmundo.es/espana/2026/09/02/6a972b98fc6c835a738b4581.html?utm_source=lootura.com) — 2026-09-01T23:32:39.000Z
+- [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z

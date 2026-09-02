@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T08:23:12.897Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -36,18 +36,18 @@
       "date": "2026-09-02"
     },
     {
-      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-      "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
-      "date": "2026-09-01"
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "summary": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war. (Image credit: Amirhosein Khorgooi).",
+      "date": "2026-09-02"
     },
     {
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "date": "2026-09-01"
+      "date": "2026-09-02"
     },
     {
-      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
-      "summary": "President Trump will meet with U.S. oil executives over the price of oil. This comes after Army Secretary Dan Driscoll submitted his resignation following months of friction with Defense Secretary Pete Hegseth. CBS News' Olivia Rinaldi has more.",
+      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+      "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
       "date": "2026-09-01"
     },
     {
@@ -78,12 +78,6 @@
   ],
   "sources": [
     {
-      "title": "Trump to meet with U.S. oil executives amid Pentagon infighting",
-      "url": "https://www.cbsnews.com/video/trump-to-meet-with-oil-executives-amid-pentagon-infighting/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T15:03:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?",
       "url": "https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com",
       "publishedAt": "2026-09-01T22:08:58.000Z",
@@ -112,6 +106,12 @@
       "url": "https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com",
       "publishedAt": "2026-09-01T20:22:34.000Z",
       "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T06:15:11.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Springfield's Haitian community braces for deportations after protected status ends",
