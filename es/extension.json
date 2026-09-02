@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T03:04:37.209Z",
+  "generatedAt": "2026-09-02T06:22:19.256Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|151|1788317383209",
+    "signature": "1.18.0|152|1788317383209",
     "version": "1.18.0",
-    "build": 151,
+    "build": 152,
     "latestEntityUpdatedAt": "2026-09-02T02:49:43.209Z"
   },
   "atlas": {
@@ -21,7 +21,7 @@
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
       "updatedAt": "2026-09-02T02:49:43.209Z",
-      "score": 1713,
+      "score": 1696,
       "sourceCount": 442,
       "isBreaking": false,
       "isPinned": false
@@ -35,7 +35,7 @@
         "url": "https://atlas.lootura.com/es/place/iran",
         "path": "/es/place/iran",
         "updatedAt": "2026-09-02T02:49:43.209Z",
-        "score": 1695,
+        "score": 1679,
         "sourceCount": 199,
         "isBreaking": false,
         "isPinned": false
@@ -48,7 +48,7 @@
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
         "updatedAt": "2026-09-02T02:49:43.209Z",
-        "score": 1663,
+        "score": 1646,
         "sourceCount": 754,
         "isBreaking": false,
         "isPinned": false
@@ -61,7 +61,7 @@
         "url": "https://atlas.lootura.com/es/place/united-states",
         "path": "/es/place/united-states",
         "updatedAt": "2026-09-02T02:49:43.209Z",
-        "score": 1656,
+        "score": 1640,
         "sourceCount": 292,
         "isBreaking": false,
         "isPinned": false
@@ -74,7 +74,7 @@
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
         "updatedAt": "2026-09-02T02:49:43.209Z",
-        "score": 1653,
+        "score": 1636,
         "sourceCount": 1235,
         "isBreaking": false,
         "isPinned": false
