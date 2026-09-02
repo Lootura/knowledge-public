@@ -3,10 +3,16 @@
 > Follow Grand Canyon, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/grand-canyon
 
 ## Recent changes
+
+### Arizona congressman heard ‘freight train crash’ sound during Grand Canyon flash flood
+
+Rep. David Schweikert, R-Ariz., said he heard what sounded like “a freight train smashing into a boulder” as a Grand Canyon flash flood consumed the landscape near his rafting group Saturday.
+
+Date: 2026-09-02
 
 ### Discovered by Atlas
 
@@ -62,12 +68,6 @@ Search teams have been working around the clock to locate more than a dozen peop
 
 Date: 2026-08-31
 
-### Grand Canyon flash flood leaves 2 dead, others missing
-
-Search and rescue teams have recovered two bodies following this weekend's flash floods in the Grand Canyon. The National Park Service says more than a dozen other people remain missing. Lodges and hotels are closed inside the park and more rain and flooding are possible. Ali Rogin reports.
-
-Date: 2026-08-31
-
 ## Sources
 
-No public source links.
+- [Arizona congressman heard ‘freight train crash’ sound during Grand Canyon flash flood](https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625?utm_source=lootura.com) — 2026-09-02T15:26:14.000Z

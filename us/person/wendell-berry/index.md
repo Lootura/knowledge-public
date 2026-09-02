@@ -28,5 +28,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Beloved writer and environmentalist Wendell Berry has died at age 92](https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary?utm_source=lootura.com) — 2026-09-01T13:52:18.000Z
-- [Wendell Berry, Kentucky-born author who advocated a simpler life, has died at 92](https://www.pbs.org/newshour/arts/wendell-berry-kentucky-born-author-who-advocated-a-simpler-life-has-died-at-92?utm_source=lootura.com) — 2026-09-01T18:14:33.000Z
+No public source links.

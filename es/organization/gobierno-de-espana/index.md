@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”
+
+La portavoz del Grupo Parlamentario Popular en el Senado, Alicia García, afirmó hoy que el presidente del Gobierno de España, Pedro Sánchez, está “muy ocupado con descansar y con defenderse de la corrupción” y “muy ocupado en las cuestiones judiciales que le afectan, pero no se preocupa” por las personas con discapacid.
+
+Date: 2026-09-02
 
 ### Marruecos: la grieta que rompe la política exterior de Sánchez
 
@@ -62,13 +68,6 @@ En el enclave donde Estados Unidos mantiene una de sus principales bases militar
 
 Date: 2026-08-11
 
-### Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones
-
-La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al tumbar la estrategia de defensa del Ejecutivo español en la batalla judicial por evitar pagar las indemnizaciones por los impagos a las renovables de Teresa Ribera y Sara Aagesen , su sustituta en el Ministerio de Transición Ecológica. El Tr.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Marruecos: la grieta que rompe la política exterior de Sánchez](https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com) — 2026-09-02T06:00:21.000Z
-- [La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE](https://www.larazon.es/andalucia/presidenta-femp-asegura-que-concentraciones-ceuta-son-partidistas-lamenta-insultos-psoe_202609026a97dc492d7d3022177b649e.html?outputType=amp&utm_source=lootura.com) — 2026-09-02T08:20:25.000Z
+- [Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”](https://www.larazon.es/castilla-y-leon/alicia-garcia-sanchez-esta-ocupado-descansar-cuestiones-judiciales-pero-preocupa-personas-dependientes-discapacidad_202609026a9844893bfe5d1eff40b15d.html?utm_source=lootura.com) — 2026-09-02T15:45:13.000Z

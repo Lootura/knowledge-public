@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Illa y Collboni viajan a Kiev en plena escalada de ataques rusos",
+      "summary": "El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de \"impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad\". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa",
       "summary": "Los sindicatos USTEC-STEs y CGT harán huelga el próximo 8 de septiembre, el primer día lectivo del nuevo curso en Cataluña. Son dos de las centrales mayoritarias en el sector, aunque CCOO, UGT y Aspepc-Sps, que en un principio también convocaron protestas el curso pasado , se han descolgado de la convocatoria. ISTEC, a.",
@@ -58,13 +63,15 @@
       "title": "Cataluña pone en marcha una ley para multar con 900.000 € a grafiteros y vándalos en los trenes",
       "summary": "Desde ahora, el Gobierno de la Generalitat de Cataluña , que preside el socialista Salvador Illa , puede multar a los grafiteros y vándalos que causen desperfectos en los trenes de Cataluña con hasta 900.000 € de sanción . Tras la publicación en el BOE , el pasado 18 de julio, de la ley elaborada por el Parlamento cata.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Salvador Illa first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Illa y Collboni viajan a Kiev en plena escalada de ataques rusos",
+      "url": "https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:32:41.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/pete-hegseth
 
 ## Recent changes
@@ -29,4 +29,3 @@ Date: 2026-09-01
 ## Sources
 
 - [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
-- [Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says](https://www.pbs.org/newshour/show/hegseth-has-created-climate-of-fear-at-pentagon-former-air-force-secretary-says?utm_source=lootura.com) — 2026-09-01T22:47:51.000Z

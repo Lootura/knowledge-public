@@ -3,7 +3,7 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-No public source links.
+- [Vivas pide que se exija a Marruecos respeto a la integridad territorial de España](https://www.lavanguardia.com/politica/20260902/11625593/vivas-pide-exija-marruecos-respeto-integridad-territorial-espana.html?utm_source=lootura.com) — 2026-09-02T12:43:36.000Z

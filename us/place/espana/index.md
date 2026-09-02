@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’](https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup?utm_source=lootura.com) — 2026-09-02T12:00:23.000Z

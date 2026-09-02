@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-alcaraz/index.json",
   "description": "Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Alcaraz",
     "Carlos",
     "Carlos Alcaraz Garfia"
   ],
   "changes": [
+    {
+      "title": "A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026",
+      "summary": "Carlos Alcaraz se ha plantado en la segunda ronda del US Open 2026 , donde se tendrá que enfrentar al portugués Jaime Faria . El murciano es claramente el favorito para llevarse el triunfo, pero no se puede confiar, ya que hay que recordar que acaba de salir de una lesión, por lo que tendrá que mantener la concentració.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa",
       "summary": "Carlos Alcaraz, el gran mago contemporáneo de la raqueta, ha llegado a Nueva York con la misión de hacer 'el más difícil todavía': volver a la pista en un 'grande' tras una lesión larga, sin jugar ningún torneo previo, y levantar el trofeo. De cero a cien.Solo se recuerda el caso de Roger Federer , al que están colmand.",
@@ -46,6 +51,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026",
+      "url": "https://okdiario.com/deportes/que-hora-carlos-alcaraz-faria-donde-ver-gratis-television-directo-vivo-online-partido-del-us-open-2026-20207254?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:30:20.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,20 +3,44 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP
-
-Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.
-
-Date: 2026-09-02
-
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
 La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
+
+### Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal
+
+Alphabet, la matriz empresarial detrás del motor de búsqueda online más popular del mundo, Google, ha obtenido este miércoles una importante victoria para su negocio en los tribunales de Estados Unidos. Si ya en el pasado Alphabet esquivó el tener que vender el navegador Google Chrome por su posición dominante, en esta.
+
+Date: 2026-09-02
+
+### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
+
+El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.
+
+Date: 2026-09-02
+
+### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
+
+Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
+
+Date: 2026-09-02
+
+### Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno
+
+La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.
+
+Date: 2026-09-02
+
+### La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP
+
+Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.
 
 Date: 2026-09-02
 
@@ -44,31 +68,10 @@ La intervención coordinada de Estados Unidos y Japón a finales de julio para f
 
 Date: 2026-09-01
 
-### Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square
-
-La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a dos personas en Times Square , dejando una persona herida y provocando la muerte a Erin Piacenti, vicepresidenta de Bank of America que falleció a causa de las heridas tras ser trasladada al hospital.El alcalde de la Ciudad, Zohran Mamdani , ha.
-
-Date: 2026-09-01
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
-
-Date: 2026-09-01
-
-### EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz
-
-El Mando Central de Estados Unidos (Centcom) ha anunciado que este martes ha iniciado una nueva ronda de ataques contra objetivos militares en Irán, en la última señal del retorno a las hostilidades entre los dos países tras un mes de relativa calma. El Pentágono ha confirmado que los ataques han comenzado a las 18h y.
-
-Date: 2026-09-01
-
-### Petróleo pesado venezolano para las refinerías estadounidenses
-
-Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estados Unidos, que produce más petróleo que ningún otro país del mundo, acaba de cerrar con Venezuela un acuerdo de largo alcance para desarrollar algunos de sus principales campos petroleros. ¿Por qué? La respuesta habitual apunta a la geopolít.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP](https://www.abc.es/summum/gente-vip/formula-vela-llega-valencia-kylian-mbappe-ryan-20260902133516-nt.html?utm_source=lootura.com) — 2026-09-02T07:23:37.000Z
+- [Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal](https://elpais.com/economia/2026-09-02/victoria-para-google-en-los-tribunales-el-gigante-evita-la-particion-de-su-negocio-principal.html?utm_source=lootura.com) — 2026-09-02T15:48:49.000Z
+- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T13:33:14.000Z
 - [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
+- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
+- [Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno](https://theobjective.com/internacional/2026-09-02/sheinbaum-acusa-eeuu-usar-tacticas-injerencia-dividir-gobierno/?amp=&utm_source=lootura.com) — 2026-09-02T15:44:08.000Z

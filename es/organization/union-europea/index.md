@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara](https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html?utm_source=lootura.com) — 2026-09-01T17:47:26.000Z
-- [Kaja Kallas califica el ataque híbrido ruso de Liepzig de "terrorismo patrocinado por el Estado"](https://www.larazon.es/internacional/kaja-kallas-califica-ataque-hibrido-ruso-liepzig-terrorismo-patrocinado-estado_202609026a97db1c2d7d3022177b6312.html?utm_source=lootura.com) — 2026-09-02T08:15:24.000Z
+No public source links.

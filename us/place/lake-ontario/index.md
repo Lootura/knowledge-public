@@ -28,4 +28,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently](https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html?utm_source=lootura.com) — 2026-09-01T22:03:00.000Z
+No public source links.

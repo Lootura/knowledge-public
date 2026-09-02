@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -39,13 +39,13 @@
       "date": "2026-09-02"
     },
     {
-      "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
-      "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
+      "title": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
+      "summary": "Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.",
       "date": "2026-09-01"
     },
     {
-      "title": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
-      "summary": "Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.",
+      "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
+      "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
       "date": "2026-09-01"
     },
     {
@@ -86,17 +86,11 @@
   ],
   "sources": [
     {
-      "title": "WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation",
-      "url": "https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:09:50.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
       "url": "https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html?utm_source=lootura.com",
       "publishedAt": "2026-09-01T23:50:54.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

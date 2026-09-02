@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España](https://www.20minutos.es/nacional/albares-afea-que-algunos-socios-europeos-participen-desinformacion-sobre-ceuta-reclama-solidaridad-con-espana_7031808_0.html?utm_source=lootura.com) — 2026-09-02T07:24:26.000Z
+No public source links.

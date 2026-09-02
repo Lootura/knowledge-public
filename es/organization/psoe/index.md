@@ -3,10 +3,22 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
+
+El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
+
+Date: 2026-09-02
+
+### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
+
+El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
+
+Date: 2026-09-02
 
 ### La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE
 
@@ -56,20 +68,7 @@ El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El preside
 
 Date: 2026-09-01
 
-### El PSOE pide al juez del caso cloacas que solo Anticorrupción pueda acceder a sus cuentas
-
-El PSOE ha remitido un nuevo escrito al juez a cargo de la investigación del conocido como 'caso cloacas' en el que pide "extremar las cautelas" respecto al análisis de sus cuentas bancarias. La formación liderada por Pedro Sánchez solicita al magistrado de la Audiencia Nacional Santiago Pedraz que, para evitar la filt.
-
-Date: 2026-09-01
-
-### Más Madrid y el PSOE se personan en la causa del ático comprado por el Gobierno de Ayuso
-
-Ambos partidos solicitan formar parte del procedimiento tras las denuncias presentadas por Iustitia Europa y el PSOE y que ya están en manos del Juzgado La Fiscalía envía cuatro denuncias por el ático que compró el Gobierno de Ayuso al juzgado que ya investiga el caso El PSOE y Más Madrid se han presentado como acusaci.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"](https://amp.elmundo.es/espana/2026/09/01/6a971acbfc6c8347758b4593.html?utm_source=lootura.com) — 2026-09-01T20:44:20.000Z
-- [El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord](https://www.elmundo.es/espana/encuestas/2026/09/01/6a9718dce85eceb0388b4599.html?utm_source=lootura.com) — 2026-09-01T20:44:10.000Z
-- [La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE](https://www.larazon.es/andalucia/presidenta-femp-asegura-que-concentraciones-ceuta-son-partidistas-lamenta-insultos-psoe_202609026a97dc492d7d3022177b649e.html?outputType=amp&utm_source=lootura.com) — 2026-09-02T08:20:25.000Z
+- [La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez](https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com) — 2026-09-02T11:13:52.000Z
+- [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z

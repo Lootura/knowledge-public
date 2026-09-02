@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+      "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).",
+      "date": "2026-09-02"
+    },
     {
       "title": "What Wildfire Smoke Reveals About How We Respond to Climate Risk",
       "summary": "The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.",
@@ -54,18 +64,21 @@
       "title": "What to Say to Someone Who Is Dying, According to Hospice Workers",
       "summary": "—Photo-Illustration by TIME (Source Image: Peter Dazeley—Getty Images) Sydney Mishkin’s father had Stage IV sarcoma for seven years. In the weeks before he died, she kept trying to figure out what she still hadn’t told him. She searched through their old texts and listened to his voicemails. At night, she lay awake rev.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Can AI Free Women from the Mental Load of Caregiving?",
-      "summary": "—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "These 25 U.S. States Are Suing the Trump Administration. Here's Why",
-      "summary": "President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T14:08:03.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

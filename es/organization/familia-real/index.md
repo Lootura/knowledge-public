@@ -3,10 +3,16 @@
 > Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/familia-real
 
 ## Cambios recientes
+
+### Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega
+
+Marius Borg Høiby ha cedido a la presión. El próximo lunes 7 de septiembre finaliza la prisión preventiva que se había dictado para el hijo de Mette-Marit, de 29 años, y la fiscalía noruega pedirá cuatro semanas más que esta vez está dispuesto a cumplir . Es decir, si bien en ocasiones anteriores había exigido que se l.
+
+Date: 2026-09-02
 
 ### Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»
 
@@ -62,12 +68,6 @@ Los jardines del Palacio de Marivent, un año más, han visto como la Familia Re
 
 Date: 2026-08-04
 
-### Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo
-
-Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Real y, con él, una de las citas en las que la Reina Letizia demuestra que la moda también puede ser una poderosa herramienta de representación. Felipe VI y Doña Letizia han abierto este martes las puertas del Palacio de Marivent para recibir.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega](https://www.abc.es/gente/marius-borg-acepta-continuar-detencion-preventiva-perjudicar-20260902170251-nt.html?utm_source=lootura.com) — 2026-09-02T15:30:31.000Z

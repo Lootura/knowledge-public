@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T22:22:28.371Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### How will tariffs affect the midterms? In this Michigan border town, it's complicated
+
+The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).
+
+Date: 2026-09-02
 
 ### Canada's Labrador Shelf preserves climate records once thought erased by ice
 
@@ -62,12 +68,6 @@ If you're far enough north in the U.S. and Canada, you might savor a partial ecl
 
 Date: 2026-08-12
 
-### At least 200 major wildfires burn across U.S. and Canada
-
-Hot and dry conditions are fueling at least 200 major wildfires in the western U.S. and Canada. Meanwhile, images show the scale of destruction in Spokane, Washington, from the fires there last week. Ian Lee reports.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [How will tariffs affect the midterms? In this Michigan border town, it's complicated](https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z

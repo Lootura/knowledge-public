@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos](https://cincodias.elpais.com/mercados-financieros/2026-09-02/warsh-se-topa-con-el-calendario-electoral-de-trump-los-analistas-divididos-sobre-cuando-subira-tipos.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
+No public source links.

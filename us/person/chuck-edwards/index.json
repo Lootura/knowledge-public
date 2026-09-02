@@ -61,19 +61,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "House censures Rep. Chuck Edwards over \"inappropriate conduct\" toward aides",
-      "url": "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:17:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:18:20.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

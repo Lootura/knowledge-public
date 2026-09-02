@@ -46,4 +46,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [UN food agency halves West Bank aid from 400,000 to 200,000 people because of funding shortages](https://www.pbs.org/newshour/world/un-food-agency-halves-west-bank-aid-from-400000-to-200000-people-because-of-funding-shortages?utm_source=lootura.com) — 2026-09-01T22:01:24.000Z
+No public source links.

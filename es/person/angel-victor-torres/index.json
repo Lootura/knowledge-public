@@ -45,19 +45,6 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Torres admite que el Gobierno desconoce el informe: \"No sabemos si es de un agente particular\"",
-      "url": "https://www.20minutos.es/nacional/torres-admite-que-gobierno-desconoce-informe-policia-que-senala-marruecos-no-sabemos-si-es-un-agente-particular_7031800_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T07:06:09.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Torres confirma que algunos de los menas de Ceuta pueden tener derecho al asilo",
-      "url": "https://theobjective.com/espana/politica/2026-09-02/torres-menas-ceuta-gobierno/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T07:44:57.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

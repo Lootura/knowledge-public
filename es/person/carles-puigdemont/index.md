@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza](https://www.elconfidencial.com/espana/cataluna/2026-09-02/puigdemont-descolonizar-ceuta-melilla-gaza_4416113/?utm_source=lootura.com) — 2026-09-02T03:00:00.000Z
+No public source links.

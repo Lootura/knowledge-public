@@ -3,10 +3,16 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
+
+### A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026
+
+Carlos Alcaraz se ha plantado en la segunda ronda del US Open 2026 , donde se tendrá que enfrentar al portugués Jaime Faria . El murciano es claramente el favorito para llevarse el triunfo, pero no se puede confiar, ya que hay que recordar que acaba de salir de una lesión, por lo que tendrá que mantener la concentració.
+
+Date: 2026-09-02
 
 ### Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa
 
@@ -46,4 +52,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026](https://okdiario.com/deportes/que-hora-carlos-alcaraz-faria-donde-ver-gratis-television-directo-vivo-online-partido-del-us-open-2026-20207254?utm_source=lootura.com) — 2026-09-02T15:30:20.000Z

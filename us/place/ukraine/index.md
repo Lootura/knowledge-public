@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Putin Pledges Increased Strikes in Ukraine and Support for Iran
 
 The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.
+
+Date: 2026-09-02
+
+### Attacks in Black Sea Threaten to Strangle Global Grain Supply
+
+Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.
 
 Date: 2026-09-02
 
@@ -62,14 +68,7 @@ Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, wh
 
 Date: 2026-08-13
 
-### By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea
-
-Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life. (Image credit: Igor Ivanko).
-
-Date: 2026-08-13
-
 ## Sources
 
-- [Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks](https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks?utm_source=lootura.com) — 2026-09-01T23:15:02.000Z
-- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
 - [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z
+- [Attacks in Black Sea Threaten to Strangle Global Grain Supply](https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com) — 2026-09-02T09:05:50.000Z

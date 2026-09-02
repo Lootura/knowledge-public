@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -36,11 +36,6 @@
   ],
   "changes": [
     {
-      "title": "Agentic AI accelerates search for crops that can harvest critical minerals",
-      "summary": "For too long, the United States has relied on foreign sources for most of the raw materials powering its technological future: the essential minerals in every smartphone, battery pack and semiconductor. What if one answer to the supply crisis isn't buried in a mine shaft but growing quietly in a field? Scientists are b.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
       "summary": "Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.",
       "date": "2026-09-02"
@@ -61,42 +56,47 @@
       "date": "2026-09-02"
     },
     {
+      "title": "The Navy’s Logistical Nightmare in the Iran War",
+      "summary": "Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Exploring U.S. Open food trends, beyond the Honey Deuce",
+      "summary": "The U.S. Open is bringing good eating to the tennis tournament. Adam Chandler, food trends columnist at the Wall Street Journal, weighs in on the U.S. Open's fan experience strategy.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Iran war ramps up again amid series of resignations and firings in U.S. military",
+      "summary": "Strikes between the U.S. and Iran are ratcheting back up amid an important resignation in the U.S. military. CBS News national security analyst Aaron MacLean reports.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries",
       "summary": "NBC News’ Steve Kornacki breaks down numbers in the Democratic primary races in Massachusetts including U.S. Senate and House Districts 8 and 1.",
       "date": "2026-09-02"
     },
     {
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "summary": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war. (Image credit: Amirhosein Khorgooi).",
+      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
+      "summary": "The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.",
       "date": "2026-09-02"
     },
     {
-      "title": "Gingers of America: portraits of people with ginger hair across the US",
-      "summary": "For his latest in a series of work photographing people with red hair, photographer Kieran Dodds interviewed and made portraits of hundreds of people with ginger hair, with widely varying backgrounds and heritage, across the US between 2024 and 2026. Dodds asked each interviewee the same question at the end of the inte.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
-      "summary": "Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "The Navy’s Logistical Nightmare in the Iran War",
-      "summary": "Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.",
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
       "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
-      "url": "https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T03:22:01.000Z",
+      "title": "Exploring U.S. Open food trends, beyond the Honey Deuce",
+      "url": "https://www.cbsnews.com/video/us-open-beyond-the-honey-deuce/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:09:55.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?",
-      "url": "https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:08:58.000Z",
+      "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
+      "url": "https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T03:22:01.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -106,47 +106,47 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
+      "title": "Iran war ramps up again amid series of resignations and firings in U.S. military",
+      "url": "https://www.cbsnews.com/video/iran-war-ramps-up-again-amid-resignations-and-firings-in-us-military/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:39:53.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries",
+      "url": "https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T04:18:24.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
+      "url": "https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T11:17:56.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
       "title": "Thousands of U.S. service members arrive in Thailand after record stint at sea",
       "url": "https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651?utm_source=lootura.com",
       "publishedAt": "2026-09-02T04:24:12.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Markey, Neal, and Lynch projected winners in Massachusetts Democratic primaries",
-      "url": "https://www.nbcnews.com/now/video/markey-neal-and-lynch-projected-winners-in-massachusetts-democratic-primaries-269195333680?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T04:18:24.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T14:08:03.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "url": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T06:15:11.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-strikes-iran-after-attempted-attacks-against-ships-in-strait-of-hormuz?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:55:25.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Springfield's Haitian community braces for deportations after protected status ends",
-      "url": "https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:30:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots",
-      "url": "https://www.pbs.org/newshour/show/whistleblower-warns-usps-rushing-new-system-that-could-jeopardize-mail-in-ballots?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:55:44.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Wendell Berry, Kentucky-born author who advocated a simpler life, has died at 92",
-      "url": "https://www.pbs.org/newshour/arts/wendell-berry-kentucky-born-author-who-advocated-a-simpler-life-has-died-at-92?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:14:33.000Z",
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
+      "url": "https://www.pbs.org/newshour/world/iran-fires-on-its-gulf-neighbors-retaliating-for-u-s-strikes-after-a-wedding-was-hit?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:46:58.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 21
+  "evidenceCount": 19
 }

@@ -3,22 +3,10 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
-
-### Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027
-
-Cómo no recordar aquella reacción de Àngels Barceló en directo en antena, en la Cadena SER, con la comparecencia de Pedro Sánchez al conocer la fecha de las elecciones generales de 2023, en pleno verano.Se podía intuir, pero la presentadora explicó, posteriormente, que estaba relacionado con sus vacaciones, agendadas p.
-
-Date: 2026-09-02
-
-### Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta
-
-Última hora de la crisis en Ceuta, en directo Manifestaciones por Ceuta en España: horarios y lugares Manifestación en apoyo a Ceuta en Madrid hoy: horario, lugar y cortes El informe policial complica la defensa de Marruecos que Sánchez preparaba para el Congreso El ministro del Interior, Fernando Grande-Marlaska , se.
-
-Date: 2026-09-02
 
 ### Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta
 
@@ -32,48 +20,63 @@ Las derechas unen fuerzas en el arranque del curso político para movilizar la c
 
 Date: 2026-09-02
 
-### La Policía desmonta el bulo de Sánchez sobre la crisis de Ceuta
+### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
 
-Ningún informe de los servicios de información e inteligencia españoles atribuye a Israel, Rusia o la «alianza ultraderechista» internacional la organización de la entrada masiva de 80.000 personas en la ciudad autónoma de Ceuta de finales de julio, según fuentes de toda solvencia consultadas por THE OBJECTIVE . Por ta.
-
-Date: 2026-09-02
-
-### El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz
-
-La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.
+El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
 
 Date: 2026-09-02
 
-### El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»
+### Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa
 
-«¿5.000? Eso no se lo cree nadie» . La cifra que ofreció Pedro Sánchez sobre los ilegales que permanecen en Ceuta ha causado si cabe más indignación a las autoridades de la ciudad, que aproximan a esa cifra sólo los menores, que en teoría les corresponde gestionar a los servicios sociales de la administración local. Pe.
-
-Date: 2026-09-02
-
-### El vídeo que convirtió al 'sheriff de Magaluf' en viral con 13 millones de reproducciones y que ahora lo quiere hacer desaparecer
-
-Miguel Sánchez, el vigilante de seguridad conocido popularmente como el sheriff de Magaluf, está cansado de que un vídeo grabado hace años durante una intervención en un hotel de Magaluf, Mallorca, continúe circulando por internet y las redes sociales. La grabación, realizada por un joven turista inglés, se convirtió e.
+La mujer de Pedro Sánchez debe declarar como querellada el próximo 23 de octubre Leer.
 
 Date: 2026-09-02
 
-### Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
 
-El Ayuntamiento de Madrid ha acusado este martes al Gobierno de Pedro Sánchez de “boicotear” la concentración por Ceuta que el Consistorio ha convocado para este miércoles tras haber recibido un escrito de la Delegación del Gobierno que le reprocha haber solicitado la autorización por la vía del derecho de reunión, pes.
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"
+### Interior niega que el informe enviado a la juez atribuya "a las Fuerzas de Seguridad" de Marruecos el ataque a Ceuta
 
-«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...
+El Ministerio del Interior ha desmentido este miércoles que el ataque a la frontera española desde Ceuta -así definido por el presidente, Pedro Sánchez, el 31 de julio, como un...
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
+
+El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
+
+Date: 2026-09-02
+
+### Sánchez hace autocrítica con Ceuta: “Me hago cargo de que para muchos la respuesta del Estado es insuficiente”
+
+El presidente difunde un mensaje a los ceutíes en el día de la ciudad y horas antes de las manifestaciones convocadas por todo el país: "Vamos a seguir movilizando todos los recursos a nuestro alcance para que la ciudad recupere cuanto antes la normalidad" Marlaska pregunta al director de la Policía por el supuesto inf.
+
+Date: 2026-09-02
+
+### Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”
+
+La portavoz del Grupo Parlamentario Popular en el Senado, Alicia García, afirmó hoy que el presidente del Gobierno de España, Pedro Sánchez, está “muy ocupado con descansar y con defenderse de la corrupción” y “muy ocupado en las cuestiones judiciales que le afectan, pero no se preocupa” por las personas con discapacid.
+
+Date: 2026-09-02
+
+### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
+
+Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.
+
+Date: 2026-09-02
 
 ## Fuentes
 
-- [Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027](https://www.abc.es/recreo/vicente-valles-avisa-espana-pedro-sanchez-convoca-elecciones-legislatura-20260901193124-nt.html?utm_source=lootura.com) — 2026-09-02T07:14:09.000Z
-- [Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta](https://www.elconfidencial.com/espana/2026-09-02/crisis-migratoria-ceuta-policia-1tps_4416273/?utm_source=lootura.com) — 2026-09-02T04:56:00.000Z
+- [Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"](https://www.20minutos.es/nacional/feijoo-pide-convocar-embajadora-marruecos-adelantar-elecciones-nos-han-mentido-cara_7032032_0.html?utm_source=lootura.com) — 2026-09-02T13:04:05.000Z
+- [Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa](https://www.elmundo.es/espana/2026/09/02/6a9825d2fc6c83303f8b459d.html?utm_source=lootura.com) — 2026-09-02T13:47:56.000Z
 - [Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com) — 2026-09-02T07:44:42.000Z
-- [Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"](https://amp.elmundo.es/espana/2026/09/01/6a971acbfc6c8347758b4593.html?utm_source=lootura.com) — 2026-09-01T20:44:20.000Z
-- [Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre](https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html?utm_source=lootura.com) — 2026-09-01T18:45:17.000Z
+- [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
+- [Interior niega que el informe enviado a la juez atribuya "a las Fuerzas de Seguridad" de Marruecos el ataque a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a9820e2e85ece0b188b4580.html?utm_source=lootura.com) — 2026-09-02T13:30:27.000Z
 - [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
-- [La Policía desmonta el bulo de Sánchez sobre la crisis de Ceuta](https://theobjective.com/espana/2026-09-02/policia-bulo-sanchez-crisis-ceuta/?utm_source=lootura.com) — 2026-09-02T08:08:56.000Z
+- [La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez](https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com) — 2026-09-02T11:13:52.000Z
+- [Sánchez hace autocrítica con Ceuta: “Me hago cargo de que para muchos la respuesta del Estado es insuficiente”](https://www.eldiario.es/politica/sanchez-autocritica-ceuta-cargo-respuesta-insuficiente_1_13481784.html?utm_source=lootura.com) — 2026-09-02T10:34:38.000Z
+- [Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”](https://www.larazon.es/castilla-y-leon/alicia-garcia-sanchez-esta-ocupado-descansar-cuestiones-judiciales-pero-preocupa-personas-dependientes-discapacidad_202609026a9844893bfe5d1eff40b15d.html?utm_source=lootura.com) — 2026-09-02T15:45:13.000Z
+- [El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara](https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com) — 2026-09-02T13:38:39.000Z

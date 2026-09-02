@@ -28,5 +28,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [What to expect from new Apple CEO John Ternus as Tim Cook steps down](https://www.cbsnews.com/video/what-to-expect-from-john-ternus-as-apple-ceo-as-tim-cook-steps-down/?utm_source=lootura.com) — 2026-09-02T00:10:36.000Z
-- [Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company](https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com) — 2026-09-01T22:06:30.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/pete-hegseth/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/pete-hegseth/index.json",
   "description": "Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "Hegseth",
     "Pentagon Pete",
@@ -41,13 +41,7 @@
       "url": "https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T01:43:00.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Hegseth has created 'climate of fear' at Pentagon, former Air Force secretary says",
-      "url": "https://www.pbs.org/newshour/show/hegseth-has-created-climate-of-fear-at-pentagon-former-air-force-secretary-says?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:47:51.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T09:09:26.468Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,11 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal",
+      "summary": "Las autoridades de China han elevado este miércoles a 21 la cifra de muertos tras la devastadora riada que tuvo lugar la semana pasada en la zona fronteriza entre la región autónoma china de Tíbet y Nepal y que ha dejado ya más de 1.100 muertos en territorio nepalí. Así, las autoridades de la citada región, conocida en.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong",
       "summary": "La plataforma china de compraventa de ropa online Shein ha protagonizado un accidentado debut en la Bolsa de Hong Kong al desplomarse hasta un 10% en las primeras horas de cotización. La compañía ha sufrido años de vaivenes y planes frustrados para empezar a cotizar, que provocaron una caída del 73% en su valoración de.",
@@ -71,13 +76,15 @@
       "title": "Casi 16.000 espejos apuntando al mismo punto: China remata la termosolar más alta del planeta, con 100 MW y sales fundidas para dar luz de noche",
       "summary": "China ultima una enorme planta termosolar construida a más de 4.600 metros de altitud, capaz de almacenar el calor del día en sales fundidas para seguir generando electricidad durante la noche.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo",
-      "summary": "No es una época fácil para el sector del lujo en Bolsa. Arrastrado por varios factores, como la caída de la demanda desde China, ha sufrido mucho en los últimos cinco años y su mayor exponente, LVMH, ha perdido un tercio de su valor de mercado. Tras un mes de aparente recuperación, de la mano de unos resultados trimest.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal",
+      "url": "https://theobjective.com/internacional/2026-09-02/china-eleva-cifra-fallecidos-territorio-riadas-nepal/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T14:58:49.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Attacks in Black Sea Threaten to Strangle Global Grain Supply
+
+Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.
+
+Date: 2026-09-02
 
 ### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
 
@@ -62,14 +68,6 @@ Alumina processed at a refinery in County Limerick may be feeding Russia’s war
 
 Date: 2026-09-01
 
-### Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
-
-The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks](https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks?utm_source=lootura.com) — 2026-09-01T23:15:02.000Z
-- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z
+- [Attacks in Black Sea Threaten to Strangle Global Grain Supply](https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html?utm_source=lootura.com) — 2026-09-02T09:05:50.000Z

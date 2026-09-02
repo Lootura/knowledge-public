@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
+
+El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de "impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.
+
+Date: 2026-09-02
 
 ### Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa
 
@@ -62,12 +68,6 @@ Desde ahora, el Gobierno de la Generalitat de Cataluña , que preside el sociali
 
 Date: 2026-07-19
 
-### Discovered by Atlas
-
-Salvador Illa first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Illa y Collboni viajan a Kiev en plena escalada de ataques rusos](https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com) — 2026-09-02T15:32:41.000Z

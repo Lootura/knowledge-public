@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters
+
+Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters lead image.
+
+Date: 2026-09-02
 
 ### At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail
 
@@ -62,12 +68,6 @@ In mid-coast Maine a grassroots coalition is fighting to prevent the proposed cl
 
 Date: 2026-08-04
 
-### How a community rallied around a little girl and her love for roosters
-
-CBS News contributor David Begnaud shows how the small town of Ogunquit, Maine, rallied around a 6-year-old girl when local code enforcement officials told the girl's family to take a flock of tin roosters off their property.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters](https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z

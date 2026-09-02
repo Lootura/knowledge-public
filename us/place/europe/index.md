@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Wind damage can trigger years of forest vulnerability
+
+Windstorms are among the most important natural disturbances in Northern Europe, where they cause extensive tree mortality, timber losses and long-lasting changes in forest structure. Large-scale windstorm damage has increased across Central and Northern European forests in recent decades, while in boreal regions such.
+
+Date: 2026-09-02
 
 ### Europe should adapt, not copy, China’s practical PhD
 
@@ -62,14 +68,6 @@ The meeting underscored Washington's willingness to reopen diplomatic talks with
 
 Date: 2026-09-01
 
-### France's top court blocks under-15 social media ban, citing constitutional freedoms
-
-France last month became the first country in the European Union to pass a blanket ban on the platforms amid rising worldwide concerns about the harmful effects of digital content on kids.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
-- [Germany blames Russia for attempted drone attack at Leipzig airport](https://www.pbs.org/newshour/world/germany-blames-russia-for-attempted-drone-attack-at-leipzig-airport?utm_source=lootura.com) — 2026-09-01T18:58:15.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z
+- [Wind damage can trigger years of forest vulnerability](https://phys.org/news/2026-09-trigger-years-forest-vulnerability.html?utm_source=lootura.com) — 2026-09-02T14:40:08.000Z

@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T16:03:14.149Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
+      "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
+      "date": "2026-09-02"
+    },
     {
       "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
       "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
@@ -54,18 +64,21 @@
       "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
       "summary": "Latin America’s deep-seated inequalities prevailed over the grimly equalizing force of the Venezuela earthquakes, and set even the dead apart.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "In Venezuela’s Rubble, a Search for the Family Pets",
-      "summary": "Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
-      "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T14:08:03.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
+      "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T11:10:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

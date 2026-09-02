@@ -3,10 +3,22 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
+
+Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
+
+Date: 2026-09-02
+
+### How will tariffs affect the midterms? In this Michigan border town, it's complicated
+
+The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).
+
+Date: 2026-09-02
 
 ### What Wildfire Smoke Reveals About How We Respond to Climate Risk
 
@@ -56,18 +68,7 @@ Date: 2026-08-05
 
 Date: 2026-08-05
 
-### Can AI Free Women from the Mental Load of Caregiving?
-
-—Malte Mueller—Getty Images AI is disrupting the world of work. But can it disrupt gender inequality at home? The rise of “ Care AI ” offers up a tantalizing vision, one in which the never-ending work of managing family life—the anticipating, planning, caretaking, troubleshooting, worrying, and remembering—is outsource.
-
-Date: 2026-08-05
-
-### These 25 U.S. States Are Suing the Trump Administration. Here's Why
-
-President Donald Trump speaks to the media in the Oval Office of the White House in Washington, D.C. on Aug. 3, 2026. —Chip Somodevilla––Getty Images A coalition of 25 U.S. states is suing the Trump Administration , arguing the President’s latest round of sweeping tariffs on over 80 countries exceed his legal authority.
-
-Date: 2026-08-04
-
 ## Sources
 
-No public source links.
+- [Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal](https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com) — 2026-09-02T14:08:03.000Z
+- [How will tariffs affect the midterms? In this Michigan border town, it's complicated](https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z

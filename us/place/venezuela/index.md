@@ -3,10 +3,22 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T16:03:14.149Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
+
+Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
+
+Date: 2026-09-02
+
+### Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches
+
+The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.
+
+Date: 2026-09-02
 
 ### U.S.-Venezuela oil deal will rely on North American Blue Energy Partners
 
@@ -56,18 +68,7 @@ Latin America’s deep-seated inequalities prevailed over the grimly equalizing 
 
 Date: 2026-07-24
 
-### In Venezuela’s Rubble, a Search for the Family Pets
-
-Volunteers are reuniting pets with families, offering Venezuelans comfort amid loss and devastation.
-
-Date: 2026-07-20
-
-### Venezuela Earthquakes Force a Grim Homecoming for Migrants
-
-Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal](https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal?utm_source=lootura.com) — 2026-09-02T14:08:03.000Z
+- [Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches](https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com) — 2026-09-02T11:10:14.000Z

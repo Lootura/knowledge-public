@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
+      "summary": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters lead image.",
+      "date": "2026-09-02"
+    },
     {
       "title": "At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail",
       "summary": "Dale Sanders started last Sept. 6 in West Virginia, hiked the nearly 2,200-mile trail in out-of-order sections with breaks in between, and finished Monday atop Mount Katahdin in Maine.",
@@ -61,13 +66,15 @@
       "title": "One Maine community's fight to save a birthing center",
       "summary": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "How a community rallied around a little girl and her love for roosters",
-      "summary": "CBS News contributor David Begnaud shows how the small town of Ogunquit, Maine, rallied around a 6-year-old girl when local code enforcement officials told the girl's family to take a flock of tin roosters off their property.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
+      "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:00:00.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

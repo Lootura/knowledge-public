@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Springfield's Haitian community braces for deportations after protected status ends",
       "summary": "In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flas.",
@@ -60,25 +65,14 @@
       "title": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
       "summary": "A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-      "summary": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Why the Supreme Court's ballroom ruling could matter beyond the ballroom",
-      "url": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T11:00:41.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Springfield's Haitian community braces for deportations after protected status ends",
-      "url": "https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:30:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:04:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

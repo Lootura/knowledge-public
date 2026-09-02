@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T08:56:34.263Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa
+
+La mujer de Pedro Sánchez debe declarar como querellada el próximo 23 de octubre Leer.
+
+Date: 2026-09-02
 
 ### Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse
 
@@ -62,12 +68,6 @@ El abogado de Cristina Álvarez exige al juez que no dilate más la entrega del 
 
 Date: 2026-07-23
 
-### El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo
-
-La falta de acuerdo en el Consejo General del Poder Judicial (CGPJ) ha obligado este martes a aplazar la decisión de ese órgano sobre cinco investigaciones abiertas al juez Juan Carlos Peinado, instructor de la causa contra la esposa del presidente del Gobierno, Begoña Gómez. La comisión permanente —el principal órgano.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa](https://www.elmundo.es/espana/2026/09/02/6a9825d2fc6c83303f8b459d.html?utm_source=lootura.com) — 2026-09-02T13:47:56.000Z

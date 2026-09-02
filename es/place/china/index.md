@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal
+
+Las autoridades de China han elevado este miércoles a 21 la cifra de muertos tras la devastadora riada que tuvo lugar la semana pasada en la zona fronteriza entre la región autónoma china de Tíbet y Nepal y que ha dejado ya más de 1.100 muertos en territorio nepalí. Así, las autoridades de la citada región, conocida en.
+
+Date: 2026-09-02
 
 ### Shein cae hasta un 10% en su debut en la Bolsa de Hong Kong
 
@@ -62,12 +68,6 @@ China ultima una enorme planta termosolar construida a más de 4.600 metros de a
 
 Date: 2026-08-13
 
-### LVMH cae un 3% en Bolsa por las dudas de Deutsche Bank sobre el sector del lujo
-
-No es una época fácil para el sector del lujo en Bolsa. Arrastrado por varios factores, como la caída de la demanda desde China, ha sufrido mucho en los últimos cinco años y su mayor exponente, LVMH, ha perdido un tercio de su valor de mercado. Tras un mes de aparente recuperación, de la mano de unos resultados trimest.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [China eleva a 21 la cifra de muertos en su territorio por las riadas de Nepal](https://theobjective.com/internacional/2026-09-02/china-eleva-cifra-fallecidos-territorio-riadas-nepal/?utm_source=lootura.com) — 2026-09-02T14:58:49.000Z

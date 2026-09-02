@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Desvelan el plan de Marruecos para llevarse a Lamine Yamal: «Nos reunimos con sus padres…»](https://okdiario.com/deportes/desvelan-plan-marruecos-llevarse-lamine-yamal-nos-reunimos-sus-padres-20213040?utm_source=lootura.com) — 2026-09-02T08:11:15.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Former Biden White House Aide Wins Massachusetts Democratic House Primary
 
 Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.
+
+Date: 2026-09-02
+
+### Who Approves Trump’s Washington Makeover Projects?
+
+The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+
+Date: 2026-09-02
+
+### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
+
+In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
 
 Date: 2026-09-02
 
@@ -56,19 +68,9 @@ Army Secretary Dan Driscoll is stepping down after 18 months on the job, the Whi
 
 Date: 2026-09-01
 
-### Days after Trump announces Venezuela oil deal, White House fills in some of the details
-
-As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).
-
-Date: 2026-09-01
-
-### Supreme Court continues to allow construction of Trump's White House ballroom
-
-The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Why did Army Secretary Dan Driscoll resign?](https://www.cbsnews.com/video/why-did-army-secretary-dan-driscoll-resign/?utm_source=lootura.com) — 2026-09-01T21:56:58.000Z
+- [Trump invites battleground Republicans to Rose Garden dinner](https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406?utm_source=lootura.com) — 2026-09-02T13:32:27.000Z
 - [Former Biden White House Aide Wins Massachusetts Democratic House Primary](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com) — 2026-09-02T02:31:16.000Z
+- [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z
+- [Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com) — 2026-09-02T14:47:31.000Z

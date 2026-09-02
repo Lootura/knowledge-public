@@ -3,7 +3,7 @@
 > Follow Ed Markey, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/ed-markey
 
 ## Recent changes
@@ -65,4 +65,3 @@ Date: 2026-09-01
 ## Sources
 
 - [Markey defeats Moulton in Massachusetts' Democratic primary for Senate](https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/?utm_source=lootura.com) — 2026-09-02T03:22:01.000Z
-- [Markey says win is a testament to the 'power of the Progressive movement'](https://www.nbcnews.com/video/markey-says-win-is-a-testament-to-the-power-of-the-progressive-movement-269193285763?utm_source=lootura.com) — 2026-09-02T03:30:27.000Z

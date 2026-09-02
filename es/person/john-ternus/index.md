@@ -3,10 +3,28 @@
 > Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/john-ternus
 
 ## Cambios recientes
+
+### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
+
+El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.
+
+Date: 2026-09-02
+
+### Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple
+
+En un documento presentado ante la Comisión de Bolsa y Valores el primer día de John Ternus a los mandos de Apple, la tecnológica desveló los salarios y paquetes de compensación que recibirán el nuevo CEO y Tim Cook en su nuevo puesto como presidente ejecutivo. Seguir leyendo.
+
+Date: 2026-09-02
+
+### Discovered by Atlas
+
+John Ternus first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-31
 
 ### Phil Schiller deja su puesto como jefe de la App Store de Apple
 
@@ -20,12 +38,7 @@ El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim C
 
 Date: 2026-08-31
 
-### Discovered by Atlas
-
-John Ternus first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-No public source links.
+- [Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus](https://elpais.com/economia/2026-09-02/apple-aprueba-una-retribucion-en-acciones-de-55-millones-de-dolares-para-su-nuevo-ceo.html?utm_source=lootura.com) — 2026-09-02T11:07:43.000Z
+- [Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple](https://www.expansion.com/economia-digital/companias/2026/09/02/6a97e3e3e5fdeae3298b459e.html?utm_source=lootura.com) — 2026-09-02T09:16:42.000Z

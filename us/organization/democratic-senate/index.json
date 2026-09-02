@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T02:50:05.135Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [],
   "changes": [
     {
@@ -42,6 +42,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Progressive victory in Massachusetts as Markey sweeps Democratic Senate primary",
+      "url": "https://www.cbsnews.com/video/progressive-victory-in-massachusetts-as-markey-sweeps-democratic-primary/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:04:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

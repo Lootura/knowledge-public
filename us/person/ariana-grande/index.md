@@ -3,10 +3,16 @@
 > Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-08T12:41:57.936Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/ariana-grande
 
 ## Recent changes
+
+### Ariana Grande tearfully ends 41-show tour and steps back from public life
+
+A teary and visibly emotional Ariana Grande bid farewell to her fans as her 41 show tour concluded in London and she began her planned withdrawal from public life.
+
+Date: 2026-09-02
 
 ### Is it OK to talk about Ariana Grande’s body? There is no right answer
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-No public source links.
+- [Ariana Grande tearfully ends 41-show tour and steps back from public life](https://www.nbcnews.com/news/us-news/ariana-grande-ends-tour-prepares-step-back-public-life-scrutiny-rcna595669?utm_source=lootura.com) — 2026-09-02T12:48:36.000Z

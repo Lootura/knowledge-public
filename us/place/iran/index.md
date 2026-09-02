@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -26,56 +26,57 @@ The announcement came amid a purge of leadership at the Pentagon and a stalling 
 
 Date: 2026-09-02
 
-### U.S. military strikes Iran, while Trump vows more for Tehran's retaliation
-
-The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war. (Image credit: Amirhosein Khorgooi).
-
-Date: 2026-09-02
-
-### U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
-
-Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
-
-Date: 2026-09-02
-
 ### The Navy’s Logistical Nightmare in the Iran War
 
 Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.
 
 Date: 2026-09-02
 
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+### Iran war ramps up again amid series of resignations and firings in U.S. military
 
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+Strikes between the U.S. and Iran are ratcheting back up amid an important resignation in the U.S. military. CBS News national security analyst Aaron MacLean reports.
 
 Date: 2026-09-02
 
-### News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz
+### US and Iran Trade New Strikes as the War Enters its 7th Month
 
-In our news wrap Tuesday, the U.S. struck targets inside Iran in response to what it called attempted attacks against ships in the Strait of Hormuz, the jury in the Lindsay Clancy trial spent a fourth day deliberating, telling the judge at one point that they were struggling to reach a unanimous decision and John Ternu.
+The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+### USS Lincoln Docks After Nearly 300 Continuous Days at Sea
 
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+After more than 280 days at sea and reports of deteriorating conditions and morale, thousands of sailors and Marines from the USS Abraham Lincoln are finally on land. The ship arrived at a port in Eastern Thailand on Wednesday to take a four-day break from its deployment supporting the war in Iran before heading home t.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Oil prices rise again as U.S. renews Iran strikes
+### Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit
 
-Energy and gas prices are up again after the U.S. resumed strikes on Iran. CBS News' Kelly O'Grady has more on the economic outlook.
+Iran fired on U.S. allies in the Gulf early Wednesday following a night of American bombardment that Iranian officials say included a deadly strike on a wedding party.
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
+
+President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.
+
+Date: 2026-09-02
+
+### Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says
+
+As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors was an urgent concern.
+
+Date: 2026-09-02
 
 ## Sources
 
-- [U.S. strikes targets in Iran near Strait of Hormuz as Iran says it is retaliating](https://www.nbcnews.com/now/video/u-s-strikes-targets-in-iran-near-strait-of-hormuz-as-iran-says-it-is-retaliating-269169733991?utm_source=lootura.com) — 2026-09-01T20:05:22.000Z
-- [U.S. military strikes Iran, while Trump vows more for Tehran's retaliation](https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war?utm_source=lootura.com) — 2026-09-02T06:15:11.000Z
-- [News Wrap: U.S. strikes Iran after attempted attacks against ships in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-u-s-strikes-iran-after-attempted-attacks-against-ships-in-strait-of-hormuz?utm_source=lootura.com) — 2026-09-01T22:55:25.000Z
+- [Iran war ramps up again amid series of resignations and firings in U.S. military](https://www.cbsnews.com/video/iran-war-ramps-up-again-amid-resignations-and-firings-in-us-military/?utm_source=lootura.com) — 2026-09-02T15:39:53.000Z
+- [US and Iran Trade New Strikes as the War Enters its 7th Month](https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com) — 2026-09-02T11:17:56.000Z
+- [USS Lincoln Docks After Nearly 300 Continuous Days at Sea](https://www.today.com/video/uss-lincoln-finally-docks-after-record-middle-east-deployment-269200453646?utm_source=lootura.com) — 2026-09-02T11:14:18.000Z
+- [Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit](https://www.pbs.org/newshour/world/iran-fires-on-its-gulf-neighbors-retaliating-for-u-s-strikes-after-a-wedding-was-hit?utm_source=lootura.com) — 2026-09-02T15:46:58.000Z
 - [U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html?utm_source=lootura.com) — 2026-09-02T00:23:08.000Z
 - [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z
-- [U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break](https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html?utm_source=lootura.com) — 2026-09-02T06:01:40.000Z
-- [Trump to Nominate Hung Cao as Navy Secretary](https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html?utm_source=lootura.com) — 2026-09-02T01:24:42.000Z
-- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T04:00:00.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z
+- [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T14:00:47.000Z
+- [Trump to Nominate Hung Cao as Navy Secretary](https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html?utm_source=lootura.com) — 2026-09-02T14:25:09.000Z
+- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z
+- [Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says](https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html?utm_source=lootura.com) — 2026-09-02T15:41:09.000Z

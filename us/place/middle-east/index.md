@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-09-02
 ### The Navy’s Logistical Nightmare in the Iran War
 
 Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.
+
+Date: 2026-09-02
+
+### US and Iran Trade New Strikes as the War Enters its 7th Month
+
+The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.
 
 Date: 2026-09-02
 
@@ -62,13 +68,8 @@ Families of marines are voicing concern over reports about the USS Abraham Linco
 
 Date: 2026-08-13
 
-### Sailors and their families have lives on hold, uncertain if they'll return to Mideast
-
-Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind. (Image credit: Fadhel Madhan).
-
-Date: 2026-08-13
-
 ## Sources
 
+- [US and Iran Trade New Strikes as the War Enters its 7th Month](https://www.today.com/video/us-and-iran-exchange-a-flurry-of-new-attacks-and-threats-269202501522?utm_source=lootura.com) — 2026-09-02T11:17:56.000Z
 - [Thousands of U.S. service members arrive in Thailand after record stint at sea](https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651?utm_source=lootura.com) — 2026-09-02T04:24:12.000Z
-- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T04:00:00.000Z
+- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z

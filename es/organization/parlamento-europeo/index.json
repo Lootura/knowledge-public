@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-08T01:21:06.150Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -20,6 +20,11 @@
     "Parliament of Europe"
   ],
   "changes": [
+    {
+      "title": "El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara",
+      "summary": "Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.",
+      "date": "2026-09-02"
+    },
     {
       "title": "España, en almoneda por el Pegasus a Sánchez",
       "summary": "El gravísimo e inconcebible suceso ocurrido la pasada semana en Ceuta, con la virtual invasión de más de 70.000 inmigrantes desde Marruecos, está dando lugar a muchos análisis en torno a los motivos y las posibles consecuencias del mismo. Análisis y debates en todos los medios y cancillerías y en el Parlamento Europeo,.",
@@ -61,6 +66,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara",
+      "url": "https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T13:38:39.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

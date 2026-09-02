@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T08:41:01.629Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
+
+La presidenta de la Comisión Europea, Ursula von der Leyen, y el secretario general de la OTAN, Mark Rutte, han celebrado una reunión en Bruselas como reacción al ataque de drone s atribuidos a Rusia en el aeropuerto de la ciudad alemana de Leipzig. Von der Leyen ha hablado claramente de «un ataque usando material mili.
+
+Date: 2026-09-02
 
 ### De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década
 
@@ -62,12 +68,6 @@ La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este 
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos pero avisa que no aceptará usar la inmigración como medida de «presión»
-
-La presidenta de la Comisión Europea, Úrsula von der Leyen , ha asegurado este lunes al jefe del Ejecutivo, Pedro Sánchez , que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigila.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»](https://www.abc.es/internacional/ue-considera-ataque-hibrido-leipzig-terrorismo-patrocinado-20260902125326-nt.html?utm_source=lootura.com) — 2026-09-02T15:39:44.000Z

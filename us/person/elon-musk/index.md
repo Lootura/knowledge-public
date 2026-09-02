@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Elon Musk’s heterodox robotaxi philosophy gets put to the test
+
+Believe it or not, the Tesla Cybercab is coming . Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Pub.
+
+Date: 2026-09-02
 
 ### Funding milestone detected
 
@@ -52,4 +58,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Elon Musk’s heterodox robotaxi philosophy gets put to the test](https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar?utm_source=lootura.com) — 2026-09-02T12:00:00.000Z

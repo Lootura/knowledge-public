@@ -40,4 +40,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027](https://www.abc.es/recreo/vicente-valles-avisa-espana-pedro-sanchez-convoca-elecciones-legislatura-20260901193124-nt.html?utm_source=lootura.com) — 2026-09-02T07:14:09.000Z
+No public source links.

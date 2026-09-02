@@ -3,10 +3,16 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes
+
+### El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil
+
+El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía de Medio Ambiente un oficio con información sobre las actuaciones previas abiertas por un posible delito contra especies de fauna protegida , tras el disparo sufrido por Toñi , la orca (Orcinus orca) de mayor edad de la población del Estrecho.
+
+Date: 2026-09-02
 
 ### Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno
 
@@ -62,12 +68,6 @@ La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al t
 
 Date: 2026-08-11
 
-### Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía
-
-Con el arranque de la semana, muchos serán los coches que se muevan por las carreteras andaluzas ya sea para un desplazamiento vacacional o porque estás trabajando durante el mes de agosto, de modo que será bueno saber qué marca hoy el Geoportal del Ministerio para la Transición Ecológica en cuanto al precio de la gaso.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil](https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z

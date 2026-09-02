@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -21,6 +21,16 @@
     {
       "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
       "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
+      "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
       "date": "2026-09-02"
     },
     {
@@ -57,31 +67,33 @@
       "title": "Army Secretary Dan Driscoll is stepping down, White House says",
       "summary": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration. (Image credit: Karl B. DeBlaker).",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Why did Army Secretary Dan Driscoll resign?",
-      "url": "https://www.cbsnews.com/video/why-did-army-secretary-dan-driscoll-resign/?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T21:56:58.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump invites battleground Republicans to Rose Garden dinner",
+      "url": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T13:32:27.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
       "url": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T02:31:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:04:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T14:47:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

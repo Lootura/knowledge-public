@@ -3,10 +3,22 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso visitó el ático tras su compra por la Comunidad de Madrid
+
+La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...
+
+Date: 2026-09-02
+
+### Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí
+
+El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.
+
+Date: 2026-09-02
 
 ### El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»
 
@@ -56,18 +68,7 @@ El inicio de curso político en septiembre puede convertirse en un verdadero via
 
 Date: 2026-08-10
 
-### El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático
-
-La vicealcaldesa de Madrid , Inma Sanz, cree que la presidenta la Comunidad, Isabel Díaz Ayuso, ya ha dado «explicaciones» sobre la adquisición de un ático de Chamberí por parte de su Gobierno y le parece una «buena iniciativa» venderlo para cubrir las consecuencias de los incendios . «Yo creo que la Comunidad de Madri.
-
-Date: 2026-08-10
-
-### El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»
-
-El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Ayuso visitó el ático tras su compra por la Comunidad de Madrid](https://www.lavanguardia.com/politica/20260902/11625701/ayuso-visito-atico-chamberi-compra-comunidad-madrid.html?utm_source=lootura.com) — 2026-09-02T15:00:57.000Z
+- [Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí](https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com) — 2026-09-02T15:23:33.000Z

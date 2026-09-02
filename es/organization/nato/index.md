@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
+
+La presidenta de la Comisión Europea, Ursula von der Leyen, y el secretario general de la OTAN, Mark Rutte, han celebrado una reunión en Bruselas como reacción al ataque de drone s atribuidos a Rusia en el aeropuerto de la ciudad alemana de Leipzig. Von der Leyen ha hablado claramente de «un ataque usando material mili.
+
+Date: 2026-09-02
 
 ### Marruecos: la grieta que rompe la política exterior de Sánchez
 
@@ -62,13 +68,6 @@ Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía d
 
 Date: 2026-08-11
 
-### Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán
-
-El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [Alemania acusa a Rusia del intento de atentado con un dron cargado de explosivos en Leipzig](https://www.elmundo.es/internacional/2026/09/01/6a96f561e4d4d8f7238b4578.html?utm_source=lootura.com) — 2026-09-01T18:16:04.000Z
-- [Marruecos: la grieta que rompe la política exterior de Sánchez](https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com) — 2026-09-02T06:00:21.000Z
+- [La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»](https://www.abc.es/internacional/ue-considera-ataque-hibrido-leipzig-terrorismo-patrocinado-20260902125326-nt.html?utm_source=lootura.com) — 2026-09-02T15:39:44.000Z

@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z
+No public source links.

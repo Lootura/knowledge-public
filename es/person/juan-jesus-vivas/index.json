@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
@@ -66,6 +66,13 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Vivas pide que se exija a Marruecos respeto a la integridad territorial de España",
+      "url": "https://www.lavanguardia.com/politica/20260902/11625593/vivas-pide-exija-marruecos-respeto-integridad-territorial-espana.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T12:43:36.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
   "evidenceCount": 0
 }

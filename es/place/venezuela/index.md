@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump](https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com) — 2026-09-02T03:30:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños
+
+El Ministerio de Sanidad, en coordinación con Protección Civil, ha evacuado a cinco soldados ucranianos heridos con quemaduras leves durante la guerra.
+
+Date: 2026-09-02
 
 ### Localizan en Almería un cadáver durante el operativo de búsqueda de un desaparecido
 
@@ -62,12 +68,6 @@ La Generalitat ha activado en fase de alerta el Plan especial de emergencias por
 
 Date: 2026-08-06
 
-### "De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va": el 'Perejil', señalado desde el chat del incendio de Ávila
-
-Los bomberos y voluntarios de Protección Civil se llevaron las manos a la cabeza al comprobar el origen del fuego provocado en Burgohondo. Admitieron que se sabía que los ganaderos habían encargado esos trabajos ilegales Leer.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños](https://theobjective.com/internacional/2026-09-02/espana-soldados-ucranianos-heridos/?amp=&utm_source=lootura.com) — 2026-09-02T15:53:41.000Z

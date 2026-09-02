@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/concept/proteccion-civil/index.json",
   "description": "Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "civil defence",
     "civil defense by nation",
     "civil protection"
   ],
   "changes": [
+    {
+      "title": "España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños",
+      "summary": "El Ministerio de Sanidad, en coordinación con Protección Civil, ha evacuado a cinco soldados ucranianos heridos con quemaduras leves durante la guerra.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Localizan en Almería un cadáver durante el operativo de búsqueda de un desaparecido",
       "summary": "Un miembro de la Unidad Canina de Búsqueda y Rescate Didugal , adscrita a Protección Civil de Olula del Río (Almería), ha localizado este jueves por la tarde en el municipio almeriense de Serón un cadáver durante las labores de búsqueda de un hombre desaparecido en Baza (Granada), si bien la identidad del fallecido no.",
@@ -59,13 +64,15 @@
       "title": "Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña",
       "summary": "La Generalitat ha activado en fase de alerta el Plan especial de emergencias por inundaciones de Cataluña ( Inuncat ) ante la previsión de chubascos y tormentas intensas durante la tarde y la noche de este jueves. El Servei Meteorològic de Cataluña (SMC) ha emitido avisos por posible superación de umbrales de peligro d.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "\"De puta madre, trabajando con maquinaria con riesgo de incendios; así nos va\": el 'Perejil', señalado desde el chat del incendio de Ávila",
-      "summary": "Los bomberos y voluntarios de Protección Civil se llevaron las manos a la cabeza al comprobar el origen del fuego provocado en Burgohondo. Admitieron que se sabía que los ganaderos habían encargado esos trabajos ilegales Leer.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños",
+      "url": "https://theobjective.com/internacional/2026-09-02/espana-soldados-ucranianos-heridos/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:53:41.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

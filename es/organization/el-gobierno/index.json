@@ -1,16 +1,41 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
+      "summary": "Cambio de tono. El Gobierno buscó este martes maquillar el evidente deterioro de su relación con Zarzuela, una situación que se lleva larvando durante años, pero que se ha exhibido con más nitidez en las últimas semanas al calor de la crisis migratoria de Ceuta. En Moncloa se afanan ahora por proyectar «total normalida.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
+      "summary": "El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía de Medio Ambiente un oficio con información sobre las actuaciones previas abiertas por un posible delito contra especies de fauna protegida , tras el disparo sufrido por Toñi , la orca (Orcinus orca) de mayor edad de la población del Estrecho.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
+      "summary": "El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?",
+      "summary": "El Gobierno defiende que debería haber tenido acceso a las conclusiones de ese atestado aportado a la Audiencia Nacional, mientras el partido que pidió investigar la entrada masiva sugiere que el ministro está ejerciendo una presión ilegal Marlaska pregunta al director de la Policía por el supuesto informe que atribuía.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
+      "summary": "Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Banca y operadores del juego pagarán 50 millones al año para financiar la nueva agencia antiblanqueo",
       "summary": "El Gobierno ultima una metamorfosis de su arquitectura antiblanqueo con un coste que no se cargará a los ciudadanos. El Ministerio de Economía anunció a finales de julio la creación de una nueva autoridad, la Autoridad Nacional de Integridad Financiera ( ANIFI ), que tendrá la misión de luchar contra el blanqueo de cap.",
@@ -35,52 +60,39 @@
       "title": "El Gobierno evita poner fecha a la visita del Rey a Ceuta y defiende que no es un \"reproche\" decir que lleva 20 años sin ir",
       "summary": "En el Gobierno han tenido que salir al paso este martes de las declaraciones de Pedro Sánchez respecto a la Monarquía después de que, en una entrevista en la Cadena Ser la...",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
-      "summary": "El Gobierno alemán ha señalado formalmente este martes a Rusia como responsable de un ataque con drones bomba en el aeropuerto de Leipzig. Pocos dudaban de la posible autoría rusa del atentado fallido del 4 de agosto que tenía como objetivo aviones de carga ucranios . Por la gravedad de la acusación, el Ejecutivo feder.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
-      "summary": "El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Ayuntamiento de Madrid y la Delegación del Gobierno se enzarzan por un trámite para la protesta por Ceuta",
-      "summary": "El Gobierno de Almeida había anunciado previamente que la manifestación había sido prohibida, cosa que ha negado Francisco Martín El Ayuntamiento de Madrid y la Delegación del Gobierno se han enzarzado a última hora de este martes por un trámite administrativo sobre la convocatoria del Consistorio de una concentración.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
-      "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Moncloa anuncia que ya hay 3.400 nuevas plazas disponibles para acoger a inmigrantes en Ceuta",
-      "summary": "El Gobierno ha anunciado que ya hay disponibles más de 3.400 nuevas plazas para acoger a inmigrantes en Ceuta . Además, el Ejecutivo ha cifrado en 3.519 los migrantes retornados hasta este lunes 31 de agosto desde la ciudad autónoma a Marruecos , en 214 los que han sido expulsados y ha aclarado que son 1.612 los menore.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Banca y operadores del juego pagarán 50 millones al año para financiar la nueva agencia antiblanqueo",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/banca-y-operadores-del-juego-pagaran-50-millones-al-ano-para-financiar-la-nueva-agencia-antiblanqueo.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
+      "url": "https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:29:18.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "El Gobierno hace autocrítica en privado por actuar \"tarde\" y por los excesos de Marlaska y Robles",
-      "url": "https://www.elmundo.es/espana/2026/09/01/6a9700b4e85ece5b578b45b9.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T20:44:01.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
+      "url": "https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:10:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "Guerra híbrida contra Europa",
-      "url": "https://elpais.com/opinion/2026-09-01/guerra-hibrida-contra-europa.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T19:15:51.000Z",
+      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
+      "url": "https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T11:06:18.000Z",
       "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?",
+      "url": "https://www.eldiario.es/politica/deberia-haber-informado-policia-marlaska-contenido-informes-pidio-jueza-ceuta_1_13481636.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:44:35.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
+      "url": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:05:50.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 5
 }

@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Anger over planned AI data center drives Missouri city’s voters to recall council member
+
+Voters in Independence, Missouri, voted to recall a city council member over his decision in March to back billions of dollars in tax breaks for an AI data center.
+
+Date: 2026-09-02
 
 ### From Trojan horses to AI-proof exams: how professors are tackling students’ AI use
 
@@ -62,17 +68,7 @@ Researchers today announced AdaptiveFlow, an AI-informed platform that can virtu
 
 Date: 2026-09-01
 
-### Developer ecosystem expanded
-
-Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI "civilizations." Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [From Trojan horses to AI-proof exams: how professors are tackling students’ AI use](https://www.nature.com/articles/d41586-026-02370-2?utm_source=lootura.com) — 2026-09-02T02:50:09.608Z
-- [When AI does science, who is accountable for mistakes?](https://www.nature.com/articles/d41586-026-02735-7?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
-- [Side of slop? Bizarre AI food images jump from online to IRL menus](https://www.nbcnews.com/tech/tech-news/side-slop-bizarre-ai-food-images-jump-online-irl-menus-rcna594786?utm_source=lootura.com) — 2026-09-01T18:00:41.000Z
-- [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
-- [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z
-- [Agentic AI accelerates search for crops that can harvest critical minerals](https://phys.org/news/2026-09-agentic-ai-crops-harvest-critical.html?utm_source=lootura.com) — 2026-09-02T01:00:05.000Z
+- [AI Efficiency Could Cost Us the Next Generation of Experts](https://spectrum.ieee.org/ai-engineer-skills?utm_source=lootura.com) — 2026-09-02T13:00:04.000Z
+- [Anger over planned AI data center drives Missouri city’s voters to recall council member](https://www.nbcnews.com/politics/elections/recall-vote-missouri-ai-data-center-rcna595690?utm_source=lootura.com) — 2026-09-02T14:59:09.000Z

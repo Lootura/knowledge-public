@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Prueba de fuego para Inditex, que cotiza cerca de récord](https://www.expansion.com/inversion/2026/09/02/6a970ae9468aeb4f2d8b4580.html?utm_source=lootura.com) — 2026-09-02T00:02:40.000Z
+No public source links.

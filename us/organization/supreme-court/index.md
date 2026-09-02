@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Who Approves Trump’s Washington Makeover Projects?
+
+The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+
+Date: 2026-09-02
 
 ### Springfield's Haitian community braces for deportations after protected status ends
 
@@ -62,13 +68,6 @@ A last-ditch filing this week came on behalf of a dog that a judge found to be �
 
 Date: 2026-08-14
 
-### Trump Administration Asks Supreme Court to Greenlight White House Ballroom
-
-The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president’s broader effort to remake Washington in his own style.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Why the Supreme Court's ballroom ruling could matter beyond the ballroom](https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers?utm_source=lootura.com) — 2026-09-01T11:00:41.000Z
-- [Springfield's Haitian community braces for deportations after protected status ends](https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com) — 2026-09-01T22:30:21.000Z
+- [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z

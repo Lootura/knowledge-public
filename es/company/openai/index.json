@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI",
+      "summary": "PabloLagarto/Shutterstock En julio de 2026, unos 1 200 agentes de inteligencia artificial de OpenAI encontraron una forma de comunicarse entre ellos, pese a que habían sido diseñados para trabajar de manera aislada. Según reconoce la compañía, durante sus evaluaciones internas de seguridad, descubrieron que las accione.",
+      "date": "2026-09-02"
+    },
     {
       "title": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas",
       "summary": "IBM y OpenAI han anunciado este jueves una alianza estratégica para facilitar a las empresas la implementación de inteligencia artificial a gran escala en sus operaciones, con especial énfasis en los servicios financieros, la administración pública, las telecomunicaciones y el mercado minorista. La alianza llega en un.",
@@ -57,13 +62,15 @@
       "title": "Discovered by Atlas",
       "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-15"
-    },
-    {
-      "title": "OpenAI lanza su primer hardware, aunque no es lo que imaginas",
-      "summary": "acaba de estrenar su primer producto de hardware. Pero todavía no te emociones con ver el dispositivo que la compañía está preparando junto a Jony Ive, que sería una suerte de altavoz inteligente . El lanzamiento de hoy es Codex Micro , una consola para programadores que ha desarrollado en colaboración con el fa.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI",
+      "url": "https://theconversation.com/miles-de-agentes-de-ia-deciden-unirse-para-un-ciberataque-masivo-por-sorpresa-el-reciente-caso-de-openai-290974?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:30:40.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

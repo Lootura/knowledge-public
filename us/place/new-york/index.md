@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -14,15 +14,15 @@ The New York Police Department made public the names of some of the people invol
 
 Date: 2026-09-02
 
-### DHS Secretary Mullin says thousands arrested in New York immigration operation
-
-During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
-
-Date: 2026-09-01
-
 ### Former President Joe Biden Will Attend Sept. 11 Ceremony in New York
 
 Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.
+
+Date: 2026-09-01
+
+### DHS Secretary Mullin says thousands arrested in New York immigration operation
+
+During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
 
 Date: 2026-09-01
 
@@ -70,5 +70,4 @@ Date: 2026-08-15
 
 ## Sources
 
-- [WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation](https://www.pbs.org/newshour/politics/watch-dhs-secretary-mullin-says-thousands-arrested-in-new-york-immigration-operation?utm_source=lootura.com) — 2026-09-01T18:09:50.000Z
 - [Former President Joe Biden Will Attend Sept. 11 Ceremony in New York](https://www.nytimes.com/2026/09/01/us/politics/biden-sept-11-ceremony.html?utm_source=lootura.com) — 2026-09-01T23:50:54.000Z

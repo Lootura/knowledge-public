@@ -3,7 +3,7 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [The amazing USB-C gadgets that play old Nintendo cartridges](https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes?utm_source=lootura.com) — 2026-09-02T11:30:00.000Z

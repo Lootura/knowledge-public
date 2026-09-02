@@ -3,7 +3,7 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
@@ -14,65 +14,69 @@ Las derechas unen fuerzas en el arranque del curso político para movilizar la c
 
 Date: 2026-09-02
 
-### Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroquíes la entrada de migrantes en Ceuta
+### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
 
-El titular de Interior exige conocer la "veracidad" del mismo y desde cuándo disponía la Policía de esa investigación para poder "ejercer" su "responsabilidad" como ministro y "el Gobierno pueda adoptar las decisiones oportunas en relación con la crisis migratoria de Ceuta" El PP convierte las movilizaciones por Ceuta.
-
-Date: 2026-09-02
-
-### El aperitivo ceutí
-
-PP y Vox buscan escalar la protesta por la situación de Ceuta más allá de la ciudad autónoma. Este miércoles, las plazas de ayuntamientos de toda España están llamados a convertirse en escenario de concentraciones de apoyo, coincidiendo con el Día de Ceuta, en una iniciativa de la Federación Española de Municipios y Pr.
+El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
 
 Date: 2026-09-02
 
-### El PP pide la dimisión de Marlaska al decir que no conocía un informe policial sobre Ceuta
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
 
-El PP ha pedido este miércoles la dimisión del ministro del Interior, Fernando Grande-Marlaska , tras acusarlo de mentir por decir que no conocía un informe de la Policía que advertía de la llegada masiva de inmigrantes a Ceuta a finales de julio. «Hoy Marlaska se hace el sorprendido con un informe de la Policía que ad.
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
 
 Date: 2026-09-02
 
-### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
+### El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política del PP
 
-El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.
+El comisario principal David Agorreta dirige el Centro Nacional de Inmigración y Fronteras desde 2015, a donde llegó tras haber ejercido como asesor jurídico de Eugenio Pino durante la primera legislatura de Mariano Rajoy Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroqu.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord
+### Moreno firmó un convenio "estable en el tiempo" con Ceuta para agilizar el traslado de menores ante "crisis migratorias"
 
-El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
+El acuerdo, suscrito en 2021 y renovado en 2024, está "en activo y desarrollándose", pero el PP cuestiona ahora que sirva para dar respuesta a la actual crisis en Ceuta porque no lo considera una "contingencia migratoria", sino un "atentado organizado contra la integridad territorial". Vox exige a su socio el rechazo d.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entre un 29% de sus votos a un Vivas de récord
+### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
 
-El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
+El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta
+### Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país
 
-La Federación de Municipios y Provincias ha convocado para esta tarde a las 20 horas concentraciones frente a todas las sedes municipales de España en apoyo de Ceuta, que, precisamente, hoy celebra su día. Seguir leyendo...
+El líder del PP pide llamar a consultas al embajador español para determinar las respuestas contra Rabat mientras reclama la convocatoria de elecciones generales y "darle al pueblo voz" El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política d.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
+### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
 
-Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
+Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
+### Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora
 
-PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
+Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conocerse el informe elaborado por la Policía Nacional que, según El Español , apuntaría a Marruecos como responsable de la entrada masiva de más de 70.000 inmigrantes a Ceuta a finales de julio. En este sentido, el líder del PP, quien ha señalado q.
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo
+
+La diputada del PP en la Junta General del Principado de Asturias (JGPA) Beatriz Polledo ha exigido al Gobierno presidido por el socialista Adrián Barbón que salga «inmediatamente» a dar explicaciones sobre lo ocurrido con el piso de La Florida, en Oviedo, que el Principado llegó a plantear como recurso para acoger a m.
+
+Date: 2026-09-02
 
 ## Fuentes
 
-- [Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»](https://www.diariovasco.com/politica/zupiria-alerta-protestas-euskadi-crisis-migratoria-ceuta-20260901110414-nt_amp.html?utm_source=lootura.com) — 2026-09-01T09:04:56.000Z
-- [El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord](https://www.elmundo.es/espana/encuestas/2026/09/01/6a9718dce85eceb0388b4599.html?utm_source=lootura.com) — 2026-09-01T20:44:10.000Z
+- [Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"](https://www.20minutos.es/nacional/feijoo-pide-convocar-embajadora-marruecos-adelantar-elecciones-nos-han-mentido-cara_7032032_0.html?utm_source=lootura.com) — 2026-09-02T13:04:05.000Z
+- [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
 - [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
-- [Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroquíes la entrada de migrantes en Ceuta](https://www.eldiario.es/politica/marlaska-pregunta-director-policia-supuesto-informe-atribuia-fuerzas-marroquies-entrada-migrantes-ceuta_1_13481015.html?utm_source=lootura.com) — 2026-09-02T05:58:53.000Z
-- [El aperitivo ceutí](https://www.lavanguardia.com/politica/20260902/11624995/aperitivo-ceuti.html?utm_source=lootura.com) — 2026-09-02T04:00:00.000Z
-- [El PP pide la dimisión de Marlaska al decir que no conocía un informe policial sobre Ceuta](https://theobjective.com/espana/politica/2026-09-02/pp-dimision-marlaska-informe-policial-ceuta/?utm_source=lootura.com) — 2026-09-02T08:15:00.000Z
+- [El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política del PP](https://www.eldiario.es/politica/cenif-unidad-informe-ceuta-agentes-terreno-dirige-antiguo-asesor-jefe-brigada-politica-pp_1_13481662.html?utm_source=lootura.com) — 2026-09-02T10:46:21.000Z
+- [Moreno firmó un convenio "estable en el tiempo" con Ceuta para agilizar el traslado de menores ante "crisis migratorias"](https://www.eldiario.es/andalucia/moreno-firmo-convenio-estable-tiempo-ceuta-agilizar-traslado-menores-crisis-migratorias_1_13481731.html?utm_source=lootura.com) — 2026-09-02T12:06:20.000Z
+- [La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez](https://www.eldiario.es/extremadura/politica/concentracion-apoyo-ceuta-impulsada-alcalde-merida-psoe-acaba-gritos-pedro-sanchez_1_13481934.html?utm_source=lootura.com) — 2026-09-02T11:13:52.000Z
+- [Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país](https://www.eldiario.es/politica/feijoo-acusa-marruecos-ataque-frontera-ceuta-pide-gobierno-tome-medidas-pais_1_13482453.html?utm_source=lootura.com) — 2026-09-02T12:42:09.000Z
+- [El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara](https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com) — 2026-09-02T13:38:39.000Z
+- [Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora](https://www.lavanguardia.com/politica/20260902/11625566/feijoo-exige-sanchez-convoque-embajadora-marruecos-informe-policia.html?utm_source=lootura.com) — 2026-09-02T12:16:24.000Z
+- [El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo](https://theobjective.com/espana/politica/2026-09-02/pp-barbon-corrupcion-piso-menas-oviedo/?utm_source=lootura.com) — 2026-09-02T15:21:16.000Z

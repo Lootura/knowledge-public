@@ -3,10 +3,28 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
+
+El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.
+
+Date: 2026-09-02
+
+### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
+
+Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
+
+Date: 2026-09-02
+
+### Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple
+
+En un documento presentado ante la Comisión de Bolsa y Valores el primer día de John Ternus a los mandos de Apple, la tecnológica desveló los salarios y paquetes de compensación que recibirán el nuevo CEO y Tim Cook en su nuevo puesto como presidente ejecutivo. Seguir leyendo.
+
+Date: 2026-09-02
 
 ### Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook
 
@@ -50,24 +68,8 @@ El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim C
 
 Date: 2026-08-31
 
-### Samsung ya trabaja en su propia alternativa a los AirPods Max de Apple
-
-El proyecto Galaxy H1 aparece en el código de Galaxy Wearable y podría llegar a comienzos de 2027, aunque sus principales características siguen sin cerrarse.
-
-Date: 2026-08-13
-
-### ¿Decepción con el iPhone Ultra? El plegable de Apple podría lanzarse solo en un país
-
-El lanzamiento del iPhone Ultra podría ser un tanto decepcionante y no por las características técnicas o el precio del dispositivo, sino por su acotada disponibilidad inicial. Según un reporte publicado por un portal australiano (vía 9to5Mac ), el primer iPhone plegable podría lanzarse solamente en un país . El despli.
-
-Date: 2026-08-13
-
-### Xiaomi muestra por sorpresa su próximo móvil: que tiemblen Apple y Samsung con sus plegables
-
-Xiaomi acaba de dejarnos con la boca abierta de par en par. La compañía estaba pasando un verano bastante tranquilo, sin anuncios importantes y dejando pasar el tiempo para comenzar la temporada con fuerza. Pues bien, de la nada, ha publicado una imagen sobre HyperOS 4 que está lejos de pasar desapercibida. En ella se.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus](https://elpais.com/economia/2026-09-02/apple-aprueba-una-retribucion-en-acciones-de-55-millones-de-dolares-para-su-nuevo-ceo.html?utm_source=lootura.com) — 2026-09-02T11:07:43.000Z
+- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z
+- [Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple](https://www.expansion.com/economia-digital/companias/2026/09/02/6a97e3e3e5fdeae3298b459e.html?utm_source=lootura.com) — 2026-09-02T09:16:42.000Z

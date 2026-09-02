@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ariana-grande/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ariana-grande/index.json",
   "description": "Follow Ariana Grande, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T12:41:57.936Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [
     "Ariana",
     "Grande"
   ],
   "changes": [
+    {
+      "title": "Ariana Grande tearfully ends 41-show tour and steps back from public life",
+      "summary": "A teary and visibly emotional Ariana Grande bid farewell to her fans as her 41 show tour concluded in London and she began her planned withdrawal from public life.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Is it OK to talk about Ariana Grande’s body? There is no right answer",
       "summary": "I wish I could say that expressing concern for the pop star’s health is helpful – but I know from experience it’s not that simple The last time I opened X, a photo of Ariana Grande leaning over in a low-cut black dress, clavicle showing, was at the top of the feed. The post read: “hey @grok make Ariana Grande healthy a.",
@@ -40,6 +45,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ariana Grande tearfully ends 41-show tour and steps back from public life",
+      "url": "https://www.nbcnews.com/news/us-news/ariana-grande-ends-tour-prepares-step-back-public-life-scrutiny-rcna595669?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T12:48:36.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

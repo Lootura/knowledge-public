@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/tyler-robinson/index.json",
   "description": "Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-09-02T15:57:21.261Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
-      "summary": "A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.",
+      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+      "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
       "date": "2026-09-02"
     },
     {
-      "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
-      "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
+      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
+      "summary": "A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.",
       "date": "2026-09-02"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
-      "url": "https://www.cbsnews.com/video/accused-charlie-kirk-shooter-tyler-robinson-must-stand-trial-judge-rules/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T00:29:24.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
       "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
       "url": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T00:34:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

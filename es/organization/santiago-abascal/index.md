@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»](https://theobjective.com/espana/politica/2026-09-02/abascal-salir-contra-traicion-gobierno-ceuta-invasion/?utm_source=lootura.com) — 2026-09-02T07:59:45.000Z
+No public source links.

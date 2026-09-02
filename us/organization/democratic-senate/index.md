@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [Progressive victory in Massachusetts as Markey sweeps Democratic Senate primary](https://www.cbsnews.com/video/progressive-victory-in-massachusetts-as-markey-sweeps-democratic-primary/?utm_source=lootura.com) — 2026-09-02T15:04:00.000Z

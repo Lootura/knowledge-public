@@ -3,10 +3,16 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-08T01:21:06.150Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
+
+Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.
+
+Date: 2026-09-02
 
 ### España, en almoneda por el Pegasus a Sánchez
 
@@ -58,4 +64,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara](https://www.lavanguardia.com/politica/20260902/11625542/pp-vox-unen-fuerzas-sanchez-concentracion-ceuta-frente-eurocamara.html?utm_source=lootura.com) — 2026-09-02T13:38:39.000Z

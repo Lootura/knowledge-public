@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
+
+El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.
+
+Date: 2026-09-02
 
 ### Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo
 
@@ -62,12 +68,6 @@ Ante la fragilidad de sus reservas de combustible, Canberra busca nuevas fuentes
 
 Date: 2026-08-13
 
-### El Gobierno agota su última bala para contener la subida del carburante y Ormuz aboca a renegociar otro plan anticrisis a la vuelta del verano
-
-La guerra en Oriente Próximo ha sobrepasado el calendario previsto por el Gobierno para desescalar las medidas de alivio frente al aumento de precios que activó en marzo por la...
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T07:15:21.000Z
+- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T13:33:14.000Z

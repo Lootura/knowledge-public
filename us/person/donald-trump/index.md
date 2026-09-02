@@ -3,7 +3,7 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
@@ -20,63 +20,63 @@ The announcement came amid a purge of leadership at the Pentagon and a stalling 
 
 Date: 2026-09-02
 
-### U.S. military strikes Iran, while Trump vows more for Tehran's retaliation
+### ICE detainee dies just hours after he was admitted into detention
 
-The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war. (Image credit: Amirhosein Khorgooi).
-
-Date: 2026-09-02
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
+Lianyong Wei's death marks the 57th death of an immigrant detainee held in the care of the government since the start of President Trump's second term. Twenty-four of those have occurred since Jan. 1. (Image credit: Heather Diehl).
 
 Date: 2026-09-02
 
-### How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump
+### Trump attempts to combat high gas prices as affordability crisis looms over midterms
 
-The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.
+President Trump seems to be pulling out all the stops to mitigate high gas prices ahead of the midterms.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms
+### Political consultant on how the cost-of-living is affecting Trump's approval rating
 
-A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.
+NPR's Steve Inskeep speaks with political consultant Sarah Longwell about Trump's low approval rating and high gas prices, as affordability shadows the approaching midterm election.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?
+### Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters
 
-President Trump framed last week's deal for the U.S. government to take a stake in Venezuelan oil as a boon for the depleted Strategic Petroleum Reserve. But the plan faces some hurdles, experts say.
+Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters lead image.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Funding milestone detected
+### Republicans aren’t exactly flocking to Trump’s midterm convention
 
-The legislation, which already passed the Senate, now goes to President Donald Trump to become law, checking off the main item on Congress’ to-do list ahead of the midterms.
+President Donald Trump has a vision for next week’s GOP convention in Dallas: a televised spectacle putting Republican candidates in front of midterm voters and top party donors just two months before the Election Day — with Trump himself headlining the show. But a POLITICO survey of more than 70 GOP candidates and mem.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### ICE says it has enough body cameras now, after series of deadly shootings
+### Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture
 
-Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration. (Image credit: Michael M. Santiago).
+The towering artwork, added to the campus in 2019, was targeted for elimination after President Trump’s takeover of the center.
 
-Date: 2026-09-01
+Date: 2026-09-02
 
-### Trump's pro-data center stance is putting pressure on Republicans ahead of midterms
+### On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent
 
-Trump's pro-data center stance is out of step with voters. Republicans are trying to navigate the issue but it's putting them at odds with the president's AI agenda.
+Chief Justice John G. Roberts Jr. has been in the majority in divided cases more times than any other chief since 1953. But not this time.
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
+
+President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict.
+
+Date: 2026-09-02
 
 ## Sources
 
-- [Trump says Venezuelan oil could replenish depleted U.S. stockpiles. Will it?](https://www.cbsnews.com/news/trump-venezuelan-oil-depleted-strategic-petroleum-reserve/?utm_source=lootura.com) — 2026-09-01T22:08:58.000Z
 - [Here are the military officials who've been fired or resigned under Hegseth](https://www.cbsnews.com/news/military-leaders-fired-forced-out-resigned-hegseth-defense-secretary-trump-pentagon/?utm_source=lootura.com) — 2026-09-02T01:43:00.000Z
-- [House passes short-term funding bill to prevent a shutdown before the election](https://www.nbcnews.com/politics/congress/house-votes-pass-short-term-funding-bill-prevent-shutdown-election-rcna595350?utm_source=lootura.com) — 2026-09-01T18:06:15.000Z
-- [ICE says it has enough body cameras now, after series of deadly shootings](https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration?utm_source=lootura.com) — 2026-09-01T17:52:37.000Z
-- [Trump's pro-data center stance is putting pressure on Republicans ahead of midterms](https://www.npr.org/2026/09/01/nx-s1-5950441/trumps-pro-data-center-stance-is-putting-pressure-on-republicans-ahead-of-midterms?utm_source=lootura.com) — 2026-09-01T20:22:34.000Z
-- [U.S. military strikes Iran, while Trump vows more for Tehran's retaliation](https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war?utm_source=lootura.com) — 2026-09-02T06:15:11.000Z
-- [Springfield's Haitian community braces for deportations after protected status ends](https://www.pbs.org/newshour/show/springfields-haitian-community-braces-for-deportations-after-protected-status-ends?utm_source=lootura.com) — 2026-09-01T22:30:21.000Z
-- [Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html?utm_source=lootura.com) — 2026-09-01T16:09:41.000Z
-- [What to Know About Venezuelan Energy Following Trump’s Oil Deal](https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html?utm_source=lootura.com) — 2026-09-01T17:54:05.000Z
-- [Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently](https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html?utm_source=lootura.com) — 2026-09-01T22:03:00.000Z
+- [ICE detainee dies just hours after he was admitted into detention](https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z
+- [Trump attempts to combat high gas prices as affordability crisis looms over midterms](https://www.npr.org/2026/09/02/nx-s1-5951976/trump-attempts-to-combat-high-gas-prices-as-affordability-crisis-looms-over-midterms?utm_source=lootura.com) — 2026-09-02T08:42:26.000Z
+- [Political consultant on how the cost-of-living is affecting Trump's approval rating](https://www.npr.org/2026/09/02/nx-s1-5951679/political-consultant-on-how-the-cost-of-living-is-affecting-trumps-approval-rating?utm_source=lootura.com) — 2026-09-02T08:41:54.000Z
+- [Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters](https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z
+- [Republicans aren’t exactly flocking to Trump’s midterm convention](https://www.politico.com/news/2026/09/02/gop-midterm-convention-attendance-01061286?utm_source=lootura.com) — 2026-09-02T08:45:00.000Z
+- [Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html?utm_source=lootura.com) — 2026-09-02T15:21:18.000Z
+- [On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html?utm_source=lootura.com) — 2026-09-02T15:43:03.000Z
+- [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T14:00:47.000Z
+- [Trump to Nominate Hung Cao as Navy Secretary](https://www.nytimes.com/2026/09/01/us/politics/trump-navy-secretary-hung-cao.html?utm_source=lootura.com) — 2026-09-02T14:25:09.000Z

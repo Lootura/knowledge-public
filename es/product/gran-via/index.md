@@ -3,10 +3,16 @@
 > Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/product/gran-via
 
 ## Cambios recientes
+
+### Telefónica cierra la venta de su histórica sede en Gran Vía a Tomás Olivo por 200 millones
+
+Telefónica finalmente se desprende de su primera e histórica sede en el número 28 de Gran Vía. La operadora de telecomunicaciones escrituró este martes la venta al empresario inmobiliario Tomás Olivo por 200 millones de euros, avanzan en exclusiva a CincoDías fuentes conocedoras de la transacción. Seguir leyendo.
+
+Date: 2026-09-02
 
 ### Un párroco dando misa, dependientes en la Gran Vía y otros miles de trabajadores que se perdieron el eclipse: “Atendemos siempre a quien venga”
 
@@ -46,4 +52,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Telefónica cierra la venta de su histórica sede en Gran Vía a Tomás Olivo por 200 millones](https://cincodias.elpais.com/companias/2026-09-02/telefonica-cierra-la-venta-de-su-historica-sede-en-gran-via-a-tomas-olivo-por-mas-de-200-millones.html?utm_source=lootura.com) — 2026-09-02T12:35:38.000Z

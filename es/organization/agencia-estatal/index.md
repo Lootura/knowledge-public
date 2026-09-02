@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor
+
+Las lluvias, las tormentas y el calor ponen este miércoles en aviso a ocho comunidades autónomas , según la predicción de la Agencia Estatal de Meteorología (Aemet). La situación más destacada se encuentra en Andalucía, donde Córdoba, Jaén y Sevilla alcanzan el nivel naranja por altas temperaturas . Además, los avisos.
+
+Date: 2026-09-02
 
 ### La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta
 
@@ -46,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta](https://www.abc.es/sociedad/aemet-avisa-regreso-calor-extremo-espana-grados-20260902091117-nt.html?utm_source=lootura.com) — 2026-09-02T07:25:08.000Z
+- [El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor](https://www.elconfidencial.com/espana/2026-09-02/aviso-naranja-aemet-calor-lluvias_4416342/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z

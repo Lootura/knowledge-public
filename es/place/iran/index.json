@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -19,23 +19,28 @@
   ],
   "changes": [
     {
-      "title": "Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo",
-      "summary": "La cautela sobre los tipos de interés y los nuevos ataques contra Irán mantienen a los inversores mayoritariamente al margen del riesgo. Los bonos retroceden (y suben sus rentabilidades) ante la reanudación de los combates en Oriente Próximo, tras el lanzamiento por parte de EE UU de una ofensiva contra el Cuerpo de la.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas",
       "summary": "Irán respondió así a los bombardeos estadounidenses lanzados este martes, en lo que supone el segundo ataque en menos de 48 horas, después de un mes sin que trascendieran nuevas agresiones cruzadas entre ambos países Leer.",
       "date": "2026-09-02"
     },
     {
-      "title": "Marruecos: la grieta que rompe la política exterior de Sánchez",
-      "summary": "La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.",
+      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
       "date": "2026-09-02"
     },
     {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
+      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
+      "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo",
+      "summary": "La cautela sobre los tipos de interés y los nuevos ataques contra Irán mantienen a los inversores mayoritariamente al margen del riesgo. Los bonos retroceden (y suben sus rentabilidades) ante la reanudación de los combates en Oriente Próximo, tras el lanzamiento por parte de EE UU de una ofensiva contra el Cuerpo de la.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Marruecos: la grieta que rompe la política exterior de Sánchez",
+      "summary": "La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.",
       "date": "2026-09-02"
     },
     {
@@ -62,18 +67,13 @@
       "title": "Irán responde al ataque de EE.UU. con una oleada de misiles contra sus bases militares en Jordania",
       "summary": "La Guardia Revolucionaria de Irán ha respondido con fuerza a los bombardeos llevados a cabo por el Ejército de EE.UU. contra territorio persa. Este martes, tras proclamar venganza por los, al menos, cuatro muertos y más de 50 heridos por el último ataque estadounidense, la república islámica ha lanzado una nueva oleada.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Al menos cuatro muertos tras los ataques de EE.UU. contra Irán en represalia por bombardeos en Ormuz",
-      "summary": "La república islámica ha respondido con una oleada de misiles balísticos contra bases estadounidenses en Jordania.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Cautela en las Bolsas por el alza de los tipos de la deuda y el petróleo",
+      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
       "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T07:15:21.000Z",
+      "publishedAt": "2026-09-02T13:33:14.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -83,17 +83,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Marruecos: la grieta que rompe la política exterior de Sánchez",
-      "url": "https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T06:00:21.000Z",
-      "sourceId": "lootura-es-el-orden-mundial"
-    },
-    {
       "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
       "url": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T02:45:54.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

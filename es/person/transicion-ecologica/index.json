@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/transicion-ecologica/index.json",
   "description": "Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Demográfico",
     "Ecológica",
@@ -22,6 +22,11 @@
     "Transición Ecológica"
   ],
   "changes": [
+    {
+      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
+      "summary": "El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía de Medio Ambiente un oficio con información sobre las actuaciones previas abiertas por un posible delito contra especies de fauna protegida , tras el disparo sufrido por Toñi , la orca (Orcinus orca) de mayor edad de la población del Estrecho.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Sumar rechaza la prórroga de la planta de Almaraz y acusa al PSOE de incumplir los acuerdos de gobierno",
       "summary": "La orden del Ministerio para la Transición Ecológica que prórroga el funcionamiento de la central nuclear de Almaraz (Cáceres) hasta 2030, publicada este viernes en el Boletín Oficial del Estado (BOE), ha provocado un aluvión de reacciones y una fractura en el Gobierno. El socio minoritario del Ejecutivo, Sumar, ha sid.",
@@ -66,13 +71,15 @@
       "title": "Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones",
       "summary": "La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al tumbar la estrategia de defensa del Ejecutivo español en la batalla judicial por evitar pagar las indemnizaciones por los impagos a las renovables de Teresa Ribera y Sara Aagesen , su sustituta en el Ministerio de Transición Ecológica. El Tr.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Precio de la gasolina hoy 10 de agosto: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",
-      "summary": "Con el arranque de la semana, muchos serán los coches que se muevan por las carreteras andaluzas ya sea para un desplazamiento vacacional o porque estás trabajando durante el mes de agosto, de modo que será bueno saber qué marca hoy el Geoportal del Ministerio para la Transición Ecológica en cuanto al precio de la gaso.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil",
+      "url": "https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:10:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

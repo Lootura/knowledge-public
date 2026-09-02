@@ -64,5 +64,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [House censures Rep. Chuck Edwards over "inappropriate conduct" toward aides](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/?utm_source=lootura.com) — 2026-09-01T22:17:00.000Z
-- [North Carolina Rep. Chuck Edwards is formally censured over harassment allegations](https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote?utm_source=lootura.com) — 2026-09-01T22:18:20.000Z
+No public source links.

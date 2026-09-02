@@ -3,7 +3,7 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### House votes to condemn socialism, with 8 Democrats joining Republicans
 
 GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.
+
+Date: 2026-09-02
+
+### Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?
+
+For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.
 
 Date: 2026-09-02
 
@@ -62,13 +68,7 @@ NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter j
 
 Date: 2026-08-31
 
-### Poll: Working class voters are still up for grabs
-
-Republicans and Democrats are fighting over working class voters. Americans don’t believe the rhetoric. Fifty-five percent of Americans think politicians are just trying to win votes when they say they will help the working class, according to new results from The POLITICO Poll. It’s a view held by majorities of people.
-
-Date: 2026-08-31
-
 ## Sources
 
 - [House votes to condemn socialism, with 8 Democrats joining Republicans](https://www.cbsnews.com/news/house-vote-condemns-socialism-supports-save-act/?utm_source=lootura.com) — 2026-09-02T00:49:00.000Z
-- [A N.Y. hospital tried to close its birthing center. This city united to fight back](https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+- [Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com) — 2026-09-02T13:11:07.000Z

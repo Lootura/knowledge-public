@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -14,11 +14,29 @@ Las derechas unen fuerzas en el arranque del curso político para movilizar la c
 
 Date: 2026-09-02
 
-### Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía
+### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
 
-La convocatoria de Madrid en formato de acto institucional, se mantiene pese a la no autorización por parte de la Delegación del Gobierno como manifestación Leer.
+El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
 
-Date: 2026-09-01
+Date: 2026-09-02
+
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
+
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
+
+### Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país
+
+El líder del PP pide llamar a consultas al embajador español para determinar las respuestas contra Rabat mientras reclama la convocatoria de elecciones generales y "darle al pueblo voz" El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política d.
+
+Date: 2026-09-02
+
+### Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora
+
+Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conocerse el informe elaborado por la Policía Nacional que, según El Español , apuntaría a Marruecos como responsable de la entrada masiva de más de 70.000 inmigrantes a Ceuta a finales de julio. En este sentido, el líder del PP, quien ha señalado q.
+
+Date: 2026-09-02
 
 ### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
 
@@ -50,25 +68,10 @@ Alberto Núñez Feijóo consolida su posición como el dirigente político mejor
 
 Date: 2026-08-10
 
-### El Senado exige por carta al Gobierno que rinda cuentas sobre la invasión de Ceuta tras negarse «por falta de tiempo»
-
-El presidente del Senado, Pedro Rollán , ha dirigido una carta al secretario de Estado de Relaciones con las Cortes, Rafael Simancas , en la que expresa la disconformidad ante la negativa del Gobierno a comparecer en la Cámara Alta para dar explicaciones por la invasión migratoria de Ceuta . El partido de Alberto Núñez.
-
-Date: 2026-08-09
-
-### El PP fuerza un debate en el Parlamento Europeo mañana sobre la crisis de Ceuta
-
-El PP continúa con la presión en Europa hacia el Gobierno por la crisis de Ceuta, en la que entraron más de 70.000 inmigrantes procedentes de Marruecos. En este sentido, el partido de Alberto Núñez Feijóo ha forzado un debate en el Parlamento Europeo para este mismo jueves sobre esta cuestión. Seguir leyendo...
-
-Date: 2026-08-05
-
-### Feijóo busca una respuesta europea a la política migratoria y diplomática de Sánchez en la reunión de los ”27” por Ceuta
-
-Alberto Núñez Feijóo quiere aprovechar su influencia en Europa para orientar a los países europeos que se reúnen este martes para abordar la crisis de Ceuta para que den una respuesta a la política migratoria y diplomática de Pedro Sánchez. “Pone en peligro la soberanía nacional y europea”, señala una carta enviada por.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Feijóo y Abascal juntos en la calle tres años después de las concentraciones por la amnistía](https://www.elmundo.es/espana/2026/09/02/6a972b98fc6c835a738b4581.html?utm_source=lootura.com) — 2026-09-01T23:32:39.000Z
+- [Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"](https://www.20minutos.es/nacional/feijoo-pide-convocar-embajadora-marruecos-adelantar-elecciones-nos-han-mentido-cara_7032032_0.html?utm_source=lootura.com) — 2026-09-02T13:04:05.000Z
+- [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
 - [Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
+- [Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país](https://www.eldiario.es/politica/feijoo-acusa-marruecos-ataque-frontera-ceuta-pide-gobierno-tome-medidas-pais_1_13482453.html?utm_source=lootura.com) — 2026-09-02T12:42:09.000Z
+- [Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora](https://www.lavanguardia.com/politica/20260902/11625566/feijoo-exige-sanchez-convoque-embajadora-marruecos-informe-policia.html?utm_source=lootura.com) — 2026-09-02T12:16:24.000Z

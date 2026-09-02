@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
+
+El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de "impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.
+
+Date: 2026-09-02
 
 ### Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN
 
@@ -62,12 +68,6 @@ En verano de 1992 , mientras Barcelona celebraba sus Juegos Olímpicos y proyect
 
 Date: 2026-09-01
 
-### El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història
-
-Barcelona conserva receptes que formen part de la seva memòria gastronòmica , però algunes han quedat tan arraconades que avui gairebé ningú les coneix. És el cas de l’encasada , també anomenada enquesada, un dolç tradicional barceloní que a començaments del segle XX era prou popular per aparèixer en àpats destacats de.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN](https://www.larazon.es/television/programas-tv/barcelonareal-madrid-primer-clasico-mourinho-tiene-fecha-hora-vera-dazn_202609026a97d9e53bfe5d1eff400e09.html?utm_source=lootura.com) — 2026-09-02T08:10:13.000Z
+- [Illa y Collboni viajan a Kiev en plena escalada de ataques rusos](https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com) — 2026-09-02T15:32:41.000Z

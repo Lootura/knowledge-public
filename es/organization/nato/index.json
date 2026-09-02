@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»",
+      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, y el secretario general de la OTAN, Mark Rutte, han celebrado una reunión en Bruselas como reacción al ataque de drone s atribuidos a Rusia en el aeropuerto de la ciudad alemana de Leipzig. Von der Leyen ha hablado claramente de «un ataque usando material mili.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Marruecos: la grieta que rompe la política exterior de Sánchez",
       "summary": "La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.",
@@ -59,26 +64,15 @@
       "title": "De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump",
       "summary": "Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Trump usó el Air Force One como señuelo y se escondió en un camión para cambiar de avión por las amenazas de Irán",
-      "summary": "El mundo llevaba semanas creyendo que conocía todos los detalles de uno de los desplazamientos más delicados de Donald Trump durante la guerra con Irán. Las imágenes parecían claras: el pasado 8 de julio presidente subía al antiguo Air Force One en Ankara tras acabar la cumbre de la OTAN, saludaba a las cámaras y despe.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [
     {
-      "title": "Alemania acusa a Rusia del intento de atentado con un dron cargado de explosivos en Leipzig",
-      "url": "https://www.elmundo.es/internacional/2026/09/01/6a96f561e4d4d8f7238b4578.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T18:16:04.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Marruecos: la grieta que rompe la política exterior de Sánchez",
-      "url": "https://elordenmundial.com/marruecos-politica-exterior-sanchez-espana-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T06:00:21.000Z",
-      "sourceId": "lootura-es-el-orden-mundial"
+      "title": "La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»",
+      "url": "https://www.abc.es/internacional/ue-considera-ataque-hibrido-leipzig-terrorismo-patrocinado-20260902125326-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:39:44.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

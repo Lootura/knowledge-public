@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Sources
 
-- [Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots](https://www.pbs.org/newshour/show/whistleblower-warns-usps-rushing-new-system-that-could-jeopardize-mail-in-ballots?utm_source=lootura.com) — 2026-09-01T22:55:44.000Z
+No public source links.

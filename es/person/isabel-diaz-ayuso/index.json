@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso visitó el ático tras su compra por la Comunidad de Madrid",
+      "summary": "La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
+      "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
+      "date": "2026-09-02"
+    },
     {
       "title": "El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, no ha tardado en responder a la decisión de la Delegación del Gobierno en Madrid de no autorizar la concentración de apoyo a Ceuta de este miércoles, salvo que sea convocada «bajo la consideración de acto institucional o que la convoque un particular» «No tien.",
@@ -54,18 +64,21 @@
       "title": "La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático",
       "summary": "El inicio de curso político en septiembre puede convertirse en un verdadero via crucis para Isabel Díaz Ayuso a cuenta del polémico ático adquirido y luego puesto en venta por la Comunidad de Madrid. La falta de explicaciones claras ha complicado el verano de Ayuso y amenaza con dinamitar su vuelta al trabajo dentro de.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "El Ayuntamiento de Madrid cree que es «buena iniciativa» que la Comunidad venda el ático",
-      "summary": "La vicealcaldesa de Madrid , Inma Sanz, cree que la presidenta la Comunidad, Isabel Díaz Ayuso, ya ha dado «explicaciones» sobre la adquisición de un ático de Chamberí por parte de su Gobierno y le parece una «buena iniciativa» venderlo para cubrir las consecuencias de los incendios . «Yo creo que la Comunidad de Madri.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El Gobierno acusa a Ayuso de alejarse de los madrileños con «áticos» y «pelotazos»",
-      "summary": "El delegado del Gobierno en Madrid , Francisco Martín , ha cargado este domingo contra la presidenta de la Comunidad, la popular Isabel Díaz Ayuso , a cuenta del ático que su Gobierno había adquirido en frente de la vivienda de su madre en el barrio de Chamberí. El político del PSOE ha insistido en que «los áticos , la.",
-      "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso visitó el ático tras su compra por la Comunidad de Madrid",
+      "url": "https://www.lavanguardia.com/politica/20260902/11625701/ayuso-visito-atico-chamberi-compra-comunidad-madrid.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:00:57.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
+      "url": "https://theobjective.com/espana/politica/2026-09-02/oscar-lopez-exige-dimision-ayuso-ocultar-visita-atico/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:23:33.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

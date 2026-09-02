@@ -3,20 +3,50 @@
 > Sigue la actividad de Fernando Grande en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-grande
 
 ## Cambios recientes
 
-### Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta
-
-Última hora de la crisis en Ceuta, en directo Manifestaciones por Ceuta en España: horarios y lugares Manifestación en apoyo a Ceuta en Madrid hoy: horario, lugar y cortes El informe policial complica la defensa de Marruecos que Sánchez preparaba para el Congreso El ministro del Interior, Fernando Grande-Marlaska , se.
-
-Date: 2026-09-02
-
 ### Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta
 
 Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...
+
+Date: 2026-09-02
+
+### Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación
+
+El Ministerio del Interior niega la existencia de un informe policial que implique a autoridades policiales marroquíes en la entrada masiva de migrantes en Ceuta. En un comunicado, la cartera de Fernando Grande-Marlaska asegura que así se lo ha transmitido al ministro el director general de la Policía Nacional, Francis.
+
+Date: 2026-09-02
+
+### Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos
+
+El Ministerio del Interior sigue sosteniendo que el informe de la Policía Nacional sobre la invasión de Ceuta no vincula la avalancha con la actuación de las autoridades de Marruecos, según informan fuentes del área de Fernando Grande-Marlaska. La juez de la Audiencia Nacional Ana María Tardón ha aceptado la solicitud.
+
+Date: 2026-09-02
+
+### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
+
+El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
+
+Date: 2026-09-02
+
+### El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria
+
+El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.
+
+Date: 2026-09-02
+
+### El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta
+
+El director general de la Policía Nacional, Francisco Pardo, ha comunicado al ministro del Interior, Fernando Grande-Marlaska, que “no existe informe policial alguno” que atribuya a Marruecos la planificación o ejecución de lo sucedido los días 30 y 31 de julio en Ceuta, según ha informado en un comunicado el Ministeri.
+
+Date: 2026-09-02
+
+### Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta
+
+Última hora de la crisis en Ceuta, en directo Manifestaciones por Ceuta en España: horarios y lugares Manifestación en apoyo a Ceuta en Madrid hoy: horario, lugar y cortes El informe policial complica la defensa de Marruecos que Sánchez preparaba para el Congreso El ministro del Interior, Fernando Grande-Marlaska , se.
 
 Date: 2026-09-02
 
@@ -38,39 +68,11 @@ El presidente del Senado, Pedro Rollán , afirmó este miércoles que el Gobiern
 
 Date: 2026-08-14
 
-### Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes
-
-El ministro del Interior, Fernando Grande-Marlaska, ha anunciado este jueves la llegada a Ceuta de una veintena de agentes de la Brigada Central de Extranjería y Fronteras de la Policía Nacional para agilizar los trámites burocráticos necesarios para expulsar a los 5.000 migrantes irregulares que, ha reconocido, aún pe.
-
-Date: 2026-08-13
-
-### Marlaska insiste en la "lealtad" de Rabat y avisa a quienes traten de llegar a Ceuta o Melilla: "Ninguno de ellos se va a regularizar"
-
-El ministro del Interior, Fernando Grande-Marlaska , ha asegurado este jueves desde Ceuta que las relaciones con Marruecos en materia de extradición "han sido siempre estrechas y basadas en la lealtad ". El ministro ha señalado que no puede "atisbar ninguna cuestión" relacionada con las recientes palabras del ministro.
-
-Date: 2026-08-13
-
-### Pitos, tensión y abucheos: así ha sido la llegada de Marlaska a una Ceuta desbordada
-
-El ministro del Interior, Fernando Grande‑Marlaska , ha aterrizado este jueves en una Ceuta completamente desbordada por la crisis migratoria y lo ha hecho en medio de un recibimiento marcado por pitadas, tensión y abucheos . A su llegada a la sede de la Delegación del Gobierno, decenas de ciudadanos han expresado su m.
-
-Date: 2026-08-13
-
-### Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales
-
-El ministro del Interior, Fernando Grande-Marlaska , ha sido recibido este jueves entre abucheos en su visita a Ceuta para mantener una reunión con el delegado del Gobierno, Miguel Ángel Pérez. Marlaska también se verá por la tarde con el presidente de la ciudad autónoma, Juan Jesús Vivas. El ministro ha entrado en la.
-
-Date: 2026-08-13
-
-### Marlaska vuelve a Ceuta: el ministro de todas las crisis de Sánchez
-
-Fernando Grande-Marlaska vuelve este jueves a Ceuta . Lo hace apenas unas horas después de que su silla quedara vacía en el Senado, donde el PP había reclamado su presencia en el Senado para explicar precisamente la gestión de la mayor crisis migratoria sufrida por la ciudad autónoma. La fotografía de su asiento desocu.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Marlaska pide al director de la Policía que aclare si tiene información de que Marruecos estuvo tras el asalto a Ceuta](https://www.elconfidencial.com/espana/2026-09-02/crisis-migratoria-ceuta-policia-1tps_4416273/?utm_source=lootura.com) — 2026-09-02T04:56:00.000Z
+- [Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación](https://www.20minutos.es/nacional/interior-relativiza-aviso-entrada-masiva-ceuta-29-julio-niega-que-informe-policial-atribuya-marruecos-planificacion_7032055_0.html?utm_source=lootura.com) — 2026-09-02T13:42:19.000Z
+- [Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos](https://www.abc.es/espana/marlaska-mantiene-informe-policia-sobre-ceuta-permite-20260902152007-nt.html?utm_source=lootura.com) — 2026-09-02T15:31:43.000Z
 - [Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com) — 2026-09-02T07:44:42.000Z
-- [Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo](https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html?utm_source=lootura.com) — 2026-09-02T06:16:08.000Z
-- [El PP pide la dimisión de Marlaska al decir que no conocía un informe policial sobre Ceuta](https://theobjective.com/espana/politica/2026-09-02/pp-dimision-marlaska-informe-policial-ceuta/?utm_source=lootura.com) — 2026-09-02T08:15:00.000Z
+- [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
+- [El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria](https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T14:16:34.000Z
+- [El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta](https://www.lavanguardia.com/politica/20260902/11625614/director-policia-comunica-marlaska-ningun-informe-situa-marruecos-asalto-ceuta.html?utm_source=lootura.com) — 2026-09-02T13:18:35.000Z

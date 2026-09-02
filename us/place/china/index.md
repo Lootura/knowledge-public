@@ -3,20 +3,26 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
 
-### Europe should adapt, not copy, China’s practical PhD
-
-Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
-
-Date: 2026-09-02
-
 ### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
 
 Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
+
+Date: 2026-09-02
+
+### The World Can’t Ignore Nepal. We Are All in Danger.
+
+Families in Nepal search for missing relatives at the National Trauma Centre in Kathmandu, Nepal, on September 1, 2026, one week after floods struck areas near the Nepal-China border. More than a 1,000 people are dead and around 4,000 are missing. —Safal Prakash Shrestha-NurPhoto-Getty Images We are still burying or cr.
+
+Date: 2026-09-02
+
+### Europe should adapt, not copy, China’s practical PhD
+
+Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
 
 Date: 2026-09-02
 
@@ -62,17 +68,7 @@ Among the hundreds still missing on Nepal's border with China are Hindus from In
 
 Date: 2026-09-01
 
-### Trump's plan for economic D-day for Iran has one big hole: China
-
-The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country — China — already says it won't cooperate.
-
-Date: 2026-08-31
-
 ## Sources
 
-- [China’s regulatory innovation for new biomedical technologies](https://www.nature.com/articles/d41586-026-02737-5?utm_source=lootura.com) — 2026-09-02T08:23:16.752Z
-- [Europe should adapt, not copy, China’s practical PhD](https://www.nature.com/articles/d41586-026-02736-6?utm_source=lootura.com) — 2026-09-02T08:23:16.753Z
-- [Families desperately search for loved ones swept away in Nepal floods](https://www.pbs.org/newshour/show/families-desperately-search-for-loved-ones-swept-away-in-nepal-floods?utm_source=lootura.com) — 2026-09-01T22:40:44.000Z
-- [China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'](https://www.pbs.org/newshour/economy/china-dissents-as-bessent-says-19-finance-ministers-agree-to-address-cheap-exports?utm_source=lootura.com) — 2026-09-01T23:35:45.000Z
 - [At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports](https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com) — 2026-09-02T03:34:29.000Z
-- [China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.](https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html?utm_source=lootura.com) — 2026-09-02T03:04:58.000Z
+- [The World Can’t Ignore Nepal. We Are All in Danger.](https://time.com/article/2026/09/02/climate-change-melting-glaciers-himalayas-floods-nepal-danger-/?utm_source=lootura.com) — 2026-09-02T15:00:00.000Z

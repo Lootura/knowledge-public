@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI
+
+PabloLagarto/Shutterstock En julio de 2026, unos 1 200 agentes de inteligencia artificial de OpenAI encontraron una forma de comunicarse entre ellos, pese a que habían sido diseñados para trabajar de manera aislada. Según reconoce la compañía, durante sus evaluaciones internas de seguridad, descubrieron que las accione.
+
+Date: 2026-09-02
 
 ### IBM y OpenAI se alían para acelerar la implantación de la IA en empresas
 
@@ -62,12 +68,6 @@ OpenAI first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-15
 
-### OpenAI lanza su primer hardware, aunque no es lo que imaginas
-
-acaba de estrenar su primer producto de hardware. Pero todavía no te emociones con ver el dispositivo que la compañía está preparando junto a Jony Ive, que sería una suerte de altavoz inteligente . El lanzamiento de hoy es Codex Micro , una consola para programadores que ha desarrollado en colaboración con el fa.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI](https://theconversation.com/miles-de-agentes-de-ia-deciden-unirse-para-un-ciberataque-masivo-por-sorpresa-el-reciente-caso-de-openai-290974?utm_source=lootura.com) — 2026-09-02T15:30:40.000Z

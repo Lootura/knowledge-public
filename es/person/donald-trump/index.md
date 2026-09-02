@@ -3,10 +3,28 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
+
+La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
+
+Date: 2026-09-02
+
+### La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca
+
+Pyongyang encadena tres años de fuerte crecimiento, ha ganado miles de millones con la guerra de Ucrania, ampliado su arsenal nuclear y vuelve a contar simultáneamente con el respaldo de Putin y Xi Jinping. Ahora, Donald Trump quiere recuperar la diplomacia personal con el líder norcoreano, pero esta vez es Kim quien t.
+
+Date: 2026-09-02
+
+### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
+
+Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
+
+Date: 2026-09-02
 
 ### Sheinbaum cumple dos años al frente de México marcados por la tensión con López Obrador y Trump
 
@@ -34,12 +52,6 @@ Date: 2026-09-02
 
 ### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
 
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
 La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
 
 Date: 2026-09-01
@@ -56,21 +68,8 @@ Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía pr
 
 Date: 2026-08-31
 
-### Trump confirma que un nuevo portaaviones sustituirá al USS Abraham Lincoln tras seis meses de despliegue en Oriente Medio
-
-El presidente de EE UU asegurado que "será reemplazado por otro buque similar".
-
-Date: 2026-08-14
-
-### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
-
-El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Sheinbaum cumple dos años al frente de México marcados por la tensión con López Obrador y Trump](https://www.abc.es/internacional/tension-lopez-obrador-trump-sheinbaum-cumple-dos-20260831010813-nt.html?utm_source=lootura.com) — 2026-09-02T07:41:23.000Z
-- [Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos](https://cincodias.elpais.com/mercados-financieros/2026-09-02/warsh-se-topa-con-el-calendario-electoral-de-trump-los-analistas-divididos-sobre-cuando-subira-tipos.html?utm_source=lootura.com) — 2026-09-02T03:30:01.000Z
-- [Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump](https://elpais.com/america/2026-09-02/alejandro-betancourt-el-nuevo-oligarca-latinoamericano-de-trump.html?utm_source=lootura.com) — 2026-09-02T03:30:00.000Z
+- [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T13:18:35.000Z
 - [Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania](https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html?utm_source=lootura.com) — 2026-09-02T02:45:54.000Z
+- [La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor](https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html?utm_source=lootura.com) — 2026-09-02T08:06:24.000Z

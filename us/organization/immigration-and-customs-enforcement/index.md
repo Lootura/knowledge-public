@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### ICE says it now has enough body cameras. And, Congress averts shutdown before midterms
+
+Immigration and Customs Enforcement says it now has enough body cameras to equip all of its agents. And, Congress votes to fund the government, averting a government shutdown ahead of the midterms. (Image credit: Michael M. Santiago).
+
+Date: 2026-09-02
 
 ### Latest news on ICE plan to give agents electric shock gloves
 
@@ -62,12 +68,6 @@ The Immigration and Customs Enforcement officer who shot and killed a Colombian 
 
 Date: 2026-07-18
 
-### ICE officer in Maine shooting has history of violent behavior, relatives say
-
-The Immigration and Customs Enforcement officer who shot and killed a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, relatives say.
-
-Date: 2026-07-17
-
 ## Sources
 
-No public source links.
+- [ICE says it now has enough body cameras. And, Congress averts shutdown before midterms](https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown?utm_source=lootura.com) — 2026-09-02T11:08:04.000Z

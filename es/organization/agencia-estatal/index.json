@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
     "government agency of Spain"
   ],
   "changes": [
+    {
+      "title": "El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor",
+      "summary": "Las lluvias, las tormentas y el calor ponen este miércoles en aviso a ocho comunidades autónomas , según la predicción de la Agencia Estatal de Meteorología (Aemet). La situación más destacada se encuentra en Andalucía, donde Córdoba, Jaén y Sevilla alcanzan el nivel naranja por altas temperaturas . Además, los avisos.",
+      "date": "2026-09-02"
+    },
     {
       "title": "La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta",
       "summary": "Tras unas semanas de termómetros bajos y anormales para la época, el calor extremo está a punto de imponerse de nuevo en España. Así lo ha confirmado la Agencia Estatal de Meteorología (Aemet) , que lanzó este pasado martes una nota informativa en la que advertían de que un nuevo episodio de altas temperaturas afectará.",
@@ -48,10 +53,10 @@
   ],
   "sources": [
     {
-      "title": "La Aemet avisa del regreso del calor extremo a España: hasta 42 grados y ocho comunidades en alerta",
-      "url": "https://www.abc.es/sociedad/aemet-avisa-regreso-calor-extremo-espana-grados-20260902091117-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T07:25:08.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor",
+      "url": "https://www.elconfidencial.com/espana/2026-09-02/aviso-naranja-aemet-calor-lluvias_4416342/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T09:10:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

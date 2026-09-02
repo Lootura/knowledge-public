@@ -3,20 +3,20 @@
 > Follow Tyler Robinson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-02T15:57:21.261Z
 - Canonical: https://atlas.lootura.com/us/person/tyler-robinson
 
 ## Recent changes
 
-### Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules
-
-A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.
-
-Date: 2026-09-02
-
 ### Charlie Kirk's alleged killer will stand trial for aggravated murder
 
 Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.
+
+Date: 2026-09-02
+
+### Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules
+
+A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.
 
 Date: 2026-09-02
 
@@ -70,5 +70,4 @@ Date: 2026-07-08
 
 ## Sources
 
-- [Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules](https://www.cbsnews.com/video/accused-charlie-kirk-shooter-tyler-robinson-must-stand-trial-judge-rules/?utm_source=lootura.com) — 2026-09-02T00:29:24.000Z
 - [Charlie Kirk's alleged killer will stand trial for aggravated murder](https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/?utm_source=lootura.com) — 2026-09-02T00:34:00.000Z

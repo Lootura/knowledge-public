@@ -3,10 +3,40 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos
+
+El Ministerio del Interior sigue sosteniendo que el informe de la Policía Nacional sobre la invasión de Ceuta no vincula la avalancha con la actuación de las autoridades de Marruecos, según informan fuentes del área de Fernando Grande-Marlaska. La juez de la Audiencia Nacional Ana María Tardón ha aceptado la solicitud.
+
+Date: 2026-09-02
+
+### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
+
+El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
+
+Date: 2026-09-02
+
+### El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria
+
+El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.
+
+Date: 2026-09-02
+
+### ¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?
+
+El Gobierno defiende que debería haber tenido acceso a las conclusiones de ese atestado aportado a la Audiencia Nacional, mientras el partido que pidió investigar la entrada masiva sugiere que el ministro está ejerciendo una presión ilegal Marlaska pregunta al director de la Policía por el supuesto informe que atribuía.
+
+Date: 2026-09-02
+
+### La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta
+
+El informe enviado a la Audiencia Nacional evita mencionar al Gobierno marroquí pero concluye que la llegada masiva no tuvo “un objeto migratorio” sino que pretendía “colapsar” la frontera y “eliminar la capacidad de respuesta de España” El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige.
+
+Date: 2026-09-02
 
 ### El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta
 
@@ -38,37 +68,10 @@ Date: 2026-09-01
 
 Date: 2026-08-31
 
-### La Audiencia Nacional suspende las sanciones de más de 1,35 millones impuestas a Uber por el IVA
-
-La Audiencia Nacional ha acordado suspender cautelarmente la ejecución de dos sanciones tributarias impuestas a Uber por un importe conjunto de más de 1,35 millones de euros, relacionadas con el Impuesto sobre el Valor Añadido (IVA) correspondiente a parte de los ejercicios 2016, 2017 y 2018. Seguir leyendo.
-
-Date: 2026-08-14
-
-### El primer juez del 'caso Leire' apunta a "otras personas con mayor nivel de jerarquía en el entramado" de las cloacas del PSOE
-
-El magistrado Arturo Zamarriego deja su investigación sobre la presunta trama liderada por Cerdán en manos del juez de la Audiencia Nacional Santiago Pedraz Leer.
-
-Date: 2026-08-13
-
-### El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire
-
-El magistrado señala que las personas imputadas por su juzgado «podrían no ocupar un lugar principal» en el entramado investigado en paralelo por el magistrado de la Audiencia Nacional Santiago Pedraz.
-
-Date: 2026-08-13
-
-### Iberostar hipoteca dos hoteles por un valor de 145 millones para afianzar una reclamación de Hacienda en plena discusión judicial
-
-Iberostar ha hipotecado dos hoteles para frenar la ejecución de una reclamación de Hacienda. El grupo hotelero, que ha recurrido a la Audiencia Nacional una deuda con la Agencia Tributaria por un importe de 64.487.983,88 euros por el impuesto sobre sociedades de 2016 y 2017, ha presentado una garantía hipotecaria de lo.
-
-Date: 2026-08-13
-
-### El primer juez del 'caso Leire' entrega la investigación a la Audiencia Nacional, que asumirá la causa íntegra
-
-Zamarriego se inhibe en favor de Pedraz tras investigar las presuntas maniobras de Díez para obtener información comprometida sobre jueces, fiscales y mandos de la UCO Leer.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta](https://www.20minutos.es/nacional/informe-policial-entregado-juez-atribuye-policia-marruecos-planificacion-entrada-masiva-ceuta_7031818_0.html?utm_source=lootura.com) — 2026-09-02T07:31:55.000Z
-- [Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo](https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html?utm_source=lootura.com) — 2026-09-02T06:16:08.000Z
+- [Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos](https://www.abc.es/espana/marlaska-mantiene-informe-policia-sobre-ceuta-permite-20260902152007-nt.html?utm_source=lootura.com) — 2026-09-02T15:31:43.000Z
+- [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
+- [El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria](https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T14:16:34.000Z
+- [¿Debería haber informado la Policía a Marlaska del contenido de los informes que pidió la jueza sobre Ceuta?](https://www.eldiario.es/politica/deberia-haber-informado-policia-marlaska-contenido-informes-pidio-jueza-ceuta_1_13481636.html?utm_source=lootura.com) — 2026-09-02T09:44:35.000Z
+- [La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta](https://www.eldiario.es/politica/policia-analiza-imagenes-redes-sociales-apuntar-posible-participacion-agentes-marroquies-asalto-ceuta_1_13482964.html?utm_source=lootura.com) — 2026-09-02T15:43:57.000Z

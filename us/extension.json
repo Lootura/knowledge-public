@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T08:37:58.786Z",
+  "generatedAt": "2026-09-02T16:15:03.389Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|153|1788337392897",
+    "signature": "1.18.0|154|1788364641261",
     "version": "1.18.0",
-    "build": 153,
-    "latestEntityUpdatedAt": "2026-09-02T08:23:12.897Z"
+    "build": 154,
+    "latestEntityUpdatedAt": "2026-09-02T15:57:21.261Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
       "url": "https://atlas.lootura.com/us/place/iran",
       "path": "/us/place/iran",
-      "updatedAt": "2026-09-02T08:23:12.897Z",
-      "score": 1722,
-      "sourceCount": 423,
+      "updatedAt": "2026-09-02T15:57:21.261Z",
+      "score": 1707,
+      "sourceCount": 430,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,9 @@
         "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-09-02T08:23:12.897Z",
-        "score": 1705,
-        "sourceCount": 833,
+        "updatedAt": "2026-09-02T15:57:21.261Z",
+        "score": 1694,
+        "sourceCount": 846,
         "isBreaking": false,
         "isPinned": false
       },
@@ -47,22 +47,22 @@
         "title": "Trump to Nominate Hung Cao as Navy Secretary",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-02T08:23:12.897Z",
-        "score": 1644,
-        "sourceCount": 810,
+        "updatedAt": "2026-09-02T15:57:21.261Z",
+        "score": 1639,
+        "sourceCount": 820,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-ed-markey",
-        "name": "Ed Markey",
-        "type": "person",
-        "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
-        "url": "https://atlas.lootura.com/us/person/ed-markey",
-        "path": "/us/person/ed-markey",
-        "updatedAt": "2026-09-02T08:23:12.897Z",
-        "score": 1641,
-        "sourceCount": 8,
+        "id": "usa-china",
+        "name": "China",
+        "type": "place",
+        "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+        "url": "https://atlas.lootura.com/us/place/china",
+        "path": "/us/place/china",
+        "updatedAt": "2026-09-02T15:57:21.261Z",
+        "score": 1628,
+        "sourceCount": 81,
         "isBreaking": false,
         "isPinned": false
       },
@@ -73,13 +73,13 @@
         "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
         "url": "https://atlas.lootura.com/us/organization/white-house",
         "path": "/us/organization/white-house",
-        "updatedAt": "2026-09-02T08:23:12.897Z",
-        "score": 1638,
-        "sourceCount": 150,
+        "updatedAt": "2026-09-02T15:57:21.261Z",
+        "score": 1624,
+        "sourceCount": 153,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 180
+    "publicEntityCount": 177
   }
 }

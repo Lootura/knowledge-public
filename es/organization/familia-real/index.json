@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
   "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T16:52:13.547Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "Familias reales",
     "familia imperial",
     "royalty"
   ],
   "changes": [
+    {
+      "title": "Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega",
+      "summary": "Marius Borg Høiby ha cedido a la presión. El próximo lunes 7 de septiembre finaliza la prisión preventiva que se había dictado para el hijo de Mette-Marit, de 29 años, y la fiscalía noruega pedirá cuatro semanas más que esta vez está dispuesto a cumplir . Es decir, si bien en ocasiones anteriores había exigido que se l.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Carmen Lomana carga contra el regreso de Juan Carlos I a Marivent y lo manda a Ceuta: «Ya puestos…»",
       "summary": "Carmen Lomana no se ha mordido la lengua al ser preguntada por el regreso de don Juan Carlos al Palacio de Marivent . La socialité ha reaccionado con evidente indiferencia ante la presencia del emérito en la residencia de verano de la Familia Real , una imagen que ha vuelto a poner el foco sobre la relación del antiguo.",
@@ -59,13 +64,15 @@
       "title": "La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda",
       "summary": "Los jardines del Palacio de Marivent, un año más, han visto como la Familia Real hacía su tradicional guiño a las personalidades más representativas de la política, la economía, el arte, la cultura y los deportes de las Islas Baleares. Ha sucedido con varias repeticiones respecto al año 2025: la Familia Real estuvo al.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Letizia vuelve a jugar fuerte en Marivent: el vestido blanco de rayas que lo tiene todo",
-      "summary": "Mallorca vuelve a ser uno de los grandes escenarios del verano de la Familia Real y, con él, una de las citas en las que la Reina Letizia demuestra que la moda también puede ser una poderosa herramienta de representación. Felipe VI y Doña Letizia han abierto este martes las puertas del Palacio de Marivent para recibir.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega",
+      "url": "https://www.abc.es/gente/marius-borg-acepta-continuar-detencion-preventiva-perjudicar-20260902170251-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:30:31.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -29,19 +29,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "What to expect from new Apple CEO John Ternus as Tim Cook steps down",
-      "url": "https://www.cbsnews.com/video/what-to-expect-from-john-ternus-as-apple-ceo-as-tim-cook-steps-down/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T00:10:36.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Apple's new CEO, John Ternus, takes over from Tim Cook at a pivotal time for the company",
-      "url": "https://www.pbs.org/newshour/nation/apples-new-ceo-john-ternus-takes-over-from-tim-cook-at-a-pivotal-time-for-the-company?utm_source=lootura.com",
-      "publishedAt": "2026-09-01T22:06:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

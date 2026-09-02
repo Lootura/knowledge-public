@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla
+
+La patrullera 'Río Guadiana' de la Guardia Civil trasladó este pasado lunes al puerto de Melilla a 17 personas de origen subsahariano que se encontraban en las islas Chafarinas, según ha informado este miércoles la Delegación del Gobierno. El traslado desde estas islas de soberanía española situadas a 1,9 millas náutic.
+
+Date: 2026-09-02
+
+### El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil
+
+El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía de Medio Ambiente un oficio con información sobre las actuaciones previas abiertas por un posible delito contra especies de fauna protegida , tras el disparo sufrido por Toñi , la orca (Orcinus orca) de mayor edad de la población del Estrecho.
+
+Date: 2026-09-02
 
 ### Entre yates, lujo y glamour en Puerto Portals: un cocinero persigue a un camarero para pegarle y tiene que actuar la Guardia Civil
 
@@ -56,18 +68,7 @@ Buzos de la Guardia Civil han hallado sin vida a una mujer de 52 años, vecina d
 
 Date: 2026-08-13
 
-### Una operación antidroga en Muxía (A Coruña) se salda con 26 detenciones y 1,6 toneladas de cocaína incautadas
-
-La operación policial en Muxía (A Coruña) contra una organización criminal dedicada a introducir grandes cantidades de droga en España se ha dado por concluida este miércoles con la detención de 26 personas , incluido un agente de la Guardia Civil , y el decomiso de más de 1.600 kilos de cocaína. Así lo han asegurado a.
-
-Date: 2026-08-12
-
-### La Guardia Civil interviene 146 kilos de cigala sin trazabilidad en un coche que partió del puerto de Cariño (A Coruña)
-
-El Servicio Marítimo de la Guardia Civil de A Coruña ha tramitado una denuncia administrativa contra un hombre de 63 años , residente en Burela (Lugo), tras intervenirle 146,5 kilos de cigala que carecían de la documentación de trazabilidad exigida por la normativa pesquera vigente . Según informó el Instituto Armado ,.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla](https://www.20minutos.es/nacional/guardia-civil-localiza-17-inmigrantes-las-islas-chafarinas-los-traslada-melilla_7032031_0.html?utm_source=lootura.com) — 2026-09-02T13:02:42.000Z
+- [El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil](https://www.elconfidencial.com/espana/2026-09-02/orca-disparo-fauna-protegida-miteco-1tps_4416407/?utm_source=lootura.com) — 2026-09-02T09:10:00.000Z

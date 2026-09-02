@@ -3,10 +3,40 @@
 > Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-02T15:57:03.180Z
 - Canonical: https://atlas.lootura.com/es/person/policia-nacional
 
 ## Cambios recientes
+
+### Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta
+
+Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...
+
+Date: 2026-09-02
+
+### Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación
+
+El Ministerio del Interior niega la existencia de un informe policial que implique a autoridades policiales marroquíes en la entrada masiva de migrantes en Ceuta. En un comunicado, la cartera de Fernando Grande-Marlaska asegura que así se lo ha transmitido al ministro el director general de la Policía Nacional, Francis.
+
+Date: 2026-09-02
+
+### Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos
+
+El Ministerio del Interior sigue sosteniendo que el informe de la Policía Nacional sobre la invasión de Ceuta no vincula la avalancha con la actuación de las autoridades de Marruecos, según informan fuentes del área de Fernando Grande-Marlaska. La juez de la Audiencia Nacional Ana María Tardón ha aceptado la solicitud.
+
+Date: 2026-09-02
+
+### Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora
+
+Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conocerse el informe elaborado por la Policía Nacional que, según El Español , apuntaría a Marruecos como responsable de la entrada masiva de más de 70.000 inmigrantes a Ceuta a finales de julio. En este sentido, el líder del PP, quien ha señalado q.
+
+Date: 2026-09-02
+
+### El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta
+
+El director general de la Policía Nacional, Francisco Pardo, ha comunicado al ministro del Interior, Fernando Grande-Marlaska, que “no existe informe policial alguno” que atribuya a Marruecos la planificación o ejecución de lo sucedido los días 30 y 31 de julio en Ceuta, según ha informado en un comunicado el Ministeri.
+
+Date: 2026-09-02
 
 ### Torres admite que el Gobierno desconoce el informe: "No sabemos si es de un agente particular"
 
@@ -17,12 +47,6 @@ Date: 2026-09-02
 ### El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta
 
 El informe del Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía Nacional entregado este lunes en la Audiencia Nacional involucra a agentes de los cuerpos de seguridad de Marruecos en la planificación y ejecución de la entrada masiva de migrantes en Ceuta el 30 y 31 de julio . Tal y como ha adelantado El.
-
-Date: 2026-09-02
-
-### Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta
-
-Crisis abierta, insospechada y de enormes proporciones en el Ministerio del Interior. Mientras el ministro, Fernando Grande-Marlaska, y el presidente del Gobierno, Pedro Sánchez,...
 
 Date: 2026-09-02
 
@@ -44,34 +68,10 @@ El consejero de Seguridad del Gobierno vasco ha exigido «más implicación» en
 
 Date: 2026-09-01
 
-### Muere en el camión de la basura un hombre escondido en un contenedor en Cartagena (Murcia)
-
-Un hombre que se había escondido en su huida de la Policía en un contenedor de basura en Cartagena (Murcia) ha fallecido como consecuencia de las heridas que le provocó la prensa del camión que la recoge, han informado este martes fuentes de la Policía Nacional. El suceso ocurrió sobre la una de la madrugada de este lu.
-
-Date: 2026-09-01
-
-### La Policía ya ha identificado en Ceuta a más de una decena de inmigrantes con antecedentes por yihadismo
-
-Las fuerzas y cuerpos de seguridad del Estado ya han identificado a más de una decena de perfiles con antecedentes por yihadismo entre los inmigrantes que asaltaron la frontera de Ceuta a finales de julio. Así lo ha advertido este lunes el Sindicato Unificado de la Policía Nacional (SUP), que reclama al Ministerio del.
-
-Date: 2026-09-01
-
-### El ex canterano del Mallorca detenido por grabar a escondidas a una menor manteniendo sexo fichó por un club de Castellón un día antes de su arresto
-
-El ex canterano del Real Mallorca detenido por filmar a escondidas desde un armario a su compañero de equipo manteniendo relaciones sexuales con una menor fichó por un club de Castellón un día antes de su arresto . A pesar de estar denunciado e investigado por la Policía Nacional por un delito de corrupción de menores,.
-
-Date: 2026-09-01
-
-### Los 18 primeros antidisturbios a Ceuta fueron para proteger a Sánchez: quejas policiales por los recursos para cargos públicos
-
-Miembros de la Policía Nacional denuncian que se detraen efectivos que deberían patrullar las calles para proteger a hasta 26 cargos del Gobierno central que han visitado la ciudad desde el 31 de julio Leer.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-- [Torres admite que el Gobierno desconoce el informe: "No sabemos si es de un agente particular"](https://www.20minutos.es/nacional/torres-admite-que-gobierno-desconoce-informe-policia-que-senala-marruecos-no-sabemos-si-es-un-agente-particular_7031800_0.html?utm_source=lootura.com) — 2026-09-02T07:06:09.000Z
-- [El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta](https://www.20minutos.es/nacional/informe-policial-entregado-juez-atribuye-policia-marruecos-planificacion-entrada-masiva-ceuta_7031818_0.html?utm_source=lootura.com) — 2026-09-02T07:31:55.000Z
+- [Interior relativiza el aviso de entrada masiva en Ceuta del 29 de julio y niega que el informe policial atribuya a Marruecos la planificación](https://www.20minutos.es/nacional/interior-relativiza-aviso-entrada-masiva-ceuta-29-julio-niega-que-informe-policial-atribuya-marruecos-planificacion_7032055_0.html?utm_source=lootura.com) — 2026-09-02T13:42:19.000Z
+- [Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos](https://www.abc.es/espana/marlaska-mantiene-informe-policia-sobre-ceuta-permite-20260902152007-nt.html?utm_source=lootura.com) — 2026-09-02T15:31:43.000Z
 - [Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html?utm_source=lootura.com) — 2026-09-02T07:44:42.000Z
-- [Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”](https://elpais.com/espana/2026-09-01/nervios-y-miedo-entre-familias-migrantes-acampadas-en-las-calles-de-ceuta-damos-vueltas-para-encontrar-donde-dormir.html?utm_source=lootura.com) — 2026-09-01T19:06:18.000Z
-- [Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo](https://www.lavanguardia.com/politica/20260902/11625229/marlaska-exige-director-policia-aclare-existe-informe-situa-marruecos-asalto-masivo-ceuta.html?utm_source=lootura.com) — 2026-09-02T06:16:08.000Z
+- [Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora](https://www.lavanguardia.com/politica/20260902/11625566/feijoo-exige-sanchez-convoque-embajadora-marruecos-informe-policia.html?utm_source=lootura.com) — 2026-09-02T12:16:24.000Z
+- [El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta](https://www.lavanguardia.com/politica/20260902/11625614/director-policia-comunica-marlaska-ningun-informe-situa-marruecos-asalto-ceuta.html?utm_source=lootura.com) — 2026-09-02T13:18:35.000Z

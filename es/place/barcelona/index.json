@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-02T15:57:03.180Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Illa y Collboni viajan a Kiev en plena escalada de ataques rusos",
+      "summary": "El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de \"impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad\". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN",
       "summary": "El primer Clásico de la temporada ya tiene fecha, hora y televisión . El próximo domingo 25 de octubre a las 21:00 horas , DAZN emitirá el primer FC Barcelona-Real Madrid del curso, un encuentro que estará marcado por varios alicientes. Será el regreso de José Mourinho al feudo azulgrana tras su vuelta al banquillo mad.",
@@ -65,18 +70,13 @@
       "title": "Barcelona y Sarajevo: una hermanamiento de tres décadas que sigue más vivo que nunca",
       "summary": "En verano de 1992 , mientras Barcelona celebraba sus Juegos Olímpicos y proyectaba al mundo una imagen de modernidad, apertura y convivencia, Sarajevo vivía el reverso más oscuro de aquella Europa. La capital bosnia acababa de quedar atrapada por un asedio que se prolongaría hasta casi cuatro años (1992-1995) y que con.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El dolç típic de Barcelona que està a punt de desaparèixer: més d'un segle d'història",
-      "summary": "Barcelona conserva receptes que formen part de la seva memòria gastronòmica , però algunes han quedat tan arraconades que avui gairebé ningú les coneix. És el cas de l’encasada , també anomenada enquesada, un dolç tradicional barceloní que a començaments del segle XX era prou popular per aparèixer en àpats destacats de.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN",
-      "url": "https://www.larazon.es/television/programas-tv/barcelonareal-madrid-primer-clasico-mourinho-tiene-fecha-hora-vera-dazn_202609026a97d9e53bfe5d1eff400e09.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T08:10:13.000Z",
+      "title": "Illa y Collboni viajan a Kiev en plena escalada de ataques rusos",
+      "url": "https://www.larazon.es/cataluna/illa-collboni-viajan-kiev-plena-escalada-ataques-rusos_202609026a9841993bfe5d1eff40aed5.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T15:32:41.000Z",
       "sourceId": "lootura-es-la-razon"
     }
   ],

@@ -46,4 +46,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market](https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate?utm_source=lootura.com) — 2026-09-01T09:00:00.000Z
+No public source links.
