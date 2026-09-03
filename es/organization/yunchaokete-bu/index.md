@@ -3,7 +3,7 @@
 > Sigue la actividad de Yunchaokete Bu en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/organization/yunchaokete-bu
 
 ## Cambios recientes
@@ -26,7 +26,14 @@ Yunchaokete Bu first entered the public knowledge record with source-backed evid
 
 Date: 2026-09-02
 
+### El día más duro de Rafa Jódar, fulminado a la primera y por un desconocido: Yunchaokete Bu
+
+Rafa Jódar se clava una y otra vez ante su banquillo, brazos en jarra. Una y otra vez mira hacia ahí cabreado, en busca de auxilio y de respuestas que no llegan porque es uno de esos días torcidos en los que a un tenista nada le sale y termina al fin cayendo en la simple y llana desesperación. Grita a su raqueta: ¡Nooo.
+
+Date: 2026-09-02
+
 ## Fuentes
 
 - [Un irreconocible Rafa Jódar cae eliminado en primera ronda del US Open ante el 124 del mundo](https://www.elmundo.es/deportes/tenis/us-open/2026/09/02/6a987af2fc6c83bb158b45a4.html?utm_source=lootura.com) — 2026-09-02T21:34:40.000Z
+- [El día más duro de Rafa Jódar, fulminado a la primera y por un desconocido: Yunchaokete Bu](https://elpais.com/deportes/tenis/2026-09-02/rafa-jodar-cae-en-la-primera-ronda-del-us-open.html?utm_source=lootura.com) — 2026-09-02T20:59:15.000Z
 - [Rafa Jódar sucumbe en su debut en el US Open ante el chino Yunchaokete Bu](https://theobjective.com/deportes/2026-09-02/rafa-jodar-sucumbe-debut-us-open/?amp=&utm_source=lootura.com) — 2026-09-02T21:46:29.000Z

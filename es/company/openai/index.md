@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Anthropic busca hacer historia en Bolsa en plena euforia de la IA
+
+Anthropic calienta motores para su salida a Bolsa este otoño. La joven compañía de inteligencia artificial, el mayor rival de OpenAI, ha iniciado ya reuniones para sondear la demanda de los inversores de cara a una oferta pública de venta de acciones (OPV) que puede hacer historia. Seguir leyendo.
+
+Date: 2026-09-02
 
 ### Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI
 
@@ -62,12 +68,6 @@ Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más per
 
 Date: 2026-07-17
 
-### Discovered by Atlas
-
-OpenAI first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-15
-
 ## Fuentes
 
-No public source links.
+- [Anthropic busca hacer historia en Bolsa en plena euforia de la IA](https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html?utm_source=lootura.com) — 2026-09-02T22:21:50.000Z

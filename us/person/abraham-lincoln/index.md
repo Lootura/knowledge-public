@@ -3,10 +3,16 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### USS Abraham Lincoln ends record stretch at sea
+
+The USS Abraham Lincoln ended a record stretch at sea, making its first port call in nine months. It comes amid concerns about living conditions aboard. NBC News’ Courtney Kube reports.
+
+Date: 2026-09-02
 
 ### The Navy’s Logistical Nightmare in the Iran War
 
@@ -62,12 +68,6 @@ Reports from sailors and their families describe concerning conditions aboard th
 
 Date: 2026-08-14
 
-### New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln
-
-The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z
+- [USS Abraham Lincoln ends record stretch at sea](https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-ends-record-stretch-at-sea-269244485831?utm_source=lootura.com) — 2026-09-02T22:58:30.000Z

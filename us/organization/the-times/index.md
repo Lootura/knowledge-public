@@ -3,10 +3,16 @@
 > Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-07-24T13:39:26.682Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/organization/the-times
 
 ## Recent changes
+
+### In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy
+
+The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.
+
+Date: 2026-09-03
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-07-23
 
 ## Sources
 
-No public source links.
+- [In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy](https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html?utm_source=lootura.com) — 2026-09-03T00:03:43.000Z

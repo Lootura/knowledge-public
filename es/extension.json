@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T22:34:45.418Z",
+  "generatedAt": "2026-09-03T03:10:04.351Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|156|1788387634206",
+    "signature": "1.18.0|157|1788404033216",
     "version": "1.18.0",
-    "build": 156,
-    "latestEntityUpdatedAt": "2026-09-02T22:20:34.206Z"
+    "build": 157,
+    "latestEntityUpdatedAt": "2026-09-03T02:53:53.216Z"
   },
   "atlas": {
     "hero": {
       "id": "es-pedro-sanchez",
       "name": "Pedro Sánchez",
       "type": "person",
-      "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
+      "title": "Iván Redondo, exasesor de Sánchez, cuestiona el relato del Gobierno sobre Ceuta: «Cae con el informe»",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-09-02T22:20:34.206Z",
-      "score": 1740,
-      "sourceCount": 476,
+      "updatedAt": "2026-09-03T02:53:53.216Z",
+      "score": 1757,
+      "sourceCount": 474,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,22 +34,9 @@
         "title": "Crisis en Ceuta, última hora en directo: La jueza pidió a la policía que no informará a Marlaska",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-09-02T22:20:34.206Z",
-        "score": 1704,
-        "sourceCount": 1286,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
-        "type": "person",
-        "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-09-02T22:20:34.206Z",
-        "score": 1697,
-        "sourceCount": 100,
+        "updatedAt": "2026-09-03T02:53:53.216Z",
+        "score": 1715,
+        "sourceCount": 1289,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,8 +47,8 @@
         "title": "Marlaska mantiene que el informe de la Policía sobre Ceuta no permite concluir la autoría de Marruecos",
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-09-02T22:20:34.206Z",
-        "score": 1692,
+        "updatedAt": "2026-09-03T02:53:53.216Z",
+        "score": 1700,
         "sourceCount": 99,
         "isBreaking": false,
         "isPinned": false
@@ -70,16 +57,29 @@
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy",
+        "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-09-02T22:20:34.206Z",
-        "score": 1680,
-        "sourceCount": 777,
+        "updatedAt": "2026-09-03T02:53:53.216Z",
+        "score": 1691,
+        "sourceCount": 780,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-partido-popular",
+        "name": "Partido Popular",
+        "type": "organization",
+        "title": "El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara",
+        "url": "https://atlas.lootura.com/es/organization/partido-popular",
+        "path": "/es/organization/partido-popular",
+        "updatedAt": "2026-09-03T02:53:53.216Z",
+        "score": 1651,
+        "sourceCount": 324,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 218
+    "publicEntityCount": 220
   }
 }

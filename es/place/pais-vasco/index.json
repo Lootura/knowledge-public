@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,11 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "El terrorismo cultural de ETA",
+      "summary": "ETA ya no mata. Esto parece una obviedad, ya que la banda entregó las armas en el año 2011 y para el 2018 se disolvió oficialmente. No obstante, parece que la banda, o al menos ciertos de sus componentes, están más vivos que nunca en el País Vasco y Navarra, ya que la organización, de forma voluntaria o involuntaria, h.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco",
       "summary": "El Sindicato Médico de Euskadi secunda una decisión que llega en respuesta a la aprobación este martes en el Consejo de Ministros del anteproyecto que modificará las condiciones laborales de los trabajadores sanitarios.",
@@ -67,11 +72,6 @@
       "title": "Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»",
       "summary": "El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi",
-      "summary": "Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [
@@ -80,7 +80,13 @@
       "url": "https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T15:25:38.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El terrorismo cultural de ETA",
+      "url": "https://www.larazon.es/cultura/terrorismo-cultural-eta_202609036a98ccc34941316b1e75850e.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T01:26:27.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
+      "summary": "Anthropic calienta motores para su salida a Bolsa este otoño. La joven compañía de inteligencia artificial, el mayor rival de OpenAI, ha iniciado ya reuniones para sondear la demanda de los inversores de cara a una oferta pública de venta de acciones (OPV) que puede hacer historia. Seguir leyendo.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI",
       "summary": "PabloLagarto/Shutterstock En julio de 2026, unos 1 200 agentes de inteligencia artificial de OpenAI encontraron una forma de comunicarse entre ellos, pese a que habían sido diseñados para trabajar de manera aislada. Según reconoce la compañía, durante sus evaluaciones internas de seguridad, descubrieron que las accione.",
@@ -57,13 +62,15 @@
       "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
       "summary": "Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:21:50.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

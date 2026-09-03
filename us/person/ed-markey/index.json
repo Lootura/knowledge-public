@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ed-markey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ed-markey/index.json",
   "description": "Follow Ed Markey, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "Edward J. Markey",
     "Edward John \"Ed\" Markey",
@@ -20,6 +20,11 @@
     {
       "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
       "summary": "Sen. Ed Markey, 80, defeated Rep. Seth Moulton, 47, who had attempted to argue that it was time to do away with the \"status quo\" in his pursuit to oust the octogenarian.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Democratic strategist on the new anti-partisan swing voters",
+      "summary": "Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.",
       "date": "2026-09-02"
     },
     {
@@ -61,19 +66,14 @@
       "title": "In Massachusetts, Sen. Ed Markey and Rep. Seth Moulton vie for Senate nomination",
       "summary": "Sen. Ed Markey faces Congressman Seth Moulton in the Massachusetts Senate primary. Both candidates have similar progressive platforms.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Markey and other Massachusetts Democrats face primaries",
-      "summary": "Multiple Massachusetts Democrats are facing primary challengers on Tuesday, led by Sen. Ed Markey, who warned voters that replacing him would mean losing a progressive champion and supporter of transgender rights in Washington. “We need universal childcare and Medicare for all,” Markey told supporters in Dorchester at.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Progressive victory in Massachusetts as Markey sweeps Democratic Senate primary",
-      "url": "https://www.cbsnews.com/video/progressive-victory-in-massachusetts-as-markey-sweeps-democratic-primary/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:04:00.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Democratic strategist on the new anti-partisan swing voters",
+      "url": "https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:35:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
@@ -82,5 +82,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

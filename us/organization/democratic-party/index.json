@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "As Midterms Loom, Democrats Feud Over Defections",
+      "summary": "The fight has highlighted party divisions and raised questions about how Democrats will run the House should they win the majority.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "summary": "For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.",
@@ -21,6 +26,11 @@
     {
       "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
       "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Democratic strategist on the new anti-partisan swing voters",
+      "summary": "Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.",
       "date": "2026-09-02"
     },
     {
@@ -52,16 +62,6 @@
       "title": "A NY hospital tried to close its birthing center. This city united to fight back",
       "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Markey and other Massachusetts Democrats face primaries",
-      "summary": "Multiple Massachusetts Democrats are facing primary challengers on Tuesday, led by Sen. Ed Markey, who warned voters that replacing him would mean losing a progressive champion and supporter of transgender rights in Washington. “We need universal childcare and Medicare for all,” Markey told supporters in Dorchester at.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
-      "summary": "The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -72,11 +72,23 @@
       "sourceId": "lootura-us-nbc-news"
     },
     {
+      "title": "Democratic strategist on the new anti-partisan swing voters",
+      "url": "https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:35:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T15:56:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "As Midterms Loom, Democrats Feud Over Defections",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T00:17:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos
+
+El mercado da un 60% de probabilidades a que la Reserva Federal (Fed) decida subir los tipos de interés en la reunión de su comité de política monetaria prevista para el próximo 16 de septiembre. Seguir leyendo.
+
+Date: 2026-09-02
 
 ### Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos
 
@@ -62,12 +68,6 @@ El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la últi
 
 Date: 2026-08-06
 
-### La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas
-
-Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos](https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html?utm_source=lootura.com) — 2026-09-02T18:32:06.000Z

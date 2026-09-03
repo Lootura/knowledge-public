@@ -46,4 +46,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner](https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html?utm_source=lootura.com) — 2026-09-02T02:02:57.000Z
+No public source links.

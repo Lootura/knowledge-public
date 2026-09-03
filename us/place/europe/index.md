@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Malta businessman found not guilty in car bomb killing of journalist
+
+Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.
+
+Date: 2026-09-02
 
 ### US politics is not the world's template for polarization, experts warn
 
@@ -62,14 +68,6 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-01
 
-### Europe should adapt, not copy, China’s practical PhD
-
-Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [US politics is not the world's template for polarization, experts warn](https://phys.org/news/2026-09-politics-world-template-polarization-experts.html?utm_source=lootura.com) — 2026-09-02T19:00:02.000Z
-- [Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests](https://phys.org/news/2026-09-europe-housing-crisis-continental-million.html?utm_source=lootura.com) — 2026-09-02T22:00:03.000Z
-- [Hidden DNA in medieval gospels reveals history of deadly livestock virus](https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html?utm_source=lootura.com) — 2026-09-02T21:20:02.000Z
+- [Malta businessman found not guilty in car bomb killing of journalist](https://www.cbsnews.com/news/yorgen-fenech-acquitted-daphne-caruana-galizia-killing/?utm_source=lootura.com) — 2026-09-02T23:59:11.000Z

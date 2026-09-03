@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -72,4 +72,3 @@ Date: 2026-09-01
 
 - [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z
 - [AI agents are hacking systems without any input from humans. How did we get here?](https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here?utm_source=lootura.com) — 2026-09-02T18:46:26.000Z
-- [AI-designed proteins enable a new generation of RNA transporters](https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html?utm_source=lootura.com) — 2026-09-02T22:00:01.000Z

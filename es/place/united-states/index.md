@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -13,6 +13,12 @@
 Corea del Norte afirma que ha detonado una bomba de hidrógeno, equivalente a unos 100 kilotones de TNT. El Servicio Geológico de los Estados Unidos informó de un terremoto de 6.3 magnitud, no lejos del sitio de prueba nuclear de Punggye-ri.
 
 Date: 2026-09-03
+
+### Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»
+
+Miguel de la Quadra-Salcedo (Madrid, 1932-2016) fue un explorador, periodista y aventurero que consagró su vida a recorrer América Latina y a acercar a los jóvenes españoles e iberoamericanos a ese continente. Su convicción de que «uno no es español del todo hasta que no conoce y ama a Hispanoamérica » atravesó toda su.
+
+Date: 2026-09-02
 
 ### Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal
 
@@ -62,15 +68,7 @@ Geopolítica, inflación y bancos centrales dominan la actualidad de los mercado
 
 Date: 2026-09-01
 
-### La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años
-
-Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal](https://elpais.com/economia/2026-09-02/victoria-para-google-en-los-tribunales-el-gigante-evita-la-particion-de-su-negocio-principal.html?utm_source=lootura.com) — 2026-09-02T15:48:49.000Z
-- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T16:12:17.000Z
 - [Fragmento del día: Corea del Norte](https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com) — 2026-09-03T04:00:00.000Z
-- [Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno](https://theobjective.com/internacional/2026-09-02/sheinbaum-acusa-eeuu-usar-tacticas-injerencia-dividir-gobierno/?amp=&utm_source=lootura.com) — 2026-09-02T15:44:08.000Z
+- [Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»](https://okdiario.com/curiosidades/deja-claro-miguel-quadra-salcedo-famoso-aventurero-uno-no-espanol-del-todo-hasta-que-no-conoce-ama-hispanoamerica-18484294?utm_source=lootura.com) — 2026-09-02T22:22:32.000Z

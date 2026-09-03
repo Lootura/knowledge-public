@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,13 +19,23 @@
   ],
   "changes": [
     {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
-      "date": "2026-09-02"
+      "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
+      "summary": "A White House spokesman said the alley renovations included fixing broken lights. The project comes as the president has sought a broad overhaul of the White House and its surroundings.",
+      "date": "2026-09-03"
     },
     {
       "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
       "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
+      "summary": "Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran \"very hard\" if t.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
       "date": "2026-09-02"
     },
     {
@@ -57,16 +67,6 @@
       "title": "SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign",
       "summary": "Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
-      "summary": "No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices",
-      "summary": "President Donald Trump speaks in the Oval Office of the White House on Aug. 31, 2026. —Annabelle Gordon/CNP/Bloomberg—Getty Images The Trump Administration on Aug. 31 announced that nine mid-sized pharmaceutical companies had agreed to lower the prices that Medicaid programs pay for drugs, bringing the total number of.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -77,21 +77,21 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Progressive Senate candidates rack up primary wins even as they get outspent",
-      "url": "https://www.nbcnews.com/politics/politics-news/progressive-senate-candidates-rack-primary-wins-even-get-outspent-rcna595769?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:05:45.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:04:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
+      "url": "https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:55:26.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T14:47:31.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T01:08:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

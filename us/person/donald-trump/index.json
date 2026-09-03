@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -25,6 +25,26 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
+      "summary": "A federal judge has temporarily blocked a Trump executive order that would prevent certain people from automatically becoming U.S. citizens at birth.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms",
+      "summary": "The president said he’ll travel to help out GOP candidates in competitive midterm contests, including the Senate races in Alaska and Texas.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care",
+      "summary": "The Trump administration wants to bar Medicaid and the Children’s Health Insurance Program from paying for gender-transition medication and surgery for transgender adolescents.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
+      "summary": "The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Trump to Nominate Hung Cao as Navy Secretary",
       "summary": "The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.",
@@ -46,16 +66,6 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-      "summary": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
       "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
       "date": "2026-09-02"
@@ -64,19 +74,21 @@
       "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
       "summary": "Iran is making fresh claims about the latest round of strikes in the region. This comes as U.S. military leaders navigate tensions sparked by resignations and recent firings. CBS News' Eleanor Watson has more.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Heads or tails? $1 coin with Trump's face and gold finish go on sale",
-      "summary": "The coin's design — Trump's visage as \"heads\" and the Great Seal of the United States as \"tails\" — was given the stamp of approval this year by the U.S. Commission of Fine Arts, whose members Trump appointed.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Top U.S. doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion",
-      "summary": "Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall, banding together Wednesday to issue shot guidelines — and highlight the science behind them — saying they hope to ease confusion caused by the Trump administration's changing advice.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
+    {
+      "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
+      "url": "https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T01:10:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Expert questions legality of U.S. strikes on alleged drug boats as death toll hits 227",
+      "url": "https://www.cbsnews.com/video/experts-question-legality-of-deadly-us-drug-boat-strikes-as-death-toll-hits-227/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T23:40:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential",
       "url": "https://www.cbsnews.com/video/iran-attacks-us-allies-gulf-region-trump-downplays-peace-deal-potential/?utm_source=lootura.com",
@@ -90,9 +102,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’",
-      "url": "https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:42:35.000Z",
+      "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-says-will-campaign-republicans-35-races-ahead-midterms-rcna595807?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T02:15:36.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -124,19 +136,7 @@
       "url": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com",
       "publishedAt": "2026-09-02T21:39:57.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture",
-      "url": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:21:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
-      "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:43:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 16
+  "evidenceCount": 20
 }

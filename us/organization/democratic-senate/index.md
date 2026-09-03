@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Progressive victory in Massachusetts as Markey sweeps Democratic Senate primary](https://www.cbsnews.com/video/progressive-victory-in-massachusetts-as-markey-sweeps-democratic-primary/?utm_source=lootura.com) — 2026-09-02T15:04:00.000Z
+No public source links.

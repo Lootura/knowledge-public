@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.json",
   "description": "Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T20:38:42.935Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "Holanda",
     "Holland",
@@ -23,6 +23,11 @@
     "the Netherlands"
   ],
   "changes": [
+    {
+      "title": "EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros",
+      "summary": "El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Ferrovial dejará de cotizar en la Bolsa de Ámsterdam tres años después de fijar su sede en Países Bajos",
       "summary": "Ferrovial dejará de cotizar en la Bolsa de Ámsterdam el próximo mes. Así lo ha comunicado la compañía de infraestructuras a la Comisión Nacional del Mercado de Valores (CNMV), en una decisión que justifica por la “creciente concentración de liquidez” en el Nasdaq estadounidense y en las bolsas españolas. La misma no im.",
@@ -44,6 +49,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros",
+      "url": "https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T23:37:42.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

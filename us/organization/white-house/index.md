@@ -3,20 +3,32 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Who Approves Trump’s Washington Makeover Projects?
+### White House Plans $250,000 Renovation of 2-Lane Bowling Alley
 
-The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+A White House spokesman said the alley renovations included fixing broken lights. The project comes as the president has sought a broad overhaul of the White House and its surroundings.
 
-Date: 2026-09-02
+Date: 2026-09-03
 
 ### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
 
 In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
+
+Date: 2026-09-02
+
+### U.S. strikes Iran again as Tehran targets American allies in Gulf region
+
+Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran "very hard" if t.
+
+Date: 2026-09-02
+
+### Who Approves Trump’s Washington Makeover Projects?
+
+The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
 
 Date: 2026-09-02
 
@@ -56,21 +68,9 @@ Secretary of the Army, Dan Driscoll, is expected to step down after repeated cla
 
 Date: 2026-09-01
 
-### Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says
-
-No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.
-
-Date: 2026-09-01
-
-### What Trump's Most-Favored-Nation Deal Means for Drug Prices
-
-President Donald Trump speaks in the Oval Office of the White House on Aug. 31, 2026. —Annabelle Gordon/CNP/Bloomberg—Getty Images The Trump Administration on Aug. 31 announced that nine mid-sized pharmaceutical companies had agreed to lower the prices that Medicaid programs pay for drugs, bringing the total number of.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com) — 2026-09-02T21:22:50.000Z
-- [Progressive Senate candidates rack up primary wins even as they get outspent](https://www.nbcnews.com/politics/politics-news/progressive-senate-candidates-rack-primary-wins-even-get-outspent-rcna595769?utm_source=lootura.com) — 2026-09-02T21:05:45.000Z
-- [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z
+- [U.S. strikes Iran again as Tehran targets American allies in Gulf region](https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region?utm_source=lootura.com) — 2026-09-02T22:55:26.000Z
 - [Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com) — 2026-09-02T14:47:31.000Z
+- [White House Plans $250,000 Renovation of 2-Lane Bowling Alley](https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com) — 2026-09-03T01:08:35.000Z

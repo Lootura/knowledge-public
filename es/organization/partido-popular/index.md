@@ -3,14 +3,38 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
+### Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización
+
+Al Ayuntamiento de Llucmajor gobernado por la polémica alcaldesa Xisca Lascolas (PP) se le acumulan los problemas. Un trabajador de un supermercado de la localidad de s’Arenal ha sufrido una grave lesión física debido al mal estado de las calles de este importante núcleo turístico de Mallorca. El suceso tuvo lugar el p.
+
+Date: 2026-09-03
+
 ### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
 
 El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
+
+### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
+
+El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
+
+Date: 2026-09-02
+
+### Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez
+
+El presidente afronta un pleno muy difícil con Sumar, sus socios, PP y Vox asediándole por exculpar a Rabat y la gestión en Ceuta Leer.
+
+Date: 2026-09-02
+
+### El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: "El inversor que levanta el vuelo ya no vuelve"
+
+Dirigentes 'populares' mantuvieron el lunes un discreto encuentro para coordinar sus estrategias frente a la propuesta de real decreto del Gobierno que limita el despliegue de 'data center'. El plazo de alegaciones termina este viernes Leer.
 
 Date: 2026-09-02
 
@@ -23,12 +47,6 @@ Date: 2026-09-02
 ### Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»
 
 El líder del PP, Alberto Núñez Feijóo , ha acudido este miércoles a la masiva manifestación de la madrileña plaza de Cibeles en apoyo a Ceuta. Allí ha acusado al presidente del Gobierno, Pedro Sánchez, de «mentir» a los españoles y de «ocultar» los informes sobre la «invasión» de Ceuta, y prometió que su partido va a «.
-
-Date: 2026-09-02
-
-### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
-
-El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
 
 Date: 2026-09-02
 
@@ -50,27 +68,10 @@ Las derechas unen fuerzas en el arranque del curso político para movilizar la c
 
 Date: 2026-09-02
 
-### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
-
-El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
-
-Date: 2026-09-02
-
-### El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política del PP
-
-El comisario principal David Agorreta dirige el Centro Nacional de Inmigración y Fronteras desde 2015, a donde llegó tras haber ejercido como asesor jurídico de Eugenio Pino durante la primera legislatura de Mariano Rajoy Marlaska pregunta al director de la Policía por el supuesto informe que atribuía a fuerzas marroqu.
-
-Date: 2026-09-02
-
-### Moreno firmó un convenio "estable en el tiempo" con Ceuta para agilizar el traslado de menores ante "crisis migratorias"
-
-El acuerdo, suscrito en 2021 y renovado en 2024, está "en activo y desarrollándose", pero el PP cuestiona ahora que sirva para dar respuesta a la actual crisis en Ceuta porque no lo considera una "contingencia migratoria", sino un "atentado organizado contra la integridad territorial". Vox exige a su socio el rechazo d.
-
-Date: 2026-09-02
-
 ## Fuentes
 
+- [Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez](https://www.elmundo.es/espana/2026/09/03/6a986d14e9cf4a5b1d8b4572.html?utm_source=lootura.com) — 2026-09-02T23:37:52.000Z
+- [El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: "El inversor que levanta el vuelo ya no vuelve"](https://www.elmundo.es/economia/empresas/2026/09/03/6a9802d9e9cf4a60648b4599.html?utm_source=lootura.com) — 2026-09-02T23:37:45.000Z
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
-- [Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"](https://www.eldiario.es/politica/miles-ciudadanos-salen-calle-apoyo-ceuta-gestion-gobierno-sanchez-traidor_1_13482914.html?utm_source=lootura.com) — 2026-09-02T17:50:14.000Z
-- [Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»](https://okdiario.com/espana/feijoo-cibeles-pais-tomado-muy-buena-nota-que-ciudad-espanola-sido-invadida-ocupada-20218865?utm_source=lootura.com) — 2026-09-02T20:14:45.000Z
+- [Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización](https://okdiario.com/baleares/mas-problemas-ayuntamiento-llucmajor-trabajador-destroza-pie-mal-estado-acera-exige-indemnizacion-20213226?utm_source=lootura.com) — 2026-09-03T02:00:34.000Z
 - [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z

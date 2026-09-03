@@ -70,4 +70,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Arizona congressman heard ‘freight train crash’ sound during Grand Canyon flash flood](https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625?utm_source=lootura.com) — 2026-09-02T15:26:14.000Z
+No public source links.

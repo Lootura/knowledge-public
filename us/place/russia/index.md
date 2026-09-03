@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Inside a Ukrainian maternity ward as Russian strikes intensify
+
+As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.
+
+Date: 2026-09-03
 
 ### Attacks in Black Sea Threaten to Strangle Global Grain Supply
 
@@ -62,12 +68,6 @@ The U.S. is playing host to finance ministers from around the world this week. R
 
 Date: 2026-09-01
 
-### A Factory in Rural Ireland Is at the Center of a Dispute Over Russia
-
-Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.
-
-Date: 2026-09-01
-
 ## Sources
 
-No public source links.
+- [Inside a Ukrainian maternity ward as Russian strikes intensify](https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com) — 2026-09-03T01:12:23.000Z

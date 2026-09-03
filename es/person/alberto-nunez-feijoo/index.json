@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -28,13 +28,13 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»",
-      "summary": "Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...",
+      "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
+      "summary": "Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.",
       "date": "2026-09-02"
     },
     {
-      "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
-      "summary": "Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.",
+      "title": "Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»",
+      "summary": "Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...",
       "date": "2026-09-02"
     },
     {
@@ -75,12 +75,6 @@
   ],
   "sources": [
     {
-      "title": "Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»",
-      "url": "https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:00:10.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
       "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
       "url": "https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T12:49:12.000Z",
@@ -91,13 +85,7 @@
       "url": "https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T20:30:27.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»",
-      "url": "https://okdiario.com/espana/feijoo-cibeles-pais-tomado-muy-buena-nota-que-ciudad-espanola-sido-invadida-ocupada-20218865?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:14:45.000Z",
-      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

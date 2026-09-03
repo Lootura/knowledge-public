@@ -70,5 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»](https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com) — 2026-09-02T21:00:10.000Z
-- [Abascal en Cibeles: «Pedro Sánchez es un lacayo de Mohamed VI, un traidor a España»](https://okdiario.com/espana/abascal-cibeles-pedro-sanchez-lacayo-mohamed-vi-traidor-espana-20216991?utm_source=lootura.com) — 2026-09-02T19:47:10.000Z
+No public source links.

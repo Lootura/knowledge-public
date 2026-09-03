@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.json",
   "description": "Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [],
   "changes": [
     {
@@ -86,13 +86,7 @@
       "url": "https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:22:21.000Z",
       "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "El informe de la Policía desvela fotos de agentes de Marruecos guiando la invasión de Ceuta",
-      "url": "https://theobjective.com/espana/tribunales/2026-09-02/informe-policia-agentes-marruecos-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T17:36:14.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 4
 }

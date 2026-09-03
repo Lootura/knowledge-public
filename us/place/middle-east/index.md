@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [The Navy’s Logistical Nightmare in the Iran War](https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com) — 2026-09-02T10:27:52.000Z
+No public source links.

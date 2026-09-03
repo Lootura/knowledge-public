@@ -3,7 +3,7 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes

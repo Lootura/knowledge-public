@@ -3,7 +3,7 @@
 > Sigue la actividad de Policía Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/person/policia-nacional
 
 ## Cambios recientes
@@ -29,6 +29,12 @@ Date: 2026-09-02
 ### Lea aquí el informe policial íntegro que destroza la versión del Gobierno sobre Ceuta
 
 El informe que recibió la juez de la Audiencia Nacional María Tardón de la Policía Nacional apunta de manera directa a la responsabilidad de las autoridades marroquíes durante el asalto a Ceuta el pasado 30 y 31 de julio , y contradice por completo la versión mantenida por el Gobierno. El documento destaca la «total pe.
+
+Date: 2026-09-02
+
+### Golpe a la credibilidad
+
+Un informe de la Policía Nacional puso ayer en entredicho el relato oficial del Gobierno sobre la participación de Marruecos en la invasión sufrida en Ceuta a finales de julio. “No hay ninguna información de las fuerzas de seguridad del Estado, del CNI, ni de ningún centro de inteligencia que alumbre alguna duda sobre.
 
 Date: 2026-09-02
 
@@ -62,17 +68,11 @@ Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conoc
 
 Date: 2026-09-02
 
-### El director de la Policía comunica a Marlaska que ningún informe sitúa a Rabat tras el asalto de Ceuta
-
-El director general de la Policía Nacional, Francisco Pardo, ha comunicado al ministro del Interior, Fernando Grande-Marlaska, que “no existe informe policial alguno” que atribuya a Marruecos la planificación o ejecución de lo sucedido los días 30 y 31 de julio en Ceuta, según ha informado en un comunicado el Ministeri.
-
-Date: 2026-09-02
-
 ## Fuentes
 
 - [Las tres oleadas del salto a Ceuta recogidas por la Policía: primero jóvenes marroquíes en neopreno, después “grupos familiares completos”](https://elpais.com/espana/2026-09-02/las-tres-oleadas-del-salto-a-ceuta-recogidas-por-la-policia-primero-jovenes-marroquies-en-neopreno-despues-grupos-familiares-completos.html?utm_source=lootura.com) — 2026-09-02T18:59:19.000Z
 - [De “complexión fuerte”, pelo corto y gorras: así deduce la Policía que había agentes encubiertos de Rabat en la crisis](https://elpais.com/espana/2026-09-02/de-complexion-fuerte-pelo-corto-y-gorras-asi-describe-la-policia-a-los-agentes-dinamizadores-de-rabat-en-la-entrada-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T17:53:46.000Z
+- [Golpe a la credibilidad](https://www.lavanguardia.com/opinion/20260903/11626041/golpe-credibilidad.html?utm_source=lootura.com) — 2026-09-02T22:11:23.000Z
 - [La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»](https://theobjective.com/espana/2026-09-02/policia-complicidad-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:58:44.000Z
 - [La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria](https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com) — 2026-09-02T18:22:21.000Z
 - [Lea aquí el informe policial íntegro que destroza la versión del Gobierno sobre Ceuta](https://theobjective.com/espana/2026-09-02/lea-informe-policial-destroza-version-gobierno-ceuta/?utm_source=lootura.com) — 2026-09-02T18:42:20.000Z
-- [El informe de la Policía desvela fotos de agentes de Marruecos guiando la invasión de Ceuta](https://theobjective.com/espana/tribunales/2026-09-02/informe-policia-agentes-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:36:14.000Z

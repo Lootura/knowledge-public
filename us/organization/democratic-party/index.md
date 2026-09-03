@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### As Midterms Loom, Democrats Feud Over Defections
+
+The fight has highlighted party divisions and raised questions about how Democrats will run the House should they win the majority.
+
+Date: 2026-09-03
 
 ### Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?
 
@@ -17,6 +23,12 @@ Date: 2026-09-02
 ### House Democrats block constitutional amendment to lock Supreme Court at 9 justices
 
 The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.
+
+Date: 2026-09-02
+
+### Democratic strategist on the new anti-partisan swing voters
+
+Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.
 
 Date: 2026-09-02
 
@@ -56,19 +68,9 @@ Democrats and Republicans in Troy, New York, took on a national Catholic health 
 
 Date: 2026-09-01
 
-### Markey and other Massachusetts Democrats face primaries
-
-Multiple Massachusetts Democrats are facing primary challengers on Tuesday, led by Sen. Ed Markey, who warned voters that replacing him would mean losing a progressive champion and supporter of transgender rights in Washington. “We need universal childcare and Medicare for all,” Markey told supporters in Dorchester at.
-
-Date: 2026-09-01
-
-### Trump calls for federal tax incentives to benefit TV and movie industry
-
-The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [House Democrats block constitutional amendment to lock Supreme Court at 9 justices](https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com) — 2026-09-02T20:38:43.000Z
+- [Democratic strategist on the new anti-partisan swing voters](https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com) — 2026-09-02T22:35:50.000Z
 - [Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com) — 2026-09-02T15:56:27.000Z
+- [As Midterms Loom, Democrats Feud Over Defections](https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html?utm_source=lootura.com) — 2026-09-03T00:17:00.000Z

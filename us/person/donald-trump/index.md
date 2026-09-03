@@ -3,10 +3,34 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Judge blocks Trump's latest effort to narrow birthright citizenship
+
+A federal judge has temporarily blocked a Trump executive order that would prevent certain people from automatically becoming U.S. citizens at birth.
+
+Date: 2026-09-03
+
+### Trump says he’ll campaign for Republicans in 35 races ahead of the midterms
+
+The president said he’ll travel to help out GOP candidates in competitive midterm contests, including the Senate races in Alaska and Texas.
+
+Date: 2026-09-03
+
+### States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care
+
+The Trump administration wants to bar Medicaid and the Children’s Health Insurance Program from paying for gender-transition medication and surgery for transgender adolescents.
+
+Date: 2026-09-03
+
+### Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship
+
+The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.
+
+Date: 2026-09-03
 
 ### Trump to Nominate Hung Cao as Navy Secretary
 
@@ -32,18 +56,6 @@ Chief Justice John G. Roberts Jr. has been in the majority in divided cases more
 
 Date: 2026-09-02
 
-### Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
-
-The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.
-
-Date: 2026-09-02
-
-### Who Approves Trump’s Washington Makeover Projects?
-
-The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
-
-Date: 2026-09-02
-
 ### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
 
 In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
@@ -56,27 +68,15 @@ Iran is making fresh claims about the latest round of strikes in the region. Thi
 
 Date: 2026-09-02
 
-### Heads or tails? $1 coin with Trump's face and gold finish go on sale
-
-The coin's design — Trump's visage as "heads" and the Great Seal of the United States as "tails" — was given the stamp of approval this year by the U.S. Commission of Fine Arts, whose members Trump appointed.
-
-Date: 2026-09-02
-
-### Top U.S. doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion
-
-Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall, banding together Wednesday to issue shot guidelines — and highlight the science behind them — saying they hope to ease confusion caused by the Trump administration's changing advice.
-
-Date: 2026-09-02
-
 ## Sources
 
+- [Judge blocks Trump's latest effort to narrow birthright citizenship](https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com) — 2026-09-03T01:10:30.000Z
+- [Expert questions legality of U.S. strikes on alleged drug boats as death toll hits 227](https://www.cbsnews.com/video/experts-question-legality-of-deadly-us-drug-boat-strikes-as-death-toll-hits-227/?utm_source=lootura.com) — 2026-09-02T23:40:00.000Z
 - [Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential](https://www.cbsnews.com/video/iran-attacks-us-allies-gulf-region-trump-downplays-peace-deal-potential/?utm_source=lootura.com) — 2026-09-02T21:57:26.000Z
 - [Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting](https://www.cbsnews.com/video/iran-claims-us-struck-wedding-party-as-trump-navigates-pentagon-leadership-infighting/?utm_source=lootura.com) — 2026-09-02T17:31:56.000Z
-- [GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’](https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com) — 2026-09-02T20:42:35.000Z
+- [Trump says he’ll campaign for Republicans in 35 races ahead of the midterms](https://www.nbcnews.com/politics/2026-election/trump-says-will-campaign-republicans-35-races-ahead-midterms-rcna595807?utm_source=lootura.com) — 2026-09-03T02:15:36.000Z
 - [ICE detainee dies just hours after he was admitted into detention](https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei?utm_source=lootura.com) — 2026-09-02T09:00:00.000Z
 - [Heads or tails? $1 coin with Trump's face and gold finish go on sale](https://www.pbs.org/newshour/politics/heads-or-tails-1-coin-with-trumps-face-and-gold-finish-go-on-sale?utm_source=lootura.com) — 2026-09-02T17:10:25.000Z
 - [Top U.S. doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion](https://www.pbs.org/newshour/health/top-u-s-doctors-offer-updated-flu-and-covid-vaccine-recommendations-aiming-to-ease-confusion?utm_source=lootura.com) — 2026-09-02T18:21:19.000Z
 - [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z
 - [U.S. oil giant Chevron confirms it will expand operations in Venezuela](https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com) — 2026-09-02T21:39:57.000Z
-- [Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html?utm_source=lootura.com) — 2026-09-02T15:21:18.000Z
-- [On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html?utm_source=lootura.com) — 2026-09-02T15:43:03.000Z

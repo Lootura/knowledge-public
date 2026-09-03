@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -22,6 +22,11 @@
   ],
   "changes": [
     {
+      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
+      "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
       "summary": "Miles de personas se concentran este miércoles en cientos de municipios de toda España en solidaridad con Ceuta . Los actos están convocados, en su mayoría, por la Federación Española de Municipios y Provincias. Y, pese al llamamiento de la dirección del PSOE a no secundarlos, importantes bastiones socialistas, como Sa.",
       "date": "2026-09-02"
@@ -29,11 +34,6 @@
     {
       "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
       "summary": "Lo habían advertido. Alcaldes socialistas de todo el país, la gran mayoría de ellos andaluces, han salido a la calle este miércoles para apoyar la ciudad de Ceuta en su día grande. Unas concentraciones que no han sido del agrado de Ferraz, que en los últimos días han tratado de frenar la iniciativa de los alcaldes. Alg.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
-      "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
       "date": "2026-09-02"
     },
     {
@@ -74,23 +74,11 @@
   ],
   "sources": [
     {
-      "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
-      "url": "https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T19:35:16.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos",
-      "url": "https://theobjective.com/espana/2026-09-02/sumario-tarde-concentraciones-ceuta-informe-policial-marruecos/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T17:56:10.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
       "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
       "url": "https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com",
       "publishedAt": "2026-09-02T20:35:23.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

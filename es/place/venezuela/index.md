@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»
+
+Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».
+
+Date: 2026-09-03
 
 ### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
 
@@ -62,12 +68,6 @@ Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de 
 
 Date: 2026-08-12
 
-### Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura
-
-Los gobiernos de Venezuela e Israel han anunciado que pondrán en marcha un mecanismo para restablecer las relaciones diplomáticas tras la visita de una delegación israelí a territorio venezolano con motivo del doble terremoto registrado a finales de junio. Esto pone fin a la ruptura de lazos diplomáticos desde 2009. «L.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»](https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com) — 2026-09-03T00:18:56.000Z

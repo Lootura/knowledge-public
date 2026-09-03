@@ -3,10 +3,16 @@
 > Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/paises-bajos
 
 ## Cambios recientes
+
+### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+
+El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
+
+Date: 2026-09-02
 
 ### Ferrovial dejará de cotizar en la Bolsa de Ámsterdam tres años después de fijar su sede en Países Bajos
 
@@ -34,4 +40,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-No public source links.
+- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z

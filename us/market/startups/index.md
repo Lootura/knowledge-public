@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch?utm_source=lootura.com) — 2026-09-02T23:00:00.000Z

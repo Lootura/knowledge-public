@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [La Comunidad reconoce ahora que Ayuso visitó el ático tras su compra](https://www.abc.es/espana/madrid/ayuso-visito-atico-chamberi-despues-compra-20260902173019-nt.html?utm_source=lootura.com) — 2026-09-02T21:10:36.000Z
+No public source links.

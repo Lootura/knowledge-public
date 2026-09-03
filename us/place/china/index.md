@@ -3,16 +3,10 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
-
-### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
-
-Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
-
-Date: 2026-09-02
 
 ### Bessent says China agrees Iran shouldn't have nuclear weapons
 
@@ -23,6 +17,12 @@ Date: 2026-09-02
 ### China presses U.S. for answers after a man dies hours after entering ICE custody
 
 The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
+
+Date: 2026-09-02
+
+### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
+
+Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
 
 Date: 2026-09-02
 
@@ -72,4 +72,3 @@ Date: 2026-09-01
 
 - [Bessent says China agrees Iran shouldn't have nuclear weapons](https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com) — 2026-09-02T16:56:59.000Z
 - [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z
-- [At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports](https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com) — 2026-09-02T03:34:29.000Z

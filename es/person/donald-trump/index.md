@@ -3,14 +3,26 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
+### Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»
+
+Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».
+
+Date: 2026-09-03
+
 ### La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca
 
 Pyongyang encadena tres años de fuerte crecimiento, ha ganado miles de millones con la guerra de Ucrania, ampliado su arsenal nuclear y vuelve a contar simultáneamente con el respaldo de Putin y Xi Jinping. Ahora, Donald Trump quiere recuperar la diplomacia personal con el líder norcoreano, pero esta vez es Kim quien t.
+
+Date: 2026-09-02
+
+### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+
+El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
 
 Date: 2026-09-02
 
@@ -56,18 +68,8 @@ La nueva oleada de ataques contra Irán que había prometido el presidente de Es
 
 Date: 2026-09-01
 
-### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
-
-La renovada apuesta de Repsol por Venezuela avanza. La multinacional está encontrando el camino cada vez más despejado para poder desarrollar su actividad en el país latinoamericano, donde está presente desde 1993 y donde aspira a triplicar su apuesta actual. La última demostración de este avance llegó este mismo fin d.
-
-Date: 2026-09-01
-
-### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
-
-Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
-
-Date: 2026-08-31
-
 ## Fuentes
 
 - [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T18:36:07.000Z
+- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
+- [Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»](https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com) — 2026-09-03T00:18:56.000Z

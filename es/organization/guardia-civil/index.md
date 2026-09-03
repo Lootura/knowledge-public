@@ -3,16 +3,10 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
-
-### Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas
-
-Tres agentes de la Guardia Civil han resultado heridos este miércoles al interceptar una embarcación de gran potencia que transportaba una veintena de garrafas de gasolina, presuntamente destinadas al traslado de inmigrantes y al reabastecimiento de combustible de otras pateras taxi (práctica conocida como petaqueo ),.
-
-Date: 2026-09-02
 
 ### La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura
 
@@ -23,6 +17,12 @@ Date: 2026-09-02
 ### Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia
 
 Tres guardias civiles han resultado heridos este miércoles al ser embestida su patrullera por una narcolancha que ha sido interceptada en Cabo Cope , en el término municipal de Águilas, y cuyos dos ocupantes han sido detenidos. Según ha informado la Asociación Unificada de Guardias Civiles (AUGC), los hechos se han pro.
+
+Date: 2026-09-02
+
+### Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas
+
+Tres agentes de la Guardia Civil han resultado heridos este miércoles al interceptar una embarcación de gran potencia que transportaba una veintena de garrafas de gasolina, presuntamente destinadas al traslado de inmigrantes y al reabastecimiento de combustible de otras pateras taxi (práctica conocida como petaqueo ),.
 
 Date: 2026-09-02
 
@@ -71,5 +71,4 @@ Date: 2026-08-14
 ## Fuentes
 
 - [La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura](https://www.abc.es/espana/andalucia/guardia-civil-confirma-accidente-adamuz-rotura-soldadura-20260902232236-nts.html?utm_source=lootura.com) — 2026-09-02T21:34:55.000Z
-- [Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas](https://okdiario.com/espana/heridos-3-guardias-civiles-embestidos-planeadora-mafias-inmigracion-aguilas-20218621?utm_source=lootura.com) — 2026-09-02T19:07:32.000Z
 - [Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia](https://theobjective.com/espana/2026-09-02/heridos-guardias-civiles-embestidos-narcolancha-murcia/?utm_source=lootura.com) — 2026-09-02T19:34:04.000Z

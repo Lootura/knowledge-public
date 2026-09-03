@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Putin Pledges Increased Strikes in Ukraine and Support for Iran](https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html?utm_source=lootura.com) — 2026-09-02T01:53:53.000Z
+No public source links.

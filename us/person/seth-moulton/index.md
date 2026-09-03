@@ -3,7 +3,7 @@
 > Follow Seth Moulton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/person/seth-moulton
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Massachusetts Sen. Markey wins primary over opponent who called for generational change
 
 Sen. Ed Markey, 80, defeated Rep. Seth Moulton, 47, who had attempted to argue that it was time to do away with the "status quo" in his pursuit to oust the octogenarian.
+
+Date: 2026-09-02
+
+### Democratic strategist on the new anti-partisan swing voters
+
+Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.
 
 Date: 2026-09-02
 
@@ -52,5 +58,5 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Kornacki: How Democratic incumbents survived primary challenges in Massachusetts](https://www.nbcnews.com/meet-the-press/video/kornacki-how-democratic-incumbents-survived-primary-challenges-in-massachusetts-269240389556?utm_source=lootura.com) — 2026-09-02T21:04:44.000Z
+- [Democratic strategist on the new anti-partisan swing voters](https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com) — 2026-09-02T22:35:50.000Z
 - [Massachusetts Sen. Markey wins primary over opponent who called for generational change](https://www.pbs.org/newshour/politics/massachusetts-sen-markey-wins-primary-over-opponent-who-called-for-generational-change?utm_source=lootura.com) — 2026-09-02T16:18:42.000Z

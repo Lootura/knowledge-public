@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -18,6 +18,11 @@
     "Uncle Abe"
   ],
   "changes": [
+    {
+      "title": "USS Abraham Lincoln ends record stretch at sea",
+      "summary": "The USS Abraham Lincoln ended a record stretch at sea, making its first port call in nine months. It comes amid concerns about living conditions aboard. NBC News’ Courtney Kube reports.",
+      "date": "2026-09-02"
+    },
     {
       "title": "The Navy’s Logistical Nightmare in the Iran War",
       "summary": "Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.",
@@ -62,19 +67,14 @@
       "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
       "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "The Navy’s Logistical Nightmare in the Iran War",
-      "url": "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T10:27:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "USS Abraham Lincoln ends record stretch at sea",
+      "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-ends-record-stretch-at-sea-269244485831?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:58:30.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

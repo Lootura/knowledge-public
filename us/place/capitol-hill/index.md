@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Progressive Senate candidates rack up primary wins even as they get outspent](https://www.nbcnews.com/politics/politics-news/progressive-senate-candidates-rack-primary-wins-even-get-outspent-rcna595769?utm_source=lootura.com) — 2026-09-02T21:05:45.000Z
+No public source links.

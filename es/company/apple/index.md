@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Los mejores cascos de Apple tienen casi 200 euros de descuento y se convierten en uno de los chollos más interesantes de la semana
+
+Los AirPods Max 2 son los mejores cascos de Apple y, actualmente, están en oferta por tiempo limitado en AliExpress.
+
+Date: 2026-09-03
 
 ### Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte
 
@@ -62,12 +68,7 @@ El 1 de septiembre casi nadie estrena vida: repone. Vuelven los horarios y con e
 
 Date: 2026-09-01
 
-### Phil Schiller deja su puesto como jefe de la App Store de Apple
-
-La salida de Tim Cook como CEO y la asunción de John Ternus como su reemplazo no es el único cambio importante que llega a Apple. Según reporta Mark Gurman, de Bloomberg , Phil Schiller deja su puesto como jefe de la App Store y tampoco continuará al frente de la organización de los eventos de la compañía. De acuerdo c.
-
-Date: 2026-08-31
-
 ## Fuentes
 
 - [Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte](https://hipertextual.com/apple/apps-universales-abandonar-soporte-mac-con-chips-intel/?utm_source=lootura.com) — 2026-09-02T20:01:29.000Z
+- [Los mejores cascos de Apple tienen casi 200 euros de descuento y se convierten en uno de los chollos más interesantes de la semana](https://www.larazon.es/compras/nuestra-eleccion/mejores-cascos-apple-tienen-casi-200-euros-descuento-convierten-uno-chollos-mas-interesantes-semana_202609036a98090f2d7d3022177ba592.html?outputType=amp&utm_source=lootura.com) — 2026-09-03T01:30:13.000Z

@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -14,15 +14,27 @@ The U.S. energy giant, which stayed in the country after other Western companies
 
 Date: 2026-09-02
 
-### GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’
-
-Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.
-
-Date: 2026-09-02
-
 ### U.S. oil giant Chevron confirms it will expand operations in Venezuela
 
 Oil giant Chevron confirmed that it will expand operations in Venezuela after President Donald Trump announced an ambitious deal to develop the nation's oil reserves and give the Pentagon a stake in the profits.
+
+Date: 2026-09-02
+
+### Energy Secretary in Venezuela to tout major oil deal
+
+U.S. Energy Secretary Chris Wright was in Venezuela to tout a major oil deal. NBC News’ Gabe Gutierrez was there.
+
+Date: 2026-09-02
+
+### News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict
+
+In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.
+
+Date: 2026-09-02
+
+### GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’
+
+Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.
 
 Date: 2026-09-02
 
@@ -56,21 +68,10 @@ President Trump announced an unprecedented agreement in which the Pentagon would
 
 Date: 2026-08-31
 
-### Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings
-
-The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble.
-
-Date: 2026-08-06
-
-### U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes
-
-A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.
-
-Date: 2026-08-04
-
 ## Sources
 
 - [U.S. and Venezuela sign new oil deal](https://www.cbsnews.com/video/us-and-venezuela-sign-new-oil-deal/?utm_source=lootura.com) — 2026-09-02T17:04:17.000Z
-- [GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’](https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com) — 2026-09-02T20:42:35.000Z
+- [Energy Secretary in Venezuela to tout major oil deal](https://www.nbcnews.com/nightly-news/video/energy-secretary-in-venezuela-to-tout-major-oil-deal-269248069860?utm_source=lootura.com) — 2026-09-02T23:21:05.000Z
+- [News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict](https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com) — 2026-09-02T22:45:39.000Z
 - [U.S. oil giant Chevron confirms it will expand operations in Venezuela](https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com) — 2026-09-02T21:39:57.000Z
 - [Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches](https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com) — 2026-09-02T16:20:36.000Z

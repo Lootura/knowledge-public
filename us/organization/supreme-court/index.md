@@ -3,16 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
 
-### Who Approves Trump’s Washington Makeover Projects?
+### Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship
 
-The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
+The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.
 
-Date: 2026-09-02
+Date: 2026-09-03
 
 ### New Jersey asks Supreme Court to resolve fight over Kalshi's future
 
@@ -23,6 +23,12 @@ Date: 2026-09-02
 ### House Democrats block constitutional amendment to lock Supreme Court at 9 justices
 
 The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.
+
+Date: 2026-09-02
+
+### Who Approves Trump’s Washington Makeover Projects?
+
+The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
 
 Date: 2026-09-02
 
@@ -62,14 +68,8 @@ A majority of Supreme Court justices ruled that construction can continue on Pre
 
 Date: 2026-08-31
 
-### News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges
-
-In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.
-
-Date: 2026-08-31
-
 ## Sources
 
 - [House Democrats block constitutional amendment to lock Supreme Court at 9 justices](https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com) — 2026-09-02T20:38:43.000Z
 - [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z
-- [Who Approves Trump’s Washington Makeover Projects?](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com) — 2026-09-02T09:04:09.000Z
+- [Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship](https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html?utm_source=lootura.com) — 2026-09-03T00:26:49.000Z

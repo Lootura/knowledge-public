@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "AI",
     "AI science",
@@ -90,13 +90,7 @@
       "url": "https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:46:26.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "AI-designed proteins enable a new generation of RNA transporters",
-      "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:00:01.000Z",
-      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

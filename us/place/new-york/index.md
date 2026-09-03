@@ -70,4 +70,4 @@ Date: 2026-08-15
 
 ## Sources
 
-- [NYC, the nation's largest school system, bans AI for students through 8th grade](https://phys.org/news/2026-09-nyc-nation-largest-school-ai.html?utm_source=lootura.com) — 2026-09-02T21:00:03.000Z
+No public source links.

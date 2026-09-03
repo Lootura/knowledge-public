@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Malta businessman found not guilty in car bomb killing of journalist",
+      "summary": "Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.",
+      "date": "2026-09-02"
+    },
     {
       "title": "US politics is not the world's template for polarization, experts warn",
       "summary": "Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.",
@@ -58,32 +63,15 @@
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Europe should adapt, not copy, China’s practical PhD",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "US politics is not the world's template for polarization, experts warn",
-      "url": "https://phys.org/news/2026-09-politics-world-template-polarization-experts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T19:00:02.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests",
-      "url": "https://phys.org/news/2026-09-europe-housing-crisis-continental-million.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
-      "url": "https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:20:02.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Malta businessman found not guilty in car bomb killing of journalist",
+      "url": "https://www.cbsnews.com/news/yorgen-fenech-acquitted-daphne-caruana-galizia-killing/?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T23:59:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

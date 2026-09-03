@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -22,18 +22,8 @@
   ],
   "changes": [
     {
-      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
-      "summary": "El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria",
       "summary": "El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta",
-      "summary": "El informe enviado a la Audiencia Nacional evita mencionar al Gobierno marroquí pero concluye que la llegada masiva no tuvo “un objeto migratorio” sino que pretendía “colapsar” la frontera y “eliminar la capacidad de respuesta de España” El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige.",
       "date": "2026-09-02"
     },
     {
@@ -59,6 +49,16 @@
     {
       "title": "El informe sobre Ceuta amenaza con aislar aún más a Sánchez por exculpar a Marruecos",
       "summary": "El jefe del Gobierno, Pedro Sánchez, se arriesga este jueves a quedarse aislado parlamentariamente si decide seguir defendiendo la nula participación de Marruecos tras el informe policial remitido el martes a la Audiencia Nacional . El Ejecutivo se enrocaba este miércoles en que esa investigación no sostiene que Rabat.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
+      "summary": "El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta",
+      "summary": "El informe enviado a la Audiencia Nacional evita mencionar al Gobierno marroquí pero concluye que la llegada masiva no tuvo “un objeto migratorio” sino que pretendía “colapsar” la frontera y “eliminar la capacidad de respuesta de España” El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige.",
       "date": "2026-09-02"
     },
     {
@@ -92,22 +92,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
-      "url": "https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T11:06:18.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria",
       "url": "https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T14:16:34.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta",
-      "url": "https://www.eldiario.es/politica/policia-analiza-imagenes-redes-sociales-apuntar-posible-participacion-agentes-marroquies-asalto-ceuta_1_13482964.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:43:57.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     },
     {
       "title": "La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»",
@@ -122,5 +110,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 6
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El terrorismo cultural de ETA
+
+ETA ya no mata. Esto parece una obviedad, ya que la banda entregó las armas en el año 2011 y para el 2018 se disolvió oficialmente. No obstante, parece que la banda, o al menos ciertos de sus componentes, están más vivos que nunca en el País Vasco y Navarra, ya que la organización, de forma voluntaria o involuntaria, h.
+
+Date: 2026-09-03
 
 ### Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco
 
@@ -62,12 +68,7 @@ El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores im
 
 Date: 2026-08-13
 
-### Ondarroa, el enclave vizcaíno que aparece en la historia familiar de Jacob Elordi
-
-Aunque pueda parecer que el euskera solo se escucha en Euskadi, la diáspora vasca ha dejado huella en lugares muy alejados del territorio. Uno de esos descendientes es Jacob Elordi , actor australiano nacido en 1997 y conocido por Euphoria y Cumbres borrascosas . En una entrevista con Fotogramas , el intérprete reveló.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco](https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com) — 2026-09-02T15:25:38.000Z
+- [El terrorismo cultural de ETA](https://www.larazon.es/cultura/terrorismo-cultural-eta_202609036a98ccc34941316b1e75850e.html?utm_source=lootura.com) — 2026-09-03T01:26:27.000Z

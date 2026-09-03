@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños](https://theobjective.com/internacional/2026-09-02/espana-soldados-ucranianos-heridos/?amp=&utm_source=lootura.com) — 2026-09-02T15:53:41.000Z
+No public source links.

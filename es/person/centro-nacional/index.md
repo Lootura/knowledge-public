@@ -3,7 +3,7 @@
 > Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/person/centro-nacional
 
 ## Cambios recientes
@@ -74,4 +74,3 @@ Date: 2026-09-02
 - [Tres escritos de mandos policiales a Interior aseguran que ningún informe atribuye “la autoría del asalto a Ceuta a ningún gobierno”](https://elpais.com/espana/2026-09-02/tres-escritos-de-mandos-policiales-a-interior-aseguran-que-ningun-informe-atribuye-la-autoria-del-asalto-a-ceuta-a-ningun-gobierno.html?utm_source=lootura.com) — 2026-09-02T19:09:39.000Z
 - [El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta](https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T19:49:23.000Z
 - [La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria](https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com) — 2026-09-02T18:22:21.000Z
-- [El informe de la Policía desvela fotos de agentes de Marruecos guiando la invasión de Ceuta](https://theobjective.com/espana/tribunales/2026-09-02/informe-policia-agentes-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:36:14.000Z

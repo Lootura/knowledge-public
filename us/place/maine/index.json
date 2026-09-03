@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Painter Alex Katz reflects on his career and artistry ahead of 100th birthday",
+      "summary": "Artist Alex Katz is an American great who just celebrated his 99th birthday. What better way to celebrate than to have an exhibition in Nice, France, this fall titled \"Henri Matisse - Alex Katz.\" Senior arts correspondent Jeffrey Brown visited Katz at his home in Maine for our arts and culture series, CANVAS.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
       "summary": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters lead image.",
@@ -61,13 +66,15 @@
       "title": "Funding milestone detected",
       "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "One Maine community's fight to save a birthing center",
-      "summary": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Painter Alex Katz reflects on his career and artistry ahead of 100th birthday",
+      "url": "https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:20:41.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

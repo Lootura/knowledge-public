@@ -3,20 +3,26 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
+### Cómo recuperar a Julián Álvarez
 
-Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
+Se acabó el mercado de fichajes y Julián Álvarez se queda en el Atlético. El debate ha terminado, al menos de momento. El escenario es el siguiente: el jugador sigue en un club que quería cambiar por el Barcelona; y el club no se puede permitir perder las cualidades de uno de sus mejores futbolistas. Tampoco al delante.
 
-Date: 2026-09-02
+Date: 2026-09-03
 
 ### Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)
 
 La 'consellera' Núria Parlon critica "los discursos de odio" y subraya que los dos menores detenidos por el crimen son catalanes Leer.
+
+Date: 2026-09-02
+
+### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
+
+Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
 
 Date: 2026-09-02
 
@@ -62,13 +68,7 @@ El delantero brasileño Gabriel Jesús será jugador del FC Barcelona las próxi
 
 Date: 2026-09-01
 
-### ¿Puede el casero subirme la renta un 20% a pesar de estar el piso en una zona tensionada?
-
-Pregunta. Mi madre, de 79 años, es inquilina desde hace 16 años de un piso en Barcelona. El próximo 31 de octubre vence el contrato y el arrendador nos ha comunicado su intención de no renovarlo en las condiciones actuales. Nos propone una subida del 20% y un plazo de prórroga de tres años con subida del IPC. ¿Existe a.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy](https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di_amp.html?utm_source=lootura.com) — 2026-09-02T19:14:14.000Z
 - [Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)](https://www.elmundo.es/cataluna/2026/09/02/6a9805ade85ececf5c8b459f.html?utm_source=lootura.com) — 2026-09-02T13:02:34.000Z
+- [Cómo recuperar a Julián Álvarez](https://www.larazon.es/deportes/futbol/como-recuperar-julian-alvarez_202609036a989d843bfe5d1eff410680.html?utm_source=lootura.com) — 2026-09-03T01:22:57.000Z

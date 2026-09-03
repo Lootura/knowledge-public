@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -57,10 +57,10 @@
   ],
   "sources": [
     {
-      "title": "Google lanza Gemini 3.8 Flash, su IA más inteligente para programar",
-      "url": "https://hipertextual.com/inteligencia-artificial/gemini-3-8-flash-cyber-google/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:47:33.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:21:50.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 0

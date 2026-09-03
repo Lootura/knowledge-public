@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
+
+El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
+
+Date: 2026-09-02
 
 ### En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos
 
@@ -17,12 +23,6 @@ Date: 2026-09-02
 ### 72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz
 
 Lo habían advertido. Alcaldes socialistas de todo el país, la gran mayoría de ellos andaluces, han salido a la calle este miércoles para apoyar la ciudad de Ceuta en su día grande. Unas concentraciones que no han sido del agrado de Ferraz, que en los últimos días han tratado de frenar la iniciativa de los alcaldes. Alg.
-
-Date: 2026-09-02
-
-### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
-
-El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
 
 Date: 2026-09-02
 
@@ -70,6 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz](https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt.html?utm_source=lootura.com) — 2026-09-02T19:35:16.000Z
-- [En Sumario de tarde: de las concentraciones masivas por Ceuta al informe policial contra Marruecos](https://theobjective.com/espana/2026-09-02/sumario-tarde-concentraciones-ceuta-informe-policial-marruecos/?utm_source=lootura.com) — 2026-09-02T17:56:10.000Z
 - [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z

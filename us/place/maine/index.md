@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-03T02:54:15.085Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Painter Alex Katz reflects on his career and artistry ahead of 100th birthday
+
+Artist Alex Katz is an American great who just celebrated his 99th birthday. What better way to celebrate than to have an exhibition in Nice, France, this fall titled "Henri Matisse - Alex Katz." Senior arts correspondent Jeffrey Brown visited Katz at his home in Maine for our arts and culture series, CANVAS.
+
+Date: 2026-09-02
 
 ### Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters
 
@@ -62,12 +68,6 @@ President Donald Trump’s most vocal opponents on the right were sowing the see
 
 Date: 2026-08-05
 
-### One Maine community's fight to save a birthing center
-
-In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.
-
-Date: 2026-08-04
-
 ## Sources
 
-No public source links.
+- [Painter Alex Katz reflects on his career and artistry ahead of 100th birthday](https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com) — 2026-09-02T22:20:41.000Z

@@ -58,4 +58,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo](https://www.expansion.com/empresas/tecnologia/2026/09/02/6a984d54e5fdeaed0c8b457a.html?utm_source=lootura.com) — 2026-09-02T16:48:55.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -17,9 +17,9 @@
   ],
   "changes": [
     {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
-      "date": "2026-09-02"
+      "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
+      "summary": "The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.",
+      "date": "2026-09-03"
     },
     {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
@@ -29,6 +29,11 @@
     {
       "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
       "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Who Approves Trump’s Washington Makeover Projects?",
+      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
       "date": "2026-09-02"
     },
     {
@@ -60,11 +65,6 @@
       "title": "Justices give Trump major legal victory on ballroom project",
       "summary": "A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
-      "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
@@ -81,9 +81,9 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T09:04:09.000Z",
+      "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T00:26:49.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

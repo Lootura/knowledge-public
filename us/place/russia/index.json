@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,11 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
+      "summary": "As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
       "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
@@ -61,13 +66,15 @@
       "title": "Global finance ministers gather in North Carolina for G-20 summit",
       "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
-      "summary": "Alumina processed at a refinery in County Limerick may be feeding Russia’s war in Ukraine, an investigation suggested. There is little agreement on what to do about it.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
+      "url": "https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T01:12:23.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento](https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-02T16:12:17.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -21,11 +21,6 @@
   ],
   "changes": [
     {
-      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
-      "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
       "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
       "date": "2026-09-02"
@@ -33,6 +28,11 @@
     {
       "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
       "summary": "The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+      "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
       "date": "2026-09-02"
     },
     {
@@ -83,13 +83,7 @@
       "url": "https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com",
       "publishedAt": "2026-09-02T16:55:21.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
-      "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T03:34:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T09:09:09.297Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/place/europe
 
 ## Cambios recientes
+
+### Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones
+
+La bajada de la producción de las factorías españolas de automóviles y la caída de las exportaciones han provocado que la balanza comercial de la industria del automóvil en España haya caído en el primer semestre un 41,2 % respecto al mismo periodo del año pasado. Aun así, el saldo es positivo, con 3.344 millones de eu.
+
+Date: 2026-09-03
 
 ### El Mar Negro se prepara para el gran espectáculo: Burgas acogerá Eurovisión 2027
 
@@ -52,4 +58,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones](https://www.larazon.es/motor/fuerte-bajada-balanza-comercial-automovil-caida-exportaciones_202609036a98cc834941316b1e7584bb.html?utm_source=lootura.com) — 2026-09-03T01:25:23.000Z

@@ -34,4 +34,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’](https://www.nbcnews.com/meet-the-press/video/gop-rep-says-midterms-won-t-go-well-for-us-if-party-focuses-on-fighting-about-lake-ontario-269238341679?utm_source=lootura.com) — 2026-09-02T20:42:35.000Z
+No public source links.

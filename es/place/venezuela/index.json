@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
+      "summary": "Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».",
+      "date": "2026-09-03"
+    },
     {
       "title": "Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump",
       "summary": "Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.",
@@ -63,13 +68,15 @@
       "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
       "summary": "Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Venezuela e Israel acuerdan restablecer las relaciones diplomáticas tras 17 años de ruptura",
-      "summary": "Los gobiernos de Venezuela e Israel han anunciado que pondrán en marcha un mecanismo para restablecer las relaciones diplomáticas tras la visita de una delegación israelí a territorio venezolano con motivo del doble terremoto registrado a finales de junio. Esto pone fin a la ruptura de lazos diplomáticos desde 2009. «L.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
+      "url": "https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-03T00:18:56.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

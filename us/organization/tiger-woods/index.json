@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/tiger-woods/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/tiger-woods/index.json",
   "description": "Follow Tiger Woods, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T02:54:15.085Z",
   "aliases": [
     "Eldrick \"Tiger\" Woods",
     "Eldrick Tont \"Tiger\" Woods",
@@ -17,11 +17,6 @@
     "Woods"
   ],
   "changes": [
-    {
-      "title": "Tiger Woods pleads no contest in DUI case, license to be suspended",
-      "summary": "Tiger Woods pleaded no contest to reckless driving after a car crash near his Florida home earlier this year. NBC News' Aaron Gilchrist reports on what penalties Woods is facing and what comes next for the golf legend.",
-      "date": "2026-09-02"
-    },
     {
       "title": "Discovered by Atlas",
       "summary": "Tiger Woods first entered the public knowledge record with source-backed evidence.",
@@ -33,6 +28,16 @@
       "date": "2026-09-02"
     },
     {
+      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
+      "summary": "In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Tiger Woods pleads no contest in DUI case, license to be suspended",
+      "summary": "Tiger Woods pleaded no contest to reckless driving after a car crash near his Florida home earlier this year. NBC News' Aaron Gilchrist reports on what penalties Woods is facing and what comes next for the golf legend.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Tiger Woods to change not guilty plea in Florida DUI case, court records show",
       "summary": "Court documents show that Tiger Woods plans to change his not guilty plea in a DUI case stemming from a rollover crash in Florida.",
       "date": "2026-09-02"
@@ -40,15 +45,15 @@
   ],
   "sources": [
     {
-      "title": "Tiger Woods pleads no contest in DUI case, license to be suspended",
-      "url": "https://www.nbcnews.com/video/tiger-woods-pleads-no-contest-in-dui-case-license-to-be-suspended-269213253851?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:17:01.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida",
       "url": "https://www.pbs.org/newshour/nation/tiger-woods-pleads-no-contest-to-reckless-driving-charge-over-rollover-crash-in-florida?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:53:58.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:45:39.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],

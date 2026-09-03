@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -49,6 +49,11 @@
       "date": "2026-09-03"
     },
     {
+      "title": "Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»",
+      "summary": "Miguel de la Quadra-Salcedo (Madrid, 1932-2016) fue un explorador, periodista y aventurero que consagró su vida a recorrer América Latina y a acercar a los jóvenes españoles e iberoamericanos a ese continente. Su convicción de que «uno no es español del todo hasta que no conoce y ama a Hispanoamérica » atravesó toda su.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal",
       "summary": "Alphabet, la matriz empresarial detrás del motor de búsqueda online más popular del mundo, Google, ha obtenido este miércoles una importante victoria para su negocio en los tribunales de Estados Unidos. Si ya en el pasado Alphabet esquivó el tener que vender el navegador Google Chrome por su posición dominante, en esta.",
       "date": "2026-09-02"
@@ -87,26 +92,9 @@
       "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
       "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "La mujer asesinada en el apuñalamiento en Times Square es Erin Piacenti, vicepresidenta del Bank of America de 32 años",
-      "summary": "Bank of America ha confirmado la muerte de su ejecutiva y ha mostrado sus condolencias por lo ocurrido Leer.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
-    {
-      "title": "Victoria para Google en los tribunales: el gigante evita la partición de su negocio principal",
-      "url": "https://elpais.com/economia/2026-09-02/victoria-para-google-en-los-tribunales-el-gigante-evita-la-particion-de-su-negocio-principal.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:48:49.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-02/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:12:17.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
     {
       "title": "Fragmento del día: Corea del Norte",
       "url": "https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com",
@@ -114,11 +102,11 @@
       "sourceId": "lootura-es-lootura-diario"
     },
     {
-      "title": "Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno",
-      "url": "https://theobjective.com/internacional/2026-09-02/sheinbaum-acusa-eeuu-usar-tacticas-injerencia-dividir-gobierno/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:44:08.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»",
+      "url": "https://okdiario.com/curiosidades/deja-claro-miguel-quadra-salcedo-famoso-aventurero-uno-no-espanol-del-todo-hasta-que-no-conoce-ama-hispanoamerica-18484294?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:22:32.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

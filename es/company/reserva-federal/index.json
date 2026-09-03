@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-03T02:53:53.216Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
+      "summary": "El mercado da un 60% de probabilidades a que la Reserva Federal (Fed) decida subir los tipos de interés en la reunión de su comité de política monetaria prevista para el próximo 16 de septiembre. Seguir leyendo.",
+      "date": "2026-09-02"
+    },
     {
       "title": "Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos",
       "summary": "Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.",
@@ -62,13 +67,15 @@
       "title": "El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster",
       "summary": "El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la última que necesitaba, para convertirse en un gigante bancario en Estados Unidos gracias a Webster. Sus activos alcanzan los 253.600 millones de dólares (unos 220.000 millones de euros), con una posición dominante en el estado de Connecticut y no.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "La Fed autoriza la compra de Webster por el Santander y la operación se cerrará en dos semanas",
-      "summary": "Banco Santander y Webster Financial Corporation han anunciado que ya tienen la aprobación de la Reserva Federal de Estados Unidos para la adquisición por parte de la entidad española de la marca estadounidense en una operación valorada en más de 12.000 millones de dólares (algo más de 10.000 millones de euros, al cambi.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
+      "url": "https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T18:32:06.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

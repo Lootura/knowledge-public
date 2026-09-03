@@ -3,20 +3,32 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
-
-El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
-
-Date: 2026-09-02
-
 ### Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"
 
 Hoy miércoles 2 de septiembre se ha estrenado 'La Mesa', el programa que supone el esperado desembarco de Cristina Pardo en Antena 3.
+
+Date: 2026-09-02
+
+### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+
+El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
+
+Date: 2026-09-02
+
+### El Gobierno pedirá los últimos 26.000 millones de fondos europeos
+
+El vergel de los fondos europeos Next Generation toca a su fin , pero España busca exprimirlos hasta el último segundo. Así lo adelantó ayer Carlos Cuerpo , vicepresidente del Gobierno y ministro de Economía que, en un encuentro con la prensa tras su intervención en el Foro Anual organizado en Bruselas por el centro de.
+
+Date: 2026-09-02
+
+### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
+
+El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
 
 Date: 2026-09-02
 
@@ -56,19 +68,8 @@ El Gobierno ultima una metamorfosis de su arquitectura antiblanqueo con un coste
 
 Date: 2026-09-02
 
-### El Gobierno de Vivas estalla por los menores en Ceuta: «Son inmanejables»
-
-«¿5.000? Eso no se lo cree nadie» . La cifra que ofreció Pedro Sánchez sobre los ilegales que permanecen en Ceuta ha causado si cabe más indignación a las autoridades de la ciudad, que aproximan a esa cifra sólo los menores, que en teoría les corresponde gestionar a los servicios sociales de la administración local. Pe.
-
-Date: 2026-09-02
-
-### Guerra híbrida contra Europa
-
-“No estamos en guerra, pero tampoco ya en paz”, advierte desde hace meses Friedrich Merz. Podría parecer una afirmación exagerada o alarmista. No lo es. El Gobierno alemán acusó este martes a Moscú de estar detrás del ataque con drones en el aeropuerto de Leipzig el 4 de agosto pasado, y certificó así el diagnóstico de.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta](https://elpais.com/espana/2026-09-02/malestar-en-el-gobierno-contra-la-policia-por-ocultarle-una-informacion-clave-sobre-la-crisis-de-ceuta.html?utm_source=lootura.com) — 2026-09-02T11:06:18.000Z
+- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
+- [El Gobierno pedirá los últimos 26.000 millones de fondos europeos](https://www.expansion.com/economia/2026/09/03/6a98985fe5fdea1c758b456d.html?utm_source=lootura.com) — 2026-09-02T22:19:17.000Z
 - [Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"](https://okdiario.com/cool/television/cristina-pardo-estrena-mesa-ataque-sanchez-ceuta-gobierno-no-actuado-20219035/amp?utm_source=lootura.com) — 2026-09-02T22:10:39.000Z

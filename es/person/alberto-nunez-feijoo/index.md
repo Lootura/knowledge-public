@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T02:53:53.216Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska
 
 Date: 2026-09-02
 
-### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
-
-Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
-
-Date: 2026-09-02
-
 ### Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”
 
 Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.
+
+Date: 2026-09-02
+
+### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
+
+Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
 
 Date: 2026-09-02
 
@@ -70,7 +70,5 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»](https://www.eldebate.com/espana/20260902/inmensa-marea-humana-desborda-cibeles-extiende-todo-pais-ceuta-aguanta-espana-levanta_454816.html?utm_source=lootura.com) — 2026-09-02T21:00:10.000Z
 - [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
 - [Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com) — 2026-09-02T20:30:27.000Z
-- [Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»](https://okdiario.com/espana/feijoo-cibeles-pais-tomado-muy-buena-nota-que-ciudad-espanola-sido-invadida-ocupada-20218865?utm_source=lootura.com) — 2026-09-02T20:14:45.000Z

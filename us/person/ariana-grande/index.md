@@ -46,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Ariana Grande tearfully ends 41-show tour and steps back from public life](https://www.nbcnews.com/news/us-news/ariana-grande-ends-tour-prepares-step-back-public-life-scrutiny-rcna595669?utm_source=lootura.com) — 2026-09-02T12:48:36.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante](https://okdiario.com/cool/belleza/ni-champus-caros-ni-mascarillas-tecnica-china-lavarse-pelo-lucir-cabello-mas-suave-extrabrillante-20218636/amp?utm_source=lootura.com) — 2026-09-02T19:10:51.000Z
+No public source links.
