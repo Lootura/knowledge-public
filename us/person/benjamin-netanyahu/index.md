@@ -3,10 +3,16 @@
 > Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T05:24:09.686Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/person/benjamin-netanyahu
 
 ## Recent changes
+
+### U.S.-Israel relations are on the rocks ahead of elections
+
+Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.
+
+Date: 2026-09-03
 
 ### Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump
 
@@ -52,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-No public source links.
+- [U.S.-Israel relations are on the rocks ahead of elections](https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com) — 2026-09-03T08:06:18.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
@@ -51,6 +51,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Mario Picazo alerta a España para el fin de semana: «Las temperaturas se acercarán a los 45 grados»",
+      "url": "https://www.abc.es/recreo/mario-picazo-alerta-espana-llega-fin-semana-20260903091148-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T07:11:48.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

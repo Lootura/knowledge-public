@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch?utm_source=lootura.com) — 2026-09-02T23:00:00.000Z
+No public source links.

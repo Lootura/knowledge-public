@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Anthropic busca hacer historia en Bolsa en plena euforia de la IA](https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html?utm_source=lootura.com) — 2026-09-02T22:21:50.000Z
+- [Las 10 TV de 55″ más recomendadas para ver el Mundial 2026 en 4K](https://okdiario.com/okshopping/televisores-smart-tv-8201539?utm_source=lootura.com) — 2026-09-03T08:16:45.000Z

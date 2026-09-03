@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros
+
+Si algo distingue la segunda legislatura de Ursula von der Leyen al frente de la Comisión Europea (2024-2029) con respecto a la primera (2019-2024) es que el debate sobre la competitividad ha ganado peso sobre las políticas verdes, en un viraje que tuvo su primer hito con la presentación del plan Draghi y que se ha vis.
+
+Date: 2026-09-03
 
 ### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
 
@@ -62,12 +68,6 @@ La presidenta de la Comisión Europea, Ursula von der Leyen, ha elogiado este lu
 
 Date: 2026-08-03
 
-### Von der Leyen, tajante sobre la crisis en Ceuta: "No aceptaremos la inmigración como presión"
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe "hacer más" en sus fronteras exteriores, para lo cual aboga por una "rigurosa vi.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros](https://www.abc.es/economia/precio-tasa-verde-ue-200-euros-coche-20260902010937-nt.html?utm_source=lootura.com) — 2026-09-03T06:53:20.000Z

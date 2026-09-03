@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/comision-europea/index.json",
   "description": "Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "EC",
     "EU commission",
     "ec.europa.eu"
   ],
   "changes": [
+    {
+      "title": "El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros",
+      "summary": "Si algo distingue la segunda legislatura de Ursula von der Leyen al frente de la Comisión Europea (2024-2029) con respecto a la primera (2019-2024) es que el debate sobre la competitividad ha ganado peso sobre las políticas verdes, en un viraje que tuvo su primer hito con la presentación del plan Draghi y que se ha vis.",
+      "date": "2026-09-03"
+    },
     {
       "title": "La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»",
       "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , y el secretario general de la OTAN, Mark Rutte, han celebrado este miércoles una reunión en Bruselas como reacción al ataque de drones atribuidos a Rusia en el aeropuerto de la ciudad alemana de Liepzig . Von der Leyen ha hablado claramente de «un ataque usan.",
@@ -59,13 +64,15 @@
       "title": "Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta",
       "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, ha elogiado este lunes la gestión «eficiente y eficaz» de la última crisis migratoria en Ceuta.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Von der Leyen, tajante sobre la crisis en Ceuta: \"No aceptaremos la inmigración como presión\"",
-      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen , ha asegurado este lunes en una carta remitida al presidente del Gobierno español, Pedro Sánchez, que la crisis migratoria en Ceuta del jueves deja claro que la Unión Europea debe \"hacer más\" en sus fronteras exteriores, para lo cual aboga por una \"rigurosa vi.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros",
+      "url": "https://www.abc.es/economia/precio-tasa-verde-ue-200-euros-coche-20260902010937-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T06:53:20.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

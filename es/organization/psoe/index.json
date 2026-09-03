@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,11 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle",
+      "summary": "Muchas ciudades han acogido este miércoles manifestaciones de apoyo a Ceuta, pero ha sido en la ciudad autónoma donde se ha celebrado la más simbólica para exigir una solución al Gobierno que acabe con la crisis migratoria que tiene en vilo la ciudad. La indignación ha sido la constante de entre unos manifestantes que.",
+      "date": "2026-09-03"
+    },
     {
       "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
       "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
@@ -65,19 +70,14 @@
       "title": "Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: \"Hay que defender Ceuta hoy\"",
       "summary": "«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord",
-      "summary": "El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:35:23.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle",
+      "url": "https://elpais.com/espana/2026-09-03/dentro-de-la-protesta-en-ceuta-la-emocion-de-vivas-el-diputado-critico-del-psoe-y-la-indignacion-en-la-calle.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T02:45:48.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

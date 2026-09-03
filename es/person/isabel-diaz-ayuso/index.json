@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático",
+      "summary": "Isabel Díaz Ayuso ha llamado a filas a todo su Gobierno para preparar el año electoral. La presidenta de la Comunidad de Madrid se reúne este jueves con sus consejeros en la Residencia Santillana de Manzanares El Real, conocida coloquialmente como La Casita, para armar la estrategia del curso que comienza y ultimar los.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta",
       "summary": "El entorno de Isabel Díaz Ayuso ha reconocido por primera vez este miércoles a EL PAÍS que la presidenta sí visitó el ático de lujo por el que el Gobierno regional pagó 6,3 millones de euros, pero aclara que lo hizo después de que se ejecutara su compra, nunca antes. Según esta versión, Ayuso meditaba trasladar aquí su.",
@@ -59,19 +64,14 @@
       "title": "Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso",
       "summary": "El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el ático que compró el Gobierno de Isabel Díaz Ayuso por 6,3 millones de euros. La juez Rosario de Fátima Espinosa, que abrió un procedimiento tras un escrito de Iustitia Europa , ha recibido este lunes otras cuatro denuncias de la Fiscalía Pro.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
-      "summary": "Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta",
-      "url": "https://elpais.com/espana/madrid/2026-09-02/el-gobierno-de-ayuso-reconoce-que-la-presidenta-o-alguien-de-su-equipo-visito-el-atico-antes-de-comprarlo-obvio.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T12:41:25.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-09-03/ayuso-llama-a-filas-a-su-gobierno-para-preparar-el-ano-electoral-mientras-escala-la-crisis-del-atico_4416740/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

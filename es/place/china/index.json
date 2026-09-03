@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,16 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
+      "summary": "La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Nepal eleva a más de 1.250 los muertos por la riada en la frontera con China",
+      "summary": "Las autoridades de Nepal han elevado este jueves a más de 1.250 los muertos a causa de las devastadoras inundaciones registradas la semana pasada en el norte de Nepal, en la frontera con China , al tiempo que han resaltado que más de 4.200 personas siguen desaparecidas más de una semana después de la catástrofe. La Aut.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante",
       "summary": "Para conseguir un pelo radiante hay que recurrir a nuevas técnicas. En este caso, la técnica china para lavarse el pelo es Chinese Head Spa.",
@@ -66,18 +76,21 @@
       "title": "China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5",
       "summary": "Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en China, han desarrollado un avanzado sistema de navegación basado en las estrellas diseñado para guiar misiles hipersónicos cuando las señales de satélite se ven comprometidas o inutilizadas. Esto aborda uno de los puntos más vulnerables: la de.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Trump acusa a la UE de ayudar a China a esquivar sus aranceles",
-      "summary": "La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»",
-      "summary": "Todas esas herramientas pueden ser necesarias, pero funcionan mejor cuando se apoyan en ciudadanos responsables.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Nepal eleva a más de 1.250 los muertos por la riada en la frontera con China",
+      "url": "https://theobjective.com/internacional/2026-09-03/nepal-mas-1-250-muertos-riada-frontera-china/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:18:23.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

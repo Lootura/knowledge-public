@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El petróleo se relaja y las Bolsas recuperan el aliento
+
+Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.
+
+Date: 2026-09-03
 
 ### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
 
@@ -62,12 +68,6 @@ La Guardia Revolucionaria asegura que ha derribado «el 50.º dron avanzado MQ-9
 
 Date: 2026-09-01
 
-### Irán responde al ataque de EE.UU. con una oleada de misiles contra sus bases militares en Jordania
-
-La Guardia Revolucionaria de Irán ha respondido con fuerza a los bombardeos llevados a cabo por el Ejército de EE.UU. contra territorio persa. Este martes, tras proclamar venganza por los, al menos, cuatro muertos y más de 50 heridos por el último ataque estadounidense, la república islámica ha lanzado una nueva oleada.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [El petróleo se relaja y las Bolsas recuperan el aliento](https://cincodias.elpais.com/mercados-financieros/2026-09-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-03T08:23:55.000Z

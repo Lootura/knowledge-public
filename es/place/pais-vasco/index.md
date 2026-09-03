@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-13
 ## Fuentes
 
 - [Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco](https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com) — 2026-09-02T15:25:38.000Z
-- [El terrorismo cultural de ETA](https://www.larazon.es/cultura/terrorismo-cultural-eta_202609036a98ccc34941316b1e75850e.html?utm_source=lootura.com) — 2026-09-03T01:26:27.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -49,6 +49,26 @@
       "date": "2026-09-03"
     },
     {
+      "title": "Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson",
+      "summary": "La famosa cantante de jazz estadounidense y ganadora de dos Grammy, en su momento calificada por la revista Time como «la mejor cantante de América», Cassandra Wilson , ha muerto este miércoles a los 70 años en su ciudad natal de Jackson, en Misisipi, según ha anunciado su agente de toda la vida en un comunicado.«Con p.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
+      "summary": "La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica",
+      "summary": "El matrimonio ha decidido que Sacha Thyssen, el mayor de sus cinco hijos, continúe su formación al otro lado del charco.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros",
+      "summary": "El secretario de Energía de Estados Unidos, Christopher Wright, está por segunda vez en Venezuela desde que se restablecieron las relaciones entre Washington y Caracas. La mano derecha de Trump para asuntos energéticos ha participado en la firma de una decena de acuerdos de explotación petrolera con Chevron , la italia.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»",
       "summary": "Miguel de la Quadra-Salcedo (Madrid, 1932-2016) fue un explorador, periodista y aventurero que consagró su vida a recorrer América Latina y a acercar a los jóvenes españoles e iberoamericanos a ese continente. Su convicción de que «uno no es español del todo hasta que no conoce y ama a Hispanoamérica » atravesó toda su.",
       "date": "2026-09-02"
@@ -72,29 +92,27 @@
       "title": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
       "summary": "Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP",
-      "summary": "Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
-      "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
+    {
+      "title": "Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson",
+      "url": "https://www.abc.es/cultura/musica/muere-anos-cantante-jazz-estadounidense-cassandra-wilson-20260903082758-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T07:44:24.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros",
+      "url": "https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:30:22.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
     {
       "title": "Fragmento del día: Corea del Norte",
       "url": "https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com",
@@ -102,11 +120,11 @@
       "sourceId": "lootura-es-lootura-diario"
     },
     {
-      "title": "Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»",
-      "url": "https://okdiario.com/curiosidades/deja-claro-miguel-quadra-salcedo-famoso-aventurero-uno-no-espanol-del-todo-hasta-que-no-conoce-ama-hispanoamerica-18484294?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:22:32.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica",
+      "url": "https://theobjective.com/gente/2026-09-03/borja-thyssen-y-blanca-cuesta-mandan-a-su-hijo-mayor-a-estados-unidos-mientras-su-situacion-en-andorra-se-complica/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:23:09.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

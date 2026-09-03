@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Illa inicia su viaje a Ucrania con una parada en Polonia: "Es fundamental para Europa"
+
+El presidente de la Generalitat, Salvador Illa, llegó este miércoles por la tarde-noche a Polonia, primera etapa de un viaje institucional que le llevará este jueves hasta Kiev, en plena guerra de Ucrania. Desde territorio polaco, el dirigente socialista ha advertido de que «los valores de Europa están en juego en Ucra.
+
+Date: 2026-09-03
 
 ### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
 
@@ -62,12 +68,6 @@ El presidente catalán Salvador Illa ha abierto una minicrisis en la Generalitat
 
 Date: 2026-07-20
 
-### Cataluña pone en marcha una ley para multar con 900.000 € a grafiteros y vándalos en los trenes
-
-Desde ahora, el Gobierno de la Generalitat de Cataluña , que preside el socialista Salvador Illa , puede multar a los grafiteros y vándalos que causen desperfectos en los trenes de Cataluña con hasta 900.000 € de sanción . Tras la publicación en el BOE , el pasado 18 de julio, de la ley elaborada por el Parlamento cata.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Illa inicia su viaje a Ucrania con una parada en Polonia: "Es fundamental para Europa"](https://www.larazon.es/cataluna/illa-inicia-viaje-ucrania-parada-polonia-fundamental-europa_202609036a992d614941316b1e75d6db.html?utm_source=lootura.com) — 2026-09-03T08:18:41.000Z

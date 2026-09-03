@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.json",
   "description": "Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Carlos Cuerpo Caballero",
     "Cuerpo"
@@ -20,13 +20,13 @@
       "date": "2026-09-02"
     },
     {
-      "title": "El Gobierno pedirá los últimos 26.000 millones de fondos europeos",
-      "summary": "El vergel de los fondos europeos Next Generation toca a su fin , pero España busca exprimirlos hasta el último segundo. Así lo adelantó ayer Carlos Cuerpo , vicepresidente del Gobierno y ministro de Economía que, en un encuentro con la prensa tras su intervención en el Foro Anual organizado en Bruselas por el centro de.",
+      "title": "Discovered by Atlas",
+      "summary": "Carlos Cuerpo first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-02"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Carlos Cuerpo first entered the public knowledge record with source-backed evidence.",
+      "title": "El Gobierno pedirá los últimos 26.000 millones de fondos europeos",
+      "summary": "El vergel de los fondos europeos Next Generation toca a su fin , pero España busca exprimirlos hasta el último segundo. Así lo adelantó ayer Carlos Cuerpo , vicepresidente del Gobierno y ministro de Economía que, en un encuentro con la prensa tras su intervención en el Foro Anual organizado en Bruselas por el centro de.",
       "date": "2026-09-02"
     }
   ],
@@ -36,13 +36,7 @@
       "url": "https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T23:37:42.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno pedirá los últimos 26.000 millones de fondos europeos",
-      "url": "https://www.expansion.com/economia/2026/09/03/6a98985fe5fdea1c758b456d.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:19:17.000Z",
-      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

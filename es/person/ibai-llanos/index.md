@@ -3,10 +3,16 @@
 > Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/person/ibai-llanos
 
 ## Cambios recientes
+
+### Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’
+
+Ibai Llanos, uno de los creadores de contenido más importantes de España, ha encontrado un importante filón de negocio en el evento boxístico que organiza cada año. Se trata de la velada del año , una cita que comenzó a celebrar en 2021, con un aforo muy reducido por las restricciones que todavía exigía la pandemia de.
+
+Date: 2026-09-03
 
 ### Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: "Me he cagado"
 
@@ -62,12 +68,6 @@ La Comisión Nacional de los Mercados y la Competencia ha impuesto un total de t
 
 Date: 2026-07-23
 
-### Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades
-
-La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado este jueves las sanciones a los influencers I bai Llanos , Jordi Wild y Nachter con multas que van de los 700 euros a casi los 1.800 por irregularidades en su actividad comercial en redes sociales. Según la CNMC, estas sanciones se han impuesto.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’](https://cincodias.elpais.com/companias/2026-09-03/ibai-llanos-facturo-casi-12-millones-en-2025-con-la-promotora-de-la-velada-del-ano.html?utm_source=lootura.com) — 2026-09-03T03:15:00.000Z

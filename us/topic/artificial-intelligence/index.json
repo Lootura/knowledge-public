@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,16 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "With education technology, engagement is not the same as learning",
+      "summary": "A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative AI tools pose particular risks by improving students' immediate performance without building their underlying knowledge or skills.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.",
+      "date": "2026-09-03"
+    },
     {
       "title": "AI agents are hacking systems without any input from humans. How did we get here?",
       "summary": "AI agents are systems that work on their own to handle tasks for humans. They've recently made headlines for actions they've taken, such as hacking, without human supervision.",
@@ -66,16 +76,6 @@
       "title": "When AI does science, who is accountable for mistakes?",
       "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When AI does science, who is accountable for mistakes?",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Agentic AI accelerates search for crops that can harvest critical minerals",
-      "summary": "For too long, the United States has relied on foreign sources for most of the raw materials powering its technological future: the essential minerals in every smartphone, battery pack and semiconductor. What if one answer to the supply crisis isn't buried in a mine shaft but growing quietly in a field? Scientists are b.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
-      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -86,11 +86,17 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "AI agents are hacking systems without any input from humans. How did we get here?",
-      "url": "https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:46:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "With education technology, engagement is not the same as learning",
+      "url": "https://phys.org/news/2026-09-technology-engagement.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T04:00:03.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T07:00:47.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)](https://www.elmundo.es/cataluna/2026/09/02/6a9805ade85ececf5c8b459f.html?utm_source=lootura.com) — 2026-09-02T13:02:34.000Z
-- [Cómo recuperar a Julián Álvarez](https://www.larazon.es/deportes/futbol/como-recuperar-julian-alvarez_202609036a989d843bfe5d1eff410680.html?utm_source=lootura.com) — 2026-09-03T01:22:57.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,6 +70,5 @@ Date: 2026-08-31
 
 ## Sources
 
-- [House Democrats block constitutional amendment to lock Supreme Court at 9 justices](https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com) — 2026-09-02T20:38:43.000Z
 - [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z
 - [Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship](https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html?utm_source=lootura.com) — 2026-09-03T00:26:49.000Z

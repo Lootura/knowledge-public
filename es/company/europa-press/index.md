@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma
+
+Un hombre extranjero de 29 años ha fallecido pasada la medianoche de este jueves tras ser atropellado frente a una discoteca en Palma , capital de Mallorca. El suceso ha tenido lugar en la carretera Ma-19A (camí de Can Capó), frente a la discoteca Amok , según ha informado a Europa Press el SAMU 061 , que ha situado el.
+
+Date: 2026-09-03
 
 ### Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares
 
@@ -62,12 +68,6 @@ Un varón de 20 años ha resultado gravemente herido tras una reyerta ocurrida p
 
 Date: 2026-08-08
 
-### Baleares cesa a la directora general de Costas, que denunció un intento de soborno
-
-El Govern ha decidido cesar a su hasta ahora directora general de Costas y Litoral, Maria Joaquina Ferrer Mata s, quien llevaba poco menos de un año en el cargo. La decisión, según ha adelantado Diario de Mallorca y han confirmado a Europa Press fuentes del Ejecutivo conocedoras de la misma, se formalizará en el Consel.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma](https://www.elconfidencial.com/espana/2026-09-03/atropello-discoteca-palma-mallorca-1tna-1tps_4416925/?utm_source=lootura.com) — 2026-09-03T05:08:00.000Z

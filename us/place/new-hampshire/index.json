@@ -1,0 +1,48 @@
+{
+  "id": "usa-new-hampshire",
+  "name": "New Hampshire",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/new-hampshire",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/new-hampshire",
+  "markdownUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.json",
+  "description": "Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "aliases": [
+    "State of New Hampshire",
+    "New Hampshire, United States",
+    "The Granite State",
+    "N.H.",
+    "NH",
+    "US-NH",
+    "Granite State"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "New Hampshire first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "In the Midterms, Will the Nepo-Baby Attack Work?",
+      "summary": "A New Hampshire senator’s daughter is running for office, and finds her name being used against her.",
+      "date": "2026-09-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Elon Musk unleashes first wave of spending on key races in the midterms",
+      "url": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T02:57:19.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "In the Midterms, Will the Nepo-Baby Attack Work?",
+      "url": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:55:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

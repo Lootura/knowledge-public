@@ -3,10 +3,16 @@
 > Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/person/centro-nacional
 
 ## Cambios recientes
+
+### El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: "Algunos tienen hasta gorra policial"
+
+El informe entregado el pasado lunes a la Audiencia Nacional por el Centro Nacional de Inmigración y Fronteras (CENIF) apunta a las fuerzas de seguridad marroquíes como planificadoras del asalto masivo a la frontera ceutí y no escatima en detalles sobre la presencia de estos agentes, ese 30 de julio, junto a los más de.
+
+Date: 2026-09-03
 
 ### Discovered by Atlas
 
@@ -62,15 +68,10 @@ El informe del Centro Nacional de Inmigración y Fronteras (CENIF) de la Policí
 
 Date: 2026-09-02
 
-### Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo
-
-El ministro del Interior, Fernando Grande-Marlaska, ha exigido al director de la Policía Nacional, Francisco Pardo, que le informe “a la mayor brevedad” sobre el contenido de un informe que el del Centro Nacional de Inmigración y Fronteras (CENIF) habría remitido a la Audiencia Nacional que atribuiría a Marruecos el as.
-
-Date: 2026-09-02
-
 ## Fuentes
 
+- [La Policía constata varias "oleadas" en la entrada diseñadas para "colapsar las capacidades" de España](https://www.20minutos.es/nacional/policia-constata-varias-oleadas-entrada-ceuta-disenadas-para-colapsar-las-capacidades-respuesta-espana_7032187_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: "Algunos tienen hasta gorra policial"](https://www.20minutos.es/nacional/cenif-aporta-imagenes-presencia-agentes-marroquies-camuflados-asalto-ceuta-algunos-tienen-hasta-gorra-policial_7032200_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
 - [Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a985703fc6c8386058b45b4.html?utm_source=lootura.com) — 2026-09-02T17:08:34.000Z
 - [Tres escritos de mandos policiales a Interior aseguran que ningún informe atribuye “la autoría del asalto a Ceuta a ningún gobierno”](https://elpais.com/espana/2026-09-02/tres-escritos-de-mandos-policiales-a-interior-aseguran-que-ningun-informe-atribuye-la-autoria-del-asalto-a-ceuta-a-ningun-gobierno.html?utm_source=lootura.com) — 2026-09-02T19:09:39.000Z
 - [El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta](https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T19:49:23.000Z
-- [La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria](https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com) — 2026-09-02T18:22:21.000Z

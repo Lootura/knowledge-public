@@ -40,4 +40,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy](https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html?utm_source=lootura.com) — 2026-09-03T00:03:43.000Z
+No public source links.

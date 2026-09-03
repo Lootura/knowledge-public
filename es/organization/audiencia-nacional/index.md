@@ -3,16 +3,28 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria
+### El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: "Algunos tienen hasta gorra policial"
 
-El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.
+El informe entregado el pasado lunes a la Audiencia Nacional por el Centro Nacional de Inmigración y Fronteras (CENIF) apunta a las fuerzas de seguridad marroquíes como planificadoras del asalto masivo a la frontera ceutí y no escatima en detalles sobre la presencia de estos agentes, ese 30 de julio, junto a los más de.
 
-Date: 2026-09-02
+Date: 2026-09-03
+
+### La crisis de Ceuta cerca de nuevo a Marlaska y deja al Gobierno de Sánchez aún más debilitado y enfrentado a oposición y socios
+
+La insistencia del Gobierno en negar desde un inicio la posibilidad de que Marruecos estuviera implicado en la entrada masiva de inmigrantes a Ceuta a finales de julio se topó este lunes con un obstáculo: un informe policial entregado en la Audiencia Nacional apunta a la participación o colaboración de autoridades poli.
+
+Date: 2026-09-03
+
+### Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta
+
+El informe que la Policía Nacional entregó el pasado lunes en la Audiencia Nacional a la magistrada María Tardón ha supuesto el inicio de una polvareda que sacude el cuerpo tras el enfado del ministro del Interior, Fernando Grande-Marlaska, que aseguró que no hubo avisos previos de la avalancha migratoria del 30 de jul.
+
+Date: 2026-09-03
 
 ### Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta
 
@@ -23,6 +35,18 @@ Date: 2026-09-02
 ### El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta
 
 El informe que el Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía ha entregado en la Audiencia Nacional analiza imágenes y mensajes de redes sociales y habla de “permisividad” de las Fuerzas de seguridad marroquíes. En el documento, al que ha tenido acceso EL PAÍS, la Policía concluye que agentes de Ra.
+
+Date: 2026-09-02
+
+### Interior responde con una operación de desinformación tras el dossier que señala a Marruecos y hunde el relato de las "mafias"
+
+El informe enviado a la Audiencia Nacional considera a la Gendarmería marroquí como un sujeto clave en la avalancha humana enviada a Ceuta Leer.
+
+Date: 2026-09-02
+
+### El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria
+
+El director de la Policía, Francisco Pardo Piqueras, ha asegurado este miércoles al ministro del Interior, Fernando Grande-Marlaska, que el informe que se ha presentado en la Audiencia Nacional, y que apunta a que existieron avisos previos de flujos migratorios importantes en Ceuta los días anteriores a la avalancha el.
 
 Date: 2026-09-02
 
@@ -44,35 +68,12 @@ El jefe del Gobierno, Pedro Sánchez, se arriesga este jueves a quedarse aislado
 
 Date: 2026-09-02
 
-### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
-
-El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
-
-Date: 2026-09-02
-
-### La Policía analiza imágenes de redes sociales para apuntar a la posible participación de agentes marroquíes en la entrada a Ceuta
-
-El informe enviado a la Audiencia Nacional evita mencionar al Gobierno marroquí pero concluye que la llegada masiva no tuvo “un objeto migratorio” sino que pretendía “colapsar” la frontera y “eliminar la capacidad de respuesta de España” El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige.
-
-Date: 2026-09-02
-
-### Los mensajes que se enviaban los asaltantes de Ceuta: "La poli lleva ropa normal, bajad a Castillejos..."
-
-El informe policial de 55 páginas sobre el asalto a la frontera de Ceuta, entregado este pasado lunes a la jueza María Tardón en la Audiencia Nacional, aparte de enfatizar el papel fundamental de las fuerzas de seguridad marroquíes para hacer un "guiado activo" de los inmigrantes hacia la ciudad autónoma , también deta.
-
-Date: 2026-09-02
-
-### El informe policial contradice al Gobierno y dice que autoridades marroquíes participaron en el "guiado activo" de migrantes
-
-El informe policial entregado en la Audiencia Nacional este lunes señala a gendarmes y policías de paisano de Marruecos como "sujetos activos" que participaron en la entrada masiva de inmigrantes a Ceuta. El documento apunta a Rabat por "la escasa presencia de Fuerzas y Cuerpos de Seguridad de Marruecos" en la zona y p.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [El informe sobre Ceuta amenaza con aislar aún más a Sánchez por exculpar a Marruecos](https://www.elconfidencial.com/espana/2026-09-02/el-informe-sobre-ceuta-aislar-aun-mas-a-sanchez_4416864/?utm_source=lootura.com) — 2026-09-02T20:10:00.000Z
+- [La Policía constata varias "oleadas" en la entrada diseñadas para "colapsar las capacidades" de España](https://www.20minutos.es/nacional/policia-constata-varias-oleadas-entrada-ceuta-disenadas-para-colapsar-las-capacidades-respuesta-espana_7032187_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: "Algunos tienen hasta gorra policial"](https://www.20minutos.es/nacional/cenif-aporta-imagenes-presencia-agentes-marroquies-camuflados-asalto-ceuta-algunos-tienen-hasta-gorra-policial_7032200_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [La crisis de Ceuta cerca de nuevo a Marlaska y deja al Gobierno de Sánchez aún más debilitado y enfrentado a oposición y socios](https://www.20minutos.es/nacional/crisis-ceuta-cerca-nuevo-marlaska-deja-gobierno-sanchez-aun-mas-debilitado-enfrentado-oposicion-socios_7032117_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [Interior responde con una operación de desinformación tras el dossier que señala a Marruecos y hunde el relato de las "mafias"](https://www.elmundo.es/espana/2026/09/02/6a986cede9cf4a04528b45b7.html?utm_source=lootura.com) — 2026-09-02T21:05:44.000Z
 - [Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta](https://amp.elmundo.es/espana/2026/09/02/6a985703fc6c8386058b45b4.html?utm_source=lootura.com) — 2026-09-02T17:08:34.000Z
+- [Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta](https://elpais.com/espana/2026-09-03/las-claves-del-informe-que-marlaska-no-conocia-y-que-puede-suponer-el-inicio-de-una-investigacion-por-lo-sucedido-en-ceuta.html?utm_source=lootura.com) — 2026-09-03T03:45:01.000Z
 - [El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta](https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T19:49:23.000Z
-- [El director de la Policía asegura a Marlaska que el informe no atribuye a Marruecos “la planificación o ejecución” de la crisis migratoria](https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html?utm_source=lootura.com) — 2026-09-02T14:16:34.000Z
-- [La Policía señala la complicidad de Marruecos con la invasión a Ceuta: «48 horas inoperativos»](https://theobjective.com/espana/2026-09-02/policia-complicidad-marruecos-ceuta/?utm_source=lootura.com) — 2026-09-02T17:58:44.000Z
-- [Lea aquí el informe policial íntegro que destroza la versión del Gobierno sobre Ceuta](https://theobjective.com/espana/2026-09-02/lea-informe-policial-destroza-version-gobierno-ceuta/?utm_source=lootura.com) — 2026-09-02T18:42:20.000Z

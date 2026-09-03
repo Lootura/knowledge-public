@@ -3,7 +3,7 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Mario Picazo alerta a España para el fin de semana: «Las temperaturas se acercarán a los 45 grados»](https://www.abc.es/recreo/mario-picazo-alerta-espana-llega-fin-semana-20260903091148-nt.html?utm_source=lootura.com) — 2026-09-03T07:11:48.000Z

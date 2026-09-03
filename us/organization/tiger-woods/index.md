@@ -3,7 +3,7 @@
 > Follow Tiger Woods, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/organization/tiger-woods
 
 ## Recent changes
@@ -14,15 +14,15 @@ Tiger Woods first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-09-02
 
-### Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida
-
-Woods was arrested in March after his SUV clipped a truck and rolled over on its side on a beachside residential road near his home on Jupiter Island. A sheriff's report said deputies found two pain pills in his pocket and he showed signs of impairment.
-
-Date: 2026-09-02
-
 ### News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict
 
 In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.
+
+Date: 2026-09-02
+
+### Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida
+
+Woods was arrested in March after his SUV clipped a truck and rolled over on its side on a beachside residential road near his home on Jupiter Island. A sheriff's report said deputies found two pain pills in his pocket and he showed signs of impairment.
 
 Date: 2026-09-02
 
@@ -40,5 +40,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [Tiger Woods pleads no contest to reckless driving charge over rollover crash in Florida](https://www.pbs.org/newshour/nation/tiger-woods-pleads-no-contest-to-reckless-driving-charge-over-rollover-crash-in-florida?utm_source=lootura.com) — 2026-09-02T18:53:58.000Z
 - [News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict](https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com) — 2026-09-02T22:45:39.000Z

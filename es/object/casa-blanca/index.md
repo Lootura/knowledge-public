@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
+
+Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.
+
+Date: 2026-09-03
 
 ### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
 
@@ -62,12 +68,6 @@ El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Or
 
 Date: 2026-08-03
 
-### Cómo ha estrechado Trump la alianza de EEUU con Marruecos
-
-Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio](https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com) — 2026-09-03T03:30:01.000Z

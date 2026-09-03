@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -23,13 +23,13 @@
   ],
   "changes": [
     {
-      "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
-      "summary": "The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.",
+      "title": "'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract",
+      "summary": "U.S. Immigration and Customs Enforcement agents may soon be outfitted with electric shock gloves that can deliver painful jolts when they come in contact with a person's skin. While ICE says the new gear will help agents deescalate situations with detainees or protesters without relying on \"higher levels of force,\" Dem.",
       "date": "2026-09-02"
     },
     {
-      "title": "'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract",
-      "summary": "U.S. Immigration and Customs Enforcement agents may soon be outfitted with electric shock gloves that can deliver painful jolts when they come in contact with a person's skin. While ICE says the new gear will help agents deescalate situations with detainees or protesters without relying on \"higher levels of force,\" Dem.",
+      "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
+      "summary": "The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.",
       "date": "2026-09-02"
     },
     {
@@ -75,17 +75,11 @@
   ],
   "sources": [
     {
-      "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
-      "url": "https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:55:21.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract",
       "url": "https://www.pbs.org/newshour/nation/a-perfect-tool-for-abuse-why-experts-are-concerned-about-ices-17-million-electric-shock-gloves-contract?utm_source=lootura.com",
       "publishedAt": "2026-09-02T20:50:35.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

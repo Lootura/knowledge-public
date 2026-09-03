@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ibai-llanos/index.json",
   "description": "Sigue la actividad de Ibai Llanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Ibai",
     "Ibai Llanos Garatea",
@@ -16,6 +16,11 @@
     "Roro"
   ],
   "changes": [
+    {
+      "title": "Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’",
+      "summary": "Ibai Llanos, uno de los creadores de contenido más importantes de España, ha encontrado un importante filón de negocio en el evento boxístico que organiza cada año. Se trata de la velada del año , una cita que comenzó a celebrar en 2021, con un aforo muy reducido por las restricciones que todavía exigía la pandemia de.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Ibai Llanos bromea sobre su miedo al eclipse solar que llegará a España: \"Me he cagado\"",
       "summary": "El eclipse solar que podrá verse desde España el próximo 12 de agosto ya empieza a generar expectación, aunque también cierta preocupación entre quienes quieren disfrutar del fenómeno astronómico. Uno de ellos es Ibai Llanos , que ha reconocido en redes sociales que toda la información sobre las precauciones necesarias.",
@@ -60,13 +65,15 @@
       "title": "Multa histórica de 4.000 euros a Ibai Llanos, Jordi Wild y Nachter por sus contenidos en redes sociales",
       "summary": "La Comisión Nacional de los Mercados y la Competencia ha impuesto un total de tres sanciones a Ibai Llanos, Jordi Wild y el influencer Nachter por vulnerar la Ley General de Comunicación Audiovisual . La multa asciende a un conjunto de unos 4.000 euros, y el motivo no es otro que el indebido cumplimiento de la ley que.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Comisión de la Competencia multa a Ibai Llanos, Jordi Wild y Nachter por irregularidades",
-      "summary": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha comunicado este jueves las sanciones a los influencers I bai Llanos , Jordi Wild y Nachter con multas que van de los 700 euros a casi los 1.800 por irregularidades en su actividad comercial en redes sociales. Según la CNMC, estas sanciones se han impuesto.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’",
+      "url": "https://cincodias.elpais.com/companias/2026-09-03/ibai-llanos-facturo-casi-12-millones-en-2025-con-la-promotora-de-la-velada-del-ano.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

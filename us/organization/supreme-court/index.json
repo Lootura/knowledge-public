@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -69,12 +69,6 @@
   ],
   "sources": [
     {
-      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
-      "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:38:43.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:17:19.000Z",
@@ -87,5 +81,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

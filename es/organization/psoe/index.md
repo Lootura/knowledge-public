@@ -3,10 +3,16 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle
+
+Muchas ciudades han acogido este miércoles manifestaciones de apoyo a Ceuta, pero ha sido en la ciudad autónoma donde se ha celebrado la más simbólica para exigir una solución al Gobierno que acabe con la crisis migratoria que tiene en vilo la ciudad. La indignación ha sido la constante de entre unos manifestantes que.
+
+Date: 2026-09-03
 
 ### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
 
@@ -62,12 +68,6 @@ Date: 2026-09-02
 
 Date: 2026-09-01
 
-### El PSOE a punto de desaparecer en Ceuta: pierde 15 puntos y entrega un 29% de sus votos a un Vivas de récord
-
-El 29,4% de los votantes socialistas cogería hoy la papeleta del PP. El presidente de la ciudad autónoma es el líder mejor valorado con un 8 Leer.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z
+- [Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle](https://elpais.com/espana/2026-09-03/dentro-de-la-protesta-en-ceuta-la-emocion-de-vivas-el-diputado-critico-del-psoe-y-la-indignacion-en-la-calle.html?utm_source=lootura.com) — 2026-09-03T02:45:48.000Z

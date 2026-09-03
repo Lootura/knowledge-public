@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora",
+      "summary": "Agentes del Arma de Carabinieri italiano y la Gendarmería Nacional Francesa patrulla este mes de septiembre y en octubre en la provincia de Zamora junto a los miembros de la oficina móvil de atención al peregrino de la Guardia Civil de Zamora, según ha informado el Instituto armado en un comunicado. Las patrullas mixta.",
+      "date": "2026-09-03"
+    },
     {
       "title": "La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura",
       "summary": "La investigación judicial sobre el grave accidente ferroviario ocurrido el pasado 18 de enero en Adamuz (Córdoba) ya tiene una respuesta técnica sobre el origen del desastre. El Informe Técnico de Inspección Ocular elaborado por los especialistas del Departamento de Escena del Crimen de la Guardia Civil y entregado en.",
@@ -55,26 +60,15 @@
       "title": "Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos",
       "summary": "El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de prensa, la Benemérita ha señalado que la UPRONA de la Guardia.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil",
-      "summary": "Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo de la jornada de este viernes todavía continúa recibiendo per.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura",
-      "url": "https://www.abc.es/espana/andalucia/guardia-civil-confirma-accidente-adamuz-rotura-soldadura-20260902232236-nts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:34:55.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia",
-      "url": "https://theobjective.com/espana/2026-09-02/heridos-guardias-civiles-embestidos-narcolancha-murcia/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T19:34:04.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora",
+      "url": "https://www.larazon.es/castilla-y-leon/policias-italia-francia-patrullan-guardia-civil-camino-santiago-zamora_202609036a9930184941316b1e75db1a.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:30:16.000Z",
+      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

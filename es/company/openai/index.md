@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Anthropic busca hacer historia en Bolsa en plena euforia de la IA](https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html?utm_source=lootura.com) — 2026-09-02T22:21:50.000Z
+No public source links.

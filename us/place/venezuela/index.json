@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "Morning News Brief",
+      "summary": "Exodus of experienced military leadership continues in the Pentagon, Trump touts Venezuela oil deal as critics question legality, the jury is deadlocked in the trial of Lindsay Clancy.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Ex-National Security Council director on administration's plan for Venezuela oil",
+      "summary": "NPR's Michel Martin asks former Obama administration official Benjamin Gedan {guh-DAN} about the viability of the Trump administration's plan for Venezuelan oil.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Critics question legality of Venezuela oil deals",
+      "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
       "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
@@ -26,13 +41,13 @@
       "date": "2026-09-02"
     },
     {
-      "title": "Energy Secretary in Venezuela to tout major oil deal",
-      "summary": "U.S. Energy Secretary Chris Wright was in Venezuela to tout a major oil deal. NBC News’ Gabe Gutierrez was there.",
+      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
+      "summary": "In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.",
       "date": "2026-09-02"
     },
     {
-      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
-      "summary": "In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.",
+      "title": "Energy Secretary in Venezuela to tout major oil deal",
+      "summary": "U.S. Energy Secretary Chris Wright was in Venezuela to tout a major oil deal. NBC News’ Gabe Gutierrez was there.",
       "date": "2026-09-02"
     },
     {
@@ -49,35 +64,26 @@
       "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
       "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-      "summary": "As part of the deal, the U.S. is creating a private company as a joint venture with North American Blue Energy Partners, owned by Venezuelan businessman Alejandro Betancourt. (Image credit: Matias Delacroix).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
     {
-      "title": "U.S. and Venezuela sign new oil deal",
-      "url": "https://www.cbsnews.com/video/us-and-venezuela-sign-new-oil-deal/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T17:04:17.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Morning News Brief",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:03:57.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Energy Secretary in Venezuela to tout major oil deal",
-      "url": "https://www.nbcnews.com/nightly-news/video/energy-secretary-in-venezuela-to-tout-major-oil-deal-269248069860?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T23:21:05.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Ex-National Security Council director on administration's plan for Venezuela oil",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:08:17.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Critics question legality of Venezuela oil deals",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:07:44.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
@@ -98,5 +104,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 6
 }

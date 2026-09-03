@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,6 +19,21 @@
       "date": "2026-09-03"
     },
     {
+      "title": "Veteran political journalist on division among Democrats over Democratic Socialism",
+      "summary": "NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing Democratic Socialism.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+      "summary": "Stephen A. Smith on Trump, Democrats and the politics of chaos lead image.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Democratic strategist on the new anti-partisan swing voters",
+      "summary": "Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.",
+      "date": "2026-09-02"
+    },
+    {
       "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
       "summary": "For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.",
       "date": "2026-09-02"
@@ -26,11 +41,6 @@
     {
       "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
       "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Democratic strategist on the new anti-partisan swing voters",
-      "summary": "Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.",
       "date": "2026-09-02"
     },
     {
@@ -52,24 +62,14 @@
       "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
       "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Trump calls for federal tax incentives to benefit TV and movie industry",
-      "summary": "The proposal was quickly embraced by Democrats, particularly in California, who have otherwise been critical of the president.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-      "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
-      "url": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:38:43.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Veteran political journalist on division among Democrats over Democratic Socialism",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:08:56.000Z",
+      "sourceId": "lootura-us-npr-politics"
     },
     {
       "title": "Democratic strategist on the new anti-partisan swing voters",
@@ -78,10 +78,10 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:56:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+      "url": "https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:59:00.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "As Midterms Loom, Democrats Feud Over Defections",

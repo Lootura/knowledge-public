@@ -3,10 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
+
+### Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años
+
+Aunque Telefónica haya vendido su sede del 28 de Gran Vía de Madrid, mantendrá su impronta en el casi centenario inmueble. La operadora ha llegado a un acuerdo con el nuevo propietario, el empresario murciano Tomás Olivo , para alquilar cinco plantas durante un periodo de tres años, avanzan fuentes conocedoras del acue.
+
+Date: 2026-09-03
+
+### Adiós a Puerta Cerrada: cierra tras más de 30 años uno de los quioscos emblema de La Latina
+
+Hay negocios que pasan sin pena ni gloria por un Madrid comercial abarrotado de nuevas aperturas que apenas llegan a echar raíces . Otros, en cambio, forman parte de la vida del barrio hasta el punto de dejar huérfanos a sus vecinos cuando bajan la persiana. Es el caso de uno de los últimos bastiones quiosqueros de La.
+
+Date: 2026-09-03
+
+### Cortes de tráfico en Madrid hoy jueves por varias manifestaciones: horarios, zonas y calles afectadas
+
+Las movilizaciones previstas a lo largo de la jornada obligarán a modificar la movilidad en varios puntos de la capital y también alterarán el recorrido habitual de numerosas líneas de autobús.
+
+Date: 2026-09-03
+
+### Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático
+
+Isabel Díaz Ayuso ha llamado a filas a todo su Gobierno para preparar el año electoral. La presidenta de la Comunidad de Madrid se reúne este jueves con sus consejeros en la Residencia Santillana de Manzanares El Real, conocida coloquialmente como La Casita, para armar la estrategia del curso que comienza y ultimar los.
+
+Date: 2026-09-03
 
 ### Asencio, otro juguete roto: del cielo del Bernabéu a la sentencia de Mourinho y los juzgados
 
@@ -44,37 +68,10 @@ La concentración en apoyo a Ceuta frente al Congreso de los Diputados , que ha 
 
 Date: 2026-09-02
 
-### Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»
-
-Miguel de la Quadra-Salcedo (Madrid, 1932-2016) fue un explorador, periodista y aventurero que consagró su vida a recorrer América Latina y a acercar a los jóvenes españoles e iberoamericanos a ese continente. Su convicción de que «uno no es español del todo hasta que no conoce y ama a Hispanoamérica » atravesó toda su.
-
-Date: 2026-09-02
-
-### La impresionante vista aérea de la manifestación de Madrid a la que han acudido cientos de miles de personas
-
-Las imágenes aéreas de la manifestación celebrada este miércoles en la Plaza de Cibeles no dejan lugar a dudas de que ha sido histórica y reflejan la magnitud de la respuesta ciudadana de toda España en apoyo a Ceuta. El vídeo muestra una plaza de Cibeles completamente abarrotada , con cientos de miles de personas ocup.
-
-Date: 2026-09-02
-
-### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
-
-Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
-
-Date: 2026-09-02
-
-### Decenas de miles de personas se concentran en España en apoyo a Ceuta y al grito de "Gobierno dimisión"
-
-Banderas de España y de Ceuta, pancartas y gritos que censuraban la gestión del Gobierno durante la crisis -y pedían su dimisión- y cientos de miles de personas han sido la imagen de un centro de Madrid abarrotado para mostrar su apoyo a la ciudad autónoma y exigir su defensa como territorio español. La multitud atesta.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Asencio, otro juguete roto: del cielo del Bernabéu a la sentencia de Mourinho y los juzgados](https://www.abc.es/deportes/futbol/asencio-juguete-roto-cielo-bernabeu-sentencia-mourinho-20260903191343-nt.html?utm_source=lootura.com) — 2026-09-03T00:56:48.000Z
+- [Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años](https://cincodias.elpais.com/companias/2026-09-03/telefonica-mantendra-su-presencia-en-la-historica-sede-de-gran-via-al-menos-durante-tres-anos.html?utm_source=lootura.com) — 2026-09-03T03:15:00.000Z
+- [Adiós a Puerta Cerrada: cierra tras más de 30 años uno de los quioscos emblema de La Latina](https://www.elconfidencial.com/espana/madrid/2026-09-03/cierra-emblwma-quiosco-prensa-la-latina-madrid_4416510/?utm_source=lootura.com) — 2026-09-03T07:49:00.000Z
+- [Cortes de tráfico en Madrid hoy jueves por varias manifestaciones: horarios, zonas y calles afectadas](https://www.elconfidencial.com/espana/madrid/2026-09-03/1qrt-cortes-trafico-madrid-hoy-jueves-manifestacion-zonas-afectadas-calles_4416480/?utm_source=lootura.com) — 2026-09-03T03:45:00.000Z
+- [Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático](https://www.elconfidencial.com/espana/madrid/2026-09-03/ayuso-llama-a-filas-a-su-gobierno-para-preparar-el-ano-electoral-mientras-escala-la-crisis-del-atico_4416740/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
 - [Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com) — 2026-09-02T20:30:27.000Z
-- [Callao se vuelve la trinchera antirracista de las marchas en Madrid por Ceuta: "¡Poned más migrantes en las tertulias!"](https://www.eldiario.es/madrid/somos/callao-vuelve-trinchera-antirracista-marchas-madrid-ceuta-poned-migrantes-tertulias_1_13482758.html?utm_source=lootura.com) — 2026-09-02T19:46:28.000Z
-- [Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»](https://okdiario.com/curiosidades/deja-claro-miguel-quadra-salcedo-famoso-aventurero-uno-no-espanol-del-todo-hasta-que-no-conoce-ama-hispanoamerica-18484294?utm_source=lootura.com) — 2026-09-02T22:22:32.000Z
-- [La impresionante vista aérea de la manifestación de Madrid a la que han acudido cientos de miles de personas](https://okdiario.com/espana/impresionante-vista-aerea-manifestacion-madrid-que-han-acudido-cientos-miles-personas-20219211?utm_source=lootura.com) — 2026-09-02T22:42:31.000Z
-- [La Policía dispersa con pelotas de goma la concentración por Ceuta frente al Congreso](https://theobjective.com/espana/2026-09-02/policia-dispersa-pelotas-de-goma-concentracion-ceuta-frente-congreso/?amp=&utm_source=lootura.com) — 2026-09-02T21:46:14.000Z
-- [Madrid estalla contra el Gobierno por la invasión de Ceuta: «Sánchez está vendiendo España»](https://theobjective.com/espana/2026-09-02/madrid-gobierno-invasion-ceuta-sanchez-vendiendo-espana/?utm_source=lootura.com) — 2026-09-02T21:00:54.000Z
-- [Detenidas cuatro personas tras enfrentarse a la Policía en el acto por Ceuta ante el Congreso](https://theobjective.com/espana/2026-09-02/detenidos-enfrentamientos-policia-ceuta-congreso/?utm_source=lootura.com) — 2026-09-02T21:13:07.000Z

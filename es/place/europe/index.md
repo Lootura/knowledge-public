@@ -58,4 +58,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones](https://www.larazon.es/motor/fuerte-bajada-balanza-comercial-automovil-caida-exportaciones_202609036a98cc834941316b1e7584bb.html?utm_source=lootura.com) — 2026-09-03T01:25:23.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -23,6 +23,16 @@
       "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
       "summary": "Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».",
       "date": "2026-09-03"
+    },
+    {
+      "title": "La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio",
+      "summary": "Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros",
+      "summary": "El secretario de Energía de Estados Unidos, Christopher Wright, está por segunda vez en Venezuela desde que se restablecieron las relaciones entre Washington y Caracas. La mano derecha de Trump para asuntos energéticos ha participado en la firma de una decena de acuerdos de explotación petrolera con Chevron , la italia.",
+      "date": "2026-09-02"
     },
     {
       "title": "Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump",
@@ -58,19 +68,21 @@
       "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
       "summary": "La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición",
-      "summary": "La mesa aborda la reinstitucionalización del Supremo y del órgano electoral sin Machado ni González Urrutia.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
-      "summary": "Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
+    {
+      "title": "El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros",
+      "url": "https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:30:22.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio",
+      "url": "https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
     {
       "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
       "url": "https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com",
@@ -78,5 +90,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

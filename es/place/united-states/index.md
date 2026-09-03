@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -13,6 +13,30 @@
 Corea del Norte afirma que ha detonado una bomba de hidrógeno, equivalente a unos 100 kilotones de TNT. El Servicio Geológico de los Estados Unidos informó de un terremoto de 6.3 magnitud, no lejos del sitio de prueba nuclear de Punggye-ri.
 
 Date: 2026-09-03
+
+### Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson
+
+La famosa cantante de jazz estadounidense y ganadora de dos Grammy, en su momento calificada por la revista Time como «la mejor cantante de América», Cassandra Wilson , ha muerto este miércoles a los 70 años en su ciudad natal de Jackson, en Misisipi, según ha anunciado su agente de toda la vida en un comunicado.«Con p.
+
+Date: 2026-09-03
+
+### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
+
+La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
+
+Date: 2026-09-03
+
+### Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica
+
+El matrimonio ha decidido que Sacha Thyssen, el mayor de sus cinco hijos, continúe su formación al otro lado del charco.
+
+Date: 2026-09-03
+
+### El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros
+
+El secretario de Energía de Estados Unidos, Christopher Wright, está por segunda vez en Venezuela desde que se restablecieron las relaciones entre Washington y Caracas. La mano derecha de Trump para asuntos energéticos ha participado en la firma de una decena de acuerdos de explotación petrolera con Chevron , la italia.
+
+Date: 2026-09-02
 
 ### Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»
 
@@ -44,31 +68,10 @@ Apple también ha cambiado la denominación lago Ontario por lago América en su
 
 Date: 2026-09-02
 
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
-
-### La Fórmula 1 de vela llega a Valencia: Kylian Mbappé, Ryan Reinolds y otros famosos que han invertido en SailGP
-
-Es muy probable que nunca hayas visto una regata de SailGP , lo más parecido a la Fórmula 1 sobre el agua. Los veleros más rápidos del planeta participan en esta competición creada en 2019 por Sir Russell Coutts, cinco veces ganador de la Copa América, y Larry Ellison, fundador de Oracle, empresa que ha estado también.
-
-Date: 2026-09-02
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
-
-### El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos
-
-Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
-
-Date: 2026-09-01
-
 ## Fuentes
 
+- [Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson](https://www.abc.es/cultura/musica/muere-anos-cantante-jazz-estadounidense-cassandra-wilson-20260903082758-nt.html?utm_source=lootura.com) — 2026-09-03T07:44:24.000Z
+- [El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros](https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com) — 2026-09-02T22:30:22.000Z
+- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
 - [Fragmento del día: Corea del Norte](https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com) — 2026-09-03T04:00:00.000Z
-- [Miguel de la Quadra-Salcedo, famoso aventurero: «Uno no es español del todo hasta que no conoce y ama a Hispanoamérica»](https://okdiario.com/curiosidades/deja-claro-miguel-quadra-salcedo-famoso-aventurero-uno-no-espanol-del-todo-hasta-que-no-conoce-ama-hispanoamerica-18484294?utm_source=lootura.com) — 2026-09-02T22:22:32.000Z
+- [Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica](https://theobjective.com/gente/2026-09-03/borja-thyssen-y-blanca-cuesta-mandan-a-su-hijo-mayor-a-estados-unidos-mientras-su-situacion-en-andorra-se-complica/?amp=&utm_source=lootura.com) — 2026-09-03T08:23:09.000Z

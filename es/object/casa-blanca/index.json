@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,11 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio",
+      "summary": "Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump",
       "summary": "Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.",
@@ -64,13 +69,15 @@
       "title": "Trump dice que Ormuz podría abrirse \"mañana mismo\"",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Cómo ha estrechado Trump la alianza de EEUU con Marruecos",
-      "summary": "Desde que Washington respaldó la soberanía de Rabat sobre el Sáhara Occidental, el reino ha alineado sus movimientos con la agenda exterior de la Casa Blanca Marruecos fue el primer país que reconoció la independencia de Estados Unidos en 1777. Esto es algo que Rabat suele recordar para poder legitimar la alianza entre.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio",
+      "url": "https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:30:01.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

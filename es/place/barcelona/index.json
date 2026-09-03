@@ -72,19 +72,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Cientos de personas piden \"justicia\" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)",
-      "url": "https://www.elmundo.es/cataluna/2026/09/02/6a9805ade85ececf5c8b459f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T13:02:34.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Cómo recuperar a Julián Álvarez",
-      "url": "https://www.larazon.es/deportes/futbol/como-recuperar-julian-alvarez_202609036a989d843bfe5d1eff410680.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T01:22:57.000Z",
-      "sourceId": "lootura-es-la-razon"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

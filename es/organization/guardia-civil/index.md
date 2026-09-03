@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora
+
+Agentes del Arma de Carabinieri italiano y la Gendarmería Nacional Francesa patrulla este mes de septiembre y en octubre en la provincia de Zamora junto a los miembros de la oficina móvil de atención al peregrino de la Guardia Civil de Zamora, según ha informado el Instituto armado en un comunicado. Las patrullas mixta.
+
+Date: 2026-09-03
 
 ### La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura
 
@@ -62,13 +68,6 @@ El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingr
 
 Date: 2026-08-14
 
-### Una 'rave' ilegal concentra a más de 3.000 personas bajo la supervisión de la Guardia Civil
-
-Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo de la jornada de este viernes todavía continúa recibiendo per.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura](https://www.abc.es/espana/andalucia/guardia-civil-confirma-accidente-adamuz-rotura-soldadura-20260902232236-nts.html?utm_source=lootura.com) — 2026-09-02T21:34:55.000Z
-- [Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia](https://theobjective.com/espana/2026-09-02/heridos-guardias-civiles-embestidos-narcolancha-murcia/?utm_source=lootura.com) — 2026-09-02T19:34:04.000Z
+- [Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora](https://www.larazon.es/castilla-y-leon/policias-italia-francia-patrullan-guardia-civil-camino-santiago-zamora_202609036a9930184941316b1e75db1a.html?utm_source=lootura.com) — 2026-09-03T08:30:16.000Z

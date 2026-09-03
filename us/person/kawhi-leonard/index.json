@@ -1,0 +1,40 @@
+{
+  "id": "usa-kawhi-leonard",
+  "name": "Kawhi Leonard",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/kawhi-leonard",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/kawhi-leonard",
+  "markdownUrl": "https://atlas.lootura.com/us/person/kawhi-leonard/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/kawhi-leonard/index.json",
+  "description": "Follow Kawhi Leonard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
+      "summary": "Why league investigators didn’t believe the richest owner in American sports.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Kawhi Leonard first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-02"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NBA hits Los Angeles Clippers with major penalties over salary cap probe",
+      "url": "https://www.nbcnews.com/nightly-news/video/nba-hits-los-angeles-clippers-with-major-penalties-over-salary-cap-probe-269248069551?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T23:12:11.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
+      "url": "https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T02:17:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

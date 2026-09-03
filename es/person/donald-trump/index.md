@@ -3,7 +3,7 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»
 
 Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».
+
+Date: 2026-09-03
+
+### El petróleo se relaja y las Bolsas recuperan el aliento
+
+Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.
+
+Date: 2026-09-03
+
+### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
+
+Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.
+
+Date: 2026-09-03
+
+### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
+
+La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
 
 Date: 2026-09-03
 
@@ -23,6 +41,12 @@ Date: 2026-09-02
 ### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
 
 El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
+
+Date: 2026-09-02
+
+### El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros
+
+El secretario de Energía de Estados Unidos, Christopher Wright, está por segunda vez en Venezuela desde que se restablecieron las relaciones entre Washington y Caracas. La mano derecha de Trump para asuntos energéticos ha participado en la firma de una decena de acuerdos de explotación petrolera con Chevron , la italia.
 
 Date: 2026-09-02
 
@@ -44,32 +68,12 @@ La presidenta de México, Claudia Sheinbaum, cumplió este martes dos años al f
 
 Date: 2026-09-02
 
-### Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos
-
-Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.
-
-Date: 2026-09-02
-
-### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
-
-Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.
-
-Date: 2026-09-02
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán vol.
-
-Date: 2026-09-01
-
 ## Fuentes
 
+- [El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros](https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com) — 2026-09-02T22:30:22.000Z
+- [El petróleo se relaja y las Bolsas recuperan el aliento](https://cincodias.elpais.com/mercados-financieros/2026-09-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-03T08:23:55.000Z
+- [La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio](https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com) — 2026-09-03T03:30:01.000Z
+- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
 - [La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca](https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html?utm_source=lootura.com) — 2026-09-02T18:36:07.000Z
 - [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
 - [Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»](https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com) — 2026-09-03T00:18:56.000Z

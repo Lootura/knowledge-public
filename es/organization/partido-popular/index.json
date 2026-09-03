@@ -8,26 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/partido-popular/index.json",
   "description": "Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "PP",
     "populares"
   ],
   "changes": [
     {
-      "title": "Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización",
-      "summary": "Al Ayuntamiento de Llucmajor gobernado por la polémica alcaldesa Xisca Lascolas (PP) se le acumulan los problemas. Un trabajador de un supermercado de la localidad de s’Arenal ha sufrido una grave lesión física debido al mal estado de las calles de este importante núcleo turístico de Mallorca. El suceso tuvo lugar el p.",
+      "title": "El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta",
+      "summary": "El Congreso ha dado inicio este jueves al Pleno donde comparece el presidente Pedro Sánchez para hablar sobre la crisis migratoria en Ceuta, guardando un minuto de silencio en memoria del recientemente fallecido Antonio Landeta, exdiputado del PP y expresidente de la Junta General del Principado, el parlamento autonómi.",
       "date": "2026-09-03"
     },
     {
-      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
-      "summary": "El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por \"sinvergüenza, incompetente y mentiroso\" Leer.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
-      "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
-      "date": "2026-09-02"
+      "title": "Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización",
+      "summary": "Al Ayuntamiento de Llucmajor gobernado por la polémica alcaldesa Xisca Lascolas (PP) se le acumulan los problemas. Un trabajador de un supermercado de la localidad de s’Arenal ha sufrido una grave lesión física debido al mal estado de las calles de este importante núcleo turístico de Mallorca. El suceso tuvo lugar el p.",
+      "date": "2026-09-03"
     },
     {
       "title": "Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez",
@@ -37,6 +32,16 @@
     {
       "title": "El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: \"El inversor que levanta el vuelo ya no vuelve\"",
       "summary": "Dirigentes 'populares' mantuvieron el lunes un discreto encuentro para coordinar sus estrategias frente a la propuesta de real decreto del Gobierno que limita el despliegue de 'data center'. El plazo de alegaciones termina este viernes Leer.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
+      "summary": "El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por \"sinvergüenza, incompetente y mentiroso\" Leer.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
+      "summary": "El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.",
       "date": "2026-09-02"
     },
     {
@@ -58,11 +63,6 @@
       "title": "El clamor contra el Gobierno por Ceuta moviliza a miles de personas en España",
       "summary": "Las manifestaciones en apoyo a Ceuta convocadas por la Federación de Municipios y Provincias –presidida por el PP- se han celebrado este miércoles en las principales capitales españolas así como en Ceuta, donde miles de personas han marchado de camino a la frontera con Marruecos en protesta por la situación. Estas prot.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
-      "summary": "Las derechas unen fuerzas en el arranque del curso político para movilizar la calle en una protesta que auguran “masiva” por la crisis de Ceuta y con la que esperan elevar la presión sobre el Gobierno en la víspera de la comparecencia de Pedro Sánchez el jueves en el Congreso . El PP, a través de la Federación Española.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
@@ -79,23 +79,11 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
-      "url": "https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T12:49:12.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización",
-      "url": "https://okdiario.com/baleares/mas-problemas-ayuntamiento-llucmajor-trabajador-destroza-pie-mal-estado-acera-exige-indemnizacion-20213226?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T02:00:34.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta",
-      "url": "https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:35:23.000Z",
+      "title": "El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta",
+      "url": "https://theobjective.com/espana/politica/2026-09-03/congreso-minuto-silencio-exdiputado-antonio-landeta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:14:01.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T15:57:21.261Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
+      "summary": "Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
       "summary": "Believe it or not, the Tesla Cybercab is coming . Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Pub.",
@@ -52,6 +57,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
+      "url": "https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T04:05:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

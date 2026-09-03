@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
+
+Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.
+
+Date: 2026-09-03
 
 ### Elon Musk’s heterodox robotaxi philosophy gets put to the test
 
@@ -58,4 +64,4 @@ Date: 2026-08-05
 
 ## Sources
 
-No public source links.
+- [Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas](https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com) — 2026-09-03T04:05:42.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio
+
+Cada cierto tiempo acostumbramos a ver cómo los dispositivos móviles van cesando en su soporte de actualizaciones y postventa, una obsolescencia muchas veces programada que hace tiempo que la Unión Europea trabaja para combatir , pero que a la postre es ley de vida sobre todo en una industria tan volátil y voraz como l.
+
+Date: 2026-09-03
 
 ### Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta
 
@@ -62,12 +68,7 @@ El pasado miércoles 12 de agosto de 2026 entró en vigor una nueva normativa qu
 
 Date: 2026-08-14
 
-### Exteriores confirma un español fallecido en el terremoto de Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
-
-Date: 2026-08-13
-
 ## Fuentes
 
 - [Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta](https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:21:40.000Z
+- [Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio](https://www.larazon.es/tecnologia-consumo/whatsapp/di-adios-whatsapp-tienes-alguno-estos-telefonos-android-versiones-50-51-sistema-ya-no-podran-utilizar-servicio_202609036a98bd313bfe5d1eff4119e8.html?utm_source=lootura.com) — 2026-09-03T08:30:00.000Z

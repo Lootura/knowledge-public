@@ -3,28 +3,22 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta
+
+El Congreso ha dado inicio este jueves al Pleno donde comparece el presidente Pedro Sánchez para hablar sobre la crisis migratoria en Ceuta, guardando un minuto de silencio en memoria del recientemente fallecido Antonio Landeta, exdiputado del PP y expresidente de la Junta General del Principado, el parlamento autonómi.
+
+Date: 2026-09-03
 
 ### Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización
 
 Al Ayuntamiento de Llucmajor gobernado por la polémica alcaldesa Xisca Lascolas (PP) se le acumulan los problemas. Un trabajador de un supermercado de la localidad de s’Arenal ha sufrido una grave lesión física debido al mal estado de las calles de este importante núcleo turístico de Mallorca. El suceso tuvo lugar el p.
 
 Date: 2026-09-03
-
-### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
-
-El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
-
-Date: 2026-09-02
-
-### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
-
-El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
-
-Date: 2026-09-02
 
 ### Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez
 
@@ -35,6 +29,18 @@ Date: 2026-09-02
 ### El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: "El inversor que levanta el vuelo ya no vuelve"
 
 Dirigentes 'populares' mantuvieron el lunes un discreto encuentro para coordinar sus estrategias frente a la propuesta de real decreto del Gobierno que limita el despliegue de 'data center'. El plazo de alegaciones termina este viernes Leer.
+
+Date: 2026-09-02
+
+### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
+
+El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
+
+Date: 2026-09-02
+
+### El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta
+
+El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político» y «azuzar la crispación» en las concentraciones convocadas este miércoles en distintos puntos de España en apoyo a Ceuta, defendiendo que «estar con Ceuta no es utilizar su dolor contra el Gobierno» : «Mientras el Gobierno estuvo, está y estar.
 
 Date: 2026-09-02
 
@@ -62,16 +68,8 @@ Las manifestaciones en apoyo a Ceuta convocadas por la Federación de Municipios
 
 Date: 2026-09-02
 
-### Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta
-
-Las derechas unen fuerzas en el arranque del curso político para movilizar la calle en una protesta que auguran “masiva” por la crisis de Ceuta y con la que esperan elevar la presión sobre el Gobierno en la víspera de la comparecencia de Pedro Sánchez el jueves en el Congreso . El PP, a través de la Federación Española.
-
-Date: 2026-09-02
-
 ## Fuentes
 
 - [Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez](https://www.elmundo.es/espana/2026/09/03/6a986d14e9cf4a5b1d8b4572.html?utm_source=lootura.com) — 2026-09-02T23:37:52.000Z
 - [El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: "El inversor que levanta el vuelo ya no vuelve"](https://www.elmundo.es/economia/empresas/2026/09/03/6a9802d9e9cf4a60648b4599.html?utm_source=lootura.com) — 2026-09-02T23:37:45.000Z
-- [Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"](https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com) — 2026-09-02T12:49:12.000Z
-- [Más problemas para el Ayuntamiento de Llucmajor: un trabajador se destroza el pie por el mal estado de una acera y exige indemnización](https://okdiario.com/baleares/mas-problemas-ayuntamiento-llucmajor-trabajador-destroza-pie-mal-estado-acera-exige-indemnizacion-20213226?utm_source=lootura.com) — 2026-09-03T02:00:34.000Z
-- [El PSOE acusa al PP de «llenar con saludos fascistas y odio» las concentraciones por Ceuta](https://theobjective.com/espana/politica/2026-09-02/psoe-pp-saludos-fascistas-odio-concentraciones-ceuta/?utm_source=lootura.com) — 2026-09-02T20:35:23.000Z
+- [El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta](https://theobjective.com/espana/politica/2026-09-03/congreso-minuto-silencio-exdiputado-antonio-landeta/?utm_source=lootura.com) — 2026-09-03T08:14:01.000Z

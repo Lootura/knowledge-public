@@ -3,10 +3,16 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Belkin’s first trackers come ready to attach to your gear.
+
+Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin After selling accessories for attaching Apple's AirTags to everything from keys to backpacks , Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addit.
+
+Date: 2026-09-03
 
 ### Understanding the tech giants' oversized influence in American schools
 
@@ -23,3 +29,4 @@ Date: 2026-07-13
 ## Sources
 
 - [Understanding the tech giants' oversized influence in American schools](https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools?utm_source=lootura.com) — 2026-09-02T16:08:31.000Z
+- [Belkin’s first trackers come ready to attach to your gear.](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag?utm_source=lootura.com) — 2026-09-03T08:00:00.000Z

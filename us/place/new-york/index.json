@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
+      "summary": "For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
       "summary": "The New York Police Department made public the names of some of the people involved in a seemingly random knife attack on a crowded Manhattan street, but questions remained.",
@@ -77,13 +82,15 @@
       "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
       "summary": "Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse in Central Islip, New York, after being sentenced on April 25, 2025. —Howard Schnapp—Newsday RM/Getty Images The prediction-market exchange Kalshi has permanently prohibited former Rep. George Santos from accessing the platform after establi.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
-      "summary": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
-      "date": "2026-08-15"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T06:00:46.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

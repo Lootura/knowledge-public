@@ -3,10 +3,28 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China's Xi visits Egypt for the first time in a decade
+
+Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.
+
+Date: 2026-09-03
+
+### Xi visits Egypt as China seeks deeper influence across the Mideast
+
+China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran. (Image credit: Xie Huanchi).
+
+Date: 2026-09-03
+
+### Funding milestone detected
+
+Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.
+
+Date: 2026-09-03
 
 ### Bessent says China agrees Iran shouldn't have nuclear weapons
 
@@ -50,25 +68,8 @@ Authorities in Nepal continued mass burials after catastrophic floods roared dow
 
 Date: 2026-09-01
 
-### China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'
-
-Treasury Secretary Scott Bessent said Tuesday that 19 of the members of the G20 agreed to address streams of "cheap exports" that cause global economic imbalances, but China dissented.
-
-Date: 2026-09-01
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-
-Date: 2026-09-01
-
-### China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal
-
-While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Bessent says China agrees Iran shouldn't have nuclear weapons](https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com) — 2026-09-02T16:56:59.000Z
-- [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z
+- [China's Xi visits Egypt for the first time in a decade](https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com) — 2026-09-03T08:08:39.000Z
+- [Xi visits Egypt as China seeks deeper influence across the Mideast](https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com) — 2026-09-03T07:04:25.000Z
+- [China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com) — 2026-09-03T07:00:47.000Z

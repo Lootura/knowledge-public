@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -23,13 +23,13 @@
   ],
   "changes": [
     {
-      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
-      "summary": "El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por \"sinvergüenza, incompetente y mentiroso\" Leer.",
+      "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
+      "summary": "Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.",
       "date": "2026-09-02"
     },
     {
-      "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
-      "summary": "Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.",
+      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
+      "summary": "El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por \"sinvergüenza, incompetente y mentiroso\" Leer.",
       "date": "2026-09-02"
     },
     {
@@ -75,17 +75,11 @@
   ],
   "sources": [
     {
-      "title": "Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de \"proteger más a Marruecos que a los españoles\"",
-      "url": "https://www.elmundo.es/espana/2026/09/02/6a97f113e4d4d8f44b8b4581.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T12:49:12.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
       "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
       "url": "https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T20:30:27.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

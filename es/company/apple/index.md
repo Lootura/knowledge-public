@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte](https://hipertextual.com/apple/apps-universales-abandonar-soporte-mac-con-chips-intel/?utm_source=lootura.com) — 2026-09-02T20:01:29.000Z
-- [Los mejores cascos de Apple tienen casi 200 euros de descuento y se convierten en uno de los chollos más interesantes de la semana](https://www.larazon.es/compras/nuestra-eleccion/mejores-cascos-apple-tienen-casi-200-euros-descuento-convierten-uno-chollos-mas-interesantes-semana_202609036a98090f2d7d3022177ba592.html?outputType=amp&utm_source=lootura.com) — 2026-09-03T01:30:13.000Z
+No public source links.

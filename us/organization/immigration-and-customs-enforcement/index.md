@@ -3,20 +3,20 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
 
-### China presses U.S. for answers after a man dies hours after entering ICE custody
-
-The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
-
-Date: 2026-09-02
-
 ### 'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract
 
 U.S. Immigration and Customs Enforcement agents may soon be outfitted with electric shock gloves that can deliver painful jolts when they come in contact with a person's skin. While ICE says the new gear will help agents deescalate situations with detainees or protesters without relying on "higher levels of force," Dem.
+
+Date: 2026-09-02
+
+### China presses U.S. for answers after a man dies hours after entering ICE custody
+
+The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
 
 Date: 2026-09-02
 
@@ -70,5 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [China presses U.S. for answers after a man dies hours after entering ICE custody](https://www.pbs.org/newshour/world/china-presses-u-s-for-answers-after-a-man-dies-hours-after-entering-ice-custody?utm_source=lootura.com) — 2026-09-02T16:55:21.000Z
 - ['A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract](https://www.pbs.org/newshour/nation/a-perfect-tool-for-abuse-why-experts-are-concerned-about-ices-17-million-electric-shock-gloves-contract?utm_source=lootura.com) — 2026-09-02T20:50:35.000Z

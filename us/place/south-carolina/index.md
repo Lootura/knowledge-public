@@ -3,7 +3,7 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [Couple arrested after 5-year-old nonverbal daughter is found dead in South Carolina waters](https://www.nbcnews.com/news/us-news/virginia-couple-arrested-daughter-found-dead-south-carolina-rcna595786?utm_source=lootura.com) — 2026-09-03T03:40:01.000Z

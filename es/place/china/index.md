@@ -3,10 +3,22 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
+
+La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
+
+Date: 2026-09-03
+
+### Nepal eleva a más de 1.250 los muertos por la riada en la frontera con China
+
+Las autoridades de Nepal han elevado este jueves a más de 1.250 los muertos a causa de las devastadoras inundaciones registradas la semana pasada en el norte de Nepal, en la frontera con China , al tiempo que han resaltado que más de 4.200 personas siguen desaparecidas más de una semana después de la catástrofe. La Aut.
+
+Date: 2026-09-03
 
 ### Ni champús caros ni mascarillas: la técnica china para lavarse el pelo y lucir un cabello más suave y extrabrillante
 
@@ -56,18 +68,7 @@ Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en Ch
 
 Date: 2026-08-13
 
-### Trump acusa a la UE de ayudar a China a esquivar sus aranceles
-
-La Administración Trump ha abierto un nuevo frente comercial con uno de sus principales aliados al acusar a la Unión Europea de facilitar que China eluda los aranceles estadounidenses mediante una red internacional de re-exportación de mercancías. La advertencia llega apenas cuatro meses después de que el presidente de.
-
-Date: 2026-08-13
-
-### Qué significa el proverbio de la filosofía china: «La puerta mejor cerrada es aquella que puede dejarse abierta»
-
-Todas esas herramientas pueden ser necesarias, pero funcionan mejor cuando se apoyan en ciudadanos responsables.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [Nepal eleva a más de 1.250 los muertos por la riada en la frontera con China](https://theobjective.com/internacional/2026-09-03/nepal-mas-1-250-muertos-riada-frontera-china/?utm_source=lootura.com) — 2026-09-03T08:18:23.000Z

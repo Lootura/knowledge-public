@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -24,13 +24,13 @@
       "date": "2026-09-03"
     },
     {
-      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
-      "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
+      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
+      "summary": "Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran \"very hard\" if t.",
       "date": "2026-09-02"
     },
     {
-      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
-      "summary": "Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran \"very hard\" if t.",
+      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
+      "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
       "date": "2026-09-02"
     },
     {
@@ -83,17 +83,11 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T14:47:31.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
       "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com",
       "publishedAt": "2026-09-03T01:08:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

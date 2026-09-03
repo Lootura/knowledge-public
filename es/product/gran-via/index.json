@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/gran-via/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/gran-via/index.json",
   "description": "Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Calle Gran Via",
     "Calle Gran Vía",
@@ -17,6 +17,11 @@
     "Gran Vía, Madrid"
   ],
   "changes": [
+    {
+      "title": "Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años",
+      "summary": "Aunque Telefónica haya vendido su sede del 28 de Gran Vía de Madrid, mantendrá su impronta en el casi centenario inmueble. La operadora ha llegado a un acuerdo con el nuevo propietario, el empresario murciano Tomás Olivo , para alquilar cinco plantas durante un periodo de tres años, avanzan fuentes conocedoras del acue.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo",
       "summary": "Telefónica ha cerrado la venta de su antigua sede corporativa en la Gran Vía madrileña al empresario murciano Tomás Olivo , una de las grandes fortunas españolas. Telefónica y Tomás Olivo habían alcanzado un principio de acuerdo, que se conoció el pasado 21 de mayo, aunque a la operación le faltaban aún varios flecos q.",
@@ -58,6 +63,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años",
+      "url": "https://cincodias.elpais.com/companias/2026-09-03/telefonica-mantendra-su-presencia-en-la-historica-sede-de-gran-via-al-menos-durante-tres-anos.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

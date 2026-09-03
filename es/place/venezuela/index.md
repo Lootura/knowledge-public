@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -13,6 +13,18 @@
 Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».
 
 Date: 2026-09-03
+
+### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
+
+Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.
+
+Date: 2026-09-03
+
+### El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros
+
+El secretario de Energía de Estados Unidos, Christopher Wright, está por segunda vez en Venezuela desde que se restablecieron las relaciones entre Washington y Caracas. La mano derecha de Trump para asuntos energéticos ha participado en la firma de una decena de acuerdos de explotación petrolera con Chevron , la italia.
+
+Date: 2026-09-02
 
 ### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
 
@@ -56,18 +68,8 @@ La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consec
 
 Date: 2026-08-13
 
-### Venezuela cierra el primer ciclo de diálogo entre el régimen y la oposición
-
-La mesa aborda la reinstitucionalización del Supremo y del órgano electoral sin Machado ni González Urrutia.
-
-Date: 2026-08-12
-
-### La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta
-
-Dos terremotos de magnitud superior a 7 en cuarenta y ocho días dejan miles de muertos entre Venezuela y Colombia. Una geóloga venezolana radicada en Berlín advierte que la región sufre una «analfabetización sísmica» crónica y que los Pirineos y el Mediterráneo son «tan tectónicamente activos como América Latina».
-
-Date: 2026-08-12
-
 ## Fuentes
 
+- [El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros](https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com) — 2026-09-02T22:30:22.000Z
+- [La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio](https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com) — 2026-09-03T03:30:01.000Z
 - [Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»](https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com) — 2026-09-03T00:18:56.000Z

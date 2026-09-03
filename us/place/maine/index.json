@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
+      "summary": "Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Painter Alex Katz reflects on his career and artistry ahead of 100th birthday",
       "summary": "Artist Alex Katz is an American great who just celebrated his 99th birthday. What better way to celebrate than to have an exhibition in Nice, France, this fall titled \"Henri Matisse - Alex Katz.\" Senior arts correspondent Jeffrey Brown visited Katz at his home in Maine for our arts and culture series, CANVAS.",
@@ -61,14 +66,15 @@
       "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
       "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
+      "url": "https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T04:05:42.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
     {
       "title": "Painter Alex Katz reflects on his career and artistry ahead of 100th birthday",
       "url": "https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

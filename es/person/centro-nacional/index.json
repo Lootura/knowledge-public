@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/centro-nacional/index.json",
   "description": "Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: \"Algunos tienen hasta gorra policial\"",
+      "summary": "El informe entregado el pasado lunes a la Audiencia Nacional por el Centro Nacional de Inmigración y Fronteras (CENIF) apunta a las fuerzas de seguridad marroquíes como planificadoras del asalto masivo a la frontera ceutí y no escatima en detalles sobre la presencia de estos agentes, ese 30 de julio, junto a los más de.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Centro Nacional first entered the public knowledge record with source-backed evidence.",
@@ -55,14 +60,21 @@
       "title": "El informe que la Policía entregó a la jueza atribuye a los agentes de Marruecos la planificación de la entrada masiva en Ceuta",
       "summary": "El informe del Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía Nacional entregado este lunes en la Audiencia Nacional involucra a agentes de los cuerpos de seguridad de Marruecos en la planificación y ejecución de la entrada masiva de migrantes en Ceuta el 30 y 31 de julio . Tal y como ha adelantado El.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Marlaska exige al director de la Policía que aclare si existe algún informe que sitúe a Marruecos tras el asalto masivo",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha exigido al director de la Policía Nacional, Francisco Pardo, que le informe “a la mayor brevedad” sobre el contenido de un informe que el del Centro Nacional de Inmigración y Fronteras (CENIF) habría remitido a la Audiencia Nacional que atribuiría a Marruecos el as.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
+    {
+      "title": "La Policía constata varias \"oleadas\" en la entrada diseñadas para \"colapsar las capacidades\" de España",
+      "url": "https://www.20minutos.es/nacional/policia-constata-varias-oleadas-entrada-ceuta-disenadas-para-colapsar-las-capacidades-respuesta-espana_7032187_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: \"Algunos tienen hasta gorra policial\"",
+      "url": "https://www.20minutos.es/nacional/cenif-aporta-imagenes-presencia-agentes-marroquies-camuflados-asalto-ceuta-algunos-tienen-hasta-gorra-policial_7032200_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:00:00.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta",
       "url": "https://amp.elmundo.es/espana/2026/09/02/6a985703fc6c8386058b45b4.html?utm_source=lootura.com",
@@ -80,13 +92,7 @@
       "url": "https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T19:49:23.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Policía destaca que la invasión a Ceuta usó como «cobertura» la excusa migratoria",
-      "url": "https://theobjective.com/espana/tribunales/2026-09-02/policia-asalto-ceuta-excusa-migratoria/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:22:21.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

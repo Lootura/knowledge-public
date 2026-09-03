@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/benjamin-netanyahu/index.json",
   "description": "Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T05:24:09.686Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "Ben Nitai",
     "Ben Nitay",
@@ -21,6 +21,11 @@
     "Netanyahu"
   ],
   "changes": [
+    {
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
       "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he was.",
@@ -57,6 +62,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:06:18.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 1
 }

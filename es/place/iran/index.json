@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El petróleo se relaja y las Bolsas recuperan el aliento",
+      "summary": "Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
       "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
@@ -62,13 +67,15 @@
       "title": "Irán ataca contra objetivos de EEUU como respuesta por los recientes bombardeos",
       "summary": "La Guardia Revolucionaria asegura que ha derribado «el 50.º dron avanzado MQ-9 del Ejército estadounidense invasor».",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Irán responde al ataque de EE.UU. con una oleada de misiles contra sus bases militares en Jordania",
-      "summary": "La Guardia Revolucionaria de Irán ha respondido con fuerza a los bombardeos llevados a cabo por el Ejército de EE.UU. contra territorio persa. Este martes, tras proclamar venganza por los, al menos, cuatro muertos y más de 50 heridos por el último ataque estadounidense, la república islámica ha lanzado una nueva oleada.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El petróleo se relaja y las Bolsas recuperan el aliento",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:23:55.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-03T08:32:11.154Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Illa inicia su viaje a Ucrania con una parada en Polonia: \"Es fundamental para Europa\"",
+      "summary": "El presidente de la Generalitat, Salvador Illa, llegó este miércoles por la tarde-noche a Polonia, primera etapa de un viaje institucional que le llevará este jueves hasta Kiev, en plena guerra de Ucrania. Desde territorio polaco, el dirigente socialista ha advertido de que «los valores de Europa están en juego en Ucra.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Illa y Collboni viajan a Kiev en plena escalada de ataques rusos",
       "summary": "El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de \"impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad\". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.",
@@ -58,13 +63,15 @@
       "title": "Illa abre una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials",
       "summary": "El presidente catalán Salvador Illa ha abierto una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials, Mònica Martínez Bravo . Según ha adelantado El Periódico de Catalunya , la consellera ha solicitado su marcha a petición propia. Illa ha escogido como sucesor a Raúl Moreno , un experto en ed.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Cataluña pone en marcha una ley para multar con 900.000 € a grafiteros y vándalos en los trenes",
-      "summary": "Desde ahora, el Gobierno de la Generalitat de Cataluña , que preside el socialista Salvador Illa , puede multar a los grafiteros y vándalos que causen desperfectos en los trenes de Cataluña con hasta 900.000 € de sanción . Tras la publicación en el BOE , el pasado 18 de julio, de la ley elaborada por el Parlamento cata.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Illa inicia su viaje a Ucrania con una parada en Polonia: \"Es fundamental para Europa\"",
+      "url": "https://www.larazon.es/cataluna/illa-inicia-viaje-ucrania-parada-polonia-fundamental-europa_202609036a992d614941316b1e75d6db.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:18:41.000Z",
+      "sourceId": "lootura-es-la-razon"
+    }
+  ],
+  "evidenceCount": 1
 }

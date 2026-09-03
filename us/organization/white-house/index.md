@@ -3,7 +3,7 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
@@ -14,15 +14,15 @@ A White House spokesman said the alley renovations included fixing broken lights
 
 Date: 2026-09-03
 
-### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
-
-In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
-
-Date: 2026-09-02
-
 ### U.S. strikes Iran again as Tehran targets American allies in Gulf region
 
 Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran "very hard" if t.
+
+Date: 2026-09-02
+
+### Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts
+
+In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.
 
 Date: 2026-09-02
 
@@ -72,5 +72,4 @@ Date: 2026-09-01
 
 - [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com) — 2026-09-02T21:22:50.000Z
 - [U.S. strikes Iran again as Tehran targets American allies in Gulf region](https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region?utm_source=lootura.com) — 2026-09-02T22:55:26.000Z
-- [Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html?utm_source=lootura.com) — 2026-09-02T14:47:31.000Z
 - [White House Plans $250,000 Renovation of 2-Lane Bowling Alley](https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com) — 2026-09-03T01:08:35.000Z

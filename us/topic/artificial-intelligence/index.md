@@ -3,10 +3,22 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### With education technology, engagement is not the same as learning
+
+A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative AI tools pose particular risks by improving students' immediate performance without building their underlying knowledge or skills.
+
+Date: 2026-09-03
+
+### Funding milestone detected
+
+Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.
+
+Date: 2026-09-03
 
 ### AI agents are hacking systems without any input from humans. How did we get here?
 
@@ -56,19 +68,8 @@ Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When
 
 Date: 2026-09-02
 
-### Agentic AI accelerates search for crops that can harvest critical minerals
-
-For too long, the United States has relied on foreign sources for most of the raw materials powering its technological future: the essential minerals in every smartphone, battery pack and semiconductor. What if one answer to the supply crisis isn't buried in a mine shaft but growing quietly in a field? Scientists are b.
-
-Date: 2026-09-02
-
-### AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market
-
-Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many. (Image credit: Heather Diehl).
-
-Date: 2026-09-01
-
 ## Sources
 
 - [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z
-- [AI agents are hacking systems without any input from humans. How did we get here?](https://www.pbs.org/newshour/science/ai-agents-are-hacking-systems-without-any-input-from-humans-how-did-we-get-here?utm_source=lootura.com) — 2026-09-02T18:46:26.000Z
+- [With education technology, engagement is not the same as learning](https://phys.org/news/2026-09-technology-engagement.html?utm_source=lootura.com) — 2026-09-03T04:00:03.000Z
+- [China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com) — 2026-09-03T07:00:47.000Z

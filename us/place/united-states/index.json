@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -41,6 +41,31 @@
       "date": "2026-09-03"
     },
     {
+      "title": "China's Xi visits Egypt for the first time in a decade",
+      "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "summary": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran. (Image credit: Xie Huanchi).",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Critics question legality of Venezuela oil deals",
+      "summary": "Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Study reveals distinct patterns across single-, multi-, and mass homicides",
+      "summary": "An updated analysis of U.S. homicide data has found that intimate partner violence (IPV) often precipitates mass homicide and is also frequently associated with multi-victim and single-victim deaths. The study categorizes homicides into single-victim, multi-victim (2–3 victims) and mass (4 or more victims, excluding th.",
+      "date": "2026-09-03"
+    },
+    {
       "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
       "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
       "date": "2026-09-03"
@@ -51,48 +76,17 @@
       "date": "2026-09-03"
     },
     {
-      "title": "Iran war ramps up again amid series of resignations and firings in U.S. military",
-      "summary": "Strikes between the U.S. and Iran are ratcheting back up amid an important resignation in the U.S. military. CBS News national security analyst Aaron MacLean reports.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a wedding was hit",
-      "summary": "Iran fired on U.S. allies in the Gulf early Wednesday following a night of American bombardment that Iranian officials say included a deadly strike on a wedding party.",
-      "date": "2026-09-02"
-    },
-    {
       "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
       "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.",
       "date": "2026-09-02"
     },
     {
-      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
-      "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
-      "summary": "Iran is making fresh claims about the latest round of strikes in the region. This comes as U.S. military leaders navigate tensions sparked by resignations and recent firings. CBS News' Eleanor Watson has more.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Judge lacked power to overturn ex-soldier Bowe Bergdahl's military conviction, appeals court rules",
-      "summary": "A three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit on Tuesday ordered the dismissal of Bergdahl's claims in district court.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Heads or tails? $1 coin with Trump's face and gold finish go on sale",
-      "summary": "The coin's design — Trump's visage as \"heads\" and the Great Seal of the United States as \"tails\" — was given the stamp of approval this year by the U.S. Commission of Fine Arts, whose members Trump appointed.",
+      "title": "Plane carrying Mullin makes emergency landing after engine failure",
+      "summary": "\"The United States Coast Guard pilots made the single engine landing feel routine. No panic, just straight professionalism,\" Mullin said on X.",
       "date": "2026-09-02"
     }
   ],
   "sources": [
-    {
-      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
-      "url": "https://www.cbsnews.com/video/bessent-says-china-agrees-iran-shouldnt-have-nuclear-weapons/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:56:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
     {
       "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
       "url": "https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com",
@@ -118,35 +112,41 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Iran claims U.S. struck wedding party as Trump navigates Pentagon leadership infighting",
-      "url": "https://www.cbsnews.com/video/iran-claims-us-struck-wedding-party-as-trump-navigates-pentagon-leadership-infighting/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T17:31:56.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "China's Xi visits Egypt for the first time in a decade",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:08:39.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Iran war ramps up again amid series of resignations and firings in U.S. military",
-      "url": "https://www.cbsnews.com/video/iran-war-ramps-up-again-amid-resignations-and-firings-in-us-military/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T15:39:53.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:06:18.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Energy Secretary in Venezuela to tout major oil deal",
-      "url": "https://www.nbcnews.com/nightly-news/video/energy-secretary-in-venezuela-to-tout-major-oil-deal-269248069860?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T23:21:05.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T07:04:25.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Judge lacked power to overturn ex-soldier Bowe Bergdahl's military conviction, appeals court rules",
-      "url": "https://www.pbs.org/newshour/nation/judge-lacked-power-to-overturn-ex-soldier-bowe-bergdahls-military-conviction-appeals-court-rules?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:02:23.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Critics question legality of Venezuela oil deals",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T08:07:44.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
       "title": "Driscoll offers no reason for his exit as Army secretary but says Wednesday is his last full day",
       "url": "https://www.pbs.org/newshour/politics/driscoll-offers-no-reason-for-his-exit-as-army-secretary-but-says-wednesday-is-his-last-full-day?utm_source=lootura.com",
       "publishedAt": "2026-09-02T21:19:56.000Z",
       "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T22:45:39.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 25
+  "evidenceCount": 19
 }

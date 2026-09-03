@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-carolina/index.json",
   "description": "Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-09-03T08:32:30.245Z",
   "aliases": [
     "Palmetto State",
     "S. C.",
@@ -70,6 +70,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Couple arrested after 5-year-old nonverbal daughter is found dead in South Carolina waters",
+      "url": "https://www.nbcnews.com/news/us-news/virginia-couple-arrested-daughter-found-dead-south-carolina-rcna595786?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T03:40:01.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
   "evidenceCount": 0
 }

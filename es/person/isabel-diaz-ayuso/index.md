@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático
+
+Isabel Díaz Ayuso ha llamado a filas a todo su Gobierno para preparar el año electoral. La presidenta de la Comunidad de Madrid se reúne este jueves con sus consejeros en la Residencia Santillana de Manzanares El Real, conocida coloquialmente como La Casita, para armar la estrategia del curso que comienza y ultimar los.
+
+Date: 2026-09-03
 
 ### Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta
 
@@ -62,12 +68,6 @@ El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el
 
 Date: 2026-08-10
 
-### ¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?
-
-Maxwell Cremona, l a consultora de Alberto González Amador (pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso), tuvo en el ejercicio 2025 unos ingresos de 709.739 euros y unas pérdidas de 26.235 euros, según las cuentas depositadas por la empresa en el Registro Mercantil de Madrid. Las cuentas anuale.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Ayuso visitó el ático después de la compra, según reconoce por primera vez el entorno de la presidenta](https://elpais.com/espana/madrid/2026-09-02/el-gobierno-de-ayuso-reconoce-que-la-presidenta-o-alguien-de-su-equipo-visito-el-atico-antes-de-comprarlo-obvio.html?utm_source=lootura.com) — 2026-09-02T12:41:25.000Z
+- [Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático](https://www.elconfidencial.com/espana/madrid/2026-09-03/ayuso-llama-a-filas-a-su-gobierno-para-preparar-el-ano-electoral-mientras-escala-la-crisis-del-atico_4416740/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z

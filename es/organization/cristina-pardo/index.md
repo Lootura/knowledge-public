@@ -34,6 +34,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Alsina, tajante sobre Pedro Sánchez desde 2023: "Tiene a la otra parte del país perfectamente abandonada"](https://www.20minutos.es/television/alsina-tajante-sobre-pedro-sanchez-desde-2023-tiene-otra-parte-pais-perfectamente-abandonada_7032227_0.html?utm_source=lootura.com) — 2026-09-02T23:24:03.000Z
-- [Iván Redondo, exasesor de Sánchez, cuestiona el relato del Gobierno sobre Ceuta: «Cae con el informe»](https://www.abc.es/play/television/noticias/ivan-redondo-exasesor-sanchez-cuestiona-relato-gobierno-20260903001927-nt.html?utm_source=lootura.com) — 2026-09-03T00:58:57.000Z
-- [Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"](https://okdiario.com/cool/television/cristina-pardo-estrena-mesa-ataque-sanchez-ceuta-gobierno-no-actuado-20219035/amp?utm_source=lootura.com) — 2026-09-02T22:10:39.000Z
+No public source links.

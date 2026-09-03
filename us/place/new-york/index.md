@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Down by the Hudson – ode to a New York swimming creek – in pictures
+
+For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.
+
+Date: 2026-09-03
 
 ### Woman Killed in Times Square Stabbing Identified as Bank of America VP
 
@@ -62,12 +68,6 @@ Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse i
 
 Date: 2026-08-31
 
-### John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98
-
-Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.
-
-Date: 2026-08-15
-
 ## Sources
 
-No public source links.
+- [Down by the Hudson – ode to a New York swimming creek – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures?utm_source=lootura.com) — 2026-09-03T06:00:46.000Z

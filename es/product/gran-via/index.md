@@ -3,10 +3,16 @@
 > Sigue la actividad de Gran Vía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T08:32:11.154Z
 - Canonical: https://atlas.lootura.com/es/product/gran-via
 
 ## Cambios recientes
+
+### Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años
+
+Aunque Telefónica haya vendido su sede del 28 de Gran Vía de Madrid, mantendrá su impronta en el casi centenario inmueble. La operadora ha llegado a un acuerdo con el nuevo propietario, el empresario murciano Tomás Olivo , para alquilar cinco plantas durante un periodo de tres años, avanzan fuentes conocedoras del acue.
+
+Date: 2026-09-03
 
 ### Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo
 
@@ -58,4 +64,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años](https://cincodias.elpais.com/companias/2026-09-03/telefonica-mantendra-su-presencia-en-la-historica-sede-de-gran-via-al-menos-durante-tres-anos.html?utm_source=lootura.com) — 2026-09-03T03:15:00.000Z

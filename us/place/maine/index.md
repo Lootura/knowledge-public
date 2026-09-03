@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T02:54:15.085Z
+- Updated: 2026-09-03T08:32:30.245Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
+
+Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.
+
+Date: 2026-09-03
 
 ### Painter Alex Katz reflects on his career and artistry ahead of 100th birthday
 
@@ -62,12 +68,7 @@ Republican attacks have focused on terrorism and illegal immigration, while Demo
 
 Date: 2026-08-08
 
-### Funding milestone detected
-
-President Donald Trump’s most vocal opponents on the right were sowing the seeds for a future third-party political organization during a weekend get-together aimed at undercutting the Republican establishment. The meeting at Tucker Carlson’s compound in Maine with Rep. Thomas Massie, former Rep. Marjorie Taylor Greene.
-
-Date: 2026-08-05
-
 ## Sources
 
+- [Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas](https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com) — 2026-09-03T04:05:42.000Z
 - [Painter Alex Katz reflects on his career and artistry ahead of 100th birthday](https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com) — 2026-09-02T22:20:41.000Z
