@@ -28,4 +28,4 @@ Date: 2026-08-01
 
 ## Sources
 
-- [Trump suggests changing Strait of Hormuz name to "Trump Strait"](https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com) — 2026-09-02T21:22:50.000Z
+No public source links.

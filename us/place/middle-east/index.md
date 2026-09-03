@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Pete Hegseth Faces Growing Criticism as War With Iran Rolls On
+
+Defense Secretary Pete Hegseth is facing growing criticism from some Republicans, with a key senator now calling on President Donald Trump to replace him. It comes amid Hegseth’s reported plans to extend troop deployments in the Middle East, a sign that the conflict with Iran could drag into next year. Meanwhile, the w.
+
+Date: 2026-09-03
 
 ### The Navy’s Logistical Nightmare in the Iran War
 
@@ -62,12 +68,6 @@ The Pacific-based aircraft carrier USS George Washington has begun heading towar
 
 Date: 2026-08-14
 
-### Families concerned about reports of mental health crisis on USS Lincoln
-
-Families of marines are voicing concern over reports about the USS Abraham Lincoln, a naval aircraft carrier based in San Diego that has been in the Middle East supporting the Iran war for over 200 days. Families say their loved ones onboard are dealing with food shortages, plumbing problems and mental health issues. N.
-
-Date: 2026-08-13
-
 ## Sources
 
-No public source links.
+- [Pete Hegseth Faces Growing Criticism as War With Iran Rolls On](https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com) — 2026-09-03T11:30:42.000Z

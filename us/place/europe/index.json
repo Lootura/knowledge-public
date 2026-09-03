@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
+      "summary": "Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "The best tech and gadgets announced at IFA so far",
+      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including brightly col.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Malta businessman found not guilty in car bomb killing of journalist",
       "summary": "Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.",
@@ -53,25 +63,21 @@
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
-      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Malta businessman found not guilty in car bomb killing of journalist",
-      "url": "https://www.cbsnews.com/news/yorgen-fenech-acquitted-daphne-caruana-galizia-killing/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T23:59:11.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T09:03:13.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "The best tech and gadgets announced at IFA so far",
+      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:37:59.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

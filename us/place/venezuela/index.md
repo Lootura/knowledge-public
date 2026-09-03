@@ -3,7 +3,7 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
@@ -72,7 +72,3 @@ Date: 2026-09-01
 
 - [Morning News Brief](https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief?utm_source=lootura.com) — 2026-09-03T08:03:57.000Z
 - [Ex-National Security Council director on administration's plan for Venezuela oil](https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com) — 2026-09-03T08:08:17.000Z
-- [Critics question legality of Venezuela oil deals](https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals?utm_source=lootura.com) — 2026-09-03T08:07:44.000Z
-- [News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict](https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com) — 2026-09-02T22:45:39.000Z
-- [U.S. oil giant Chevron confirms it will expand operations in Venezuela](https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com) — 2026-09-02T21:39:57.000Z
-- [Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches](https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com) — 2026-09-02T16:20:36.000Z

@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -11,6 +11,36 @@
 ### Judge blocks Trump's latest effort to narrow birthright citizenship
 
 A federal judge has temporarily blocked a Trump executive order that would prevent certain people from automatically becoming U.S. citizens at birth.
+
+Date: 2026-09-03
+
+### U.S. layoffs in August fell to their lowest level in 4 years
+
+Job cuts around the U.S. have declined this year even amid signs that hiring is weakening.
+
+Date: 2026-09-03
+
+### I own six guns. Here’s how to talk to conservatives about firearms
+
+In rural America, guns are a fact of life. But even conservatives agree that properly locking them up is crucial in preventing deaths I have six guns in my house. The first was a vintage Winchester 12-gauge. It was the winter of 1990, and my husband and I had just moved from an urban block in north-west Philadelphia to.
+
+Date: 2026-09-03
+
+### Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight
+
+President Trump’s bid to call it ‘Lake America’ stands out in a world full of contested place names, which often represent deeper political or territorial disputes.
+
+Date: 2026-09-03
+
+### U.S. Trade Gap Ballooned in July
+
+The trade deficit bounced back up last month as spending on data centers to feed the A.I. boom drove up imports.
+
+Date: 2026-09-03
+
+### U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics
+
+Plus, the N.B.A.’s biggest punishment ever.
 
 Date: 2026-09-03
 
@@ -38,45 +68,13 @@ Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil indust
 
 Date: 2026-09-03
 
-### Study reveals distinct patterns across single-, multi-, and mass homicides
-
-An updated analysis of U.S. homicide data has found that intimate partner violence (IPV) often precipitates mass homicide and is also frequently associated with multi-victim and single-victim deaths. The study categorizes homicides into single-victim, multi-victim (2–3 victims) and mass (4 or more victims, excluding th.
-
-Date: 2026-09-03
-
-### In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy
-
-The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.
-
-Date: 2026-09-03
-
-### Inside the Fight Against a Flesh-Eating Fly in Mexico
-
-For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico.
-
-Date: 2026-09-03
-
-### Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches
-
-The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there.
-
-Date: 2026-09-02
-
-### Plane carrying Mullin makes emergency landing after engine failure
-
-"The United States Coast Guard pilots made the single engine landing feel routine. No panic, just straight professionalism," Mullin said on X.
-
-Date: 2026-09-02
-
 ## Sources
 
+- [AI interviews rolling out for some federal government hires, sources say](https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?utm_source=lootura.com) — 2026-09-03T15:24:23.000Z
 - [Judge blocks Trump's latest effort to narrow birthright citizenship](https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com) — 2026-09-03T01:10:30.000Z
-- [Expert questions legality of U.S. strikes on alleged drug boats as death toll hits 227](https://www.cbsnews.com/video/experts-question-legality-of-deadly-us-drug-boat-strikes-as-death-toll-hits-227/?utm_source=lootura.com) — 2026-09-02T23:40:00.000Z
-- [Plane carrying Mullin makes emergency landing after engine failure](https://www.cbsnews.com/news/coast-guard-plane-markwayne-mullin-emergency-landing/?utm_source=lootura.com) — 2026-09-02T21:28:54.000Z
-- [Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential](https://www.cbsnews.com/video/iran-attacks-us-allies-gulf-region-trump-downplays-peace-deal-potential/?utm_source=lootura.com) — 2026-09-02T21:57:26.000Z
-- [China's Xi visits Egypt for the first time in a decade](https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com) — 2026-09-03T08:08:39.000Z
-- [U.S.-Israel relations are on the rocks ahead of elections](https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com) — 2026-09-03T08:06:18.000Z
-- [Xi visits Egypt as China seeks deeper influence across the Mideast](https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com) — 2026-09-03T07:04:25.000Z
-- [Critics question legality of Venezuela oil deals](https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals?utm_source=lootura.com) — 2026-09-03T08:07:44.000Z
-- [Driscoll offers no reason for his exit as Army secretary but says Wednesday is his last full day](https://www.pbs.org/newshour/politics/driscoll-offers-no-reason-for-his-exit-as-army-secretary-but-says-wednesday-is-his-last-full-day?utm_source=lootura.com) — 2026-09-02T21:19:56.000Z
-- [News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict](https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com) — 2026-09-02T22:45:39.000Z
+- [U.S. layoffs in August fell to their lowest level in 4 years](https://www.cbsnews.com/news/august-layoffs-hit-lowest-level-since-2022/?utm_source=lootura.com) — 2026-09-03T15:30:12.000Z
+- [I own six guns. Here’s how to talk to conservatives about firearms](https://www.theguardian.com/us-news/ng-interactive/2026/sep/03/gun-safety-rural-america?utm_source=lootura.com) — 2026-09-03T13:30:39.000Z
+- [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T19:56:53.000Z
+- [Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight](https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html?utm_source=lootura.com) — 2026-09-03T09:04:03.000Z
+- [U.S. Trade Gap Ballooned in July](https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html?utm_source=lootura.com) — 2026-09-03T15:36:44.000Z
+- [U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics](https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html?utm_source=lootura.com) — 2026-09-03T11:17:01.000Z

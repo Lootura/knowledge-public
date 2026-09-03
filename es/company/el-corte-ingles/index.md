@@ -3,10 +3,16 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-08T08:37:08.695Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes
+
+### Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones
+
+Gebta, la patronal que aúna a 19 de las mayores agencias de viajes corporativas en España , entre ellas Viajes El Corte Inglés, American Express GBT o Nautalia, ha impugnado ante el Tribunal Administrativo Central de Recursos Contractuales el concurso de servicios de agencias de viajes de la Administración General del.
+
+Date: 2026-09-03
 
 ### El Corte Inglés vuelve a adjudicarse el contrato de viajes de Ineco tras conseguir el de Aena
 
@@ -46,4 +52,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones](https://cincodias.elpais.com/companias/2026-09-03/las-agencias-impugnan-el-macroconcurso-de-viajes-de-los-ministerios-dotado-con-605-millones.html?utm_source=lootura.com) — 2026-09-03T12:52:26.000Z

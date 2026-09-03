@@ -40,4 +40,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict](https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com) — 2026-09-02T22:45:39.000Z
+No public source links.

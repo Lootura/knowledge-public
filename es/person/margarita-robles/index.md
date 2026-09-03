@@ -3,10 +3,28 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»
+
+El portavoz de ERC, Gabriel Rufián, ha querido remarcar que Sánchez tiene «un problemón importante» tras el contrariado gesto de la ministra de Defensa, Margarita Robles , al presidente.Rufián ha destacado que Robles ha sido la única que no ha aplaudido al presidente del Gobierno tras hacer notorio que iba a «publicar.
+
+Date: 2026-09-03
+
+### La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta
+
+La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.
+
+Date: 2026-09-03
+
+### Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta
+
+La ministra de Defensa, Margarita Robles, se ha desmarcado del grupo socialista al evitar sumarse a los aplausos tras el anuncio realizado por el presidente del Gobierno, Pedro Sánchez, sobre la publicación de los informes relacionados con la crisis en Ceuta. Seguir leyendo.
+
+Date: 2026-09-03
 
 ### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
 
@@ -50,24 +68,8 @@ La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilida
 
 Date: 2026-08-13
 
-### Óscar Puente y Felipe VI
-
-No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han demostrado dos maneras distintas de entender el poder. Margarita Robles viaja a Ceuta, escucha el enfado de sus ciudadanos y representa al Estado, mientras Óscar Puente convierte la crisis en material para Twitter. Al país le sobran activi.
-
-Date: 2026-08-13
-
-### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
-
-La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...
-
-Date: 2026-08-12
-
-### En Sumario de tarde: del caos y el colapso en Ceuta al rapapolvo a Margarita Robles
-
-Marruecos reclama Ceuta y Melilla tras el asalto : «Este asunto sigue sobre la mesa»; Robles lanza un aviso a Marruecos y defiende al Ejército: «A Ceuta y Melilla no se las toca»; Ceuta, al borde del estallido con la sanidad y los servicios públicos colapsados tras el asalto; y el precio de las gafas para el eclipse se.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»](https://www.abc.es/espana/rufian-dice-sanchez-problemon-importante-robles-aplaudido-20260903123140-nt.html?utm_source=lootura.com) — 2026-09-03T15:12:10.000Z
+- [La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta](https://www.elconfidencial.com/espana/2026-09-03/margarita-robles-sanchez-evita-aplaudir_4417230/?utm_source=lootura.com) — 2026-09-03T12:07:00.000Z
+- [Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta](https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html?utm_source=lootura.com) — 2026-09-03T11:56:15.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-20
 
 ## Fuentes
 
-- [Illa inicia su viaje a Ucrania con una parada en Polonia: "Es fundamental para Europa"](https://www.larazon.es/cataluna/illa-inicia-viaje-ucrania-parada-polonia-fundamental-europa_202609036a992d614941316b1e75d6db.html?utm_source=lootura.com) — 2026-09-03T08:18:41.000Z
+No public source links.

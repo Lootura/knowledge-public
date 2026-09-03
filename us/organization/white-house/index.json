@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -71,23 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Trump suggests changing Strait of Hormuz name to \"Trump Strait\"",
-      "url": "https://www.cbsnews.com/video/trump-suggests-changing-strait-of-hormuz-name-trump-strait/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:22:50.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
-      "url": "https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:55:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
       "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com",
       "publishedAt": "2026-09-03T01:08:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

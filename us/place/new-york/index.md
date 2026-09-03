@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Gloria Steinem Came to New York to Be a Writer. She Became a Movement.
+
+Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.
+
+Date: 2026-09-03
+
+### Gloria Steinem's Long and Revealing History With TIME
+
+Over the course of her long and influential life, Gloria Steinem went from being described in the pages of TIME as “one of the best dates to take to a New York party these days” and “smashing looking Gucci liberal” to being lauded as a “ feminist icon .” If nothing else, the shift in the tone of her coverage in the mag.
+
+Date: 2026-09-03
 
 ### Down by the Hudson – ode to a New York swimming creek – in pictures
 
@@ -56,18 +68,7 @@ Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger
 
 Date: 2026-09-01
 
-### Suspect and female victim dead after Times Square stabbing spree
-
-A woman armed with at least one knife slashed two people in New York City’s Times Square before she was shot by police, according to multiple officials. NBC News’ Sam Brock reports.
-
-Date: 2026-08-31
-
-### Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why
-
-Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse in Central Islip, New York, after being sentenced on April 25, 2025. —Howard Schnapp—Newsday RM/Getty Images The prediction-market exchange Kalshi has permanently prohibited former Rep. George Santos from accessing the platform after establi.
-
-Date: 2026-08-31
-
 ## Sources
 
-- [Down by the Hudson – ode to a New York swimming creek – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures?utm_source=lootura.com) — 2026-09-03T06:00:46.000Z
+- [Gloria Steinem Came to New York to Be a Writer. She Became a Movement.](https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html?utm_source=lootura.com) — 2026-09-03T15:26:06.000Z
+- [Gloria Steinem's Long and Revealing History With TIME](https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/?utm_source=lootura.com) — 2026-09-03T11:51:55.000Z

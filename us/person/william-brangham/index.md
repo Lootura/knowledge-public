@@ -28,4 +28,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [Pediatrician says RFK Jr. sowing doubt about measles-associated deaths](https://www.pbs.org/newshour/show/pediatrician-says-rfk-jr-sowing-doubt-about-measles-associated-deaths?utm_source=lootura.com) — 2026-09-02T22:25:25.000Z
+No public source links.

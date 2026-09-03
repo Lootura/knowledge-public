@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -74,13 +74,7 @@
       "url": "https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com",
       "publishedAt": "2026-09-03T04:05:42.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Painter Alex Katz reflects on his career and artistry ahead of 100th birthday",
-      "url": "https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:20:41.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

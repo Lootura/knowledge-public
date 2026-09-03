@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/star-wars/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/star-wars/index.json",
   "description": "Sigue la actividad de Star Wars en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "La guerra de las galaxias"
   ],
   "changes": [
+    {
+      "title": "Esta es la escena más importante de ‘The Mandalorian and Grogu’ según su director (no es la que esperas)",
+      "summary": "The Mandalorian and Grogu acaba de llegar por fin a Disney+ . Star Wars regresaba a los cines después de siete largos años con la primera entrega cinematográfica del cazarrecompensas de Pedro Pascal y su inseparable Baby Yoda . Por desgracia, el proyecto no funcionó en taquilla tan bien como se esperaba. Sin embargo, c.",
+      "date": "2026-09-03"
+    },
     {
       "title": "‘The Mandalorian and Grogu’ confirma su fecha de estreno en Disney+",
       "summary": "The Mandalorian and Grogu marcó este año el regreso de Star Wars a los cines de todo el mundo, y ahora tiene fecha confirmada para llegar a streaming de la mano de Disney+ . La buena noticia es que la espera no será demasiado prolongada, pues la película se añadirá al catálogo de la plataforma en meras semanas. De esta.",
@@ -34,6 +39,13 @@
       "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Esta es la escena más importante de ‘The Mandalorian and Grogu’ según su director (no es la que esperas)",
+      "url": "https://hipertextual.com/cine-television/esta-es-la-escena-mas-importante-de-the-mandalorian-and-grogu-segun-su-director-no-es-la-que-esperas/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:00:51.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

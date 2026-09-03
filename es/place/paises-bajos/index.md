@@ -3,10 +3,16 @@
 > Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/paises-bajos
 
 ## Cambios recientes
+
+### El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'
+
+El banco central de Países Bajos ha trasladado más de 78 toneladas de oro de Nueva York a Londres argumentando la "creciente inestabilidad geopolítica", en lo que...
+
+Date: 2026-09-03
 
 ### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
 
@@ -40,4 +46,5 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
+- [Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial](https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com) — 2026-09-03T10:09:38.000Z
+- [El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'](https://amp.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html?utm_source=lootura.com) — 2026-09-03T12:52:55.000Z

@@ -3,7 +3,7 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
 
 Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.
+
+Date: 2026-09-03
+
+### Elon Musk’s super PAC dives into midterms to bolster Republicans in battleground races
+
+Elon Musk’s super PAC has funneled about $800,000 into battleground races across the country to boost Republican candidates.
 
 Date: 2026-09-03
 
@@ -65,3 +71,4 @@ Date: 2026-08-05
 ## Sources
 
 - [Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas](https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com) — 2026-09-03T04:05:42.000Z
+- [Elon Musk’s super PAC dives into midterms to bolster Republicans in battleground races](https://www.nbcnews.com/politics/2026-election/elon-musk-super-pac-midterms-republicans-rcna595909?utm_source=lootura.com) — 2026-09-03T15:26:41.000Z

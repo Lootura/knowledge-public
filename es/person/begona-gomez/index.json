@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
+      "summary": "La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa \"está condenada\" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial",
+      "summary": "La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa",
       "summary": "La mujer de Pedro Sánchez debe declarar como querellada el próximo 23 de octubre Leer.",
@@ -50,18 +60,21 @@
       "title": "Pedro Sánchez ya está en Lanzarote para descansar hasta el 24",
       "summary": "Pedro Sánchez ya se encuentra en Lanzarote para disfrutar de sus vacaciones de verano. El presidente del Gobierno y su esposa, Begoña Gómez, aterrizaron este sábado, poco después de las 13:00 horas, en el Aeropuerto César Manrique-Lanzarote a bordo de un avión Falcon del Ejército del Aire, desde donde se desplazaron a.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte",
-      "summary": "Sostiene que el juez Peinado invade competencias del letrado de la Administración de Justicia y denuncia que mantiene una restricción de la libertad Leer.",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "La asistente de Begoña Gómez denuncia que el juez Peinado retiene \"a sabiendas\" su pasaporte sin justificación",
-      "summary": "El abogado de Cristina Álvarez exige al juez que no dilate más la entrega del documento porque está violando un derecho constitucional, el de movimiento, e incumpliendo una orden de la instancia superior El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez La.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
+      "url": "https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:42:22.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial",
+      "url": "https://www.eldiario.es/politica/tribunal-superior-justicia-madrid-deja-castigo-quejas-peinado-tramito-judicial_1_13485234.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:40:49.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
 }

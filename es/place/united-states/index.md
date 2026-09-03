@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -11,6 +11,24 @@
 ### Fragmento del día: Corea del Norte
 
 Corea del Norte afirma que ha detonado una bomba de hidrógeno, equivalente a unos 100 kilotones de TNT. El Servicio Geológico de los Estados Unidos informó de un terremoto de 6.3 magnitud, no lejos del sitio de prueba nuclear de Punggye-ri.
+
+Date: 2026-09-03
+
+### Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"
+
+El presidente de Estados Unidos, Donald Trump , se ha referido a España como un "país arruinado" , en alusión a la crisis en Ceuta, tras asegurar que el cruce masivo de migrantes desde Marruecos "es triste de ver". "España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy b.
+
+Date: 2026-09-03
+
+### Trump se refiere a España como un «país arruinado»: «Es triste de ver»
+
+El presidente de Estados Unidos, Donald Trump, se ha referido a España como un «país arruinado», en alusión a la crisis en Ceuta , tras asegurar que el cruce masivo de migrantes desde Marruecos «es triste de ver».«España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy bie.
+
+Date: 2026-09-03
+
+### Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto
+
+La administración de Donald Trump prepara un plan para cercar de forma permanente la plaza Lafayette de Washington , situada junto a la Casa Blanca, lo que permitiría hacer realidad una de las históricas aspiraciones de los servicios secretos de EE UU: convertir la residencia oficial del presidente de Estados Unidos en.
 
 Date: 2026-09-03
 
@@ -50,28 +68,9 @@ Alphabet, la matriz empresarial detrás del motor de búsqueda online más popul
 
 Date: 2026-09-02
 
-### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
-
-El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.
-
-Date: 2026-09-02
-
-### Sheinbaum acusa a EEUU de usar tácticas de «injerencia» para dividir a su Gobierno
-
-La presidenta de México, Claudia Sheinbaum, ha acusado este miércoles a Estados Unidos de recurrir a tácticas de «injerencia» para dividir a su gabinete.
-
-Date: 2026-09-02
-
-### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
-
-Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson](https://www.abc.es/cultura/musica/muere-anos-cantante-jazz-estadounidense-cassandra-wilson-20260903082758-nt.html?utm_source=lootura.com) — 2026-09-03T07:44:24.000Z
-- [El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros](https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com) — 2026-09-02T22:30:22.000Z
-- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+- [Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"](https://www.20minutos.es/internacional/trump-tacha-espana-pais-arruinado-afirma-que-cruce-masivo-ceuta-es-triste-ver_7032544_0.html?utm_source=lootura.com) — 2026-09-03T14:37:39.000Z
+- [Trump se refiere a España como un «país arruinado»: «Es triste de ver»](https://www.abc.es/espana/trump-refiere-espana-pais-arruinado-afirma-avalancha-20260903161722-nt.html?utm_source=lootura.com) — 2026-09-03T15:10:30.000Z
+- [Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto](https://www.larazon.es/internacional/convertir-casa-blanca-fortin-trump-puede-hacer-realidad-sueno-servicio-secreto_202609036a99925f3bfe5d1eff422434.html?utm_source=lootura.com) — 2026-09-03T15:29:38.000Z
 - [Fragmento del día: Corea del Norte](https://es.wikipedia.org/wiki/Corea_del_Norte?utm_source=lootura.com) — 2026-09-03T04:00:00.000Z
-- [Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica](https://theobjective.com/gente/2026-09-03/borja-thyssen-y-blanca-cuesta-mandan-a-su-hijo-mayor-a-estados-unidos-mientras-su-situacion-en-andorra-se-complica/?amp=&utm_source=lootura.com) — 2026-09-03T08:23:09.000Z

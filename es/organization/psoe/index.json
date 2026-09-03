@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/psoe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/psoe/index.json",
   "description": "Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "Grupo Socialista",
     "PSOE",
@@ -21,6 +21,26 @@
     "Spanish Workers' Socialist Party"
   ],
   "changes": [
+    {
+      "title": "Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»",
+      "summary": "La líder del PSOE de Madrid , Reyes Maroto, no ha tardado en arrancarse la espina que le dejaron las primarias del pasado 19 de julio. La exministra ha apartado de la dirección del partido a Enma López, la hasta ahora portavoz adjunta del partido en el Ayuntamiento de Madrid que se presentó a las elecciones como altern.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta",
+      "summary": "La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "La vicesecretaria general del PSOE-A denuncia «un ataque machista y cruel» por redes sociales",
+      "summary": "La socialista expone alguno de los insultos que debe aguantar cada vez que sube contenido: «puta, rata, escoria o zorra».",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud",
+      "summary": "El Juzgado de Instrucción 13 de Valencia ha finalizado la instrucción de la macrocausa de corrupción conocida como caso Azud con el procesamiento de 38 personas. Entre estos investigados se encuentran varios dirigentes políticos del Partido Popular y el PSOE, como el que fuera teniente de alcalde de Rita Barberá , Alfo.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle",
       "summary": "Muchas ciudades han acogido este miércoles manifestaciones de apoyo a Ceuta, pero ha sido en la ciudad autónoma donde se ha celebrado la más simbólica para exigir una solución al Gobierno que acabe con la crisis migratoria que tiene en vilo la ciudad. La indignación ha sido la constante de entre unos manifestantes que.",
@@ -50,35 +70,33 @@
       "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
       "summary": "Algunos han secundado la convocatoria de la FEMP y otros han organizado su propio acto para sortear la prohibición de la Ejecutiva Federal socialista.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez",
-      "summary": "El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "La presidenta de la FEMP asegura que las concentraciones por Ceuta no son \"partidistas\" y lamenta los \"insultos\" del PSOE",
-      "summary": "Asegura que se trata de la primera vez que desde el Gobierno de España \"se intenta parar\" una concentración convocada por esta federación.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz",
-      "summary": "La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: \"Hay que defender Ceuta hoy\"",
-      "summary": "«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle",
-      "url": "https://elpais.com/espana/2026-09-03/dentro-de-la-protesta-en-ceuta-la-emocion-de-vivas-el-diputado-critico-del-psoe-y-la-indignacion-en-la-calle.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T02:45:48.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»",
+      "url": "https://www.abc.es/espana/madrid/reyes-maroto-aparta-enma-lopez-direccion-psoe-20260903155139-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:45:03.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta",
+      "url": "https://www.elconfidencial.com/espana/2026-09-03/margarita-robles-sanchez-evita-aplaudir_4417230/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:07:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "La vicesecretaria general del PSOE-A denuncia «un ataque machista y cruel» por redes sociales",
+      "url": "https://theobjective.com/espana/politica/2026-09-03/vicesecretaria-general-psoe-denuncia-ataque-machista-cruel/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:38:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud",
+      "url": "https://theobjective.com/espana/tribunales/2026-09-03/procesan-numero-2-rita-barbera-cunado-acabar-instruccion-caso-azud/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:59:00.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

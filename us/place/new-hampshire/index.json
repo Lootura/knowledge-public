@@ -8,15 +8,15 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.json",
   "description": "Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
-    "State of New Hampshire",
-    "New Hampshire, United States",
-    "The Granite State",
+    "Granite State",
     "N.H.",
     "NH",
-    "US-NH",
-    "Granite State"
+    "New Hampshire, United States",
+    "State of New Hampshire",
+    "The Granite State",
+    "US-NH"
   ],
   "changes": [
     {
@@ -36,13 +36,7 @@
       "url": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146?utm_source=lootura.com",
       "publishedAt": "2026-09-03T02:57:19.000Z",
       "sourceId": "lootura-us-politico"
-    },
-    {
-      "title": "In the Midterms, Will the Nepo-Baby Attack Work?",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:55:07.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,7 +3,7 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
@@ -71,4 +71,3 @@ Date: 2026-08-08
 ## Sources
 
 - [Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas](https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com) — 2026-09-03T04:05:42.000Z
-- [Painter Alex Katz reflects on his career and artistry ahead of 100th birthday](https://www.pbs.org/newshour/show/painter-alex-katz-reflects-on-his-career-and-artistry-ahead-of-100th-birthday?utm_source=lootura.com) — 2026-09-02T22:20:41.000Z

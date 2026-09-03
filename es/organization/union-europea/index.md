@@ -3,7 +3,7 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-08-14
 ## Fuentes
 
 - [Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta](https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:21:40.000Z
-- [Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio](https://www.larazon.es/tecnologia-consumo/whatsapp/di-adios-whatsapp-tienes-alguno-estos-telefonos-android-versiones-50-51-sistema-ya-no-podran-utilizar-servicio_202609036a98bd313bfe5d1eff4119e8.html?utm_source=lootura.com) — 2026-09-03T08:30:00.000Z

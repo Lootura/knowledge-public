@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "CA",
     "CAN",
@@ -68,6 +68,13 @@
       "date": "2026-07-20"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial",
+      "url": "https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T10:09:38.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
   "evidenceCount": 0
 }

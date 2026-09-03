@@ -1,55 +1,68 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T08:49:26.144Z",
+  "generatedAt": "2026-09-03T17:20:23.931Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|159|1788424350245",
+    "signature": "1.18.0|160|1788450382368",
     "version": "1.18.0",
-    "build": 159,
-    "latestEntityUpdatedAt": "2026-09-03T08:32:30.245Z"
+    "build": 160,
+    "latestEntityUpdatedAt": "2026-09-03T15:46:22.368Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
+      "id": "usa-gloria-steinem",
+      "name": "Gloria Steinem",
       "type": "person",
-      "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-09-03T08:32:30.245Z",
-      "score": 1649,
-      "sourceCount": 839,
+      "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+      "url": "https://atlas.lootura.com/us/person/gloria-steinem",
+      "path": "/us/person/gloria-steinem",
+      "updatedAt": "2026-09-03T15:46:22.368Z",
+      "score": 1720,
+      "sourceCount": 6,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-new-york",
+        "name": "New York City",
         "type": "place",
-        "title": "U.S.-Israel relations are on the rocks ahead of elections",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-09-03T08:32:30.245Z",
-        "score": 1644,
-        "sourceCount": 874,
+        "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+        "url": "https://atlas.lootura.com/us/place/new-york",
+        "path": "/us/place/new-york",
+        "updatedAt": "2026-09-03T15:46:22.368Z",
+        "score": 1679,
+        "sourceCount": 111,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-venezuela",
-        "name": "Venezuela",
-        "type": "place",
-        "title": "Ex-National Security Council director on administration's plan for Venezuela oil",
-        "url": "https://atlas.lootura.com/us/place/venezuela",
-        "path": "/us/place/venezuela",
-        "updatedAt": "2026-09-03T08:32:30.245Z",
-        "score": 1644,
-        "sourceCount": 25,
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-09-03T15:46:22.368Z",
+        "score": 1646,
+        "sourceCount": 846,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-abraham-lincoln",
+        "name": "Abraham Lincoln",
+        "type": "person",
+        "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
+        "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
+        "path": "/us/person/abraham-lincoln",
+        "updatedAt": "2026-09-03T15:46:22.368Z",
+        "score": 1635,
+        "sourceCount": 22,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +73,13 @@
         "title": "Military personnel told last month to stop calling Iran conflict \"Operation Epic Fury\"",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-09-03T08:32:30.245Z",
+        "updatedAt": "2026-09-03T15:46:22.368Z",
         "score": 1634,
-        "sourceCount": 440,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
-        "type": "organization",
-        "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-09-03T08:32:30.245Z",
-        "score": 1633,
-        "sourceCount": 50,
+        "sourceCount": 443,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 180
+    "publicEntityCount": 184
   }
 }

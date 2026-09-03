@@ -3,7 +3,7 @@
 > Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/new-hampshire
 
 ## Recent changes
@@ -23,4 +23,3 @@ Date: 2026-09-02
 ## Sources
 
 - [Elon Musk unleashes first wave of spending on key races in the midterms](https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146?utm_source=lootura.com) — 2026-09-03T02:57:19.000Z
-- [In the Midterms, Will the Nepo-Baby Attack Work?](https://www.nytimes.com/2026/09/02/us/politics/midterms-nepo-baby-shaheen.html?utm_source=lootura.com) — 2026-09-02T22:55:07.000Z

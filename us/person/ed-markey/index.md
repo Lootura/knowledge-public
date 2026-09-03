@@ -70,4 +70,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Democratic strategist on the new anti-partisan swing voters](https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com) — 2026-09-02T22:35:50.000Z
+No public source links.

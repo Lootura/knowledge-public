@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-12T20:40:15.873Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"
+
+La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa "está condenada" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.
+
+Date: 2026-09-03
 
 ### ¿Qué hará Sánchez sin La Mareta?
 
@@ -62,12 +68,6 @@ La crisis de los graves incendios que afectan a la Comunidad de Madrid y la prov
 
 Date: 2026-07-24
 
-### "Decepción" en el PSOE con Zapatero tras su entrevista: "No lo hemos entendido, no ha aclarado nada de las joyas"
-
-La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"](https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com) — 2026-09-03T12:42:22.000Z

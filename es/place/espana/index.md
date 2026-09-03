@@ -3,34 +3,10 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
-
-### España se echa a la calle para defender a Ceuta
-
-A las 20.00 horas de este miércoles, Día de Ceuta, las principales ciudades del país clamaron por la españolidad de la ciudad autónoma, que atraviesa una situación crítica desde el pasado 30 de julio. Las calles se llenaron de cientos de miles de personas que se solidarizaron con los ciudadanos que sufren las consecuen.
-
-Date: 2026-09-03
-
-### Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’
-
-Ibai Llanos, uno de los creadores de contenido más importantes de España, ha encontrado un importante filón de negocio en el evento boxístico que organiza cada año. Se trata de la velada del año , una cita que comenzó a celebrar en 2021, con un aforo muy reducido por las restricciones que todavía exigía la pandemia de.
-
-Date: 2026-09-03
-
-### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
-
-La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
-
-Date: 2026-09-03
-
-### Calendario escolar 2026-2027 en toda España: qué días son festivos y cuándo son las vacaciones
-
-El calendario escolar 2026-2027 en España vuelve a depender de cada comunidad autónoma, especialmente en lo relativo a las vacaciones de Navidad, Semana Santa, festivos regionales, puentes y jornadas no lectivas. Aunque buena parte del alumnado retomará las clases durante la segunda semana de septiembre, las familias d.
-
-Date: 2026-09-03
 
 ### Los que no salieron a manifestarse en Ceuta: “Tengo miedo a que pueda pasar algo”
 
@@ -38,45 +14,69 @@ A la hora en que la masiva manifestación recorría Ceuta y cientos de miles de 
 
 Date: 2026-09-03
 
-### Sánchez afirma que no hay "pruebas" de la autoría marroquí en la entrada a Ceuta y que no tuvo avisos previos
+### Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"
 
-El presidente anuncia que publicará los dossieres de las informaciones de inteligencia antes del 30 de julio para demostrar que no hubo avisos previos, revela que España convocó a la embajadora marroquí el 21 de agosto tras las palabras de varios ministros de Mohamed VI y arremete contra la Policía por no elevar su inf.
-
-Date: 2026-09-03
-
-### Lucas Paulano representará a España en Eurovisión Junior 2026 con 'Cuore bello, te quiero te quiero'
-
-Lucas Paulano ya tiene canción para Eurovisión Junior 2026. El joven artista jienense representará a España en la próxima edición del festival infantil con 'Cuore bello, te quiero te quiero', título que RTVE ha desvelado este miércoles durante la presentación de su programación para la temporada 2026-2027 , celebrada e.
+El presidente de Estados Unidos, Donald Trump , se ha referido a España como un "país arruinado" , en alusión a la crisis en Ceuta, tras asegurar que el cruce masivo de migrantes desde Marruecos "es triste de ver". "España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy b.
 
 Date: 2026-09-03
 
-### La iniciativa para lograr TV gratis en los hospitales: «La tele no es un lujo»
+### Trump se refiere a España como un «país arruinado»: «Es triste de ver»
 
-Estar postrado en la cama de un centro sanitario durante semanas o meses es una experiencia amarga que a menudo empeora a golpe de tarjeta o moneda. Mirar fijamente al techo y escuchar el murmullo distante del pasillo suele ser el único pasatiempo para miles de enfermos en España si no abonan la tarifa diaria exigida p.
-
-Date: 2026-09-03
-
-### Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones
-
-La bajada de la producción de las factorías españolas de automóviles y la caída de las exportaciones han provocado que la balanza comercial de la industria del automóvil en España haya caído en el primer semestre un 41,2 % respecto al mismo periodo del año pasado. Aun así, el saldo es positivo, con 3.344 millones de eu.
+El presidente de Estados Unidos, Donald Trump, se ha referido a España como un «país arruinado», en alusión a la crisis en Ceuta , tras asegurar que el cruce masivo de migrantes desde Marruecos «es triste de ver».«España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy bie.
 
 Date: 2026-09-03
 
-### Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta
+### Sánchez mintió en el Congreso cuando dijo que había convocado a la embajadora de Marruecos en España
 
-Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea y la Ertzaintza ha desplegado un importante dispositivo.
+La propia Embajada ha confirmado la ausencia de Karima Benyaich Millán en el país ese día y Exteriores "ha aclarado" posteriormente que acudió el encargado de Negocios.
 
-Date: 2026-09-02
+Date: 2026-09-03
+
+### Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones
+
+Gebta, la patronal que aúna a 19 de las mayores agencias de viajes corporativas en España , entre ellas Viajes El Corte Inglés, American Express GBT o Nautalia, ha impugnado ante el Tribunal Administrativo Central de Recursos Contractuales el concurso de servicios de agencias de viajes de la Administración General del.
+
+Date: 2026-09-03
+
+### Detenida una mujer en Ceuta por matar a su primo inmigrante en la casa familiar
+
+La Policía Nacional ha detenido este jueves a una mujer en Ceuta acusada de haber matado a su primo . La presunta autora del crimen es una mujer española mayor de edad. La víctima es una persona indocumentada que estaba en España en situación irregular, según informa la Delegación del Gobierno de Ceuta y la Policía Nac.
+
+Date: 2026-09-03
+
+### El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros
+
+El presidente del Gobierno, Pedro Sánchez, ha asegurado en su comparecencia en el Congreso que el Ejecutivo convocó el pasado 21 de agosto a la embajadora marroquí en España, Karima Benyaich, por las “ declaraciones inaceptables sobre Ceuta y sobre Melilla ” proferidas por dos ministros de Marruecos. Es la primera vez.
+
+Date: 2026-09-03
+
+### Dreame confirma la llegada a España de su gama de aspiradoras de mano que limpian tanto en seco como en húmedo
+
+Dreame ha aprovechado la IFA 2026 para presentar su nueva Aqua20 Pro Ultra Roller X Complete y la cámara LEAPTIC Cube , y no vienen solas. La compañía también ha confirmado la llegada de su nueva gama de aspiradoras de mano, tanto de limpieza en seco como en húmedo, de la serie T que presentó hace unos meses en París.
+
+Date: 2026-09-03
+
+### OKDIARIO se ‘cuela’ en ‘Rueda la letra’: de las palabras prohibidas a las supersticiones de Sobera
+
+Este jueves 3 de septiembre, Mediaset España ha presentado su nuevo concurso, Rueda la letra , ante la prensa en un evento al que ha acudido OKDIARIO. El programa que tiene como prueba principal el icónico Rosco de Pasapalabra se estrenará el próximo lunes 7 de septiembre a las 19:00 horas y estará presentado por Carlo.
+
+Date: 2026-09-03
+
+### Jordi Cruz y los chefs expertos coinciden: para evitar que los plátanos se pongan negros, «no los guardes en la nevera»
+
+España tiene un problema con la comida que va a la basura. En 2024, los hogares españoles desperdiciaron más de 1.100 millones de kilos de alimentos , lo que equivale a casi 25 kilos por persona a lo largo del año. Y aunque la cifra es la más baja desde que existen registros, sigue siendo difícil de justificar. Entre t.
+
+Date: 2026-09-03
 
 ## Fuentes
 
-- [La Policía constata varias "oleadas" en la entrada diseñadas para "colapsar las capacidades" de España](https://www.20minutos.es/nacional/policia-constata-varias-oleadas-entrada-ceuta-disenadas-para-colapsar-las-capacidades-respuesta-espana_7032187_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
-- [España se echa a la calle para defender a Ceuta](https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html?utm_source=lootura.com) — 2026-09-03T07:15:32.000Z
-- [Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’](https://cincodias.elpais.com/companias/2026-09-03/ibai-llanos-facturo-casi-12-millones-en-2025-con-la-promotora-de-la-velada-del-ano.html?utm_source=lootura.com) — 2026-09-03T03:15:00.000Z
-- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
-- [Calendario escolar 2026-2027 en toda España: qué días son festivos y cuándo son las vacaciones](https://www.elconfidencial.com/espana/2026-09-03/calendario-escolar-2026-2027-espana-festivos-vacaciones-1qrt_4416573/?utm_source=lootura.com) — 2026-09-03T07:50:00.000Z
+- [Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"](https://www.20minutos.es/internacional/trump-tacha-espana-pais-arruinado-afirma-que-cruce-masivo-ceuta-es-triste-ver_7032544_0.html?utm_source=lootura.com) — 2026-09-03T14:37:39.000Z
+- [Trump se refiere a España como un «país arruinado»: «Es triste de ver»](https://www.abc.es/espana/trump-refiere-espana-pais-arruinado-afirma-avalancha-20260903161722-nt.html?utm_source=lootura.com) — 2026-09-03T15:10:30.000Z
+- [Sánchez mintió en el Congreso cuando dijo que había convocado a la embajadora de Marruecos en España](https://www.abc.es/espana/sanchez-mintio-congreso-dijo-llamado-consultas-embajadora-20260903171645-nt_amp.html?utm_source=lootura.com) — 2026-09-03T15:16:45.000Z
+- [Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones](https://cincodias.elpais.com/companias/2026-09-03/las-agencias-impugnan-el-macroconcurso-de-viajes-de-los-ministerios-dotado-con-605-millones.html?utm_source=lootura.com) — 2026-09-03T12:52:26.000Z
+- [Detenida una mujer en Ceuta por matar a su primo inmigrante en la casa familiar](https://www.elconfidencial.com/espana/2026-09-03/detenida-una-mujer-en-ceuta-por-matar-a-su-primo-inmigrante-en-la-casa-familiar_4417103/?utm_source=lootura.com) — 2026-09-03T10:02:00.000Z
 - [Míster Gipuzkoa presume de la Ezpata Dantza](https://www.diariovasco.com/alto-urola/legazpi/mister-gipuzkoa-presume-ezpata-dantza-20260903175017-nt_amp.html?utm_source=lootura.com) — 2026-09-02T22:07:00.000Z
 - [Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta](https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:21:40.000Z
-- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
 - [Los que no salieron a manifestarse en Ceuta: “Tengo miedo a que pueda pasar algo”](https://elpais.com/espana/2026-09-03/los-que-no-salieron-a-manifestarse-en-ceuta-tengo-miedo-a-que-pueda-pasar-algo.html?utm_source=lootura.com) — 2026-09-03T03:45:01.000Z
-- [Sánchez afirma que no hay "pruebas" de la autoría marroquí en la entrada a Ceuta y que no tuvo avisos previos](https://www.eldiario.es/politica/sanchez-afirma-no-hay-pruebas-autoria-marroqui-entrada-ceuta-no-tuvo-avisos-previos_1_13483929.html?utm_source=lootura.com) — 2026-09-03T08:16:38.000Z
+- [El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros](https://elpais.com/espana/2026-09-03/el-gobierno-convoco-a-la-embajadora-de-marruecos-por-las-declaraciones-inaceptables-sobre-ceuta-y-melilla-de-dos-ministros-marroquies.html?utm_source=lootura.com) — 2026-09-03T14:16:20.000Z
+- [Dreame confirma la llegada a España de su gama de aspiradoras de mano que limpian tanto en seco como en húmedo](https://hipertextual.com/tecnologia/dreame-confirma-la-llegada-a-espana-de-su-gama-de-aspiradoras-de-mano-que-limpian-tanto-en-seco-como-en-humedo/?utm_source=lootura.com) — 2026-09-03T12:03:00.000Z

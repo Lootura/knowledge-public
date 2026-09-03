@@ -3,10 +3,16 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto
+
+La administración de Donald Trump prepara un plan para cercar de forma permanente la plaza Lafayette de Washington , situada junto a la Casa Blanca, lo que permitiría hacer realidad una de las históricas aspiraciones de los servicios secretos de EE UU: convertir la residencia oficial del presidente de Estados Unidos en.
+
+Date: 2026-09-03
 
 ### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
 
@@ -62,12 +68,6 @@ Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga co
 
 Date: 2026-08-07
 
-### Trump dice que Ormuz podría abrirse "mañana mismo"
-
-El presidente de Estados Unidos, Donald Trump, ha sugerido que el estrecho de Ormuz podría estar abierto este mismo martes, tras anunciar conversaciones con las autoridades de Irán para poner fin al conflicto desatado a finales de febrero, algo que desde Teherán ya han descartado. El inquilino de la Casa Blanca ha apun.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio](https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com) — 2026-09-03T03:30:01.000Z
+- [Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto](https://www.larazon.es/internacional/convertir-casa-blanca-fortin-trump-puede-hacer-realidad-sueno-servicio-secreto_202609036a99925f3bfe5d1eff422434.html?utm_source=lootura.com) — 2026-09-03T15:29:38.000Z

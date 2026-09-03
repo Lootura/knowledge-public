@@ -3,10 +3,22 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"
+
+La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa "está condenada" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.
+
+Date: 2026-09-03
+
+### El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial
+
+La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.
+
+Date: 2026-09-03
 
 ### Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa
 
@@ -56,18 +68,7 @@ Pedro Sánchez ya se encuentra en Lanzarote para disfrutar de sus vacaciones de 
 
 Date: 2026-08-01
 
-### La asesora de Begoña Gómez reprocha al juez que les haga recoger en persona el pasaporte
-
-Sostiene que el juez Peinado invade competencias del letrado de la Administración de Justicia y denuncia que mantiene una restricción de la libertad Leer.
-
-Date: 2026-07-23
-
-### La asistente de Begoña Gómez denuncia que el juez Peinado retiene "a sabiendas" su pasaporte sin justificación
-
-El abogado de Cristina Álvarez exige al juez que no dilate más la entrega del documento porque está violando un derecho constitucional, el de movimiento, e incumpliendo una orden de la instancia superior El Poder Judicial se divide sobre si archivar o no las quejas contra el juez Peinado por el caso de Begoña Gómez La.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"](https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com) — 2026-09-03T12:42:22.000Z
+- [El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial](https://www.eldiario.es/politica/tribunal-superior-justicia-madrid-deja-castigo-quejas-peinado-tramito-judicial_1_13485234.html?utm_source=lootura.com) — 2026-09-03T12:40:49.000Z

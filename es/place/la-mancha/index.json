@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T22:22:06.366Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)",
+      "summary": "Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica",
       "summary": "Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.",
@@ -58,13 +63,15 @@
       "title": "Telefónica entra en la seguridad ciudadana rural en España",
       "summary": "Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)",
-      "summary": "Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)",
+      "url": "https://www.elconfidencial.com/espana/2026-09-03/hombre-fallece-piscina-illana-guadalajara-1tps_4417353/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:47:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

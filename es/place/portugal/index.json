@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T19:15:45.319Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "Bandera de Ceuta: origen, significado y por qué es de color negro y blanco",
+      "summary": "La bandera de esta ciudad autónoma española es una de las enseñas con mayor carga histórica del país y también una de las más reconocibles por su combinación de blanco y negro. Su diseño, muy diferente al de otras banderas autonómicas, tiene su origen en varios siglos de vínculos con Portugal y conserva todavía símbolo.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal",
       "summary": "El ciclista galés Finlay Tarling ha fallecido este viernes a los 19 años tras chocar con un vehículo que circulaba en dirección contraria. El corredor de.",
@@ -61,13 +66,15 @@
       "title": "Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)",
       "summary": "Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.",
       "date": "2026-07-17"
-    },
-    {
-      "title": "El Parlamento de Portugal prohíbe el uso del burka en espacios públicos",
-      "summary": "El Parlamento de Portugal ha aprobado este viernes, con los votos a favor de la derecha y la extrema derecha, un proyecto de ley para prohibir taparse el rostro en lugares públicos del país, incluido el uso del burka . El proyecto pasa ahora al despacho del presidente, António José Seguro, quien podrá promulgarlo, veta.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Bandera de Ceuta: origen, significado y por qué es de color negro y blanco",
+      "url": "https://www.elconfidencial.com/espana/2026-09-03/bandera-ceuta-origen-signifcado-colores-1qrt-1tna_4417162/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:40:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

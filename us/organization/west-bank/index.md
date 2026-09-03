@@ -3,7 +3,7 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-13
 
 ## Sources
 
-No public source links.
+- [Israeli Military Kills Two Palestinian Youths in Village Raid, Residents Say](https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html?utm_source=lootura.com) — 2026-09-03T14:34:47.000Z

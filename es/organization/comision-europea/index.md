@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros](https://www.abc.es/economia/precio-tasa-verde-ue-200-euros-coche-20260902010937-nt.html?utm_source=lootura.com) — 2026-09-03T06:53:20.000Z
+No public source links.

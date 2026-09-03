@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "Europa",
     "Unión"
@@ -71,13 +71,7 @@
       "url": "https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-09-02T18:21:40.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio",
-      "url": "https://www.larazon.es/tecnologia-consumo/whatsapp/di-adios-whatsapp-tienes-alguno-estos-telefonos-android-versiones-50-51-sistema-ya-no-podran-utilizar-servicio_202609036a98bd313bfe5d1eff4119e8.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:30:00.000Z",
-      "sourceId": "lootura-es-la-razon"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

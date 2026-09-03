@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»
+
+La líder del PSOE de Madrid , Reyes Maroto, no ha tardado en arrancarse la espina que le dejaron las primarias del pasado 19 de julio. La exministra ha apartado de la dirección del partido a Enma López, la hasta ahora portavoz adjunta del partido en el Ayuntamiento de Madrid que se presentó a las elecciones como altern.
+
+Date: 2026-09-03
+
+### La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta
+
+La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.
+
+Date: 2026-09-03
+
+### La vicesecretaria general del PSOE-A denuncia «un ataque machista y cruel» por redes sociales
+
+La socialista expone alguno de los insultos que debe aguantar cada vez que sube contenido: «puta, rata, escoria o zorra».
+
+Date: 2026-09-03
+
+### Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud
+
+El Juzgado de Instrucción 13 de Valencia ha finalizado la instrucción de la macrocausa de corrupción conocida como caso Azud con el procesamiento de 38 personas. Entre estos investigados se encuentran varios dirigentes políticos del Partido Popular y el PSOE, como el que fuera teniente de alcalde de Rita Barberá , Alfo.
+
+Date: 2026-09-03
 
 ### Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle
 
@@ -44,30 +68,9 @@ Algunos han secundado la convocatoria de la FEMP y otros han organizado su propi
 
 Date: 2026-09-02
 
-### La concentración de apoyo a Ceuta impulsada por el alcalde de Mérida, del PSOE, acaba entre gritos contra Pedro Sánchez
-
-El acto institucional celebrado con el consenso de todos los grupos municipales, y con el que Antonio Rodríguez Osuna ha querido evitar la confrontación partidista, ha derivado en proclamas contra el presidente del Gobierno El PP convierte las movilizaciones por Ceuta en un ataque al Gobierno con escaso apoyo de alcald.
-
-Date: 2026-09-02
-
-### La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE
-
-Asegura que se trata de la primera vez que desde el Gobierno de España "se intenta parar" una concentración convocada por esta federación.
-
-Date: 2026-09-02
-
-### El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz
-
-La llegada de María Jesús Montero a la dirección del PSOE andaluz se enmarcó en una estrategia diseñada desde Ferraz que finalmente ha tenido unos resultados más que cuestionables. Muchos cuadros intermedios no entendieron que una persona tan vinculada al presidente Pedro Sánchez dejara sus responsabilidades en el Gobi.
-
-Date: 2026-09-02
-
-### Los alcaldes sin miedo del PSOE dan la cara frente a Sánchez: "Hay que defender Ceuta hoy"
-
-«El PSOE ha decidido no participar en estas concentraciones». Ésta fue la directriz que trasladó Ferraz a los cargos socialistas el pasado sábado, cuatro días...
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle](https://elpais.com/espana/2026-09-03/dentro-de-la-protesta-en-ceuta-la-emocion-de-vivas-el-diputado-critico-del-psoe-y-la-indignacion-en-la-calle.html?utm_source=lootura.com) — 2026-09-03T02:45:48.000Z
+- [Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»](https://www.abc.es/espana/madrid/reyes-maroto-aparta-enma-lopez-direccion-psoe-20260903155139-nt.html?utm_source=lootura.com) — 2026-09-03T14:45:03.000Z
+- [La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta](https://www.elconfidencial.com/espana/2026-09-03/margarita-robles-sanchez-evita-aplaudir_4417230/?utm_source=lootura.com) — 2026-09-03T12:07:00.000Z
+- [La vicesecretaria general del PSOE-A denuncia «un ataque machista y cruel» por redes sociales](https://theobjective.com/espana/politica/2026-09-03/vicesecretaria-general-psoe-denuncia-ataque-machista-cruel/?amp=&utm_source=lootura.com) — 2026-09-03T15:38:36.000Z
+- [Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud](https://theobjective.com/espana/tribunales/2026-09-03/procesan-numero-2-rita-barbera-cunado-acabar-instruccion-caso-azud/?utm_source=lootura.com) — 2026-09-03T14:59:00.000Z

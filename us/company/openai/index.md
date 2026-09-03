@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z
+- [ChatGPT, Grok, and Claude all went down at the same time](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down?utm_source=lootura.com) — 2026-09-03T15:35:14.000Z

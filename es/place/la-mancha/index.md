@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
+
+Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.
+
+Date: 2026-09-03
 
 ### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
 
@@ -62,12 +68,6 @@ Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato 
 
 Date: 2026-08-04
 
-### Herido grave un trabajador de 36 años tras sufrir una caída desde una máquina en Torija (Guadalajara)
-
-Un trabajador de 36 años ha sufrido heridas de carácter grave al caer desde una máquina en su puesto de trabajo, ubicado en el municipio de Torija (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha han precisado a Europa Press que el accidente laboral se.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)](https://www.elconfidencial.com/espana/2026-09-03/hombre-fallece-piscina-illana-guadalajara-1tps_4417353/?utm_source=lootura.com) — 2026-09-03T14:47:00.000Z

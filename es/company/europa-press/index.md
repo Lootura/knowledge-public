@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
+
+Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.
+
+Date: 2026-09-03
 
 ### Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma
 
@@ -62,12 +68,6 @@ Un juzgado de Ceuta investiga seis presuntos casos de agresión sexual a inmigra
 
 Date: 2026-08-08
 
-### Herido grave un joven de 20 años tras una reyerta en el distrito madrileño de Usera
-
-Un varón de 20 años ha resultado gravemente herido tras una reyerta ocurrida pocos minutos antes de la medianoche en la calle Amor Hermoso , en el distrito madrileño de Usera , según han señalado fuentes de Emergencias Madrid a Europa Press . La víctima sufría una lesión en una pierna que provocó una hemorragia profusa.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma](https://www.elconfidencial.com/espana/2026-09-03/atropello-discoteca-palma-mallorca-1tna-1tps_4416925/?utm_source=lootura.com) — 2026-09-03T05:08:00.000Z
+- [Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)](https://www.elconfidencial.com/espana/2026-09-03/hombre-fallece-piscina-illana-guadalajara-1tps_4417353/?utm_source=lootura.com) — 2026-09-03T14:47:00.000Z

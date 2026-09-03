@@ -1,0 +1,76 @@
+# El Gobierno
+
+> Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+
+- Type: organization
+- Actualizado: 2026-09-03T15:45:59.630Z
+- Canonical: https://atlas.lootura.com/es/organization/el-gobierno
+
+## Cambios recientes
+
+### El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros
+
+El presidente del Gobierno, Pedro Sánchez, ha asegurado en su comparecencia en el Congreso que el Ejecutivo convocó el pasado 21 de agosto a la embajadora marroquí en España, Karima Benyaich, por las “ declaraciones inaceptables sobre Ceuta y sobre Melilla ” proferidas por dos ministros de Marruecos. Es la primera vez.
+
+Date: 2026-09-03
+
+### Christian, 74 años, sigue trabajando de noche y carga contra la posible congelación de las pensiones: "Descansaré cuando esté muerto"
+
+El posible freno a la actualización de algunas pensiones francesas para 2027 ha colocado a los jubilados en el centro de un debate presupuestario abierto. La propuesta dejaría determinadas prestaciones sin seguir la inflación, con pérdida de poder de compra aunque la cifra nominal no cambie. El Gobierno aún no ha concr.
+
+Date: 2026-09-03
+
+### El Gobierno quiere que la UE oficialice el catalán antes de sumar nuevos estados miembros
+
+Una vez más el Gobierno de Pedro Sánchez cumple en Europa con su insistencia en que el el catalán , el gallego y el euskera sean reconocidos como lenguas oficiales. Este jueves, ha sido el secretario de Estado para la Unión , Fernando Sampedro , quien ha asegurado que la UE debe atender a esta petición de España a ante.
+
+Date: 2026-09-03
+
+### El Gobierno revisará la desclasificación de los informes sobre Ceuta sin dañar la labor del CNI
+
+El Gobierno analizará la aplicación del anuncio de desclasificar todos los informes sobre la entrada masiva de inmigrantes a Ceuta y estudiará la viabilidad en lo relativo al Centro Nacional de Inteligencia (CNI) para no perjudicar su labor , asegurar la viabilidad jurídica y no alterar la colaboración con otros servic.
+
+Date: 2026-09-03
+
+### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+
+El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
+
+Date: 2026-09-02
+
+### Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"
+
+Hoy miércoles 2 de septiembre se ha estrenado 'La Mesa', el programa que supone el esperado desembarco de Cristina Pardo en Antena 3.
+
+Date: 2026-09-02
+
+### El Gobierno pedirá los últimos 26.000 millones de fondos europeos
+
+El vergel de los fondos europeos Next Generation toca a su fin , pero España busca exprimirlos hasta el último segundo. Así lo adelantó ayer Carlos Cuerpo , vicepresidente del Gobierno y ministro de Economía que, en un encuentro con la prensa tras su intervención en el Foro Anual organizado en Bruselas por el centro de.
+
+Date: 2026-09-02
+
+### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
+
+El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
+
+Date: 2026-09-02
+
+### El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC
+
+Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.
+
+Date: 2026-09-02
+
+### El informe revienta la comparecencia de Sánchez y noquea al Gobierno
+
+El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva de migrantes por la frontera con Marruecos los días 30 y 31.
+
+Date: 2026-09-02
+
+## Fuentes
+
+- [El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros](https://elpais.com/espana/2026-09-03/el-gobierno-convoco-a-la-embajadora-de-marruecos-por-las-declaraciones-inaceptables-sobre-ceuta-y-melilla-de-dos-ministros-marroquies.html?utm_source=lootura.com) — 2026-09-03T14:16:20.000Z
+- [Christian, 74 años, sigue trabajando de noche y carga contra la posible congelación de las pensiones: "Descansaré cuando esté muerto"](https://www.larazon.es/actualidad/christian-74-anos-sigue-trabajando-noche-carga-posible-congelacion-pensiones-descansare-cuando-este-muerto-b50m_202609036a998fe43bfe5d1eff422191.html?utm_source=lootura.com) — 2026-09-03T15:19:00.000Z
+- [El Gobierno quiere que la UE oficialice el catalán antes de sumar nuevos estados miembros](https://theobjective.com/espana/politica/2026-09-03/gobierno-quiere-ue-oficialice-catalan-ampliar-estados-miembros/?utm_source=lootura.com) — 2026-09-03T15:26:04.000Z
+- [El Gobierno revisará la desclasificación de los informes sobre Ceuta sin dañar la labor del CNI](https://theobjective.com/espana/politica/2026-09-03/gobierno-desclasificacion-informes-ceuta-perjudicar-cni/?utm_source=lootura.com) — 2026-09-03T14:54:31.000Z

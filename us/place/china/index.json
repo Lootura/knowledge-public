@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
+      "date": "2026-09-03"
+    },
     {
       "title": "China's Xi visits Egypt for the first time in a decade",
       "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
@@ -64,32 +69,15 @@
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Families desperately search for loved ones swept away in Nepal floods",
-      "summary": "Authorities in Nepal continued mass burials after catastrophic floods roared down high mountain valleys in a vast torrent of destruction. The death toll is now over 1,000 people, with thousands still missing. Across the border in China, which has been less transparent, officials report just 16 deaths, but nearly 550 mi.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "China's Xi visits Egypt for the first time in a decade",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:08:39.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T07:04:25.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T07:00:47.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "url": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T13:50:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

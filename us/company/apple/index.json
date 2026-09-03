@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Apple (company)",
     "Apple"
@@ -36,13 +36,7 @@
       "url": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools?utm_source=lootura.com",
       "publishedAt": "2026-09-02T16:08:31.000Z",
       "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Belkin’s first trackers come ready to attach to your gear.",
-      "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

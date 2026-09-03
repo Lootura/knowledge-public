@@ -70,6 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros](https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com) — 2026-09-02T22:30:22.000Z
-- [La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio](https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com) — 2026-09-03T03:30:01.000Z
-- [Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»](https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com) — 2026-09-03T00:18:56.000Z
+No public source links.

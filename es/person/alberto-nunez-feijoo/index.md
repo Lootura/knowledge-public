@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"
+
+La operación salió de Marruecos, fue propiciada por agentes de dicho país y hay indicios de que se "coordinó" desde allí. Además, el Gobierno lo sabía "porque...
+
+Date: 2026-09-03
+
+### Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”
+
+Alberto Núñez Feijóo ha presentado este jueves ante el Congreso su propia teoría de por qué Pedro Sánchez afirma que su Gobierno no tiene pruebas sólidas de que Marruecos está detrás del salto masivo a Ceuta . El líder del PP sostiene que el presidente del Gobierno está “bajo chantaje” del reino alauí porque este tiene.
+
+Date: 2026-09-03
 
 ### Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”
 
@@ -56,18 +68,7 @@ Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conoc
 
 Date: 2026-09-02
 
-### Rueda se alinea con Feijóo sobre el ático de Chamberí: «Deben explicarlo los afectados»
-
-El presidente de la Xunta de Galicia, Alfonso Rueda , ha respaldado las declaraciones del líder de su partido, Alberto Núñez Feijóo , sobre la compra de un ático por parte de la Comunidad de Madrid. «Es lógico lo que dijo el presidente. Deben dar explicaciones los afectados» , ha afirmado el líder del Gobierno gallego.
-
-Date: 2026-09-01
-
-### Feijóo y Abascal aseguran que irán a la manifestación pese a la prohibición: «Le tienen miedo a que España hable»
-
-PP y Vox han cargado contra la Delegación del Gobierno por intentar impedir que se celebra la manifestación en Cibeles en apoyo a Ceuta.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”](https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-la-protesta-por-ceuta-y-acusan-a-sanchez-de-mentir-a-los-espanoles-es-un-traidor.html?utm_source=lootura.com) — 2026-09-02T20:30:27.000Z
+- [Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"](https://amp.elmundo.es/espana/2026/09/03/6a9936ff21efa0b9268b4576.html?utm_source=lootura.com) — 2026-09-03T08:59:54.000Z
+- [Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”](https://elpais.com/espana/2026-09-03/feijoo-acusa-a-sanchez-de-estar-chantajeado-por-marruecos-y-le-avisa-pagara-ante-la-justicia.html?utm_source=lootura.com) — 2026-09-03T12:56:01.000Z

@@ -3,7 +3,7 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [OpenAI confirms "critical" risks of Astra model, despite plans to release it soon](https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com) — 2026-09-02T21:40:09.000Z
-- [With education technology, engagement is not the same as learning](https://phys.org/news/2026-09-technology-engagement.html?utm_source=lootura.com) — 2026-09-03T04:00:03.000Z
-- [China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com) — 2026-09-03T07:00:47.000Z
+- [AI interviews rolling out for some federal government hires, sources say](https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?utm_source=lootura.com) — 2026-09-03T15:24:23.000Z

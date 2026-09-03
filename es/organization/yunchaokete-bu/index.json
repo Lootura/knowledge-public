@@ -32,19 +32,6 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [
-    {
-      "title": "Un irreconocible Rafa Jódar cae eliminado en primera ronda del US Open ante el 124 del mundo",
-      "url": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/02/6a987af2fc6c83bb158b45a4.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:34:40.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El día más duro de Rafa Jódar, fulminado a la primera y por un desconocido: Yunchaokete Bu",
-      "url": "https://elpais.com/deportes/tenis/2026-09-02/rafa-jodar-cae-en-la-primera-ronda-del-us-open.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T20:59:15.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

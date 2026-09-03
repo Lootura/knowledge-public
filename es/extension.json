@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T08:49:31.996Z",
+  "generatedAt": "2026-09-03T17:20:27.911Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|159|1788424331154",
+    "signature": "1.18.0|160|1788450359630",
     "version": "1.18.0",
-    "build": 159,
-    "latestEntityUpdatedAt": "2026-09-03T08:32:11.154Z"
+    "build": 160,
+    "latestEntityUpdatedAt": "2026-09-03T15:45:59.630Z"
   },
   "atlas": {
     "hero": {
@@ -20,67 +20,66 @@
       "title": "Sánchez afirma que no hay \"pruebas\" de la autoría marroquí en la entrada a Ceuta y que no tuvo avisos previos",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-09-03T08:32:11.154Z",
-      "score": 11761,
-      "sourceCount": 486,
-      "isBreaking": true,
-      "isPinned": false,
-      "badgeLabel": "Breaking"
+      "updatedAt": "2026-09-03T15:45:59.630Z",
+      "score": 1755,
+      "sourceCount": 503,
+      "isBreaking": false,
+      "isPinned": false
     },
     "cards": [
       {
         "id": "es-audiencia-nacional",
         "name": "Audiencia Nacional (España)",
         "type": "organization",
-        "title": "El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: \"Algunos tienen hasta gorra policial\"",
+        "title": "Marlaska se queja ante el Poder Judicial de que la jueza pidiera a la Policía no informarle sobre Ceuta",
         "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
         "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-09-03T08:32:11.154Z",
-        "score": 1700,
-        "sourceCount": 104,
+        "updatedAt": "2026-09-03T15:45:59.630Z",
+        "score": 1725,
+        "sourceCount": 107,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
-        "type": "place",
-        "title": "España se echa a la calle para defender a Ceuta",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-09-03T08:32:11.154Z",
-        "score": 1683,
-        "sourceCount": 1296,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-united-states",
-        "name": "Estados Unidos",
-        "type": "place",
-        "title": "Borja Thyssen y Blanca Cuesta mandan a su hijo mayor a Estados Unidos mientras su situación en Andorra se complica",
-        "url": "https://atlas.lootura.com/es/place/united-states",
-        "path": "/es/place/united-states",
-        "updatedAt": "2026-09-03T08:32:11.154Z",
-        "score": 1639,
-        "sourceCount": 304,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-alberto-nunez-feijoo",
-        "name": "Alberto Núñez Feijóo",
+        "id": "es-poder-judicial",
+        "name": "Jurisdicción penal",
         "type": "person",
-        "title": "Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”",
-        "url": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo",
-        "path": "/es/person/alberto-nunez-feijoo",
-        "updatedAt": "2026-09-03T08:32:11.154Z",
-        "score": 1635,
-        "sourceCount": 100,
+        "title": "Marlaska se queja ante el Poder Judicial de que la jueza pidiera a la Policía no informarle sobre Ceuta",
+        "url": "https://atlas.lootura.com/es/person/poder-judicial",
+        "path": "/es/person/poder-judicial",
+        "updatedAt": "2026-09-03T15:45:59.630Z",
+        "score": 1714,
+        "sourceCount": 7,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-isabel-perello",
+        "name": "María Isabel Perelló Doménech",
+        "type": "person",
+        "title": "Marlaska censura la orden de no elevar el informe de Ceuta y la presidenta del Supremo le responde que la jueza actuó bien",
+        "url": "https://atlas.lootura.com/es/person/isabel-perello",
+        "path": "/es/person/isabel-perello",
+        "updatedAt": "2026-09-03T15:45:59.630Z",
+        "score": 1702,
+        "sourceCount": 5,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-margarita-robles",
+        "name": "Margarita Robles Fernández",
+        "type": "person",
+        "title": "Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»",
+        "url": "https://atlas.lootura.com/es/person/margarita-robles",
+        "path": "/es/person/margarita-robles",
+        "updatedAt": "2026-09-03T15:45:59.630Z",
+        "score": 1680,
+        "sourceCount": 26,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 221
+    "publicEntityCount": 227
   }
 }

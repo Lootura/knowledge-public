@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Las 10 TV de 55″ más recomendadas para ver el Mundial 2026 en 4K](https://okdiario.com/okshopping/televisores-smart-tv-8201539?utm_source=lootura.com) — 2026-09-03T08:16:45.000Z
+- [Nvidia se hace con Hugging Face por 11.200 millones en una de las mayores compras de su historia](https://elpais.com/economia/2026-09-03/nvidia-se-hace-con-hugging-face-por-11200-millones-en-una-de-las-mayores-compras-de-su-historia.html?utm_source=lootura.com) — 2026-09-03T14:26:18.000Z

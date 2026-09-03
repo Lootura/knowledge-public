@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
+
+La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Política Fiscal y Financiera (CPFF) en la que estaba previsto votar la propuesta de reforma de la financiación autonómica planteada por el Gobierno, tras acordarla con sus socios de ERC y con el gobierno de la Generalitat de Cataluña, y este ju.
+
+Date: 2026-09-03
+
+### Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”
+
+Alberto Núñez Feijóo ha presentado este jueves ante el Congreso su propia teoría de por qué Pedro Sánchez afirma que su Gobierno no tiene pruebas sólidas de que Marruecos está detrás del salto masivo a Ceuta . El líder del PP sostiene que el presidente del Gobierno está “bajo chantaje” del reino alauí porque este tiene.
+
+Date: 2026-09-03
+
+### Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación
+
+La Comunidad de Madrid no asistirá este viernes al Consejo de Política Fiscal y Financiera (CPFF) al defender que en él se va a aprobar la reforma del sistema de financiación autonómica que han pactado «de manera bilateral y de espaldas al resto de comunidades autónomas el Gobierno de Pedro Sánchez y el Gobierno de Cat.
+
+Date: 2026-09-03
+
+### Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud
+
+El Juzgado de Instrucción 13 de Valencia ha finalizado la instrucción de la macrocausa de corrupción conocida como caso Azud con el procesamiento de 38 personas. Entre estos investigados se encuentran varios dirigentes políticos del Partido Popular y el PSOE, como el que fuera teniente de alcalde de Rita Barberá , Alfo.
+
+Date: 2026-09-03
 
 ### El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta
 
@@ -44,32 +68,9 @@ El PSOE ha acusado al Partido Popular de solo querer «sacar rédito político»
 
 Date: 2026-09-02
 
-### Miles de ciudadanos salen a la calle en apoyo a Ceuta y contra la gestión del Gobierno: "¡Sánchez, traidor!"
-
-Convocados por el PP y con el respaldo de Vox los manifestantes se concentran frente a los ayuntamientos de todo el país para remarcar la españolidad de la ciudad autónoma entre insultos al presidente del Gobierno y ataques a la prensa El informe - La Policía analiza imágenes de redes sociales para apuntar a la posible.
-
-Date: 2026-09-02
-
-### Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»
-
-El líder del PP, Alberto Núñez Feijóo , ha acudido este miércoles a la masiva manifestación de la madrileña plaza de Cibeles en apoyo a Ceuta. Allí ha acusado al presidente del Gobierno, Pedro Sánchez, de «mentir» a los españoles y de «ocultar» los informes sobre la «invasión» de Ceuta, y prometió que su partido va a «.
-
-Date: 2026-09-02
-
-### El PP pide a Barbón explicaciones por posible corrupción con un piso para menas en Oviedo
-
-La diputada del PP en la Junta General del Principado de Asturias (JGPA) Beatriz Polledo ha exigido al Gobierno presidido por el socialista Adrián Barbón que salga «inmediatamente» a dar explicaciones sobre lo ocurrido con el piso de La Florida, en Oviedo, que el Principado llegó a plantear como recurso para acoger a m.
-
-Date: 2026-09-02
-
-### El clamor contra el Gobierno por Ceuta moviliza a miles de personas en España
-
-Las manifestaciones en apoyo a Ceuta convocadas por la Federación de Municipios y Provincias –presidida por el PP- se han celebrado este miércoles en las principales capitales españolas así como en Ceuta, donde miles de personas han marchado de camino a la frontera con Marruecos en protesta por la situación. Estas prot.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Todos contra el presidente y la versión pro marroquí, incluso desde el Gobierno: la comparecencia más dura de Sánchez](https://www.elmundo.es/espana/2026/09/03/6a986d14e9cf4a5b1d8b4572.html?utm_source=lootura.com) — 2026-09-02T23:37:52.000Z
-- [El PP reúne de urgencia a sus CCAA para frenar el nuevo decreto de centros de datos de Moncloa: "El inversor que levanta el vuelo ya no vuelve"](https://www.elmundo.es/economia/empresas/2026/09/03/6a9802d9e9cf4a60648b4599.html?utm_source=lootura.com) — 2026-09-02T23:37:45.000Z
-- [El Congreso guarda un minuto de silencio en memoria del exdiputado Antonio Landeta](https://theobjective.com/espana/politica/2026-09-03/congreso-minuto-silencio-exdiputado-antonio-landeta/?utm_source=lootura.com) — 2026-09-03T08:14:01.000Z
+- [Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica](https://www.abc.es/economia/madrid-promueve-boicot-general-gobiernos-pp-bloquear-20260903164926-nt.html?utm_source=lootura.com) — 2026-09-03T15:22:10.000Z
+- [Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”](https://elpais.com/espana/2026-09-03/feijoo-acusa-a-sanchez-de-estar-chantajeado-por-marruecos-y-le-avisa-pagara-ante-la-justicia.html?utm_source=lootura.com) — 2026-09-03T12:56:01.000Z
+- [Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación](https://theobjective.com/espana/politica/2026-09-03/madrid-planta-hacienda-comunidades-pp-boicot-financiacion/?utm_source=lootura.com) — 2026-09-03T14:52:30.000Z
+- [Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud](https://theobjective.com/espana/tribunales/2026-09-03/procesan-numero-2-rita-barbera-cunado-acabar-instruccion-caso-azud/?utm_source=lootura.com) — 2026-09-03T14:59:00.000Z

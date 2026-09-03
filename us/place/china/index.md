@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China Boycotts a Top Art Festival Over Taiwan Exhibition
+
+China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
+
+Date: 2026-09-03
 
 ### China's Xi visits Egypt for the first time in a decade
 
@@ -62,14 +68,6 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-02
 
-### Families desperately search for loved ones swept away in Nepal floods
-
-Authorities in Nepal continued mass burials after catastrophic floods roared down high mountain valleys in a vast torrent of destruction. The death toll is now over 1,000 people, with thousands still missing. Across the border in China, which has been less transparent, officials report just 16 deaths, but nearly 550 mi.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [China's Xi visits Egypt for the first time in a decade](https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com) — 2026-09-03T08:08:39.000Z
-- [Xi visits Egypt as China seeks deeper influence across the Mideast](https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com) — 2026-09-03T07:04:25.000Z
-- [China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott](https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com) — 2026-09-03T07:00:47.000Z
+- [China Boycotts a Top Art Festival Over Taiwan Exhibition](https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html?utm_source=lootura.com) — 2026-09-03T13:50:41.000Z

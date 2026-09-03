@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+      "summary": "Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Gloria Steinem's Long and Revealing History With TIME",
+      "summary": "Over the course of her long and influential life, Gloria Steinem went from being described in the pages of TIME as “one of the best dates to take to a New York party these days” and “smashing looking Gucci liberal” to being lauded as a “ feminist icon .” If nothing else, the shift in the tone of her coverage in the mag.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
       "summary": "For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.",
@@ -72,25 +82,21 @@
       "title": "Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators",
       "summary": "Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Suspect and female victim dead after Times Square stabbing spree",
-      "summary": "A woman armed with at least one knife slashed two people in New York City’s Times Square before she was shot by police, according to multiple officials. NBC News’ Sam Brock reports.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
-      "summary": "Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse in Central Islip, New York, after being sentenced on April 25, 2025. —Howard Schnapp—Newsday RM/Getty Images The prediction-market exchange Kalshi has permanently prohibited former Rep. George Santos from accessing the platform after establi.",
-      "date": "2026-08-31"
     }
   ],
   "sources": [
     {
-      "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/03/down-by-the-hudson-ode-to-a-new-york-swimming-creek-in-pictures?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T06:00:46.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+      "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:26:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Gloria Steinem's Long and Revealing History With TIME",
+      "url": "https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:51:55.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

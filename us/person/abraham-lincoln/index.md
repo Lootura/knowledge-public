@@ -3,10 +3,22 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### Mother of USS Abraham Lincoln sailor "so relieved" son has arrived in Thailand
+
+The USS Abraham Lincoln pulled into port in Thailand for some rest and relaxation after 286 days at sea.
+
+Date: 2026-09-03
+
+### See USS Abraham Lincoln Sailor Reunite With Family
+
+The USS Abraham Lincoln finally docked in Thailand on Wednesday, pulling into port after nearly nine months at sea. Shakira Fairfax flew from New Jersey to see her daughter Jada, one of the sailors aboard the aircraft carrier. See their first hug in nearly 300 days!
+
+Date: 2026-09-03
 
 ### USS Abraham Lincoln ends record stretch at sea
 
@@ -56,18 +68,7 @@ The USS George Washington aircraft carrier departed Vietnam last week and is hea
 
 Date: 2026-08-14
 
-### Trump downplays concerns about living conditions on aircraft carrier
-
-President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.
-
-Date: 2026-08-14
-
-### Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln
-
-Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [USS Abraham Lincoln ends record stretch at sea](https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-ends-record-stretch-at-sea-269244485831?utm_source=lootura.com) — 2026-09-02T22:58:30.000Z
+- [Mother of USS Abraham Lincoln sailor "so relieved" son has arrived in Thailand](https://www.cbsnews.com/news/uss-abraham-lincoln-mother-navy-thailand-iran-war/?utm_source=lootura.com) — 2026-09-03T15:02:52.000Z
+- [See USS Abraham Lincoln Sailor Reunite With Family](https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com) — 2026-09-03T12:01:19.000Z

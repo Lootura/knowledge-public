@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### Inside a Ukrainian maternity ward as Russian strikes intensify
 
 As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.
+
+Date: 2026-09-03
+
+### For Russia and Ukraine, an Escalating Spiral With No End in Sight
+
+Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.
 
 Date: 2026-09-03
 
@@ -62,12 +68,7 @@ CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 20
 
 Date: 2026-09-01
 
-### Global finance ministers gather in North Carolina for G-20 summit
-
-The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.
-
-Date: 2026-09-01
-
 ## Sources
 
 - [Inside a Ukrainian maternity ward as Russian strikes intensify](https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com) — 2026-09-03T01:12:23.000Z
+- [For Russia and Ukraine, an Escalating Spiral With No End in Sight](https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com) — 2026-09-03T11:35:44.000Z

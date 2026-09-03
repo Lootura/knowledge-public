@@ -3,10 +3,28 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Putin Floats Chance of Peace Agreement to End War With Ukraine
+
+Russian President Vladimir Putin is saying there is a chance of a peace agreement to end the war in Ukraine. However, he said, the conflict must be resolved by the countries involved and not by leaders from other nations. NBC’s Richard Engel reports for TODAY.
+
+Date: 2026-09-03
+
+### Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv
+
+President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.
+
+Date: 2026-09-03
+
+### For Russia and Ukraine, an Escalating Spiral With No End in Sight
+
+Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.
+
+Date: 2026-09-03
 
 ### Putin Pledges Increased Strikes in Ukraine and Support for Iran
 
@@ -50,24 +68,8 @@ The meeting underscored Washington's willingness to reopen diplomatic talks with
 
 Date: 2026-09-01
 
-### Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief
-
-The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine.
-
-Date: 2026-08-31
-
-### Daily fragment: Donald Trump
-
-US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
-
-Date: 2026-08-15
-
-### Putin Visits Islands Seized From Japan in World War II, Angering Tokyo
-
-Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.
-
-Date: 2026-08-13
-
 ## Sources
 
-No public source links.
+- [Putin Floats Chance of Peace Agreement to End War With Ukraine](https://www.today.com/video/putin-floats-chance-of-peace-agreement-to-end-war-with-ukraine-269266501841?utm_source=lootura.com) — 2026-09-03T12:10:36.000Z
+- [Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv](https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html?utm_source=lootura.com) — 2026-09-03T14:41:56.000Z
+- [For Russia and Ukraine, an Escalating Spiral With No End in Sight](https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com) — 2026-09-03T11:35:44.000Z

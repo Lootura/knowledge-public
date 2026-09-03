@@ -70,4 +70,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Ibai Llanos facturó casi 12 millones en 2025 con la promotora de ‘La velada del año’](https://cincodias.elpais.com/companias/2026-09-03/ibai-llanos-facturo-casi-12-millones-en-2025-con-la-promotora-de-la-velada-del-ano.html?utm_source=lootura.com) — 2026-09-03T03:15:00.000Z
+No public source links.

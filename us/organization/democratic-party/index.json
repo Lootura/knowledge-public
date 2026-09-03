@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Democrats"
   ],
@@ -19,13 +19,28 @@
       "date": "2026-09-03"
     },
     {
-      "title": "Veteran political journalist on division among Democrats over Democratic Socialism",
-      "summary": "NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing Democratic Socialism.",
+      "title": "Veteran political journalist on division among Democrats over democratic socialism",
+      "summary": "NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing democratic socialism.",
       "date": "2026-09-03"
     },
     {
       "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
       "summary": "Stephen A. Smith on Trump, Democrats and the politics of chaos lead image.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Voters are \"pissed about the economy,\" former Obama aide analyzes midterms",
+      "summary": "Most midterm primaries have already passed, yielding data and trends that inform how general elections could go. Former Obama aide Ravi Gupta joins CBS News with more on how Democrats and Republicans are performing in the 2026 midterms so far.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died. (Image credit: Mario Tama).",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
+      "summary": "Sports broadcaster Stephen A. Smith has been bouncing around cable TV but insists he’s staying out of one arena: the political one. The outspoken ESPN personality isn’t staying away from talking politics — far from it. But Smith told POLITICO in an interview airing Thursday that he’s not running for president in 2028 i.",
       "date": "2026-09-03"
     },
     {
@@ -47,35 +62,32 @@
       "title": "House votes to condemn socialism, with 8 Democrats joining Republicans",
       "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "A N.Y. hospital tried to close its birthing center. This city united to fight back",
-      "summary": "Democrats and Republicans in Troy, N.Y., took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Affordability is the centerpiece of Democrats' message in Pennsylvania swing district",
-      "summary": "A rematch in a swing district Pennsylvania is showcasing how Republican messaging from 2024 is getting a replay, this time from Democratic candidates.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans",
-      "summary": "GOP leaders scheduled the vote after Democratic primary voters embraced a number of democratic socialist candidates.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Veteran political journalist on division among Democrats over Democratic Socialism",
+      "title": "Voters are \"pissed about the economy,\" former Obama aide analyzes midterms",
+      "url": "https://www.cbsnews.com/video/voters-are-pissed-about-the-economy-former-obama-aide-analyzes-midterms/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:30:19.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Veteran political journalist on division among Democrats over democratic socialism",
       "url": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism?utm_source=lootura.com",
       "publishedAt": "2026-09-03T08:08:56.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Democratic strategist on the new anti-partisan swing voters",
-      "url": "https://www.pbs.org/newshour/show/democratic-strategist-on-the-new-anti-partisan-swing-voters?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:35:50.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:17:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
+      "url": "https://www.politico.com/news/2026/09/03/stephen-smith-2028-plans-01062872?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "sourceId": "lootura-us-politico"
     },
     {
       "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
@@ -86,9 +98,9 @@
     {
       "title": "As Midterms Loom, Democrats Feud Over Defections",
       "url": "https://www.nytimes.com/2026/09/02/us/politics/democrats-defections-internal-feud-midterms.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T00:17:00.000Z",
+      "publishedAt": "2026-09-03T00:17:01.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 7
 }

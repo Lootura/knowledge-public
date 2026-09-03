@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -23,6 +23,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
+      "summary": "The USS Abraham Lincoln finally docked in Thailand on Wednesday, pulling into port after nearly nine months at sea. Shakira Fairfax flew from New Jersey to see her daughter Jada, one of the sailors aboard the aircraft carrier. See their first hug in nearly 300 days!",
+      "date": "2026-09-03"
+    },
     {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).",
@@ -67,14 +72,15 @@
       "title": "Long-term study suggests landfill methane emissions are far higher than estimates",
       "summary": "Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researc.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Nurse-led initiative reduces unplanned extubations",
-      "summary": "A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).",
-      "date": "2026-08-03"
     }
   ],
   "sources": [
+    {
+      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
+      "url": "https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:01:19.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
       "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
@@ -82,5 +88,5 @@
       "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

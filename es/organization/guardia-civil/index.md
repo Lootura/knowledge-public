@@ -70,4 +70,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora](https://www.larazon.es/castilla-y-leon/policias-italia-francia-patrullan-guardia-civil-camino-santiago-zamora_202609036a9930184941316b1e75db1a.html?utm_source=lootura.com) — 2026-09-03T08:30:16.000Z
+No public source links.

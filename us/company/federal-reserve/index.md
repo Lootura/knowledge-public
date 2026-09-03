@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Rate Rise in Play as Fed Officials Await Inflation Data
+
+Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.
+
+Date: 2026-09-03
 
 ### Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase
 
@@ -46,4 +52,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Rate Rise in Play as Fed Officials Await Inflation Data](https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html?utm_source=lootura.com) — 2026-09-03T14:07:45.000Z

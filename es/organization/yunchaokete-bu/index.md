@@ -34,5 +34,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Un irreconocible Rafa Jódar cae eliminado en primera ronda del US Open ante el 124 del mundo](https://www.elmundo.es/deportes/tenis/us-open/2026/09/02/6a987af2fc6c83bb158b45a4.html?utm_source=lootura.com) — 2026-09-02T21:34:40.000Z
-- [El día más duro de Rafa Jódar, fulminado a la primera y por un desconocido: Yunchaokete Bu](https://elpais.com/deportes/tenis/2026-09-02/rafa-jodar-cae-en-la-primera-ronda-del-us-open.html?utm_source=lootura.com) — 2026-09-02T20:59:15.000Z
+No public source links.

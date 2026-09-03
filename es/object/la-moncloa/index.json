@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T20:40:15.873Z",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
+      "summary": "La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa \"está condenada\" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.",
+      "date": "2026-09-03"
+    },
     {
       "title": "¿Qué hará Sánchez sin La Mareta?",
       "summary": "A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.",
@@ -58,13 +63,15 @@
       "title": "Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios",
       "summary": "La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "\"Decepción\" en el PSOE con Zapatero tras su entrevista: \"No lo hemos entendido, no ha aclarado nada de las joyas\"",
-      "summary": "La Moncloa y Ferraz cierran filas con el ex presidente, que no convence a todos en el partido Leer.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
+      "url": "https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:42:22.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

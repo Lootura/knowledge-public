@@ -1,0 +1,40 @@
+{
+  "id": "usa-homeland-security",
+  "name": "Homeland security",
+  "type": "concept",
+  "locale": "en",
+  "canonicalPath": "/us/concept/homeland-security",
+  "canonicalUrl": "https://atlas.lootura.com/us/concept/homeland-security",
+  "markdownUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.json",
+  "description": "Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died. (Image credit: Mario Tama).",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Homeland Security first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:17:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 2
+}

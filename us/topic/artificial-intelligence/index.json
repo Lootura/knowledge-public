@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "AI",
     "AI science",
@@ -80,23 +80,11 @@
   ],
   "sources": [
     {
-      "title": "OpenAI confirms \"critical\" risks of Astra model, despite plans to release it soon",
-      "url": "https://www.cbsnews.com/video/openai-admits-critical-risks-astra-model-despite-plans-release-soon/?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:40:09.000Z",
+      "title": "AI interviews rolling out for some federal government hires, sources say",
+      "url": "https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:24:23.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "With education technology, engagement is not the same as learning",
-      "url": "https://phys.org/news/2026-09-technology-engagement.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T04:00:03.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T07:00:47.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

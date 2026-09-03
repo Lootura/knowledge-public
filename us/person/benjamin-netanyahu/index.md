@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [U.S.-Israel relations are on the rocks ahead of elections](https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com) — 2026-09-03T08:06:18.000Z
+No public source links.

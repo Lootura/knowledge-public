@@ -3,10 +3,22 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.
+
+Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.
+
+Date: 2026-09-03
+
+### The best tech and gadgets announced at IFA so far
+
+The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including brightly col.
+
+Date: 2026-09-03
 
 ### Malta businessman found not guilty in car bomb killing of journalist
 
@@ -56,18 +68,7 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-02
 
-### Germany blames Russia for attempted drone attack at Leipzig airport
-
-Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
-
-Date: 2026-09-01
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Malta businessman found not guilty in car bomb killing of journalist](https://www.cbsnews.com/news/yorgen-fenech-acquitted-daphne-caruana-galizia-killing/?utm_source=lootura.com) — 2026-09-02T23:59:11.000Z
+- [Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.](https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html?utm_source=lootura.com) — 2026-09-03T09:03:13.000Z
+- [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com) — 2026-09-03T15:37:59.000Z

@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -11,6 +11,24 @@
 ### Military personnel told last month to stop calling Iran conflict "Operation Epic Fury"
 
 The Pentagon says "Operation Epic Fury" ended on May 5, after an Air Force email last month told service members to stop using the name for ongoing Iran operations.
+
+Date: 2026-09-03
+
+### Pete Hegseth Faces Growing Criticism as War With Iran Rolls On
+
+Defense Secretary Pete Hegseth is facing growing criticism from some Republicans, with a key senator now calling on President Donald Trump to replace him. It comes amid Hegseth’s reported plans to extend troop deployments in the Middle East, a sign that the conflict with Iran could drag into next year. Meanwhile, the w.
+
+Date: 2026-09-03
+
+### Trump promises to campaign for Republicans and says they have a winning midterm message
+
+Voters' dim views of the economy and the war in Iran have put Republicans in a tough spot as the midterm election season enters its final stretch.
+
+Date: 2026-09-03
+
+### Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’
+
+Air bases used by US in UAE and Kuwait hit as Israeli defence chief says Iran’s regime fears collapse due to economic pressures Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump administration as an “econom.
 
 Date: 2026-09-03
 
@@ -32,6 +50,12 @@ China's President Xi Jinping visits Egypt this week for the first time in a deca
 
 Date: 2026-09-03
 
+### Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
+
+The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.
+
+Date: 2026-09-02
+
 ### Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential
 
 President Trump on Wednesday downplayed the importance of a peace deal with Tehran while calling on Iranian citizens to take over their government. CBS News' Weijia Jiang and Samantha Vinograd have the latest.
@@ -44,37 +68,10 @@ To discuss the latest flare-up in the war with Iran and the impact on the global
 
 Date: 2026-09-02
 
-### U.S. strikes Iran again as Tehran targets American allies in Gulf region
-
-Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran "very hard" if t.
-
-Date: 2026-09-02
-
-### Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
-
-The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance.
-
-Date: 2026-09-02
-
-### Trump to Nominate Hung Cao as Navy Secretary
-
-The announcement came amid a purge of leadership at the Pentagon and a stalling war effort against Iran.
-
-Date: 2026-09-02
-
-### Iran war ramps up again amid series of resignations and firings in U.S. military
-
-Strikes between the U.S. and Iran are ratcheting back up amid an important resignation in the U.S. military. CBS News national security analyst Aaron MacLean reports.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Iran attacks U.S. allies in Gulf region as Trump downplays peace deal potential](https://www.cbsnews.com/video/iran-attacks-us-allies-gulf-region-trump-downplays-peace-deal-potential/?utm_source=lootura.com) — 2026-09-02T21:57:26.000Z
 - [Military personnel told last month to stop calling Iran conflict "Operation Epic Fury"](https://www.cbsnews.com/news/military-operation-epic-fury-may-5/?utm_source=lootura.com) — 2026-09-03T03:29:52.000Z
-- [China's Xi visits Egypt for the first time in a decade](https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade?utm_source=lootura.com) — 2026-09-03T08:08:39.000Z
-- [U.S.-Israel relations are on the rocks ahead of elections](https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections?utm_source=lootura.com) — 2026-09-03T08:06:18.000Z
-- [Xi visits Egypt as China seeks deeper influence across the Mideast](https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt?utm_source=lootura.com) — 2026-09-03T07:04:25.000Z
-- [Prolonged Iran war creating major dent in global economy, Cliff Kupchan says](https://www.pbs.org/newshour/show/prolonged-iran-war-creating-major-dent-in-global-economy-cliff-kupchan-says?utm_source=lootura.com) — 2026-09-02T22:50:15.000Z
-- [U.S. strikes Iran again as Tehran targets American allies in Gulf region](https://www.pbs.org/newshour/show/u-s-strikes-iran-again-as-tehran-targets-american-allies-in-gulf-region?utm_source=lootura.com) — 2026-09-02T22:55:26.000Z
+- [Pete Hegseth Faces Growing Criticism as War With Iran Rolls On](https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com) — 2026-09-03T11:30:42.000Z
+- [Trump promises to campaign for Republicans and says they have a winning midterm message](https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message?utm_source=lootura.com) — 2026-09-03T15:36:58.000Z
+- [Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’](https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps?utm_source=lootura.com) — 2026-09-03T14:16:54.000Z
 - [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T19:56:53.000Z

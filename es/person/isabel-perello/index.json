@@ -1,0 +1,80 @@
+{
+  "id": "es-isabel-perello",
+  "name": "María Isabel Perelló Doménech",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/isabel-perello",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/isabel-perello",
+  "markdownUrl": "https://atlas.lootura.com/es/person/isabel-perello/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/isabel-perello/index.json",
+  "description": "Sigue la actividad de María Isabel Perelló Doménech en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "aliases": [
+    "Isabel Perelló"
+  ],
+  "changes": [
+    {
+      "title": "Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha enviado una carta a la presidenta del Consejo General del Poder Judicial (CGPJ) , Isabel Perelló , para quejarse de que la jueza María Tardón prohibiera a los agentes investigadores compartir el informe policial sobre Ceuta. El ministro mantiene que la gravedad de.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta",
+      "summary": "El ministro del Interior, Fernando Grande-Marlaska, ha remitido un escrito a la presidenta del Consejo General del Poder Judicial, Isabel Perelló, en el que le transmite su «preocupación» por la decisión de la juez de la Audiencia Nacional de prohibir al equipo policial que investiga la crisis migratoria en Ceuta facil.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Marlaska censura la orden de no elevar el informe de Ceuta y la presidenta del Supremo le responde que la jueza actuó bien",
+      "summary": "El ministro traslada su “preocupación” por el veto impuesto a la Policía Judicial e Isabel Perelló respalda a la magistrada y recuerda que la ley le impide valorar actuaciones judiciales Sánchez mantiene que no hay “pruebas” contra Marruecos y dice que demostrará con dosieres que no hubo avisos previos El ministro del.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón",
+      "summary": "La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, no ha tardado en responder al ministro del Interior, Fernando Grande-Marlaska, sobre sus quejas contra la juez de la Audiencia Nacional María Tardón por sus pesquisas sobre la crisis migratorio en Ceuta. Le ha pedido que.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta",
+      "summary": "El ministro del Interior, Fernando Grande- Marlaska , ha transmitido este jueves a la presidenta del Consejo General del Poder Judicial, Isabel Perelló, su «preocupación» por la imposibilidad de que pueda acceder a la investigación que la Policía Nacional está llevando a cabo a cargo de la Audiencia Nacional sobre la i.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Isabel Perelló first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza",
+      "url": "https://www.20minutos.es/nacional/marlaska-denuncia-ante-cgpj-que-se-le-impidiera-acceder-informe-sobre-ceuta-consejo-defiende-jueza-que-ordeno-veto_7032553_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:01:49.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta",
+      "url": "https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:19:12.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Marlaska censura la orden de no elevar el informe de Ceuta y la presidenta del Supremo le responde que la jueza actuó bien",
+      "url": "https://www.eldiario.es/politica/marlaska-censura-orden-no-elevar-informe-ceuta-presidenta-supremo-le-responde-jueza-actuo_1_13485681.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:22:48.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón",
+      "url": "https://www.lavanguardia.com/politica/20260903/11626523/presidenta-cgpj-advierte-marlaska-tenga-maximo-respeto-juez-tardon.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:12:46.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta",
+      "url": "https://theobjective.com/espana/tribunales/2026-09-03/marlaska-investigacion-policia-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:48:05.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 5
+}

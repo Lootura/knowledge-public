@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,11 @@
     {
       "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
       "summary": "As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
       "date": "2026-09-03"
     },
     {
@@ -61,11 +66,6 @@
       "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
       "summary": "CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Global finance ministers gather in North Carolina for G-20 summit",
-      "summary": "The U.S. is playing host to finance ministers from around the world this week. Russia's top economic official made a stir on Monday when he showed up in person at the meeting in North Carolina.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
@@ -74,7 +74,13 @@
       "url": "https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com",
       "publishedAt": "2026-09-03T01:12:23.000Z",
       "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:35:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

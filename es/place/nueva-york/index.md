@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'
+
+El banco central de Países Bajos ha trasladado más de 78 toneladas de oro de Nueva York a Londres argumentando la "creciente inestabilidad geopolítica", en lo que...
+
+Date: 2026-09-03
 
 ### Descalabro de Jódar en Nueva York
 
@@ -62,12 +68,8 @@ La historia de la moda está llena de vestidos que siguen inspirando nuevas vers
 
 Date: 2026-08-14
 
-### John Galliano en el Met: ¿puede el talento sobrevivir al juicio moral?
-
-John Galliano en un fotograma del documental _Auge y caída de John Galliano_. Nicholas Matthews/StudioTF1 , FAL El Metropolitan Museum of Art de Nueva York anunció el pasado 31 de julio que la gran exposición de primavera de 2027 de su Costume Institute estará dedicada a John Galliano. John Galliano: Horizons recorrerá.
-
-Date: 2026-08-13
-
 ## Fuentes
 
+- [Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial](https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com) — 2026-09-03T10:09:38.000Z
 - [Descalabro de Jódar en Nueva York](https://www.elcorreo.com/deportes/tenis/open-usa/descalabro-jodar-nueva-york-20260902233414-ntrc_amp.html?utm_source=lootura.com) — 2026-09-02T21:34:14.000Z
+- [El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'](https://amp.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html?utm_source=lootura.com) — 2026-09-03T12:52:55.000Z

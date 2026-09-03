@@ -28,4 +28,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros](https://www.elmundo.es/economia/2026/09/03/6a98652de4d4d8135d8b4595.html?utm_source=lootura.com) — 2026-09-02T23:37:42.000Z
+No public source links.

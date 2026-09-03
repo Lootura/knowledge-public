@@ -70,25 +70,6 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "El secretario de Energía de Estados Unidos impulsa en Caracas nuevos acuerdos petroleros",
-      "url": "https://elpais.com/america/2026-09-02/el-secretario-de-energia-de-estados-unidos-impulsa-en-caracas-nuevos-acuerdos-petroleros.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:30:22.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio",
-      "url": "https://elpais.com/economia/2026-09-03/la-banca-de-inversion-enfria-el-optimismo-de-trump-el-petroleo-venezolano-no-bajara-el-precio.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T03:30:01.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
-      "url": "https://theobjective.com/internacional/2026-09-03/delcy-rodriguez-elecciones-venezuela-preparada/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-03T00:18:56.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

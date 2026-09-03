@@ -3,7 +3,7 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge](https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html?utm_source=lootura.com) — 2026-09-03T15:34:49.000Z

@@ -3,10 +3,16 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-03T15:46:22.368Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### See USS Abraham Lincoln Sailor Reunite With Family
+
+The USS Abraham Lincoln finally docked in Thailand on Wednesday, pulling into port after nearly nine months at sea. Shakira Fairfax flew from New Jersey to see her daughter Jada, one of the sailors aboard the aircraft carrier. See their first hug in nearly 300 days!
+
+Date: 2026-09-03
 
 ### New Jersey asks Supreme Court to resolve fight over Kalshi's future
 
@@ -62,12 +68,7 @@ Methane is an especially potent greenhouse gas, causing much more warming than c
 
 Date: 2026-08-05
 
-### Nurse-led initiative reduces unplanned extubations
-
-A nurse-led initiative at a New Jersey hospital reversed an upward trend of unplanned extubation rates in its medical intensive care unit (MICU) and maintained the improvement for five years, according to an article published in Critical Care Nurse (CCN).
-
-Date: 2026-08-03
-
 ## Sources
 
+- [See USS Abraham Lincoln Sailor Reunite With Family](https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com) — 2026-09-03T12:01:19.000Z
 - [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z

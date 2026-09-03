@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -78,31 +78,7 @@
       "url": "https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com",
       "publishedAt": "2026-09-03T08:08:17.000Z",
       "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Critics question legality of Venezuela oil deals",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:07:44.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-lindsay-clancy-jury-deadlocked-and-unable-to-reach-verdict?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:45:39.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
-      "url": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T21:39:57.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
-      "url": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T16:20:36.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 2
 }

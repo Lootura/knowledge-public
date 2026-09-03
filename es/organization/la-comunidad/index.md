@@ -3,10 +3,22 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
+
+La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Política Fiscal y Financiera (CPFF) en la que estaba previsto votar la propuesta de reforma de la financiación autonómica planteada por el Gobierno, tras acordarla con sus socios de ERC y con el gobierno de la Generalitat de Cataluña, y este ju.
+
+Date: 2026-09-03
+
+### Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación
+
+La Comunidad de Madrid no asistirá este viernes al Consejo de Política Fiscal y Financiera (CPFF) al defender que en él se va a aprobar la reforma del sistema de financiación autonómica que han pactado «de manera bilateral y de espaldas al resto de comunidades autónomas el Gobierno de Pedro Sánchez y el Gobierno de Cat.
+
+Date: 2026-09-03
 
 ### La Comunidad reconoce ahora que Ayuso visitó el ático tras su compra
 
@@ -56,18 +68,7 @@ Por qué la Comunidad eligió un piso que no podía convertirse en oficina para 
 
 Date: 2026-08-09
 
-### El uso personal de Ayuso de las instituciones de la Comunidad de Madrid
-
-En abril de este año la presidenta de la Comunidad utilizó a un cargo público para negociar la compra de un piso, una polémica que se suma a otras como el chalé con piscina en la sierra de Madrid que su gobierno compró en 2023 y del que disfrutó alegando que había pasado "dos días con el tupper de casa" La Comunidad de.
-
-Date: 2026-08-08
-
-### El Gobierno de Ayuso pone a la venta el inmueble de Gran Vía más caro que hace un año cuando no logró venderlo
-
-El precio de salida del inmueble propiedad de Planifica Madrid supera en 80.000 euros al de 2025, según consta en el portal de contratación de la Comunidad de Madrid, pese a que entonces quedó desierto La Comunidad de Madrid pone a la venta el ático de lujo de Chamberí por 6,69 millones No es la primera vez que la empr.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica](https://www.abc.es/economia/madrid-promueve-boicot-general-gobiernos-pp-bloquear-20260903164926-nt.html?utm_source=lootura.com) — 2026-09-03T15:22:10.000Z
+- [Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación](https://theobjective.com/espana/politica/2026-09-03/madrid-planta-hacienda-comunidades-pp-boicot-financiacion/?utm_source=lootura.com) — 2026-09-03T14:52:30.000Z

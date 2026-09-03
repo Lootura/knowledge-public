@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -18,6 +18,16 @@
     "Uncle Abe"
   ],
   "changes": [
+    {
+      "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
+      "summary": "The USS Abraham Lincoln pulled into port in Thailand for some rest and relaxation after 286 days at sea.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
+      "summary": "The USS Abraham Lincoln finally docked in Thailand on Wednesday, pulling into port after nearly nine months at sea. Shakira Fairfax flew from New Jersey to see her daughter Jada, one of the sailors aboard the aircraft carrier. See their first hug in nearly 300 days!",
+      "date": "2026-09-03"
+    },
     {
       "title": "USS Abraham Lincoln ends record stretch at sea",
       "summary": "The USS Abraham Lincoln ended a record stretch at sea, making its first port call in nine months. It comes amid concerns about living conditions aboard. NBC News’ Courtney Kube reports.",
@@ -57,25 +67,21 @@
       "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
       "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Trump downplays concerns about living conditions on aircraft carrier",
-      "summary": "President Trump downplayed concerns about living conditions aboard the aircraft carrier USS Abraham Lincoln. NBC News’ Gabe Gutierrez got reaction from the families of sailors on the ship.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-      "summary": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "USS Abraham Lincoln ends record stretch at sea",
-      "url": "https://www.nbcnews.com/nightly-news/video/uss-abraham-lincoln-ends-record-stretch-at-sea-269244485831?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T22:58:30.000Z",
+      "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
+      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-mother-navy-thailand-iran-war/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T15:02:52.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
+      "url": "https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:01:19.000Z",
       "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

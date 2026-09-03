@@ -28,4 +28,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton](https://www.cbsnews.com/news/texas-dark-money-talarico-complaint-paxton/?utm_source=lootura.com) — 2026-09-02T21:23:00.000Z
+No public source links.

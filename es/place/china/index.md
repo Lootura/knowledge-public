@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-09-03/trump-cosco-valencia-bilbao-inteligencia-china_4416410/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
-- [Nepal eleva a más de 1.250 los muertos por la riada en la frontera con China](https://theobjective.com/internacional/2026-09-03/nepal-mas-1-250-muertos-riada-frontera-china/?utm_source=lootura.com) — 2026-09-03T08:18:23.000Z
+No public source links.

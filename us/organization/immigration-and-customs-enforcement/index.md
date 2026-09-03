@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- ['A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract](https://www.pbs.org/newshour/nation/a-perfect-tool-for-abuse-why-experts-are-concerned-about-ices-17-million-electric-shock-gloves-contract?utm_source=lootura.com) — 2026-09-02T20:50:35.000Z
+No public source links.

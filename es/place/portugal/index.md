@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-03T15:45:59.630Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Bandera de Ceuta: origen, significado y por qué es de color negro y blanco
+
+La bandera de esta ciudad autónoma española es una de las enseñas con mayor carga histórica del país y también una de las más reconocibles por su combinación de blanco y negro. Su diseño, muy diferente al de otras banderas autonómicas, tiene su origen en varios siglos de vínculos con Portugal y conserva todavía símbolo.
+
+Date: 2026-09-03
 
 ### Muere Finlay Tarling, ciclista de 19 años, cuando corría la Vuelta a Portugal
 
@@ -62,12 +68,6 @@ Un hombre ha sido detenido en las últimas horas y otro está investigado como s
 
 Date: 2026-07-17
 
-### El Parlamento de Portugal prohíbe el uso del burka en espacios públicos
-
-El Parlamento de Portugal ha aprobado este viernes, con los votos a favor de la derecha y la extrema derecha, un proyecto de ley para prohibir taparse el rostro en lugares públicos del país, incluido el uso del burka . El proyecto pasa ahora al despacho del presidente, António José Seguro, quien podrá promulgarlo, veta.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Bandera de Ceuta: origen, significado y por qué es de color negro y blanco](https://www.elconfidencial.com/espana/2026-09-03/bandera-ceuta-origen-signifcado-colores-1qrt-1tna_4417162/?utm_source=lootura.com) — 2026-09-03T11:40:00.000Z

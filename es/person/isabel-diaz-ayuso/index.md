@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático](https://www.elconfidencial.com/espana/madrid/2026-09-03/ayuso-llama-a-filas-a-su-gobierno-para-preparar-el-ano-electoral-mientras-escala-la-crisis-del-atico_4416740/?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
+No public source links.

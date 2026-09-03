@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,21 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Putin Floats Chance of Peace Agreement to End War With Ukraine",
+      "summary": "Russian President Vladimir Putin is saying there is a chance of a peace agreement to end the war in Ukraine. However, he said, the conflict must be resolved by the countries involved and not by leaders from other nations. NBC’s Richard Engel reports for TODAY.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+      "summary": "President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
       "summary": "The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.",
@@ -51,23 +66,27 @@
       "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
       "summary": "The meeting underscored Washington's willingness to reopen diplomatic talks with Moscow, as Europe intends to isolate the nation while the war continues.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief",
-      "summary": "The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield changes accelerated by the war in Ukraine.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Daily fragment: Donald Trump",
-      "summary": "US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.",
-      "date": "2026-08-15"
-    },
-    {
-      "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-      "summary": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Putin Floats Chance of Peace Agreement to End War With Ukraine",
+      "url": "https://www.today.com/video/putin-floats-chance-of-peace-agreement-to-end-war-with-ukraine-269266501841?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T12:10:36.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:41:56.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:35:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
 }

@@ -1,0 +1,89 @@
+{
+  "id": "usa-gloria-steinem",
+  "name": "Gloria Steinem",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/gloria-steinem",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/gloria-steinem",
+  "markdownUrl": "https://atlas.lootura.com/us/person/gloria-steinem/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/gloria-steinem/index.json",
+  "description": "Follow Gloria Steinem, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92",
+      "summary": "Gloria Steinem, the pioneering feminist and journalist whose activism revolutionized the personal and professional lives of women has died at 92. Steinem dedicated her life to causes ranging from reproductive freedom and domestic violence prevention to workplace gender inequalities. NBC’s Anne Thompson looks back on he.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died. (Image credit: Mario Tama).",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+      "summary": "Prolific author campaigned against domestic violence, female genital mutilation, pornography and the Vietnam and Gulf wars ‘We badly need to raise our boys more like our girls’: Gloria Steinem – a life in quotes Hillary Clinton leads tributes to Gloria Steinem: ‘Her activism was rooted in optimism’ Gloria Steinem, the.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Gloria Steinem’s Glamour Was a Means to an End",
+      "summary": "The glasses, the hairdo, the bell bottoms and hip-slung belts were all wrapped up in her feminist cause.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+      "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Gloria Steinem's Long and Revealing History With TIME",
+      "summary": "Over the course of her long and influential life, Gloria Steinem went from being described in the pages of TIME as “one of the best dates to take to a New York party these days” and “smashing looking Gucci liberal” to being lauded as a “ feminist icon .” If nothing else, the shift in the tone of her coverage in the mag.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Gloria Steinem first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trailblazing Feminist and Social Activist Gloria Steinem Dies at 92",
+      "url": "https://www.today.com/video/gloria-steinem-trailblazing-feminist-and-social-activist-dies-at-92-269263429859?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:14:53.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+      "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:17:01.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T13:06:01.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Gloria Steinem’s Glamour Was a Means to an End",
+      "url": "https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T13:46:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+      "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T14:39:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Gloria Steinem's Long and Revealing History With TIME",
+      "url": "https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T11:51:55.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 6
+}

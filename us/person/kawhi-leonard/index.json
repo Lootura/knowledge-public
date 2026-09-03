@@ -8,8 +8,11 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/kawhi-leonard/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/kawhi-leonard/index.json",
   "description": "Follow Kawhi Leonard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
-  "aliases": [],
+  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "aliases": [
+    "Kawhi",
+    "Leonard"
+  ],
   "changes": [
     {
       "title": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
@@ -24,10 +27,10 @@
   ],
   "sources": [
     {
-      "title": "NBA hits Los Angeles Clippers with major penalties over salary cap probe",
-      "url": "https://www.nbcnews.com/nightly-news/video/nba-hits-los-angeles-clippers-with-major-penalties-over-salary-cap-probe-269248069551?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T23:12:11.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case?utm_source=lootura.com",
+      "publishedAt": "2026-09-02T21:59:14.000Z",
+      "sourceId": "lootura-us-npr"
     },
     {
       "title": "The NBA Drops the Hammer on Kawhi Leonard and the Clippers",
@@ -36,5 +39,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

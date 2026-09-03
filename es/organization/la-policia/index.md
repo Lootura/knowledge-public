@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [La Policía constata varias "oleadas" en la entrada diseñadas para "colapsar las capacidades" de España](https://www.20minutos.es/nacional/policia-constata-varias-oleadas-entrada-ceuta-disenadas-para-colapsar-las-capacidades-respuesta-espana_7032187_0.html?utm_source=lootura.com) — 2026-09-03T03:00:00.000Z
-- [La Policía abre una brecha en el relato del Gobierno que exime a Marruecos del cruce masivo a Ceuta](https://www.lavanguardia.com/politica/20260903/11625847/policia-abre-brecha-gobierno-sobre-papel-marruecos-ceuta.html?utm_source=lootura.com) — 2026-09-03T04:00:00.000Z
+No public source links.

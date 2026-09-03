@@ -70,4 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [El petróleo se relaja y las Bolsas recuperan el aliento](https://cincodias.elpais.com/mercados-financieros/2026-09-03/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-03T08:23:55.000Z
+No public source links.

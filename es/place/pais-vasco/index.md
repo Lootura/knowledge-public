@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco](https://www.diariovasco.com/sociedad/salud/medicos-huelga-indefinida-octubre-rechazo-estatuto-marco-20260902172214-nt_amp.html?utm_source=lootura.com) — 2026-09-02T15:25:38.000Z
+No public source links.
