@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Nvidia se hace con Hugging Face por 11.200 millones en una de las mayores compras de su historia](https://elpais.com/economia/2026-09-03/nvidia-se-hace-con-hugging-face-por-11200-millones-en-una-de-las-mayores-compras-de-su-historia.html?utm_source=lootura.com) — 2026-09-03T14:26:18.000Z
+- [Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña](https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com) — 2026-09-04T18:10:52.000Z

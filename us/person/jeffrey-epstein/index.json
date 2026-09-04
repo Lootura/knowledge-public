@@ -50,19 +50,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Leon Black defies House subpoena, sues committee over Epstein probe",
-      "url": "https://www.cbsnews.com/news/leon-black-jeffrey-epstein-lawsuit-house-oversight-committee/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:05:43.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Billionaire Leon Black skips Epstein deposition and sues House committee over subpoenas",
-      "url": "https://www.pbs.org/newshour/politics/billionaire-leon-black-skips-epstein-deposition-and-sues-house-committee-over-subpoenas?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:04:26.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

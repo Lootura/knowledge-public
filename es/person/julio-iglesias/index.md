@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él
+
+La han presentado ante la Sección de Instrucción del Tribunal Central de Instancia, después de que una denuncia ante la Fiscalía de la Audiencia Nacional fuera archivada en enero.
+
+Date: 2026-09-04
 
 ### La exdiputada de Vox Macarena Olona se incorpora al despacho del abogado de Aldama y Julio Iglesias
 
@@ -64,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-No public source links.
+- [Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él](https://www.abc.es/gente/extrabajadoras-julio-iglesias-denunciaron-agresion-sexual-presentan-20260904155517-nt_amp.html?utm_source=lootura.com) — 2026-09-04T13:55:18.000Z

@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Judge blocks Trump's latest effort to narrow birthright citizenship
+### IRS targets private schools that help racial minority students
 
-A federal judge has temporarily blocked a Trump executive order that would prevent certain people from automatically becoming U.S. citizens at birth.
+The Trump administration has said it will end the tax-exempt status for universities with programs that help racial minority students.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care
+### Work set to begin in Trump's plan for triumphal arch
 
-The Trump administration wants to bar Medicaid and the Children’s Health Insurance Program from paying for gender-transition medication and surgery for transgender adolescents.
+NPR's Steve Inskeep speaks with New York Times reporter Emily Badger about the Trump administration's plans to move forward with construction of a triumphal arch.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship
+### Trump already tried to hurt Iran with sanctions once - and it didn't work
 
-The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.
+President Trump is again hoping to use economic pressure to force Iran to the negotiating table.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Morning News Brief
+### Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots
 
-Exodus of experienced military leadership continues in the Pentagon, Trump touts Venezuela oil deal as critics question legality, the jury is deadlocked in the trial of Lindsay Clancy.
+NPR's Steve Inskeep asks David Becker, an elections administration expert, what effect the Trump administration's appeal to the Supreme Court on mail-in ballots could have on the midterms.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Ex-National Security Council director on administration's plan for Venezuela oil
+### Trump administration asks Supreme Court to weigh in on mail-in ballots
 
-NPR's Michel Martin asks former Obama administration official Benjamin Gedan {guh-DAN} about the viability of the Trump administration's plan for Venezuelan oil.
+Mail ballots are now being sent to certain states as questions linger about new restrictions ahead of the midterms. CBS News' Olivia Rinaldi reports.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Stephen A. Smith on Trump, Democrats and the politics of chaos
+### What app surged in downloads after Trump's 'Lake America' change? The quiz knows
 
-Stephen A. Smith on Trump, Democrats and the politics of chaos lead image.
+Plus: George Santos is back in the news!
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list
+### Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?
 
-Defense Secretary Pete Hegseth has told people close to him that Sean Parnell would be his top choice for secretary of the Army, several senior officials told CBS News.
+Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Pete Hegseth Faces Growing Criticism as War With Iran Rolls On
+### North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them
 
-Defense Secretary Pete Hegseth is facing growing criticism from some Republicans, with a key senator now calling on President Donald Trump to replace him. It comes amid Hegseth’s reported plans to extend troop deployments in the Middle East, a sign that the conflict with Iran could drag into next year. Meanwhile, the w.
+A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Trump admin threatens to cut Smithsonian support in latest claim of ideological bias
+### The U.S. Wants the Oil From These 17 Venezuelan Fields
 
-The Trump administration is threatening to withdraw support for the Smithsonian Institution, accusing its leadership of presenting a “radical ideology” that weakens “shared American identity” in the latest effort to pressure the institution to change its presentations and practices.
+A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Trump promises to campaign for Republicans and says they have a winning midterm message
+### Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'
 
-Voters' dim views of the economy and the war in Iran have put Republicans in a tough spot as the midterm election season enters its final stretch.
+The Trump administration wants to end tax-exempt status for universities with certain race-based programs. Wesleyan President Michael Roth says the plan could frighten schools. (Image credit: DenisTangneyJr).
 
-Date: 2026-09-03
+Date: 2026-09-04
 
 ## Sources
 
-- [Judge blocks Trump's latest effort to narrow birthright citizenship](https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com) — 2026-09-03T01:10:30.000Z
-- [Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list](https://www.cbsnews.com/news/hegseth-favors-sean-parnell-army-secretary-sources/?utm_source=lootura.com) — 2026-09-03T15:41:52.000Z
-- [Pete Hegseth Faces Growing Criticism as War With Iran Rolls On](https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com) — 2026-09-03T11:30:42.000Z
-- [Trump admin threatens to cut Smithsonian support in latest claim of ideological bias](https://www.nbcnews.com/politics/trump-administration/trump-administration-threatens-smithsonian-support-rcna595873?utm_source=lootura.com) — 2026-09-03T15:30:05.000Z
-- [Morning News Brief](https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief?utm_source=lootura.com) — 2026-09-03T08:03:57.000Z
-- [Ex-National Security Council director on administration's plan for Venezuela oil](https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com) — 2026-09-03T08:08:17.000Z
-- [Trump promises to campaign for Republicans and says they have a winning midterm message](https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message?utm_source=lootura.com) — 2026-09-03T15:36:58.000Z
-- [Stephen A. Smith on Trump, Democrats and the politics of chaos](https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846?utm_source=lootura.com) — 2026-09-03T03:59:00.000Z
-- [Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’](https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps?utm_source=lootura.com) — 2026-09-03T14:16:54.000Z
-- [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T19:56:53.000Z
+- [Trump administration asks Supreme Court to weigh in on mail-in ballots](https://www.cbsnews.com/video/trump-administration-asks-supreme-court-to-weigh-in-on-mail-in-ballots/?utm_source=lootura.com) — 2026-09-04T15:14:43.000Z
+- [IRS targets private schools that help racial minority students](https://www.npr.org/2026/09/04/nx-s1-5955666/irs-targets-private-schools-that-help-racial-minority-students?utm_source=lootura.com) — 2026-09-04T08:02:55.000Z
+- [What app surged in downloads after Trump's 'Lake America' change? The quiz knows](https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com) — 2026-09-04T09:01:00.000Z
+- [Work set to begin in Trump's plan for triumphal arch](https://www.npr.org/2026/09/04/nx-s1-5956892/work-set-to-begin-in-trumps-plan-for-triumphal-arch?utm_source=lootura.com) — 2026-09-04T08:04:39.000Z
+- [Trump already tried to hurt Iran with sanctions once - and it didn't work](https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work?utm_source=lootura.com) — 2026-09-04T08:06:02.000Z
+- [Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots](https://www.npr.org/2026/09/04/nx-s1-5956866/election-expert-on-the-impact-of-trumps-appeal-to-scotus-on-mail-in-ballots?utm_source=lootura.com) — 2026-09-04T07:58:31.000Z
+- [Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'](https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs?utm_source=lootura.com) — 2026-09-04T08:03:21.000Z
+- [Trump administration pushes to remove tax exemption for private colleges with DEI policies](https://www.pbs.org/newshour/education/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies?utm_source=lootura.com) — 2026-09-04T18:13:08.000Z
+- [Missouri court blocks Trump-backed U.S. House map and orders it to be put to a vote](https://www.pbs.org/newshour/politics/missouri-court-blocks-trump-backed-u-s-house-map-and-orders-it-to-be-put-to-a-vote?utm_source=lootura.com) — 2026-09-04T17:48:45.000Z
+- [Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.](https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234?utm_source=lootura.com) — 2026-09-04T18:00:00.000Z

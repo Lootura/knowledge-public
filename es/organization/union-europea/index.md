@@ -3,10 +3,34 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
+
+El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.
+
+Date: 2026-09-04
+
+### El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»
+
+El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación subrayó este viernes que la embajadora de Marruecos «fue oficial y formalmente» convocada el 21 de agosto para rechazar «tajantemente» las declaraciones sobre Ceuta y Melilla de un ministro marroquí , y que ese mensaje también se trasladó a sus autoridade.
+
+Date: 2026-09-04
+
+### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.
+
+Date: 2026-09-04
+
+### Hungría asegura que Ucrania «no está preparada» para la adhesión a la UE
+
+El primer ministro de Hungría, Peter Magyar , ha asegurado este jueves que Ucrania «no está preparada» para la adhesión a la Unión Europea , mostrándose escéptico sobre la capacidad de Kiev para cumplir los compromisos alcanzados entre ambos países de forma bilateral en materia de los derechos de las minorías en la reg.
+
+Date: 2026-09-03
 
 ### Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio
 
@@ -44,30 +68,8 @@ La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Go
 
 Date: 2026-08-14
 
-### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
-
-El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
-
-Date: 2026-08-14
-
-### Aumentan un 37% las entradas irregulares en la UE por el estrecho de Gibraltar en lo que va de año
-
-Las entradas irregulares de migrantes en la Unión Europea (UE) en el Mediterráneo occidental, en la región del estrecho de Gibraltar, aumentaron en los primeros siete meses del año un 37%, hasta los 11.217 cruces, según Frontex, la agencia europea de vigilancia fronteriza. De acuerdo con el informe publicado este viern.
-
-Date: 2026-08-14
-
-### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
-
-Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
-
-Date: 2026-08-14
-
-### A partir del miércoles 12 de agosto entra en vigor y la UE lo confirma: los restaurantes de España están obligados a retirar los sobres de monodosis
-
-El pasado miércoles 12 de agosto de 2026 entró en vigor una nueva normativa que prohíbe los recipientes desechables y los sobres monodosis en los restaurantes de nuestro país. Todo viene a cuento de un Reglamento de la Unión Europea que entró en vigor en febrero de 2025 y que, en principio, tiene que comenzar a aplicar.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta](https://www.diariovasco.com/politica/tension-alderdi-eder-manifestantes-contramanifestantes-concentracion-favor-20260902202139-nt_amp.html?utm_source=lootura.com) — 2026-09-02T18:21:40.000Z
+- [Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea](https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com) — 2026-09-04T12:26:00.000Z
+- [El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»](https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com) — 2026-09-04T15:17:41.000Z
+- [Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa](https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com) — 2026-09-04T17:42:13.000Z

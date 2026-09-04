@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El pulso entre China y EEUU se traslada a Oriente Próximo
+
+El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el "fortalecimiento del diálogo" Leer.
+
+Date: 2026-09-03
 
 ### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
 
@@ -61,12 +67,6 @@ Date: 2026-08-14
 El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
 
 Date: 2026-08-14
-
-### La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética
-
-Ante la fragilidad de sus reservas de combustible, Canberra busca nuevas fuentes de suministro y estudia la construcción de una tercera refinería de petróleo Leer.
-
-Date: 2026-08-13
 
 ## Fuentes
 

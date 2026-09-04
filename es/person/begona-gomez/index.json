@@ -8,9 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Begoña Gómez pide su absolución y niega haber sacado partido de su matrimonio con Sánchez",
+      "summary": "Begoña Gómez ha remitido este viernes al juez su escrito de defensa . La mujer del presidente del Gobierno pide su absolución al considerar que los hechos por los que se le investigan \"no son constitutivos de delito alguno\" y que su caso no tendría que ir a juicio. Además, pide que se condene al pago de las costas proc.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM",
+      "summary": "Su escrito de defensa niega cualquier beneficio económico o uso irregular del 'software' y atribuye el registro de marcas y dominios a un fin estrictamente docente para la universidad.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra",
+      "summary": "Begoña Gómez, esposa del presidente del Gobierno, ha presentado este viernes un nuevo escrito de defensa —firmado por su nuevo abogado— en el que pide una vez más su absolución en la causa contra ella por, supuestamente, haberse valido de su condición de esposa del presidente del Gobierno para impulsar su carrera. Góme.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Begoña Gómez pide su absolución y alude a las memorias de Ana Botella para defender el papel de su asistente",
+      "summary": "El nuevo abogado de la mujer del presidente del Gobierno insiste en que su clienta “no influyó ni ejerció presión moral” para conseguir la cátedra de la Complutense y dice que no hay “delito alguno” en los hechos por los que se expone a 13 años de cárcel La asistente de Begoña Gómez pide su absolución y que se condene.",
+      "date": "2026-09-04"
+    },
     {
       "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
       "summary": "La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa \"está condenada\" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.",
@@ -40,41 +60,27 @@
       "title": "Peinado remite a la Fiscalía Europea la nueva investigación del caso de Begoña Gómez contra el empresario Barrabés",
       "summary": "El magistrado acata la petición del órgano comunitario después de que la Audiencia Provincial excluyera al consultor del juicio con jurado que afrontará la esposa de Pedro Sánchez El juez Peinado abre una nueva investigación en el caso de Begoña Gómez pero solo contra el empresario Barrabés El juez Juan Carlos Peinado,.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "El juez Peinado archiva la investigación contra Barrabés por un contrato y se la pasa a la Fiscalía Europea",
-      "summary": "El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del \"caso Begoña Gómez\" asumir la indagación en las supuestas irregularidades me.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato",
-      "summary": "El juez del caso Begoña Gómez , Juan Carlos Peinado, ha acordado remitir a la Fiscalía Europea la pieza separada sobre supuestas irregularidades en un contrato sufragado con fondos europeos contra el empresario Juan Carlos Barrabés, después de que la Audiencia Provincial de Madrid le apartara del juicio con jurado popu.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "La contable de Red.es denuncia ante la Policía la \"orden directa\" de su superior para borrar información del empresario amigo de Begoña Gómez",
-      "summary": "L Acudió a la Policía, el 16 de julio, ante la sospecha de que su superior le exigió un cambio «irregular» L El alto cargo pidió eliminar información contable de un expediente judicializado del amigo de Begoña Gómez Leer.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Pedro Sánchez ya está en Lanzarote para descansar hasta el 24",
-      "summary": "Pedro Sánchez ya se encuentra en Lanzarote para disfrutar de sus vacaciones de verano. El presidente del Gobierno y su esposa, Begoña Gómez, aterrizaron este sábado, poco después de las 13:00 horas, en el Aeropuerto César Manrique-Lanzarote a bordo de un avión Falcon del Ejército del Aire, desde donde se desplazaron a.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
-      "url": "https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T12:42:22.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Begoña Gómez pide su absolución y niega haber sacado partido de su matrimonio con Sánchez",
+      "url": "https://www.elconfidencial.com/espana/2026-09-04/begona-gomez-juez-escrito-defensa_4417898/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T12:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     },
     {
-      "title": "El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial",
-      "url": "https://www.eldiario.es/politica/tribunal-superior-justicia-madrid-deja-castigo-quejas-peinado-tramito-judicial_1_13485234.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T12:40:49.000Z",
-      "sourceId": "lootura-es-eldiario-es"
+      "title": "Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM",
+      "url": "https://www.elcorreo.com/politica/begona-gomez-pide-absolucion-argumenta-cometio-delito-20260904141501-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T12:15:01.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra",
+      "url": "https://elpais.com/espana/2026-09-04/begona-gomez-pide-su-absolucion-y-defiende-que-no-influyo-en-los-cargos-de-la-univerdad-ni-en-ninguna-autoridad-para-crear-la-catedra.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T12:22:14.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

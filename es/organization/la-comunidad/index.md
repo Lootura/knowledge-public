@@ -3,7 +3,7 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-03T22:19:40.296Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica](https://www.abc.es/economia/madrid-promueve-boicot-general-gobiernos-pp-bloquear-20260903164926-nt.html?utm_source=lootura.com) — 2026-09-03T15:22:10.000Z
-- [Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación](https://theobjective.com/espana/politica/2026-09-03/madrid-planta-hacienda-comunidades-pp-boicot-financiacion/?utm_source=lootura.com) — 2026-09-03T14:52:30.000Z
+No public source links.

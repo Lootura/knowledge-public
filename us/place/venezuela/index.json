@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/venezuela/index.json",
   "description": "Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
     "Republic of Venezuela"
   ],
   "changes": [
+    {
+      "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
+      "summary": "A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Morning News Brief",
       "summary": "Exodus of experienced military leadership continues in the Pentagon, Trump touts Venezuela oil deal as critics question legality, the jury is deadlocked in the trial of Lindsay Clancy.",
@@ -59,26 +64,15 @@
       "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
       "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
       "date": "2026-09-02"
-    },
-    {
-      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
-      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Morning News Brief",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:03:57.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "Ex-National Security Council director on administration's plan for Venezuela oil",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T08:08:17.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
+      "url": "https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:07:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

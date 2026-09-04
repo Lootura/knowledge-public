@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/brad-pitt/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/brad-pitt/index.json",
   "description": "Sigue la actividad de Brad Pitt en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-11T12:57:35.592Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Bradley Pitt",
     "William Brad Pitt"
   ],
   "changes": [
+    {
+      "title": "Brad Pitt, Penélope Cruz, Jeremy Irons y Rami Malek confirman su presencia en el Zinemaldia",
+      "summary": "Orlando Bloom, Marion Cotillard, Jesse Eisenberg, Vincent Lindon y Lali Espósito también estarán en la 74 edición del Festival.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Brad Pitt first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-11"
+    },
     {
       "title": "Brad Pitt: «Estuve sobrio durante siete años. Y luego me caí del vagón»",
       "summary": "Brad Pitt ha decidido mirar de frente a algunos de los episodios más difíciles de su vida. El actor se ha sincerado sobre la última década en una de sus entrevistas más personales, en la que habla de su relación con el alcohol, del dolor por la muerte de su madre y de las consecuencias que tuvo para él su separación de.",
@@ -23,13 +33,15 @@
       "title": "Brad Pitt confiesa su recaída en el alcohol: «Entiendo cómo es buscar un alivio al dolor»",
       "summary": "Brad Pitt ha hecho un repaso sin tapujos de los últimos 10 años de su vida, marcados por su separación de Angelina Jolie , crisis personales, el distanciamiento familiar, su adicción al alcohol y el duelo. El actor, de 62 años , ha trasladado con su relato cómo detrás de la radiante fachada de una de las mayores leyend.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Brad Pitt first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Brad Pitt, Penélope Cruz, Jeremy Irons y Rami Malek confirman su presencia en el Zinemaldia",
+      "url": "https://www.diariovasco.com/culturas/zinemaldia/brad-pitt-penelope-cruz-jeremy-irons-rami-ralek-20260904113954-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T09:46:13.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/casa-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/casa-real/index.json",
   "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T16:02:38.774Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Casa de Su Magestad",
     "Casa de Su Majestad",
@@ -22,6 +22,11 @@
     "ruling dynasty"
   ],
   "changes": [
+    {
+      "title": "De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?",
+      "summary": "Como cada semana, desde COOL recogemos las noticias más leídas por nuestros lectores en los últimos días. En la primera semana de curso, los famosos, tras sus vacaciones, no han dejado de darnos titulares, así como la propia Casa Real de España tras mostrar su apoyo al pueblo ceutí debido a la invasión de Marruecos. Ta.",
+      "date": "2026-09-04"
+    },
     {
       "title": "El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera",
       "summary": "​El Ejecutivo no suelta a Felipe VI y lo sigue usando como parapeto. La portavoz asegura que las relaciones entre la Moncloa y la Casa Real son «bu...",
@@ -68,6 +73,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?",
+      "url": "https://okdiario.com/cool/famosos/polemico-parto-desnudo-famosa-cual-sido-noticia-vip-semana-20229244?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:00:47.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

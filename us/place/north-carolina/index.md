@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.
+
+President Donald Trump’s controversial demands for the Postal Service to overhaul and monitor millions of mail ballots hit another snag on Friday, when North Carolina became the first state in the nation to start sending out ballots for the November election. In March, Trump signed the initial executive order , which a.
+
+Date: 2026-09-04
 
 ### Funding milestone detected
 
@@ -62,12 +68,6 @@ North Carolina first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-03
 
-### Cornyn, Tillis back Blanche for attorney general after deal on DOJ fund
-
-GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina formally announced their support on Monday for Todd Blanche's nomination for attorney general.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.](https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234?utm_source=lootura.com) — 2026-09-04T18:00:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-No public source links.
+- [¿Hemos alcanzado la superinteligencia artificial? OpenAi lanza su modelo con capacidad sobrehumana](https://www.abc.es/tecnologia/alcanzado-superinteligencia-artificial-openai-lanza-gpt6-astra-20260904171032-nt.html?utm_source=lootura.com) — 2026-09-04T15:20:20.000Z

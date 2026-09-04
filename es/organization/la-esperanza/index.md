@@ -3,10 +3,28 @@
 > Sigue la actividad de La Esperanza en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-03T22:19:40.296Z
 - Canonical: https://atlas.lootura.com/es/organization/la-esperanza
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+La Esperanza first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-03
+
+### Muere un inmigrante de 17 años diabético en un centro de acogida de Ceuta
+
+Un joven marroquí de 17 años ha fallecido este jueves en el centro de realojo temporal La Esperanza en Ceuta, según 'El Faro de Ceuta'. El menor estaba siendo tratado por sufrir una diabetes severa y entró a España el pasado mes de julio cuando se produjo el asalto a la ciudad autónoma.El fallecido fue encontrado sin v.
+
+Date: 2026-09-03
+
+### Muere un migrante en un centro de menores por complicaciones asociadas a la diabetes que padecía
+
+Un joven migrante de 17 años ha fallecido este jueves en el centro de menores La Esperanza, gestionado por el Gobierno de Ceuta. Fuentes de Sanidad confirman a EL PAÍS que el menor, que padecía diabetes tipo I, ha muerto por una hipoglucemia severa. La llamada al 112 se realizó a las 7.05 y la Unidad de Emergencia Médi.
+
+Date: 2026-09-03
 
 ### Muere un menor inmigrante de 17 años que sufría diabetes severa en un centro de acogida
 
@@ -20,13 +38,6 @@ Un joven migrante de 17 años ha fallecido este jueves en el centro de menores L
 
 Date: 2026-09-03
 
-### Discovered by Atlas
-
-La Esperanza first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Muere un menor inmigrante de 17 años que sufría diabetes severa en un centro de acogida](https://www.20minutos.es/ceuta/muere-un-menor-inmigrante-17-anos-que-sufria-diabetes-severa-un-centro-acogida-ceuta_7032494_0.html?utm_source=lootura.com) — 2026-09-03T13:28:03.000Z
-- [Fallece un joven de 17 años en un centro de menores en Ceuta por complicaciones asociadas a diabetes](https://elpais.com/espana/2026-09-03/fallece-un-joven-de-17-anos-en-un-centro-de-menores-en-ceuta-por-complicaciones-asociadas-a-diabetes.html?utm_source=lootura.com) — 2026-09-03T13:09:31.000Z
+No public source links.

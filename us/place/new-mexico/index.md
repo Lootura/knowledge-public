@@ -3,7 +3,7 @@
 > Follow New Mexico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T12:43:46.985Z
+- Updated: 2026-09-04T15:44:50.549Z
 - Canonical: https://atlas.lootura.com/us/place/new-mexico
 
 ## Recent changes

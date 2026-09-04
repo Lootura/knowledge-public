@@ -3,10 +3,22 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-04T15:44:50.549Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
+
+### JD Vance Says Monthslong Iran War is Not a 'War'
+
+During a White House press briefing on Thursday, Vice President JD Vance said the monthslong conflict with Iran is not a war. “I wouldn’t call it a war right now. There’s no active shooting,” he said, adding he won’t “make a promise” about when gas prices will go down. NBC’s Garrett Haake reports for TODAY.
+
+Date: 2026-09-04
+
+### Vance on Dan Driscoll's resignation as Army secretary, other high-profile military departures
+
+Vice President JD Vance on Thursday held the first briefing at the White House since Karoline Leavitt left as press secretary, where CBS News senior White House correspondent Weijia Jiang asked him about the departure of the now-former Army Secretary Dan Driscoll. Jiang joins "The Takeout" with more.
+
+Date: 2026-09-03
 
 ### Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says
 

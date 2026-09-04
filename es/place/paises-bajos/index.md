@@ -3,10 +3,16 @@
 > Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/paises-bajos
 
 ## Cambios recientes
+
+### El 20% de los bancos centrales reubica sus reservas de oro tras la llegada de Trump
+
+Desde la llegada de Donald Trump, uno de cada cinco bancos centrales del mundo ha desplazado sus lingotes en busca de mayor seguridad, según el World Gold Council. El último en hacerlo ha sido el banco central de los Países Bajos, que ha reducido de forma drástica sus reservas áureas que estaban custodiadas en Nueva Yo.
+
+Date: 2026-09-04
 
 ### El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'
 
@@ -46,5 +52,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial](https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com) — 2026-09-03T10:09:38.000Z
-- [El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'](https://amp.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html?utm_source=lootura.com) — 2026-09-03T12:52:55.000Z
+No public source links.

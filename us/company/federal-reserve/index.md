@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T08:35:00.530Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Fed governor Waller muddies outlook on possible rate hike later this month
+
+Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.
+
+Date: 2026-09-04
 
 ### Rate Rise in Play as Fed Officials Await Inflation Data
 
@@ -52,4 +58,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Rate Rise in Play as Fed Officials Await Inflation Data](https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html?utm_source=lootura.com) — 2026-09-03T14:07:45.000Z
+No public source links.

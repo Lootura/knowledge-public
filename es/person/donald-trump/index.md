@@ -3,74 +3,73 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"
+### Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit
 
-El presidente de Estados Unidos, Donald Trump , se ha referido a España como un "país arruinado" , en alusión a la crisis en Ceuta, tras asegurar que el cruce masivo de migrantes desde Marruecos "es triste de ver". "España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy b.
+El presidente de Estados Unidos, Donald Trump , ha reclamado a la Reserva Federal (Fed) que rebaje los tipos de interés o, en caso contrario, cesará el comercio con todos aquellos países con los que Estados Unidos mantenga superávit comercial, unas declaraciones realizadas tras la publicación de los datos de empleo del.
+
+Date: 2026-09-04
+
+### El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto
+
+A dos meses de las elecciones de medio mandato, Donald Trump puede vender una buena noticia a los estadounidenses . El mercado laboral respondió mejor de lo esperado el pasado agosto, con la creación de 162.000 puestos de trabajo, según los datos publicados este viernes por el Departamento de Trabajo de Estados Unidos.
+
+Date: 2026-09-04
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### El 'think tank' de Trump sale en defensa de la soberanía española de Ceuta en un acto de Vox
+
+Kevin Roberts, presidente del think tank Heritage Foundation y una voz muy influyente en Donald Trump, ha reivindicado este viernes la soberanía española de Ceuta. En un acto en Santiago de Chile organizado por la fundación Disenso, el think tank de Vox, Roberts ha repetido en dos ocasiones que Ceuta es una “ciudad esp.
+
+Date: 2026-09-04
+
+### Deportar inmigrantes o levantar un muro en la frontera: así son los polémicos videojuegos creados por Trump
+
+La Casa Blanca lanzó este jueves ' Arcade ', una página web que contiene cinco videojuegos con estétitca retro y que representan las políticas de Donald Trump. En ellos, los jugadores pueden desde levantar un muro fronterizo hasta interceptar a inmigrantes que buscan entre suelo estadounidense.El más llamativo de ellos.
+
+Date: 2026-09-04
+
+### El 20% de los bancos centrales reubica sus reservas de oro tras la llegada de Trump
+
+Desde la llegada de Donald Trump, uno de cada cinco bancos centrales del mundo ha desplazado sus lingotes en busca de mayor seguridad, según el World Gold Council. El último en hacerlo ha sido el banco central de los Países Bajos, que ha reducido de forma drástica sus reservas áureas que estaban custodiadas en Nueva Yo.
+
+Date: 2026-09-04
+
+### Ledezma pide a Trump que el acuerdo petrolero se haga con una Venezuela democrática
+
+Antonio Ledezma , exalcalde de Caracas y coordinador del Consejo Político Internacional de María Corina Machado y Edmundo González Urrutia, ha pedido al presidente estadounidense, Donald Trump , que la alianza petrolera con Venezuela se construya sobre un Gobierno democrático y no sirva para legitimar al Ejecutivo de D.
+
+Date: 2026-09-04
+
+### María Corina Machado cuestiona el pacto petrolero de Trump con Delcy porque no tiene legitimidad demócratica
+
+La Nobel de la Paz María Corina Machado ha cuestionado este jueves el acuerdo petrolero con Venezuela anunciado por Donald Trump y respaldado por la dictadura de Delcy Rodríguez, al advertir de que el futuro de los recursos venezolanos exige ante todo legitimidad democrática. En su primer pronunciamiento sobre el pacto.
 
 Date: 2026-09-03
 
-### Trump se refiere a España como un «país arruinado»: «Es triste de ver»
+### De Ceuta a Washington: cómo la ultraderecha convierte la inmigración en una guerra cultural global
 
-El presidente de Estados Unidos, Donald Trump, se ha referido a España como un «país arruinado», en alusión a la crisis en Ceuta , tras asegurar que el cruce masivo de migrantes desde Marruecos «es triste de ver».«España será un país arruinado. Yo he tenido mis propios problemas con España porque no se comporta muy bie.
-
-Date: 2026-09-03
-
-### La Casa de la Moneda de EEUU lanza una moneda de un dólar con el retrato de Trump por el 250 aniversario de la independencia
-
-La Casa de la Moneda estadounidense ha comenzado a comercializar una moneda de un dólar con el retrato del actual presidente con motivo del 250 aniversario de la independencia del país, que se conmemora en 2026. La moneda fue puesta a la venta este miércoles y ha despertado un notable interés entre los coleccionistas .
+OSCAR GONZALEZ FUENTES/Shutterstock Cuando decenas de miles de personas cruzaban irregularmente hacia Ceuta el pasado 30 de julio, Santiago Abascal, líder del partido ultraderechista Vox, no dudaba en hablar ya de “invasión” . Apenas unas horas después, Donald Trump utilizó el mismo término y presentó lo ocurrido en la.
 
 Date: 2026-09-03
-
-### Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto
-
-La administración de Donald Trump prepara un plan para cercar de forma permanente la plaza Lafayette de Washington , situada junto a la Casa Blanca, lo que permitiría hacer realidad una de las históricas aspiraciones de los servicios secretos de EE UU: convertir la residencia oficial del presidente de Estados Unidos en.
-
-Date: 2026-09-03
-
-### Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»
-
-Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».
-
-Date: 2026-09-03
-
-### El petróleo se relaja y las Bolsas recuperan el aliento
-
-Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.
-
-Date: 2026-09-03
-
-### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
-
-Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.
-
-Date: 2026-09-03
-
-### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
-
-La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
-
-Date: 2026-09-03
-
-### La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca
-
-Pyongyang encadena tres años de fuerte crecimiento, ha ganado miles de millones con la guerra de Ucrania, ampliado su arsenal nuclear y vuelve a contar simultáneamente con el respaldo de Putin y Xi Jinping. Ahora, Donald Trump quiere recuperar la diplomacia personal con el líder norcoreano, pero esta vez es Kim quien t.
-
-Date: 2026-09-02
-
-### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
-
-El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
-
-Date: 2026-09-02
 
 ## Fuentes
 
-- [Trump afirma que la crisis migratoria en Ceuta "es triste" y augura que España será "un país arruinado"](https://www.20minutos.es/internacional/trump-tacha-espana-pais-arruinado-afirma-que-cruce-masivo-ceuta-es-triste-ver_7032544_0.html?utm_source=lootura.com) — 2026-09-03T14:37:39.000Z
-- [Trump se refiere a España como un «país arruinado»: «Es triste de ver»](https://www.abc.es/espana/trump-refiere-espana-pais-arruinado-afirma-avalancha-20260903161722-nt.html?utm_source=lootura.com) — 2026-09-03T15:10:30.000Z
-- [La Casa de la Moneda de EEUU lanza una moneda de un dólar con el retrato de Trump por el 250 aniversario de la independencia](https://www.larazon.es/internacional/casa-moneda-eeuu-lanza-moneda-dolar-retrato-trump-250-aniversario-independencia-b50m_202609036a9991232d7d3022177d6c33.html?utm_source=lootura.com) — 2026-09-03T15:24:19.000Z
-- [Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto](https://www.larazon.es/internacional/convertir-casa-blanca-fortin-trump-puede-hacer-realidad-sueno-servicio-secreto_202609036a99925f3bfe5d1eff422434.html?utm_source=lootura.com) — 2026-09-03T15:29:38.000Z
+- [El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto](https://elpais.com/economia/2026-09-04/el-mercado-laboral-da-un-respiro-a-trump-con-la-creacion-de-162000-puestos-en-agosto.html?utm_source=lootura.com) — 2026-09-04T15:41:44.000Z
+- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
+- [Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit](https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com) — 2026-09-04T14:58:20.000Z

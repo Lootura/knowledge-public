@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,21 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas",
+      "summary": "Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La cascada de Bolintxu, el oasis verde de Bilbao que esconde una de las piscinas naturales más bonitas de Euskadi",
+      "summary": "Las olas de calor disparan las visitas a este rincón de avellanos, robles y fresnos donde el río forma una poza cristalina a solo siete kilómetros de la capital vizcaína.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "País Vasco encadena otro episodio de calor por encima de los 30 ºC desde hoy hasta el domingo",
+      "summary": "Euskal Herria afronta desde hoy un nuevo episodio veraniego con temperaturas superiores a los 30 ºC , que en la Ribera del Ebro llegarán incluso a los 38 ºC . El ambiente seguirá siendo cálido hasta el sábado y habrá que esperar al domingo para notar la llegada de un frente que traerá nubes y un descenso generalizado d.",
+      "date": "2026-09-03"
+    },
     {
       "title": "El terrorismo cultural de ETA",
       "summary": "ETA ya no mata. Esto parece una obviedad, ya que la banda entregó las armas en el año 2011 y para el 2018 se disolvió oficialmente. No obstante, parece que la banda, o al menos ciertos de sus componentes, están más vivos que nunca en el País Vasco y Navarra, ya que la organización, de forma voluntaria o involuntaria, h.",
@@ -57,21 +72,6 @@
       "title": "Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes",
       "summary": "Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte",
-      "summary": "Participan en el circuito que recorrerá escenarios de Euskadi, Cantabria, Asturias, Galicia, Navarra y La Rioja con 18 compañías.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio",
-      "summary": "El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»",
-      "summary": "El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».",
-      "date": "2026-08-13"
     }
   ],
   "sources": [],

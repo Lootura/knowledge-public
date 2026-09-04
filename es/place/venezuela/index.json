@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,16 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "Ledezma pide a Trump que el acuerdo petrolero se haga con una Venezuela democrática",
+      "summary": "Antonio Ledezma , exalcalde de Caracas y coordinador del Consejo Político Internacional de María Corina Machado y Edmundo González Urrutia, ha pedido al presidente estadounidense, Donald Trump , que la alianza petrolera con Venezuela se construya sobre un Gobierno democrático y no sirva para legitimar al Ejecutivo de D.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "María Corina Machado cuestiona el pacto petrolero de Trump con Delcy porque no tiene legitimidad demócratica",
+      "summary": "La Nobel de la Paz María Corina Machado ha cuestionado este jueves el acuerdo petrolero con Venezuela anunciado por Donald Trump y respaldado por la dictadura de Delcy Rodríguez, al advertir de que el futuro de los recursos venezolanos exige ante todo legitimidad democrática. En su primer pronunciamiento sobre el pacto.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Delcy Rodríguez asegura que habrá elecciones cuando Venezuela «esté preparada»",
       "summary": "Trump defiende que en el país latinoamericano «aún no están preparados para ello», pero que «lo estarán pronto».",
@@ -58,16 +68,6 @@
       "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
       "summary": "El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Venezuela anuncia la excarcelación de más de 130 presos políticos",
-      "summary": "La medida se enmarca en la ley de amnistía, mientras las ONG recuerdan que aún quedan cientos de detenidos.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "La tierra no espera a nadie: por qué tiembla América Latina y Europa no está exenta",
-      "summary": "La tierra no avisa, pero tampoco olvida. Cuando el 24 de junio dos sismos consecutivos de magnitud 7.2 y 7.5 fracturaron la costa norte de Venezuela con apenas 39 segundos de diferencia, el país entero pareció descubrir de golpe que vivía sobre una trampa geológica. Cuarenta y siete días después, el 10 de agosto, Colom.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [],

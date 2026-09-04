@@ -3,10 +3,22 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Por qué Estados Unidos e Irán siguen escalando el conflicto
+
+Al amparo de la oscuridad, miembros de la Guardia Revolucionaria iraní preparaban dos lanzacohetes para disparar minas marinas desde la pequeña isla de Larak hacia el estrecho de Ormuz. Seguir leyendo.
+
+Date: 2026-09-04
+
+### Netanyahu reitera la intención de «derrocar» al «régimen» de Irán: No es una tarea «imposible»
+
+Israel «está convencido» de que pueden eliminar «de una vez por todas» la amenaza que supone el Gobierno de Teherán.
+
+Date: 2026-09-03
 
 ### El petróleo se relaja y las Bolsas recuperan el aliento
 
@@ -56,18 +68,6 @@ Geopolítica, inflación y bancos centrales dominan la actualidad de los mercado
 
 Date: 2026-09-01
 
-### Irán ataca bases estadounidenses en Bahréin tras golpear por segunda vez las de Jordania en menos de 48 horas
-
-La Guardia Revolucionaria aseguró haber destruido una infraestructura Leer.
-
-Date: 2026-09-01
-
-### Irán ataca contra objetivos de EEUU como respuesta por los recientes bombardeos
-
-La Guardia Revolucionaria asegura que ha derribado «el 50.º dron avanzado MQ-9 del Ejército estadounidense invasor».
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [Por qué Estados Unidos e Irán siguen escalando el conflicto](https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html?utm_source=lootura.com) — 2026-09-04T14:34:52.000Z

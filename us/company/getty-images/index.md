@@ -3,10 +3,22 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-04T15:44:50.549Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### AI Will Transform Work, But It Can't Replace Relationships
+
+—Monty Rakusen—Getty Images AI is everywhere. It's reshaping industries, accelerating innovation, and changing how millions of people work. And while AI will transform work, it is crystal clear to me that AI can not replace relationships. Working in real estate has taught me this firsthand. Great real estate agents are.
+
+Date: 2026-09-04
+
+### Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo
+
+Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years. (Image credit: Paul Morigi/Getty Images).
+
+Date: 2026-09-03
 
 ### How will tariffs affect the midterms? In this Michigan border town, it's complicated
 
@@ -55,18 +67,6 @@ Date: 2026-08-07
 Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
 
 Date: 2026-08-06
-
-### What to Know About the ‘Flesh-Eating’ Bacteria That Killed Someone in Florida
-
-A scanning electron micrograph (SEM) of the "flesh-eating" bacteria Vibrio vulnificus. —Getty Images/Callista Images A Florida resident has died from an infection of Vibrio vulnificus , a type of “ flesh-eating ” bacteria that thrives in warm coastal waters. It is the first reported death linked to the bacteria this ye.
-
-Date: 2026-08-05
-
-### What to Say to Someone Who Is Dying, According to Hospice Workers
-
-—Photo-Illustration by TIME (Source Image: Peter Dazeley—Getty Images) Sydney Mishkin’s father had Stage IV sarcoma for seven years. In the weeks before he died, she kept trying to figure out what she still hadn’t told him. She searched through their old texts and listened to his voicemails. At night, she lay awake rev.
-
-Date: 2026-08-05
 
 ## Sources
 

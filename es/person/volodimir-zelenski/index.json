@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.json",
   "description": "Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T06:28:35.711Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -20,6 +20,11 @@
     "Zelenski"
   ],
   "changes": [
+    {
+      "title": "Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana",
+      "summary": "Un dron ruso impactó contra la sede del Servicio de Seguridad de Ucrania (SBU) en Kiev, según declaró el viernes el presidente ucraniano, Volodímir Zelenski , mientras un reportero de la AFP observaba ambulancias estacionadas cerca del lugar.Una imagen publicada por el medio de comunicación Ukrainska Pravda mostraba lo.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna",
       "summary": "Buscando un equilibrio que calme las calles y no le cueste más capital político, Volodimir Zelenski destituyó el martes por la noche al comandante en jefe de las Fuerzas Armadas...",
@@ -56,6 +61,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana",
+      "url": "https://www.abc.es/internacional/dron-ruso-golpea-sede-agencia-inteligencia-ucraniana-20260904160923-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:01:44.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

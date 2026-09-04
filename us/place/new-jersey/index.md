@@ -3,7 +3,7 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-03T22:19:56.767Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [See USS Abraham Lincoln Sailor Reunite With Family](https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com) — 2026-09-03T12:01:19.000Z
-- [New Jersey asks Supreme Court to resolve fight over Kalshi's future](https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com) — 2026-09-02T18:17:19.000Z
+No public source links.

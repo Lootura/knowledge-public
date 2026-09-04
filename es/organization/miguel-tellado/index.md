@@ -3,10 +3,22 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez
+
+El secretario general del PP , Miguel Tellado , ha asegurado que las concentraciones celebradas en apoyo al pueblo ceutí son «un anticipo» de lo que le espera al presidente del Gobierno, Pedro Sánchez , del que no duda que «pagará ante la justicia y en las urnas» su «negligencia», causante a su juicio de la «invasión».
+
+Date: 2026-09-04
+
+### Tellado llama «cínica» a Robles y recuerda su «responsabilidad» en la crisis de Ceuta
+
+El secretario general del PP, Miguel Tellado , ha calificado de «cínica» a la ministra de Defensa, Margarita Robles , a quien considera « una jueza que se traicionó a sí misma », por seguir en el Gobierno de Pedro Sánchez , y ha recordado también su «responsabilidad» en la gestión de la crisis de Ceuta. Si Margarita Ro.
+
+Date: 2026-09-04
 
 ### El PP acusa a Sánchez de tener una estrategia para "atacar" a Felipe VI y "no enfadar" a Marruecos
 
@@ -56,18 +68,6 @@ Miguel Tellado first entered the public knowledge record with source-backed evid
 
 Date: 2026-08-02
 
-### Tellado acusa a Sánchez de dejar Ceuta «desprotegida» y niega la vuelta a la normalidad
-
-El secretario general del PP , Miguel Tellado , ha asegurado este domingo que Ceuta «no ha regresado a la normalidad» tras la entrada masiva de inmigrantes registrada este jueves y ha acusado al Gobierno de Pedro Sánchez de haber dejado a la ciudad «desprotegida» , al sostener que conocía con antelación la situación y.
-
-Date: 2026-08-02
-
-### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
-
-El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez](https://theobjective.com/espana/politica/2026-09-04/tellado-concentraciones-ceuta-anticipo-espera-sanchez/?utm_source=lootura.com) — 2026-09-04T15:17:32.000Z

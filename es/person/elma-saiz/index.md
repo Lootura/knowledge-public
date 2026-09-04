@@ -3,10 +3,16 @@
 > Sigue la actividad de Elma Sáiz Delgado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-03T22:19:40.296Z
 - Canonical: https://atlas.lootura.com/es/person/elma-saiz
 
 ## Cambios recientes
+
+### Los ceutíes se echan a la calle para exigir la salida de la ONG del edificio cedido por el Gobierno y destapado por OKDIARIO: "¡Fuera, sinvergüenzas!"
+
+Decenas de vecinos de Ceuta se han concentrado esta tarde de jueves frente a la Casa del Mar, el edificio público del Instituto Social de la Marina que el Ministerio de Elma Saiz cedió a la ONG Accem, tal y como reveló OKDIARIO. Envueltos en banderas de España y de la ciudad autónoma, los manifestantes ... Continuar le.
+
+Date: 2026-09-03
 
 ### Moncloa niega críticas de Sánchez al Rey: "No fue ningún reproche"
 

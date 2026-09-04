@@ -40,4 +40,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Esta es la escena más importante de ‘The Mandalorian and Grogu’ según su director (no es la que esperas)](https://hipertextual.com/cine-television/esta-es-la-escena-mas-importante-de-the-mandalorian-and-grogu-segun-su-director-no-es-la-que-esperas/?utm_source=lootura.com) — 2026-09-03T14:00:51.000Z
+No public source links.

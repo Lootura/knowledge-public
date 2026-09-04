@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales
+
+Alberto Núñez Feijóo no oculta que uno de sus objetivos es implicar al poder judicial en el futuro de Pedro Sánchez usando la crisis de Ceuta y la relación con Marruecos como argumento para denunciarle.
+
+Date: 2026-09-04
+
+### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
+
+Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
+
+Date: 2026-09-04
 
 ### Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"
 
@@ -56,19 +68,6 @@ El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras e
 
 Date: 2026-09-02
 
-### Feijóo acusa a Marruecos del "ataque" a la frontera de Ceuta y pide al Gobierno que tome "medidas" contra ese país
-
-El líder del PP pide llamar a consultas al embajador español para determinar las respuestas contra Rabat mientras reclama la convocatoria de elecciones generales y "darle al pueblo voz" El CENIF, la unidad del informe de Ceuta sin agentes sobre el terreno y que dirige un antiguo asesor del jefe de la brigada política d.
-
-Date: 2026-09-02
-
-### Feijóo acusa a Marruecos del salto a Ceuta y exige a Sánchez que convoque a la embajadora
-
-Alberto Núñez Feijóo ha pedido medidas inmediatas a Pedro Sánchez tras conocerse el informe elaborado por la Policía Nacional que, según El Español , apuntaría a Marruecos como responsable de la entrada masiva de más de 70.000 inmigrantes a Ceuta a finales de julio. En este sentido, el líder del PP, quien ha señalado q.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"](https://amp.elmundo.es/espana/2026/09/03/6a9936ff21efa0b9268b4576.html?utm_source=lootura.com) — 2026-09-03T08:59:54.000Z
-- [Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”](https://elpais.com/espana/2026-09-03/feijoo-acusa-a-sanchez-de-estar-chantajeado-por-marruecos-y-le-avisa-pagara-ante-la-justicia.html?utm_source=lootura.com) — 2026-09-03T12:56:01.000Z
+- [El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales](https://elpais.com/videos/2026-09-04/el-pleno-en-el-que-se-hablo-de-cambiar-la-relacion-con-marruecos-y-llevar-a-pedro-sanchez-ante-los-tribunales.html?utm_source=lootura.com) — 2026-09-04T03:30:01.000Z

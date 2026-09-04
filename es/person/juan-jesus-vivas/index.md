@@ -3,10 +3,34 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta
+
+El presidente ceutí, Juan Jesús Vivas (PP), ha asegurado este viernes que el "trauma" que está pasando Ceuta , con la entrada de "cerca de 80.000 personas" por la frontera a finales de julio, "pocas ciudades son capaces de afrontarlo". Así lo ha manifestado durante una recepción en el Palacio Autonómico al presidente d.
+
+Date: 2026-09-04
+
+### Luis de la Fuente se vuelca con Ceuta: "Os habéis convertido en mis ídolos"
+
+Luis de la Fuente ha sido recibido en Ceuta por el presidente Juan Jesús Vivas en plena crisis migratoria. El técnico de la selección española de fútbol ha comparecido ante los medios en una rueda de prensa y ha asegurado que está muy "emocionado, orgulloso y agradecido" por acudir a la ciudad en uno de sus momentos má.
+
+Date: 2026-09-04
+
+### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
+
+Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
+
+Date: 2026-09-04
+
+### Juan Jesús Vivas, presidente de Ceuta: "Si Ceuta sale perdiendo, si Ceuta naufraga, naufraga toda España"
+
+La crisis migratoria de Ceuta ha llegado al Congreso de los Diputados, donde Pedro Sánchez defendió la respuesta del Gobierno ante los acontecimientos iniciados el 30 de julio. Su intervención provocó una dura reacción del presidente de la ciudad autónoma, Juan Jesús Vivas . El dirigente ceutí rechazó las explicaciones.
+
+Date: 2026-09-04
 
 ### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
 
@@ -44,30 +68,7 @@ El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en l
 
 Date: 2026-08-13
 
-### Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales
-
-El ministro del Interior, Fernando Grande-Marlaska , ha sido recibido este jueves entre abucheos en su visita a Ceuta para mantener una reunión con el delegado del Gobierno, Miguel Ángel Pérez. Marlaska también se verá por la tarde con el presidente de la ciudad autónoma, Juan Jesús Vivas. El ministro ha entrado en la.
-
-Date: 2026-08-13
-
-### "Tengo mucho miedo": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta
-
-La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...
-
-Date: 2026-08-12
-
-### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
-
-“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
-
-Date: 2026-08-11
-
-### El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta](https://www.20minutos.es/ceuta/vivas-asegura-que-pocas-ciudades-son-capaces-afrontar-trauma-que-sufre-ceuta_7033083_0.html?utm_source=lootura.com) — 2026-09-04T17:35:33.000Z
+- [Luis de la Fuente se vuelca con Ceuta: "Os habéis convertido en mis ídolos"](https://www.20minutos.es/deportes/futbol/luis-fuente-se-vuelca-con-ceuta-plena-crisis-migratoria-estamos-muy-unidos-con-vosotros-os-habeis-convertido-mis-idolos_7033031_0.html?utm_source=lootura.com) — 2026-09-04T15:08:58.000Z

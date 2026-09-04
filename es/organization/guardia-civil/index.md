@@ -3,10 +3,58 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
+
+El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel de la Guardia Civil pero seguirá en su puesto en la Unidad Central Operativa (UCO) en comisión de servicio hasta que acabe las «causas que lo motivan», según una publicación del Boletín Oficial del Ministerio de Defensa al que ha tenido acce.
+
+Date: 2026-09-04
+
+### El informe de la Guardia Civil trasladado a la juez incluye avisos anteriores a la invasión de Ceuta
+
+La Guardia Civil ha remitido un informe a la juez María Tardón donde se incluyen avisos "por los canales y en los foros habituales relativa a la presión migratoria sobre la frontera" de Ceuta, según confirman fuentes de la investigación a ABC. El escueto documento de apenas cinco páginas evita señalar los posibles orga.
+
+Date: 2026-09-04
+
+### El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones
+
+El juez de la Audiencia Nacional que investiga el ‘caso Koldo’ , Ismael Moreno , ha pedido a la Unidad Central Operativa (UCO) de la Guardia Civil que informe «sobre el estado y custodia» de un teléfono intervenido a Joseba García, hermano del exasesor ministerial Koldo García. El magistrado ha accedido así a la petici.
+
+Date: 2026-09-04
+
+### Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’
+
+La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.
+
+Date: 2026-09-04
+
+### El informe de la Guardia Civil trasladado a la juez incluye avisos del CNI de la invasión
+
+La Guardia Civil ha remitido un informe a la juez María Tardón donde se incluyen avisos del Centro Nacional de Inteligencia (CNI) sobre la invasión a Ceuta, según confirman fuentes de la investigación a ABC. El escueto documento de apenas cinco páginas evita señalar los posibles organizadores del asalto y tampoco hay r.
+
+Date: 2026-09-04
+
+### Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del caso Koldo
+
+El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel de Antonio Balas , que seguirá al frente del departamento de anticorrupción de la Unidad Central Operativa (UCO) de la Guardia Civil en comisión de servicio, como había solicitado el juez de la Audiencia Nacional Ismael Moreno. La orden, fir.
+
+Date: 2026-09-04
+
+### Margarita Robles firma el ascenso de Balas a coronel y su permanencia en la UCO hasta que finalice el caso Cerdán
+
+El reglamento de la Guardia Civil implica que el ascenso de Antonio Balas conlleve un cambio de destino pero el juez y el fiscal solicitaron que siga al frente de la investigación abierta El Congreso se convierte en territorio hostil para Sánchez La ministra de Defensa, Margarita Robles, firmó el pasado 1 de septiembre.
+
+Date: 2026-09-04
+
+### EM&E mantendrá el sistema de vigilancia de costas por 62 millones
+
+Escribano Mechanical & Engineering (EM&E) se encargará del mantenimiento integral de los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE), es decir, de la red tecnológica con la que la Guardia Civil se encarga de la vigilancia de las costas españolas. Seguir leyendo.
+
+Date: 2026-09-03
 
 ### Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora
 
@@ -20,54 +68,8 @@ La investigación judicial sobre el grave accidente ferroviario ocurrido el pasa
 
 Date: 2026-09-02
 
-### Heridos tres agentes de la Guardia Civil tras ser embestidos por una narcolancha en Murcia
-
-Tres guardias civiles han resultado heridos este miércoles al ser embestida su patrullera por una narcolancha que ha sido interceptada en Cabo Cope , en el término municipal de Águilas, y cuyos dos ocupantes han sido detenidos. Según ha informado la Asociación Unificada de Guardias Civiles (AUGC), los hechos se han pro.
-
-Date: 2026-09-02
-
-### Heridos 3 guardias civiles embestidos por una planeadora de las mafias de la inmigración en Águilas
-
-Tres agentes de la Guardia Civil han resultado heridos este miércoles al interceptar una embarcación de gran potencia que transportaba una veintena de garrafas de gasolina, presuntamente destinadas al traslado de inmigrantes y al reabastecimiento de combustible de otras pateras taxi (práctica conocida como petaqueo ),.
-
-Date: 2026-09-02
-
-### La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla
-
-La patrullera 'Río Guadiana' de la Guardia Civil trasladó este pasado lunes al puerto de Melilla a 17 personas de origen subsahariano que se encontraban en las islas Chafarinas, según ha informado este miércoles la Delegación del Gobierno. El traslado desde estas islas de soberanía española situadas a 1,9 millas náutic.
-
-Date: 2026-09-02
-
-### El Gobierno ve delito en los disparos a la orca 'Toñi' y traslada la investigación a la Fiscalía y la Guardia Civil
-
-El Ministerio para la Transición Ecológica (Miteco) ha remitido a la Fiscalía de Medio Ambiente un oficio con información sobre las actuaciones previas abiertas por un posible delito contra especies de fauna protegida , tras el disparo sufrido por Toñi , la orca (Orcinus orca) de mayor edad de la población del Estrecho.
-
-Date: 2026-09-02
-
-### Entre yates, lujo y glamour en Puerto Portals: un cocinero persigue a un camarero para pegarle y tiene que actuar la Guardia Civil
-
-Pesadilla en la cocina en toda regla. Una fuerte discusión entre un cocinero y un camarero en una exclusiva cafetería de Puerto Portals terminó con momentos de tensión, una persecución por el interior del establecimiento y la intervención de la Guardia Civil . El camarero habría asegurado que recibió amenazas de muerte.
-
-Date: 2026-09-02
-
-### Salvamento Marítimo y la Guardia Civil rescatan a 24 inmigrantes en una patera en Cabrera
-
-Salvamento Marítimo y la Guardia Civil han rescatado esta madrugada a 24 inmigrantes de origen subsahariano en una patera en la zona de las islas Bledes, en el parque nacional de Cabrera. La intervención ha sido a las 4.23 horas y han participado Salvamento Marítimo, el servicio Marítimo Provincial destacado en Cabrera.
-
-Date: 2026-09-01
-
-### Detenido por quemar las casas de dos hombres que robaron en la suya en Toledo
-
-Un hombre ha sido detenido y ha ingresado en prisión por q uemar las casas de otros dos que previamente habían robado en su domicilio , a punta de pistola, y que también han sido detenidos. Según ha informado la Guardia Civil , los tres han sido detenidos en la provincia de Toledo como responsables de un total de once.
-
-Date: 2026-09-01
-
-### Ingresa en la prisión de Zuera el presunto autor del incendio de Las Peñas de Riglos
-
-El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de prensa, la Benemérita ha señalado que la UPRONA de la Guardia.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
+- [El informe de la Guardia Civil trasladado a la juez incluye avisos anteriores a la invasión de Ceuta](https://www.abc.es/espana/informe-guardia-civil-trasladado-juez-incluye-avisos-20260904140440-nt.html?utm_source=lootura.com) — 2026-09-04T17:53:03.000Z
+- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z

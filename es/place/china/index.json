@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,11 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "El pulso entre China y EEUU se traslada a Oriente Próximo",
+      "summary": "El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el \"fortalecimiento del diálogo\" Leer.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
       "summary": "La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.",
@@ -71,11 +76,6 @@
       "title": "La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz",
       "summary": "Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5",
-      "summary": "Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en China, han desarrollado un avanzado sistema de navegación basado en las estrellas diseñado para guiar misiles hipersónicos cuando las señales de satélite se ven comprometidas o inutilizadas. Esto aborda uno de los puntos más vulnerables: la de.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [],

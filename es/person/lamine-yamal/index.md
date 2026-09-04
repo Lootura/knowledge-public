@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche
+
+Lamine Yamal e Inés García han disfrutado de un viaje exprés a París . La pareja ha pasado apenas 24 horas en la capital francesa, pero el poco tiempo del que disponían (ligado siempre a la ajetreada agenda profesional del futbolista) lo han sabido exprimir al máximo. Eso sí, lo han hecho rodeados de todo tipo de lujos.
+
+Date: 2026-09-04
 
 ### Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid
 
@@ -62,12 +68,6 @@ Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi vei
 
 Date: 2026-07-18
 
-### La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses
-
-Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche](https://okdiario.com/cool/famosos/lamine-yamal-ines-garcia-disfrutan-24-horas-lujo-paris-jet-privado-hotel-4-000-euros-noche-20228194?utm_source=lootura.com) — 2026-09-04T15:00:56.000Z

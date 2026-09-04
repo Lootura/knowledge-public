@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Couple arrested after 5-year-old nonverbal daughter is found dead in South Carolina waters](https://www.nbcnews.com/news/us-news/virginia-couple-arrested-daughter-found-dead-south-carolina-rcna595786?utm_source=lootura.com) — 2026-09-03T03:40:01.000Z
+No public source links.

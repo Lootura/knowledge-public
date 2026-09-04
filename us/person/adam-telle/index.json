@@ -1,0 +1,46 @@
+{
+  "id": "usa-adam-telle",
+  "name": "Adam Telle",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/adam-telle",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/adam-telle",
+  "markdownUrl": "https://atlas.lootura.com/us/person/adam-telle/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/adam-telle/index.json",
+  "description": "Follow Adam Telle, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "aliases": [
+    "Telle"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Adam Telle first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Who Is Adam Telle, Trump’s New Acting Army Secretary?",
+      "summary": "Adam Telle, assistant secretary of the Army nominee for President Donald Trump, during a Senate Armed Services Committee confirmation hearing in Washington, D.C., on May 13, 2025. —Kent Nishimura—Bloomberg/Getty Images President Donald Trump announced on Thursday that Adam Telle, the Assistant Secretary of the Army for.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump names new acting Army secretary after Driscoll resigns",
+      "summary": "President Trump has named Adam Telle as the acting Army secretary, following the departure of Dan Driscoll amid widespread reports of tensions with Defense Secretary Pete Hegseth.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump Makes Surprising Pick to Lead Army After Secretary Resigns",
+      "summary": "President Donald Trump on Thursday named Adam Telle, a civilian leader in the U.S. Army Corps of Engineers, as the acting Army secretary following the departure of Dan Driscoll amid widespread reports of tensions with Defense Secretary Pete Hegseth. The move is surprising because it bypasses the Army’s second most seni.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Who Is Adam Telle, Trump’s New Acting Army Secretary?",
+      "url": "https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:44:05.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 1
+}

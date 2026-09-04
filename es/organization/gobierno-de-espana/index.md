@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-04T15:44:32.845Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El “momento Ceuta” y la trampa que Europa se tendió a sí misma
+
+No se puede entender el asalto masivo e inesperado de personas inmigrantes en el territorio de Ceuta únicamente a través del cristal de probables manipulaciones indirectas de terceros países para desestabilizar al Gobierno español. Y el significado de fondo del momento Ceuta no se agota en un simple juego geopolítico y.
+
+Date: 2026-09-04
 
 ### Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”
 
@@ -61,12 +67,6 @@ Date: 2026-08-13
 En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
 
 Date: 2026-08-12
-
-### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
-
-En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
-
-Date: 2026-08-11
 
 ## Fuentes
 

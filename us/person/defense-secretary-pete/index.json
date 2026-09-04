@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/defense-secretary-pete/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/defense-secretary-pete/index.json",
   "description": "Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T15:44:50.549Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list",
-      "summary": "Defense Secretary Pete Hegseth has told people close to him that Sean Parnell would be his top choice for secretary of the Army, several senior officials told CBS News.",
+      "title": "Trump names new acting Army secretary after Driscoll resigns",
+      "summary": "President Trump has named Adam Telle as the acting Army secretary, following the departure of Dan Driscoll amid widespread reports of tensions with Defense Secretary Pete Hegseth.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump Taps Army Engineering Official as Acting Secretary",
+      "summary": "The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "New testosterone guidelines temporarily rescinded, Pentagon says",
+      "summary": "The Pentagon will begin requiring male service members ages 30 and older to get screened for testosterone deficiency, after Defense Secretary Pete Hegseth called for the change over the summer.",
       "date": "2026-09-03"
     },
     {
@@ -50,31 +60,8 @@
       "title": "'He's Doing a Fantastic Job': Trump Responds to Talk of Hegseth Running for President in 2028",
       "summary": "President Donald Trump alongside Defense Secretary Pete Hegseth during a meeting at Camp David on July 31, 2026. —Aaron Schwartz—Getty Images President Donald Trump has responded to talk that his Defense Secretary Pete Hegseth is considering a presidential run in 2028. “I think he's doing a fantastic job, but it's very.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Army secretary leaves after clashes with Hegseth",
-      "summary": "The Army secretary’s departure will help Defense Secretary Pete Hegseth consolidate power at the Pentagon Army Secretary Dan Driscoll, a close ally of Vice President JD Vance, resigned after mounting tensions with Hegseth, leaving the post without a Senate-confirmed leader. He had been expected to leave by the end of t.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions",
-      "summary": "Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list",
-      "url": "https://www.cbsnews.com/news/hegseth-favors-sean-parnell-army-secretary-sources/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:41:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Pete Hegseth Faces Growing Criticism as War With Iran Rolls On",
-      "url": "https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T11:30:42.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

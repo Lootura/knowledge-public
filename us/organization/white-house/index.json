@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T15:44:50.549Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,31 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "JD Vance Says Monthslong Iran War is Not a 'War'",
+      "summary": "During a White House press briefing on Thursday, Vice President JD Vance said the monthslong conflict with Iran is not a war. “I wouldn’t call it a war right now. There’s no active shooting,” he said, adding he won’t “make a promise” about when gas prices will go down. NBC’s Garrett Haake reports for TODAY.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Vance on Dan Driscoll's resignation as Army secretary, other high-profile military departures",
+      "summary": "Vice President JD Vance on Thursday held the first briefing at the White House since Karoline Leavitt left as press secretary, where CBS News senior White House correspondent Weijia Jiang asked him about the departure of the now-former Army Secretary Dan Driscoll. Jiang joins \"The Takeout\" with more.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Proposal for White House Visitor Screening Center Advances",
+      "summary": "A federal panel again paved the way for one of President Trump’s construction projects, even as it heard opposition to another proposal to fence in a park north of the White House.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
+      "summary": "In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Trump appointees advance plans for Lafayette Square fencing and White House gates",
+      "summary": "Pieces of President Donald Trump's wide-ranging Washington makeover made their next step toward approval Thursday, but not without substantial critiques of plans for permanent fencing and gates around Lafayette Square in front of the White House.",
+      "date": "2026-09-03"
+    },
     {
       "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
       "summary": "A White House spokesman said the alley renovations included fixing broken lights. The project comes as the president has sought a broad overhaul of the White House and its surroundings.",
@@ -42,40 +67,8 @@
       "title": "Progressive Senate candidates rack up primary wins even as they get outspent",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
-      "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Why did Army Secretary Dan Driscoll resign?",
-      "summary": "The White House has confirmed that Army Secretary Dan Driscoll is resigning. The move comes after months of friction between him and Defense Secretary Pete Hegseth. Marine veteran and former CIA officer Elliot Ackerman joins with analysis.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Army Secretary Dan Driscoll resigning after friction with Hegseth",
-      "summary": "Army Secretary Dan Driscoll is resigning, the White House confirmed.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "U.S.-Venezuela oil deal will rely on North American Blue Energy Partners",
-      "summary": "The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign",
-      "summary": "Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T01:08:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie
+
+El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.
+
+Date: 2026-09-04
 
 ### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
 
@@ -62,12 +68,6 @@ Londres está considerada como la capital europea con el mayor volumen de espaci
 
 Date: 2026-08-07
 
-### "He estado 10 años trabajando aquí y no he ganado ni 2.000 euros": la crítica de un español sobre la diferencia salarial entre España e Inglaterra
-
-El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un vídeo que su primer sueldo en Reino Unido fue de 1.800 libras (unos 2.000 euros al cambio actual) en un puesto donde apenas hablaba el idioma y no contaba con experiencia en el sector.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial](https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com) — 2026-09-03T10:09:38.000Z
+No public source links.

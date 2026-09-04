@@ -1,0 +1,32 @@
+{
+  "id": "usa-lori-chavez",
+  "name": "Lori Chavez",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/lori-chavez",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/lori-chavez",
+  "markdownUrl": "https://atlas.lootura.com/us/person/lori-chavez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/lori-chavez/index.json",
+  "description": "Follow Lori Chavez, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-04T15:44:50.549Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Former labor secretary created ‘toxic’ atmosphere, drank at work and misused funds, report says",
+      "summary": "Former Labor Secretary Lori Chavez-DeRemer violated multiple department policies during her tenure, including creating a hostile work environment, using government funds for personal travel and having an inappropriate relationship with an employee, according to a department watchdog.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
+      "summary": "Lori Chavez-DeRemer spent Labor Department funds on personal travel and tolerated harassment in the agency, its inspector general found.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Lori Chavez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

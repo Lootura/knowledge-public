@@ -3,10 +3,22 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Asturias y Castilla-La Mancha confirman la brecha en el PSOE por la financiación autonómica y no apoyarán la propuesta
+
+Los gobiernos socialistas de Asturias y Castilla-La Mancha votarán este viernes en contra de llevar al Parlamento la propuesta de reforma de la financiación autonómica planteada por el Gobierno central, según han confirmado a ABC este mismo viernes fuentes de ambos ejecutivos autonómicos. Mantienen los argumentos que f.
+
+Date: 2026-09-04
+
+### 3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas
+
+Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.
+
+Date: 2026-09-04
 
 ### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
 
@@ -56,18 +68,6 @@ El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servi
 
 Date: 2026-08-06
 
-### Extinguido el incendio forestal de Almorox (Toledo) declarado el 22 de julio
-
-El Servicio de Prevención y Extinción de Incendios Forestales de Castilla-La Mancha ( Infocam ) ha declarado extinguido el incendio de Almorox (Toledo) , iniciado el pasado 22 de julio. De acuerdo con el Sistema de Información de Incendios Forestales ( Fidias ) de la Consejería de Desarrollo Sostenible de la Junta de C.
-
-Date: 2026-08-06
-
-### Telefónica entra en la seguridad ciudadana rural en España
-
-Telefónica entra en el negocio de la seguridad ciudadana rural con un contrato en Guadalajara . La compañía se ha adjudicado una licitación de la Diputación de Guadalajara (Castilla-La Mancha) para desplegar una red de videovigilancia ciudadana en poblaciones rurales . La operadora está trabajando, a través del área de.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)](https://www.elconfidencial.com/espana/2026-09-03/hombre-fallece-piscina-illana-guadalajara-1tps_4417353/?utm_source=lootura.com) — 2026-09-03T14:47:00.000Z
+No public source links.

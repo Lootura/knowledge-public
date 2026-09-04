@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-04T08:35:00.530Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill
+
+Women in politics and pop culture are paying tribute to Gloria Steinem after her death at 92. Many called her not only an inspiration but a friend. (Image credit: Monica Schipper).
+
+Date: 2026-09-03
 
 ### Progressive Senate candidates rack up primary wins even as they get outspent
 
@@ -61,12 +67,6 @@ Date: 2026-07-21
 Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-07-20
-
-### Funding milestone detected
-
-Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.
-
-Date: 2026-07-14
 
 ## Sources
 

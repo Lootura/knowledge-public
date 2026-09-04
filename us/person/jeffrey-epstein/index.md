@@ -52,5 +52,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [Leon Black defies House subpoena, sues committee over Epstein probe](https://www.cbsnews.com/news/leon-black-jeffrey-epstein-lawsuit-house-oversight-committee/?utm_source=lootura.com) — 2026-09-03T15:05:43.000Z
-- [Billionaire Leon Black skips Epstein deposition and sues House committee over subpoenas](https://www.pbs.org/newshour/politics/billionaire-leon-black-skips-epstein-deposition-and-sues-house-committee-over-subpoenas?utm_source=lootura.com) — 2026-09-03T15:04:26.000Z
+No public source links.

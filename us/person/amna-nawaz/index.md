@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-04T08:35:00.530Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Steinem stayed true to herself despite intense pressure, Julie Taymor says
+
+To discuss the life and legacy of Gloria Steinem, Amna Nawaz spoke with Julie Taymor. She's the director of the 2020 film "The Glorias," a biopic that spans eight decades of Steinem's life.
+
+Date: 2026-09-03
 
 ### Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots
 
@@ -59,12 +65,6 @@ Date: 2026-07-24
 ### Discovered by Atlas
 
 Amna Nawaz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
-
-### Iran war hurting U.S. allies in region, former Jordanian foreign minister says
-
-For perspective on the latest developments in the Iran war and the regional ramifications, Amna Nawaz spoke with Marwan Muasher. He's the vice president for studies at the Carnegie Endowment for International Peace and the former deputy prime minister and foreign minister of Jordan.
 
 Date: 2026-07-20
 

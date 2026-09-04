@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Mónica García se apaga entre la huelga de médicos y el caos en la única sanidad que gestiona
+
+Mónica García , que siempre ha hecho gala de se r "médica y madre", es cada vez más cuestionada entre sus compañeros de profesión. La ministra de Sanidad, anestesista de formación, ha pasado de ser el altavoz de los intereses de sus colegas sanitarios contra Isabel Díaz Ayuso a enfrentarse a sus compañeros del sector m.
+
+Date: 2026-09-04
 
 ### Ayuso llama a filas a su Gobierno para preparar el año electoral mientras escala la crisis del ático
 
@@ -59,12 +65,6 @@ Date: 2026-08-13
 ### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
 
 Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
-
-Date: 2026-08-10
-
-### Un juzgado de Madrid estudia cinco denuncias por el ático que compró el Gobierno de Ayuso
-
-El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el ático que compró el Gobierno de Isabel Díaz Ayuso por 6,3 millones de euros. La juez Rosario de Fátima Espinosa, que abrió un procedimiento tras un escrito de Iustitia Europa , ha recibido este lunes otras cuatro denuncias de la Fiscalía Pro.
 
 Date: 2026-08-10
 

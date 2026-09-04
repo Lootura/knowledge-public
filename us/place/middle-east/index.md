@@ -70,4 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [Pete Hegseth Faces Growing Criticism as War With Iran Rolls On](https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com) — 2026-09-03T11:30:42.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-03T22:19:56.767Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-08-14
 
 ## Sources
 
-- [Mother of USS Abraham Lincoln sailor "so relieved" son has arrived in Thailand](https://www.cbsnews.com/news/uss-abraham-lincoln-mother-navy-thailand-iran-war/?utm_source=lootura.com) — 2026-09-03T15:02:52.000Z
-- [See USS Abraham Lincoln Sailor Reunite With Family](https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com) — 2026-09-03T12:01:19.000Z
+No public source links.

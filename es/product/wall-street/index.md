@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas
+
+La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de las grandes cotizadas galas —el Cac 40— se ha estancado en el último semestre, mientras que el Ibex 35 ha avanzado un 11% y Wall Street ha subido un 12%, en el mismo periodo. Los inversores recelan de la complicada situación política y del ele.
+
+Date: 2026-09-04
 
 ### La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street
 
@@ -61,12 +67,6 @@ Date: 2026-08-08
 El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos histórico.
 
 Date: 2026-08-07
-
-### Más allá de Leopold Aschenbrenner: el desplome de la IA arrasa a los fondos estrella de Wall Street
-
-La IA y su tirón en Bolsa se lo han dado todo a una generación de inversores profesionales especializados en tecnología, con ganancias de miles de millones de dólares en apenas tres años. Pero las caídas bursátiles de las grandes tecnológicas y de los fabricantes de chips en el último mes, motivadas por la desconfianza.
-
-Date: 2026-08-06
 
 ## Fuentes
 

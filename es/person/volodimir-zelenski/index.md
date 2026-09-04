@@ -3,10 +3,16 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-23T06:28:35.711Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana
+
+Un dron ruso impactó contra la sede del Servicio de Seguridad de Ucrania (SBU) en Kiev, según declaró el viernes el presidente ucraniano, Volodímir Zelenski , mientras un reportero de la AFP observaba ambulancias estacionadas cerca del lugar.Una imagen publicada por el medio de comunicación Ukrainska Pravda mostraba lo.
+
+Date: 2026-09-04
 
 ### Del heroísmo a los algoritmos: Zelenski sustituye al veterano jefe del ejército por un reformista para intentar cerrar su mayor crisis interna
 
@@ -52,4 +58,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana](https://www.abc.es/internacional/dron-ruso-golpea-sede-agencia-inteligencia-ucraniana-20260904160923-nt.html?utm_source=lootura.com) — 2026-09-04T15:01:44.000Z

@@ -46,8 +46,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza](https://www.20minutos.es/nacional/marlaska-denuncia-ante-cgpj-que-se-le-impidiera-acceder-informe-sobre-ceuta-consejo-defiende-jueza-que-ordeno-veto_7032553_0.html?utm_source=lootura.com) — 2026-09-03T15:01:49.000Z
-- [Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta](https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html?utm_source=lootura.com) — 2026-09-03T15:19:12.000Z
-- [Carpetazo a la primera de las quejas contra el juez Peinado en manos del TSJ de Madrid](https://www.elconfidencial.com/espana/2026-09-03/carpetazo-a-la-primera-de-las-quejas-contra-el-juez-peinado-en-manos-del-tsj-de-madrid_4417272/?utm_source=lootura.com) — 2026-09-03T13:07:00.000Z
-- [La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón](https://www.lavanguardia.com/politica/20260903/11626523/presidenta-cgpj-advierte-marlaska-tenga-maximo-respeto-juez-tardon.html?utm_source=lootura.com) — 2026-09-03T15:12:46.000Z
-- [Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta](https://theobjective.com/espana/tribunales/2026-09-03/marlaska-investigacion-policia-ceuta/?utm_source=lootura.com) — 2026-09-03T14:48:05.000Z
+No public source links.

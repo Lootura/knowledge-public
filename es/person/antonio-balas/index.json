@@ -1,0 +1,52 @@
+{
+  "id": "es-antonio-balas",
+  "name": "Antonio Balas Dávila",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/antonio-balas",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/antonio-balas",
+  "markdownUrl": "https://atlas.lootura.com/es/person/antonio-balas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/antonio-balas/index.json",
+  "description": "Sigue la actividad de Antonio Balas Dávila en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "aliases": [
+    "Antonio Balas Dávila",
+    "Balas"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Antonio Balas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio",
+      "summary": "El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel de la Guardia Civil pero seguirá en su puesto en la Unidad Central Operativa (UCO) en comisión de servicio hasta que acabe las «causas que lo motivan», según una publicación del Boletín Oficial del Ministerio de Defensa al que ha tenido acce.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’",
+      "summary": "La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del caso Koldo",
+      "summary": "El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel de Antonio Balas , que seguirá al frente del departamento de anticorrupción de la Unidad Central Operativa (UCO) de la Guardia Civil en comisión de servicio, como había solicitado el juez de la Audiencia Nacional Ismael Moreno. La orden, fir.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Margarita Robles firma el ascenso de Balas a coronel y su permanencia en la UCO hasta que finalice el caso Cerdán",
+      "summary": "El reglamento de la Guardia Civil implica que el ascenso de Antonio Balas conlleve un cambio de destino pero el juez y el fiscal solicitaron que siga al frente de la investigación abierta El Congreso se convierte en territorio hostil para Sánchez La ministra de Defensa, Margarita Robles, firmó el pasado 1 de septiembre.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio",
+      "url": "https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T14:56:51.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -3,10 +3,28 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### Deportar inmigrantes o levantar un muro en la frontera: así son los polémicos videojuegos creados por Trump
+
+La Casa Blanca lanzó este jueves ' Arcade ', una página web que contiene cinco videojuegos con estétitca retro y que representan las políticas de Donald Trump. En ellos, los jugadores pueden desde levantar un muro fronterizo hasta interceptar a inmigrantes que buscan entre suelo estadounidense.El más llamativo de ellos.
+
+Date: 2026-09-04
 
 ### Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto
 
@@ -50,24 +68,6 @@ Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el dep
 
 Date: 2026-08-10
 
-### Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos
-
-La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el norte de África y destacan su cooperación en materia de segu.
-
-Date: 2026-08-09
-
-### El hijo de Joe Biden revela que el cáncer de su padre se ha extendido: «Ha hecho metástasis; es muy doloroso»
-
-El político demócrata, Joe Biden, sufre un cáncer de próstata « muy doloroso » y « muy debilitante ». Fue el pasado mes de mayo de 2025 cuando el expresidente, después de dejar la Casa Blanca, anunció que había sido diagnosticado con un cáncer de próstata con metástasis ósea . Meses después, Biden comenzó a recibir rad.
-
-Date: 2026-08-08
-
-### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
-
-Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [Convertir la Casa Blanca en un "fortín": Trump puede hacer realidad el sueño del servicio secreto](https://www.larazon.es/internacional/convertir-casa-blanca-fortin-trump-puede-hacer-realidad-sueno-servicio-secreto_202609036a99925f3bfe5d1eff422434.html?utm_source=lootura.com) — 2026-09-03T15:29:38.000Z
+- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z

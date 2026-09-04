@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-esperanza/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-esperanza/index.json",
   "description": "Sigue la actividad de La Esperanza en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-03T22:19:40.296Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Esperanza first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Muere un inmigrante de 17 años diabético en un centro de acogida de Ceuta",
+      "summary": "Un joven marroquí de 17 años ha fallecido este jueves en el centro de realojo temporal La Esperanza en Ceuta, según 'El Faro de Ceuta'. El menor estaba siendo tratado por sufrir una diabetes severa y entró a España el pasado mes de julio cuando se produjo el asalto a la ciudad autónoma.El fallecido fue encontrado sin v.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Muere un migrante en un centro de menores por complicaciones asociadas a la diabetes que padecía",
+      "summary": "Un joven migrante de 17 años ha fallecido este jueves en el centro de menores La Esperanza, gestionado por el Gobierno de Ceuta. Fuentes de Sanidad confirman a EL PAÍS que el menor, que padecía diabetes tipo I, ha muerto por una hipoglucemia severa. La llamada al 112 se realizó a las 7.05 y la Unidad de Emergencia Médi.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Muere un menor inmigrante de 17 años que sufría diabetes severa en un centro de acogida",
       "summary": "Un menor marroquí de 17 años de edad ha fallecido en el centro de realojo temporal de La Esperanza, ubicado en Ceuta , según ha informado el medio local el Faro de Ceuta. El joven había llegado a la ciudad autónoma durante la entrada masiva de migrantes que se produjo a finales de julio y padecía diabetes severa , una.",
@@ -20,26 +35,8 @@
       "title": "Fallece un joven de 17 años en un centro de menores en Ceuta por complicaciones asociadas a diabetes",
       "summary": "Un joven migrante de 17 años ha fallecido este jueves en el centro de menores La Esperanza, gestionado por el Gobierno de Ceuta. Fuentes de Sanidad confirman a EL PAÍS que el menor, que padecía diabetes tipo I, ha muerto por una hipoglucemia severa. La llamada al 112 se realizó a las 7.05 y la Unidad de Emergencia Médi.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "La Esperanza first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Muere un menor inmigrante de 17 años que sufría diabetes severa en un centro de acogida",
-      "url": "https://www.20minutos.es/ceuta/muere-un-menor-inmigrante-17-anos-que-sufria-diabetes-severa-un-centro-acogida-ceuta_7032494_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T13:28:03.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Fallece un joven de 17 años en un centro de menores en Ceuta por complicaciones asociadas a diabetes",
-      "url": "https://elpais.com/espana/2026-09-03/fallece-un-joven-de-17-anos-en-un-centro-de-menores-en-ceuta-por-complicaciones-asociadas-a-diabetes.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T13:09:31.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

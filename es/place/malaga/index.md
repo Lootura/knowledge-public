@@ -3,10 +3,22 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Detienen a un hombre por agredir sexualmente a su sobrina de 9 años en Málaga
+
+Un hombre de unos 45 años ha sido detenido por la Policía Local de Málaga como autor de un delito de agresión sexual a una menor de nueve años , sobrina del detenido. Los hechos investigados habrían ocurrido en el interior de la vivienda familiar en la que convivían varios parientes, entre ellos el sospechoso y la niña.
+
+Date: 2026-09-04
+
+### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
+
+Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
+
+Date: 2026-09-04
 
 ### La Cabalgata Histórica que abre la Feria de Málaga 2026: recorrido, horario y entrega de las llaves de la ciudad
 
@@ -56,18 +68,6 @@ Un militar destinado en Melilla ha sido condenado a tres meses y un día de pris
 
 Date: 2026-08-10
 
-### Un malagueño consigue el pase de oro en America’s Got Talent con su parkour
-
-Rubén Roldán nació en El Rincón de la Victoria ( Málaga ) y a sus 23 años ya ha deslumbrado al otro lado del charco. El joven es profesional de parkour y decidió llevar su rutina al famoso programa America’s Got Talent, donde los jueces le han otorgado el pase de oro, es decir, un pase directo a la siguiente ronda. El.
-
-Date: 2026-08-10
-
-### Muere una persona atropellada por varios vehículos en la A-7 a su paso por Málaga
-
-Un peatón ha fallecido esta madrugada tras ser atropellado en la A-7 a su paso por la capital malagueña, según ha indicado el servicio de Emergencias 112 Andalucía . Hacia las 00.15 horas, varios conductores alertaron al 112 de la presencia de una persona caminando por la autovía, a la altura del kilómetro 995 en senti.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Detienen a un hombre por agredir sexualmente a su sobrina de 9 años en Málaga](https://okdiario.com/andalucia/detienen-hombre-agredir-sexualmente-sobrina-nueve-anos-malaga-20231216?utm_source=lootura.com) — 2026-09-04T14:58:10.000Z

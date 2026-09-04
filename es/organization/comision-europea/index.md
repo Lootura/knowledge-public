@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### España y Bruselas logran avances en la petición de ayuda europea para la crisis de Ceuta
+
+España y la Comisión Europea han logrado avances «importantes» en la petición de asistencia de emergencia planteada por el Gobierno para recibir apoyo financiero y operativo adicional de la UE con el que gestionar la crisis migratoria en Ceuta , según ha señalado este viernes el comisario europeo de Interior y Migració.
+
+Date: 2026-09-04
 
 ### El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros
 
@@ -59,12 +65,6 @@ Date: 2026-08-03
 ### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
 
 La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
-
-Date: 2026-08-03
-
-### Von der Leyen felicita a España y Marruecos por el «rápido» regreso de los inmigrantes de Ceuta
-
-La presidenta de la Comisión Europea, Ursula von der Leyen, ha elogiado este lunes la gestión «eficiente y eficaz» de la última crisis migratoria en Ceuta.
 
 Date: 2026-08-03
 

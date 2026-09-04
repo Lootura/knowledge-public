@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,31 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Patent-reading AI could strengthen early warning systems for hazardous chemicals",
+      "summary": "Patents are far more than legal documents protecting intellectual property. They are a vast source of scientific information about chemicals under development, often years before they appear in products or in the environment. That makes patents a valuable data source for early warning systems (EWS), which authorities u.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "AI Will Transform Work, But It Can't Replace Relationships",
+      "summary": "—Monty Rakusen—Getty Images AI is everywhere. It's reshaping industries, accelerating innovation, and changing how millions of people work. And while AI will transform work, it is crystal clear to me that AI can not replace relationships. Working in real estate has taught me this firsthand. Great real estate agents are.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game , only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything w.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "EPA proposal could leave the public in the dark on data center plans",
+      "summary": "A plan by the Environmental Protection Agency could make it harder for the public to learn about and comment on proposed AI data centers that have sparked backlash in communities across the United States and transformed the midterm election landscape.",
+      "date": "2026-09-03"
+    },
     {
       "title": "With education technology, engagement is not the same as learning",
       "summary": "A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative AI tools pose particular risks by improving students' immediate performance without building their underlying knowledge or skills.",
@@ -51,40 +76,21 @@
       "title": "AI automates the creation of custom functional materials atom by atom",
       "summary": "Imagine a construction site where the bricks are individual molecules and the \"cranes\" are microscopic needles so sharp they can feel a single atom. For decades, building at this scale was a laborious, time-consuming task where a single human error could damage the delicate tools.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare it \"against a r.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google . The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Anger over planned AI data center drives Missouri city’s voters to recall council member",
-      "summary": "Voters in Independence, Missouri, voted to recall a city council member over his decision in March to back billions of dollars in tax breaks for an AI data center.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "From Trojan horses to AI-proof exams: how professors are tackling students’ AI use",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02370-2 Academics worldwide are rethinking their assessment approaches — from developing exams that artificial-intelligence tools can’t pass to sneaking hidden AI prompts into tasks to catch cheating students.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "When AI does science, who is accountable for mistakes?",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02735-7 When AI does science, who is accountable for mistakes?",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "AI interviews rolling out for some federal government hires, sources say",
-      "url": "https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:24:23.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
+      "url": "https://www.nature.com/articles/d41586-026-02643-w?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:48:24.992Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:51:35.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

@@ -8,12 +8,47 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Record European fires burn over 500,000 hectares during summer",
+      "summary": "A record-breaking summer that saw more than 1,000 wildfires has torched some 540,000 hectares (1.3 million acres) of land across the European Union since mid-June, according to official data—an area more than twice the size of Luxembourg.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest",
+      "summary": "Plus, your Friday news quiz.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "The best tech and gadgets announced at IFA so far",
+      "summary": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smartphone that attempts.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Serbia accused of ‘glorifying’ convicted war criminal Ratko Mladić ahead of funeral",
+      "summary": "BELGRADE, Serbia — The European Union’s Enlargement Commissioner Marta Kos on Friday canceled an upcoming visit to candidate nation Serbia over what she described as the “glorification” of former Bosnian Serb army commander Ratko Mladić following his death.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything",
+      "summary": "Europe's biggest tech trade show, IFA , has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that's exclusive to Verge subscribers at 12PM ET today. That's when we'll start dropping answers, but you can ask your burning.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "European countries confront Russian sabotage and shadow warfare",
+      "summary": "German police arrested two people suspected of attacking a weapons manufacturer in Munich. The incident comes after Germany officially blamed the Russian government for an attack involving drones that came close to downing an aircraft as it landed. Nick Schifrin discussed the Russian attacks against Europe with David C.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
       "summary": "Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.",
@@ -28,56 +63,39 @@
       "title": "Malta businessman found not guilty in car bomb killing of journalist",
       "summary": "Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "US politics is not the world's template for polarization, experts warn",
-      "summary": "Common global narratives about political polarization are skewed because of an overreliance on literature about the U.S., leaving governments unprepared to tackle the problem at home. In new research led by King's College London and published in Nature Communications, experts across the U.K., Europe, Asia, Australia an.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Europe facing housing affordability crisis, continental study of more than 22 million property listings suggests",
-      "summary": "Nearly half of people living in Europe on an average income can only afford to buy the equivalent of a one-bedroom apartment or studio apartment, while 39% of Europeans cannot afford to rent a property this size.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
-      "summary": "Some of Europe's most well-known historic manuscripts, including the York Gospels, have proven to be biological time capsules for uncovering the 3,500-year history of the sheeppox virus (SPPV).",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including more competi.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Wind damage can trigger years of forest vulnerability",
-      "summary": "Windstorms are among the most important natural disturbances in Northern Europe, where they cause extensive tree mortality, timber losses and long-lasting changes in forest structure. Large-scale windstorm damage has increased across Central and Northern European forests in recent decades, while in boreal regions such.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Europe should adapt, not copy, China’s practical PhD",
-      "summary": "Nature, Published online: 01 September 2026; doi:10.1038/d41586-026-02736-6 Europe should adapt, not copy, China’s practical PhD.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T09:03:13.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "url": "https://www.nature.com/articles/d41586-026-02741-9?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:48:24.991Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Serbia accused of ‘glorifying’ convicted war criminal Ratko Mladić ahead of funeral",
+      "url": "https://www.nbcnews.com/world/europe/serbia-faces-anger-glorification-convicted-war-criminal-ratko-mladic-a-rcna596139?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:08:27.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Record European fires burn over 500,000 hectares during summer",
+      "url": "https://phys.org/news/2026-09-european-hectares-summer.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:41:18.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest",
+      "url": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T11:26:06.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "The best tech and gadgets announced at IFA so far",
       "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:37:59.000Z",
+      "publishedAt": "2026-09-04T15:41:17.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

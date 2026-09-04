@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.json",
   "description": "Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "Bernard \"Bernie\" Sanders",
     "Bernard Sanders",
@@ -19,6 +19,11 @@
     "Senator Sanders"
   ],
   "changes": [
+    {
+      "title": "When the World’s Best-Known Feminist Was Accused of Insulting Women",
+      "summary": "During the 2016 presidential campaign, Gloria Steinem was asked about the young women supporting Bernie Sanders over Hillary Clinton. Her answer created a brief hullabaloo.",
+      "date": "2026-09-04"
+    },
     {
       "title": "NATO spending pressure returned",
       "summary": "Sen. Bernie Sanders says he can’t be everywhere at once — even though some of his allies want him to be. Democratic socialist Francesca Hong lost by less than 4,000 votes in Wisconsin’s gubernatorial primary, an outcome several high-profile progressives are blaming on Sanders and other top national progressive leaders.",
@@ -40,6 +45,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "When the World’s Best-Known Feminist Was Accused of Insulting Women",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T16:09:28.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

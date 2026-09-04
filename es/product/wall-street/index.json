@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas",
+      "summary": "La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de las grandes cotizadas galas —el Cac 40— se ha estancado en el último semestre, mientras que el Ibex 35 ha avanzado un 11% y Wall Street ha subido un 12%, en el mismo periodo. Los inversores recelan de la complicada situación política y del ele.",
+      "date": "2026-09-04"
+    },
     {
       "title": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
       "summary": "Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consumo. Hijos de Rivera es la excepción, al crecer en ventas y elevar sus ganancias.",
@@ -57,11 +62,6 @@
       "title": "El Ibex sube un 2% en la semana de los 20.000 puntos",
       "summary": "El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos histórico.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Más allá de Leopold Aschenbrenner: el desplome de la IA arrasa a los fondos estrella de Wall Street",
-      "summary": "La IA y su tirón en Bolsa se lo han dado todo a una generación de inversores profesionales especializados en tecnología, con ganancias de miles de millones de dólares en apenas tres años. Pero las caídas bursátiles de las grandes tecnológicas y de los fabricantes de chips en el último mes, motivadas por la desconfianza.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [],

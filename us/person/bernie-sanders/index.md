@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### When the World’s Best-Known Feminist Was Accused of Insulting Women
+
+During the 2016 presidential campaign, Gloria Steinem was asked about the young women supporting Bernie Sanders over Hillary Clinton. Her answer created a brief hullabaloo.
+
+Date: 2026-09-04
 
 ### NATO spending pressure returned
 
@@ -34,4 +40,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [When the World’s Best-Known Feminist Was Accused of Insulting Women](https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html?utm_source=lootura.com) — 2026-09-04T16:09:28.000Z

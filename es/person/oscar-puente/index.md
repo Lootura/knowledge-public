@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente: Consejos tengo...
+
+El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las vías que dependen de él sigue dando lecciones de periodismo en su cuenta en X. No satisfecho con las invectivas que le dedicó el jueves a un sindicato policial porque ABC publicó el informe de la inspección ocular del accidente, el viernes se.
+
+Date: 2026-09-04
 
 ### Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura
 
@@ -62,12 +68,6 @@ El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en
 
 Date: 2026-08-06
 
-### Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»
-
-La situación en Ceuta sigue siendo muy delicada después de la llegada masiva de miles de inmigrantes desde Marruecos y el ministro de Transportes, Óscar Puente, continúa en su propio mundo después de asegurar que Pedro Sánchez ha resuelto «otra crisis más». Así lo ha indicado en su cuenta de X. Según Puente, el preside.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Óscar Puente: Consejos tengo...](https://www.abc.es/opinion/abc-oscar-puente-consejo-20260904192839-nt.html?utm_source=lootura.com) — 2026-09-04T18:24:43.000Z

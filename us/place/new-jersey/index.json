@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-jersey/index.json",
   "description": "Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-03T22:19:56.767Z",
   "aliases": [
     "Garden State",
     "Iersey",
@@ -74,19 +74,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
-      "url": "https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T12:01:19.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:17:19.000Z",
-      "sourceId": "lootura-us-npr"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

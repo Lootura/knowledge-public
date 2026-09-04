@@ -3,10 +3,34 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-04T15:44:32.845Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### La realidad fue peor que ‘Zoolander’: la parodia que profetizó el mundo ‘influencer’ hace 25 años
+
+Hace unos días, una multitud de jóvenes se congregó junto al Arco de Triunfo de Barcelona para participar en un evento tan novedoso como inquietante. Se trataba de la primera convocatoria en la capital catalana para “farmear aura”, el nuevo concepto viral del que probablemente han leído en esta misma cabecera . Seguir.
+
+Date: 2026-09-04
+
+### La hora de la fachada de la Gloria de la Sagrada Familia: así la imaginó Gaudí
+
+La Sagrada Familia de Barcelona encara el final del año del centenario de la muerte del arquitecto Antoni Gaudí. Terminada la basílica en vertical, con la torre de Jesucristo culminada en febrero, y tras la visita del Papa en junio , el templo afronta en este inicio de curso dos decisiones importantes. Una, la urbaníst.
+
+Date: 2026-09-04
+
+### Diez intoxicados por monóxido de carbono en un barco del Puerto de Barcelona: uno de ellos, en estado crítico
+
+Un total de diez personas han resultado afectadas esta pasada noche, una de ellas en estado crítico , a causa de un intoxicación de monóxido de carbono (CO) en el depósito de un barco en el Puerto de Barcelona , ha informado el Sistema de Emergencias Médicas. Según informa el SEM en su cuenta de X, de los 10 afectados,.
+
+Date: 2026-09-04
+
+### La solución de Futre para que el Atlético perdone a Julián Álvarez: «Yo era un potro y…»
+
+Julián Álvarez se queda en el Atlético y, por ello, tiene mucho trabajo por hacer si quiere ganarse el perdón del Metropolitano. Después de un verano intentando fichar por el Barcelona, el argentino no cumplió su sueño y ahora afronta meses muy complicados. Un problemón del que Paulo Futre ha querido echarle un cable c.
+
+Date: 2026-09-03
 
 ### Cómo recuperar a Julián Álvarez
 
@@ -41,30 +65,6 @@ Date: 2026-09-02
 ### Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy
 
 El mercado de fichajes llega a su fin este martes. A las 00:00 horas del 2 de septiembre no se podrán hacer más operaciones. Es decir, hasta las 23:59 horas de este martes los clubes podrán fichar e inscribir a jugadores en sus plantillas . Sigue en OKDIARIO todo lo que suceda en las últimas horas del mercado, con info.
-
-Date: 2026-09-01
-
-### Giménez y Casadó son las bombas del cierre del mercado de fichajes, Fofana llega al Sevilla y el Betis aguanta a Ceballos
-
-El Deportivo de A Coruña ha sido el encargado de agitar el cierre del mercado. Dos bombas que completan su gran verano. Es, tras Real Madrid, Barcelona y Atlético, el que más dinero se ha gastado y, con dos futbolistas cedidos, ha completado su mercado. Se trata de Marc Casadó y José María Giménez, que ... Continuar le.
-
-Date: 2026-09-01
-
-### The Weeknd deslumbra, literalmente, en su concierto en Barcelona
-
-El cantante canadiense, responsable de 'Blinding lights', la canción más escuchada de la historia de Spotify, triunfa ante cerca de 50.000 personas en el Estadio Olímpico.
-
-Date: 2026-09-01
-
-### Laporta hace de portavoz de Martín Presa: «Es una vergüenza lo que le están haciendo al Rayo»
-
-Después de un verano entero provocando al Atlético de Madrid con el fichaje imposible de Julián Álvarez , Joan Laporta ha hecho portavoz del presidente de otro club de Primera División . Este martes, un día después del Barcelona-Rayo , el man>Barcelona ante el micrófono de El Chiringuito de Jugones . Cabe recordar que.
-
-Date: 2026-09-01
-
-### El Barça ficha al delantero brasileño Gabriel Jesús, procedente del Arsenal inglés
-
-El delantero brasileño Gabriel Jesús será jugador del FC Barcelona las próximas tres temporadas, hasta el 30 de junio de 2029, tras el acuerdo alcanzado entre el Arsenal FC y el club azulgrana, según ha hecho oficial este martes la entidad culé. Nacido en São Paulo (Brasil) el 3 de abril de 1997, Gabriel Jesús comenzó.
 
 Date: 2026-09-01
 

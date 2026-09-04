@@ -3,10 +3,16 @@
 > Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-03T22:19:56.767Z
 - Canonical: https://atlas.lootura.com/us/product/wall-street
 
 ## Recent changes
+
+### Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas
+
+Leon Black, a former Wall Street private equity investor, sued the House Oversight Committee, seeking to stop the panel from enforcing its subpoenas against him in an ongoing Epstein probe.
+
+Date: 2026-09-03
 
 ### The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?
 

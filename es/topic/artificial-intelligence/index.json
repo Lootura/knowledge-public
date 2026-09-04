@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -57,10 +57,10 @@
   ],
   "sources": [
     {
-      "title": "Nvidia se hace con Hugging Face por 11.200 millones en una de las mayores compras de su historia",
-      "url": "https://elpais.com/economia/2026-09-03/nvidia-se-hace-con-hugging-face-por-11200-millones-en-una-de-las-mayores-compras-de-su-historia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T14:26:18.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña",
+      "url": "https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:10:52.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 0

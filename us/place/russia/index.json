@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,36 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "U.S. Diesel Prices Set New High",
+      "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+      "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
+      "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
+      "summary": "The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Russia intensifies attacks on Ukraine's capital",
+      "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Bessent Blames Ukraine for High Energy Prices",
+      "summary": "After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
       "summary": "As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.",
@@ -36,51 +66,39 @@
       "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
       "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Germany blames Russia for attempted drone attack at Leipzig airport",
-      "summary": "Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
-      "summary": "The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Send your questions for Richard Engel on Ukraine and more",
-      "summary": "Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
-      "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval",
-      "summary": "CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
-      "url": "https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T01:12:23.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
+      "url": "https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:32:34.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T11:35:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "U.S. Diesel Prices Set New High",
+      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T14:59:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+      "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T09:03:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Bessent Blames Ukraine for High Energy Prices",
+      "url": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T19:56:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T16:51:14.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

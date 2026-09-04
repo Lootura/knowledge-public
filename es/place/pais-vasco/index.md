@@ -3,10 +3,28 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### 3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas
+
+Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.
+
+Date: 2026-09-04
+
+### La cascada de Bolintxu, el oasis verde de Bilbao que esconde una de las piscinas naturales más bonitas de Euskadi
+
+Las olas de calor disparan las visitas a este rincón de avellanos, robles y fresnos donde el río forma una poza cristalina a solo siete kilómetros de la capital vizcaína.
+
+Date: 2026-09-03
+
+### País Vasco encadena otro episodio de calor por encima de los 30 ºC desde hoy hasta el domingo
+
+Euskal Herria afronta desde hoy un nuevo episodio veraniego con temperaturas superiores a los 30 ºC , que en la Ribera del Ebro llegarán incluso a los 38 ºC . El ambiente seguirá siendo cálido hasta el sábado y habrá que esperar al domingo para notar la llegada de un frente que traerá nubes y un descenso generalizado d.
+
+Date: 2026-09-03
 
 ### El terrorismo cultural de ETA
 
@@ -49,24 +67,6 @@ Date: 2026-08-31
 Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.
 
 Date: 2026-08-14
-
-### Tartean, Ados y Zirkozaurre llevarán el teatro vasco por todo el norte
-
-Participan en el circuito que recorrerá escenarios de Euskadi, Cantabria, Asturias, Galicia, Navarra y La Rioja con 18 compañías.
-
-Date: 2026-08-13
-
-### El Gobierno rebajará 20 céntimos el litro de diésel a partir de septiembre tras dispararse su precio
-
-El fin de las rebajas fiscales a los carburantes dispara al 3,7% la inflación de Euskadi en julio.
-
-Date: 2026-08-13
-
-### Euskadi exige «agotar todos los medios» para reagrupar a menores en Ceuta con sus familias antes de «hablar de repartos»
-
-El Gobierno Vasco advierte de que «no aceptará más derivaciones de menores impuestas y sin garantías».
-
-Date: 2026-08-13
 
 ## Fuentes
 

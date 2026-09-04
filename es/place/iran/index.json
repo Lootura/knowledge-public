@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
+      "summary": "Al amparo de la oscuridad, miembros de la Guardia Revolucionaria iraní preparaban dos lanzacohetes para disparar minas marinas desde la pequeña isla de Larak hacia el estrecho de Ormuz. Seguir leyendo.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Netanyahu reitera la intención de «derrocar» al «régimen» de Irán: No es una tarea «imposible»",
+      "summary": "Israel «está convencido» de que pueden eliminar «de una vez por todas» la amenaza que supone el Gobierno de Teherán.",
+      "date": "2026-09-03"
+    },
     {
       "title": "El petróleo se relaja y las Bolsas recuperan el aliento",
       "summary": "Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.",
@@ -57,18 +67,15 @@
       "title": "El Ibex cae a los 19.800 puntos en el estreno de septiembre, presionado por los bonos",
       "summary": "Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Irán ataca bases estadounidenses en Bahréin tras golpear por segunda vez las de Jordania en menos de 48 horas",
-      "summary": "La Guardia Revolucionaria aseguró haber destruido una infraestructura Leer.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Irán ataca contra objetivos de EEUU como respuesta por los recientes bombardeos",
-      "summary": "La Guardia Revolucionaria asegura que ha derribado «el 50.º dron avanzado MQ-9 del Ejército estadounidense invasor».",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
+      "url": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T14:34:52.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

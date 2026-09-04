@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+      "summary": "A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.",
@@ -62,11 +67,17 @@
   ],
   "sources": [
     {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:35:14.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T00:06:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+      "url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T03:00:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

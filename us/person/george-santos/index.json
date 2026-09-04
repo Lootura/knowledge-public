@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/george-santos/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/george-santos/index.json",
   "description": "Follow George Santos, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "Anthony Devolder",
     "George",
@@ -19,9 +19,19 @@
   ],
   "changes": [
     {
+      "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
+      "summary": "Plus: George Santos is back in the news!",
+      "date": "2026-09-04"
+    },
+    {
       "title": "More Kalshi politician bans could be coming",
       "summary": "Kalshi is conducting ongoing investigations into other political figures who may have conducted insider trading after suspending four yesterday, a person familiar with the probes told Semafor. The prediction market said it would ban former Rep. George Santos, R-N.Y., for life — a Kalshi first — after he used it to cash.",
       "date": "2026-09-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "George Santos first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
     },
     {
       "title": "Kalshi permanently bans George Santos after he secretly bet on himself",
@@ -37,13 +47,15 @@
       "title": "Kalshi Is Imposing Its First-Ever Lifetime Ban on Former Rep. George Santos. Here’s Why",
       "summary": "Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse in Central Islip, New York, after being sentenced on April 25, 2025. —Howard Schnapp—Newsday RM/Getty Images The prediction-market exchange Kalshi has permanently prohibited former Rep. George Santos from accessing the platform after establi.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "George Santos first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T09:01:00.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

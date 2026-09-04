@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-01T03:31:35.854Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra",
+      "summary": "El juez de la Audiencia Nacional que investiga el 'caso Plus Ultra' , José Luis Calama , ha rechazado la nulidad de las resoluciones judiciales que planteó sobre el caso el expresidente del Gobierno e imputado José Luis Rodríguez Zapatero. En un auto firmado este viernes al que ha tenido acceso El Confidencial, el juez.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”",
       "summary": "“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.",
@@ -60,13 +65,15 @@
       "title": "Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»",
       "summary": "Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
-      "summary": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra",
+      "url": "https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T13:21:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

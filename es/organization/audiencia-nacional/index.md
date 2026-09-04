@@ -3,75 +3,76 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta
+### Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él
 
-El informe que la Policía Nacional entregó el pasado lunes en la Audiencia Nacional a la magistrada María Tardón ha supuesto el inicio de una polvareda que sacude el cuerpo tras el enfado del ministro del Interior, Fernando Grande-Marlaska, que aseguró que no hubo avisos previos de la avalancha migratoria del 30 de jul.
+La han presentado ante la Sección de Instrucción del Tribunal Central de Instancia, después de que una denuncia ante la Fiscalía de la Audiencia Nacional fuera archivada en enero.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta
+### El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra
 
-El ministro del Interior, Fernando Grande-Marlaska, ha remitido un escrito a la presidenta del Consejo General del Poder Judicial, Isabel Perelló, en el que le transmite su «preocupación» por la decisión de la juez de la Audiencia Nacional de prohibir al equipo policial que investiga la crisis migratoria en Ceuta facil.
+El juez de la Audiencia Nacional que investiga el 'caso Plus Ultra' , José Luis Calama , ha rechazado la nulidad de las resoluciones judiciales que planteó sobre el caso el expresidente del Gobierno e imputado José Luis Rodríguez Zapatero. En un auto firmado este viernes al que ha tenido acceso El Confidencial, el juez.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Marlaska se queja ante el Poder Judicial de que la jueza pidiera a la Policía no informarle sobre Ceuta
+### La Fiscalía apoya que la Audiencia Nacional investigue la crisis migratoria de Ceuta
 
-El informe que la Policía ha entregado a la Audiencia Nacional sobre la entrada masiva a Ceuta ―en el que se apunta que agentes marroquíes “guiaron” a los migrantes en el cruce de la frontera― sigue sacudiendo al cuerpo. El malestar en el Ministerio del Interior ha llevado al ministro Fernando Grande-Marlaska a enviar.
+El Ministerio Público argumenta que, aunque la planificación del asalto se pudo haber originado en Marruecos, los efectos legales impactaron directamente en suelo español.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón
+### La Fiscalía pide a la Audiencia Nacional que decrete el secreto parcial de la investigación sobre la crisis de Ceuta
 
-La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, no ha tardado en responder al ministro del Interior, Fernando Grande-Marlaska, sobre sus quejas contra la juez de la Audiencia Nacional María Tardón por sus pesquisas sobre la crisis migratorio en Ceuta. Le ha pedido que.
+El fiscal jefe, Jesús Alonso, informa a favor de que el tribunal especial sea el competente para investigar hechos que podrían encajar en su fase inicial en un delito de favorecimiento de la inmigración irregular, si bien ya apunta a que podría encajar un delito contra la paz y la independencia del Estado El fiscal jef.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta
+### La Guardia Civil informa a la jueza de que no recibió aviso alguno sobre "el alcance" que tendría la llegada de migrantes a Ceuta
 
-El ministro del Interior, Fernando Grande- Marlaska , ha transmitido este jueves a la presidenta del Consejo General del Poder Judicial, Isabel Perelló, su «preocupación» por la imposibilidad de que pueda acceder a la investigación que la Policía Nacional está llevando a cabo a cargo de la Audiencia Nacional sobre la i.
+El informe del Servicio de Información no menciona al CNI ni a ningún otro organismo y alude a una información compartida en foros habituales de cooperación entre fuerzas de seguridad y agencias que no permitía adivinar "el colapso" que se produjo La Fiscalía apoya que la Audiencia Nacional investigue la crisis de Ceut.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### El CENIF aporta imágenes de la presencia de agentes marroquíes camuflados en el asalto: "Algunos tienen hasta gorra policial"
+### El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones
 
-El informe entregado el pasado lunes a la Audiencia Nacional por el Centro Nacional de Inmigración y Fronteras (CENIF) apunta a las fuerzas de seguridad marroquíes como planificadoras del asalto masivo a la frontera ceutí y no escatima en detalles sobre la presencia de estos agentes, ese 30 de julio, junto a los más de.
+El juez de la Audiencia Nacional que investiga el ‘caso Koldo’ , Ismael Moreno , ha pedido a la Unidad Central Operativa (UCO) de la Guardia Civil que informe «sobre el estado y custodia» de un teléfono intervenido a Joseba García, hermano del exasesor ministerial Koldo García. El magistrado ha accedido así a la petici.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### La crisis de Ceuta cerca de nuevo a Marlaska y deja al Gobierno de Sánchez aún más debilitado y enfrentado a oposición y socios
+### La Audiencia Nacional traslada su "absoluto respaldo" a la jueza que investiga la crisis migratoria en Ceuta tras la queja de Marlaska
 
-La insistencia del Gobierno en negar desde un inicio la posibilidad de que Marruecos estuviera implicado en la entrada masiva de inmigrantes a Ceuta a finales de julio se topó este lunes con un obstáculo: un informe policial entregado en la Audiencia Nacional apunta a la participación o colaboración de autoridades poli.
+La Sala de Gobierno de la Audiencia Nacional ha mostrado su "absoluto respaldo" a la actuación de la jueza María Tardón ante la queja del ministro del Interior, Fernando Grande-Marlaska , porque prohibiera a los policías que investigan la crisis migratoria de Ceuta que facilitaran información a sus superiores. Así lo m.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Las imágenes que demuestran la participación de agentes marroquíes en la invasión de Ceuta
+### La Fiscalía pide investigar la entrada por favorecimiento de inmigración ilegal, homicidio y organización criminal
 
-El informe que el Centro Nacional de Inmigración y Fronteras (Cenif) de la Policía ha remitido a la juez de la Audiencia Nacional incluye una serie de imágenes que demuestran la...
+La Fiscalía de la Audiencia Nacional considera a este tribunal el competente para investigar la entrada masiva de inmigrantes ocurrida en Ceuta a finales del pasado julio. En su informe, cree que en este caso podrían concurrir delitos de favorecimiento de la inmigración ilegal, homicidio y lesiones por imprudencia grav.
 
-Date: 2026-09-02
+Date: 2026-09-04
 
-### El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta
+### Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del caso Koldo
 
-El informe que el Centro Nacional de Inmigración y Fronteras (CENIF) de la Policía ha entregado en la Audiencia Nacional analiza imágenes y mensajes de redes sociales y habla de “permisividad” de las Fuerzas de seguridad marroquíes. En el documento, al que ha tenido acceso EL PAÍS, la Policía concluye que agentes de Ra.
+El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel de Antonio Balas , que seguirá al frente del departamento de anticorrupción de la Unidad Central Operativa (UCO) de la Guardia Civil en comisión de servicio, como había solicitado el juez de la Audiencia Nacional Ismael Moreno. La orden, fir.
 
-Date: 2026-09-02
+Date: 2026-09-04
 
-### Interior responde con una operación de desinformación tras el dossier que señala a Marruecos y hunde el relato de las "mafias"
+### Marlaska saca a la Sala de Gobierno de la Audiencia Nacional en defensa de la jueza Tardón
 
-El informe enviado a la Audiencia Nacional considera a la Gendarmería marroquí como un sujeto clave en la avalancha humana enviada a Ceuta Leer.
+El choque institucional entre el Ejecutivo y el Poder Judicial ha tenido hoy un nuevo capítulo tras el acuerdo de la Sala de Gobierno de la Audiencia Nacional que por unanimidad de todos sus miembros salir en defensa de la jueza María Tardón, encargada de estudiar una querella por la entrada masiva de migrantes a Ceuta.
 
-Date: 2026-09-02
+Date: 2026-09-04
 
 ## Fuentes
 
-- [Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta](https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html?utm_source=lootura.com) — 2026-09-03T15:19:12.000Z
-- [Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta](https://elpais.com/espana/2026-09-03/las-claves-del-informe-que-marlaska-no-conocia-y-que-puede-suponer-el-inicio-de-una-investigacion-por-lo-sucedido-en-ceuta.html?utm_source=lootura.com) — 2026-09-03T03:45:01.000Z
-- [Marlaska se queja ante el Poder Judicial de que la jueza pidiera a la Policía no informarle sobre Ceuta](https://elpais.com/espana/2026-09-03/marlaska-traslada-al-poder-judicial-su-preocupacion-por-la-decision-de-la-jueza-tardon-de-prohibir-a-la-policia-informarle-sobre-ceuta.html?utm_source=lootura.com) — 2026-09-03T15:36:43.000Z
-- [La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón](https://www.lavanguardia.com/politica/20260903/11626523/presidenta-cgpj-advierte-marlaska-tenga-maximo-respeto-juez-tardon.html?utm_source=lootura.com) — 2026-09-03T15:12:46.000Z
-- [Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta](https://theobjective.com/espana/tribunales/2026-09-03/marlaska-investigacion-policia-ceuta/?utm_source=lootura.com) — 2026-09-03T14:48:05.000Z
+- [Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él](https://www.abc.es/gente/extrabajadoras-julio-iglesias-denunciaron-agresion-sexual-presentan-20260904155517-nt_amp.html?utm_source=lootura.com) — 2026-09-04T13:55:18.000Z
+- [El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra](https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com) — 2026-09-04T13:21:00.000Z
+- [La Fiscalía apoya que la Audiencia Nacional investigue la crisis migratoria de Ceuta](https://www.elcorreo.com/politica/fiscalia-apoya-audiencia-nacional-investigue-crisis-migratoria-20260904143550-ntrc_amp.html?utm_source=lootura.com) — 2026-09-04T12:35:50.000Z
+- [La Fiscalía pide a la Audiencia Nacional que decrete el secreto parcial de la investigación sobre la crisis de Ceuta](https://www.eldiario.es/politica/fiscalia-pide-audiencia-nacional-decrete-secreto-parcial-investigacion-crisis-ceuta_1_13487780.html?utm_source=lootura.com) — 2026-09-04T12:49:22.000Z
+- [La Guardia Civil informa a la jueza de que no recibió aviso alguno sobre "el alcance" que tendría la llegada de migrantes a Ceuta](https://www.eldiario.es/politica/guardia-civil-informa-jueza-no-recibio-aviso-alcance-tendria-llegada-migrantes-ceuta_1_13487649.html?utm_source=lootura.com) — 2026-09-04T12:34:16.000Z
+- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z

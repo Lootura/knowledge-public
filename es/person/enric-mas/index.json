@@ -1,0 +1,48 @@
+{
+  "id": "es-enric-mas",
+  "name": "Enric Mas",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/enric-mas",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/enric-mas",
+  "markdownUrl": "https://atlas.lootura.com/es/person/enric-mas/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/enric-mas/index.json",
+  "description": "Sigue la actividad de Enric Mas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "aliases": [
+    "Enric Mas Nicolau",
+    "Mas Enric"
+  ],
+  "changes": [
+    {
+      "title": "Así queda la clasificación general de la Vuelta Ciclista a España 2026 tras la etapa 13 de hoy viernes, 4 de septiembre",
+      "summary": "Enric Mas mantiene el liderato de la Vuelta a España 2026 una jornada más tras la etapa 13 en la que el vencedor fue un Wout van Aert que se impuso al francés Valentin Paret-Peintre en la llegada a Loja . El ciclista español entró a tres minutos del tiempo del ganador, pero mantiene la diferencia con sus perseguidores.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "El belga Van Aert gana al francés Paret-Peintre el esprint de Loja en la calurosa etapa 13",
+      "summary": "El ciclista belga Wout van Aert (Visma-Lease a Bike) ha ganado este viernes la etapa 13 de La Vuelta a España 2026 , disputada sobre 192,8 kilómetros entre Almuñécar y Loja, mientras que el español Enric Mas (Movistar Team) ha resguardado su liderato en una clasificación general pese a las ofensivas del danés Mattias S.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Enric Mas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Así queda la clasificación general de la Vuelta Ciclista a España 2026 tras la etapa 13 de hoy viernes, 4 de septiembre",
+      "url": "https://okdiario.com/deportes/asi-queda-clasificacion-general-vuelta-ciclista-espana-2026-etapa-13-hoy-viernes-4-septiembre-20231379?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:33:06.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "El belga Van Aert gana al francés Paret-Peintre el esprint de Loja en la calurosa etapa 13",
+      "url": "https://theobjective.com/deportes/2026-09-04/van-aert-esprint-loja/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:11:38.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

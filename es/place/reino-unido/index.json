@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie",
+      "summary": "El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
       "summary": "Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.",
@@ -67,20 +72,8 @@
       "title": "“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales",
       "summary": "Londres está considerada como la capital europea con el mayor volumen de espacios verdes, pero la sequía que este verano arrasa en gran parte del Reino Unido, tercera en cinco años, ha convertido los famosos parques de la ciudad, junto a otras áreas históricamente verdes del sur de Inglaterra, en parajes desérticos, ye.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "\"He estado 10 años trabajando aquí y no he ganado ni 2.000 euros\": la crítica de un español sobre la diferencia salarial entre España e Inglaterra",
-      "summary": "El creador de contenido, conocido en TikTok como @jbmasiete, ha compartido en un vídeo que su primer sueldo en Reino Unido fue de 1.800 libras (unos 2.000 euros al cambio actual) en un puesto donde apenas hablaba el idioma y no contaba con experiencia en el sector.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial",
-      "url": "https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T10:09:38.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

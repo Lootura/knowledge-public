@@ -3,10 +3,28 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T22:22:06.366Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su "realismo"
+
+Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóviles inicia ya una nueva etapa una vez aprobado su plan de reestructuración , uno de los de mayor dimensión de los últimos años en la industria europea. El Consejo de Supervisión del Grupo Volkswagen aprobó por unanimidad un plan de ajuste que.
+
+Date: 2026-09-04
+
+### Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas
+
+El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste del Consejo de Administración para transformar la compañía y mejorar su...
+
+Date: 2026-09-03
+
+### El Grupo Volkswagen aprueba 50.000 nuevos despidos en su plan de reestructuración
+
+El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste para transformar la compañía de cara a 2030 y mejorar su eficiencia y competitividad, que contempla el recorte de 50.000 puestos de trabajo que se suman a los otros 50.000 ya anunciados con anterioridad. En esa comunicaci.
+
+Date: 2026-09-03
 
 ### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
 
@@ -50,24 +68,6 @@ El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimi
 
 Date: 2026-08-04
 
-### Fragmento del día: Irak
-
-Irak invade el emirato de Kuwait. El Consejo de Seguridad de la ONU condena la invasión.
-
-Date: 2026-08-02
-
-### Golpe del Consejo de Estado a la ley anticorrupción de Bolaños: duda que sirva para luchar contra el fraude
-
-El anteproyecto de Ley de Integridad Pública impulsado por el Gobierno sigue sumando opiniones críticas. El Consejo de Estado ha emitido un duro informe en el que alerta de que algunas de las líneas principales de la norma diseñada por los socialistas podrían acarrear serios problemas para la seguridad jurídica. El doc.
-
-Date: 2026-07-24
-
-### El BCE dejará los tipos sin cambios pero sin perder de vista el coste creciente de la energía
-
-Imposible poner el piloto automático en la política monetaria cuando la geopolítica tiene subidos en una montaña rusa a los precios de las materias primas. El Consejo de Gobierno del Banco Central Europeo se reúne hoy en un entorno bien diferente al de la pasada cita de junio, cuando decidió la primera subida de tipos.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias](https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html?utm_source=lootura.com) — 2026-09-04T12:53:26.000Z

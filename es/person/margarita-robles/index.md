@@ -3,10 +3,52 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
+
+El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel de la Guardia Civil pero seguirá en su puesto en la Unidad Central Operativa (UCO) en comisión de servicio hasta que acabe las «causas que lo motivan», según una publicación del Boletín Oficial del Ministerio de Defensa al que ha tenido acce.
+
+Date: 2026-09-04
+
+### Margarita Robles no tiene quien le aplauda (en el PSOE)
+
+Margarita Robles fue la primera en dejar de aplaudir el jueves cuando toda la bancada azul seguía en pie en el Congreso jaleando al presidente. Se percató de que era la única sentada y terminó retomando la ovación por compromiso. Minutos antes había sido evidente su incomodidad cuando Pedro Sánchez anunció que pondrá l.
+
+Date: 2026-09-04
+
+### Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’
+
+La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.
+
+Date: 2026-09-04
+
+### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
+
+El teniente coronel era uno de los objetivos de las cloacas del PSOE y ha liderado las investigaciones que cercan al entorno de Pedro Sánchez.
+
+Date: 2026-09-04
+
+### Margarita Robles firma el ascenso de Balas a coronel y su permanencia en la UCO hasta que finalice el caso Cerdán
+
+El reglamento de la Guardia Civil implica que el ascenso de Antonio Balas conlleve un cambio de destino pero el juez y el fiscal solicitaron que siga al frente de la investigación abierta El Congreso se convierte en territorio hostil para Sánchez La ministra de Defensa, Margarita Robles, firmó el pasado 1 de septiembre.
+
+Date: 2026-09-04
+
+### Tellado llama «cínica» a Robles y recuerda su «responsabilidad» en la crisis de Ceuta
+
+El secretario general del PP, Miguel Tellado , ha calificado de «cínica» a la ministra de Defensa, Margarita Robles , a quien considera « una jueza que se traicionó a sí misma », por seguir en el Gobierno de Pedro Sánchez , y ha recordado también su «responsabilidad» en la gestión de la crisis de Ceuta. Si Margarita Ro.
+
+Date: 2026-09-04
+
+### Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta
+
+La ministra de Defensa, Margarita Robles, se ha desmarcado del grupo socialista al evitar sumarse a los aplausos tras el anuncio realizado por el presidente del Gobierno, Pedro Sánchez, sobre la publicación de los informes relacionados con la crisis en Ceuta. Seguir leyendo.
+
+Date: 2026-09-03
 
 ### Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»
 
@@ -20,56 +62,13 @@ La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada co
 
 Date: 2026-09-03
 
-### Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta
-
-La ministra de Defensa, Margarita Robles, se ha desmarcado del grupo socialista al evitar sumarse a los aplausos tras el anuncio realizado por el presidente del Gobierno, Pedro Sánchez, sobre la publicación de los informes relacionados con la crisis en Ceuta. Seguir leyendo.
-
-Date: 2026-09-03
-
 ### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
 
 La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
 
 Date: 2026-08-13
 
-### Margarita Robles comunica al presidente del Senado que no comparecerá la semana que viene como pide el PP
-
-La ministra de Defensa se pone a disposición de la Cámara Alta para acudir "en el período ordinario de sesiones" y excusa su ausencia el día 18 porque necesita "más tiempo para prepararla con rigor" y el PP responde que Sánchez ha "enjaulado" a quien tildó de "pájara" Margarita Robles se desmarca de la estrategia de Mo.
-
-Date: 2026-08-13
-
-### Robles da plantón al Senado y emplaza la nueva comparecencia a después del verano
-
-La ministra de Defensa, Margarita Robles , finalmente ha decidido dar plantón al Senado y no comparecerá para hablar de la crisis migratoria de Ceuta el próximo 18 de agosto, como había solicitado la institución parlamentaria a petición del PP . En una carta remitida al presidente del Senado, Pedro Rollán, emplaza la n.
-
-Date: 2026-08-13
-
-### Robles recula y no irá al Senado por la crisis de Ceuta: "Necesito más tiempo"
-
-La ministra de Defensa no irá finalmente al Senado para dar cuenta de la gestión de la crisis de Ceuta . Margarita Robles ha remitido una carta al presidente de la Cámara alta en la que admite que necesita "más tiempo" para poder preparar la comparecencia prevista inicialmente para el 18 de agosto. Robles alude en su m.
-
-Date: 2026-08-13
-
-### Robles no comparecerá en el Senado el día 18 por la crisis de Ceuta y alega que necesita "más tiempo" para preparar su intervención
-
-La ministra de Defensa, Margarita Robles , ha anunciado que finalmente no comparecerá el próximo 18 de agosto en el Senado, como le pedía el PP, para dar explicaciones sobre la crisis de Ceuta alegando que necesita "más tiempo" para preparar una intervención "con un mínimo de rigor y detalle". Así se lo ha comunicado a.
-
-Date: 2026-08-13
-
-### Robles se pliega a la Moncloa y descarta acudir al Senado en agosto
-
-Tras 48 horas de incertidumbre, un día después de lo que prometió el Gobierno, la ministra de Defensa, Margarita Robles, ha resuelto el misterio. No comparecerá el 18 de agosto en el Senado para dar explicaciones sobre la crisis de Ceuta. Tampoco en lo que resta de mes. La máxima responsable política de las Fuerzas Arm.
-
-Date: 2026-08-13
-
-### Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales
-
-La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilidad de España como socio euroatlántico y lo ha hecho tras testar la situación de las misiones que los militares españoles desarrollan en el exterior. En concreto, ha realizado una visita de seguimiento al Mando de Operaciones (MOPS) , ubicado.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»](https://www.abc.es/espana/rufian-dice-sanchez-problemon-importante-robles-aplaudido-20260903123140-nt.html?utm_source=lootura.com) — 2026-09-03T15:12:10.000Z
-- [La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta](https://www.elconfidencial.com/espana/2026-09-03/margarita-robles-sanchez-evita-aplaudir_4417230/?utm_source=lootura.com) — 2026-09-03T12:07:00.000Z
-- [Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta](https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html?utm_source=lootura.com) — 2026-09-03T11:56:15.000Z
+- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
+- [Margarita Robles no tiene quien le aplauda (en el PSOE)](https://elpais.com/ideas/2026-09-04/robles-no-tiene-quien-le-aplauda-en-el-psoe.html?utm_source=lootura.com) — 2026-09-04T09:09:59.000Z

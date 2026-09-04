@@ -8,13 +8,33 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Vivas asegura que \"pocas ciudades\" son capaces de afrontar \"el trauma\" que sufre Ceuta",
+      "summary": "El presidente ceutí, Juan Jesús Vivas (PP), ha asegurado este viernes que el \"trauma\" que está pasando Ceuta , con la entrada de \"cerca de 80.000 personas\" por la frontera a finales de julio, \"pocas ciudades son capaces de afrontarlo\". Así lo ha manifestado durante una recepción en el Palacio Autonómico al presidente d.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Luis de la Fuente se vuelca con Ceuta: \"Os habéis convertido en mis ídolos\"",
+      "summary": "Luis de la Fuente ha sido recibido en Ceuta por el presidente Juan Jesús Vivas en plena crisis migratoria. El técnico de la selección española de fútbol ha comparecido ante los medios en una rueda de prensa y ha asegurado que está muy \"emocionado, orgulloso y agradecido\" por acudir a la ciudad en uno de sus momentos má.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta",
+      "summary": "Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Juan Jesús Vivas, presidente de Ceuta: \"Si Ceuta sale perdiendo, si Ceuta naufraga, naufraga toda España\"",
+      "summary": "La crisis migratoria de Ceuta ha llegado al Congreso de los Diputados, donde Pedro Sánchez defendió la respuesta del Gobierno ante los acontecimientos iniciados el 30 de julio. Su intervención provocó una dura reacción del presidente de la ciudad autónoma, Juan Jesús Vivas . El dirigente ceutí rechazó las explicaciones.",
+      "date": "2026-09-04"
+    },
     {
       "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
       "summary": "El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.",
@@ -44,28 +64,21 @@
       "title": "Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: \"Retorno a Marruecos y ninguna regularización\"",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de \"máximo riesgo\" para la \"convivencia\" y \"seguridad\" , y ha pedido al Gobierno central \"desestimar\" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Monumental pitada a Marlaska en su visita a Ceuta desbordada por inmigrantes ilegales",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha sido recibido este jueves entre abucheos en su visita a Ceuta para mantener una reunión con el delegado del Gobierno, Miguel Ángel Pérez. Marlaska también se verá por la tarde con el presidente de la ciudad autónoma, Juan Jesús Vivas. El ministro ha entrado en la.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "\"Tengo mucho miedo\": la mujer que conmovió a Robles en su tenso recibimiento en Ceuta",
-      "summary": "La ministra de Defensa, Margarita Robles, se encuentra este miércoles en Ceuta, donde mantiene una reunión con el presidente de la ciudad autónoma, Juan Jesús Vivas, en la sede...",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
-      "summary": "“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas asegura que \"pocas ciudades\" son capaces de afrontar \"el trauma\" que sufre Ceuta",
+      "url": "https://www.20minutos.es/ceuta/vivas-asegura-que-pocas-ciudades-son-capaces-afrontar-trauma-que-sufre-ceuta_7033083_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:35:33.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Luis de la Fuente se vuelca con Ceuta: \"Os habéis convertido en mis ídolos\"",
+      "url": "https://www.20minutos.es/deportes/futbol/luis-fuente-se-vuelca-con-ceuta-plena-crisis-migratoria-estamos-muy-unidos-con-vosotros-os-habeis-convertido-mis-idolos_7033031_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:08:58.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 2
 }

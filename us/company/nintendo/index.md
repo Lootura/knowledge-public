@@ -3,10 +3,16 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-04T15:44:50.549Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Nintendo just announced two Direct events for next week , scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a spe.
+
+Date: 2026-09-04
 
 ### Product availability changed in Europe
 

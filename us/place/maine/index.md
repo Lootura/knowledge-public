@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas](https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com) — 2026-09-03T04:05:42.000Z
+No public source links.

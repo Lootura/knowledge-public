@@ -3,10 +3,28 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.
+
+Date: 2026-09-04
+
+### Illa asegura que la Generalitat hará “todo lo que esté en su mano” para preservar los puestos de trabajo de Seat en Cataluña
+
+El presidente de la Generalitat, Salvador Illa, ha prometido este viernes que su gobierno hará “todo lo que esté en su mano” para preservar los puestos de trabajo y la industria catalana ante los ajustes aprobados por el grupo Volkswagen y las dudas que estos han abierto sobre el futuro de Seat. El fabricante alemán ha.
+
+Date: 2026-09-04
+
+### Salvador Illa afirma que hará «lo que sea» para preservar los puestos de Seat en Cataluña
+
+El presidente de la Generalitat de Cataluña, Salvador Illa , ha asegurado este viernes que está en contacto con los máximos responsables del grupo Volkswagen y de Seat en la comunidad y que desde el Govern harán «lo que sea» para preservar los puestos de trabajo de la compañía en Cataluña. Así lo ha afirmado en una ate.
+
+Date: 2026-09-04
 
 ### Illa inicia su viaje a Ucrania con una parada en Polonia: "Es fundamental para Europa"
 
@@ -50,24 +68,7 @@ El Govern del PSC consolida su alianza con ERC y Comuns, pero acumula asignatura
 
 Date: 2026-08-09
 
-### Los 'retiros' de Illa con sus consejeros del Govern le cuestan a Cataluña más de 210.000 euros
-
-El Govern de Salvador Illa (PSC) ha gastado más de 210.000 euros en cuatro «jornadas de trabajo», según su propia definición, fuera del Palau de la Generalitat,...
-
-Date: 2026-08-06
-
-### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
-
-Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.
-
-Date: 2026-07-24
-
-### Illa abre una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials
-
-El presidente catalán Salvador Illa ha abierto una minicrisis en la Generalitat con el relevo de la consellera de Drets Socials, Mònica Martínez Bravo . Según ha adelantado El Periódico de Catalunya , la consellera ha solicitado su marcha a petición propia. Illa ha escogido como sucesor a Raúl Moreno , un experto en ed.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña](https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com) — 2026-09-04T18:10:52.000Z
+- [Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa](https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com) — 2026-09-04T17:42:13.000Z

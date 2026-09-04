@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T22:20:34.206Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "El pulso entre China y EEUU se traslada a Oriente Próximo",
+      "summary": "El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el \"fortalecimiento del diálogo\" Leer.",
+      "date": "2026-09-03"
+    },
     {
       "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
       "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
@@ -60,11 +65,6 @@
       "title": "El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por \"la crisis en Oriente Próximo\"",
       "summary": "El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "La guerra en Oriente Próximo obliga a Australia a replantearse su dependencia energética",
-      "summary": "Ante la fragilidad de sus reservas de combustible, Canberra busca nuevas fuentes de suministro y estudia la construcción de una tercera refinería de petróleo Leer.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [],

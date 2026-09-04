@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo
+
+Alcaraz suma y sigue, ya carbura en el US Open . Olvídense de la cautela, es aquí y ahora. Es aquí y ahora. «Me he sentido muy bien», asegura al reducido grupo de medios españoles desplazados a Nueva York , entre ellos OKDIARIO. Ganó su segundo partido después de cuatro meses y va al alza respecto a su debut. Ya ha sup.
+
+Date: 2026-09-04
 
 ### El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'
 
@@ -62,14 +68,6 @@ El presidente estadounidense, el republicano Donald Trump , dijo este viernes en
 
 Date: 2026-08-14
 
-### El vestido que Carrie Bradshaw convirtió en leyenda vuelve a nuestras vidas de la mano de Desigual
-
-La historia de la moda está llena de vestidos que siguen inspirando nuevas versiones décadas después. Es el caso del mítico diseño de periódico de John Galliano para Christian Dior que Carrie Bradshaw convirtió en uno de sus looks más recordados de ‘ Sexo en Nueva York’ . Ahora, en Desigual hemos encontrado un vestido.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial](https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com) — 2026-09-03T10:09:38.000Z
-- [Descalabro de Jódar en Nueva York](https://www.elcorreo.com/deportes/tenis/open-usa/descalabro-jodar-nueva-york-20260902233414-ntrc_amp.html?utm_source=lootura.com) — 2026-09-02T21:34:14.000Z
-- [El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'](https://amp.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html?utm_source=lootura.com) — 2026-09-03T12:52:55.000Z
+- [Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo](https://okdiario.com/deportes/carlos-alcaraz-yibing-wu-directo-online-ultima-hora-del-partido-del-us-open-2026-hoy-vivo-20227290?utm_source=lootura.com) — 2026-09-04T18:00:04.000Z

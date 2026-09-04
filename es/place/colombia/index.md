@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T20:28:04.670Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa
+
+Uno de los fugitivos más buscados de Colombia ha sido detenido en Salou (Tarragona), donde se ocultaba bajo una identidad falsa. La Policía Nacional informó ayer, jueves 3 de septiembre, del arresto de alias 'Pirry', señalado como uno de los principales cabecillas de la organización criminal 'El Mesa' y reclamado inter.
+
+Date: 2026-09-04
 
 ### Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia
 
@@ -62,12 +68,6 @@ Somkanae sawatdinak/Shutterstock El 10 de agosto, a las 7:34 am hora local, un p
 
 Date: 2026-08-13
 
-### Exteriores comunica la muerte de un español en el terremoto en Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa](https://www.abc.es/espana/cataluna/detienen-salou-pirry-criminales-buscados-colombia-vivia-20260904161629-nt.html?utm_source=lootura.com) — 2026-09-04T15:02:25.000Z

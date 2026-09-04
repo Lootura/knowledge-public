@@ -1,0 +1,32 @@
+{
+  "id": "usa-falkland-islands",
+  "name": "Falkland Islands",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/falkland-islands",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/falkland-islands",
+  "markdownUrl": "https://atlas.lootura.com/us/person/falkland-islands/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/falkland-islands/index.json",
+  "description": "Follow Falkland Islands, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-04T08:35:00.530Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Argentina's Milei escalates Falklands dispute, seizing on Trump comments and oil tensions",
+      "summary": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project (Image credit: Ricardo Mazalan).",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+      "summary": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s claim to the Falkland Islands were “blowing around the world” in a televised address.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Falkland Islands first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Albares afea que algunos socios europeos participen \"en la desinformación\" sobre Ceuta y reclama \"solidaridad\" con España",
       "summary": "España sigue reclamando \"solidaridad\" por parte del resto de gobiernos de la UE ante la crisis en Ceuta, y ese ha sido el llamamiento que ha hecho este miércoles, de nuevo, el ministro de Exteriores, José Manuel Albares, en la reunión de titulares del ramo en Dublín. Además, ha acusado a algunos gobiernos europeos de p.",
@@ -58,13 +63,15 @@
       "title": "Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta",
       "summary": "El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta",
-      "summary": "El Gobierno registrará este viernes en el Congreso las solicitudes de comparecencia a petición propia y en periodo extraordinario de los ministros Fernando Grande-Marlaska, José Manuel Albares, Margarita Robles y Félix Bolaños para explicar la crisis migratoria en Ceuta por la que entraron más de 72.000 migrantes ilega.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
+      "url": "https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:42:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

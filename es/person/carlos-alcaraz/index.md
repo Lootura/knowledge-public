@@ -3,10 +3,16 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
+
+### Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo
+
+Alcaraz suma y sigue, ya carbura en el US Open . Olvídense de la cautela, es aquí y ahora. Es aquí y ahora. «Me he sentido muy bien», asegura al reducido grupo de medios españoles desplazados a Nueva York , entre ellos OKDIARIO. Ganó su segundo partido después de cuatro meses y va al alza respecto a su debut. Ya ha sup.
+
+Date: 2026-09-04
 
 ### A qué hora es Carlos Alcaraz – Faria y dónde ver gratis por televisión en directo y en vivo online el partido del US Open 2026
 
@@ -52,4 +58,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo](https://okdiario.com/deportes/carlos-alcaraz-yibing-wu-directo-online-ultima-hora-del-partido-del-us-open-2026-hoy-vivo-20227290?utm_source=lootura.com) — 2026-09-04T18:00:04.000Z

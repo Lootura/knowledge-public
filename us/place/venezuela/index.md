@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### The U.S. Wants the Oil From These 17 Venezuelan Fields
+
+A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.
+
+Date: 2026-09-04
 
 ### Morning News Brief
 
@@ -62,13 +68,6 @@ Chevron is the largest foreign oil operator in Venezuela. The deal will expand i
 
 Date: 2026-09-02
 
-### U.S.-Venezuela oil deal will rely on North American Blue Energy Partners
-
-The Trump administration's plan to take a stake in tens of billions of barrels of Venezuelan oil reserves will hinge on a private company called North American Blue Energy Partners, the White House announced Monday.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Morning News Brief](https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief?utm_source=lootura.com) — 2026-09-03T08:03:57.000Z
-- [Ex-National Security Council director on administration's plan for Venezuela oil](https://www.npr.org/2026/09/03/nx-s1-5954063/ex-national-security-council-director-on-administrations-plan-for-venezuela-oil?utm_source=lootura.com) — 2026-09-03T08:08:17.000Z
+- [The U.S. Wants the Oil From These 17 Venezuelan Fields](https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html?utm_source=lootura.com) — 2026-09-04T15:07:23.000Z

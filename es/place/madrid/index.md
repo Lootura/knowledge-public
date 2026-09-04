@@ -3,77 +3,73 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
+### Toscano deja su acta de concejal con críticas a Vox por virar hacia «el feminismo y el LGTBI»
 
-La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Política Fiscal y Financiera (CPFF) en la que estaba previsto votar la propuesta de reforma de la financiación autonómica planteada por el Gobierno, tras acordarla con sus socios de ERC y con el gobierno de la Generalitat de Cataluña, y este ju.
+Tras aclararse (judicialmente) el futuro político de los exconcejales de Vox Ortega Smith e Ignacio Ansaldo, que siguen en el Ayuntamiento de Madrid como no adscritos, ha llegado el turno de la tercera edil expulsada del partido, Carla Toscano, que se encontraba de baja médica. Ella misma ha anunciado este viernes que.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»
+### La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas
 
-La líder del PSOE de Madrid , Reyes Maroto, no ha tardado en arrancarse la espina que le dejaron las primarias del pasado 19 de julio. La exministra ha apartado de la dirección del partido a Enma López, la hasta ahora portavoz adjunta del partido en el Ayuntamiento de Madrid que se presentó a las elecciones como altern.
+La Audiencia Provincial de Madrid ha tumbado una querella contra El Confidencial del abogado Jacobo Teijelo , investigado por su implicación en las cloacas de Ferraz, en la que sostenía que este diario había vulnerado su derecho a la intimidad por publicar en mayo de 2025 la grabación en la que se escuchaba a Leire Díe.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Carpetazo a la primera de las quejas contra el juez Peinado en manos del TSJ de Madrid
+### Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid
 
-El Tribunal Superior de Justicia de Madrid ha dado carpetazo a la primera de los dos quejas que quedaron en sus manos por decisión del Consejo General del Poder Judicial , cuya permanente decidió el pasado mes de julio in extremis y dividida alargar las opciones de expedientarle a pesar de la propuesta en contra del Pr.
+Los Reyes , junto con la Princesa de Asturias y la Infanta Sofía , asistirán el próximo 13 de septiembre al Gran Premio de Fórmula 1 que se celebrará en Madrid, según ha anunciado este viernes Zarzuela. En concreto, los miembros de la Familia Real acudirán a la carrera que tendrá lugar el domingo , si bien la cita depo.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"
+### El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales
 
-La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa "está condenada" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.
+El ministro de Hacienda, Arcadi España, ha querido regalar hoy, antes del Consejo de Política Fiscal y Financiera, que ha dado luz verde a la propuesta de reforma de la financiación autonómica, a cada consejero de Hacienda un libro de un autor significativo de otro territorio. Es un detalle inédito. Cada representante.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial
+### El secreto que se esconde bajo la calle Serrano de Madrid y pocos conocen: una réplica prehistórica que el Museo Arqueológico inauguró en 1964
 
-La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.
+La calle Serrano es sinónimo de escaparates, edificios señoriales y del constante trasiego de turistas y madrileños. Pero, entre el bullicio de una de las arterias más conocidas de la capital, también hay espacio para viajar miles de años atrás . Y no hace falta recorrer cientos de kilómetros para acercarse a uno de lo.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Rodríguez excluye a Madrid de subvenciones millonarias para movilizar vivienda por no aplicar políticas de Sánchez
+### La discoteca más grande de Madrid fue un cine y ahora esconde en su séptima planta un restaurante para solo 20 comensales
 
-La ministra de Vivienda y Agenda Urbana, Isabel Rodríguez, anunció esta semana que su Ministerio va a destinar 90 millones de euros a las Comunidades Autónomas que han puesto en marcha las zonas de mercado residencial tensionado. Sin embargo, el Ejecutivo ha dejado fuera de las ayudas a Madrid pese a tratarse de una de.
+Madrid acostumbra a encontrar nuevos usos para edificios que parecían tener ya escrita su historia. En plena calle Atocha, a pocos pasos del Museo Reina Sofía y junto al Triángulo del Arte , un antiguo cine acabó convertido en uno de los grandes referentes del ocio nocturno de la capital. Ahora, casi un siglo después d.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación
+### El gran fuego de Burgohondo llega a los tribunales con 50 denuncias y decenas de millones en reclamaciones
 
-La Comunidad de Madrid no asistirá este viernes al Consejo de Política Fiscal y Financiera (CPFF) al defender que en él se va a aprobar la reforma del sistema de financiación autonómica que han pactado «de manera bilateral y de espaldas al resto de comunidades autónomas el Gobierno de Pedro Sánchez y el Gobierno de Cat.
+El devastador incendio de Burgohondo, que destruyó 38.000 hectáreas sólo en Ávila -y 77.000 en total al combinarse con los focos de Madrid y Toledo- llega al fin a los tribunales. La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas para investigarlo y determinar causas,.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Telefónica mantendrá su presencia en la histórica sede de Gran Vía al menos durante tres años
+### 🎙 PODCAST | Recta final de legislatura: de qué depende la fecha de las elecciones, con Ignacio Escolar
 
-Aunque Telefónica haya vendido su sede del 28 de Gran Vía de Madrid, mantendrá su impronta en el casi centenario inmueble. La operadora ha llegado a un acuerdo con el nuevo propietario, el empresario murciano Tomás Olivo , para alquilar cinco plantas durante un periodo de tres años, avanzan fuentes conocedoras del acue.
+Cuarto año de legislatura de este gobierno. Ahora sí, estamos cerca de las elecciones. Tocan en 11 meses… pero pueden ser en 5. Ceuta, la amnistía, los presupuestos, Zapatero, Ayuso… ¿De qué depende? Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entradas La actualidad.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Adiós a Puerta Cerrada: cierra tras más de 30 años uno de los quioscos emblema de La Latina
+### El Prado abre sus puertas de noche: la cita cultural gratuita que Madrid recupera cada primer sábado de mes
 
-Hay negocios que pasan sin pena ni gloria por un Madrid comercial abarrotado de nuevas aperturas que apenas llegan a echar raíces . Otros, en cambio, forman parte de la vida del barrio hasta el punto de dejar huérfanos a sus vecinos cuando bajan la persiana. Es el caso de uno de los últimos bastiones quiosqueros de La.
+Hay planes que cambian por completo cuando cae el sol. Es el caso de una de las propuestas culturales más especiales de Madrid: El Prado de noche , la iniciativa del Museo Nacional del Prado que vuelve en 2026 para permitir que sus visitantes recorran algunas de sus salas en un horario poco habitual y, además, con entr.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Cortes de tráfico en Madrid hoy jueves por varias manifestaciones: horarios, zonas y calles afectadas
+### Hacienda tacha de «gamberrismo institucional» el boicot de Madrid a la cita sobre financiación
 
-Las movilizaciones previstas a lo largo de la jornada obligarán a modificar la movilidad en varios puntos de la capital y también alterarán el recorrido habitual de numerosas líneas de autobús.
+El Ministerio de Hacienda ha lamentado este jueves que la Comunidad de Madrid haya anunciado que no acudirá a la reunión con todas las comunidades para abordar la reforma de la financiación autonómica y que haya animado al resto de regiones gobernadas por el PP a sumarse al boicot, aunque le ha advertido de que «el gam.
 
 Date: 2026-09-03
 
 ## Fuentes
 
-- [Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica](https://www.abc.es/economia/madrid-promueve-boicot-general-gobiernos-pp-bloquear-20260903164926-nt.html?utm_source=lootura.com) — 2026-09-03T15:22:10.000Z
-- [Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»](https://www.abc.es/espana/madrid/reyes-maroto-aparta-enma-lopez-direccion-psoe-20260903155139-nt.html?utm_source=lootura.com) — 2026-09-03T14:45:03.000Z
-- [Carpetazo a la primera de las quejas contra el juez Peinado en manos del TSJ de Madrid](https://www.elconfidencial.com/espana/2026-09-03/carpetazo-a-la-primera-de-las-quejas-contra-el-juez-peinado-en-manos-del-tsj-de-madrid_4417272/?utm_source=lootura.com) — 2026-09-03T13:07:00.000Z
-- [La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"](https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com) — 2026-09-03T12:42:22.000Z
-- [El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial](https://www.eldiario.es/politica/tribunal-superior-justicia-madrid-deja-castigo-quejas-peinado-tramito-judicial_1_13485234.html?utm_source=lootura.com) — 2026-09-03T12:40:49.000Z
-- [Rodríguez excluye a Madrid de subvenciones millonarias para movilizar vivienda por no aplicar políticas de Sánchez](https://okdiario.com/economia/vivienda/rodriguez-excluye-madrid-subvenciones-millonarias-movilizar-vivienda-no-aplicar-politicas-sanchez-20224050?utm_source=lootura.com) — 2026-09-03T15:05:23.000Z
-- [Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación](https://theobjective.com/espana/politica/2026-09-03/madrid-planta-hacienda-comunidades-pp-boicot-financiacion/?utm_source=lootura.com) — 2026-09-03T14:52:30.000Z
+- [Toscano deja su acta de concejal con críticas a Vox por virar hacia «el feminismo y el LGTBI»](https://www.abc.es/espana/madrid/carla-toscano-deja-acta-concejala-ayuntamiento-madrid-20260904125503-nt.html?utm_source=lootura.com) — 2026-09-04T14:41:35.000Z
+- [La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas](https://www.elconfidencial.com/espana/2026-09-04/justicia-tumba-querella-cloacas-psoe-el-confidencial-veracidad-audio-balas_4418037/?utm_source=lootura.com) — 2026-09-04T13:31:00.000Z
+- [Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid](https://theobjective.com/gente/2026-09-04/reyes-princesa-infanta-gran-premio-f1-madrid/?utm_source=lootura.com) — 2026-09-04T14:50:42.000Z

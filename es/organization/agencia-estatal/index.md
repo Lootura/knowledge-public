@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### Sevilla iguala el récord de temperatura más alta del año en España con 45,1 grados
+
+La estación de la Agencia Estatal de Meteorología (Aemet) ubicada en Sevilla-Tablada igualó este jueves, con 45,1 grados, la temperatura más alta del año en España. Esta misma temperatura se midió también en Andújar (Jaén) y Montoro (Córdoba) los días 22 y 23 de junio respectivamente. Según ha publicado la Aemet, es "m.
+
+Date: 2026-09-04
 
 ### El aviso de la Aemet a estas 8 comunidades autónomas de España por lluvias, tormentas y calor
 

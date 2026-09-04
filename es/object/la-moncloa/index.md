@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"](https://www.eldiario.es/politica/asistente-begona-gomez-pide-absolucion-condene-costas-acusacion-hazteoir-actuar-temeridad_1_13485086.html?utm_source=lootura.com) — 2026-09-03T12:42:22.000Z
+No public source links.

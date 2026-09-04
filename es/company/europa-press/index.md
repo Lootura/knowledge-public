@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)](https://www.elconfidencial.com/espana/2026-09-03/hombre-fallece-piscina-illana-guadalajara-1tps_4417353/?utm_source=lootura.com) — 2026-09-03T14:47:00.000Z
+No public source links.

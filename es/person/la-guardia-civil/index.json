@@ -1,0 +1,86 @@
+{
+  "id": "es-la-guardia-civil",
+  "name": "La Guardia Civil",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/la-guardia-civil",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/la-guardia-civil",
+  "markdownUrl": "https://atlas.lootura.com/es/person/la-guardia-civil/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/la-guardia-civil/index.json",
+  "description": "Sigue la actividad de La Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "La Guardia Civil informa a la jueza de que no recibió aviso alguno sobre \"el alcance\" que tendría la llegada de migrantes a Ceuta",
+      "summary": "El informe del Servicio de Información no menciona al CNI ni a ningún otro organismo y alude a una información compartida en foros habituales de cooperación entre fuerzas de seguridad y agencias que no permitía adivinar \"el colapso\" que se produjo La Fiscalía apoya que la Audiencia Nacional investigue la crisis de Ceut.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "El informe de la Guardia Civil trasladado a la juez incluye avisos anteriores a la invasión de Ceuta",
+      "summary": "La Guardia Civil ha remitido un informe a la juez María Tardón donde se incluyen avisos \"por los canales y en los foros habituales relativa a la presión migratoria sobre la frontera\" de Ceuta, según confirman fuentes de la investigación a ABC. El escueto documento de apenas cinco páginas evita señalar los posibles orga.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La Guardia Civil se alinea con el Gobierno ante la jueza de la crisis de Ceuta y niega alertas previas",
+      "summary": "El informe remitido a Tardón afirma que no tuvo información en los días anteriores sobre la \"dimensión\", el contenido y el alcance de la avalancha de migrantes que se cernía sobre la frontera entre España y Marruecos en El Tarajal Leer.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "El informe de la Guardia Civil trasladado a la juez incluye avisos del CNI de la invasión",
+      "summary": "La Guardia Civil ha remitido un informe a la juez María Tardón donde se incluyen avisos del Centro Nacional de Inteligencia (CNI) sobre la invasión a Ceuta, según confirman fuentes de la investigación a ABC. El escueto documento de apenas cinco páginas evita señalar los posibles organizadores del asalto y tampoco hay r.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Detenido tras encañonar con una pistola de fogueo a una persona en Viver (Castellón)",
+      "summary": "La Guardia Civil ha detenido a un hombre de 29 años e investiga a una mujer de 26 por su presunta implicación en unos hechos ocurridos el pasado 15 de agosto en Viver (Castellón), durante los que un hombre habría encañonado directamente a una persona con una pistola que posteriormente resultó ser de fogueo. La investig.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "La Guardia Civil pone en cuestión la versión de Adif sobre la soldadura que se rompió y derivó en la tragedia de Adamuz",
+      "summary": "Un último informe, sobre la inspección ocular tras el choque y descarrilamiento de los trenes, insiste en que la rotura de la vía fue la causa del siniestro que costó la vida a 46 personas Leer.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Desarticulada una banda de 11 personas que asaltaba bares y restaurantes en Huelva, Sevilla y Córdoba",
+      "summary": "La Guardia Civil ha desarticulado una organización criminal formada por 11 personas que se dedicaba a cometer robos con fuerza en establecimientos de hostelería de las provincias de Huelva, Sevilla y Córdoba . La operación, bautizada como ‘Rookie’, se ha saldado con la detención de nueve de sus integrantes, mientras qu.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura",
+      "summary": "La investigación judicial sobre el grave accidente ferroviario ocurrido el pasado 18 de enero en Adamuz (Córdoba) ya tiene una respuesta técnica sobre el origen del desastre. El Informe Técnico de Inspección Ocular elaborado por los especialistas del Departamento de Escena del Crimen de la Guardia Civil y entregado en.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "La Guardia Civil localiza a 17 inmigrantes en las islas Chafarinas y los traslada a Melilla",
+      "summary": "La patrullera 'Río Guadiana' de la Guardia Civil trasladó este pasado lunes al puerto de Melilla a 17 personas de origen subsahariano que se encontraban en las islas Chafarinas, según ha informado este miércoles la Delegación del Gobierno. El traslado desde estas islas de soberanía española situadas a 1,9 millas náutic.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "summary": "La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.",
+      "date": "2026-09-01"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El informe de la Guardia Civil trasladado a la juez incluye avisos anteriores a la invasión de Ceuta",
+      "url": "https://www.abc.es/espana/informe-guardia-civil-trasladado-juez-incluye-avisos-20260904140440-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:53:03.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "La Guardia Civil se alinea con el Gobierno ante la jueza de la crisis de Ceuta y niega alertas previas",
+      "url": "https://www.elmundo.es/espana/2026/09/04/6a9af9fcfc6c83a7178b45a5.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:08:54.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La Guardia Civil informa a la jueza de que no recibió aviso alguno sobre \"el alcance\" que tendría la llegada de migrantes a Ceuta",
+      "url": "https://www.eldiario.es/politica/guardia-civil-informa-jueza-no-recibio-aviso-alcance-tendria-llegada-migrantes-ceuta_1_13487649.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T12:34:16.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 3
+}

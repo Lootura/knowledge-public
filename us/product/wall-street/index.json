@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/wall-street/index.json",
   "description": "Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-03T22:19:56.767Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
+      "summary": "Leon Black, a former Wall Street private equity investor, sued the House Oversight Committee, seeking to stop the panel from enforcing its subpoenas against him in an ongoing Epstein probe.",
+      "date": "2026-09-03"
+    },
     {
       "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
       "summary": "The S&P 500 is in position for a rare fourth year of consecutive annual gains. Risks are rising, our columnist says, yet Wall Street is doubling down.",

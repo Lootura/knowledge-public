@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### El pulso entre China y EEUU se traslada a Oriente Próximo
+
+El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el "fortalecimiento del diálogo" Leer.
+
+Date: 2026-09-03
 
 ### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
 
@@ -61,12 +67,6 @@ Date: 2026-08-14
 Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.
 
 Date: 2026-08-14
-
-### China guía sus armas hipersónicas por las estrellas cuando el GPS falla, una solución que las hace inmunes al bloqueo electrónico a Mach 5
-
-Investigadores de la Academia de Investigación Aeroespacial de Guangdong, en China, han desarrollado un avanzado sistema de navegación basado en las estrellas diseñado para guiar misiles hipersónicos cuando las señales de satélite se ven comprometidas o inutilizadas. Esto aborda uno de los puntos más vulnerables: la de.
-
-Date: 2026-08-13
 
 ## Fuentes
 

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-04T15:44:32.845Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "El “momento Ceuta” y la trampa que Europa se tendió a sí misma",
+      "summary": "No se puede entender el asalto masivo e inesperado de personas inmigrantes en el territorio de Ceuta únicamente a través del cristal de probables manipulaciones indirectas de terceros países para desestabilizar al Gobierno español. Y el significado de fondo del momento Ceuta no se agota en un simple juego geopolítico y.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Alicia García: “Sánchez está ocupado con descansar y en cuestiones judiciales pero no se preocupa por las personas dependientes y con discapacidad”",
       "summary": "La portavoz del Grupo Parlamentario Popular en el Senado, Alicia García, afirmó hoy que el presidente del Gobierno de España, Pedro Sánchez, está “muy ocupado con descansar y con defenderse de la corrupción” y “muy ocupado en las cuestiones judiciales que le afectan, pero no se preocupa” por las personas con discapacid.",
@@ -58,11 +63,6 @@
       "title": "Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»",
       "summary": "En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: \"Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»",
-      "summary": "En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: \"Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.",
-      "date": "2026-08-11"
     }
   ],
   "sources": [],

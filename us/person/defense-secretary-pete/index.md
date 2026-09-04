@@ -3,14 +3,26 @@
 > Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T15:44:50.549Z
 - Canonical: https://atlas.lootura.com/us/person/defense-secretary-pete
 
 ## Recent changes
 
-### Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list
+### Trump names new acting Army secretary after Driscoll resigns
 
-Defense Secretary Pete Hegseth has told people close to him that Sean Parnell would be his top choice for secretary of the Army, several senior officials told CBS News.
+President Trump has named Adam Telle as the acting Army secretary, following the departure of Dan Driscoll amid widespread reports of tensions with Defense Secretary Pete Hegseth.
+
+Date: 2026-09-04
+
+### Trump Taps Army Engineering Official as Acting Secretary
+
+The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army.
+
+Date: 2026-09-04
+
+### New testosterone guidelines temporarily rescinded, Pentagon says
+
+The Pentagon will begin requiring male service members ages 30 and older to get screened for testosterone deficiency, after Defense Secretary Pete Hegseth called for the change over the summer.
 
 Date: 2026-09-03
 
@@ -56,19 +68,6 @@ President Donald Trump alongside Defense Secretary Pete Hegseth during a meeting
 
 Date: 2026-09-01
 
-### Army secretary leaves after clashes with Hegseth
-
-The Army secretary’s departure will help Defense Secretary Pete Hegseth consolidate power at the Pentagon Army Secretary Dan Driscoll, a close ally of Vice President JD Vance, resigned after mounting tensions with Hegseth, leaving the post without a Senate-confirmed leader. He had been expected to leave by the end of t.
-
-Date: 2026-09-01
-
-### Hegseth reacts to scary concerns about USS Abraham Lincoln shortages and bad conditions
-
-Defense Secretary Pete Hegseth is reacting to concerns about food shortages and other apparent stark conditions aboard the USS Abraham Lincoln, which has been deployed for more than 250 days. CBS News' Zak Hudak reports.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list](https://www.cbsnews.com/news/hegseth-favors-sean-parnell-army-secretary-sources/?utm_source=lootura.com) — 2026-09-03T15:41:52.000Z
-- [Pete Hegseth Faces Growing Criticism as War With Iran Rolls On](https://www.today.com/video/republican-senator-calls-on-trump-to-fire-pete-hegseth-269264965728?utm_source=lootura.com) — 2026-09-03T11:30:42.000Z
+No public source links.

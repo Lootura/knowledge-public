@@ -3,10 +3,16 @@
 > Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/funcion-publica
 
 ## Cambios recientes
+
+### Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones
+
+La vuelta de las vacaciones se promete difícil para el ministro de Función Pública, Óscar López , después de que hoy el principal sindicato que representa a los funcionarios en nuestro país haya anunciado que a lo largo del mes de septiembre intensificará la presión en las batallas que mantiene abiertas con el Gobierno.
+
+Date: 2026-09-04
 
 ### Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027
 
@@ -40,4 +46,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-No public source links.
+- [Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones](https://www.abc.es/economia/funcionarios-aprietan-constitucional-recorte-salarial-2010-hizo-20260904140603-nt.html?utm_source=lootura.com) — 2026-09-04T14:51:15.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Óscar Puente: Consejos tengo...",
+      "summary": "El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las vías que dependen de él sigue dando lecciones de periodismo en su cuenta en X. No satisfecho con las invectivas que le dedicó el jueves a un sindicato policial porque ABC publicó el informe de la inspección ocular del accidente, el viernes se.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura",
       "summary": "Uno de los socialistas con mayor perfil político del Consejo de Ministros, Óscar Puente, quiere la maquinaria de su departamento al máximo de revoluciones para abordar los últimos meses de la legislatura . El arranque del curso político se ha producido con un cambio de calado en la estructura del Ministerio de Transpor.",
@@ -60,13 +65,15 @@
       "title": "Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”",
       "summary": "El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Óscar Puente en su propio mundo: «Otra crisis más que resuelve Pedro Sánchez»",
-      "summary": "La situación en Ceuta sigue siendo muy delicada después de la llegada masiva de miles de inmigrantes desde Marruecos y el ministro de Transportes, Óscar Puente, continúa en su propio mundo después de asegurar que Pedro Sánchez ha resuelto «otra crisis más». Así lo ha indicado en su cuenta de X. Según Puente, el preside.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Óscar Puente: Consejos tengo...",
+      "url": "https://www.abc.es/opinion/abc-oscar-puente-consejo-20260904192839-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T18:24:43.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

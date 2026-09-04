@@ -3,7 +3,7 @@
 > Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/person/john-ternus
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-09-01
 
 ## Sources
 
-No public source links.
+- [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch?utm_source=lootura.com) — 2026-09-04T14:52:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T20:28:04.670Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,6 +16,11 @@
     "🇨🇴"
   ],
   "changes": [
+    {
+      "title": "Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa",
+      "summary": "Uno de los fugitivos más buscados de Colombia ha sido detenido en Salou (Tarragona), donde se ocultaba bajo una identidad falsa. La Policía Nacional informó ayer, jueves 3 de septiembre, del arresto de alias 'Pirry', señalado como uno de los principales cabecillas de la organización criminal 'El Mesa' y reclamado inter.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Suben a 285 los muertos y a 3.975 los heridos por el gran terremoto del noroeste de Colombia",
       "summary": "Las autoridades de Colombia han elevado este viernes a más de 280 los muertos y a más de 3.970 heridos por causa del seísmo de magnitud 7,4 en la escala de Richter que sacudió el noroeste del país latinoamericano a comienzos de esta semana. Concretamente, son 285 las personas que han perdido la vida y 3.975 las que han.",
@@ -60,13 +65,15 @@
       "title": "Claves de la destrucción sísmica en Colombia: muros sin anclaje, construcciones informales y norma incumplida",
       "summary": "Somkanae sawatdinak/Shutterstock El 10 de agosto, a las 7:34 am hora local, un potente terremoto de magnitud (Mw) 7.4 golpeó el occidente de Colombia a una profundidad de 104 kilómetros, según el Servicio Geológico Colombiano . Es el terremoto más potente registrado en Colombia en lo que va del siglo XXI, y el más fuer.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa",
+      "url": "https://www.abc.es/espana/cataluna/detienen-salou-pirry-criminales-buscados-colombia-vivia-20260904161629-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:02:25.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

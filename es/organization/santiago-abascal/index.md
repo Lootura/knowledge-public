@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-09-03T22:19:40.296Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### De Ceuta a Washington: cómo la ultraderecha convierte la inmigración en una guerra cultural global
+
+OSCAR GONZALEZ FUENTES/Shutterstock Cuando decenas de miles de personas cruzaban irregularmente hacia Ceuta el pasado 30 de julio, Santiago Abascal, líder del partido ultraderechista Vox, no dudaba en hablar ya de “invasión” . Apenas unas horas después, Donald Trump utilizó el mismo término y presentó lo ocurrido en la.
+
+Date: 2026-09-03
 
 ### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
 
@@ -59,12 +65,6 @@ Date: 2026-08-08
 ### Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado
 
 Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.
-
-Date: 2026-08-08
-
-### Vox promueve activar el artículo 102 de la Constitución para investigar a Sánchez por delito de traición
-
-El líder de Vox, Santiago Abascal, ha anunciado que su partido promoverá la activación del artículo 102 de la Constitución para investigar a Pedro Sánchez y a su Gobierno por posibles delitos de traición y contra la seguridad del Estado. Abascal ha denunciado que «la traición de Pedro Sánchez a los españoles debe lleva.
 
 Date: 2026-08-08
 

@@ -3,10 +3,22 @@
 > Sigue la actividad de Brad Pitt en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T12:57:35.592Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/brad-pitt
 
 ## Cambios recientes
+
+### Brad Pitt, Penélope Cruz, Jeremy Irons y Rami Malek confirman su presencia en el Zinemaldia
+
+Orlando Bloom, Marion Cotillard, Jesse Eisenberg, Vincent Lindon y Lali Espósito también estarán en la 74 edición del Festival.
+
+Date: 2026-09-04
+
+### Discovered by Atlas
+
+Brad Pitt first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-11
 
 ### Brad Pitt: «Estuve sobrio durante siete años. Y luego me caí del vagón»
 
@@ -20,12 +32,6 @@ Brad Pitt ha hecho un repaso sin tapujos de los últimos 10 años de su vida, ma
 
 Date: 2026-08-11
 
-### Discovered by Atlas
-
-Brad Pitt first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Brad Pitt, Penélope Cruz, Jeremy Irons y Rami Malek confirman su presencia en el Zinemaldia](https://www.diariovasco.com/culturas/zinemaldia/brad-pitt-penelope-cruz-jeremy-irons-rami-ralek-20260904113954-nt_amp.html?utm_source=lootura.com) — 2026-09-04T09:46:13.000Z

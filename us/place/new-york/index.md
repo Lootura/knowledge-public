@@ -3,14 +3,38 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
+### Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight
+
+Serena and Venus Williams will play together at the U.S. Open in New York for the first time in four years.
+
+Date: 2026-09-04
+
+### Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’
+
+The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it had decreased or eliminated U.S. gold holdings.
+
+Date: 2026-09-03
+
 ### Gloria Steinem Came to New York to Be a Writer. She Became a Movement.
 
 Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.
+
+Date: 2026-09-03
+
+### These athletes will advance to the U.S. Open's third round
+
+The U.S. Open is underway in New York City. Sports Illustrated senior writer and 60 Minutes correspondent Jon Wertheim has the latest on tennis starts to watch.
+
+Date: 2026-09-03
+
+### 9/11 memorial service should be about remembrance, not politics, Mamdani says
+
+This year's 9/11 memorial service will be Zohran Mamdani's first as mayor of New York City.
 
 Date: 2026-09-03
 
@@ -44,31 +68,7 @@ During a news conference in New York, Homeland Security Secretary Markwayne Mull
 
 Date: 2026-09-01
 
-### Woman killed in Times Square stabbing attack worked for Bank of America
-
-The woman who died, Erin Piacenti, 32, was one of two people who were stabbed Monday afternoon in the tourist and theater hub, a few blocks from Bank of America's office tower in New York.
-
-Date: 2026-09-01
-
-### Could an American win men's singles at this year's U.S. Open?
-
-The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.
-
-Date: 2026-09-01
-
-### A NY hospital tried to close its birthing center. This city united to fight back
-
-Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).
-
-Date: 2026-09-01
-
-### Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators
-
-Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Gloria Steinem Came to New York to Be a Writer. She Became a Movement.](https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html?utm_source=lootura.com) — 2026-09-03T15:26:06.000Z
-- [Gloria Steinem's Long and Revealing History With TIME](https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/?utm_source=lootura.com) — 2026-09-03T11:51:55.000Z
+- [Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-04T15:32:45.000Z
+- [Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’](https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html?utm_source=lootura.com) — 2026-09-03T20:07:38.000Z

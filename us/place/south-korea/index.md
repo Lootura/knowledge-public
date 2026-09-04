@@ -3,10 +3,16 @@
 > Follow South Korea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T08:35:00.530Z
 - Canonical: https://atlas.lootura.com/us/place/south-korea
 
 ## Recent changes
+
+### China Boycotts a Top Art Festival Over Taiwan Exhibition
+
+China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
+
+Date: 2026-09-04
 
 ### China Boycotts a Top Art Festival Over Taiwan Exhibition
 
@@ -40,4 +46,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [China Boycotts a Top Art Festival Over Taiwan Exhibition](https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html?utm_source=lootura.com) — 2026-09-03T13:50:41.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?
+
+Como cada semana, desde COOL recogemos las noticias más leídas por nuestros lectores en los últimos días. En la primera semana de curso, los famosos, tras sus vacaciones, no han dejado de darnos titulares, así como la propia Casa Real de España tras mostrar su apoyo al pueblo ceutí debido a la invasión de Marruecos. Ta.
+
+Date: 2026-09-04
 
 ### El Gobierno atribuye a un bulo de la derecha que el Rey quisiera ir a Ceuta y Sánchez lo impidiera
 
@@ -64,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?](https://okdiario.com/cool/famosos/polemico-parto-desnudo-famosa-cual-sido-noticia-vip-semana-20229244?utm_source=lootura.com) — 2026-09-04T18:00:47.000Z

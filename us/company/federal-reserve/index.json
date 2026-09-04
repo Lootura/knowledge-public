@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.json",
   "description": "Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T08:35:00.530Z",
   "aliases": [
     "FRS",
     "Fed",
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
+      "summary": "Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
       "summary": "Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.",
@@ -51,13 +56,6 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
-      "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T14:07:45.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

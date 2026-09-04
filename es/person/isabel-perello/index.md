@@ -3,10 +3,22 @@
 > Sigue la actividad de María Isabel Perelló Doménech en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T08:34:43.084Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-perello
 
 ## Cambios recientes
+
+### La causa de Ceuta en la Audiencia ahonda en el choque del Gobierno con el Poder Judicial
+
+La tensión y nervios dentro del Ejecutivo y su entorno va en aumento y la crisis de Ceuta la ha hecho subir todavía más. El temor a un nuevo incendio judicial que afecte al Gobierno provocó ayer dos movimientos que fueron aplacados por la presidenta del poder judicial, Isabel Perelló, quien tuvo que reclamar el “máximo.
+
+Date: 2026-09-04
+
+### Discovered by Atlas
+
+María Isabel Perelló Doménech first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-03
 
 ### Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza
 
@@ -38,16 +50,6 @@ El ministro del Interior, Fernando Grande- Marlaska , ha transmitido este jueves
 
 Date: 2026-09-03
 
-### Discovered by Atlas
-
-Isabel Perelló first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza](https://www.20minutos.es/nacional/marlaska-denuncia-ante-cgpj-que-se-le-impidiera-acceder-informe-sobre-ceuta-consejo-defiende-jueza-que-ordeno-veto_7032553_0.html?utm_source=lootura.com) — 2026-09-03T15:01:49.000Z
-- [Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta](https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html?utm_source=lootura.com) — 2026-09-03T15:19:12.000Z
-- [Marlaska censura la orden de no elevar el informe de Ceuta y la presidenta del Supremo le responde que la jueza actuó bien](https://www.eldiario.es/politica/marlaska-censura-orden-no-elevar-informe-ceuta-presidenta-supremo-le-responde-jueza-actuo_1_13485681.html?utm_source=lootura.com) — 2026-09-03T15:22:48.000Z
-- [La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón](https://www.lavanguardia.com/politica/20260903/11626523/presidenta-cgpj-advierte-marlaska-tenga-maximo-respeto-juez-tardon.html?utm_source=lootura.com) — 2026-09-03T15:12:46.000Z
-- [Marlaska, «preocupado» por no poder acceder a la investigación de la Policía sobre Ceuta](https://theobjective.com/espana/tribunales/2026-09-03/marlaska-investigacion-policia-ceuta/?utm_source=lootura.com) — 2026-09-03T14:48:05.000Z
+No public source links.

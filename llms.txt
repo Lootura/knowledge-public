@@ -12,29 +12,29 @@
 
 ## Latest entities — US
 
-- [Abraham Lincoln](https://atlas.lootura.com/us/person/abraham-lincoln): Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Adam Telle](https://atlas.lootura.com/us/person/adam-telle): Follow Adam Telle, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Apple Inc.](https://atlas.lootura.com/us/company/apple): Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Bernie Sanders](https://atlas.lootura.com/us/person/bernie-sanders): Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Defense Secretary Pete](https://atlas.lootura.com/us/person/defense-secretary-pete): Follow Defense Secretary Pete, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Elon Musk](https://atlas.lootura.com/us/person/elon-musk): Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Spain](https://atlas.lootura.com/us/place/espana): Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Europe](https://atlas.lootura.com/us/place/europe): Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
 - [Alberto Núñez Feijóo](https://atlas.lootura.com/es/person/alberto-nunez-feijoo): Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Antonio Balas Dávila](https://atlas.lootura.com/es/person/antonio-balas): Sigue la actividad de Antonio Balas Dávila en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Banco Central Europeo](https://atlas.lootura.com/es/company/banco-central-europeo): Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Begoña Gómez](https://atlas.lootura.com/es/person/begona-gomez): Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Canadá](https://atlas.lootura.com/es/place/canada): Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Brad Pitt](https://atlas.lootura.com/es/person/brad-pitt): Sigue la actividad de Brad Pitt en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Carlos Alcaraz](https://atlas.lootura.com/es/person/carlos-alcaraz): Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [mansión exclusiva](https://atlas.lootura.com/es/object/casa-blanca): Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Consejo General](https://atlas.lootura.com/es/person/consejo-general): Sigue la actividad de Consejo General en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [El Corte Inglés](https://atlas.lootura.com/es/company/el-corte-ingles): Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Dinastía real](https://atlas.lootura.com/es/organization/casa-real): Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [República de Colombia](https://atlas.lootura.com/es/place/colombia): Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

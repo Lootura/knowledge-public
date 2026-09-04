@@ -3,10 +3,22 @@
 > Follow Karoline Leavitt, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-04T08:35:00.530Z
 - Canonical: https://atlas.lootura.com/us/person/karoline-leavitt
 
 ## Recent changes
+
+### Vance on Dan Driscoll's resignation as Army secretary, other high-profile military departures
+
+Vice President JD Vance on Thursday held the first briefing at the White House since Karoline Leavitt left as press secretary, where CBS News senior White House correspondent Weijia Jiang asked him about the departure of the now-former Army Secretary Dan Driscoll. Jiang joins "The Takeout" with more.
+
+Date: 2026-09-03
+
+### JD Vance Says He Wouldn’t Call Iran Conflict a War
+
+In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran.
+
+Date: 2026-09-03
 
 ### Karoline Leavitt leaves behind a legacy of lies. What’s next for the Trump aide? | Arwa Mahdawi
 

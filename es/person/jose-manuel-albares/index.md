@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.
+
+Date: 2026-09-04
 
 ### Albares afea que algunos socios europeos participen "en la desinformación" sobre Ceuta y reclama "solidaridad" con España
 
@@ -62,12 +68,6 @@ El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los 
 
 Date: 2026-08-08
 
-### Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños comparecerán en el Congreso por la crisis en Ceuta
-
-El Gobierno registrará este viernes en el Congreso las solicitudes de comparecencia a petición propia y en periodo extraordinario de los ministros Fernando Grande-Marlaska, José Manuel Albares, Margarita Robles y Félix Bolaños para explicar la crisis migratoria en Ceuta por la que entraron más de 72.000 migrantes ilega.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa](https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com) — 2026-09-04T17:42:13.000Z

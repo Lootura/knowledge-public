@@ -2,75 +2,76 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Type: person
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros
+### El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios
 
-El presidente del Gobierno, Pedro Sánchez, ha asegurado en su comparecencia en el Congreso que el Ejecutivo convocó el pasado 21 de agosto a la embajadora marroquí en España, Karima Benyaich, por las “ declaraciones inaceptables sobre Ceuta y sobre Melilla ” proferidas por dos ministros de Marruecos. Es la primera vez.
+La ministra Sara Aagesen pide por carta al comisario europeo de Clima, Wopke Hoekstra, una una tasa permanente sobre los beneficios de las petroleras y gasistas para financiar la reconstrucción ante desastres ambientales como los incendios Leer.
+
+Date: 2026-09-04
+
+### «Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta
+
+El Gobierno, el PSOE y la Policía Nacional empiezan a metabolizar lo ocurrido con el informe policial que ha reventado la estrategia gubernamental de blanqueamiento de Marruecos respecto a la invasión de 80.000 personas en Ceuta este verano. La digestión ha derivado en una sospecha creciente en torno al expresidente de.
+
+Date: 2026-09-04
+
+### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
+
+El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.
+
+Date: 2026-09-04
+
+### El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»
+
+El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación subrayó este viernes que la embajadora de Marruecos «fue oficial y formalmente» convocada el 21 de agosto para rechazar «tajantemente» las declaraciones sobre Ceuta y Melilla de un ministro marroquí , y que ese mensaje también se trasladó a sus autoridade.
+
+Date: 2026-09-04
+
+### El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba
+
+El Gobierno endurecerá los despidos durante el periodo de prueba. Aunque no se reformará la ley que regulas las condiciones de estos meses en los que el trabajador está a examen...
+
+Date: 2026-09-04
+
+### El Gobierno envía a Ceuta 50 carpas nuevas con capacidad para acoger a 600 inmigrantes
+
+El Gobierno ha enviado a Ceuta un total de 50 carpas con una capacidad de atención de hasta 600 personas para la acogida de los inmigrantes que permanecen en la ciudad autónoma desde la entrada masiva del pasado 30 de julio. El dispositivo priorizará la atención a mujeres con hijos vulnerables en el caso de que se nece.
+
+Date: 2026-09-04
+
+### Moncloa recurre de nuevo a la "máquina del fango" ante el horizonte judicial que puede abrirse por Ceuta
+
+El Gobierno piensa que es "extraño" todo lo sucedido en torno al informe del Centro Nacional de Inmigración y Fronteras (CENIF) que apunta a que los policías y gendarmes marroquíes no solo permitieron, sino que guiaron la entrada masiva del 30 de julio. El enfado en el Gobierno por —según asegura— no tener acceso a dic.
+
+Date: 2026-09-04
+
+### Las energéticas dispararán su beneficio en 2026 gracias a los precios récord en gas y petróleo
+
+Iberdrola, Endesa, Naturgy, Repsol y Moeve (antigua Cepsa) obtuvieron en 2023 un beneficio neto global de 10.466 millones de euros. El Gobierno instauró entonces un gravamen extraordinario a estas compañías alegando que se estaban beneficiando de los altos precios derivados de la crisis energética que desató la invasió.
+
+Date: 2026-09-04
+
+### El Gobierno endurece su posición sobre Marruecos tras un mes de eximir de toda responsabilidad en Ceuta: "No podemos tratar a la gente como tonta"
+
+Al filo del mediodía, un carrito de comida hace su aparición en el pasillo del Congreso. Lleva un par de platos de jamón. Las tripas hacen un llamamiento. Salivación. Pasa de...
 
 Date: 2026-09-03
 
-### Christian, 74 años, sigue trabajando de noche y carga contra la posible congelación de las pensiones: "Descansaré cuando esté muerto"
+### El Gobierno de EEUU pide al Supremo implementar la reforma al voto por correo
 
-El posible freno a la actualización de algunas pensiones francesas para 2027 ha colocado a los jubilados en el centro de un debate presupuestario abierto. La propuesta dejaría determinadas prestaciones sin seguir la inflación, con pérdida de poder de compra aunque la cifra nominal no cambie. El Gobierno aún no ha concr.
-
-Date: 2026-09-03
-
-### El Gobierno quiere que la UE oficialice el catalán antes de sumar nuevos estados miembros
-
-Una vez más el Gobierno de Pedro Sánchez cumple en Europa con su insistencia en que el el catalán , el gallego y el euskera sean reconocidos como lenguas oficiales. Este jueves, ha sido el secretario de Estado para la Unión , Fernando Sampedro , quien ha asegurado que la UE debe atender a esta petición de España a ante.
+Una jueza federal reprocha a Washington que pretenda «hacer una prueba» en las 'midterms'.
 
 Date: 2026-09-03
-
-### El Gobierno revisará la desclasificación de los informes sobre Ceuta sin dañar la labor del CNI
-
-El Gobierno analizará la aplicación del anuncio de desclasificar todos los informes sobre la entrada masiva de inmigrantes a Ceuta y estudiará la viabilidad en lo relativo al Centro Nacional de Inteligencia (CNI) para no perjudicar su labor , asegurar la viabilidad jurídica y no alterar la colaboración con otros servic.
-
-Date: 2026-09-03
-
-### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
-
-El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
-
-Date: 2026-09-02
-
-### Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: "El Gobierno no ha actuado"
-
-Hoy miércoles 2 de septiembre se ha estrenado 'La Mesa', el programa que supone el esperado desembarco de Cristina Pardo en Antena 3.
-
-Date: 2026-09-02
-
-### El Gobierno pedirá los últimos 26.000 millones de fondos europeos
-
-El vergel de los fondos europeos Next Generation toca a su fin , pero España busca exprimirlos hasta el último segundo. Así lo adelantó ayer Carlos Cuerpo , vicepresidente del Gobierno y ministro de Economía que, en un encuentro con la prensa tras su intervención en el Foro Anual organizado en Bruselas por el centro de.
-
-Date: 2026-09-02
-
-### Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta
-
-El enfado es monumental. El Gobierno, y en especial el ministro de Interior, Fernando Grande-Marlaska, está indignado con una situación inédita: la policía ha informado a una jueza de la Audiencia Nacional de que tiene detalles que probarían que Marruecos estuvo detrás del salto de 72.000 personas a Ceuta el 30 y 31 de.
-
-Date: 2026-09-02
-
-### El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC
-
-Aunque la regulación del salario mínimo interprofesional (SMI) en España prevé una situación de excepcionalidad que permitiría su revalorización semestral en caso de que se produjera una abrupta subida del IPC, con su consecuente pérdida de poder adquisitivo, el Ministerio de Trabajo descarta activar esa cláusula en lo.
-
-Date: 2026-09-02
-
-### El informe revienta la comparecencia de Sánchez y noquea al Gobierno
-
-El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva de migrantes por la frontera con Marruecos los días 30 y 31.
-
-Date: 2026-09-02
 
 ## Fuentes
 
-- [El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros](https://elpais.com/espana/2026-09-03/el-gobierno-convoco-a-la-embajadora-de-marruecos-por-las-declaraciones-inaceptables-sobre-ceuta-y-melilla-de-dos-ministros-marroquies.html?utm_source=lootura.com) — 2026-09-03T14:16:20.000Z
-- [Christian, 74 años, sigue trabajando de noche y carga contra la posible congelación de las pensiones: "Descansaré cuando esté muerto"](https://www.larazon.es/actualidad/christian-74-anos-sigue-trabajando-noche-carga-posible-congelacion-pensiones-descansare-cuando-este-muerto-b50m_202609036a998fe43bfe5d1eff422191.html?utm_source=lootura.com) — 2026-09-03T15:19:00.000Z
-- [El Gobierno quiere que la UE oficialice el catalán antes de sumar nuevos estados miembros](https://theobjective.com/espana/politica/2026-09-03/gobierno-quiere-ue-oficialice-catalan-ampliar-estados-miembros/?utm_source=lootura.com) — 2026-09-03T15:26:04.000Z
-- [El Gobierno revisará la desclasificación de los informes sobre Ceuta sin dañar la labor del CNI](https://theobjective.com/espana/politica/2026-09-03/gobierno-desclasificacion-informes-ceuta-perjudicar-cni/?utm_source=lootura.com) — 2026-09-03T14:54:31.000Z
+- [«Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta](https://www.abc.es/espana/zapatero-morira-matando-mandos-policiales-gobierno-ven-20260903014017-nt.html?utm_source=lootura.com) — 2026-09-04T14:41:52.000Z
+- [Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea](https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com) — 2026-09-04T12:26:00.000Z
+- [El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios](https://www.elmundo.es/economia/empresas/2026/09/04/6a9a7d80fc6c83d35d8b4582.html?utm_source=lootura.com) — 2026-09-04T08:26:00.000Z
+- [El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba](https://amp.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html?utm_source=lootura.com) — 2026-09-04T13:05:27.000Z
+- [El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»](https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com) — 2026-09-04T15:17:41.000Z

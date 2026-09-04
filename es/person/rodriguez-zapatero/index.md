@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra
+
+El juez de la Audiencia Nacional que investiga el 'caso Plus Ultra' , José Luis Calama , ha rechazado la nulidad de las resoluciones judiciales que planteó sobre el caso el expresidente del Gobierno e imputado José Luis Rodríguez Zapatero. En un auto firmado este viernes al que ha tenido acceso El Confidencial, el juez.
+
+Date: 2026-09-04
 
 ### Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”
 
@@ -62,12 +68,6 @@ Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera 
 
 Date: 2026-07-24
 
-### Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero
-
-La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para determinar cuándo fueron engarzadas . El Ministerio Público ha so.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra](https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com) — 2026-09-04T13:21:00.000Z

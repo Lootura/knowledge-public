@@ -3,10 +3,16 @@
 > Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/familia-real
 
 ## Cambios recientes
+
+### Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid
+
+Los Reyes , junto con la Princesa de Asturias y la Infanta Sofía , asistirán el próximo 13 de septiembre al Gran Premio de Fórmula 1 que se celebrará en Madrid, según ha anunciado este viernes Zarzuela. En concreto, los miembros de la Familia Real acudirán a la carrera que tendrá lugar el domingo , si bien la cita depo.
+
+Date: 2026-09-04
 
 ### Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega
 
@@ -62,12 +68,6 @@ Marivent vuelve a convertirse en uno de los grandes escenarios del verano de la 
 
 Date: 2026-08-04
 
-### La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda
-
-Los jardines del Palacio de Marivent, un año más, han visto como la Familia Real hacía su tradicional guiño a las personalidades más representativas de la política, la economía, el arte, la cultura y los deportes de las Islas Baleares. Ha sucedido con varias repeticiones respecto al año 2025: la Familia Real estuvo al.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid](https://theobjective.com/gente/2026-09-04/reyes-princesa-infanta-gran-premio-f1-madrid/?utm_source=lootura.com) — 2026-09-04T14:50:42.000Z

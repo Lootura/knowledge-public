@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-korea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-korea/index.json",
   "description": "Follow South Korea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T08:35:00.530Z",
   "aliases": [
     "Choson",
     "Daehan Minguk",
@@ -22,6 +22,11 @@
     "Silla"
   ],
   "changes": [
+    {
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
+      "date": "2026-09-04"
+    },
     {
       "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
       "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
@@ -48,13 +53,6 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-      "url": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T13:50:41.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

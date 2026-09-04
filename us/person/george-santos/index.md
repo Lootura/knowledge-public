@@ -3,16 +3,28 @@
 > Follow George Santos, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/person/george-santos
 
 ## Recent changes
+
+### What app surged in downloads after Trump's 'Lake America' change? The quiz knows
+
+Plus: George Santos is back in the news!
+
+Date: 2026-09-04
 
 ### More Kalshi politician bans could be coming
 
 Kalshi is conducting ongoing investigations into other political figures who may have conducted insider trading after suspending four yesterday, a person familiar with the probes told Semafor. The prediction market said it would ban former Rep. George Santos, R-N.Y., for life — a Kalshi first — after he used it to cash.
 
 Date: 2026-09-01
+
+### Discovered by Atlas
+
+George Santos first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-31
 
 ### Kalshi permanently bans George Santos after he secretly bet on himself
 
@@ -32,12 +44,6 @@ Former Congressman George Santos leaves the Alfonse D'Amato Federal Courthouse i
 
 Date: 2026-08-31
 
-### Discovered by Atlas
-
-George Santos first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-31
-
 ## Sources
 
-No public source links.
+- [What app surged in downloads after Trump's 'Lake America' change? The quiz knows](https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com) — 2026-09-04T09:01:00.000Z

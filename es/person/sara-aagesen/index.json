@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/sara-aagesen/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/sara-aagesen/index.json",
   "description": "Sigue la actividad de Sara Aagesen Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-12T01:43:20.479Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Aagesen",
     "Sara Aagesen Muñoz"
   ],
   "changes": [
+    {
+      "title": "El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios",
+      "summary": "La ministra Sara Aagesen pide por carta al comisario europeo de Clima, Wopke Hoekstra, una una tasa permanente sobre los beneficios de las petroleras y gasistas para financiar la reconstrucción ante desastres ambientales como los incendios Leer.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Golpe al Gobierno en EEUU por los impagos a las renovables: vía libre para el embargo de otros 156 millones",
       "summary": "La justicia de Estados Unidos (EEUU) ha asestado un nuevo golpe al Gobierno al tumbar la estrategia de defensa del Ejecutivo español en la batalla judicial por evitar pagar las indemnizaciones por los impagos a las renovables de Teresa Ribera y Sara Aagesen , su sustituta en el Ministerio de Transición Ecológica. El Tr.",
@@ -45,6 +50,13 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/04/6a9a7d80fc6c83d35d8b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T08:26:00.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

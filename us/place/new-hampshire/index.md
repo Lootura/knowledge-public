@@ -22,4 +22,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [Elon Musk unleashes first wave of spending on key races in the midterms](https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146?utm_source=lootura.com) — 2026-09-03T02:57:19.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face
+
+A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.
+
+Date: 2026-09-04
 
 ### Developer ecosystem expanded
 
@@ -64,4 +70,5 @@ Date: 2026-07-22
 
 ## Sources
 
-- [ChatGPT, Grok, and Claude all went down at the same time](https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down?utm_source=lootura.com) — 2026-09-03T15:35:14.000Z
+- [Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html?utm_source=lootura.com) — 2026-09-04T00:06:04.000Z
+- [How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?utm_source=lootura.com) — 2026-09-04T03:00:15.000Z

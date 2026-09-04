@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T22:21:10.846Z",
+  "updatedAt": "2026-09-04T08:35:00.530Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
+      "summary": "Women in politics and pop culture are paying tribute to Gloria Steinem after her death at 92. Many called her not only an inspiration but a friend. (Image credit: Monica Schipper).",
+      "date": "2026-09-03"
+    },
     {
       "title": "Progressive Senate candidates rack up primary wins even as they get outspent",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -58,11 +63,6 @@
       "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-07-20"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Justices Elena Kagan and Amy Coney Barrett met with lawmakers on Tuesday for a regular budget hearing.",
-      "date": "2026-07-14"
     }
   ],
   "sources": [],

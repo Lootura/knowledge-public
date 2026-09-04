@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -34,8 +34,28 @@
   ],
   "changes": [
     {
+      "title": "Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight",
+      "summary": "Serena and Venus Williams will play together at the U.S. Open in New York for the first time in four years.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’",
+      "summary": "The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it had decreased or eliminated U.S. gold holdings.",
+      "date": "2026-09-03"
+    },
+    {
       "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
       "summary": "Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "These athletes will advance to the U.S. Open's third round",
+      "summary": "The U.S. Open is underway in New York City. Sports Illustrated senior writer and 60 Minutes correspondent Jon Wertheim has the latest on tennis starts to watch.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "9/11 memorial service should be about remembrance, not politics, Mamdani says",
+      "summary": "This year's 9/11 memorial service will be Zohran Mamdani's first as mayor of New York City.",
       "date": "2026-09-03"
     },
     {
@@ -62,40 +82,20 @@
       "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
       "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Woman killed in Times Square stabbing attack worked for Bank of America",
-      "summary": "The woman who died, Erin Piacenti, 32, was one of two people who were stabbed Monday afternoon in the tourist and theater hub, a few blocks from Bank of America's office tower in New York.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Could an American win men's singles at this year's U.S. Open?",
-      "summary": "The Athletic's Lukas Weese joins CBS News to discuss who has the best chances with the U.S. Open tennis tournament underway in New York City.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-      "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open. (Image credit: Katherine Bruno).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators",
-      "summary": "Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
-      "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:26:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight",
+      "url": "https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:32:45.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Gloria Steinem's Long and Revealing History With TIME",
-      "url": "https://time.com/article/2026/09/03/gloria-steinem-dead-time-history/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T11:51:55.000Z",
-      "sourceId": "lootura-us-time"
+      "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-03T20:07:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
   "evidenceCount": 2

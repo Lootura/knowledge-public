@@ -3,10 +3,46 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### U.S. Diesel Prices Set New High
+
+Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
+
+Date: 2026-09-04
+
+### After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace
+
+Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.
+
+Date: 2026-09-04
+
+### Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks
+
+Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.
+
+Date: 2026-09-04
+
+### Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected
+
+The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.
+
+Date: 2026-09-04
+
+### Russia intensifies attacks on Ukraine's capital
+
+In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.
+
+Date: 2026-09-04
+
+### Bessent Blames Ukraine for High Energy Prices
+
+After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.
+
+Date: 2026-09-03
 
 ### Inside a Ukrainian maternity ward as Russian strikes intensify
 
@@ -32,43 +68,10 @@ As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged th
 
 Date: 2026-09-02
 
-### Germany blames Russia for attempted drone attack at Leipzig airport
-
-Moscow has been widely accused by Western officials of running a campaign of sabotage and disruption across Europe with the aim of undermining support for Ukraine and destabilizing European nations.
-
-Date: 2026-09-01
-
-### Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks
-
-The latest attack struck civilian infrastructure and residential buildings in several districts of Kyiv, authorities said, with eight people killed in the city itself and four others in the surrounding region.
-
-Date: 2026-09-01
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-
-Date: 2026-09-01
-
-### Send your questions for Richard Engel on Ukraine and more
-
-Richard Engel is back in Ukraine to report on its intensifying war with Russia, with a strike this weekend on a warehouse west of Kyiv becoming its deadliest attack this year — more than 38 people were killed.
-
-Date: 2026-09-01
-
-### Weeks After Failed Drone Attack, Germany Points Finger at Russia
-
-The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”.
-
-Date: 2026-09-01
-
-### Trump Defends Hosting Russia at G20 as Europeans Voice Disapproval
-
-CEO of JPMorgan Chase Jamie Dimon and Treasury Secretary Scott Bessent at the 2026 G20 Financial meetings in Asheville, North Carolina, on Aug. 31, 2026. —Melissa Sue Gerrits—Getty Images President Donald Trump has defended having Russia at the G20 finance meeting amid backlash from European officials who disapproved o.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Inside a Ukrainian maternity ward as Russian strikes intensify](https://www.nbcnews.com/video/inside-a-ukrainian-maternity-ward-as-russian-strikes-intensify-269255237562?utm_source=lootura.com) — 2026-09-03T01:12:23.000Z
-- [For Russia and Ukraine, an Escalating Spiral With No End in Sight](https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html?utm_source=lootura.com) — 2026-09-03T11:35:44.000Z
+- [Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected](https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com) — 2026-09-04T18:32:34.000Z
+- [U.S. Diesel Prices Set New High](https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com) — 2026-09-04T14:59:20.000Z
+- [After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace](https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com) — 2026-09-04T09:03:23.000Z
+- [Bessent Blames Ukraine for High Energy Prices](https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com) — 2026-09-03T19:56:44.000Z
+- [Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks](https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com) — 2026-09-04T16:51:14.000Z

@@ -3,80 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Directo | Sánchez: «La política migratoria pública que está desplegando este Gobierno es más necesaria que nunca»
+### Pradales ve «desbordado y noqueado» al Gobierno de Sánchez, con la legislatura agotada
 
-El presidente da explicaciones en el Congreso sobre la actuación de su Ejecutivo durante y después de la entrada de decenas de miles de migrantes a la ciudad autónoma.
+Pide «paciencia y discreción» para alcanzar un acuerdo sobre el nuevo estatus de autogobierno con EH Bildu y PSE.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»
+### El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales
 
-El portavoz de ERC, Gabriel Rufián, ha querido remarcar que Sánchez tiene «un problemón importante» tras el contrariado gesto de la ministra de Defensa, Margarita Robles , al presidente.Rufián ha destacado que Robles ha sido la única que no ha aplaudido al presidente del Gobierno tras hacer notorio que iba a «publicar.
+Alberto Núñez Feijóo no oculta que uno de sus objetivos es implicar al poder judicial en el futuro de Pedro Sánchez usando la crisis de Ceuta y la relación con Marruecos como argumento para denunciarle.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Sánchez mintió en el Congreso cuando dijo que había convocado a la embajadora de Marruecos en España
+### Sánchez se abre a la autoría de Marruecos para rebajar la presión
 
-La propia Embajada ha confirmado la ausencia de Karima Benyaich Millán en el país ese día y Exteriores "ha aclarado" posteriormente que acudió el encargado de Negocios.
+La política funciona casi siempre bajo máxima presión. El presidente del Gobierno está frente a una de sus crisis más graves y en el peor momento posible, a las puertas de unas elecciones generales que pueden ser en pocos meses si finalmente las adelanta para que se voten antes las generales que las autonómicas y munic.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Sánchez se enroca en proteger a Marruecos, pero se ve obligado a matizar su defensa
+### Ceuta: lo que el Gobierno no explicó
 
-Pedro Sánchez se enfrentaba este jueves a una sesión parlamentaria clave en la legislatura. El desgaste que arrastra el Gobierno se ha visto acrecentado con la crisis migratoria de Ceuta, en la que el Ejecutivo ha sufrido un cuestionamiento por la gestión de la misma. Por su falta de reflejos en la prevención y en la r.
+Después de horas de explicaciones este jueves en el Congreso, quedan muchas preguntas abiertas: ¿Qué sabía exactamente el Gobierno sobre la llegada masiva de migrantes de Ceuta? ¿Qué sabía la Policía y por qué no lo compartió? ¿Y hasta dónde está dispuesto a llegar Pedro Sánchez con Marruecos? Seguir leyendo.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Gabriel Rufián, político, sobre la crisis de Ceuta: "Ni la criminalización de unos, ni la negación de otros"
+### Última hora sobre la invasión de inmigrantes marroquíes en Ceuta: sigue en directo la actualidad política hoy
 
-La crisis migratoria de Ceuta ha elevado la tensión política en el Congreso de los Diputados. Tras la comparecencia de Pedro Sánchez para explicar la actuación del Gobierno, Gabriel Rufián endureció su discurso contra el Ejecutivo, Marruecos y los partidos de la oposición. El portavoz de ERC trató de marcar distancias.
+El presidente del Gobierno, Pedro Sánchez , ha fallado en su intento de explicar la gestión del Ejecutivo de la crisis migratoria desatada en Ceuta tras la invasión de más de 80.000 inmigrantes marroquíes el pasado 30 de julio. Sólo su partido, y no por unanimidad, mostró apoyo al socialista. Se justificó argumentando.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta
+### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
 
-La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.
+El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Robles se aparta de la ovación a Sánchez: sentada con sus compañeros de pie y tímidos aplausos tras el discurso del presidente
+### Margarita Robles no tiene quien le aplauda (en el PSOE)
 
-La ministra de Defensa es la única que mantiene que los servicios de Inteligencia alertaron de lo que podía pasar en la frontera Leer.
+Margarita Robles fue la primera en dejar de aplaudir el jueves cuando toda la bancada azul seguía en pie en el Congreso jaleando al presidente. Se percató de que era la única sentada y terminó retomando la ovación por compromiso. Minutos antes había sido evidente su incomodidad cuando Pedro Sánchez anunció que pondrá l.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Sánchez anuncia que la visita del Rey a Ceuta y a Melilla será "en las próximas semanas"
+### El contundente mensaje de Manu Sánchez sobre Ceuta en TVE: “Piden más medios, no que vayan Ana Rosa e Iker Jiménez”
 
-El presidente del Gobierno afirma que así se transmite "el compromiso absoluto del Estado con estas dos ciudades autónomas" Leer.
+Manu Sánchez estrenó este jueves una nueva temporada de El perro andaluz en TVE con Antoñito Molina, Miguel Rellán, otros colaboradores y música en directo. En su monólogo inicial, el cómico dejó un mensaje sobre la crisis migratoria vivida este verano en Ceuta . Durante los primeros compases del programa, el sevillano.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"
+### Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez
 
-La operación salió de Marruecos, fue propiciada por agentes de dicho país y hay indicios de que se "coordinó" desde allí. Además, el Gobierno lo sabía "porque...
+El secretario general del PP , Miguel Tellado , ha asegurado que las concentraciones celebradas en apoyo al pueblo ceutí son «un anticipo» de lo que le espera al presidente del Gobierno, Pedro Sánchez , del que no duda que «pagará ante la justicia y en las urnas» su «negligencia», causante a su juicio de la «invasión».
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta
+### Invadir Ceuta sale gratis; manifestarse contra Sánchez cuesta 100 euros
 
-La ministra de Defensa, Margarita Robles, se ha desmarcado del grupo socialista al evitar sumarse a los aplausos tras el anuncio realizado por el presidente del Gobierno, Pedro Sánchez, sobre la publicación de los informes relacionados con la crisis en Ceuta. Seguir leyendo.
+Lo peor del sanchismo ya no es siquiera Pedro Sánchez, sino la legión de paniaguados que veneran al líder como si fueran miembros de una secta. La figura del delegado del Gobierno es especialmente propicia a la hora de perder la vergüenza y la dignidad para contentar al jefe. Ejemplos hay muchos, desde el delegado del.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
 ## Fuentes
 
-- [Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»](https://www.abc.es/espana/rufian-dice-sanchez-problemon-importante-robles-aplaudido-20260903123140-nt.html?utm_source=lootura.com) — 2026-09-03T15:12:10.000Z
-- [Sánchez mintió en el Congreso cuando dijo que había convocado a la embajadora de Marruecos en España](https://www.abc.es/espana/sanchez-mintio-congreso-dijo-llamado-consultas-embajadora-20260903171645-nt_amp.html?utm_source=lootura.com) — 2026-09-03T15:16:45.000Z
-- [Sánchez se enroca en proteger a Marruecos, pero se ve obligado a matizar su defensa](https://www.abc.es/espana/sanchez-enroca-proteccion-marruecos-obligado-matizar-defensa-20260903101306-nt.html?utm_source=lootura.com) — 2026-09-03T15:10:10.000Z
-- [Gabriel Rufián, político, sobre la crisis de Ceuta: "Ni la criminalización de unos, ni la negación de otros"](https://www.elconfidencial.com/espana/2026-09-03/gabriel-rufian-crisis-ceuta-ni-criminalizacion-ni-negacion-1qrt_4417246/?utm_source=lootura.com) — 2026-09-03T12:32:00.000Z
-- [La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta](https://www.elconfidencial.com/espana/2026-09-03/margarita-robles-sanchez-evita-aplaudir_4417230/?utm_source=lootura.com) — 2026-09-03T12:07:00.000Z
-- [Directo | Sánchez: «La política migratoria pública que está desplegando este Gobierno es más necesaria que nunca»](https://www.elcorreo.com/politica/directo-sanchez-comparece-congreso-explicar-gestion-crisis-20260903084609-dirc_amp.html?utm_source=lootura.com) — 2026-09-03T06:46:09.000Z
-- [Robles se aparta de la ovación a Sánchez: sentada con sus compañeros de pie y tímidos aplausos tras el discurso del presidente](https://www.elmundo.es/espana/2026/09/03/6a994825e9cf4ace2d8b45b8.html?utm_source=lootura.com) — 2026-09-03T10:22:43.000Z
-- [Sánchez anuncia que la visita del Rey a Ceuta y a Melilla será "en las próximas semanas"](https://www.elmundo.es/espana/2026/09/03/6a99572afdddff45748b4578.html?utm_source=lootura.com) — 2026-09-03T11:30:25.000Z
-- [Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"](https://amp.elmundo.es/espana/2026/09/03/6a9936ff21efa0b9268b4576.html?utm_source=lootura.com) — 2026-09-03T08:59:54.000Z
-- [Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta](https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html?utm_source=lootura.com) — 2026-09-03T11:56:15.000Z
+- [Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña](https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com) — 2026-09-04T18:10:52.000Z
+- [Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea](https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com) — 2026-09-04T12:26:00.000Z
+- [Pradales ve «desbordado y noqueado» al Gobierno de Sánchez, con la legislatura agotada](https://www.diariovasco.com/politica/pradales-desbordado-noqueado-gobierno-sanchez-legislatura-agotada-20260904094455-nt_amp.html?utm_source=lootura.com) — 2026-09-04T07:44:55.000Z
+- [Margarita Robles no tiene quien le aplauda (en el PSOE)](https://elpais.com/ideas/2026-09-04/robles-no-tiene-quien-le-aplauda-en-el-psoe.html?utm_source=lootura.com) — 2026-09-04T09:09:59.000Z
+- [El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales](https://elpais.com/videos/2026-09-04/el-pleno-en-el-que-se-hablo-de-cambiar-la-relacion-con-marruecos-y-llevar-a-pedro-sanchez-ante-los-tribunales.html?utm_source=lootura.com) — 2026-09-04T03:30:01.000Z
+- [Sánchez se abre a la autoría de Marruecos para rebajar la presión](https://elpais.com/espana/2026-09-04/sanchez-se-abre-a-la-autoria-de-marruecos-para-rebajar-la-presion.html?utm_source=lootura.com) — 2026-09-04T03:45:01.000Z
+- [El contundente mensaje de Manu Sánchez sobre Ceuta en TVE: “Piden más medios, no que vayan Ana Rosa e Iker Jiménez”](https://elpais.com/television/2026-09-04/el-contundente-mensaje-de-manu-sanchez-sobre-ceuta-en-tve-piden-mas-medios-no-que-vayan-ana-rosa-e-iker-jimenez.html?utm_source=lootura.com) — 2026-09-04T10:16:58.000Z
+- [Ceuta: lo que el Gobierno no explicó](https://elpais.com/podcasts/hoy-en-el-pais/2026-09-04/ceuta-lo-que-el-gobierno-no-explico.html?utm_source=lootura.com) — 2026-09-04T03:45:01.000Z
+- [Invadir Ceuta sale gratis; manifestarse contra Sánchez cuesta 100 euros](https://okdiario.com/opinion/invadir-ceuta-sale-gratis-manifestarse-contra-sanchez-cuesta-100-euros-20232376?utm_source=lootura.com) — 2026-09-04T18:30:05.000Z
+- [Última hora sobre la invasión de inmigrantes marroquíes en Ceuta: sigue en directo la actualidad política hoy](https://okdiario.com/espana/ultima-hora-sobre-invasion-inmigrantes-marroquies-ceuta-sigue-directo-actualidad-politica-hoy-20227118?utm_source=lootura.com) — 2026-09-04T15:00:30.000Z

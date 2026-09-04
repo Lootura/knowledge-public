@@ -3,10 +3,34 @@
 > Sigue la actividad de Unidad Central Operativa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-03T06:56:59.842Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/organization/unidad-central-operativa
 
 ## Cambios recientes
+
+### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
+
+El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel de la Guardia Civil pero seguirá en su puesto en la Unidad Central Operativa (UCO) en comisión de servicio hasta que acabe las «causas que lo motivan», según una publicación del Boletín Oficial del Ministerio de Defensa al que ha tenido acce.
+
+Date: 2026-09-04
+
+### El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones
+
+El juez de la Audiencia Nacional que investiga el ‘caso Koldo’ , Ismael Moreno , ha pedido a la Unidad Central Operativa (UCO) de la Guardia Civil que informe «sobre el estado y custodia» de un teléfono intervenido a Joseba García, hermano del exasesor ministerial Koldo García. El magistrado ha accedido así a la petici.
+
+Date: 2026-09-04
+
+### Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’
+
+La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.
+
+Date: 2026-09-04
+
+### Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del caso Koldo
+
+El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel de Antonio Balas , que seguirá al frente del departamento de anticorrupción de la Unidad Central Operativa (UCO) de la Guardia Civil en comisión de servicio, como había solicitado el juez de la Audiencia Nacional Ismael Moreno. La orden, fir.
+
+Date: 2026-09-04
 
 ### Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés
 
@@ -44,30 +68,7 @@ La Unidad Central Operativa (UCO) de la Guardia Civil concluye que Santos Cerdá
 
 Date: 2026-07-17
 
-### La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba
-
-El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.
-
-Date: 2026-07-17
-
-### Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO
-
-El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.
-
-Date: 2026-07-17
-
-### La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE
-
-La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.
-
-Date: 2026-07-17
-
-### La UCO hunde a Cerdán
-
-Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
+- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z

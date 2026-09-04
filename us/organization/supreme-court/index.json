@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T18:48:19.323Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -17,69 +17,75 @@
   ],
   "changes": [
     {
-      "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
-      "summary": "The ruling raised concerns that babies already defined as citizens by the Supreme Court could have their citizenship revoked under an order the president signed in August.",
+      "title": "Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots",
+      "summary": "NPR's Steve Inskeep asks David Becker, an elections administration expert, what effect the Trump administration's appeal to the Supreme Court on mail-in ballots could have on the midterms.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to weigh in on mail-in ballots",
+      "summary": "Mail ballots are now being sent to certain states as questions linger about new restrictions ahead of the midterms. CBS News' Olivia Rinaldi reports.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+      "summary": "A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Missouri's top court blocks new House map favoring GOP until voters can weigh in",
+      "summary": "The Missouri Supreme Court has blocked a new House map backed by President Trump from being used in the November election, a setback in Republicans' efforts to pick up an additional House seat.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "DOJ asks Supreme Court to allow Postal Service rules on mail ballots",
+      "summary": "The Justice Department asked the Supreme Court to intervene in an ongoing legal battle over U.S. Postal Service rules for mail ballots just weeks before the November midterm elections.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
+      "summary": "The Trump administration on Thursday asked the Supreme Court to reject an order by a federal judge that halts it from implementing a new rule regulating mail ballots, hours after being unable to tell that judge whether the computer system that would govern the entire project was operational yet.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+      "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election. (Image credit: Justin Sullivan).",
       "date": "2026-09-03"
     },
     {
-      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-      "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life. (Image credit: Scott Olson).",
-      "date": "2026-09-02"
+      "title": "Is Letting Only Seniors Vote by Mail Unconstitutional?",
+      "summary": "Federal appeals courts have split on the question, making Supreme Court review likely.",
+      "date": "2026-09-03"
     },
     {
-      "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
-      "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
-      "date": "2026-09-02"
+      "title": "News Wrap: Trump asks Supreme Court to lift block on mail ballot order",
+      "summary": "In our news wrap Thursday, the Trump administration asked the Supreme Court to lift a block on a plan to restrict mail-in voting, federal prosecutors are charging an immigration officer with lying about the shooting of a Venezuelan man and billionaire Leon Black is defying a Congressional subpoena to address his ties t.",
+      "date": "2026-09-03"
     },
     {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Springfield's Haitian community braces for deportations after protected status ends",
-      "summary": "In June, the Supreme Court cleared the way to end temporary protected status for Haitians and Syrians living in the U.S. The Trump administration let that TPS expire last month, and about 350,000 Haitians became at risk of deportation. The impact is now hitting the small city of Springfield, Ohio, long a political flas.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "How the Supreme Court Locks Away Its Own History",
-      "summary": "After Justice Scalia died, the justices held private negotiations about locking away their papers. We may not see the ultimate record of the Roberts court for decades.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "SCOTUS Green Lights Trump Ballroom; Army Secretary to Resign",
-      "summary": "Secretary of the Army, Dan Driscoll, is expected to step down after repeated clashes with Defense Secretary Pete Hegseth over the war in Iran, the direction of the military and national security. Meanwhile, construction is moving forward at the White House after the Supreme Court allowed President Donald Trump to keep.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-      "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job. (Image credit: Andrew Harnik).",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Supreme Court continues to allow construction of Trump's White House ballroom",
-      "summary": "The Supreme Court divided 5-4 in allowing construction of the new White House ballroom to continue.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Justices give Trump major legal victory on ballroom project",
-      "summary": "A majority of Supreme Court justices ruled that construction can continue on President Trump’s White House ballroom, which also features a secure underground facility. NBC News’ Gabe Gutierrez reports.",
-      "date": "2026-08-31"
+      "title": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
+      "summary": "Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Democratic hands this November. The court ruled unanimously on Thursday that a referendum petition organized by Democrats to put the new congre.",
+      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey?utm_source=lootura.com",
-      "publishedAt": "2026-09-02T18:17:19.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump administration asks Supreme Court to weigh in on mail-in ballots",
+      "url": "https://www.cbsnews.com/video/trump-administration-asks-supreme-court-to-weigh-in-on-mail-in-ballots/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:14:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship",
-      "url": "https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T00:26:49.000Z",
+      "title": "Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5956866/election-expert-on-the-impact-of-trumps-appeal-to-scotus-on-mail-in-ballots?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T07:58:31.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:16:35.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,78 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-04T18:48:19.323Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Judge blocks Trump's latest effort to narrow birthright citizenship
+### U.S. Diesel Prices Set New High
 
-A federal judge has temporarily blocked a Trump executive order that would prevent certain people from automatically becoming U.S. citizens at birth.
+Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### U.S. layoffs in August fell to their lowest level in 4 years
+### More severe weather set to slam parts of U.S.
 
-Job cuts around the U.S. have declined this year even amid signs that hiring is weakening.
+More severe weather is expected after storms hit parts of Pennsylvania, Indiana and Ohio. CBS News' Lana Zak reports.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### I own six guns. Here’s how to talk to conservatives about firearms
+### New jobs numbers surprise economists
 
-In rural America, guns are a fact of life. But even conservatives agree that properly locking them up is crucial in preventing deaths I have six guns in my house. The first was a vintage Winchester 12-gauge. It was the winter of 1990, and my husband and I had just moved from an urban block in north-west Philadelphia to.
+The latest data shows the U.S. added 162,000 jobs in August, beating expectations after a disappointing July report. CBS News' Emily Pandise reports.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight
+### August jobs report shows U.S. added 162,000 jobs, blowing past forecasts
 
-President Trump’s bid to call it ‘Lake America’ stands out in a world full of contested place names, which often represent deeper political or territorial disputes.
+Strong hiring last month was driven by gains in education and in leisure and hospitality, with the nation's jobless rate remaining steady at 4.1%.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### U.S. Trade Gap Ballooned in July
+### Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight
 
-The trade deficit bounced back up last month as spending on data centers to feed the A.I. boom drove up imports.
+Serena and Venus Williams will play together at the U.S. Open in New York for the first time in four years.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics
+### What app surged in downloads after Trump's 'Lake America' change? The quiz knows
 
-Plus, the N.B.A.’s biggest punishment ever.
+Plus: George Santos is back in the news!
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### China's Xi visits Egypt for the first time in a decade
+### Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the U.S.
 
-Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.
+The U.S. job market rebounded in August as employers added a surprising 162,000 jobs. The unemployment rate stayed at a low 4.1%.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### U.S.-Israel relations are on the rocks ahead of elections
+### Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?
 
-Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a defiant stance ahead of an election.
+Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Xi visits Egypt as China seeks deeper influence across the Mideast
+### A More Confident Iran Emerges After Six Months of War With the U.S.
 
-China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran. (Image credit: Xie Huanchi).
+New intelligence reports have assessed that Iran now has a far better understanding of its capabilities and the limits of U.S. power.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
-### Critics question legality of Venezuela oil deals
+### The U.S. Wants the Oil From These 17 Venezuelan Fields
 
-Chevron's $7 billion Venezuela bet deepens U.S. ties to the country's oil industry. Critics say the deal poses risks to democracy and could fuel discontent over Washington's embrace of the government.
+A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.
 
-Date: 2026-09-03
+Date: 2026-09-04
 
 ## Sources
 
-- [AI interviews rolling out for some federal government hires, sources say](https://www.cbsnews.com/news/ai-interviews-federal-government-hires/?utm_source=lootura.com) — 2026-09-03T15:24:23.000Z
-- [Judge blocks Trump's latest effort to narrow birthright citizenship](https://www.cbsnews.com/news/judge-blocks-trump-executive-order-birthright-citizenship/?utm_source=lootura.com) — 2026-09-03T01:10:30.000Z
-- [U.S. layoffs in August fell to their lowest level in 4 years](https://www.cbsnews.com/news/august-layoffs-hit-lowest-level-since-2022/?utm_source=lootura.com) — 2026-09-03T15:30:12.000Z
-- [I own six guns. Here’s how to talk to conservatives about firearms](https://www.theguardian.com/us-news/ng-interactive/2026/sep/03/gun-safety-rural-america?utm_source=lootura.com) — 2026-09-03T13:30:39.000Z
-- [Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again](https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html?utm_source=lootura.com) — 2026-09-02T19:56:53.000Z
-- [Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight](https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html?utm_source=lootura.com) — 2026-09-03T09:04:03.000Z
-- [U.S. Trade Gap Ballooned in July](https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html?utm_source=lootura.com) — 2026-09-03T15:36:44.000Z
-- [U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics](https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html?utm_source=lootura.com) — 2026-09-03T11:17:01.000Z
+- [More severe weather set to slam parts of U.S.](https://www.cbsnews.com/video/more-severe-weather-set-to-slam-parts-of-us/?utm_source=lootura.com) — 2026-09-04T15:08:47.000Z
+- [New jobs numbers surprise economists](https://www.cbsnews.com/video/new-jobs-numbers-surprise-economists/?utm_source=lootura.com) — 2026-09-04T15:18:42.000Z
+- [August jobs report shows U.S. added 162,000 jobs, blowing past forecasts](https://www.cbsnews.com/news/august-jobs-report-us-labor-market/?utm_source=lootura.com) — 2026-09-04T15:06:49.000Z
+- [Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-04T15:32:45.000Z
+- [What app surged in downloads after Trump's 'Lake America' change? The quiz knows](https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com) — 2026-09-04T09:01:00.000Z
+- [Whatever happened to the U.S. campaign to ban child marriage?](https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global?utm_source=lootura.com) — 2026-09-04T17:01:24.000Z
+- [U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran](https://www.pbs.org/newshour/world/u-s-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran?utm_source=lootura.com) — 2026-09-04T17:26:55.000Z
+- [Missouri court blocks Trump-backed U.S. House map and orders it to be put to a vote](https://www.pbs.org/newshour/politics/missouri-court-blocks-trump-backed-u-s-house-map-and-orders-it-to-be-put-to-a-vote?utm_source=lootura.com) — 2026-09-04T17:48:45.000Z
+- [Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected](https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com) — 2026-09-04T18:32:34.000Z
+- [Hiring burst of 162,000 jobs in August puts the focus squarely back on inflation in the U.S.](https://www.pbs.org/newshour/economy/hiring-burst-of-162000-jobs-in-august-puts-the-focus-squarely-back-on-inflation-in-the-u-s?utm_source=lootura.com) — 2026-09-04T14:45:21.000Z

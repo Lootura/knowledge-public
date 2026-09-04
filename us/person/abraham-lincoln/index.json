@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-03T22:19:56.767Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -69,19 +69,6 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
-      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-mother-navy-thailand-iran-war/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:02:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "See USS Abraham Lincoln Sailor Reunite With Family",
-      "url": "https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T12:01:19.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

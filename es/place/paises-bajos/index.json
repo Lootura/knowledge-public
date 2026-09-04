@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/paises-bajos/index.json",
   "description": "Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
   "aliases": [
     "Holanda",
     "Holland",
@@ -23,6 +23,11 @@
     "the Netherlands"
   ],
   "changes": [
+    {
+      "title": "El 20% de los bancos centrales reubica sus reservas de oro tras la llegada de Trump",
+      "summary": "Desde la llegada de Donald Trump, uno de cada cinco bancos centrales del mundo ha desplazado sus lingotes en busca de mayor seguridad, según el World Gold Council. El último en hacerlo ha sido el banco central de los Países Bajos, que ha reducido de forma drástica sus reservas áureas que estaban custodiadas en Nueva Yo.",
+      "date": "2026-09-04"
+    },
     {
       "title": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
       "summary": "El banco central de Países Bajos ha trasladado más de 78 toneladas de oro de Nueva York a Londres argumentando la \"creciente inestabilidad geopolítica\", en lo que...",
@@ -54,19 +59,6 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial",
-      "url": "https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T10:09:38.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
-      "url": "https://amp.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T12:52:55.000Z",
-      "sourceId": "lootura-es-expansion"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

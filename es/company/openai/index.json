@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -64,6 +64,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "¿Hemos alcanzado la superinteligencia artificial? OpenAi lanza su modelo con capacidad sobrehumana",
+      "url": "https://www.abc.es/tecnologia/alcanzado-superinteligencia-artificial-openai-lanza-gpt6-astra-20260904171032-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:20:20.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
   "evidenceCount": 0
 }

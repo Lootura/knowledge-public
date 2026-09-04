@@ -1,0 +1,40 @@
+{
+  "id": "es-javier-milei",
+  "name": "El Psiquiátrico",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/javier-milei",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/javier-milei",
+  "markdownUrl": "https://atlas.lootura.com/es/person/javier-milei/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/javier-milei/index.json",
+  "description": "Sigue la actividad de El Psiquiátrico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "aliases": [
+    "El Javo",
+    "El Loco",
+    "El Psiquiátrico",
+    "Javier",
+    "Javier Gerardo Milei",
+    "Javo",
+    "Milei"
+  ],
+  "changes": [
+    {
+      "title": "Milei sancionará a las petroleras que operen en Malvinas sin autorización",
+      "summary": "«Son argentinas por historia y por derecho, no hay discusión al respecto». Con esta frase se refería este jueves el presidente Javier Milei a las Islas Malvinas en un discurso grabado que fue transmitido por cadena nacional. En la misma alocución advirtió también que buscará sancionar a las empresas que quieran explota.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Milei anuncia sanciones para petroleras en las Malvinas y la creación de una base naval",
+      "summary": "El presidente de Argentina, Javier Milei , ha anunciado este jueves que firmará un decreto para acelerar el endurecimiento de las sanciones contra quienes participen en iniciativas de extracción de petróleo en las islas Malvinas « sin autorización » de Buenos Aires, a la par que ha avanzado la construcción de una base.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Javier Milei first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

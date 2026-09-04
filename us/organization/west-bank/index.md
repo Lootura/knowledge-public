@@ -46,4 +46,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Israeli Military Kills Two Palestinian Youths in Village Raid, Residents Say](https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html?utm_source=lootura.com) — 2026-09-03T14:34:47.000Z
+No public source links.

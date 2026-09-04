@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-04T15:44:50.549Z",
   "aliases": [],
   "changes": [
     {
@@ -62,19 +62,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
-      "url": "https://www.cbsnews.com/news/elon-musk-super-pac-midterm-spending/?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T04:05:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Elon Musk’s super PAC dives into midterms to bolster Republicans in battleground races",
-      "url": "https://www.nbcnews.com/politics/2026-election/elon-musk-super-pac-midterms-republicans-rcna595909?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T15:26:41.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

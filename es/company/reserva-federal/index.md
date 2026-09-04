@@ -3,10 +3,40 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-04T18:47:59.704Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre
+
+La fuerte creación de empleo en Estados Unidos en agosto, con 162.000 nuevos puestos de trabajo, y con una tasa de paro que se mantuvo en el 4,1%, despeja el camino para que la Reserva Federal opte por elevar el precio del dinero en la reunión de septiembre. La mejora del mercado de trabajo aumenta la probabilidad de q.
+
+Date: 2026-09-04
+
+### Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit
+
+El presidente de Estados Unidos, Donald Trump , ha reclamado a la Reserva Federal (Fed) que rebaje los tipos de interés o, en caso contrario, cesará el comercio con todos aquellos países con los que Estados Unidos mantenga superávit comercial, unas declaraciones realizadas tras la publicación de los datos de empleo del.
+
+Date: 2026-09-04
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
+
+Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
+
+Date: 2026-09-04
+
+### El Ibex 35 espera en rojo el informe de empleo de Estados Unidos
+
+Las perspectivas más moderadas sobre los tipos de interés, después de que el gobernador de la Reserva Federal, Christopher Waller, disipa los temores a una inminente subida de las tasas en EE UU. Por su parte, los precios del petróleo se estabilizan con el Brent en los 95 dólares por barril, aunque acumulan un alza de.
+
+Date: 2026-09-04
 
 ### Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos
 
@@ -38,36 +68,8 @@ Los precios del petróleo suben el miércoles a medida que aumentaban las tensio
 
 Date: 2026-08-12
 
-### El silencio de Kevin Warsh se vuelve en su contra
-
-El aterrizaje de Kevin Warsh en el edificio Marriner S. Eccles de la Reserva Federal de Washington ha desatado el nerviosismo entre analistas e inversores. El presidente de la Reserva Federal ha anunciado que reducirá los mensajes y la información que hasta ahora enviaba al mercado para que intuyera sus próximos pasos.
-
-Date: 2026-08-08
-
-### Trump vuelve a la carga para despedir a Lisa Cook de la Fed, pese a la oposición del Supremo
-
-Donald Trump es implacable. El presidente de Estados Unidos vuelve a la carga contra Lisa Cook , la gobernadora de la Reserva Federal que se opone a sus injerencias en el organismo que dirige la política monetaria. La Casa Blanca envió el pasado miércoles una carta a la primera mujer negra de la Fed informándola de que.
-
-Date: 2026-08-07
-
-### El Ibex se toma un respiro tras los últimos máximos y a la espera del dato de empleo de EE UU
-
-La escalada de tensiones en Oriente Próximo y la incertidumbre sobre un posible acuerdo para reactivar el estrecho de Ormuz provocan una subida del 0,8% en el precio del crudo este viernes. El alza de los precios de la energía reavivan la preocupación de que la Reserva Federal deba mantener los tipos de interés elevado.
-
-Date: 2026-08-07
-
-### Qué mueve a los trabajadores a buscar otro empleo: más sueldo en Estados Unidos y miedo al despido en Europa
-
-Tener un puesto de trabajo no implica, en muchos casos, dejar de buscar empleo. Un estudio elaborado por el Banco Central Europeo (BCE), con sus datos estadísticos y los de la Reserva Federal estadounidense, concluye que en Europa, en promedio, el 13% de quienes están ya ocupados siguen buscando un trabajo, frente al 1.
-
-Date: 2026-08-06
-
-### El Santander deberá someterse a un test de estrés anual en Estados Unidos después de comprar Webster
-
-El Santander ya ha recibido la bendición de la Reserva Federal (Fed) , la última que necesitaba, para convertirse en un gigante bancario en Estados Unidos gracias a Webster. Sus activos alcanzan los 253.600 millones de dólares (unos 220.000 millones de euros), con una posición dominante en el estado de Connecticut y no.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre](https://cincodias.elpais.com/mercados-financieros/2026-09-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-04T13:10:22.000Z
+- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
+- [Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit](https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com) — 2026-09-04T14:58:20.000Z

@@ -8,11 +8,31 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/unidad-central-operativa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/unidad-central-operativa/index.json",
   "description": "Sigue la actividad de Unidad Central Operativa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T06:56:59.842Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "La Unidad Central"
   ],
   "changes": [
+    {
+      "title": "Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio",
+      "summary": "El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel de la Guardia Civil pero seguirá en su puesto en la Unidad Central Operativa (UCO) en comisión de servicio hasta que acabe las «causas que lo motivan», según una publicación del Boletín Oficial del Ministerio de Defensa al que ha tenido acce.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones",
+      "summary": "El juez de la Audiencia Nacional que investiga el ‘caso Koldo’ , Ismael Moreno , ha pedido a la Unidad Central Operativa (UCO) de la Guardia Civil que informe «sobre el estado y custodia» de un teléfono intervenido a Joseba García, hermano del exasesor ministerial Koldo García. El magistrado ha accedido así a la petici.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’",
+      "summary": "La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Antonio Balas asciende a coronel de la Guardia Civil y seguirá en la UCO como pidió el juez del caso Koldo",
+      "summary": "El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel de Antonio Balas , que seguirá al frente del departamento de anticorrupción de la Unidad Central Operativa (UCO) de la Guardia Civil en comisión de servicio, como había solicitado el juez de la Audiencia Nacional Ismael Moreno. La orden, fir.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Una contable de Red.es denuncia la «orden directa» de borrar información sobre Barrabés",
       "summary": "La contable de la empresa pública Red.es Claudia C. ha denunciado ante la Policía que un superior le dio la «orden directa» de eliminar información contable de una adjudicación al empresario Juan Carlos Barrabés , según ha publicado El Mundo. Actualmente, la Unidad Central Operativa ( UCO ) de la Guardia Civil y la Fis.",
@@ -42,28 +62,21 @@
       "title": "La UCO concluye que Cerdán dispuso de \"numeroso dinero en metálico en la etapa ministerial de Ábalos\"",
       "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil concluye que Santos Cerdán dispuso de \"fuentes de ingresos\" no declaradas y que su constructora Servinabar llegó a...",
       "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no trabajaba",
-      "summary": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán apunta a que una mercantil ligada al empresario Antxon Alonso, amigo del exdirigente socialista, estuvo pagando 1.300 euros al mes a Francisca Muñoz, esposa del dirigente socia.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "Servinabar intentó comprar para Cerdán un piso en Madrid valorado en cerca de un millón de euros, según la UCO",
-      "summary": "El informe elaborado por la Unidad Central Operativa (UCO) de la Guardia Civil sobre el patrimonio del exsecretario de Organización del PSOE Santos Cerdán revela que, entre septiembre y octubre de 2021, una de las empresas clave de la trama negoció la compra de una vivienda de lujo en Madrid para que fuera usada por el.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO dice que los ingresos de Cerdán se dispararon en la «etapa ministerial» de Ábalos y tras su ascenso en el PSOE",
-      "summary": "La Unidad Central Operativa (UCO) de la Guardia Civil ha revelado que el que fuera mano derecha de Pedro Sánchez Santos Cerdán vio como sus ingresos se dispararon coincidiendo con la «etapa ministerial» del que fuera responsable de Transportes José Luis Ábalos y tras sustituir al mismo como secretario de Organización d.",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "La UCO hunde a Cerdán",
-      "summary": "Nuevo informe de la UCO . En esta ocasión, el señalado, tocado y hundido, es Santos Cerdán , el ex secretario de Organización del PSOE, el sucesor del condenado José Luis Ábalos. La Unidad Central Operativa de la Guardia Civil pone de manifiesto que los ingresos de Cerdán aumentaron de forma considerable entre 2015 y 2.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio",
+      "url": "https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T14:56:51.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones",
+      "url": "https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T17:28:23.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

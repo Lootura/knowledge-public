@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Lamine",
     "Lamine Yamal Nasraoui",
@@ -16,6 +16,11 @@
     "Yamal"
   ],
   "changes": [
+    {
+      "title": "Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche",
+      "summary": "Lamine Yamal e Inés García han disfrutado de un viaje exprés a París . La pareja ha pasado apenas 24 horas en la capital francesa, pero el poco tiempo del que disponían (ligado siempre a la ajetreada agenda profesional del futbolista) lo han sabido exprimir al máximo. Eso sí, lo han hecho rodeados de todo tipo de lujos.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Los lujos que Marc Cucurella deja en Londres con su fichaje por el Real Madrid",
       "summary": "La selección española masculina de fútbol campeona de Europa y del mundo está repleta de jugadores carismáticos. La templanza y el liderazgo de Rodri, Unai Simón y Oyarzábal contrastan con el aura que desprenden Nico Williams y Lamine Yamal , y más si cabe con la alegría, el buen rollo y la hiperactividad de Marc Cucur.",
@@ -60,13 +65,15 @@
       "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
       "summary": "Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.",
       "date": "2026-07-18"
-    },
-    {
-      "title": "La intrahistoria de las fotos de Leo Messi junto a un Lamine Yamal de seis meses",
-      "summary": "Las redes sociales se han inundado con la recordada imagen de Leo Messi junto a un Lamine Yamal de seis meses de edad. Descubre su historia.",
-      "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche",
+      "url": "https://okdiario.com/cool/famosos/lamine-yamal-ines-garcia-disfrutan-24-horas-lujo-paris-jet-privado-hotel-4-000-euros-noche-20228194?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T15:00:56.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

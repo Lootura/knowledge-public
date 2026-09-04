@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/familia-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/familia-real/index.json",
   "description": "Sigue la actividad de Familia real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-04T18:47:59.704Z",
   "aliases": [
     "Familias reales",
     "familia imperial",
     "royalty"
   ],
   "changes": [
+    {
+      "title": "Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid",
+      "summary": "Los Reyes , junto con la Princesa de Asturias y la Infanta Sofía , asistirán el próximo 13 de septiembre al Gran Premio de Fórmula 1 que se celebrará en Madrid, según ha anunciado este viernes Zarzuela. En concreto, los miembros de la Familia Real acudirán a la carrera que tendrá lugar el domingo , si bien la cita depo.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Marius Borg acepta continuar su detención para no perjudicar a la Familia Real noruega",
       "summary": "Marius Borg Høiby ha cedido a la presión. El próximo lunes 7 de septiembre finaliza la prisión preventiva que se había dictado para el hijo de Mette-Marit, de 29 años, y la fiscalía noruega pedirá cuatro semanas más que esta vez está dispuesto a cumplir . Es decir, si bien en ocasiones anteriores había exigido que se l.",
@@ -59,13 +64,15 @@
       "title": "Ponte a prueba: ¿Cuánto sabes de la visita de los Reyes a Marivent?",
       "summary": "Marivent vuelve a convertirse en uno de los grandes escenarios del verano de la Familia Real . Este martes 4 de agosto, los Reyes Felipe VI y Letizia abren las puertas del palacio mallorquín para recibir a cerca de 600 invitados en una de las citas más esperadas de su estancia en la isla. Políticos, empresarios, cientí.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "La Familia Real al completo se reencuentra con la sociedad mallorquina en el punto álgido de su agenda",
-      "summary": "Los jardines del Palacio de Marivent, un año más, han visto como la Familia Real hacía su tradicional guiño a las personalidades más representativas de la política, la economía, el arte, la cultura y los deportes de las Islas Baleares. Ha sucedido con varias repeticiones respecto al año 2025: la Familia Real estuvo al.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid",
+      "url": "https://theobjective.com/gente/2026-09-04/reyes-princesa-infanta-gran-premio-f1-madrid/?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T14:50:42.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

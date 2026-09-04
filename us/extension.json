@@ -1,68 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T17:20:23.931Z",
+  "generatedAt": "2026-09-04T19:05:13.901Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|160|1788450382368",
+    "signature": "1.18.0|164|1788547699323",
     "version": "1.18.0",
-    "build": 160,
-    "latestEntityUpdatedAt": "2026-09-03T15:46:22.368Z"
+    "build": 164,
+    "latestEntityUpdatedAt": "2026-09-04T18:48:19.323Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-gloria-steinem",
-      "name": "Gloria Steinem",
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
       "type": "person",
-      "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
-      "url": "https://atlas.lootura.com/us/person/gloria-steinem",
-      "path": "/us/person/gloria-steinem",
-      "updatedAt": "2026-09-03T15:46:22.368Z",
-      "score": 1720,
-      "sourceCount": 6,
+      "title": "Work set to begin in Trump's plan for triumphal arch",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-09-04T18:48:19.323Z",
+      "score": 1739,
+      "sourceCount": 880,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-new-york",
-        "name": "New York City",
-        "type": "place",
-        "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
-        "url": "https://atlas.lootura.com/us/place/new-york",
-        "path": "/us/place/new-york",
-        "updatedAt": "2026-09-03T15:46:22.368Z",
-        "score": 1679,
-        "sourceCount": 111,
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-09-04T18:48:19.323Z",
+        "score": 1708,
+        "sourceCount": 63,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
+        "id": "usa-gloria-steinem",
+        "name": "Gloria Steinem",
         "type": "person",
-        "title": "Judge blocks Trump's latest effort to narrow birthright citizenship",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-03T15:46:22.368Z",
-        "score": 1646,
-        "sourceCount": 846,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-abraham-lincoln",
-        "name": "Abraham Lincoln",
-        "type": "person",
-        "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
-        "url": "https://atlas.lootura.com/us/person/abraham-lincoln",
-        "path": "/us/person/abraham-lincoln",
-        "updatedAt": "2026-09-03T15:46:22.368Z",
-        "score": 1635,
-        "sourceCount": 22,
+        "title": "Gloria Steinem, feminist trailblazer, dies at 92",
+        "url": "https://atlas.lootura.com/us/person/gloria-steinem",
+        "path": "/us/person/gloria-steinem",
+        "updatedAt": "2026-09-04T18:48:19.323Z",
+        "score": 1668,
+        "sourceCount": 14,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +57,29 @@
         "id": "usa-iran",
         "name": "Iran",
         "type": "place",
-        "title": "Military personnel told last month to stop calling Iran conflict \"Operation Epic Fury\"",
+        "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
         "url": "https://atlas.lootura.com/us/place/iran",
         "path": "/us/place/iran",
-        "updatedAt": "2026-09-03T15:46:22.368Z",
-        "score": 1634,
-        "sourceCount": 443,
+        "updatedAt": "2026-09-04T18:48:19.323Z",
+        "score": 1664,
+        "sourceCount": 452,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-united-states",
+        "name": "United States",
+        "type": "place",
+        "title": "U.S. Diesel Prices Set New High",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-09-04T18:48:19.323Z",
+        "score": 1642,
+        "sourceCount": 912,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 184
+    "publicEntityCount": 190
   }
 }
