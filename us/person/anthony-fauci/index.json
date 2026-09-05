@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/anthony-fauci/index.json",
   "description": "Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-11T16:55:56.346Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "A Fauci",
     "A. Fauci",
@@ -29,6 +29,11 @@
     "Tony Fauci"
   ],
   "changes": [
+    {
+      "title": "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
+      "summary": "As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Does the Fifth Amendment Protect Fauci?",
       "summary": "Our chief legal affairs correspondent, Adam Liptak, discusses whether Anthony Fauci’s presidential pardon makes him ineligible to take advantage of Fifth Amendment protections.",
@@ -70,6 +75,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
+      "url": "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T09:00:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

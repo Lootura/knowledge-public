@@ -3,10 +3,16 @@
 > Follow Gloria Steinem, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/gloria-steinem
 
 ## Recent changes
+
+### For feminists, the deaths of Parton and Steinem days apart deliver a double dose of grief
+
+Gloria Steinem and Dolly Parton's deaths eight days apart sent a double dose of grief around the world and across generations as many women (and some men!) asked who would take their places at the forefront of women's rights.
+
+Date: 2026-09-05
 
 ### When the World’s Best-Known Feminist Was Accused of Insulting Women
 
@@ -62,12 +68,6 @@ Gloria Steinem, the pioneering journalist and activist who became one of the mos
 
 Date: 2026-09-03
 
-### Steinem stayed true to herself despite intense pressure, Julie Taymor says
-
-To discuss the life and legacy of Gloria Steinem, Amna Nawaz spoke with Julie Taymor. She's the director of the 2020 film "The Glorias," a biopic that spans eight decades of Steinem's life.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [When the World’s Best-Known Feminist Was Accused of Insulting Women](https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html?utm_source=lootura.com) — 2026-09-04T16:09:28.000Z
+- [For feminists, the deaths of Parton and Steinem days apart deliver a double dose of grief](https://www.pbs.org/newshour/nation/for-feminists-the-deaths-of-parton-and-steinem-days-apart-deliver-a-double-dose-of-grief?utm_source=lootura.com) — 2026-09-05T16:56:30.000Z

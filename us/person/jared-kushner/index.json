@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.json",
   "description": "Follow Jared Kushner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Jared",
     "Kushner"
   ],
   "changes": [
+    {
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
+      "summary": "Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jared Kushner first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
       "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
@@ -23,26 +38,21 @@
       "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
       "summary": "The attack came as the American envoys Steve Witkoff and Jared Kushner were said to be planning imminent visits to Kyiv and to Moscow.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Jared Kushner first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-04"
     }
   ],
   "sources": [
     {
-      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T16:51:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:42:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T11:08:57.000Z",
+      "sourceId": "lootura-us-npr-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 4
 }

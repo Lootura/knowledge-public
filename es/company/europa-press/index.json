@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -69,6 +69,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El Gobierno toma el control del puerto de Ceuta para la \"atención humanitaria\" de inmigrantes",
+      "url": "https://www.elconfidencial.com/espana/2026-09-05/gobierno-control-puerto-ceuta-migrantes-1tna-1tps_4418414/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T17:18:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
   "evidenceCount": 0
 }

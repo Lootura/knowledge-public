@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi
+
+La embarcación navega de nuevo para «denunciar el genocidio, la ocupación y la limpieza étnica en Gaza y Palestina» y estará aquí hasta el próximo martes.
+
+Date: 2026-09-05
 
 ### 3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas
 
@@ -62,12 +68,6 @@ Cataluña y País Vasco , las dos comunidades con un sistema educativo más cond
 
 Date: 2026-08-31
 
-### Según Karlos Arguiñano la mejor ciudad de España para comer es la «joya del Cantábrico»: el lugar donde veraneaban los reyes
-
-Karlos Arguiñano lleva más de cuatro décadas vinculado a uno de los lugares más bonitos del País Vasco y toda una «joya» con vistas al Cantábrico . Se trata de Zarautz donde abrió su restaurante en 1979 , mucho antes de convertirse en uno de los cocineros más populares de la televisión. El establecimiento, situado a po.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi](https://www.elcorreo.com/bizkaia/centenar-personas-reciben-freedom-flotilla-llegada-euskadi-20260905193726-nt_amp.html?utm_source=lootura.com) — 2026-09-05T17:37:27.000Z

@@ -3,10 +3,22 @@
 > Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T20:28:29.024Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/nigel-farage
 
 ## Recent changes
+
+### Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report
+
+Two senior aides to Nigel Farage, the firebrand leader of the U.K.'s populist Reform party, have stepped down in the wake of an investigative news report.
+
+Date: 2026-09-05
+
+### Funding milestone detected
+
+Reform U.K.'s annual convention comes amid fresh controversy after an undercover investigation alleged that senior figures in Nigel Farage's party discussed securing foreign funding, which is prohibited under British law. Reform denies wrongdoing, saying it was the victim of a hoax. CBS News reporter Inaya Folarin Iman.
+
+Date: 2026-09-05
 
 ### Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations
 
@@ -52,4 +64,5 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report](https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/?utm_source=lootura.com) — 2026-09-05T01:07:20.000Z
+- [Nigel Farage's Reform U.K. accused of breaking foreign funding law after undercover investigation](https://www.cbsnews.com/video/nigel-farage-reform-uk-foreign-funding-law-undercover-investigation/?utm_source=lootura.com) — 2026-09-05T01:06:59.000Z

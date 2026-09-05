@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### IRS targets private schools that help racial minority students
+### Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz
 
-The Trump administration has said it will end the tax-exempt status for universities with programs that help racial minority students.
+A former congressman got hit with a ban, an artist had his upcoming Met Gala exhibition pulled, and a record carrier deployment finally came to an end.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Work set to begin in Trump's plan for triumphal arch
+### Week in Politics: Trump's face on the coin; reshaping the capital; the midterms
 
-NPR's Steve Inskeep speaks with New York Times reporter Emily Badger about the Trump administration's plans to move forward with construction of a triumphal arch.
+President Trump is the first living president to have his face on a coin. He's also reshaping Washington in his image, and working to influence midterm elections.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Trump already tried to hurt Iran with sanctions once - and it didn't work
+### How the U.S. focus on Iran is fueling a more aggressive Putin
 
-President Trump is again hoping to use economic pressure to force Iran to the negotiating table.
+Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots
+### Trump delivers $10 million to Ken Paxton in first major contribution of midterms
 
-NPR's Steve Inskeep asks David Becker, an elections administration expert, what effect the Trump administration's appeal to the Supreme Court on mail-in ballots could have on the midterms.
+President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Trump administration asks Supreme Court to weigh in on mail-in ballots
+### Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls
 
-Mail ballots are now being sent to certain states as questions linger about new restrictions ahead of the midterms. CBS News' Olivia Rinaldi reports.
+No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer partially collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### What app surged in downloads after Trump's 'Lake America' change? The quiz knows
+### Guyana latest "third country" to accept migrants deported from U.S.
 
-Plus: George Santos is back in the news!
+Guyana is one of more than 30 nations that have now signed deals with the Trump administration as part of President Trump's crackdown on illegal immigration.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?
+### US military hits 3 Iranian oil tankers after saying Navy warships were targeted
 
-Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate.
+The strikes come a day after President Trump appeared to downplay the war with Iran as "small potatoes" during an exchange with reporters in the Oval Office. (Image credit: Vahid Salemi).
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them
+### U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles
 
-A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in.
+The strikes — a day after U.S. President Donald Trump sought to minimize the conflict as "small potatoes" — keep up a new tilt back toward fighting after six months of on-again, off-again war.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### The U.S. Wants the Oil From These 17 Venezuelan Fields
+### Trump's first major midterm money move: A $10 million Texas Senate ad blitz
 
-A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars.
+This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'
+### Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses
 
-The Trump administration wants to end tax-exempt status for universities with certain race-based programs. Wesleyan President Michael Roth says the plan could frighten schools. (Image credit: DenisTangneyJr).
+No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
 ## Sources
 
-- [Trump administration asks Supreme Court to weigh in on mail-in ballots](https://www.cbsnews.com/video/trump-administration-asks-supreme-court-to-weigh-in-on-mail-in-ballots/?utm_source=lootura.com) — 2026-09-04T15:14:43.000Z
-- [IRS targets private schools that help racial minority students](https://www.npr.org/2026/09/04/nx-s1-5955666/irs-targets-private-schools-that-help-racial-minority-students?utm_source=lootura.com) — 2026-09-04T08:02:55.000Z
-- [What app surged in downloads after Trump's 'Lake America' change? The quiz knows](https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com) — 2026-09-04T09:01:00.000Z
-- [Work set to begin in Trump's plan for triumphal arch](https://www.npr.org/2026/09/04/nx-s1-5956892/work-set-to-begin-in-trumps-plan-for-triumphal-arch?utm_source=lootura.com) — 2026-09-04T08:04:39.000Z
-- [Trump already tried to hurt Iran with sanctions once - and it didn't work](https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work?utm_source=lootura.com) — 2026-09-04T08:06:02.000Z
-- [Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots](https://www.npr.org/2026/09/04/nx-s1-5956866/election-expert-on-the-impact-of-trumps-appeal-to-scotus-on-mail-in-ballots?utm_source=lootura.com) — 2026-09-04T07:58:31.000Z
-- [Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'](https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs?utm_source=lootura.com) — 2026-09-04T08:03:21.000Z
-- [Trump administration pushes to remove tax exemption for private colleges with DEI policies](https://www.pbs.org/newshour/education/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies?utm_source=lootura.com) — 2026-09-04T18:13:08.000Z
-- [Missouri court blocks Trump-backed U.S. House map and orders it to be put to a vote](https://www.pbs.org/newshour/politics/missouri-court-blocks-trump-backed-u-s-house-map-and-orders-it-to-be-put-to-a-vote?utm_source=lootura.com) — 2026-09-04T17:48:45.000Z
-- [Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.](https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234?utm_source=lootura.com) — 2026-09-04T18:00:00.000Z
+- [Trump delivers $10 million to Ken Paxton in first major contribution of midterms](https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com) — 2026-09-05T19:29:40.000Z
+- [Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls](https://www.cbsnews.com/news/kennedy-center-ceiling-collapse-renovations-trump/?utm_source=lootura.com) — 2026-09-05T20:52:18.000Z
+- [Guyana latest "third country" to accept migrants deported from U.S.](https://www.cbsnews.com/news/guyana-third-country-us-deportees/?utm_source=lootura.com) — 2026-09-05T18:35:46.000Z
+- [Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz](https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com) — 2026-09-05T09:15:00.000Z
+- [Week in Politics: Trump's face on the coin; reshaping the capital; the midterms](https://www.npr.org/2026/09/05/nx-s1-5957499/week-in-politics-trumps-face-on-the-coin-reshaping-the-capital-the-midterms?utm_source=lootura.com) — 2026-09-05T11:43:22.000Z
+- [US military hits 3 Iranian oil tankers after saying Navy warships were targeted](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com) — 2026-09-05T15:05:08.000Z
+- [How the U.S. focus on Iran is fueling a more aggressive Putin](https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com) — 2026-09-05T11:43:20.000Z
+- [U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles](https://www.pbs.org/newshour/world/u-s-military-hits-3-iranian-oil-tankers-after-saying-navy-ships-were-targeted-with-missiles?utm_source=lootura.com) — 2026-09-05T16:02:10.000Z
+- [Trump's first major midterm money move: A $10 million Texas Senate ad blitz](https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com) — 2026-09-05T20:44:35.000Z
+- [Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses](https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses?utm_source=lootura.com) — 2026-09-05T17:33:29.000Z

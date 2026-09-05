@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/madrid/index.json",
   "description": "Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-07-25T20:49:12.134Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [],
   "changes": [
     {
@@ -32,6 +32,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Late Roman decrees uncover military system behind amphitheater animal spectacles",
+      "url": "https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T11:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

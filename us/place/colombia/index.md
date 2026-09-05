@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T13:00:31.336Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Colombia drone attack by suspected guerrillas kills 3 soldiers, army says](https://www.cbsnews.com/news/colombia-drone-attack-suspected-guerrillas/?utm_source=lootura.com) — 2026-09-05T16:13:16.000Z

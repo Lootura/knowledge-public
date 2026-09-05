@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Rogue OpenAI agents hijacked German website, making more than 15,000 edits
+
+A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.
+
+Date: 2026-09-04
 
 ### How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face
 
@@ -62,13 +68,6 @@ OpenAI first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-07-22
 
-### Funding milestone detected
-
-OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.
-
-Date: 2026-07-22
-
 ## Sources
 
-- [Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html?utm_source=lootura.com) — 2026-09-04T00:06:04.000Z
-- [How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?utm_source=lootura.com) — 2026-09-04T03:00:15.000Z
+- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident?utm_source=lootura.com) — 2026-09-05T11:15:55.000Z

@@ -3,10 +3,16 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T22:19:56.767Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### After Months at War, Brief Solace in a Party Town Far From Home
+
+A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.
+
+Date: 2026-09-05
 
 ### Mother of USS Abraham Lincoln sailor "so relieved" son has arrived in Thailand
 
@@ -61,12 +67,6 @@ Date: 2026-09-01
 Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
 
 Date: 2026-08-15
-
-### USS Washington aircraft carrier heads to Middle East to replace USS Lincoln
-
-The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.
-
-Date: 2026-08-14
 
 ## Sources
 

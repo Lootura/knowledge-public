@@ -3,10 +3,22 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-01T03:31:35.854Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península
+
+El Ministerio de Juventud e Infancia busca vías para aliviar el colapso de los sistemas de acogida en Ceuta, pero la posición política del PP bloquea las primeras soluciones. Hace dos semanas que el departamento que dirige Sira Rego puso sobre la mesa públicamente la opción de trasladar a unas 500 niñas de manera inmed.
+
+Date: 2026-09-05
+
+### La ministra Rego admite que el Ejecutivo tiene «parte de responsabilidad» en la crisis de Ceuta
+
+La ministra de Juventud e Infancia, Sira Rego , ha enviado a la sociedad de Ceuta un mensaje de autocrítica y de solidaridad, reconociendo que el Gobierno tiene «una parte de responsabilidad» en la situación de «desborde extraordinario» vivida tras la entrada de miles de migrantes, según EFE. En una entrevista en Radio.
+
+Date: 2026-09-05
 
 ### Sira Rego confronta el discurso ultra en el Congreso: “No voy a discutir si un niño merece tener derechos”
 
@@ -56,18 +68,7 @@ Sira Rego first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-07
 
-### El Gobierno aumenta a 1.342 los menores en Ceuta y fija su reubicación en la Península "en pocas semanas"
-
-Hasta el momento, las autoridades han registrado un total de 1.342 menores no acompañados en Ceuta después de la entrada masiva de 72.000 personas a territorio español de hace una semana. Así lo ha anunciado la ministra de Juventud e Infancia, Sira Rego , desde la ciudad autónoma. Eso sí, Rego admite que es de esperar.
-
-Date: 2026-08-07
-
-### El Gobierno cifra en 1.342 los menores acogidos hasta el momento en Ceuta
-
-La ministra de Juventud e Infancia, Sira Rego, ha cifrado en 1.342 los menores acogidos hasta el momento en Ceuta, pero ha explicado que se sigue filiando a decenas de menores de los que entraron irregularmente a nado el pasado 30 de julio. Seguir leyendo...
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península](https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z
+- [La ministra Rego admite que el Ejecutivo tiene «parte de responsabilidad» en la crisis de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ministra-rego-admite-ejecutivo-responsabilidad-crisis-ceuta/?utm_source=lootura.com) — 2026-09-05T20:01:03.000Z

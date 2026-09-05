@@ -3,73 +3,80 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Toscano deja su acta de concejal con críticas a Vox por virar hacia «el feminismo y el LGTBI»
+### Los autobuses de la EMT y BiciMAD vuelven a ser gratis en Madrid por la vuelta al cole: qué días podrás viajar sin pagar
 
-Tras aclararse (judicialmente) el futuro político de los exconcejales de Vox Ortega Smith e Ignacio Ansaldo, que siguen en el Ayuntamiento de Madrid como no adscritos, ha llegado el turno de la tercera edil expulsada del partido, Carla Toscano, que se encontraba de baja médica. Ella misma ha anunciado este viernes que.
+La vuelta a las aulas traerá este mes de septiembre una novedad para quienes se mueven por Madrid. El Ayuntamiento volverá a activar la gratuidad de los autobuses de la EMT y BiciMAD coincidiendo con el regreso de la actividad escolar, una medida que busca facilitar los desplazamientos en unos días de especial intensid.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas
+### Jesús Gallego analiza al nuevo Mourinho tras la derrota del Real Madrid: «Le hubiese gustado rajar más del árbitro»
 
-La Audiencia Provincial de Madrid ha tumbado una querella contra El Confidencial del abogado Jacobo Teijelo , investigado por su implicación en las cloacas de Ferraz, en la que sostenía que este diario había vulnerado su derecho a la intimidad por publicar en mayo de 2025 la grabación en la que se escuchaba a Leire Díe.
+¿Estamos ante la versión contenida de José Mourinho ? Esa es la pregunta que ha empezado a aparecer desde que el portugués ha iniciado su segunda etapa en el Real Madrid . Hasta ahora se había visto a un entrenador más relajado, incluso con espacio para las bromas con los periodistas en las ruedas de prensa. Una imagen.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid
+### El Atlético sale escaldado de San Mamés
 
-Los Reyes , junto con la Princesa de Asturias y la Infanta Sofía , asistirán el próximo 13 de septiembre al Gran Premio de Fórmula 1 que se celebrará en Madrid, según ha anunciado este viernes Zarzuela. En concreto, los miembros de la Familia Real acudirán a la carrera que tendrá lugar el domingo , si bien la cita depo.
+El Atlético de Madrid, cuando le tocaba crecer, soltó el acelerador en San Mamés y sumó ante el Athletic de Bilbao su primera derrota liguera. Los chicos de Simeone, que habían ofrecido una genial versión hace una semana contra el Sevilla, volvieron a las andadas con una actuación irregular, demasiado especulativa, y s.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales
+### Los autobuses de la EMT y Bicimad volverán a ser gratuitos en la vuelta al cole
 
-El ministro de Hacienda, Arcadi España, ha querido regalar hoy, antes del Consejo de Política Fiscal y Financiera, que ha dado luz verde a la propuesta de reforma de la financiación autonómica, a cada consejero de Hacienda un libro de un autor significativo de otro territorio. Es un detalle inédito. Cada representante.
+Para desatascar las calles de Madrid en la vuelta al cole, los autobuses de la Empresa Municipal de Transportes de Madrid ( EMT Madrid ) volverán a ser gratuitos los días 7 y 8 de septiembre. Así, los pasajeros que se suban a cualquier línea (excepto la Exprés del Aeropuerto) durante ambas jornadas, entre las 00.00 y l.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### El secreto que se esconde bajo la calle Serrano de Madrid y pocos conocen: una réplica prehistórica que el Museo Arqueológico inauguró en 1964
+### El Real Madrid abusa de un diezmado Baskonia en un duelo solidario
 
-La calle Serrano es sinónimo de escaparates, edificios señoriales y del constante trasiego de turistas y madrileños. Pero, entre el bullicio de una de las arterias más conocidas de la capital, también hay espacio para viajar miles de años atrás . Y no hace falta recorrer cientos de kilómetros para acercarse a uno de lo.
+El Real Madrid empezó a engrasar la maquinaria para la novedosa Supercopa de Euroliga que disputará en unas semanas en Abu Dhabi aprovechando el emotivo I Memorial Urbano González para buscar las necesarias conexiones en su remozada plantilla.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### La discoteca más grande de Madrid fue un cine y ahora esconde en su séptima planta un restaurante para solo 20 comensales
+### Por qué no se repitió el penalti que falló Mbappé: el detalle de la norma y la pillería de Bartra
 
-Madrid acostumbra a encontrar nuevos usos para edificios que parecían tener ya escrita su historia. En plena calle Atocha, a pocos pasos del Museo Reina Sofía y junto al Triángulo del Arte , un antiguo cine acabó convertido en uno de los grandes referentes del ocio nocturno de la capital. Ahora, casi un siglo después d.
+Hubo cerca de tres minutos y medio de los ocho de tiempo añadido en el Betis-Real Madrid de este sábado en los que el equipo de Mourinho, por detrás en el marcador (0-1), estuvo convencido de que iba a empatar . Fue el tiempo que transcurrió entre que Natan le hizo un penalti a Vinicius y que el VAR explicó a Hernández.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### El gran fuego de Burgohondo llega a los tribunales con 50 denuncias y decenas de millones en reclamaciones
+### Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios
 
-El devastador incendio de Burgohondo, que destruyó 38.000 hectáreas sólo en Ávila -y 77.000 en total al combinarse con los focos de Madrid y Toledo- llega al fin a los tribunales. La Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Ávila ha incoado diligencias previas para investigarlo y determinar causas,.
+El mercado de la vivienda parece estar empezando a mostrar señales de enfriamiento. Las compraventas cayeron un 4% en junio, encadenando ya seis meses de bajadas . El descenso más pronunciado se produjo en mayo con un retroceso interanual de las operaciones del 12%, de acuerdo con las cifras de los notarios. Sin embarg.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### 🎙 PODCAST | Recta final de legislatura: de qué depende la fecha de las elecciones, con Ignacio Escolar
+### Simeone justifica la derrota ante el Athletic: "Estamos en construcción"
 
-Cuarto año de legislatura de este gobierno. Ahora sí, estamos cerca de las elecciones. Tocan en 11 meses… pero pueden ser en 5. Ceuta, la amnistía, los presupuestos, Zapatero, Ayuso… ¿De qué depende? Un tema Al día, ¡en el teatro! Ven a verlo en directo el 3 de octubre en Madrid. Consigue ya tus entradas La actualidad.
+Diego Pablo Simeone se ha excusado después de perder 3-0 en la primera salida importante de la temporada. El técnico del Atlético de Madrid ha valorado el partido de los suyos y ha señalado que su equipo está «en una etapa de construcción» y ha justificado que «dos minutos de poca tensión» llevaron al conjunto ... Cont.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### El Prado abre sus puertas de noche: la cita cultural gratuita que Madrid recupera cada primer sábado de mes
+### El Atlético se pierde en La Catredal
 
-Hay planes que cambian por completo cuando cae el sol. Es el caso de una de las propuestas culturales más especiales de Madrid: El Prado de noche , la iniciativa del Museo Nacional del Prado que vuelve en 2026 para permitir que sus visitantes recorran algunas de sus salas en un horario poco habitual y, además, con entr.
+El Atlético llegó como invicto a La Catedral y acabó perdiéndose en la primera derrota de la temporada. Ni el pinchazo del Real Madrid sirvió para que los de Simeone encontrasen la motivación y fórmula necesaria para escalar en la clasificación. Lejos de dar un golpe arriba, los rojiblancos acabaron llevándose un zarpa.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Hacienda tacha de «gamberrismo institucional» el boicot de Madrid a la cita sobre financiación
+### San Mamés se divierte y aviva fantasmas del pasado en el Atleti
 
-El Ministerio de Hacienda ha lamentado este jueves que la Comunidad de Madrid haya anunciado que no acudirá a la reunión con todas las comunidades para abordar la reforma de la financiación autonómica y que haya animado al resto de regiones gobernadas por el PP a sumarse al boicot, aunque le ha advertido de que «el gam.
+El Athletic Club se ha impuesto este sábado al Atlético de Madrid en San Mamés (3-0) , en la jornada 4 de LaLiga EA Sports, un partido en el que una segunda mitad sobresaliente de los locales, con goles de Nico Williams, Robert Navarro y Oihan Sancet, acabaron con las esperanzas de los de Diego Pablo Simeon e, que sufr.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
 ## Fuentes
 
-- [Toscano deja su acta de concejal con críticas a Vox por virar hacia «el feminismo y el LGTBI»](https://www.abc.es/espana/madrid/carla-toscano-deja-acta-concejala-ayuntamiento-madrid-20260904125503-nt.html?utm_source=lootura.com) — 2026-09-04T14:41:35.000Z
-- [La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas](https://www.elconfidencial.com/espana/2026-09-04/justicia-tumba-querella-cloacas-psoe-el-confidencial-veracidad-audio-balas_4418037/?utm_source=lootura.com) — 2026-09-04T13:31:00.000Z
-- [Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid](https://theobjective.com/gente/2026-09-04/reyes-princesa-infanta-gran-premio-f1-madrid/?utm_source=lootura.com) — 2026-09-04T14:50:42.000Z
+- [Ángeles González-Sinde: «En España no hemos aprendido a hablar de lo que nos duele»](https://www.abc.es/cultura/angeles-gonzalezsinde-espana-aprendido-hablar-duele-20260904013644-nt.html?utm_source=lootura.com) — 2026-09-05T16:16:20.000Z
+- [El Atlético sale escaldado de San Mamés](https://www.abc.es/deportes/atletico-madrid/atletico-sale-escaldado-san-mames-20260905181825-nt.html?utm_source=lootura.com) — 2026-09-05T16:57:10.000Z
+- [Los autobuses de la EMT y Bicimad volverán a ser gratuitos en la vuelta al cole](https://www.abc.es/espana/madrid/autobuses-emt-bicimad-volveran-gratuitos-vuelta-cole-20260905184137-nt.html?utm_source=lootura.com) — 2026-09-05T16:43:54.000Z
+- [El Real Madrid abusa de un diezmado Baskonia en un duelo solidario](https://www.diariodemallorca.es/deportes/2026/09/05/real-madrid-abusa-diezmado-baskonia-133993555.html?utm_source=lootura.com) — 2026-09-05T21:12:33.000Z
+- [Los autobuses de la EMT y BiciMAD vuelven a ser gratis en Madrid por la vuelta al cole: qué días podrás viajar sin pagar](https://www.elconfidencial.com/espana/madrid/2026-09-05/buses-emt-bicimad-gratis-madrid-1tna-1qrt_4417983/?utm_source=lootura.com) — 2026-09-05T11:07:00.000Z
+- [La Real mantiene su estatus: es la quinta plantilla más valiosa de La Liga](https://www.diariovasco.com/real-sociedad/real-mantiene-estatus-quinta-plantilla-valiosa-liga-20260905000545-nt_amp.html?utm_source=lootura.com) — 2026-09-04T22:05:45.000Z
+- [Por qué no se repitió el penalti que falló Mbappé: el detalle de la norma y la pillería de Bartra](https://elpais.com/deportes/futbol/2026-09-05/por-que-no-se-repitio-el-penalti-que-fallo-mbappe-el-detalle-de-la-norma-y-la-pilleria-de-bartra.html?utm_source=lootura.com) — 2026-09-05T06:22:22.000Z
+- [Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios](https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html?utm_source=lootura.com) — 2026-09-05T18:36:14.000Z
+- [Simeone justifica la derrota ante el Athletic: "Estamos en construcción"](https://okdiario.com/deportes/simeone-justifica-derrota-athletic-estamos-construccion-20235431/amp?utm_source=lootura.com) — 2026-09-05T17:13:28.000Z
+- [El Atlético se pierde en La Catredal](https://okdiario.com/deportes/atletico-pierde-catredal-20235179?utm_source=lootura.com) — 2026-09-05T16:28:00.000Z

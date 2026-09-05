@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/abraham-lincoln/index.json",
   "description": "Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T22:19:56.767Z",
+  "updatedAt": "2026-09-05T14:34:36.678Z",
   "aliases": [
     "A. Lincoln",
     "Abe Lincoln",
@@ -18,6 +18,11 @@
     "Uncle Abe"
   ],
   "changes": [
+    {
+      "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+      "summary": "A stopover in Thailand was welcome relief for thousands of troops aboard the U.S.S. Abraham Lincoln from a grueling deployment. But it was not a complete salve.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Mother of USS Abraham Lincoln sailor \"so relieved\" son has arrived in Thailand",
       "summary": "The USS Abraham Lincoln pulled into port in Thailand for some rest and relaxation after 286 days at sea.",
@@ -62,11 +67,6 @@
       "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
       "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.",
       "date": "2026-08-15"
-    },
-    {
-      "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-      "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [],

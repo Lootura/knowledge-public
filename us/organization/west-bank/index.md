@@ -3,7 +3,7 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-13
 
 ## Sources
 
-No public source links.
+- [U.S. ambassador calls ongoing West Bank settler violence an "act of terror"](https://www.cbsnews.com/news/mike-huckabee-west-bank-settler-violence/?utm_source=lootura.com) — 2026-09-05T17:54:05.000Z

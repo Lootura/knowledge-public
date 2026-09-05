@@ -3,7 +3,7 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno toma el control del puerto de Ceuta para la "atención humanitaria" de inmigrantes](https://www.elconfidencial.com/espana/2026-09-05/gobierno-control-puerto-ceuta-migrantes-1tna-1tps_4418414/?utm_source=lootura.com) — 2026-09-05T17:18:00.000Z

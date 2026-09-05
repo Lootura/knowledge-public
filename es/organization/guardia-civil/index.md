@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### El PP lleva al Congreso su plan ante la crisis de Ceuta: reforzar la frontera, agilizar las expulsiones y más policías
+
+El PP llevará a votación al Pleno del Congreso la próxima semana sus propuestas para afrontar la crisis de Ceuta , un plan que incluye reforzar el perímetro fronterizo alargando el espigón del Tarajal, un refuerzo permanente de Policía y Guardia Civil y más funcionarios para agilizar las expulsiones de quienes llegaron.
+
+Date: 2026-09-05
+
+### Desembarcan 33 migrantes subsaharianos en Mallorca e interceptan a otros doce en Cabrera
+
+Un total de 29 migrantes de origen subsahariano han desembarcado este sábado a las 10.00 horas en la costa de Illetes, en Calvià (Mallorca), en una zona urbana con un pequeño embarcadero situado frente a los edificios de viviendas de primera línea. Los migrantes han sido interceptados por la Guardia Civil del puesto pr.
+
+Date: 2026-09-05
 
 ### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
 
@@ -56,20 +68,6 @@ Escribano Mechanical & Engineering (EM&E) se encargará del mantenimiento integr
 
 Date: 2026-09-03
 
-### Policías de Italia y Francia patrullan con la Guardia Civil en el Camino de Santiago de Zamora
-
-Agentes del Arma de Carabinieri italiano y la Gendarmería Nacional Francesa patrulla este mes de septiembre y en octubre en la provincia de Zamora junto a los miembros de la oficina móvil de atención al peregrino de la Guardia Civil de Zamora, según ha informado el Instituto armado en un comunicado. Las patrullas mixta.
-
-Date: 2026-09-03
-
-### La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura
-
-La investigación judicial sobre el grave accidente ferroviario ocurrido el pasado 18 de enero en Adamuz (Córdoba) ya tiene una respuesta técnica sobre el origen del desastre. El Informe Técnico de Inspección Ocular elaborado por los especialistas del Departamento de Escena del Crimen de la Guardia Civil y entregado en.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
-- [El informe de la Guardia Civil trasladado a la juez incluye avisos anteriores a la invasión de Ceuta](https://www.abc.es/espana/informe-guardia-civil-trasladado-juez-incluye-avisos-20260904140440-nt.html?utm_source=lootura.com) — 2026-09-04T17:53:03.000Z
-- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z
+No public source links.

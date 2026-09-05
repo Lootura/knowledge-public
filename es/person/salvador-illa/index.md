@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña](https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com) — 2026-09-04T18:10:52.000Z
-- [Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa](https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com) — 2026-09-04T17:42:13.000Z
+No public source links.

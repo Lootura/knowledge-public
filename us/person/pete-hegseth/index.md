@@ -3,20 +3,26 @@
 > Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/person/pete-hegseth
 
 ## Recent changes
 
-### Here are the military officials who've been fired or resigned under Hegseth
+### Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military
 
-At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.
+The US defense secretary faces internal dissent and discord at the Pentagon, accused of focusing on culture war issues and his own political ambitions as the Iran war drags on In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been.
 
-Date: 2026-09-02
+Date: 2026-09-05
 
 ### Discovered by Atlas
 
 Pete Hegseth first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-02
+
+### Here are the military officials who've been fired or resigned under Hegseth
+
+At least 20 generals, admirals and civilian defense leaders have been fired or have departed their jobs since Pete Hegseth became defense secretary at the beginning of the second Trump administration.
 
 Date: 2026-09-02
 

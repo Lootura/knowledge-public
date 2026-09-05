@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta](https://www.20minutos.es/ceuta/vivas-asegura-que-pocas-ciudades-son-capaces-afrontar-trauma-que-sufre-ceuta_7033083_0.html?utm_source=lootura.com) — 2026-09-04T17:35:33.000Z
-- [Luis de la Fuente se vuelca con Ceuta: "Os habéis convertido en mis ídolos"](https://www.20minutos.es/deportes/futbol/luis-fuente-se-vuelca-con-ceuta-plena-crisis-migratoria-estamos-muy-unidos-con-vosotros-os-habeis-convertido-mis-idolos_7033031_0.html?utm_source=lootura.com) — 2026-09-04T15:08:58.000Z
+No public source links.

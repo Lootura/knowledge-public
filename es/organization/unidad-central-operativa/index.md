@@ -70,5 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
-- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z
+No public source links.

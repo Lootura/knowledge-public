@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,11 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+      "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a ne.",
+      "date": "2026-09-05"
+    },
     {
       "title": "U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran",
       "summary": "The Treasury Department accused the Turkish bank and its entities of being established to enable Iran's efforts to transfer oil revenues from China to Turkey, where they could then be converted to cash and gold.",
@@ -64,26 +69,21 @@
       "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
       "summary": "The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
-      "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran",
-      "url": "https://www.pbs.org/newshour/world/u-s-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:26:55.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US",
+      "url": "https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T21:30:31.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
-      "title": "Volkswagen Plans to Cut 50,000 Jobs",
-      "url": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T23:32:22.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
+      "url": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T18:40:02.000Z",
+      "sourceId": "lootura-us-phys-org"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

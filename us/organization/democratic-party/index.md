@@ -3,10 +3,40 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Voters are fed up with data centers. Both parties are trying to cash in for midterms
+
+Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).
+
+Date: 2026-09-05
+
+### Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections
+
+Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.
+
+Date: 2026-09-05
+
+### Trump's first major midterm money move: A $10 million Texas Senate ad blitz
+
+This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.
+
+Date: 2026-09-05
+
+### Ossoff and Talarico to Share Fund-Raising Event in Hollywood
+
+The event with the Georgia and Texas Democrats will be hosted by Shonda Rhimes.
+
+Date: 2026-09-05
+
+### Brooks and Capehart on Trump calling Iran war 'small potatoes'
+
+David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's remarks calling the conflict with Iran "small potatoes," the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on cho.
+
+Date: 2026-09-04
 
 ### Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats
 
@@ -38,36 +68,9 @@ The fight has highlighted party divisions and raised questions about how Democra
 
 Date: 2026-09-03
 
-### Veteran political journalist on division among Democrats over democratic socialism
-
-NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing democratic socialism.
-
-Date: 2026-09-03
-
-### Stephen A. Smith on Trump, Democrats and the politics of chaos
-
-Stephen A. Smith on Trump, Democrats and the politics of chaos lead image.
-
-Date: 2026-09-03
-
-### Dems demand DHS fund election security. And, journalist Gloria Steinem has died
-
-Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died. (Image credit: Mario Tama).
-
-Date: 2026-09-03
-
-### Democratic strategist on the new anti-partisan swing voters
-
-Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.
-
-Date: 2026-09-02
-
-### Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?
-
-For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats](https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html?utm_source=lootura.com) — 2026-09-04T17:36:49.000Z
+- [Voters are fed up with data centers. Both parties are trying to cash in for midterms](https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com) — 2026-09-05T09:00:00.000Z
+- [Trump's first major midterm money move: A $10 million Texas Senate ad blitz](https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com) — 2026-09-05T20:44:35.000Z
+- [Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections](https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html?utm_source=lootura.com) — 2026-09-05T09:03:09.000Z
+- [Ossoff and Talarico to Share Fund-Raising Event in Hollywood](https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html?utm_source=lootura.com) — 2026-09-05T14:49:58.000Z

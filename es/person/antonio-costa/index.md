@@ -3,20 +3,26 @@
 > Sigue la actividad de António Costa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-01T16:56:38.429Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-costa
 
 ## Cambios recientes
 
-### Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta
+### La UE alerta del uso de la inmigración como «una nueva forma de amenazar la integridad territorial»
 
-Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.
+El presidente del Consejo de la Unión Europea, Antonio Costa , ha alertado de la «instrumentalización» de la inmigración como «una nueva forma de amenazar la integridad territorial». La violación de la soberanía de España en Ceuta ha sido debate en el prestigio foro internacional celebrado en la localidad italiana Cerb.
 
-Date: 2026-08-01
+Date: 2026-09-05
 
 ### Discovered by Atlas
 
 António Costa first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-01
+
+### Los líderes de 22 países europeos señalan la regularización de Sánchez «como factor de atracción» en plena invasión de Ceuta
+
+Los líderes de 22 países europeos han advertido que políticas como la regularización de un «número muy elevado» de inmigrantes pueden actuar como «factores de atracción» . En una carta dirigida a los presidentes del Consejo Europeo y de la Comisión Europea, António Costa y Ursula von der Leyen, y al primer ministro irl.
 
 Date: 2026-08-01
 

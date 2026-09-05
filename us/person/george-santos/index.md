@@ -46,4 +46,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [What app surged in downloads after Trump's 'Lake America' change? The quiz knows](https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows?utm_source=lootura.com) — 2026-09-04T09:01:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/object/oval-office
 
 ## Recent changes
+
+### US military hits 3 Iranian oil tankers after saying Navy warships were targeted
+
+The strikes come a day after President Trump appeared to downplay the war with Iran as "small potatoes" during an exchange with reporters in the Oval Office. (Image credit: Vahid Salemi).
+
+Date: 2026-09-05
 
 ### What Trump's Most-Favored-Nation Deal Means for Drug Prices
 
@@ -64,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [US military hits 3 Iranian oil tankers after saying Navy warships were targeted](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com) — 2026-09-05T15:05:08.000Z

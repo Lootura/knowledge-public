@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Fuentes
 
-- [Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él](https://www.abc.es/gente/extrabajadoras-julio-iglesias-denunciaron-agresion-sexual-presentan-20260904155517-nt_amp.html?utm_source=lootura.com) — 2026-09-04T13:55:18.000Z
+No public source links.

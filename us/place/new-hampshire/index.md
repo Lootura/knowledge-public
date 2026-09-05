@@ -3,10 +3,16 @@
 > Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/new-hampshire
 
 ## Recent changes
+
+### New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that
+
+While voters elsewhere have embraced a decidedly anti-establishment sentiment this campaign season, New Hampshire Republican voters appear content with their choices and are poised to pick a familiar name over a fresh face on Tuesday.
+
+Date: 2026-09-05
 
 ### Discovered by Atlas
 
@@ -22,4 +28,4 @@ Date: 2026-09-02
 
 ## Sources
 
-No public source links.
+- [New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that](https://www.pbs.org/newshour/politics/new-hampshires-gop-primary-features-two-familiar-names-from-the-past-and-voters-are-fine-with-that?utm_source=lootura.com) — 2026-09-05T16:35:17.000Z

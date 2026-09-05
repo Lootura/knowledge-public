@@ -3,10 +3,34 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz
+
+A former congressman got hit with a ban, an artist had his upcoming Met Gala exhibition pulled, and a record carrier deployment finally came to an end.
+
+Date: 2026-09-05
+
+### Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans
+
+Missouri’s Supreme Court said a map redrawn to help Republicans could not be used in November and said voters should decide on the new boundaries.
+
+Date: 2026-09-05
+
+### Supreme Court Sides With Republicans in TV Ad Fight
+
+Republican groups had asked the court to clear the way for political parties to pay the same low-cost ad rates as candidates, a move that could undercut a Democratic advantage in the midterms.
+
+Date: 2026-09-04
+
+### Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots
+
+The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.
+
+Date: 2026-09-04
 
 ### Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots
 
@@ -44,32 +68,8 @@ The Trump administration on Thursday asked the Supreme Court to reject an order 
 
 Date: 2026-09-04
 
-### Trump asks Supreme Court to lift block on USPS plan to restrict mail voting
-
-The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election. (Image credit: Justin Sullivan).
-
-Date: 2026-09-03
-
-### Is Letting Only Seniors Vote by Mail Unconstitutional?
-
-Federal appeals courts have split on the question, making Supreme Court review likely.
-
-Date: 2026-09-03
-
-### News Wrap: Trump asks Supreme Court to lift block on mail ballot order
-
-In our news wrap Thursday, the Trump administration asked the Supreme Court to lift a block on a plan to restrict mail-in voting, federal prosecutors are charging an immigration officer with lying about the shooting of a Venezuelan man and billionaire Leon Black is defying a Congressional subpoena to address his ties t.
-
-Date: 2026-09-03
-
-### Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat
-
-Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Democratic hands this November. The court ruled unanimously on Thursday that a referendum petition organized by Democrats to put the new congre.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Trump administration asks Supreme Court to weigh in on mail-in ballots](https://www.cbsnews.com/video/trump-administration-asks-supreme-court-to-weigh-in-on-mail-in-ballots/?utm_source=lootura.com) — 2026-09-04T15:14:43.000Z
-- [Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots](https://www.npr.org/2026/09/04/nx-s1-5956866/election-expert-on-the-impact-of-trumps-appeal-to-scotus-on-mail-in-ballots?utm_source=lootura.com) — 2026-09-04T07:58:31.000Z
-- [North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them](https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html?utm_source=lootura.com) — 2026-09-04T15:16:35.000Z
+- [Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz](https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com) — 2026-09-05T09:15:00.000Z
+- [Supreme Court Sides With Republicans in TV Ad Fight](https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html?utm_source=lootura.com) — 2026-09-04T22:23:54.000Z
+- [Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans](https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html?utm_source=lootura.com) — 2026-09-05T15:13:16.000Z

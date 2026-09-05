@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,6 +44,26 @@
   ],
   "changes": [
     {
+      "title": "Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania",
+      "summary": "Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria",
+      "summary": "Irán había disparado antes misiles balísticos a varios buques de guerra estadounidenses en el estrecho de Ormuz.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros",
+      "summary": "Estados Unidos ha informado este sábado de la destrucción de tres petroleros que pertenecerían a la Guardia Revolucionaria de Irán en respuesta a un ataque contra dos buques de guerra estadounidenses desplegados en la zona del estrecho de Ormuz . Las fuerzas estadounidenses han «inutilizado permanentemente» los petrole.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "El embajador de EEUU en Turquía pide no interpretar las sanciones como un juicio al país",
+      "summary": "El embajador de Estados Unidos en Turquía, Tom Barrack, ha instado a las autoridades turcas a no considerar como una valoración sobre el país las nuevas sanciones anunciadas por Washington contra el banco turco Golden Global Bank y dos de sus filiales por su presunta participación en el movimiento de fondos en nombre d.",
+      "date": "2026-09-05"
+    },
+    {
       "title": "El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre",
       "summary": "La fuerte creación de empleo en Estados Unidos en agosto, con 162.000 nuevos puestos de trabajo, y con una tasa de paro que se mantuvo en el 4,1%, despeja el camino para que la Reserva Federal opte por elevar el precio del dinero en la reunión de septiembre. La mejora del mercado de trabajo aumenta la probabilidad de q.",
       "date": "2026-09-04"
@@ -72,77 +92,27 @@
       "title": "El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto",
       "summary": "A dos meses de las elecciones de medio mandato, Donald Trump puede vender una buena noticia a los estadounidenses . El mercado laboral respondió mejor de lo esperado el pasado agosto, con la creación de 162.000 puestos de trabajo, según los datos publicados este viernes por el Departamento de Trabajo de Estados Unidos.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
-      "summary": "Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "La ONU adopta una resolución para utilizar un mapa más fiel al tamaño de los continentes",
-      "summary": "La decisión ha sido respaldada por 164 países frente a uno en contra, Estados Unidos, y seis abstenciones.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos",
-      "summary": "Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "El Ibex 35 espera en rojo el informe de empleo de Estados Unidos",
-      "summary": "Las perspectivas más moderadas sobre los tipos de interés, después de que el gobernador de la Reserva Federal, Christopher Waller, disipa los temores a una inminente subida de las tasas en EE UU. Por su parte, los precios del petróleo se estabilizan con el Brent en los 95 dólares por barril, aunque acumulan un alza de.",
-      "date": "2026-09-04"
     }
   ],
   "sources": [
     {
-      "title": "Estados Unidos sanciona a uno de los nietos de Raúl Castro",
-      "url": "https://www.abc.es/internacional/estados-unidos-sanciona-nietos-raul-castro-20260904190852-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:51:16.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria",
+      "url": "https://www.eldebate.com/internacional/20260905/estados-unidos-bombardea-tres-petroleros-iranies-como-represalia-ataque-guardia-revolucionaria_455719.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:09:25.000Z",
+      "sourceId": "lootura-es-el-debate"
     },
     {
-      "title": "El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto",
-      "url": "https://elpais.com/economia/2026-09-04/el-mercado-laboral-da-un-respiro-a-trump-con-la-creacion-de-162000-puestos-en-agosto.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:41:44.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T13:10:22.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:34:52.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
-      "url": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:19:41.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El empleo sorprende al alza en EEUU: crea 162.000 nuevos puestos en agosto",
-      "url": "https://www.expansion.com/economia/2026/09/04/6a9abf32e5fdeade698b457c.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T13:08:46.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit",
-      "url": "https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:58:20.000Z",
+      "title": "Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania",
+      "url": "https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T13:02:08.000Z",
       "sourceId": "lootura-es-the-objective"
     },
     {
-      "title": "La ONU adopta una resolución para utilizar un mapa más fiel al tamaño de los continentes",
-      "url": "https://theobjective.com/internacional/2026-09-04/onu-resolucion-mapa-fiel-tamano-continentes/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:40:20.000Z",
+      "title": "EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros",
+      "url": "https://theobjective.com/internacional/2026-09-05/eeuu-responde-al-ataque-de-iran-a-dos-buques-de-guerra-destruyendo-tres-petroleros/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T14:51:58.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 8
+  "evidenceCount": 3
 }

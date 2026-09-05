@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Los Reyes, junto a la princesa y la infanta, asistirán al Gran Premio de F1 en Madrid](https://theobjective.com/gente/2026-09-04/reyes-princesa-infanta-gran-premio-f1-madrid/?utm_source=lootura.com) — 2026-09-04T14:50:42.000Z
+No public source links.

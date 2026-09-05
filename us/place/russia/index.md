@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
+
+U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).
+
+Date: 2026-09-05
+
+### Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances
+
+As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.
+
+Date: 2026-09-05
 
 ### U.S. Diesel Prices Set New High
 
@@ -56,22 +68,7 @@ Each side is using missiles and drones to try to pound the other into giving up,
 
 Date: 2026-09-03
 
-### Attacks in Black Sea Threaten to Strangle Global Grain Supply
-
-Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.
-
-Date: 2026-09-02
-
-### China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-
-As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected](https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com) — 2026-09-04T18:32:34.000Z
-- [U.S. Diesel Prices Set New High](https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com) — 2026-09-04T14:59:20.000Z
-- [After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace](https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com) — 2026-09-04T09:03:23.000Z
-- [Bessent Blames Ukraine for High Energy Prices](https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com) — 2026-09-03T19:56:44.000Z
-- [Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks](https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com) — 2026-09-04T16:51:14.000Z
+- [U.S. envoys in Moscow in new push for peace between Russia and Ukraine](https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com) — 2026-09-05T11:08:57.000Z
+- [Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances](https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html?utm_source=lootura.com) — 2026-09-05T12:35:46.000Z

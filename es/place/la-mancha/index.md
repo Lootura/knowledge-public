@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Muere una mujer embestida y corneada por un toro en el encierro de Ayna (Albacete)
+
+Una mujer de 64 años ha muerto tras resultar herida por asta de toro en un encierro en Ayna, Albacete. Un hombre de unos 60 años también ha resultado herido. El suceso se ha producido sobre las 10:55 horas, según ha informado Emergencias 112 Castilla-La Mancha, durante el encierro que se celebraba con motivo de las fie.
+
+Date: 2026-09-05
 
 ### Asturias y Castilla-La Mancha confirman la brecha en el PSOE por la financiación autonómica y no apoyarán la propuesta
 
@@ -62,12 +68,6 @@ Un amplio operativo formado por medios aéreos y terrestres de la Región de Mur
 
 Date: 2026-08-08
 
-### Castilla-La Mancha invierte más de 370.000 euros en renovar el Servicio de Anatomía Patológica del Hospital de Valdepeñas
-
-El Gobierno de Castilla-La Mancha ha culminado la renovación integral del Servicio de Anatomía Patológica del Hospital General de Valdepeñas, una actuación en la que ha invertido más de 370.000 euros y que permitirá reforzar la capacidad diagnóstica del centro, mejorar la seguridad de los profesionales y preparar el se.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Muere una mujer embestida y corneada por un toro en el encierro de Ayna (Albacete)](https://okdiario.com/toros/muere-mujer-embestida-corneada-toro-encierro-ayna-albacete-20235350?utm_source=lootura.com) — 2026-09-05T20:09:38.000Z

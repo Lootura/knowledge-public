@@ -3,10 +3,16 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Xiaomi ha lanzado un tendedero para la ropa que soluciona el mayor problema de TODOS los hogares en España
+
+Xiaomi lo ha vuelto a hacer. No ha lanzado un móvil o unos auriculares impresionantes, sino un tendedero. Sí, para la ropa. Y cuando lo veas, probablemente vas a entender por qué en China está triunfando y vendiendo miles de unidades. La idea es sublime si tienes una casa pequeña y estás harto de que el tendedero de la.
+
+Date: 2026-09-05
 
 ### El pulso entre China y EEUU se traslada a Oriente Próximo
 
@@ -59,12 +65,6 @@ Date: 2026-08-14
 ### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
 
 La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
-
-Date: 2026-08-14
-
-### La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz
-
-Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.
 
 Date: 2026-08-14
 

@@ -3,10 +3,16 @@
 > Follow Anthony Fauci, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/anthony-fauci
 
 ## Recent changes
+
+### Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists
+
+As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.
+
+Date: 2026-09-05
 
 ### Does the Fifth Amendment Protect Fauci?
 
@@ -58,4 +64,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists](https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html?utm_source=lootura.com) — 2026-09-05T09:00:49.000Z

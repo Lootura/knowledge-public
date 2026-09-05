@@ -65,19 +65,6 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña",
-      "url": "https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:10:52.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
-      "url": "https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:42:13.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -34,4 +34,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch?utm_source=lootura.com) — 2026-09-04T14:52:00.000Z
+No public source links.

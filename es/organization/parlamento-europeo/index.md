@@ -3,10 +3,16 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta
+
+Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.
+
+Date: 2026-09-05
 
 ### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
 
@@ -64,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ex-ciudadanos-von-der-leyen-asuma-liderazgo-gestion-ceuta/?utm_source=lootura.com) — 2026-09-05T21:38:32.000Z

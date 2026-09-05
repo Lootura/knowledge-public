@@ -70,4 +70,4 @@ Date: 2026-07-18
 
 ## Fuentes
 
-- [Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche](https://okdiario.com/cool/famosos/lamine-yamal-ines-garcia-disfrutan-24-horas-lujo-paris-jet-privado-hotel-4-000-euros-noche-20228194?utm_source=lootura.com) — 2026-09-04T15:00:56.000Z
+No public source links.

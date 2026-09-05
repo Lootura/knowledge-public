@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nigel-farage/index.json",
   "description": "Follow Nigel Farage, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T20:28:29.024Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Farage",
     "Mr. Brexit",
@@ -16,6 +16,16 @@
     "Nigel"
   ],
   "changes": [
+    {
+      "title": "Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report",
+      "summary": "Two senior aides to Nigel Farage, the firebrand leader of the U.K.'s populist Reform party, have stepped down in the wake of an investigative news report.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "Reform U.K.'s annual convention comes amid fresh controversy after an undercover investigation alleged that senior figures in Nigel Farage's party discussed securing foreign funding, which is prohibited under British law. Reform denies wrongdoing, saying it was the victim of a hoax. CBS News reporter Inaya Folarin Iman.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
       "summary": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
@@ -52,6 +62,19 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report",
+      "url": "https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T01:07:20.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Nigel Farage's Reform U.K. accused of breaking foreign funding law after undercover investigation",
+      "url": "https://www.cbsnews.com/video/nigel-farage-reform-uk-foreign-funding-law-undercover-investigation/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T01:06:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
 }

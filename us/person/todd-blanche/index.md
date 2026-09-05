@@ -3,10 +3,16 @@
 > Follow Todd Blanche, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/todd-blanche
 
 ## Recent changes
+
+### The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi
+
+Todd Blanche’s remarks are part of a totally-not-invented moral panic that stretches the limits of the imagination Being a public school teacher in the US these days is tough. You’ve got to pay for a lot of your own supplies, deal with smartphone-addicted children and perform gender-affirming surgeries on your lunch br.
+
+Date: 2026-09-05
 
 ### Here’s the biggest news you missed this weekend
 
@@ -62,12 +68,6 @@ A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Bla
 
 Date: 2026-08-07
 
-### Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general
-
-Republican Sen. Bill Cassidy said Friday he will back Todd Blanche's nomination as attorney general, likely paving the way for Blanche to be confirmed to lead President Donald Trump's Justice Department.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools?utm_source=lootura.com) — 2026-09-05T12:00:37.000Z

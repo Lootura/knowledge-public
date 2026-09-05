@@ -3,14 +3,50 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
 
+### Witkoff, Kushner visit Moscow in latest push to end war in Ukraine
+
+Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.
+
+Date: 2026-09-05
+
+### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
+
+U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).
+
+Date: 2026-09-05
+
+### How the U.S. focus on Iran is fueling a more aggressive Putin
+
+Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
+
+Date: 2026-09-05
+
+### Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches
+
+A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.
+
+Date: 2026-09-05
+
+### Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine
+
+The envoys' trip comes as both sides escalate aerial attacks, some 4 1/2 years after the Kremlin's invasion of its neighbor.
+
+Date: 2026-09-05
+
 ### U.S. Diesel Prices Set New High
 
 Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
+
+Date: 2026-09-04
+
+### News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood
+
+In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.
 
 Date: 2026-09-04
 
@@ -32,47 +68,10 @@ The attack came as the American envoys Steve Witkoff and Jared Kushner were said
 
 Date: 2026-09-04
 
-### Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected
-
-The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.
-
-Date: 2026-09-04
-
-### The price of diesel hits a record high
-
-The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain. (Image credit: Brandon Bell).
-
-Date: 2026-09-04
-
-### Russia intensifies attacks on Ukraine's capital
-
-In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.
-
-Date: 2026-09-04
-
-### Bessent Blames Ukraine for High Energy Prices
-
-After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.
-
-Date: 2026-09-03
-
-### Putin Floats Chance of Peace Agreement to End War With Ukraine
-
-Russian President Vladimir Putin is saying there is a chance of a peace agreement to end the war in Ukraine. However, he said, the conflict must be resolved by the countries involved and not by leaders from other nations. NBC’s Richard Engel reports for TODAY.
-
-Date: 2026-09-03
-
-### Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv
-
-President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected](https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com) — 2026-09-04T18:32:34.000Z
-- [U.S. Diesel Prices Set New High](https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com) — 2026-09-04T14:59:20.000Z
-- [After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace](https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com) — 2026-09-04T09:03:23.000Z
-- [Bessent Blames Ukraine for High Energy Prices](https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com) — 2026-09-03T19:56:44.000Z
-- [Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks](https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com) — 2026-09-04T16:51:14.000Z
-- [Russian Drone Strikes Office of Ukraine’s Intelligence Chief](https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html?utm_source=lootura.com) — 2026-09-04T18:42:03.000Z
+- [Witkoff, Kushner visit Moscow in latest push to end war in Ukraine](https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com) — 2026-09-05T19:16:05.000Z
+- [U.S. envoys in Moscow in new push for peace between Russia and Ukraine](https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com) — 2026-09-05T11:08:57.000Z
+- [How the U.S. focus on Iran is fueling a more aggressive Putin](https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com) — 2026-09-05T11:43:20.000Z
+- [Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine](https://www.pbs.org/newshour/world/putin-orders-a-72-hour-pause-in-strikes-on-kyiv-as-u-s-envoys-visit-russia-and-ukraine?utm_source=lootura.com) — 2026-09-05T15:31:18.000Z
+- [Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches](https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html?utm_source=lootura.com) — 2026-09-05T12:47:41.000Z

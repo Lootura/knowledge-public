@@ -3,10 +3,16 @@
 > Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/organization/funcion-publica
 
 ## Cambios recientes
+
+### El malestar de los funcionarios se extiende por las administraciones ante el "deterioro de los servicios públicos"
+
+Desde el sindicato confirmaron que contactarán con Función Pública para reactivar el desarrollo del Acuerdo Marco, con un 5% de subida salarial Leer.
+
+Date: 2026-09-04
 
 ### Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones
 
@@ -46,4 +52,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones](https://www.abc.es/economia/funcionarios-aprietan-constitucional-recorte-salarial-2010-hizo-20260904140603-nt.html?utm_source=lootura.com) — 2026-09-04T14:51:15.000Z
+No public source links.

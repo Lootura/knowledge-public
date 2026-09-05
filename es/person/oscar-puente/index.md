@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria
+
+El ministro de Transportes, Óscar Puente, ha ordenado autorizar la instalación de carpas para acoger a más de 1.000 ilegales en el puerto de Ceuta. La resolución llega después de que el Consejo de Administración de la Autoridad Portuaria de Ceuta acordase no autorizarlo «por resultar incompatible con la normal explotac.
+
+Date: 2026-09-05
 
 ### Óscar Puente: Consejos tengo...
 
@@ -62,12 +68,7 @@ El ministro de Transportes, Óscar Puente , ha generado debate político tras pu
 
 Date: 2026-08-10
 
-### Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”
-
-El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-- [Óscar Puente: Consejos tengo...](https://www.abc.es/opinion/abc-oscar-puente-consejo-20260904192839-nt.html?utm_source=lootura.com) — 2026-09-04T18:24:43.000Z
+- [El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas](https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com) — 2026-09-05T16:21:44.000Z
+- [Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria](https://okdiario.com/espana/oscar-puente-impone-campamento-1-000-invasores-puerto-ceuta-pese-voto-negativo-autoridad-portuaria-20234631?utm_source=lootura.com) — 2026-09-05T13:41:23.000Z

@@ -3,10 +3,34 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
+
+Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.
+
+Date: 2026-09-05
+
+### Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria
+
+Irán había disparado antes misiles balísticos a varios buques de guerra estadounidenses en el estrecho de Ormuz.
+
+Date: 2026-09-05
+
+### EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros
+
+Estados Unidos ha informado este sábado de la destrucción de tres petroleros que pertenecerían a la Guardia Revolucionaria de Irán en respuesta a un ataque contra dos buques de guerra estadounidenses desplegados en la zona del estrecho de Ormuz . Las fuerzas estadounidenses han «inutilizado permanentemente» los petrole.
+
+Date: 2026-09-05
+
+### El embajador de EEUU en Turquía pide no interpretar las sanciones como un juicio al país
+
+El embajador de Estados Unidos en Turquía, Tom Barrack, ha instado a las autoridades turcas a no considerar como una valoración sobre el país las nuevas sanciones anunciadas por Washington contra el banco turco Golden Global Bank y dos de sus filiales por su presunta participación en el movimiento de fondos en nombre d.
+
+Date: 2026-09-05
 
 ### El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre
 
@@ -44,37 +68,8 @@ A dos meses de las elecciones de medio mandato, Donald Trump puede vender una bu
 
 Date: 2026-09-04
 
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
-### La ONU adopta una resolución para utilizar un mapa más fiel al tamaño de los continentes
-
-La decisión ha sido respaldada por 164 países frente a uno en contra, Estados Unidos, y seis abstenciones.
-
-Date: 2026-09-04
-
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
-### El Ibex 35 espera en rojo el informe de empleo de Estados Unidos
-
-Las perspectivas más moderadas sobre los tipos de interés, después de que el gobernador de la Reserva Federal, Christopher Waller, disipa los temores a una inminente subida de las tasas en EE UU. Por su parte, los precios del petróleo se estabilizan con el Brent en los 95 dólares por barril, aunque acumulan un alza de.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Estados Unidos sanciona a uno de los nietos de Raúl Castro](https://www.abc.es/internacional/estados-unidos-sanciona-nietos-raul-castro-20260904190852-nt.html?utm_source=lootura.com) — 2026-09-04T17:51:16.000Z
-- [El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto](https://elpais.com/economia/2026-09-04/el-mercado-laboral-da-un-respiro-a-trump-con-la-creacion-de-162000-puestos-en-agosto.html?utm_source=lootura.com) — 2026-09-04T15:41:44.000Z
-- [El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre](https://cincodias.elpais.com/mercados-financieros/2026-09-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-04T13:10:22.000Z
-- [Por qué Estados Unidos e Irán siguen escalando el conflicto](https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html?utm_source=lootura.com) — 2026-09-04T14:34:52.000Z
-- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
-- [El empleo sorprende al alza en EEUU: crea 162.000 nuevos puestos en agosto](https://www.expansion.com/economia/2026/09/04/6a9abf32e5fdeade698b457c.html?utm_source=lootura.com) — 2026-09-04T13:08:46.000Z
-- [Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit](https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com) — 2026-09-04T14:58:20.000Z
-- [La ONU adopta una resolución para utilizar un mapa más fiel al tamaño de los continentes](https://theobjective.com/internacional/2026-09-04/onu-resolucion-mapa-fiel-tamano-continentes/?amp=&utm_source=lootura.com) — 2026-09-04T18:40:20.000Z
+- [Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria](https://www.eldebate.com/internacional/20260905/estados-unidos-bombardea-tres-petroleros-iranies-como-represalia-ataque-guardia-revolucionaria_455719.html?utm_source=lootura.com) — 2026-09-05T15:09:25.000Z
+- [Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania](https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com) — 2026-09-05T13:02:08.000Z
+- [EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros](https://theobjective.com/internacional/2026-09-05/eeuu-responde-al-ataque-de-iran-a-dos-buques-de-guerra-destruyendo-tres-petroleros/?utm_source=lootura.com) — 2026-09-05T14:51:58.000Z

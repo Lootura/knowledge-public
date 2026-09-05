@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.](https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234?utm_source=lootura.com) — 2026-09-04T18:00:00.000Z
+No public source links.

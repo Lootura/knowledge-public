@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T13:00:31.336Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
@@ -65,6 +65,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Colombia drone attack by suspected guerrillas kills 3 soldiers, army says",
+      "url": "https://www.cbsnews.com/news/colombia-drone-attack-suspected-guerrillas/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T16:13:16.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
   "evidenceCount": 0
 }

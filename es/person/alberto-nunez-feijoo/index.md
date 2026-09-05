@@ -3,10 +3,52 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"
+
+Ayuso reclama responsabilidades políticas ante lo que considera una "acción perfectamente coordinada por los servicios secretos marroquíes" Leer.
+
+Date: 2026-09-05
+
+### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
+
+Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.
+
+Date: 2026-09-05
+
+### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
+
+"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
+
+Date: 2026-09-05
+
+### Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»
+
+El líder del Partido Popular ha reprochado al Gobierno que dé «lecciones de justicia social».
+
+Date: 2026-09-05
+
+### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
+
+El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
+
+Date: 2026-09-05
+
+### Feijóo blinda a Ayuso pese a sus sombras y convierte el "ganar con ganas" en un cierre de filas con Madrid
+
+Alberto Núñez Feijóo ha decidido que, al menos públicamente, no hay fisuras en su relación con Isabel Díaz Ayuso. El líder del PP ha viajado este sábado a Getafe para arropar a la presidenta madrileña y lanzar, con toda la escenografía posible, la carrera electoral hacia 2027. "Vamos a ganar con ganas", ha proclamado,.
+
+Date: 2026-09-05
+
+### Feijóo acusa al Gobierno de ser “hostil con los invadidos y dócil con los invasores” en Ceuta
+
+“El cambio está cada vez más cerca , pero no está hecho... y no podemos pensar que todo caerá como fruta prohibida”. Con las generales cada vez más presentes, aunque todavía no tengan fecha, en el Partido Popular siguen muy vivos los recuerdos de 2023. Alberto Núñez Feijóo ha querido empezar por ahí su intervención en.
+
+Date: 2026-09-05
 
 ### El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales
 
@@ -26,48 +68,9 @@ La operación salió de Marruecos, fue propiciada por agentes de dicho país y h
 
 Date: 2026-09-03
 
-### Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”
-
-Alberto Núñez Feijóo ha presentado este jueves ante el Congreso su propia teoría de por qué Pedro Sánchez afirma que su Gobierno no tiene pruebas sólidas de que Marruecos está detrás del salto masivo a Ceuta . El líder del PP sostiene que el presidente del Gobierno está “bajo chantaje” del reino alauí porque este tiene.
-
-Date: 2026-09-03
-
-### Feijóo y Abascal unen fuerzas en la protesta por Ceuta y acusan a Sánchez de “mentir” a los españoles: “Es un traidor”
-
-Entre gritos de “¡Pedro Sánchez, a prisión!” e “¡Invasores, expulsión!“, varios miles de personas ―50.000, según la Delegación de Gobierno― se concentraron este miércoles a última hora de la tarde frente al Ayuntamiento de Madrid convocadas formalmente para dar su respaldo a Ceuta tras la crisis por la entrada masiva d.
-
-Date: 2026-09-02
-
-### Feijóo pide convocar a la embajadora marroquí y acusa a Sánchez de "proteger más a Marruecos que a los españoles"
-
-El líder del PP exige elecciones mientras Tellado pide la dimisión de Marlaska por "sinvergüenza, incompetente y mentiroso" Leer.
-
-Date: 2026-09-02
-
-### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
-
-Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
-
-Date: 2026-09-02
-
-### Feijóo en Cibeles: «El país ha tomado muy buena nota de que una ciudad española ha sido invadida y ocupada»
-
-El líder del PP, Alberto Núñez Feijóo , ha acudido este miércoles a la masiva manifestación de la madrileña plaza de Cibeles en apoyo a Ceuta. Allí ha acusado al presidente del Gobierno, Pedro Sánchez, de «mentir» a los españoles y de «ocultar» los informes sobre la «invasión» de Ceuta, y prometió que su partido va a «.
-
-Date: 2026-09-02
-
-### Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta
-
-Las derechas unen fuerzas en el arranque del curso político para movilizar la calle en una protesta que auguran “masiva” por la crisis de Ceuta y con la que esperan elevar la presión sobre el Gobierno en la víspera de la comparecencia de Pedro Sánchez el jueves en el Congreso . El PP, a través de la Federación Española.
-
-Date: 2026-09-02
-
-### Feijóo pide convocar a la embajadora de Marruecos y adelantar elecciones: "Nos han mentido a la cara"
-
-El líder del PP, Alberto Núñez Feijóo , ha asegurado este miércoles, tras el informe policial que señala a Marruecos en el asalto a Ceuta, que el Gobierno de Pedro Sánchez "lo sabía y lo tapó" y que habrá responsabilidades judiciales porque "esto no puede quedar impune". Dicho esto, ha señalado que " es necesario pedir.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales](https://elpais.com/videos/2026-09-04/el-pleno-en-el-que-se-hablo-de-cambiar-la-relacion-con-marruecos-y-llevar-a-pedro-sanchez-ante-los-tribunales.html?utm_source=lootura.com) — 2026-09-04T03:30:01.000Z
+- [Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"](https://www.elmundo.es/espana/2026/09/05/6a9be276e85ece21778b45ba.html?utm_source=lootura.com) — 2026-09-05T11:40:28.000Z
+- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z
+- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
+- [Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»](https://theobjective.com/espana/politica/2026-09-05/feijoo-asegura-psoe-partido-mas-monarquico-pais-equivocado/?amp=&utm_source=lootura.com) — 2026-09-05T13:24:53.000Z

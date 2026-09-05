@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/west-bank/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/west-bank/index.json",
   "description": "Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Cisjordan",
     "Judea and Samaria",
@@ -46,6 +46,13 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S. ambassador calls ongoing West Bank settler violence an \"act of terror\"",
+      "url": "https://www.cbsnews.com/news/mike-huckabee-west-bank-settler-violence/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T17:54:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

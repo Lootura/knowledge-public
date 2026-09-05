@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad
+
+La Plaza Mayor de Castellón se ha convertido en el escenario de un viaje visual a los orígenes de la ciudad que recuerdan su fundación, gracias a la colaboración entre el Ayuntamiento y el Consorci de Museus de la Comunitat Valenciana.
+
+Date: 2026-09-05
 
 ### Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"
 
@@ -62,12 +68,6 @@ El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalita
 
 Date: 2026-08-08
 
-### Una cena benéfica en Gandía para construir una gran escuela en África: "Cambia la vida de los niños y de todo un pueblo"
-
-El padre Hervé Chanhoun tiene 44 años, los mismos que lleva vinculado a la religión. Es natural de Benin, un país del oeste de África, pero está altamente vinculado con la Comunitat Valenciana porque aquí estudia Teología. Gracias a ello, y a las relaciones que ha construido en Valencia, ha podido construir también una.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad](https://www.elperiodicomediterraneo.com/castello/2026/09/05/plaza-mayor-castellon-transforma-celebrar-fundacion-cuiudad-133993726.html?utm_source=lootura.com) — 2026-09-05T21:28:16.000Z

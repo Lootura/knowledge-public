@@ -70,4 +70,4 @@ Date: 2026-07-17
 
 ## Fuentes
 
-- [¿Hemos alcanzado la superinteligencia artificial? OpenAi lanza su modelo con capacidad sobrehumana](https://www.abc.es/tecnologia/alcanzado-superinteligencia-artificial-openai-lanza-gpt6-astra-20260904171032-nt.html?utm_source=lootura.com) — 2026-09-04T15:20:20.000Z
+No public source links.

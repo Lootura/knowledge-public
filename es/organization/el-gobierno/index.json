@@ -1,16 +1,26 @@
 {
   "id": "es-el-gobierno",
   "name": "El Gobierno",
-  "type": "person",
+  "type": "organization",
   "locale": "es",
   "canonicalPath": "/es/organization/el-gobierno",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/el-gobierno",
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»",
+      "summary": "El departamento de Seguridad del Gobierno vasco ha condenado la pintada aparecida contra un ertzaina en su portal en Vitoria-Gasteiz y ha afirmado que este tipo de «amenazas y señalamientos recuerdan tiempos pasados y atentan, no solo contra el agente señalado y contra la Ertzaintza, también contra las bases de la demo.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "El Gobierno acondiciona una nueva explanada en Ceuta junto a una escuela infantil para albergar a migrantes",
+      "summary": "El Gobierno continúa con las labores en Ceuta para acondicionar determinadas áreas con el objetivo de albergar a los cientos de migrantes que todavía permanecen en las calles de la ciudad tras la entrada masiva de julio, entre ellas una junto a una escuela infantil, donde los operarios trabajan este sábado con protecci.",
+      "date": "2026-09-05"
+    },
     {
       "title": "El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios",
       "summary": "La ministra Sara Aagesen pide por carta al comisario europeo de Clima, Wopke Hoekstra, una una tasa permanente sobre los beneficios de las petroleras y gasistas para financiar la reconstrucción ante desastres ambientales como los incendios Leer.",
@@ -50,49 +60,21 @@
       "title": "Las energéticas dispararán su beneficio en 2026 gracias a los precios récord en gas y petróleo",
       "summary": "Iberdrola, Endesa, Naturgy, Repsol y Moeve (antigua Cepsa) obtuvieron en 2023 un beneficio neto global de 10.466 millones de euros. El Gobierno instauró entonces un gravamen extraordinario a estas compañías alegando que se estaban beneficiando de los altos precios derivados de la crisis energética que desató la invasió.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "El Gobierno endurece su posición sobre Marruecos tras un mes de eximir de toda responsabilidad en Ceuta: \"No podemos tratar a la gente como tonta\"",
-      "summary": "Al filo del mediodía, un carrito de comida hace su aparición en el pasillo del Congreso. Lleva un par de platos de jamón. Las tripas hacen un llamamiento. Salivación. Pasa de...",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "El Gobierno de EEUU pide al Supremo implementar la reforma al voto por correo",
-      "summary": "Una jueza federal reprocha a Washington que pretenda «hacer una prueba» en las 'midterms'.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "«Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta",
-      "url": "https://www.abc.es/espana/zapatero-morira-matando-mandos-policiales-gobierno-ven-20260903014017-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:41:52.000Z",
+      "title": "El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas",
+      "url": "https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T16:21:44.000Z",
       "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Qué es una \"región ultraperiférica\" y por qué Pedro Sánchez quiere que Ceuta lo sea",
-      "url": "https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T12:26:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios",
-      "url": "https://www.elmundo.es/economia/empresas/2026/09/04/6a9a7d80fc6c83d35d8b4582.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T08:26:00.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba",
-      "url": "https://amp.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T13:05:27.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»",
-      "url": "https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:17:41.000Z",
+      "title": "El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»",
+      "url": "https://theobjective.com/espana/pais-vasco/2026-09-05/gobierno-vasco-condena-pintada-ertzaina-atenta-democracia/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:24:08.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 2
 }

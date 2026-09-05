@@ -3,10 +3,16 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### The Tetris Company Denounces Trump White House Clone of Tetris
+
+Responding to Build the Wall, an apparent copy of the retro video game, the Tetris Company said “we take copyright infringement very seriously.”.
+
+Date: 2026-09-04
 
 ### JD Vance Says Monthslong Iran War is Not a 'War'
 
@@ -59,12 +65,6 @@ Date: 2026-09-02
 ### Who Approves Trump’s Washington Makeover Projects?
 
 The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.
-
-Date: 2026-09-02
-
-### Progressive Senate candidates rack up primary wins even as they get outspent
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-09-02
 

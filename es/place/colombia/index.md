@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa](https://www.abc.es/espana/cataluna/detienen-salou-pirry-criminales-buscados-colombia-vivia-20260904161629-nt.html?utm_source=lootura.com) — 2026-09-04T15:02:25.000Z
+No public source links.

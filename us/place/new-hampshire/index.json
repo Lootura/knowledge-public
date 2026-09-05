@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.json",
   "description": "Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T15:46:22.368Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Granite State",
     "N.H.",
@@ -20,6 +20,11 @@
   ],
   "changes": [
     {
+      "title": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that",
+      "summary": "While voters elsewhere have embraced a decidedly anti-establishment sentiment this campaign season, New Hampshire Republican voters appear content with their choices and are poised to pick a familiar name over a fresh face on Tuesday.",
+      "date": "2026-09-05"
+    },
+    {
       "title": "Discovered by Atlas",
       "summary": "New Hampshire first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-03"
@@ -30,6 +35,13 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that",
+      "url": "https://www.pbs.org/newshour/politics/new-hampshires-gop-primary-features-two-familiar-names-from-the-past-and-voters-are-fine-with-that?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T16:35:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

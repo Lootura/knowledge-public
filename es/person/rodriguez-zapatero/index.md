@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra](https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com) — 2026-09-04T13:21:00.000Z
+No public source links.

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-tarajal/index.json",
   "description": "Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida",
+      "summary": "Un dron surca la niebla entre la frontera de Ceuta y Marruecos, porque los días en los que la ciudad amanece sumida en ese espesor blanco solían ser propicios para que los migrantes trataran de cruzar a nado. Pero a pesar de la vigilancia del dispositivo que sobrevuela El Tarajal, nadie cruza ilegalmente, y legalmente.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”",
       "summary": "“Ojalá no nos lo hubieran dicho”. El martes a las siete de la mañana, un grupo de mujeres migrantes se presentó en una de las naves del Polígono de El Tarajal de Ceuta en las que trabajaban agentes de Policía Nacional a decirles que un empleado de seguridad les había avisado de que el jueves a mediodía ya no podían seg.",
@@ -55,13 +60,15 @@
       "title": "Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta",
       "summary": "El Ministerio del Interior ha informado este domingo de que las barreras de contención instaladas este sábado, 1 de agosto, en la zona de El Tarajal, en Ceuta , se encuentran ya «plenamente operativas» . En un mensaje difundido a través de sus canales oficiales, el departamento que dirige Fernando Grande-Marlaska ha se.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Ceuta recobra parte de la calma en medio de la tensión política",
-      "summary": "Ceuta ha recobrado parte de la calma robada con la entrada multitudinaria de miles de marroquíes en una crisis de cifras inéditas . Por las calles del centro y cerca de la frontera de El Tarajal todavía se veían este sábado jóvenes con bolsas deambulando de un lado para otro, pero en grupos mucho menos numerosos que en.",
-      "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida",
+      "url": "https://elpais.com/espana/2026-09-05/la-frontera-semantica-de-ceuta-los-que-hablan-de-migrantes-y-los-que-ven-invasores.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T03:45:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

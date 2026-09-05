@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La Armada despliega al Turia, la fuerza antiminas de la OTAN
+
+Hay amenazas que no se ven, que permanecen ocultas bajo el agua y no por ello dejan de ser especialmente peligrosas. Pueden llevar décadas en el fondo del mar y, aún así, conservar intacta su capacidad de destrucción. La mina naval es el arma asimétrica por excelencia: barata, fácil de colocar, difícil de atribuir y ca.
+
+Date: 2026-09-05
 
 ### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
 
@@ -59,12 +65,6 @@ Date: 2026-08-13
 ### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
 
 El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
-### De un camión de catering al Air Force One: las amenazas que refuerzan el dispositivo de seguridad de Trump
-
-Donald Trump subió ante las cámaras al Air Force One para abandonar Turquía después de la cumbre de la OTAN celebrada en Ankara el pasado 8 de julio. Sin embargo, el presidente de Estados Unidos no regresó a casa en ese avión. Poco después de ser visto entrando en la aeronave, fue sacado discretamente por otro acceso y.
 
 Date: 2026-08-11
 

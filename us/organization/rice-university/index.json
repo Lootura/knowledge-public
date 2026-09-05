@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/rice-university/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/rice-university/index.json",
   "description": "Follow Rice University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-01T09:10:04.817Z",
+  "updatedAt": "2026-09-05T14:34:36.678Z",
   "aliases": [
     "Rice University, Houston",
     "William Marsh Rice University",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
-      "date": "2026-08-31"
+      "title": "Levitated magnet opens new frontier in search for ultraheavy dark matter",
+      "summary": "Rice University researchers have used a magnetically levitated particle to search for ultraheavy dark matter, extending the hunt for some of the heaviest possible forms of the invisible matter thought to hold galaxies together. Led by Christopher Tunnell, associate professor of physics and astronomy, the researchers us.",
+      "date": "2026-09-05"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Rice University first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
+      "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
       "date": "2026-08-31"
     }
   ],

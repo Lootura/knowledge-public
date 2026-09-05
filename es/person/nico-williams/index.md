@@ -3,10 +3,16 @@
 > Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/nico-williams
 
 ## Cambios recientes
+
+### San Mamés se divierte y aviva fantasmas del pasado en el Atleti
+
+El Athletic Club se ha impuesto este sábado al Atlético de Madrid en San Mamés (3-0) , en la jornada 4 de LaLiga EA Sports, un partido en el que una segunda mitad sobresaliente de los locales, con goles de Nico Williams, Robert Navarro y Oihan Sancet, acabaron con las esperanzas de los de Diego Pablo Simeon e, que sufr.
+
+Date: 2026-09-05
 
 ### Socios del Athletic piden convertir el homenaje a sus Campeones del Mundo en un acto a favor de la 'Euskal Selekzioa'
 
@@ -46,4 +52,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [San Mamés se divierte y aviva fantasmas del pasado en el Atleti](https://theobjective.com/deportes/2026-09-05/san-mames-divierte-aviva-fantasmas-pasado-atleti/?utm_source=lootura.com) — 2026-09-05T19:13:09.000Z

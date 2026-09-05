@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-04T08:35:00.530Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Why the U.S. job market remains resilient in face of global pressures and inflation
+
+The job market delivered a surprising rebound in August, adding 162,000 jobs, far more than economists had expected. The unemployment rate held steady at 4.1%, and the Labor Department revised July numbers upward. The stronger-than-expected report comes as the Federal Reserve is set to weigh interest rates. Geoff Benne.
+
+Date: 2026-09-04
 
 ### Fed governor Waller muddies outlook on possible rate hike later this month
 

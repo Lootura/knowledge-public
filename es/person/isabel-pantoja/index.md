@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T05:38:36.358Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
+
+### Anabel Pantoja relata el acoso que sufrió cuando su hija estaba en el hospital: «No hace falta matar con las manos o un arma»
+
+Anabel Pantoja ha roto su silencio tras años alejada de la televisión . Hubo un tiempo en el que la sobrina de Isabel Pantoja estaba dedicada por completo a la pequeña pantalla , pero su vida ha cambiado mucho desde entonces. Ahora ha regresado a un plató, al programa ‘DeViernes’ de Telecinco , para contar cómo se encu.
+
+Date: 2026-09-05
 
 ### Comunicado urgente de Isabel Pantoja tras perder dos pleitos contra Hacienda por una deuda de más de 700.000 euros
 
@@ -46,4 +52,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Anabel Pantoja relata el acoso que sufrió cuando su hija estaba en el hospital: «No hace falta matar con las manos o un arma»](https://theobjective.com/medios/television/2026-09-05/anabel-pantoja-relata-el-acoso-que-sufrio-cuando-su-hija-estaba-en-el-hospital-no-hace-falta-matar-con-las-manos-o-un-arma/?utm_source=lootura.com) — 2026-09-05T12:30:40.000Z

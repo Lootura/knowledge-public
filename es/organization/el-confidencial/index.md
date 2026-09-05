@@ -28,5 +28,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra](https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com) — 2026-09-04T13:21:00.000Z
-- [La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas](https://www.elconfidencial.com/espana/2026-09-04/justicia-tumba-querella-cloacas-psoe-el-confidencial-veracidad-audio-balas_4418037/?utm_source=lootura.com) — 2026-09-04T13:31:00.000Z
+No public source links.

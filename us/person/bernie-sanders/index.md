@@ -40,4 +40,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [When the World’s Best-Known Feminist Was Accused of Insulting Women](https://www.nytimes.com/2026/09/04/us/politics/gloria-steinem-clinton-sanders-2016.html?utm_source=lootura.com) — 2026-09-04T16:09:28.000Z
+No public source links.

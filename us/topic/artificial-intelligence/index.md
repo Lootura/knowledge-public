@@ -3,10 +3,34 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Voters are fed up with data centers. Both parties are trying to cash in for midterms
+
+Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).
+
+Date: 2026-09-05
+
+### Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death
+
+Dolly Parton’s sister has condemned the AI deepfakes circulating in the wake of the beloved American icon’s death.
+
+Date: 2026-09-05
+
+### We Need a Cure for AI Health Hype
+
+—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.
+
+Date: 2026-09-05
+
+### Rogue OpenAI agents hijacked German website, making more than 15,000 edits
+
+A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.
+
+Date: 2026-09-04
 
 ### Roland is getting into generative AI music with Melody Flip
 
@@ -44,31 +68,8 @@ A new report from the American Psychological Association warns that student enga
 
 Date: 2026-09-03
 
-### Funding milestone detected
-
-Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.
-
-Date: 2026-09-03
-
-### AI agents are hacking systems without any input from humans. How did we get here?
-
-AI agents are systems that work on their own to handle tasks for humans. They've recently made headlines for actions they've taken, such as hacking, without human supervision.
-
-Date: 2026-09-02
-
-### AI-designed proteins enable a new generation of RNA transporters
-
-RNA-based therapeutics use RNA as a blueprint that enables cells to produce specific proteins—including proteins that can precisely modify genes. For this to work, the RNA must reach the inside of the cell intact. Delivery systems currently used for this purpose include virus-derived vehicles and lipid nanoparticles, t.
-
-Date: 2026-09-02
-
-### AI automates the creation of custom functional materials atom by atom
-
-Imagine a construction site where the bricks are individual molecules and the "cranes" are microscopic needles so sharp they can feel a single atom. For decades, building at this scale was a laborious, time-consuming task where a single human error could damage the delicate tools.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model](https://www.nature.com/articles/d41586-026-02643-w?utm_source=lootura.com) — 2026-09-04T18:48:24.992Z
-- [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip?utm_source=lootura.com) — 2026-09-04T17:51:35.000Z
+- [Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US](https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com) — 2026-09-05T21:30:31.000Z
+- [Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death](https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080?utm_source=lootura.com) — 2026-09-05T15:00:41.000Z
+- [Voters are fed up with data centers. Both parties are trying to cash in for midterms](https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com) — 2026-09-05T09:00:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,26 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death",
+      "summary": "Dolly Parton’s sister has condemned the AI deepfakes circulating in the wake of the beloved American icon’s death.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "We Need a Cure for AI Health Hype",
+      "summary": "—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Rogue OpenAI agents hijacked German website, making more than 15,000 edits",
+      "summary": "A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Roland is getting into generative AI music with Melody Flip",
       "summary": "It's not quite the \"push button; get song\" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre.",
@@ -56,41 +76,27 @@
       "title": "With education technology, engagement is not the same as learning",
       "summary": "A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative AI tools pose particular risks by improving students' immediate performance without building their underlying knowledge or skills.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "AI agents are hacking systems without any input from humans. How did we get here?",
-      "summary": "AI agents are systems that work on their own to handle tasks for humans. They've recently made headlines for actions they've taken, such as hacking, without human supervision.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "AI-designed proteins enable a new generation of RNA transporters",
-      "summary": "RNA-based therapeutics use RNA as a blueprint that enables cells to produce specific proteins—including proteins that can precisely modify genes. For this to work, the RNA must reach the inside of the cell intact. Delivery systems currently used for this purpose include virus-derived vehicles and lipid nanoparticles, t.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "AI automates the creation of custom functional materials atom by atom",
-      "summary": "Imagine a construction site where the bricks are individual molecules and the \"cranes\" are microscopic needles so sharp they can feel a single atom. For decades, building at this scale was a laborious, time-consuming task where a single human error could damage the delicate tools.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-      "url": "https://www.nature.com/articles/d41586-026-02643-w?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:48:24.992Z",
-      "sourceId": "lootura-us-nature"
+      "title": "Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US",
+      "url": "https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T21:30:31.000Z",
+      "sourceId": "lootura-us-fox-news"
     },
     {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:51:35.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:00:41.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

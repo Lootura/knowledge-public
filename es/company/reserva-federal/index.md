@@ -70,6 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre](https://cincodias.elpais.com/mercados-financieros/2026-09-04/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-04T13:10:22.000Z
-- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
-- [Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit](https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com) — 2026-09-04T14:58:20.000Z
+No public source links.

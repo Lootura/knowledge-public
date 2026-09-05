@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria",
+      "summary": "El ministro de Transportes, Óscar Puente, ha ordenado autorizar la instalación de carpas para acoger a más de 1.000 ilegales en el puerto de Ceuta. La resolución llega después de que el Consejo de Administración de la Autoridad Portuaria de Ceuta acordase no autorizarlo «por resultar incompatible con la normal explotac.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Óscar Puente: Consejos tengo...",
       "summary": "El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las vías que dependen de él sigue dando lecciones de periodismo en su cuenta en X. No satisfecho con las invectivas que le dedicó el jueves a un sindicato policial porque ABC publicó el informe de la inspección ocular del accidente, el viernes se.",
@@ -60,19 +65,20 @@
       "title": "Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»",
       "summary": "El ministro de Transportes, Óscar Puente , ha generado debate político tras publicar un mensaje en la red social X relativo a la figura del rey Felipe VI . El exalcalde de Valladolid ha reposteado un vídeo en el que se observa al Monarca saludando y fotografiándose con Javier Negre, fundador del canal EDA TV, junto al.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Óscar Puente también se acuerda de Vito Quiles en plena crisis de Ceuta y se burla de su nuevo proceso judicial: “¿Solo?”",
-      "summary": "El ministro de Transportes, Óscar Puente , volvió a mencionar a Vito Quiles en plena crisis migratoria de Ceuta , esta vez para ironizar sobre las diez causas judiciales que acumula el comunicador. En un mensaje publicado en X , Puente reaccionó a una publicación del periodista Rubén Sánchez , que informaba de la nueva.",
-      "date": "2026-08-06"
     }
   ],
   "sources": [
     {
-      "title": "Óscar Puente: Consejos tengo...",
-      "url": "https://www.abc.es/opinion/abc-oscar-puente-consejo-20260904192839-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:24:43.000Z",
+      "title": "El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas",
+      "url": "https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T16:21:44.000Z",
       "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria",
+      "url": "https://okdiario.com/espana/oscar-puente-impone-campamento-1-000-invasores-puerto-ceuta-pese-voto-negativo-autoridad-portuaria-20234631?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T13:41:23.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
+
+Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.
+
+Date: 2026-09-05
+
+### Milei se escuda en Trump para reivindicar ahora la soberanía sobre las Malvinas
+
+Argentina aprovecha el deterioro de la relación entre Washington y Londres, agravado por la negativa británica a participar en la ofensiva contra Irán, para impulsar sanciones contra las petroleras que operen sin autorización de Buenos Aires.
+
+Date: 2026-09-05
 
 ### Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit
 
@@ -56,20 +68,6 @@ Antonio Ledezma , exalcalde de Caracas y coordinador del Consejo Político Inter
 
 Date: 2026-09-04
 
-### María Corina Machado cuestiona el pacto petrolero de Trump con Delcy porque no tiene legitimidad demócratica
-
-La Nobel de la Paz María Corina Machado ha cuestionado este jueves el acuerdo petrolero con Venezuela anunciado por Donald Trump y respaldado por la dictadura de Delcy Rodríguez, al advertir de que el futuro de los recursos venezolanos exige ante todo legitimidad democrática. En su primer pronunciamiento sobre el pacto.
-
-Date: 2026-09-03
-
-### De Ceuta a Washington: cómo la ultraderecha convierte la inmigración en una guerra cultural global
-
-OSCAR GONZALEZ FUENTES/Shutterstock Cuando decenas de miles de personas cruzaban irregularmente hacia Ceuta el pasado 30 de julio, Santiago Abascal, líder del partido ultraderechista Vox, no dudaba en hablar ya de “invasión” . Apenas unas horas después, Donald Trump utilizó el mismo término y presentó lo ocurrido en la.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto](https://elpais.com/economia/2026-09-04/el-mercado-laboral-da-un-respiro-a-trump-con-la-creacion-de-162000-puestos-en-agosto.html?utm_source=lootura.com) — 2026-09-04T15:41:44.000Z
-- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
-- [Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit](https://theobjective.com/internacional/2026-09-04/trump-exige-fed-bajar-tipos-rompera-relacion-comercial-paises-superavit/?utm_source=lootura.com) — 2026-09-04T14:58:20.000Z
+- [Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania](https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com) — 2026-09-05T13:02:08.000Z

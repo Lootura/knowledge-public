@@ -34,4 +34,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Brad Pitt, Penélope Cruz, Jeremy Irons y Rami Malek confirman su presencia en el Zinemaldia](https://www.diariovasco.com/culturas/zinemaldia/brad-pitt-penelope-cruz-jeremy-irons-rami-ralek-20260904113954-nt_amp.html?utm_source=lootura.com) — 2026-09-04T09:46:13.000Z
+No public source links.

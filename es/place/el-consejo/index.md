@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias](https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html?utm_source=lootura.com) — 2026-09-04T12:53:26.000Z
+No public source links.

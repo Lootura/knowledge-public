@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T14:34:18.620Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "La UE alerta del uso de la inmigración como «una nueva forma de amenazar la integridad territorial»",
+      "summary": "El presidente del Consejo de la Unión Europea, Antonio Costa , ha alertado de la «instrumentalización» de la inmigración como «una nueva forma de amenazar la integridad territorial». La violación de la soberanía de España en Ceuta ha sido debate en el prestigio foro internacional celebrado en la localidad italiana Cerb.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Qué es una \"región ultraperiférica\" y por qué Pedro Sánchez quiere que Ceuta lo sea",
       "summary": "El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.",
@@ -58,32 +63,8 @@
       "title": "España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo",
       "summary": "España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo , con 7.945 personas que pidieron protección internacional por primera vez en el país, únicamente por detrás de las 10.660 registradas en Italia , según los últimos datos publicados este viernes por la oficina estadístic.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China",
-      "summary": "La Comisión Europea (CE) sostuvo este viernes que \"comparte el objetivo\" del Gobierno de Estados Unidos de \"luchar contra el fraude aduanero\", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. \"La UE compart.",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Qué es una \"región ultraperiférica\" y por qué Pedro Sánchez quiere que Ceuta lo sea",
-      "url": "https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T12:26:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»",
-      "url": "https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:17:41.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
-      "url": "https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:42:13.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

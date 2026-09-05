@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-05T14:34:18.620Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,11 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "Xiaomi ha lanzado un tendedero para la ropa que soluciona el mayor problema de TODOS los hogares en España",
+      "summary": "Xiaomi lo ha vuelto a hacer. No ha lanzado un móvil o unos auriculares impresionantes, sino un tendedero. Sí, para la ropa. Y cuando lo veas, probablemente vas a entender por qué en China está triunfando y vendiendo miles de unidades. La idea es sublime si tienes una casa pequeña y estás harto de que el tendedero de la.",
+      "date": "2026-09-05"
+    },
     {
       "title": "El pulso entre China y EEUU se traslada a Oriente Próximo",
       "summary": "El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el \"fortalecimiento del diálogo\" Leer.",
@@ -70,11 +75,6 @@
     {
       "title": "Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China",
       "summary": "La Comisión Europea (CE) sostuvo este viernes que \"comparte el objetivo\" del Gobierno de Estados Unidos de \"luchar contra el fraude aduanero\", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. \"La UE compart.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "La ciencia china sobrepasa las leyes naturales: crean una pintura para coches 'ultranegra' que absorbe el 99,9 % de la luz",
-      "summary": "Crean una pintura ultra-negra para coches que absorbe el 99,9 % de la luz. Se acerca al rendimiento del Vantablack.",
       "date": "2026-08-14"
     }
   ],

@@ -3,10 +3,22 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### U.S.-Venezuela oil deal puts opposition in a political bind
+
+Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.
+
+Date: 2026-09-05
+
+### U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say
+
+Oil experts told PolitiFact gains for consumers will not materialize any time soon, and would likely take years — long after November's midterm elections.
+
+Date: 2026-09-05
 
 ### The U.S. Wants the Oil From These 17 Venezuelan Fields
 
@@ -56,18 +68,7 @@ U.S. Energy Secretary Chris Wright was in Venezuela to tout a major oil deal. NB
 
 Date: 2026-09-02
 
-### GOP Rep. says midterms ‘won’t go well for us’ if party focuses on ‘fighting about Lake Ontario’
-
-Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to discuss the midterms and how Republicans are attempting to hold onto the majority in Congress come November. NBC News reporters Jonathan Allen and Henry J. Gomez report on how President Trump’s data center stance and oil deal in Venezuela could impact voters’ deci.
-
-Date: 2026-09-02
-
-### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
-
-Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
-
-Date: 2026-09-02
-
 ## Sources
 
-- [The U.S. Wants the Oil From These 17 Venezuelan Fields](https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html?utm_source=lootura.com) — 2026-09-04T15:07:23.000Z
+- [U.S.-Venezuela oil deal puts opposition in a political bind](https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy?utm_source=lootura.com) — 2026-09-05T11:43:14.000Z
+- [U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say](https://www.pbs.org/newshour/economy/u-s-venezuela-oil-deal-wont-reduce-domestic-gasoline-prices-anytime-soon-experts-say?utm_source=lootura.com) — 2026-09-05T17:17:40.000Z

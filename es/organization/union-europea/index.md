@@ -3,10 +3,16 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### La UE alerta del uso de la inmigración como «una nueva forma de amenazar la integridad territorial»
+
+El presidente del Consejo de la Unión Europea, Antonio Costa , ha alertado de la «instrumentalización» de la inmigración como «una nueva forma de amenazar la integridad territorial». La violación de la soberanía de España en Ceuta ha sido debate en el prestigio foro internacional celebrado en la localidad italiana Cerb.
+
+Date: 2026-09-05
 
 ### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
 
@@ -62,14 +68,6 @@ España fue en mayo el segundo país de la Unión Europea que recibió más nuev
 
 Date: 2026-08-14
 
-### Bruselas rechaza las acusaciones de EE UU sobre la elusión de aranceles a China
-
-La Comisión Europea (CE) sostuvo este viernes que "comparte el objetivo" del Gobierno de Estados Unidos de "luchar contra el fraude aduanero", después de que la Administración norteamericana incluyera a la Unión Europea (UE) en una lista de países a los que acusa de ayudar a China a eludir los aranceles. "La UE compart.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea](https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com) — 2026-09-04T12:26:00.000Z
-- [El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»](https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com) — 2026-09-04T15:17:41.000Z
-- [Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa](https://theobjective.com/internacional/2026-09-04/albares-condena-ataque-ruso-kiev-cerca-embajadora-espanola-salvador-illa/?utm_source=lootura.com) — 2026-09-04T17:42:13.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez](https://theobjective.com/espana/politica/2026-09-04/tellado-concentraciones-ceuta-anticipo-espera-sanchez/?utm_source=lootura.com) — 2026-09-04T15:17:32.000Z
+No public source links.

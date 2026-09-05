@@ -3,10 +3,40 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
+
+Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.
+
+Date: 2026-09-05
+
+### Ayuso exige al Gobierno responsabilidades por la entrada de migrantes "coordinada" por Marruecos y "el jeta de La Mareta"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha exigido este sábado responsabilidades en Ceuta tras la entrada de miles de migrantes a finales de pasado mes de julio, que estuvo "coordinada" , en su opición, por los servicios secretos marroquíes y el "jeta de La Mareta", en alusión al presidente del Gob.
+
+Date: 2026-09-05
+
+### Ayuso jura que el dinero de los madrileños no se toca y que quien "lo toque lo va a pagar"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha dicho este sábado que "el dinero de los madrileños no se toca y el que lo toque lo va a pagar". "Eso lo juro", ha subrayado después de que el Consejo de Política Fiscal y Financiera (CPFF) aprobara este viernes la reforma del sistema de financiación autonóm.
+
+Date: 2026-09-05
+
+### Feijóo blinda a Ayuso pese a sus sombras y convierte el "ganar con ganas" en un cierre de filas con Madrid
+
+Alberto Núñez Feijóo ha decidido que, al menos públicamente, no hay fisuras en su relación con Isabel Díaz Ayuso. El líder del PP ha viajado este sábado a Getafe para arropar a la presidenta madrileña y lanzar, con toda la escenografía posible, la carrera electoral hacia 2027. "Vamos a ganar con ganas", ha proclamado,.
+
+Date: 2026-09-05
+
+### Ayuso exige responsabilidades en Ceuta y carga contra Marruecos y «el jeta de La Mareta»
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha exigido este sábado responsabilidades en Ceuta tras la entrada de miles de inmigrantes a finales del pasado mes de julio, que estuvo «coordinada», en su opinión, por los servicios secretos marroquíes y el « jeta de La Mareta », en alusión al presidente del.
+
+Date: 2026-09-05
 
 ### Mónica García se apaga entre la huelga de médicos y el caos en la única sanidad que gestiona
 
@@ -38,36 +68,6 @@ La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el bar
 
 Date: 2026-09-02
 
-### El mensaje de Ayuso al delegado del Gobierno en Madrid: «No tiene narices de mandarnos a los antidisturbios»
-
-La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, no ha tardado en responder a la decisión de la Delegación del Gobierno en Madrid de no autorizar la concentración de apoyo a Ceuta de este miércoles, salvo que sea convocada «bajo la consideración de acto institucional o que la convoque un particular» «No tien.
-
-Date: 2026-09-01
-
-### La advertencia de Ayuso en 2022 que resurge tras la polémica de Sánchez con el Rey: "Su estrategia es una Republica Federal Laica"
-
-"Instaurar en España, al margen de los mecanismos constitucionales, una República Federal Laica , de facto". Con estas palabras, Isabel Díaz Ayuso advertía en noviembre de 2022 del rumbo que, a su juicio, pretendían implementar en el país Pedro Sánchez y sus socios parlamentarios, en un discurso en el que situaba a la.
-
-Date: 2026-09-01
-
-### Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un aticazo con la pasta de los madrileños para vivir en él”
-
-Pedro Sánchez se ha referido este lunes a la polémica que lleva un mes lastrando la imagen de la presidenta madrileña, Isabel Díaz Ayuso: el piso adquirido por la Comunidad de Madrid por 6,3 millones de euros , para uso de Ayuso como “oficina” temporal, pese a que la propiedad solo puede utilizarse como vivienda. “Lo q.
-
-Date: 2026-08-31
-
-### Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse
-
-Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instalado el punto principal de seguimiento de este fenómeno astro.
-
-Date: 2026-08-13
-
-### Ayuso se pone de parte de Meloni y Trump en la crisis Schengen y evita hablar del ático
-
-Isabel Díaz Ayuso ha tomado partido en la crisis europea desatada tras la entrada masiva a Ceuta de 70.000 inmigrantes . Italia ha dejado en suspenso el acuerdo Schengen con España y Estados Unidos, a través de un mensaje del Departamento de Estado, ha acusado al Gobierno de España de no defender su soberanía. La presi.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,8 +18,38 @@
   ],
   "changes": [
     {
+      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
+      "summary": "Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+      "summary": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+      "summary": "A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+      "summary": "The envoys' trip comes as both sides escalate aerial attacks, some 4 1/2 years after the Kremlin's invasion of its neighbor.",
+      "date": "2026-09-05"
+    },
+    {
       "title": "U.S. Diesel Prices Set New High",
       "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood",
+      "summary": "In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.",
       "date": "2026-09-04"
     },
     {
@@ -36,75 +66,39 @@
       "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
       "summary": "The attack came as the American envoys Steve Witkoff and Jared Kushner were said to be planning imminent visits to Kyiv and to Moscow.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
-      "summary": "The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "The price of diesel hits a record high",
-      "summary": "The price of diesel has reached an all-time high, a result of the war in Iran and Ukraine's attacks on Russian refineries. That will matter across the supply chain. (Image credit: Brandon Bell).",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Russia intensifies attacks on Ukraine's capital",
-      "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Bessent Blames Ukraine for High Energy Prices",
-      "summary": "After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Putin Floats Chance of Peace Agreement to End War With Ukraine",
-      "summary": "Russian President Vladimir Putin is saying there is a chance of a peace agreement to end the war in Ukraine. However, he said, the conflict must be resolved by the countries involved and not by leaders from other nations. NBC’s Richard Engel reports for TODAY.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
-      "summary": "President Volodymyr Zelensky described the shootout on the streets of the Ukrainian capital as an “absolutely shameful event” and ordered an investigation.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
-      "url": "https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:32:34.000Z",
+      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T11:08:57.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T11:43:20.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+      "url": "https://www.pbs.org/newshour/world/putin-orders-a-72-hour-pause-in-strikes-on-kyiv-as-u-s-envoys-visit-russia-and-ukraine?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:31:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "U.S. Diesel Prices Set New High",
-      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:59:20.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T09:03:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Bessent Blames Ukraine for High Energy Prices",
-      "url": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T19:56:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T16:51:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:42:03.000Z",
+      "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T12:47:41.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 7
 }

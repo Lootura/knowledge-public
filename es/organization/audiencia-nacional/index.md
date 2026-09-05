@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Ceuta causa otro choque entre la Justicia y el Ejecutivo por la reserva de un informe policial
+
+El comisario general de Extranjería y Fronteras de la Policía, Julián Ávila, explicó esta semana de forma pormenorizada a sus superiores cómo la magistrada de la Audiencia Nacional, María Tardón, les había pedido guardar silencio sobre el informe policial que estaban elaborando en relación a l paso de unas 70.000 migra.
+
+Date: 2026-09-05
 
 ### Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él
 
@@ -62,17 +68,6 @@ El Boletín Oficial del Ministerio de Defensa ha publicado el ascenso a coronel 
 
 Date: 2026-09-04
 
-### Marlaska saca a la Sala de Gobierno de la Audiencia Nacional en defensa de la jueza Tardón
-
-El choque institucional entre el Ejecutivo y el Poder Judicial ha tenido hoy un nuevo capítulo tras el acuerdo de la Sala de Gobierno de la Audiencia Nacional que por unanimidad de todos sus miembros salir en defensa de la jueza María Tardón, encargada de estudiar una querella por la entrada masiva de migrantes a Ceuta.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él](https://www.abc.es/gente/extrabajadoras-julio-iglesias-denunciaron-agresion-sexual-presentan-20260904155517-nt_amp.html?utm_source=lootura.com) — 2026-09-04T13:55:18.000Z
-- [El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra](https://www.elconfidencial.com/espana/2026-09-04/juez-calama-rechaza-intento-zapatero-caso-plus-ultra_4418029/?utm_source=lootura.com) — 2026-09-04T13:21:00.000Z
-- [La Fiscalía apoya que la Audiencia Nacional investigue la crisis migratoria de Ceuta](https://www.elcorreo.com/politica/fiscalia-apoya-audiencia-nacional-investigue-crisis-migratoria-20260904143550-ntrc_amp.html?utm_source=lootura.com) — 2026-09-04T12:35:50.000Z
-- [La Fiscalía pide a la Audiencia Nacional que decrete el secreto parcial de la investigación sobre la crisis de Ceuta](https://www.eldiario.es/politica/fiscalia-pide-audiencia-nacional-decrete-secreto-parcial-investigacion-crisis-ceuta_1_13487780.html?utm_source=lootura.com) — 2026-09-04T12:49:22.000Z
-- [La Guardia Civil informa a la jueza de que no recibió aviso alguno sobre "el alcance" que tendría la llegada de migrantes a Ceuta](https://www.eldiario.es/politica/guardia-civil-informa-jueza-no-recibio-aviso-alcance-tendria-llegada-migrantes-ceuta_1_13487649.html?utm_source=lootura.com) — 2026-09-04T12:34:16.000Z
-- [El juez del caso ‘Koldo’ pide analizar el teléfono del hermano para descartar manipulaciones](https://theobjective.com/espana/tribunales/2026-09-04/juez-caso-koldo-analizar-telefono-hermano-descartar-manipulaciones/?utm_source=lootura.com) — 2026-09-04T17:28:23.000Z
+- [Ceuta causa otro choque entre la Justicia y el Ejecutivo por la reserva de un informe policial](https://elpais.com/espana/2026-09-05/ceuta-causa-otro-choque-entre-la-justicia-y-el-ejecutivo-por-la-reserva-de-un-informe-policial.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z

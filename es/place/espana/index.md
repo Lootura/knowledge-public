@@ -3,80 +3,76 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa
+### Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"
 
-Uno de los fugitivos más buscados de Colombia ha sido detenido en Salou (Tarragona), donde se ocultaba bajo una identidad falsa. La Policía Nacional informó ayer, jueves 3 de septiembre, del arresto de alias 'Pirry', señalado como uno de los principales cabecillas de la organización criminal 'El Mesa' y reclamado inter.
+Ayuso reclama responsabilidades políticas ante lo que considera una "acción perfectamente coordinada por los servicios secretos marroquíes" Leer.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Universidades y todas las comunidades aprueban el reparto de 150 millones para profesorado ayudante
+### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
 
-El Ministerio de Ciencia, Innovación y Universidades ( MICIU ) ha acordado este viernes transferir a las comunidades autónomas los 149,67 millones de euros para la contratación de profesores ayudantes doctores en universidades públicas de toda España en el marco del programa María Goyri . Todas las comunidades autónoma.
+"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Un ministro marroquí reclama Ceuta e insiste: "No retrocederemos ni un palmo de territorio"
+### Fragmento del día: Valencia
 
-El ministro de Obras Públicas y Agua de Marruecos ha insistido en que España un "socio esencial", pero Rabat no dará un paso atrás Leer.
+en Valencia, España, después de dos años sin poder celebrar las Fallas de Valencia, debido a la pandemia de COVID-19, vuelven a dar el pistoletazo de salida a celebrarlas en este día excepcionalmente. Toda una proeza, gracias a los presidentes de Las Fallas, que votaron en una asamblea a favor de su realización.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### ¿Cómo funcionan las devoluciones de migrantes en España?
+### ¿Dónde comprar Lotería de Navidad en Murcia? Las administraciones más famosas
 
-El sistema legal español combina rechazos en frontera con devoluciones en caliente o expulsiones procesales, aunque los procedimientos son complejos y arrastran problemas.
+A continuación te ofrecemos las claves sobre cómo comprar Lotería de Navidad en Murcia . Aquí tienes la guía completa. Cada año, la Lotería de Navidad es uno de los eventos más esperados en España, y Murcia no es la excepción. Desde hace décadas, los murcianos se preparan con ilusión para participar en el sorteo más fa.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Seat: desde el 600 que democratizó la movilidad en España hasta el primer eléctrico 100% español
+### El contundente mensaje de la AD Ceuta tras la invasión migratoria: "Seguimos siendo España, que se enteren"
 
-Seat es mucho más que una simple marca de coches. La histórica firma que podría desaparecer de los concesionarios en los próximos años es historia viva de España. Desde el...
+La AD Ceuta ha querido mandar un mensaje contundente en un momento crítico para todos los caballa, después de la invasión de más de 80.000 inmigrantes el pasado 30 de julio. El club ha querido aprovechar su escaparate para reivindicar la españolidad de la ciudad. En la previa del encuentro ante el RC Celta Fortuna, el.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Así queda la clasificación general de la Vuelta Ciclista a España 2026 tras la etapa 13 de hoy viernes, 4 de septiembre
+### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
 
-Enric Mas mantiene el liderato de la Vuelta a España 2026 una jornada más tras la etapa 13 en la que el vencedor fue un Wout van Aert que se impuso al francés Valentin Paret-Peintre en la llegada a Loja . El ciclista español entró a tres minutos del tiempo del ganador, pero mantiene la diferencia con sus perseguidores.
+El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Van Aert reina en una fuga multitudinaria y consolida el verde de la Vuelta en Loja
+### La ruta en la sierra de Madrid que es perfecta para septiembre: rodeada de cascadas y en un entorno natural privilegiado
 
-Wout van Aert hace una exhibición de fuerza y consistencia para llevarse la decimotercera etapa de la Vuelta a España . El ciclista del Visma consiguió la cuarta victoria de etapa para su equipo y la primera para él tras las tres de Brennan, al culminar con un ataque letal una fuga multitudinaria que marcó la etapa. El.
+Aunque la mayoría de españoles ya han acabado sus vacaciones de verano, las altas temperaturas continúan afectando a España. Esto hace que recurramos a opciones como la playa o la piscina para escapar del calor, aunque cada vez es más habitual optar por la montaña .De esta forma, es posible realizar actividades de ocio.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### La Guardia Civil se alinea con el Gobierno ante la jueza de la crisis de Ceuta y niega alertas previas
+### Pogacar renueva con UAE hasta 2032 y no correrá más este año
 
-El informe remitido a Tardón afirma que no tuvo información en los días anteriores sobre la "dimensión", el contenido y el alcance de la avalancha de migrantes que se cernía sobre la frontera entre España y Marruecos en El Tarajal Leer.
+La tremenda caída de Tadej Pogacar camino de Gandía en la Vuelta a España tiene consecuencias inmediatas para su futuro. El esloveno ha renovado con su único equipo profesional, el UAE de los Emiratos Árabes, hasta 2032. Cerrará una etapa de siete temporadas más cuando tenga 33 años (ahora tiene 27). El UAE comunicó qu.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?
+### Una familia británica denuncia que encontraron restos humanos en el coche de sus padres tras el incendio en Almería
 
-Como cada semana, desde COOL recogemos las noticias más leídas por nuestros lectores en los últimos días. En la primera semana de curso, los famosos, tras sus vacaciones, no han dejado de darnos titulares, así como la propia Casa Real de España tras mostrar su apoyo al pueblo ceutí debido a la invasión de Marruecos. Ta.
+El incendio de Los Gallardos, en Almería , ha sido una de las grandes tragedia de este verano en toda España. El fuego sorprendió a los vecinos de la zona y, al querer abandonar sus viviendas, hasta 14 fallecieron en su huida. Entre ellos Pete y Fran Gillam , una pareja jubilada que residía en la localidad almeriense d.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Delito de lesa patria y lesa humanidad contra Ceuta, avalado por el presidente del Gobierno en el Congreso
+### El Palma Futsal se deja remontar en la Supercopa de España
 
-Un delito de lesa patria y lesa humanidad contra Ceuta y todos los españoles, cometido flagrantemente en el Congreso y en la radio, por el presidente del Gobierno. ¿Cómo es posible tener un presidente del Gobierno que ayer ante el Congreso miente solemnemente y ratifica voluntariamente su alta traición a España y no te.
+Dura derrota para empezar. El Illes Balears Palma Futsal pagó su falta de puntería y sus desconexiones en defensa para despedirse de la Supercopa de España a las primeras de cambio al caer ante un ElPozo Murcia Costa Cálida más efectivo (8-4). El resultado es feo y no refleja lo que fue el encuentro en el Palau Blaugra.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
 ## Fuentes
 
-- [Luis de la Fuente se vuelca con Ceuta: "Os habéis convertido en mis ídolos"](https://www.20minutos.es/deportes/futbol/luis-fuente-se-vuelca-con-ceuta-plena-crisis-migratoria-estamos-muy-unidos-con-vosotros-os-habeis-convertido-mis-idolos_7033031_0.html?utm_source=lootura.com) — 2026-09-04T15:08:58.000Z
-- [Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa](https://www.abc.es/espana/cataluna/detienen-salou-pirry-criminales-buscados-colombia-vivia-20260904161629-nt.html?utm_source=lootura.com) — 2026-09-04T15:02:25.000Z
-- [Universidades y todas las comunidades aprueban el reparto de 150 millones para profesorado ayudante](https://www.elconfidencial.com/espana/2026-09-04/fondos-profesores-universidades-programa-maria-goyri-1tps_4417956/?utm_source=lootura.com) — 2026-09-04T11:57:00.000Z
-- [La Guardia Civil se alinea con el Gobierno ante la jueza de la crisis de Ceuta y niega alertas previas](https://www.elmundo.es/espana/2026/09/04/6a9af9fcfc6c83a7178b45a5.html?utm_source=lootura.com) — 2026-09-04T17:08:54.000Z
-- [Un ministro marroquí reclama Ceuta e insiste: "No retrocederemos ni un palmo de territorio"](https://www.elmundo.es/espana/2026/09/04/6a9abae421efa099318b4595.html?utm_source=lootura.com) — 2026-09-04T14:20:26.000Z
-- [¿Cómo funcionan las devoluciones de migrantes en España?](https://elordenmundial.com/devolucion-migrantes-espana/?utm_source=lootura.com) — 2026-09-04T13:05:14.000Z
-- [Seat: desde el 600 que democratizó la movilidad en España hasta el primer eléctrico 100% español](https://amp.expansion.com/empresas/motor/2026/09/04/6a9aafc7e5fdea2f7a8b4581.html?utm_source=lootura.com) — 2026-09-04T12:05:08.000Z
-- [Así queda la clasificación general de la Vuelta Ciclista a España 2026 tras la etapa 13 de hoy viernes, 4 de septiembre](https://okdiario.com/deportes/asi-queda-clasificacion-general-vuelta-ciclista-espana-2026-etapa-13-hoy-viernes-4-septiembre-20231379?utm_source=lootura.com) — 2026-09-04T15:33:06.000Z
-- [De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?](https://okdiario.com/cool/famosos/polemico-parto-desnudo-famosa-cual-sido-noticia-vip-semana-20229244?utm_source=lootura.com) — 2026-09-04T18:00:47.000Z
-- [Delito de lesa patria y lesa humanidad contra Ceuta, avalado por el presidente del Gobierno en el Congreso](https://okdiario.com/opinion/delito-lesa-patria-lesa-humanidad-contra-ceuta-avalado-presidente-del-gobierno-congreso-20232369?utm_source=lootura.com) — 2026-09-04T17:38:02.000Z
+- [Diego Ventura, Morante de la Puebla, Manzanares y Juan Ortega, en la Goyesca de Ronda](https://www.abc.es/cultura/toros/sevilla/toros-ronda-directo-sigue-corrida-goyesca-sabado-20260905191339-dis.html?utm_source=lootura.com) — 2026-09-05T15:51:02.000Z
+- [Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"](https://www.elmundo.es/espana/2026/09/05/6a9be276e85ece21778b45ba.html?utm_source=lootura.com) — 2026-09-05T11:40:28.000Z
+- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
+- [Fragmento del día: Valencia](https://es.wikipedia.org/wiki/Valencia?utm_source=lootura.com) — 2026-09-05T04:00:00.000Z
+- [¿Dónde comprar Lotería de Navidad en Murcia? Las administraciones más famosas](https://okdiario.com/loteria-navidad/administraciones-comprar-loteria-navidad-murcia-10099595?utm_source=lootura.com) — 2026-09-05T16:54:44.000Z
+- [El contundente mensaje de la AD Ceuta tras la invasión migratoria: "Seguimos siendo España, que se enteren"](https://okdiario.com/deportes/contundente-mensaje-ad-ceuta-invasion-migratoria-seguimos-siendo-espana-que-enteren-20235268/amp?utm_source=lootura.com) — 2026-09-05T17:38:11.000Z

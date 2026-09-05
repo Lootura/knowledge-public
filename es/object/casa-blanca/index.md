@@ -3,10 +3,22 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
+
+Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.
+
+Date: 2026-09-05
+
+### Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca
+
+El presidente ruso, Vladímir Putin, y los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, concluyeron este sábado sus negociaciones para.
+
+Date: 2026-09-05
 
 ### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
 
@@ -56,18 +68,7 @@ El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para d
 
 Date: 2026-08-14
 
-### Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca
-
-El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. "¡Felicidade.
-
-Date: 2026-08-10
-
-### El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»
-
-Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el deporte de élite, pocas cosas transforman tanto a un campeón como descubrir que ya no basta con aquello que le llevó hasta la cima. Ilia Topuria perdió el invicto frente a Justin Gaethje en la Casa Blanca, pero, si algo tiene claro su entorno,.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos](https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com) — 2026-09-04T14:19:41.000Z
+- [Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca](https://theobjective.com/internacional/2026-09-05/concluyen-negociaciones-ucrania-putin-emisarios-casa-blanca/?amp=&utm_source=lootura.com) — 2026-09-05T21:50:54.000Z
+- [Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania](https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com) — 2026-09-05T13:02:08.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/nico-williams/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/nico-williams/index.json",
   "description": "Sigue la actividad de Nico Williams en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "Nicholas Williams Arthuer",
     "Williams"
   ],
   "changes": [
+    {
+      "title": "San Mamés se divierte y aviva fantasmas del pasado en el Atleti",
+      "summary": "El Athletic Club se ha impuesto este sábado al Atlético de Madrid en San Mamés (3-0) , en la jornada 4 de LaLiga EA Sports, un partido en el que una segunda mitad sobresaliente de los locales, con goles de Nico Williams, Robert Navarro y Oihan Sancet, acabaron con las esperanzas de los de Diego Pablo Simeon e, que sufr.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Socios del Athletic piden convertir el homenaje a sus Campeones del Mundo en un acto a favor de la 'Euskal Selekzioa'",
       "summary": "Un grupo de socios del Athletic club de Bilbao, agrupados en la asociación 'Athleticen Alde Bustiko Gara', reclama convertir el homenaje previsto a sus Campeones del Mundo en una reivindicación por la oficialidad de la 'Euskal Selekzioa' (selección vasca). Ante el reconocimiento a Unai Simón, Nico Williams y Aymeric La.",
@@ -45,6 +50,13 @@
       "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "San Mamés se divierte y aviva fantasmas del pasado en el Atleti",
+      "url": "https://theobjective.com/deportes/2026-09-05/san-mames-divierte-aviva-fantasmas-pasado-atleti/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T19:13:09.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

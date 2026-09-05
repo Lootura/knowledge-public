@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,21 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Serena and Venus Williams fall in thriller return to U.S. Open women's doubles",
+      "summary": "Playing together at the U.S. Open in New York for the first time in four years, Serena​ and Venus Williams lost in a three-set thriller match in the first round of the women's doubles tournament.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?",
+      "summary": "NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s cit.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood",
+      "summary": "In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight",
       "summary": "Serena and Venus Williams will play together at the U.S. Open in New York for the first time in four years.",
@@ -67,35 +82,20 @@
       "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
       "summary": "For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
-      "summary": "The New York Police Department made public the names of some of the people involved in a seemingly random knife attack on a crowded Manhattan street, but questions remained.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Former President Joe Biden Will Attend Sept. 11 Ceremony in New York",
-      "summary": "Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
-      "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight",
+      "title": "Serena and Venus Williams fall in thriller return to U.S. Open women's doubles",
       "url": "https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:32:45.000Z",
+      "publishedAt": "2026-09-05T02:56:42.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T20:07:38.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?",
+      "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T12:00:36.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 2

@@ -2,11 +2,23 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Type: organization
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»
+
+El departamento de Seguridad del Gobierno vasco ha condenado la pintada aparecida contra un ertzaina en su portal en Vitoria-Gasteiz y ha afirmado que este tipo de «amenazas y señalamientos recuerdan tiempos pasados y atentan, no solo contra el agente señalado y contra la Ertzaintza, también contra las bases de la demo.
+
+Date: 2026-09-05
+
+### El Gobierno acondiciona una nueva explanada en Ceuta junto a una escuela infantil para albergar a migrantes
+
+El Gobierno continúa con las labores en Ceuta para acondicionar determinadas áreas con el objetivo de albergar a los cientos de migrantes que todavía permanecen en las calles de la ciudad tras la entrada masiva de julio, entre ellas una junto a una escuela infantil, donde los operarios trabajan este sábado con protecci.
+
+Date: 2026-09-05
 
 ### El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios
 
@@ -56,22 +68,7 @@ Iberdrola, Endesa, Naturgy, Repsol y Moeve (antigua Cepsa) obtuvieron en 2023 un
 
 Date: 2026-09-04
 
-### El Gobierno endurece su posición sobre Marruecos tras un mes de eximir de toda responsabilidad en Ceuta: "No podemos tratar a la gente como tonta"
-
-Al filo del mediodía, un carrito de comida hace su aparición en el pasillo del Congreso. Lleva un par de platos de jamón. Las tripas hacen un llamamiento. Salivación. Pasa de...
-
-Date: 2026-09-03
-
-### El Gobierno de EEUU pide al Supremo implementar la reforma al voto por correo
-
-Una jueza federal reprocha a Washington que pretenda «hacer una prueba» en las 'midterms'.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [«Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta](https://www.abc.es/espana/zapatero-morira-matando-mandos-policiales-gobierno-ven-20260903014017-nt.html?utm_source=lootura.com) — 2026-09-04T14:41:52.000Z
-- [Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea](https://www.elconfidencial.com/espana/2026-09-04/que-es-ciudad-periferica-pedro-sanchez-ceuta-1qrt_4417674/?utm_source=lootura.com) — 2026-09-04T12:26:00.000Z
-- [El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios](https://www.elmundo.es/economia/empresas/2026/09/04/6a9a7d80fc6c83d35d8b4582.html?utm_source=lootura.com) — 2026-09-04T08:26:00.000Z
-- [El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba](https://amp.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html?utm_source=lootura.com) — 2026-09-04T13:05:27.000Z
-- [El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»](https://theobjective.com/espana/politica/2026-09-04/gobierno-embajadora-marroqui-convocada-oficial/?utm_source=lootura.com) — 2026-09-04T15:17:41.000Z
+- [El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas](https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com) — 2026-09-05T16:21:44.000Z
+- [El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»](https://theobjective.com/espana/pais-vasco/2026-09-05/gobierno-vasco-condena-pintada-ertzaina-atenta-democracia/?utm_source=lootura.com) — 2026-09-05T15:24:08.000Z

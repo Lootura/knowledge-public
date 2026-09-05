@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Super-precise optical clocks in four nations tick in harmony
+
+Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.
+
+Date: 2026-09-05
 
 ### Super-precise optical clocks in four nations tick in harmony
 
@@ -62,16 +68,6 @@ The doors to Europe's largest consumer tech show haven't opened to the public ye
 
 Date: 2026-09-03
 
-### Malta businessman found not guilty in car bomb killing of journalist
-
-Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Super-precise optical clocks in four nations tick in harmony](https://www.nature.com/articles/d41586-026-02741-9?utm_source=lootura.com) — 2026-09-04T18:48:24.991Z
-- [Serbia accused of ‘glorifying’ convicted war criminal Ratko Mladić ahead of funeral](https://www.nbcnews.com/world/europe/serbia-faces-anger-glorification-convicted-war-criminal-ratko-mladic-a-rcna596139?utm_source=lootura.com) — 2026-09-04T18:08:27.000Z
-- [Record European fires burn over 500,000 hectares during summer](https://phys.org/news/2026-09-european-hectares-summer.html?utm_source=lootura.com) — 2026-09-04T15:41:18.000Z
-- [A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest](https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html?utm_source=lootura.com) — 2026-09-04T11:26:06.000Z
-- [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones?utm_source=lootura.com) — 2026-09-04T15:41:17.000Z
+- [Super-precise optical clocks in four nations tick in harmony](https://www.nature.com/articles/d41586-026-02741-9?utm_source=lootura.com) — 2026-09-05T21:56:02.990Z

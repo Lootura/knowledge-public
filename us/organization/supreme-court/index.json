@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,26 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
+      "summary": "A former congressman got hit with a ban, an artist had his upcoming Met Gala exhibition pulled, and a record carrier deployment finally came to an end.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "summary": "Missouri’s Supreme Court said a map redrawn to help Republicans could not be used in November and said voters should decide on the new boundaries.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Supreme Court Sides With Republicans in TV Ad Fight",
+      "summary": "Republican groups had asked the court to clear the way for political parties to pay the same low-cost ad rates as candidates, a move that could undercut a Democratic advantage in the midterms.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots",
+      "summary": "The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots",
       "summary": "NPR's Steve Inskeep asks David Becker, an elections administration expert, what effect the Trump administration's appeal to the Supreme Court on mail-in ballots could have on the midterms.",
@@ -45,45 +65,25 @@
       "title": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
       "summary": "The Trump administration on Thursday asked the Supreme Court to reject an order by a federal judge that halts it from implementing a new rule regulating mail ballots, hours after being unable to tell that judge whether the computer system that would govern the entire project was operational yet.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-      "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election. (Image credit: Justin Sullivan).",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Is Letting Only Seniors Vote by Mail Unconstitutional?",
-      "summary": "Federal appeals courts have split on the question, making Supreme Court review likely.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "News Wrap: Trump asks Supreme Court to lift block on mail ballot order",
-      "summary": "In our news wrap Thursday, the Trump administration asked the Supreme Court to lift a block on a plan to restrict mail-in voting, federal prosecutors are charging an immigration officer with lying about the shooting of a Venezuelan man and billionaire Leon Black is defying a Congressional subpoena to address his ties t.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
-      "summary": "Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Democratic hands this November. The court ruled unanimously on Thursday that a referendum petition organized by Democrats to put the new congre.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Trump administration asks Supreme Court to weigh in on mail-in ballots",
-      "url": "https://www.cbsnews.com/video/trump-administration-asks-supreme-court-to-weigh-in-on-mail-in-ballots/?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:14:43.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
+      "url": "https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T09:15:00.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Election expert on the impact of Trump's appeal to SCOTUS on mail-in ballots",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5956866/election-expert-on-the-impact-of-trumps-appeal-to-scotus-on-mail-in-ballots?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T07:58:31.000Z",
-      "sourceId": "lootura-us-npr-politics"
+      "title": "Supreme Court Sides With Republicans in TV Ad Fight",
+      "url": "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-04T22:23:54.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T15:16:35.000Z",
+      "title": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:13:16.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

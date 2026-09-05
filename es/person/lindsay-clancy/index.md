@@ -40,5 +40,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [El juez declara nulo el juicio a Lindsay Clancy por matar a sus tres hijos por el bloqueo del jurado](https://elpais.com/sociedad/2026-09-04/el-juez-amenaza-con-declarar-nulo-el-juicio-a-lindsay-clancy-por-matar-a-sus-tres-hijos-por-el-bloqueo-del-jurado.html?utm_source=lootura.com) — 2026-09-04T18:26:08.000Z
-- [La defensa de Lindsay Clancy pide la suspensión del juicio](https://theobjective.com/internacional/2026-09-04/el-juez-declara-nulo-el-juicio-de-lindsay-clancy-por-el-asesinato-de-sus-tres-hijos/?amp=&utm_source=lootura.com) — 2026-09-04T15:41:38.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### FAST finds two mysterious hydrogen clouds with no visible stars
+
+Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a ne.
+
+Date: 2026-09-05
 
 ### U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran
 
@@ -62,13 +68,7 @@ The Chinese government is pressing for answers after a Chinese man died hours af
 
 Date: 2026-09-02
 
-### At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports
-
-Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran](https://www.pbs.org/newshour/world/u-s-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran?utm_source=lootura.com) — 2026-09-04T17:26:55.000Z
-- [Volkswagen Plans to Cut 50,000 Jobs](https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html?utm_source=lootura.com) — 2026-09-03T23:32:22.000Z
+- [Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US](https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com) — 2026-09-05T21:30:31.000Z
+- [FAST finds two mysterious hydrogen clouds with no visible stars](https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html?utm_source=lootura.com) — 2026-09-05T18:40:02.000Z

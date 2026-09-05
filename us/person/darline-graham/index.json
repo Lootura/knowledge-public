@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/darline-graham/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/darline-graham/index.json",
   "description": "Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Darline"
   ],
   "changes": [
+    {
+      "title": "Trump delivers $10 million to Ken Paxton in first major contribution of midterms",
+      "summary": "President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
       "summary": "The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.",
@@ -57,13 +62,15 @@
       "title": "South Carolina Republicans test Trump's clout in race for Graham's seat",
       "summary": "The race to fill Lindsey Graham’s seat has created a new test of President Donald Trump’s power. South Carolina Republicans aren’t sure Trump will pass. Sen. Darline Graham, who was appointed last week to fill the remainder of her late brother's term, announced Monday she will seek a full term for her brother’s old sea.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
-      "summary": "Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump delivers $10 million to Ken Paxton in first major contribution of midterms",
+      "url": "https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T19:29:40.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

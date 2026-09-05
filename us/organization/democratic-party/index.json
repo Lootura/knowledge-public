@@ -8,11 +8,36 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
+      "summary": "Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
+      "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
+      "summary": "The event with the Georgia and Texas Democrats will be hosted by Shonda Rhimes.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Brooks and Capehart on Trump calling Iran war 'small potatoes'",
+      "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's remarks calling the conflict with Iran \"small potatoes,\" the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on cho.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
       "summary": "Under a new partnership, the Defense Department would play a larger role in biodefense and pandemic preparedness. Democrats warned it could allow a Pentagon cash grab.",
@@ -37,40 +62,33 @@
       "title": "As Midterms Loom, Democrats Feud Over Defections",
       "summary": "The fight has highlighted party divisions and raised questions about how Democrats will run the House should they win the majority.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Veteran political journalist on division among Democrats over democratic socialism",
-      "summary": "NPR's Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party's division over embracing democratic socialism.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
-      "summary": "Stephen A. Smith on Trump, Democrats and the politics of chaos lead image.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-      "summary": "Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died. (Image credit: Mario Tama).",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Democratic strategist on the new anti-partisan swing voters",
-      "summary": "Democrats in Massachusetts bucked a national trend and voted to back an incumbent in Congress. Sen. Ed Markey beat a primary challenge from Rep. Seth Moulton in a race that frequently focused on age and the party's direction. The results skew from a national narrative that Democratic voters are eager for younger leader.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
-      "summary": "For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-nih-biodefense-agreement.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T17:36:49.000Z",
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
+      "url": "https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T20:44:35.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T09:03:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T14:49:58.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 4
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Gallardos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/place/los-gallardos
 
 ## Cambios recientes
+
+### Una familia británica denuncia que encontraron restos humanos en el coche de sus padres tras el incendio en Almería
+
+El incendio de Los Gallardos, en Almería , ha sido una de las grandes tragedia de este verano en toda España. El fuego sorprendió a los vecinos de la zona y, al querer abandonar sus viviendas, hasta 14 fallecieron en su huida. Entre ellos Pete y Fran Gillam , una pareja jubilada que residía en la localidad almeriense d.
+
+Date: 2026-09-05
 
 ### El incendio de Huelva ya es el más extenso en Andalucía desde que hay registros y avanza hacia Sevilla
 
@@ -61,12 +67,6 @@ Date: 2026-07-24
 Han pasado ya 21 días desde que el fuego empezó a arder en Los Gallardos y los efectivos del plan Infoca, el servicio de extinción de incendios de la Junta, aún siguen refrescando las 7.000 hectáreas arrasadas por el incendio más mortífero que se recuerda en Andalucía . Todos los vecinos evacuados, que por momentos fue.
 
 Date: 2026-07-23
-
-### La toma de decisiones en una gran emergencia: cuando la realidad cambia más deprisa que la información disponible
-
-Medios de extinción frente al incendio en Los Gallardos, Almería, el 10 de julio de 2026. Arafatmyt/Shutterstock El incendio de Los Gallardos (Almería), con un dramático balance de víctimas mortales, miles de hectáreas calcinadas y numerosas personas evacuadas, ha vuelto a poner de manifiesto la enorme complejidad que.
-
-Date: 2026-07-16
 
 ## Fuentes
 

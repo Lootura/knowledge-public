@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T15:44:50.549Z",
+  "updatedAt": "2026-09-05T14:34:36.678Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "We Need a Cure for AI Health Hype",
+      "summary": "—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.",
+      "date": "2026-09-05"
+    },
     {
       "title": "AI Will Transform Work, But It Can't Replace Relationships",
       "summary": "—Monty Rakusen—Getty Images AI is everywhere. It's reshaping industries, accelerating innovation, and changing how millions of people work. And while AI will transform work, it is crystal clear to me that AI can not replace relationships. Working in real estate has taught me this firsthand. Great real estate agents are.",
@@ -59,11 +64,6 @@
       "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
       "summary": "Plus, if you know what \"TMZ\" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).",
-      "date": "2026-08-06"
     }
   ],
   "sources": [],

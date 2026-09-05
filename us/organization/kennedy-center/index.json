@@ -1,0 +1,63 @@
+{
+  "id": "usa-kennedy-center",
+  "name": "Kennedy Center",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/kennedy-center",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/kennedy-center",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.json",
+  "description": "Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "aliases": [
+    "The Trump Kennedy Center",
+    "The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts",
+    "John F. Kennedy Memorial Center for the Performing Arts",
+    "John F Kennedy Center for the Performing Arts",
+    "The Kennedy Center for the Performing Arts",
+    "JFK Center for the Performing Arts"
+  ],
+  "changes": [
+    {
+      "title": "Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls",
+      "summary": "No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer partially collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Opinion: A sculpture in perpetual motion, removed",
+      "summary": "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed. (Image credit: Mark Schiefelbein).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
+      "summary": "No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Kennedy Center first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-05"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls",
+      "url": "https://www.cbsnews.com/news/kennedy-center-ceiling-collapse-renovations-trump/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T20:52:18.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Opinion: A sculpture in perpetual motion, removed",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T12:00:00.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
+      "url": "https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T17:33:29.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 3
+}

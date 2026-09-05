@@ -3,10 +3,16 @@
 > Follow Darline Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/darline-graham
 
 ## Recent changes
+
+### Trump delivers $10 million to Ken Paxton in first major contribution of midterms
+
+President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.
+
+Date: 2026-09-05
 
 ### Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure
 
@@ -62,12 +68,6 @@ The race to fill Lindsey Graham’s seat has created a new test of President Don
 
 Date: 2026-07-21
 
-### Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him
-
-Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Trump delivers $10 million to Ken Paxton in first major contribution of midterms](https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com) — 2026-09-05T19:29:40.000Z

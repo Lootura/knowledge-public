@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.](https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234?utm_source=lootura.com) — 2026-09-04T18:00:00.000Z
-- [North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them](https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html?utm_source=lootura.com) — 2026-09-04T15:16:35.000Z
+No public source links.

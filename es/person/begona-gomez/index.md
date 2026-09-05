@@ -70,6 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Begoña Gómez pide su absolución y niega haber sacado partido de su matrimonio con Sánchez](https://www.elconfidencial.com/espana/2026-09-04/begona-gomez-juez-escrito-defensa_4417898/?utm_source=lootura.com) — 2026-09-04T12:00:00.000Z
-- [Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM](https://www.elcorreo.com/politica/begona-gomez-pide-absolucion-argumenta-cometio-delito-20260904141501-ntrc_amp.html?utm_source=lootura.com) — 2026-09-04T12:15:01.000Z
-- [Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra](https://elpais.com/espana/2026-09-04/begona-gomez-pide-su-absolucion-y-defiende-que-no-influyo-en-los-cargos-de-la-univerdad-ni-en-ninguna-autoridad-para-crear-la-catedra.html?utm_source=lootura.com) — 2026-09-04T12:22:14.000Z
+No public source links.

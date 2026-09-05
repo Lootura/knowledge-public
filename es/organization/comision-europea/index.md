@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta
+
+Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.
+
+Date: 2026-09-05
 
 ### España y Bruselas logran avances en la petición de ayuda europea para la crisis de Ceuta
 
@@ -62,12 +68,6 @@ La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la
 
 Date: 2026-08-03
 
-### Von der Leyen felicita a España y Marruecos por su gestión en Ceuta pese a la muerte de más de 80 personas
-
-La presidenta de la Comisión Europea califica de gestión "eficiente" que ambos países "impidiesen con éxito el traslado ilegal hacia la España peninsular y Europa" e insiste en dar una "respuesta común" solidaria La Audiencia Nacional pide a la Policía que aclare si la entrada de miles de personas en Ceuta fue “una acc.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ex-ciudadanos-von-der-leyen-asuma-liderazgo-gestion-ceuta/?utm_source=lootura.com) — 2026-09-05T21:38:32.000Z

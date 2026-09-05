@@ -3,10 +3,16 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
+
+### Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones
+
+The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.
+
+Date: 2026-09-05
 
 ### JD Vance Says Monthslong Iran War is Not a 'War'
 
@@ -52,4 +58,4 @@ Date: 2026-08-31
 
 ## Sources
 
-No public source links.
+- [Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html?utm_source=lootura.com) — 2026-09-05T19:58:57.000Z

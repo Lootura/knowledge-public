@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/star-wars/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/star-wars/index.json",
   "description": "Sigue la actividad de Star Wars en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "La guerra de las galaxias"
   ],
   "changes": [
+    {
+      "title": "Esta película de Star Wars pasó sin pena ni gloria en su estreno, pero ahora deberías darle una oportunidad en Disney+",
+      "summary": "Hace un par de décadas, que una película de Star Wars pasara sin pena ni gloria en su estreno parecía impensable. Pero fue precisamente lo que ocurrió con su más reciente estreno . Eso, a pesar de que Star Wars: The Mandalorian y Grogu prometían ser un éxit o. Al menos, celebrar a uno de los dúos más emblemáticos de la.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Esta es la escena más importante de ‘The Mandalorian and Grogu’ según su director (no es la que esperas)",
       "summary": "The Mandalorian and Grogu acaba de llegar por fin a Disney+ . Star Wars regresaba a los cines después de siete largos años con la primera entrega cinematográfica del cazarrecompensas de Pedro Pascal y su inseparable Baby Yoda . Por desgracia, el proyecto no funcionó en taquilla tan bien como se esperaba. Sin embargo, c.",
@@ -39,6 +44,13 @@
       "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Esta película de Star Wars pasó sin pena ni gloria en su estreno, pero ahora deberías darle una oportunidad en Disney+",
+      "url": "https://hipertextual.com/cine-television/esta-pelicula-de-star-wars-paso-sin-pena-ni-gloria-en-su-estreno-pero-ahora-deberias-darle-una-oportunidad-en-disney/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T14:00:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida
+
+Un dron surca la niebla entre la frontera de Ceuta y Marruecos, porque los días en los que la ciudad amanece sumida en ese espesor blanco solían ser propicios para que los migrantes trataran de cruzar a nado. Pero a pesar de la vigilancia del dispositivo que sobrevuela El Tarajal, nadie cruza ilegalmente, y legalmente.
+
+Date: 2026-09-05
 
 ### Nervios y miedo entre familias migrantes acampadas en las calles de Ceuta: “Damos vueltas para encontrar dónde dormir”
 
@@ -62,12 +68,6 @@ El Ministerio del Interior ha informado este domingo de que las barreras de cont
 
 Date: 2026-08-02
 
-### Ceuta recobra parte de la calma en medio de la tensión política
-
-Ceuta ha recobrado parte de la calma robada con la entrada multitudinaria de miles de marroquíes en una crisis de cifras inéditas . Por las calles del centro y cerca de la frontera de El Tarajal todavía se veían este sábado jóvenes con bolsas deambulando de un lado para otro, pero en grupos mucho menos numerosos que en.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida](https://elpais.com/espana/2026-09-05/la-frontera-semantica-de-ceuta-los-que-hablan-de-migrantes-y-los-que-ven-invasores.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z

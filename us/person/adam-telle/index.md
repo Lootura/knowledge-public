@@ -34,4 +34,4 @@ Date: 2026-09-04
 
 ## Sources
 
-- [Who Is Adam Telle, Trump’s New Acting Army Secretary?](https://time.com/article/2026/09/04/adam-telle-acting-army-secretary-trump-driscoll-resignation/?utm_source=lootura.com) — 2026-09-04T17:44:05.000Z
+No public source links.

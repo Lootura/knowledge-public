@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/oval-office/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/oval-office/index.json",
   "description": "Follow Oval Office, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office. (Image credit: Vahid Salemi).",
+      "date": "2026-09-05"
+    },
     {
       "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices",
       "summary": "President Donald Trump speaks in the Oval Office of the White House on Aug. 31, 2026. —Annabelle Gordon/CNP/Bloomberg—Getty Images The Trump Administration on Aug. 31 announced that nine mid-sized pharmaceutical companies had agreed to lower the prices that Medicaid programs pay for drugs, bringing the total number of.",
@@ -57,6 +62,13 @@
       "date": "2026-07-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T15:05:08.000Z",
+      "sourceId": "lootura-us-npr-world"
+    }
+  ],
+  "evidenceCount": 1
 }

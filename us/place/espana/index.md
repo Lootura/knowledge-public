@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Mixed grazing, controlled burns and collaboration can curb Mediterranean wildfire risks](https://phys.org/news/2026-09-grazing-collaboration-curb-mediterranean-wildfire.html?utm_source=lootura.com) — 2026-09-04T17:40:08.000Z
+No public source links.

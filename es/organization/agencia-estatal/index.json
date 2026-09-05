@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
     "government agency of Spain"
   ],
   "changes": [
+    {
+      "title": "La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas",
+      "summary": "Andalucía y Cataluña activarán este domingo, 6 de septiembre, el aviso naranja por riesgo importante ante las altas temperaturas previstas, según las previsiones de la información facilitada por la Agencia Estatal de Meteorología ( Aemet ), que precisan que la región andaluza mantendrá asimismo la alerta amarilla debid.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Sevilla iguala el récord de temperatura más alta del año en España con 45,1 grados",
       "summary": "La estación de la Agencia Estatal de Meteorología (Aemet) ubicada en Sevilla-Tablada igualó este jueves, con 45,1 grados, la temperatura más alta del año en España. Esta misma temperatura se midió también en Andújar (Jaén) y Montoro (Córdoba) los días 22 y 23 de junio respectivamente. Según ha publicado la Aemet, es \"m.",
@@ -56,6 +61,13 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas",
+      "url": "https://www.20minutos.es/nacional/aemet-avanza-mas-calor-proximas-horas-provincias-alerta-altas-temperaturas_7033258_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T17:16:31.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

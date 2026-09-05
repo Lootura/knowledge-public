@@ -3,10 +3,16 @@
 > Follow William Brangham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/person/william-brangham
 
 ## Recent changes
+
+### Technology is reshaping education. But is it helping students learn?
+
+Putting technology into schools was sold as a revolution that would help kids learn. But as tech companies exert greater influence, many are now wondering if screen time is doing more harm than good. Horizons moderator William Brangham explores how technology is shaping education with Natasha Singer, a New York Times r.
+
+Date: 2026-09-04
 
 ### Discovered by Atlas
 

@@ -58,4 +58,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo](https://okdiario.com/deportes/carlos-alcaraz-yibing-wu-directo-online-ultima-hora-del-partido-del-us-open-2026-hoy-vivo-20227290?utm_source=lootura.com) — 2026-09-04T18:00:04.000Z
+No public source links.

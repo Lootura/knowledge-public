@@ -3,10 +3,22 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### 'No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar
+
+En la muy larga lista de odas neoyorquinas donde la ciudad observa todo lo que le pasa a sus protagonistas, sean Hannah en 'Girls' o Carrie en 'Sexo en Nueva York', 'No aptos para el trabajo' ('Not suitable for work') lleva esos sueños idealizados a la incertidumbre de vivir en los 2020, la realidad actual de la genera.
+
+Date: 2026-09-05
+
+### Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open
+
+La salida del sol en Nueva York va acompañada del sonido de las sirenas de policía, ambulancia y bomberos. Es el polítono de la ciudad y su atrezo, el humo proveniente de las alcantarillas. Algunas incluso conviven con chimeneas temporales para canalizar el vapor. El skyline muda su piel cuando uno pone un pie en las i.
+
+Date: 2026-09-05
 
 ### Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo
 
@@ -56,18 +68,7 @@ La violencia sobrecogió este lunes por la tarde, a última hora de la noche en 
 
 Date: 2026-09-01
 
-### Alcaldía de Nueva York pide desestimar demanda contra congelación de alquileres
-
-La Administración del alcalde de Nueva York, Zohran Mamdani, y la ONG Legal Aid Society pidieron este viernes a un tribunal desestimar la demanda de un.
-
-Date: 2026-08-14
-
-### Trump dice que EEUU vivió en su frontera casos como el de Ceuta a diario: "Lo vieron en España, ¿verdad?"
-
-El presidente estadounidense, el republicano Donald Trump , dijo este viernes en un mitin en el condado de Nassau (Nueva York) que bajo el gobierno de su antecesor, el demócrata Joe Biden, Estados Unidos vivió a diario un episodio de entrada ilegal de inmigrantes masiva como el ocurrido recientemente en Ceuta. " Lo vie.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo](https://okdiario.com/deportes/carlos-alcaraz-yibing-wu-directo-online-ultima-hora-del-partido-del-us-open-2026-hoy-vivo-20227290?utm_source=lootura.com) — 2026-09-04T18:00:04.000Z
+- ['No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar](https://www.abc.es/play/series/noticias/aptos-trabajo-actual-conoci-vuestra-madre-prioriza-20260905154004-nt.html?utm_source=lootura.com) — 2026-09-05T13:40:04.000Z
+- [Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open](https://okdiario.com/deportes/marihuana-influencers-irrespetuosos-ruido-incesante-pleno-partido-vuelta-zoologico-del-us-open-20235678?utm_source=lootura.com) — 2026-09-05T19:59:46.000Z

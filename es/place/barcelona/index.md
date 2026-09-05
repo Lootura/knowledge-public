@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T15:44:32.845Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios
+
+El mercado de la vivienda parece estar empezando a mostrar señales de enfriamiento. Las compraventas cayeron un 4% en junio, encadenando ya seis meses de bajadas . El descenso más pronunciado se produjo en mayo con un retroceso interanual de las operaciones del 12%, de acuerdo con las cifras de los notarios. Sin embarg.
+
+Date: 2026-09-05
+
+### Catalunya registra su día más caluroso en­­ un mes de septiembre
+
+Catalunya registró este pasado viernes el día de septiembre más caluroso que ha vivido hasta ahora, en una jornada en la que se han superado los 40 ºC y se han alcanzado los 42,5ºC en Vinebre (Ribera d’Ebre). Barcelona lleva, contando este sábado, cuatro días consecutivos registrando la temperaturas más alta para un me.
+
+Date: 2026-09-05
 
 ### La realidad fue peor que ‘Zoolander’: la parodia que profetizó el mundo ‘influencer’ hace 25 años
 
@@ -56,18 +68,7 @@ El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaum
 
 Date: 2026-09-02
 
-### Barcelona-Real Madrid: el primer Clásico de Mourinho ya tiene fecha y hora y se verá en DAZN
-
-El primer Clásico de la temporada ya tiene fecha, hora y televisión . El próximo domingo 25 de octubre a las 21:00 horas , DAZN emitirá el primer FC Barcelona-Real Madrid del curso, un encuentro que estará marcado por varios alicientes. Será el regreso de José Mourinho al feudo azulgrana tras su vuelta al banquillo mad.
-
-Date: 2026-09-02
-
-### Mercado de fichajes en directo | A qué hora cierra y última hora de traspasos, rumores, Real Madrid, Barcelona y Atlético de Madrid en vivo hoy
-
-El mercado de fichajes llega a su fin este martes. A las 00:00 horas del 2 de septiembre no se podrán hacer más operaciones. Es decir, hasta las 23:59 horas de este martes los clubes podrán fichar e inscribir a jugadores en sus plantillas . Sigue en OKDIARIO todo lo que suceda en las últimas horas del mercado, con info.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios](https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html?utm_source=lootura.com) — 2026-09-05T18:36:14.000Z
+- [Catalunya registra su día más caluroso en­­ un mes de septiembre](https://www.lavanguardia.com/vida/20260905/11628080/catalunya-registra-dia-mas-caluroso-mes-septiembre.html?utm_source=lootura.com) — 2026-09-05T16:58:28.000Z

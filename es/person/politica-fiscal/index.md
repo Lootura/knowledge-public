@@ -3,10 +3,16 @@
 > Sigue la actividad de Política fiscal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T14:34:18.620Z
 - Canonical: https://atlas.lootura.com/es/person/politica-fiscal
 
 ## Cambios recientes
+
+### Ayuso jura que el dinero de los madrileños no se toca y que quien "lo toque lo va a pagar"
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha dicho este sábado que "el dinero de los madrileños no se toca y el que lo toque lo va a pagar". "Eso lo juro", ha subrayado después de que el Consejo de Política Fiscal y Financiera (CPFF) aprobara este viernes la reforma del sistema de financiación autonóm.
+
+Date: 2026-09-05
 
 ### ¿Cómo es la nueva financiación autonómica y cuánto dinero repartiría entre las comunidades?
 
@@ -40,4 +46,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias](https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html?utm_source=lootura.com) — 2026-09-04T12:53:26.000Z
+No public source links.

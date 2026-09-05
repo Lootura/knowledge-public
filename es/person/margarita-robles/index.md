@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio](https://www.abc.es/espana/margarita-robles-firma-ascenso-balas-seguira-uco-20260904093223-nt.html?utm_source=lootura.com) — 2026-09-04T14:56:51.000Z
-- [Margarita Robles no tiene quien le aplauda (en el PSOE)](https://elpais.com/ideas/2026-09-04/robles-no-tiene-quien-le-aplauda-en-el-psoe.html?utm_source=lootura.com) — 2026-09-04T09:09:59.000Z
+No public source links.

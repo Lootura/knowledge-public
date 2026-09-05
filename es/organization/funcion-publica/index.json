@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/funcion-publica/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/funcion-publica/index.json",
   "description": "Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T14:34:18.620Z",
   "aliases": [
     "civil service system",
     "civilian service",
@@ -17,6 +17,11 @@
     "servicio público"
   ],
   "changes": [
+    {
+      "title": "El malestar de los funcionarios se extiende por las administraciones ante el \"deterioro de los servicios públicos\"",
+      "summary": "Desde el sindicato confirmaron que contactarán con Función Pública para reactivar el desarrollo del Acuerdo Marco, con un 5% de subida salarial Leer.",
+      "date": "2026-09-04"
+    },
     {
       "title": "Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones",
       "summary": "La vuelta de las vacaciones se promete difícil para el ministro de Función Pública, Óscar López , después de que hoy el principal sindicato que representa a los funcionarios en nuestro país haya anunciado que a lo largo del mes de septiembre intensificará la presión en las batallas que mantiene abiertas con el Gobierno.",
@@ -48,13 +53,6 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Los funcionarios aprietan al Constitucional por el recorte salarial de 2010 que les hizo perder 48.000 millones",
-      "url": "https://www.abc.es/economia/funcionarios-aprietan-constitucional-recorte-salarial-2010-hizo-20260904140603-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:51:15.000Z",
-      "sourceId": "lootura-es-abc"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,7 +3,7 @@
 > Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/madrid
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [Late Roman decrees uncover military system behind amphitheater animal spectacles](https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html?utm_source=lootura.com) — 2026-09-05T11:20:01.000Z

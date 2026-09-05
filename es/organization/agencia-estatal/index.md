@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas
+
+Andalucía y Cataluña activarán este domingo, 6 de septiembre, el aviso naranja por riesgo importante ante las altas temperaturas previstas, según las previsiones de la información facilitada por la Agencia Estatal de Meteorología ( Aemet ), que precisan que la región andaluza mantendrá asimismo la alerta amarilla debid.
+
+Date: 2026-09-05
 
 ### Sevilla iguala el récord de temperatura más alta del año en España con 45,1 grados
 
@@ -58,4 +64,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas](https://www.20minutos.es/nacional/aemet-avanza-mas-calor-proximas-horas-provincias-alerta-altas-temperaturas_7033258_0.html?utm_source=lootura.com) — 2026-09-05T17:16:31.000Z

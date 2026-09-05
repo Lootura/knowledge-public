@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -20,6 +20,11 @@
     "Parliament of Europe"
   ],
   "changes": [
+    {
+      "title": "Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta",
+      "summary": "Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.",
+      "date": "2026-09-05"
+    },
     {
       "title": "El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara",
       "summary": "Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.",
@@ -66,6 +71,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-09-05/ex-ciudadanos-von-der-leyen-asuma-liderazgo-gestion-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T21:38:32.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

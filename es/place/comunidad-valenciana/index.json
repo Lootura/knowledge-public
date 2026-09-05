@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad",
+      "summary": "La Plaza Mayor de Castellón se ha convertido en el escenario de un viaje visual a los orígenes de la ciudad que recuerdan su fundación, gracias a la colaboración entre el Ayuntamiento y el Consorci de Museus de la Comunitat Valenciana.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: \"Valencia no merece este agravio\"",
       "summary": "El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la central nuclear de Cofrentes reciba el mismo trato que la de Almaraz , en Cáceres, después de que el Gobierno haya renovado la autorización de esta última hasta, al menos, junio de 2030 . Pérez Llorca denunció que “la Comunitat Valenciana no mere.",
@@ -64,13 +69,15 @@
       "title": "Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano",
       "summary": "El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Una cena benéfica en Gandía para construir una gran escuela en África: \"Cambia la vida de los niños y de todo un pueblo\"",
-      "summary": "El padre Hervé Chanhoun tiene 44 años, los mismos que lleva vinculado a la religión. Es natural de Benin, un país del oeste de África, pero está altamente vinculado con la Comunitat Valenciana porque aquí estudia Teología. Gracias a ello, y a las relaciones que ha construido en Valencia, ha podido construir también una.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad",
+      "url": "https://www.elperiodicomediterraneo.com/castello/2026/09/05/plaza-mayor-castellon-transforma-celebrar-fundacion-cuiudad-133993726.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T21:28:16.000Z",
+      "sourceId": "lootura-es-el-periodico-mediterraneo"
+    }
+  ],
+  "evidenceCount": 1
 }

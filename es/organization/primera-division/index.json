@@ -1,0 +1,32 @@
+{
+  "id": "es-primera-division",
+  "name": "Primera División",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/primera-division",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/primera-division",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/primera-division/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/primera-division/index.json",
+  "description": "Sigue la actividad de Primera División en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-05T14:34:18.620Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "LaLiga: Athletic - Atlético de Madrid, en directo",
+      "summary": "Partido en directo de Athletic Club - Atlético de Madrid en Primera División - LaLiga EA Sports 2026. Sigue el minuto a minuto y resultado del enfrentamiento. Todos los partidos de Primera División - LaLiga EA Sports en directo.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Se confirman los peores presagios para dos canteranos de la Real: Lobete y Mikel Rodríguez casi se despiden de la temporada",
+      "summary": "El lezoarra y el getariarra sufren roturas de ligamento cruzado cuando encaraban su primera temporada con ficha de Primera División.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Primera División first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

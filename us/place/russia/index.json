@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,16 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+      "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
+      "date": "2026-09-05"
+    },
     {
       "title": "U.S. Diesel Prices Set New High",
       "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.",
@@ -56,49 +66,21 @@
       "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
       "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-      "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
-      "url": "https://www.pbs.org/newshour/world/russian-drone-strikes-ukraine-security-service-headquarters-as-u-s-talks-on-the-war-are-expected?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T18:32:34.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T11:08:57.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "U.S. Diesel Prices Set New High",
-      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:59:20.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
-      "url": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T09:03:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Bessent Blames Ukraine for High Energy Prices",
-      "url": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-03T19:56:44.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T16:51:14.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T12:35:46.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 3
 }

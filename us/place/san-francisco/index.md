@@ -3,10 +3,16 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
+
+### Robotaxis enter their villain era
+
+It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-.
+
+Date: 2026-09-05
 
 ### AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market
 

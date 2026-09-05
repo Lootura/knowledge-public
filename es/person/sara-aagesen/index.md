@@ -52,4 +52,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios](https://www.elmundo.es/economia/empresas/2026/09/04/6a9a7d80fc6c83d35d8b4582.html?utm_source=lootura.com) — 2026-09-04T08:26:00.000Z
+No public source links.

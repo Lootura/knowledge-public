@@ -70,6 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [«Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta](https://www.abc.es/espana/zapatero-morira-matando-mandos-policiales-gobierno-ven-20260903014017-nt.html?utm_source=lootura.com) — 2026-09-04T14:41:52.000Z
-- [La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas](https://www.elconfidencial.com/espana/2026-09-04/justicia-tumba-querella-cloacas-psoe-el-confidencial-veracidad-audio-balas_4418037/?utm_source=lootura.com) — 2026-09-04T13:31:00.000Z
-- [Margarita Robles no tiene quien le aplauda (en el PSOE)](https://elpais.com/ideas/2026-09-04/robles-no-tiene-quien-le-aplauda-en-el-psoe.html?utm_source=lootura.com) — 2026-09-04T09:09:59.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-09-05T14:34:36.678Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### We Need a Cure for AI Health Hype
+
+—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.
+
+Date: 2026-09-05
 
 ### AI Will Transform Work, But It Can't Replace Relationships
 
@@ -61,12 +67,6 @@ Date: 2026-08-08
 Plus, if you know what "TMZ" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).
 
 Date: 2026-08-07
-
-### Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll
-
-Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other "hostile countries" from transiting the Strait of Hormuz. The Trump administration has rejected the plan. (Image credit: AFP via Getty Images).
-
-Date: 2026-08-06
 
 ## Sources
 

@@ -3,10 +3,16 @@
 > Follow John Galliano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T02:50:05.135Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/person/john-galliano
 
 ## Recent changes
+
+### What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?
+
+NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s cit.
+
+Date: 2026-09-05
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-08-31
 
 ## Sources
 
-No public source links.
+- [What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?](https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com) — 2026-09-05T12:00:36.000Z

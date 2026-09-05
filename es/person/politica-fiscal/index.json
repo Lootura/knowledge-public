@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/politica-fiscal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/politica-fiscal/index.json",
   "description": "Sigue la actividad de Política fiscal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T14:34:18.620Z",
   "aliases": [
     "Política",
     "fiscal",
     "políticas fiscales"
   ],
   "changes": [
+    {
+      "title": "Ayuso jura que el dinero de los madrileños no se toca y que quien \"lo toque lo va a pagar\"",
+      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha dicho este sábado que \"el dinero de los madrileños no se toca y el que lo toque lo va a pagar\". \"Eso lo juro\", ha subrayado después de que el Consejo de Política Fiscal y Financiera (CPFF) aprobara este viernes la reforma del sistema de financiación autonóm.",
+      "date": "2026-09-05"
+    },
     {
       "title": "¿Cómo es la nueva financiación autonómica y cuánto dinero repartiría entre las comunidades?",
       "summary": "Diecisiete años después el Consejo de Política Fiscal y Financiera ha aprobado una propuesta de nueva financiación autonómica que, si supera el trámite en el Congreso de los Diputados, inyectaría 21.000 millones más al año a las comunidades de régimen común. El Ministerio de Hacienda habla de un día histórico. Sin emba.",
@@ -41,13 +46,6 @@
       "date": "2026-09-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias",
-      "url": "https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T12:53:26.000Z",
-      "sourceId": "lootura-es-expansion"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

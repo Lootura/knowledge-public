@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/casa-blanca/index.json",
   "description": "Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-05T21:55:40.959Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -20,6 +20,16 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania",
+      "summary": "Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca",
+      "summary": "El presidente ruso, Vladímir Putin, y los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, concluyeron este sábado sus negociaciones para.",
+      "date": "2026-09-05"
+    },
     {
       "title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
       "summary": "Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.",
@@ -59,25 +69,21 @@
       "title": "Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema",
       "summary": "El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Todd Blanche jura como fiscal general de EE UU en una ceremonia privada en la Casa Blanca",
-      "summary": "El antiguo abogado personal del presidente de EE UU, Donald Trump, y ex número dos del Departamento de Justicia de Estados Unidos, Todd Blanche, juró este lunes como nuevo fiscal general del país en una ceremonia privada en el Despacho Oval de la Casa Blanca donde estuvo presente el mandatario republicano. \"¡Felicidade.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El preparador físico de Topuria anticipa su nueva versión: «Va ser que es una amenaza»",
-      "summary": "Hay derrotas que cierran una etapa y otras que obligan a reinventarse. En el deporte de élite, pocas cosas transforman tanto a un campeón como descubrir que ya no basta con aquello que le llevó hasta la cima. Ilia Topuria perdió el invicto frente a Justin Gaethje en la Casa Blanca, pero, si algo tiene claro su entorno,.",
-      "date": "2026-08-10"
     }
   ],
   "sources": [
     {
-      "title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
-      "url": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T14:19:41.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca",
+      "url": "https://theobjective.com/internacional/2026-09-05/concluyen-negociaciones-ucrania-putin-emisarios-casa-blanca/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-05T21:50:54.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania",
+      "url": "https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T13:02:08.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

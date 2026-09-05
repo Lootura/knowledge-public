@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T15:44:50.549Z",
+  "updatedAt": "2026-09-05T21:55:59.222Z",
   "aliases": [
     "EVP",
     "VP",
     "veep"
   ],
   "changes": [
+    {
+      "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+      "summary": "The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.",
+      "date": "2026-09-05"
+    },
     {
       "title": "JD Vance Says Monthslong Iran War is Not a 'War'",
       "summary": "During a White House press briefing on Thursday, Vice President JD Vance said the monthslong conflict with Iran is not a war. “I wouldn’t call it a war right now. There’s no active shooting,” he said, adding he won’t “make a promise” about when gas prices will go down. NBC’s Garrett Haake reports for TODAY.",
@@ -51,6 +56,13 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-05T19:58:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

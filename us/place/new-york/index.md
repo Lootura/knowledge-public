@@ -3,10 +3,28 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-05T21:55:59.222Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Serena and Venus Williams fall in thriller return to U.S. Open women's doubles
+
+Playing together at the U.S. Open in New York for the first time in four years, Serena​ and Venus Williams lost in a three-set thriller match in the first round of the women's doubles tournament.
+
+Date: 2026-09-05
+
+### What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?
+
+NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s cit.
+
+Date: 2026-09-05
+
+### News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood
+
+In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.
+
+Date: 2026-09-04
 
 ### Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight
 
@@ -50,25 +68,7 @@ For more than a decade Caleb Stein has been photographing a communal swimming cr
 
 Date: 2026-09-03
 
-### Woman Killed in Times Square Stabbing Identified as Bank of America VP
-
-The New York Police Department made public the names of some of the people involved in a seemingly random knife attack on a crowded Manhattan street, but questions remained.
-
-Date: 2026-09-02
-
-### Former President Joe Biden Will Attend Sept. 11 Ceremony in New York
-
-Mr. Biden will join three other living presidents at the event. President Trump has decided to skip the ceremony and is expected to appear at the Pentagon on the 25th anniversary of the attacks.
-
-Date: 2026-09-01
-
-### DHS Secretary Mullin says thousands arrested in New York immigration operation
-
-During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were "criminals" and slammed New York's governor and mayor for not working with ICE.
-
-Date: 2026-09-01
-
 ## Sources
 
-- [Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-04T15:32:45.000Z
-- [Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’](https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html?utm_source=lootura.com) — 2026-09-03T20:07:38.000Z
+- [Serena and Venus Williams fall in thriller return to U.S. Open women's doubles](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-05T02:56:42.000Z
+- [What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?](https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com) — 2026-09-05T12:00:36.000Z

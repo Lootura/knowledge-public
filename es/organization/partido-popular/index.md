@@ -3,72 +3,76 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez
+### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
 
-El secretario general del PP , Miguel Tellado , ha asegurado que las concentraciones celebradas en apoyo al pueblo ceutí son «un anticipo» de lo que le espera al presidente del Gobierno, Pedro Sánchez , del que no duda que «pagará ante la justicia y en las urnas» su «negligencia», causante a su juicio de la «invasión».
+Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta
+### La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península
 
-El presidente ceutí, Juan Jesús Vivas (PP), ha asegurado este viernes que el "trauma" que está pasando Ceuta , con la entrada de "cerca de 80.000 personas" por la frontera a finales de julio, "pocas ciudades son capaces de afrontarlo". Así lo ha manifestado durante una recepción en el Palacio Autonómico al presidente d.
+El Ministerio de Juventud e Infancia busca vías para aliviar el colapso de los sistemas de acogida en Ceuta, pero la posición política del PP bloquea las primeras soluciones. Hace dos semanas que el departamento que dirige Sira Rego puso sobre la mesa públicamente la opción de trasladar a unas 500 niñas de manera inmed.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
+### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
 
-Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
+"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### Tellado llama «cínica» a Robles y recuerda su «responsabilidad» en la crisis de Ceuta
+### Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»
 
-El secretario general del PP, Miguel Tellado , ha calificado de «cínica» a la ministra de Defensa, Margarita Robles , a quien considera « una jueza que se traicionó a sí misma », por seguir en el Gobierno de Pedro Sánchez , y ha recordado también su «responsabilidad» en la gestión de la crisis de Ceuta. Si Margarita Ro.
+El líder del Partido Popular ha reprochado al Gobierno que dé «lecciones de justicia social».
 
-Date: 2026-09-04
+Date: 2026-09-05
 
-### El PP apunta al Supremo para que Sánchez "pague" por Ceuta y ve "recorrido judicial"
+### El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas
 
-Génova "analiza" las posibilidades para actuar contra el presidente del Gobierno por ignorar las alertas Leer.
+El tribunal prevé admitir a trámite en el pleno de la próxima semana el recurso del Gobierno, que sostiene que la norma de PP y Vox invade competencias estatales en educación y materia procesal, además de entorpecer la cooperación institucional Extremadura deroga su ley de Memoria Histórica, el último pago del PP de Gu.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
-### Feijóo acusa a Sánchez de estar “chantajeado” por Marruecos y le avisa: “Pagará ante la justicia”
+### El presidente de Melilla exige respaldo a Sánchez y «contundencia» con Marruecos
 
-Alberto Núñez Feijóo ha presentado este jueves ante el Congreso su propia teoría de por qué Pedro Sánchez afirma que su Gobierno no tiene pruebas sólidas de que Marruecos está detrás del salto masivo a Ceuta . El líder del PP sostiene que el presidente del Gobierno está “bajo chantaje” del reino alauí porque este tiene.
+El presidente de la Ciudad Autónoma de Melilla, Juan José Imbroda (PP), ha reclamado al presidente del Gobierno, Pedro Sánchez, una posición «firme» y.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
-### Hacienda tacha de «gamberrismo institucional» el boicot de Madrid a la cita sobre financiación
+### El PP lleva al Congreso su plan ante la crisis de Ceuta: reforzar la frontera, agilizar las expulsiones y más policías
 
-El Ministerio de Hacienda ha lamentado este jueves que la Comunidad de Madrid haya anunciado que no acudirá a la reunión con todas las comunidades para abordar la reforma de la financiación autonómica y que haya animado al resto de regiones gobernadas por el PP a sumarse al boicot, aunque le ha advertido de que «el gam.
+El PP llevará a votación al Pleno del Congreso la próxima semana sus propuestas para afrontar la crisis de Ceuta , un plan que incluye reforzar el perímetro fronterizo alargando el espigón del Tarajal, un refuerzo permanente de Policía y Guardia Civil y más funcionarios para agilizar las expulsiones de quienes llegaron.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
-### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
+### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
 
-La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Política Fiscal y Financiera (CPFF) en la que estaba previsto votar la propuesta de reforma de la financiación autonómica planteada por el Gobierno, tras acordarla con sus socios de ERC y con el gobierno de la Generalitat de Cataluña, y este ju.
+El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
-### Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación
+### Feijóo blinda a Ayuso pese a sus sombras y convierte el "ganar con ganas" en un cierre de filas con Madrid
 
-La Comunidad de Madrid no asistirá este viernes al Consejo de Política Fiscal y Financiera (CPFF) al defender que en él se va a aprobar la reforma del sistema de financiación autonómica que han pactado «de manera bilateral y de espaldas al resto de comunidades autónomas el Gobierno de Pedro Sánchez y el Gobierno de Cat.
+Alberto Núñez Feijóo ha decidido que, al menos públicamente, no hay fisuras en su relación con Isabel Díaz Ayuso. El líder del PP ha viajado este sábado a Getafe para arropar a la presidenta madrileña y lanzar, con toda la escenografía posible, la carrera electoral hacia 2027. "Vamos a ganar con ganas", ha proclamado,.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
-### Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud
+### Feijóo acusa al Gobierno de ser “hostil con los invadidos y dócil con los invasores” en Ceuta
 
-El Juzgado de Instrucción 13 de Valencia ha finalizado la instrucción de la macrocausa de corrupción conocida como caso Azud con el procesamiento de 38 personas. Entre estos investigados se encuentran varios dirigentes políticos del Partido Popular y el PSOE, como el que fuera teniente de alcalde de Rita Barberá , Alfo.
+“El cambio está cada vez más cerca , pero no está hecho... y no podemos pensar que todo caerá como fruta prohibida”. Con las generales cada vez más presentes, aunque todavía no tengan fecha, en el Partido Popular siguen muy vivos los recuerdos de 2023. Alberto Núñez Feijóo ha querido empezar por ahí su intervención en.
 
-Date: 2026-09-03
+Date: 2026-09-05
 
 ## Fuentes
 
-- [Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta](https://www.20minutos.es/ceuta/vivas-asegura-que-pocas-ciudades-son-capaces-afrontar-trauma-que-sufre-ceuta_7033083_0.html?utm_source=lootura.com) — 2026-09-04T17:35:33.000Z
-- [Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez](https://theobjective.com/espana/politica/2026-09-04/tellado-concentraciones-ceuta-anticipo-espera-sanchez/?utm_source=lootura.com) — 2026-09-04T15:17:32.000Z
+- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z
+- [La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península](https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z
+- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
+- [El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas](https://www.eldiario.es/extremadura/politica/constitucional-abre-via-ley-concordia-extremadura-rebajar-proteccion-victimas_1_13489919.html?utm_source=lootura.com) — 2026-09-05T16:21:15.000Z
+- [El presidente de Melilla exige respaldo a Sánchez y «contundencia» con Marruecos](https://theobjective.com/espana/politica/2026-09-05/presidente-melilla-respaldo-sanchez-contundencia-marruecos/?amp=&utm_source=lootura.com) — 2026-09-05T17:18:17.000Z
+- [Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»](https://theobjective.com/espana/politica/2026-09-05/feijoo-asegura-psoe-partido-mas-monarquico-pais-equivocado/?amp=&utm_source=lootura.com) — 2026-09-05T13:24:53.000Z

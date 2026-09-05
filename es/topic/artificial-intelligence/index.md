@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-05T21:55:40.959Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Hacienda ignora el rechazo de 13 CC.AA. y lleva al Congreso la financiación autonómica pactada con Cataluña](https://www.abc.es/economia/hacienda-ignora-rechazo-ccaa-lleva-congreso-financiacion-20260904123939-nt.html?utm_source=lootura.com) — 2026-09-04T18:10:52.000Z
+- [La Cosori ICONIC Dual, la freidora de aire con doble cesta que se comporta como un electrodoméstico de diseño](https://okdiario.com/tecnologia/cosori-iconic-dual-freidora-aire-doble-cesta-que-comporta-como-electrodomestico-diseno-20235413?utm_source=lootura.com) — 2026-09-05T17:12:53.000Z
