@@ -3,10 +3,16 @@
 > Follow Jared Kushner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/person/jared-kushner
 
 ## Recent changes
+
+### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
+
+Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
+
+Date: 2026-09-08
 
 ### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
 
@@ -40,5 +46,4 @@ Date: 2026-09-04
 
 ## Sources
 
-- [Witkoff, Kushner visit Moscow in latest push to end war in Ukraine](https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com) — 2026-09-05T19:16:05.000Z
-- [U.S. envoys in Moscow in new push for peace between Russia and Ukraine](https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com) — 2026-09-05T11:08:57.000Z
+- [Russia Bombards Kyiv Soon After Witkoff, Kushner Leave](https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com) — 2026-09-08T11:10:47.000Z

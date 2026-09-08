@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados
+
+Un incendio forestal junto a varias viviendas se ha originado en la calle Tenerías de Tendilla (Guadalajara), causando cinco heridos , de los cuales tres han sido trasladados a un centro hospitalario. Fuentes del 112 de Castilla-La Mancha han indicado a Europa Press que el aviso se registró a las 11.07 horas. El fuego.
+
+Date: 2026-09-08
 
 ### Muere una mujer embestida y corneada por un toro en el encierro de Ayna (Albacete)
 
@@ -62,12 +68,6 @@ La colisión de dos vehículos este domingo en la N-301 a su paso por el municip
 
 Date: 2026-08-09
 
-### Un incendio en Moratalla obliga a movilizar efectivos de Murcia, Castilla-La Mancha y el Miteco
-
-Un amplio operativo formado por medios aéreos y terrestres de la Región de Murcia , Castilla-La Mancha y el Ministerio para la Transición Ecológica y el Reto Demográfico ( Miteco ) trabaja desde la tarde de este sábado para contener un incendio forestal declarado en el término municipal de Moratalla , en el entorno del.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [Muere una mujer embestida y corneada por un toro en el encierro de Ayna (Albacete)](https://okdiario.com/toros/muere-mujer-embestida-corneada-toro-encierro-ayna-albacete-20235350?utm_source=lootura.com) — 2026-09-05T20:09:38.000Z
+- [Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados](https://www.elconfidencial.com/espana/2026-09-08/incendio-forestal-tendilla-heridos-hospital-1tna-1tps_4419921/?utm_source=lootura.com) — 2026-09-08T13:56:00.000Z

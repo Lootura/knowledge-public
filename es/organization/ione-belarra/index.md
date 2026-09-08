@@ -34,4 +34,4 @@ Date: 2026-09-05
 
 ## Fuentes
 
-- [Podemos dice que Sánchez tiene "miedo" a Marruecos y se pregunta si es porque "tienen demasiada información" sobre él](https://www.eldiario.es/politica/acusa-sanchez-miedo-marruecos-pregunta-si-informacion_1_13489578.html?utm_source=lootura.com) — 2026-09-05T11:15:03.000Z
+No public source links.

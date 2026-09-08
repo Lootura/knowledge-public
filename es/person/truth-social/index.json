@@ -1,0 +1,32 @@
+{
+  "id": "es-truth-social",
+  "name": "Truth Social",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/truth-social",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/truth-social",
+  "markdownUrl": "https://atlas.lootura.com/es/person/truth-social/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/truth-social/index.json",
+  "description": "Sigue la actividad de Truth Social en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-08T03:00:59.069Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha compartido este lunes en su red Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México, el Caribe y Canadá, además de Groenlandia e Islandia.Trump ha publicado ese mapa sin ningún comentario en su red Truth Social, horas de.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Trump publica un mapa de EEUU en el que se apropia de México, Canadá y Groenlandia",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha compartido este lunes en su red social Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México , el Caribe y Canadá, además de Groenlandia e Islandia . Trump ha publicado la imagen sin ningún comentario, pocas horas después.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Truth Social first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-07"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

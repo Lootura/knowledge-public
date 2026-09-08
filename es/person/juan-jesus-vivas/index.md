@@ -3,10 +3,28 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Vivas exige a Bruselas más contundencia en la relación europea con Marruecos
+
+El presidente de Ceuta, Juan Jesús Vivas, ha viajado este martes hasta Bruselas para tratar de europeizar la crisis migratoria y exigir a la Unión Europea una respuesta “más contundente” hacia Marruecos que, a su juicio, “mantiene una política constante de hostigamiento” hacia la ciudad. Seguir leyendo...
+
+Date: 2026-09-08
+
+### Albares contraprograma la visita de Vivas a Bruselas para informarse de sus gestiones
+
+El ministro de Asuntos Exteriores, José Manuel Albares, ha decidido contraprogramar la visita a Bruselas del presidente de Ceuta, Juan Jesús Vivas, y ha logrado que el comisario de Interior, Magnus Brunner, y la vicepresidenta encargada de democracia y demografía, Dubravka Suika, también le reciban en su despacho mañan.
+
+Date: 2026-09-07
+
+### Feijóo y Vivas acusan a Marruecos de lanzar un ataque sobre Ceuta para conseguir “algún tipo de cesión” de España
+
+El Partido Popular en pleno ha arropado este lunes al presidente de Ceuta, Juan Jesús Vivas, que se ha presentado en Madrid para dar la voz de alarma sobre la situación de la ciudad autónoma un mes después de la entrada masiva de unos 70.000 inmigrantes. “Ceuta es una olla a presión que en cualquier momento puede estal.
+
+Date: 2026-09-07
 
 ### Vivas asegura que "pocas ciudades" son capaces de afrontar "el trauma" que sufre Ceuta
 
@@ -50,24 +68,6 @@ El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Sa
 
 Date: 2026-08-14
 
-### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
-
-El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
-
-Date: 2026-08-14
-
-### Vivas pide a Marlaska que rechace solicitudes de asilo y exige un plazo para las devoluciones
-
-El presidente de Ceuta , Juan Jesús Vivas , ha anunciado que le ha pedido al Gobierno que «desestime» las solicitudes de asilo para que vuelvan de inmediato a través de la frontera con Marruecos los 9.000 inmigrantes ilegales que aún quedan en al ciudad autónoma de los 80.000 que calcula el Ejecutivo que entraron el pa.
-
-Date: 2026-08-13
-
-### Ceuta exige al Gobierno que rechace todas las solicitudes de asilo: "Retorno a Marruecos y ninguna regularización"
-
-El presidente de Ceuta, Juan Jesús Vivas , ha denunciado que la situación en la ciudad autónoma es de "máximo riesgo" para la "convivencia" y "seguridad" , y ha pedido al Gobierno central "desestimar" las solicitudes para obtener el derecho de asilo y el retorno inmediato a Marruecos de todos los migrantes que atravesa.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Vivas exige a Bruselas más contundencia en la relación europea con Marruecos](https://www.lavanguardia.com/politica/20260908/11629935/vivas-exige-bruselas-mas-contundencia-relacion-europea-marruecos.html?utm_source=lootura.com) — 2026-09-08T10:54:07.000Z

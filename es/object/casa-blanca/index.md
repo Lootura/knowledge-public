@@ -70,5 +70,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca](https://theobjective.com/internacional/2026-09-05/concluyen-negociaciones-ucrania-putin-emisarios-casa-blanca/?amp=&utm_source=lootura.com) — 2026-09-05T21:50:54.000Z
-- [Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania](https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com) — 2026-09-05T13:02:08.000Z
+No public source links.

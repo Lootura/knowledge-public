@@ -3,10 +3,16 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### Sánchez pone en guardia al PSOE ante un adelanto electoral
+
+«Las elecciones serán en 2027». En su discurso de inicio de curso ayer ante los miembros del PSOE en el Congreso, el Senado y el Parlamento Europeo, Pedro Sánchez no...
+
+Date: 2026-09-07
 
 ### Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta
 
@@ -62,12 +68,6 @@ En 2018, los 'neoconvergentes' fueron expulsados del bloque de los liberales del
 
 Date: 2026-08-04
 
-### El PP denuncia en Europa que Sánchez pone en riesgo la soberanía nacional por Ceuta
-
-La delegación española del Partido Popular en el Parlamento Europeo ha denunciado este martes ante la Eurocámara que la gestión del Gobierno de Pedro Sánchez ante la crisis migratoria de Ceuta pone «en peligro la soberanía nacional y europea» , al tiempo que ha reclamado una respuesta «firme» de la Unión Europea para p.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-- [Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ex-ciudadanos-von-der-leyen-asuma-liderazgo-gestion-ceuta/?utm_source=lootura.com) — 2026-09-05T21:38:32.000Z
+No public source links.

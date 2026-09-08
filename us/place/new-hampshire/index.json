@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.json",
   "description": "Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Granite State",
     "N.H.",
@@ -19,6 +19,21 @@
     "US-NH"
   ],
   "changes": [
+    {
+      "title": "Kornacki Cam: Watch Steve analyze New Hampshire primary election results",
+      "summary": "NBC News chief data analyst Steve Kornacki breaks down real-time vote tallies from primary elections in New Hampshire, while giving viewers a behind-the-scenes look at election night coverage.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "New Hampshire primaries test Trump and the left",
+      "summary": "President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "New Hampshire voters pick midterm nominees as Sen. Shaheen's exit sparks scramble for key seats",
+      "summary": "New Hampshire primary voters are choosing candidates for Congress, governor and the 424-seat state Legislature on Tuesday, and incumbents aren't the only familiar names on the ballot.",
+      "date": "2026-09-08"
+    },
     {
       "title": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that",
       "summary": "While voters elsewhere have embraced a decidedly anti-establishment sentiment this campaign season, New Hampshire Republican voters appear content with their choices and are poised to pick a familiar name over a fresh face on Tuesday.",
@@ -37,11 +52,23 @@
   ],
   "sources": [
     {
-      "title": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that",
-      "url": "https://www.pbs.org/newshour/politics/new-hampshires-gop-primary-features-two-familiar-names-from-the-past-and-voters-are-fine-with-that?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T16:35:17.000Z",
+      "title": "Kornacki Cam: Watch Steve analyze New Hampshire primary election results",
+      "url": "https://www.nbcnews.com/video/kornacki-cam-watch-steve-analyze-new-hampshire-primary-election-results-269482053526?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:32:02.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "New Hampshire primaries test Trump and the left",
+      "url": "https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T09:00:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "New Hampshire voters pick midterm nominees as Sen. Shaheen's exit sparks scramble for key seats",
+      "url": "https://www.pbs.org/newshour/politics/new-hampshire-voters-pick-midterm-nominees-as-sen-shaheens-exit-sparks-scramble-for-key-seats?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:30:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

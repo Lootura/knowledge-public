@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T15:45:59.630Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "La surrealista detención de Bernie Ecclestone en Portugal: llevaba una escopeta en el aeropuerto",
+      "summary": "Bernie Ecclestone no es precisamente conocido por pasar desapercibido . El ex jefe de la Fórmula 1 ha sido detenido en el aeropuerto de Tires (Portugal), ya que estaba portando una escopeta sin licencia . El suceso es especialmente llamativo, pero no es la primera vez, ya que también le ocurrió en el año 2022 , donde l.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Bandera de Ceuta: origen, significado y por qué es de color negro y blanco",
       "summary": "La bandera de esta ciudad autónoma española es una de las enseñas con mayor carga histórica del país y también una de las más reconocibles por su combinación de blanco y negro. Su diseño, muy diferente al de otras banderas autonómicas, tiene su origen en varios siglos de vínculos con Portugal y conserva todavía símbolo.",
@@ -61,13 +66,15 @@
       "title": "Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
       "summary": "Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)",
-      "summary": "Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.",
-      "date": "2026-07-17"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel",
+      "url": "https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:05:48.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

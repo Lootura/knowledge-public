@@ -3,10 +3,22 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados
+
+Un incendio forestal junto a varias viviendas se ha originado en la calle Tenerías de Tendilla (Guadalajara), causando cinco heridos , de los cuales tres han sido trasladados a un centro hospitalario. Fuentes del 112 de Castilla-La Mancha han indicado a Europa Press que el aviso se registró a las 11.07 horas. El fuego.
+
+Date: 2026-09-08
+
+### Herida una mujer mayor tras ser atropellada por una furgoneta en un paso de cebra en León
+
+Una mujer mayor ha resultado herida este lunes tras ser atropellada por una furgoneta en un paso de cebra en la avenida Mariano Andrés en León capital, según datos del 1-1-2 Castilla y León recogidos por Europa Press. El atropello ha tenido lugar minutos antes de las 19.39 horas, cuando la sala de emergencias del 1-1-2.
+
+Date: 2026-09-07
 
 ### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
 
@@ -56,18 +68,6 @@ Una joven de 17 años ha resultado herida tras ser apuñalada por otra este pasa
 
 Date: 2026-08-09
 
-### La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos
-
-La colisión de dos vehículos este domingo en la N-301 a su paso por el municipio conquense de Las Pedroñeras deja una mujer fallecida y tres jóvenes heridos. Según informa a Europa Press el Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha, el accidente ha tenido lugar a las 6.02.
-
-Date: 2026-08-09
-
-### Un juzgado investiga seis presuntas agresiones sexuales a inmigrantes tras su entrada en Ceuta
-
-Un juzgado de Ceuta investiga seis presuntos casos de agresión sexual a inmigrantes tras su acceso a la ciudad autónoma el pasado 30 de julio. La información ha sido confirmada por la Delegación del Gobierno, que no ha ofrecido por el momento más detalles. Fuentes judiciales y sanitarias consultadas por Europa Press ha.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [El Gobierno toma el control del puerto de Ceuta para la "atención humanitaria" de inmigrantes](https://www.elconfidencial.com/espana/2026-09-05/gobierno-control-puerto-ceuta-migrantes-1tna-1tps_4418414/?utm_source=lootura.com) — 2026-09-05T17:18:00.000Z
+- [Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados](https://www.elconfidencial.com/espana/2026-09-08/incendio-forestal-tendilla-heridos-hospital-1tna-1tps_4419921/?utm_source=lootura.com) — 2026-09-08T13:56:00.000Z

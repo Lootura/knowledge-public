@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Sources
 
-- [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident?utm_source=lootura.com) — 2026-09-05T11:15:55.000Z
+No public source links.

@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-12T09:08:54.968Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
+      "summary": "Brent, the international oil benchmark, touched $99 a barrel after Saudi Arabia reported an attack on energy assets that caused temporary pauses in operations.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+      "summary": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war. (Image credit: AP).",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+      "summary": "The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
       "summary": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
@@ -43,28 +63,33 @@
       "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
       "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
-      "summary": "Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker",
-      "summary": "Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
-      "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
-      "summary": "President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T12:58:13.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T09:09:46.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T12:05:31.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T10:54:53.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 4
 }

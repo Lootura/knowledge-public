@@ -27,19 +27,6 @@
       "date": "2026-09-05"
     }
   ],
-  "sources": [
-    {
-      "title": "Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls",
-      "url": "https://www.cbsnews.com/news/kennedy-center-ceiling-collapse-renovations-trump/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T20:52:18.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-      "url": "https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T17:33:29.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

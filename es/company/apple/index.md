@@ -3,10 +3,40 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch
+
+Apple celebra mañana a las 19.00 su evento "Surprise and Shine", la primera gran presentación de producto liderada por John Ternus como nuevo consejero delegado de la compañía, y el inicio de la mayor oleada de lanzamientos de dispositivos en la historia de Apple, que se extenderá durante 2026, 2027 y años posteriores,.
+
+Date: 2026-09-08
+
+### Ahora sí, Apple: el iPhone 18 Pro contaría con estas 5 mejoras impresionantes en la cámara
+
+Todos los que han estado pidiendo un salto de calidad en la cámara del iPhone , pueden estar de enhorabuena. Cada hora que pasa, la posibilidad de que Apple incluya una nueva y renovada cámara en el iPhone 18 Pro es más probable. Varios filtradores importantes afirman que la compañía incluirá un sensor de apertura vari.
+
+Date: 2026-09-08
+
+### El iPhone Air 2 podría reemplazar al mejor móvil de Apple: el iPhone 18 se reconvertirá como nunca
+
+Este año no va a haber iPhone 18, sino que Apple reservará el evento del 9 de septiembre para anunciar los iPhone 18 Pro y Pro Max, y el tan esperado iPhone Ultra. No obstante, en 2027 la compañía también podría realizar una estrategia un tanto diferente con el iPhone 18 base. De hecho, un reciente rumor apunta a que e.
+
+Date: 2026-09-08
+
+### La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España
+
+Apple presenta mañana miércoles su gama de otoño en un evento bautizado como «Surprise and Shine». Es la cita en la que se espera la llegada del primer iPhone con pantalla plegable de la marca, además de los nuevos iPhone 18 Pro, el Apple Watch Series 12 y una actualización de los AirPods. También será la primera gran.
+
+Date: 2026-09-08
+
+### Estos son los precios que tendrán los iPhone 18, según los analistas
+
+Los iPhone 18 ya están a la vuelta de la esquina. Este próximo miércoles, a las 19.00 horas en España peninsular, Apple mostrará al mundo su nueva apuesta en telefonía, encabezada por el iPhone 18 Pro y por el primer móvil plegable de la marca: el esperado iPhone 18 Ultra . A pesar de que, por el momento, no hay inform.
+
+Date: 2026-09-07
 
 ### Cómo mejorar la calidad de la música en Apple CarPlay: hay dos trucos infalibles
 
@@ -38,36 +68,9 @@ Apple también ha cambiado la denominación lago Ontario por lago América en su
 
 Date: 2026-09-02
 
-### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
-
-El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.
-
-Date: 2026-09-02
-
-### Los millonarios sueldos que cobrarán John Ternus y Tim Cook en Apple
-
-En un documento presentado ante la Comisión de Bolsa y Valores el primer día de John Ternus a los mandos de Apple, la tecnológica desveló los salarios y paquetes de compensación que recibirán el nuevo CEO y Tim Cook en su nuevo puesto como presidente ejecutivo. Seguir leyendo.
-
-Date: 2026-09-02
-
-### Ternus toma el mando en Apple entre la leyenda de Jobs y la máquina de ganar dinero de Cook
-
-Si Steve Jobs ya ha pasado a la historia como mito a secas , sin que haga falta ponerle adjetivos a su figura; Tim Cook abandona los mandos de Apple como la máquina perfecta de ganar dinero que heredó. Pese a los años y los rivales que han caído en el camino, la manzana mordida acumula aún beneficios récord. Desde este.
-
-Date: 2026-09-01
-
-### Dos estrellas de Hollywood sospechan que son hermanos en la vida real: la historia familiar que han convertido en serie llega a Apple
-
-Matthew McConaughey y Woody Harrelson han colaborado a lo largo de los años en varios proyectos. Desde EDtv (1999), la sátira televisiva de Ron Howard a la primera temporada de True Detective (2014), una de las mejores series de la historia reciente de la televisión. Fuera de la gran pantalla son grandes amigos, aunque.
-
-Date: 2026-09-01
-
-### El primer iPhone plegable de Apple está a la vuelta de la esquina y esto es lo que sabemos
-
-Desde que Samsung y Google lanzaron sus primeros plegables en 2019 y 2023, respectivamente, se han sucedido los rumores sobre el primer iPhone de este tipo que ahora, por fin, estaría a punto de ser presentado la próxima semana . En los últimos años, Apple ha diversificado su catálogo con los iPhone asequibles de la se.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Cómo mejorar la calidad de la música en Apple CarPlay: hay dos trucos infalibles](https://hipertextual.com/apple/como-mejorar-la-calidad-de-la-musica-en-apple-carplay-hay-dos-trucos-infalibles/?utm_source=lootura.com) — 2026-09-05T16:00:00.000Z
+- [Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch](https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com) — 2026-09-08T10:44:22.000Z
+- [Ahora sí, Apple: el iPhone 18 Pro contaría con estas 5 mejoras impresionantes en la cámara](https://hipertextual.com/apple/ahora-si-apple-el-iphone-18-pro-contaria-con-estas-5-mejoras-impresionantes-en-la-camara/?utm_source=lootura.com) — 2026-09-08T10:24:04.000Z
+- [El iPhone Air 2 podría reemplazar al mejor móvil de Apple: el iPhone 18 se reconvertirá como nunca](https://hipertextual.com/apple/el-iphone-air-2-podria-reemplazar-al-mejor-movil-de-apple-el-iphone-18-se-reconvertira-como-nunca/?utm_source=lootura.com) — 2026-09-08T13:06:33.000Z
+- [La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España](https://okdiario.com/tecnologia/keynote-apple-llega-manana-primer-iphone-plegable-esto-donde-que-hora-verla-espana-20251160?utm_source=lootura.com) — 2026-09-08T15:32:30.000Z

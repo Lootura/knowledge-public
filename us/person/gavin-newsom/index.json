@@ -1,0 +1,37 @@
+{
+  "id": "usa-gavin-newsom",
+  "name": "Gavin Newsom",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/gavin-newsom",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/gavin-newsom",
+  "markdownUrl": "https://atlas.lootura.com/us/person/gavin-newsom/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/gavin-newsom/index.json",
+  "description": "Follow Gavin Newsom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-08T03:01:17.184Z",
+  "aliases": [
+    "Gavin",
+    "Gavin C. Newsom",
+    "Gavin Christopher Newsom",
+    "Newsom"
+  ],
+  "changes": [
+    {
+      "title": "Tamara Keith and Amy Walter on GOP's midterm challenges",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including Gov. Gavin Newsom's apparent efforts to get a jump on the 2028 presidential race, the Republicans holding a midterm convention and how President Trump's low approval rating i.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'",
+      "summary": "As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the b.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Gavin Newsom first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-07"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

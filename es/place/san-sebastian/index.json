@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-08T03:00:59.069Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,16 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "Boga Boga: se acerca el capricho melómano de Donostia con su edición más ambiciosa",
+      "summary": "La cuarta edición del festival llega de jueves a domingo con nombres internacionales como Sébastien Tellier, Alice Phoebe Lou y Bodega.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Programa completo del Zinemaldia: películas, salas y horarios",
+      "summary": "Consulta la agenda completa de proyecciones y películas en el Festival de Cine de San Sebastián 2026.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Las Euskal Jaiak toman Donostia las próximas dos semanas",
       "summary": "Además del Sagardo Eguna y el Gaztelu Eguna del sábado 5, destacan en el programa el recuerdo a la bailarina María Elena Arizmendi y el acto de canto coral 'Kantuz'.",
@@ -58,16 +68,6 @@
     {
       "title": "¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?",
       "summary": "Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo",
-      "summary": "Rebordinos elogia al primer galardonado, Werner Herzog', y anuncia una edición con muchas figuras internacionales.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Así se ha vivido el eclipse en Gipuzkoa",
-      "summary": "Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito astronómico único.",
       "date": "2026-08-12"
     }
   ],

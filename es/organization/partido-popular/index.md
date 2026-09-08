@@ -3,76 +3,75 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
+### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
 
-Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península
+### PP y Vox sacan pecho por la decisión del Supremo de suspender las altas en el censo electoral por la 'ley de nietos'
 
-El Ministerio de Juventud e Infancia busca vías para aliviar el colapso de los sistemas de acogida en Ceuta, pero la posición política del PP bloquea las primeras soluciones. Hace dos semanas que el departamento que dirige Sira Rego puso sobre la mesa públicamente la opción de trasladar a unas 500 niñas de manera inmed.
+Los populares celebran que la Justicia haya frenado el intento del Gobierno de «meter a saco cientos de miles de personas en el censo» y Vox se congratula por «detener el objetivo de Sánchez».
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
+### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
 
-"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
+"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a pedro Sánchez como "el Nerón de Tik-Tok" Leer.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»
+### El PP constata una fuerte reacción social por Ceuta, pero sus barones advierten: “El beneficiado puede ser Vox”
 
-El líder del Partido Popular ha reprochado al Gobierno que dé «lecciones de justicia social».
+Una paradoja atrapa al Partido Popular con la crisis de Ceuta. Por un lado, los populares constatan una importante movilización social como hacía tiempo que no detectaban. “No había visto a tanta gente en las calles desde las protestas por Miguel Ángel Blanco”, cuenta un presidente autonómico del PP haciendo balance de.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas
+### El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»
 
-El tribunal prevé admitir a trámite en el pleno de la próxima semana el recurso del Gobierno, que sostiene que la norma de PP y Vox invade competencias estatales en educación y materia procesal, además de entorpecer la cooperación institucional Extremadura deroga su ley de Memoria Histórica, el último pago del PP de Gu.
+La portavoz del Grupo Popular en el Senado, Alicia García , ha advertido al vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo, que el Gobierno de Sánchez «está solo frente a todos», en relación a la gestión de la invasión migratoria en Ceuta . Por su parte, el miembro del gabinete de Sánchez ha.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El presidente de Melilla exige respaldo a Sánchez y «contundencia» con Marruecos
+### El PP enfría el intento de procesar a Sánchez por traición de Vox: "No estamos para perder votaciones"
 
-El presidente de la Ciudad Autónoma de Melilla, Juan José Imbroda (PP), ha reclamado al presidente del Gobierno, Pedro Sánchez, una posición «firme» y.
+Vox no puede sacar adelante su intento de procesar al presidente del Gobierno por un delito de traición contra la seguridad del Estado por la agresión territorial de Ceuta. El partido de Santiago Abascal insistía este lunes en su llamamiento a 56 diputados del Congreso para que se sumen a su petición para activar el ar.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El PP lleva al Congreso su plan ante la crisis de Ceuta: reforzar la frontera, agilizar las expulsiones y más policías
+### El PSOE se hunde en Asturias ante una mayoría histórica de la derecha
 
-El PP llevará a votación al Pleno del Congreso la próxima semana sus propuestas para afrontar la crisis de Ceuta , un plan que incluye reforzar el perímetro fronterizo alargando el espigón del Tarajal, un refuerzo permanente de Policía y Guardia Civil y más funcionarios para agilizar las expulsiones de quienes llegaron.
+Barbón se desploma en votos y escaños y solo la suma de PP y Vox podría gobernar Leer.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
-### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
+### Feijóo y Vivas acusan a Marruecos de lanzar un ataque sobre Ceuta para conseguir “algún tipo de cesión” de España
 
-El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
+El Partido Popular en pleno ha arropado este lunes al presidente de Ceuta, Juan Jesús Vivas, que se ha presentado en Madrid para dar la voz de alarma sobre la situación de la ciudad autónoma un mes después de la entrada masiva de unos 70.000 inmigrantes. “Ceuta es una olla a presión que en cualquier momento puede estal.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
-### Feijóo blinda a Ayuso pese a sus sombras y convierte el "ganar con ganas" en un cierre de filas con Madrid
+### Podcast | Ceuta hunde a Sánchez
 
-Alberto Núñez Feijóo ha decidido que, al menos públicamente, no hay fisuras en su relación con Isabel Díaz Ayuso. El líder del PP ha viajado este sábado a Getafe para arropar a la presidenta madrileña y lanzar, con toda la escenografía posible, la carrera electoral hacia 2027. "Vamos a ganar con ganas", ha proclamado,.
+El PSOE ha tocado fondo. Tras meses consecutivos marcados por escándalos de corrupción, la invasión de Ceuta y el abandono a la ciudad por parte del Gobierno se materializan en las encuestas. Estas muestran ya el suelo electoral del PSOE : si las elecciones se celebrasen ahora, PP y Vox gozarían de una mayoría electora.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
-### Feijóo acusa al Gobierno de ser “hostil con los invadidos y dócil con los invasores” en Ceuta
+### El PP pide que los inmigrantes «vuelvan a Marruecos» para normalizar Ceuta
 
-“El cambio está cada vez más cerca , pero no está hecho... y no podemos pensar que todo caerá como fruta prohibida”. Con las generales cada vez más presentes, aunque todavía no tengan fecha, en el Partido Popular siguen muy vivos los recuerdos de 2023. Alberto Núñez Feijóo ha querido empezar por ahí su intervención en.
+El vicesecretario general de Política Autonómica y Municipal y Análisis Electoral del Partido Popular, Elías Bendodo , se ha sumado a las palabras del presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco , y ha pedido que los inmigrantes que siguen en Ceuta «vuelvan por donde han venido» . «En Ceuta no.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
 ## Fuentes
 
-- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z
-- [La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península](https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z
-- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
-- [El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas](https://www.eldiario.es/extremadura/politica/constitucional-abre-via-ley-concordia-extremadura-rebajar-proteccion-victimas_1_13489919.html?utm_source=lootura.com) — 2026-09-05T16:21:15.000Z
-- [El presidente de Melilla exige respaldo a Sánchez y «contundencia» con Marruecos](https://theobjective.com/espana/politica/2026-09-05/presidente-melilla-respaldo-sanchez-contundencia-marruecos/?amp=&utm_source=lootura.com) — 2026-09-05T17:18:17.000Z
-- [Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»](https://theobjective.com/espana/politica/2026-09-05/feijoo-asegura-psoe-partido-mas-monarquico-pais-equivocado/?amp=&utm_source=lootura.com) — 2026-09-05T13:24:53.000Z
+- [Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez](https://www.20minutos.es/nacional/feijoo-promete-reformar-sistema-educativo-sin-ideologias-tras-informe-pisa-que-confirma-suspenso-absoluto-sanchez_7034070_0.html?utm_source=lootura.com) — 2026-09-08T10:45:09.000Z
+- [PP y Vox sacan pecho por la decisión del Supremo de suspender las altas en el censo electoral por la 'ley de nietos'](https://www.elcorreo.com/politica/pp-vox-sacan-pecho-decision-supremo-suspender-20260908171140-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T15:12:34.000Z
+- [Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"](https://www.elmundo.es/espana/2026/09/08/6aa02a75e4d4d8810c8b4597.html?utm_source=lootura.com) — 2026-09-08T15:34:55.000Z
+- [El PP constata una fuerte reacción social por Ceuta, pero sus barones advierten: “El beneficiado puede ser Vox”](https://elpais.com/espana/2026-09-08/el-pp-constata-una-fuerte-reaccion-social-por-ceuta-pero-sus-barones-advierten-el-beneficiado-puede-ser-vox.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z
+- [El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»](https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com) — 2026-09-08T15:11:48.000Z

@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico
+
+David Maxwell was among the staffers in the Texas attorney general’s office who accused Ken Paxton of abusing the power of his office, allegations that led to his impeachment. Mr. Paxton was acquitted.
+
+Date: 2026-09-08
 
 ### Trump delivers $10 million to Ken Paxton in first major contribution of midterms
 
@@ -46,5 +52,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Trump delivers $10 million to Ken Paxton in first major contribution of midterms](https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com) — 2026-09-05T19:29:40.000Z
-- [Trump’s Super PAC Will Spend $10 Million on Texas Senate Race](https://www.nytimes.com/2026/09/05/us/politics/trump-maga-inc-super-pac.html?utm_source=lootura.com) — 2026-09-05T20:27:59.000Z
+- [Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico](https://www.nytimes.com/2026/09/08/us/politics/paxton-whistleblower-talarico-ad.html?utm_source=lootura.com) — 2026-09-08T15:50:03.000Z

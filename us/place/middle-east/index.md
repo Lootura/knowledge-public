@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Houthis strike Saudi Arabian cities in significant expansion of Middle East war
+
+Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.
+
+Date: 2026-09-08
 
 ### Pete Hegseth Faces Growing Criticism as War With Iran Rolls On
 
@@ -62,12 +68,7 @@ Senate Democrats are demanding answers about conditions aboard the USS Abraham L
 
 Date: 2026-08-14
 
-### New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln
-
-The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln. (Image credit: Victor R. Caivano).
-
-Date: 2026-08-14
-
 ## Sources
 
-No public source links.
+- [Oil prices near $100 a barrel as Houthis launch new attacks on Saudi energy points](https://www.cbsnews.com/video/oil-prices-near-100-a-barrel-as-houthis-launch-new-attacks-on-saudi-energy/?utm_source=lootura.com) — 2026-09-08T14:53:41.000Z
+- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z

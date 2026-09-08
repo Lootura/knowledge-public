@@ -8,12 +8,42 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Current events: Scientists keep close eye on Atlantic Ocean changes",
+      "summary": "The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as low as 27 degrees Fahrenheit below today's averages. In U.S. coastal cities such as Miami and Charles.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+      "summary": "After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Super-precise optical clocks in four nations tick in harmony",
+      "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Far-right AfD win signals shift in Germany, raises alarm in Europe",
+      "summary": "Germany's far-right AfD party won a major parliamentary election victory in the eastern state of Saxony-Anhalt. The win marks a growing divide in German politics. The AfD party is anti-immigration and has been labelled as xenophobic and extremist by German intelligence. Liz Landers discussed the outcome with Liana Fix,.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment, wanting to reassure Greenland after U.S. President Donald Trump's threats to take control of the island.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "War drama Pressure depicts D‑day's weather forecast—what we found when we recreated the challenge using modern systems",
+      "summary": "Meteorologist James Stagg gave what many regard as the most important weather forecast in history in June 1944. The fate of more than 150,000 Allied troops preparing to invade the Normandy beaches on D-Day and the future of the war in Europe depended on Stagg and his forecasting teams. Get the forecast wrong and an alr.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Super-precise optical clocks in four nations tick in harmony",
       "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.",
@@ -33,45 +63,21 @@
       "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest",
       "summary": "Plus, your Friday news quiz.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "summary": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smartphone that attempts.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Serbia accused of ‘glorifying’ convicted war criminal Ratko Mladić ahead of funeral",
-      "summary": "BELGRADE, Serbia — The European Union’s Enlargement Commissioner Marta Kos on Friday canceled an upcoming visit to candidate nation Serbia over what she described as the “glorification” of former Bosnian Serb army commander Ratko Mladić following his death.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything",
-      "summary": "Europe's biggest tech trade show, IFA , has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that's exclusive to Verge subscribers at 12PM ET today. That's when we'll start dropping answers, but you can ask your burning.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "European countries confront Russian sabotage and shadow warfare",
-      "summary": "German police arrested two people suspected of attacking a weapons manufacturer in Munich. The incident comes after Germany officially blamed the Russian government for an attack involving drones that came close to downing an aircraft as it landed. Nick Schifrin discussed the Russian attacks against Europe with David C.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
-      "summary": "Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including brightly col.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Super-precise optical clocks in four nations tick in harmony",
-      "url": "https://www.nature.com/articles/d41586-026-02741-9?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T21:56:02.990Z",
-      "sourceId": "lootura-us-nature"
+      "title": "Current events: Scientists keep close eye on Atlantic Ocean changes",
+      "url": "https://phys.org/news/2026-09-current-events-scientists-eye-atlantic.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:40:02.000Z",
+      "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:25:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

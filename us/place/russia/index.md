@@ -3,10 +3,28 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
+
+Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
+
+Date: 2026-09-08
+
+### News Wrap: Tropical Storm Marie brings dangerous surf to California coast
+
+In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.
+
+Date: 2026-09-07
+
+### Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident
+
+Russia's Foreign Ministry has announced the closure of the German consulate in St. Petersburg, a move that reflects the ongoing tensions between the two countries.
+
+Date: 2026-09-07
 
 ### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
 
@@ -50,25 +68,6 @@ In Ukraine, a week of near-continuous Russian attacks is upending the lives of r
 
 Date: 2026-09-04
 
-### Bessent Blames Ukraine for High Energy Prices
-
-After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.
-
-Date: 2026-09-03
-
-### Inside a Ukrainian maternity ward as Russian strikes intensify
-
-As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.
-
-Date: 2026-09-03
-
-### For Russia and Ukraine, an Escalating Spiral With No End in Sight
-
-Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [U.S. envoys in Moscow in new push for peace between Russia and Ukraine](https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com) — 2026-09-05T11:08:57.000Z
-- [Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances](https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html?utm_source=lootura.com) — 2026-09-05T12:35:46.000Z
+- [Russia Bombards Kyiv Soon After Witkoff, Kushner Leave](https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com) — 2026-09-08T11:10:47.000Z

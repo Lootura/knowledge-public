@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel
+
+Rosa Peral, exagente de la Guardia Urbana de Barcelona, fue condenada a 25 años de cárcel en 2020 junto a su amante por el asesinato de su entonces pareja. Este fue conocido como 'el crimen de la Guardia Urbana' y tuvo una enorme repercusión mediática.Seis años después de la condena, Peral se ha graduado en Derecho, se.
+
+Date: 2026-09-08
+
+### Mutua pone el foco en Cataluña y diez provincias para crecer
+
+Mutua Madrileña pone el foco en trece de provincias en las que busca captar buenos clientes. Tres de estas provincias son catalanas: Barcelona, Lleida y Girona. La lista se...
+
+Date: 2026-09-07
 
 ### Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios
 
@@ -56,19 +68,6 @@ La 'consellera' Núria Parlon critica "los discursos de odio" y subraya que los 
 
 Date: 2026-09-02
 
-### Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy
-
-Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España y todo sobre la crisis migratoria hoy.
-
-Date: 2026-09-02
-
-### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
-
-El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de "impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios](https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html?utm_source=lootura.com) — 2026-09-05T18:36:14.000Z
-- [Catalunya registra su día más caluroso en­­ un mes de septiembre](https://www.lavanguardia.com/vida/20260905/11628080/catalunya-registra-dia-mas-caluroso-mes-septiembre.html?utm_source=lootura.com) — 2026-09-05T16:58:28.000Z
+- [El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel](https://www.abc.es/espana/cataluna/futuro-rosa-peral-autora-crimen-guardia-urbana-20260908171340-nt.html?utm_source=lootura.com) — 2026-09-08T15:32:18.000Z

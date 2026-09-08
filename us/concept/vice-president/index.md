@@ -58,4 +58,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html?utm_source=lootura.com) — 2026-09-05T19:58:57.000Z
+No public source links.

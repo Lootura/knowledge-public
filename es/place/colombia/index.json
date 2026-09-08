@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,6 +16,11 @@
     "🇨🇴"
   ],
   "changes": [
+    {
+      "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
+      "summary": "El informe PISA 2025 mantiene la tendencia de rezago de los países latinoamericanos en la principal comparación educativa internacional respecto a la media de la OCDE. Algunos, como Argentina y México, han registrado sus peores resultados en 20 años en matemáticas y otros muestran estancamiento (Brasil, Colombia y Cost.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa",
       "summary": "Uno de los fugitivos más buscados de Colombia ha sido detenido en Salou (Tarragona), donde se ocultaba bajo una identidad falsa. La Policía Nacional informó ayer, jueves 3 de septiembre, del arresto de alias 'Pirry', señalado como uno de los principales cabecillas de la organización criminal 'El Mesa' y reclamado inter.",
@@ -60,13 +65,15 @@
       "title": "Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia",
       "summary": "El número de víctimas derivadas del terremoto de magnitud 7,4 en la escala de Richter registrado el lunes en el noroeste de Colombia ha aumentado a 265.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Claves de la destrucción sísmica en Colombia: muros sin anclaje, construcciones informales y norma incumplida",
-      "summary": "Somkanae sawatdinak/Shutterstock El 10 de agosto, a las 7:34 am hora local, un potente terremoto de magnitud (Mw) 7.4 golpeó el occidente de Colombia a una profundidad de 104 kilómetros, según el Servicio Geológico Colombiano . Es el terremoto más potente registrado en Colombia en lo que va del siglo XXI, y el más fuer.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
+      "url": "https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T07:30:06.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/matthew-brennan
 
 ## Cambios recientes
+
+### Brennan vuela gracias a Van Aert y firma el póker en La Vuelta
+
+El británico Matthew Brennan (Visma Lease a Bike) se ha impuesto en la decimosexta etapa de la Vuelta a España, disputada entre Cortegana y Palos de la Frontera, de 18,1 km de recorrido, en la que Enric Mas (Movistar) mantuvo el jersey rojo de líder. Brennan firmó su cuarta victoria en la presente edición y la sexta de.
+
+Date: 2026-09-08
 
 ### Discovered by Atlas
 
@@ -28,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Brennan vuela gracias a Van Aert y firma el póker en La Vuelta](https://okdiario.com/deportes/brennan-vuela-gracias-van-aert-firma-poker-vuelta-20251118?utm_source=lootura.com) — 2026-09-08T15:36:12.000Z

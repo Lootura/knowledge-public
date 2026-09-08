@@ -3,10 +3,22 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
+
+La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...
+
+Date: 2026-09-08
+
+### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
+
+Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
+
+Date: 2026-09-08
 
 ### La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad
 
@@ -56,18 +68,7 @@ N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradicione
 
 Date: 2026-08-09
 
-### Ferran, nuevo embajador de la Comunidad Valenciana: «Soy valenciano y español»
-
-El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.
-
-Date: 2026-08-08
-
-### Ferran Torres recuerda a las víctimas de la dana al ser nombrado embajador valenciano
-
-El futbolista Ferran Torres ha firmado este viernes en el Palau de la Generalitat el acuerdo con el que se convierte en nuevo embajador e imagen internacional de la Comunidad Valenciana , una designación que el deportista asume como un «orgullo y una responsabilidad» y que quiere que sirva para «poner en marcha proyect.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-- [La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad](https://www.elperiodicomediterraneo.com/castello/2026/09/05/plaza-mayor-castellon-transforma-celebrar-fundacion-cuiudad-133993726.html?utm_source=lootura.com) — 2026-09-05T21:28:16.000Z
+- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
+- [Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías](https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html?utm_source=lootura.com) — 2026-09-08T07:30:17.000Z

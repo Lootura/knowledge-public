@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T01:44:05.758Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico
+
+España, Japón o Eslovaquia blindan sus sistemas de reparto mientras que Alemania, Luxemburgo o Bélgica alivian la presión fiscal para quienes trabajan más allá de la jubilación.
+
+Date: 2026-09-08
 
 ### Hallan un tesoro oculto de nueve millones durante las obras de un edificio en Flandes
 
@@ -62,12 +68,6 @@ El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la 
 
 Date: 2026-07-14
 
-### Identifican a seis fallecidos en Los Gallardos: un español y cinco extranjeros
-
-El juzgado de Vera (Almería) encargado del incendio originado en Los Gallardos, que se ha cobrado la vida de 13 personas, cuenta ya con la identificación de seis víctimas , que corresponden a un ciudadano español y a cinco extranjeros, un hombre y una mujer de Reino Unido, uno de Francia, uno de Bélgica y una mujer de.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-No public source links.
+- [La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico](https://www.elcorreo.com/economia/pensiones/ocde-estrecha-cerco-sobre-nominas-mayores-cotizaciones-20260908143006-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T12:30:06.000Z

@@ -3,7 +3,7 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-08T03:01:17.184Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes

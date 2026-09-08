@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### La surrealista detención de Bernie Ecclestone en Portugal: llevaba una escopeta en el aeropuerto
+
+Bernie Ecclestone no es precisamente conocido por pasar desapercibido . El ex jefe de la Fórmula 1 ha sido detenido en el aeropuerto de Tires (Portugal), ya que estaba portando una escopeta sin licencia . El suceso es especialmente llamativo, pero no es la primera vez, ya que también le ocurrió en el año 2022 , donde l.
+
+Date: 2026-09-07
 
 ### Bandera de Ceuta: origen, significado y por qué es de color negro y blanco
 
@@ -62,12 +68,6 @@ Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa españ
 
 Date: 2026-07-21
 
-### Un detenido y un investigado por los incendios intencionados de Hermisende (Zamora)
-
-Un hombre ha sido detenido en las últimas horas y otro está investigado como supuestos autores de delitos de incendio, por su implicación en más de una decena de incendios forestales intencionados que se han producido en un mes en el municipio zamorano de Hermisende, limítrofe con Portugal y con la provincia de Ourense.
-
-Date: 2026-07-17
-
 ## Fuentes
 
-No public source links.
+- [España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel](https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com) — 2026-09-08T14:05:48.000Z

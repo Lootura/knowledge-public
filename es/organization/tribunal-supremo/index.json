@@ -1,0 +1,98 @@
+{
+  "id": "es-tribunal-supremo",
+  "name": "Tribunal Supremo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/tribunal-supremo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-supremo/index.json",
+  "description": "Sigue la actividad de Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
+      "summary": "La Sala Tercera del Tribunal Supremo ha aceptado este martes suspender la inscripción en el censo de los nacionalizados por la 'ley de nietos', tal y como habían solicitado como medida cautelar Iustitia Europa y Vox. Los magistrados han tomado esta decisión apenas veinticuatro horas después de la celebración de la vist.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral",
+      "summary": "La formación de Santiago Abascal ha celebrado la decisión del Tribunal Supremo, que convocó ayer una vista oral y pública sobre las medidas que hab...",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta",
+      "summary": "Después de que el Tribunal Supremo haya decidido estimar la medida cautelar solicitada por las formaciones políticas Vox e Iustita Europa y haya ordenado la suspensión de los efectos electorales de las inscripciones en el Censo Electoral de Residentes Ausentes (CERA) vinculadas a la Ley de Nietos, hasta que se dicte se.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Bolaños pide resolver «lo antes posible» el voto de los nacionalizados mediante la ‘ley de nietos’",
+      "summary": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños , ha reclamado este martes al Tribunal Supremo (TS) que resuelva «lo antes posible» y, en todo caso, antes de los procesos electorales de 2027 , el fondo de la cuestión sobre el derecho de voto de los españoles nacionalizados mediante la.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Sumar critica la decisión del Supremo sobre la ‘ley de nietos’: «Tremendamente preocupante»",
+      "summary": "La portavoz de Sumar en el Congreso, Verónica Martínez Barbero , ha criticado la decisión del Tribunal Supremo (TS) de suspender de manera cautelar el voto para las personas ya inscritas en el Censo Electoral de Residentes Ausentes (CERA) que consiguieron la nacionalidad a través de la denominada ‘ley de nietos’ , así.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "La sentencia que cambió la frontera de Ceuta",
+      "summary": "'El boletín del director' es una carta semanal de Ignacio Escolar exclusiva para socios y socias de elDiario.es. Si tú también lo quieres leer y recibir cada sábado en tu buzón, hazte socio o socia El “efecto llamada” no fue la regularización de inmigrantes. Fue una decisión del Tribunal Supremo. Es una sentencia muy c.",
+      "date": "2026-09-05"
+    },
+    {
+      "title": "La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón",
+      "summary": "La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, no ha tardado en responder al ministro del Interior, Fernando Grande-Marlaska, sobre sus quejas contra la juez de la Audiencia Nacional María Tardón por sus pesquisas sobre la crisis migratorio en Ceuta. Le ha pedido que.",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Bruselas contradice el relato de Sánchez: Moscú intentó \"sacar partido\" de la crisis de Ceuta, pero no la provocó",
+      "summary": "En sus explicaciones sobre el asalto a Ceuta , Pedro Sánchez ha apuntado a una tergiversación de la sentencia del Tribunal Supremo que prohíbe las devoluciones en caliente de los inmigrantes que cruzan a nado la frontera, tesis que fue expandida por \"bulos\" alentados por redes sociales \"asociadas a Rusia, Israel\" y la.",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "El partido opositor ruso Yábloko recurre ante el Supremo su exclusión de elecciones legislativas",
+      "summary": "El partido ruso Yábloko, la única formación política del país que mantiene una postura abiertamente contraria a la guerra en Ucrania , recurrió este jueves ante el Tribunal Supremo su exclusión de las elecciones legislativas previstas para septiembre. El líder de la formación liberal, Nikolái Ribakov, presentó personal.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Javier Tebas aclara la absolución de Luis Rubiales por el 'caso grabaciones': \"Prescribieron por un retraso judicial\"",
+      "summary": "El presidente de LaLiga, Javier Tebas , ha aclarado este jueves 13 de agosto la realidad procesal que absolvió a Luis Rubiales desde el Tribunal Supremo de Suiza, y donde parte de las calumnias producidas por el expresidente de la RFEF en unas grabaciones en el marco de una reunión de UEFA prescribieron por un retraso.",
+      "date": "2026-08-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
+      "url": "https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:10:32.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral",
+      "url": "https://www.eldebate.com/espana/20260908/vox-celebra-decision-supremo-estimar-medida-cautelar-frenar-posible-fraude-electoral_456561.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T12:19:52.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta",
+      "url": "https://okdiario.com/comunidad-valenciana/sanchez-va-visita-fabrica-cohetes-espaciales-elche-plena-crisis-invasion-ceuta-20250791?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:21:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Bolaños pide resolver «lo antes posible» el voto de los nacionalizados mediante la ‘ley de nietos’",
+      "url": "https://theobjective.com/espana/politica/2026-09-08/bolanos-resolver-voto-nacionalizados-ley-nietos/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:02:58.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Sumar critica la decisión del Supremo sobre la ‘ley de nietos’: «Tremendamente preocupante»",
+      "url": "https://theobjective.com/espana/politica/2026-09-08/sumar-decision-supremo-ley-nietos-preocupante/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:43:41.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 5
+}

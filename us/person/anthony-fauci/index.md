@@ -64,4 +64,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists](https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html?utm_source=lootura.com) — 2026-09-05T09:00:49.000Z
+No public source links.

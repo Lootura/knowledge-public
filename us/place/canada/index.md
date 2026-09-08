@@ -3,10 +3,52 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T22:19:56.767Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Canada Trade War Escalates; Rising Fuel Prices Impact Americans
+
+Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.
+
+Date: 2026-09-08
+
+### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
+
+Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
+
+Date: 2026-09-08
+
+### GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect
+
+Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight. (Image credit: Roberto Schmidt).
+
+Date: 2026-09-08
+
+### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
+
+The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.
+
+Date: 2026-09-08
+
+### Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator
+
+President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.
+
+Date: 2026-09-08
+
+### Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate
+
+New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.
+
+Date: 2026-09-08
+
+### Canada’s retaliatory US tariffs set to take effect as trade dispute grows
+
+Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a trade fight with its largest trading partner as tensions between US president Donald Trump and C.
+
+Date: 2026-09-07
 
 ### How will tariffs affect the midterms? In this Michigan border town, it's complicated
 
@@ -26,48 +68,9 @@ A 150-metre-long island appeared from nowhere on Williston Lake, British Columbi
 
 Date: 2026-09-01
 
-### Carney Tells Trump Officials to ‘Stop Throwing Shade’ Over Canada-U.S. Trade Talks
-
-Amid a trade war, Canada’s Liberals swept three special votes and new polling suggested strong support for Prime Minister Mark Carney and his retaliatory tariffs against the U.S.
-
-Date: 2026-09-01
-
-### Apple Maps follows Google in renaming Lake Ontario
-
-Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg . The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Apple Maps still shows.
-
-Date: 2026-09-01
-
-### Fears of a Canadian trade war are overblown. So far, it’s more of a skirmish
-
-Listening to most of the media and Canada ’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took e.
-
-Date: 2026-09-01
-
-### Bessent Claims Canada Is Too Small to Fight a Trade War With the U.S.
-
-At gathering of G20 finance ministers, the Treasury secretary accused Canada’s prime minister of starting a “political shouting match” over U.S. trade policies.
-
-Date: 2026-08-31
-
-### What Wildfire Smoke Reveals About How We Respond to Climate Risk
-
-The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
-
-Date: 2026-08-14
-
-### Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days
-
-Smoke from Canada's July wildfires exposed people across Canada and the United States to unhealthy, very unhealthy or hazardous air for nearly 106 million person-days between July 15–17. Over the peak impact period of July 13–18, moderate or worse air quality accounted for more than 769 million person-days. For a perio.
-
-Date: 2026-08-13
-
-### Want to catch a glimpse of the solar eclipse from North America? Here's where and when
-
-If you're far enough north in the U.S. and Canada, you might savor a partial eclipse as the moon nibbles away at the sun.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Canada Trade War Escalates; Rising Fuel Prices Impact Americans](https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792?utm_source=lootura.com) — 2026-09-08T11:26:57.000Z
+- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
+- [GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect](https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs?utm_source=lootura.com) — 2026-09-08T11:20:05.000Z
+- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z

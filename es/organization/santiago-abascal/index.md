@@ -3,10 +3,22 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T22:19:40.296Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral
+
+La formación de Santiago Abascal ha celebrado la decisión del Tribunal Supremo, que convocó ayer una vista oral y pública sobre las medidas que hab...
+
+Date: 2026-09-08
+
+### El PP enfría el intento de procesar a Sánchez por traición de Vox: "No estamos para perder votaciones"
+
+Vox no puede sacar adelante su intento de procesar al presidente del Gobierno por un delito de traición contra la seguridad del Estado por la agresión territorial de Ceuta. El partido de Santiago Abascal insistía este lunes en su llamamiento a 56 diputados del Congreso para que se sumen a su petición para activar el ar.
+
+Date: 2026-09-08
 
 ### De Ceuta a Washington: cómo la ultraderecha convierte la inmigración en una guerra cultural global
 
@@ -56,18 +68,6 @@ El líder de Vox cree que Marruecos tiene «sometido» al presidente del Gobiern
 
 Date: 2026-08-09
 
-### Vox llama a todos los partidos a promover que se investigue a Sánchez por delito de traición y contra la seguridad del Estado
-
-La formación de Santiago Abascal cuenta con 32 diputados y para activar el mecanismo que permita que el Supremo pueda determinar si hay o no respon...
-
-Date: 2026-08-08
-
-### Vox pide activar el artículo 102 para investigar a Sánchez por «traición» al Estado
-
-Santiago Abascal ha anunciado que Vox promoverá la activación del artículo 102 de la Constitución Española para investigar a Pedro Sánche z , como presidente, y al resto de miemtros del Gobierno por los «gravísimos hechos» relacionados con la crisis migratoria de Ceuta, al considerar que existen indicios que «justifica.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral](https://www.eldebate.com/espana/20260908/vox-celebra-decision-supremo-estimar-medida-cautelar-frenar-posible-fraude-electoral_456561.html?utm_source=lootura.com) — 2026-09-08T12:19:52.000Z

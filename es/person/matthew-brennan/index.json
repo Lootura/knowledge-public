@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.json",
   "description": "Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Brennan",
     "El Cohete",
@@ -16,6 +16,11 @@
     "Stephen Matthew Brennan"
   ],
   "changes": [
+    {
+      "title": "Brennan vuela gracias a Van Aert y firma el póker en La Vuelta",
+      "summary": "El británico Matthew Brennan (Visma Lease a Bike) se ha impuesto en la decimosexta etapa de la Vuelta a España, disputada entre Cortegana y Palos de la Frontera, de 18,1 km de recorrido, en la que Enric Mas (Movistar) mantuvo el jersey rojo de líder. Brennan firmó su cuarta victoria en la presente edición y la sexta de.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Matthew Brennan first entered the public knowledge record with source-backed evidence.",
@@ -32,6 +37,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Brennan vuela gracias a Van Aert y firma el póker en La Vuelta",
+      "url": "https://okdiario.com/deportes/brennan-vuela-gracias-van-aert-firma-poker-vuelta-20251118?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:36:12.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

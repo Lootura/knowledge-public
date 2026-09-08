@@ -34,4 +34,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas](https://www.eldiario.es/extremadura/politica/constitucional-abre-via-ley-concordia-extremadura-rebajar-proteccion-victimas_1_13489919.html?utm_source=lootura.com) — 2026-09-05T16:21:15.000Z
+No public source links.

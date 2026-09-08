@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/john-ternus/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/john-ternus/index.json",
   "description": "Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T15:57:03.180Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Ternus"
   ],
   "changes": [
+    {
+      "title": "Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch",
+      "summary": "Apple celebra mañana a las 19.00 su evento \"Surprise and Shine\", la primera gran presentación de producto liderada por John Ternus como nuevo consejero delegado de la compañía, y el inicio de la mayor oleada de lanzamientos de dispositivos en la historia de Apple, que se extenderá durante 2026, 2027 y años posteriores,.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus",
       "summary": "El consejo de administración de Apple ha aprobado las nuevas remuneraciones a sus principales directivos, una vez que se ha hecho efectiva la llegada de John Ternus al puesto de consejero delegado, en sustitución de Tim Cook , que ha pasado a ocupar el puesto de presidente ejecutivo. El fabricante del iPhone, segunda e.",
@@ -39,6 +44,13 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T10:44:22.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

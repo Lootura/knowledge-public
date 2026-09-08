@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.json",
   "description": "Follow Jared Kushner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Jared",
     "Kushner"
   ],
   "changes": [
+    {
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
+      "date": "2026-09-08"
+    },
     {
       "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
       "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
@@ -42,17 +47,11 @@
   ],
   "sources": [
     {
-      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T19:16:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T11:08:57.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T11:10:47.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

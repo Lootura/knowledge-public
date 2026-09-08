@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Vallés",
     "Vicente"
   ],
   "changes": [
+    {
+      "title": "Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»",
+      "summary": "La crisis migratoria en Ceuta continúa y cada vez hay más datos que ponen en duda la gestión del Gobierno . Recientemente ha salido a la luz que el comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión .E.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027",
       "summary": "Cómo no recordar aquella reacción de Àngels Barceló en directo en antena, en la Cadena SER, con la comparecencia de Pedro Sánchez al conocer la fecha de las elecciones generales de 2023, en pleno verano.Se podía intuir, pero la presentadora explicó, posteriormente, que estaba relacionado con sus vacaciones, agendadas p.",
@@ -40,6 +45,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»",
+      "url": "https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:04:31.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

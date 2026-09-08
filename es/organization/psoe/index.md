@@ -3,10 +3,58 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El PSOE considera una "auténtica barbaridad" la lista de periodistas con su adscripción política elaborada por Interior
+
+Las asociaciones profesionales exigen el "cese de inmediato" de este tipo de prácticas Leer.
+
+Date: 2026-09-08
+
+### El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe
+
+La portavoz del PSOE, Montse Mínguez, ha cuestionado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes en.
+
+Date: 2026-09-08
+
+### Las feministas protestan contra Sánchez y el PSOE: "Ni siquiera nos han llamado"
+
+Una palabra habitual en los discursos políticos del presidente del Gobierno, Pedro Sánchez , es "feminismo". Así fue este lunes en el mensaje que pronunció a diputados, senadores y eurodiputados en el inicio del curso político. Sin embargo, del dicho al hecho hay un trecho que ha vuelto a enervar al sector feminista de.
+
+Date: 2026-09-07
+
+### Sánchez pone en guardia al PSOE ante un adelanto electoral
+
+«Las elecciones serán en 2027». En su discurso de inicio de curso ayer ante los miembros del PSOE en el Congreso, el Senado y el Parlamento Europeo, Pedro Sánchez no...
+
+Date: 2026-09-07
+
+### El PSOE se hunde en Asturias ante una mayoría histórica de la derecha
+
+Barbón se desploma en votos y escaños y solo la suma de PP y Vox podría gobernar Leer.
+
+Date: 2026-09-07
+
+### Montero fracasa en su intento de evitar las primarias: habrá en cuatro capitales andaluzas y en otros siete municipios de más de 20.000 habitantes
+
+La militancia elegirá al cabeza de lista en Almería, Córdoba, Huelva y hasta en Jaén, donde el PSOE gobierna y podría haber evitado las primarias Leer.
+
+Date: 2026-09-07
+
+### Sánchez esgrime la victoria ultra en Alemania para reanimar al PSOE tras el desgaste por Ceuta
+
+Pedro Sánchez ha esgrimido la victoria de la ultraderecha en las elecciones de Sajonia-Anhalt y la excepcionalidad del Gobierno de coalición progresista al frente de uno de los grandes países occidentales para tratar de reanimar a los diputados, senadores y europarlamentarios del PSOE en un inicio de curso condicionado.
+
+Date: 2026-09-07
+
+### Podcast | Ceuta hunde a Sánchez
+
+El PSOE ha tocado fondo. Tras meses consecutivos marcados por escándalos de corrupción, la invasión de Ceuta y el abandono a la ciudad por parte del Gobierno se materializan en las encuestas. Estas muestran ya el suelo electoral del PSOE : si las elecciones se celebrasen ahora, PP y Vox gozarían de una mayoría electora.
+
+Date: 2026-09-07
 
 ### «Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta
 
@@ -20,54 +68,7 @@ La Audiencia Provincial de Madrid ha tumbado una querella contra El Confidencial
 
 Date: 2026-09-04
 
-### Margarita Robles no tiene quien le aplauda (en el PSOE)
-
-Margarita Robles fue la primera en dejar de aplaudir el jueves cuando toda la bancada azul seguía en pie en el Congreso jaleando al presidente. Se percató de que era la única sentada y terminó retomando la ovación por compromiso. Minutos antes había sido evidente su incomodidad cuando Pedro Sánchez anunció que pondrá l.
-
-Date: 2026-09-04
-
-### Antonio Balas asciende a coronel, pero seguirá en la UCO investigando el ‘caso Ábalos’
-
-La ministra de Defensa, Margarita Robles , ha dado el visto bueno al ascenso de Antonio Balas al rango de coronel de la Guardia Civil . El máximo responsable de la Unidad Central Operativa ( UCO ), que fue uno de los principales objetivos de las cloacas del PSOE , debería abandonar su cargo en un futuro debido a ese as.
-
-Date: 2026-09-04
-
-### Asturias y Castilla-La Mancha confirman la brecha en el PSOE por la financiación autonómica y no apoyarán la propuesta
-
-Los gobiernos socialistas de Asturias y Castilla-La Mancha votarán este viernes en contra de llevar al Parlamento la propuesta de reforma de la financiación autonómica planteada por el Gobierno central, según han confirmado a ABC este mismo viernes fuentes de ambos ejecutivos autonómicos. Mantienen los argumentos que f.
-
-Date: 2026-09-04
-
-### Vecinos de Montellano (Sevilla) se echan a la calle contra el narcotráfico y exigen «más seguridad»
-
-Montellano ha dicho basta. Más de un millar de vecinos han salido a las calles del municipio sevillano gobernado por el PSOE para protestar contra el narcotráfico, el consumo de drogas y los delitos que, según denuncian, están deteriorando la seguridad y la convivencia. La protesta, convocada por la plataforma ciudadan.
-
-Date: 2026-09-04
-
-### Reyes Maroto aparta a Enma López de la dirección del PSOE de Madrid: «No es como entiendo la democracia interna»
-
-La líder del PSOE de Madrid , Reyes Maroto, no ha tardado en arrancarse la espina que le dejaron las primarias del pasado 19 de julio. La exministra ha apartado de la dirección del partido a Enma López, la hasta ahora portavoz adjunta del partido en el Ayuntamiento de Madrid que se presentó a las elecciones como altern.
-
-Date: 2026-09-03
-
-### La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta
-
-La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.
-
-Date: 2026-09-03
-
-### La vicesecretaria general del PSOE-A denuncia «un ataque machista y cruel» por redes sociales
-
-La socialista expone alguno de los insultos que debe aguantar cada vez que sube contenido: «puta, rata, escoria o zorra».
-
-Date: 2026-09-03
-
-### Procesan al cuñado y al ‘número dos’ de Rita Barberá al acabar la instrucción del caso Azud
-
-El Juzgado de Instrucción 13 de Valencia ha finalizado la instrucción de la macrocausa de corrupción conocida como caso Azud con el procesamiento de 38 personas. Entre estos investigados se encuentran varios dirigentes políticos del Partido Popular y el PSOE, como el que fuera teniente de alcalde de Rita Barberá , Alfo.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [El PSOE considera una "auténtica barbaridad" la lista de periodistas con su adscripción política elaborada por Interior](https://www.elmundo.es/espana/2026/09/08/6a9ff51821efa0b36a8b45ae.html?utm_source=lootura.com) — 2026-09-08T12:08:09.000Z
+- [El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe](https://theobjective.com/espana/politica/2026-09-08/psoe-ataca-juez-investiga-ceuta/?amp=&utm_source=lootura.com) — 2026-09-08T08:30:58.000Z

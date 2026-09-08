@@ -3,10 +3,22 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Albares contraprograma la visita de Vivas a Bruselas para informarse de sus gestiones
+
+El ministro de Asuntos Exteriores, José Manuel Albares, ha decidido contraprogramar la visita a Bruselas del presidente de Ceuta, Juan Jesús Vivas, y ha logrado que el comisario de Interior, Magnus Brunner, y la vicepresidenta encargada de democracia y demografía, Dubravka Suika, también le reciban en su despacho mañan.
+
+Date: 2026-09-07
+
+### Albares viajará este martes a Bruselas para verse con comisarios, el mismo día que Vivas
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , viajará este martes a Bruselas para verse con el comisario de Interior , Magnus Brunner, y con la comisaria para el Mediterráneo, Dubravka Suica, el mismo día en que los responsables comunitarios recibirán al presidente de Ceuta , Jua.
+
+Date: 2026-09-07
 
 ### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
 
@@ -55,18 +67,6 @@ Date: 2026-08-11
 “Que no arriesguen sus vidas, su dinero, su futuro en una aventura abocada al fracaso”. En su primera visita oficial a la ciudad autónoma de Ceuta -la primera que realiza un ministro de Exteriores en la historia de España-, José Manuel Albares ha lanzado este martes un contundente mensaje a quienes planeen cruzar de ma.
 
 Date: 2026-08-11
-
-### Venezuela agradece a Albares la ayuda de España tras los terremotos de junio
-
-Venezuela ha agradecido este domingo a España su disposición tras los graves terremotos del pasado 24 de junio para prestar ayuda en todo momento. La conversación en la que ha expresado este mensaje ha sido entre el ministro de Exteriores del país caribeño , Félix Plasencia , y su homólogo español, José Manuel Albares.
-
-Date: 2026-08-09
-
-### Rollán advierte a Marlaska, Robles y Albares con tomar medidas si no acuden al Senado a informar sobre la crisis de Ceuta
-
-El presidente del Senado, el popular Pedro Rollán, ha dirigido una carta a los ministros de Interior, Defensa y Asuntos Exteriores, Fernando Grande-Marlaska, Margarita Robles y José Manuel Albares, en la que les advierte de que su ausencia ,“sin causa debidamente justificada” ante las respectivas comisiones de la cámar.
-
-Date: 2026-08-08
 
 ## Fuentes
 

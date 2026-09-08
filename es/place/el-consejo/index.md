@@ -3,10 +3,34 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas
+
+El Consejo de Ministros ha aprobado este martes, con casi cuatro años de retraso, el traslado a la ley española de la directiva comunitaria que obliga a dar más información a los trabajadores sobre sus condiciones laborales para garantizar que estas sean “transparentes y previsibles”. Entre las novedades de esta normat.
+
+Date: 2026-09-08
+
+### Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"
+
+Empieza la cuenta atrás para que el Gobierno publique los documentos relacionados con el asalto a la frontera de Ceuta. El Consejo de Ministros ha desclasificado este martes los que estaban protegidos y fueron elaborados entre el 1 de julio y el 1 de agosto , asegurando que saldrán a la luz "todos. Todos es todos". "No.
+
+Date: 2026-09-08
+
+### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
+
+El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
+
+Date: 2026-09-08
+
+### El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto
+
+El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.
+
+Date: 2026-09-08
 
 ### Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su "realismo"
 
@@ -44,30 +68,9 @@ Ceuta sigue concentrando los esfuerzos del Gobierno . El Consejo de Ministros ha
 
 Date: 2026-09-01
 
-### El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos
-
-A pesar de la firme oposición de los médicos, que han amenazado con convocar una huelga indefinida durante el otoño , el Consejo de Ministros dará luz verde este martes al proyecto de ley del Estatuto Marco, la norma que regula las condiciones laborales del personal que trabaja en el sistema sanitario, ha confirmado Ef.
-
-Date: 2026-09-01
-
-### El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla
-
-El Consejo de Ministros aprobará este martes una subvención extraordinaria para ambas ciudades, dentro del plan de refuerzo económico un mes después de la crisis humanitaria El Gobierno reforzará los ERTE para Ceuta: derecho a paro sin cotización previa y 100% bonificados a las empresas El Gobierno aprobará este martes.
-
-Date: 2026-08-31
-
-### La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos
-
-El Consejo extraordinario de ministros del Interior de la UE no fue el ajuste de cuentas que muchos anticipaban, sino un delicado ejercicio de equilibrio político. La reunión, solicitada por 22 Estados miembros a iniciativa de Italia y Dinamarca tras la crisis migratoria de Ceuta, concluyó con una declaración de princi.
-
-Date: 2026-08-04
-
-### El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda
-
-El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas](https://elpais.com/economia/2026-09-08/las-empresas-tendran-que-detallar-a-sus-empleados-si-usan-algoritmos-para-el-salario-variable-y-el-cambio-de-tareas.html?utm_source=lootura.com) — 2026-09-08T15:23:14.000Z
+- [Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"](https://www.elconfidencial.com/espana/2026-09-08/sanchez-prometio-todos-los-documentos-de-ceuta_4419971/?utm_source=lootura.com) — 2026-09-08T15:09:00.000Z
+- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
+- [El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto](https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z

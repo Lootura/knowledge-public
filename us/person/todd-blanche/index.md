@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi](https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools?utm_source=lootura.com) — 2026-09-05T12:00:37.000Z
+No public source links.

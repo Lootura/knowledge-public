@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El Ibex salva los 20.000 puntos pese al repunte del petróleo y las dudas sobre la Fed
+
+El Ibex 35 ha salvado por la mínima los 20.000 puntos en una sesión bursátil dominada por el repunte del petróleo y el regreso de las dudas sobre los próximos pasos que dará la Reserva Federal (Fed) de Estados Unidos en el ámbito de la política monetaria. El selectivo español ha cerrado con una caída del 0,14 hasta los.
+
+Date: 2026-09-07
 
 ### El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre
 
@@ -59,12 +65,6 @@ Date: 2026-08-13
 ### La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos
 
 La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.
-
-Date: 2026-08-12
-
-### El Ibex duda en zona de máximos en el día de la inflación de EE UU
-
-Los precios del petróleo suben el miércoles a medida que aumentaban las tensiones geopolíticas antes de la publicación de datos clave sobre la inflación en EE UU, cuyo dato dará pistas sobre el momento oportuno para una posible subida de tipos de la Reserva Federal. Seguir leyendo.
 
 Date: 2026-08-12
 

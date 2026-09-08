@@ -8,20 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.json",
   "description": "Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T08:32:11.154Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Carlos Cuerpo Caballero",
     "Cuerpo"
   ],
   "changes": [
     {
-      "title": "EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros",
-      "summary": "El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.",
-      "date": "2026-09-02"
+      "title": "El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»",
+      "summary": "La portavoz del Grupo Popular en el Senado, Alicia García , ha advertido al vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo, que el Gobierno de Sánchez «está solo frente a todos», en relación a la gestión de la invasión migratoria en Ceuta . Por su parte, el miembro del gabinete de Sánchez ha.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018",
+      "summary": "El vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, ha asegurado este martes que la situación de las familias españolas.",
+      "date": "2026-09-08"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Carlos Cuerpo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-02"
+    },
+    {
+      "title": "EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros",
+      "summary": "El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.",
       "date": "2026-09-02"
     },
     {
@@ -30,6 +40,19 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»",
+      "url": "https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:11:48.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018",
+      "url": "https://theobjective.com/economia/2026-09-08/cuerpo-economia-familias-mejor-2018/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:22:27.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

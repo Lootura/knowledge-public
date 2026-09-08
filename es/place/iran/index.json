@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-05T21:55:40.959Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,21 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "El Ibex modera las caídas a la espera de Wall Street",
+      "summary": "Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo",
+      "summary": "No hay lugar para la tregua en Oriente Próximo y la tensión bélica se traslada directamente al alza del precio del petróleo. Al bombardeo de petroleros iraníes de EE UU de este fin de seman a, en respuesta a los ataques de Teherán, se suma hoy el ataque de los hutíes de Yemen, respaldados por Irán, a instalaciones ener.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Irán amplía su pulso militar con EEUU en el Golfo Pérsico",
+      "summary": "Teherán amenaza a las compañías petroleras estadounidenses y anuncia una \"zona restringida\" que abarcará todo el estrecho del Golfo Pérsico Leer.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Irán condena el ataque de EE.UU. contra sus buques y advierte de que habrá consecuencias militares si continúan",
       "summary": "«Si continúan las provocaciones, los ataques de Irán contra los buques militares estadounidenses se intensificarán, y existe la posibilidad de que ...",
@@ -52,42 +67,21 @@
       "title": "El petróleo se relaja y las Bolsas recuperan el aliento",
       "summary": "Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones consecutivas de ganancias, después de que el presidente de EE UU, Donald Trump, afirmara que los renovados ataques contra Irán no se prolongarían demasiado, y de que funcionarios estadounidenses señalaran una recuperación de los flujos ener.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento",
-      "summary": "El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas",
-      "summary": "Irán respondió así a los bombardeos estadounidenses lanzados este martes, en lo que supone el segundo ataque en menos de 48 horas, después de un mes sin que trascendieran nuevas agresiones cruzadas entre ambos países Leer.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "summary": "La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Irán condena el ataque de EE.UU. contra sus buques y advierte de que habrá consecuencias militares si continúan",
-      "url": "https://www.eldebate.com/internacional/20260905/iran-condena-ataque-eeuu-contra-buques-advierte-habra-consecuencias-militares-continuan_455754.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T19:36:44.000Z",
-      "sourceId": "lootura-es-el-debate"
+      "title": "El Ibex modera las caídas a la espera de Wall Street",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T10:07:03.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria",
-      "url": "https://www.eldebate.com/internacional/20260905/estados-unidos-bombardea-tres-petroleros-iranies-como-represalia-ataque-guardia-revolucionaria_455719.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T15:09:25.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros",
-      "url": "https://theobjective.com/internacional/2026-09-05/eeuu-responde-al-ataque-de-iran-a-dos-buques-de-guerra-destruyendo-tres-petroleros/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T14:51:58.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo",
+      "url": "https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T09:43:02.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

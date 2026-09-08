@@ -3,10 +3,46 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
+
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
+
+Date: 2026-09-08
+
+### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
+
+"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a pedro Sánchez como "el Nerón de Tik-Tok" Leer.
+
+Date: 2026-09-08
+
+### Feijóo avisa a Marruecos: “Si hay que aplicar el artículo 8 de la Constitución, lo haré”
+
+Alberto Núñez Feijóo ha continuado desgranando este martes medidas para hacer frente a la crisis de Ceuta y ha asegurado que si llega a la presidencia del Gobierno activará el artículo 8 de la Constitución para blindar la soberanía española si Marruecos intenta invadir la ciudad autónoma tras la entrada masiva de inmig.
+
+Date: 2026-09-08
+
+### El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”
+
+“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.
+
+Date: 2026-09-08
+
+### "Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso
+
+El curso parlamentario arranca con un asedio total al Gobierno de Pedro Sánchez Leer.
+
+Date: 2026-09-07
+
+### Feijóo y Vivas acusan a Marruecos de lanzar un ataque sobre Ceuta para conseguir “algún tipo de cesión” de España
+
+El Partido Popular en pleno ha arropado este lunes al presidente de Ceuta, Juan Jesús Vivas, que se ha presentado en Madrid para dar la voz de alarma sobre la situación de la ciudad autónoma un mes después de la entrada masiva de unos 70.000 inmigrantes. “Ceuta es una olla a presión que en cualquier momento puede estal.
+
+Date: 2026-09-07
 
 ### Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"
 
@@ -32,45 +68,10 @@ El líder del Partido Popular ha reprochado al Gobierno que dé «lecciones de j
 
 Date: 2026-09-05
 
-### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
-
-El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
-
-Date: 2026-09-05
-
-### Feijóo blinda a Ayuso pese a sus sombras y convierte el "ganar con ganas" en un cierre de filas con Madrid
-
-Alberto Núñez Feijóo ha decidido que, al menos públicamente, no hay fisuras en su relación con Isabel Díaz Ayuso. El líder del PP ha viajado este sábado a Getafe para arropar a la presidenta madrileña y lanzar, con toda la escenografía posible, la carrera electoral hacia 2027. "Vamos a ganar con ganas", ha proclamado,.
-
-Date: 2026-09-05
-
-### Feijóo acusa al Gobierno de ser “hostil con los invadidos y dócil con los invasores” en Ceuta
-
-“El cambio está cada vez más cerca , pero no está hecho... y no podemos pensar que todo caerá como fruta prohibida”. Con las generales cada vez más presentes, aunque todavía no tengan fecha, en el Partido Popular siguen muy vivos los recuerdos de 2023. Alberto Núñez Feijóo ha querido empezar por ahí su intervención en.
-
-Date: 2026-09-05
-
-### El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales
-
-Alberto Núñez Feijóo no oculta que uno de sus objetivos es implicar al poder judicial en el futuro de Pedro Sánchez usando la crisis de Ceuta y la relación con Marruecos como argumento para denunciarle.
-
-Date: 2026-09-04
-
-### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
-
-Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
-
-Date: 2026-09-04
-
-### Feijóo asegura que Sánchez "tapó" la crisis de Ceuta por "miedo personal" a Marruecos: "Lo va a pagar ante la Justicia y las urnas"
-
-La operación salió de Marruecos, fue propiciada por agentes de dicho país y hay indicios de que se "coordinó" desde allí. Además, el Gobierno lo sabía "porque...
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"](https://www.elmundo.es/espana/2026/09/05/6a9be276e85ece21778b45ba.html?utm_source=lootura.com) — 2026-09-05T11:40:28.000Z
-- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z
-- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
-- [Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»](https://theobjective.com/espana/politica/2026-09-05/feijoo-asegura-psoe-partido-mas-monarquico-pais-equivocado/?amp=&utm_source=lootura.com) — 2026-09-05T13:24:53.000Z
+- [Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez](https://www.20minutos.es/nacional/feijoo-promete-reformar-sistema-educativo-sin-ideologias-tras-informe-pisa-que-confirma-suspenso-absoluto-sanchez_7034070_0.html?utm_source=lootura.com) — 2026-09-08T10:45:09.000Z
+- ["Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso](https://www.elmundo.es/espana/2026/09/08/6a9eeee6e4d4d8436c8b456e.html?utm_source=lootura.com) — 2026-09-07T23:01:08.000Z
+- [Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"](https://www.elmundo.es/espana/2026/09/08/6aa02a75e4d4d8810c8b4597.html?utm_source=lootura.com) — 2026-09-08T15:34:55.000Z
+- [Feijóo avisa a Marruecos: “Si hay que aplicar el artículo 8 de la Constitución, lo haré”](https://www.lavanguardia.com/politica/20260908/11629896/feijoo-avisa-marruecos-ejercito-ceuta-actuar-aplicar-articulo-8-constitucion-hare.html?utm_source=lootura.com) — 2026-09-08T09:35:18.000Z
+- [El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”](https://www.lavanguardia.com/politica/20260908/11630108/gobierno-ve-pruebas-marruecos-pide-feijoo-alentar-teorias-conspiranoicas.html?utm_source=lootura.com) — 2026-09-08T13:00:26.000Z

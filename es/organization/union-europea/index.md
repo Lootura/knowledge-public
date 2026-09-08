@@ -3,10 +3,34 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T14:34:18.620Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink
+
+Deutsche Telekom, Orange, Vodafone y Telefónica mantienen conversaciones en fase inicial para constituir un consorcio conjunto orientado a pujar por el espectro satelital de la Unión Europea y ofrecer servicios de conectividad directa al teléfono móvil desde la órbita terrestre. La iniciativa busca establecer un rival.
+
+Date: 2026-09-08
+
+### Vivas exige a Bruselas más contundencia en la relación europea con Marruecos
+
+El presidente de Ceuta, Juan Jesús Vivas, ha viajado este martes hasta Bruselas para tratar de europeizar la crisis migratoria y exigir a la Unión Europea una respuesta “más contundente” hacia Marruecos que, a su juicio, “mantiene una política constante de hostigamiento” hacia la ciudad. Seguir leyendo...
+
+Date: 2026-09-08
+
+### Albares viajará este martes a Bruselas para verse con comisarios, el mismo día que Vivas
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , viajará este martes a Bruselas para verse con el comisario de Interior , Magnus Brunner, y con la comisaria para el Mediterráneo, Dubravka Suica, el mismo día en que los responsables comunitarios recibirán al presidente de Ceuta , Jua.
+
+Date: 2026-09-07
+
+### Meloni asegura que preservar Schengen pasa por defender las fronteras exteriores de la UE
+
+La primera ministra italiana, Giorgia Meloni , afirmó este lunes que la mejor manera de preservar el espacio Schengen pasa por defender las fronteras exteriores de la Unión Europea (UE) y por que todos los Estados miembros contribuyan a combatir a los traficantes de personas y la inmigración irregular. «Sigo firmemente.
+
+Date: 2026-09-07
 
 ### La UE alerta del uso de la inmigración como «una nueva forma de amenazar la integridad territorial»
 
@@ -44,30 +68,7 @@ Cada cierto tiempo acostumbramos a ver cómo los dispositivos móviles van cesan
 
 Date: 2026-09-03
 
-### Tensión en Alderdi Eder entre manifestantes y contramanifestantes de la concentración a favor de Ceuta
-
-Varios centenares de personas se han congregado frente al ayuntamiento donde han ondeado banderas de España y de la Unión Europea y la Ertzaintza ha desplegado un importante dispositivo.
-
-Date: 2026-09-02
-
-### Kaja Kallas califica el ataque híbrido ruso de Liepzig de "terrorismo patrocinado por el Estado"
-
-La alta representante de la Unión Europea para Política Exterior y Seguridad, Kaja Kallas , aseguró este miércoles que el ataque híbrido con drones de hace un mes en un aeropuerto de la ciudad alemana de Leipzig, del que Berlín responsabiliza a Rusia, tiene "todas las características del terrorismo patrocinado por el E.
-
-Date: 2026-09-02
-
-### Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara
-
-El Servicio de Acción Exterior (SEAE) de la Unión Europea ha confirmado que, durante la crisis de Ceuta, se identificaron “intentos por parte de Rusia de sacar partido” de la situación a través de las redes sociales, según ha indicado un portavoz en Bruselas. Con todo, puntualiza, no hay “pruebas concluyentes” que apun.
-
-Date: 2026-09-01
-
-### España fue el segundo país de la UE con más nuevos solicitantes de asilo de mayo
-
-España fue en mayo el segundo país de la Unión Europea que recibió más nuevos solicitantes de asilo , con 7.945 personas que pidieron protección internacional por primera vez en el país, únicamente por detrás de las 10.660 registradas en Italia , según los últimos datos publicados este viernes por la oficina estadístic.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink](https://cincodias.elpais.com/companias/2026-09-08/telefonica-y-las-grandes-telcos-europeas-sondean-una-alianza-satelital-para-competir-contra-starlink.html?utm_source=lootura.com) — 2026-09-08T09:48:16.000Z
+- [Vivas exige a Bruselas más contundencia en la relación europea con Marruecos](https://www.lavanguardia.com/politica/20260908/11629935/vivas-exige-bruselas-mas-contundencia-relacion-europea-marruecos.html?utm_source=lootura.com) — 2026-09-08T10:54:07.000Z

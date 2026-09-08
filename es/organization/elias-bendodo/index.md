@@ -3,10 +3,16 @@
 > Sigue la actividad de Elías Bendodo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/organization/elias-bendodo
 
 ## Cambios recientes
+
+### El PP pide que los inmigrantes «vuelvan a Marruecos» para normalizar Ceuta
+
+El vicesecretario general de Política Autonómica y Municipal y Análisis Electoral del Partido Popular, Elías Bendodo , se ha sumado a las palabras del presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco , y ha pedido que los inmigrantes que siguen en Ceuta «vuelvan por donde han venido» . «En Ceuta no.
+
+Date: 2026-09-07
 
 ### El PP critica que el Gobierno "movilizara a 33.600 efectivos policiales" para el eclipse y solo 60 "para la avalancha en Ceuta"
 

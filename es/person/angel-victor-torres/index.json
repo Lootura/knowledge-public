@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.json",
   "description": "Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Víctor",
     "Ángel"
   ],
   "changes": [
+    {
+      "title": "Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha informado este martes que la asistencia de alumnos en los centros educativos de Ceuta es cercana al 70%, en concreto del 65%, en primaria, y del 83%, en secundaria , en el primer día de curso escolar marcado por la crisis migratoria. «La.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "La jueza Tardón señala Ceuta como objetivo de “guerra híbrida” entre Estados",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha confirmado esta noche en RTVE que el Gobierno se personará en la causa penal de Ceuta. Esto sucede después de que la jueza de la Audiencia Nacional María Tardón haya dado un paso al frente para iniciar una investigación penal por un pres.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Torres admite que el Gobierno desconoce el informe: \"No sabemos si es de un agente particular\"",
       "summary": "El ministro de Política Territorial y coordinador del mando único para la gestión de la crisis en Ceuta, Ángel Víctor Torres , ha reconocido este miércoles que el Gobierno desconocía el contenido del informe de la Policía Nacional que atribuye a Marruecos la responsabilidad del asalto a la frontera ceutí de finales de.",
@@ -45,6 +55,13 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad",
+      "url": "https://theobjective.com/sociedad/educacion/2026-09-08/primer-dia-clase-ceuta-alumnos-inseguridad/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:14:10.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

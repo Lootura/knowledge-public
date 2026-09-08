@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido
+
+España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el "trabajo duro" de los alumnos asiáticos "haciendo deberes" Leer.
+
+Date: 2026-09-08
 
 ### Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie
 
@@ -62,12 +68,6 @@ Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqu
 
 Date: 2026-08-09
 
-### “Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales
-
-Londres está considerada como la capital europea con el mayor volumen de espacios verdes, pero la sequía que este verano arrasa en gran parte del Reino Unido, tercera en cinco años, ha convertido los famosos parques de la ciudad, junto a otras áreas históricamente verdes del sur de Inglaterra, en parajes desérticos, ye.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido](https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html?utm_source=lootura.com) — 2026-09-08T07:42:34.000Z

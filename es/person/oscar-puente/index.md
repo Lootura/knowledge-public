@@ -3,10 +3,28 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
+
+El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la "imparcialidad" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.
+
+Date: 2026-09-08
+
+### Puente cuestiona la parcialidad de la jueza que investiga la crisis de Ceuta: "Denota desconfianza"
+
+El ministro de Transportes, Óscar Puente , ha cuestionado la parcialidad" de la jueza de la Audiencia Nacional (AN) María Tardón y ha considerado "bastante extraño" que ésta pidiera al equipo investigador de la Policía Nacional no transmitir a los mandos policiales las conclusiones del informe sobre la entrada masiva d.
+
+Date: 2026-09-07
+
+### Óscar Puente duda de la imparcialidad de la juez que investiga la entrada masiva en Ceuta
+
+La magistrada aprecia una «indudable gestión favorecedora» desde Rabat, pero el ministro niega que existan pruebas.
+
+Date: 2026-09-07
 
 ### Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria
 
@@ -50,25 +68,6 @@ No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han
 
 Date: 2026-08-13
 
-### Puente insiste en criticar al Rey: «Es un símbolo y no es inocuo junto a quien se fotografía»
-
-El ministro de Transportes, el socialista Óscar Puente , ha avisado al Rey de que, al saludar a un «activista de ultraderecha» y un «profesional del bulo» , como se refiere al periodista Javier Negre, lo que hace es «contaminar» la imagen del jefe del Estado y «limpiar» la del fundador del canal Estado de Alarma. Puent.
-
-Date: 2026-08-11
-
-### Óscar Puente ya apunta contra el Rey Felipe VI
-
-En Moncloa existen ministros de diferente índole. Unos más reservados otros más cercanos al presidente del Gobierno, Pedro Sánchez, pero pocos como el ministro de Transportes, Óscar Puente . El hombre que salió de Valladolid y que relevó a José Luis Ábalos se ha convertido en el representante 'tuitero' del Ejecutivo .
-
-Date: 2026-08-11
-
-### Puente critica al Rey por darle la mano a Javier Negre: «Me parece una absoluta ignominia»
-
-El ministro de Transportes, Óscar Puente , ha generado debate político tras publicar un mensaje en la red social X relativo a la figura del rey Felipe VI . El exalcalde de Valladolid ha reposteado un vídeo en el que se observa al Monarca saludando y fotografiándose con Javier Negre, fundador del canal EDA TV, junto al.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas](https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com) — 2026-09-05T16:21:44.000Z
-- [Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria](https://okdiario.com/espana/oscar-puente-impone-campamento-1-000-invasores-puerto-ceuta-pese-voto-negativo-autoridad-portuaria-20234631?utm_source=lootura.com) — 2026-09-05T13:41:23.000Z
+- [Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"](https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com) — 2026-09-08T13:18:27.000Z

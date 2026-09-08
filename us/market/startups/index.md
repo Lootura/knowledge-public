@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T03:01:17.184Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Nigel Farage's Reform U.K. accused of breaking foreign funding law after undercover investigation](https://www.cbsnews.com/video/nigel-farage-reform-uk-foreign-funding-law-undercover-investigation/?utm_source=lootura.com) — 2026-09-05T01:06:59.000Z
+No public source links.

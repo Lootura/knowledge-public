@@ -1,0 +1,65 @@
+{
+  "id": "usa-labor-day",
+  "name": "Labor Day",
+  "type": "event",
+  "locale": "en",
+  "canonicalPath": "/us/event/labor-day",
+  "canonicalUrl": "https://atlas.lootura.com/us/event/labor-day",
+  "markdownUrl": "https://atlas.lootura.com/us/event/labor-day/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/event/labor-day/index.json",
+  "description": "Follow Labor Day, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+      "summary": "A cargo plane, operated for Amazon, plowed into two vehicles on Sunday, leaving five more injured and disrupting Labor Day weekend travel for thousands.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Labor Day first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Fall television season set to begin",
+      "summary": "Labor Day weekend not only marks the traditional end of summer, but the start of the fall television season. The Hollywood Reporter senior editor Alex Weprin joins CBS News to discuss.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Amazon’s Labor Day sale ends tonight — get Brooks, Shark, Stanley and more up to 78% off",
+      "summary": "Amazon’s Labor Day sale is live. I rounded up the best deals available now from Shark, Brooks, Stanley, Kiehl’s and more.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "I found 177+ Labor Day sales that are actually worth shopping — deals up to 75% off end tonight",
+      "summary": "Labor Day sales are officially in their final hours. Shop deals worth buying from Amazon, Target, REI and more before they’re gone, with discounts up to 75% off.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Midterm elections head into the home stretch as candidates attend Labor Day events",
+      "summary": "This year’s campaigns already have been combative, busy and expensive.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Gas prices in U.S. hit record Labor Day high, thanks to Iran war and refinery issues",
+      "summary": "It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.",
+      "date": "2026-09-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hurricane Lowell Pounds Hawaii as Storms Fuel Travel Delays",
+      "url": "https://www.today.com/video/rare-tornado-watch-in-hawaii-as-storms-slam-the-mainland-269464645985?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T11:11:04.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+      "url": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T01:06:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

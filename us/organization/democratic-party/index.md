@@ -3,10 +3,22 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### New Hampshire primaries test Trump and the left
+
+President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.
+
+Date: 2026-09-08
+
+### Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'
+
+As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the b.
+
+Date: 2026-09-07
 
 ### Voters are fed up with data centers. Both parties are trying to cash in for midterms
 
@@ -56,21 +68,6 @@ Most midterm primaries have already passed, yielding data and trends that inform
 
 Date: 2026-09-03
 
-### Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear
-
-Sports broadcaster Stephen A. Smith has been bouncing around cable TV but insists he’s staying out of one arena: the political one. The outspoken ESPN and SiriusXM personality isn’t staying away from talking politics — far from it. But Smith told POLITICO in an interview airing Thursday that he’s not running for presid.
-
-Date: 2026-09-03
-
-### As Midterms Loom, Democrats Feud Over Defections
-
-The fight has highlighted party divisions and raised questions about how Democrats will run the House should they win the majority.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Voters are fed up with data centers. Both parties are trying to cash in for midterms](https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com) — 2026-09-05T09:00:00.000Z
-- [Trump's first major midterm money move: A $10 million Texas Senate ad blitz](https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com) — 2026-09-05T20:44:35.000Z
-- [Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections](https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html?utm_source=lootura.com) — 2026-09-05T09:03:09.000Z
-- [Ossoff and Talarico to Share Fund-Raising Event in Hollywood](https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html?utm_source=lootura.com) — 2026-09-05T14:49:58.000Z
+- [New Hampshire primaries test Trump and the left](https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com) — 2026-09-08T09:00:40.000Z

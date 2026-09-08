@@ -3,7 +3,7 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-09-04
 
 ## Sources
 
-- [Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz](https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com) — 2026-09-05T09:15:00.000Z
-- [Supreme Court Sides With Republicans in TV Ad Fight](https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html?utm_source=lootura.com) — 2026-09-04T22:23:54.000Z
-- [Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans](https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html?utm_source=lootura.com) — 2026-09-05T15:13:16.000Z
+- [Latest in Trump's fight to limit mail voting](https://www.cbsnews.com/video/trump-mail-voting-scotus/?utm_source=lootura.com) — 2026-09-08T15:03:47.000Z

@@ -3,10 +3,34 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Putin le niega a Trump que tenga planes de atacar Europa
+
+Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
+
+Date: 2026-09-08
+
+### Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia
+
+Leer.
+
+Date: 2026-09-08
+
+### Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá
+
+El presidente de Estados Unidos, Donald Trump, ha compartido este lunes en su red Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México, el Caribe y Canadá, además de Groenlandia e Islandia.Trump ha publicado ese mapa sin ningún comentario en su red Truth Social, horas de.
+
+Date: 2026-09-07
+
+### Trump publica un mapa de EEUU en el que se apropia de México, Canadá y Groenlandia
+
+El presidente de Estados Unidos, Donald Trump , ha compartido este lunes en su red social Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México , el Caribe y Canadá, además de Groenlandia e Islandia . Trump ha publicado la imagen sin ningún comentario, pocas horas después.
+
+Date: 2026-09-07
 
 ### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
 
@@ -44,30 +68,7 @@ Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de 
 
 Date: 2026-09-04
 
-### El 'think tank' de Trump sale en defensa de la soberanía española de Ceuta en un acto de Vox
-
-Kevin Roberts, presidente del think tank Heritage Foundation y una voz muy influyente en Donald Trump, ha reivindicado este viernes la soberanía española de Ceuta. En un acto en Santiago de Chile organizado por la fundación Disenso, el think tank de Vox, Roberts ha repetido en dos ocasiones que Ceuta es una “ciudad esp.
-
-Date: 2026-09-04
-
-### Deportar inmigrantes o levantar un muro en la frontera: así son los polémicos videojuegos creados por Trump
-
-La Casa Blanca lanzó este jueves ' Arcade ', una página web que contiene cinco videojuegos con estétitca retro y que representan las políticas de Donald Trump. En ellos, los jugadores pueden desde levantar un muro fronterizo hasta interceptar a inmigrantes que buscan entre suelo estadounidense.El más llamativo de ellos.
-
-Date: 2026-09-04
-
-### El 20% de los bancos centrales reubica sus reservas de oro tras la llegada de Trump
-
-Desde la llegada de Donald Trump, uno de cada cinco bancos centrales del mundo ha desplazado sus lingotes en busca de mayor seguridad, según el World Gold Council. El último en hacerlo ha sido el banco central de los Países Bajos, que ha reducido de forma drástica sus reservas áureas que estaban custodiadas en Nueva Yo.
-
-Date: 2026-09-04
-
-### Ledezma pide a Trump que el acuerdo petrolero se haga con una Venezuela democrática
-
-Antonio Ledezma , exalcalde de Caracas y coordinador del Consejo Político Internacional de María Corina Machado y Edmundo González Urrutia, ha pedido al presidente estadounidense, Donald Trump , que la alianza petrolera con Venezuela se construya sobre un Gobierno democrático y no sirva para legitimar al Ejecutivo de D.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania](https://theobjective.com/internacional/2026-09-05/emisarios-trump-moscu-putin-paz-ucrania/?utm_source=lootura.com) — 2026-09-05T13:02:08.000Z
+- [Putin le niega a Trump que tenga planes de atacar Europa](https://www.abc.es/internacional/putin-niega-trump-planes-atacar-europa-20260908172606-nt.html?utm_source=lootura.com) — 2026-09-08T15:33:22.000Z
+- [Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia](https://www.elmundo.es/internacional/2026/09/08/6aa02804e4d4d8eb608b458a.html?utm_source=lootura.com) — 2026-09-08T15:38:06.000Z

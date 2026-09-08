@@ -3,10 +3,22 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha informado este martes que la asistencia de alumnos en los centros educativos de Ceuta es cercana al 70%, en concreto del 65%, en primaria, y del 83%, en secundaria , en el primer día de curso escolar marcado por la crisis migratoria. «La.
+
+Date: 2026-09-08
+
+### La jueza Tardón señala Ceuta como objetivo de “guerra híbrida” entre Estados
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha confirmado esta noche en RTVE que el Gobierno se personará en la causa penal de Ceuta. Esto sucede después de que la jueza de la Audiencia Nacional María Tardón haya dado un paso al frente para iniciar una investigación penal por un pres.
+
+Date: 2026-09-07
 
 ### Torres admite que el Gobierno desconoce el informe: "No sabemos si es de un agente particular"
 
@@ -46,4 +58,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-No public source links.
+- [Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad](https://theobjective.com/sociedad/educacion/2026-09-08/primer-dia-clase-ceuta-alumnos-inseguridad/?utm_source=lootura.com) — 2026-09-08T15:14:10.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/the-times/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/the-times/index.json",
   "description": "Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T02:54:15.085Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
+      "summary": "Patients sued by Senator Roger Marshall of Kansas were routinely charged 18 percent interest, The Times found. Some had bank accounts garnished.",
+      "date": "2026-09-08"
+    },
     {
       "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
       "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
@@ -37,6 +42,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T13:50:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

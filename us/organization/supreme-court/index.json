@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -69,23 +69,11 @@
   ],
   "sources": [
     {
-      "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
-      "url": "https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T09:15:00.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Supreme Court Sides With Republicans in TV Ad Fight",
-      "url": "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-04T22:23:54.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T15:13:16.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Latest in Trump's fight to limit mail voting",
+      "url": "https://www.cbsnews.com/video/trump-mail-voting-scotus/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:03:47.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 0
 }

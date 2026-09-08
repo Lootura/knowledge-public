@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -21,6 +21,46 @@
   ],
   "changes": [
     {
+      "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Sideline vested interests to reform China’s research",
+      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
+      "summary": "One China-linked group targets academic, medical and military AI research, the report says.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
+      "summary": "The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+      "summary": "China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+      "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Jaguar Land Rover will cut 4,000 jobs to reduce costs and compete with China",
+      "summary": "The company aims to achieve $2.3 billion in savings over the next two years.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
+      "summary": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
+      "date": "2026-09-07"
+    },
+    {
       "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
       "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a ne.",
       "date": "2026-09-05"
@@ -29,61 +69,45 @@
       "title": "U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran",
       "summary": "The Treasury Department accused the Turkish bank and its entities of being established to enable Iran's efforts to transfer oil revenues from China to Turkey, where they could then be converted to cash and gold.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Volkswagen Plans to Cut 50,000 Jobs",
-      "summary": "Facing growing competition from China and rapidly advancing technology, the German auto giant said its board had approved a “comprehensive” overhaul.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-      "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "China's Xi visits Egypt for the first time in a decade",
-      "summary": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-      "summary": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran. (Image credit: Xie Huanchi).",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Bessent says China agrees Iran shouldn't have nuclear weapons",
-      "summary": "Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "China presses U.S. for answers after a man dies hours after entering ICE custody",
-      "summary": "The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US",
-      "url": "https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T21:30:31.000Z",
-      "sourceId": "lootura-us-fox-news"
+      "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+      "url": "https://www.nature.com/articles/d41586-026-02407-6?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:58:48.464Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
-      "url": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T18:40:02.000Z",
+      "title": "Sideline vested interests to reform China’s research",
+      "url": "https://www.nature.com/articles/d41586-026-02797-7?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:58:48.463Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
+      "url": "https://www.nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T12:00:40.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
+      "url": "https://phys.org/news/2026-09-nepal-glacier-exceptional-collapse-deadly.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:48:54.000Z",
       "sourceId": "lootura-us-phys-org"
+    },
+    {
+      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+      "url": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T08:24:33.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T08:49:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 6
 }

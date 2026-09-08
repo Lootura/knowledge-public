@@ -3,10 +3,28 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### El Ibex modera las caídas a la espera de Wall Street
+
+Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
+
+Date: 2026-09-08
+
+### El Ibex pierde el 20.000 por la mínima y con el petróleo cerca de los 100 dólares
+
+Los mercados recuperan hoy la normalidad con el regreso a la actividad de Wall Street. Más complejo resulta recuperar las subidas de forma clara. Las presiones del petróleo y de los intereses de la deuda mantienen las dudas en Bolsa, y en un Ibex que sufre al filo de los 20.000 puntos.
+
+Date: 2026-09-08
+
+### Oportunidades y riesgos del bono de EEUU cerca del 5%
+
+Las últimas turbulencias en el mercado de deuda han acercado la rentabilidad del bono estadounidense a la cota del 5% (ayer permaneció el 4,78%, ya que Wall Street cerró por el Día del Trabajador). Para Wall Street, este rendimiento supone una amenaza. Para los inversores de bonos, sin embargo, una suculenta oportunida.
+
+Date: 2026-09-07
 
 ### La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas
 
@@ -50,24 +68,7 @@ El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Seg�
 
 Date: 2026-08-10
 
-### Nvidia se alía con los gigantes de Wall Street para financiar IA
-
-Apollo, Blackstone y Goldman Sachs se encuentran entre los grupos que trabajan con el principal fabricante de semiconductores para recaudar capital por el auge de los centros de datos. Seguir leyendo.
-
-Date: 2026-08-10
-
-### Why finance jobs are widening income inequality in cities around the world
-
-Skyscrapers in the City of London, United Kingdom. Mistervlad/Shutterstock Try to imagine the history of New York without Wall Street, or London without the City. It’s not easy. Hosting a country’s main financial markets shapes a city’s identity, raises its profile and creates jobs. But there are trade-offs. By acting.
-
-Date: 2026-08-08
-
-### El Ibex sube un 2% en la semana de los 20.000 puntos
-
-El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos histórico.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-No public source links.
+- [El Ibex modera las caídas a la espera de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-08T10:07:03.000Z
+- [El Ibex pierde el 20.000 por la mínima y con el petróleo cerca de los 100 dólares](https://www.expansion.com/mercados/cronica-bolsa/2026/09/08/6a9fa36ae5fdea79098b458d.html?utm_source=lootura.com) — 2026-09-08T15:41:05.000Z

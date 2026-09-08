@@ -3,10 +3,28 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
+
+### U.S. envoy warns U.K. against new plan to sanction Israeli settlements
+
+Britain and 11 other U.S. allies say they'll sanction trade with Israeli settlements in the West Bank, citing an "unprecedented level of settler violence.".
+
+Date: 2026-09-08
+
+### U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods
+
+Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel. (Image credit: Ahmad Gharabli).
+
+Date: 2026-09-08
+
+### UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing
+
+Britain said Israel had “turned a blind eye” to violence against Palestinians by extremist settlers, as it joined allies in announcing a ban on trade with illegal settlements.
+
+Date: 2026-09-08
 
 ### Funding milestone detected
 
@@ -46,4 +64,6 @@ Date: 2026-08-13
 
 ## Sources
 
-- [U.S. ambassador calls ongoing West Bank settler violence an "act of terror"](https://www.cbsnews.com/news/mike-huckabee-west-bank-settler-violence/?utm_source=lootura.com) — 2026-09-05T17:54:05.000Z
+- [U.S. envoy warns U.K. against new plan to sanction Israeli settlements](https://www.cbsnews.com/news/israel-uk-sanctions-west-bank-settlements-huckabee-us-repercussions/?utm_source=lootura.com) — 2026-09-08T15:18:51.000Z
+- [U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods](https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel?utm_source=lootura.com) — 2026-09-08T13:05:20.000Z
+- [UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing](https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html?utm_source=lootura.com) — 2026-09-08T15:14:14.000Z

@@ -3,10 +3,58 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China’s fast-track clinical trials are in the spotlight after child deaths
+
+Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.
+
+Date: 2026-09-08
+
+### Sideline vested interests to reform China’s research
+
+Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research.
+
+Date: 2026-09-08
+
+### Chinese hackers are running AI on stolen networks to avoid detection, Google says
+
+One China-linked group targets academic, medical and military AI research, the report says.
+
+Date: 2026-09-08
+
+### Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher
+
+The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.
+
+Date: 2026-09-08
+
+### China’s Surging Exports Loom Over Trump’s Talks With Xi
+
+China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
+
+Date: 2026-09-08
+
+### Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?
+
+Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.
+
+Date: 2026-09-08
+
+### Jaguar Land Rover will cut 4,000 jobs to reduce costs and compete with China
+
+The company aims to achieve $2.3 billion in savings over the next two years.
+
+Date: 2026-09-07
+
+### In Peru, the Trump Administration Sees the Limits of Its Anti-China Push
+
+As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.
+
+Date: 2026-09-07
 
 ### FAST finds two mysterious hydrogen clouds with no visible stars
 
@@ -20,55 +68,11 @@ The Treasury Department accused the Turkish bank and its entities of being estab
 
 Date: 2026-09-04
 
-### China Boycotts a Top Art Festival Over Taiwan Exhibition
-
-China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
-
-Date: 2026-09-04
-
-### Volkswagen Plans to Cut 50,000 Jobs
-
-Facing growing competition from China and rapidly advancing technology, the German auto giant said its board had approved a “comprehensive” overhaul.
-
-Date: 2026-09-03
-
-### China Boycotts a Top Art Festival Over Taiwan Exhibition
-
-China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.
-
-Date: 2026-09-03
-
-### China's Xi visits Egypt for the first time in a decade
-
-Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.
-
-Date: 2026-09-03
-
-### Xi visits Egypt as China seeks deeper influence across the Mideast
-
-China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran. (Image credit: Xie Huanchi).
-
-Date: 2026-09-03
-
-### Funding milestone detected
-
-Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson Almost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country.
-
-Date: 2026-09-03
-
-### Bessent says China agrees Iran shouldn't have nuclear weapons
-
-Treasury Secretary Scott Bessent said that China and the U.S. are on the same page regarding Iran having nuclear weapons. CBS News' Aaron MacLean reports.
-
-Date: 2026-09-02
-
-### China presses U.S. for answers after a man dies hours after entering ICE custody
-
-The Chinese government is pressing for answers after a Chinese man died hours after being taken into custody by U.S. Immigration and Customs Enforcement in a U.S. territory. At least 57 ICE detainees have died since President Donald Trump returned to office in January 2025.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US](https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us?utm_source=lootura.com) — 2026-09-05T21:30:31.000Z
-- [FAST finds two mysterious hydrogen clouds with no visible stars](https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html?utm_source=lootura.com) — 2026-09-05T18:40:02.000Z
+- [China’s fast-track clinical trials are in the spotlight after child deaths](https://www.nature.com/articles/d41586-026-02407-6?utm_source=lootura.com) — 2026-09-08T15:58:48.464Z
+- [Sideline vested interests to reform China’s research](https://www.nature.com/articles/d41586-026-02797-7?utm_source=lootura.com) — 2026-09-08T15:58:48.463Z
+- [Chinese hackers are running AI on stolen networks to avoid detection, Google says](https://www.nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155?utm_source=lootura.com) — 2026-09-08T12:00:40.000Z
+- [Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher](https://phys.org/news/2026-09-nepal-glacier-exceptional-collapse-deadly.html?utm_source=lootura.com) — 2026-09-08T14:48:54.000Z
+- [China’s Surging Exports Loom Over Trump’s Talks With Xi](https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com) — 2026-09-08T08:24:33.000Z
+- [Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?](https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html?utm_source=lootura.com) — 2026-09-08T08:49:18.000Z

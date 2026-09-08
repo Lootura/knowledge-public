@@ -64,5 +64,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report](https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/?utm_source=lootura.com) — 2026-09-05T01:07:20.000Z
-- [Nigel Farage's Reform U.K. accused of breaking foreign funding law after undercover investigation](https://www.cbsnews.com/video/nigel-farage-reform-uk-foreign-funding-law-undercover-investigation/?utm_source=lootura.com) — 2026-09-05T01:06:59.000Z
+No public source links.

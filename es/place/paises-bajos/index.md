@@ -3,7 +3,7 @@
 > Sigue la actividad de Países Bajos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/paises-bajos
 
 ## Cambios recientes
@@ -52,4 +52,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-No public source links.
+- [Toni Bou cumple los 40 por adelantado](https://www.elcorreo.com/deportes/mas-deportes/toni-bou-cumple-adelantado-20260907005054-nt_amp.html?utm_source=lootura.com) — 2026-09-07T22:50:54.000Z

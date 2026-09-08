@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T15:44:50.549Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
+      "summary": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Ven.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas",
       "summary": "Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.",
@@ -55,13 +60,15 @@
       "title": "SpaceX shows strong growth in its first earnings report since IPO",
       "summary": "Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
-      "summary": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first ea.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
+      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T13:34:15.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,34 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Oil nears $100 after Saudi Arabia says energy infrastructure was attacked
+
+Brent, the international oil benchmark, touched $99 a barrel after Saudi Arabia reported an attack on energy assets that caused temporary pauses in operations.
+
+Date: 2026-09-08
+
+### Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people
+
+The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war. (Image credit: AP).
+
+Date: 2026-09-08
+
+### Houthis strike Saudi Arabian cities in significant expansion of Middle East war
+
+Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.
+
+Date: 2026-09-08
+
+### Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens
+
+The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
+
+Date: 2026-09-08
 
 ### Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others
 
@@ -44,30 +68,9 @@ Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is
 
 Date: 2026-08-07
 
-### Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers
-
-Saudi Arabia has not commented on the claims by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.
-
-Date: 2026-08-05
-
-### Houthis Threaten to Expand Red Sea Attacks, and Claim Strike on Saudi Tanker
-
-Saudi Arabia has not commented on the claim by the Houthis, who are backed by Iran and have vowed to close “all access routes” to Saudi oil shipments.
-
-Date: 2026-08-05
-
-### Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions
-
-Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.
-
-Date: 2026-08-04
-
-### Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal
-
-President Trump has repeatedly threatened to escalate the war with Iran, only to abruptly back down. Saudi Arabia said its leader had urged Mr. Trump not to renew attacks.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Oil nears $100 after Saudi Arabia says energy infrastructure was attacked](https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558?utm_source=lootura.com) — 2026-09-08T12:58:13.000Z
+- [Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people](https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia?utm_source=lootura.com) — 2026-09-08T09:09:46.000Z
+- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z
+- [Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens](https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com) — 2026-09-08T10:54:53.000Z

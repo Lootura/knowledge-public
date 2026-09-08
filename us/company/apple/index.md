@@ -3,7 +3,7 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
@@ -16,4 +16,4 @@ Date: 2026-07-13
 
 ## Sources
 
-No public source links.
+- [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game?utm_source=lootura.com) — 2026-09-08T15:07:13.000Z

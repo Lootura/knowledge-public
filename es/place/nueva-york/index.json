@@ -92,19 +92,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "'No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar",
-      "url": "https://www.abc.es/play/series/noticias/aptos-trabajo-actual-conoci-vuestra-madre-prioriza-20260905154004-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T13:40:04.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open",
-      "url": "https://okdiario.com/deportes/marihuana-influencers-irrespetuosos-ruido-incesante-pleno-partido-vuelta-zoologico-del-us-open-20235678?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T19:59:46.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,80 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Witkoff, Kushner visit Moscow in latest push to end war in Ukraine
+### 25 years after 9/11, Taliban rules Afghanistan again, but with U.S. firepower
 
-Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.
+CBS News finds Taliban forces patrolling Kabul in American armored vehicles, wearing American tactical gear and carrying American weapons.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Top military officials faced polygraphs over leaks on munitions, sources say
+### U.S. envoy warns U.K. against new plan to sanction Israeli settlements
 
-Some of the highest-ranking officials in the U.S. military were subjected to polygraph tests as part of a sweeping leak probe, U.S. officials briefed on the matter told CBS News.
+Britain and 11 other U.S. allies say they'll sanction trade with Israeli settlements in the West Bank, citing an "unprecedented level of settler violence.".
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Serena and Venus Williams fall in thriller return to U.S. Open women's doubles
+### Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge
 
-Playing together at the U.S. Open in New York for the first time in four years, Serena​ and Venus Williams lost in a three-set thriller match in the first round of the women's doubles tournament.
+Higher gas and diesel prices have cost Americans an additional $100 billion since the Iran war began, according to a Brown University tracker.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
+### Small plane goes missing off Bahamas carrying 4 members of Florida family
 
-U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).
+A small plane carrying four family members flying back home to Florida went missing off the Bahamas, the U.S. Coast Guard and authorities in the Bahamas said.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### How the U.S. focus on Iran is fueling a more aggressive Putin
+### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
 
-Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
+Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members
+### GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect
 
-About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
+Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight. (Image credit: Roberto Schmidt).
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches
+### Current events: Scientists keep close eye on Atlantic Ocean changes
 
-A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.
+The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as low as 27 degrees Fahrenheit below today's averages. In U.S. coastal cities such as Miami and Charles.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Documentary looks at first all-female crew to compete in America's Cup
+### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
 
-A new documentary looks at the Mighty Mary, the first sailboat to compete with an all-female crew in the prestigious sailing competition, the America's Cup.
+The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Salt Hank's French dip sandwich takes over the U.S. Open
+### Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War
 
-Henry Laporte brought his viral $38 French dip sandwich to the U.S. Open for the first time. Laporte is winning fans despite having no formal training as a chef.
+The Montreal-based manufacturer has been embroiled in U.S. trade disputes before. President Trump threatened to bar the company from selling in the United States.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Guyana latest "third country" to accept migrants deported from U.S.
+### Iceland Summons U.S. Ambassador Over Provocative Trump Map
 
-Guyana is one of more than 30 nations that have now signed deals with the Trump administration as part of President Trump's crackdown on illegal immigration.
+After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
 ## Sources
 
-- [Witkoff, Kushner visit Moscow in latest push to end war in Ukraine](https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com) — 2026-09-05T19:16:05.000Z
-- [Top military officials faced polygraphs over leaks on munitions, sources say](https://www.cbsnews.com/news/top-military-officials-polygraphs-leaks-pentagon-weapons-hegseth-trump/?utm_source=lootura.com) — 2026-09-05T11:11:15.000Z
-- [Serena and Venus Williams fall in thriller return to U.S. Open women's doubles](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-05T02:56:42.000Z
-- [Documentary looks at first all-female crew to compete in America's Cup](https://www.cbsnews.com/video/documentary-looks-at-first-all-female-crew-to-compete-in-americas-cup/?utm_source=lootura.com) — 2026-09-05T16:03:10.000Z
-- [Salt Hank's French dip sandwich takes over the U.S. Open](https://www.cbsnews.com/video/salt-hanks-french-dip-sandwich-takes-over-the-us-open/?utm_source=lootura.com) — 2026-09-05T15:48:47.000Z
-- [Guyana latest "third country" to accept migrants deported from U.S.](https://www.cbsnews.com/news/guyana-third-country-us-deportees/?utm_source=lootura.com) — 2026-09-05T18:35:46.000Z
-- [EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India](https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india?utm_source=lootura.com) — 2026-09-05T21:31:35.000Z
-- [U.S.-Venezuela oil deal puts opposition in a political bind](https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy?utm_source=lootura.com) — 2026-09-05T11:43:14.000Z
-- [U.S. strikes three Iranian oil tankers in renewal of hostilities](https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities?utm_source=lootura.com) — 2026-09-05T21:01:12.000Z
-- [U.S. envoys in Moscow in new push for peace between Russia and Ukraine](https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com) — 2026-09-05T11:08:57.000Z
+- [25 years after 9/11, Taliban rules Afghanistan again, but with U.S. firepower](https://www.cbsnews.com/news/afghanistan-taliban-using-american-weapons-25-years-after-september-11/?utm_source=lootura.com) — 2026-09-08T01:42:30.000Z
+- [U.S. envoy warns U.K. against new plan to sanction Israeli settlements](https://www.cbsnews.com/news/israel-uk-sanctions-west-bank-settlements-huckabee-us-repercussions/?utm_source=lootura.com) — 2026-09-08T15:18:51.000Z
+- [Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge](https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/?utm_source=lootura.com) — 2026-09-08T14:54:26.000Z
+- [Small plane goes missing off Bahamas carrying 4 members of Florida family](https://www.cbsnews.com/news/small-plane-goes-missing-off-bahamas-carrying-4-members-of-florida-family-authorities-say/?utm_source=lootura.com) — 2026-09-08T06:06:56.000Z
+- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
+- [GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect](https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs?utm_source=lootura.com) — 2026-09-08T11:20:05.000Z
+- [Current events: Scientists keep close eye on Atlantic Ocean changes](https://phys.org/news/2026-09-current-events-scientists-eye-atlantic.html?utm_source=lootura.com) — 2026-09-08T15:40:02.000Z
+- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z
+- [Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War](https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html?utm_source=lootura.com) — 2026-09-08T14:21:11.000Z
+- [Iceland Summons U.S. Ambassador Over Provocative Trump Map](https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html?utm_source=lootura.com) — 2026-09-08T15:25:57.000Z

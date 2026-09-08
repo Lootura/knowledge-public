@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T14:34:18.620Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Putin le niega a Trump que tenga planes de atacar Europa
+
+Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
+
+Date: 2026-09-08
 
 ### La Armada despliega al Turia, la fuerza antiminas de la OTAN
 
@@ -62,12 +68,6 @@ La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilida
 
 Date: 2026-08-13
 
-### Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía escondido en un contenedor de ‘catering’ por una amenaza de Irán
-
-El presidente de Estados Unidos, Donald Trump, protagonizó el pasado 8 de julio una escena digna de una película de espías, con varios aviones en la trama, periodistas como señuelo y una amenaza iraní que llevó al servicio secreto a urdir una farsa, en la que el mandatario republicano cambió de avión de forma secreta h.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Putin le niega a Trump que tenga planes de atacar Europa](https://www.abc.es/internacional/putin-niega-trump-planes-atacar-europa-20260908172606-nt.html?utm_source=lootura.com) — 2026-09-08T15:33:22.000Z

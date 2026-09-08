@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido",
+      "summary": "España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el \"trabajo duro\" de los alumnos asiáticos \"haciendo deberes\" Leer.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie",
       "summary": "El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.",
@@ -67,13 +72,15 @@
       "title": "El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái",
       "summary": "Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.",
       "date": "2026-08-09"
-    },
-    {
-      "title": "“Hyde Park parece el desierto de Dubái”: la sequía transforma los verdes parques de Londres en secarrales",
-      "summary": "Londres está considerada como la capital europea con el mayor volumen de espacios verdes, pero la sequía que este verano arrasa en gran parte del Reino Unido, tercera en cinco años, ha convertido los famosos parques de la ciudad, junto a otras áreas históricamente verdes del sur de Inglaterra, en parajes desérticos, ye.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido",
+      "url": "https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T07:42:34.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

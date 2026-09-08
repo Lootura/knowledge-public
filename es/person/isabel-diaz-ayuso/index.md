@@ -70,4 +70,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”](https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html?utm_source=lootura.com) — 2026-09-05T12:15:05.000Z
+No public source links.

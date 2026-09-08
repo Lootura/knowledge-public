@@ -3,10 +3,22 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same.
+
+Date: 2026-09-08
+
+### Product availability changed in Europe
+
+The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda -themed Direct on September 8th at 10AM ET ( it’s actually the first of two news-filled events ), which is expected to last around 30 minutes and, according to Nintendo, will include a “variety of inform.
+
+Date: 2026-09-08
 
 ### Product availability changed in Europe
 
@@ -40,4 +52,5 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer?utm_source=lootura.com) — 2026-09-08T14:26:02.000Z
+- [The Legend of Zelda 40th Anniversary Direct: All the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct?utm_source=lootura.com) — 2026-09-08T13:50:00.000Z

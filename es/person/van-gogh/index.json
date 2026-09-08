@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/van-gogh/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/van-gogh/index.json",
   "description": "Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-03T11:19:50.232Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Van Gogh",
     "Vincent Willem van Gogh",
     "van Gogh"
   ],
   "changes": [
+    {
+      "title": "La foto de Amaia Montero que emociona al mundo: un mensaje luminoso tras sus confesiones más duras",
+      "summary": "La exvocalista de La Oreja de Van Gogh reaparece radiante en sus redes sociales tras hablar como nunca de su «descenso a los infiernos».",
+      "date": "2026-09-08"
+    },
     {
       "title": "Amaia Montero, sobre su regreso a La Oreja de Van Gogh: «Había gente esperando mi caída»",
       "summary": "No es ningún secreto que una de las noticias más impactantes de los últimos años fue el regreso de Amaia Montero a La Oreja de Van Gogh . No solamente lo hicieron con el lanzamiento de un nuevo single , sino también con la confirmación de una gira por los principales escenarios de nuestro país. Como no podía ser de otr.",
@@ -36,6 +41,13 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La foto de Amaia Montero que emociona al mundo: un mensaje luminoso tras sus confesiones más duras",
+      "url": "https://www.diariovasco.com/gente-estilo/foto-amaia-montero-emociona-mundo-mensaje-luminoso-20260908171910-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:19:37.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 1
 }

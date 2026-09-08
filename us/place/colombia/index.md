@@ -3,10 +3,16 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade
+
+Targeting traffickers will be at the top of the agenda as Secretary of State Marco Rubio visits Colombia, according to people familiar with his plans.
+
+Date: 2026-09-08
 
 ### They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"
 
@@ -62,12 +68,6 @@ The earthquake killed at least 181 people and left 2,595 injured, according to C
 
 Date: 2026-08-12
 
-### As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors
-
-“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [Colombia drone attack by suspected guerrillas kills 3 soldiers, army says](https://www.cbsnews.com/news/colombia-drone-attack-suspected-guerrillas/?utm_source=lootura.com) — 2026-09-05T16:13:16.000Z
+- [Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade](https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html?utm_source=lootura.com) — 2026-09-08T13:31:46.000Z

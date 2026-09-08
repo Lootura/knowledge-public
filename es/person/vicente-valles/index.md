@@ -3,10 +3,16 @@
 > Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/vicente-valles
 
 ## Cambios recientes
+
+### Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»
+
+La crisis migratoria en Ceuta continúa y cada vez hay más datos que ponen en duda la gestión del Gobierno . Recientemente ha salido a la luz que el comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión .E.
+
+Date: 2026-09-08
 
 ### Vicente Vallés avisa de lo que va a pasar en España si Sánchez no convoca elecciones hasta 2027
 
@@ -40,4 +46,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»](https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com) — 2026-09-08T15:04:31.000Z

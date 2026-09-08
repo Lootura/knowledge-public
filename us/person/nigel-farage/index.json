@@ -62,19 +62,6 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Senior aides to U.K.'s Nigel Farage step down in scandal over undercover report",
-      "url": "https://www.cbsnews.com/news/nigel-farage-aides-uk-donation-scandal/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T01:07:20.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Nigel Farage's Reform U.K. accused of breaking foreign funding law after undercover investigation",
-      "url": "https://www.cbsnews.com/video/nigel-farage-reform-uk-foreign-funding-law-undercover-investigation/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T01:06:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

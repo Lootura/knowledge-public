@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura
+
+El informe PISA 2025 mantiene la tendencia de rezago de los países latinoamericanos en la principal comparación educativa internacional respecto a la media de la OCDE. Algunos, como Argentina y México, han registrado sus peores resultados en 20 años en matemáticas y otros muestran estancamiento (Brasil, Colombia y Cost.
+
+Date: 2026-09-08
 
 ### Detienen en Salou a 'Pirry', uno de los criminales más buscados de Colombia: vivía en España con una identidad falsa
 
@@ -62,12 +68,6 @@ El número de víctimas derivadas del terremoto de magnitud 7,4 en la escala de 
 
 Date: 2026-08-13
 
-### Claves de la destrucción sísmica en Colombia: muros sin anclaje, construcciones informales y norma incumplida
-
-Somkanae sawatdinak/Shutterstock El 10 de agosto, a las 7:34 am hora local, un potente terremoto de magnitud (Mw) 7.4 golpeó el occidente de Colombia a una profundidad de 104 kilómetros, según el Servicio Geológico Colombiano . Es el terremoto más potente registrado en Colombia en lo que va del siglo XXI, y el más fuer.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura](https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com) — 2026-09-08T07:30:06.000Z

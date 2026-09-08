@@ -3,10 +3,16 @@
 > Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-02T19:16:09.956Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/united-kingdom
 
 ## Recent changes
+
+### Prince Harry and Meghan will not be working royals, King Charles says
+
+Prince Harry and Meghan Markle are back in the United Kingdom, but King Charles says that the couple will not be working royals. CBS News' Leigh Kiniry has more.
+
+Date: 2026-09-08
 
 ### Animal-bone records reveal how cattle and sheep fueled medieval England's changing economy
 
@@ -28,4 +34,4 @@ Date: 2026-08-13
 
 ## Sources
 
-No public source links.
+- [Prince Harry and Meghan will not be working royals, King Charles says](https://www.cbsnews.com/video/harry-and-meghan-will-not-be-working-royals-king-charles-says/?utm_source=lootura.com) — 2026-09-08T15:29:31.000Z

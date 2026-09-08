@@ -28,5 +28,4 @@ Date: 2026-09-05
 
 ## Sources
 
-- [Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls](https://www.cbsnews.com/news/kennedy-center-ceiling-collapse-renovations-trump/?utm_source=lootura.com) — 2026-09-05T20:52:18.000Z
-- [Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses](https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses?utm_source=lootura.com) — 2026-09-05T17:33:29.000Z
+No public source links.

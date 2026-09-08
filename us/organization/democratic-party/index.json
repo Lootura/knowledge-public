@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "New Hampshire primaries test Trump and the left",
+      "summary": "President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'",
+      "summary": "As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the b.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
       "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).",
@@ -52,43 +62,15 @@
       "title": "Voters are \"pissed about the economy,\" former Obama aide analyzes midterms",
       "summary": "Most midterm primaries have already passed, yielding data and trends that inform how general elections could go. Former Obama aide Ravi Gupta joins CBS News with more on how Democrats and Republicans are performing in the 2026 midterms so far.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
-      "summary": "Sports broadcaster Stephen A. Smith has been bouncing around cable TV but insists he’s staying out of one arena: the political one. The outspoken ESPN and SiriusXM personality isn’t staying away from talking politics — far from it. But Smith told POLITICO in an interview airing Thursday that he’s not running for presid.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "As Midterms Loom, Democrats Feud Over Defections",
-      "summary": "The fight has highlighted party divisions and raised questions about how Democrats will run the House should they win the majority.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
-      "url": "https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T20:44:35.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T09:03:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T14:49:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "New Hampshire primaries test Trump and the left",
+      "url": "https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T09:00:40.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

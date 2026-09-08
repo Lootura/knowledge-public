@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz
+### Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy
 
-A former congressman got hit with a ban, an artist had his upcoming Met Gala exhibition pulled, and a record carrier deployment finally came to an end.
+Russian strikes pummeled Ukraine's capital as soon as a three-day pause for peace talks with President Trump's envoys ended.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Week in Politics: Trump's face on the coin; reshaping the capital; the midterms
+### Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial
 
-President Trump is the first living president to have his face on a coin. He's also reshaping Washington in his image, and working to influence midterm elections.
+Lindsay Clancy’s attorney spoke out for the first time Tuesday since her state murder trial ended in a mistrial, including calling on President Donald Trump to pardon his client.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### How the U.S. focus on Iran is fueling a more aggressive Putin
+### New Hampshire primaries test Trump and the left
 
-Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
+President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Trump delivers $10 million to Ken Paxton in first major contribution of midterms
+### Political commentator on what we might expect from Trump's midterm convention
 
-President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.
+NPR's Steve Inskeep speaks with commentator Jonah Goldberg about this week's unusual Republican midterm gathering.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls
+### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
 
-No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer partially collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.
+Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Guyana latest "third country" to accept migrants deported from U.S.
+### State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film
 
-Guyana is one of more than 30 nations that have now signed deals with the Trump administration as part of President Trump's crackdown on illegal immigration.
+Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Ven.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### US military hits 3 Iranian oil tankers after saying Navy warships were targeted
+### Donald Trump’s midterm strategy? Make it all about him | Robert Reich
 
-The strikes come a day after President Trump appeared to downplay the war with Iran as "small potatoes" during an exchange with reporters in the Oval Office. (Image credit: Vahid Salemi).
+The president apparently plans to focus on the person he most admires – himself – even if Republicans would rather he didn’t With the midterm races officially beginning this week, a big question hanging over the Republican party is how Trump will allocate his giant stash of Super Pac money. As of 31 July, Maga Inc had.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles
+### China’s Surging Exports Loom Over Trump’s Talks With Xi
 
-The strikes — a day after U.S. President Donald Trump sought to minimize the conflict as "small potatoes" — keep up a new tilt back toward fighting after six months of on-again, off-again war.
+China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Trump's first major midterm money move: A $10 million Texas Senate ad blitz
+### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
 
-This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.
+The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses
+### Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War
 
-No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.
+The Montreal-based manufacturer has been embroiled in U.S. trade disputes before. President Trump threatened to bar the company from selling in the United States.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
 ## Sources
 
-- [Trump delivers $10 million to Ken Paxton in first major contribution of midterms](https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com) — 2026-09-05T19:29:40.000Z
-- [Renewed calls for Trump-backed Kennedy Center repairs after part of foyer ceiling falls](https://www.cbsnews.com/news/kennedy-center-ceiling-collapse-renovations-trump/?utm_source=lootura.com) — 2026-09-05T20:52:18.000Z
-- [Guyana latest "third country" to accept migrants deported from U.S.](https://www.cbsnews.com/news/guyana-third-country-us-deportees/?utm_source=lootura.com) — 2026-09-05T18:35:46.000Z
-- [Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz](https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com) — 2026-09-05T09:15:00.000Z
-- [Week in Politics: Trump's face on the coin; reshaping the capital; the midterms](https://www.npr.org/2026/09/05/nx-s1-5957499/week-in-politics-trumps-face-on-the-coin-reshaping-the-capital-the-midterms?utm_source=lootura.com) — 2026-09-05T11:43:22.000Z
-- [US military hits 3 Iranian oil tankers after saying Navy warships were targeted](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com) — 2026-09-05T15:05:08.000Z
-- [How the U.S. focus on Iran is fueling a more aggressive Putin](https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com) — 2026-09-05T11:43:20.000Z
-- [U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles](https://www.pbs.org/newshour/world/u-s-military-hits-3-iranian-oil-tankers-after-saying-navy-ships-were-targeted-with-missiles?utm_source=lootura.com) — 2026-09-05T16:02:10.000Z
-- [Trump's first major midterm money move: A $10 million Texas Senate ad blitz](https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz?utm_source=lootura.com) — 2026-09-05T20:44:35.000Z
-- [Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses](https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses?utm_source=lootura.com) — 2026-09-05T17:33:29.000Z
+- [Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy](https://www.cbsnews.com/news/ukraine-russia-war-peace-talks-witkoff-kushner-strikes-kyiv/?utm_source=lootura.com) — 2026-09-08T06:48:12.000Z
+- [Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial](https://www.nbcnews.com/news/us-news/lindsay-clancy-defense-attorney-kevin-reddington-speaks-mistrial-seeks-rcna596553?utm_source=lootura.com) — 2026-09-08T14:00:16.000Z
+- [New Hampshire primaries test Trump and the left](https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com) — 2026-09-08T09:00:40.000Z
+- [Political commentator on what we might expect from Trump's midterm convention](https://www.npr.org/2026/09/08/nx-s1-5960438/political-commentator-on-what-we-might-expect-from-trumps-midterm-convention?utm_source=lootura.com) — 2026-09-08T08:42:05.000Z
+- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
+- [State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film](https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film?utm_source=lootura.com) — 2026-09-08T13:34:15.000Z
+- [Donald Trump’s midterm strategy? Make it all about him | Robert Reich](https://www.theguardian.com/commentisfree/2026/sep/08/trump-midterm-strategy?utm_source=lootura.com) — 2026-09-08T11:00:02.000Z
+- [China’s Surging Exports Loom Over Trump’s Talks With Xi](https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com) — 2026-09-08T08:24:33.000Z
+- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z
+- [Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War](https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html?utm_source=lootura.com) — 2026-09-08T14:21:11.000Z

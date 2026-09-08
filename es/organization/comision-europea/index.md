@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ex-ciudadanos-von-der-leyen-asuma-liderazgo-gestion-ceuta/?utm_source=lootura.com) — 2026-09-05T21:38:32.000Z
+No public source links.

@@ -64,4 +64,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas](https://www.20minutos.es/nacional/aemet-avanza-mas-calor-proximas-horas-provincias-alerta-altas-temperaturas_7033258_0.html?utm_source=lootura.com) — 2026-09-05T17:16:31.000Z
+No public source links.

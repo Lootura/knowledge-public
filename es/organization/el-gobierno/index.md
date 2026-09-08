@@ -2,73 +2,79 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Type: person
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»
+### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
 
-El departamento de Seguridad del Gobierno vasco ha condenado la pintada aparecida contra un ertzaina en su portal en Vitoria-Gasteiz y ha afirmado que este tipo de «amenazas y señalamientos recuerdan tiempos pasados y atentan, no solo contra el agente señalado y contra la Ertzaintza, también contra las bases de la demo.
+El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la "imparcialidad" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El Gobierno acondiciona una nueva explanada en Ceuta junto a una escuela infantil para albergar a migrantes
+### Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»
 
-El Gobierno continúa con las labores en Ceuta para acondicionar determinadas áreas con el objetivo de albergar a los cientos de migrantes que todavía permanecen en las calles de la ciudad tras la entrada masiva de julio, entre ellas una junto a una escuela infantil, donde los operarios trabajan este sábado con protecci.
+La crisis migratoria en Ceuta continúa y cada vez hay más datos que ponen en duda la gestión del Gobierno . Recientemente ha salido a la luz que el comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión .E.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El Gobierno propone un nuevo impuesto europeo al petróleo y el gas y gravar los vuelos prémium en pleno 'shock' de precios
+### El Gobierno amplía el margen de las comunidades para invertir su superávit
 
-La ministra Sara Aagesen pide por carta al comisario europeo de Clima, Wopke Hoekstra, una una tasa permanente sobre los beneficios de las petroleras y gasistas para financiar la reconstrucción ante desastres ambientales como los incendios Leer.
+El Ministerio de Hacienda ha decidido abrir la mano para que las comunidades puedan gastar su superávit en los próximos ejercicios. Así lo ha anunciado este martes el titular de la cartera, Arcadi España, quien ha enmarcado la iniciativa, que llega después de que las autonomías rechazaran casi por unanimidad la propues.
 
-Date: 2026-09-04
+Date: 2026-09-08
 
-### «Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta
+### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
 
-El Gobierno, el PSOE y la Policía Nacional empiezan a metabolizar lo ocurrido con el informe policial que ha reventado la estrategia gubernamental de blanqueamiento de Marruecos respecto a la invasión de 80.000 personas en Ceuta este verano. La digestión ha derivado en una sospecha creciente en torno al expresidente de.
+El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
 
-Date: 2026-09-04
+Date: 2026-09-08
 
-### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
+### El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto
 
-El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.
+El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.
 
-Date: 2026-09-04
+Date: 2026-09-08
 
-### El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»
+### El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”
 
-El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación subrayó este viernes que la embajadora de Marruecos «fue oficial y formalmente» convocada el 21 de agosto para rechazar «tajantemente» las declaraciones sobre Ceuta y Melilla de un ministro marroquí , y que ese mensaje también se trasladó a sus autoridade.
+“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.
 
-Date: 2026-09-04
+Date: 2026-09-08
 
-### El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba
+### El Gobierno deniega la incapacidad permanente a un agente de viajes con fibromialgia crónica, pero mantiene ayudas para inmigrantes
 
-El Gobierno endurecerá los despidos durante el periodo de prueba. Aunque no se reformará la ley que regulas las condiciones de estos meses en los que el trabajador está a examen...
+Un agente de viajes de 54 años de Menorca que padece fibromialgia y poliartralgias ha visto cómo la Justicia avalaba la negativa a reconocerle una incapacidad permanente . El Tribunal Superior de Justicia de Baleares (TSJIB) ha respaldado la decisión adoptada anteriormente por un juzgado de lo Social de Menorca, que co.
 
-Date: 2026-09-04
+Date: 2026-09-08
 
-### El Gobierno envía a Ceuta 50 carpas nuevas con capacidad para acoger a 600 inmigrantes
+### El Gobierno vasco invertirá 5,2 millones para atajar las inundaciones en Güeñes
 
-El Gobierno ha enviado a Ceuta un total de 50 carpas con una capacidad de atención de hasta 600 personas para la acogida de los inmigrantes que permanecen en la ciudad autónoma desde la entrada masiva del pasado 30 de julio. El dispositivo priorizará la atención a mujeres con hijos vulnerables en el caso de que se nece.
+El plan para salvar de las crecidas a Las Encartaciones prevé un nuevo puente en Sodupe y la demolición de parte de una presa.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
-### Moncloa recurre de nuevo a la "máquina del fango" ante el horizonte judicial que puede abrirse por Ceuta
+### Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"
 
-El Gobierno piensa que es "extraño" todo lo sucedido en torno al informe del Centro Nacional de Inmigración y Fronteras (CENIF) que apunta a que los policías y gendarmes marroquíes no solo permitieron, sino que guiaron la entrada masiva del 30 de julio. El enfado en el Gobierno por —según asegura— no tener acceso a dic.
+El Gobierno no ha dado cuentas del prometido refuerzo de Matemáticas y Lectura Leer.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
-### Las energéticas dispararán su beneficio en 2026 gracias a los precios récord en gas y petróleo
+### El Gobierno incluye a Ceuta y Melilla en un mapa como zonas en disputa con Marruecos
 
-Iberdrola, Endesa, Naturgy, Repsol y Moeve (antigua Cepsa) obtuvieron en 2023 un beneficio neto global de 10.466 millones de euros. El Gobierno instauró entonces un gravamen extraordinario a estas compañías alegando que se estaban beneficiando de los altos precios derivados de la crisis energética que desató la invasió.
+Un gol en propia puerta. El estreno del portal público de vivienda Casa 47 arranca con polémica . El anuncio estrella del Gobierno ha quedado eclipsado tras situar a Ceuta y Melilla como territorios en disputa con Marruecos e incluir al Sáhara Occidental como parte del reino alauita. Lo ocurrido ha incendiado las redes.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
 ## Fuentes
 
-- [El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas](https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html?utm_source=lootura.com) — 2026-09-05T16:21:44.000Z
-- [El Gobierno vasco condena la pintada contra un ertzaina: «Atenta contra la democracia»](https://theobjective.com/espana/pais-vasco/2026-09-05/gobierno-vasco-condena-pintada-ertzaina-atenta-democracia/?utm_source=lootura.com) — 2026-09-05T15:24:08.000Z
+- [Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"](https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com) — 2026-09-08T13:18:27.000Z
+- [Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»](https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com) — 2026-09-08T15:04:31.000Z
+- [El Gobierno amplía el margen de las comunidades para invertir su superávit](https://elpais.com/economia/2026-09-08/el-gobierno-amplia-el-margen-de-las-comunidades-para-invertir-su-superavit.html?utm_source=lootura.com) — 2026-09-08T14:53:00.000Z
+- [El Gobierno vasco invertirá 5,2 millones para atajar las inundaciones en Güeñes](https://www.elcorreo.com/bizkaia/margen-izquierda/gobierno-vasco-invertira-millones-atajar-inundaciones-guenes-20260907233843-nt_amp.html?utm_source=lootura.com) — 2026-09-07T21:38:43.000Z
+- [Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"](https://www.elmundo.es/espana/2026/09/08/6a9f255ee85ecec0728b4594.html?utm_source=lootura.com) — 2026-09-07T23:16:01.000Z
+- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
+- [El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto](https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z
+- [El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”](https://www.lavanguardia.com/politica/20260908/11630108/gobierno-ve-pruebas-marruecos-pide-feijoo-alentar-teorias-conspiranoicas.html?utm_source=lootura.com) — 2026-09-08T13:00:26.000Z

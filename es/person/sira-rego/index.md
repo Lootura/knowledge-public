@@ -70,5 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península](https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html?utm_source=lootura.com) — 2026-09-05T03:45:01.000Z
-- [La ministra Rego admite que el Ejecutivo tiene «parte de responsabilidad» en la crisis de Ceuta](https://theobjective.com/espana/politica/2026-09-05/ministra-rego-admite-ejecutivo-responsabilidad-crisis-ceuta/?utm_source=lootura.com) — 2026-09-05T20:01:03.000Z
+No public source links.

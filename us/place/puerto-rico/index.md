@@ -3,10 +3,16 @@
 > Follow Puerto Rico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-11T16:55:56.346Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/puerto-rico
 
 ## Recent changes
+
+### What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami
+
+The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway.
+
+Date: 2026-09-07
 
 ### Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick
 
@@ -46,4 +52,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami](https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html?utm_source=lootura.com) — 2026-09-07T19:50:48.000Z

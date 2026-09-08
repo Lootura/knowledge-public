@@ -46,4 +46,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Esta película de Star Wars pasó sin pena ni gloria en su estreno, pero ahora deberías darle una oportunidad en Disney+](https://hipertextual.com/cine-television/esta-pelicula-de-star-wars-paso-sin-pena-ni-gloria-en-su-estreno-pero-ahora-deberias-darle-una-oportunidad-en-disney/?utm_source=lootura.com) — 2026-09-05T14:00:00.000Z
+No public source links.

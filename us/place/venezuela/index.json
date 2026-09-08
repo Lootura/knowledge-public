@@ -66,19 +66,6 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [
-    {
-      "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T11:43:14.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say",
-      "url": "https://www.pbs.org/newshour/economy/u-s-venezuela-oil-deal-wont-reduce-domestic-gasoline-prices-anytime-soon-experts-say?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T17:17:40.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

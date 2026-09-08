@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T22:11:13.015Z",
+  "generatedAt": "2026-09-08T16:13:43.756Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|166|1788645359222",
+    "signature": "1.18.0|168|1788883124536",
     "version": "1.18.0",
-    "build": 166,
-    "latestEntityUpdatedAt": "2026-09-05T21:55:59.222Z"
+    "build": 168,
+    "latestEntityUpdatedAt": "2026-09-08T15:58:44.536Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-09-05T21:55:59.222Z",
-      "score": 1687,
-      "sourceCount": 905,
+      "id": "usa-saudi-arabia",
+      "name": "Saudi Arabia",
+      "type": "place",
+      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
+      "url": "https://atlas.lootura.com/us/place/saudi-arabia",
+      "path": "/us/place/saudi-arabia",
+      "updatedAt": "2026-09-08T15:58:44.536Z",
+      "score": 1714,
+      "sourceCount": 31,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-09-08T15:58:44.536Z",
+        "score": 1657,
+        "sourceCount": 927,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "Serena and Venus Williams fall in thriller return to U.S. Open women's doubles",
+        "title": "25 years after 9/11, Taliban rules Afghanistan again, but with U.S. firepower",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-09-05T21:55:59.222Z",
-        "score": 1674,
-        "sourceCount": 937,
+        "updatedAt": "2026-09-08T15:58:44.536Z",
+        "score": 1645,
+        "sourceCount": 960,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
+        "id": "usa-canada",
+        "name": "Canada",
+        "type": "place",
+        "title": "Canada Trade War Escalates; Rising Fuel Prices Impact Americans",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-09-08T15:58:44.536Z",
+        "score": 1638,
+        "sourceCount": 82,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-west-bank",
+        "name": "West Bank",
         "type": "organization",
-        "title": "Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-09-05T21:55:59.222Z",
-        "score": 1652,
-        "sourceCount": 67,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
-        "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-09-05T21:55:59.222Z",
-        "score": 1650,
-        "sourceCount": 155,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-venezuela",
-        "name": "Venezuela",
-        "type": "place",
-        "title": "U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say",
-        "url": "https://atlas.lootura.com/us/place/venezuela",
-        "path": "/us/place/venezuela",
-        "updatedAt": "2026-09-05T21:55:59.222Z",
-        "score": 1629,
-        "sourceCount": 28,
+        "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
+        "url": "https://atlas.lootura.com/us/organization/west-bank",
+        "path": "/us/organization/west-bank",
+        "updatedAt": "2026-09-08T15:58:44.536Z",
+        "score": 1637,
+        "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 194
+    "publicEntityCount": 196
   }
 }

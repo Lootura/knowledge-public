@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-08T03:00:59.069Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,11 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "El Ibex salva los 20.000 puntos pese al repunte del petróleo y las dudas sobre la Fed",
+      "summary": "El Ibex 35 ha salvado por la mínima los 20.000 puntos en una sesión bursátil dominada por el repunte del petróleo y el regreso de las dudas sobre los próximos pasos que dará la Reserva Federal (Fed) de Estados Unidos en el ámbito de la política monetaria. El selectivo español ha cerrado con una caída del 0,14 hasta los.",
+      "date": "2026-09-07"
+    },
     {
       "title": "El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre",
       "summary": "La fuerte creación de empleo en Estados Unidos en agosto, con 162.000 nuevos puestos de trabajo, y con una tasa de paro que se mantuvo en el 4,1%, despeja el camino para que la Reserva Federal opte por elevar el precio del dinero en la reunión de septiembre. La mejora del mercado de trabajo aumenta la probabilidad de q.",
@@ -61,11 +66,6 @@
     {
       "title": "La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos",
       "summary": "La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "El Ibex duda en zona de máximos en el día de la inflación de EE UU",
-      "summary": "Los precios del petróleo suben el miércoles a medida que aumentaban las tensiones geopolíticas antes de la publicación de datos clave sobre la inflación en EE UU, cuyo dato dará pistas sobre el momento oportuno para una posible subida de tipos de la Reserva Federal. Seguir leyendo.",
       "date": "2026-08-12"
     }
   ],

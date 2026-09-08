@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film
+
+Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Ven.
+
+Date: 2026-09-08
 
 ### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
 
@@ -62,12 +68,6 @@ Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8
 
 Date: 2026-08-05
 
-### SpaceX is coming for T-Mobile, AT&T and Verizon
-
-SpaceX is preparing to build a terrestrial mobile network to "acquire quite a few" of the customers now subscribed to T-Mobile, AT&T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&A section of the company's first ea.
-
-Date: 2026-08-05
-
 ## Sources
 
-No public source links.
+- [State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film](https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film?utm_source=lootura.com) — 2026-09-08T13:34:15.000Z

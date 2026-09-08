@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-- [Trump delivers $10 million to Ken Paxton in first major contribution of midterms](https://www.cbsnews.com/news/trump-10-million-ken-paxton-first-major-contribution-midterms/?utm_source=lootura.com) — 2026-09-05T19:29:40.000Z
+No public source links.

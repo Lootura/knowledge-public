@@ -3,76 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"
+### Estas son las comunidades con los mejores y peores resultados en el informe PISA
 
-Ayuso reclama responsabilidades políticas ante lo que considera una "acción perfectamente coordinada por los servicios secretos marroquíes" Leer.
+Madrid, Asturias y Castilla y León son las comunidades autónomas con los mejores resultados educativos de España, según el último informe PISA de la OCDE. El rendimiento de los estudiantes españoles en Matemáticas, Lectura y Ciencia continúa en retroceso. Y eso se puede ver en regiones como Ceuta, Melilla o la Comunita.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
+### Cataluña supera la media de España y de la OCDE en las pruebas PISA con una muestra que no es válida
 
-"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
+Catalunya ha obtenido resultados por encima de la media española y de la OCDE en las pruebas PISA , si bien la muestra no se ha considerado válida por excluir un porcentaje de alumnos mucho mayor del permitido (un 23%, frente al 5% fijado por la OCDE), l o que ha resultado en su exclusión del informe internacional . El.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Fragmento del día: Valencia
+### El Gobierno amplía el margen de las comunidades para invertir su superávit
 
-en Valencia, España, después de dos años sin poder celebrar las Fallas de Valencia, debido a la pandemia de COVID-19, vuelven a dar el pistoletazo de salida a celebrarlas en este día excepcionalmente. Toda una proeza, gracias a los presidentes de Las Fallas, que votaron en una asamblea a favor de su realización.
+El Ministerio de Hacienda ha decidido abrir la mano para que las comunidades puedan gastar su superávit en los próximos ejercicios. Así lo ha anunciado este martes el titular de la cartera, Arcadi España, quien ha enmarcado la iniciativa, que llega después de que las autonomías rechazaran casi por unanimidad la propues.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### ¿Dónde comprar Lotería de Navidad en Murcia? Las administraciones más famosas
+### La planta de San Pablo vota a favor de mantener la huelga en Airbus y decanta la balanza global: 67 votos más a favor de continuar con el paro
 
-A continuación te ofrecemos las claves sobre cómo comprar Lotería de Navidad en Murcia . Aquí tienes la guía completa. Cada año, la Lotería de Navidad es uno de los eventos más esperados en España, y Murcia no es la excepción. Desde hace décadas, los murcianos se preparan con ilusión para participar en el sorteo más fa.
+La votación que quedaba pendiente en la planta de Airbus España en San Pablo (Sevilla), que no pudo concretarse ayer por problemas técnicos, ha decantado este martes el resultado global de las votaciones que se efectuaron hasta el lunes en el resto de plantas españolas de la empresa. Los votos a favor de mantener el pa.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El contundente mensaje de la AD Ceuta tras la invasión migratoria: "Seguimos siendo España, que se enteren"
+### Diez gráficos para entender el hundimiento de España (y las CCAA) en el último informe PISA
 
-La AD Ceuta ha querido mandar un mensaje contundente en un momento crítico para todos los caballa, después de la invasión de más de 80.000 inmigrantes el pasado 30 de julio. El club ha querido aprovechar su escaparate para reivindicar la españolidad de la ciudad. En la previa del encuentro ante el RC Celta Fortuna, el.
+Golpe al sistema educativo español. España firma su peor resultado histórico en el informe PISA, la prueba que evalúa conocimientos, habilidades y actitudes del alumnado de 15 y 16 años. Todos los países de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) caen, pero el nuestro lo hace con más fuerz.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Feijóo acusa a Sánchez de ser "hostil con los invadidos" en Ceuta, "distante con el rey de España y reverencial con el de Marruecos"
+### El Instituto Coordenadas crea un equipo para estudiar la contribución histórica de España a la construcción del mundo moderno
 
-El líder del Partido Popular (PP) , Alberto Núñez Feijóo , ha vuelto este sábado a criticar al presidente del Gobierno, Pedro Sánchez , por la gestión del ejecutivo en la crisis migratoria de Ceuta , y ha acusado al socialista de ser "hostil" con los invadidos y por el diferente trato de favor que aplica a los reyes de.
+El Instituto Coordenadas de Gobernanza y Economía Aplicada ha constituido un Equipo de Divulgación Histórica con el objetivo de investigar, analizar y divulgar la contribución de España y de la Hispanidad a la construcción del mundo moderno desde una perspectiva basada en la evidencia histórica , el rigor académico y e.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### La ruta en la sierra de Madrid que es perfecta para septiembre: rodeada de cascadas y en un entorno natural privilegiado
+### La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico
 
-Aunque la mayoría de españoles ya han acabado sus vacaciones de verano, las altas temperaturas continúan afectando a España. Esto hace que recurramos a opciones como la playa o la piscina para escapar del calor, aunque cada vez es más habitual optar por la montaña .De esta forma, es posible realizar actividades de ocio.
+España, Japón o Eslovaquia blindan sus sistemas de reparto mientras que Alemania, Luxemburgo o Bélgica alivian la presión fiscal para quienes trabajan más allá de la jubilación.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Pogacar renueva con UAE hasta 2032 y no correrá más este año
+### Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido
 
-La tremenda caída de Tadej Pogacar camino de Gandía en la Vuelta a España tiene consecuencias inmediatas para su futuro. El esloveno ha renovado con su único equipo profesional, el UAE de los Emiratos Árabes, hasta 2032. Cerrará una etapa de siete temporadas más cuando tenga 33 años (ahora tiene 27). El UAE comunicó qu.
+España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el "trabajo duro" de los alumnos asiáticos "haciendo deberes" Leer.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Una familia británica denuncia que encontraron restos humanos en el coche de sus padres tras el incendio en Almería
+### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
 
-El incendio de Los Gallardos, en Almería , ha sido una de las grandes tragedia de este verano en toda España. El fuego sorprendió a los vecinos de la zona y, al querer abandonar sus viviendas, hasta 14 fallecieron en su huida. Entre ellos Pete y Fran Gillam , una pareja jubilada que residía en la localidad almeriense d.
+Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### El Palma Futsal se deja remontar en la Supercopa de España
+### Descalabro educativo
 
-Dura derrota para empezar. El Illes Balears Palma Futsal pagó su falta de puntería y sus desconexiones en defensa para despedirse de la Supercopa de España a las primeras de cambio al caer ante un ElPozo Murcia Costa Cálida más efectivo (8-4). El resultado es feo y no refleja lo que fue el encuentro en el Palau Blaugra.
+Los temores se han confirmado: el nuevo Informe PISA, publicado este martes, muestra que el nivel de los alumnos españoles cae de forma alarmante en las evaluaciones de matemáticas y lectura, dos conocimientos troncales que repercuten sobre todas las demás materias. España obtiene en esta edición los peores resultados.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
 ## Fuentes
 
-- [Diego Ventura, Morante de la Puebla, Manzanares y Juan Ortega, en la Goyesca de Ronda](https://www.abc.es/cultura/toros/sevilla/toros-ronda-directo-sigue-corrida-goyesca-sabado-20260905191339-dis.html?utm_source=lootura.com) — 2026-09-05T15:51:02.000Z
-- [Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"](https://www.elmundo.es/espana/2026/09/05/6a9be276e85ece21778b45ba.html?utm_source=lootura.com) — 2026-09-05T11:40:28.000Z
-- [Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados](https://www.eldiario.es/politica/feijoo-acusa-sanchez-sumiso-regimen-marruecos-enfrenta-paises-aliados_1_13489454.html?utm_source=lootura.com) — 2026-09-05T11:11:48.000Z
-- [Fragmento del día: Valencia](https://es.wikipedia.org/wiki/Valencia?utm_source=lootura.com) — 2026-09-05T04:00:00.000Z
-- [¿Dónde comprar Lotería de Navidad en Murcia? Las administraciones más famosas](https://okdiario.com/loteria-navidad/administraciones-comprar-loteria-navidad-murcia-10099595?utm_source=lootura.com) — 2026-09-05T16:54:44.000Z
-- [El contundente mensaje de la AD Ceuta tras la invasión migratoria: "Seguimos siendo España, que se enteren"](https://okdiario.com/deportes/contundente-mensaje-ad-ceuta-invasion-migratoria-seguimos-siendo-espana-que-enteren-20235268/amp?utm_source=lootura.com) — 2026-09-05T17:38:11.000Z
+- [Tolón rechaza vincular la debacle en PISA con la ley Celaá y señala la falta de comprensión lectora por "el hábito de lectura apresurada"](https://www.20minutos.es/nacional/educacion-rechaza-vincular-los-resultados-pisa-2025-con-ley-celaa-apunta-falta-comprension-lectora_7034222_0.html?utm_source=lootura.com) — 2026-09-08T13:21:33.000Z
+- [Estas son las comunidades con los mejores y peores resultados en el informe PISA](https://www.20minutos.es/nacional/comunidades-mejores-peores-resultados-informe-pisa_7034160_0.html?utm_source=lootura.com) — 2026-09-08T11:57:52.000Z
+- [Cataluña supera la media de España y de la OCDE en las pruebas PISA con una muestra que no es válida](https://www.20minutos.es/cataluna/barcelona/catalunya-supera-media-espana-ocde-las-pruebas-pisa-con-una-muestra-que-no-es-valida_7034073_0.html?utm_source=lootura.com) — 2026-09-08T10:01:34.000Z
+- [El Gobierno amplía el margen de las comunidades para invertir su superávit](https://elpais.com/economia/2026-09-08/el-gobierno-amplia-el-margen-de-las-comunidades-para-invertir-su-superavit.html?utm_source=lootura.com) — 2026-09-08T14:53:00.000Z
+- [La planta de San Pablo vota a favor de mantener la huelga en Airbus y decanta la balanza global: 67 votos más a favor de continuar con el paro](https://cincodias.elpais.com/companias/2026-09-08/la-planta-de-san-pablo-vota-a-favor-de-mantener-la-huelga-en-airbus-y-decanta-la-balanza-global-67-votos-mas-a-favor-de-continuar-con-el-paro.html?utm_source=lootura.com) — 2026-09-08T12:09:11.000Z
+- [Diez gráficos para entender el hundimiento de España (y las CCAA) en el último informe PISA](https://www.elconfidencial.com/espana/2026-09-08/once-graficos-para-entender-el-hundimiento-de-espana-en-el-informe-pisa_4419906/?utm_source=lootura.com) — 2026-09-08T15:06:00.000Z
+- [El Instituto Coordenadas crea un equipo para estudiar la contribución histórica de España a la construcción del mundo moderno](https://www.elconfidencial.com/espana/2026-09-08/instituto-coordenadas-divulgacion-historica-1hms-1svm_4419870/?utm_source=lootura.com) — 2026-09-08T13:35:00.000Z
+- [La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico](https://www.elcorreo.com/economia/pensiones/ocde-estrecha-cerco-sobre-nominas-mayores-cotizaciones-20260908143006-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T12:30:06.000Z
+- [Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido](https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html?utm_source=lootura.com) — 2026-09-08T07:42:34.000Z
+- [Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"](https://www.elmundo.es/espana/2026/09/08/6a9f255ee85ecec0728b4594.html?utm_source=lootura.com) — 2026-09-07T23:16:01.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,21 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
+      "summary": "In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+      "summary": "Russia's Foreign Ministry has announced the closure of the German consulate in St. Petersburg, a move that reflects the ongoing tensions between the two countries.",
+      "date": "2026-09-07"
+    },
     {
       "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
       "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
@@ -51,36 +66,15 @@
       "title": "Russia intensifies attacks on Ukraine's capital",
       "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Bessent Blames Ukraine for High Energy Prices",
-      "summary": "After meeting with Russia’s finance minister, the Treasury secretary said Ukraine’s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Inside a Ukrainian maternity ward as Russian strikes intensify",
-      "summary": "As Russia ramps up strikes on Ukrainian cities, one underground maternity ward is allowing women to deliver babies safely amid a brutal war. NBC News' Richard Engel went inside.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
-      "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T11:08:57.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T12:35:46.000Z",
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T11:10:47.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

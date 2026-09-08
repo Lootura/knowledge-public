@@ -3,76 +3,76 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### How the U.S. focus on Iran is fueling a more aggressive Putin
+### Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge
 
-Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
+Higher gas and diesel prices have cost Americans an additional $100 billion since the Iran war began, according to a Brown University tracker.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members
+### Canada Trade War Escalates; Rising Fuel Prices Impact Americans
 
-About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
+Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### What the War in Iran Has Cost One Gold Star Family
+### Houthis strike Saudi Arabian cities in significant expansion of Middle East war
 
-First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.
+Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### U.S. strikes three Iranian oil tankers in renewal of hostilities
+### Why Stocks Are Defying Gravity and What Could Bring Them Down
 
-The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.
+Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### US military hits 3 Iranian oil tankers after saying Navy warships were targeted
+### Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens
 
-The strikes come a day after President Trump appeared to downplay the war with Iran as "small potatoes" during an exchange with reporters in the Oval Office. (Image credit: Vahid Salemi).
+The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
 
-Date: 2026-09-05
+Date: 2026-09-08
 
-### Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military
+### Tehran threatens attacks after U.S. strikes Iranian tankers
 
-The US defense secretary faces internal dissent and discord at the Pentagon, accused of focusing on culture war issues and his own political ambitions as the Iran war drags on In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been.
+Iran is threatening retaliation after U.S. airstrikes sank three ships in the Gulf. CBS News homeland security correspondent Nicole Sganga reports.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
-### Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg
+### Gas prices in U.S. hit record Labor Day high, thanks to Iran war and refinery issues
 
-The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks on ships and American forces.
+It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.
 
-Date: 2026-09-05
+Date: 2026-09-07
 
-### U.S. Diesel Prices Set New High
+### News Wrap: Tropical Storm Marie brings dangerous surf to California coast
 
-Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
+In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
-### Brooks and Capehart on Trump calling Iran war 'small potatoes'
+### The Iranian school struck in the war's earliest attacks is now a memorial for children
 
-David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's remarks calling the conflict with Iran "small potatoes," the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on cho.
+The Shajareh Tayyebeh school in Minab, Iran, is now a memorial for children and others killed in the Feb. 28 attacks that sparked the war with the United States and Israel.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
-### A More Confident Iran Emerges After Six Months of War With the U.S.
+### 5 Races to Watch This Fall for Answers to the Biggest Midterm Questions
 
-New intelligence reports have assessed that Iran now has a far better understanding of its capabilities and the limits of U.S. power.
+From Iowa to Michigan to Texas, key contests will offer clues about voters’ views of President Trump, progressive ideas, the war with Iran and more.
 
-Date: 2026-09-04
+Date: 2026-09-07
 
 ## Sources
 
-- [U.S. strikes 3 Iranian oil tankers after Iran targets Navy warships, military says](https://www.nbcnews.com/world/iran/us-strikes-3-iranian-oil-tankers-iran-targets-rcna596222?utm_source=lootura.com) — 2026-09-05T14:20:40.000Z
-- [U.S. strikes three Iranian oil tankers in renewal of hostilities](https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities?utm_source=lootura.com) — 2026-09-05T21:01:12.000Z
-- [US military hits 3 Iranian oil tankers after saying Navy warships were targeted](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com) — 2026-09-05T15:05:08.000Z
-- [How the U.S. focus on Iran is fueling a more aggressive Putin](https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com) — 2026-09-05T11:43:20.000Z
-- [In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html?utm_source=lootura.com) — 2026-09-05T02:08:41.000Z
-- [What the War in Iran Has Cost One Gold Star Family](https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html?utm_source=lootura.com) — 2026-09-05T18:27:00.000Z
+- [Oil prices near $100 a barrel as Houthis launch new attacks on Saudi energy points](https://www.cbsnews.com/video/oil-prices-near-100-a-barrel-as-houthis-launch-new-attacks-on-saudi-energy/?utm_source=lootura.com) — 2026-09-08T14:53:41.000Z
+- [Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge](https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/?utm_source=lootura.com) — 2026-09-08T14:54:26.000Z
+- [Canada Trade War Escalates; Rising Fuel Prices Impact Americans](https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792?utm_source=lootura.com) — 2026-09-08T11:26:57.000Z
+- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z
+- [Why Stocks Are Defying Gravity and What Could Bring Them Down](https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html?utm_source=lootura.com) — 2026-09-08T13:53:50.000Z
+- [Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens](https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com) — 2026-09-08T10:54:53.000Z

@@ -70,4 +70,4 @@ Date: 2026-09-03
 
 ## Sources
 
-- [For feminists, the deaths of Parton and Steinem days apart deliver a double dose of grief](https://www.pbs.org/newshour/nation/for-feminists-the-deaths-of-parton-and-steinem-days-apart-deliver-a-double-dose-of-grief?utm_source=lootura.com) — 2026-09-05T16:56:30.000Z
+No public source links.

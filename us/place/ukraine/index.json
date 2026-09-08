@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,26 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy",
+      "summary": "Russian strikes pummeled Ukraine's capital as soon as a three-day pause for peace talks with President Trump's envoys ended.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
+      "summary": "In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
       "summary": "Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.",
@@ -46,59 +66,21 @@
       "title": "U.S. Diesel Prices Set New High",
       "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood",
-      "summary": "In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
-      "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
-      "summary": "The attack came as the American envoys Steve Witkoff and Jared Kushner were said to be planning imminent visits to Kyiv and to Moscow.",
-      "date": "2026-09-04"
     }
   ],
   "sources": [
     {
-      "title": "Witkoff, Kushner visit Moscow in latest push to end war in Ukraine",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-trump-peace-proposal-witkoff-kushner/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T19:16:05.000Z",
+      "title": "Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-peace-talks-witkoff-kushner-strikes-kyiv/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T06:48:12.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T11:08:57.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T11:43:20.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
-      "url": "https://www.pbs.org/newshour/world/putin-orders-a-72-hour-pause-in-strikes-on-kyiv-as-u-s-envoys-visit-russia-and-ukraine?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T15:31:18.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T12:47:41.000Z",
+      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T11:10:47.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 2
 }

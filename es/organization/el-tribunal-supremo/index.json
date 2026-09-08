@@ -1,0 +1,80 @@
+{
+  "id": "es-el-tribunal-supremo",
+  "name": "El Tribunal Supremo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/el-tribunal-supremo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/el-tribunal-supremo/index.json",
+  "description": "Sigue la actividad de El Tribunal Supremo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
+      "summary": "La Sala Tercera del Tribunal Supremo ha aceptado este martes suspender la inscripción en el censo de los nacionalizados por la 'ley de nietos', tal y como habían solicitado como medida cautelar Iustitia Europa y Vox. Los magistrados han tomado esta decisión apenas veinticuatro horas después de la celebración de la vist.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El Supremo paraliza el derecho al voto de los beneficiarios de la ley de nietos hasta que acrediten que son hijos o nietos de exiliados",
+      "summary": "El Tribunal Supremo ha limitado este martes el derecho al voto de los beneficiarios de la ley de nietos. La Sala de lo Contencioso-Administrativo ha estimado de forma parcial la petición que habían formulado Vox y el partido Iustitia Europa para que se suspenda la inscripción inmediata en el censo electoral de quienes.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Kiev cuestiona la «limpieza» de las elecciones rusas tras el veto al único partido contrario a la guerra",
+      "summary": "El Tribunal Supremo de Rusia ha prohibido este lunes a Yabloko, la única formación política contraria a la guerra de Ucrania presente en la papeleta electoral, participar en las próximas elecciones legislativas que tendrán lugar en septiembre, después de que la oposición presentara, la semana pasada, una demanda por su.",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Rusia deja fuera de las urnas a Yábloko, la única oposición legal contra la guerra",
+      "summary": "El Tribunal Supremo ruso impidió este lunes a la oposición pacifista participar en las elecciones legislativas de septiembre al excluir al único partido opositor legal en este país, Yábloko, contrario a la guerra en Ucrania. \"Lo más importante es que la gente deje de matarse\", aseguró Nikolái Ribakov, líder del partido.",
+      "date": "2026-08-10"
+    },
+    {
+      "title": "El Supremo prohíbe a Hacienda usar un 'plan B' en las inspecciones por si falla",
+      "summary": "El Tribunal Supremo (TS) tumba una de las estrategias de regularización de la Agencia Tributaria al prohibir el uso de liquidaciones fiscales de carácter \"condicional\"...",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "El Tribunal Supremo aplica la amnistía a ocho condenados por delitos de desobediencia o desórdenes públicos tras la resolución del TJUE sobre la norma",
+      "summary": "Declara extinguida la eventual responsabilidad penal de estas personas implicadas en el 'procés', entre las que figura el ex presidente del Parlament Catalán Roger Torrent Leer.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Supremo amnistía por primera vez a ocho condenados por desobediencia en el 'procès'",
+      "summary": "El Tribunal Supremo ha acordado aplicar la ley de amnistía a cuatro exdirigentes del Parlament de Cataluña, incluido su expresidente Roger Torrent, que.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "El Tribunal Supremo absuelve al tuitero que se burló de la búsqueda del niño Julen",
+      "summary": "El Tribunal Supremo ha absuelto al tuitero Camilo de Ory al estimar que sus mensajes en Twitter en los que se burlaba de la cobertura mediática de la búsqueda de Julen , el niño de 2 años que murió tras caer el 13 de enero de 2019 a un pozo en Totalán (Málaga), no suponen un delito contra la integridad moral. A juicio.",
+      "date": "2026-07-24"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Tribunal Supremo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "El Tribunal Supremo levanta las medidas cautelares de Aldama a petición de su defensa",
+      "summary": "La Sala sostiene que \"aunque la ejecutoria de la sentencia aún no ha sido incoada\", la consecuencia lógica del dictado de la misma es el decaimiento de las medidas cautelares sobre el empresario Leer.",
+      "date": "2026-07-22"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
+      "url": "https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:10:32.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "El Supremo paraliza el derecho al voto de los beneficiarios de la ley de nietos hasta que acrediten que son hijos o nietos de exiliados",
+      "url": "https://elpais.com/espana/2026-09-08/el-supremo-paraliza-el-derecho-al-voto-de-los-beneficiarios-de-la-ley-de-nietos.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T13:36:56.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

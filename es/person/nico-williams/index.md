@@ -52,4 +52,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [San Mamés se divierte y aviva fantasmas del pasado en el Atleti](https://theobjective.com/deportes/2026-09-05/san-mames-divierte-aviva-fantasmas-pasado-atleti/?utm_source=lootura.com) — 2026-09-05T19:13:09.000Z
+No public source links.

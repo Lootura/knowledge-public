@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/poder-judicial/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/poder-judicial/index.json",
   "description": "Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T15:44:32.845Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Administracion de justicia",
     "Administración de Justicia",
@@ -25,6 +25,11 @@
     "justice system"
   ],
   "changes": [
+    {
+      "title": "Los vocales progresistas del Poder Judicial piden a Perelló que haga \"autocrítica\" en la apertura del año judicial",
+      "summary": "Los magistrados señalan que la defensa de la independencia judicial debe ir acompañada de \"responsabilidad\" y no puede excluir \"la crítica legítima a las resoluciones judiciales\" Dos años de nombramientos del Poder Judicial blindan el dominio conservador en las cúpulas de los tribunales Los vocales progresistas del Con.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Marlaska saca a la Sala de Gobierno de la Audiencia Nacional en defensa de la jueza Tardón",
       "summary": "El choque institucional entre el Ejecutivo y el Poder Judicial ha tenido hoy un nuevo capítulo tras el acuerdo de la Sala de Gobierno de la Audiencia Nacional que por unanimidad de todos sus miembros salir en defensa de la jueza María Tardón, encargada de estudiar una querella por la entrada masiva de migrantes a Ceuta.",
@@ -69,13 +74,15 @@
       "title": "El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial",
       "summary": "La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón",
-      "summary": "La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, no ha tardado en responder al ministro del Interior, Fernando Grande-Marlaska, sobre sus quejas contra la juez de la Audiencia Nacional María Tardón por sus pesquisas sobre la crisis migratorio en Ceuta. Le ha pedido que.",
-      "date": "2026-09-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los vocales progresistas del Poder Judicial piden a Perelló que haga \"autocrítica\" en la apertura del año judicial",
+      "url": "https://www.eldiario.es/politica/vocales-progresistas-judicial-piden-perello-haga-autocritica-apertura-ano-judicial_1_13495522.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:12:59.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

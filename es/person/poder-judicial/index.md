@@ -3,10 +3,16 @@
 > Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T15:44:32.845Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/poder-judicial
 
 ## Cambios recientes
+
+### Los vocales progresistas del Poder Judicial piden a Perelló que haga "autocrítica" en la apertura del año judicial
+
+Los magistrados señalan que la defensa de la independencia judicial debe ir acompañada de "responsabilidad" y no puede excluir "la crítica legítima a las resoluciones judiciales" Dos años de nombramientos del Poder Judicial blindan el dominio conservador en las cúpulas de los tribunales Los vocales progresistas del Con.
+
+Date: 2026-09-08
 
 ### Marlaska saca a la Sala de Gobierno de la Audiencia Nacional en defensa de la jueza Tardón
 
@@ -62,12 +68,6 @@ La presidenta en funciones considera que la alusión del juez a que los escoltas
 
 Date: 2026-09-03
 
-### La presidenta del CGPJ advierte a Marlaska que tenga el “máximo respeto” por la juez Tardón
-
-La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, no ha tardado en responder al ministro del Interior, Fernando Grande-Marlaska, sobre sus quejas contra la juez de la Audiencia Nacional María Tardón por sus pesquisas sobre la crisis migratorio en Ceuta. Le ha pedido que.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [Los vocales progresistas del Poder Judicial piden a Perelló que haga "autocrítica" en la apertura del año judicial](https://www.eldiario.es/politica/vocales-progresistas-judicial-piden-perello-haga-autocritica-apertura-ano-judicial_1_13495522.html?utm_source=lootura.com) — 2026-09-08T15:12:59.000Z

@@ -8,9 +8,29 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas",
+      "summary": "El Consejo de Ministros ha aprobado este martes, con casi cuatro años de retraso, el traslado a la ley española de la directiva comunitaria que obliga a dar más información a los trabajadores sobre sus condiciones laborales para garantizar que estas sean “transparentes y previsibles”. Entre las novedades de esta normat.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de \"antes, durante y después\"",
+      "summary": "Empieza la cuenta atrás para que el Gobierno publique los documentos relacionados con el asalto a la frontera de Ceuta. El Consejo de Ministros ha desclasificado este martes los que estaban protegidos y fueron elaborados entre el 1 de julio y el 1 de agosto , asegurando que saldrán a la luz \"todos. Todos es todos\". \"No.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia",
+      "summary": "El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
+      "summary": "El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
       "summary": "Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóviles inicia ya una nueva etapa una vez aprobado su plan de reestructuración , uno de los de mayor dimensión de los últimos años en la industria europea. El Consejo de Supervisión del Grupo Volkswagen aprobó por unanimidad un plan de ajuste que.",
@@ -40,28 +60,33 @@
       "title": "El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente",
       "summary": "Ceuta sigue concentrando los esfuerzos del Gobierno . El Consejo de Ministros ha aprobado este martes un real decreto ley con medidas urgentes para revitalizar su economía dotado con 309 millones de euros para lo que resta de año. Esa cantidad, en la que están incluidas partidas para reforzar los servicios esenciales,.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El Consejo de Ministros aprobará hoy el nuevo Estatuto Marco pese al rechazo de los médicos",
-      "summary": "A pesar de la firme oposición de los médicos, que han amenazado con convocar una huelga indefinida durante el otoño , el Consejo de Ministros dará luz verde este martes al proyecto de ley del Estatuto Marco, la norma que regula las condiciones laborales del personal que trabaja en el sistema sanitario, ha confirmado Ef.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno inyectará 21,5 millones para reforzar los servicios públicos y las desalinizadoras de Ceuta y Melilla",
-      "summary": "El Consejo de Ministros aprobará este martes una subvención extraordinaria para ambas ciudades, dentro del plan de refuerzo económico un mes después de la crisis humanitaria El Gobierno reforzará los ERTE para Ceuta: derecho a paro sin cotización previa y 100% bonificados a las empresas El Gobierno aprobará este martes.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
-      "summary": "El Consejo extraordinario de ministros del Interior de la UE no fue el ajuste de cuentas que muchos anticipaban, sino un delicado ejercicio de equilibrio político. La reunión, solicitada por 22 Estados miembros a iniciativa de Italia y Dinamarca tras la crisis migratoria de Ceuta, concluyó con una declaración de princi.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "El Consejo de Garantías Estatutarias considera inconstitucional la ley de Illa que limita la compra de vivienda",
-      "summary": "El dictamen no vinculante, a petición de Junts y el PP, se resuelve por unanimidad y critica la forma y el fondo de la mededida pactada por el PSC, ERC y Comuns.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas",
+      "url": "https://elpais.com/economia/2026-09-08/las-empresas-tendran-que-detallar-a-sus-empleados-si-usan-algoritmos-para-el-salario-variable-y-el-cambio-de-tareas.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:23:14.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de \"antes, durante y después\"",
+      "url": "https://www.elconfidencial.com/espana/2026-09-08/sanchez-prometio-todos-los-documentos-de-ceuta_4419971/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:09:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia",
+      "url": "https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:40:32.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
+      "url": "https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 4
 }

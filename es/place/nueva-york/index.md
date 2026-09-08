@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- ['No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar](https://www.abc.es/play/series/noticias/aptos-trabajo-actual-conoci-vuestra-madre-prioriza-20260905154004-nt.html?utm_source=lootura.com) — 2026-09-05T13:40:04.000Z
-- [Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open](https://okdiario.com/deportes/marihuana-influencers-irrespetuosos-ruido-incesante-pleno-partido-vuelta-zoologico-del-us-open-20235678?utm_source=lootura.com) — 2026-09-05T19:59:46.000Z
+No public source links.

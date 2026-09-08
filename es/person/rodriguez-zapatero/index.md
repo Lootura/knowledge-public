@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate
+
+El ex consejero delegado de Plus Ultra, Roberto Roselli, ha confirmado este martes en la Audiencia Nacional que la cúpula de la aerolínea sabía que el bolsillo del expresidente del Gobierno, José Luis Rodríguez Zapatero, era el destino final de la comisión ilegal de 530.000 euros pagada a su amigo, el empresario Julio.
+
+Date: 2026-09-08
 
 ### El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra
 
@@ -62,12 +68,6 @@ José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delit
 
 Date: 2026-07-24
 
-### Manu Sánchez escucha las explicaciones de Zapatero en TVE y es tajante con el expresidente del Gobierno: «Este rojo ya no llora más por ti»
-
-Este jueves 23 de julio, José Luis Rodríguez Zapatero ha concedido su primera entrevista desde su imputación por el caso Plus Ultra . El expresidente del Gobierno ha elegido 'Mañaneros 360', el programa de TVE presentador por Javier Ruiz , para defenderse sobre su presunta implicación en la trama corrupta.En la charla,.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate](https://www.abc.es/espana/roselli-insiste-cupula-plus-ultra-sabia-zapatero-20260908123951-nt.html?utm_source=lootura.com) — 2026-09-08T15:28:05.000Z

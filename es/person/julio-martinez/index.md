@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T09:43:58.602Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/person/julio-martinez
 
 ## Cambios recientes
+
+### El ex presidente de Plus Ultra afirma ante el juez que aceptó pagar una comisión del 1% "al grupo Zapatero" para obtener el rescate de 53 millones
+
+Julio Martínez Sola comparece como imputado ante el juez de la Audiencia Nacional José Luis Calama Leer.
+
+Date: 2026-09-07
 
 ### Dimiten tras un choque interno el presidente y el CEO de Plus Ultra que confirmaron el pago de una comisión a la trama de Zapatero
 
@@ -59,12 +65,6 @@ Date: 2026-07-23
 ### La Audiencia ve como un "gran avance" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra
 
 Las confesiones del empresario Julio Martínez Martínez y los responsables de la aerolínea Plus Ultra, el dueño Julio Martínez Sola, y el CEO de la compañía, Roberto Roselli,...
-
-Date: 2026-07-22
-
-### Podcast | Zapatero, tocado y hundido
-
-El futuro de José Luis Rodríguez Zapatero es cada vez más oscuro. Su presunto testaferro, Julito Martínez, se ha marcado un Aldama y ha confesado ante el juez José Luis Calama que el ex presidente del Gobierno medió en la concesión del rescate a Plus Ultra y pactó cobrar el 1% de comisión , así como 5.000 euros al mes.
 
 Date: 2026-07-22
 

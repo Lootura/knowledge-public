@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-03T22:19:40.296Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
+
+La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...
+
+Date: 2026-09-08
 
 ### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
 
@@ -62,12 +68,6 @@ Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fis
 
 Date: 2026-08-09
 
-### Las incógnitas sin responder del ático que compró el Gobierno de Ayuso en Chamberí
-
-Por qué la Comunidad eligió un piso que no podía convertirse en oficina para el traslado desde Sol, cómo se decidió su ubicación o qué informes previos se emitieron antes del desembolso son algunas de las dudas sin respuesta. El Gobierno regional cree que las respuestas están "sobradamente dadas" La Comunidad de Madrid.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T14:34:18.620Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto
+
+El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.
+
+Date: 2026-09-08
 
 ### El PP lleva al Congreso su plan ante la crisis de Ceuta: reforzar la frontera, agilizar las expulsiones y más policías
 
@@ -62,12 +68,6 @@ El reglamento de la Guardia Civil implica que el ascenso de Antonio Balas conlle
 
 Date: 2026-09-04
 
-### EM&E mantendrá el sistema de vigilancia de costas por 62 millones
-
-Escribano Mechanical & Engineering (EM&E) se encargará del mantenimiento integral de los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE), es decir, de la red tecnológica con la que la Guardia Civil se encarga de la vigilancia de las costas españolas. Seguir leyendo.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto](https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z

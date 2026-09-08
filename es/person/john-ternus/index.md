@@ -3,10 +3,16 @@
 > Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T15:57:03.180Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/john-ternus
 
 ## Cambios recientes
+
+### Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch
+
+Apple celebra mañana a las 19.00 su evento "Surprise and Shine", la primera gran presentación de producto liderada por John Ternus como nuevo consejero delegado de la compañía, y el inicio de la mayor oleada de lanzamientos de dispositivos en la historia de Apple, que se extenderá durante 2026, 2027 y años posteriores,.
+
+Date: 2026-09-08
 
 ### Apple aprueba una retribución en acciones de 55 millones de dólares para John Ternus
 
@@ -40,4 +46,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-No public source links.
+- [Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch](https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com) — 2026-09-08T10:44:22.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-05T14:34:18.620Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
+      "summary": "El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.",
+      "date": "2026-09-08"
+    },
     {
       "title": "El PP lleva al Congreso su plan ante la crisis de Ceuta: reforzar la frontera, agilizar las expulsiones y más policías",
       "summary": "El PP llevará a votación al Pleno del Congreso la próxima semana sus propuestas para afrontar la crisis de Ceuta , un plan que incluye reforzar el perímetro fronterizo alargando el espigón del Tarajal, un refuerzo permanente de Policía y Guardia Civil y más funcionarios para agilizar las expulsiones de quienes llegaron.",
@@ -55,13 +60,15 @@
       "title": "Margarita Robles firma el ascenso de Balas a coronel y su permanencia en la UCO hasta que finalice el caso Cerdán",
       "summary": "El reglamento de la Guardia Civil implica que el ascenso de Antonio Balas conlleve un cambio de destino pero el juez y el fiscal solicitaron que siga al frente de la investigación abierta El Congreso se convierte en territorio hostil para Sánchez La ministra de Defensa, Margarita Robles, firmó el pasado 1 de septiembre.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "EM&E mantendrá el sistema de vigilancia de costas por 62 millones",
-      "summary": "Escribano Mechanical & Engineering (EM&E) se encargará del mantenimiento integral de los despliegues fijos del Sistema Integrado de Vigilancia Exterior (SIVE), es decir, de la red tecnológica con la que la Guardia Civil se encarga de la vigilancia de las costas españolas. Seguir leyendo.",
-      "date": "2026-09-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
+      "url": "https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

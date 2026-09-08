@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/rob-marciano/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/rob-marciano/index.json",
   "description": "Follow Rob Marciano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Marciano",
     "Robert Mark Marciano"
   ],
   "changes": [
+    {
+      "title": "State of emergency in Hawaii as Hurricane Lowell approaches",
+      "summary": "Hurricane Lowell is barreling toward Hawaii, bringing the potential for life-threatening floods. CBS News' Carter Evans is in Kauai with more. Then, Rob Marciano joins with the latest forecast.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rob Marciano first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    },
     {
       "title": "Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.",
       "summary": "A total solar eclipse brought darkness to parts of Europe, the only time the phenomenon will be visible to humans in 2026. CBS News' Rob Marciano has more on the stunning moments.",
@@ -23,13 +33,15 @@
       "title": "Views of the total solar eclipse from parts of Europe",
       "summary": "A total solar eclipse was visible in parts of Europe for the first time since 1912. Rob Marciano reports.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Rob Marciano first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "State of emergency in Hawaii as Hurricane Lowell approaches",
+      "url": "https://www.cbsnews.com/video/state-of-emergency-hawaii-hurricane-lowell-approaches/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T03:53:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

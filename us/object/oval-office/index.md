@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [US military hits 3 Iranian oil tankers after saying Navy warships were targeted](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted?utm_source=lootura.com) — 2026-09-05T15:05:08.000Z
+No public source links.

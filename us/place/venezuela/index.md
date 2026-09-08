@@ -70,5 +70,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [U.S.-Venezuela oil deal puts opposition in a political bind](https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy?utm_source=lootura.com) — 2026-09-05T11:43:14.000Z
-- [U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say](https://www.pbs.org/newshour/economy/u-s-venezuela-oil-deal-wont-reduce-domestic-gasoline-prices-anytime-soon-experts-say?utm_source=lootura.com) — 2026-09-05T17:17:40.000Z
+No public source links.

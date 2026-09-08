@@ -46,5 +46,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Trump gets a big win at the Supreme Court and the NBA hands out a massive punishment: The news quiz](https://www.nbcnews.com/news/news-quiz/white-house-ballroom-news-quiz-rcna595982?utm_source=lootura.com) — 2026-09-05T09:15:00.000Z
-- [What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?](https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com) — 2026-09-05T12:00:36.000Z
+No public source links.

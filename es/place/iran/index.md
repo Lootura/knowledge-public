@@ -3,10 +3,28 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### El Ibex modera las caídas a la espera de Wall Street
+
+Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
+
+Date: 2026-09-08
+
+### El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo
+
+No hay lugar para la tregua en Oriente Próximo y la tensión bélica se traslada directamente al alza del precio del petróleo. Al bombardeo de petroleros iraníes de EE UU de este fin de seman a, en respuesta a los ataques de Teherán, se suma hoy el ataque de los hutíes de Yemen, respaldados por Irán, a instalaciones ener.
+
+Date: 2026-09-08
+
+### Irán amplía su pulso militar con EEUU en el Golfo Pérsico
+
+Teherán amenaza a las compañías petroleras estadounidenses y anuncia una "zona restringida" que abarcará todo el estrecho del Golfo Pérsico Leer.
+
+Date: 2026-09-07
 
 ### Irán condena el ataque de EE.UU. contra sus buques y advierte de que habrá consecuencias militares si continúan
 
@@ -50,26 +68,7 @@ Los precios del petróleo dan un respiro y bajan ligeramente, tras tres sesiones
 
 Date: 2026-09-03
 
-### Los bonos soberanos acumulan un mes de deterioro por el exceso de endeudamiento
-
-El mundo cada vez está más endeudado y el señor mercado se empieza a poner nervioso. Las rentabilidades exigidas a los Estados para comprar sus bonos soberanos llevan un mes al alza: de Estados Unidos a Japón, pasando por Alemania. El enquistado conflicto en Oriente Próximo —con nuevos ataques contra Irán —, la incerti.
-
-Date: 2026-09-02
-
-### Irán ataca bases estadounidenses en Bahréin, Kuwait e Irak tras golpear por segunda vez las de Jordania en menos de 48 horas
-
-Irán respondió así a los bombardeos estadounidenses lanzados este martes, en lo que supone el segundo ataque en menos de 48 horas, después de un mes sin que trascendieran nuevas agresiones cruzadas entre ambos países Leer.
-
-Date: 2026-09-02
-
-### Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania
-
-La nueva oleada de ataques contra Irán que había prometido el presidente de Estados Unidos, Donald Trump , ha llegado. Las fuerzas estadounidenses han atacado este martes posiciones iraníes por segunda vez en menos de 48 horas , mientras vuelve a dispararse la tensión en el estrecho de Ormuz . Como represalia, Irán, qu.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Irán condena el ataque de EE.UU. contra sus buques y advierte de que habrá consecuencias militares si continúan](https://www.eldebate.com/internacional/20260905/iran-condena-ataque-eeuu-contra-buques-advierte-habra-consecuencias-militares-continuan_455754.html?utm_source=lootura.com) — 2026-09-05T19:36:44.000Z
-- [Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria](https://www.eldebate.com/internacional/20260905/estados-unidos-bombardea-tres-petroleros-iranies-como-represalia-ataque-guardia-revolucionaria_455719.html?utm_source=lootura.com) — 2026-09-05T15:09:25.000Z
-- [EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros](https://theobjective.com/internacional/2026-09-05/eeuu-responde-al-ataque-de-iran-a-dos-buques-de-guerra-destruyendo-tres-petroleros/?utm_source=lootura.com) — 2026-09-05T14:51:58.000Z
+- [El Ibex modera las caídas a la espera de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-08T10:07:03.000Z
+- [El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo](https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html?utm_source=lootura.com) — 2026-09-08T09:43:02.000Z

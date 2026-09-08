@@ -3,10 +3,22 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá
+
+El presidente de Estados Unidos, Donald Trump, ha compartido este lunes en su red Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México, el Caribe y Canadá, además de Groenlandia e Islandia.Trump ha publicado ese mapa sin ningún comentario en su red Truth Social, horas de.
+
+Date: 2026-09-07
+
+### Trump publica un mapa de EEUU en el que se apropia de México, Canadá y Groenlandia
+
+El presidente de Estados Unidos, Donald Trump , ha compartido este lunes en su red social Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México , el Caribe y Canadá, además de Groenlandia e Islandia . Trump ha publicado la imagen sin ningún comentario, pocas horas después.
+
+Date: 2026-09-07
 
 ### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
 
@@ -56,18 +68,6 @@ Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washingto
 
 Date: 2026-08-05
 
-### Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”
-
-Christopher Anderson (Kelowna, Canadá, 56 años) es uno de los grandes iconos de la fotografía moderna, no solo por su carrera sino por su versatilidad. El canadiense se crio en Texas y su primer gran reconocimiento llegó en 1999 cuando junto al periodista Michael Finkel se subió a una barca en la que viajaban 44 haitia.
-
-Date: 2026-07-24
-
-### Gentrificación, sobreexplotación turística, vivienda escasa: ¿y si no todo fuera culpa de Airbnb?
-
-Señal de protesta contra Airbnb en Montreal, Canadá. BalkansCat/Shutterstock En muchos destinos, cuando el turismo empieza a incomodar, el debate público encuentra enseguida un culpable reconocible: Airbnb . La plataforma (y, en general, el alquiler turístico de corta duración) concentra buena parte del malestar porque.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel](https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com) — 2026-09-08T14:05:48.000Z

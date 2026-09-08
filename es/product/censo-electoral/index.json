@@ -1,0 +1,54 @@
+{
+  "id": "es-censo-electoral",
+  "name": "Censo electoral",
+  "type": "product",
+  "locale": "es",
+  "canonicalPath": "/es/product/censo-electoral",
+  "canonicalUrl": "https://atlas.lootura.com/es/product/censo-electoral",
+  "markdownUrl": "https://atlas.lootura.com/es/product/censo-electoral/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/product/censo-electoral/index.json",
+  "description": "Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "aliases": [
+    "registro electoral",
+    "padron electoral",
+    "electoral register",
+    "poll book",
+    "voters roll",
+    "voter list",
+    "voter file",
+    "voter roll"
+  ],
+  "changes": [
+    {
+      "title": "Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta",
+      "summary": "Después de que el Tribunal Supremo haya decidido estimar la medida cautelar solicitada por las formaciones políticas Vox e Iustita Europa y haya ordenado la suspensión de los efectos electorales de las inscripciones en el Censo Electoral de Residentes Ausentes (CERA) vinculadas a la Ley de Nietos, hasta que se dicte se.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Sumar critica la decisión del Supremo sobre la ‘ley de nietos’: «Tremendamente preocupante»",
+      "summary": "La portavoz de Sumar en el Congreso, Verónica Martínez Barbero , ha criticado la decisión del Tribunal Supremo (TS) de suspender de manera cautelar el voto para las personas ya inscritas en el Censo Electoral de Residentes Ausentes (CERA) que consiguieron la nacionalidad a través de la denominada ‘ley de nietos’ , así.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Censo Electoral first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-08"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta",
+      "url": "https://okdiario.com/comunidad-valenciana/sanchez-va-visita-fabrica-cohetes-espaciales-elche-plena-crisis-invasion-ceuta-20250791?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:21:40.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    },
+    {
+      "title": "Sumar critica la decisión del Supremo sobre la ‘ley de nietos’: «Tremendamente preocupante»",
+      "url": "https://theobjective.com/espana/politica/2026-09-08/sumar-decision-supremo-ley-nietos-preocupante/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T14:43:41.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

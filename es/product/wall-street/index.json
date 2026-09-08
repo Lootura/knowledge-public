@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "El Ibex modera las caídas a la espera de Wall Street",
+      "summary": "Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El Ibex pierde el 20.000 por la mínima y con el petróleo cerca de los 100 dólares",
+      "summary": "Los mercados recuperan hoy la normalidad con el regreso a la actividad de Wall Street. Más complejo resulta recuperar las subidas de forma clara. Las presiones del petróleo y de los intereses de la deuda mantienen las dudas en Bolsa, y en un Ibex que sufre al filo de los 20.000 puntos.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Oportunidades y riesgos del bono de EEUU cerca del 5%",
+      "summary": "Las últimas turbulencias en el mercado de deuda han acercado la rentabilidad del bono estadounidense a la cota del 5% (ayer permaneció el 4,78%, ya que Wall Street cerró por el Día del Trabajador). Para Wall Street, este rendimiento supone una amenaza. Para los inversores de bonos, sin embargo, una suculenta oportunida.",
+      "date": "2026-09-07"
+    },
     {
       "title": "La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas",
       "summary": "La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de las grandes cotizadas galas —el Cac 40— se ha estancado en el último semestre, mientras que el Ibex 35 ha avanzado un 11% y Wall Street ha subido un 12%, en el mismo periodo. Los inversores recelan de la complicada situación política y del ele.",
@@ -47,23 +62,21 @@
       "title": "¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple",
       "summary": "El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Nvidia se alía con los gigantes de Wall Street para financiar IA",
-      "summary": "Apollo, Blackstone y Goldman Sachs se encuentran entre los grupos que trabajan con el principal fabricante de semiconductores para recaudar capital por el auge de los centros de datos. Seguir leyendo.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Why finance jobs are widening income inequality in cities around the world",
-      "summary": "Skyscrapers in the City of London, United Kingdom. Mistervlad/Shutterstock Try to imagine the history of New York without Wall Street, or London without the City. It’s not easy. Hosting a country’s main financial markets shapes a city’s identity, raises its profile and creates jobs. But there are trade-offs. By acting.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "El Ibex sube un 2% en la semana de los 20.000 puntos",
-      "summary": "El selectivo cierra en los 20.176 puntos, con una caída este viernes del 0,02%, después de que el impulso experimentado por Wall Street tras el dato de empleo de EEUU no se haya trasladado al parqué español. En la semana, Indra, disparada un 11%, la banca e Inditex han sido claves para alcanzar nuevos máximos histórico.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Ibex modera las caídas a la espera de Wall Street",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T10:07:03.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El Ibex pierde el 20.000 por la mínima y con el petróleo cerca de los 100 dólares",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/08/6a9fa36ae5fdea79098b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:41:05.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
 }

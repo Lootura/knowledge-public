@@ -34,4 +34,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [Late Roman decrees uncover military system behind amphitheater animal spectacles](https://phys.org/news/2026-09-late-roman-decrees-uncover-military.html?utm_source=lootura.com) — 2026-09-05T11:20:01.000Z
+No public source links.

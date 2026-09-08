@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.json",
   "description": "Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T19:16:09.956Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -20,6 +20,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Prince Harry and Meghan will not be working royals, King Charles says",
+      "summary": "Prince Harry and Meghan Markle are back in the United Kingdom, but King Charles says that the couple will not be working royals. CBS News' Leigh Kiniry has more.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Animal-bone records reveal how cattle and sheep fueled medieval England's changing economy",
       "summary": "As populations expanded in medieval England, key changes occurred in the uses of cattle and sheep to produce food and materials, according to a study published Sept. 2, 2026, in the journal PLOS One by Matilda Holmes of the University of Leicester, United Kingdom, David Orton of the University of York, United Kingdom,.",
@@ -36,6 +41,13 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Prince Harry and Meghan will not be working royals, King Charles says",
+      "url": "https://www.cbsnews.com/video/harry-and-meghan-will-not-be-working-royals-king-charles-says/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T15:29:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

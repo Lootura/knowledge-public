@@ -3,10 +3,28 @@
 > Sigue la actividad de Elma Sáiz Delgado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T22:19:40.296Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/elma-saiz
 
 ## Cambios recientes
+
+### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
+
+El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la "imparcialidad" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.
+
+Date: 2026-09-08
+
+### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
+
+El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
+
+Date: 2026-09-08
+
+### El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”
+
+“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.
+
+Date: 2026-09-08
 
 ### Los ceutíes se echan a la calle para exigir la salida de la ONG del edificio cedido por el Gobierno y destapado por OKDIARIO: "¡Fuera, sinvergüenzas!"
 
@@ -46,4 +64,6 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"](https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com) — 2026-09-08T13:18:27.000Z
+- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
+- [El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”](https://www.lavanguardia.com/politica/20260908/11630108/gobierno-ve-pruebas-marruecos-pide-feijoo-alentar-teorias-conspiranoicas.html?utm_source=lootura.com) — 2026-09-08T13:00:26.000Z

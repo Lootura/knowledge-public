@@ -3,10 +3,40 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Los gráficos que evidencian la alarmante caída del País Vasco en Educación
+
+La comprensión lectora y la falta de alumnado excelente en Ciencias revelan retrocesos en el nivel académico superiores a los de países del entorno.
+
+Date: 2026-09-08
+
+### Euskadi firma los peores resultados de su historia en PISA y solo está por encima de Ceuta y Melilla
+
+Los alumnos vascos solo superan a los de las ciudades autónomas en las pruebas de lectura y obtienen también unos resultados muy pobres en competencia científica.
+
+Date: 2026-09-08
+
+### PISA constata el hundimiento del sistema educativo vasco con el desplome de las ciencias para acelerar la euskaldunización
+
+Los resultados en competencias científicas caen 77 puntos respecto al debut del País Vasco en la evaluación internacional comparativa que ahora desdeña. En 2003, los expertos vascos ya reclamaban aumentar las horas en Ciencias y trabajar en una "metodología adecuada" Leer.
+
+Date: 2026-09-08
+
+### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
+
+La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...
+
+Date: 2026-09-08
+
+### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
+
+Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
+
+Date: 2026-09-08
 
 ### Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi
 
@@ -38,36 +68,10 @@ ETA ya no mata. Esto parece una obviedad, ya que la banda entregó las armas en 
 
 Date: 2026-09-03
 
-### Los médicos harán huelga indefinida a partir de octubre como rechazo al Estatuto Marco
-
-El Sindicato Médico de Euskadi secunda una decisión que llega en respuesta a la aprobación este martes en el Consejo de Ministros del anteproyecto que modificará las condiciones laborales de los trabajadores sanitarios.
-
-Date: 2026-09-02
-
-### Jesús Calleja se apunta al ‘farmeo de aura’ y el momento se convierte en viral: ¿y tú, eres un experto o todavía estás en prácticas?
-
-Jesús Calleja ha demostrado que no hay tendencia viral que se le resista. El presentador ha protagonizado un divertido momento junto a Álex González y su novia, Carla Virgós , durante una boda celebrada en el País Vasco, donde los tres se han animado a poner en práctica uno de los conceptos que más se han popularizado.
-
-Date: 2026-09-02
-
-### Zupiria alerta ante las protestas y contraconcentraciones de mañana en Euskadi por la crisis de Ceuta: «Confío en que todos nos comportemos»
-
-El consejero de Seguridad vincula el auge de las convocatorias del PP con la crisis de Ceuta y descarta connotación política en los ataques a la Ertzaintza de este verano.
-
-Date: 2026-09-01
-
-### Euskadi lidera junto a Navarra la cifra de 'empresas fantasma' al sumar 30.000
-
-El 37,7% de las 82.492 compañías vascas no ha presentado sus cuentas en el registro, ni tiene signos de actividad en los dos últimos años.
-
-Date: 2026-08-31
-
-### Cataluña y País Vasco trampean las pruebas PISA para ocultar el desastre educativo
-
-Cataluña y País Vasco , las dos comunidades con un sistema educativo más condicionado por las políticas lingüísticas de sus gobiernos , presumieron durante años de resultados en PISA por encima de la media española y de la OCDE. La prueba, que se repite cada tres años y en la que participan cerca de cien países, es una.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-- [Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi](https://www.elcorreo.com/bizkaia/centenar-personas-reciben-freedom-flotilla-llegada-euskadi-20260905193726-nt_amp.html?utm_source=lootura.com) — 2026-09-05T17:37:27.000Z
+- [Los gráficos que evidencian la alarmante caída del País Vasco en Educación](https://www.elcorreo.com/bizkaia/graficos-evidencian-caida-pais-vasco-educacion-pisa-20260907092416-nt.html?utm_source=lootura.com) — 2026-09-08T07:29:08.000Z
+- [Euskadi firma los peores resultados de su historia en PISA y solo está por encima de Ceuta y Melilla](https://www.diariovasco.com/sociedad/educacion/euskadi-toca-fondo-firma-peores-resultados-historia-informe-pisa-20260908091836-nt_amp.html?utm_source=lootura.com) — 2026-09-08T07:30:02.000Z
+- [PISA constata el hundimiento del sistema educativo vasco con el desplome de las ciencias para acelerar la euskaldunización](https://www.elmundo.es/pais-vasco/2026/09/08/6a9ef6fc21efa06b3d8b4577.html?utm_source=lootura.com) — 2026-09-08T08:25:07.000Z
+- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
+- [Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías](https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html?utm_source=lootura.com) — 2026-09-08T07:30:17.000Z

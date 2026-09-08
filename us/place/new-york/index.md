@@ -3,10 +3,28 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Trump's construction projects are transforming the capital
+
+President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve "architectural immortality.".
+
+Date: 2026-09-07
+
+### Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam
+
+New York City mayor confirms he will attend memorial service but declines to respond to Giuliani’s remarks New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days after the former mayor – who led the city at the time of the 2001 terrorist attacks.
+
+Date: 2026-09-07
+
+### For a Photographer, the Towers Were an Ever-Present Focal Point
+
+Keith Meyers spent years photographing the waterfronts in and around New York City. The twin towers became a constant backdrop.
+
+Date: 2026-09-07
 
 ### Serena and Venus Williams fall in thriller return to U.S. Open women's doubles
 
@@ -50,25 +68,6 @@ The U.S. Open is underway in New York City. Sports Illustrated senior writer and
 
 Date: 2026-09-03
 
-### 9/11 memorial service should be about remembrance, not politics, Mamdani says
-
-This year's 9/11 memorial service will be Zohran Mamdani's first as mayor of New York City.
-
-Date: 2026-09-03
-
-### Gloria Steinem's Long and Revealing History With TIME
-
-Over the course of her long and influential life, Gloria Steinem went from being described in the pages of TIME as “one of the best dates to take to a New York party these days” and “smashing looking Gucci liberal” to being lauded as a “ feminist icon .” If nothing else, the shift in the tone of her coverage in the mag.
-
-Date: 2026-09-03
-
-### Down by the Hudson – ode to a New York swimming creek – in pictures
-
-For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Serena and Venus Williams fall in thriller return to U.S. Open women's doubles](https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com) — 2026-09-05T02:56:42.000Z
-- [What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?](https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com) — 2026-09-05T12:00:36.000Z
+- [Mamdani Launches Public Portal With 170,000 Pages of 9/11 Records](https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/?utm_source=lootura.com) — 2026-09-08T11:26:35.000Z

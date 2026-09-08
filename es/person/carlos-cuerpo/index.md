@@ -3,20 +3,32 @@
 > Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-03T08:32:11.154Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-cuerpo
 
 ## Cambios recientes
 
-### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+### El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»
 
-El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
+La portavoz del Grupo Popular en el Senado, Alicia García , ha advertido al vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo, que el Gobierno de Sánchez «está solo frente a todos», en relación a la gestión de la invasión migratoria en Ceuta . Por su parte, el miembro del gabinete de Sánchez ha.
 
-Date: 2026-09-02
+Date: 2026-09-08
+
+### Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018
+
+El vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, ha asegurado este martes que la situación de las familias españolas.
+
+Date: 2026-09-08
 
 ### Discovered by Atlas
 
 Carlos Cuerpo first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-02
+
+### EEUU monta otro G20 sin España, aunque invita a Países Bajos y Polonia sin ser miembros
+
+El Gobierno de Trump sigue borrando a Carlos Cuerpo y a otros ministros españoles de las reuniones de esta grupo de élite del año Leer.
 
 Date: 2026-09-02
 
@@ -28,4 +40,5 @@ Date: 2026-09-02
 
 ## Fuentes
 
-No public source links.
+- [El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»](https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com) — 2026-09-08T15:11:48.000Z
+- [Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018](https://theobjective.com/economia/2026-09-08/cuerpo-economia-familias-mejor-2018/?amp=&utm_source=lootura.com) — 2026-09-08T15:22:27.000Z

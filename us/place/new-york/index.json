@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,21 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Trump's construction projects are transforming the capital",
+      "summary": "President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve \"architectural immortality.\".",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam",
+      "summary": "New York City mayor confirms he will attend memorial service but declines to respond to Giuliani’s remarks New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days after the former mayor – who led the city at the time of the 2001 terrorist attacks.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "For a Photographer, the Towers Were an Ever-Present Focal Point",
+      "summary": "Keith Meyers spent years photographing the waterfronts in and around New York City. The twin towers became a constant backdrop.",
+      "date": "2026-09-07"
+    },
     {
       "title": "Serena and Venus Williams fall in thriller return to U.S. Open women's doubles",
       "summary": "Playing together at the U.S. Open in New York for the first time in four years, Serena​ and Venus Williams lost in a three-set thriller match in the first round of the women's doubles tournament.",
@@ -67,36 +82,15 @@
       "title": "These athletes will advance to the U.S. Open's third round",
       "summary": "The U.S. Open is underway in New York City. Sports Illustrated senior writer and 60 Minutes correspondent Jon Wertheim has the latest on tennis starts to watch.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "9/11 memorial service should be about remembrance, not politics, Mamdani says",
-      "summary": "This year's 9/11 memorial service will be Zohran Mamdani's first as mayor of New York City.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Gloria Steinem's Long and Revealing History With TIME",
-      "summary": "Over the course of her long and influential life, Gloria Steinem went from being described in the pages of TIME as “one of the best dates to take to a New York party these days” and “smashing looking Gucci liberal” to being lauded as a “ feminist icon .” If nothing else, the shift in the tone of her coverage in the mag.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Down by the Hudson – ode to a New York swimming creek – in pictures",
-      "summary": "For more than a decade Caleb Stein has been photographing a communal swimming creek in Poughkeepsie, New York. Returning every summer, he documented the community at a timeless spot. He talks about the people he has met Down by the Hudson is published by Palo Press with an accompanying exhibition opening in New York on.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Serena and Venus Williams fall in thriller return to U.S. Open women's doubles",
-      "url": "https://www.cbsnews.com/news/serena-venus-williams-us-open-womens-doubles-first-round/?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T02:56:42.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?",
-      "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour?utm_source=lootura.com",
-      "publishedAt": "2026-09-05T12:00:36.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Mamdani Launches Public Portal With 170,000 Pages of 9/11 Records",
+      "url": "https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T11:26:35.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T14:34:18.620Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### Meloni asegura que preservar Schengen pasa por defender las fronteras exteriores de la UE
+
+La primera ministra italiana, Giorgia Meloni , afirmó este lunes que la mejor manera de preservar el espacio Schengen pasa por defender las fronteras exteriores de la Unión Europea (UE) y por que todos los Estados miembros contribuyan a combatir a los traficantes de personas y la inmigración irregular. «Sigo firmemente.
+
+Date: 2026-09-07
 
 ### Meloni insiste en «extremar» la vigilancia de cara a otra posible invasión en Ceuta este sábado
 

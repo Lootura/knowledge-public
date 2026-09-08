@@ -3,10 +3,22 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Ibex modera las caídas a la espera de Wall Street
+
+Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
+
+Date: 2026-09-08
+
+### El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo
+
+No hay lugar para la tregua en Oriente Próximo y la tensión bélica se traslada directamente al alza del precio del petróleo. Al bombardeo de petroleros iraníes de EE UU de este fin de seman a, en respuesta a los ataques de Teherán, se suma hoy el ataque de los hutíes de Yemen, respaldados por Irán, a instalaciones ener.
+
+Date: 2026-09-08
 
 ### El pulso entre China y EEUU se traslada a Oriente Próximo
 
@@ -56,18 +68,7 @@ Geopolítica, inflación y bancos centrales dominan la actualidad de los mercado
 
 Date: 2026-09-01
 
-### Las Bolsas despiden la semana sin rumbo entre el alivio por la inflación en EE UU y la tensión en Oriente Próximo
-
-Los inversores se han movido entre las dudas y la incertidumbre en la segunda semana de agosto, uno de los meses en los que tradicionalmente el volumen de negociación es menor que el resto del año debido a la época estival. Las Bolsas han encarado el viernes entre la reacción a una inflación estadounidense más benévola.
-
-Date: 2026-08-14
-
-### El Gobierno prolonga la vida de la central nuclear de Almaraz hasta 2030 por "la crisis en Oriente Próximo"
-
-El Ministerio para la Transición Ecológica y el Reto Demográfico (Miteco) ha renovado la autorización de explotación de la Central Nuclear Almaraz para las Unidades I y II, según la orden publicada este viernes en el Boletín Oficial del Estado (BOE). La decisión permitirá que los dos reactores de la central extremeña s.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [El Ibex modera las caídas a la espera de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-08T10:07:03.000Z
+- [El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo](https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html?utm_source=lootura.com) — 2026-09-08T09:43:02.000Z

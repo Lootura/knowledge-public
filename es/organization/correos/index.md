@@ -3,10 +3,16 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
+
+### Un individuo propina a otro a pleno día una paliza en una plaza en el centro de Alicante
+
+Un individuo ha propinado a otro una paliza en una céntrica plaza de la ciudad de Alicante , como puede verse en el vídeo que ilustra esta información. Los hechos se han producido el viernes de la pasada semana, en la conocida como plaza de Correos, a apenas 100 metros de la turística y emblemática Explanada de España,.
+
+Date: 2026-09-08
 
 ### Un salvavidas de 2.500 millones de bancos españoles evitó la suspensión de pagos de Correos
 
@@ -62,12 +68,6 @@ El juez Santiago Pedraz cita como investigado en el caso Leire a Juan Manuel Ser
 
 Date: 2026-07-10
 
-### Anticorrupción reclama la imputación al exjefe de gabinete de Sánchez por las "cloacas del PSOE"
-
-Nuevo avance en el cerco al entorno del presidente del Gobierno, Pedro Sánchez. A lo largo de esta mañana se ha conocido que la Fiscalía Anticorrupción ha reclamo al juez de la Audiencia Nacional que investiga el 'caso Leire Díez', Santiago Pedraz, que impute en la causa a Juan Manuel Serrano, expresidente de Correos y.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-No public source links.
+- [Un individuo propina a otro a pleno día una paliza en una plaza en el centro de Alicante](https://okdiario.com/comunidad-valenciana/individuo-propina-otro-pleno-dia-paliza-plaza-centro-alicante-20250516?utm_source=lootura.com) — 2026-09-08T15:41:20.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-08T15:58:25.403Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Amnistía Internacional pide que se condene la violencia contra los periodistas que informan sobre Ceuta
+
+La organización plantea que todos los partidos políticos y autoridades rechacen estos actos, así como "los actos y discursos racistas y xenófobos" Opinión - Unos señalan. Otros agreden a periodistas Amnistía Internacional (AI) ha pedido a todos los partidos políticos y autoridades que condenen públicamente la violencia.
+
+Date: 2026-09-07
 
 ### Anthropic se lanza a por la ‘start-up’ Decart por 5.200 millones, su mayor compra histórica
 
@@ -58,4 +64,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [La Cosori ICONIC Dual, la freidora de aire con doble cesta que se comporta como un electrodoméstico de diseño](https://okdiario.com/tecnologia/cosori-iconic-dual-freidora-aire-doble-cesta-que-comporta-como-electrodomestico-diseno-20235413?utm_source=lootura.com) — 2026-09-05T17:12:53.000Z
+- [Cataluña obtendría «de los peores resultados» si no hubiera sido expulsada por trampas](https://www.abc.es/sociedad/muestra-alumnado-optimizada-cataluna-dispara-resultados-pisa-20260908102758-nt.html?utm_source=lootura.com) — 2026-09-08T15:37:33.000Z

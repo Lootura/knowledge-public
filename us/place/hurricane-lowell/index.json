@@ -1,0 +1,55 @@
+{
+  "id": "usa-hurricane-lowell",
+  "name": "Hurricane Lowell",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/hurricane-lowell",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/hurricane-lowell",
+  "markdownUrl": "https://atlas.lootura.com/us/place/hurricane-lowell/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/hurricane-lowell/index.json",
+  "description": "Follow Hurricane Lowell, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "State of emergency in Hawaii as Hurricane Lowell approaches",
+      "summary": "Hurricane Lowell is barreling toward Hawaii, bringing the potential for life-threatening floods. CBS News' Carter Evans is in Kauai with more. Then, Rob Marciano joins with the latest forecast.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Hurricane warning issued for western Hawaii as Lowell approaches",
+      "summary": "The National Hurricane Center posted a hurricane warning for western Hawaii's Kauai County as Hurricane Lowell moved toward the area as a Category 2 storm.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Hurricane Lowell first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Hurricane Lowell expected to impact Hawaii overnight",
+      "summary": "Hurricane Lowell has turned northward and is expected to pass close to Hawaii overnight Monday into Tuesday, bringing hurricane-force winds and heavy rainfall. CBS News correspondent Carter Evans reports from Kauai.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Hurricane Lowell nears Hawaii, prompting warnings for 3 islands",
+      "summary": "Hurricane Lowell is expected to pass to the west of the Hawaiian islands of Kauai and Niihau. A hurricane warning is in effect for both, with a tropical storm warning for Oahu.",
+      "date": "2026-09-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "State of emergency in Hawaii as Hurricane Lowell approaches",
+      "url": "https://www.cbsnews.com/video/state-of-emergency-hawaii-hurricane-lowell-approaches/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T03:53:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Hurricane warning issued for western Hawaii as Lowell approaches",
+      "url": "https://www.cbsnews.com/news/hurricane-lowell-western-hawaii/?utm_source=lootura.com",
+      "publishedAt": "2026-09-08T03:13:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -3,10 +3,22 @@
 > Follow Rob Marciano, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-09-08T15:58:44.536Z
 - Canonical: https://atlas.lootura.com/us/person/rob-marciano
 
 ## Recent changes
+
+### State of emergency in Hawaii as Hurricane Lowell approaches
+
+Hurricane Lowell is barreling toward Hawaii, bringing the potential for life-threatening floods. CBS News' Carter Evans is in Kauai with more. Then, Rob Marciano joins with the latest forecast.
+
+Date: 2026-09-08
+
+### Discovered by Atlas
+
+Rob Marciano first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-13
 
 ### Total solar eclipse dipped parts of Europe into complete darkness. Here's what they saw.
 
@@ -20,12 +32,6 @@ A total solar eclipse was visible in parts of Europe for the first time since 19
 
 Date: 2026-08-13
 
-### Discovered by Atlas
-
-Rob Marciano first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-13
-
 ## Sources
 
-No public source links.
+- [State of emergency in Hawaii as Hurricane Lowell approaches](https://www.cbsnews.com/video/state-of-emergency-hawaii-hurricane-lowell-approaches/?utm_source=lootura.com) — 2026-09-08T03:53:00.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Boga Boga: se acerca el capricho melómano de Donostia con su edición más ambiciosa
+
+La cuarta edición del festival llega de jueves a domingo con nombres internacionales como Sébastien Tellier, Alice Phoebe Lou y Bodega.
+
+Date: 2026-09-07
+
+### Programa completo del Zinemaldia: películas, salas y horarios
+
+Consulta la agenda completa de proyecciones y películas en el Festival de Cine de San Sebastián 2026.
+
+Date: 2026-09-07
 
 ### Las Euskal Jaiak toman Donostia las próximas dos semanas
 
@@ -53,18 +65,6 @@ Date: 2026-08-12
 ### ¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?
 
 Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.
-
-Date: 2026-08-12
-
-### Al Zinemaldia se le 'cae' un Premio Donostia, pero consigue otra estrella para recibirlo
-
-Rebordinos elogia al primer galardonado, Werner Herzog', y anuncia una edición con muchas figuras internacionales.
-
-Date: 2026-08-12
-
-### Así se ha vivido el eclipse en Gipuzkoa
-
-Desde San Sebastián a Arrasate, miles de personas han disfrutado de un hito astronómico único.
 
 Date: 2026-08-12
 

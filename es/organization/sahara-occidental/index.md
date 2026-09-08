@@ -3,10 +3,16 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-09T05:02:04.315Z
+- Actualizado: 2026-09-08T03:00:59.069Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
+
+### El Gobierno incluye a Ceuta y Melilla en un mapa como zonas en disputa con Marruecos
+
+Un gol en propia puerta. El estreno del portal público de vivienda Casa 47 arranca con polémica . El anuncio estrella del Gobierno ha quedado eclipsado tras situar a Ceuta y Melilla como territorios en disputa con Marruecos e incluir al Sáhara Occidental como parte del reino alauita. Lo ocurrido ha incendiado las redes.
+
+Date: 2026-09-07
 
 ### Estados Unidos, un aliado más estratégico que nunca para Marruecos
 
