@@ -3,10 +3,16 @@
 > Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/john-ternus
 
 ## Cambios recientes
+
+### Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros
+
+El nuevo director ejecutivo de Apple , John Ternus, ha anunciado este miércoles el primer teléfono plegable de la compañía, bautizado como iPhone Duo, un dispositivo que presenta un tamaño similar al de un pasaporte cuando se encuentra cerrado —con una pantalla exterior de 5,4 pulgadas— y que saldrá al mercado por 2.33.
+
+Date: 2026-09-09
 
 ### Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch
 
@@ -46,4 +52,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch](https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com) — 2026-09-08T10:44:22.000Z
+- [Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros](https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com) — 2026-09-09T20:17:06.000Z

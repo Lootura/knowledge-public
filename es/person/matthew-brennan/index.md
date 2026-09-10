@@ -3,7 +3,7 @@
 > Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/matthew-brennan
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Brennan vuela gracias a Van Aert y firma el póker en La Vuelta](https://okdiario.com/deportes/brennan-vuela-gracias-van-aert-firma-poker-vuelta-20251118?utm_source=lootura.com) — 2026-09-08T15:36:12.000Z
+No public source links.

@@ -3,80 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### 25 years after 9/11, Taliban rules Afghanistan again, but with U.S. firepower
+### Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms
 
-CBS News finds Taliban forces patrolling Kabul in American armored vehicles, wearing American tactical gear and carrying American weapons.
+During his speech at the Republican midterm convention, President Donald Trump announced that every adult U.S. citizen would receive a $5,000 “dividend” if Republican won the midterm elections in November, but said it must be spent in the U.S.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### U.S. envoy warns U.K. against new plan to sanction Israeli settlements
+### Polarized trust in scientists driven by values, identity and politics
 
-Britain and 11 other U.S. allies say they'll sanction trade with Israeli settlements in the West Bank, citing an "unprecedented level of settler violence.".
+Trust in scientists in the UK is strong overall, with 63% indicating they have high trust in scientists in general—but a major new study finds this trust is closely shaped by people's values, identity and politics, showing some of the same patterns of division over science that have emerged in the U.S.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge
+### Dan McKee becomes first governor in 8 years to lose primary
 
-Higher gas and diesel prices have cost Americans an additional $100 billion since the Iran war began, according to a Brown University tracker.
+Rhode Island Democratic Gov. Dan McKee became the first governor in eight years in the U.S. to lose a primary, falling on Wednesday to former CVS executive Helena Foulkes and becoming the latest victim of a rough year for incumbents. McKee’s campaign was bogged down by the botched handling of a years-long project to re.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Small plane goes missing off Bahamas carrying 4 members of Florida family
+### Trump escalates Canada trade war by banning some imports
 
-A small plane carrying four family members flying back home to Florida went missing off the Bahamas, the U.S. Coast Guard and authorities in the Bahamas said.
+After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
+### Feds to buy up to $6 billion in Treasury bonds. Here's why.
 
-Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
+Wall Street analysts are skeptical that the Treasury Department's bond purchases can curb yields and lower U.S. borrowing costs.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect
+### Federal judge backs Missouri's new House map favoring Republicans hours after Supreme Court declines to hear case
 
-Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight. (Image credit: Roberto Schmidt).
+A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Current events: Scientists keep close eye on Atlantic Ocean changes
+### Trump says oil prices will come down after midterm elections
 
-The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as low as 27 degrees Fahrenheit below today's averages. In U.S. coastal cities such as Miami and Charles.
+President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
+### Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push
 
-The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.
+U.S. Secretary of State Marco Rubio hailed Ecuador on Wednesday as being the most "aggressive" partner in the Trump administration's push to crack down on drug trafficking and transnational criminal groups in the Western Hemisphere.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War
+### The lasting psychological impact of 9/11 on America
 
-The Montreal-based manufacturer has been embroiled in U.S. trade disputes before. President Trump threatened to bar the company from selling in the United States.
+Judy Woodruff recently visited the September 11 Memorial in New York for a look at how the attacks, 25 years ago, continue to shape our lives today. It's part of her series, Crossroads: America at 250.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Iceland Summons U.S. Ambassador Over Provocative Trump Map
+### Fight Over Missouri House Map Returns to U.S. Supreme Court
 
-After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.
+The appeal came as the Missouri Supreme Court weighed whether to hold the state’s top election official in contempt.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
 ## Sources
 
-- [25 years after 9/11, Taliban rules Afghanistan again, but with U.S. firepower](https://www.cbsnews.com/news/afghanistan-taliban-using-american-weapons-25-years-after-september-11/?utm_source=lootura.com) — 2026-09-08T01:42:30.000Z
-- [U.S. envoy warns U.K. against new plan to sanction Israeli settlements](https://www.cbsnews.com/news/israel-uk-sanctions-west-bank-settlements-huckabee-us-repercussions/?utm_source=lootura.com) — 2026-09-08T15:18:51.000Z
-- [Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge](https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/?utm_source=lootura.com) — 2026-09-08T14:54:26.000Z
-- [Small plane goes missing off Bahamas carrying 4 members of Florida family](https://www.cbsnews.com/news/small-plane-goes-missing-off-bahamas-carrying-4-members-of-florida-family-authorities-say/?utm_source=lootura.com) — 2026-09-08T06:06:56.000Z
-- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
-- [GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect](https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs?utm_source=lootura.com) — 2026-09-08T11:20:05.000Z
-- [Current events: Scientists keep close eye on Atlantic Ocean changes](https://phys.org/news/2026-09-current-events-scientists-eye-atlantic.html?utm_source=lootura.com) — 2026-09-08T15:40:02.000Z
-- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z
-- [Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War](https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html?utm_source=lootura.com) — 2026-09-08T14:21:11.000Z
-- [Iceland Summons U.S. Ambassador Over Provocative Trump Map](https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html?utm_source=lootura.com) — 2026-09-08T15:25:57.000Z
+- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
+- [Feds to buy up to $6 billion in Treasury bonds. Here's why.](https://www.cbsnews.com/news/us-treasury-bond-buyback-6-billion-yields/?utm_source=lootura.com) — 2026-09-09T21:31:51.000Z
+- [Federal judge backs Missouri's new House map favoring Republicans hours after Supreme Court declines to hear case](https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/?utm_source=lootura.com) — 2026-09-09T22:14:29.000Z
+- [Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms](https://www.nbcnews.com/now/video/trump-claims-u-s-adults-will-get-a-5k-dividend-if-republicans-win-the-midterms-269599301613?utm_source=lootura.com) — 2026-09-10T02:30:38.000Z
+- [WATCH: Trump says oil prices will come down after midterm elections](https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections?utm_source=lootura.com) — 2026-09-09T22:08:17.000Z
+- [Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push](https://www.pbs.org/newshour/world/rubio-hails-ecuador-as-an-aggressive-partner-in-the-us-counterdrug-push?utm_source=lootura.com) — 2026-09-09T21:53:07.000Z
+- [The lasting psychological impact of 9/11 on America](https://www.pbs.org/newshour/show/the-lasting-psychological-impact-of-9-11-on-america?utm_source=lootura.com) — 2026-09-09T22:20:50.000Z
+- [Polarized trust in scientists driven by values, identity and politics](https://phys.org/news/2026-09-polarized-scientists-driven-values-identity.html?utm_source=lootura.com) — 2026-09-10T00:20:04.000Z
+- [Dan McKee becomes first governor in 8 years to lose primary](https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983?utm_source=lootura.com) — 2026-09-10T00:25:46.000Z
+- [Fight Over Missouri House Map Returns to U.S. Supreme Court](https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html?utm_source=lootura.com) — 2026-09-09T22:17:40.000Z

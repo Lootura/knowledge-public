@@ -3,10 +3,22 @@
 > Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/organization/iustitia-europa
 
 ## Cambios recientes
+
+### El Supremo paraliza el derecho al voto de nacionalizados por la ‘ley de nietos’
+
+El Tribunal Supremo ha limitado este martes el derecho al voto de los nacionalizados a través de la Ley de Memoria Democrática. La Sala de lo Contencioso-Administrativo ha estimado de forma parcial la petición que habían formulado Vox y el partido Iustitia Europa para que se suspenda la inscripción inmediata en el cens.
+
+Date: 2026-09-08
+
+### En Sumario de tarde: del freno del Supremo a la ‘ley de nietos’ al hundimiento educativo en España
+
+Revés del Tribunal Supremo al Gobierno. El Alto Tribunal ha decidido este martes paralizar cautelarmente el censo derivado de la llamada ley de nietos , que permite a los nacionalizados descendientes de españoles votar en las elecciones . La Sala ha estimado los recursos presentados por Iustitia Europa y Vox, en concre.
+
+Date: 2026-09-08
 
 ### El Tribunal Supremo paraliza el censo de la 'ley de nietos'
 
@@ -52,6 +64,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El Tribunal Supremo paraliza el censo de la 'ley de nietos'](https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html?utm_source=lootura.com) — 2026-09-08T15:10:32.000Z
-- [El Supremo paraliza el derecho al voto de los beneficiarios de la ley de nietos hasta que acrediten que son hijos o nietos de exiliados](https://elpais.com/espana/2026-09-08/el-supremo-paraliza-el-derecho-al-voto-de-los-beneficiarios-de-la-ley-de-nietos.html?utm_source=lootura.com) — 2026-09-08T13:36:56.000Z
-- [El Supremo frena el derecho al voto de los nacionalizados con la ley de nietos](https://www.eldiario.es/politica/supremo-prohibe-forma-cautelar-votar-nacionalizados-ley-nietos-salvo-demuestren-exiliados_1_13492943.html?utm_source=lootura.com) — 2026-09-08T12:03:32.000Z
+No public source links.

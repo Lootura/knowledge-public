@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/van-gogh/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/van-gogh/index.json",
   "description": "Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "Van Gogh",
     "Vincent Willem van Gogh",
@@ -41,13 +41,6 @@
       "date": "2026-07-31"
     }
   ],
-  "sources": [
-    {
-      "title": "La foto de Amaia Montero que emociona al mundo: un mensaje luminoso tras sus confesiones más duras",
-      "url": "https://www.diariovasco.com/gente-estilo/foto-amaia-montero-emociona-mundo-mensaje-luminoso-20260908171910-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:19:37.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

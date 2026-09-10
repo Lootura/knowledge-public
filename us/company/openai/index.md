@@ -3,10 +3,22 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?
+
+OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.
+
+Date: 2026-09-08
+
+### Drama swirls around OpenAI’s legendary mathematical milestone
+
+OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an i.
+
+Date: 2026-09-08
 
 ### Rogue OpenAI agents hijacked German website, making more than 15,000 edits
 
@@ -56,18 +68,6 @@ OpenAI shares new results on long-standing open problems in mathematics and theo
 
 Date: 2026-08-01
 
-### Product availability changed in Europe
-
-Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.
-
-Date: 2026-07-24
-
-### Discovered by Atlas
-
-OpenAI first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-22
-
 ## Sources
 
-No public source links.
+- [AI researcher warns companies are ignoring catastrophic risks](https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks?utm_source=lootura.com) — 2026-09-09T22:55:11.000Z

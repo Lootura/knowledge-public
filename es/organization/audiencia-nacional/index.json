@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/audiencia-nacional/index.json",
   "description": "Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "Audiencia Nacional (Espana)",
     "Audiencia Nacional (España)",
@@ -22,8 +22,23 @@
   ],
   "changes": [
     {
-      "title": "Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: \"Lo hace como buen jurista\"",
-      "summary": "El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la \"imparcialidad\" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.",
+      "title": "El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'",
+      "summary": "La Audiencia Nacional ha reclamado al PSOE que aporte a la causa incoada por la presunta financiación irregular del partido las donaciones que recibió entre los años 2017 y...",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "La jueza admite al Gobierno como acusación en la investigación sobre la entrada masiva a Ceuta",
+      "summary": "La magistrada María Tardón, instructora de la Audiencia Nacional, ha admitido este miércoles la personación del Gobierno como acusación particular en la investigación abierta por la entrada masiva irregular de migrantes a Ceuta los pasados 30 y 31 de julio. La jueza acepta así la presencia en las pesquisas de la Abogac.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Moncloa y Ferraz ponen en cuestión la imparcialidad de la jueza que investiga la crisis de Ceuta",
+      "summary": "La jueza de la Audiencia Nacional María Tardón ha abierto una investigación penal sobre la entrada en Ceuta de decenas de miles de personas migrantes el 30 y 31 de julio, al...",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El fiscal jefe de la Audiencia Nacional rechazó las «pruebas» sobre el móvil de Sánchez hackeado: «No interesa por Marruecos»",
+      "summary": "Ocurrió en octubre de 2024. Un mes después de haber sido detenido Mehdi Hijaouy, en cumplimiento a una orden de busca y captura internacional de la Interpol, un emisario del ex número dos de los servicios secretos marroquíes se personó en la Audiencia Nacional para mantener un encuentro con el fiscal jefe del tribunal,.",
       "date": "2026-09-08"
     },
     {
@@ -32,8 +47,8 @@
       "date": "2026-09-08"
     },
     {
-      "title": "Moncloa y Ferraz ponen en cuestión la imparcialidad de la jueza que investiga la crisis de Ceuta",
-      "summary": "La jueza de la Audiencia Nacional María Tardón ha abierto una investigación penal sobre la entrada en Ceuta de decenas de miles de personas migrantes el 30 y 31 de julio, al...",
+      "title": "Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: \"Lo hace como buen jurista\"",
+      "summary": "El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la \"imparcialidad\" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.",
       "date": "2026-09-08"
     },
     {
@@ -55,48 +70,21 @@
       "title": "La juez avala la pista \"clara e indudable\" de que la avalancha a Ceuta se gestionó \"desde Marruecos\"",
       "summary": "Tardón elogia el trabajo del Cenif y declara competente a la Audiencia Nacional Leer.",
       "date": "2026-09-07"
-    },
-    {
-      "title": "La Audiencia Nacional asume la investigación sobre la entrada masiva de migrantes a Ceuta por “atacar gravemente la integridad territorial de España”",
-      "summary": "La magistrada María Tardón, instructora de la Audiencia Nacional, ha comunicado este lunes que asume la investigación sobre la entrada masiva irregular de migrantes a Ceuta los pasados 30 y 31 de julio. La jueza, que cuenta con el respaldo de la Fiscalía para dar este paso , explica que aprecia indicios de delitos que.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "La jueza Tardón señala Ceuta como objetivo de “guerra híbrida” entre Estados",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha confirmado esta noche en RTVE que el Gobierno se personará en la causa penal de Ceuta. Esto sucede después de que la jueza de la Audiencia Nacional María Tardón haya dado un paso al frente para iniciar una investigación penal por un pres.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Ceuta causa otro choque entre la Justicia y el Ejecutivo por la reserva de un informe policial",
-      "summary": "El comisario general de Extranjería y Fronteras de la Policía, Julián Ávila, explicó esta semana de forma pormenorizada a sus superiores cómo la magistrada de la Audiencia Nacional, María Tardón, les había pedido guardar silencio sobre el informe policial que estaban elaborando en relación a l paso de unas 70.000 migra.",
-      "date": "2026-09-05"
     }
   ],
   "sources": [
     {
-      "title": "Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: \"Lo hace como buen jurista\"",
-      "url": "https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:18:27.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate",
-      "url": "https://www.abc.es/espana/roselli-insiste-cupula-plus-ultra-sabia-zapatero-20260908123951-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:28:05.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Moncloa y Ferraz ponen en cuestión la imparcialidad de la jueza que investiga la crisis de Ceuta",
-      "url": "https://amp.elmundo.es/espana/2026/09/08/6aa0076321efa09f5e8b45c2.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:04:49.000Z",
+      "title": "El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'",
+      "url": "https://amp.elmundo.es/espana/2026/09/09/6aa19ae821efa05f7c8b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:45:56.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe",
-      "url": "https://theobjective.com/espana/politica/2026-09-08/psoe-ataca-juez-investiga-ceuta/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-08T08:30:58.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La jueza admite al Gobierno como acusación en la investigación sobre la entrada masiva a Ceuta",
+      "url": "https://elpais.com/espana/2026-09-09/la-jueza-admite-al-gobierno-como-acusacion-en-la-investigacion-sobre-la-entrada-masiva-a-ceuta.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T17:22:52.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Gustavo Petro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/gustavo-petro
 
 ## Cambios recientes
+
+### Rubio desembarca en una Colombia que ahora abraza la mano dura de Trump
+
+Marco Rubio llevó a Colombia este martes una exigencia directa y clara de Donald Trump para inaugurar una nueva etapa política tras la marcha de Gustavo Petro : reducir por la vía rápida los cultivos de coca intensificando las operaciones contra los grupos del narcotráfico y persiguiendo las redes financieras que sosti.
+
+Date: 2026-09-08
 
 ### El giro de Colombia
 

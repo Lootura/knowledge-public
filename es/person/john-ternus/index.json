@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/john-ternus/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/john-ternus/index.json",
   "description": "Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "Ternus"
   ],
   "changes": [
+    {
+      "title": "Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros",
+      "summary": "El nuevo director ejecutivo de Apple , John Ternus, ha anunciado este miércoles el primer teléfono plegable de la compañía, bautizado como iPhone Duo, un dispositivo que presenta un tamaño similar al de un pasaporte cuando se encuentra cerrado —con una pantalla exterior de 5,4 pulgadas— y que saldrá al mercado por 2.33.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch",
       "summary": "Apple celebra mañana a las 19.00 su evento \"Surprise and Shine\", la primera gran presentación de producto liderada por John Ternus como nuevo consejero delegado de la compañía, y el inicio de la mayor oleada de lanzamientos de dispositivos en la historia de Apple, que se extenderá durante 2026, 2027 y años posteriores,.",
@@ -46,10 +51,10 @@
   ],
   "sources": [
     {
-      "title": "Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch",
-      "url": "https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T10:44:22.000Z",
-      "sourceId": "lootura-es-expansion"
+      "title": "Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros",
+      "url": "https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:17:06.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

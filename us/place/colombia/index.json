@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T19:21:03.373Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
+    {
+      "title": "Rubio Plans to Push Colombia’s New Leader to Tackle Cocaine Trade",
+      "summary": "Secretary of State Marco Rubio — who is visiting Colombia, Ecuador and Peru this week — says he will talk to leaders about targeting drug-trafficking “terrorists,” and trade deals.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade",
       "summary": "Targeting traffickers will be at the top of the agenda as Secretary of State Marco Rubio visits Colombia, according to people familiar with his plans.",
@@ -58,20 +63,8 @@
       "title": "Colombia earthquake rescue volunteer reacts after pulling survivor from rubble",
       "summary": "Rescue workers are racing against the clock to free trapped survivors of the Colombia earthquake. Some success stories are emerging. CBS News' Lilia Luciano has more on the efforts.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Earthquake response strains Colombia's new government and rescuers",
-      "summary": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000. (Image credit: Ivan Valencia).",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Rubio to Push Colombia’s New Leader to Tackle Cocaine Trade",
-      "url": "https://www.nytimes.com/2026/09/08/world/americas/rubio-colombia-cocaine.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:31:46.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

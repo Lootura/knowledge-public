@@ -3,7 +3,7 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
+No public source links.

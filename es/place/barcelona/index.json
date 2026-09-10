@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre",
+      "summary": "Cataluña celebra este viernes 11 de septiembre la Diada de 2026 , una jornada que conmemora la caída de Barcelona en 1714 y que cada año reúne actos institucionales y políticos en distintos puntos de la comunidad. La atención también se trasladará a las calles con la manifestación independentista , una de las principal.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia",
+      "summary": "El FC Barcelona ha tumbado al Feyenoord (5-1) en la primera jornada de la Fase Liga de la Liga de Campeones 2026/27, en un Spotify Camp Nou a medio gas por la previsión de lluvia — que hizo acto de presencia en el arranque del partido — pero que cantó 5 goles de un equipo que quiere demostrar de inicio que en este terc.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Lamine Yamal asegura que no hará campaña para el Balón de Oro: «No voy a suplicar nada»",
+      "summary": "El jugador español del FC Barcelona Lamine Yamal ha asegurado este martes que no piensa hacer campaña para ganar el Balón de Oro ni «suplicar nada» después de la que considera una buena temporada, al tiempo que destacó que su principal objetivo de presente es conquistar la Liga de Campeones, un torneo que considera «el.",
+      "date": "2026-09-08"
+    },
     {
       "title": "El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel",
       "summary": "Rosa Peral, exagente de la Guardia Urbana de Barcelona, fue condenada a 25 años de cárcel en 2020 junto a su amante por el asesinato de su entonces pareja. Este fue conocido como 'el crimen de la Guardia Urbana' y tuvo una enorme repercusión mediática.Seis años después de la condena, Peral se ha graduado en Derecho, se.",
@@ -55,30 +70,21 @@
       "title": "Diez intoxicados por monóxido de carbono en un barco del Puerto de Barcelona: uno de ellos, en estado crítico",
       "summary": "Un total de diez personas han resultado afectadas esta pasada noche, una de ellas en estado crítico , a causa de un intoxicación de monóxido de carbono (CO) en el depósito de un barco en el Puerto de Barcelona , ha informado el Sistema de Emergencias Médicas. Según informa el SEM en su cuenta de X, de los 10 afectados,.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "La solución de Futre para que el Atlético perdone a Julián Álvarez: «Yo era un potro y…»",
-      "summary": "Julián Álvarez se queda en el Atlético y, por ello, tiene mucho trabajo por hacer si quiere ganarse el perdón del Metropolitano. Después de un verano intentando fichar por el Barcelona, el argentino no cumplió su sueño y ahora afronta meses muy complicados. Un problemón del que Paulo Futre ha querido echarle un cable c.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Cómo recuperar a Julián Álvarez",
-      "summary": "Se acabó el mercado de fichajes y Julián Álvarez se queda en el Atlético. El debate ha terminado, al menos de momento. El escenario es el siguiente: el jugador sigue en un club que quería cambiar por el Barcelona; y el club no se puede permitir perder las cualidades de uno de sus mejores futbolistas. Tampoco al delante.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Cientos de personas piden \"justicia\" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)",
-      "summary": "La 'consellera' Núria Parlon critica \"los discursos de odio\" y subraya que los dos menores detenidos por el crimen son catalanes Leer.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel",
-      "url": "https://www.abc.es/espana/cataluna/futuro-rosa-peral-autora-crimen-guardia-urbana-20260908171340-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:32:18.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-10/horario-recorrido-manifestacion-diada-1tna-1qrt_4419115/?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia",
+      "url": "https://theobjective.com/deportes/futbol/champions-league/2026-09-09/barca-exhibe-manita-feyenoord-bajo-lluvia/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T19:31:25.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

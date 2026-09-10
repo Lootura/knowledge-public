@@ -3,7 +3,7 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
@@ -14,15 +14,15 @@ El Consejo de Ministros ha aprobado este martes, con casi cuatro años de retras
 
 Date: 2026-09-08
 
-### Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"
-
-Empieza la cuenta atrás para que el Gobierno publique los documentos relacionados con el asalto a la frontera de Ceuta. El Consejo de Ministros ha desclasificado este martes los que estaban protegidos y fueron elaborados entre el 1 de julio y el 1 de agosto , asegurando que saldrán a la luz "todos. Todos es todos". "No.
-
-Date: 2026-09-08
-
 ### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
 
 El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
+
+Date: 2026-09-08
+
+### Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"
+
+Empieza la cuenta atrás para que el Gobierno publique los documentos relacionados con el asalto a la frontera de Ceuta. El Consejo de Ministros ha desclasificado este martes los que estaban protegidos y fueron elaborados entre el 1 de julio y el 1 de agosto , asegurando que saldrán a la luz "todos. Todos es todos". "No.
 
 Date: 2026-09-08
 
@@ -70,7 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas](https://elpais.com/economia/2026-09-08/las-empresas-tendran-que-detallar-a-sus-empleados-si-usan-algoritmos-para-el-salario-variable-y-el-cambio-de-tareas.html?utm_source=lootura.com) — 2026-09-08T15:23:14.000Z
-- [Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"](https://www.elconfidencial.com/espana/2026-09-08/sanchez-prometio-todos-los-documentos-de-ceuta_4419971/?utm_source=lootura.com) — 2026-09-08T15:09:00.000Z
-- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
-- [El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto](https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z
+No public source links.

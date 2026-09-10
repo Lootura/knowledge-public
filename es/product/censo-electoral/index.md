@@ -3,10 +3,22 @@
 > Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/product/censo-electoral
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Censo electoral first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-08
+
+### Revés en el Supremo a la 'ley de nietos' del Gobierno: la Justicia paraliza su inscripción en el censo electoral
+
+El Tribunal Supremo ha acordado este martes suspender las inscripciones en el Censo Electoral de Residentes Ausentes derivadas de la aplicación de la ley de nietos. La Sala de lo...
+
+Date: 2026-09-08
 
 ### Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta
 
@@ -20,13 +32,6 @@ La portavoz de Sumar en el Congreso, Verónica Martínez Barbero , ha criticado 
 
 Date: 2026-09-08
 
-### Discovered by Atlas
-
-Censo Electoral first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta](https://okdiario.com/comunidad-valenciana/sanchez-va-visita-fabrica-cohetes-espaciales-elche-plena-crisis-invasion-ceuta-20250791?utm_source=lootura.com) — 2026-09-08T15:21:40.000Z
-- [Sumar critica la decisión del Supremo sobre la ‘ley de nietos’: «Tremendamente preocupante»](https://theobjective.com/espana/politica/2026-09-08/sumar-decision-supremo-ley-nietos-preocupante/?utm_source=lootura.com) — 2026-09-08T14:43:41.000Z
+No public source links.

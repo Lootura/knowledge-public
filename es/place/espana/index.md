@@ -3,46 +3,58 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Estas son las comunidades con los mejores y peores resultados en el informe PISA
+### España gastará en 2030 más en pagar los intereses de la deuda que en hospitales
 
-Madrid, Asturias y Castilla y León son las comunidades autónomas con los mejores resultados educativos de España, según el último informe PISA de la OCDE. El rendimiento de los estudiantes españoles en Matemáticas, Lectura y Ciencia continúa en retroceso. Y eso se puede ver en regiones como Ceuta, Melilla o la Comunita.
+España va a empezar a pagar más por su deuda de manera inminente y lo va a hacer a unas magnitudes que harán que en los próximos años tenga que destinar más recursos presupuestarios públicos a cumplir con sus acreedores que a mantener operativa la red de hospitales del país. Una estimación difundida este miércoles por.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Cataluña supera la media de España y de la OCDE en las pruebas PISA con una muestra que no es válida
+### La baza coreana para militarizar la olvidada (y desprotegida) costa española
 
-Catalunya ha obtenido resultados por encima de la media española y de la OCDE en las pruebas PISA , si bien la muestra no se ha considerado válida por excluir un porcentaje de alumnos mucho mayor del permitido (un 23%, frente al 5% fijado por la OCDE), l o que ha resultado en su exclusión del informe internacional . El.
+Con las últimas compras y Marruecos en frente, España tiene una oportunidad de revisitar una de sus debilidades defensivas.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### El Gobierno amplía el margen de las comunidades para invertir su superávit
+### El 98% de los inversores españoles invierte en ETF activos
 
-El Ministerio de Hacienda ha decidido abrir la mano para que las comunidades puedan gastar su superávit en los próximos ejercicios. Así lo ha anunciado este martes el titular de la cartera, Arcadi España, quien ha enmarcado la iniciativa, que llega después de que las autonomías rechazaran casi por unanimidad la propues.
+Los ETF de gestión activa han dejado de ser un producto de nicho para convertirse en un ingrediente esencial en las carteras de los inversores. En España, el 98% de los inversores reconoce que estos vehículos desarrollan un papel esencial en sus carteras, según un estudio de Schroders . El debate, apunta el estudio, ha.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### La planta de San Pablo vota a favor de mantener la huelga en Airbus y decanta la balanza global: 67 votos más a favor de continuar con el paro
+### España se apaga en el US Open: Granollers y Zeballos caen y tampoco podrán revalidar su corona en dobles
 
-La votación que quedaba pendiente en la planta de Airbus España en San Pablo (Sevilla), que no pudo concretarse ayer por problemas técnicos, ha decantado este martes el resultado global de las votaciones que se efectuaron hasta el lunes en el resto de plantas españolas de la empresa. Los votos a favor de mantener el pa.
+La luz rojigualda de España se apaga definitivamente en el US Open . Ya no queda ninguna raqueta nacional en ninguno de los cuadros principales del torneo. La última en quedarse sin luz fue la de Marcel Granollers , que junto a Horacio Zeballos claudicó (6-4, 6-4) ante el tándem formado por Ram y Salisbury en cuartos d.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Diez gráficos para entender el hundimiento de España (y las CCAA) en el último informe PISA
+### Albares avisa de que España vetará la ampliación de la UE si el catalán no es lengua oficial: "Es impensable"
 
-Golpe al sistema educativo español. España firma su peor resultado histórico en el informe PISA, la prueba que evalúa conocimientos, habilidades y actitudes del alumnado de 15 y 16 años. Todos los países de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) caen, pero el nuestro lo hace con más fuerz.
+El ministro de Exteriores señala el Gobierno es "favorable" a la entrada de nuevos países pero supedita el proceso a que se resuelva el "asunto" del gallego, euskera y el propio catalán Leer.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### El Instituto Coordenadas crea un equipo para estudiar la contribución histórica de España a la construcción del mundo moderno
+### ‘La ruleta de la suerte’ toma una decisión histórica: sustituye a Laura Moure por un hombre que descubrirá las letras
 
-El Instituto Coordenadas de Gobernanza y Economía Aplicada ha constituido un Equipo de Divulgación Histórica con el objetivo de investigar, analizar y divulgar la contribución de España y de la Hispanidad a la construcción del mundo moderno desde una perspectiva basada en la evidencia histórica , el rigor académico y e.
+La ruleta de la suerte toma una decisión histórica en su larga historia en España . Por primera vez, el papel de la copresentadora que descubre las letras del panel (y que antes se calificaba como azafata) lo cubrirá un hombre: el exconcursante Brian Pérez Casado sustituirá a Laura Moure tras dar a luz y durante el tie.
 
-Date: 2026-09-08
+Date: 2026-09-09
+
+### Los servicios de Información coinciden en el “efecto llamada” de la sentencia del Supremo en la crisis de Ceuta
+
+La Guardia Civil, la Policía, el CNI y la Inteligencia militar recogen en sus notas el fallo que prohíbe la devolución 'en caliente' a los migrantes que accedan a España por la vía marítima y llegan a hablar de "consecuencia directa" de la llegada masiva los días 30 y 31 de julio Los informes avisaron del aumento de ll.
+
+Date: 2026-09-09
+
+### Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»
+
+El presidente del Gobierno, P edro Sánchez , ha afirmado este miércoles por la noche, en relación con las alertas del Centro Nacional de Inteligencia (CNI) , que con la información disponible en ese momento «nadie podía anticipar» la dimensión de la crisis migratoria registrada en Ceuta, «ni en España ni en la Unión Eu.
+
+Date: 2026-09-09
 
 ### La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico
 
@@ -56,27 +68,14 @@ España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE
 
 Date: 2026-09-08
 
-### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
-
-Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
-
-Date: 2026-09-08
-
-### Descalabro educativo
-
-Los temores se han confirmado: el nuevo Informe PISA, publicado este martes, muestra que el nivel de los alumnos españoles cae de forma alarmante en las evaluaciones de matemáticas y lectura, dos conocimientos troncales que repercuten sobre todas las demás materias. España obtiene en esta edición los peores resultados.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Tolón rechaza vincular la debacle en PISA con la ley Celaá y señala la falta de comprensión lectora por "el hábito de lectura apresurada"](https://www.20minutos.es/nacional/educacion-rechaza-vincular-los-resultados-pisa-2025-con-ley-celaa-apunta-falta-comprension-lectora_7034222_0.html?utm_source=lootura.com) — 2026-09-08T13:21:33.000Z
-- [Estas son las comunidades con los mejores y peores resultados en el informe PISA](https://www.20minutos.es/nacional/comunidades-mejores-peores-resultados-informe-pisa_7034160_0.html?utm_source=lootura.com) — 2026-09-08T11:57:52.000Z
-- [Cataluña supera la media de España y de la OCDE en las pruebas PISA con una muestra que no es válida](https://www.20minutos.es/cataluna/barcelona/catalunya-supera-media-espana-ocde-las-pruebas-pisa-con-una-muestra-que-no-es-valida_7034073_0.html?utm_source=lootura.com) — 2026-09-08T10:01:34.000Z
-- [El Gobierno amplía el margen de las comunidades para invertir su superávit](https://elpais.com/economia/2026-09-08/el-gobierno-amplia-el-margen-de-las-comunidades-para-invertir-su-superavit.html?utm_source=lootura.com) — 2026-09-08T14:53:00.000Z
-- [La planta de San Pablo vota a favor de mantener la huelga en Airbus y decanta la balanza global: 67 votos más a favor de continuar con el paro](https://cincodias.elpais.com/companias/2026-09-08/la-planta-de-san-pablo-vota-a-favor-de-mantener-la-huelga-en-airbus-y-decanta-la-balanza-global-67-votos-mas-a-favor-de-continuar-con-el-paro.html?utm_source=lootura.com) — 2026-09-08T12:09:11.000Z
-- [Diez gráficos para entender el hundimiento de España (y las CCAA) en el último informe PISA](https://www.elconfidencial.com/espana/2026-09-08/once-graficos-para-entender-el-hundimiento-de-espana-en-el-informe-pisa_4419906/?utm_source=lootura.com) — 2026-09-08T15:06:00.000Z
-- [El Instituto Coordenadas crea un equipo para estudiar la contribución histórica de España a la construcción del mundo moderno](https://www.elconfidencial.com/espana/2026-09-08/instituto-coordenadas-divulgacion-historica-1hms-1svm_4419870/?utm_source=lootura.com) — 2026-09-08T13:35:00.000Z
-- [La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico](https://www.elcorreo.com/economia/pensiones/ocde-estrecha-cerco-sobre-nominas-mayores-cotizaciones-20260908143006-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T12:30:06.000Z
-- [Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido](https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html?utm_source=lootura.com) — 2026-09-08T07:42:34.000Z
-- [Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"](https://www.elmundo.es/espana/2026/09/08/6a9f255ee85ecec0728b4594.html?utm_source=lootura.com) — 2026-09-07T23:16:01.000Z
+- [Marruecos ocultó al Gobierno y a la Guardia Civil la instalación de la nueva puerta en Ceuta](https://www.abc.es/espana/marruecos-oculto-gobierno-guardia-civil-instalacion-nueva-20260910014522-nt.html?utm_source=lootura.com) — 2026-09-10T00:51:00.000Z
+- [España gastará en 2030 más en pagar los intereses de la deuda que en hospitales](https://www.abc.es/economia/espana-gastara-2030-dinero-pagar-deudas-hospitales-20260910014222-nt.html?utm_source=lootura.com) — 2026-09-10T00:46:10.000Z
+- [La baza coreana para militarizar la olvidada (y desprotegida) costa española](https://www.elconfidencial.com/espana/2026-09-10/la-baza-coreana-para-militarizar-la-olvidada-y-desprotegida-costa-espanola_4420992/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [Albares avisa de que España vetará la ampliación de la UE si el catalán no es lengua oficial: "Es impensable"](https://www.elmundo.es/espana/2026/09/09/6aa1970c21efa0f31d8b456e.html?utm_source=lootura.com) — 2026-09-09T17:46:55.000Z
+- [‘La ruleta de la suerte’ toma una decisión histórica: sustituye a Laura Moure por un hombre que descubrirá las letras](https://elpais.com/television/2026-09-09/la-ruleta-de-la-suerte-toma-una-decision-historica-y-sustituye-a-laura-moure-por-un-hombre.html?utm_source=lootura.com) — 2026-09-09T11:31:47.000Z
+- [Los servicios de Información coinciden en el “efecto llamada” de la sentencia del Supremo en la crisis de Ceuta](https://www.eldiario.es/politica/servicios-informacion-coinciden-efecto-llamada-sentencia-supremo-crisis-ceuta_1_13498789.html?utm_source=lootura.com) — 2026-09-09T18:27:18.000Z
+- [El 98% de los inversores españoles invierte en ETF activos](https://www.expansion.com/mercados/2026/09/10/6aa19d7ee5fdea761d8b457d.html?utm_source=lootura.com) — 2026-09-10T01:03:26.000Z
+- [España se apaga en el US Open: Granollers y Zeballos caen y tampoco podrán revalidar su corona en dobles](https://okdiario.com/deportes/espana-apaga-us-open-granollers-zeballos-caen-tampoco-podran-revalidar-corona-dobles-20261186?utm_source=lootura.com) — 2026-09-10T00:17:00.000Z
+- [Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»](https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com) — 2026-09-09T20:29:57.000Z

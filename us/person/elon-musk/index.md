@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Sources
 
-- [State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film](https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film?utm_source=lootura.com) — 2026-09-08T13:34:15.000Z
+No public source links.

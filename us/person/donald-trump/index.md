@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy
+### Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms
 
-Russian strikes pummeled Ukraine's capital as soon as a three-day pause for peace talks with President Trump's envoys ended.
+During his speech at the Republican midterm convention, President Donald Trump announced that every adult U.S. citizen would receive a $5,000 “dividend” if Republican won the midterm elections in November, but said it must be spent in the U.S.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial
+### Fetterman, already at odds with his party, makes surprise video for GOP convention
 
-Lindsay Clancy’s attorney spoke out for the first time Tuesday since her state murder trial ended in a mistrial, including calling on President Donald Trump to pardon his client.
+The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him. (Image credit: Kent Nishimura).
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### New Hampshire primaries test Trump and the left
+### Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race
 
-President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.
+The proposals for 2030 are among significant changes that would upend a process for helping allot congressional seats and shape policies that address disparities.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Political commentator on what we might expect from Trump's midterm convention
+### Fetterman Has a Surprise Cameo at Trump’s Convention
 
-NPR's Steve Inskeep speaks with commentator Jonah Goldberg about this week's unusual Republican midterm gathering.
+Senator John Fetterman, who has become alienated from his own party, appeared in a short video filmed in front of a steel mill, saying he is “always going to reject the extremes in socialism.”.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
+### Trump escalates Canada trade war by banning some imports
 
-Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
+After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film
+### Trump gave $45,000 gift to Natalie Harp, 2 other aides
 
-Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Ven.
+A White House spokesperson said in a statement on Wednesday that Mr. Trump "has a longstanding practice of giving Christmas gifts to people in his orbit.".
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Donald Trump’s midterm strategy? Make it all about him | Robert Reich
+### President Trump delivers remarks at the Republican midterm convention
 
-The president apparently plans to focus on the person he most admires – himself – even if Republicans would rather he didn’t With the midterm races officially beginning this week, a big question hanging over the Republican party is how Trump will allocate his giant stash of Super Pac money. As of 31 July, Maga Inc had.
+Watch live coverage as President Trump delivers the keynote address as the first Republican midterm convention kicks off in Dallas.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### China’s Surging Exports Loom Over Trump’s Talks With Xi
+### Trump admin fires prosecutor in dropped case against politically linked billionaire
 
-China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
+A federal prosecutor who had been assigned to the now-defunct case against a politically-linked Indian billionaire has been fired by the Trump administration, two people familiar with the firing tell NBC News.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
+### Trump says oil prices will come down after midterm elections
 
-The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.
+President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War
+### Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency
 
-The Montreal-based manufacturer has been embroiled in U.S. trade disputes before. President Trump threatened to bar the company from selling in the United States.
+"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote," Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
 ## Sources
 
-- [Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy](https://www.cbsnews.com/news/ukraine-russia-war-peace-talks-witkoff-kushner-strikes-kyiv/?utm_source=lootura.com) — 2026-09-08T06:48:12.000Z
-- [Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial](https://www.nbcnews.com/news/us-news/lindsay-clancy-defense-attorney-kevin-reddington-speaks-mistrial-seeks-rcna596553?utm_source=lootura.com) — 2026-09-08T14:00:16.000Z
-- [New Hampshire primaries test Trump and the left](https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com) — 2026-09-08T09:00:40.000Z
-- [Political commentator on what we might expect from Trump's midterm convention](https://www.npr.org/2026/09/08/nx-s1-5960438/political-commentator-on-what-we-might-expect-from-trumps-midterm-convention?utm_source=lootura.com) — 2026-09-08T08:42:05.000Z
-- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
-- [State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film](https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film?utm_source=lootura.com) — 2026-09-08T13:34:15.000Z
-- [Donald Trump’s midterm strategy? Make it all about him | Robert Reich](https://www.theguardian.com/commentisfree/2026/sep/08/trump-midterm-strategy?utm_source=lootura.com) — 2026-09-08T11:00:02.000Z
-- [China’s Surging Exports Loom Over Trump’s Talks With Xi](https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com) — 2026-09-08T08:24:33.000Z
-- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z
-- [Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War](https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html?utm_source=lootura.com) — 2026-09-08T14:21:11.000Z
+- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
+- [Trump gave $45,000 gift to Natalie Harp, 2 other aides](https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com) — 2026-09-09T17:56:08.000Z
+- [President Trump delivers remarks at the Republican midterm convention](https://www.nbcnews.com/video/president-trump-delivers-remarks-at-the-republican-midterm-convention-269584453987?utm_source=lootura.com) — 2026-09-09T23:19:11.000Z
+- [Trump admin fires prosecutor in dropped case against politically linked billionaire](https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848?utm_source=lootura.com) — 2026-09-09T19:29:27.000Z
+- [Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms](https://www.nbcnews.com/now/video/trump-claims-u-s-adults-will-get-a-5k-dividend-if-republicans-win-the-midterms-269599301613?utm_source=lootura.com) — 2026-09-10T02:30:38.000Z
+- [Fetterman, already at odds with his party, makes surprise video for GOP convention](https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump?utm_source=lootura.com) — 2026-09-10T01:17:28.000Z
+- [WATCH: Trump says oil prices will come down after midterm elections](https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections?utm_source=lootura.com) — 2026-09-09T22:08:17.000Z
+- [WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency](https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency?utm_source=lootura.com) — 2026-09-09T21:39:56.000Z
+- [Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push](https://www.pbs.org/newshour/world/rubio-hails-ecuador-as-an-aggressive-partner-in-the-us-counterdrug-push?utm_source=lootura.com) — 2026-09-09T21:53:07.000Z
+- [Competing court orders add confusion to Missouri congressional elections](https://www.pbs.org/newshour/politics/competing-court-orders-add-confusion-to-missouri-congressional-elections?utm_source=lootura.com) — 2026-09-09T20:03:34.000Z

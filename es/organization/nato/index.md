@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Putin le niega a Trump que tenga planes de atacar Europa](https://www.abc.es/internacional/putin-niega-trump-planes-atacar-europa-20260908172606-nt.html?utm_source=lootura.com) — 2026-09-08T15:33:22.000Z
+No public source links.

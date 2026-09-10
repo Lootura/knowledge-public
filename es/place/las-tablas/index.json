@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/las-tablas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/las-tablas/index.json",
   "description": "Sigue la actividad de Las Tablas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-07-23T02:31:05.539Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa",
-      "summary": "El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.",
-      "date": "2026-07-22"
+      "title": "Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana",
+      "summary": "El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.",
+      "date": "2026-09-10"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Las Tablas first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-07-22"
+    },
+    {
+      "title": "Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa",
+      "summary": "El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.",
       "date": "2026-07-22"
     },
     {
@@ -32,6 +37,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

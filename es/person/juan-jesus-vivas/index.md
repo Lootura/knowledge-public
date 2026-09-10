@@ -3,7 +3,7 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Vivas exige a Bruselas más contundencia en la relación europea con Marruecos](https://www.lavanguardia.com/politica/20260908/11629935/vivas-exige-bruselas-mas-contundencia-relacion-europea-marruecos.html?utm_source=lootura.com) — 2026-09-08T10:54:07.000Z
+No public source links.

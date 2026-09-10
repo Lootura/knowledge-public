@@ -3,10 +3,34 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### El nuevo aparcabicis cubierto de Benta Berri se abrirá en octubre con 56 plazas
+
+Donostia pasará a contar con 299 aparcamientos exclusivos para bicicletas en cinco parkings cubiertos tras la apertura del local del parque Montpellier.
+
+Date: 2026-09-09
+
+### El ciclo Frédéric Chopin constará de diez conciertos en Donostia
+
+El programa se desarrollará en el Victoria Eugenia y el Teatro Principal desde octubre hasta junio de 2027.
+
+Date: 2026-09-09
+
+### 5.400 euros por medio queso Idiazabal del alavés Unai Lekuona, campeón en Ordizia
+
+El restaurante El Vaskito de Donostia gana la subasta y el podio lo completan la queserías guipuzcoanas Aizpea y Ondarre.
+
+Date: 2026-09-09
+
+### La línea de bus que unirá Donostia con Eskuzaitzeta y la cárcel arrancará la segunda quincena de este mes
+
+Operará todos los días desde primera hora de la mañana (5.30-6.00 horas) hasta última hora del día (22.00-22.30) y tendrá parada en Galarreta, en Hernani.
+
+Date: 2026-09-08
 
 ### Boga Boga: se acerca el capricho melómano de Donostia con su edición más ambiciosa
 
@@ -44,30 +68,8 @@ La protesta no afectará a la mayoría de los espectáculos de los programas de 
 
 Date: 2026-08-13
 
-### Morante de La Puebla sufre un cólico nefrítico y no toreará en San Sebastián
-
-Nuevo revés para Morante de La Puebla este agosto. El diestro sevillano se perderá la Semana Grande de San Sebastián debido a que padece síntomas compatibles con un cólico nefrítico. El cigarrero, estrella de la corrida mixta del ciclo donostiarra, no podrá torear este viernes por prescripción médica, según ha adelanta.
-
-Date: 2026-08-13
-
-### Pueblos, playas, montes... España se llena por el fenómeno del año
-
-Miles de personas se han desplazado a lo largo del territorio español para disfrutar del eclipse solar, que en algunos puntos de España será total, y que ya ha dejado imágenes para la historia.El ciclo completo del eclipse solar. EFE La luna descubre al sol en los momentos posteriores al eclipse en San Sebastián. AFP E.
-
-Date: 2026-08-13
-
-### «Ver tiburones pasar tan cerca impresiona»
-
-Cientos de visitantes acuden cada día de verano a uno de los grandes atractivos de Donostia y el túnel bajo el agua sigue causando sensación.
-
-Date: 2026-08-12
-
-### ¿Qué nota les das a los fuegos artificiales de este miércoles en la Semana Grande de San Sebastián?
-
-Valora la propuesta de Pirotecnia Valenciana y puntúa aspectos como el ritmo, el color y la originalidad de la colección presentada en la Aste Nagusia de Donostia 2026.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [El nuevo aparcabicis cubierto de Benta Berri se abrirá en octubre con 56 plazas](https://www.diariovasco.com/san-sebastian/nuevo-aparcabicis-cubierto-benta-berri-abrira-octubre-20260910000818-nt_amp.html?utm_source=lootura.com) — 2026-09-09T22:08:19.000Z
+- [El ciclo Frédéric Chopin constará de diez conciertos en Donostia](https://www.diariovasco.com/culturas/musica/ciclo-frederic-chopin-constara-diez-conciertos-donostia-20260909171157-nt_amp.html?utm_source=lootura.com) — 2026-09-09T15:11:57.000Z
+- [5.400 euros por medio queso Idiazabal del alavés Unai Lekuona, campeón en Ordizia](https://www.diariovasco.com/tolosa-goierri/ordizia/concurso-queso-idiazabal-ordizia-20260909095027-nt_amp.html?utm_source=lootura.com) — 2026-09-09T09:02:16.000Z

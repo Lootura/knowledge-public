@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/nintendo/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/nintendo/index.json",
   "description": "Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T19:21:03.373Z",
   "aliases": [
     "Nintendo Co",
     "Nintendō kabushiki-gaisha"
   ],
   "changes": [
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI . Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Lege.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Product availability changed in Europe",
       "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same.",
@@ -50,19 +55,6 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [
-    {
-      "title": "Nintendo’s Ocarina of Time remake launches in November",
-      "url": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:26:02.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "The Legend of Zelda 40th Anniversary Direct: All the news and trailers",
-      "url": "https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:50:00.000Z",
-      "sourceId": "lootura-us-the-verge"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

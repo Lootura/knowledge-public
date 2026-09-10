@@ -3,7 +3,7 @@
 > Sigue la actividad de Enric Mas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/enric-mas
 
 ## Cambios recientes
@@ -28,5 +28,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [Así queda la clasificación general de la Vuelta Ciclista a España 2026 tras la etapa 16 de hoy martes, 8 de septiembre](https://okdiario.com/deportes/asi-queda-clasificacion-general-vuelta-ciclista-espana-2026-etapa-16-hoy-martes-8-septiembre-20251313/amp?utm_source=lootura.com) — 2026-09-08T15:51:42.000Z
-- [Brennan vuela gracias a Van Aert y firma el póker en La Vuelta](https://okdiario.com/deportes/brennan-vuela-gracias-van-aert-firma-poker-vuelta-20251118?utm_source=lootura.com) — 2026-09-08T15:36:12.000Z
+No public source links.

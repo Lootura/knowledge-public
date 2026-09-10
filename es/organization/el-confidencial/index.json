@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-confidencial/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-confidencial/index.json",
   "description": "Sigue la actividad de El Confidencial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Policías cargan contra Interior por la lista de periodistas: \"Es una práctica repugnante\"",
-      "summary": "La Confederación Española de la Policía (CEP) ha cargado contra el Ministerio del Interior por la lista desvelada por El Confidencial en la que se cataloga ideológicamente a decenas de periodistas . En un comunicado denuncian que “el ministerio que actuó tarde y mal en Ceuta sí ha encontrado recursos para catalogar pol.",
+      "title": "Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable",
+      "summary": "Alberto Olmos y Rubén Arranz están de vuelta en su estudio de El Confidencial para un nuevo episodio de Lo más odiado, el videopódcast de El Confidencial en el que ambos hablan de sus cosas y que puedes ver en YouTube y escuchar en Ivoox , Spotify y Apple Podcast . En este episodio hay espacio para abordar en detalle l.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Interior pide disculpas a los \"ofendidos\" tras revelar El Confidencial su lista secreta de periodistas",
+      "summary": "Tras la publicación exclusiva de El Confidencial del dosier secreto, creado por la Oficina de Comunicación del Ministerio de Interior , en el que aparecen diversos periodistas junto con una breve descripción ideológica , fuentes oficiales de la cartera liderada por Fernando Grande-Marlaska han trasladado \" disculpas a.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Dircom, ADC y APRI se suman al clamor en favor de la libertad de prensa tras la clasificación de periodistas por ideología de Interior",
+      "summary": "La clasificación de periodistas por su ideología que realizó el Ministerio de Interior en un dosier secreto destapado por El Confidencial continúa generando estupor en la sociedad española. Así, la Asociación de Directivos de Comunicación (Dircom), la Asociación de Profesionales de las Relaciones Institucionales (APRI).",
       "date": "2026-09-08"
     },
     {
@@ -39,17 +49,11 @@
   ],
   "sources": [
     {
-      "title": "Policías cargan contra Interior por la lista de periodistas: \"Es una práctica repugnante\"",
-      "url": "https://www.elconfidencial.com/espana/2026-09-08/policias-cargan-contra-interior-por-la-lista-de-periodistas-es-una-practica-repugnante_4419863/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:46:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Moncloa avala el dosier de Interior que clasificó a periodistas por su posición política",
-      "url": "https://www.elconfidencial.com/espana/2026-09-08/moncloa-avala-el-dosier-de-interior-que-clasifico-a-periodistas-por-su-posicion-politica_4419902/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:23:00.000Z",
+      "title": "Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable",
+      "url": "https://www.elconfidencial.com/espana/2026-09-10/lo-mas-odiado-puente-ministro_4420809/?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T03:00:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

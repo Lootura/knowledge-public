@@ -3,7 +3,7 @@
 > Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/organization/the-times
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?utm_source=lootura.com) — 2026-09-08T13:50:04.000Z
+No public source links.

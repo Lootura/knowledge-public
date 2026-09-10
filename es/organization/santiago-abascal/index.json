@@ -10,7 +10,8 @@
   "description": "Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-09-08T15:58:25.403Z",
   "aliases": [
-    "Santiago Abascal Conde"
+    "Santiago Abascal Conde",
+    "Santiago ruiz"
   ],
   "changes": [
     {
@@ -64,13 +65,6 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral",
-      "url": "https://www.eldebate.com/espana/20260908/vox-celebra-decision-supremo-estimar-medida-cautelar-frenar-posible-fraude-electoral_456561.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:19:52.000Z",
-      "sourceId": "lootura-es-el-debate"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

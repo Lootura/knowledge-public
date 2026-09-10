@@ -3,10 +3,28 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### Los hombres que custodian Ceuta: así son los máximos jefes del Ejército retratados junto al Rey
+
+A la reunión asistieron los principales mandos encargados de las defensa de la ciudad y la ministra Margarita Robles.
+
+Date: 2026-09-09
+
+### Sánchez contra Robles: desclasificará un informe de la inteligencia militar del 30 de julio para culparla de que avisó tarde
+
+Los informes que el Gobierno de Pedro Sánchez ha desclasificado buscan «señalar» al Ejército español con la ministra de Defensa, Margarita Robles , al frente, y en concreto a la inteligencia militar del Centro de Inteligencia de las Fuerzas Armadas ( CIFAS) , según han asegurado fuentes del Ejecutivo a OKDIARIO. De acu.
+
+Date: 2026-09-08
+
+### Felipe VI se reunió el lunes con Robles y autoridades militares para examinar la situación de Ceuta
+
+El Rey Felipe VI mantuvo este lunes una reunión con la ministra de Defensa, Margarita Robles , y autoridades militares para analizar la situación de Ceuta desde el prisma de la defensa, tras la entrada masiva de inmigrantes procedentes de Marruecos a finales de julio, según ha informado la Casa Real en redes sociales.
+
+Date: 2026-09-08
 
 ### Margarita Robles firma el ascenso de Balas que seguirá en la UCO en comisión de servicio
 
@@ -50,24 +68,6 @@ La ministra de Defensa, Margarita Robles, se ha desmarcado del grupo socialista 
 
 Date: 2026-09-03
 
-### Rufián dice a Sánchez que tiene «un problemón» porque Margarita Robles «no le ha aplaudido»
-
-El portavoz de ERC, Gabriel Rufián, ha querido remarcar que Sánchez tiene «un problemón importante» tras el contrariado gesto de la ministra de Defensa, Margarita Robles , al presidente.Rufián ha destacado que Robles ha sido la única que no ha aplaudido al presidente del Gobierno tras hacer notorio que iba a «publicar.
-
-Date: 2026-09-03
-
-### La imagen del Congreso: Margarita Robles evita aplaudir las palabras de Sánchez sobre Ceuta
-
-La ministra de Defensa, Margarita Robles , no se ha mostrado tan entusiasmada como el resto de los ministros del PSOE con la intervención de Pedro Sánchez de este jueves. En varias ocasiones, ha evitado aplaudir al presidente del Gobierno. Tampoco se ha puesto de pie al finalizar el presidente su primer discurso, aunqu.
-
-Date: 2026-09-03
-
-### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
-
-La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Los hombres que custodian Ceuta: así son los máximos jefes del Ejército retratados junto al Rey](https://www.elcorreo.com/politica/hombres-custodian-ceuta-maximos-jefes-ejercito-retratados-20260909135427-ntrc.html?utm_source=lootura.com) — 2026-09-09T11:54:30.000Z

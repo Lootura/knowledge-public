@@ -3,10 +3,34 @@
 > Sigue la actividad de Juan Carlos Peinado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/juan-carlos-peinado
 
 ## Cambios recientes
+
+### El juez Peinado se va de vacaciones y enfila a Begoña Gómez al banquillo
+
+El juez Juan Carlos Peinado ha comenzado sus vacaciones después de concluir la audiencia preliminar en la que ha enfilado a Begoña Gómez, la esposa del presidente del Gobierno, al banquillo de los acusados por presuntos delitos de tráfico de influencias y malversación.El magistrado convocó a las partes este martes a la.
+
+Date: 2026-09-08
+
+### Peinado deja a Begoña Gómez a los pies del jurado popular tras celebrar la última audiencia del caso
+
+El juez Juan Carlos Peinado se prepara para un último acto final que ponga el broche de oro a la causa de Begoña Gómez y a su carrera en la judicatura. Tras más de dos años de instrucción y a pocas semanas de firmar su jubilación, el titular del Juzgado de Instrucción Número 41 de Madrid emitirá en pocos días el auto d.
+
+Date: 2026-09-08
+
+### Rifirrafe entre Peinado y un abogado del ‘caso Begoña’: «No venga a darnos una clase de 1º de Informática»
+
+El juez Juan Carlos Peinado ha protagonizado este martes un tenso cruce de reproches con Chema de Pablo , abogado defensor de Cristina Álvarez , asesora de Begoña Gómez, durante la audiencia preliminar al juicio con tribunal de jurado. Al término de la vista, el magistrado le ha espetado una frase que ha resumido el cl.
+
+Date: 2026-09-08
+
+### El juez Peinado vuelve a retrasar enviar a juicio a Begoña Gómez antes de iniciar sus vacaciones
+
+El juez Juan Carlos Peinado ha decidido este martes retrasar su decisión de enviar a juicio oral a la mujer del presidente del Gobierno, Begoña Gómez , después de que su abogado acudiese a los juzgados de la madrileña Plaza Castilla tras ser convocado a la audiencia preliminar , como paso previo a enviarle a juicio con.
+
+Date: 2026-09-08
 
 ### Begoña Gómez no tendrá que ir a la audiencia preliminar de cara al futuro juicio
 
@@ -43,30 +67,6 @@ Date: 2026-08-04
 El juez Juan Carlos Peinado archiva la investigación contra el empresario Juan Carlos Barrabés por un contrato público que recibió de Red.es y lo envía a la Fiscalía Europea. El Ministerio Público de la Unión Europea solicitó al instructor del "caso Begoña Gómez" asumir la indagación en las supuestas irregularidades me.
 
 Date: 2026-08-04
-
-### Peinado remite a la Fiscalía Europea la causa contra Barrabés por irregularidades en un contrato
-
-El juez del caso Begoña Gómez , Juan Carlos Peinado, ha acordado remitir a la Fiscalía Europea la pieza separada sobre supuestas irregularidades en un contrato sufragado con fondos europeos contra el empresario Juan Carlos Barrabés, después de que la Audiencia Provincial de Madrid le apartara del juicio con jurado popu.
-
-Date: 2026-08-04
-
-### El Poder Judicial aplaza su decisión sobre si expedienta a Peinado tras no llegar a un acuerdo
-
-La falta de acuerdo en el Consejo General del Poder Judicial (CGPJ) ha obligado este martes a aplazar la decisión de ese órgano sobre cinco investigaciones abiertas al juez Juan Carlos Peinado, instructor de la causa contra la esposa del presidente del Gobierno, Begoña Gómez. La comisión permanente —el principal órgano.
-
-Date: 2026-07-21
-
-### Peinado pide a las partes del caso Begoña ajustar sus peticiones para el juicio tras archivarse varios delitos
-
-El magistrado que dirige la instrucción del caso Begoña Gómez , Juan Carlos Peinado , ha dado un nuevo paso procesal y ha requerido a las partes que remitan escritos actualizados con sus solicitudes de cara al juicio con jurado. La decisión llega después de que la Audiencia Provincial de Madrid ordenara archivar los pr.
-
-Date: 2026-07-20
-
-### Ya hay 2.846 madrileños preseleccionados para juzgar a Begoña Gómez: ¿Cómo se elegirá a los 9 definitivos?
-
-Begoña Gómez será juzgada por un jurado popular después de que la Audiencia Provincial de Madrid haya ordenado continuar el procedimiento de juicio acordado en un principio por el juez Juan Carlos Peinado. Serán nueve los madrileños encargados de formar parte de ese jurado popular y serán seleccionados mediante un sort.
-
-Date: 2026-07-18
 
 ## Fuentes
 

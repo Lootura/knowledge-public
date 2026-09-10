@@ -3,20 +3,26 @@
 > Sigue la actividad de Las Tablas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-07-23T02:31:05.539Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/las-tablas
 
 ## Cambios recientes
 
-### Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
+### Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana
 
-El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.
+El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.
 
-Date: 2026-07-22
+Date: 2026-09-10
 
 ### Discovered by Atlas
 
 Las Tablas first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-07-22
+
+### Crimen de Las Tablas: a Facundo lo asesinó Alberto, un marido obsesionado con la infidelidad de su esposa
+
+El hombre que presuntamente mató a Facundo Rico en una lujosa urbanización de Madrid la semana pasada se aplicó a sí mismo justicia antes de que lo hicieran los tribunales. Alberto Juan, el presunto autor del crimen, se suicidó el día después de asestar 13 puñaladas a este ingeniero de origen argentino con el que sospe.
 
 Date: 2026-07-22
 
@@ -34,4 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana](https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z

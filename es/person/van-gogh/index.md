@@ -3,7 +3,7 @@
 > Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/van-gogh
 
 ## Cambios recientes
@@ -40,4 +40,4 @@ Date: 2026-07-31
 
 ## Fuentes
 
-- [La foto de Amaia Montero que emociona al mundo: un mensaje luminoso tras sus confesiones más duras](https://www.diariovasco.com/gente-estilo/foto-amaia-montero-emociona-mundo-mensaje-luminoso-20260908171910-nt_amp.html?utm_source=lootura.com) — 2026-09-08T15:19:37.000Z
+No public source links.

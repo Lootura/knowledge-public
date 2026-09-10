@@ -3,7 +3,7 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido](https://www.elmundo.es/espana/2026/09/08/6a9ecb88e85ece3e4c8b4578.html?utm_source=lootura.com) — 2026-09-08T07:42:34.000Z
+No public source links.

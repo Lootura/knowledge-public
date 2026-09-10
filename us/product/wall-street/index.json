@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/wall-street/index.json",
   "description": "Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T22:19:56.767Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Feds to buy up to $6 billion in Treasury bonds. Here's why.",
+      "summary": "Wall Street analysts are skeptical that the Treasury Department's bond purchases can curb yields and lower U.S. borrowing costs.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
       "summary": "Leon Black, a former Wall Street private equity investor, sued the House Oversight Committee, seeking to stop the panel from enforcing its subpoenas against him in an ongoing Epstein probe.",
@@ -39,6 +44,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feds to buy up to $6 billion in Treasury bonds. Here's why.",
+      "url": "https://www.cbsnews.com/news/us-treasury-bond-buyback-6-billion-yields/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:31:51.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary
+
+State Rep. David Morales won the Democratic nomination for mayor of Rhode Island’s largest city over incumbent Brett Smiley, NBC News projects.
+
+Date: 2026-09-10
 
 ### When the World’s Best-Known Feminist Was Accused of Insulting Women
 
@@ -40,4 +46,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary](https://www.nbcnews.com/politics/2026-election/david-morales-winner-providence-mayor-primary-democrat-smiley-rcna596606?utm_source=lootura.com) — 2026-09-10T00:34:57.000Z

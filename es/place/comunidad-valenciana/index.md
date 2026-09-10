@@ -3,7 +3,7 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
@@ -70,5 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
-- [Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías](https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html?utm_source=lootura.com) — 2026-09-08T07:30:17.000Z
+No public source links.

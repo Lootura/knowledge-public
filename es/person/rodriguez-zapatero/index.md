@@ -3,7 +3,7 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate](https://www.abc.es/espana/roselli-insiste-cupula-plus-ultra-sabia-zapatero-20260908123951-nt.html?utm_source=lootura.com) — 2026-09-08T15:28:05.000Z
+No public source links.

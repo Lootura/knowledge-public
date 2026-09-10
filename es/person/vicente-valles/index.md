@@ -3,10 +3,16 @@
 > Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/vicente-valles
 
 ## Cambios recientes
+
+### Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»
+
+Este miércoles por la noche, el ministro de Transportes, Óscar Puente , ha acudido como invitado a La Mesa de Antena 3, donde le han entrevistado por Cristina Pardo y los periodistas Vicente Vallés y Pilar Velasco. El ministro ha defendido la actuación del Gobierno durante la crisis de Ceuta y ha relativizado el alcanc.
+
+Date: 2026-09-09
 
 ### Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»
 
@@ -46,4 +52,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»](https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com) — 2026-09-08T15:04:31.000Z
+- [Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»](https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com) — 2026-09-09T22:57:07.000Z

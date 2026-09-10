@@ -3,7 +3,7 @@
 > Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/poder-judicial
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Los vocales progresistas del Poder Judicial piden a Perelló que haga "autocrítica" en la apertura del año judicial](https://www.eldiario.es/politica/vocales-progresistas-judicial-piden-perello-haga-autocritica-apertura-ano-judicial_1_13495522.html?utm_source=lootura.com) — 2026-09-08T15:12:59.000Z
+No public source links.

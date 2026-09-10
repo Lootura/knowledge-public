@@ -3,7 +3,7 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### U.S. envoy warns U.K. against new plan to sanction Israeli settlements
 
 Britain and 11 other U.S. allies say they'll sanction trade with Israeli settlements in the West Bank, citing an "unprecedented level of settler violence.".
+
+Date: 2026-09-08
+
+### Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’
+
+Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.
 
 Date: 2026-09-08
 
@@ -64,6 +70,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [U.S. envoy warns U.K. against new plan to sanction Israeli settlements](https://www.cbsnews.com/news/israel-uk-sanctions-west-bank-settlements-huckabee-us-repercussions/?utm_source=lootura.com) — 2026-09-08T15:18:51.000Z
-- [U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods](https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel?utm_source=lootura.com) — 2026-09-08T13:05:20.000Z
-- [UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing](https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html?utm_source=lootura.com) — 2026-09-08T15:14:14.000Z
+No public source links.

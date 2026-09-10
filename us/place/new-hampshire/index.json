@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-hampshire/index.json",
   "description": "Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Granite State",
     "N.H.",
@@ -20,18 +20,28 @@
   ],
   "changes": [
     {
+      "title": "New Hampshire Democrat Cinde Warmington says Canada trade war is \"crushing the people of our state\"",
+      "summary": "Democratic gubernatorial nominee Cinde Warmington, who won her New Hampshire primary on Tuesday, joins \"The Takeout\" to discuss the midterm races.",
+      "date": "2026-09-09"
+    },
+    {
       "title": "Kornacki Cam: Watch Steve analyze New Hampshire primary election results",
       "summary": "NBC News chief data analyst Steve Kornacki breaks down real-time vote tallies from primary elections in New Hampshire, while giving viewers a behind-the-scenes look at election night coverage.",
       "date": "2026-09-08"
     },
     {
-      "title": "New Hampshire primaries test Trump and the left",
-      "summary": "President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.",
+      "title": "New Hampshire voters pick midterm nominees as Sen. Shaheen's exit sparks scramble for key seats",
+      "summary": "New Hampshire primary voters are choosing candidates for Congress, governor and the 424-seat state Legislature on Tuesday, and incumbents aren't the only familiar names on the ballot.",
       "date": "2026-09-08"
     },
     {
-      "title": "New Hampshire voters pick midterm nominees as Sen. Shaheen's exit sparks scramble for key seats",
-      "summary": "New Hampshire primary voters are choosing candidates for Congress, governor and the 424-seat state Legislature on Tuesday, and incumbents aren't the only familiar names on the ballot.",
+      "title": "What to watch in New Hampshire tonight: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "New Hampshire primaries test Trump and the left",
+      "summary": "President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.",
       "date": "2026-09-08"
     },
     {
@@ -52,23 +62,11 @@
   ],
   "sources": [
     {
-      "title": "Kornacki Cam: Watch Steve analyze New Hampshire primary election results",
-      "url": "https://www.nbcnews.com/video/kornacki-cam-watch-steve-analyze-new-hampshire-primary-election-results-269482053526?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:32:02.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "New Hampshire primaries test Trump and the left",
-      "url": "https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T09:00:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "New Hampshire voters pick midterm nominees as Sen. Shaheen's exit sparks scramble for key seats",
-      "url": "https://www.pbs.org/newshour/politics/new-hampshire-voters-pick-midterm-nominees-as-sen-shaheens-exit-sparks-scramble-for-key-seats?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:30:18.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "New Hampshire Democrat Cinde Warmington says Canada trade war is \"crushing the people of our state\"",
+      "url": "https://www.cbsnews.com/video/new-hampshire-democrat-cinde-warmington-canada-trade-war-crushing-people-state/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:53:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

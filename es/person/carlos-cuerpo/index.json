@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carlos-cuerpo/index.json",
   "description": "Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [
     "Carlos Cuerpo Caballero",
     "Cuerpo"
@@ -40,19 +40,6 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [
-    {
-      "title": "El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»",
-      "url": "https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:11:48.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018",
-      "url": "https://theobjective.com/economia/2026-09-08/cuerpo-economia-familias-mejor-2018/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:22:27.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

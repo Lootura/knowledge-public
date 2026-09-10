@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/john-ternus/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/john-ternus/index.json",
   "description": "Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T18:48:19.323Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Ternus"
   ],
   "changes": [
+    {
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
+      "summary": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years. (Image credit: Benjamin Fanjoy).",
+      "date": "2026-09-09"
+    },
     {
       "title": "What to expect from new Apple CEO John Ternus as Tim Cook steps down",
       "summary": "John Ternus officially took over for Tim Cook as Apple CEO on Tuesday, becoming the tech giant's first new leader in 15 years. CBS News' Jo Ling Kent reports and CBS News contributor Patrick McGee breaks down what to expect.",
@@ -29,6 +34,19 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Apple announces first foldable iPhone at annual event",
+      "url": "https://www.nbcnews.com/now/video/apple-unveils-new-products-including-first-foldable-iphone-at-annual-event-269563461741?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:55:13.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:39:57.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

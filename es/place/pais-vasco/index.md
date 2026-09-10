@@ -3,10 +3,16 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Una croupier de un casino de Bilbao vuelve de una baja de dos años y dura 1 hora y 53 minutos repartiendo cartas
+
+El Tribunal Superior de Justicia del País Vasco ha revocado la indemnización de 61.000 euros que se le decretó la trabajadora.
+
+Date: 2026-09-09
 
 ### Los gráficos que evidencian la alarmante caída del País Vasco en Educación
 
@@ -62,16 +68,6 @@ Euskal Herria afronta desde hoy un nuevo episodio veraniego con temperaturas sup
 
 Date: 2026-09-03
 
-### El terrorismo cultural de ETA
-
-ETA ya no mata. Esto parece una obviedad, ya que la banda entregó las armas en el año 2011 y para el 2018 se disolvió oficialmente. No obstante, parece que la banda, o al menos ciertos de sus componentes, están más vivos que nunca en el País Vasco y Navarra, ya que la organización, de forma voluntaria o involuntaria, h.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Los gráficos que evidencian la alarmante caída del País Vasco en Educación](https://www.elcorreo.com/bizkaia/graficos-evidencian-caida-pais-vasco-educacion-pisa-20260907092416-nt.html?utm_source=lootura.com) — 2026-09-08T07:29:08.000Z
-- [Euskadi firma los peores resultados de su historia en PISA y solo está por encima de Ceuta y Melilla](https://www.diariovasco.com/sociedad/educacion/euskadi-toca-fondo-firma-peores-resultados-historia-informe-pisa-20260908091836-nt_amp.html?utm_source=lootura.com) — 2026-09-08T07:30:02.000Z
-- [PISA constata el hundimiento del sistema educativo vasco con el desplome de las ciencias para acelerar la euskaldunización](https://www.elmundo.es/pais-vasco/2026/09/08/6a9ef6fc21efa06b3d8b4577.html?utm_source=lootura.com) — 2026-09-08T08:25:07.000Z
-- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
-- [Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías](https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html?utm_source=lootura.com) — 2026-09-08T07:30:17.000Z
+- [Una croupier de un casino de Bilbao vuelve de una baja de dos años y dura 1 hora y 53 minutos repartiendo cartas](https://www.diariovasco.com/sociedad/croupier-casino-bilbao-vuelve-baja-dura-hora-repartiendo-cartas-20260909100734-nt_amp.html?utm_source=lootura.com) — 2026-09-09T08:09:39.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados](https://www.elconfidencial.com/espana/2026-09-08/incendio-forestal-tendilla-heridos-hospital-1tna-1tps_4419921/?utm_source=lootura.com) — 2026-09-08T13:56:00.000Z
+No public source links.

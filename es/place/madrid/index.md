@@ -3,16 +3,40 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Estas son las comunidades con los mejores y peores resultados en el informe PISA
+### Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana
 
-Madrid, Asturias y Castilla y León son las comunidades autónomas con los mejores resultados educativos de España, según el último informe PISA de la OCDE. El rendimiento de los estudiantes españoles en Matemáticas, Lectura y Ciencia continúa en retroceso. Y eso se puede ver en regiones como Ceuta, Melilla o la Comunita.
+El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.
 
-Date: 2026-09-08
+Date: 2026-09-10
+
+### Las reclamaciones por daños en aceras y carreteras de Madrid crecen casi un tercio en los últimos tres años
+
+Las reclamaciones por daños de deficiencias en pavimentación y obras se han incrementado casi un tercio en la ciudad de Madrid durante los últimos tres años. El ejercicio de 2022 se cerró con 840 quejas, una cifra que ha crecido hasta las 1.112 incidencias recogidas en 2025 , según datos del propio Ayuntamiento de la c.
+
+Date: 2026-09-10
+
+### Ayuso: primera 'Tarifa Cero' para autónomos de Madrid que se acojan a la jubilación activa
+
+La economía se encuentra en el epicentro de las políticas de la Comunidad de Madrid, porque de la buena marcha de la actividad dependen la generación de riqueza y empleo, la...
+
+Date: 2026-09-10
+
+### Radiografía climática de las aulas de Madrid antes del plan millonario de Ayuso: el 78% de los colegios no tiene aire acondicionado
+
+Según datos a los que ha tenido acceso ABC sólo el 3,1% de los colegios públicos de la capital disponen de climatización en todas sus aulas.
+
+Date: 2026-09-09
+
+### El Atlético se estrella en Anfield ante un Liverpool que remonta el gol de Llorente
+
+El Atlético de Madrid ha perdido este miércoles por 2-1 en su visita al Liverpool FC durante la jornada 1 en la liguilla de la Liga de Campeones 2026-27,.
+
+Date: 2026-09-09
 
 ### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
 
@@ -20,56 +44,34 @@ La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del info
 
 Date: 2026-09-08
 
-### La Fundación Jiménez Díaz lidera la experiencia del paciente en los hospitales de Madrid
+### El Bernabéu se vuelca con Ceuta y luce un impresionante mosaico en plena crisis migratoria: "No se vende, se defiende"
 
-La Asociación Nacional de Pacientes del Sistema Sanitario (ANPASS) ha identificado los hospitales de la Comunidad de Madrid con mejor experiencia del paciente , cruzando la valoración de los propios ciudadanos con los indicadores oficiales de satisfacción y reclamaciones del Servicio Madrileño de Salud. La Fundación Ji.
-
-Date: 2026-09-08
-
-### ¿Qué hace aquí este gato? Pelea entre vecinos y ayuntamientos por las colonias felinas
-
-Hay un pueblo que se ha vuelto muy turístico al noreste de la Comunidad de Madrid, cerca de Guadalajara. Se llama Patones de Arriba y la gente acude a admirar su rústica arquitectura negra. Allá donde se mire solo se ve pizarra en calles, casas e iglesias... y gatos, muchos gatos . Los felinos están presentes hasta en.
+El Fondo Sur del Santiago Bernabéu , en la previa del estreno del Real Madrid en la nueva edición de la UEFA Champions League ante el Inter de Milán, ha lucido un mosaico repleto de banderas de Ceuta en apoyo tras la gran crisis migratoria que azota actualmente la ciudad. Los aficionados del conjunto madridista, a la s.
 
 Date: 2026-09-08
 
-### Cómo llegar en transporte público al GP de Fórmula 1 en Madrid: buses, lanzaderas gratis, Metro y Cercanías
+### Lobato: «Es la temporada más terrible de Alonso y Sainz, pero sus fans se van felices después de cada carrera»
 
-El Gran Premio de España de Fórmula 1 aterrizará en Madrid del 11 al 13 de septiembre con el estreno de Madring , el circuito urbano que discurre por el entorno de Ifema y Valdebebas. Ante la llegada prevista de miles de aficionados, la capital desplegará un amplio dispositivo de transporte público, con refuerzos en Me.
-
-Date: 2026-09-08
-
-### El ex 'dos' del espionaje de Marruecos que accedió a las pruebas de Pegasus vive escondido entre un piso en Madrid y una finca en Cáceres
-
-El espía Mehdi Hijaouy, que fue la mano derecha de Yassine Mansouri, jefe del servicio de Inteligencia de Marruecos, es uno de los miembros de la c...
+Cuando un gran evento llega a la ciudad, en este caso la Fórmula 1 a Madrid, las conversaciones giran alrededor de lo que va a pasar y surgen expertos de todas partes. La verdad es que pocos han visto y casi ninguno ha probado lo que espera este fin de semana a la capital madrileña, pero si alguien tiene opciones de ar.
 
 Date: 2026-09-08
 
-### Julia Navarro, escritora: "El pensamiento uniforme es una forma de censura"
+### Muere un policía nacional tras chocar con su moto con un coche al salir de trabajar
 
-Cuenta Julia Navarro (Madrid, 1953) que cada vez que empieza a escribir una novela emprende un viaje al corazón de la condición humana. Ese trayecto, en el caso de su último libro, la ha llevado hasta nuestro presente, retratando un mundo frenético cuyos ciudadanos asisten, sin tiempo para asimilarlos, a cambios, socia.
+La Jefatura Superior de Policía de Madrid vuelve a estar de luto. Amador R., de 47 años, un integrante de la Brigada Provincial de Extranjería y Fronteras, ha fallecido tras sufrir una colisión en la avenida de los Poblados, donde se encuentra el complejo policial, en el distrito de Latina. El suceso tuvo lugar a las n.
 
 Date: 2026-09-08
 
-### La falsa escuela de hostelería colombiana que explotaba a sus alumnos en bares de Madrid
+### Peinado deja a Begoña Gómez a los pies del jurado popular tras celebrar la última audiencia del caso
 
-La organización, asentada en la localidad de Torredembarra, captaba a sus víctimas al otro lado del Atlántico mediante falsas promesas de prácticas profesionales.
+El juez Juan Carlos Peinado se prepara para un último acto final que ponga el broche de oro a la causa de Begoña Gómez y a su carrera en la judicatura. Tras más de dos años de instrucción y a pocas semanas de firmar su jubilación, el titular del Juzgado de Instrucción Número 41 de Madrid emitirá en pocos días el auto d.
 
-Date: 2026-09-07
-
-### Muere un motorista de 47 años en Latina (Madrid) tras colisionar con un turismo
-
-Un hombre de 47 años que circulaba en motocicleta por el distrito madrileño de Latina ha fallecido este lunes tras colisionar con un turismo en el cruce entre la calle Tembleque y la Avenida de Los Poblados, según ha informado Emergencias Madrid. Seis heridos, entre ellos una menor de 17 años, en cinco accidentes de tr.
-
-Date: 2026-09-07
-
-### Los elogios de dos aficionados del Atlético de Madrid a Bilbao, a su gente y a San Mamés
-
-Los hinchas vivieron la derrota de su equipo en el campo y se quejaron por alguno de los cánticos de la grada de animación.
-
-Date: 2026-09-07
+Date: 2026-09-08
 
 ## Fuentes
 
-- [Estas son las comunidades con los mejores y peores resultados en el informe PISA](https://www.20minutos.es/nacional/comunidades-mejores-peores-resultados-informe-pisa_7034160_0.html?utm_source=lootura.com) — 2026-09-08T11:57:52.000Z
-- [Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente](https://amp.elmundo.es/espana/2026/09/08/6a9ecb9be85ece34258b4573.html?utm_source=lootura.com) — 2026-09-08T07:30:27.000Z
-- [La Fundación Jiménez Díaz lidera la experiencia del paciente en los hospitales de Madrid](https://theobjective.com/sanidad/2026-09-08/fundacion-jimenez-diaz-lidera-experiencia-paciente/?utm_source=lootura.com) — 2026-09-08T14:12:09.000Z
+- [Radiografía climática de las aulas de Madrid antes del plan millonario de Ayuso: el 78% de los colegios no tiene aire acondicionado](https://www.abc.es/espana/madrid/radiografia-climatica-aulas-madrid-plan-millonario-ayuso-20260909014707-nt.html?utm_source=lootura.com) — 2026-09-09T23:47:07.000Z
+- [Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana](https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [Las reclamaciones por daños en aceras y carreteras de Madrid crecen casi un tercio en los últimos tres años](https://www.elconfidencial.com/espana/madrid/2026-09-10/reclamaciones-danos-aceras-carreteras-madrid_4405691/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [Ayuso: primera 'Tarifa Cero' para autónomos de Madrid que se acojan a la jubilación activa](https://amp.expansion.com/economia/2026/09/10/6aa1a04de5fdea9e5d8b4576.html?utm_source=lootura.com) — 2026-09-10T00:42:31.000Z
+- [El Atlético se estrella en Anfield ante un Liverpool que remonta el gol de Llorente](https://theobjective.com/deportes/futbol/champions-league/2026-09-09/atletico-liverpool-remontada-anfield/?amp=&utm_source=lootura.com) — 2026-09-09T21:17:20.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### Felipe VI se reunió el lunes con Robles y autoridades militares para examinar la situación de Ceuta
+
+El Rey Felipe VI mantuvo este lunes una reunión con la ministra de Defensa, Margarita Robles , y autoridades militares para analizar la situación de Ceuta desde el prisma de la defensa, tras la entrada masiva de inmigrantes procedentes de Marruecos a finales de julio, según ha informado la Casa Real en redes sociales.
+
+Date: 2026-09-08
 
 ### De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?
 
@@ -59,12 +65,6 @@ Date: 2026-08-01
 ### El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad
 
 Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido "con gran preocupación e indignación" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.
-
-Date: 2026-08-01
-
-### El Rey Felipe ha seguido con "indignación" los "graves acontecimientos" de Ceuta y recuerda que el Estado "debe velar por la seguridad" de los ceutíes
-
-El Rey Felipe ha seguido con «indignación» y «preocupación» los «graves acontecimientos» de Ceuta. Así lo ha trasmitido oficiosamente la Casa Real varios días después del inicio de la crisis en la ciudad española del norte de África. No ha habido, estrictamente, por tanto, un comunicado oficial de la Jefatura del Estad.
 
 Date: 2026-08-01
 

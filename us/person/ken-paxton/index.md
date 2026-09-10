@@ -3,14 +3,26 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
 
+### James Talarico Counters Trump’s Midterm Convention With Food Drive
+
+The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.
+
+Date: 2026-09-09
+
 ### Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico
 
 David Maxwell was among the staffers in the Texas attorney general’s office who accused Ken Paxton of abusing the power of his office, allegations that led to his impeachment. Mr. Paxton was acquitted.
+
+Date: 2026-09-08
+
+### First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race
+
+Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.
 
 Date: 2026-09-08
 
@@ -52,4 +64,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico](https://www.nytimes.com/2026/09/08/us/politics/paxton-whistleblower-talarico-ad.html?utm_source=lootura.com) — 2026-09-08T15:50:03.000Z
+- [James Talarico Counters Trump’s Midterm Convention With Food Drive](https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html?utm_source=lootura.com) — 2026-09-09T21:32:29.000Z

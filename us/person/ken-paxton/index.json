@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -23,8 +23,18 @@
   ],
   "changes": [
     {
+      "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
+      "summary": "The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.",
+      "date": "2026-09-09"
+    },
+    {
       "title": "Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico",
       "summary": "David Maxwell was among the staffers in the Texas attorney general’s office who accused Ken Paxton of abusing the power of his office, allegations that led to his impeachment. Mr. Paxton was acquitted.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race",
+      "summary": "Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.",
       "date": "2026-09-08"
     },
     {
@@ -60,9 +70,9 @@
   ],
   "sources": [
     {
-      "title": "Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico",
-      "url": "https://www.nytimes.com/2026/09/08/us/politics/paxton-whistleblower-talarico-ad.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:50:03.000Z",
+      "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:32:29.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

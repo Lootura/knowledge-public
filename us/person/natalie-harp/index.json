@@ -1,0 +1,36 @@
+{
+  "id": "usa-natalie-harp",
+  "name": "Natalie Harp",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/natalie-harp",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/natalie-harp",
+  "markdownUrl": "https://atlas.lootura.com/us/person/natalie-harp/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/natalie-harp/index.json",
+  "description": "Follow Natalie Harp, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "aliases": [
+    "\"the human printer\""
+  ],
+  "changes": [
+    {
+      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
+      "summary": "A White House spokesperson said in a statement on Wednesday that Mr. Trump \"has a longstanding practice of giving Christmas gifts to people in his orbit.\".",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Natalie Harp first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-09"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
+      "url": "https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T17:56:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

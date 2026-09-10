@@ -3,10 +3,22 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material
+
+The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis. (Image credit: Hiroyuki Ito/Getty Images).
+
+Date: 2026-09-09
+
+### New report shows the economic toll of ICE raids
+
+A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue. (Image credit: Scott Olson/Getty Images).
+
+Date: 2026-09-08
 
 ### We Need a Cure for AI Health Hype
 
@@ -56,18 +68,6 @@ Date: 2026-08-11
 
 Date: 2026-08-10
 
-### Opinion: Europe's summer of heat
-
-Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).
-
-Date: 2026-08-08
-
-### Who or what is 'taking a step back from visibility'? The quiz knows
-
-Plus, if you know what "TMZ" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material](https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material?utm_source=lootura.com) — 2026-09-09T20:42:19.000Z

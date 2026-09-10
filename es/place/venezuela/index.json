@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/venezuela/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/venezuela/index.json",
   "description": "Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "BR Venezuela",
     "Bolivarian Republic of Venezuela",
@@ -19,6 +19,11 @@
     "República de Venezuela"
   ],
   "changes": [
+    {
+      "title": "María Corina Machado arrasaría en Venezuela con un 61% de los votos, según una encuesta",
+      "summary": "El 88,4% de los venezolanos ve «muy urgente» que el chavismo abandone el poder y la confianza en Trump se desploma.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Ledezma pide a Trump que el acuerdo petrolero se haga con una Venezuela democrática",
       "summary": "Antonio Ledezma , exalcalde de Caracas y coordinador del Consejo Político Internacional de María Corina Machado y Edmundo González Urrutia, ha pedido al presidente estadounidense, Donald Trump , que la alianza petrolera con Venezuela se construya sobre un Gobierno democrático y no sirva para legitimar al Ejecutivo de D.",
@@ -63,11 +68,6 @@
       "title": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
       "summary": "Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "El chavismo se fractura tras la captura de Maduro y los terremotos",
-      "summary": "El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [],

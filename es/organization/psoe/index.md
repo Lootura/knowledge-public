@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"
+
+El presidente del Gobierno señala que las elecciones será en 2027, pero ya no apunta al mes de julio como sí hacía en ocasiones anteriores Leer.
+
+Date: 2026-09-09
+
+### La gerente del PSOE atribuye a Cerdán la responsabilidad de los pagos a la 'fontanera' Leire Díez y los abogados imputados
+
+Ana María Fuentes ha declarado como imputada ante el juez Pedraz en la acusa abierta en la Auidiencia Nacional por las maniobras para desactivar las investigaciones que perjudicaban al PSOE y al Gobierno Leer.
+
+Date: 2026-09-09
+
+### El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE
+
+Superaba ya la media hora su intervención en TVE y Pedro Sánchez se fue viniendo tan arriba que cometió un 'lapsus'. Desveló que la investigación judicial ha...
+
+Date: 2026-09-09
+
+### "Nos hemos pegado un tiro en el pie": incredulidad en el PSOE tras los informes y la versión del Gobierno
+
+Moncloa censura que el CNI se "limita a mandar un 'whatsapp' a un cargo menor" Leer.
+
+Date: 2026-09-09
+
+### El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'
+
+La Audiencia Nacional ha reclamado al PSOE que aporte a la causa incoada por la presunta financiación irregular del partido las donaciones que recibió entre los años 2017 y...
+
+Date: 2026-09-09
 
 ### El PSOE considera una "auténtica barbaridad" la lista de periodistas con su adscripción política elaborada por Interior
 
@@ -38,37 +68,10 @@ Barbón se desploma en votos y escaños y solo la suma de PP y Vox podría gober
 
 Date: 2026-09-07
 
-### Montero fracasa en su intento de evitar las primarias: habrá en cuatro capitales andaluzas y en otros siete municipios de más de 20.000 habitantes
-
-La militancia elegirá al cabeza de lista en Almería, Córdoba, Huelva y hasta en Jaén, donde el PSOE gobierna y podría haber evitado las primarias Leer.
-
-Date: 2026-09-07
-
-### Sánchez esgrime la victoria ultra en Alemania para reanimar al PSOE tras el desgaste por Ceuta
-
-Pedro Sánchez ha esgrimido la victoria de la ultraderecha en las elecciones de Sajonia-Anhalt y la excepcionalidad del Gobierno de coalición progresista al frente de uno de los grandes países occidentales para tratar de reanimar a los diputados, senadores y europarlamentarios del PSOE en un inicio de curso condicionado.
-
-Date: 2026-09-07
-
-### Podcast | Ceuta hunde a Sánchez
-
-El PSOE ha tocado fondo. Tras meses consecutivos marcados por escándalos de corrupción, la invasión de Ceuta y el abandono a la ciudad por parte del Gobierno se materializan en las encuestas. Estas muestran ya el suelo electoral del PSOE : si las elecciones se celebrasen ahora, PP y Vox gozarían de una mayoría electora.
-
-Date: 2026-09-07
-
-### «Zapatero morirá matando»: mandos policiales y del Gobierno ven la mano del expresidente en los informes sobre Ceuta
-
-El Gobierno, el PSOE y la Policía Nacional empiezan a metabolizar lo ocurrido con el informe policial que ha reventado la estrategia gubernamental de blanqueamiento de Marruecos respecto a la invasión de 80.000 personas en Ceuta este verano. La digestión ha derivado en una sospecha creciente en torno al expresidente de.
-
-Date: 2026-09-04
-
-### La Justicia tumba una querella de las cloacas del PSOE contra El Confidencial y certifica la "veracidad" del audio contra Balas
-
-La Audiencia Provincial de Madrid ha tumbado una querella contra El Confidencial del abogado Jacobo Teijelo , investigado por su implicación en las cloacas de Ferraz, en la que sostenía que este diario había vulnerado su derecho a la intimidad por publicar en mayo de 2025 la grabación en la que se escuchaba a Leire Díe.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [El PSOE considera una "auténtica barbaridad" la lista de periodistas con su adscripción política elaborada por Interior](https://www.elmundo.es/espana/2026/09/08/6a9ff51821efa0b36a8b45ae.html?utm_source=lootura.com) — 2026-09-08T12:08:09.000Z
-- [El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe](https://theobjective.com/espana/politica/2026-09-08/psoe-ataca-juez-investiga-ceuta/?amp=&utm_source=lootura.com) — 2026-09-08T08:30:58.000Z
+- [Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"](https://www.elmundo.es/espana/2026/09/09/6aa13a7fe4d4d867438b4586.html?utm_source=lootura.com) — 2026-09-09T13:17:15.000Z
+- [La gerente del PSOE atribuye a Cerdán la responsabilidad de los pagos a la 'fontanera' Leire Díez y los abogados imputados](https://www.elmundo.es/espana/2026/09/09/6aa121acfdddffee4f8b4581.html?utm_source=lootura.com) — 2026-09-09T13:07:00.000Z
+- [El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE](https://amp.elmundo.es/espana/2026/09/09/6aa1a544e85ece66268b4594.html?utm_source=lootura.com) — 2026-09-09T20:45:47.000Z
+- ["Nos hemos pegado un tiro en el pie": incredulidad en el PSOE tras los informes y la versión del Gobierno](https://www.elmundo.es/espana/2026/09/10/6aa19a6021efa075728b45a3.html?utm_source=lootura.com) — 2026-09-09T23:51:28.000Z
+- [El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'](https://amp.elmundo.es/espana/2026/09/09/6aa19ae821efa05f7c8b45a3.html?utm_source=lootura.com) — 2026-09-09T20:45:56.000Z

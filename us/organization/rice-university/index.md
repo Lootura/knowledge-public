@@ -3,10 +3,16 @@
 > Follow Rice University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/organization/rice-university
 
 ## Recent changes
+
+### Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals
+
+An electrical fingerprint found on tiny particles in the blood may help detect signs of pancreatic cancer that are often overlooked, according to new research from Rice University. The researchers developed a device that separates these particles based on their electrical charge, making cancer-associated signals more v.
+
+Date: 2026-09-09
 
 ### Levitated magnet opens new frontier in search for ultraheavy dark matter
 
@@ -28,4 +34,4 @@ Date: 2026-08-31
 
 ## Sources
 
-No public source links.
+- [Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals](https://phys.org/news/2026-09-electrical-fingerprint-tiny-cell-particles.html?utm_source=lootura.com) — 2026-09-09T23:40:09.000Z

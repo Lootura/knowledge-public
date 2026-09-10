@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Funding milestone detected
+
+The Fed's next decision could move gold prices sharply, making the timing of your investment worth considering.
+
+Date: 2026-09-09
 
 ### Why the U.S. job market remains resilient in face of global pressures and inflation
 
@@ -64,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Should you wait until after the September Fed meeting to invest in gold?](https://www.cbsnews.com/news/should-you-wait-september-2026-fed-meeting-gold-investing/?utm_source=lootura.com) — 2026-09-09T17:37:45.000Z

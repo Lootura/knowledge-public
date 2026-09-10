@@ -3,10 +3,16 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T19:21:03.373Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI . Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Lege.
+
+Date: 2026-09-08
 
 ### Product availability changed in Europe
 
@@ -52,5 +58,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer?utm_source=lootura.com) — 2026-09-08T14:26:02.000Z
-- [The Legend of Zelda 40th Anniversary Direct: All the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct?utm_source=lootura.com) — 2026-09-08T13:50:00.000Z
+No public source links.

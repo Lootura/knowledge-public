@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,6 +44,21 @@
   ],
   "changes": [
     {
+      "title": "Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa",
+      "summary": "La relativa tranquilidad con que el mercado miraba el conflicto de Irán desde el mes de julio se ha roto al difuminarse una premisa bajo la que operaban muchos inversores: que la guerra estaría concluida en otoño , antes de las elecciones legislativas de noviembre en Estados Unidos (las midterm ). Seguir leyendo.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "‘Así aprenderás’: lo que la serie coreana revela sobre la crisis del profesorado en América Latina",
+      "summary": "Fotograma de la serie _Así aprenderás_. Netflix Las aulas de educación básica y media superior enfrentan una crisis silenciosa. El auge de las series coreanas sobre el mundo educativo refleja esta dolorosa realidad. Producciones como Así aprenderás no solo atrapan por su drama . Estas historias conectan con una profund.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Por qué la ausencia de las Torres Gemelas también es una seña de identidad del ‘skyline’ neoyorquino",
+      "summary": "Joe Sohm/Visions of America/Universal Images Group via Getty Images A las 10:28 de la mañana del 11 de septiembre de 2001, el perfil urbano de Nueva York cambió de forma repentina y dramática. El mundo observaba con horror cómo en las pantallas de televisión se derrumbaban la Torre Norte del World Trade Center y, luego.",
+      "date": "2026-09-08"
+    },
+    {
       "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
       "summary": "El informe PISA 2025 mantiene la tendencia de rezago de los países latinoamericanos en la principal comparación educativa internacional respecto a la media de la OCDE. Algunos, como Argentina y México, han registrado sus peores resultados en 20 años en matemáticas y otros muestran estancamiento (Brasil, Colombia y Cost.",
       "date": "2026-09-08"
@@ -77,36 +92,21 @@
       "title": "Cuba denuncia daños de 7.000 millones por las sanciones y el bloqueo de EEUU desde 2025",
       "summary": "El Gobierno cubano ha estimado en 8.083 millones de dólares (unos 6.955 millones de euros) los daños provocados por el «cerco energético, el recrudecimiento extremo del bloqueo y la aplicación de sanciones secundarias» por parte de Estados Unidos entre el 1 de marzo de 2025 y el 28 de febrero de 2026. «Son 8.083.300.00.",
       "date": "2026-09-07"
-    },
-    {
-      "title": "Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania",
-      "summary": "Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria",
-      "summary": "Irán había disparado antes misiles balísticos a varios buques de guerra estadounidenses en el estrecho de Ormuz.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros",
-      "summary": "Estados Unidos ha informado este sábado de la destrucción de tres petroleros que pertenecerían a la Guardia Revolucionaria de Irán en respuesta a un ataque contra dos buques de guerra estadounidenses desplegados en la zona del estrecho de Ormuz . Las fuerzas estadounidenses han «inutilizado permanentemente» los petrole.",
-      "date": "2026-09-05"
     }
   ],
   "sources": [
     {
-      "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
-      "url": "https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T07:30:06.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "España recorta las compras de gas a Estados Unidos desde la crisis diplomática: encadenan cuatro meses a la baja y se desploman un 60% en julio",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/09/6aa16adde4d4d837598b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:44:59.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "El S&P 500 sigue bien soportado",
-      "url": "https://www.expansion.com/mercados/2026/09/08/6a9fc70d468aeb7b618b458c.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T10:07:06.000Z",
+      "title": "Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa",
+      "url": "https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:43:11.000Z",
       "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/union-europea/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/union-europea/index.json",
   "description": "Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "Europa",
     "Unión"
   ],
   "changes": [
+    {
+      "title": "El Tribunal de Cuentas de la UE avisa del aumento de la producción ilegal de tabaco, con pérdidas de 13.000 millones en tasas",
+      "summary": "Los contrabandistas aprovechan las diferencias de regulación entre países de la Unión Europea y se acercan más a los consumidores Leer.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha abordado este martes junto al comisario europeo de Asuntos de Interior y Migración, Magnus Brunner, un «refuerzo de cooperación» de la Unión Europea en Ceuta y Melilla y la «presencia permanente» de Frontex , Europol y la Agencia c.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink",
       "summary": "Deutsche Telekom, Orange, Vodafone y Telefónica mantienen conversaciones en fase inicial para constituir un consorcio conjunto orientado a pujar por el espectro satelital de la Unión Europea y ofrecer servicios de conectividad directa al teléfono móvil desde la órbita terrestre. La iniciativa busca establecer un rival.",
@@ -53,31 +63,8 @@
       "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Hungría asegura que Ucrania «no está preparada» para la adhesión a la UE",
-      "summary": "El primer ministro de Hungría, Peter Magyar , ha asegurado este jueves que Ucrania «no está preparada» para la adhesión a la Unión Europea , mostrándose escéptico sobre la capacidad de Kiev para cumplir los compromisos alcanzados entre ambos países de forma bilateral en materia de los derechos de las minorías en la reg.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio",
-      "summary": "Cada cierto tiempo acostumbramos a ver cómo los dispositivos móviles van cesando en su soporte de actualizaciones y postventa, una obsolescencia muchas veces programada que hace tiempo que la Unión Europea trabaja para combatir , pero que a la postre es ley de vida sobre todo en una industria tan volátil y voraz como l.",
-      "date": "2026-09-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink",
-      "url": "https://cincodias.elpais.com/companias/2026-09-08/telefonica-y-las-grandes-telcos-europeas-sondean-una-alianza-satelital-para-competir-contra-starlink.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T09:48:16.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Vivas exige a Bruselas más contundencia en la relación europea con Marruecos",
-      "url": "https://www.lavanguardia.com/politica/20260908/11629935/vivas-exige-bruselas-mas-contundencia-relacion-europea-marruecos.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T10:54:07.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

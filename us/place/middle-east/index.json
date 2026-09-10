@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
+    {
+      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+      "summary": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
       "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.",
@@ -58,26 +63,15 @@
       "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
       "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Hegseth says conditions aboard the USS Abraham Lincoln are \"completely misrepresented\"",
-      "summary": "Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.",
-      "date": "2026-08-14"
     }
   ],
   "sources": [
     {
-      "title": "Oil prices near $100 a barrel as Houthis launch new attacks on Saudi energy points",
-      "url": "https://www.cbsnews.com/video/oil-prices-near-100-a-barrel-as-houthis-launch-new-attacks-on-saudi-energy/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:53:41.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:05:31.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+      "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T12:15:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

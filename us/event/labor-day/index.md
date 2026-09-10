@@ -3,7 +3,7 @@
 > Follow Labor Day, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: event
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T19:21:03.373Z
 - Canonical: https://atlas.lootura.com/us/event/labor-day
 
 ## Recent changes
@@ -52,5 +52,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [Hurricane Lowell Pounds Hawaii as Storms Fuel Travel Delays](https://www.today.com/video/rare-tornado-watch-in-hawaii-as-storms-slam-the-mainland-269464645985?utm_source=lootura.com) — 2026-09-08T11:11:04.000Z
-- [Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash](https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html?utm_source=lootura.com) — 2026-09-08T01:06:19.000Z
+No public source links.

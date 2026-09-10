@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal asegura que no hará campaña para el Balón de Oro: «No voy a suplicar nada»
+
+El jugador español del FC Barcelona Lamine Yamal ha asegurado este martes que no piensa hacer campaña para ganar el Balón de Oro ni «suplicar nada» después de la que considera una buena temporada, al tiempo que destacó que su principal objetivo de presente es conquistar la Liga de Campeones, un torneo que considera «el.
+
+Date: 2026-09-08
 
 ### Lamine Yamal e Inés García disfrutan de 24 horas de lujo en París: jet privado y un hotel de 4.000 euros la noche
 
@@ -61,12 +67,6 @@ Date: 2026-07-19
 Lamine es taxista. Tiene 42 años. Yamal significa belleza en árabe. Lamine Yamal es futbolista. En 2007, cuando Sheila Ebana estaba embarazada, su pareja Mounir Nasraoui le propuso un nombre para el niño que venía en camino. Quería llamarlo como su mejor amigo, Lamine. Y le añadió un segundo nombre que hoy suena casi p.
 
 Date: 2026-07-19
-
-### La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años
-
-Todo el mundo habla de la fotografía en la que aparecen juntos un Leo Messi veinteañero y un Lamine Yamal de apenas unos meses de edad realizada hace casi 20 años. El argentino se ha convertido en el mejor futbolista de la historia; el catalán, en la estrella del Barça y de la selección española. Los dos lucharán este.
-
-Date: 2026-07-18
 
 ## Fuentes
 

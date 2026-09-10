@@ -3,7 +3,7 @@
 > Follow South Korea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T08:35:00.530Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/place/south-korea
 
 ## Recent changes

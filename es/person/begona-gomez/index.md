@@ -3,10 +3,40 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El juez Peinado se va de vacaciones y enfila a Begoña Gómez al banquillo
+
+El juez Juan Carlos Peinado ha comenzado sus vacaciones después de concluir la audiencia preliminar en la que ha enfilado a Begoña Gómez, la esposa del presidente del Gobierno, al banquillo de los acusados por presuntos delitos de tráfico de influencias y malversación.El magistrado convocó a las partes este martes a la.
+
+Date: 2026-09-08
+
+### Peinado deja a Begoña Gómez a los pies del jurado popular tras celebrar la última audiencia del caso
+
+El juez Juan Carlos Peinado se prepara para un último acto final que ponga el broche de oro a la causa de Begoña Gómez y a su carrera en la judicatura. Tras más de dos años de instrucción y a pocas semanas de firmar su jubilación, el titular del Juzgado de Instrucción Número 41 de Madrid emitirá en pocos días el auto d.
+
+Date: 2026-09-08
+
+### La audiencia preliminar pone el punto final a la polémica instrucción del juez Peinado en el caso Begoña Gómez
+
+La defensa de la esposa del presidente del Gobierno ha defendido que el escrito de la acusación popular, la única que propone llevar a juicio el caso, es ineficaz porque la ley del procedimiento del Tribunal del Jurado obliga a que sólo se haga un relato de hechos en el mismo, algo que no ha cumplido HazteOir Begoña Gó.
+
+Date: 2026-09-08
+
+### Rifirrafe entre Peinado y un abogado del ‘caso Begoña’: «No venga a darnos una clase de 1º de Informática»
+
+El juez Juan Carlos Peinado ha protagonizado este martes un tenso cruce de reproches con Chema de Pablo , abogado defensor de Cristina Álvarez , asesora de Begoña Gómez, durante la audiencia preliminar al juicio con tribunal de jurado. Al término de la vista, el magistrado le ha espetado una frase que ha resumido el cl.
+
+Date: 2026-09-08
+
+### El juez Peinado vuelve a retrasar enviar a juicio a Begoña Gómez antes de iniciar sus vacaciones
+
+El juez Juan Carlos Peinado ha decidido este martes retrasar su decisión de enviar a juicio oral a la mujer del presidente del Gobierno, Begoña Gómez , después de que su abogado acudiese a los juzgados de la madrileña Plaza Castilla tras ser convocado a la audiencia preliminar , como paso previo a enviarle a juicio con.
+
+Date: 2026-09-08
 
 ### Begoña Gómez no tendrá que ir a la audiencia preliminar de cara al futuro juicio
 
@@ -37,36 +67,6 @@ Date: 2026-09-04
 Begoña Gómez, esposa del presidente del Gobierno, ha presentado este viernes un nuevo escrito de defensa —firmado por su nuevo abogado— en el que pide una vez más su absolución en la causa contra ella por, supuestamente, haberse valido de su condición de esposa del presidente del Gobierno para impulsar su carrera. Góme.
 
 Date: 2026-09-04
-
-### Begoña Gómez pide su absolución y alude a las memorias de Ana Botella para defender el papel de su asistente
-
-El nuevo abogado de la mujer del presidente del Gobierno insiste en que su clienta “no influyó ni ejerció presión moral” para conseguir la cátedra de la Complutense y dice que no hay “delito alguno” en los hechos por los que se expone a 13 años de cárcel La asistente de Begoña Gómez pide su absolución y que se condene.
-
-Date: 2026-09-04
-
-### La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"
-
-La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa "está condenada" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.
-
-Date: 2026-09-03
-
-### El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial
-
-La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.
-
-Date: 2026-09-03
-
-### Un juez cita a declarar a Begoña Gómez tras querellarse Vito Quiles contra ella por denuncia falsa
-
-La mujer de Pedro Sánchez debe declarar como querellada el próximo 23 de octubre Leer.
-
-Date: 2026-09-02
-
-### Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse
-
-Juan Carlos Peinado cumple 72 años el próximo 27 de septiembre y, con ello, llegará a la edad límite que la legislación marca para la jubilación forzosa de los jueces. El titular del Juzgado de Instrucción número 41 de Madrid tiene que cumplir con varios pasos procesales antes de la mencionada fecha (para la que quedan.
-
-Date: 2026-08-07
 
 ## Fuentes
 

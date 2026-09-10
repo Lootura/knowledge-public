@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.json",
   "description": "Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -20,6 +20,11 @@
     "Zelenski"
   ],
   "changes": [
+    {
+      "title": "El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron",
+      "summary": "El primer ministro de Noruega, Jonas Gahr Støre, ha asegurado este miércoles que el avión que trasladó en la víspera al presidente de Ucrania, Volodímir Zelenski , a Oslo estuvo «a punto» de ser alcanzado por un dron . «Su avión estuvo a punto de ser derribado por un dron cuando iba a despegar de Moldavia , así que esa.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana",
       "summary": "Un dron ruso impactó contra la sede del Servicio de Seguridad de Ucrania (SBU) en Kiev, según declaró el viernes el presidente ucraniano, Volodímir Zelenski , mientras un reportero de la AFP observaba ambulancias estacionadas cerca del lugar.Una imagen publicada por el medio de comunicación Ukrainska Pravda mostraba lo.",
@@ -61,6 +66,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron",
+      "url": "https://theobjective.com/internacional/2026-09-09/avion-zelenski-oslo-derribo/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:54:09.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

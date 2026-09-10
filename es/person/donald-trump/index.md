@@ -3,20 +3,38 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Putin le niega a Trump que tenga planes de atacar Europa
+### En el Trump-a-Palooza, la fe trumpista bajo 35 grados: "Es loco, pero tengo que ir a verlo"
 
-Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
+El presidente de EEUU es la estrella única de la singular Convención Republicana que se ha sacado de la manga para movilizar a los suyos de cara a las legislativas de noviembre Leer.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
 ### Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia
 
 Leer.
+
+Date: 2026-09-08
+
+### Rubio desembarca en una Colombia que ahora abraza la mano dura de Trump
+
+Marco Rubio llevó a Colombia este martes una exigencia directa y clara de Donald Trump para inaugurar una nueva etapa política tras la marcha de Gustavo Petro : reducir por la vía rápida los cultivos de coca intensificando las operaciones contra los grupos del narcotráfico y persiguiendo las redes financieras que sosti.
+
+Date: 2026-09-08
+
+### María Corina Machado arrasaría en Venezuela con un 61% de los votos, según una encuesta
+
+El 88,4% de los venezolanos ve «muy urgente» que el chavismo abandone el poder y la confianza en Trump se desploma.
+
+Date: 2026-09-08
+
+### Putin le niega a Trump que tenga planes de atacar Europa
+
+Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
 
 Date: 2026-09-08
 
@@ -50,25 +68,7 @@ El presidente de Estados Unidos, Donald Trump , ha reclamado a la Reserva Federa
 
 Date: 2026-09-04
 
-### El mercado laboral da un respiro a Trump con la creación de 162.000 puestos en agosto
-
-A dos meses de las elecciones de medio mandato, Donald Trump puede vender una buena noticia a los estadounidenses . El mercado laboral respondió mejor de lo esperado el pasado agosto, con la creación de 162.000 puestos de trabajo, según los datos publicados este viernes por el Departamento de Trabajo de Estados Unidos.
-
-Date: 2026-09-04
-
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Putin le niega a Trump que tenga planes de atacar Europa](https://www.abc.es/internacional/putin-niega-trump-planes-atacar-europa-20260908172606-nt.html?utm_source=lootura.com) — 2026-09-08T15:33:22.000Z
-- [Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia](https://www.elmundo.es/internacional/2026/09/08/6aa02804e4d4d8eb608b458a.html?utm_source=lootura.com) — 2026-09-08T15:38:06.000Z
+- [España recorta las compras de gas a Estados Unidos desde la crisis diplomática: encadenan cuatro meses a la baja y se desploman un 60% en julio](https://www.elmundo.es/economia/empresas/2026/09/09/6aa16adde4d4d837598b459b.html?utm_source=lootura.com) — 2026-09-09T20:44:59.000Z
+- [En el Trump-a-Palooza, la fe trumpista bajo 35 grados: "Es loco, pero tengo que ir a verlo"](https://www.elmundo.es/internacional/2026/09/09/6aa1bcebfc6c8395278b4584.html?utm_source=lootura.com) — 2026-09-09T21:48:20.000Z

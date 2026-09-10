@@ -1,0 +1,45 @@
+{
+  "id": "usa-rhode-island-democratic",
+  "name": "Rhode Island Democratic",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/rhode-island-democratic",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/rhode-island-democratic",
+  "markdownUrl": "https://atlas.lootura.com/us/person/rhode-island-democratic/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/rhode-island-democratic/index.json",
+  "description": "Follow Rhode Island Democratic, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Helena Foulkes wins Rhode Island Democratic governor primary, NBC News projects",
+      "summary": "Rhode Island Gov. Dan McKee has lost his Democratic primary to former CVS executive Helena Foulkes, NBC News projects, after facing a significant spending disadvantage and voter discontent with his tenure. NBC News' Steve Kornacki breaks down the numbers.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Dan McKee becomes first governor in 8 years to lose primary",
+      "summary": "Rhode Island Democratic Gov. Dan McKee became the first governor in eight years in the U.S. to lose a primary, falling on Wednesday to former CVS executive Helena Foulkes and becoming the latest victim of a rough year for incumbents. McKee’s campaign was bogged down by the botched handling of a years-long project to re.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rhode Island Democratic first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-10"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Helena Foulkes wins Rhode Island Democratic governor primary, NBC News projects",
+      "url": "https://www.nbcnews.com/video/helena-foulkes-wins-rhode-island-democratic-governor-primary-nbc-news-projects-269595205652?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T00:40:44.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Dan McKee becomes first governor in 8 years to lose primary",
+      "url": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T00:25:46.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 2
+}

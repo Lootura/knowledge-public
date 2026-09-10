@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T14:34:36.678Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,41 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "Trump escalates Canada trade war by banning some imports",
+      "summary": "After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
+      "summary": "A White House spokesperson said in a statement on Wednesday that Mr. Trump \"has a longstanding practice of giving Christmas gifts to people in his orbit.\".",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "What to expect from the GOP's first-ever midterm convention",
+      "summary": "Republicans are gathering in Dallas for an unusual two-day midterm convention, with President Trump set to address the party both nights. The event, part rally and part political showcase, is aimed at energizing Republican voters. White House correspondent Liz Landers reports from Dallas.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Smithsonian’s Secretary to Resign as Trump Tries to Rule the Institution",
+      "summary": "In the face of escalating White House attacks about how museums present American history, Lonnie G. Bunch III has announced his decision to depart.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race",
+      "summary": "Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "What to watch in New Hampshire tonight: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Trump hosts 9/11 first responders and families at the White House",
+      "summary": "President Trump hosted first responders and families of victims from the 9/11 terror attacks for a “Steel Across America” event at the White House. NBC News' Garrett Haake reports on what the president had to say and the piece of the World Trade Center on display during his remarks.",
+      "date": "2026-09-08"
+    },
     {
       "title": "The Tetris Company Denounces Trump White House Clone of Tetris",
       "summary": "Responding to Build the Wall, an apparent copy of the retro video game, the Tetris Company said “we take copyright infringement very seriously.”.",
@@ -32,43 +67,27 @@
       "title": "Vance on Dan Driscoll's resignation as Army secretary, other high-profile military departures",
       "summary": "Vice President JD Vance on Thursday held the first briefing at the White House since Karoline Leavitt left as press secretary, where CBS News senior White House correspondent Weijia Jiang asked him about the departure of the now-former Army Secretary Dan Driscoll. Jiang joins \"The Takeout\" with more.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Proposal for White House Visitor Screening Center Advances",
-      "summary": "A federal panel again paved the way for one of President Trump’s construction projects, even as it heard opposition to another proposal to fence in a park north of the White House.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
-      "summary": "In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Trump appointees advance plans for Lafayette Square fencing and White House gates",
-      "summary": "Pieces of President Donald Trump's wide-ranging Washington makeover made their next step toward approval Thursday, but not without substantial critiques of plans for permanent fencing and gates around Lafayette Square in front of the White House.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "White House Plans $250,000 Renovation of 2-Lane Bowling Alley",
-      "summary": "A White House spokesman said the alley renovations included fixing broken lights. The project comes as the president has sought a broad overhaul of the White House and its surroundings.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
-      "summary": "Iran attacked American bases and allies across the Gulf region on Wednesday. It followed U.S. attacks along Iran's southern coast that killed at least 18, according to Iran's health minister. At the White House, President Trump said this renewed campaign wouldn't last long, but threatened to hit Tehran \"very hard\" if t.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
-      "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Who Approves Trump’s Washington Makeover Projects?",
-      "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled.",
-      "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump escalates Canada trade war by banning some imports",
+      "url": "https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:47:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
+      "url": "https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T17:56:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "What to expect from the GOP's first-ever midterm convention",
+      "url": "https://www.pbs.org/newshour/show/what-to-expect-from-the-gops-first-ever-midterm-convention?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:40:53.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 4
 }

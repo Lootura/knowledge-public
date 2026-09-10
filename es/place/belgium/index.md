@@ -3,7 +3,7 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Fuentes
 
-- [La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico](https://www.elcorreo.com/economia/pensiones/ocde-estrecha-cerco-sobre-nominas-mayores-cotizaciones-20260908143006-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T12:30:06.000Z
+No public source links.

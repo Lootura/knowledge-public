@@ -3,10 +3,16 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East
+
+The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.
+
+Date: 2026-09-09
 
 ### Houthis strike Saudi Arabian cities in significant expansion of Middle East war
 
@@ -62,13 +68,6 @@ President Donald Trump on Friday dismissed concerns from families of service mem
 
 Date: 2026-08-14
 
-### Hegseth says conditions aboard the USS Abraham Lincoln are "completely misrepresented"
-
-Senate Democrats are demanding answers about conditions aboard the USS Abraham Lincoln, a carrier stationed in the Middle East. Democratic Sen. Richard Blumenthal of Connecticut said the carrier has been deployed for 250 days and has not come ashore in over 200 days, setting a record. Defense Secretary pushed back agai.
-
-Date: 2026-08-14
-
 ## Sources
 
-- [Oil prices near $100 a barrel as Houthis launch new attacks on Saudi energy points](https://www.cbsnews.com/video/oil-prices-near-100-a-barrel-as-houthis-launch-new-attacks-on-saudi-energy/?utm_source=lootura.com) — 2026-09-08T14:53:41.000Z
-- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z
+- [Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East](https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html?utm_source=lootura.com) — 2026-09-09T12:15:01.000Z

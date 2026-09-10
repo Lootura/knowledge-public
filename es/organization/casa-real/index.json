@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/casa-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/casa-real/index.json",
   "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [
     "Casa de Su Magestad",
     "Casa de Su Majestad",
@@ -22,6 +22,11 @@
     "ruling dynasty"
   ],
   "changes": [
+    {
+      "title": "Felipe VI se reunió el lunes con Robles y autoridades militares para examinar la situación de Ceuta",
+      "summary": "El Rey Felipe VI mantuvo este lunes una reunión con la ministra de Defensa, Margarita Robles , y autoridades militares para analizar la situación de Ceuta desde el prisma de la defensa, tras la entrada masiva de inmigrantes procedentes de Marruecos a finales de julio, según ha informado la Casa Real en redes sociales.",
+      "date": "2026-09-08"
+    },
     {
       "title": "De un polémico parto al desnudo de una famosa: ¿Cuál ha sido la noticia VIP de la semana?",
       "summary": "Como cada semana, desde COOL recogemos las noticias más leídas por nuestros lectores en los últimos días. En la primera semana de curso, los famosos, tras sus vacaciones, no han dejado de darnos titulares, así como la propia Casa Real de España tras mostrar su apoyo al pueblo ceutí debido a la invasión de Marruecos. Ta.",
@@ -65,11 +70,6 @@
     {
       "title": "El rey se muestra \"indignado\" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad",
       "summary": "Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido \"con gran preocupación e indignación\" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Rey Felipe ha seguido con \"indignación\" los \"graves acontecimientos\" de Ceuta y recuerda que el Estado \"debe velar por la seguridad\" de los ceutíes",
-      "summary": "El Rey Felipe ha seguido con «indignación» y «preocupación» los «graves acontecimientos» de Ceuta. Así lo ha trasmitido oficiosamente la Casa Real varios días después del inicio de la crisis en la ciudad española del norte de África. No ha habido, estrictamente, por tanto, un comunicado oficial de la Jefatura del Estad.",
       "date": "2026-08-01"
     }
   ],

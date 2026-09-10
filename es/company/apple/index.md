@@ -3,10 +3,52 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable
+
+Alberto Olmos y Rubén Arranz están de vuelta en su estudio de El Confidencial para un nuevo episodio de Lo más odiado, el videopódcast de El Confidencial en el que ambos hablan de sus cosas y que puedes ver en YouTube y escuchar en Ivoox , Spotify y Apple Podcast . En este episodio hay espacio para abordar en detalle l.
+
+Date: 2026-09-10
+
+### Así es el iPhone Duo, el primer móvil plegable de Apple
+
+Apple presentó el iPhone en 2007. Sus nuevas versiones fueron cambiando su interior, pero mantuvieron un diseño más o menos estable. Esa continuidad ha sido una de las grandes victorias de Apple: convirtió un producto tecnológico en una especie de tótem cultural, como una botella de Coca-Cola o unas zapatillas Converse.
+
+Date: 2026-09-09
+
+### iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada
+
+Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max , Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el debut de Siri AI como gran novedad, tras las muy buenas sensaciones que ha dejado.
+
+Date: 2026-09-09
+
+### Los nuevos Apple Watch Series 12 y Apple Watch Ultra 4 miden mejor tu salud y ofrecen una batería más grande
+
+Los nuevos iPhone 18 Pro y iPhone Duo no fueron lo único que presentó Apple. El gigante tecnológico aprovechó su evento de septiembre para anunciar una actualización a su gama de relojes inteligentes. El Apple Watch Series 12 y el Apple Watch Ultra 4 debutan con un sistema de sensores rediseñado que ofrece mejores medi.
+
+Date: 2026-09-09
+
+### Apple irrumpe en el mercado de plegables con el iPhone Duo: la pesadilla de Samsung y Xiaomi se ha vuelto realidad
+
+Después de tantísimos rumores y especulaciones, Apple se ha animado a probar un nuevo factor de forma en su catálogo de móviles. Que iPhone Fold, que iPhone Ultra, el primer plegable de la manzana finalmente llega al mercado con un nombre que la compañía logró mantener en secreto casi hasta último momento: iPhone Duo .
+
+Date: 2026-09-09
+
+### Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros
+
+El nuevo director ejecutivo de Apple , John Ternus, ha anunciado este miércoles el primer teléfono plegable de la compañía, bautizado como iPhone Duo, un dispositivo que presenta un tamaño similar al de un pasaporte cuando se encuentra cerrado —con una pantalla exterior de 5,4 pulgadas— y que saldrá al mercado por 2.33.
+
+Date: 2026-09-09
+
+### La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España
+
+Apple presenta mañana miércoles su gama de otoño en un evento bautizado como «Surprise and Shine». Es la cita en la que se espera la llegada del primer iPhone con pantalla plegable de la marca, además de los nuevos iPhone 18 Pro, el Apple Watch Series 12 y una actualización de los AirPods. También será la primera gran.
+
+Date: 2026-09-08
 
 ### Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch
 
@@ -26,51 +68,11 @@ Este año no va a haber iPhone 18, sino que Apple reservará el evento del 9 de 
 
 Date: 2026-09-08
 
-### La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España
-
-Apple presenta mañana miércoles su gama de otoño en un evento bautizado como «Surprise and Shine». Es la cita en la que se espera la llegada del primer iPhone con pantalla plegable de la marca, además de los nuevos iPhone 18 Pro, el Apple Watch Series 12 y una actualización de los AirPods. También será la primera gran.
-
-Date: 2026-09-08
-
-### Estos son los precios que tendrán los iPhone 18, según los analistas
-
-Los iPhone 18 ya están a la vuelta de la esquina. Este próximo miércoles, a las 19.00 horas en España peninsular, Apple mostrará al mundo su nueva apuesta en telefonía, encabezada por el iPhone 18 Pro y por el primer móvil plegable de la marca: el esperado iPhone 18 Ultra . A pesar de que, por el momento, no hay inform.
-
-Date: 2026-09-07
-
-### Cómo mejorar la calidad de la música en Apple CarPlay: hay dos trucos infalibles
-
-¿Notas que la música no se escucha todo lo bien que te gustaría cuando utilizas Apple CarPlay ? ¿El volumen máximo no es tan potente y la calidad mejorable? Bueno, hoy tenemos la solución a este "problema". Realmente no es un fallo ni estás haciendo nada mal , pero este sistema, por su naturaleza, cuenta con un par de.
-
-Date: 2026-09-05
-
-### Apple va a tener un problema el próximo 9 de septiembre: si quieres el iPhone Ultra, podrías tenerlo complicado
-
-Que el iPhone Ultra se presentará el próximo 9 de septiembre es algo que ya casi nadie duda. Apple quiere sumarse a la moda de los móviles plegables, y lo hará con un dispositivo en formato "pasaporte" muy similar al Galaxy Z Fold 8 . Ayer hablamos de su precio , el cual podría superar fácilmente la barrera de los 2.00.
-
-Date: 2026-09-05
-
-### Los mejores cascos de Apple tienen casi 200 euros de descuento y se convierten en uno de los chollos más interesantes de la semana
-
-Los AirPods Max 2 son los mejores cascos de Apple y, actualmente, están en oferta por tiempo limitado en AliExpress.
-
-Date: 2026-09-03
-
-### Apple pone el último clavo en el ataúd de los Mac con chips Intel: tus apps ahora pueden dejarte sin soporte
-
-Malas noticias si todavía tienes un Mac con chip Intel : muchas de las apps que usas a diario ya pueden dejarte sin soporte . Según reporta Macrumors , Apple ha notificado a los desarrolladores de aplicaciones universales que se distribuyen a través de la App Store que están autorizados a eliminar el soporte para los e.
-
-Date: 2026-09-02
-
-### La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor
-
-Apple también ha cambiado la denominación lago Ontario por lago América en su servicio de mapas. La plataforma sigue la decisión de Google de acatar la orden ejecutiva de Donald Trump de cambiar el nombre oficial del lago entre Estados Unidos y Canadá. El presidente estadounidense tomó la decisión como represalia por l.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch](https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html?utm_source=lootura.com) — 2026-09-08T10:44:22.000Z
-- [Ahora sí, Apple: el iPhone 18 Pro contaría con estas 5 mejoras impresionantes en la cámara](https://hipertextual.com/apple/ahora-si-apple-el-iphone-18-pro-contaria-con-estas-5-mejoras-impresionantes-en-la-camara/?utm_source=lootura.com) — 2026-09-08T10:24:04.000Z
-- [El iPhone Air 2 podría reemplazar al mejor móvil de Apple: el iPhone 18 se reconvertirá como nunca](https://hipertextual.com/apple/el-iphone-air-2-podria-reemplazar-al-mejor-movil-de-apple-el-iphone-18-se-reconvertira-como-nunca/?utm_source=lootura.com) — 2026-09-08T13:06:33.000Z
-- [La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España](https://okdiario.com/tecnologia/keynote-apple-llega-manana-primer-iphone-plegable-esto-donde-que-hora-verla-espana-20251160?utm_source=lootura.com) — 2026-09-08T15:32:30.000Z
+- [Así es el iPhone Duo, el primer móvil plegable de Apple](https://elpais.com/tecnologia/2026-09-09/presentacion-del-nuevo-iphone-18-precio-y-caracteristicas-en-el-evento-de-apple.html?utm_source=lootura.com) — 2026-09-09T19:40:33.000Z
+- [Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable](https://www.elconfidencial.com/espana/2026-09-10/lo-mas-odiado-puente-ministro_4420809/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada](https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/?utm_source=lootura.com) — 2026-09-09T21:30:00.000Z
+- [Los nuevos Apple Watch Series 12 y Apple Watch Ultra 4 miden mejor tu salud y ofrecen una batería más grande](https://hipertextual.com/apple/apple-watch-series-12-ultra-4-precio-caracteristicas/?utm_source=lootura.com) — 2026-09-09T19:23:13.000Z
+- [Apple irrumpe en el mercado de plegables con el iPhone Duo: la pesadilla de Samsung y Xiaomi se ha vuelto realidad](https://hipertextual.com/apple/iphone-duo-lanzamiento-oficial/?utm_source=lootura.com) — 2026-09-09T18:02:40.000Z
+- [Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros](https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com) — 2026-09-09T20:17:06.000Z

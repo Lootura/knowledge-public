@@ -28,4 +28,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [State of emergency in Hawaii as Hurricane Lowell approaches](https://www.cbsnews.com/video/state-of-emergency-hawaii-hurricane-lowell-approaches/?utm_source=lootura.com) — 2026-09-08T03:53:00.000Z
+No public source links.

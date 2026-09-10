@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Una dimisión inoportuna
+
+El fichaje de José Luis Trapero como director general de la Policia fue una baza electoral a la que recurrió Salvador Illa en la campaña catalana. De hecho, el actual president lo anunció en un debate de candidatos en TV3 en mayo del 2024. Tal era la importancia y el carisma del policía que dirigió con suma habilidad a.
+
+Date: 2026-09-09
 
 ### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
 
@@ -62,12 +68,6 @@ Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investid
 
 Date: 2026-08-10
 
-### Salvador Illa llega al ecuador del mandato: aprobado en estabilidad y deficiencias en la gestión
-
-El Govern del PSC consolida su alianza con ERC y Comuns, pero acumula asignaturas pendientes: Rodalies, Educación, seguridad... Leer.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Una dimisión inoportuna](https://www.lavanguardia.com/opinion/20260910/11631346/dimision-inoportuna.html?utm_source=lootura.com) — 2026-09-09T22:05:00.000Z

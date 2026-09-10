@@ -3,10 +3,16 @@
 > Follow Jeanine Pirro, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-07T05:38:56.224Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/person/jeanine-pirro
 
 ## Recent changes
+
+### National Guardsman Charged With Pointing Gun at Another Soldier on D.C. Patrol
+
+The office of Jeanine Pirro, the U.S. attorney in Washington, charged Zion Mitchell with two felonies.
+
+Date: 2026-09-08
 
 ### Trump again rebukes Jeanine Pirro over reflecting pool ‘vandalism’ case
 

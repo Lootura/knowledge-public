@@ -3,10 +3,16 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### María Corina Machado arrasaría en Venezuela con un 61% de los votos, según una encuesta
+
+El 88,4% de los venezolanos ve «muy urgente» que el chavismo abandone el poder y la confianza en Trump se desploma.
+
+Date: 2026-09-08
 
 ### Ledezma pide a Trump que el acuerdo petrolero se haga con una Venezuela democrática
 
@@ -61,12 +67,6 @@ Date: 2026-09-01
 Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
 
 Date: 2026-08-31
-
-### El chavismo se fractura tras la captura de Maduro y los terremotos
-
-El poderoso Partido Socialista Unido de Venezuela (PSUV), fundado por el fallecido Hugo Chávez, que ha dominado el mundo político nacional en los últimos 27 años, comenzó a fracturarse el pasado 3 de enero, cuando la Fuerza militar de Estados Unidos capturó y extrajo al entonces presidente Nicolás Maduro para ser juzga.
-
-Date: 2026-08-14
 
 ## Fuentes
 

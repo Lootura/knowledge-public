@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones
+
+Pontegadea, brazo inversor del fundador y primer accionista de Inditex, Amancio Ortega , ha vendido el 13,7% de su participación en Redes Energéticas Nacionais (REN) , el operador del sistema eléctrico y de gas portugués, al Estado de Portugal, en una operación valorada por los medios portugueses en 380 millones de eur.
+
+Date: 2026-09-08
 
 ### Prueba de fuego para Inditex, que cotiza cerca de récord
 
@@ -61,12 +67,6 @@ Date: 2026-08-10
 Amancio Ortega siempre ha sido una persona muy familiar . El empresario decidió construir su mayor proyecto, Inditex , confiando en aquellas personas que conforman su círculo más íntimo. Es por eso que su hija Sandra, la mayor, siempre ha tenido cierta influencia dentro del gigante textil, al igual que Marta Ortega, qu.
 
 Date: 2026-08-09
-
-### Las raíces maternas de Amancio Ortega están en un pequeño pueblo de la campiña del Pisuerga: icono del vino, rural y con historia
-
-Amancio Ortega está muy unido a una pequeña localidad de Valladolid donde nació su madre y donde tiene sus raíces familiares.
-
-Date: 2026-08-04
 
 ## Fuentes
 

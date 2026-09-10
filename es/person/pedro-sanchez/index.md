@@ -3,78 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
+### El ligero pico de Sánchez
 
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
+Las elecciones «serán en el momento que más convenga al interés general», le aclara Sánchez a Cintora , presentador con ficha policial agradable, pero será él desde su interés particular quien decida cuándo nos conviene porque, como ya ha sentenciado en otra entrevista, la alternancia con la derecha no es buena para no.
 
-Date: 2026-09-08
+Date: 2026-09-10
 
-### Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"
+### Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"
 
-Empieza la cuenta atrás para que el Gobierno publique los documentos relacionados con el asalto a la frontera de Ceuta. El Consejo de Ministros ha desclasificado este martes los que estaban protegidos y fueron elaborados entre el 1 de julio y el 1 de agosto , asegurando que saldrán a la luz "todos. Todos es todos". "No.
+Óscar Puente visitó el plató de La Mesa para someterse a un debate sobre la gestión de la crisis migratoria en Ceuta . Cristina Pardo y los colaboradores del espacio de Antena 3 pusieron sobre la mesa su polémico tuit del 1 de agosto, en el que daba por resuelto el conflicto fronterizo. Puente reconoció en La Mesa que.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### PP y Vox sacan pecho por la decisión del Supremo de suspender las altas en el censo electoral por la 'ley de nietos'
+### Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"
 
-Los populares celebran que la Justicia haya frenado el intento del Gobierno de «meter a saco cientos de miles de personas en el censo» y Vox se congratula por «detener el objetivo de Sánchez».
+El presidente del Gobierno señala que las elecciones será en 2027, pero ya no apunta al mes de julio como sí hacía en ocasiones anteriores Leer.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
+### Sánchez arranca la campaña electoral de "las dos Españas"
 
-"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a pedro Sánchez como "el Nerón de Tik-Tok" Leer.
+El presidente ve en la división política y social una manera de fidelizar el voto de izquierdas en torno a su candidatura Leer.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
+### El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE
 
-El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
+Superaba ya la media hora su intervención en TVE y Pedro Sánchez se fue viniendo tan arriba que cometió un 'lapsus'. Desveló que la investigación judicial ha...
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta
+### Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"
 
-Después de que el Tribunal Supremo haya decidido estimar la medida cautelar solicitada por las formaciones políticas Vox e Iustita Europa y haya ordenado la suspensión de los efectos electorales de las inscripciones en el Censo Electoral de Residentes Ausentes (CERA) vinculadas a la Ley de Nietos, hasta que se dicte se.
+El presidente de Castilla-La Mancha defiende "poder discrepar" mientras arremete contra los pactos del Gobierno con Junts y Bildu Leer.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»
+### El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'
 
-La portavoz del Grupo Popular en el Senado, Alicia García , ha advertido al vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo, que el Gobierno de Sánchez «está solo frente a todos», en relación a la gestión de la invasión migratoria en Ceuta . Por su parte, el miembro del gabinete de Sánchez ha.
+La Audiencia Nacional ha reclamado al PSOE que aporte a la causa incoada por la presunta financiación irregular del partido las donaciones que recibió entre los años 2017 y...
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### El PP enfría el intento de procesar a Sánchez por traición de Vox: "No estamos para perder votaciones"
+### Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»
 
-Vox no puede sacar adelante su intento de procesar al presidente del Gobierno por un delito de traición contra la seguridad del Estado por la agresión territorial de Ceuta. El partido de Santiago Abascal insistía este lunes en su llamamiento a 56 diputados del Congreso para que se sumen a su petición para activar el ar.
+El presidente del Gobierno, P edro Sánchez , ha afirmado este miércoles por la noche, en relación con las alertas del Centro Nacional de Inteligencia (CNI) , que con la información disponible en ese momento «nadie podía anticipar» la dimensión de la crisis migratoria registrada en Ceuta, «ni en España ni en la Unión Eu.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### "Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso
+### Podcast | El CNI retrata al Gobierno
 
-El curso parlamentario arranca con un asedio total al Gobierno de Pedro Sánchez Leer.
+El Gobierno estaba avisado por los servicios de inteligencia de que Ceuta iba a ser invadida. Esa es la conclusión a la que podemos llegar este miércoles tras conocer los documentos desclasificados por el Gobierno de Pedro Sánchez . Estos muestran cómo el Centro Nacional de Inteligencia lanzó varios avisos en los días.
 
-Date: 2026-09-07
+Date: 2026-09-09
 
-### Broncano pone en duda el futuro de 'La Revuelta' y se dirige a Sánchez por las elecciones: «Me dejas vendido»
+### Sémper cree que los informes de Ceuta «echan por tierra» el «argumentario de Sánchez»
 
-El presentador ha tirado de ironía en el estreno de la tercera temporada para hablar de la continuidad del programa ante un posible cambio de gobierno.
+«Marruecos, por acción o por omisión, sabía algo», ha añadido el portavoz del PP.
 
-Date: 2026-09-07
+Date: 2026-09-09
 
 ## Fuentes
 
-- [Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez](https://www.20minutos.es/nacional/feijoo-promete-reformar-sistema-educativo-sin-ideologias-tras-informe-pisa-que-confirma-suspenso-absoluto-sanchez_7034070_0.html?utm_source=lootura.com) — 2026-09-08T10:45:09.000Z
-- [Moncloa publicará los informes sobre Ceuta hasta el 1 de agosto aunque Sánchez prometió los de "antes, durante y después"](https://www.elconfidencial.com/espana/2026-09-08/sanchez-prometio-todos-los-documentos-de-ceuta_4419971/?utm_source=lootura.com) — 2026-09-08T15:09:00.000Z
-- [PP y Vox sacan pecho por la decisión del Supremo de suspender las altas en el censo electoral por la 'ley de nietos'](https://www.elcorreo.com/politica/pp-vox-sacan-pecho-decision-supremo-suspender-20260908171140-ntrc_amp.html?utm_source=lootura.com) — 2026-09-08T15:12:34.000Z
-- ["Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso](https://www.elmundo.es/espana/2026/09/08/6a9eeee6e4d4d8436c8b456e.html?utm_source=lootura.com) — 2026-09-07T23:01:08.000Z
-- [Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"](https://www.elmundo.es/espana/2026/09/08/6aa02a75e4d4d8810c8b4597.html?utm_source=lootura.com) — 2026-09-08T15:34:55.000Z
-- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
-- [Sánchez se va de visita a una fábrica de cohetes espaciales en Elche en plena crisis por la invasión de Ceuta](https://okdiario.com/comunidad-valenciana/sanchez-va-visita-fabrica-cohetes-espaciales-elche-plena-crisis-invasion-ceuta-20250791?utm_source=lootura.com) — 2026-09-08T15:21:40.000Z
-- [El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»](https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com) — 2026-09-08T15:11:48.000Z
+- [Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"](https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com) — 2026-09-09T22:38:06.000Z
+- [El ligero pico de Sánchez](https://www.abc.es/opinion/alberto-garcia-reyes-ligero-pico-sanchez-20260909190008-nt.html?utm_source=lootura.com) — 2026-09-10T00:49:53.000Z
+- [Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"](https://www.elmundo.es/espana/2026/09/09/6aa13a7fe4d4d867438b4586.html?utm_source=lootura.com) — 2026-09-09T13:17:15.000Z
+- [Sánchez arranca la campaña electoral de "las dos Españas"](https://www.elmundo.es/espana/2026/09/09/6aa1393621efa0f2698b4593.html?utm_source=lootura.com) — 2026-09-09T11:09:06.000Z
+- [El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE](https://amp.elmundo.es/espana/2026/09/09/6aa1a544e85ece66268b4594.html?utm_source=lootura.com) — 2026-09-09T20:45:47.000Z
+- [Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"](https://www.elmundo.es/espana/2026/09/09/6aa1481121efa0d20c8b4593.html?utm_source=lootura.com) — 2026-09-09T12:07:50.000Z
+- [El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'](https://amp.elmundo.es/espana/2026/09/09/6aa19ae821efa05f7c8b45a3.html?utm_source=lootura.com) — 2026-09-09T20:45:56.000Z
+- [Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»](https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com) — 2026-09-09T20:29:57.000Z
+- [Podcast | El CNI retrata al Gobierno](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-cni-retrata-gobierno/?utm_source=lootura.com) — 2026-09-09T18:26:15.000Z
+- [Sémper cree que los informes de Ceuta «echan por tierra» el «argumentario de Sánchez»](https://theobjective.com/espana/2026-09-10/semper-informes-ceuta-tierra-argumentario-sanchez/?amp=&utm_source=lootura.com) — 2026-09-09T23:55:02.000Z

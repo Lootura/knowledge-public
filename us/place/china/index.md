@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -26,15 +26,21 @@ One China-linked group targets academic, medical and military AI research, the r
 
 Date: 2026-09-08
 
-### Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher
-
-The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.
-
-Date: 2026-09-08
-
 ### China’s Surging Exports Loom Over Trump’s Talks With Xi
 
 China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.
+
+Date: 2026-09-08
+
+### In Nepal, climate adaptation starts with what communities already know
+
+The catastrophic flood along the Nepal–China border that killed more than 1,400 people and left nearly 6,000 people missing devastated communities and infrastructure and renewed questions about how Himalayan countries prepare for environmental hazards that can unfold rapidly and cross-national borders.
+
+Date: 2026-09-08
+
+### Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher
+
+The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.
 
 Date: 2026-09-08
 
@@ -62,17 +68,6 @@ Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that app
 
 Date: 2026-09-05
 
-### U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran
-
-The Treasury Department accused the Turkish bank and its entities of being established to enable Iran's efforts to transfer oil revenues from China to Turkey, where they could then be converted to cash and gold.
-
-Date: 2026-09-04
-
 ## Sources
 
-- [China’s fast-track clinical trials are in the spotlight after child deaths](https://www.nature.com/articles/d41586-026-02407-6?utm_source=lootura.com) — 2026-09-08T15:58:48.464Z
-- [Sideline vested interests to reform China’s research](https://www.nature.com/articles/d41586-026-02797-7?utm_source=lootura.com) — 2026-09-08T15:58:48.463Z
-- [Chinese hackers are running AI on stolen networks to avoid detection, Google says](https://www.nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155?utm_source=lootura.com) — 2026-09-08T12:00:40.000Z
-- [Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher](https://phys.org/news/2026-09-nepal-glacier-exceptional-collapse-deadly.html?utm_source=lootura.com) — 2026-09-08T14:48:54.000Z
-- [China’s Surging Exports Loom Over Trump’s Talks With Xi](https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com) — 2026-09-08T08:24:33.000Z
-- [Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?](https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html?utm_source=lootura.com) — 2026-09-08T08:49:18.000Z
+No public source links.

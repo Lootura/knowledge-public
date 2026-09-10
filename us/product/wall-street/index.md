@@ -3,10 +3,16 @@
 > Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-09-03T22:19:56.767Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/product/wall-street
 
 ## Recent changes
+
+### Feds to buy up to $6 billion in Treasury bonds. Here's why.
+
+Wall Street analysts are skeptical that the Treasury Department's bond purchases can curb yields and lower U.S. borrowing costs.
+
+Date: 2026-09-09
 
 ### Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas
 
@@ -40,4 +46,4 @@ Date: 2026-08-04
 
 ## Sources
 
-No public source links.
+- [Feds to buy up to $6 billion in Treasury bonds. Here's why.](https://www.cbsnews.com/news/us-treasury-bond-buyback-6-billion-yields/?utm_source=lootura.com) — 2026-09-09T21:31:51.000Z

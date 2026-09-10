@@ -3,10 +3,16 @@
 > Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-03T02:53:53.216Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/europe
 
 ## Cambios recientes
+
+### Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»
+
+El presidente del Gobierno, P edro Sánchez , ha afirmado este miércoles por la noche, en relación con las alertas del Centro Nacional de Inteligencia (CNI) , que con la información disponible en ese momento «nadie podía anticipar» la dimensión de la crisis migratoria registrada en Ceuta, «ni en España ni en la Unión Eu.
+
+Date: 2026-09-09
 
 ### Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones
 
@@ -58,4 +64,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-No public source links.
+- [Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»](https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com) — 2026-09-09T20:29:57.000Z

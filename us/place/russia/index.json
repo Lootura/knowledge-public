@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T22:21:50.294Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,16 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says",
+      "summary": "The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Lithuanian civilians, including children, training for possible Russian attacks",
+      "summary": "Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
       "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
@@ -56,25 +66,8 @@
       "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
       "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected",
-      "summary": "The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Russia intensifies attacks on Ukraine's capital",
-      "summary": "In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T11:10:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

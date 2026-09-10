@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T16:02:38.774Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Sánchez contra Robles: desclasificará un informe de la inteligencia militar del 30 de julio para culparla de que avisó tarde
+
+Los informes que el Gobierno de Pedro Sánchez ha desclasificado buscan «señalar» al Ejército español con la ministra de Defensa, Margarita Robles , al frente, y en concreto a la inteligencia militar del Centro de Inteligencia de las Fuerzas Armadas ( CIFAS) , según han asegurado fuentes del Ejecutivo a OKDIARIO. De acu.
+
+Date: 2026-09-08
 
 ### La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma
 
@@ -61,12 +67,6 @@ Date: 2026-08-01
 Al menos ocho personas han muerto, entre ellas dos niños, y otras 14 han resultado heridas en un ataque perpetrado este sábado por las Fuerzas Armadas de Ucrania contra una zona ocupada por las tropas rusas en la provincia ucraniana de Zaporiyia, en el este del país. «Esta madrugada, en la localidad de Kirilivka, se ha.
 
 Date: 2026-07-25
-
-### Francia condecora al jefe de la Armada por reforzar la cooperación entre ambos países
-
-Francia ha reconocido a dos de los principales mandos de las Fuerzas Armadas españolas con algunas de sus más altas condecoraciones militares . El jefe de Estado Mayor de la Armada (Ajema), almirante general Antonio Piñeiro, y el jefe de la Fuerza Terrestre, teniente general Carlos Melero, han sido distinguidos por el.
-
-Date: 2026-07-23
 
 ## Fuentes
 

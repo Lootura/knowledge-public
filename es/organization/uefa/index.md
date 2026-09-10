@@ -3,10 +3,16 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T20:38:42.935Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
+
+### El Bernabéu se vuelca con Ceuta y luce un impresionante mosaico en plena crisis migratoria: "No se vende, se defiende"
+
+El Fondo Sur del Santiago Bernabéu , en la previa del estreno del Real Madrid en la nueva edición de la UEFA Champions League ante el Inter de Milán, ha lucido un mosaico repleto de banderas de Ceuta en apoyo tras la gran crisis migratoria que azota actualmente la ciudad. Los aficionados del conjunto madridista, a la s.
+
+Date: 2026-09-08
 
 ### Javier Tebas aclara la absolución de Luis Rubiales por el 'caso grabaciones': "Prescribieron por un retraso judicial"
 

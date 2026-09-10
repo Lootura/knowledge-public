@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T14:34:36.678Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "summary": "The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis. (Image credit: Hiroyuki Ito/Getty Images).",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "New report shows the economic toll of ICE raids",
+      "summary": "A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue. (Image credit: Scott Olson/Getty Images).",
+      "date": "2026-09-08"
+    },
     {
       "title": "We Need a Cure for AI Health Hype",
       "summary": "—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.",
@@ -54,18 +64,15 @@
       "title": "Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin",
       "summary": "—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Opinion: Europe's summer of heat",
-      "summary": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths. (Image credit: Pablo Blazquez Dominguez/Getty Images).",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
-      "summary": "Plus, if you know what \"TMZ\" stands for, you'll get at least on question right this week! (Image credit: Evening Standard/Hulton Archive/Getty Images; Jeff Kowalsky/AFP via Getty Images; Dia Dipasupil/Getty Images).",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:42:19.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 1
 }

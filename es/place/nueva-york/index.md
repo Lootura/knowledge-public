@@ -3,10 +3,28 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### La mujer de Maduro pide salir de prisión por sus problemas cardíacos y ofrece vigilancia armada las 24 horas
+
+Los abogados de Cilia Flores han pedido a la Justicia federal de Nueva York que permita a la esposa de Nicolás Maduro esperar el juicio fuera de prisión por sus problemas de corazón. A cambio, ofrecen un régimen de arresto domiciliario con guardias armados las 24 horas, una pulsera de localización, visitas restringidas.
+
+Date: 2026-09-10
+
+### El "orgullo" de Alcaraz en la madrugada más larga en Nueva York: "En algunos momentos podía haber hecho más"
+
+El español, exhausto tras cuatro horas y media de lucha y celebraciones cruzadas con Shelton, abandona el US Open "contento" y "sano" Leer.
+
+Date: 2026-09-09
+
+### Por qué la ausencia de las Torres Gemelas también es una seña de identidad del ‘skyline’ neoyorquino
+
+Joe Sohm/Visions of America/Universal Images Group via Getty Images A las 10:28 de la mañana del 11 de septiembre de 2001, el perfil urbano de Nueva York cambió de forma repentina y dramática. El mundo observaba con horror cómo en las pantallas de televisión se derrumbaban la Torre Norte del World Trade Center y, luego.
+
+Date: 2026-09-08
 
 ### 'No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar
 
@@ -50,24 +68,7 @@ Carlos Alcaraz, el gran mago contemporáneo de la raqueta, ha llegado a Nueva Yo
 
 Date: 2026-09-01
 
-### Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square
-
-La Policía de Nueva York abatió este lunes a una sospechosa por apuñalar a dos personas en Times Square , dejando una persona herida y provocando la muerte a Erin Piacenti, vicepresidenta de Bank of America que falleció a causa de las heridas tras ser trasladada al hospital.El alcalde de la Ciudad, Zohran Mamdani , ha.
-
-Date: 2026-09-01
-
-### Fragmento del día: Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang
-
-en Nueva York (Estados Unidos) se publica el Informe de la Oficina de Derechos Humanos de la ONU sobre Sinkiang, que afirma que los campos de internamiento del Gobierno chino en Sinkiang y el trato a los uigures podrían constituir crímenes contra la humanidad.
-
-Date: 2026-09-01
-
-### Una mujer apuñala a dos personas en Times Square de Nueva York antes de morir por tiros de la policía
-
-La violencia sobrecogió este lunes por la tarde, a última hora de la noche en España, a Times Square , el gran centro neurálgico de Nueva York. Una mujer apuñaló a dos personas -una falleció, la otra resultó herida- antes de morir por disparos de la policía.Ocurrió cerca del cruce de la Séptima Avenida y la calle 42, p.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [La mujer de Maduro pide salir de prisión por sus problemas cardíacos y ofrece vigilancia armada las 24 horas](https://www.abc.es/internacional/cilia-flores-pide-salir-prision-problemas-cardiacos-20260910023641-nt.html?utm_source=lootura.com) — 2026-09-10T00:48:03.000Z
+- [El "orgullo" de Alcaraz en la madrugada más larga en Nueva York: "En algunos momentos podía haber hecho más"](https://www.elmundo.es/deportes/tenis/us-open/2026/09/09/6aa12792fc6c83177a8b45aa.html?utm_source=lootura.com) — 2026-09-09T13:23:31.000Z

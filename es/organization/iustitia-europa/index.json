@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/iustitia-europa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/iustitia-europa/index.json",
   "description": "Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El Supremo paraliza el derecho al voto de nacionalizados por la ‘ley de nietos’",
+      "summary": "El Tribunal Supremo ha limitado este martes el derecho al voto de los nacionalizados a través de la Ley de Memoria Democrática. La Sala de lo Contencioso-Administrativo ha estimado de forma parcial la petición que habían formulado Vox y el partido Iustitia Europa para que se suspenda la inscripción inmediata en el cens.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "En Sumario de tarde: del freno del Supremo a la ‘ley de nietos’ al hundimiento educativo en España",
+      "summary": "Revés del Tribunal Supremo al Gobierno. El Alto Tribunal ha decidido este martes paralizar cautelarmente el censo derivado de la llamada ley de nietos , que permite a los nacionalizados descendientes de españoles votar en las elecciones . La Sala ha estimado los recursos presentados por Iustitia Europa y Vox, en concre.",
+      "date": "2026-09-08"
+    },
     {
       "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
       "summary": "La Sala Tercera del Tribunal Supremo ha aceptado este martes suspender la inscripción en el censo de los nacionalizados por la 'ley de nietos', tal y como habían solicitado como medida cautelar Iustitia Europa y Vox. Los magistrados han tomado esta decisión apenas veinticuatro horas después de la celebración de la vist.",
@@ -47,25 +57,6 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "El Tribunal Supremo paraliza el censo de la 'ley de nietos'",
-      "url": "https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:10:32.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "El Supremo paraliza el derecho al voto de los beneficiarios de la ley de nietos hasta que acrediten que son hijos o nietos de exiliados",
-      "url": "https://elpais.com/espana/2026-09-08/el-supremo-paraliza-el-derecho-al-voto-de-los-beneficiarios-de-la-ley-de-nietos.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:36:56.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "El Supremo frena el derecho al voto de los nacionalizados con la ley de nietos",
-      "url": "https://www.eldiario.es/politica/supremo-prohibe-forma-cautelar-votar-nacionalizados-ley-nietos-salvo-demuestren-exiliados_1_13492943.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:03:32.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

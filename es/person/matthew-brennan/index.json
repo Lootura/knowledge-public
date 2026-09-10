@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/matthew-brennan/index.json",
   "description": "Sigue la actividad de Matthew Brennan en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [
     "Brennan",
     "El Cohete",
@@ -37,13 +37,6 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Brennan vuela gracias a Van Aert y firma el póker en La Vuelta",
-      "url": "https://okdiario.com/deportes/brennan-vuela-gracias-van-aert-firma-poker-vuelta-20251118?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:36:12.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

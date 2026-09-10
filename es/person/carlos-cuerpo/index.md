@@ -3,7 +3,7 @@
 > Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-cuerpo
 
 ## Cambios recientes
@@ -40,5 +40,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»](https://theobjective.com/espana/politica/2026-09-08/pp-senado-gobierno-crisis-ceuta/?utm_source=lootura.com) — 2026-09-08T15:11:48.000Z
-- [Cuerpo asegura que la economía de las familias es «significativamente mejor» que en 2018](https://theobjective.com/economia/2026-09-08/cuerpo-economia-familias-mejor-2018/?amp=&utm_source=lootura.com) — 2026-09-08T15:22:27.000Z
+No public source links.

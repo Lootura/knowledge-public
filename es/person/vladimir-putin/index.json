@@ -8,16 +8,13 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vladimir-putin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vladimir-putin/index.json",
   "description": "Sigue la actividad de Vladímir Putin en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
+    "Putin",
+    "Vladímir",
     "Vladímir Vladímirovich Putin"
   ],
   "changes": [
-    {
-      "title": "Putin le niega a Trump que tenga planes de atacar Europa",
-      "summary": "Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.",
-      "date": "2026-09-08"
-    },
     {
       "title": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
       "summary": "Leer.",
@@ -27,21 +24,13 @@
       "title": "Discovered by Atlas",
       "summary": "Vladímir Putin first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-08"
-    }
-  ],
-  "sources": [
-    {
-      "title": "Putin le niega a Trump que tenga planes de atacar Europa",
-      "url": "https://www.abc.es/internacional/putin-niega-trump-planes-atacar-europa-20260908172606-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:33:22.000Z",
-      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
-      "url": "https://www.elmundo.es/internacional/2026/09/08/6aa02804e4d4d8eb608b458a.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:38:06.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "Putin le niega a Trump que tenga planes de atacar Europa",
+      "summary": "Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.",
+      "date": "2026-09-08"
     }
   ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

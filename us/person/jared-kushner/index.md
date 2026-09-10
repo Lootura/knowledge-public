@@ -46,4 +46,4 @@ Date: 2026-09-04
 
 ## Sources
 
-- [Russia Bombards Kyiv Soon After Witkoff, Kushner Leave](https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com) — 2026-09-08T11:10:47.000Z
+No public source links.

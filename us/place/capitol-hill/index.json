@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-04T08:35:00.530Z",
+  "updatedAt": "2026-09-08T22:21:50.294Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "What to watch in New Hampshire tonight: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
       "summary": "Women in politics and pop culture are paying tribute to Gloria Steinem after her death at 92. Many called her not only an inspiration but a friend. (Image credit: Monica Schipper).",
@@ -58,11 +63,6 @@
       "title": "Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms",
       "summary": "President Trump's top military advisors were on Capitol Hill to make the case for the war in Iran, and additional money to fund the Pentagon. Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine argued for an additional $67 billion, what Hegseth called an urgent and necessary injection of funds. N.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-20"
     }
   ],
   "sources": [],

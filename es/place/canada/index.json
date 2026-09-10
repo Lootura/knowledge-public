@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [
     "CA",
     "CAN",
@@ -68,13 +68,6 @@
       "date": "2026-08-05"
     }
   ],
-  "sources": [
-    {
-      "title": "España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel",
-      "url": "https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:05:48.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

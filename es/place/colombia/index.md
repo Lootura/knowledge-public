@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Rubio desembarca en una Colombia que ahora abraza la mano dura de Trump
+
+Marco Rubio llevó a Colombia este martes una exigencia directa y clara de Donald Trump para inaugurar una nueva etapa política tras la marcha de Gustavo Petro : reducir por la vía rápida los cultivos de coca intensificando las operaciones contra los grupos del narcotráfico y persiguiendo las redes financieras que sosti.
+
+Date: 2026-09-08
 
 ### Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura
 
@@ -62,12 +68,6 @@ La Consellería de Servicios Sociales, Igualdad e Infancia de la Generalitat Val
 
 Date: 2026-08-13
 
-### Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia
-
-El número de víctimas derivadas del terremoto de magnitud 7,4 en la escala de Richter registrado el lunes en el noroeste de Colombia ha aumentado a 265.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura](https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com) — 2026-09-08T07:30:06.000Z
+No public source links.

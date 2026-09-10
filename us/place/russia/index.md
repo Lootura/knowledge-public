@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-08T22:21:50.294Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says
+
+The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.
+
+Date: 2026-09-08
+
+### Lithuanian civilians, including children, training for possible Russian attacks
+
+Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.
+
+Date: 2026-09-08
 
 ### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
 
@@ -56,18 +68,6 @@ Jared Kushner and Steve Witkoff’s trip to meet with the countries’ president
 
 Date: 2026-09-04
 
-### Russian drone strikes Ukraine security service headquarters as U.S. talks on the war are expected
-
-The air war between Russia and Ukraine has intensified as the conflict stretches toward five years since Moscow's invasion of its neighbor.
-
-Date: 2026-09-04
-
-### Russia intensifies attacks on Ukraine's capital
-
-In Ukraine, a week of near-continuous Russian attacks is upending the lives of residents in Kyiv and its suburbs.
-
-Date: 2026-09-04
-
 ## Sources
 
-- [Russia Bombards Kyiv Soon After Witkoff, Kushner Leave](https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com) — 2026-09-08T11:10:47.000Z
+No public source links.

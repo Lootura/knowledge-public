@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral](https://www.eldebate.com/espana/20260908/vox-celebra-decision-supremo-estimar-medida-cautelar-frenar-posible-fraude-electoral_456561.html?utm_source=lootura.com) — 2026-09-08T12:19:52.000Z
+No public source links.

@@ -8,15 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
     {
+      "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
+      "summary": "With few good options for safely shipping oil, Saudi Arabia’s exports have fallen to a 13-year low.",
+      "date": "2026-09-09"
+    },
+    {
       "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
       "summary": "Brent, the international oil benchmark, touched $99 a barrel after Saudi Arabia reported an attack on energy assets that caused temporary pauses in operations.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
+      "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
       "date": "2026-09-08"
     },
     {
@@ -53,43 +63,15 @@
       "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
       "summary": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks",
-      "summary": "Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
-      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:58:13.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T09:09:46.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:05:31.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T10:54:53.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
+      "url": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:04:07.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

@@ -1,20 +1,35 @@
 {
   "id": "es-la-mesa",
   "name": "La Mesa",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/la-mesa",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/la-mesa",
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-mesa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-mesa/index.json",
   "description": "Sigue la actividad de La Mesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: \"El despacho en el bolsillo\"",
+      "summary": "Óscar Puente visitó el plató de La Mesa para someterse a un debate sobre la gestión de la crisis migratoria en Ceuta . Cristina Pardo y los colaboradores del espacio de Antena 3 pusieron sobre la mesa su polémico tuit del 1 de agosto, en el que daba por resuelto el conflicto fronterizo. Puente reconoció en La Mesa que.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
+      "summary": "Este miércoles por la noche, el ministro de Transportes, Óscar Puente , ha acudido como invitado a La Mesa de Antena 3, donde le han entrevistado por Cristina Pardo y los periodistas Vicente Vallés y Pilar Velasco. El ministro ha defendido la actuación del Gobierno durante la crisis de Ceuta y ha relativizado el alcanc.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Iván Redondo, exasesor de Sánchez, cuestiona el relato del Gobierno sobre Ceuta: «Cae con el informe»",
       "summary": "La puesta de largo de 'La Mesa', una de las grandes apuestas de Antena 3 para la próxima temporada, se celebró en directo este miércoles 2 de septiembre. El nuevo programa semanal de la cadena, conducido por Cristina Pardo, nace con la pretensión de contar «la actualidad de manera sencilla y entretenida», explicó la pr.",
       "date": "2026-09-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Mesa first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-02"
     },
     {
       "title": "Alsina, tajante sobre Pedro Sánchez desde 2023: \"Tiene a la otra parte del país perfectamente abandonada\"",
@@ -25,13 +40,21 @@
       "title": "Cristina Pardo estrena 'La Mesa' con un ataque a Sánchez por Ceuta: \"El Gobierno no ha actuado\"",
       "summary": "Hoy miércoles 2 de septiembre se ha estrenado 'La Mesa', el programa que supone el esperado desembarco de Cristina Pardo en Antena 3.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "La Mesa first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: \"El despacho en el bolsillo\"",
+      "url": "https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:38:06.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
+      "url": "https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:57:07.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

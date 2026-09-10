@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### Trump Is Delayed After Emergency Slide Deploys on New Air Force One
+
+The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.
+
+Date: 2026-09-09
 
 ### How The New York Times Reported on Trump’s Air Force One Ruse in Turkey
 
@@ -62,12 +68,6 @@ President Trump secretly left Turkey last month following a NATO summit on a dif
 
 Date: 2026-08-12
 
-### Eye Opener: Strong storms leave behind major destruction after sweeping across Midwest
-
-Millions are still at risk of flooding after powerful storms swept across the Midwest, leaving a trail of destruction. Plus, President Trump makes his first public comments about the secret swap off Air Force One in Turkey. All that and all that matters in today's Eye Opener.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Trump Is Delayed After Emergency Slide Deploys on New Air Force One](https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html?utm_source=lootura.com) — 2026-09-09T21:40:34.000Z

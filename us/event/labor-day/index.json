@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/event/labor-day/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/event/labor-day/index.json",
   "description": "Follow Labor Day, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T19:21:03.373Z",
   "aliases": [],
   "changes": [
     {
@@ -47,19 +47,6 @@
       "date": "2026-09-07"
     }
   ],
-  "sources": [
-    {
-      "title": "Hurricane Lowell Pounds Hawaii as Storms Fuel Travel Delays",
-      "url": "https://www.today.com/video/rare-tornado-watch-in-hawaii-as-storms-slam-the-mainland-269464645985?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T11:11:04.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
-      "url": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T01:06:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/europe/index.json",
   "description": "Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-03T02:53:53.216Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»",
+      "summary": "El presidente del Gobierno, P edro Sánchez , ha afirmado este miércoles por la noche, en relación con las alertas del Centro Nacional de Inteligencia (CNI) , que con la información disponible en ese momento «nadie podía anticipar» la dimensión de la crisis migratoria registrada en Ceuta, «ni en España ni en la Unión Eu.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Fuerte bajada de la balanza comercial del automóvil por la caída de las exportaciones",
       "summary": "La bajada de la producción de las factorías españolas de automóviles y la caída de las exportaciones han provocado que la balanza comercial de la industria del automóvil en España haya caído en el primer semestre un 41,2 % respecto al mismo periodo del año pasado. Aun así, el saldo es positivo, con 3.344 millones de eu.",
@@ -55,6 +60,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»",
+      "url": "https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:29:57.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

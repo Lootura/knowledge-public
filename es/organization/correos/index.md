@@ -3,7 +3,7 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Un individuo propina a otro a pleno día una paliza en una plaza en el centro de Alicante](https://okdiario.com/comunidad-valenciana/individuo-propina-otro-pleno-dia-paliza-plaza-centro-alicante-20250516?utm_source=lootura.com) — 2026-09-08T15:41:20.000Z
+No public source links.

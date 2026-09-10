@@ -3,20 +3,20 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
 
-### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
+### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
 
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
+"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a Pedro Sánchez como "el Nerón de Tik-Tok" Leer.
 
 Date: 2026-09-08
 
-### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
+### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
 
-"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a pedro Sánchez como "el Nerón de Tik-Tok" Leer.
+El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
 
 Date: 2026-09-08
 
@@ -70,8 +70,4 @@ Date: 2026-09-05
 
 ## Fuentes
 
-- [Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez](https://www.20minutos.es/nacional/feijoo-promete-reformar-sistema-educativo-sin-ideologias-tras-informe-pisa-que-confirma-suspenso-absoluto-sanchez_7034070_0.html?utm_source=lootura.com) — 2026-09-08T10:45:09.000Z
-- ["Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso](https://www.elmundo.es/espana/2026/09/08/6a9eeee6e4d4d8436c8b456e.html?utm_source=lootura.com) — 2026-09-07T23:01:08.000Z
-- [Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"](https://www.elmundo.es/espana/2026/09/08/6aa02a75e4d4d8810c8b4597.html?utm_source=lootura.com) — 2026-09-08T15:34:55.000Z
-- [Feijóo avisa a Marruecos: “Si hay que aplicar el artículo 8 de la Constitución, lo haré”](https://www.lavanguardia.com/politica/20260908/11629896/feijoo-avisa-marruecos-ejercito-ceuta-actuar-aplicar-articulo-8-constitucion-hare.html?utm_source=lootura.com) — 2026-09-08T09:35:18.000Z
-- [El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”](https://www.lavanguardia.com/politica/20260908/11630108/gobierno-ve-pruebas-marruecos-pide-feijoo-alentar-teorias-conspiranoicas.html?utm_source=lootura.com) — 2026-09-08T13:00:26.000Z
+No public source links.

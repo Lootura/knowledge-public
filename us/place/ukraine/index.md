@@ -3,10 +3,22 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Q&A: Satellite imagery reveals what casualty figures alone do not tell us
+
+How do we form a picture of conflicts? A new study published in the journal Nature explores how different types of data can be combined to give a fuller understanding of armed conflicts. Lead author Valerie Sticher uses the examples of Ukraine and Myanmar to explain the advantages and limitations of automatically analy.
+
+Date: 2026-09-10
+
+### Lithuanian civilians, including children, training for possible Russian attacks
+
+Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.
+
+Date: 2026-09-08
 
 ### Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy
 
@@ -56,19 +68,6 @@ A deadly campaign of Russian and Ukrainian airstrikes has escalated since the la
 
 Date: 2026-09-05
 
-### Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine
-
-The envoys' trip comes as both sides escalate aerial attacks, some 4 1/2 years after the Kremlin's invasion of its neighbor.
-
-Date: 2026-09-05
-
-### U.S. Diesel Prices Set New High
-
-Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
-
-Date: 2026-09-04
-
 ## Sources
 
-- [Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy](https://www.cbsnews.com/news/ukraine-russia-war-peace-talks-witkoff-kushner-strikes-kyiv/?utm_source=lootura.com) — 2026-09-08T06:48:12.000Z
-- [Russia Bombards Kyiv Soon After Witkoff, Kushner Leave](https://www.nytimes.com/2026/09/08/world/europe/russia-ukraine-kyiv-attacks.html?utm_source=lootura.com) — 2026-09-08T11:10:47.000Z
+- [Q&A: Satellite imagery reveals what casualty figures alone do not tell us](https://phys.org/news/2026-09-qa-satellite-imagery-reveals-casualty.html?utm_source=lootura.com) — 2026-09-10T00:40:01.000Z

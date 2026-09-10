@@ -2,21 +2,63 @@
 
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Type: organization
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
 
-### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
+### Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana
 
-El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la "imparcialidad" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.
+El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.
+
+Date: 2026-09-10
+
+### El Gobierno abre una crisis con el CNI para ocultar que desoyó durante 72 horas las alertas de la avalancha sobre Ceuta
+
+Pese a la desclasificación de los documentos, ponen en boca de los servicios de inteligencia que no anticiparon "la magnitud y naturaleza de lo que terminó ocurriendo el día 30" Leer.
+
+Date: 2026-09-09
+
+### El Gobierno vasco concede el tercer grado al sangriento pistolero de ETA Henri Parot condenado por 39 asesinatos
+
+El Colectivo de Víctimas del Terrorismo denuncia la aplicación de este régimen penitenciario a "uno de los terroristas más sanguinarios de la historia de ETA". Cometió su primer crimen con 20 años y fue detenido en 1990 por la Guardia Civil cuando viajaba a Sevilla con 300 kilos de explosivos Leer.
+
+Date: 2026-09-09
+
+### El Gobierno minimiza el aviso por WhatsApp del CNI: “No hubo informe ni se elevó como alerta a los superiores”
+
+El Gobierno minimiza el mensaje de WhatsApp de un agente del CNI al jefe de gabinete del delegado en Ceuta en el que le decía que había varios grupos de Facebook con 180.000 personas organizándose para un posible salto a Ceuta. La comunicación se ha hecho pública este miércoles tras la desclasificación de los informes.
+
+Date: 2026-09-09
+
+### Moncloa carga contra el CNI para ocultar que desoyó las alertas sobre Ceuta
+
+El Gobierno se ha lanzado a por la batalla del relato. La desclasificación de informes y avisos parar arrojar luz sobre lo ocurrido en los días previos al asalto de Ceuta demuestran que recibió información alertando de lo que podía suceder, aunque sin calcular cifras . Desde Moncloa cargan contra el Centro Nacional de.
+
+Date: 2026-09-09
+
+### Podcast | El CNI retrata al Gobierno
+
+El Gobierno estaba avisado por los servicios de inteligencia de que Ceuta iba a ser invadida. Esa es la conclusión a la que podemos llegar este miércoles tras conocer los documentos desclasificados por el Gobierno de Pedro Sánchez . Estos muestran cómo el Centro Nacional de Inteligencia lanzó varios avisos en los días.
+
+Date: 2026-09-09
+
+### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
+
+El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
 
 Date: 2026-09-08
 
-### Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»
+### El Gobierno “no comparte” la decisión del Supremo de suspender la aplicación de la ‘ley de nietos’
 
-La crisis migratoria en Ceuta continúa y cada vez hay más datos que ponen en duda la gestión del Gobierno . Recientemente ha salido a la luz que el comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión .E.
+La decisión del Tribunal Supremo de paralizar el derecho al voto de los beneficiarios de la conocida como ley de nietos hasta que acrediten que son hijos o nietos de exiliados ha levantado este martes una intensa polvareda política. El Ejecutivo “no comparte” el fallo provisional del alto tribunal, como ha señalado tra.
+
+Date: 2026-09-08
+
+### El Gobierno desclasifica los informes de Ceuta sin ver pruebas contra Marruecos
+
+“No tenemos nada que esconder y actuamos con transparencia”, advirtió ayer la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros aprobara la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubernamentales, elaborad.
 
 Date: 2026-09-08
 
@@ -26,55 +68,11 @@ El Ministerio de Hacienda ha decidido abrir la mano para que las comunidades pue
 
 Date: 2026-09-08
 
-### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
-
-El Gobierno ha cumplido este martes el anuncio del presidente del Gobierno, Pedro Sánchez, de desclasificar y publicar un buen número de documentos secretos sobre la crisis en Ceuta. El Consejo de Ministros desclasificó alrededor de 40 documento, según explicó la portavoz, Elma Saiz, que están circunscritos a un límite.
-
-Date: 2026-09-08
-
-### El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto
-
-El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.
-
-Date: 2026-09-08
-
-### El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”
-
-“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.
-
-Date: 2026-09-08
-
-### El Gobierno deniega la incapacidad permanente a un agente de viajes con fibromialgia crónica, pero mantiene ayudas para inmigrantes
-
-Un agente de viajes de 54 años de Menorca que padece fibromialgia y poliartralgias ha visto cómo la Justicia avalaba la negativa a reconocerle una incapacidad permanente . El Tribunal Superior de Justicia de Baleares (TSJIB) ha respaldado la decisión adoptada anteriormente por un juzgado de lo Social de Menorca, que co.
-
-Date: 2026-09-08
-
-### El Gobierno vasco invertirá 5,2 millones para atajar las inundaciones en Güeñes
-
-El plan para salvar de las crecidas a Las Encartaciones prevé un nuevo puente en Sodupe y la demolición de parte de una presa.
-
-Date: 2026-09-07
-
-### Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"
-
-El Gobierno no ha dado cuentas del prometido refuerzo de Matemáticas y Lectura Leer.
-
-Date: 2026-09-07
-
-### El Gobierno incluye a Ceuta y Melilla en un mapa como zonas en disputa con Marruecos
-
-Un gol en propia puerta. El estreno del portal público de vivienda Casa 47 arranca con polémica . El anuncio estrella del Gobierno ha quedado eclipsado tras situar a Ceuta y Melilla como territorios en disputa con Marruecos e incluir al Sáhara Occidental como parte del reino alauita. Lo ocurrido ha incendiado las redes.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-- [Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"](https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com) — 2026-09-08T13:18:27.000Z
-- [Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»](https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com) — 2026-09-08T15:04:31.000Z
-- [El Gobierno amplía el margen de las comunidades para invertir su superávit](https://elpais.com/economia/2026-09-08/el-gobierno-amplia-el-margen-de-las-comunidades-para-invertir-su-superavit.html?utm_source=lootura.com) — 2026-09-08T14:53:00.000Z
-- [El Gobierno vasco invertirá 5,2 millones para atajar las inundaciones en Güeñes](https://www.elcorreo.com/bizkaia/margen-izquierda/gobierno-vasco-invertira-millones-atajar-inundaciones-guenes-20260907233843-nt_amp.html?utm_source=lootura.com) — 2026-09-07T21:38:43.000Z
-- [Causas para un batacazo de España en PISA: de las pantallas al currículo del "bienestar" y las "emociones"](https://www.elmundo.es/espana/2026/09/08/6a9f255ee85ecec0728b4594.html?utm_source=lootura.com) — 2026-09-07T23:16:01.000Z
-- [El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia](https://elpais.com/espana/2026-09-08/el-gobierno-desclasifica-40-documentos-para-demostrar-que-nadie-aviso-de-que-venia-el-mayor-salto-a-ceuta-de-la-historia.html?utm_source=lootura.com) — 2026-09-08T14:40:32.000Z
-- [El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto](https://elpais.com/espana/2026-09-08/el-gobierno-desclasificara-este-martes-los-informes-que-recibio-sobre-ceuta-entre-el-1-de-julio-y-el-1-de-agosto.html?utm_source=lootura.com) — 2026-09-08T03:30:01.000Z
-- [El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”](https://www.lavanguardia.com/politica/20260908/11630108/gobierno-ve-pruebas-marruecos-pide-feijoo-alentar-teorias-conspiranoicas.html?utm_source=lootura.com) — 2026-09-08T13:00:26.000Z
+- [Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana](https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [El Gobierno abre una crisis con el CNI para ocultar que desoyó durante 72 horas las alertas de la avalancha sobre Ceuta](https://www.elmundo.es/espana/2026/09/09/6aa1b0afe4d4d809218b45ad.html?utm_source=lootura.com) — 2026-09-09T20:21:41.000Z
+- [El Gobierno vasco concede el tercer grado al sangriento pistolero de ETA Henri Parot condenado por 39 asesinatos](https://www.elmundo.es/pais-vasco/2026/09/09/6aa14483fc6c83f1658b4599.html?utm_source=lootura.com) — 2026-09-09T12:36:27.000Z
+- [El Gobierno minimiza el aviso por WhatsApp del CNI: “No hubo informe ni se elevó como alerta a los superiores”](https://elpais.com/espana/2026-09-09/el-gobierno-minimiza-el-aviso-por-whatsapp-del-cni-no-hubo-informe-ni-se-elevo-como-alerta-a-los-superiores.html?utm_source=lootura.com) — 2026-09-09T18:54:59.000Z
+- [Moncloa carga contra el CNI para ocultar que desoyó las alertas sobre Ceuta](https://theobjective.com/espana/politica/2026-09-09/moncloa-cni-alertas-ceuta/?utm_source=lootura.com) — 2026-09-09T20:36:36.000Z
+- [Podcast | El CNI retrata al Gobierno](https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-cni-retrata-gobierno/?utm_source=lootura.com) — 2026-09-09T18:26:15.000Z

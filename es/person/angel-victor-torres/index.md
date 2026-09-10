@@ -3,7 +3,7 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
@@ -58,4 +58,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad](https://theobjective.com/sociedad/educacion/2026-09-08/primer-dia-clase-ceuta-alumnos-inseguridad/?utm_source=lootura.com) — 2026-09-08T15:14:10.000Z
+No public source links.

@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa
+
+La relativa tranquilidad con que el mercado miraba el conflicto de Irán desde el mes de julio se ha roto al difuminarse una premisa bajo la que operaban muchos inversores: que la guerra estaría concluida en otoño , antes de las elecciones legislativas de noviembre en Estados Unidos (las midterm ). Seguir leyendo.
+
+Date: 2026-09-09
+
+### ‘Así aprenderás’: lo que la serie coreana revela sobre la crisis del profesorado en América Latina
+
+Fotograma de la serie _Así aprenderás_. Netflix Las aulas de educación básica y media superior enfrentan una crisis silenciosa. El auge de las series coreanas sobre el mundo educativo refleja esta dolorosa realidad. Producciones como Así aprenderás no solo atrapan por su drama . Estas historias conectan con una profund.
+
+Date: 2026-09-08
+
+### Por qué la ausencia de las Torres Gemelas también es una seña de identidad del ‘skyline’ neoyorquino
+
+Joe Sohm/Visions of America/Universal Images Group via Getty Images A las 10:28 de la mañana del 11 de septiembre de 2001, el perfil urbano de Nueva York cambió de forma repentina y dramática. El mundo observaba con horror cómo en las pantallas de televisión se derrumbaban la Torre Norte del World Trade Center y, luego.
+
+Date: 2026-09-08
 
 ### Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura
 
@@ -50,25 +68,7 @@ El Gobierno cubano ha estimado en 8.083 millones de dólares (unos 6.955 millone
 
 Date: 2026-09-07
 
-### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
-
-Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú con los emisarios de la Casa Blanca, Steve Witkoff y Jared Kushner, quienes deben reunirse hoy con el presidente ruso , Vladímir Putin , para intentar reavivar las negociaciones de paz en Ucrania. La aeronave aterrizó en el aeropuerto moscovit.
-
-Date: 2026-09-05
-
-### Estados Unidos bombardea tres petroleros iraníes como represalia tras un ataque de la Guardia Revolucionaria
-
-Irán había disparado antes misiles balísticos a varios buques de guerra estadounidenses en el estrecho de Ormuz.
-
-Date: 2026-09-05
-
-### EEUU responde al ataque de Irán a dos buques de guerra destruyendo tres petroleros
-
-Estados Unidos ha informado este sábado de la destrucción de tres petroleros que pertenecerían a la Guardia Revolucionaria de Irán en respuesta a un ataque contra dos buques de guerra estadounidenses desplegados en la zona del estrecho de Ormuz . Las fuerzas estadounidenses han «inutilizado permanentemente» los petrole.
-
-Date: 2026-09-05
-
 ## Fuentes
 
-- [Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura](https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com) — 2026-09-08T07:30:06.000Z
-- [El S&P 500 sigue bien soportado](https://www.expansion.com/mercados/2026/09/08/6a9fc70d468aeb7b618b458c.html?utm_source=lootura.com) — 2026-09-08T10:07:06.000Z
+- [España recorta las compras de gas a Estados Unidos desde la crisis diplomática: encadenan cuatro meses a la baja y se desploman un 60% en julio](https://www.elmundo.es/economia/empresas/2026/09/09/6aa16adde4d4d837598b459b.html?utm_source=lootura.com) — 2026-09-09T20:44:59.000Z
+- [Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa](https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html?utm_source=lootura.com) — 2026-09-09T18:43:11.000Z

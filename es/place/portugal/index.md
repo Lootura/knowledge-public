@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones
+
+Pontegadea, brazo inversor del fundador y primer accionista de Inditex, Amancio Ortega , ha vendido el 13,7% de su participación en Redes Energéticas Nacionais (REN) , el operador del sistema eléctrico y de gas portugués, al Estado de Portugal, en una operación valorada por los medios portugueses en 380 millones de eur.
+
+Date: 2026-09-08
 
 ### La surrealista detención de Bernie Ecclestone en Portugal: llevaba una escopeta en el aeropuerto
 
@@ -62,12 +68,6 @@ La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El jov
 
 Date: 2026-07-21
 
-### Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca
-
-Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-- [España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel](https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com) — 2026-09-08T14:05:48.000Z
+No public source links.

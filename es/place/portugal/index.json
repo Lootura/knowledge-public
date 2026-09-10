@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones",
+      "summary": "Pontegadea, brazo inversor del fundador y primer accionista de Inditex, Amancio Ortega , ha vendido el 13,7% de su participación en Redes Energéticas Nacionais (REN) , el operador del sistema eléctrico y de gas portugués, al Estado de Portugal, en una operación valorada por los medios portugueses en 380 millones de eur.",
+      "date": "2026-09-08"
+    },
     {
       "title": "La surrealista detención de Bernie Ecclestone en Portugal: llevaba una escopeta en el aeropuerto",
       "summary": "Bernie Ecclestone no es precisamente conocido por pasar desapercibido . El ex jefe de la Fórmula 1 ha sido detenido en el aeropuerto de Tires (Portugal), ya que estaba portando una escopeta sin licencia . El suceso es especialmente llamativo, pero no es la primera vez, ya que también le ocurrió en el año 2022 , donde l.",
@@ -61,20 +66,8 @@
       "title": "Muere repentinamente un futbolista de 26 años haciendo running en Portugal",
       "summary": "La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El joven centrocampista de 26 años falleció este lunes después de desplomarse mientras hacía running en la localidad de Armil, en el municipio de Fafe, al norte de Portugal. El jugador, que había pasado por la cantera del FC Porto y que actualmente.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Berkeley vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
-      "summary": "Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel",
-      "url": "https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:05:48.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

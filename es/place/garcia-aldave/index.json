@@ -1,0 +1,27 @@
+{
+  "id": "es-garcia-aldave",
+  "name": "García Aldave",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/garcia-aldave",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/garcia-aldave",
+  "markdownUrl": "https://atlas.lootura.com/es/place/garcia-aldave/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/garcia-aldave/index.json",
+  "description": "Sigue la actividad de García Aldave en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Grave incendio en el monte de la Tortuga de Ceuta, tomado por asentamientos de invasores",
+      "summary": "Los bomberos del Servicio de Extinción de Incendios y Salvamento de Ceuta trabajan desde aproximadamente las 21:00 de este martes en un grave incendio forestal declarado en el entorno del Monte de la Tortuga , en la zona de García Aldave, una zona tomada por invasores . La zona, de difícil acceso, está muy cerca de dos.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "García Aldave first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-08"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

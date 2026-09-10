@@ -3,7 +3,7 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T19:20:38.476Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [España y 11 países más sancionarán el comercio con asentamientos ilegales de Israel](https://theobjective.com/internacional/2026-09-08/espana-11-paises-comercio-asentamientos-israelies/?utm_source=lootura.com) — 2026-09-08T14:05:48.000Z
+No public source links.

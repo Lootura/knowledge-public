@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "CA",
     "CAN",
@@ -16,19 +16,24 @@
   ],
   "changes": [
     {
-      "title": "Canada Trade War Escalates; Rising Fuel Prices Impact Americans",
-      "summary": "Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.",
-      "date": "2026-09-08"
+      "title": "Trump escalates Canada trade war by banning some imports",
+      "summary": "After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.",
+      "date": "2026-09-09"
     },
     {
-      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-      "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).",
-      "date": "2026-09-08"
+      "title": "New Hampshire Democrat Cinde Warmington says Canada trade war is \"crushing the people of our state\"",
+      "summary": "Democratic gubernatorial nominee Cinde Warmington, who won her New Hampshire primary on Tuesday, joins \"The Takeout\" to discuss the midterm races.",
+      "date": "2026-09-09"
     },
     {
-      "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-      "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight. (Image credit: Roberto Schmidt).",
-      "date": "2026-09-08"
+      "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+      "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
+      "summary": "President Trump is not the first American president to feud with Canada. But today’s crisis might be the worst.",
+      "date": "2026-09-09"
     },
     {
       "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
@@ -36,61 +41,56 @@
       "date": "2026-09-08"
     },
     {
-      "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator",
-      "summary": "President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.",
+      "title": "Carney says Canada moving from U.S. reliance as tariffs take effect",
+      "summary": "Carney defended the retaliation, saying Canada was matching the latest U.S. measures dollar for dollar while supporting affected workers and industries and accelerating efforts to expand trade with other countries.",
       "date": "2026-09-08"
     },
     {
-      "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-      "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
+      "title": "New iron-bearing compounds could store water near Earth's core",
+      "summary": "Geochemical studies of volcanic rocks from Baffin Island, Canada, and Iceland suggest that some of the water dating back to Earth's formation may still be preserved deep within the planet. However, it has remained unclear which minerals could store such quantities of water under the extreme conditions of Earth's interi.",
       "date": "2026-09-08"
     },
     {
-      "title": "Canada’s retaliatory US tariffs set to take effect as trade dispute grows",
-      "summary": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a trade fight with its largest trading partner as tensions between US president Donald Trump and C.",
-      "date": "2026-09-07"
+      "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
+      "summary": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.",
+      "date": "2026-09-08"
     },
     {
-      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-      "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).",
-      "date": "2026-09-02"
+      "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
+      "summary": "Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.",
+      "date": "2026-09-08"
     },
     {
-      "title": "Canada's Labrador Shelf preserves climate records once thought erased by ice",
-      "summary": "The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the largest ice masses in Earth's history, which once covered vast parts of North America.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Peekaboo island: the floating forest confounding nature watchers in western Canada",
-      "summary": "A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.",
-      "date": "2026-09-01"
+      "title": "Canada Trade War Escalates; Rising Fuel Prices Impact Americans",
+      "summary": "Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.",
+      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Canada Trade War Escalates; Rising Fuel Prices Impact Americans",
-      "url": "https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T11:26:57.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Trump escalates Canada trade war by banning some imports",
+      "url": "https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:47:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-      "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T10:46:03.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "New Hampshire Democrat Cinde Warmington says Canada trade war is \"crushing the people of our state\"",
+      "url": "https://www.cbsnews.com/video/new-hampshire-democrat-cinde-warmington-canada-trade-war-crushing-people-state/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:53:08.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-      "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T11:20:05.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
-      "url": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T06:56:41.000Z",
+      "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+      "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:29:49.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:54:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 5
 }

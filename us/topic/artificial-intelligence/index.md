@@ -3,10 +3,16 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Humans "close to being outsmarted" by superintelligence, AI expert says
+
+Rapid developments in AI are prompting concerns about "superintelligence." Here's why some experts are worried.
+
+Date: 2026-09-09
 
 ### Put patients at the centre of medical AI governance
 
@@ -62,17 +68,6 @@ Democrats and Republicans have found common ground in this campaign season. Both
 
 Date: 2026-09-05
 
-### Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death
-
-Dolly Parton’s sister has condemned the AI deepfakes circulating in the wake of the beloved American icon’s death.
-
-Date: 2026-09-05
-
 ## Sources
 
-- [Put patients at the centre of medical AI governance](https://www.nature.com/articles/d41586-026-02796-8?utm_source=lootura.com) — 2026-09-08T15:58:48.463Z
-- [Chinese hackers are running AI on stolen networks to avoid detection, Google says](https://www.nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155?utm_source=lootura.com) — 2026-09-08T12:00:40.000Z
-- [The Work Now Within Reach](https://openai.com/index/the-work-now-within-reach?utm_source=lootura.com) — 2026-09-08T13:00:00.000Z
-- [Innocent-looking AI reasoning can make bad behavior harder to catch](https://www.sciencenews.org/article/ai-reasoning-bad-behavior-harder-catch?utm_source=lootura.com) — 2026-09-08T14:00:00.000Z
-- [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere?utm_source=lootura.com) — 2026-09-08T13:00:00.000Z
-- [Google’s Atlas of the human genome could pave the way for new treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas?utm_source=lootura.com) — 2026-09-08T14:00:00.000Z
+- [Humans "close to being outsmarted" by superintelligence, AI expert says](https://www.cbsnews.com/news/ai-superintelligence-anthropic-jacob-coxon/?utm_source=lootura.com) — 2026-09-09T21:47:47.000Z

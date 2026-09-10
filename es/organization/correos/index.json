@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/correos/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/correos/index.json",
   "description": "Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [],
   "changes": [
     {
@@ -62,13 +62,6 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Un individuo propina a otro a pleno día una paliza en una plaza en el centro de Alicante",
-      "url": "https://okdiario.com/comunidad-valenciana/individuo-propina-otro-pleno-dia-paliza-plaza-centro-alicante-20250516?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:41:20.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

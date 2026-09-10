@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/paula-echevarria/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/paula-echevarria/index.json",
   "description": "Sigue la actividad de Paula Echevarría en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-07T20:37:42.507Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "Echevarría",
     "Paula",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: \"Pase lo que pase\"",
-      "summary": "Apenas una semana después de despedirse de su padre, la actriz afronta una fecha especialmente delicada arropada por el cariño de su familia.",
-      "date": "2026-08-07"
+      "title": "El hábito que Paula Echevarría quiere cambiar: «Tengo a todo el mundo sorprendido»",
+      "summary": "La actriz presenta en 'El Hormiguero' la nueva serie que protagoniza 'A la deriva', ambientada en los años 70 que se estrenará el próximo 20 de septiembre en Atresplayer.",
+      "date": "2026-09-09"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Paula Echevarría first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: \"Pase lo que pase\"",
+      "summary": "Apenas una semana después de despedirse de su padre, la actriz afronta una fecha especialmente delicada arropada por el cariño de su familia.",
       "date": "2026-08-07"
     },
     {
@@ -32,6 +37,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El hábito que Paula Echevarría quiere cambiar: «Tengo a todo el mundo sorprendido»",
+      "url": "https://www.elcorreo.com/gente-estilo/habito-paula-echevarria-quiere-cambiar-mundo-sorprendido-20260909225056-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:50:56.000Z",
+      "sourceId": "lootura-es-el-correo"
+    }
+  ],
+  "evidenceCount": 1
 }

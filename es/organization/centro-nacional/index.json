@@ -1,0 +1,110 @@
+{
+  "id": "es-centro-nacional",
+  "name": "Centro Nacional",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/centro-nacional",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/centro-nacional",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/centro-nacional/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/centro-nacional/index.json",
+  "description": "Sigue la actividad de Centro Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Los documentos prueban que el Gobierno y Marruecos fueron alertados sobre la invasión",
+      "summary": "Después de semanas de debate, filtraciones y contradicciones en el seno del Ejecutivo, ayer quedó acreditado que el Centro Nacional de Inteligencia (CNI) sí avisó del asalto masivo a la frontera que se estaba gestando. Los documentados desclasificados dejan al descubierto sendos avisos de los servicios de inteligencia.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Vox cree que los informes sobre Ceuta destapan la «mentira criminal» de Sánchez",
+      "summary": "La portavoz de Vox en el Congreso, Pepa Rodríguez de Millán, considera que los informes sobre Ceuta desclasificados por el Gobierno evidencian que el Centro Nacional de Inteligencia (CNI) cumplió con su obligación al alertar al Gobierno de una posible entrada masiva en la ciudad autónoma y que el presidente del Gobiern.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»",
+      "summary": "El presidente del Gobierno, P edro Sánchez , ha afirmado este miércoles por la noche, en relación con las alertas del Centro Nacional de Inteligencia (CNI) , que con la información disponible en ese momento «nadie podía anticipar» la dimensión de la crisis migratoria registrada en Ceuta, «ni en España ni en la Unión Eu.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Moncloa carga contra el CNI para ocultar que desoyó las alertas sobre Ceuta",
+      "summary": "El Gobierno se ha lanzado a por la batalla del relato. La desclasificación de informes y avisos parar arrojar luz sobre lo ocurrido en los días previos al asalto de Ceuta demuestran que recibió información alertando de lo que podía suceder, aunque sin calcular cifras . Desde Moncloa cargan contra el Centro Nacional de.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Podcast | El CNI retrata al Gobierno",
+      "summary": "El Gobierno estaba avisado por los servicios de inteligencia de que Ceuta iba a ser invadida. Esa es la conclusión a la que podemos llegar este miércoles tras conocer los documentos desclasificados por el Gobierno de Pedro Sánchez . Estos muestran cómo el Centro Nacional de Inteligencia lanzó varios avisos en los días.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Los tres informes del CNI, la Policía y la Guardia Civil un día antes del asalto masivo a Ceuta",
+      "summary": "Los informes desclasificados por el Gobierno de Pedro Sánchez sobre la crisis migratoria de Ceuta revelan que el Centro Nacional de Inteligencia (CNI) avisó un día antes de la invasión de más de 80.000 marroquíes tanto a organismos dependientes del ministro del Interior, Fernando Grande-Marlaska , como a los propios se.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "El delegado del Gobierno en Ceuta dice que no supo de los avisos del CNI: «No eran una alerta»",
+      "summary": "El delegado del Gobierno en Ceuta, Miguel Ángel Pérez Triano , ha asegurado este miércoles que no tuvo conocimiento de las alertas del Centro Nacional de Inteligencia (CNI) sobre la convocatoria en redes sociales para acceder de forma masiva a la ciudad autónoma a finales de julio, sosteniendo que se trató de un «inter.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
+      "summary": "El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "El informe de la Guardia Civil trasladado a la juez incluye avisos del CNI de la invasión",
+      "summary": "La Guardia Civil ha remitido un informe a la juez María Tardón donde se incluyen avisos del Centro Nacional de Inteligencia (CNI) sobre la invasión a Ceuta, según confirman fuentes de la investigación a ABC. El escueto documento de apenas cinco páginas evita señalar los posibles organizadores del asalto y tampoco hay r.",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Moncloa recurre de nuevo a la \"máquina del fango\" ante el horizonte judicial que puede abrirse por Ceuta",
+      "summary": "El Gobierno piensa que es \"extraño\" todo lo sucedido en torno al informe del Centro Nacional de Inmigración y Fronteras (CENIF) que apunta a que los policías y gendarmes marroquíes no solo permitieron, sino que guiaron la entrada masiva del 30 de julio. El enfado en el Gobierno por —según asegura— no tener acceso a dic.",
+      "date": "2026-09-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Los documentos prueban que el Gobierno y Marruecos fueron alertados sobre la invasión",
+      "url": "https://www.abc.es/espana/cni-aviso-marruecos-gobierno-dia-asalto-20260909014436-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T00:57:21.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Vox cree que los informes sobre Ceuta destapan la «mentira criminal» de Sánchez",
+      "url": "https://theobjective.com/espana/politica/2026-09-09/vox-informes-gobierno-mentira-criminal-sanchez/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:37:35.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»",
+      "url": "https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:29:57.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Moncloa carga contra el CNI para ocultar que desoyó las alertas sobre Ceuta",
+      "url": "https://theobjective.com/espana/politica/2026-09-09/moncloa-cni-alertas-ceuta/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T20:36:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Podcast | El CNI retrata al Gobierno",
+      "url": "https://theobjective.com/podcasts/objetivo-directo-podcast/podcast-objetivo-directo-cni-retrata-gobierno/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T18:26:15.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "Los tres informes del CNI, la Policía y la Guardia Civil un día antes del asalto masivo a Ceuta",
+      "url": "https://theobjective.com/espana/2026-09-09/tres-informes-ceuta-cni-policia-guardia-civil/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T19:57:13.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
+    {
+      "title": "El delegado del Gobierno en Ceuta dice que no supo de los avisos del CNI: «No eran una alerta»",
+      "url": "https://theobjective.com/espana/politica/2026-09-09/delegado-gobierno-ceuta-avisos-cni/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T19:37:36.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 7
+}

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada",
+      "summary": "Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max , Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el debut de Siri AI como gran novedad, tras las muy buenas sensaciones que ha dejado.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Amnistía Internacional pide que se condene la violencia contra los periodistas que informan sobre Ceuta",
       "summary": "La organización plantea que todos los partidos políticos y autoridades rechacen estos actos, así como \"los actos y discursos racistas y xenófobos\" Opinión - Unos señalan. Otros agreden a periodistas Amnistía Internacional (AI) ha pedido a todos los partidos políticos y autoridades que condenen públicamente la violencia.",
@@ -62,11 +67,17 @@
   ],
   "sources": [
     {
-      "title": "Cataluña obtendría «de los peores resultados» si no hubiera sido expulsada por trampas",
-      "url": "https://www.abc.es/sociedad/muestra-alumnado-optimizada-cataluna-dispara-resultados-pisa-20260908102758-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:37:33.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "BlackRock aconseja invertir en sectores reforzados por la IA",
+      "url": "https://www.expansion.com/mercados/2026/09/10/6aa1965e468aeb86608b4592.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:16:54.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada",
+      "url": "https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:30:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

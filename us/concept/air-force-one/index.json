@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-15T01:04:37.915Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
+      "summary": "The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.",
+      "date": "2026-09-09"
+    },
     {
       "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
       "summary": "President Trump’s Air Force One subterfuge duped potential adversaries — and the press. Here’s what happened.",
@@ -59,13 +64,15 @@
       "title": "NATO spending pressure returned",
       "summary": "President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Eye Opener: Strong storms leave behind major destruction after sweeping across Midwest",
-      "summary": "Millions are still at risk of flooding after powerful storms swept across the Midwest, leaving a trail of destruction. Plus, President Trump makes his first public comments about the secret swap off Air Force One in Turkey. All that and all that matters in today's Eye Opener.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:40:34.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

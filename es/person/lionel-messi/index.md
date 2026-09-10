@@ -3,10 +3,22 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Messi llega a un acuerdo para comprar el Eldense
+
+Leo Messi será el nuevo propietario del Eldense. El argentino ha llegado a un principio de acuerdo para la compra de la totalidad del paquete accionarial del grupo colombiano TH. El futbolista del Inter Miami desembarcará así como dueño de un club del fútbol profesional español, puesto que el conjunto alicantino se enc.
+
+Date: 2026-09-08
+
+### Los candidatos al Balón de Oro: seis españoles, dos ausencias y vuelve Leo Messi
+
+La pugna por el Balón de Oro 2026 ya está en marcha. France Football reveló la lista con los 30 futbolistas nominados para la gala del 26 de octubre, donde destaca una fuerte representación española con seis jugadores , el retorno de Lionel Messi entre los elegidos y la sonada baja de Cristiano Ronaldo. Los jugadores e.
+
+Date: 2026-09-08
 
 ### Messi, el rey que abdica
 
@@ -55,18 +67,6 @@ Date: 2026-08-08
 La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.
 
 Date: 2026-08-08
-
-### El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo
-
-El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud.
-
-Date: 2026-08-08
-
-### Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias
-
-La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.
-
-Date: 2026-08-04
 
 ## Fuentes
 

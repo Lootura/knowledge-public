@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T02:49:43.209Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -26,6 +26,16 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Messi llega a un acuerdo para comprar el Eldense",
+      "summary": "Leo Messi será el nuevo propietario del Eldense. El argentino ha llegado a un principio de acuerdo para la compra de la totalidad del paquete accionarial del grupo colombiano TH. El futbolista del Inter Miami desembarcará así como dueño de un club del fútbol profesional español, puesto que el conjunto alicantino se enc.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Los candidatos al Balón de Oro: seis españoles, dos ausencias y vuelve Leo Messi",
+      "summary": "La pugna por el Balón de Oro 2026 ya está en marcha. France Football reveló la lista con los 30 futbolistas nominados para la gala del 26 de octubre, donde destaca una fuerte representación española con seis jugadores , el retorno de Lionel Messi entre los elegidos y la sonada baja de Cristiano Ronaldo. Los jugadores e.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Messi, el rey que abdica",
       "summary": "Leo Messi le dice adiós a la Selección Argentina . “Me voy vacío”, dice su nota de despedida. “Nos deja lleno”, digo en representación de todos los que amamos el fútbol. Se despide de la camiseta más sufriente, querida y gloriosa para él. Deja el refugio preferido para mí, el lugar en el que podía disfrutarlo sin culpa.",
@@ -65,16 +75,6 @@
       "title": "Muere Jorge Messi, padre y mentor del astro argentino",
       "summary": "La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "El mundo del fútbol despide a Jorge Messi, padre de Lionel Messi: últimas reacciones en directo",
-      "summary": "El padre y representante del capitán argentino permanecía bajo seguimiento médico desde hacía meses debido a su delicado estado de salud.",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Messi dona 80.000 para los incendios de Madrid y Ayuso le da las gracias",
-      "summary": "La aportación del futbolista argentino se destinará a la recuperación de los municipios afectados por uno de los mayores incendios registrados este verano.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [],

@@ -3,10 +3,34 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida
+
+The progressive representative from New York spoke at a small event to help lift the underdog Senate candidate Angie Nixon.
+
+Date: 2026-09-10
+
+### Jalen Brunson to host ‘SNL’ season 52 premiere hot off of Knicks championship
+
+It’s nothing but net for “Saturday Night Live” later this month as the show announced that New York’s own Jalen Brunson will be the first host for the show’s 52nd season.
+
+Date: 2026-09-09
+
+### The lasting psychological impact of 9/11 on America
+
+Judy Woodruff recently visited the September 11 Memorial in New York for a look at how the attacks, 25 years ago, continue to shape our lives today. It's part of her series, Crossroads: America at 250.
+
+Date: 2026-09-09
+
+### College swap shop helps students and families save money and the environment
+
+For college students, the cost of heading back to campus can add up fast. But at New York University, students are stocking up without spending a dime. CBS News' Evyn Moon reports on how their campus swap is saving students money and giving old dorm gear a new life.
+
+Date: 2026-09-08
 
 ### Trump's construction projects are transforming the capital
 
@@ -44,30 +68,8 @@ In our news wrap Friday, two men were pulled from a tunnel more than a week afte
 
 Date: 2026-09-04
 
-### Serena and Venus Williams returning to U.S. Open women's doubles tournament together tonight
-
-Serena and Venus Williams will play together at the U.S. Open in New York for the first time in four years.
-
-Date: 2026-09-04
-
-### Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’
-
-The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it had decreased or eliminated U.S. gold holdings.
-
-Date: 2026-09-03
-
-### Gloria Steinem Came to New York to Be a Writer. She Became a Movement.
-
-Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.
-
-Date: 2026-09-03
-
-### These athletes will advance to the U.S. Open's third round
-
-The U.S. Open is underway in New York City. Sports Illustrated senior writer and 60 Minutes correspondent Jon Wertheim has the latest on tennis starts to watch.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Mamdani Launches Public Portal With 170,000 Pages of 9/11 Records](https://time.com/article/2026/09/08/mamdani-to-release-9-11-related-documents/?utm_source=lootura.com) — 2026-09-08T11:26:35.000Z
+- [Jalen Brunson to host ‘SNL’ season 52 premiere hot off of Knicks championship](https://www.nbcnews.com/pop-culture/pop-culture-news/jalen-brunson-host-snl-season-52-premiere-hot-knicks-championship-rcna596841?utm_source=lootura.com) — 2026-09-09T17:53:40.000Z
+- [The lasting psychological impact of 9/11 on America](https://www.pbs.org/newshour/show/the-lasting-psychological-impact-of-9-11-on-america?utm_source=lootura.com) — 2026-09-09T22:20:50.000Z
+- [AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida](https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html?utm_source=lootura.com) — 2026-09-10T01:29:37.000Z

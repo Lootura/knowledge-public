@@ -8,11 +8,41 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "Democrats"
   ],
   "changes": [
+    {
+      "title": "Fetterman’s Surprise GOP Convention Video Angers Democrats",
+      "summary": "Democrats in Pennsylvania reacted with a mix of annoyance and eye-rolling to Senator John Fetterman’s video appearance at Republicans’ midterm convention.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency",
+      "summary": "\"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote,\" Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Republicans were confident about keeping the Senate. Now the battle is wide open",
+      "summary": "Republicans appeared to have a firm grip on the majority at the start of the 2026 election cycle. But Democrats are now competing in states that once seemed well beyond their reach.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "‘Democrats Are Behind’: PAC Wants Party to Catch Up on A.I.",
+      "summary": "The group is starting with more than $10 million and says it intends to support midterm House candidates in swing states.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Pritzker, Eyeing 2028, to Help Midterm Democrats With a $20 Million Group",
+      "summary": "JB Pritzker, the billionaire governor of Illinois, is continuing to expand his national footprint, this time by using a new group to target Republicans in battleground races.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Musk Targets Transgender Issues in Key Midterm Senate Races",
+      "summary": "A political group for the world’s richest man, who is ramping up a midterm spending blitz, began running attack ads against Democrats in Texas, Ohio and Iowa.",
+      "date": "2026-09-08"
+    },
     {
       "title": "New Hampshire primaries test Trump and the left",
       "summary": "President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.",
@@ -32,45 +62,21 @@
       "title": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
       "summary": "Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.",
       "date": "2026-09-05"
-    },
-    {
-      "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
-      "summary": "This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Ossoff and Talarico to Share Fund-Raising Event in Hollywood",
-      "summary": "The event with the Georgia and Texas Democrats will be hosted by Shonda Rhimes.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Brooks and Capehart on Trump calling Iran war 'small potatoes'",
-      "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's remarks calling the conflict with Iran \"small potatoes,\" the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on cho.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats",
-      "summary": "Under a new partnership, the Defense Department would play a larger role in biodefense and pandemic preparedness. Democrats warned it could allow a Pentagon cash grab.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
-      "summary": "Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Democratic hands this November. The court ruled unanimously on Thursday that a referendum petition organized by Democrats to put the new congre.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Voters are \"pissed about the economy,\" former Obama aide analyzes midterms",
-      "summary": "Most midterm primaries have already passed, yielding data and trends that inform how general elections could go. Former Obama aide Ravi Gupta joins CBS News with more on how Democrats and Republicans are performing in the 2026 midterms so far.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "New Hampshire primaries test Trump and the left",
-      "url": "https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T09:00:40.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency",
+      "url": "https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T21:39:56.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Fetterman’s Surprise GOP Convention Video Angers Democrats",
+      "url": "https://www.nytimes.com/2026/09/09/us/politics/democrats-fetterman-trump-convention.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T01:04:25.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

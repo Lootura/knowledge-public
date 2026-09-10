@@ -3,14 +3,56 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
+### Trump says oil prices will come down after midterm elections
+
+President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.
+
+Date: 2026-09-09
+
+### Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East
+
+The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.
+
+Date: 2026-09-09
+
+### Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs
+
+A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.
+
+Date: 2026-09-09
+
+### Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships
+
+Plus, the fake images flooding real estate listings.
+
+Date: 2026-09-09
+
+### Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say
+
+The latest round of fighting may result in reports of traumatic brain injuries among American service members, officials warned.
+
+Date: 2026-09-09
+
 ### Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge
 
 Higher gas and diesel prices have cost Americans an additional $100 billion since the Iran war began, according to a Brown University tracker.
+
+Date: 2026-09-08
+
+### Why Stocks Are Defying Gravity and What Could Bring Them Down
+
+Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.
+
+Date: 2026-09-08
+
+### Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War
+
+The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.
 
 Date: 2026-09-08
 
@@ -26,53 +68,10 @@ Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group
 
 Date: 2026-09-08
 
-### Why Stocks Are Defying Gravity and What Could Bring Them Down
-
-Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.
-
-Date: 2026-09-08
-
-### Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens
-
-The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
-
-Date: 2026-09-08
-
-### Tehran threatens attacks after U.S. strikes Iranian tankers
-
-Iran is threatening retaliation after U.S. airstrikes sank three ships in the Gulf. CBS News homeland security correspondent Nicole Sganga reports.
-
-Date: 2026-09-07
-
-### Gas prices in U.S. hit record Labor Day high, thanks to Iran war and refinery issues
-
-It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.
-
-Date: 2026-09-07
-
-### News Wrap: Tropical Storm Marie brings dangerous surf to California coast
-
-In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.
-
-Date: 2026-09-07
-
-### The Iranian school struck in the war's earliest attacks is now a memorial for children
-
-The Shajareh Tayyebeh school in Minab, Iran, is now a memorial for children and others killed in the Feb. 28 attacks that sparked the war with the United States and Israel.
-
-Date: 2026-09-07
-
-### 5 Races to Watch This Fall for Answers to the Biggest Midterm Questions
-
-From Iowa to Michigan to Texas, key contests will offer clues about voters’ views of President Trump, progressive ideas, the war with Iran and more.
-
-Date: 2026-09-07
-
 ## Sources
 
-- [Oil prices near $100 a barrel as Houthis launch new attacks on Saudi energy points](https://www.cbsnews.com/video/oil-prices-near-100-a-barrel-as-houthis-launch-new-attacks-on-saudi-energy/?utm_source=lootura.com) — 2026-09-08T14:53:41.000Z
-- [Goldman Sachs warns oil prices could hit $120 as U.S. fuel costs surge](https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/?utm_source=lootura.com) — 2026-09-08T14:54:26.000Z
-- [Canada Trade War Escalates; Rising Fuel Prices Impact Americans](https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792?utm_source=lootura.com) — 2026-09-08T11:26:57.000Z
-- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z
-- [Why Stocks Are Defying Gravity and What Could Bring Them Down](https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html?utm_source=lootura.com) — 2026-09-08T13:53:50.000Z
-- [Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens](https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com) — 2026-09-08T10:54:53.000Z
+- [WATCH: Trump says oil prices will come down after midterm elections](https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections?utm_source=lootura.com) — 2026-09-09T22:08:17.000Z
+- [Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East](https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html?utm_source=lootura.com) — 2026-09-09T12:15:01.000Z
+- [Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs](https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html?utm_source=lootura.com) — 2026-09-09T20:29:49.000Z
+- [Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships](https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html?utm_source=lootura.com) — 2026-09-09T10:00:12.000Z
+- [Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say](https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html?utm_source=lootura.com) — 2026-09-09T19:34:03.000Z

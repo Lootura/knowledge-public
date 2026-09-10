@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El Tribunal de Cuentas de la UE avisa del aumento de la producción ilegal de tabaco, con pérdidas de 13.000 millones en tasas
+
+Los contrabandistas aprovechan las diferencias de regulación entre países de la Unión Europea y se acercan más a los consumidores Leer.
+
+Date: 2026-09-08
+
+### Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha abordado este martes junto al comisario europeo de Asuntos de Interior y Migración, Magnus Brunner, un «refuerzo de cooperación» de la Unión Europea en Ceuta y Melilla y la «presencia permanente» de Frontex , Europol y la Agencia c.
+
+Date: 2026-09-08
 
 ### Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink
 
@@ -56,19 +68,6 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-09-04
 
-### Hungría asegura que Ucrania «no está preparada» para la adhesión a la UE
-
-El primer ministro de Hungría, Peter Magyar , ha asegurado este jueves que Ucrania «no está preparada» para la adhesión a la Unión Europea , mostrándose escéptico sobre la capacidad de Kiev para cumplir los compromisos alcanzados entre ambos países de forma bilateral en materia de los derechos de las minorías en la reg.
-
-Date: 2026-09-03
-
-### Di adiós a WhatsApp si tienes alguno de estos teléfonos con Android: las versiones 5.0 y 5.1 del sistema ya no podrán utilizar el servicio
-
-Cada cierto tiempo acostumbramos a ver cómo los dispositivos móviles van cesando en su soporte de actualizaciones y postventa, una obsolescencia muchas veces programada que hace tiempo que la Unión Europea trabaja para combatir , pero que a la postre es ley de vida sobre todo en una industria tan volátil y voraz como l.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink](https://cincodias.elpais.com/companias/2026-09-08/telefonica-y-las-grandes-telcos-europeas-sondean-una-alianza-satelital-para-competir-contra-starlink.html?utm_source=lootura.com) — 2026-09-08T09:48:16.000Z
-- [Vivas exige a Bruselas más contundencia en la relación europea con Marruecos](https://www.lavanguardia.com/politica/20260908/11629935/vivas-exige-bruselas-mas-contundencia-relacion-europea-marruecos.html?utm_source=lootura.com) — 2026-09-08T10:54:07.000Z
+No public source links.

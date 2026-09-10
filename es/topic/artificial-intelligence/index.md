@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada
+
+Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max , Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el debut de Siri AI como gran novedad, tras las muy buenas sensaciones que ha dejado.
+
+Date: 2026-09-09
 
 ### Amnistía Internacional pide que se condene la violencia contra los periodistas que informan sobre Ceuta
 
@@ -64,4 +70,5 @@ Date: 2026-07-10
 
 ## Fuentes
 
-- [Cataluña obtendría «de los peores resultados» si no hubiera sido expulsada por trampas](https://www.abc.es/sociedad/muestra-alumnado-optimizada-cataluna-dispara-resultados-pisa-20260908102758-nt.html?utm_source=lootura.com) — 2026-09-08T15:37:33.000Z
+- [BlackRock aconseja invertir en sectores reforzados por la IA](https://www.expansion.com/mercados/2026/09/10/6aa1965e468aeb86608b4592.html?utm_source=lootura.com) — 2026-09-09T22:16:54.000Z
+- [iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada](https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/?utm_source=lootura.com) — 2026-09-09T21:30:00.000Z

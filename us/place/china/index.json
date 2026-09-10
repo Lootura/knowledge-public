@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T22:21:50.294Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -36,13 +36,18 @@
       "date": "2026-09-08"
     },
     {
-      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
-      "summary": "The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.",
+      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+      "summary": "China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.",
       "date": "2026-09-08"
     },
     {
-      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
-      "summary": "China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.",
+      "title": "In Nepal, climate adaptation starts with what communities already know",
+      "summary": "The catastrophic flood along the Nepal–China border that killed more than 1,400 people and left nearly 6,000 people missing devastated communities and infrastructure and renewed questions about how Himalayan countries prepare for environmental hazards that can unfold rapidly and cross-national borders.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
+      "summary": "The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.",
       "date": "2026-09-08"
     },
     {
@@ -64,50 +69,8 @@
       "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
       "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a ne.",
       "date": "2026-09-05"
-    },
-    {
-      "title": "U.S. issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran",
-      "summary": "The Treasury Department accused the Turkish bank and its entities of being established to enable Iran's efforts to transfer oil revenues from China to Turkey, where they could then be converted to cash and gold.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
-      "url": "https://www.nature.com/articles/d41586-026-02407-6?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:58:48.464Z",
-      "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Sideline vested interests to reform China’s research",
-      "url": "https://www.nature.com/articles/d41586-026-02797-7?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:58:48.463Z",
-      "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
-      "url": "https://www.nbcnews.com/tech/security/chinese-hackers-are-running-ai-stolen-networks-avoid-detection-google-rcna596155?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T12:00:40.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
-      "url": "https://phys.org/news/2026-09-nepal-glacier-exceptional-collapse-deadly.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T14:48:54.000Z",
-      "sourceId": "lootura-us-phys-org"
-    },
-    {
-      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
-      "url": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T08:24:33.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T08:49:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 6
+  "sources": [],
+  "evidenceCount": 0
 }

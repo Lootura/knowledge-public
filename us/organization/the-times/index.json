@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/the-times/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/the-times/index.json",
   "description": "Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T22:21:50.294Z",
   "aliases": [],
   "changes": [
     {
@@ -42,13 +42,6 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [
-    {
-      "title": "Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.",
-      "url": "https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T13:50:04.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

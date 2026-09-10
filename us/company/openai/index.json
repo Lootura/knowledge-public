@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T21:55:59.222Z",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?",
+      "summary": "OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an i.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Rogue OpenAI agents hijacked German website, making more than 15,000 edits",
       "summary": "A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.",
@@ -53,18 +63,15 @@
       "title": "Ten advances in mathematics and theoretical computer science",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Product availability changed in Europe",
-      "summary": "Days after OpenAI revealed one of its models went rogue and hacked into another company's servers, House lawmakers are considering a bill that would allow the federal government to effectively shut down models that may put the public at risk. Jo Ling Kent explains.",
-      "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "OpenAI first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "AI researcher warns companies are ignoring catastrophic risks",
+      "url": "https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:55:11.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

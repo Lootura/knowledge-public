@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.json",
   "description": "Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-09-08T22:21:50.294Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -41,13 +41,6 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Prince Harry and Meghan will not be working royals, King Charles says",
-      "url": "https://www.cbsnews.com/video/harry-and-meghan-will-not-be-working-royals-king-charles-says/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:29:31.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

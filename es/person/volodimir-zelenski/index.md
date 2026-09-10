@@ -3,10 +3,16 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron
+
+El primer ministro de Noruega, Jonas Gahr Støre, ha asegurado este miércoles que el avión que trasladó en la víspera al presidente de Ucrania, Volodímir Zelenski , a Oslo estuvo «a punto» de ser alcanzado por un dron . «Su avión estuvo a punto de ser derribado por un dron cuando iba a despegar de Moldavia , así que esa.
+
+Date: 2026-09-09
 
 ### Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana
 
@@ -58,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron](https://theobjective.com/internacional/2026-09-09/avion-zelenski-oslo-derribo/?utm_source=lootura.com) — 2026-09-09T20:54:09.000Z

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "Vallés",
     "Vicente"
   ],
   "changes": [
+    {
+      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
+      "summary": "Este miércoles por la noche, el ministro de Transportes, Óscar Puente , ha acudido como invitado a La Mesa de Antena 3, donde le han entrevistado por Cristina Pardo y los periodistas Vicente Vallés y Pilar Velasco. El ministro ha defendido la actuación del Gobierno durante la crisis de Ceuta y ha relativizado el alcanc.",
+      "date": "2026-09-09"
+    },
     {
       "title": "Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»",
       "summary": "La crisis migratoria en Ceuta continúa y cada vez hay más datos que ponen en duda la gestión del Gobierno . Recientemente ha salido a la luz que el comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión .E.",
@@ -47,10 +52,10 @@
   ],
   "sources": [
     {
-      "title": "Vicente Vallés: «El Gobierno insiste en que no hay indicios sobre el asalto que apunten a Marruecos. El coste electoral se verá en el futuro»",
-      "url": "https://www.abc.es/play/television/noticias/vicente-valles-gobierno-insiste-ningun-indicio-sobre-20260908110748-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:04:31.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
+      "url": "https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T22:57:07.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 1

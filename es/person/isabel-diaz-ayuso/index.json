@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-05T21:55:40.959Z",
+  "updatedAt": "2026-09-10T03:02:25.927Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana",
+      "summary": "El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.",
+      "date": "2026-09-10"
+    },
     {
       "title": "Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”",
       "summary": "Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.",
@@ -59,13 +64,15 @@
       "title": "Óscar López exige la dimisión de Ayuso por «ocultar» su visita al ático de Chamberí",
       "summary": "El secretario general del PSOE en Madrid, Óscar López , ha exigido este miércoles la dimisión de la presidenta madrileña, Isabel Díaz Ayuso , por «ocultar» hasta el momento su visita al ático adquirido por el Gobierno regional en Chamberí y al asegurar que «lleva mucho tiempo mintiendo». La noticia de que la presidenta.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Ayuso visitó el ático tras su compra por la Comunidad de Madrid",
-      "summary": "La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...",
-      "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com",
+      "publishedAt": "2026-09-10T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

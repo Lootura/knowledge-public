@@ -3,10 +3,46 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Fetterman’s Surprise GOP Convention Video Angers Democrats
+
+Democrats in Pennsylvania reacted with a mix of annoyance and eye-rolling to Senator John Fetterman’s video appearance at Republicans’ midterm convention.
+
+Date: 2026-09-10
+
+### Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency
+
+"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote," Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.
+
+Date: 2026-09-09
+
+### Republicans were confident about keeping the Senate. Now the battle is wide open
+
+Republicans appeared to have a firm grip on the majority at the start of the 2026 election cycle. But Democrats are now competing in states that once seemed well beyond their reach.
+
+Date: 2026-09-08
+
+### ‘Democrats Are Behind’: PAC Wants Party to Catch Up on A.I.
+
+The group is starting with more than $10 million and says it intends to support midterm House candidates in swing states.
+
+Date: 2026-09-08
+
+### Pritzker, Eyeing 2028, to Help Midterm Democrats With a $20 Million Group
+
+JB Pritzker, the billionaire governor of Illinois, is continuing to expand his national footprint, this time by using a new group to target Republicans in battleground races.
+
+Date: 2026-09-08
+
+### Musk Targets Transgender Issues in Key Midterm Senate Races
+
+A political group for the world’s richest man, who is ramping up a midterm spending blitz, began running attack ads against Democrats in Texas, Ohio and Iowa.
+
+Date: 2026-09-08
 
 ### New Hampshire primaries test Trump and the left
 
@@ -32,42 +68,7 @@ Data from Gallup shows that Democrats and Democratic-leaning independents have t
 
 Date: 2026-09-05
 
-### Trump's first major midterm money move: A $10 million Texas Senate ad blitz
-
-This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.
-
-Date: 2026-09-05
-
-### Ossoff and Talarico to Share Fund-Raising Event in Hollywood
-
-The event with the Georgia and Texas Democrats will be hosted by Shonda Rhimes.
-
-Date: 2026-09-05
-
-### Brooks and Capehart on Trump calling Iran war 'small potatoes'
-
-David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's remarks calling the conflict with Iran "small potatoes," the president's influence over the midterm elections, how Democrats are campaigning and Sen. Susan Collins' remarks on cho.
-
-Date: 2026-09-04
-
-### Pentagon Agreement With N.I.H. on Biodefense Draws Alarm From Democrats
-
-Under a new partnership, the Defense Department would play a larger role in biodefense and pandemic preparedness. Democrats warned it could allow a Pentagon cash grab.
-
-Date: 2026-09-04
-
-### Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat
-
-Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Democratic hands this November. The court ruled unanimously on Thursday that a referendum petition organized by Democrats to put the new congre.
-
-Date: 2026-09-03
-
-### Voters are "pissed about the economy," former Obama aide analyzes midterms
-
-Most midterm primaries have already passed, yielding data and trends that inform how general elections could go. Former Obama aide Ravi Gupta joins CBS News with more on how Democrats and Republicans are performing in the 2026 midterms so far.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [New Hampshire primaries test Trump and the left](https://www.nbcnews.com/politics/2026-election/new-hampshire-primaries-test-trump-left-rcna596109?utm_source=lootura.com) — 2026-09-08T09:00:40.000Z
+- [WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency](https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency?utm_source=lootura.com) — 2026-09-09T21:39:56.000Z
+- [Fetterman’s Surprise GOP Convention Video Angers Democrats](https://www.nytimes.com/2026/09/09/us/politics/democrats-fetterman-trump-convention.html?utm_source=lootura.com) — 2026-09-10T01:04:25.000Z

@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre
+
+Cataluña celebra este viernes 11 de septiembre la Diada de 2026 , una jornada que conmemora la caída de Barcelona en 1714 y que cada año reúne actos institucionales y políticos en distintos puntos de la comunidad. La atención también se trasladará a las calles con la manifestación independentista , una de las principal.
+
+Date: 2026-09-10
+
+### El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia
+
+El FC Barcelona ha tumbado al Feyenoord (5-1) en la primera jornada de la Fase Liga de la Liga de Campeones 2026/27, en un Spotify Camp Nou a medio gas por la previsión de lluvia — que hizo acto de presencia en el arranque del partido — pero que cantó 5 goles de un equipo que quiere demostrar de inicio que en este terc.
+
+Date: 2026-09-09
+
+### Lamine Yamal asegura que no hará campaña para el Balón de Oro: «No voy a suplicar nada»
+
+El jugador español del FC Barcelona Lamine Yamal ha asegurado este martes que no piensa hacer campaña para ganar el Balón de Oro ni «suplicar nada» después de la que considera una buena temporada, al tiempo que destacó que su principal objetivo de presente es conquistar la Liga de Campeones, un torneo que considera «el.
+
+Date: 2026-09-08
 
 ### El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel
 
@@ -50,24 +68,7 @@ Un total de diez personas han resultado afectadas esta pasada noche, una de ella
 
 Date: 2026-09-04
 
-### La solución de Futre para que el Atlético perdone a Julián Álvarez: «Yo era un potro y…»
-
-Julián Álvarez se queda en el Atlético y, por ello, tiene mucho trabajo por hacer si quiere ganarse el perdón del Metropolitano. Después de un verano intentando fichar por el Barcelona, el argentino no cumplió su sueño y ahora afronta meses muy complicados. Un problemón del que Paulo Futre ha querido echarle un cable c.
-
-Date: 2026-09-03
-
-### Cómo recuperar a Julián Álvarez
-
-Se acabó el mercado de fichajes y Julián Álvarez se queda en el Atlético. El debate ha terminado, al menos de momento. El escenario es el siguiente: el jugador sigue en un club que quería cambiar por el Barcelona; y el club no se puede permitir perder las cualidades de uno de sus mejores futbolistas. Tampoco al delante.
-
-Date: 2026-09-03
-
-### Cientos de personas piden "justicia" tras la muerte a puñaladas de Carles Vilajosana en Manresa (Barcelona)
-
-La 'consellera' Núria Parlon critica "los discursos de odio" y subraya que los dos menores detenidos por el crimen son catalanes Leer.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel](https://www.abc.es/espana/cataluna/futuro-rosa-peral-autora-crimen-guardia-urbana-20260908171340-nt.html?utm_source=lootura.com) — 2026-09-08T15:32:18.000Z
+- [Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre](https://www.elconfidencial.com/espana/cataluna/2026-09-10/horario-recorrido-manifestacion-diada-1tna-1qrt_4419115/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+- [El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia](https://theobjective.com/deportes/futbol/champions-league/2026-09-09/barca-exhibe-manita-feyenoord-bajo-lluvia/?utm_source=lootura.com) — 2026-09-09T19:31:25.000Z

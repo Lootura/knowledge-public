@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"
+
+El presidente de Castilla-La Mancha defiende "poder discrepar" mientras arremete contra los pactos del Gobierno con Junts y Bildu Leer.
+
+Date: 2026-09-09
 
 ### Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados
 
@@ -62,12 +68,6 @@ La provincia de Toledo se prepara para vivir un acontecimiento histórico este p
 
 Date: 2026-08-10
 
-### La colisión de dos vehículos en Las Pedroñeras (Cuenca) deja una mujer muerta y tres heridos
-
-La colisión de dos vehículos este domingo en la N-301 a su paso por el municipio conquense de Las Pedroñeras deja una mujer fallecida y tres jóvenes heridos. Según informa a Europa Press el Servicio de Atención y Coordinación de Urgencias y Emergencias 112 de Castilla-La Mancha, el accidente ha tenido lugar a las 6.02.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-- [Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados](https://www.elconfidencial.com/espana/2026-09-08/incendio-forestal-tendilla-heridos-hospital-1tna-1tps_4419921/?utm_source=lootura.com) — 2026-09-08T13:56:00.000Z
+- [Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"](https://www.elmundo.es/espana/2026/09/09/6aa1481121efa0d20c8b4593.html?utm_source=lootura.com) — 2026-09-09T12:07:50.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/colombia/index.json",
   "description": "Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T22:21:31.789Z",
   "aliases": [
     "Republic of Colombia",
     "República de Colombia",
@@ -16,6 +16,11 @@
     "🇨🇴"
   ],
   "changes": [
+    {
+      "title": "Rubio desembarca en una Colombia que ahora abraza la mano dura de Trump",
+      "summary": "Marco Rubio llevó a Colombia este martes una exigencia directa y clara de Donald Trump para inaugurar una nueva etapa política tras la marcha de Gustavo Petro : reducir por la vía rápida los cultivos de coca intensificando las operaciones contra los grupos del narcotráfico y persiguiendo las redes financieras que sosti.",
+      "date": "2026-09-08"
+    },
     {
       "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
       "summary": "El informe PISA 2025 mantiene la tendencia de rezago de los países latinoamericanos en la principal comparación educativa internacional respecto a la media de la OCDE. Algunos, como Argentina y México, han registrado sus peores resultados en 20 años en matemáticas y otros muestran estancamiento (Brasil, Colombia y Cost.",
@@ -60,20 +65,8 @@
       "title": "El Consell destina 250.000 € a Colombia para atender necesidades básicas de la población tras el terremoto",
       "summary": "La Consellería de Servicios Sociales, Igualdad e Infancia de la Generalitat Valenciana, que dirige Elena Albalat, ha destinado 250.000 euros a ayuda humanitaria urgente en Colombia para atender las necesidades básicas de la población. La ayuda se ha producido apenas tres días después del devastador terremoto del pasado.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Aumentan a 265 los muertos por el terremoto de magnitud 7,4 en el noroeste de Colombia",
-      "summary": "El número de víctimas derivadas del terremoto de magnitud 7,4 en la escala de Richter registrado el lunes en el noroeste de Colombia ha aumentado a 265.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
-      "url": "https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T07:30:06.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

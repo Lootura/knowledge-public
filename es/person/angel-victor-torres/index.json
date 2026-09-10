@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.json",
   "description": "Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T15:58:25.403Z",
+  "updatedAt": "2026-09-08T19:20:38.476Z",
   "aliases": [
     "Víctor",
     "Ángel"
@@ -55,13 +55,6 @@
       "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad",
-      "url": "https://theobjective.com/sociedad/educacion/2026-09-08/primer-dia-clase-ceuta-alumnos-inseguridad/?utm_source=lootura.com",
-      "publishedAt": "2026-09-08T15:14:10.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

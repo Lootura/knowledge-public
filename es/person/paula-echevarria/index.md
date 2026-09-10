@@ -3,20 +3,26 @@
 > Sigue la actividad de Paula Echevarría en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-07T20:37:42.507Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/paula-echevarria
 
 ## Cambios recientes
 
-### El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: "Pase lo que pase"
+### El hábito que Paula Echevarría quiere cambiar: «Tengo a todo el mundo sorprendido»
 
-Apenas una semana después de despedirse de su padre, la actriz afronta una fecha especialmente delicada arropada por el cariño de su familia.
+La actriz presenta en 'El Hormiguero' la nueva serie que protagoniza 'A la deriva', ambientada en los años 70 que se estrenará el próximo 20 de septiembre en Atresplayer.
 
-Date: 2026-08-07
+Date: 2026-09-09
 
 ### Discovered by Atlas
 
 Paula Echevarría first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-07
+
+### El significativo mensaje de Miguel Torres a Paula Echevarría en el cumpleaños más triste de la actriz: "Pase lo que pase"
+
+Apenas una semana después de despedirse de su padre, la actriz afronta una fecha especialmente delicada arropada por el cariño de su familia.
 
 Date: 2026-08-07
 
@@ -28,4 +34,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-No public source links.
+- [El hábito que Paula Echevarría quiere cambiar: «Tengo a todo el mundo sorprendido»](https://www.elcorreo.com/gente-estilo/habito-paula-echevarria-quiere-cambiar-mundo-sorprendido-20260909225056-nt_amp.html?utm_source=lootura.com) — 2026-09-09T20:50:56.000Z

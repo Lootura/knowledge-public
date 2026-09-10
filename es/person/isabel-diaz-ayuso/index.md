@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana
+
+El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de Madrid con 32 kilómetros más de túneles . La red del suburbano llegará al barrio de Las Tablas (Madrid capital) y los municipios de Móstoles y Leganés durante los próximos años, con 2034 en el horizonte. La empresa pública, además, dará un pa.
+
+Date: 2026-09-10
 
 ### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
 
@@ -62,12 +68,6 @@ El secretario general del PSOE en Madrid, Óscar López , ha exigido este miérc
 
 Date: 2026-09-02
 
-### Ayuso visitó el ático tras su compra por la Comunidad de Madrid
-
-La presienta madrileña, Isabel Díaz Ayuso, visitó el ático ubicado en el barrio de Chamberí que compró en abril la empresa pública Planifica Madrid después de que se ejecutara la operación, según ha avanzado El País y han confirmado fuentes del Ejecutivo autonómico este miércoles. Seguir leyendo...
-
-Date: 2026-09-02
-
 ## Fuentes
 
-No public source links.
+- [Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana](https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z

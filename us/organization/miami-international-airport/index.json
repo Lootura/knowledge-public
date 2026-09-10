@@ -1,0 +1,63 @@
+{
+  "id": "usa-miami-international-airport",
+  "name": "Miami International Airport",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/miami-international-airport",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/miami-international-airport",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/miami-international-airport/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/miami-international-airport/index.json",
+  "description": "Follow Miami International Airport, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "aliases": [
+    "KMIA",
+    "MIA",
+    "Wilcox Field"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Miami International Airport first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Amazon plane crash victims identified as NTSB continues to investigate cause of deadly incident at MIA",
+      "summary": "The Amazon cargo plane crashed off the end of a runway at Miami International Airport on Sunday, leaving five people dead and five others injured.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Victims identified in deadly plane crash at Miami International Airport",
+      "summary": "The Amazon cargo plane crashed off the end of a runway at Miami International Airport on Sunday, leaving five people dead and five others injured.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Authorities identify 5 victims killed when Amazon-branded cargo plane overran runway in Miami",
+      "summary": "An airline cleaning company was mourning the loss of five employees who were identified as those killed Sunday when an Amazon-branded cargo plane overran the runway at Miami International Airport, striking the company’s van and a passenger SUV.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Witness says seeing Amazon plane crash at MIA was \"something from a movie\"",
+      "summary": "Five people were killed and five others were injured when a plane overshot a runway at Miami International Airport and crashed.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Amazon Cargo Plane Overruns Runway in Miami, Killing at Least 5",
+      "summary": "At least five people were killed and several others injured when an Amazon Prime Air cargo plane overran a runway at Miami International Airport on Sunday. Officials said the aircraft struck multiple vehicles before stopping near a parking lot, triggering a ground stop and widespread flight disruptions. NBC’s George So.",
+      "date": "2026-09-07"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
+      "date": "2026-09-07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami?utm_source=lootura.com",
+      "publishedAt": "2026-09-09T09:09:32.000Z",
+      "sourceId": "lootura-us-npr"
+    }
+  ],
+  "evidenceCount": 0
+}

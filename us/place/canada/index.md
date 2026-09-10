@@ -3,28 +3,34 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
 
-### Canada Trade War Escalates; Rising Fuel Prices Impact Americans
+### Trump escalates Canada trade war by banning some imports
 
-Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.
+After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold
+### New Hampshire Democrat Cinde Warmington says Canada trade war is "crushing the people of our state"
 
-Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now. (Image credit: Kevin Dietsch).
+Democratic gubernatorial nominee Cinde Warmington, who won her New Hampshire primary on Tuesday, joins "The Takeout" to discuss the midterm races.
 
-Date: 2026-09-08
+Date: 2026-09-09
 
-### GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect
+### Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs
 
-Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight. (Image credit: Roberto Schmidt).
+A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.
 
-Date: 2026-09-08
+Date: 2026-09-09
+
+### A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship
+
+President Trump is not the first American president to feud with Canada. But today’s crisis might be the worst.
+
+Date: 2026-09-09
 
 ### Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies
 
@@ -32,45 +38,39 @@ The duties are a retaliation against President Trump’s recent tariffs, raising
 
 Date: 2026-09-08
 
-### Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator
+### Carney says Canada moving from U.S. reliance as tariffs take effect
 
-President Donald Trump asserted Monday that the Canadian aerospace company Bombardier should no longer be allowed to sell its planes in the U.S., opening a new front in his trade war with Canada.
-
-Date: 2026-09-08
-
-### Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate
-
-New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.
+Carney defended the retaliation, saying Canada was matching the latest U.S. measures dollar for dollar while supporting affected workers and industries and accelerating efforts to expand trade with other countries.
 
 Date: 2026-09-08
 
-### Canada’s retaliatory US tariffs set to take effect as trade dispute grows
+### New iron-bearing compounds could store water near Earth's core
 
-Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a trade fight with its largest trading partner as tensions between US president Donald Trump and C.
+Geochemical studies of volcanic rocks from Baffin Island, Canada, and Iceland suggest that some of the water dating back to Earth's formation may still be preserved deep within the planet. However, it has remained unclear which minerals could store such quantities of water under the extreme conditions of Earth's interi.
 
-Date: 2026-09-07
+Date: 2026-09-08
 
-### How will tariffs affect the midterms? In this Michigan border town, it's complicated
+### Carney Says Retaliation Against U.S. Tariffs Was Unavoidable
 
-The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).
+In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.
 
-Date: 2026-09-02
+Date: 2026-09-08
 
-### Canada's Labrador Shelf preserves climate records once thought erased by ice
+### Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’
 
-The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the largest ice masses in Earth's history, which once covered vast parts of North America.
+Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.
 
-Date: 2026-09-01
+Date: 2026-09-08
 
-### Peekaboo island: the floating forest confounding nature watchers in western Canada
+### Canada Trade War Escalates; Rising Fuel Prices Impact Americans
 
-A 150-metre-long island appeared from nowhere on Williston Lake, British Columbia; vanished, then reappeared 20 miles away A thickly forested island appeared mysteriously on a western Canadian lake. Nearly 150 metres (500 feet) long and 75 metres (250 feet) wide, the land mass took local people and experts by surprise.
+Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.
 
-Date: 2026-09-01
+Date: 2026-09-08
 
 ## Sources
 
-- [Canada Trade War Escalates; Rising Fuel Prices Impact Americans](https://www.today.com/video/canada-imposes-retaliatory-tariffs-on-700-american-products-269466181792?utm_source=lootura.com) — 2026-09-08T11:26:57.000Z
-- [Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold](https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs?utm_source=lootura.com) — 2026-09-08T10:46:03.000Z
-- [GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect](https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs?utm_source=lootura.com) — 2026-09-08T11:20:05.000Z
-- [Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html?utm_source=lootura.com) — 2026-09-08T06:56:41.000Z
+- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
+- [New Hampshire Democrat Cinde Warmington says Canada trade war is "crushing the people of our state"](https://www.cbsnews.com/video/new-hampshire-democrat-cinde-warmington-canada-trade-war-crushing-people-state/?utm_source=lootura.com) — 2026-09-09T21:53:08.000Z
+- [Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs](https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html?utm_source=lootura.com) — 2026-09-09T20:29:49.000Z
+- [A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship](https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html?utm_source=lootura.com) — 2026-09-09T21:54:03.000Z

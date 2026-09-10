@@ -3,10 +3,28 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-10T03:02:25.927Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"
+
+Óscar Puente visitó el plató de La Mesa para someterse a un debate sobre la gestión de la crisis migratoria en Ceuta . Cristina Pardo y los colaboradores del espacio de Antena 3 pusieron sobre la mesa su polémico tuit del 1 de agosto, en el que daba por resuelto el conflicto fronterizo. Puente reconoció en La Mesa que.
+
+Date: 2026-09-09
+
+### Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»
+
+Este miércoles por la noche, el ministro de Transportes, Óscar Puente , ha acudido como invitado a La Mesa de Antena 3, donde le han entrevistado por Cristina Pardo y los periodistas Vicente Vallés y Pilar Velasco. El ministro ha defendido la actuación del Gobierno durante la crisis de Ceuta y ha relativizado el alcanc.
+
+Date: 2026-09-09
+
+### El Gobierno cuestiona que el TS paralice el derecho al voto de "miles de españoles" y pide resolver antes de las elecciones
+
+El Gobierno ha mostrado su disconformidad con la decisión del Tribunal Supremo (TS) de paralizar de forma cautelar el derecho al voto de los descendientes de españoles inscritos por la conocida como 'ley de nietos' . A su llegada al Senado, el ministro de Transportes, Óscar Puente , ha asegurado que es una decisión "di.
+
+Date: 2026-09-08
 
 ### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
 
@@ -50,24 +68,7 @@ El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que
 
 Date: 2026-09-01
 
-### Los nuevos trenes de Cercanías de Madrid posibilitan la renovación en cascada de tres núcleos con una sola inversión
-
-Cercanías de Madrid estrenó ayer en presencia del ministro de Transportes, Óscar Puente, las primeras unidades de los trenes de gran capacidad de Stadler comprados por Renfe . Un material rodante que ha sido homologado a contra reloj para entrar en servicio en la fecha que había comprometido el Gobierno y que permite a.
-
-Date: 2026-09-01
-
-### El precio de la luz vuelve a dispararse pese al sol de justicia y a la vez que los carburantes
-
-No está concitando mucha atención con el eclipse , la invasión de Ceuta , los incendios , el ataque de Óscar Puente al Rey , los casos de corrupción o los fichajes de verano , pero el precio de la luz vuelve a estar disparado este verano, a pesar del sol de justicia que luce día tras día en toda España. Una escalada qu.
-
-Date: 2026-08-13
-
-### Óscar Puente y Felipe VI
-
-No es un problema de izquierdas o derechas, dos ministros del mismo Gobierno han demostrado dos maneras distintas de entender el poder. Margarita Robles viaja a Ceuta, escucha el enfado de sus ciudadanos y representa al Estado, mientras Óscar Puente convierte la crisis en material para Twitter. Al país le sobran activi.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"](https://www.20minutos.es/nacional/moncloa-respalda-que-puente-cuestione-imparcialidad-jueza-que-investiga-crisis-ceuta-hace-como-buen-jurista_7034216_0.html?utm_source=lootura.com) — 2026-09-08T13:18:27.000Z
+- [Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"](https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com) — 2026-09-09T22:38:06.000Z
+- [Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»](https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com) — 2026-09-09T22:57:07.000Z

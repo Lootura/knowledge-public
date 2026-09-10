@@ -3,14 +3,26 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-10T03:02:42.851Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
 
+### Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes
+
+With few good options for safely shipping oil, Saudi Arabia’s exports have fallen to a 13-year low.
+
+Date: 2026-09-09
+
 ### Oil nears $100 after Saudi Arabia says energy infrastructure was attacked
 
 Brent, the international oil benchmark, touched $99 a barrel after Saudi Arabia reported an attack on energy assets that caused temporary pauses in operations.
+
+Date: 2026-09-08
+
+### Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War
+
+The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.
 
 Date: 2026-09-08
 
@@ -56,21 +68,6 @@ The agreement treats an attack on any of the countries as an attack on all, but 
 
 Date: 2026-08-07
 
-### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
-
-The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran’s allies in Yemen and Iraq.
-
-Date: 2026-08-07
-
-### Houthi strikes kill dozens in Yemen, officials say, as Saudi Arabia warns of further attacks
-
-Latest attacks by Iran-aligned Houthis spark concerns that Middle East crisis is intensifying Who are the Houthis – explained in 30 seconds Attacks by the Iran-aligned Houthis on a military camp in Yemen and in Saudi Arabia have sparked concerns that the Middle East crisis will continue to spiral. Yemen is being increa.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Oil nears $100 after Saudi Arabia says energy infrastructure was attacked](https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558?utm_source=lootura.com) — 2026-09-08T12:58:13.000Z
-- [Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people](https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia?utm_source=lootura.com) — 2026-09-08T09:09:46.000Z
-- [Houthis strike Saudi Arabian cities in significant expansion of Middle East war](https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?utm_source=lootura.com) — 2026-09-08T12:05:31.000Z
-- [Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens](https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html?utm_source=lootura.com) — 2026-09-08T10:54:53.000Z
+- [Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes](https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html?utm_source=lootura.com) — 2026-09-09T18:04:07.000Z

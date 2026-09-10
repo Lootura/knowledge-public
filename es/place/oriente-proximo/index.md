@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-08T22:21:31.789Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### El Ibex pierde los 20.000 puntos pero cierra en los máximos de la sesión
+
+Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
+
+Date: 2026-09-08
 
 ### El Ibex modera las caídas a la espera de Wall Street
 
@@ -62,13 +68,6 @@ La diferencia entre ambos grupos siempre fue fundamentalmente política. Pese a 
 
 Date: 2026-09-01
 
-### El Ibex se aleja de los 20.000
-
-Geopolítica, inflación y bancos centrales dominan la actualidad de los mercados en el arranque de septiembre, estadísticamente el mes más adverso para la Bolsa . La nueva escalada bélica en Oriente Próximo, con ataques cruzados entre Estados Unidos e Irán , afianza el precio del petróleo por encima de los 90 dólares. S.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [El Ibex modera las caídas a la espera de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-08T10:07:03.000Z
-- [El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo](https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html?utm_source=lootura.com) — 2026-09-08T09:43:02.000Z
+No public source links.
