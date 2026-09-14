@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-No public source links.
+- [Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela](https://elpais.com/america/2026-09-14/estados-unidos-frena-la-investigacion-en-espana-de-alejandro-betancourt-su-nuevo-zar-del-petroleo-en-venezuela.html?utm_source=lootura.com) — 2026-09-14T03:30:01.000Z

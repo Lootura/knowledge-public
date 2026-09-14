@@ -3,10 +3,58 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Kortajarena critica a Insausti por la prohibición de las cenas solidarias: «prohibir, criminalizar y perseguir es un gran error»
+
+La candidata de EH Bildu a la alcaldía de Donostia centra su discurso en la vivienda y la turistificación, pero avisa al primer edil jeltzale que «utilizar» el tema de las cenas «para sacar rédito político es muy peligroso».
+
+Date: 2026-09-14
+
+### Víctor Lasa no será candidato a alcalde de Donostia por Elkarrekin Podemos
+
+La coalición de izquierdas ha arrancado su proceso de elección de candidatos, donde podría haber una renovación para dar la vuelta a las encuestas.
+
+Date: 2026-09-13
+
+### Concentración para denunciar el ataque con un arma de balines a un migrante en Donostia
+
+Harrera Sarea ha convocado una protesta el lunes 14 a las 19.30 horas en la plaza Blas de Otero de San Sebastián.
+
+Date: 2026-09-12
+
+### La Nao San Juan atracará en San Sebastián Gastronomika
+
+Su llegada al muelle cargada de bacalao será uno de los puntos fuertes del congreso, que mirará al mar y a la Nueva Cocina Vasca.
+
+Date: 2026-09-11
+
+### Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así
+
+¿Qué es lo primero que lee cada mañana el alcalde Insausti? / La fiesta de Ordizia y el empuje de El Vaskito / El 'glamour' del Festi, Gastronomika y Passion for Knowledge.
+
+Date: 2026-09-11
+
+### Kortajarena se presentará candidata en Donostia para tratar de recuperar los mil votos de distancia con el PNV
+
+EH Bildu propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.
+
+Date: 2026-09-10
+
+### EH Bildu elige a Kortajarena para recuperar la Alcaldía de Donostia frente a Insausti
+
+La coalición propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.
+
+Date: 2026-09-10
+
+### Sabor, salud, conexión social, creatividad… En busca de la receta de la felicidad gastronómica
+
+Barra de un bar de San Sebastián (España). MikeDotta/Shutterstock Comer es mucho más que alimentarse. El sabor, los aromas, la presentación de un plato, la compañía o incluso la historia que hay detrás de una receta pueden transformar una comida cotidiana en una experiencia memorable. ¿Podemos entonces hablar de una “g.
+
+Date: 2026-09-10
 
 ### El nuevo aparcabicis cubierto de Benta Berri se abrirá en octubre con 56 plazas
 
@@ -20,56 +68,6 @@ El programa se desarrollará en el Victoria Eugenia y el Teatro Principal desde 
 
 Date: 2026-09-09
 
-### 5.400 euros por medio queso Idiazabal del alavés Unai Lekuona, campeón en Ordizia
-
-El restaurante El Vaskito de Donostia gana la subasta y el podio lo completan la queserías guipuzcoanas Aizpea y Ondarre.
-
-Date: 2026-09-09
-
-### La línea de bus que unirá Donostia con Eskuzaitzeta y la cárcel arrancará la segunda quincena de este mes
-
-Operará todos los días desde primera hora de la mañana (5.30-6.00 horas) hasta última hora del día (22.00-22.30) y tendrá parada en Galarreta, en Hernani.
-
-Date: 2026-09-08
-
-### Boga Boga: se acerca el capricho melómano de Donostia con su edición más ambiciosa
-
-La cuarta edición del festival llega de jueves a domingo con nombres internacionales como Sébastien Tellier, Alice Phoebe Lou y Bodega.
-
-Date: 2026-09-07
-
-### Programa completo del Zinemaldia: películas, salas y horarios
-
-Consulta la agenda completa de proyecciones y películas en el Festival de Cine de San Sebastián 2026.
-
-Date: 2026-09-07
-
-### Las Euskal Jaiak toman Donostia las próximas dos semanas
-
-Además del Sagardo Eguna y el Gaztelu Eguna del sábado 5, destacan en el programa el recuerdo a la bailarina María Elena Arizmendi y el acto de canto coral 'Kantuz'.
-
-Date: 2026-09-01
-
-### Por qué Carmen Sevilla fue una estrella: Edgar Morin y el imaginario de la España de los cincuenta
-
-La actriz española Carmen Sevilla en el Festival de San Sebastián de 1956. Paco Marí / Kutxa Fototeka , CC BY-SA La muerte del sociólogo y filósofo francés Edgar Morin invita a recuperar una de sus aportaciones más sugerentes al estudio de la cultura contemporánea: su análisis del estrellato cinematográfico como expres.
-
-Date: 2026-09-01
-
-### El Festival de San Sebastián incorpora seis nuevas películas a la Sección Oficial que competirán por la Concha de Oro
-
-La 74ª edición del Festival de San Sebastián suma seis nuevos largometrajes a su Sección Oficial , una selección que mezcla cine de autor, primeras obras y nombres ya consolidados. Las películas de Fred Cavayé , Jesse Eisenberg , Amanda Kernell y Gabriel Martins , junto a los debuts de Ah Biao y Tony Vahl , competirán.
-
-Date: 2026-08-14
-
-### Los técnicos se movilizan hoy en Donostia para pedir su primer convenio
-
-La protesta no afectará a la mayoría de los espectáculos de los programas de Quincena y Semana Grande.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [El nuevo aparcabicis cubierto de Benta Berri se abrirá en octubre con 56 plazas](https://www.diariovasco.com/san-sebastian/nuevo-aparcabicis-cubierto-benta-berri-abrira-octubre-20260910000818-nt_amp.html?utm_source=lootura.com) — 2026-09-09T22:08:19.000Z
-- [El ciclo Frédéric Chopin constará de diez conciertos en Donostia](https://www.diariovasco.com/culturas/musica/ciclo-frederic-chopin-constara-diez-conciertos-donostia-20260909171157-nt_amp.html?utm_source=lootura.com) — 2026-09-09T15:11:57.000Z
-- [5.400 euros por medio queso Idiazabal del alavés Unai Lekuona, campeón en Ordizia](https://www.diariovasco.com/tolosa-goierri/ordizia/concurso-queso-idiazabal-ordizia-20260909095027-nt_amp.html?utm_source=lootura.com) — 2026-09-09T09:02:16.000Z
+- [Kortajarena critica a Insausti por la prohibición de las cenas solidarias: «prohibir, criminalizar y perseguir es un gran error»](https://www.diariovasco.com/politica/kortajarena-critica-insausti-prohibicion-cenas-solidarias-prohibir-20260914111501-nt_amp.html?utm_source=lootura.com) — 2026-09-14T09:15:01.000Z

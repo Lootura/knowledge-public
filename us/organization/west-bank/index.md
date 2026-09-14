@@ -3,10 +3,22 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-12T14:59:23.432Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
+
+### The secret quest to preserve Palestinian writer Raja Shehadeh's diaries
+
+Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland (Image credit: Yazeed Abu Khdeir).
+
+Date: 2026-09-12
+
+### IDF soldier filmed shooting Palestinian in leg amid West Bank settler standoff
+
+Incident is latest to raise questions over Israel’s ability or willingness to stop violent settlers in occupied territory An Israeli soldier shot a Palestinian man, wounding him in the leg, as settlers confronted villagers by grazing livestock on Palestinian-owned land in the town of Faqqua in the occupied West Bank. E.
+
+Date: 2026-09-12
 
 ### U.S. envoy warns U.K. against new plan to sanction Israeli settlements
 
@@ -53,18 +65,6 @@ Date: 2026-08-13
 ### U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes
 
 Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occup.
-
-Date: 2026-08-13
-
-### Palestinian American family recounts siege of West Bank home by Israeli settlers
-
-Israeli settlers laid siege to the home of an Palestinian American family in the occupied West Bank, sparking condemnation from the U.S. ambassador and an Israeli military response. Nick Schifrin spoke with Qusai and Ahmed Ridi from the house in Qusra, and Qusai's brother, Loui Ridi, who helped translate this conversat.
-
-Date: 2026-08-13
-
-### Israeli Settlers Resume West Bank Siege After Eviction
-
-The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.
 
 Date: 2026-08-13
 

@@ -1,0 +1,32 @@
+{
+  "id": "es-cuenta-general",
+  "name": "Cuenta General",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/cuenta-general",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/cuenta-general",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/cuenta-general/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/cuenta-general/index.json",
+  "description": "Sigue la actividad de Cuenta General en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-11T02:58:00.569Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El Parlamento tumba por primera vez la Cuenta General del Estado por las trampas presupuestarias del Gobierno",
+      "summary": "El Congreso devuelve al Tribunal de Cuentas su dictamen de las cuentas del Estado en el que dio aval pese al desvío de fondos europeos a pagar pensiones Leer.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Varapalo histórico a Sánchez: el Congreso tumba por primera vez la Cuenta General por sus trampas presupuestarias",
+      "summary": "Varapalo histórico del Congreso de los Diputados a la gestión de las cuentas públicas del Gobierno de Pedro Sánchez. La Cámara Baja ha rechazado por primera vez la Cuenta General del Estado después de que PP , Vox y Junts hayan unido sus votos para censurar las «trampas» e « irregularidades presupuestarias » que denunc.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Cuenta General first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-10"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

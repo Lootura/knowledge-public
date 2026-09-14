@@ -3,72 +3,71 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Fetterman’s Surprise GOP Convention Video Angers Democrats
+### Vance to Campaign in Kansas as Democrats Target a Republican Stronghold
 
-Democrats in Pennsylvania reacted with a mix of annoyance and eye-rolling to Senator John Fetterman’s video appearance at Republicans’ midterm convention.
+Vice President JD Vance is beginning a key final stretch of midterm campaigning by dropping in on the Senate race in Kansas, where Republicans were long seen as heavily favored.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency
+### Sweden's election exit polls show center-left opposition ahead of populist right
 
-"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote," Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.
+The election pits Prime Minister Ulf Kristersson's center-right coalition against a center-left bloc led by former Prime Minister Magdalena Andersson's Social Democrats.
 
-Date: 2026-09-09
+Date: 2026-09-13
 
-### Republicans were confident about keeping the Senate. Now the battle is wide open
+### Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk
 
-Republicans appeared to have a firm grip on the majority at the start of the 2026 election cycle. But Democrats are now competing in states that once seemed well beyond their reach.
+Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### ‘Democrats Are Behind’: PAC Wants Party to Catch Up on A.I.
+### Obama calls for Dems to focus on AI
 
-The group is starting with more than $10 million and says it intends to support midterm House candidates in swing states.
+Former President Barack Obama is urging Democrats — including 2028 presidential candidates and congressional leaders — to more aggressively focus on a comprehensive AI agenda, warning in a closed-door fundraiser that the technology is at an inflection point. “This is something that is moving very fast in private hands,.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### Pritzker, Eyeing 2028, to Help Midterm Democrats With a $20 Million Group
+### For Populist Democrats, a Movement Fueled by Anger at Both Parties
 
-JB Pritzker, the billionaire governor of Illinois, is continuing to expand his national footprint, this time by using a new group to target Republicans in battleground races.
+A generation shaped by the pandemic and rising prices has helped drive an emergence of Democratic candidates who say they are as fed up as voters are.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### Musk Targets Transgender Issues in Key Midterm Senate Races
+### Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda
 
-A political group for the world’s richest man, who is ramping up a midterm spending blitz, began running attack ads against Democrats in Texas, Ohio and Iowa.
+During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### New Hampshire primaries test Trump and the left
+### Democrats and Republicans can agree: there should be more monetary support for child care
 
-President Donald Trump’s endorsement will be put to the test once again Tuesday in New Hampshire’s primaries, where liberal Democrats are also looking to cap an ascendant primary season with additional victories.
+The Trump administration is eyeing a proposal to give childcare subsidies to married couples with a stay-at-home parent. Some Democrats have a similar proposal, with one major difference.
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### Gavin Newsom on how to beat the GOP: 'Democrats need to grow a backbone'
+### Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists
 
-As California's governor, Gavin Newsom has become one of the Democratic Party's most vocal critics of President Trump. As speculation swirls around Newsom's own potential presidential bid, he's on the road and raising money to get more Democrats elected at the state level, where he says his party took its eye off the b.
+Communism, in the president’s hyperbolic telling, is a graver threat to the country than the Pearl Harbor or 9/11 attacks were. Whether this midterm strategy works is an open question.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
-### Voters are fed up with data centers. Both parties are trying to cash in for midterms
+### Brooks and Capehart on the GOP's midterm identity
 
-Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).
+David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including the GOP's midterm convention and the identity of the party, if Democrats should be worried about campaign spending benefiting Republican candidates and how America has changed in the 25 years since 9/.
 
-Date: 2026-09-05
+Date: 2026-09-11
 
-### Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections
+### Fact-Checking Trump’s Attacks on Democratic Senate Candidates
 
-Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.
+The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.
 
-Date: 2026-09-05
+Date: 2026-09-11
 
 ## Sources
 
-- [WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency](https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency?utm_source=lootura.com) — 2026-09-09T21:39:56.000Z
-- [Fetterman’s Surprise GOP Convention Video Angers Democrats](https://www.nytimes.com/2026/09/09/us/politics/democrats-fetterman-trump-convention.html?utm_source=lootura.com) — 2026-09-10T01:04:25.000Z
+- [Vance to Campaign in Kansas as Democrats Target a Republican Stronghold](https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com) — 2026-09-14T17:30:44.000Z

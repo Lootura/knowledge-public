@@ -3,10 +3,22 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T03:01:17.184Z
+- Updated: 2026-09-13T03:06:35.172Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Republicans fear they have a North Carolina problem
+
+DALLAS — Republicans are increasingly worried that North Carolina’s Senate race is slipping out of contention. For months, they had argued that a post-Labor Day infusion of cash could jolt new energy into the largely stagnant but critical Senate race. But as Republican nominee Michael Whatley struggles to meaningfully.
+
+Date: 2026-09-12
+
+### How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran
+
+U.S. Treasury Secretary Scott Bessent speaks at a G20 summit in Asheville, North Carolina, on Sept. 1, 2026. —Peter Zay—Getty Images The U.S. Treasury issued sweeping new sanctions against Iran on Tuesday, targeting the country’s airlines and their international service providers as it ramps up its effort to isolate Te.
+
+Date: 2026-09-10
 
 ### Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.
 
@@ -55,18 +67,6 @@ Date: 2026-08-11
 A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.
 
 Date: 2026-08-07
-
-### The science behind using the arts to combat loneliness and social isolation
-
-A new program in Charlotte, North Carolina, is using the arts to tackle loneliness and social isolation. Paul Solman reports on prescriptions for art instead of medicine for our series at the intersection of art and health, part of our CANVAS coverage.
-
-Date: 2026-08-04
-
-### Discovered by Atlas
-
-North Carolina first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-03
 
 ## Sources
 

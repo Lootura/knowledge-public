@@ -58,4 +58,4 @@ Date: 2026-09-02
 
 ## Sources
 
-- [New Hampshire Democrat Cinde Warmington says Canada trade war is "crushing the people of our state"](https://www.cbsnews.com/video/new-hampshire-democrat-cinde-warmington-canada-trade-war-crushing-people-state/?utm_source=lootura.com) — 2026-09-09T21:53:08.000Z
+No public source links.

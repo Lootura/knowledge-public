@@ -3,10 +3,16 @@
 > Follow Labor Day, a tracked event, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: event
-- Updated: 2026-09-08T19:21:03.373Z
+- Updated: 2026-09-13T03:06:35.172Z
 - Canonical: https://atlas.lootura.com/us/event/labor-day
 
 ## Recent changes
+
+### Republicans fear they have a North Carolina problem
+
+DALLAS — Republicans are increasingly worried that North Carolina’s Senate race is slipping out of contention. For months, they had argued that a post-Labor Day infusion of cash could jolt new energy into the largely stagnant but critical Senate race. But as Republican nominee Michael Whatley struggles to meaningfully.
+
+Date: 2026-09-12
 
 ### Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash
 

@@ -3,10 +3,16 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### El emotivo reencuentro de los Reyes Federico y Mary de Dinamarca con Isabella tras su ingreso en el ejército
+
+La Familia Real danesa ha vivido un fin de semana muyes especial con el reencuentro de los Reyes Federico y Mary de Dinamarca con la Princesa Isabella , de 19 años, tras su ingreso en el Ejército el pasado 3 de agosto y la propia Casa Real danesa ha difundido unas imágenes de lo más emotiva de la jornada de visitas del.
+
+Date: 2026-09-14
 
 ### Felipe VI se reunió el lunes con Robles y autoridades militares para examinar la situación de Ceuta
 
@@ -62,12 +68,6 @@ Felipe VI ha expresado su “gran preocupación e indignación” ante los “gr
 
 Date: 2026-08-01
 
-### El rey se muestra "indignado" ante lo ocurrido en Ceuta y pide que el Estado vele por la seguridad
-
-Según ha informado la Casa Real en un mensaje hecho público este sábado, el jefe del Estado ha seguido "con gran preocupación e indignación" los graves acontecimientos en Ceuta y, en menor medida, también en Melilla. Sánchez acusa a varios gobiernos europeos de atacar a España y pide una reunión de urgencia de ministro.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-No public source links.
+- [El emotivo reencuentro de los Reyes Federico y Mary de Dinamarca con Isabella tras su ingreso en el ejército](https://www.abc.es/gente/emotivo-reencuentro-reyes-federico-mary-dinamarca-isabella-20260914132622-nt.html?utm_source=lootura.com) — 2026-09-14T17:30:03.000Z

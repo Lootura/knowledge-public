@@ -3,7 +3,7 @@
 > Sigue la actividad de Brad Pitt en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/person/brad-pitt
 
 ## Cambios recientes

@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval
+
+Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a "Trump Dividend" if voters keep the GOP in power on Capitol Hill.
+
+Date: 2026-09-13
 
 ### What to watch in New Hampshire tonight: From the Politics Desk
 
@@ -61,12 +67,6 @@ Date: 2026-08-03
 Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
 
 Date: 2026-07-31
-
-### Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms
-
-President Trump's top military advisors were on Capitol Hill to make the case for the war in Iran, and additional money to fund the Pentagon. Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine argued for an additional $67 billion, what Hegseth called an urgent and necessary injection of funds. N.
-
-Date: 2026-07-21
 
 ## Sources
 

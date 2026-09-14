@@ -1,0 +1,40 @@
+{
+  "id": "es-alianca-catalana",
+  "name": "Aliança Catalana",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/alianca-catalana",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/alianca-catalana",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/alianca-catalana/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/alianca-catalana/index.json",
+  "description": "Sigue la actividad de Aliança Catalana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-11T02:58:00.569Z",
+  "aliases": [
+    "AC",
+    "Aliança.cat"
+  ],
+  "changes": [
+    {
+      "title": "Tensión entre grupos independentistas en el acto de Sílvia Orriols previo a la Diada: \"Hemos venido a salvar Cataluña\"",
+      "summary": "Aliança Catalana hace su ofrenda en el Fossar de les Moreres ante la oposición de grupos afines a la CUP / Los Mossos intervienen y Orriols sale escoltada Leer.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Cargas policiales en la víspera de la Diada por las protestas contra el acto de Aliança Catalana",
+      "summary": "Las protestas convocadas por la izquierda independentista contra el acto de la líder de Aliança Catalana , Sílvia Orriols , en el barrio del Born de Barcelona han derivado en momentos de tensión y cargas policiales . Orriols y decenas de militantes y simpatizantes de su partido han realizado este jueves la tradicional.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Aliança Catalana first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Cargas y detenciones de los Mossos para impedir el acoso de la izquierda radical contra Aliança",
+      "summary": "Banderas con la cruz de Sant Jordi, enseñas de Aliança Catalana y esteladas. Muchas esteladas. Entre todas ellas, incluso alguna 'senyera' con el Sagrado Corazón de Jesús. Entre 300 y 400 personas acudieron este jueves al acto de Aliança Catalana en el Fossar de les Moreres, completamente blindado por los Mossos d'Esqu.",
+      "date": "2026-09-10"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

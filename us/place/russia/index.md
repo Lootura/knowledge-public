@@ -3,10 +3,58 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Daily fragment: Aeroflot Flight 821
+
+Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.
+
+Date: 2026-09-14
+
+### Lithuania prepares for war, reinforcing its border against Russian tanks
+
+On the edge of NATO territory in the Baltics, there is growing concern about the threat Russia poses. Aaron MacLean visited the capital of Lithuania to see how they're preparing.
+
+Date: 2026-09-14
+
+### Trump says Ukraine needs to stop targeting Russian refineries
+
+Civilians were killed and injured overnight into Sunday as both Russia and Ukraine kept up large-scale drone strikes.
+
+Date: 2026-09-13
+
+### Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage
+
+Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.
+
+Date: 2026-09-13
+
+### Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?
+
+U.S. President Donald Trump attends the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, Co Clare, during his trip to the Republic of Ireland on Sept. 13, 2026. —Liam McBurney—PA Images President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russia's diesel fuel i.
+
+Date: 2026-09-13
+
+### As Russia Again Draws Near, a Frontline City Fears Obliteration This Time
+
+The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.
+
+Date: 2026-09-11
+
+### Why Emerging Powers Keep Joining BRICS, Even When They Disagree
+
+The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.
+
+Date: 2026-09-11
+
+### Zelenskyy visits Canada to seek more military support for Ukraine against Russia
+
+Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.
+
+Date: 2026-09-10
 
 ### Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says
 
@@ -20,54 +68,7 @@ Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their 
 
 Date: 2026-09-08
 
-### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
-
-Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
-
-Date: 2026-09-08
-
-### News Wrap: Tropical Storm Marie brings dangerous surf to California coast
-
-In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.
-
-Date: 2026-09-07
-
-### Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident
-
-Russia's Foreign Ministry has announced the closure of the German consulate in St. Petersburg, a move that reflects the ongoing tensions between the two countries.
-
-Date: 2026-09-07
-
-### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
-
-U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).
-
-Date: 2026-09-05
-
-### Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances
-
-As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.
-
-Date: 2026-09-05
-
-### U.S. Diesel Prices Set New High
-
-Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.
-
-Date: 2026-09-04
-
-### After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace
-
-Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.
-
-Date: 2026-09-04
-
-### Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks
-
-Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.
-
-Date: 2026-09-04
-
 ## Sources
 
-No public source links.
+- [Lithuania prepares for war, reinforcing its border against Russian tanks](https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com) — 2026-09-14T01:23:18.000Z
+- [Daily fragment: Aeroflot Flight 821](https://en.wikipedia.org/wiki/Aeroflot_Flight_821?utm_source=lootura.com) — 2026-09-14T04:00:00.000Z

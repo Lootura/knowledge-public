@@ -8,21 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "Apple (company)",
     "Apple"
   ],
   "changes": [
     {
-      "title": "Apple announces long-awaited foldable phone, iPhone Duo",
-      "summary": "Apple’s first foldable phone capped a day of product announcements that also included the new iPhone 18 Pro and Pro Max.",
-      "date": "2026-09-09"
+      "title": "Apple’s new phones are here",
+      "summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage .) This week, I've been devouring every iPhone Duo video I can find, clicking on the wonderful.",
+      "date": "2026-09-13"
     },
     {
-      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-      "summary": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years. (Image credit: Benjamin Fanjoy).",
-      "date": "2026-09-09"
+      "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
+      "summary": "OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+      "summary": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neura.",
+      "date": "2026-09-12"
     },
     {
       "title": "Discovered by Atlas",
@@ -32,23 +37,11 @@
   ],
   "sources": [
     {
-      "title": "Here are the biggest announcements from today's Apple event",
-      "url": "https://www.cbsnews.com/news/apple-event-today-foldable-iphone/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T21:45:15.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Apple announces long-awaited foldable phone, iPhone Duo",
-      "url": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T17:18:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T18:39:57.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "macOS 27 is available now",
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T17:10:13.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/milky-way/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/milky-way/index.json",
   "description": "Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T13:03:52.128Z",
+  "updatedAt": "2026-09-12T14:59:23.432Z",
   "aliases": [
     "Celestial River",
     "Local Galaxy",
@@ -19,6 +19,11 @@
     "The Milky Way Galaxy"
   ],
   "changes": [
+    {
+      "title": "Why are the stars around our galaxy's black hole missing their companions?",
+      "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, it may also destroy their stellar companions. The paper outlin.",
+      "date": "2026-09-12"
+    },
     {
       "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
       "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",

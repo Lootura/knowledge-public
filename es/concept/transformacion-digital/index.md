@@ -3,10 +3,16 @@
 > Sigue la actividad de Transformación digital en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-08-11T16:55:29.186Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/concept/transformacion-digital
 
 ## Cambios recientes
+
+### Óscar López defiende que su Ejecutivo «está gobernando» a la IA
+
+El ministro para la Transformación Digital y de la Función Pública, Óscar López, ha defendido este domingo que España «está gobernando» a la Inteligencia.
+
+Date: 2026-09-13
 
 ### Red.es abre la convocatoria para elegir las empresas del Pabellón de España en el MWC 2027
 

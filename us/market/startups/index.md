@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-No public source links.
+- [NSF moves to overhaul funding approach in line with White House priorities](https://www.nature.com/articles/d41586-026-02892-9?utm_source=lootura.com) — 2026-09-14T17:40:47.614Z

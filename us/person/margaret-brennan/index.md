@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### Utah Gov. Spencer Cox says government needs to "protect the public" on AI
+
+Utah's Republican Gov. Spencer Cox told "Face the Nation with Margaret Brennan" that the government needs to come together to "protect the public" on AI, saying "government doesn't get this right often either, but we should be at the table working together, and that's what we've done in Utah.".
+
+Date: 2026-09-13
 
 ### "Face the Nation with Margaret Brennan" guests for Aug. 16, 2026
 

@@ -3,10 +3,40 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Saudi Arabia's critical pipeline remains shut as oil prices soar
+
+The East-West pipeline in Saudi Arabia remains shut after a drone attack last week, a major hit to the supply of oil flowing out of the country. Saudi Arabia blamed the attack on Iranian-backed militias in Iraq. Threadneedle founder Ann Berry joins to discuss.
+
+Date: 2026-09-14
+
+### Oil Prices Jump on Energy Supply Worries
+
+Traders sold oil futures on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.
+
+Date: 2026-09-14
+
+### Saudi Arabia has few options as it faces mounting threats from Iran and its allies
+
+A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.
+
+Date: 2026-09-12
+
+### Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.
+
+A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.
+
+Date: 2026-09-12
+
+### Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks
+
+The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.
+
+Date: 2026-09-12
 
 ### Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes
 
@@ -38,36 +68,7 @@ Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group
 
 Date: 2026-09-08
 
-### Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens
-
-The latest escalation threatens to drag Saudi Arabia and the Iran-backed Houthi militia back into a full-blown war.
-
-Date: 2026-09-08
-
-### Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others
-
-The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.
-
-Date: 2026-08-09
-
-### Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
-
-Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons. (Image credit: Vahid Salemi).
-
-Date: 2026-08-09
-
-### What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz
-
-There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports that it was close, no deal was announced between the United St.
-
-Date: 2026-08-07
-
-### Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact
-
-The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes](https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html?utm_source=lootura.com) — 2026-09-09T18:04:07.000Z
+- [Saudi Arabia's critical pipeline remains shut as oil prices soar](https://www.cbsnews.com/video/saudi-arabias-critical-pipeline-remains-shut-as-oil-prices-soar/?utm_source=lootura.com) — 2026-09-14T16:26:35.000Z
+- [Oil Prices Jump on Energy Supply Worries](https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html?utm_source=lootura.com) — 2026-09-14T09:21:08.000Z

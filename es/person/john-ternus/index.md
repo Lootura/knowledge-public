@@ -3,10 +3,16 @@
 > Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/person/john-ternus
 
 ## Cambios recientes
+
+### Los principales competidores del nuevo iPhone Duo
+
+Cumpliendo con las previsiones, esta semana el nuevo CEO de Apple, John Ternus, embarcaba a la compañía en una nueva línea de producto, los móviles plegables. En su tradicional evento de presentación de novedades de septiembre, Ternus anunció el iPhone Duo, un terminal que llega para competir con marcas que ya llevan a.
+
+Date: 2026-09-12
 
 ### Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros
 
@@ -52,4 +58,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros](https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com) — 2026-09-09T20:17:06.000Z
+No public source links.

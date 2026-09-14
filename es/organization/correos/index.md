@@ -3,10 +3,16 @@
 > Sigue la actividad de Correos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-12T14:59:00.939Z
 - Canonical: https://atlas.lootura.com/es/organization/correos
 
 ## Cambios recientes
+
+### De Indra a Correos y la ‘ley de nietos’: cuatro años del PP y Vox renovando la teoría de la trampa electoral
+
+El Palacio de Congresos de Ifema, en Madrid, estalló en un aplauso. Isabel Díaz Ayuso había vuelto a demostrar su habilidad para ponerles las pilas a los suyos. Era 26 de mayo de 2023, último día de la campaña de las elecciones municipales y autonómicas . Y la presidenta de la Comunidad de Madrid y candidata del PP dej.
+
+Date: 2026-09-12
 
 ### Un individuo propina a otro a pleno día una paliza en una plaza en el centro de Alicante
 
@@ -59,12 +65,6 @@ Date: 2026-07-10
 ### El PP, sobre la imputación del ex jefe de gabinete de Sánchez: «Nadie limpio cerca»
 
 El secretario general del PP, Miguel Tellado , ha afirmado este viernes que, tras la imputación en el caso Leire de Juan Manuel Serrano , exjefe de gabinete de Pedro Sánchez en el PSOE y expresidente de la empresa pública Correos, ya «no queda nadie limpio cerca» del presidente del Gobierno , Pedro Sánchez. Así lo ha a.
-
-Date: 2026-07-10
-
-### El juez imputa al ex jefe de Gabinete de Sánchez en el caso de las cloacas
-
-El juez Santiago Pedraz cita como investigado en el caso Leire a Juan Manuel Serrano, el jefe de Gabinete de Pedro Sánchez hasta 2018 y presidente de Correos hasta 2023 y autoriza el volcado de su teléfono móvil, según han solicitado la Fiscalía Anticorrupción y la Guardia Civil. El instructor no autoriza, en cambio, e.
 
 Date: 2026-07-10
 

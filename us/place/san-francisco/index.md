@@ -3,10 +3,16 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
+
+### Burning Man at 40: the once anarchic desert festival faces a midlife crisis
+
+The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the chartere.
+
+Date: 2026-09-13
 
 ### Robotaxis enter their villain era
 

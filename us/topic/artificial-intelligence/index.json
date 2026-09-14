@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "AI",
     "AI science",
@@ -28,63 +28,99 @@
   ],
   "changes": [
     {
-      "title": "Humans \"close to being outsmarted\" by superintelligence, AI expert says",
-      "summary": "Rapid developments in AI are prompting concerns about \"superintelligence.\" Here's why some experts are worried.",
-      "date": "2026-09-09"
+      "title": "Tech stocks slump after AI execs call for industry slowdown",
+      "summary": "The Nasdaq slid 1% on Monday after AI company executives called for a slowdown in developing the technology.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Put patients at the centre of medical AI governance",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8 Put patients at the centre of medical AI governance.",
-      "date": "2026-09-08"
+      "title": "Trump dismisses push for AI guardrails despite warnings from tech leaders",
+      "summary": "President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a \"SMART PRESIDENT.\".",
+      "date": "2026-09-14"
     },
     {
-      "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
-      "summary": "One China-linked group targets academic, medical and military AI research, the report says.",
-      "date": "2026-09-08"
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "date": "2026-09-14"
     },
     {
-      "title": "The Work Now Within Reach",
-      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "date": "2026-09-08"
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Innocent-looking AI reasoning can make bad behavior harder to catch",
-      "summary": "AI safety monitoring can fail when an AI’s reasoning is the main clue that something has gone wrong, new research suggests.",
-      "date": "2026-09-08"
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).",
+      "date": "2026-09-14"
     },
     {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project ti.",
-      "date": "2026-09-08"
+      "title": "Vance says Americans should not be scared of AI as calls for limits grow",
+      "summary": "Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictiv.",
-      "date": "2026-09-08"
+      "title": "What Is Actually New About the AI Revolution?",
+      "summary": "—J Studios—Getty Images In just a few years, AI has gone from a specialist topic to something everyone has opinions on. It has been praised as miraculous, condemned as dangerous, and debated everywhere from boardrooms to dinner tables. But between these poles of euphoria and dread lies the reality most of us now face:.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
-      "summary": "Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9 Claude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.",
-      "date": "2026-09-07"
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+      "date": "2026-09-13"
     },
     {
-      "title": "The listening gap is real—how AI might help teachers bridge it",
-      "summary": "A Grade 4 teacher showed her class a video of children who walk miles barefoot to school. A hand shot up: \"Why are you showing us AI slop? No way this is real.\".",
-      "date": "2026-09-07"
+      "title": "Utah Gov. Spencer Cox says government needs to \"protect the public\" on AI",
+      "summary": "Utah's Republican Gov. Spencer Cox told \"Face the Nation with Margaret Brennan\" that the government needs to come together to \"protect the public\" on AI, saying \"government doesn't get this right often either, but we should be at the table working together, and that's what we've done in Utah.\".",
+      "date": "2026-09-13"
     },
     {
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).",
-      "date": "2026-09-05"
+      "title": "Anthropic CEO Dario Amodei says U.S.-China AI race poses \"toughest dilemma\"",
+      "summary": "In an exclusive interview with CBS News' Jo Ling Kent, Anthropic CEO Dario Amodei called on the tech industry to slow the development of AI. But, he acknowledged the \"toughest dilemma\" is coming to an international agreement amid the development race between the U.S.and China.",
+      "date": "2026-09-13"
     }
   ],
   "sources": [
     {
-      "title": "Humans \"close to being outsmarted\" by superintelligence, AI expert says",
-      "url": "https://www.cbsnews.com/news/ai-superintelligence-anthropic-jacob-coxon/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T21:47:47.000Z",
+      "title": "Tech stocks slump after AI execs call for industry slowdown",
+      "url": "https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:02:49.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump dismisses push for AI guardrails despite warnings from tech leaders",
+      "url": "https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T17:06:18.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "sourceId": "lootura-us-google-ai"
+    },
+    {
+      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+      "url": "https://www.nature.com/articles/d41586-026-02893-8?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T17:40:47.614Z",
+      "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T10:09:08.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "WATCH: Vance says Americans should not be scared of AI as calls for limits grow",
+      "url": "https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T15:06:18.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "What Is Actually New About the AI Revolution?",
+      "url": "https://time.com/article/2026/09/14/what-is-actually-new-about-the-ai-revolution-/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T14:45:37.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 8
 }

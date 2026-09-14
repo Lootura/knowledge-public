@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/prime-video/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/prime-video/index.json",
   "description": "Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-09-11T02:58:00.569Z",
   "aliases": [
     "Amazon Instant Video",
     "Amazon Unbox",
@@ -16,6 +16,11 @@
     "Amazon Video On Demand"
   ],
   "changes": [
+    {
+      "title": "Ester Expósito, contra los bulos y denuncia la falta de regulación de la IA:«Me da terror»",
+      "summary": "La nueva película de Ester Expósito se estrenó hace solo dos días y ya es uno de los contenidos más vistos de Prime Video. La actriz protagoniza, junto a Hugo Diego García, 'Enfrentados: Marfil', la adaptación de la dilogía de Mercedes Ron, autora de la saga 'Culpables', que tantos éxitos le ha brindado a la plataforma.",
+      "date": "2026-09-10"
+    },
     {
       "title": "No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson",
       "summary": "Tras varias temporadas caracterizadas por una creciente tensión en la Tierra Media , la situación pretende alcanzar su punto álgido en la tercera temporada de Los Anillos del Poder . Para empezar, la temporada inaugural en Prime Video ahondó en las etapas previas al regreso de Sauron . La siguiente mostró cómo creó los.",
@@ -60,11 +65,6 @@
       "title": "'Supergirl' la semana que viene en Prime Video en digital: precio y packs",
       "summary": "Todavía tienen mucho que decir , pero por el momento y tras tan solo 2 películas, James Gunn y Peter Safran no ha sido los tan solicitados salvadores del universo cinematográfico de DC que se esperaba, aunque su saldo por ahora es neutro. Y es que si bien la Superman de 2025 llegó a convertirse en la película del Hombr.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’",
-      "summary": "Amazon MGM Studios y Henry Cavill siguen firmes con su intención de adaptar el universo Wharhammer 40k al mundo del cine y las series. Según reporta Variety, el estudio y el actor se encuentran a la cabeza de un nuevo proyecto de animación basado en la franquicia para Prime Video. Pese a que todavía no se han brindado.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [],

@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies
+
+The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.
+
+Date: 2026-09-14
+
+### Sweden's election could mark major milestone for Europe's populist right
+
+Once shunned over its extremist roots, the Sweden Democrats could enter government for the first time as voters weigh immigration, crime and Sweden's political transformation.
+
+Date: 2026-09-11
+
+### How to help your garden recover from a heat wave
+
+UK gardens took a battering this summer as a heat dome settled over western Europe, and much of the green and pleasant land turned a dusty beige.
+
+Date: 2026-09-10
 
 ### Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says
 
@@ -50,24 +68,6 @@ Germany's far-right AfD party won a major parliamentary election victory in the 
 
 Date: 2026-09-07
 
-### Funding milestone detected
-
-The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment, wanting to reassure Greenland after U.S. President Donald Trump's threats to take control of the island.
-
-Date: 2026-09-07
-
-### War drama Pressure depicts D‑day's weather forecast—what we found when we recreated the challenge using modern systems
-
-Meteorologist James Stagg gave what many regard as the most important weather forecast in history in June 1944. The fate of more than 150,000 Allied troops preparing to invade the Normandy beaches on D-Day and the future of the war in Europe depended on Stagg and his forecasting teams. Get the forecast wrong and an alr.
-
-Date: 2026-09-07
-
-### Super-precise optical clocks in four nations tick in harmony
-
-Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.
-
-Date: 2026-09-05
-
 ## Sources
 
-No public source links.
+- [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html?utm_source=lootura.com) — 2026-09-14T16:34:19.000Z

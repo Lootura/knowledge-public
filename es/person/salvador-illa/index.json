@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-10T03:02:25.927Z",
+  "updatedAt": "2026-09-11T02:58:00.569Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Aliança se dispara como segunda fuerza en Cataluña: el partido ultra lideraría la mayoría independentista mientras que Salvador Illa cae 11 escaños",
+      "summary": "Las derechas capitalizan el descontento social por la situación económica, la inmigración y la inseguridad, y crecen con Aliança y Vox. Junts sigue en caída libre y ERC se estanca imposibilitando el tripartito Leer.",
+      "date": "2026-09-10"
+    },
     {
       "title": "Una dimisión inoportuna",
       "summary": "El fichaje de José Luis Trapero como director general de la Policia fue una baza electoral a la que recurrió Salvador Illa en la campaña catalana. De hecho, el actual president lo anunció en un debate de candidatos en TV3 en mayo del 2024. Tal era la importancia y el carisma del policía que dirigió con suma habilidad a.",
@@ -58,20 +63,8 @@
       "title": "Jaume Giró, la última víctima",
       "summary": "La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno de investidura de Salvador Illa. Estaba deambulando por los alrededores del Parlament porque me tienen vetado y lo vi llegar antes de la sesión. Disparé a bocajarro: —Jaume, no he visto a nadie que haya jugado tan mal sus cartas —le dije con la.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura",
-      "summary": "Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Una dimisión inoportuna",
-      "url": "https://www.lavanguardia.com/opinion/20260910/11631346/dimision-inoportuna.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:05:00.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-12T14:59:00.939Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### El sorprendente silencio del Gobierno mientras Marruecos amenaza a España y sólo responde el PP
+
+José Manuel Albares estuvo el miércoles en Bruselas, donde atendió a los medios tras la desclasificación de los documentos sobre Ceuta para reiterar de que no se avisó de la...
+
+Date: 2026-09-12
 
 ### Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla
 
@@ -59,12 +65,6 @@ Date: 2026-08-12
 ### La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno
 
 Del diálogo abierto con Rabat tras la entrada de 80.000 personas en Ceuta, el ministro de Asuntos Exteriores, José Manuel Albares, ensalzó ayer que ambos países están...
-
-Date: 2026-08-11
-
-### Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península
-
-“Hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ha sentenciado José Manuel Albares desde Ceuta, tras reunirse con el presidente de la Ciudad Autónoma, Juan Jesús Vivas. El ministro de Asuntos Exteriores se ha hecho eco así este martes de la que ha calificado de “voluntad expresa”.
 
 Date: 2026-08-11
 

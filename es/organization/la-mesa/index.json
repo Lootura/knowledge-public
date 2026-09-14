@@ -42,19 +42,6 @@
       "date": "2026-09-02"
     }
   ],
-  "sources": [
-    {
-      "title": "Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: \"El despacho en el bolsillo\"",
-      "url": "https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:38:06.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
-      "url": "https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:57:07.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

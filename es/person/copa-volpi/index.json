@@ -1,0 +1,27 @@
+{
+  "id": "es-copa-volpi",
+  "name": "Copa Volpi",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/copa-volpi",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/copa-volpi",
+  "markdownUrl": "https://atlas.lootura.com/es/person/copa-volpi/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/copa-volpi/index.json",
+  "description": "Sigue la actividad de Copa Volpi en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-13T03:06:16.499Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "John Malkovich gana la Copa Volpi a mejor actor por su papel de agente desencantado de la CIA",
+      "summary": "John Malkovich era el firme candidato a ganar la Copa Volpi a mejor actor en la Mostra de Venecia por Wilde Horse Nine , y así ha sucedido durante la ceremonia de entrega que está teniendo lugar este sábado en el Palazzo del Cinema del Lido. El actor está rodando en Montreal por lo que no se ha vuelto a desplazar a Ven.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Copa Volpi first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-12"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

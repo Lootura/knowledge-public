@@ -3,10 +3,46 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia
+
+La defensa del expresidente del Gobierno advierte al juez Calama de que no tiene "patente de corso" para indagar de forma prospectiva en cualquier actuación personal o profesional de Zapatero La causa contra Zapatero cuestiona sus negocios privados en el extranjero La defensa de José Luis Rodríguez Zapatero ha recurrid.
+
+Date: 2026-09-14
+
+### Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha pedido a la Audiencia Nacional que extraiga del procedimiento en el que se le investiga un informe de la UDEF sobre su mediación ante el Gobierno de Bolivia , pues es consecuencia de una intromisión ilegítima en su intimidad y una investigación general sobre.
+
+Date: 2026-09-14
+
+### Las declaraciones de la cúpula de Plus Ultra siembran la sospecha de que Zapatero cobró más comisiones tras el rescate
+
+Las declaraciones que prestaron esta semana como investigados en la Audiencia Nacional el expresidente de Plus Ultra, Julio Martínez Sola, y el exconsejero delegado de la aerolínea de capital venezolano rescatada por el Gobierno en marzo de 2021, Roberto Roselli, sembraron la sospecha de que el expresidente José Luis R.
+
+Date: 2026-09-13
+
+### Zapatero viajó a Bolivia en 2024 junto a los hermanos venezolanos que le pagaron a él y a sus hijas
+
+Los empresarios venezolanos Domingo y Guillermo Amaro Chacón han canalizado más de 1,1 millones de euros hacia sociedades vinculadas al entorno de José Luis Rodríguez Zapatero, según el informe de la Unidad de Delincuencia Económica y Fiscal (UDEF) al que ha tenido acceso OKDIARIO. El propio expresidente los ha definid.
+
+Date: 2026-09-11
+
+### Zapatero fracasa en la búsqueda de los certificados de las joyas en Arabia, Emiratos y Qatar y pedirá al juez Calama que los consiga él
+
+José Luis Rodríguez Zapatero pedirá al juez José Luis Calama que solicite el documento sobre el origen de las joyas intervenidas en su despacho a Qatar. Fuentes consultadas aseguran que el ex presidente del Gobierno ha fracasado en su intento de obtener esta documentación con la que trataba de zafarse del delito de fra.
+
+Date: 2026-09-10
+
+### Zapatero traslada al juez Calama la carga de la prueba de las joyas
+
+José Luis Rodríguez Zapatero, incapaz de certificar el origen de las joyas incautadas en su despacho, pretende ganar tiempo y, según ha podido saber OKDIARIO, va a pedir al juez Calama que encargue una comisión rogatoria para obtener información relevante en Qatar sobre las mismas. O sea, patada adelante y a seguir. Di.
+
+Date: 2026-09-10
 
 ### El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate
 
@@ -32,42 +68,7 @@ Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodr
 
 Date: 2026-08-13
 
-### Montero se reunió con Zapatero tres días antes del cese de Ábalos
-
-La interlocución fluida que mantuvo el expresidente del Gobierno José Luis Rodríguez Zapatero con la ministra de Hacienda, María Jesús Montero, en su despacho del ministerio, y la complicidad mostrada por su secretaria Gertrudis Alcázar con su departamento, tuvo un momento crucial a partir del año 2021, coincidiendo co.
-
-Date: 2026-08-04
-
-### La Junta de Andalucía insiste en pedir explicaciones a Montero sobre Zapatero
-
-La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Gobierno andaluz, Carolina España, ha insistido este lunes en pedir explicaciones a la secretaria general del PSOE-A, María Jesús Montero , sobre su relación con el expresidente del Gobierno, José Luis Rodríguez Zapatero, i mput.
-
-Date: 2026-08-03
-
-### Zapatero pide que se pongan límites a la UDEF a la hora de investigar sus cuentas
-
-El expresidente José Luis Rodríguez Zapatero ha pedido al juez que ponga "límites" a la Policía a la hora de recabar información de varias cuentas bancarias, al advertir de que acceder al "universo" de todas sus operaciones económicas puede derivar en una investigación prospectiva con vulneración de derechos . Por ello.
-
-Date: 2026-08-03
-
-### Correos electrónicos de Gertrudis revelan hasta ocho reuniones entre Zapatero y Montero
-
-La docena de correos electrónicos a la que ha tenido acceso en exclusiva ABC recoge una interlocución hasta ahora desconocida entre el expresidente del Gobierno José Luis Rodríguez Zapatero y la exministra de Hacienda María Jesús Montero, responsable orgánica del ente público que canalizó el rescate a la aerolínea Plus.
-
-Date: 2026-08-03
-
-### El juez Calama cita a declarar a los directivos de Plus Ultra que implicaron a Zapatero en el rescate
-
-El magistrado José Luis Calama, instructor del caso Plus Ultra , da un nuevo paso en la investigación abierta contra el expresidente José Luis Rodríguez Zapatero. El juez ha decidido interrogar los próximos 7 y 8 de septiembre a Julio Martínez Sola, presidente de la aerolínea, y a su consejero delegado, Roberto Roselli.
-
-Date: 2026-07-24
-
-### Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”
-
-José Luis Rodríguez Zapatero anunció, tras ser imputado por un presunto delito de tráfico de influencias y ser registrado su despacho el pasado 19 de mayo, que pronto iba a dar explicaciones a los ciudadanos. No lo hizo y cuando, el 17 de junio, acudió a declarar ante el juez José Luis Calama en la Audiencia Nacional,.
-
-Date: 2026-07-24
-
 ## Fuentes
 
-No public source links.
+- [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html?utm_source=lootura.com) — 2026-09-14T16:55:25.000Z
+- [Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia](https://theobjective.com/espana/tribunales/2026-09-14/zapatero-udef-informe-bolivia/?utm_source=lootura.com) — 2026-09-14T17:21:08.000Z

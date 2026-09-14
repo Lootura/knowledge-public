@@ -1,0 +1,47 @@
+{
+  "id": "es-magdalena-andersson",
+  "name": "Magdalena Andersson",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/magdalena-andersson",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/magdalena-andersson",
+  "markdownUrl": "https://atlas.lootura.com/es/person/magdalena-andersson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/magdalena-andersson/index.json",
+  "description": "Sigue la actividad de Magdalena Andersson en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "aliases": [
+    "Eva Magdalena Andersson"
+  ],
+  "changes": [
+    {
+      "title": "Los socialdemócratas ganan en Suecia y el bloque de la izquierda se impone por la mínima, con el 94% escrutado",
+      "summary": "El Partido Socialdemócrata ha ganado las elecciones parlamentarias celebradas este domingo en Suecia y el bloque de la izquierda se impone con una mínima ventaja sobre el de la derecha, con el 94% del voto escrutado. La formación liderada por la ex primera ministra Magdalena Andersson suma en torno al 28% de los apoyos.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Suecia gira hacia una izquierda más dura con la inmigración y frena a la ultraderecha",
+      "summary": "La socialdemócrata Magdalena Andersson se impone en las elecciones y podría gobernar con una coalición en minoría.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Magdalena Andersson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Suecia gira hacia una izquierda más dura con la inmigración y frena a la ultraderecha",
+      "url": "https://www.elcorreo.com/internacional/europa/socialdemocrata-andersson-gana-elecciones-suecia-20260913211308-ntrc_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-13T19:13:09.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Los socialdemócratas ganan en Suecia y el bloque de la izquierda se impone por la mínima, con el 94% escrutado",
+      "url": "https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T01:59:00.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

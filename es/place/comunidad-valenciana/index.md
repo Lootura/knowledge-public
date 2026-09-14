@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-12T14:59:00.939Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia
+
+Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barbastro y de Huesca , han detenido en Barcelona a cuatro hombres acusados de 72 robos de material informático, valorado en unos 700.000 euros , en empresas de Cataluña, Aragón y Comunidad Valenciana. La policía catalana ha informado este sábado.
+
+Date: 2026-09-12
 
 ### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
 
@@ -59,12 +65,6 @@ Date: 2026-08-10
 ### El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península
 
 El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.
-
-Date: 2026-08-09
-
-### Los caballos también disfrutan
-
-N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradiciones de Valencia y la Comunitat Valenciana. Y menos en un mes en el que triunfan las fiestas de diferentes pueblos y localidades. Desde la Romería del Santísimo Cristo de la Salud de El Palmar -que ya destacamos la semana pasada- hasta la fiest.
 
 Date: 2026-08-09
 

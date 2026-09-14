@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T20:48:53.384Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### García-Page advierte de que la crisis de Ceuta puede convertirse en la “segunda gran mentira de la democracia” tras el 11-M
+
+El presidente de Castilla-La Mancha, Emiliano García-Page, ha calificado la crisis de Ceuta como “uno de los grandes desastres de gestión” y ha exigido “espabilar” al Gobierno para que no sea la “segunda gran mentira de la democracia, como la autoría del 11-M ”, en referencia a la tesis del PP que señaló a ETA como com.
+
+Date: 2026-09-10
 
 ### Así justifica el Gobierno de Castilla-La Mancha incorporar Toledo a la emergencia nacional por incendios
 
@@ -59,12 +65,6 @@ Date: 2026-07-19
 ### Discovered by Atlas
 
 Emiliano García-Page first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-18
-
-### García Page pide extremar las precauciones por el incendio en La Mierla y ya avisa: "Nos quedan muchas horas, probablemente días"
-
-El incendio declarado el jueves en La Mierla , en la provincia de Guadalajara, no da tregua. Lo que comenzó arrasando 3.483 hectáreas ha escalado este sábado hasta las 5.400, con 12 municipios desalojados y cerca de 600 personas evacuadas. La consejera de Desarrollo Sostenible, Mercedes Gómez , confirmó desde el puesto.
 
 Date: 2026-07-18
 

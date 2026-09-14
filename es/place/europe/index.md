@@ -64,4 +64,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»](https://theobjective.com/espana/politica/2026-09-09/sanchez-cni-crisis-ceuta/?utm_source=lootura.com) — 2026-09-09T20:29:57.000Z
+No public source links.

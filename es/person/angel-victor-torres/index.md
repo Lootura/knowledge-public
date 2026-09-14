@@ -3,10 +3,28 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### Al menos 5.300 inmigrantes regresan a Marruecos y casi cien renuncian al asilo
+
+Más de 5.300 inmigrantes han vuelto voluntariamente a Marruecos desde el pasado 10 de agosto y casi un centenar han renunciado a la petición de asilo en España, ha asegurado este domingo el ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres . «Ya tenemos personas cuyos expedientes se han termin.
+
+Date: 2026-09-13
+
+### Torres pide al Supremo «los mismos derechos» para quienes se acojan a la 'ley de nietos'
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha advertido que sería «inconcebible» que hubiese «españoles con menos.
+
+Date: 2026-09-10
+
+### Torres destaca que la asistencia escolar en Ceuta subió al 81% este jueves
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha afirmado que la asistencia escolar en Ceuta subió este jueves al 81 % , lo que ha calificado como un «buen dato», mejor que el del miércoles. «He vuelto, en el día de hoy, a mantener nuevo contacto con el presidente de Ceuta, Juan Jesús.
+
+Date: 2026-09-10
 
 ### Primer día de clase en Ceuta tras la invasión: el 30% de los alumnos no asiste por inseguridad
 
@@ -47,12 +65,6 @@ Date: 2026-08-10
 ### Ángel Víctor Torres eleva a 80.000 los migrantes que entraron en Ceuta los días 30 y 31 de julio
 
 El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado en cerca de 80.000 las personas que cruzaron a Ceuta desde Marruecos los días 30 y 31 de julio. Asimismo, ha anunciado un refuerzo de recursos para atender a los alrededor de 1.400 menores ya documentados, con la reunificación f.
-
-Date: 2026-08-10
-
-### El Gobierno eleva ahora a 80.000 los inmigrantes que entraron en Ceuta: 30.000 más de los que dijo tras la invasión
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado este lunes, después de reunirse con el presidente de Ceuta, Juan Jesús Vivas , en 80.000 los inmigrantes marroquíes que llegaron a Ceuta durante la invasión que tuvo su punto masivo de entrada el 30 de julio. Torres ha hablado d.
 
 Date: 2026-08-10
 

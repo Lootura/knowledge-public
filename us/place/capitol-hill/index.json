@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-09-13T22:06:13.700Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
+      "summary": "Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a \"Trump Dividend\" if voters keep the GOP in power on Capitol Hill.",
+      "date": "2026-09-13"
+    },
     {
       "title": "What to watch in New Hampshire tonight: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
@@ -58,11 +63,6 @@
       "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Hegseth says Iran war has cost $37.5B so far and Pentagon needs $67B to restock arms",
-      "summary": "President Trump's top military advisors were on Capitol Hill to make the case for the war in Iran, and additional money to fund the Pentagon. Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine argued for an additional $67 billion, what Hegseth called an urgent and necessary injection of funds. N.",
-      "date": "2026-07-21"
     }
   ],
   "sources": [],

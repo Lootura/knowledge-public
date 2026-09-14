@@ -22,4 +22,4 @@ Date: 2026-09-09
 
 ## Sources
 
-- [Trump gave $45,000 gift to Natalie Harp, 2 other aides](https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com) — 2026-09-09T17:56:08.000Z
+No public source links.

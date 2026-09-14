@@ -3,71 +3,71 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
 
-### What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?
+### Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
 
-OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.
+Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.
 
-Date: 2026-09-08
-
-### Drama swirls around OpenAI’s legendary mathematical milestone
-
-OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an i.
-
-Date: 2026-09-08
-
-### Rogue OpenAI agents hijacked German website, making more than 15,000 edits
-
-A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.
-
-Date: 2026-09-04
-
-### How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face
-
-A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.
-
-Date: 2026-09-04
+Date: 2026-09-13
 
 ### Developer ecosystem expanded
 
-Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI "civilizations." Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.
+Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.
 
-Date: 2026-09-01
+Date: 2026-09-13
 
-### OpenAI is losing its second executive this week
+### Trump and Mike Johnson think the AI industry is overreacting
 
-Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the "coming weeks" to "pursue other opportunities," she said in a team note posted to LinkedIn . Dali Rajic, president and COO of Wiz, will be taking over t.
+Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.
 
-Date: 2026-08-13
+Date: 2026-09-13
 
-### OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+### Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz
 
-OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.
 
-Date: 2026-08-10
+Date: 2026-09-12
+
+### Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO
+
+Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag. (Image credit: Karl Mondon).
+
+Date: 2026-09-12
+
+### OpenAI’s rogue AI tried to hack another company in May
+
+In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a " m.
+
+Date: 2026-09-12
+
+### Why are the people building the most powerful AI so worried about what it could do?
+
+As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag. (Image credit: Karl Mondon).
+
+Date: 2026-09-12
+
+### OpenAI just wants to win
+
+OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathemat.
+
+Date: 2026-09-12
 
 ### Developer ecosystem expanded
 
-Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.
+Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tuesday, accusing the company and rival developer and ChatGPT-maker OpenAI of "gambling with our lives" by racing to develop advanced AI models. He spoke with Jo Ling Kent about his decision to resign and why he feels AI could one day threate.
 
-Date: 2026-08-04
+Date: 2026-09-11
 
-### What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks
+### The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem
 
-—Samuel Boivin/NurPhoto—Getty Images People in AI safety circles often talk about "warning shots:” events that indicate more severe threats are on the horizon. Depending on who you ask, there have already been many—Bing’s misanthropic alter-ego Sydney, research showing AIs would blackmail to preserve themselves, AI’s m.
+Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.
 
-Date: 2026-08-04
-
-### Ten advances in mathematics and theoretical computer science
-
-OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
-
-Date: 2026-08-01
+Date: 2026-09-10
 
 ## Sources
 
-- [AI researcher warns companies are ignoring catastrophic risks](https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks?utm_source=lootura.com) — 2026-09-09T22:55:11.000Z
+- [NPR looked for ChatGPT's new crisis feature. It's hard to find](https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com) — 2026-09-14T09:00:00.000Z

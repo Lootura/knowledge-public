@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-perello/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-perello/index.json",
   "description": "Sigue la actividad de María Isabel Perelló Doménech en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T08:34:43.084Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [
     "Isabel Perelló",
     "Perelló"
   ],
   "changes": [
+    {
+      "title": "El Gobierno y el PSOE echan el resto en su cruzada contra los jueces",
+      "summary": "Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la \"extraordinaria gravedad\" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "La presidenta del Supremo: “No es admisible que la descalificación pública de los jueces se convierta en un instrumento de presión”",
+      "summary": "La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, ha respondido este jueves a las críticas que han suscitado entre el Gobierno y sus socios parlamentarios la reciente decisión del Tribunal Supremo de suspender el derecho al voto de los españoles que han obtenido la naci.",
+      "date": "2026-09-10"
+    },
     {
       "title": "La causa de Ceuta en la Audiencia ahonda en el choque del Gobierno con el Poder Judicial",
       "summary": "La tensión y nervios dentro del Ejecutivo y su entorno va en aumento y la crisis de Ceuta la ha hecho subir todavía más. El temor a un nuevo incendio judicial que afecte al Gobierno provocó ayer dos movimientos que fueron aplacados por la presidenta del poder judicial, Isabel Perelló, quien tuvo que reclamar el “máximo.",
@@ -50,6 +60,13 @@
       "date": "2026-09-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno y el PSOE echan el resto en su cruzada contra los jueces",
+      "url": "https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T12:54:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

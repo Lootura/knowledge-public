@@ -8,70 +8,63 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-13T03:06:35.172Z",
   "aliases": [
     "Mid East",
     "Mideast"
   ],
   "changes": [
     {
+      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+      "summary": "The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "On board a warship headed to support the war in Iran",
+      "summary": "The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
+      "summary": "The meeting, which included Iranian President Masoud Pezeshkian, voiced concern over \"deliberate attacks\" on civilian infrastructure and peaceful nuclear facilities under the U.N. atomic energy agency's safeguards.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War",
+      "summary": "A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+      "summary": "Even so, finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their own interests.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War",
+      "summary": "A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Diesel Jumps Above $6 a Gallon, Adding to Inflation Pressure",
+      "summary": "The price of U.S. diesel fuel hit to a new high over mounting fears that fighting in the Middle East could further threaten oil supplies.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+      "summary": "The news briefly pushed the price of oil to $110 a barrel over heightened fears of widening clashes in the Middle East.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "U.S. inflation accelerated last month as gas prices spiked, squeezing Americans' finances",
+      "summary": "U.S. inflation accelerated last month as gas prices spiked in the wake of renewed fighting in the Middle East, underscoring the affordability challenges that are top of mind for many voters with midterm elections now just seven weeks away.",
+      "date": "2026-09-11"
+    },
+    {
       "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
       "summary": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels.",
       "date": "2026-09-09"
-    },
-    {
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Pete Hegseth Faces Growing Criticism as War With Iran Rolls On",
-      "summary": "Defense Secretary Pete Hegseth is facing growing criticism from some Republicans, with a key senator now calling on President Donald Trump to replace him. It comes amid Hegseth’s reported plans to extend troop deployments in the Middle East, a sign that the conflict with Iran could drag into next year. Meanwhile, the w.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "The Navy’s Logistical Nightmare in the Iran War",
-      "summary": "Amid a crew morale crisis, the military has replaced the U.S.S. Abraham Lincoln in the Middle East with another aircraft carrier. Our Pentagon reporter John Ismay, a Navy veteran, explains how the challenges to supply ships in the area will most likely remain the same.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "US and Iran Trade New Strikes as the War Enters its 7th Month",
-      "summary": "The United States and Iran are exchanging new attacks across the Middle East, following days of renewed threats from both sides. CENTCOM says the U.S. struck Iranian air defense sites, radar systems and other military targets in response to Iran’s recent attacks on commercial shipping in the Strait of Hormuz. NBC’s Gar.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Thousands of U.S. service members arrive in Thailand after record stint at sea",
-      "summary": "About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Thai police crackdown on sex workers ahead of USS Lincoln’s arrival",
-      "summary": "Police in Pattaya, Thailand, are intensifying a crackdown on sex workers ahead of the arrival of the USS Lincoln after the aircraft carrier’s lengthy deployment in the Middle East. While prostitution is illegal in Thailand, sex workers often operate openly in major tourist hubs like Bangkok and Pattaya.",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "USS Washington aircraft carrier heads to Middle East to replace USS Lincoln",
-      "summary": "The USS George Washington aircraft carrier departed Vietnam last week and is headed to the Middle East to replace the USS Abraham Lincoln, according to a U.S. official.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-      "summary": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "Trump dismisses concerns from families about grim conditions aboard USS Lincoln",
-      "summary": "President Donald Trump on Friday dismissed concerns from families of service members about the grim conditions aboard the USS Abraham Lincoln, whose deployment had been overextended in the Middle East due to the Iran war.",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
-      "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T12:15:01.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

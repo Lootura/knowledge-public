@@ -3,10 +3,22 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T15:58:25.403Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
+
+Tras los acuerdos autonómicos entre PP y Vox, las relaciones entre ambas formaciones y Alberto Núñez Feijóo y Santiago Abascal se han reforzado hasta tal punto que, fuentes cercanas a ambos líderes señalan que el contacto es “permanente” en las últimas semanas con motivo de la crisis de Ceuta, donde más de 70.000 inmig.
+
+Date: 2026-09-12
+
+### Castilla y León aprueba una iniciativa de Vox para exigir a Sánchez la ruptura con Marruecos por Ceuta
+
+Castilla y León, a través del Parlamento, exige al Gobierno de Pedro Sánchez que rompa relaciones con Marruecos. Las Cortes autonómicas han aprobado este viernes una proposición no de ley (PNL) impulsada por Vox que recoge las principales medidas que ha planteado el partido de Santiago Abascal en contra de Marruecos po.
+
+Date: 2026-09-11
 
 ### Vox celebra la decisión del Supremo tras estimar su medida cautelar para frenar un posible fraude electoral
 
@@ -55,18 +67,6 @@ Date: 2026-08-13
 Vox eleva su apuesta para que Pedro Sánchez sea juzgado por un supuesto delito de traición contra la seguridad del Estado por la violación territorial de Ceuta. Fuentes de la formación de Santiago Abascal confirman a El Confidencial que el partido está dispuesto a tender su mano a diputados de distinto signo político p.
 
 Date: 2026-08-11
-
-### Feijóo amplía su ventaja sobre Sánchez y sigue siendo el líder mejor valorado
-
-Alberto Núñez Feijóo consolida su posición como el dirigente político mejor valorado de España. Según la encuesta de NC Report para LA RAZÓN, el presidente del PP obtiene una nota media de 4,4 sobre 10, casi un punto por encima de Pedro Sánchez (3,5). Santiago Abascal alcanza un 3,3, mientras que Yolanda Díaz cierra la.
-
-Date: 2026-08-10
-
-### Santiago Abascal: «Sánchez es el primer responsable de la traición de Ceuta, política y también penalmente»
-
-El líder de Vox cree que Marruecos tiene «sometido» al presidente del Gobierno y que en esta invasión «todo ha salido según lo diseñado desde hace ...
-
-Date: 2026-08-09
 
 ## Fuentes
 

@@ -3,10 +3,34 @@
 > Sigue la actividad de Sira Rego en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/person/sira-rego
 
 ## Cambios recientes
+
+### Sira Rego cifra en 2.100 los niños inmigrantes en Ceuta y pide ayuda a las autonomías
+
+La ministra de Juventud e Infancia, Sira Rego , ha cifrado este sábado en 2.100 los menores migrantes filiados en el sistema de acogida en Ceuta , si bien ha detallado que 700 son niñas «muchas de ellas de muy corta edad» y ha pedido «responsabilidad política» a las autonomías para trasladar a los menores a la Penínsul.
+
+Date: 2026-09-12
+
+### Rego acusa a Moreno de «negarse» a acoger a menores inmigrantes de Ceuta en Andalucía
+
+La ministra de Juventud e Infancia, Sira Rego , ha recriminado este sábado al presidente de la Junta de Andalucía, Juanma Moreno , de romper un «acuerdo bilateral» con la ciudad de Ceuta al «negarse a acoger menores en la comunidad andaluza tras la crisis migratoria en vez de « apoyar las soluciones para aliviar la sit.
+
+Date: 2026-09-12
+
+### Ya son 30 los procedimientos abiertos por agresiones sexuales a mujeres en Ceuta
+
+La fiscal general del Estado, Teresa Peramato , y la ministra de Juventud e Infancia, Sira Rego , han coincidido en la urgencia de agilizar el traslado a la península de los menores migrantes que permanecen en Ceuta desde la entrada masiva registrada los días 30 y 31 de julio. En un encuentro celebrado este viernes en.
+
+Date: 2026-09-11
+
+### Fiscalía y Gobierno agilizarán el traslado de menores de Ceuta ante el aumento de agresiones
+
+La fiscal general del Estado, Teresa Peramato , y la ministra de Juventud e Infancia, Sira Rego , han coincidido en la urgencia de agilizar el traslado a la península de los menores migrantes que permanecen en Ceuta desde la entrada masiva registrada los días 30 y 31 de julio. En un encuentro celebrado este viernes en.
+
+Date: 2026-09-11
 
 ### La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península
 
@@ -43,30 +67,6 @@ Date: 2026-08-13
 La ministra de Juventud e Infancia, Sira Rego , ha anunciado que, tras el verano, tiene intención de llevar al Consejo de Ministros una nueva Ley de familias acogedoras destinada a «mejorar los mecanismos» que «faciliten la acogida y la adopción» de menores. «Es una ley muy esperada que hemos trabajado junto con las as.
 
 Date: 2026-08-09
-
-### Tres comunidades se niegan a acoger a los menores procedentes de Ceuta
-
-Los vicepresidentes de Extremadura, Castilla y León y Aragón, todos de Vox, enviaron ayer sendas cartas a la ministra de Juventud e Infancia, Sira Rego, para comunicarle que no asistirán a la comisión sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y q.
-
-Date: 2026-08-09
-
-### El Gobierno pide desplegar todos los procesos de acogida de menores de Ceuta
-
-La ministra de Juventud e Infancia, Sira Rego , ha abordado este sábado con el presidente de Ceuta, Juan Jesús Vivas , la «urgencia» de desplegar «todos los procesos de acogida posibles» para atender a la infancia migrante no acompañada que ha llegado a la ciudad autónoma en los últimos días y ha señalado como «priorid.
-
-Date: 2026-08-08
-
-### Extremadura, Aragón y Castilla y León expresan al Gobierno su negativa a acoger menores migrantes de Ceuta
-
-Los vicepresidentes de VOX de Extremadura, Castilla y León y Aragón han enviado sendas cartas a la ministra de Juventud, Sira Rego, para comunicarle que no asistirán a la Comisión Sectorial de Infancia y Adolescencia del 13 de agosto, que abordará la situación de los menores migrantes en Ceuta, y que rechazan su trasla.
-
-Date: 2026-08-08
-
-### Discovered by Atlas
-
-Sira Rego first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-07
 
 ## Fuentes
 

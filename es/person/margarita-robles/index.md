@@ -70,4 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Los hombres que custodian Ceuta: así son los máximos jefes del Ejército retratados junto al Rey](https://www.elcorreo.com/politica/hombres-custodian-ceuta-maximos-jefes-ejercito-retratados-20260909135427-ntrc.html?utm_source=lootura.com) — 2026-09-09T11:54:30.000Z
+No public source links.

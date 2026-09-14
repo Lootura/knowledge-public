@@ -3,59 +3,72 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
 
-### Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones
+### Vance says Americans should not be scared of AI as calls for limits grow
 
-The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.
+Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.
 
-Date: 2026-09-05
+Date: 2026-09-14
 
-### JD Vance Says Monthslong Iran War is Not a 'War'
+### Vance to Campaign in Kansas as Democrats Target a Republican Stronghold
 
-During a White House press briefing on Thursday, Vice President JD Vance said the monthslong conflict with Iran is not a war. “I wouldn’t call it a war right now. There’s no active shooting,” he said, adding he won’t “make a promise” about when gas prices will go down. NBC’s Garrett Haake reports for TODAY.
+Vice President JD Vance is beginning a key final stretch of midterm campaigning by dropping in on the Senate race in Kansas, where Republicans were long seen as heavily favored.
 
-Date: 2026-09-04
+Date: 2026-09-14
 
-### Vance on Dan Driscoll's resignation as Army secretary, other high-profile military departures
+### Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk
 
-Vice President JD Vance on Thursday held the first briefing at the White House since Karoline Leavitt left as press secretary, where CBS News senior White House correspondent Weijia Jiang asked him about the departure of the now-former Army Secretary Dan Driscoll. Jiang joins "The Takeout" with more.
+Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.
 
-Date: 2026-09-03
+Date: 2026-09-13
 
-### Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says
+### Trump remains focus of GOP's midterm campaign as convention wraps
 
-No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.
+With November's midterms closing in, Republicans wrapped an unprecedented two-day convention in Dallas aimed at firing up the party's base. President Trump and Vice President JD Vance headlined an event that also produced some striking and unexpected moments. Liz Landers spoke with some of the attendees.
 
-Date: 2026-09-01
+Date: 2026-09-11
 
-### Army secretary leaves after clashes with Hegseth
+### Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War
 
-The Army secretary’s departure will help Defense Secretary Pete Hegseth consolidate power at the Pentagon Army Secretary Dan Driscoll, a close ally of Vice President JD Vance, resigned after mounting tensions with Hegseth, leaving the post without a Senate-confirmed leader. He had been expected to leave by the end of t.
+Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.
 
-Date: 2026-09-01
+Date: 2026-09-11
 
-### Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives
+### 7 Takeaways From Trump’s Republican Midterm Convention
 
-In private remarks, Vice President JD Vance explained why he engages with some influencers accused of antisemitism. He also urged the audience to help articulate why a strong relationship with Israel is in America’s interest.
+On the second night of the Republican gathering in Dallas, Vice President JD Vance was the headliner. But President Trump returned to center stage.
 
-Date: 2026-09-01
+Date: 2026-09-11
 
-### Discovered by Atlas
+### Vance honors Charlie Kirk on the anniversary of his death
 
-Vice president first entered the public knowledge record with source-backed evidence.
+Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.
 
-Date: 2026-08-31
+Date: 2026-09-11
 
-### Army Secretary Dan Driscoll submits resignation to White House
+### VP Vance calls out protester at GOP midterm convention
 
-Army Secretary Dan Driscoll is expected to step down in the coming days after the White House accepted his resignation, according to three U.S. officials. Driscoll has served in the role since February 2025 and has been a close associate of Vice President JD Vance. NBC News' Gordon Lubold reports.
+Vice President JD Vance paused his remarks to address a protester he says was waving a Mexican flag inside the convention center, adding, “My friend, if you love Mexico so much, get your ass over there. I’ll buy you the plane ticket.”.
 
-Date: 2026-08-31
+Date: 2026-09-11
+
+### Vance calls on battleground state Republicans to ‘nationalize’ the midterms
+
+Vice President JD Vance urged Republicans from several battleground states Thursday to “nationalize” their midterm elections this fall.
+
+Date: 2026-09-10
+
+### Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War
+
+Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.
+
+Date: 2026-09-10
 
 ## Sources
 
-No public source links.
+- [WATCH: Vance says Americans should not be scared of AI as calls for limits grow](https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com) — 2026-09-14T15:06:18.000Z
+- [Vance to Campaign in Kansas as Democrats Target a Republican Stronghold](https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com) — 2026-09-14T17:30:44.000Z

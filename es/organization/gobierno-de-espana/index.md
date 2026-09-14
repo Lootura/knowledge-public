@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T15:44:32.845Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
+
+El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.
+
+Date: 2026-09-14
 
 ### El “momento Ceuta” y la trampa que Europa se tendió a sí misma
 
@@ -62,12 +68,6 @@ El presidente de la Comisión de Interior del Senado, el popular Fernando Martí
 
 Date: 2026-08-13
 
-### Desde Rota, militares estadounidenses: «Marruecos usó la migración para evaluar cómo respondería España ante una invasión»
-
-En el enclave donde Estados Unidos mantiene una de sus principales bases militares en Europa, resumen así la percepción de quienes observan el tablero geopolítico desde primera fila: "Desde lo sucedido en la Isla del Perejil, Marruecos utiliza a sus ciudadanos como moneda de cambio con el Gobierno español en las fronte.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z

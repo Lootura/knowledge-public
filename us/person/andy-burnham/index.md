@@ -3,10 +3,16 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T14:05:13.908Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
+
+### Donald Trump doubles down on support for united Ireland
+
+US president brushes off Andy Burnham’s opposition to referendum and says he will remove Irish whiskey tariff Donald Trump has reiterated his support for Irish unification and brushed off Andy Burnham’s opposition to a referendum. “Everybody says that. Then things happen,” the US president said on Sunday of the British.
+
+Date: 2026-09-13
 
 ### Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises
 
@@ -59,12 +65,6 @@ Date: 2026-07-20
 ### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
 
 Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
-
-Date: 2026-07-20
-
-### How Andy Burnham Becomes Britain’s New Prime Minister
-
-Andy Burnham is set to become the next prime minister on Monday. Here’s how everything is expected to play out.
 
 Date: 2026-07-20
 

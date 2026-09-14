@@ -3,10 +3,34 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia
+
+Lo que podría ser una historia más de una relación nacida en Tinder, acabó provocando una alerta de seguridad en la OTAN y una investigación a un militar español. Todo comenzó a finales de 2024, según relata el diario británico The Thelegraph, cuando el oficial español estaba destinado en la base de la Alianza Atlántic.
+
+Date: 2026-09-14
+
+### La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN
+
+El romance de un comandante español de la OTAN con una ciudadana de origen ruso a la que conoció por Tinder ha sacudido a la Alianza Atlántica . El militar, que estaba destinado en la base británica de Northwood —el centro principal de mando para todas las operaciones navales de la Alianza— fue investigado por los serv.
+
+Date: 2026-09-14
+
+### Ligera ventaja para una izquierda más dura con la inmigración en ajustado recuento
+
+Si los partidos de izquierda se alinean con la OTAN, restringen la inmigración y asumen como prioridad la seguridad en los barrios tomados por las bandas criminales de origen extranjero, entonces los votantes de Suecia les devuelven el voto. Eso es lo que se desprende este domingo de los resultados de las elecciones su.
+
+Date: 2026-09-13
+
+### Polonia despliega tecnología española para compartir servicios de inteligencia con la OTAN
+
+El Ministerio de Defensa Nacional de Polonia ha seleccionado a la compañía local Teldad para desplegar una solución tecnológica desarrollada por la empresa española GMV destinada a mejorar el almacenamiento, análisis e intercambio de información de inteligencia con las fuerzas aliadas. El proyecto estará basado en el s.
+
+Date: 2026-09-11
 
 ### Putin le niega a Trump que tenga planes de atacar Europa
 
@@ -44,30 +68,7 @@ La misión báltica de la OTAN ha desplegado brevemente aviones de combate esta 
 
 Date: 2026-09-01
 
-### Dos F-18 españoles de la OTAN despegan ante alerta por dron en la frontera Rumanía-Ucrania
-
-El sistema de radares rumano detectó a las 20.30 GMT del lunes dos objetos voladores cerca de la ciudad de Vílkove.
-
-Date: 2026-09-01
-
-### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
-
-Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
-
-Date: 2026-08-14
-
-### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
-
-La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
-
-Date: 2026-08-13
-
-### Robles reivindica el papel de España en la OTAN tras testar las misiones internacionales
-
-La ministra de Defensa, Margarita Robles , ha recalcado este jueves la fiabilidad de España como socio euroatlántico y lo ha hecho tras testar la situación de las misiones que los militares españoles desarrollan en el exterior. En concreto, ha realizado una visita de seguimiento al Mando de Operaciones (MOPS) , ubicado.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia](https://www.abc.es/espana/otan-retira-acreditacion-militar-espanol-mantenia-relacion-20260914174418-nt.html?utm_source=lootura.com) — 2026-09-14T17:21:49.000Z
+- [La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN](https://elpais.com/internacional/2026-09-14/la-relacion-por-tinder-de-un-militar-espanol-con-una-mujer-de-origen-ruso-desata-una-investigacion-por-espionaje-en-la-otan.html?utm_source=lootura.com) — 2026-09-14T14:45:49.000Z

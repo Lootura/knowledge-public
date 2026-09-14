@@ -3,10 +3,16 @@
 > Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-13T13:03:52.128Z
+- Updated: 2026-09-12T14:59:23.432Z
 - Canonical: https://atlas.lootura.com/us/object/milky-way
 
 ## Recent changes
+
+### Why are the stars around our galaxy's black hole missing their companions?
+
+A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, it may also destroy their stellar companions. The paper outlin.
+
+Date: 2026-09-12
 
 ### Giant balloon gives rise to new view of the Milky Way’s centre
 

@@ -3,10 +3,22 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### El temor a la IA pasa factura a las grandes tecnológicas en Bolsa
+
+Empresas como Anthropic, Open AI, Google o Grok llaman a abrir un gran debate para generar una autorregulación que reduzca «el riesgo de una catástrofe».
+
+Date: 2026-09-14
+
+### iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles
+
+Tras la presentación de los iPhone 18 Pro y el iPhone Duo, Apple ha cumplido con su promesa y acaba de lanzar la actualización a iOS 27 . Desde ahora, puedes instalar la versión estable del nuevo sistema operativo en cualquier iPhone compatible. En simultáneo, los de Cupertino están lanzando iPadOS 27, macOS 27, watchO.
+
+Date: 2026-09-14
 
 ### iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada
 
@@ -56,19 +68,8 @@ Cuando pensamos en una misión a Marte solemos imaginar cohetes gigantescos, mot
 
 Date: 2026-07-12
 
-### Discovered by Atlas
-
-Artificial intelligence first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
-### La Primera de Expansión sobre AMFresh, el BEI, SpaceX, SK Hynix, Open AI y Google
-
-La Primera de Expansión les cuenta hoy que Paine Suartz Partners entrará en el capital de AMFresh . Víctor Martín Ossorio, redactor jefe de EXPANSIÓN, analiza esta noticia.
-
-Date: 2026-07-10
-
 ## Fuentes
 
-- [BlackRock aconseja invertir en sectores reforzados por la IA](https://www.expansion.com/mercados/2026/09/10/6aa1965e468aeb86608b4592.html?utm_source=lootura.com) — 2026-09-09T22:16:54.000Z
-- [iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada](https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/?utm_source=lootura.com) — 2026-09-09T21:30:00.000Z
+- [Las tecnológicas caen con fuerza en Bolsa ante el temor a un frenazo en las inversiones en IA](https://cincodias.elpais.com/mercados-financieros/2026-09-14/las-tecnologicas-asiaticas-caen-con-fuerza-en-bolsa-ante-el-temor-a-un-frenazo-en-las-inversiones-en-ia.html?utm_source=lootura.com) — 2026-09-14T16:00:47.000Z
+- [El temor a la IA pasa factura a las grandes tecnológicas en Bolsa](https://www.diariovasco.com/economia/temor-ia-pasa-factura-grandes-tecnologicas-bolsa-20260914191905-nt_amp.html?utm_source=lootura.com) — 2026-09-14T17:19:06.000Z
+- [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z

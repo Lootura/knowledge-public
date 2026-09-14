@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-real
 
 ## Cambios recientes
+
+### Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes (Ciudad Real)
+
+Un trabajador de 48 años ha sido evacuado este sábado al hospital de Ciudad Real tras resultar herido por el aplastamiento de una pierna con un toro mecánico en un supermercado de Villanueva de los Infantes. Según ha detallado el 112 de Castilla-La Mancha , el aviso se registró a las 10.40 horas desde la Avenida de las.
+
+Date: 2026-09-12
 
 ### Un nuevo hallazgo nos habla de asistencia al parto en la prehistoria
 

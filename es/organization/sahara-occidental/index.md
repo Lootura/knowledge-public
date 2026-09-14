@@ -3,10 +3,16 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-10T22:14:54.654Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
+
+### Los saharauis celebran el avance pero exigen a España que defienda sus derechos frente a Marruecos
+
+Diferentes colectivos y organizaciones saharauis asentados en el Sáhara Occidental han celebrado este jueves que el Congreso haya dado luz verde a la proposición de ley que facilitará el acceso a la nacionalidad española a los saharauis nacidos antes de 1977 y a sus descendientes, aunque se han preguntado si España def.
+
+Date: 2026-09-10
 
 ### El Gobierno incluye a Ceuta y Melilla en un mapa como zonas en disputa con Marruecos
 

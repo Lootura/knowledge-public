@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms
+### Trump dismisses push for AI guardrails despite warnings from tech leaders
 
-During his speech at the Republican midterm convention, President Donald Trump announced that every adult U.S. citizen would receive a $5,000 “dividend” if Republican won the midterm elections in November, but said it must be spent in the U.S.
+President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a "SMART PRESIDENT.".
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Fetterman, already at odds with his party, makes surprise video for GOP convention
+### Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a "gift"
 
-The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him. (Image credit: Kent Nishimura).
+Bettina Anderson, wife of Donald Trump Jr., said their "dear friend" Umar Kremlev hosted two nights of festivities after their wedding in the Bahamas.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Trump’s Census Overhaul Would Exclude Some Immigrants and Remove Questions on Race
+### This city led the way on reparations for Black people. Trump is trying to stop it
 
-The proposals for 2030 are among significant changes that would upend a process for helping allot congressional seats and shape policies that address disparities.
+Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Fetterman Has a Surprise Cameo at Trump’s Convention
+### Trump returns home to drum up voter support for GOP candidates ahead of midterms
 
-Senator John Fetterman, who has become alienated from his own party, appeared in a short video filmed in front of a steel mill, saying he is “always going to reject the extremes in socialism.”.
+President Trump returns to the U.S. ready to rally on behalf of Republican candidates as the midterm election enters its crucial fall stretch.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Trump escalates Canada trade war by banning some imports
+### The Trump administration is set to eliminate a rule that curbs greenhouse gas emissions from power plants
 
-After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
+The rule change a significant shift from efforts by Presidents Joe Biden and Barack Obama to combat climate change.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Trump gave $45,000 gift to Natalie Harp, 2 other aides
+### Vance says Americans should not be scared of AI as calls for limits grow
 
-A White House spokesperson said in a statement on Wednesday that Mr. Trump "has a longstanding practice of giving Christmas gifts to people in his orbit.".
+Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### President Trump delivers remarks at the Republican midterm convention
+### Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know
 
-Watch live coverage as President Trump delivers the keynote address as the first Republican midterm convention kicks off in Dallas.
+Northern Ireland's status has been contentious since it remained part of the United Kingdom after most of Ireland gained independence from Britain a century ago.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Trump admin fires prosecutor in dropped case against politically linked billionaire
+### Kennedy Center board to propose new options for honoring Trump, according to court filing
 
-A federal prosecutor who had been assigned to the now-defunct case against a politically-linked Indian billionaire has been fired by the Trump administration, two people familiar with the firing tell NBC News.
+The document proposes 10 options for adding the president's name to the building's exterior.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Trump says oil prices will come down after midterm elections
+### US airman recounts Iran rescue in 60 Minutes segment branded propaganda
 
-President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.
+Critics say segment about airman’s rescue was made to boost public perception of Trump’s unpopular war A US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after he was shot down in Iran – and of being rescued by a team of American special forces as hostile locals closed in on him. Th.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency
+### Trump’s EPA reportedly ⁠poised to axe carbon pollution rules for power plants
 
-"This bizarre Republican midterm convention here can't paper over the fact that Republicans have done nothing to earn your vote," Illinois Gov. JB Pritzker, a potential 2028 presidential contender, said Wednesday morning.
+Advocates and experts describe the Trump administration’s climate rollbacks as gifts to polluters at expense of planet The US Environmental Protection Agency (EPA) is ⁠poised to formally repeal carbon pollution standards for coal- and gas-fired power plants, according to reports. The Trump administration’s latest clima.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
 ## Sources
 
-- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
-- [Trump gave $45,000 gift to Natalie Harp, 2 other aides](https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com) — 2026-09-09T17:56:08.000Z
-- [President Trump delivers remarks at the Republican midterm convention](https://www.nbcnews.com/video/president-trump-delivers-remarks-at-the-republican-midterm-convention-269584453987?utm_source=lootura.com) — 2026-09-09T23:19:11.000Z
-- [Trump admin fires prosecutor in dropped case against politically linked billionaire](https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848?utm_source=lootura.com) — 2026-09-09T19:29:27.000Z
-- [Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms](https://www.nbcnews.com/now/video/trump-claims-u-s-adults-will-get-a-5k-dividend-if-republicans-win-the-midterms-269599301613?utm_source=lootura.com) — 2026-09-10T02:30:38.000Z
-- [Fetterman, already at odds with his party, makes surprise video for GOP convention](https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump?utm_source=lootura.com) — 2026-09-10T01:17:28.000Z
-- [WATCH: Trump says oil prices will come down after midterm elections](https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections?utm_source=lootura.com) — 2026-09-09T22:08:17.000Z
-- [WATCH: Democrats say Trump's 'bizarre' convention is a distraction from his faltering presidency](https://www.pbs.org/newshour/politics/watch-democrats-say-trumps-bizarre-convention-is-a-distraction-from-his-faltering-presidency?utm_source=lootura.com) — 2026-09-09T21:39:56.000Z
-- [Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push](https://www.pbs.org/newshour/world/rubio-hails-ecuador-as-an-aggressive-partner-in-the-us-counterdrug-push?utm_source=lootura.com) — 2026-09-09T21:53:07.000Z
-- [Competing court orders add confusion to Missouri congressional elections](https://www.pbs.org/newshour/politics/competing-court-orders-add-confusion-to-missouri-congressional-elections?utm_source=lootura.com) — 2026-09-09T20:03:34.000Z
+- [Trump dismisses push for AI guardrails despite warnings from tech leaders](https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/?utm_source=lootura.com) — 2026-09-14T17:06:18.000Z
+- [Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a "gift"](https://www.cbsnews.com/news/donald-trump-jr-wife-wedding-russian-umar-kremlev/?utm_source=lootura.com) — 2026-09-14T16:37:09.000Z
+- [This city led the way on reparations for Black people. Trump is trying to stop it](https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration?utm_source=lootura.com) — 2026-09-14T11:00:00.000Z
+- [Trump returns home to drum up voter support for GOP candidates ahead of midterms](https://www.npr.org/2026/09/14/nx-s1-5966875/trump-returns-home-to-drum-up-voter-support-for-gop-candidates-ahead-of-midterms?utm_source=lootura.com) — 2026-09-14T08:43:36.000Z
+- [The Trump administration is set to eliminate a rule that curbs greenhouse gas emissions from power plants](https://www.pbs.org/newshour/nation/the-trump-administration-is-set-to-eliminate-a-rule-that-curbs-greenhouse-gas-emissions-from-power-plants?utm_source=lootura.com) — 2026-09-14T15:14:42.000Z
+- [WATCH: Vance says Americans should not be scared of AI as calls for limits grow](https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com) — 2026-09-14T15:06:18.000Z
+- [Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know](https://www.pbs.org/newshour/world/trump-doubled-down-on-backing-a-united-ireland-reigniting-a-divisive-political-issue-heres-what-to-know?utm_source=lootura.com) — 2026-09-14T16:20:27.000Z
+- [Kennedy Center board to propose new options for honoring Trump, according to court filing](https://www.pbs.org/newshour/politics/kennedy-center-board-to-propose-new-options-for-honoring-trump-according-to-court-filing?utm_source=lootura.com) — 2026-09-14T16:57:31.000Z
+- [US airman recounts Iran rescue in 60 Minutes segment branded propaganda](https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda?utm_source=lootura.com) — 2026-09-14T14:17:10.000Z
+- [Trump’s EPA reportedly ⁠poised to axe carbon pollution rules for power plants](https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants?utm_source=lootura.com) — 2026-09-14T14:34:59.000Z

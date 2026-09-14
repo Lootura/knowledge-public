@@ -3,10 +3,16 @@
 > Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/organization/iustitia-europa
 
 ## Cambios recientes
+
+### Bolaños defiende el derecho «sagrado» al voto tras el fallo del Supremo sobre la ‘ley de nietos’
+
+El ministro de Justicia, Félix Bolaños , ha defendido el derecho «sagrado» del voto tras la publicación íntegra de los autos del Tribunal Supremo que dejan en suspenso las altas en el censo electoral por la ‘ley de nietos’ , al estimar parcialmente las medidas cautelares solicitadas por Iustitia Europa y Vox. Hoy vamos.
+
+Date: 2026-09-10
 
 ### El Supremo paraliza el derecho al voto de nacionalizados por la ‘ley de nietos’
 

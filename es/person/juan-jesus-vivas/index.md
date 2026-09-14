@@ -3,10 +3,22 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-11T18:58:06.359Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Vivas afirma que Moncloa le pidió "no llamar más porque se estaban poniendo pesados" tras alertar de la presión migratoria en Ceuta
+
+El presidente de Ceuta, Juan Jesús Vivas, ha asegurado este viernes que desde Moncloa le pidieron "que no llamara más" después de que insistiera en advertir sobre la presión migratoria que sufría la ciudad en los días previos a la entrada masiva de personas desde Marruecos del 30 y 31 de julio. Vivas ha explicado que e.
+
+Date: 2026-09-11
+
+### Vivas revela que Moncloa le pidió "que no llamara más" antes de la avalancha en Ceuta y desmonta los datos de Marlaska
+
+El presidente de Ceuta, Juan Jesús Vivas , ha desvelado este viernes que el Gobierno central ignoró sus reiteradas advertencias sobre la creciente presión migratoria en los días previos a la entrada masiva de unas 80.000 personas. Según ha relatado, desde el Palacio de la Moncloa llegaron a pedirle "que no llamara más".
+
+Date: 2026-09-11
 
 ### Vivas exige a Bruselas más contundencia en la relación europea con Marruecos
 
@@ -55,18 +67,6 @@ Date: 2026-09-04
 El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
 
 Date: 2026-09-01
-
-### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
-
-El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
-
-Date: 2026-09-01
-
-### El PP avala la petición de Vivas de que se suspenda el derecho de asilo en Ceuta
-
-El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos, ha afirmado este viernes que Génova avala la petición del presidente ceutí, Juan Jesús Vivas , para que se suspenda el derecho de asilo y ha afirmado que, de hacerse, no se estaría faltando a ninguna ley porque Marruecos es un país seg.
-
-Date: 2026-08-14
 
 ## Fuentes
 

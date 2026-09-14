@@ -3,10 +3,16 @@
 > Follow Steve Witkoff, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-11T02:58:18.245Z
 - Canonical: https://atlas.lootura.com/us/person/steve-witkoff
 
 ## Recent changes
+
+### Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government
+
+A disclosure shows that Steve Witkoff collected nearly $107 million in 2025 from a holding company that includes a crypto business owned by his family and President Trump’s.
+
+Date: 2026-09-10
 
 ### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
 

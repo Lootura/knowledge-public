@@ -1,0 +1,35 @@
+{
+  "id": "es-american-airlines",
+  "name": "American Airlines",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/american-airlines",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/american-airlines",
+  "markdownUrl": "https://atlas.lootura.com/es/place/american-airlines/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/american-airlines/index.json",
+  "description": "Sigue la actividad de American Airlines en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-11T18:58:06.359Z",
+  "aliases": [
+    "AA",
+    "AAL",
+    "AMR Corporation",
+    "American Air Lines",
+    "American Airlines Group",
+    "American Airlines, Inc.",
+    "American Airways"
+  ],
+  "changes": [
+    {
+      "title": "Trump lleva el recuerdo de los atentados al Pentágono y lo enlaza con las guerras de hoy",
+      "summary": "Donald Trump conmemoró el 25 aniversario del 11-S lejos de su ciudad, Nueva York, en otro escenario de los atentados: el Pentágono. El presidente eligió una ceremonia reducida en el interior del complejo militar, a escasos metros del lugar donde el vuelo 77 de American Airlines abrió hace exactamente un cuarto de siglo.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "American Airlines first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-11"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

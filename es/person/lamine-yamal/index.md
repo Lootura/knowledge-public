@@ -3,10 +3,22 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”
+
+El FC Barcelona sufrió para imponerse este domingo a un combativo Levante en el Ciutat de València a pesar de haber llegado a tener una ventaja de tres goles, nacidos de las botas de Lamine Yamal, autor de un doblete -el segundo, de penalti-, y Xavi Espart, que marcó su primer gol con el primer equipo. El Levante, a pe.
+
+Date: 2026-09-13
+
+### El Barça golea pero descubre lo que es sufrir ante el Levante
+
+En un momento en que los goles podrían ser definitivos en la pelea por ganar el Balón de Oro, Lamine Yamal ya está ahí. El de Rocafonda dirigió un nuevo triunfo del Barça, el quinto de esta Liga, con dos nuevos goles para su tercer doblete consecutivo en la competición. El genio blaugrana lo quiere todo y su sexto gol.
+
+Date: 2026-09-13
 
 ### Lamine Yamal asegura que no hará campaña para el Balón de Oro: «No voy a suplicar nada»
 
@@ -55,18 +67,6 @@ Date: 2026-07-20
 El joven futbolista ha seguido la broma de un aficionado durante la rúa de los campeones del mundo por las calles de Madrid.
 
 Date: 2026-07-20
-
-### Lamine emula a Pelé y niega a Messi
-
-En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
-
-Date: 2026-07-19
-
-### Lamine Yamal desafía a las grandes leyendas
-
-Lamine es taxista. Tiene 42 años. Yamal significa belleza en árabe. Lamine Yamal es futbolista. En 2007, cuando Sheila Ebana estaba embarazada, su pareja Mounir Nasraoui le propuso un nombre para el niño que venía en camino. Quería llamarlo como su mejor amigo, Lamine. Y le añadió un segundo nombre que hoy suena casi p.
-
-Date: 2026-07-19
 
 ## Fuentes
 

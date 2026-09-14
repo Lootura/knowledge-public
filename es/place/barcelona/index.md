@@ -3,72 +3,72 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre
+### Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales
 
-Cataluña celebra este viernes 11 de septiembre la Diada de 2026 , una jornada que conmemora la caída de Barcelona en 1714 y que cada año reúne actos institucionales y políticos en distintos puntos de la comunidad. La atención también se trasladará a las calles con la manifestación independentista , una de las principal.
+La compañía de fabricación de satélites Open Cosmos, fundada en Barcelona en 2015 por Rafel Jordà, ha logrado cerrar una ronda de financiación de 300 millones de euros para ampliar su capacidad de fabricación en serie de satélites espaciales, y para acelerar el despliegue de servicios de inteligencia y conectividad a t.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia
+### Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan
 
-El FC Barcelona ha tumbado al Feyenoord (5-1) en la primera jornada de la Fase Liga de la Liga de Campeones 2026/27, en un Spotify Camp Nou a medio gas por la previsión de lluvia — que hizo acto de presencia en el arranque del partido — pero que cantó 5 goles de un equipo que quiere demostrar de inicio que en este terc.
+El baloncesto masculino español abre la temporada 2026/27 con la disputa de la Supercopa Endesa . Valencia Basket, FC Barcelona , Joventut de Badalona y Baskonia son los equipos encargados de comenzar el curso a nivel nacional . Un torneo que, 16 años después, no contará con la presencia del Real Madrid . El conjunto b.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Lamine Yamal asegura que no hará campaña para el Balón de Oro: «No voy a suplicar nada»
+### El Barça corta a cuchillo al Levante
 
-El jugador español del FC Barcelona Lamine Yamal ha asegurado este martes que no piensa hacer campaña para ganar el Balón de Oro ni «suplicar nada» después de la que considera una buena temporada, al tiempo que destacó que su principal objetivo de presente es conquistar la Liga de Campeones, un torneo que considera «el.
+El Barcelona visitaba otro feudo fácil, cómodo, mantecoso, contra el que tan fácil resulta jugar al fútbol de Flick. Hay equipos propicios para el fútbol espectáculo; hay equipos que se prestan, en su inocencia y en su voluntarismo, a que las máquinas de jugar al fútbol del toque rápido te pasen por encima y, encima, c.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### El futuro de Rosa Peral tras graduarse en Derecho desde la cárcel
+### El vuelco demográfico de Barcelona: casi 2 de cada 3 treintañeros han nacido fuera de España
 
-Rosa Peral, exagente de la Guardia Urbana de Barcelona, fue condenada a 25 años de cárcel en 2020 junto a su amante por el asesinato de su entonces pareja. Este fue conocido como 'el crimen de la Guardia Urbana' y tuvo una enorme repercusión mediática.Seis años después de la condena, Peral se ha graduado en Derecho, se.
+El perfil demográfico de Barcelona está cambiando de manera acelerada, y pocos datos reflejan con tanta claridad esa transformación como el lugar de nacimiento de su población en edad laboral. A 1 de enero de 2024, los nacidos fuera de España ya eran mayoría en todas las franjas comprendidas entre los 25 y los 44 años.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### Mutua pone el foco en Cataluña y diez provincias para crecer
+### Levante - Barcelona en directo | Lamine marca de penalti y encarrila el partido para el Barça
 
-Mutua Madrileña pone el foco en trece de provincias en las que busca captar buenos clientes. Tres de estas provincias son catalanas: Barcelona, Lleida y Girona. La lista se...
+El Barcelona está ganando al Levante este domingo en la jornada 5 de la Liga . Al comienzo del choque, Xavi Espart adelantó al conjunto azulgrana en el minuto 4 con un disparo en la frontal del área. No tardó mucho en aparecer Lamine para dejar su huella en el partido y en el 19, tras una jugada individual de Raphinha.
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios
+### La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”
 
-El mercado de la vivienda parece estar empezando a mostrar señales de enfriamiento. Las compraventas cayeron un 4% en junio, encadenando ya seis meses de bajadas . El descenso más pronunciado se produjo en mayo con un retroceso interanual de las operaciones del 12%, de acuerdo con las cifras de los notarios. Sin embarg.
+El FC Barcelona sufrió para imponerse este domingo a un combativo Levante en el Ciutat de València a pesar de haber llegado a tener una ventaja de tres goles, nacidos de las botas de Lamine Yamal, autor de un doblete -el segundo, de penalti-, y Xavi Espart, que marcó su primer gol con el primer equipo. El Levante, a pe.
 
-Date: 2026-09-05
+Date: 2026-09-13
 
-### Catalunya registra su día más caluroso en­­ un mes de septiembre
+### Flick hace autocrítica y da un recado al vestuario del Barcelona: «Si no das el 100% pasan estas cosas»
 
-Catalunya registró este pasado viernes el día de septiembre más caluroso que ha vivido hasta ahora, en una jornada en la que se han superado los 40 ºC y se han alcanzado los 42,5ºC en Vinebre (Ribera d’Ebre). Barcelona lleva, contando este sábado, cuatro días consecutivos registrando la temperaturas más alta para un me.
+Hansi Flick acabó relativamente feliz con la victoria del Barcelona . A pesar de conseguir tres puntos para mantener el liderato, los culés estuvieron cerca de llevarse un susto con el Levante que provocó el cabreo del entrenador alemán. Previamente avisó que la falta de concentración se pagaba caro y acabó haciendo au.
 
-Date: 2026-09-05
+Date: 2026-09-13
 
-### La realidad fue peor que ‘Zoolander’: la parodia que profetizó el mundo ‘influencer’ hace 25 años
+### El zasca del entrenador del Levante al Barça por quejarse del césped: «La próxima vez taparemos el sol»
 
-Hace unos días, una multitud de jóvenes se congregó junto al Arco de Triunfo de Barcelona para participar en un evento tan novedoso como inquietante. Se trataba de la primera convocatoria en la capital catalana para “farmear aura”, el nuevo concepto viral del que probablemente han leído en esta misma cabecera . Seguir.
+El Barcelona criticó el estado del césped del Ciutat de València. A pesar de que los de Hansi Flick ganaron el partido, los culés se mostraron muy enfadados por las condiciones en las que jugaron en el estadio granota. Un discurso que cabreó al entrenador del Levante, Luís Castro, quien lanzó un tremendo zasca en rueda.
 
-Date: 2026-09-04
+Date: 2026-09-13
 
-### La hora de la fachada de la Gloria de la Sagrada Familia: así la imaginó Gaudí
+### Levante - Barcelona, en directo | Sigue en vivo online el resultado y la última hora del partido de la Liga hoy
 
-La Sagrada Familia de Barcelona encara el final del año del centenario de la muerte del arquitecto Antoni Gaudí. Terminada la basílica en vertical, con la torre de Jesucristo culminada en febrero, y tras la visita del Papa en junio , el templo afronta en este inicio de curso dos decisiones importantes. Una, la urbaníst.
+Sigue en directo y en vivo online el resultado, goles y minuto a minuto del Levante - Barcelona de la Liga.
 
-Date: 2026-09-04
+Date: 2026-09-13
 
-### Diez intoxicados por monóxido de carbono en un barco del Puerto de Barcelona: uno de ellos, en estado crítico
+### Jornada 5 de la Liga: resumen de todos los partidos
 
-Un total de diez personas han resultado afectadas esta pasada noche, una de ellas en estado crítico , a causa de un intoxicación de monóxido de carbono (CO) en el depósito de un barco en el Puerto de Barcelona , ha informado el Sistema de Emergencias Médicas. Según informa el SEM en su cuenta de X, de los 10 afectados,.
+La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.
 
-Date: 2026-09-04
+Date: 2026-09-13
 
 ## Fuentes
 
-- [Diada 2026 en Cataluña: recorrido y horarios de la manifestación del 11 de septiembre](https://www.elconfidencial.com/espana/cataluna/2026-09-10/horario-recorrido-manifestacion-diada-1tna-1qrt_4419115/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
-- [El Barça se exhibe en Champions con una ‘manita’ al Feyenoord bajo la lluvia](https://theobjective.com/deportes/futbol/champions-league/2026-09-09/barca-exhibe-manita-feyenoord-bajo-lluvia/?utm_source=lootura.com) — 2026-09-09T19:31:25.000Z
+- [Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales](https://cincodias.elpais.com/companias/2026-09-14/open-cosmos-logra-captar-300-millones-de-financiacion-para-ampliar-la-fabricacion-en-serie-de-sus-satelites-espaciales.html?utm_source=lootura.com) — 2026-09-14T13:00:00.000Z
+- [Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan](https://okdiario.com/deportes/como-comprar-entradas-supercopa-espana-baloncesto-2026-cuanto-cuestan-20287838?utm_source=lootura.com) — 2026-09-14T16:41:08.000Z

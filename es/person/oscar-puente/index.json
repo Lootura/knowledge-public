@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-10T03:02:25.927Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,16 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "El Gobierno rabia por la suspensión de la ‘ley de nietos’",
+      "summary": "El Gobierno está rabioso desde que el Tribunal Supremo le ha tumbado el pucherazo. Félix Bolaños, Óscar Puente y Óscar López, tres ministros, han salido en tromba a cargar contra el auto que anula los efectos electorales derivados de la ‘ley de nietos’. En concreto, de la instrucción de Sofía Puente que ampliaba la con.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Óscar Puente rabia con el éxito de Madring: \"Ha sido un auténtico truño\"",
+      "summary": "Óscar Puente criticó el diseño del Madring a pesar del gran éxito que tuvo el Gran Premio de España para aficionados y pilotos de la F1.",
+      "date": "2026-09-13"
+    },
     {
       "title": "Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: \"El despacho en el bolsillo\"",
       "summary": "Óscar Puente visitó el plató de La Mesa para someterse a un debate sobre la gestión de la crisis migratoria en Ceuta . Cristina Pardo y los colaboradores del espacio de Antena 3 pusieron sobre la mesa su polémico tuit del 1 de agosto, en el que daba por resuelto el conflicto fronterizo. Puente reconoció en La Mesa que.",
@@ -55,31 +65,15 @@
       "title": "Óscar Puente: Consejos tengo...",
       "summary": "El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las vías que dependen de él sigue dando lecciones de periodismo en su cuenta en X. No satisfecho con las invectivas que le dedicó el jueves a un sindicato policial porque ABC publicó el informe de la inspección ocular del accidente, el viernes se.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura",
-      "summary": "Uno de los socialistas con mayor perfil político del Consejo de Ministros, Óscar Puente, quiere la maquinaria de su departamento al máximo de revoluciones para abordar los últimos meses de la legislatura . El arranque del curso político se ha producido con un cambio de calado en la estructura del Ministerio de Transpor.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Óscar Puente niega un \"reproche\" de Sánchez al Rey Felipe VI: \"Es hacia quienes utilizan la figura del monarca en una crisis\"",
-      "summary": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que exista un \"reproche\" hacia el Rey Felipe VI en las palabras del presidente del Gobierno, Pedro Sánchez , acerca de una posible visita a Ceuta ; remarcando que, de haberlo, \"es hacia quienes han querido utilizar la figura del monarca en una.",
-      "date": "2026-09-01"
     }
   ],
   "sources": [
     {
-      "title": "Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: \"El despacho en el bolsillo\"",
-      "url": "https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:38:06.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»",
-      "url": "https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:57:07.000Z",
+      "title": "El Gobierno rabia por la suspensión de la ‘ley de nietos’",
+      "url": "https://theobjective.com/espana/2026-09-14/gobierno-rabia-suspension-ley-nietos/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:33:01.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

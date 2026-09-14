@@ -1,0 +1,32 @@
+{
+  "id": "es-grand-slam",
+  "name": "Grand Slam",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/grand-slam",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/grand-slam",
+  "markdownUrl": "https://atlas.lootura.com/es/place/grand-slam/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/grand-slam/index.json",
+  "description": "Sigue la actividad de Grand Slam en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-13T22:05:54.092Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Historia en el tenis con la primera final entre dos jugadores homosexuales",
+      "summary": "Nueva York acapara los focos en el tenis con el US Open, el último Grand Slam de la temporada. Pero a muchos kilómetros de allí, en la pequeña ciudad austriaca de Tulln an der Donau, dos tenistas lograron un hecho sin precedentes.El suizo Mika Brunold y el brasileño João Reis da Silva disputaron este domingo la final d.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Zverev, el campeón incómodo, acaba con el sueño americano de Shelton y levanta su segundo Grand Slam",
+      "summary": "El estadounidense, lastrado por los nervios, vuelve a dejar a su país sin campeón desde 2003; el alemán encadena Roland Garros y Nueva York y se acerca al número uno pese a la sombra que acompaña su carrera Leer.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Grand Slam first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

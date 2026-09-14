@@ -3,10 +3,40 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### Saudi Arabia has few options as it faces mounting threats from Iran and its allies
+
+A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.
+
+Date: 2026-09-12
+
+### Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War
+
+A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.
+
+Date: 2026-09-12
+
+### Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks
+
+The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.
+
+Date: 2026-09-12
+
+### Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War
+
+A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.
+
+Date: 2026-09-12
+
+### Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war
+
+Yemen's Iranian-backed Houthi rebels captured a strategic island at the southern entrance to the Red Sea, two officials said Friday, opening a new front in the Iran war and further threatening Saudi oil exports through one of the world's key shipping lanes.
+
+Date: 2026-09-11
 
 ### Tankers Sail Through Red Sea Despite Houthi Blockade
 
@@ -35,36 +65,6 @@ Date: 2026-07-24
 ### Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea
 
 International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict "major military punishment." He.
-
-Date: 2026-07-23
-
-### Global oil prices hit $100 a barrel amid attacks in Red Sea
-
-The last time global oil prices settled above $100 was on May 22, data from FactSet shows.
-
-Date: 2026-07-23
-
-### Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war
-
-As the U.S. carried out a 12th night of strikes across Iran, President Donald Trump threatened "major military punishment" against the Houthis if their attacks on ships continue.
-
-Date: 2026-07-23
-
-### Oil price surge as war with Iran expands
-
-International oil prices pushed past $100 a barrel today as markets reacted to a new threat by the Houthis in Yemen against ships in the Red Sea. NBC News’ Chief Foreign Correspondent Richard Engel reports.
-
-Date: 2026-07-23
-
-### Oil surges to $100 per barrel after Red Sea attacks
-
-Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.
-
-Date: 2026-07-23
-
-### New Concerns Over Oil Prices After Houthis Attack Saudi Tankers
-
-There are new concerns about the future of oil and gas prices after Yemen-based Houthi rebels, backed by Iran, attacked two Saudi Arabian oil tankers in the Red Sea. NBC’s Richard Engel reports on the new front in the Middle East conflict and Christine Romans joins TODAY with analysis on the economic impact to gas pric.
 
 Date: 2026-07-23
 

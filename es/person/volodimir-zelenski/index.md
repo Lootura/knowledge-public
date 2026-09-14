@@ -64,4 +64,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron](https://theobjective.com/internacional/2026-09-09/avion-zelenski-oslo-derribo/?utm_source=lootura.com) — 2026-09-09T20:54:09.000Z
+No public source links.

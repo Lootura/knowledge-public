@@ -3,10 +3,16 @@
 > Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/place/madrid
 
 ## Recent changes
+
+### Kimi Antonelli wins Formula 1 race in Madrid to establish a dominant championship lead
+
+Kimi Antonelli won the Formula 1 Spanish Grand Prix at an all-new street track in Madrid after bad luck struck race leader Lando Norris, who qualified first and led at the start.
+
+Date: 2026-09-13
 
 ### More than 250,000 people flee wildfires in France and Spain
 

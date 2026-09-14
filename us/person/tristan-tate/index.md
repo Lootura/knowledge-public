@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Tate brothers denied bail by Miami judge as they fight extradition to U.K. on sex crime charges](https://www.nbcnews.com/news/us-news/tate-brothers-denied-bail-miami-judge-fight-extradition-uk-sex-crime-c-rcna594680?utm_source=lootura.com) — 2026-09-09T17:32:52.000Z
+No public source links.

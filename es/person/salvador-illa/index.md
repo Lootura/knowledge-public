@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Aliança se dispara como segunda fuerza en Cataluña: el partido ultra lideraría la mayoría independentista mientras que Salvador Illa cae 11 escaños
+
+Las derechas capitalizan el descontento social por la situación económica, la inmigración y la inseguridad, y crecen con Aliança y Vox. Junts sigue en caída libre y ERC se estanca imposibilitando el tripartito Leer.
+
+Date: 2026-09-10
 
 ### Una dimisión inoportuna
 
@@ -62,12 +68,6 @@ La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno d
 
 Date: 2026-08-10
 
-### Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura
-
-Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Una dimisión inoportuna](https://www.lavanguardia.com/opinion/20260910/11631346/dimision-inoportuna.html?utm_source=lootura.com) — 2026-09-09T22:05:00.000Z
+No public source links.

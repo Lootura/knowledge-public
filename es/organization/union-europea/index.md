@@ -3,10 +3,28 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
+
+La portavoz del PP en el Congreso ha insistido en que se trata de "un ataque de guerra híbrida destinado a desestabilizar Ceuta y, por tanto, a desestabilizar España y la Unión Europea" Jueces y fiscales progresistas ven desproporcionado suspender el derecho a voto de nacionalizados por la 'ley de nietos' La portavoz d.
+
+Date: 2026-09-13
+
+### Caen las llegadas irregulares de migrantes a la UE pero aumentan las entradas por la ruta del Mediterráneo hacia Baleares
+
+Descienden las entradas irregulares de migrantes a la Unión Europea, en general, pero aumentan las llegadas por la ruta del Mediterráneo occidental, hacia España. Los últimos datos de Frontex, la agencia europea de fronteras, muestran una caída del 35% en las entradas irregulares a la UE en los ocho primeros meses de 2.
+
+Date: 2026-09-11
+
+### La inmigración irregular a la Unión Europea bajó en todas las regiones excepto en el Estrecho
+
+La inmigración irregular en la Unión Europea (UE) cayó un 35% en los primeros ocho meses de 2026 con respecto al año anterior . La gran gran excepción es el Mediterráneo Occidental —que engloba el Estrecho de Gibraltar—, donde se registró un aumento del 34%, incluso sin tener en cuenta Ceuta. Según un informe difundido.
+
+Date: 2026-09-11
 
 ### El Tribunal de Cuentas de la UE avisa del aumento de la producción ilegal de tabaco, con pérdidas de 13.000 millones en tasas
 
@@ -49,24 +67,6 @@ Date: 2026-09-07
 El presidente del Consejo de la Unión Europea, Antonio Costa , ha alertado de la «instrumentalización» de la inmigración como «una nueva forma de amenazar la integridad territorial». La violación de la soberanía de España en Ceuta ha sido debate en el prestigio foro internacional celebrado en la localidad italiana Cerb.
 
 Date: 2026-09-05
-
-### Qué es una "región ultraperiférica" y por qué Pedro Sánchez quiere que Ceuta lo sea
-
-El Gobierno quiere dar un paso más en el encaje de Ceuta dentro de la Unión Europea. Pedro Sánchez ha planteado este jueves, durante su comparecencia en el Congreso sobre la situación de la ciudad autónoma, una fórmula que permitiría a la ciudad autónoma acceder a un trato singular en ámbitos como la fiscalidad, la fin.
-
-Date: 2026-09-04
-
-### El Gobierno insiste en que la embajadora marroquí «fue oficial y formalmente convocada»
-
-El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación subrayó este viernes que la embajadora de Marruecos «fue oficial y formalmente» convocada el 21 de agosto para rechazar «tajantemente» las declaraciones sobre Ceuta y Melilla de un ministro marroquí , y que ese mensaje también se trasladó a sus autoridade.
-
-Date: 2026-09-04
-
-### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.
-
-Date: 2026-09-04
 
 ## Fuentes
 

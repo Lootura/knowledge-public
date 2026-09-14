@@ -3,22 +3,28 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
 
-### Apple announces long-awaited foldable phone, iPhone Duo
+### Apple’s new phones are here
 
-Apple’s first foldable phone capped a day of product announcements that also included the new iPhone 18 Pro and Pro Max.
+Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage .) This week, I've been devouring every iPhone Duo video I can find, clicking on the wonderful.
 
-Date: 2026-09-09
+Date: 2026-09-13
 
-### Fold the phone: Apple's new CEO unveils a foldable iPhone
+### Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz
 
-New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years. (Image credit: Benjamin Fanjoy).
+OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.
 
-Date: 2026-09-09
+Date: 2026-09-12
+
+### Where to preorder the iPhone 18 Pro and Pro Max
+
+Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 "Sunrise and shine" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neura.
+
+Date: 2026-09-12
 
 ### Discovered by Atlas
 
@@ -28,6 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [Here are the biggest announcements from today's Apple event](https://www.cbsnews.com/news/apple-event-today-foldable-iphone/?utm_source=lootura.com) — 2026-09-09T21:45:15.000Z
-- [Apple announces long-awaited foldable phone, iPhone Duo](https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652?utm_source=lootura.com) — 2026-09-09T17:18:39.000Z
-- [Fold the phone: Apple's new CEO unveils a foldable iPhone](https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus?utm_source=lootura.com) — 2026-09-09T18:39:57.000Z
+- [macOS 27 is available now](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now?utm_source=lootura.com) — 2026-09-14T17:10:13.000Z

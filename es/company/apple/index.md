@@ -3,10 +3,52 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple tiene un nuevo producto en marcha y ni por asomo te imaginas lo que es
+
+Mes grande en Apple: tras la presentación de los iPhone Duo , iPhone 18 Pro, los nuevos Apple Watch y el lanzamiento de sus sistemas operativos, la compañía no descansa. Apple está preparando un producto totalmente nuevo, y no es de ninguna de las categorías de las que generalmente corren rumores. Ni hogar conectado ni.
+
+Date: 2026-09-14
+
+### iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles
+
+Tras la presentación de los iPhone 18 Pro y el iPhone Duo, Apple ha cumplido con su promesa y acaba de lanzar la actualización a iOS 27 . Desde ahora, puedes instalar la versión estable del nuevo sistema operativo en cualquier iPhone compatible. En simultáneo, los de Cupertino están lanzando iPadOS 27, macOS 27, watchO.
+
+Date: 2026-09-14
+
+### Los principales competidores del nuevo iPhone Duo
+
+Cumpliendo con las previsiones, esta semana el nuevo CEO de Apple, John Ternus, embarcaba a la compañía en una nueva línea de producto, los móviles plegables. En su tradicional evento de presentación de novedades de septiembre, Ternus anunció el iPhone Duo, un terminal que llega para competir con marcas que ya llevan a.
+
+Date: 2026-09-12
+
+### La apuesta que Apple ha esperado ocho años en atreverse a lanzar
+
+Apple presentó su primer plegable el miércoles, ocho años después de que Samsung enseñara el primer Galaxy Fold comercial y una década después de que Royole lanzara el que se suele citar como el primer plegable del mundo, en 2018. Ese retraso no es la estrategia que Apple ha aplicado antes con otras categorías, y esta.
+
+Date: 2026-09-12
+
+### Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior
+
+Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo , Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPhone 14 o superior , vas a poder aprovecharlo durante los próximos 12 meses de forma completamente gr.
+
+Date: 2026-09-12
+
+### 5 razones por las que ‘Silo’ es la mejor serie de ciencia ficción del año
+
+Silo de Apple TV estrenó el cierre de su tercera temporada dejando algo muy claro. No es solo una de las mejores series de ciencia ficción de la plataforma de los de Cupertino , que ya es un logro considerable . También es una de las historias más apasionantes del género . Eso, gracias a su fascinante narrativa de mist.
+
+Date: 2026-09-12
+
+### La cámara del iPhone 18 Pro por fin aprende a abrir y cerrar el ojo
+
+El iPhone Duo se ha llevado buena parte de los titulares del evento de Apple de este mes, pero el cambio que más va a notar quien haga fotos con el móvil cada día está en el iPhone 18 Pro y el iPhone 18 Pro Max. Por primera vez, la cámara principal de un iPhone incorpora un diafragma físico capaz de abrirse y cerrarse,.
+
+Date: 2026-09-11
 
 ### Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable
 
@@ -26,53 +68,7 @@ Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max , Apple
 
 Date: 2026-09-09
 
-### Los nuevos Apple Watch Series 12 y Apple Watch Ultra 4 miden mejor tu salud y ofrecen una batería más grande
-
-Los nuevos iPhone 18 Pro y iPhone Duo no fueron lo único que presentó Apple. El gigante tecnológico aprovechó su evento de septiembre para anunciar una actualización a su gama de relojes inteligentes. El Apple Watch Series 12 y el Apple Watch Ultra 4 debutan con un sistema de sensores rediseñado que ofrece mejores medi.
-
-Date: 2026-09-09
-
-### Apple irrumpe en el mercado de plegables con el iPhone Duo: la pesadilla de Samsung y Xiaomi se ha vuelto realidad
-
-Después de tantísimos rumores y especulaciones, Apple se ha animado a probar un nuevo factor de forma en su catálogo de móviles. Que iPhone Fold, que iPhone Ultra, el primer plegable de la manzana finalmente llega al mercado con un nombre que la compañía logró mantener en secreto casi hasta último momento: iPhone Duo .
-
-Date: 2026-09-09
-
-### Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros
-
-El nuevo director ejecutivo de Apple , John Ternus, ha anunciado este miércoles el primer teléfono plegable de la compañía, bautizado como iPhone Duo, un dispositivo que presenta un tamaño similar al de un pasaporte cuando se encuentra cerrado —con una pantalla exterior de 5,4 pulgadas— y que saldrá al mercado por 2.33.
-
-Date: 2026-09-09
-
-### La keynote de Apple llega mañana con el primer iPhone plegable, esto es dónde y a qué hora verla en España
-
-Apple presenta mañana miércoles su gama de otoño en un evento bautizado como «Surprise and Shine». Es la cita en la que se espera la llegada del primer iPhone con pantalla plegable de la marca, además de los nuevos iPhone 18 Pro, el Apple Watch Series 12 y una actualización de los AirPods. También será la primera gran.
-
-Date: 2026-09-08
-
-### Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch
-
-Apple celebra mañana a las 19.00 su evento "Surprise and Shine", la primera gran presentación de producto liderada por John Ternus como nuevo consejero delegado de la compañía, y el inicio de la mayor oleada de lanzamientos de dispositivos en la historia de Apple, que se extenderá durante 2026, 2027 y años posteriores,.
-
-Date: 2026-09-08
-
-### Ahora sí, Apple: el iPhone 18 Pro contaría con estas 5 mejoras impresionantes en la cámara
-
-Todos los que han estado pidiendo un salto de calidad en la cámara del iPhone , pueden estar de enhorabuena. Cada hora que pasa, la posibilidad de que Apple incluya una nueva y renovada cámara en el iPhone 18 Pro es más probable. Varios filtradores importantes afirman que la compañía incluirá un sensor de apertura vari.
-
-Date: 2026-09-08
-
-### El iPhone Air 2 podría reemplazar al mejor móvil de Apple: el iPhone 18 se reconvertirá como nunca
-
-Este año no va a haber iPhone 18, sino que Apple reservará el evento del 9 de septiembre para anunciar los iPhone 18 Pro y Pro Max, y el tan esperado iPhone Ultra. No obstante, en 2027 la compañía también podría realizar una estrategia un tanto diferente con el iPhone 18 base. De hecho, un reciente rumor apunta a que e.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Así es el iPhone Duo, el primer móvil plegable de Apple](https://elpais.com/tecnologia/2026-09-09/presentacion-del-nuevo-iphone-18-precio-y-caracteristicas-en-el-evento-de-apple.html?utm_source=lootura.com) — 2026-09-09T19:40:33.000Z
-- [Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable](https://www.elconfidencial.com/espana/2026-09-10/lo-mas-odiado-puente-ministro_4420809/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
-- [iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada](https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/?utm_source=lootura.com) — 2026-09-09T21:30:00.000Z
-- [Los nuevos Apple Watch Series 12 y Apple Watch Ultra 4 miden mejor tu salud y ofrecen una batería más grande](https://hipertextual.com/apple/apple-watch-series-12-ultra-4-precio-caracteristicas/?utm_source=lootura.com) — 2026-09-09T19:23:13.000Z
-- [Apple irrumpe en el mercado de plegables con el iPhone Duo: la pesadilla de Samsung y Xiaomi se ha vuelto realidad](https://hipertextual.com/apple/iphone-duo-lanzamiento-oficial/?utm_source=lootura.com) — 2026-09-09T18:02:40.000Z
-- [Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros](https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com) — 2026-09-09T20:17:06.000Z
+- [Apple tiene un nuevo producto en marcha y ni por asomo te imaginas lo que es](https://hipertextual.com/tecnologia/apple-tiene-un-nuevo-producto-en-marcha-y-ni-por-asomo-te-imaginas-lo-que-es/?utm_source=lootura.com) — 2026-09-14T10:48:22.000Z
+- [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z

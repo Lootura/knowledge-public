@@ -3,72 +3,76 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa
+### China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología
 
-La relativa tranquilidad con que el mercado miraba el conflicto de Irán desde el mes de julio se ha roto al difuminarse una premisa bajo la que operaban muchos inversores: que la guerra estaría concluida en otoño , antes de las elecciones legislativas de noviembre en Estados Unidos (las midterm ). Seguir leyendo.
+El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### ‘Así aprenderás’: lo que la serie coreana revela sobre la crisis del profesorado en América Latina
+### El temor a un freno en la IA desata caídas en el sector de hasta el 12%
 
-Fotograma de la serie _Así aprenderás_. Netflix Las aulas de educación básica y media superior enfrentan una crisis silenciosa. El auge de las series coreanas sobre el mundo educativo refleja esta dolorosa realidad. Producciones como Así aprenderás no solo atrapan por su drama . Estas historias conectan con una profund.
+Los focos de presión se multiplican para las compañías y los índices protagonistas del rally bursátil alentado por la IA. La agenda financiera incluía para esta semana una fecha claramente marcada en el calendario. El 16 de septiembre se conocerá el desenlace de la reunión de la Reserva Federal de Estados Unidos. Los ú.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Por qué la ausencia de las Torres Gemelas también es una seña de identidad del ‘skyline’ neoyorquino
+### China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación
 
-Joe Sohm/Visions of America/Universal Images Group via Getty Images A las 10:28 de la mañana del 11 de septiembre de 2001, el perfil urbano de Nueva York cambió de forma repentina y dramática. El mundo observaba con horror cómo en las pantallas de televisión se derrumbaban la Torre Norte del World Trade Center y, luego.
+El Ministerio chino de Exteriores asegura que la difusión de narrativas de amenaza o fomentar la confrontación solo obstaculizará el proceso de gobernanza de la inteligencia artificial, en medio del debate generado en Estados Unidos sobre la necesidad de frenar el desarrollo de esta tecnología. Seguir leyendo...
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura
+### El Vaticano reivindica el papel “profético” de León XIV ante la alarma por la IA
 
-El informe PISA 2025 mantiene la tendencia de rezago de los países latinoamericanos en la principal comparación educativa internacional respecto a la media de la OCDE. Algunos, como Argentina y México, han registrado sus peores resultados en 20 años en matemáticas y otros muestran estancamiento (Brasil, Colombia y Cost.
+Desde el Vaticano se sigue con gran atención el debate sobre la inteligencia artificial que ha estallado en Estados Unidos. No es estilo de la casa decir “ya lo habíamos advertido”, y León XIV tampoco lo hace. Pero entre los muros leoninos se observa que muchas de las dudas planteadas hoy por los propios directivos e i.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### El S&P 500 sigue bien soportado
+### Trump anuncia que Rusia y Ucrania dejarán de atacar sus infraestructuras energéticas
 
-La presión de los intereses de la deuda de los EEUU y la renovada fortaleza del precio del petróleo no aflojan. Más bien todo lo contrario. Del 10 al 18 de septiembre los inversores pueden tener que afrontar tres subidas de tipos : el próximo jueves en la eurozona, el día 16 de septiembre en los Estados Unidos y el día.
+El presidente de Estados Unidos , Donald Trump , ha anunciado este lunes que Rusia y Ucrania han aceptado dejar de atacar las infraestructuras energéticas del otro , en lo que supondría un nuevo compromiso limitado entre las partes en plena guerra. El mandatario estadounidense ha comunicado el acuerdo a través de sus r.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá
+### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
 
-El presidente de Estados Unidos, Donald Trump, ha compartido este lunes en su red Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México, el Caribe y Canadá, además de Groenlandia e Islandia.Trump ha publicado ese mapa sin ningún comentario en su red Truth Social, horas de.
+El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
 
-Date: 2026-09-07
+Date: 2026-09-14
 
-### El Ibex salva los 20.000 puntos pese al repunte del petróleo y las dudas sobre la Fed
+### Europa tira de garra y gana a Estados Unidos la Solheim Cup
 
-El Ibex 35 ha salvado por la mínima los 20.000 puntos en una sesión bursátil dominada por el repunte del petróleo y el regreso de las dudas sobre los próximos pasos que dará la Reserva Federal (Fed) de Estados Unidos en el ámbito de la política monetaria. El selectivo español ha cerrado con una caída del 0,14 hasta los.
+¡Qué bonito es el 'match-play' por equipos! Los aficionados al golf tienen la fortuna de vivir cada año competiciones como la Ryder Cup y la Solheim, que durante tres días mantienen en vilo a los espectadores de todo el planeta con unos resultados siempre inciertos. Este año la alegría, no exenta de sufrimiento, se la.
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### Mercurio, el enigma cósmico que resolvió Albert Einstein
+### España cae con honor tras plantar cara a Estados Unidos hasta el último cuarto
 
-Cartografía de Mercurio realizada por la Mariner 10 en el periodo 1974‑1975 Mariner 10, Astrogeology Team, U.S. Geological Surve , CC BY A lo largo de la historia de la ciencia, Mercurio ocupa un lugar de honor: durante siglos, sus características orbitales resultaron inexplicables para la física clásica. Hasta que lle.
+«¡Hazlo! Como si ya no te jugaras nada. Como si fueras a morir mañana. Aunque lo veas demasiado lejos». La voz de Leiva se apagó, las luces del vestuario del pabellón de Berlín también y las jugadoras españolas enfilaron el túnel para saltar a la cancha con la firme intención de honrar la letra de la canción talismán q.
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### Trump publica un mapa de EEUU en el que se apropia de México, Canadá y Groenlandia
+### Fragmento del día: Nueva York
 
-El presidente de Estados Unidos, Donald Trump , ha compartido este lunes en su red social Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México , el Caribe y Canadá, además de Groenlandia e Islandia . Trump ha publicado la imagen sin ningún comentario, pocas horas después.
+en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### Cuba denuncia daños de 7.000 millones por las sanciones y el bloqueo de EEUU desde 2025
+### Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave
 
-El Gobierno cubano ha estimado en 8.083 millones de dólares (unos 6.955 millones de euros) los daños provocados por el «cerco energético, el recrudecimiento extremo del bloqueo y la aplicación de sanciones secundarias» por parte de Estados Unidos entre el 1 de marzo de 2025 y el 28 de febrero de 2026. «Son 8.083.300.00.
+Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
 ## Fuentes
 
-- [España recorta las compras de gas a Estados Unidos desde la crisis diplomática: encadenan cuatro meses a la baja y se desploman un 60% en julio](https://www.elmundo.es/economia/empresas/2026/09/09/6aa16adde4d4d837598b459b.html?utm_source=lootura.com) — 2026-09-09T20:44:59.000Z
-- [Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa](https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html?utm_source=lootura.com) — 2026-09-09T18:43:11.000Z
+- [China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología](https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com) — 2026-09-14T10:16:39.000Z
+- [El temor a un freno en la IA desata caídas en el sector de hasta el 12%](https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html?utm_source=lootura.com) — 2026-09-14T16:18:30.000Z
+- [China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación](https://www.lavanguardia.com/vida/20260914/11634287/china-defiende-ia-orientada-opone-narrativas-amenaza-confrontacion.html?utm_source=lootura.com) — 2026-09-14T10:45:14.000Z
+- [El Vaticano reivindica el papel “profético” de León XIV ante la alarma por la IA](https://www.lavanguardia.com/vida/20260914/11634359/vaticano-reivindica-papel-profetico-leon-xiv-alarma-ia.html?utm_source=lootura.com) — 2026-09-14T13:01:15.000Z
+- [Trump anuncia que Rusia y Ucrania dejarán de atacar sus infraestructuras energéticas](https://theobjective.com/internacional/2026-09-14/trump-rusia-ucrania-infraestructuras-energeticas/?utm_source=lootura.com) — 2026-09-14T16:11:22.000Z
+- [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z

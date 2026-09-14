@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T03:01:17.184Z",
+  "updatedAt": "2026-09-13T03:06:35.172Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,16 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "Republicans fear they have a North Carolina problem",
+      "summary": "DALLAS — Republicans are increasingly worried that North Carolina’s Senate race is slipping out of contention. For months, they had argued that a post-Labor Day infusion of cash could jolt new energy into the largely stagnant but critical Senate race. But as Republican nominee Michael Whatley struggles to meaningfully.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran",
+      "summary": "U.S. Treasury Secretary Scott Bessent speaks at a G20 summit in Asheville, North Carolina, on Sept. 1, 2026. —Peter Zay—Getty Images The U.S. Treasury issued sweeping new sanctions against Iran on Tuesday, targeting the country’s airlines and their international service providers as it ramps up its effort to isolate Te.",
+      "date": "2026-09-10"
+    },
     {
       "title": "Trump wants the Postal Service to radically overhaul mail voting. But ballots are already going out.",
       "summary": "President Donald Trump’s controversial demands for the Postal Service to overhaul and monitor millions of mail ballots hit another snag on Friday, when North Carolina became the first state in the nation to start sending out ballots for the November election. In March, Trump signed the initial executive order , which a.",
@@ -57,16 +67,6 @@
       "title": "Outer Banks community spending $50 million to save its beachfront economy",
       "summary": "A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "The science behind using the arts to combat loneliness and social isolation",
-      "summary": "A new program in Charlotte, North Carolina, is using the arts to tackle loneliness and social isolation. Paul Solman reports on prescriptions for art instead of medicine for our series at the intersection of art and health, part of our CANVAS coverage.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "North Carolina first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-03"
     }
   ],
   "sources": [],

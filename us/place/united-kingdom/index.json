@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-kingdom/index.json",
   "description": "Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "G B",
     "Great Britain",
@@ -20,6 +20,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know",
+      "summary": "Northern Ireland's status has been contentious since it remained part of the United Kingdom after most of Ireland gained independence from Britain a century ago.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Prince Harry and Meghan will not be working royals, King Charles says",
       "summary": "Prince Harry and Meghan Markle are back in the United Kingdom, but King Charles says that the couple will not be working royals. CBS News' Leigh Kiniry has more.",
@@ -41,6 +46,13 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know",
+      "url": "https://www.pbs.org/newshour/world/trump-doubled-down-on-backing-a-united-ireland-reigniting-a-divisive-political-issue-heres-what-to-know?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:20:27.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

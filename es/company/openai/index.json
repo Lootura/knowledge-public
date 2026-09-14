@@ -8,62 +8,87 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
     {
-      "title": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
-      "summary": "Anthropic calienta motores para su salida a Bolsa este otoño. La joven compañía de inteligencia artificial, el mayor rival de OpenAI, ha iniciado ya reuniones para sondear la demanda de los inversores de cara a una oferta pública de venta de acciones (OPV) que puede hacer historia. Seguir leyendo.",
-      "date": "2026-09-02"
+      "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
+      "summary": "Las mayores operaciones financieras de la historia, vinculadas a las grandes compañías de inteligencia artificial (IA) como Anthropic, OpenAI y SpaceX, se han encontrado con un obstáculo originado por sus propios responsables. El fundador y CEO de Anthropic, Dario Amodei, abrió un polémico debate el pasado fin de seman.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Miles de agentes de IA ‘deciden’ unirse para un ciberataque masivo por sorpresa: el reciente caso de OpenAI",
-      "summary": "PabloLagarto/Shutterstock En julio de 2026, unos 1 200 agentes de inteligencia artificial de OpenAI encontraron una forma de comunicarse entre ellos, pese a que habían sido diseñados para trabajar de manera aislada. Según reconoce la compañía, durante sus evaluaciones internas de seguridad, descubrieron que las accione.",
-      "date": "2026-09-02"
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "summary": "Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.",
+      "date": "2026-09-14"
     },
     {
-      "title": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas",
-      "summary": "IBM y OpenAI han anunciado este jueves una alianza estratégica para facilitar a las empresas la implementación de inteligencia artificial a gran escala en sus operaciones, con especial énfasis en los servicios financieros, la administración pública, las telecomunicaciones y el mercado minorista. La alianza llega en un.",
-      "date": "2026-08-13"
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "summary": "Da-kuk / Getty Images Durante el fin de semana, el director ejecutivo de Anthropic, Dario Amodei, pidió a las empresas de inteligencia artificial (IA), incluida la suya propia, que ralentizaran su ritmo de trabajo . Sam Altman y Elon Musk, directores de las empresas rivales OpenAI y xAI, respectivamente, se mostraron d.",
+      "date": "2026-09-14"
     },
     {
-      "title": "Los agentes de IA de OpenAI crearon un «foro secreto» para rebelarse y coordinar hackeos a Hugging Face",
-      "summary": "Sabemos que en varias ocasiones los agentes de IA de las diferentes compañías se han salido de sus raíles y han hecho cosas que no deberían haber hecho. Incluyendo hackeos. Y que desde luego no es la primera vez que las IA conspiran en foros, pero lo que ha contado OpenAI en la Black Hat supera todo lo que hemos visto.",
-      "date": "2026-08-07"
+      "title": "El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA",
+      "summary": "El IBEX 35 , principal índice de la Bolsa española , ha perdido este lunes un 1,38 % , lastrado por la subida del precio del petróleo y las caídas de las empresas de semiconductores y chips ante las dudas sobre la inversión en inteligencia artificial (IA) tras el retraso de la salida a bolsa de OpenAI. El selectivo esp.",
+      "date": "2026-09-14"
     },
     {
-      "title": "SoftBank reduce un 17,7% sus ganancias en su primer trimestre y apunta a alcanzar un 13% de OpenAI",
-      "summary": "SoftBank Group se anotó un beneficio neto atribuido de 347.330 millones de yenes (1.908 millones de euros) al cierre de su primer trimestre fiscal, entre los meses de abril y junio, lo que representa una caída del 17,7% respecto del resultado contabilizado por el conglomerado japonés en el mismo periodo de su anterior.",
-      "date": "2026-08-06"
+      "title": "Sam Altman descarta la salida a Bolsa de OpenAI en 2026: \"Dada la situación actual en materia de seguridad, no sería el momento adecuado\"",
+      "summary": "El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especializadas en inteligencia artificial a ralentizar su desarrollo Leer.",
+      "date": "2026-09-13"
     },
     {
-      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
-      "summary": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará d.",
-      "date": "2026-08-05"
+      "title": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
+      "summary": "Hay décadas en las que no pasa nada y hay semanas en las que pasan décadas. Esta frase apócrifa de Lenin resume a la perfección el vértigo revolucionario que se vive en el mundo de la inteligencia artificial (IA). Durante lustros fue un árido campo académico que avanzaba dentro de las ciencias computacionales y ahora,.",
+      "date": "2026-09-13"
     },
     {
-      "title": "Apple denuncia a OpenAI por robo de secretos",
-      "summary": "Apple ha solicitado esta semana a un juez estadounidense una orden judicial preliminar para impedir que OpenAI y dos de sus exempleados accedan a información confidencial de la compañía, una petición que la empresa de IA ha calificado de \"descuidada, agresiva y extrañamente personal\". Como parte de esta escalada judici.",
-      "date": "2026-08-05"
+      "title": "Los líderes de la IA alertan de que esta tecnología crece demasiado rápido",
+      "summary": "Los gigantes tecnológicos no suelen estar de acuerdo entre ellos. Eso hace aún más llamativo, y más alarmante, el consenso este sábado entre los grandes líderes estadounidenses de la inteligencia artificial: el director general de OpenAI, Sam Altman; y el fundador de SpaceXAI, Elon Musk, se han sumado al llamamiento de.",
+      "date": "2026-09-13"
     },
     {
-      "title": "Apple pide a un tribunal que frene el dispositivo de IA de OpenAI",
-      "summary": "Apple ha acusado a más extrabajadores de filtrar información confidencial a OpenAI. El gigante tecnológico ha pedido a un tribunal que ponga un freno al desarrollo de dispositivos en OpenAI hasta que se resuelva la demanda . Como era de esperarse, la empresa dirigida por Sam Altman ya respondió y negó tener o querer se.",
-      "date": "2026-08-04"
+      "title": "Los grandes matemáticos reaccionan contra la actitud de OpenAI: “Es una amenaza para el trabajo intelectual”",
+      "summary": "Un grupo de 15 galardonados con la prestigiosa Medalla Fields encabeza un manifiesto en el que denuncian que los objetivos de las empresas de IA y los de la comunidad matemática están profundamente desalineados Hemeroteca - Los genios de “lápiz y papel” contra la máquina insaciable: cómo la IA ha cambiado el significad.",
+      "date": "2026-09-12"
     },
     {
-      "title": "La Primera de Expansión sobre Santander, Holaluz, Iberdrola, Ormuz, Infantino y OpenAI",
-      "summary": "Santander gano 8.973 millones, un 31% más, por la plusvalía de la venta en Polonia.",
-      "date": "2026-07-22"
+      "title": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+      "summary": "Horas después de anunciar que había resuelto uno de los problemas más relevantes de la historia de las matemáticas, OpenAI modificó en silencio el artículo científico en el que lo demostraba para citar a los humanos que trabajaron durante años en la solución que la IA encontró en horas. La primera versión, publicada a.",
+      "date": "2026-09-10"
     },
     {
-      "title": "Apple envía cartas de advertencia a decenas de exempleados que ahora trabajan en OpenAI",
-      "summary": "Apple ha decidido llevar su disputa legal con OpenAI a un terreno mucho más personal. El gigante tecnológico envió cartas de advertencia a decenas de extrabajadores que hoy forman parte de la plantilla de la empresa de IA. La medida llega a unos días de que Apple presentara una demanda en la que acusa a OpenAI de robar.",
-      "date": "2026-07-17"
+      "title": "¿Realmente ha resuelto OpenAI el “problema matemático del milenio” de Navier-Stokes?",
+      "summary": "El \"problema del milenio\" está relacionado con la velocidad de fluidos llamados \"incompresibles\" (un _jet_, como el que muestra la imagen). Wikimedia commons , CC BY El 8 de septiembre de 2026, la empresa OpenAI anunció en su cuenta de X una solución a las ecuaciones de Navier-Stokes , uno de los siete “ problemas mate.",
+      "date": "2026-09-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
+      "url": "https://elpais.com/economia/2026-09-14/los-miedos-a-la-ia-enredan-las-mayores-operaciones-financieras-de-la-historia.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T14:06:15.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T06:22:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "url": "https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T11:24:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    },
+    {
+      "title": "El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA",
+      "url": "https://theobjective.com/economia/2026-09-14/ibex-35-pierde-petroleo-incertidumbre-ia/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:02:59.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 4
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "startup funding"
   ],
@@ -39,6 +39,13 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "NSF moves to overhaul funding approach in line with White House priorities",
+      "url": "https://www.nature.com/articles/d41586-026-02892-9?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T17:40:47.614Z",
+      "sourceId": "lootura-us-nature"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -40,4 +40,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Metro de Madrid llegará en 2034 a Las Tablas, Móstoles y Leganés y abrirá 24 horas la Línea 6 en fines de semana](https://www.elconfidencial.com/espana/madrid/2026-09-10/metro-madrid-las-tablas-mostoles-leganes-24-horas-linea-6-fin-semana_4420746/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+No public source links.

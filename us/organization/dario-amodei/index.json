@@ -1,0 +1,54 @@
+{
+  "id": "usa-dario-amodei",
+  "name": "Dario Amodei",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/dario-amodei",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/dario-amodei",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/dario-amodei/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/dario-amodei/index.json",
+  "description": "Follow Dario Amodei, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Dario Amodei first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says U.S.-China AI race poses \"toughest dilemma\"",
+      "summary": "In an exclusive interview with CBS News' Jo Ling Kent, Anthropic CEO Dario Amodei called on the tech industry to slow the development of AI. But, he acknowledged the \"toughest dilemma\" is coming to an international agreement amid the development race between the U.S.and China.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Here’s the biggest news you missed this weekend",
+      "summary": "Sam Altman and Dario Amodei are publicly calling to slow down development of new AI systems, adding to a week of warnings from researchers about the technology.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+      "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag. (Image credit: Karl Mondon).",
+      "date": "2026-09-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+      "url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T01:04:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
+}

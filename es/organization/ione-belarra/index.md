@@ -3,20 +3,26 @@
 > Sigue la actividad de Ione Belarra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-11T18:58:06.359Z
 - Canonical: https://atlas.lootura.com/es/organization/ione-belarra
 
 ## Cambios recientes
 
-### Podemos dice que Sánchez tiene "miedo" a Marruecos y se pregunta si es porque "tienen demasiada información" sobre él
+### Podemos lanza este sábado la candidatura de Irene Montero a las generales sin concretar aún las alianzas
 
-La secretaria general de la formación, Ione Belarra, ha advertido al Gobierno de que no contará con sus votos para los Presupuestos Generales del Estado ya que "hacen definitivo el mayor rearme de la historia de nuestro país" El tira y afloja con Podemos y Junts junto a la crisis de Ceuta congelan la negociación del de.
+Podemos pone en marcha la maquinaria electoral para las generales en el arranque del curso político. El partido que dirige Ione Belarra tiene previsto lanzar este sábado oficialmente la candidatura de la exministra de Igualdad y eurodiputada Irene Montero a la presidencia del Gobierno, un movimiento que adelantaron ya.
 
-Date: 2026-09-05
+Date: 2026-09-11
 
 ### Discovered by Atlas
 
 Ione Belarra first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-05
+
+### Podemos dice que Sánchez tiene "miedo" a Marruecos y se pregunta si es porque "tienen demasiada información" sobre él
+
+La secretaria general de la formación, Ione Belarra, ha advertido al Gobierno de que no contará con sus votos para los Presupuestos Generales del Estado ya que "hacen definitivo el mayor rearme de la historia de nuestro país" El tira y afloja con Podemos y Junts junto a la crisis de Ceuta congelan la negociación del de.
 
 Date: 2026-09-05
 

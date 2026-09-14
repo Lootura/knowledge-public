@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T09:09:09.297Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "summary": "Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "summary": "Da-kuk / Getty Images Durante el fin de semana, el director ejecutivo de Anthropic, Dario Amodei, pidió a las empresas de inteligencia artificial (IA), incluida la suya propia, que ralentizaran su ritmo de trabajo . Sam Altman y Elon Musk, directores de las empresas rivales OpenAI y xAI, respectivamente, se mostraron d.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Los líderes de la IA alertan de que esta tecnología crece demasiado rápido",
+      "summary": "Los gigantes tecnológicos no suelen estar de acuerdo entre ellos. Eso hace aún más llamativo, y más alarmante, el consenso este sábado entre los grandes líderes estadounidenses de la inteligencia artificial: el director general de OpenAI, Sam Altman; y el fundador de SpaceXAI, Elon Musk, se han sumado al llamamiento de.",
+      "date": "2026-09-13"
+    },
     {
       "title": "La nueva IA de Elon Musk trabaja por ti: así es Grok Bot",
       "summary": "Elon Musk quiere que Grok deje de ser únicamente una inteligencia artificial polémica a la que hacer preguntas, en el mejor de los casos. Su empresa, SpaceXAI, ha presentado Grok Bot , un nuevo servicio de agentes autónomos diseñado para realizar trabajos completos de principio a fin. Dicha herramienta acaba de estrena.",
@@ -45,18 +60,21 @@
       "title": "Discovered by Atlas",
       "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-04"
-    },
-    {
-      "title": "SpaceX dispara sus ingresos un 92% en los primeros resultados trimestrales tras su salida a Bolsa",
-      "summary": "SpaceX, la compañía de cohetes fundada por Elon Musk en 2002, ha presentado este martes los primeros resultados después de protagonizar el pasado 12 de junio la mayor salida a Bolsa de la historia de Wall Street. El grupo aeroespacial y tecnológico ha registrado unos ingresos de 7.814 millones de dólares, lo que repres.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Próspera y Starbase: las ciudades “sin ley” de las tecnológicas",
-      "summary": "La ciudad de Starbase, en Texas, es un mini Estado dirigido por la empresa SpaceX de Elon Musk. Starbase. , CC BY-SA Cuando Próspera, una ciudad en la paradisiaca isla de Roatán (Honduras), fue calificada por el Gobierno hondureño como Zona de Empleo y Desarrollo Económico (“ZEDE”), en 2013, despertó mucho interés entr.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T06:22:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "url": "https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T11:24:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 2
 }

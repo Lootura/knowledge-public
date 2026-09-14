@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Trump Is Delayed After Emergency Slide Deploys on New Air Force One](https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html?utm_source=lootura.com) — 2026-09-09T21:40:34.000Z
+No public source links.

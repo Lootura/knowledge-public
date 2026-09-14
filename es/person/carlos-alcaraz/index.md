@@ -3,10 +3,22 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
+
+### La doble función de la malla con la que juega Alcaraz: «Se utiliza como apoyo para generar protección y seguridad al deportista»
+
+Es domingo, 23 de agosto, y Carlos Alcaraz ya se deja ver por las instalaciones de Flushing Meadows para ejercitarse de cara al US Open , el primer torneo que ha disputado tras 139 días lesionado de su muñeca derecha . Reapareció con una malla de compresión que va desde el codo hasta prácticamente la mencionada muñeca.
+
+Date: 2026-09-14
+
+### Alcaraz, una sonrisa eterna y el objetivo cumplido en el US Open: «Esto es por lo que salto a entrenar cada día»
+
+Se rozan las cuatro de la mañana en la Arthur Ashe cuando Carlos Alcaraz , rodeado de decenas de periodistas, se persona en las tripas del recinto para analizar su eliminación. Ha caído ante Shelton tras más de cuatro horas y media de batalla contra los elementos, pero sonríe, no deja de esbozar una sonrisa. La misma c.
+
+Date: 2026-09-10
 
 ### Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo
 
@@ -58,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-No public source links.
+- [La doble función de la malla con la que juega Alcaraz: «Se utiliza como apoyo para generar protección y seguridad al deportista»](https://okdiario.com/deportes/doble-funcion-malla-que-juega-alcaraz-utiliza-como-apoyo-generar-proteccion-seguridad-deportista-20286646?utm_source=lootura.com) — 2026-09-14T17:00:56.000Z

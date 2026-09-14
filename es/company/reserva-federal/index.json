@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/reserva-federal/index.json",
   "description": "Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T03:00:59.069Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [
     "FED",
     "FRS",
@@ -18,6 +18,26 @@
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "El temor a un freno en la IA desata caídas en el sector de hasta el 12%",
+      "summary": "Los focos de presión se multiplican para las compañías y los índices protagonistas del rally bursátil alentado por la IA. La agenda financiera incluía para esta semana una fecha claramente marcada en el calendario. El 16 de septiembre se conocerá el desenlace de la reunión de la Reserva Federal de Estados Unidos. Los ú.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA",
+      "summary": "La semana de la Reserva Federal comienza con nuevas dudas. La escalada del petróleo y el revés a las empresas tecnológicas, en especial a los valores más ligados a la IA, ejercen de lastre sobre las Bolsas. El Ibex se esfuerza en minimizar las presiones bajistas.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Los valores del Ibex más afectados por el freno en la IA",
+      "summary": "La semana de la Reserva Federal arranca con otros dos competidores a la hora de centrar la atención de los mercados: el petróleo y la IA . El crudo mantiene su escalada, y las empresas más disparadas con el rally de la inteligencia artificial inician la semana con un correctivo bursátil generalizado . Seguir leyendo.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "La inflación en Estados Unidos se mantiene en el 3,4% en agosto y deja un camino incierto para la Reserva Federal",
+      "summary": "La inflación de Estados Unidos se mantuvo en el 3,4% en agosto , el mismo nivel que en julio, según los datos publicados este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas en inglés). La cifra se mantiene lejos del objetivo del 2% marcado por la Reserva Federal, aunque supone un alivio de las ten.",
+      "date": "2026-09-11"
+    },
     {
       "title": "El Ibex salva los 20.000 puntos pese al repunte del petróleo y las dudas sobre la Fed",
       "summary": "El Ibex 35 ha salvado por la mínima los 20.000 puntos en una sesión bursátil dominada por el repunte del petróleo y el regreso de las dudas sobre los próximos pasos que dará la Reserva Federal (Fed) de Estados Unidos en el ámbito de la política monetaria. El selectivo español ha cerrado con una caída del 0,14 hasta los.",
@@ -47,28 +67,27 @@
       "title": "El Ibex 35 espera en rojo el informe de empleo de Estados Unidos",
       "summary": "Las perspectivas más moderadas sobre los tipos de interés, después de que el gobernador de la Reserva Federal, Christopher Waller, disipa los temores a una inminente subida de las tasas en EE UU. Por su parte, los precios del petróleo se estabilizan con el Brent en los 95 dólares por barril, aunque acumulan un alza de.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
-      "summary": "El mercado da un 60% de probabilidades a que la Reserva Federal (Fed) decida subir los tipos de interés en la reunión de su comité de política monetaria prevista para el próximo 16 de septiembre. Seguir leyendo.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos",
-      "summary": "Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU",
-      "summary": "Ni los inversores ni las firmas de análisis terminan de tenerlo claro. Apenas un día después de que la moderación de la inflación en EE UU reforzara la idea de que la Reserva Federal puede permitirse una pausa antes de decidir si vuelve a subir los tipos de interés, los mercados siguen oscilando entre las señales de al.",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos",
-      "summary": "La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El temor a un freno en la IA desata caídas en el sector de hasta el 12%",
+      "url": "https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:18:30.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T15:39:14.000Z",
+      "sourceId": "lootura-es-expansion"
+    },
+    {
+      "title": "Los valores del Ibex más afectados por el freno en la IA",
+      "url": "https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:14:05.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 3
 }

@@ -3,73 +3,71 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
 
-### AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida
+### As Midterms Rage, Gillibrand Wants Congress to Talk Menopause
 
-The progressive representative from New York spoke at a small event to help lift the underdog Senate candidate Angie Nixon.
+Senator Kirsten Gillibrand of New York is devoting a hearing to a topic that affects millions but is poorly understood and widely ignored, including when it comes to federal research money.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Jalen Brunson to host ‘SNL’ season 52 premiere hot off of Knicks championship
+### Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero
 
-It’s nothing but net for “Saturday Night Live” later this month as the show announced that New York’s own Jalen Brunson will be the first host for the show’s 52nd season.
+President Donald Trump slammed Rep. Alexandria Ocasio-Cortez and New York City Mayor Zohran Mamdani for appearing to laugh during the solemn reading of victims’ names at the 9/11 Memorial, calling their behavior "terrible" and "inappropriate." "I think it’s terrible," Trump said when asked about the video of the two De.
 
-Date: 2026-09-09
+Date: 2026-09-13
 
-### The lasting psychological impact of 9/11 on America
+### On board a warship headed to support the war in Iran
 
-Judy Woodruff recently visited the September 11 Memorial in New York for a look at how the attacks, 25 years ago, continue to shape our lives today. It's part of her series, Crossroads: America at 250.
+The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.
 
-Date: 2026-09-09
+Date: 2026-09-12
 
-### College swap shop helps students and families save money and the environment
+### Why flowers are placed on some names at the 9/11 Memorial
 
-For college students, the cost of heading back to campus can add up fast. But at New York University, students are stocking up without spending a dime. CBS News' Evyn Moon reports on how their campus swap is saving students money and giving old dorm gear a new life.
+As the nation marks 25 years since the 9/11 terror attacks, Jarred Hill takes a look at how the memorial in New York honors the lives of those who died year round through the birthday flowers program.
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### Trump's construction projects are transforming the capital
+### Woman reunites with baby she saved on 9/11, now 25 years old
 
-President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve "architectural immortality.".
+On Sept. 11, 2001, Darla Stuckey went to work at the New York Stock Exchange like any other morning. Then, moments after the World Trade Center attacks, she had a chance encounter that forever changed her life -- and that of a nine-month-old baby. Lesley Stahl has the story.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
-### Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam
+### 3 generations of FDNY family share their tragic 9/11 story
 
-New York City mayor confirms he will attend memorial service but declines to respond to Giuliani’s remarks New York mayor Zohran Mamdani is set to come face-to-face with Rudy Giuliani at the main September 11 memorial service, just days after the former mayor – who led the city at the time of the 2001 terrorist attacks.
+Tony Dokoupil tells the story of a New York City Fire Department family that experienced 9/11 through three generations and how they remember the loved one they lost 25 years later.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
-### For a Photographer, the Towers Were an Ever-Present Focal Point
+### America Remembers: 25th anniversary of September 11
 
-Keith Meyers spent years photographing the waterfronts in and around New York City. The twin towers became a constant backdrop.
+Tonight, 25 years later, the nation is remembering one of the darkest days that forever changed the course of history. NBC Nightly News’ anchor Tom Llamas reports from New York City.
 
-Date: 2026-09-07
+Date: 2026-09-11
 
-### Serena and Venus Williams fall in thriller return to U.S. Open women's doubles
+### Hillary Clinton reflects on the losses and lessons of 9/11
 
-Playing together at the U.S. Open in New York for the first time in four years, Serena​ and Venus Williams lost in a three-set thriller match in the first round of the women's doubles tournament.
+Twenty-five years ago, Hillary Clinton was the junior senator for the state of New York. This week, she is reflecting on what's been lost and what she has learned since. In her essay for The Atlantic, "What the Aftermath of 9/11 Taught Me," Clinton looks back at how leaders handled public health, national security and.
 
-Date: 2026-09-05
+Date: 2026-09-11
 
-### What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?
+### At 9/11 ceremony, Giuliani and Mamdani … shake hands?
 
-NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s cit.
+BEST FRENEMIES: Didn’t see this one coming. At Friday’s ceremony commemorating the 25th anniversary of the Sept. 11 terrorist attacks, former Mayor Rudy Giuliani — he of the recent anti-Muslim tirade — shook hands with New York City Mayor Zohran Mamdani, the subject of that rant. The former Republican mayor even offere.
 
-Date: 2026-09-05
+Date: 2026-09-11
 
-### News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood
+### New York Marks the 25th Anniversary of 9/11 at Ground Zero
 
-In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city'.
+At a ceremony in Lower Manhattan, elected officials and loved ones of those killed in the 2001 terror attacks gathered in solemn remembrance.
 
-Date: 2026-09-04
+Date: 2026-09-11
 
 ## Sources
 
-- [Jalen Brunson to host ‘SNL’ season 52 premiere hot off of Knicks championship](https://www.nbcnews.com/pop-culture/pop-culture-news/jalen-brunson-host-snl-season-52-premiere-hot-knicks-championship-rcna596841?utm_source=lootura.com) — 2026-09-09T17:53:40.000Z
-- [The lasting psychological impact of 9/11 on America](https://www.pbs.org/newshour/show/the-lasting-psychological-impact-of-9-11-on-america?utm_source=lootura.com) — 2026-09-09T22:20:50.000Z
-- [AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida](https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html?utm_source=lootura.com) — 2026-09-10T01:29:37.000Z
+- [As Midterms Rage, Gillibrand Wants Congress to Talk Menopause](https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html?utm_source=lootura.com) — 2026-09-14T15:13:49.000Z

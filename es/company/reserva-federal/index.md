@@ -3,10 +3,34 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### El temor a un freno en la IA desata caídas en el sector de hasta el 12%
+
+Los focos de presión se multiplican para las compañías y los índices protagonistas del rally bursátil alentado por la IA. La agenda financiera incluía para esta semana una fecha claramente marcada en el calendario. El 16 de septiembre se conocerá el desenlace de la reunión de la Reserva Federal de Estados Unidos. Los ú.
+
+Date: 2026-09-14
+
+### El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA
+
+La semana de la Reserva Federal comienza con nuevas dudas. La escalada del petróleo y el revés a las empresas tecnológicas, en especial a los valores más ligados a la IA, ejercen de lastre sobre las Bolsas. El Ibex se esfuerza en minimizar las presiones bajistas.
+
+Date: 2026-09-14
+
+### Los valores del Ibex más afectados por el freno en la IA
+
+La semana de la Reserva Federal arranca con otros dos competidores a la hora de centrar la atención de los mercados: el petróleo y la IA . El crudo mantiene su escalada, y las empresas más disparadas con el rally de la inteligencia artificial inician la semana con un correctivo bursátil generalizado . Seguir leyendo.
+
+Date: 2026-09-14
+
+### La inflación en Estados Unidos se mantiene en el 3,4% en agosto y deja un camino incierto para la Reserva Federal
+
+La inflación de Estados Unidos se mantuvo en el 3,4% en agosto , el mismo nivel que en julio, según los datos publicados este viernes por la Oficina de Estadísticas Laborales (BLS, en sus siglas en inglés). La cifra se mantiene lejos del objetivo del 2% marcado por la Reserva Federal, aunque supone un alivio de las ten.
+
+Date: 2026-09-11
 
 ### El Ibex salva los 20.000 puntos pese al repunte del petróleo y las dudas sobre la Fed
 
@@ -44,30 +68,8 @@ Las perspectivas más moderadas sobre los tipos de interés, después de que el 
 
 Date: 2026-09-04
 
-### Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos
-
-El mercado da un 60% de probabilidades a que la Reserva Federal (Fed) decida subir los tipos de interés en la reunión de su comité de política monetaria prevista para el próximo 16 de septiembre. Seguir leyendo.
-
-Date: 2026-09-02
-
-### Warsh se topa con el calendario electoral de Trump: los analistas, divididos sobre cuándo subirá tipos
-
-Kevin Warsh cumplió el pasado viernes en Jackson Hole con el papel que se le presupone a un presidente de la Reserva Federal. Mostró su preocupación por la inflación y su disposición para contenerla , un mensaje con el que los inversores se quedaron conformes —aliviados por el compromiso de la Fed con la estabilidad de.
-
-Date: 2026-09-02
-
-### El Ibex deja escapar los máximos mientras se afianzan las apuestas por tipos estables en EE UU
-
-Ni los inversores ni las firmas de análisis terminan de tenerlo claro. Apenas un día después de que la moderación de la inflación en EE UU reforzara la idea de que la Reserva Federal puede permitirse una pausa antes de decidir si vuelve a subir los tipos de interés, los mercados siguen oscilando entre las señales de al.
-
-Date: 2026-08-13
-
-### La inflación aleja el riesgo de una Fed más agresiva, pero las Bolsas tropiezan en su asalto a nuevos máximos
-
-La moderación de la inflación en EE UU aleja el riesgo de una Reserva Federal más agresiva, pero no es suficiente para sostener las ganancias en las Bolsas. Después de alcanzar nuevos máximos intradía, los principales índices europeos fueron perdiendo fuelle en la recta final de la jornada, reflejo de un mercado cada v.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [El temor a un freno en la IA desata caídas en el sector de hasta el 12%](https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html?utm_source=lootura.com) — 2026-09-14T16:18:30.000Z
+- [El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA](https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html?utm_source=lootura.com) — 2026-09-14T15:39:14.000Z
+- [Los valores del Ibex más afectados por el freno en la IA](https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html?utm_source=lootura.com) — 2026-09-14T16:14:05.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/el-tarajal
 
 ## Cambios recientes
+
+### El Tarajal es el actual Perejil
+
+Comienza otra semana y la ciudad autónoma de Ceuta sigue en el foco de la actualidad acaparando la atención política e informativa nacional, ya que los ceutíes siguen «conviviendo » sumidos en la «anormalidad» personal y social derivada de que siguen entre ellos miles de los invasores que se negaron a regresar por dond.
+
+Date: 2026-09-14
+
+### Arden 42 chabolas que los inmigrantes habían levantado en los alrededores de El Tarajal en una noche de incendios en Ceuta
+
+Los bomberos de la Ciudad Autónoma califican de "noche terrible" lo ocurrido esta madrugada, en la que se han quemado también contenedores y vehículos en distintos puntos Leer.
+
+Date: 2026-09-11
 
 ### Ceuta trata de convivir con la emergencia mientras cientos de migrantes buscan espacios de acogida
 
@@ -56,18 +68,6 @@ La polémica estalló tras el mensaje publicado por Pablo Echenique en sus redes
 
 Date: 2026-08-04
 
-### La crisis de Ceuta divide a la opinión pública europea
-
-La avalancha de inmigrantes que entraron la semana pasada a Ceuta no acaparó únicamente la atención por la emergencia humanitaria, sino también por sus derivadas geopolíticas e implicaciones diplomáticas. Los medios internacionales abrieron portadas e informativos con las imágenes llegadas desde El Tarajal, pero han ma.
-
-Date: 2026-08-03
-
-### Interior asegura que las barreras de contención están «plenamente operativas» en Ceuta
-
-El Ministerio del Interior ha informado este domingo de que las barreras de contención instaladas este sábado, 1 de agosto, en la zona de El Tarajal, en Ceuta , se encuentran ya «plenamente operativas» . En un mensaje difundido a través de sus canales oficiales, el departamento que dirige Fernando Grande-Marlaska ha se.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El Tarajal es el actual Perejil](https://okdiario.com/opinion/tarajal-actual-perejil-20287536?utm_source=lootura.com) — 2026-09-14T17:00:56.000Z

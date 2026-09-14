@@ -3,10 +3,28 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
+
+### La ONU alerta del peligro de la IA y pide regularla: "Todos los derechos humanos están en riesgo"
+
+El Alto Comisionado de Naciones Unidas para los Derechos Humanos ha advertido de que "la carrera hacia una IA cada vez más potente supone un salto cualitativo hacia mayores riesgos existenciales para todos los aspectos de nuestras vidas" Documento - Consulta aquí la carta completa del Alto Comisionado de la ONU ¿Puede.
+
+Date: 2026-09-14
+
+### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
+
+El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.
+
+Date: 2026-09-14
+
+### Fragmento del día: Nueva York
+
+en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.
+
+Date: 2026-09-13
 
 ### El régimen talibán cumple cinco años en el poder entre el orden forzado y el colapso humanitario
 
@@ -50,24 +68,7 @@ El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la c
 
 Date: 2026-07-22
 
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-La designación no es tan sencilla, ya que combina un procedimiento formal fijado en la Carta de las Naciones Unidas con intensas negociaciones a puerta cerrada entre las grandes potencias.
-
-Date: 2026-07-22
-
-### Marlaska defiende ante la ONU la baliza V-16 y presume de la seguridad vial en España
-
-El ministro del Interior, Fernando Grande-Marlaska, ha defendido ante las Naciones Unidas la implantación de la baliza V-16 conectada como una de las.
-
-Date: 2026-07-21
-
-### Discovered by Atlas
-
-Organización de las Naciones Unidas first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [La ONU alerta del peligro de la IA y pide regularla: "Todos los derechos humanos están en riesgo"](https://www.eldiario.es/tecnologia/onu-alerta-peligro-ia-pide-regularla-derechos-humanos-riesgo_1_13508447.html?utm_source=lootura.com) — 2026-09-14T13:00:46.000Z
+- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z

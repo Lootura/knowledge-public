@@ -52,4 +52,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates](https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami?utm_source=lootura.com) — 2026-09-09T09:09:32.000Z
+No public source links.

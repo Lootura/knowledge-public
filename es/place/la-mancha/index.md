@@ -3,10 +3,28 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes (Ciudad Real)
+
+Un trabajador de 48 años ha sido evacuado este sábado al hospital de Ciudad Real tras resultar herido por el aplastamiento de una pierna con un toro mecánico en un supermercado de Villanueva de los Infantes. Según ha detallado el 112 de Castilla-La Mancha , el aviso se registró a las 10.40 horas desde la Avenida de las.
+
+Date: 2026-09-12
+
+### Cuatro comunidades hicieron trampas en PISA y una está bajo sospecha: «Page entrenó a sus alumnos para el test»
+
+A pesar de los esfuerzos de los dirigentes autonómicos por tratar de buscarle un lado positivo a los datos del informe PISA , ninguna región tiene nada que celebrar. Todas las autonomías empeoraron sus resultados tanto en Lectura, como en Matemáticas y en Ciencias. Con una excepción: Castilla-La Mancha. La comunidad go.
+
+Date: 2026-09-12
+
+### García-Page advierte de que la crisis de Ceuta puede convertirse en la “segunda gran mentira de la democracia” tras el 11-M
+
+El presidente de Castilla-La Mancha, Emiliano García-Page, ha calificado la crisis de Ceuta como “uno de los grandes desastres de gestión” y ha exigido “espabilar” al Gobierno para que no sea la “segunda gran mentira de la democracia, como la autoría del 11-M ”, en referencia a la tesis del PP que señaló a ETA como com.
+
+Date: 2026-09-10
 
 ### Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"
 
@@ -50,24 +68,6 @@ Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades 
 
 Date: 2026-09-01
 
-### Dos fallecidos y un herido tras la colisión frontal de dos turismos en Albacete
-
-Dos personas han fallecido y una tercera ha resultado herida este jueves en un choque frontal entre dos turismos en el kilómetro 361 de la N-322 , a su paso por Albacete. Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla -La Mancha, el aviso del accidente se registró a las 550 horas. Las víctima.
-
-Date: 2026-08-13
-
-### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
-
-El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
-
-Date: 2026-08-12
-
-### La Mancha aúna gastronomía y astronomía ante el eclipse total de sol con una comida popular de Sabor Toledo
-
-La provincia de Toledo se prepara para vivir un acontecimiento histórico este próximo miércoles, 12 de agosto. Por primera vez en 126 años, la comarca manchega se situará como uno de los escenarios idóneos en España para contemplar el eclipse total de sol. Con motivo de este fenómeno, que prevé reunir a varios miles de.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-- [Page responde a Sánchez por despreciar su opinión por "minoritaria": "Él vive arrodillado a las minorías más sangrientas"](https://www.elmundo.es/espana/2026/09/09/6aa1481121efa0d20c8b4593.html?utm_source=lootura.com) — 2026-09-09T12:07:50.000Z
+No public source links.

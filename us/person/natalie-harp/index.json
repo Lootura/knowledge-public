@@ -10,7 +10,8 @@
   "description": "Follow Natalie Harp, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
-    "\"the human printer\""
+    "\"the human printer\"",
+    "Natalie"
   ],
   "changes": [
     {
@@ -24,13 +25,6 @@
       "date": "2026-09-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
-      "url": "https://www.cbsnews.com/news/trump-natalie-harp-gift/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T17:56:08.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -1,0 +1,36 @@
+{
+  "id": "usa-aryna-sabalenka",
+  "name": "Aryna Sabalenka",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/aryna-sabalenka",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/aryna-sabalenka",
+  "markdownUrl": "https://atlas.lootura.com/us/person/aryna-sabalenka/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/aryna-sabalenka/index.json",
+  "description": "Follow Aryna Sabalenka, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "aliases": [
+    "Aryna",
+    "Aryna Siarhiejeŭna Sabalenka",
+    "Sabalenka"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Aryna Sabalenka first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Elena Rybakina bests defending champion Aryna Sabalenka to win her first U.S. Open",
+      "summary": "Aryna Sabalenka, the two-time defending U.S. Open champion, was dethroned Saturday, losing to Elena Rybakina in three sets.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Elena Rybakina ends Aryna Sabalenka's bid for third straight US Open title",
+      "summary": "Elena Rybakina moved one step closer to completing a career Grand Slam Saturday, defeating Aryna Sabalenka 6-4, 5-7, 6-2 to win her first U.S. Open title. Rybakina had already been guaranteed to replace Sabalenka at No. 1 in the women's tennis world rankings next week, but she did more than inherit the top spot. She cl.",
+      "date": "2026-09-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

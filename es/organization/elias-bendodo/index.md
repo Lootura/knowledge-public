@@ -3,10 +3,16 @@
 > Sigue la actividad de Elías Bendodo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/organization/elias-bendodo
 
 ## Cambios recientes
+
+### Bendodo denuncia que la falta de energía bloquea la construcción de miles de viviendas
+
+El coordinador general de Política Autonómica y Municipal y Análisis Electoral del PP , Elías Bendodo , ha responsabilizado este domingo al Gobierno por la falta de vivienda en España y ha asegurado que la «falta de suministro energético, competencia del Ejecutivo central, está bloqueando miles de viviendas, según reco.
+
+Date: 2026-09-13
 
 ### El PP pide que los inmigrantes «vuelvan a Marruecos» para normalizar Ceuta
 

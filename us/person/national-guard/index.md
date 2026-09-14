@@ -3,7 +3,7 @@
 > Follow National Guard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-12T09:08:54.968Z
+- Updated: 2026-09-13T03:06:35.172Z
 - Canonical: https://atlas.lootura.com/us/person/national-guard
 
 ## Recent changes

@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### Por qué las lluvias tras el verano son más que necesarias
+
+Según los registros de la Agencia Estatal de Meteorología (AEMET), el verano de 2026 ha sido el más cálido de la serie histórica española (1961-2026). Los datos del periodo del 1 de junio al 31 de agosto indican que la temperatura media fue de 24,5 ºC, superando en 2,5 grados el promedio de la serie histórica y en 0,3.
+
+Date: 2026-09-14
 
 ### La Aemet avanza más calor en las próximas horas: estas son las provincias en alerta por altas temperaturas
 
@@ -64,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-No public source links.
+- [Por qué las lluvias tras el verano son más que necesarias](https://theconversation.com/por-que-las-lluvias-tras-el-verano-son-mas-que-necesarias-291685?utm_source=lootura.com) — 2026-09-14T15:48:51.000Z

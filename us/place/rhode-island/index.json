@@ -8,27 +8,37 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/rhode-island/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/rhode-island/index.json",
   "description": "Follow Rhode Island, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-10T22:15:13.525Z",
   "aliases": [
-    "RI",
-    "State of Rhode Island",
-    "Rhode Island, United States",
-    "State of Rhode Island and Providence Plantations",
-    "Road Island",
-    "Little Rhody",
-    "The Ocean State",
-    "Rhode Island and Providence Plantations",
-    "US-RI",
-    "Providence Plantations",
-    "The State of Rhode Island and Providence Plantations",
-    "Ocean State",
-    "Rhode Island (state)",
-    "Rhode Island (U.S. state)",
     "13th State",
+    "Little Rhodie",
+    "Little Rhody",
+    "Ocean State",
+    "Providence Plantations",
+    "RI",
+    "Rhode Island (U.S. state)",
+    "Rhode Island (state)",
     "Rhode Island State",
-    "Little Rhodie"
+    "Rhode Island and Providence Plantations",
+    "Rhode Island, United States",
+    "Road Island",
+    "State of Rhode Island",
+    "State of Rhode Island and Providence Plantations",
+    "The Ocean State",
+    "The State of Rhode Island and Providence Plantations",
+    "US-RI"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rhode Island first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary",
+      "summary": "Rhode Island Gov. Dan McKee was dogged by questions about his administration's work to replace a critical bridge in the state capital that was abruptly closed due to safety problems in 2023.",
+      "date": "2026-09-10"
+    },
     {
       "title": "Rhode Island governor projected to lose Democratic primary to former CVS executive",
       "summary": "Rhode Island Gov. Dan McKee is the first sitting governor nationwide to lose a primary in eight years.",
@@ -38,26 +48,8 @@
       "title": "Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary",
       "summary": "State Rep. David Morales won the Democratic nomination for mayor of Rhode Island’s largest city over incumbent Brett Smiley, NBC News projects.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Rhode Island first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Rhode Island governor projected to lose Democratic primary to former CVS executive",
-      "url": "https://www.cbsnews.com/news/rhode-island-governor-race-results-helena-foulkes-dan-mckee/?utm_source=lootura.com",
-      "publishedAt": "2026-09-10T00:35:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary",
-      "url": "https://www.nbcnews.com/politics/2026-election/david-morales-winner-providence-mayor-primary-democrat-smiley-rcna596606?utm_source=lootura.com",
-      "publishedAt": "2026-09-10T00:34:57.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

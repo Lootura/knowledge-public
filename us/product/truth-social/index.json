@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/truth-social/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/truth-social/index.json",
   "description": "Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-03T08:32:30.245Z",
+  "updatedAt": "2026-09-11T18:58:25.525Z",
   "aliases": [
     "TruthSocial"
   ],
   "changes": [
+    {
+      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gather.",
+      "date": "2026-09-11"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Truth Social first entered the public knowledge record with source-backed evidence.",

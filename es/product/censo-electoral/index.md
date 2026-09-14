@@ -3,10 +3,16 @@
 > Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-11T18:58:06.359Z
 - Canonical: https://atlas.lootura.com/es/product/censo-electoral
 
 ## Cambios recientes
+
+### IU llama a movilizarse contra el «atropello democrático» del Supremo con la ‘ley de nietos’
+
+IU llama a la movilización de la ciudadanía española en el extranjero contra el «atropello democrático» que supone, a su juicio, la decisión del Tribunal Supremo (TS) de suspender cautelarmente el voto para las personas ya inscritas en el Censo Electoral de Residentes Ausentes (CERA) que consiguieron la nacionalidad a.
+
+Date: 2026-09-11
 
 ### Discovered by Atlas
 

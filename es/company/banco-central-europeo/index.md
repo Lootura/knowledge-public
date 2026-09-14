@@ -3,10 +3,34 @@
 > Sigue la actividad de Banco Central Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/company/banco-central-europeo
 
 ## Cambios recientes
+
+### Los depósitos dan un 2% al ahorro por primera vez desde hace dos años
+
+La rentabilidad de los depósitos bancarios comienza a reflejar el nuevo contexto económico marcado por las subidas de tipos de interés, como la que este jueves ha aprobado el Banco Central Europeo (BCE) al elevarlos al 2,5%. Aunque las entidades financieras van a su propio ritmo a la hora de mejorar la retribución de e.
+
+Date: 2026-09-10
+
+### Cuánto tiempo tarda la Bolsa en reponerse de una subida de tipos
+
+La renta variable ha superado este año múltiples obstáculos en sus subidas. Salvo sorpresa, la próxima semana se enfrentará a nuevos obstáculos adicionales . La subida de tipos aprobada ayer por el Banco Central Europeo podría ser el preludio de los ajustes al alza que barajan adoptar la próxima semana el Banco de Japó.
+
+Date: 2026-09-10
+
+### La subida de tipos encarece las hipotecas y obstaculiza aún más el acceso a la vivienda
+
+Los españoles que viven pendientes de sus hipotecas no están teniendo precisamente su mejor año después de que el Banco Central Europeo (BCE) haya subido los tipos de interés al 2,50%. Es el segundo alza autorizada por Fráncfort en una decisión que impacta tanto entre quienes tienen que revisar ahora las condiciones de.
+
+Date: 2026-09-10
+
+### El BCE sube los tipos por segunda vez en el año porque teme una inflación prolongada
+
+La complejidad de la economía, los miles de variables en las que se basa el Banco Central Europeo (BCE) para ajustar el precio del dinero unos grados a derecha o a izquierda, esconden una verdad de sencillez extrema: depende de la guerra de Irán. La subida del precio del petróleo y el gas ha llevado al BCE a subir tipo.
+
+Date: 2026-09-10
 
 ### El Bundesbank reprocha a EE UU que vendiera euros para apoyar al yen sin avisar antes al BCE
 
@@ -43,30 +67,6 @@ Date: 2026-08-06
 Los billetes de euro están cada vez más cerca de estrenar una nueva imagen. El Banco Central Europeo (BCE) ha abierto una consulta pública para que los ciudadanos participen en la elección del diseño que lucirá el dinero en efectivo a partir de 2027. La iniciativa busca que los europeos tengan voz en un cambio que afec.
 
 Date: 2026-07-25
-
-### De Cervantes a Da Vinci y Marie Curie: los billetes de euro cambian y así son todos los nuevos por los que ya puedes votar
-
-Anverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, con un retrato de Maria Callas, una de las grandes figuras de la ópera del siglo XX. Banco Central Europeo (BCE) Reverso del billete de 5 euros del diseño preseleccionado por Studio Joost Grootens, que representa un espacio público don.
-
-Date: 2026-07-24
-
-### Los nuevos billetes del euro ya tienen finalistas: diez diseños y una encuesta abierta al público
-
-El Banco Central Europeo (BCE) ha presentado las diez propuestas finalistas para la próxima serie de billetes del euro y ha abierto una encuesta pública para que cualquier ciudadano europeo pueda opinar hasta el 21 de septiembre de 2026. Al concurso se presentaron más de 1.200 diseñadores de toda la Unión Europea. Un j.
-
-Date: 2026-07-24
-
-### La pausa del BCE y el fin de las certezas
-
-Durante años, los bancos centrales creían saber cómo combatir la inflación. Cuando los precios subían, elevaban los tipos de interés; cuando cedían, podían relajarlos. Era un mecanismo imperfecto, pero relativamente predecible. Ese manual ya no sirve. El Banco Central Europeo decidió ayer mantener los tipos de interés.
-
-Date: 2026-07-24
-
-### Discovered by Atlas
-
-Banco Central Europeo first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
 
 ## Fuentes
 

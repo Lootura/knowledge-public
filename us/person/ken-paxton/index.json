@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-13T03:06:35.172Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -22,6 +22,11 @@
     "Warren Paxton, Jr."
   ],
   "changes": [
+    {
+      "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
+      "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
+      "date": "2026-09-12"
+    },
     {
       "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
       "summary": "The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.",
@@ -68,13 +73,6 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [
-    {
-      "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T21:32:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

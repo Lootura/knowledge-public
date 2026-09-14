@@ -3,10 +3,58 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
+
+### Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk
+
+Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.
+
+Date: 2026-09-13
+
+### Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?
+
+The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains. (Image credit: Jim Urquhart).
+
+Date: 2026-09-12
+
+### Vance honors Charlie Kirk on the anniversary of his death
+
+Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.
+
+Date: 2026-09-11
+
+### How political violence shifted after Charlie Kirk was fatally shot
+
+Instances of political violence continued after Charlie Kirk was fatally shot during a Utah college event. CBS News' Anna Schecter reports.
+
+Date: 2026-09-10
+
+### Trump administration officials remember Charlie Kirk a year after his killing
+
+It has been one year since conservative political activist Charlie Kirk was fatally shot during an event in Utah. Benji Backer, the founder and CEO of Nature Is Nonpartisan, joins CBS News with more on his friendship with Kirk.
+
+Date: 2026-09-10
+
+### What Would Charlie Kirk Do Today?
+
+A year after the killing of the 31-year-old conservative youth leader, the movement he helped create has splintered. Would that be the case if he were still alive?
+
+Date: 2026-09-10
+
+### A look at the young conservative movement a year after Charlie Kirk's killing
+
+Charlie Kirk's influence is still deeply felt at the Republicans' midterm convention. His killing a year ago reshaped the young conservative movement he built and left his friends and political allies with the task of carrying it forward. To discuss the future of Turning Point USA, Geoff Bennett spoke with Robert Drape.
+
+Date: 2026-09-10
+
+### Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death
+
+President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk's death. (Image credit: Andrew Harnik).
+
+Date: 2026-09-10
 
 ### Charlie Kirk's alleged killer will stand trial for aggravated murder
 
@@ -19,54 +67,6 @@ Date: 2026-09-02
 A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.
 
 Date: 2026-09-02
-
-### Judge rules that the trial of Tyler Robinson in Charlie Kirk’s killing can go forward
-
-A judge in Utah is expected to decide whether there is enough evidence to move forward with a trial against the man accused of fatally shooting Charlie Kirk.
-
-Date: 2026-09-01
-
-### U.S. Says It Revoked More Than 175,000 Visas Under Trump
-
-Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.
-
-Date: 2026-08-11
-
-### At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death
-
-Since Mr. Kirk was gunned down at Utah Valley University, the school and its students have struggled to find a way forward.
-
-Date: 2026-07-22
-
-### Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown
-
-New surveillance footage played in a Utah courtroom shows the moments prosecutors allege Tyler Robinson , the accused gunman, stalked and killed conservative activist Charlie Kirk. Speaking from outside Utah's Fourth District Court in Provo, Benny Johnson, a conservative commentator and close friend of Kirk, labeled th.
-
-Date: 2026-07-11
-
-### Discovered by Atlas
-
-Charlie Kirk first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-10
-
-### Charlie Kirk's family cites "overwhelming evidence" against alleged killer
-
-Charlie Kirk's family said the end of Tyler Robinson's preliminary hearing "marks an important step forward in the pursuit of justice.".
-
-Date: 2026-07-10
-
-### Kirk Killing Suspect Confessed and Voiced Regret, Former Partner Says
-
-Tyler Robinson came home on the day of Charlie Kirk’s assassination and anxiously paced the floor, Lance Twiggs told investigators in an interview that was played in court.
-
-Date: 2026-07-09
-
-### Charlie Kirk murder suspect said "he wishes he hadn't done it," roommate says
-
-Lance Twiggs said in a recorded interview with a Utah prosecutor that he saw Robinson the day after Charlie Kirk was shot and killed.
-
-Date: 2026-07-09
 
 ## Sources
 

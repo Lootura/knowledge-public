@@ -3,72 +3,71 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
 
-### La mujer de Maduro pide salir de prisión por sus problemas cardíacos y ofrece vigilancia armada las 24 horas
+### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
 
-Los abogados de Cilia Flores han pedido a la Justicia federal de Nueva York que permita a la esposa de Nicolás Maduro esperar el juicio fuera de prisión por sus problemas de corazón. A cambio, ofrecen un régimen de arresto domiciliario con guardias armados las 24 horas, una pulsera de localización, visitas restringidas.
+El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### El "orgullo" de Alcaraz en la madrugada más larga en Nueva York: "En algunos momentos podía haber hecho más"
+### Historia en el tenis con la primera final entre dos jugadores homosexuales
 
-El español, exhausto tras cuatro horas y media de lucha y celebraciones cruzadas con Shelton, abandona el US Open "contento" y "sano" Leer.
+Nueva York acapara los focos en el tenis con el US Open, el último Grand Slam de la temporada. Pero a muchos kilómetros de allí, en la pequeña ciudad austriaca de Tulln an der Donau, dos tenistas lograron un hecho sin precedentes.El suizo Mika Brunold y el brasileño João Reis da Silva disputaron este domingo la final d.
 
-Date: 2026-09-09
+Date: 2026-09-13
 
-### Por qué la ausencia de las Torres Gemelas también es una seña de identidad del ‘skyline’ neoyorquino
+### Zverev, el campeón incómodo, acaba con el sueño americano de Shelton y levanta su segundo Grand Slam
 
-Joe Sohm/Visions of America/Universal Images Group via Getty Images A las 10:28 de la mañana del 11 de septiembre de 2001, el perfil urbano de Nueva York cambió de forma repentina y dramática. El mundo observaba con horror cómo en las pantallas de televisión se derrumbaban la Torre Norte del World Trade Center y, luego.
+El estadounidense, lastrado por los nervios, vuelve a dejar a su país sin campeón desde 2003; el alemán encadena Roland Garros y Nueva York y se acerca al número uno pese a la sombra que acompaña su carrera Leer.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### 'No aptos para el trabajo', el actual 'Cómo conocí a vuestra madre' que prioriza la oficina al bar
+### Fragmento del día: Nueva York
 
-En la muy larga lista de odas neoyorquinas donde la ciudad observa todo lo que le pasa a sus protagonistas, sean Hannah en 'Girls' o Carrie en 'Sexo en Nueva York', 'No aptos para el trabajo' ('Not suitable for work') lleva esos sueños idealizados a la incertidumbre de vivir en los 2020, la realidad actual de la genera.
+en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.
 
-Date: 2026-09-05
+Date: 2026-09-13
 
-### Marihuana, influencers irrespetuosos y ruido incesante en pleno partido: una vuelta por el «zoológico» del US Open
+### El juicio en Nueva York que puede costar millones a Huawei
 
-La salida del sol en Nueva York va acompañada del sonido de las sirenas de policía, ambulancia y bomberos. Es el polítono de la ciudad y su atrezo, el humo proveniente de las alcantarillas. Algunas incluso conviven con chimeneas temporales para canalizar el vapor. El skyline muda su piel cuando uno pone un pie en las i.
+El gigante tecnológico chino afronta un complejo proceso judicial en Estados Unidos. Una condena podría suponer multas históricas, la confiscación de activos y redefinir la complicada diplomacia internacional.
 
-Date: 2026-09-05
+Date: 2026-09-12
 
-### Carlos Alcaraz – Yibing Wu en directo online | Dónde ver, resultado online y cómo va el partido del US Open 2026 hoy en vivo
+### Rybakina y los demonios ‘atrapan’ a una Sabalenka desesperada: el US Open y el mundo tienen nueva reina
 
-Alcaraz suma y sigue, ya carbura en el US Open . Olvídense de la cautela, es aquí y ahora. Es aquí y ahora. «Me he sentido muy bien», asegura al reducido grupo de medios españoles desplazados a Nueva York , entre ellos OKDIARIO. Ganó su segundo partido después de cuatro meses y va al alza respecto a su debut. Ya ha sup.
+« Fuck , Aryna ». El grito se escucha en toda la Arthur Ashe y parte de Nueva York . Lo brama Sabalenka como reproche a sí misma por haber fallado una derecha. El berrido va acompañado de un gesto descriptivo. Se agacha y mira al suelo. Así una y otra vez. Está perdiendo su batalla interior y se le escapaba (6-4, 5-7,.
 
-Date: 2026-09-04
+Date: 2026-09-12
 
-### El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'
+### Silencio contra la división: Nueva York conmemora el día más oscuro de EE.UU.
 
-El banco central de Países Bajos ha trasladado más de 78 toneladas de oro de Nueva York a Londres argumentando la "creciente inestabilidad geopolítica", en lo que...
+El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que acudió al acto en el Pentágono, la presencia polémica de Mamdani, primer alcalde musulmán de la ciudad, y la exigencia de las familias de las víctimas de aclarar el papel de Arabia Saudí en los atentados.
 
-Date: 2026-09-03
+Date: 2026-09-11
 
-### Descalabro de Jódar en Nueva York
+### La huella del 11-S
 
-El madrileño se estrella en su debut en el torneo contra el 'lucky loser' Bu.
+Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APPCierras los ojos y solo se oye el rumor del agua. No llegan las conversaciones de los turistas que se asoman al monumento conmemorativo del 11S en Nueva York. Los sonidos de la ciudad -la sirena de la Policía, las obras que todavía siguen en.
 
-Date: 2026-09-02
+Date: 2026-09-11
 
-### ¡Se suspende el partido de Rafa Jódar cuando estaba a punto de perder!: empieza a llover en el US Open
+### Trump lleva el recuerdo de los atentados al Pentágono y lo enlaza con las guerras de hoy
 
-Rafa Jódar aterriza en el último Grand Slam, el US Open , con el objetivo de seguir creciendo en el mundo del tenis. Tras un ascenso meteórico en los últimos meses, que le ha permitido colocarse en el número 11 del mundo , debutará en Nueva York frente al asiático Bu Yunchaokete , jugador con el que se citó este miérco.
+Donald Trump conmemoró el 25 aniversario del 11-S lejos de su ciudad, Nueva York, en otro escenario de los atentados: el Pentágono. El presidente eligió una ceremonia reducida en el interior del complejo militar, a escasos metros del lugar donde el vuelo 77 de American Airlines abrió hace exactamente un cuarto de siglo.
 
-Date: 2026-09-02
+Date: 2026-09-11
 
-### Solvencia y menos enemigos: Alcaraz se planta en segunda ronda con motivos para la sonrisa
+### La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono
 
-Carlos Alcaraz, el gran mago contemporáneo de la raqueta, ha llegado a Nueva York con la misión de hacer 'el más difícil todavía': volver a la pista en un 'grande' tras una lesión larga, sin jugar ningún torneo previo, y levantar el trofeo. De cero a cien.Solo se recuerda el caso de Roger Federer , al que están colmand.
+El presidente de Estados Unidos, Donald Trump , rompió con la tradición que obliga a los presidentes estadounidenses, presentes y pasados, a participar en la ceremonia de conmemoración de los atentados del 11 de septiembre de 2001 en la Zona Cero de Nueva York en los grandes aniversarios. Aunque en el pasado otros mand.
 
-Date: 2026-09-01
+Date: 2026-09-11
 
 ## Fuentes
 
-- [La mujer de Maduro pide salir de prisión por sus problemas cardíacos y ofrece vigilancia armada las 24 horas](https://www.abc.es/internacional/cilia-flores-pide-salir-prision-problemas-cardiacos-20260910023641-nt.html?utm_source=lootura.com) — 2026-09-10T00:48:03.000Z
-- [El "orgullo" de Alcaraz en la madrugada más larga en Nueva York: "En algunos momentos podía haber hecho más"](https://www.elmundo.es/deportes/tenis/us-open/2026/09/09/6aa12792fc6c83177a8b45aa.html?utm_source=lootura.com) — 2026-09-09T13:23:31.000Z
+- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores
+
+Frente a la habitual caída que deja el cierre estival, el proceso de regularización hizo crecer el pasado mes su número de cotizantes en 1.500 personas.
+
+Date: 2026-09-14
+
+### La vicelehendakari sitúa la «inmersión lingüística» en euskera como un factor del mal resultado de PISA en Euskadi
+
+Ibone Bengoetxea sacó a colación el esfuerzo que el sistema educativo hace para que sus alumnos aprendan la lengua vasca.
+
+Date: 2026-09-10
 
 ### Una croupier de un casino de Bilbao vuelve de una baja de dos años y dura 1 hora y 53 minutos repartiendo cartas
 
@@ -56,18 +68,6 @@ Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, 
 
 Date: 2026-09-04
 
-### La cascada de Bolintxu, el oasis verde de Bilbao que esconde una de las piscinas naturales más bonitas de Euskadi
-
-Las olas de calor disparan las visitas a este rincón de avellanos, robles y fresnos donde el río forma una poza cristalina a solo siete kilómetros de la capital vizcaína.
-
-Date: 2026-09-03
-
-### País Vasco encadena otro episodio de calor por encima de los 30 ºC desde hoy hasta el domingo
-
-Euskal Herria afronta desde hoy un nuevo episodio veraniego con temperaturas superiores a los 30 ºC , que en la Ribera del Ebro llegarán incluso a los 38 ºC . El ambiente seguirá siendo cálido hasta el sábado y habrá que esperar al domingo para notar la llegada de un frente que traerá nubes y un descenso generalizado d.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Una croupier de un casino de Bilbao vuelve de una baja de dos años y dura 1 hora y 53 minutos repartiendo cartas](https://www.diariovasco.com/sociedad/croupier-casino-bilbao-vuelve-baja-dura-hora-repartiendo-cartas-20260909100734-nt_amp.html?utm_source=lootura.com) — 2026-09-09T08:09:39.000Z
+- [La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores](https://www.elcorreo.com/economia/afiliacion-extranjeros-euskadi-registra-mejor-agosto-marca-20260914110536-nt_amp.html?utm_source=lootura.com) — 2026-09-14T09:05:36.000Z

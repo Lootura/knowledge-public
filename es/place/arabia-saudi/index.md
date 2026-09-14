@@ -3,10 +3,64 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-14T16:50:35.319Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
+
+Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamiento del petróleo de la región Leer.
+
+Date: 2026-09-14
+
+### Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave
+
+Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.
+
+Date: 2026-09-12
+
+### El Sur Global se alza contra los «privilegios» de Occidente
+
+La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencias del Sur Global , no solo congrega a los rivales de Occidente, como China, sino también a sus enemigos, como Rusia e Irán. Este grupo tan heterogéneo, que incluye también a Brasil, Sudáfrica, Arabia Saudí, Emiratos Árabes Unidos y otras na.
+
+Date: 2026-09-12
+
+### Arabia Saudí anuncia el cierre temporal del oleoducto Este-Oeste tras sufrir varios ataques
+
+Las autoridades de Arabia Saudí han anunciado el cierre preventivo del oleoducto Este-Oeste « como medida de precaución », después de que la infraestructura energética sufriera varios ataques durante la mañana del jueves en las regiones de Riad y Medina, según ha informado el Ministerio de Energía saudí. Fuentes de la.
+
+Date: 2026-09-12
+
+### Arabia Saudí cierra el oleoducto Este-Oeste, vía que usaba como alternativa a Ormuz
+
+Es la principal ruta de suministro a los mercados globales en el actual contexto de tensiones en el Estrecho de Ormuz Leer.
+
+Date: 2026-09-11
+
+### Silencio contra la división: Nueva York conmemora el día más oscuro de EE.UU.
+
+El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que acudió al acto en el Pentágono, la presencia polémica de Mamdani, primer alcalde musulmán de la ciudad, y la exigencia de las familias de las víctimas de aclarar el papel de Arabia Saudí en los atentados.
+
+Date: 2026-09-11
+
+### El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera
+
+Con el estrecho de Ormuz aún cerrado, diga lo que diga la Casa Blanca , la sombra de otra crisis de consecuencias imprevisibles se cierne sobre su principal alternativa: Bab el Mandeb, ineludible puerta de entrada al canal de Suez y salida clave para el petróleo de Arabia Saudí. Las milicias hutíes están cada vez más c.
+
+Date: 2026-09-11
+
+### Familias de víctimas del 11-S piden desclasificar archivos sobre el papel de Arabia Saudí
+
+Varios familiares de las víctimas de los ataques del 11 de septiembre de 2001 han pedido al presidente de Estados Unidos , Donald Trump , que desclasifique archivos relacionados con el presunto papel de Arabia Saudí durante un acto por el 25 aniversario de los atentados, que dejaron 2.977 muertos y cerca de 4.600 falle.
+
+Date: 2026-09-11
+
+### Por qué el precio del petróleo no encuentra techo: Arabia Saudí ya solo produce al nivel de la guerra del Golfo
+
+La subida del precio del petróleo se ha convertido, así, en la principal amenaza para las economías desarrolladas, especialmente en un momento de enorme tensión en los mercados de deuda pública Leer.
+
+Date: 2026-09-10
 
 ### Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países
 
@@ -14,60 +68,6 @@ El ministro de Exteriores de Pakistán afirmó el domingo que el nuevo acuerdo d
 
 Date: 2026-08-09
 
-### Emiratos denuncia un ataque iraní a un carguero en el estrecho de Ormuz
-
-Arabia Saudí, Pakistán y Turquía firman un pacto de defensa mutua al estilo de la OTAN.
-
-Date: 2026-08-08
-
-### Turquía, Arabia Saudí y Pakistán forjan un pacto de defensa en plena tensión en Oriente Medio
-
-Movimiento de calado en Oriente Medio. Turquía, Arabia Saudí y Pakistán han firmado hoy un pacto de defensa con el objetivo de “fortalecer la disuasión colectiva contra cualquier acto de agresión”, según reza un comunicado conjunto. Seguir leyendo...
-
-Date: 2026-08-07
-
-### Las aseguradoras restringen la cobertura de riesgo en el mar Rojo y agravan la venta del petróleo saudí
-
-Las navieras no dan para disgustos. La guerra iniciada por EE UU e Israel contra Irán a finales de febrero ha bloqueado el tráfico marítimo en el estrecho de Ormuz, complicando el transporte marítimo a nivel global, y la amenaza lanzada por la milicia hutí de Yemen contra Arabia Saudí está ahora boicoteando la navegaci.
-
-Date: 2026-08-03
-
-### La OPEP+ elevará de nuevo la producción de petróleo en septiembre
-
-La alianza OPEP+, liderada por Arabia Saudí y Rusia, ha decidido este domingo mantener, por sexto mes consecutivo, su estrategia de elevar la oferta de petróleo, por lo que pondrá desde septiembre próximo 188.000 barriles más en el mercado, un aumento limitado por la actual dificultad de mover el crudo debido a la guer.
-
-Date: 2026-08-02
-
-### Los hutíes atacan a la mayor empresa petrolera de Arabia Saudí
-
-Los rebeldes hutíes de Yemen afirmaron este sábado haber lanzado ataques con misiles y drones contra instalaciones de Aramco, la mayor empresa petrolera saudí, en represalia por los bombardeos aéreos de la coalición liderada por Arabia Saudí en la ciudad portuaria de Hudeida. El portavoz militar de los hutíes, Yahya Sa.
-
-Date: 2026-07-25
-
-### Valijas diplomáticas, 48 maletas de lujo y gran despliegue policial por la llegada de miembros de la realeza saudí a Mallorca
-
-Gran despliegue y expectación en el aeropuerto de Palma por la llegada de miembros de la realeza de Arabia Saudí.
-
-Date: 2026-07-24
-
-### Los técnicos de Hacienda apuntan a la prescripción de los delitos fiscales de Zapatero
-
-El sindicato de técnicos del Ministerio de Hacienda, Gestha, considera que el expresidente del Gobierno debería ceder a Patrimonio del Estado las joyas que supuestamente recibió como regalo de Arabia Saudí cuando era presidente. Apuntan a la prescripción de cualquier delito fiscal o de contrabando tras la entrevista co.
-
-Date: 2026-07-23
-
-### EEUU y Arabia Saudí firman un histórico pacto que allana a Riad lograr enriquecer uranio
-
-Estados Unidos ha anunciado este miércoles que ha alcanzado un importante acuerdo de cooperación nuclear pacífica con Arabia Saudí que podría allanar el.
-
-Date: 2026-07-23
-
-### El pacto nuclear de EE.UU. con Arabia Saudí hace temer una carrera atómica en Oriente Próximo
-
-Fuentes oficiales de la Casa Blanca han filtrado a los principales medios de prensa anglosajones que el presidente Trump ha cerrado un acuerdo para compartir tecnología nuclear con Arabia Saudí. El plan, que será sometido al Congreso de Estados Unidos para su aprobación, supone un cambio de política radical al no inclu.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo](https://www.elmundo.es/internacional/2026/09/13/6aa6d528e85eceda128b459d.html?utm_source=lootura.com) — 2026-09-14T06:21:38.000Z

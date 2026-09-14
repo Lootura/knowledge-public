@@ -3,10 +3,28 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### OPINION: 25 years on, a nation still mourns
+
+A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday. (Image credit: Spencer Platt/Getty Images).
+
+Date: 2026-09-12
+
+### Miami crash raises concerns about the jet's operator, and why it's flying for Amazon
+
+The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident. (Image credit: Chandan Khanna/AFP via Getty Images).
+
+Date: 2026-09-12
+
+### As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability
+
+The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths. (Image credit: hapabapa/Getty Images).
+
+Date: 2026-09-11
 
 ### Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material
 
@@ -50,24 +68,6 @@ Chevron is the largest foreign oil operator in Venezuela. The deal will expand i
 
 Date: 2026-09-02
 
-### What Wildfire Smoke Reveals About How We Respond to Climate Risk
-
-The sun rises behind the U.S. Capitol building as smoke from wildfires in Canada fills the air on July 17 in Washington D.C. —Kevin Carter—Getty Images A month ago, I was running embarrassingly late to a meeting in D.C. And so, even though I knew the air pollution outside from the Canadian wildfires was a hazard to my.
-
-Date: 2026-08-14
-
-### In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates
-
-A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates. (Image credit: Stephen Maturen/Getty Images).
-
-Date: 2026-08-11
-
-### Moderate Democrats Scramble to Block a Socialist From Winning in Wisconsin
-
-—Sara Stathas—The Washington Post/Getty Images; Daniel Boczarski—WisDems/Getty Images Tuesday’s contest to become Wisconsin’s Democratic nominee for Governor has unexpectedly become one of the most chaotic stories of the 2026 cycle. First, the popular incumbent Governor said he wouldn’t seek a third term. His Lieutenan.
-
-Date: 2026-08-10
-
 ## Sources
 
-- [Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material](https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material?utm_source=lootura.com) — 2026-09-09T20:42:19.000Z
+- [NPR looked for ChatGPT's new crisis feature. It's hard to find](https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com) — 2026-09-14T09:00:00.000Z

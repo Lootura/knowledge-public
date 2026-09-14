@@ -3,10 +3,46 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido
+
+Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un acuerdo de cooperación sobre autodeterminación, economía, energía y relaciones con Europa.
+
+Date: 2026-09-13
+
+### Bofetada a Reino Unido: Trump defiende la unificación de Irlanda y pone en cuestión la soberanía británica de las Malvinas
+
+Sus declaraciones se producen tras reunirse con el primer ministro irlandés, Micheál Martin Leer.
+
+Date: 2026-09-12
+
+### Trump señala que sería «fantástica» la unificación de Irlanda
+
+El presidente de Estados Unidos, Donald Trump, ha señalado este sábado que le «encantaría» la unificación de Irlanda, incidiendo en que Reino Unido tendría «algo que decir» pero recalcado que sería «algo fantástico».«No quiero causar ningún problema, pero te diré que me encantaría verlo unificado. Tengo amigos en ambos.
+
+Date: 2026-09-12
+
+### Donald Trump asegura que le «encantaría» la unificación de Irlanda
+
+El presidente de Estados Unidos, Donald Trump , ha señalado este sábado que le «encantaría» la unificación de Irlanda , incidiendo en que Reino Unido tendría «algo que decir», pero recalcado que sería «algo fantástico». «No quiero causar ningún problema, pero te diré que me encantaría verlo unificado. Tengo amigos en a.
+
+Date: 2026-09-12
+
+### Milei suspende su viaje al Reino Unido en medio de tensiones por las islas Malvinas
+
+El presidente de Argentina, Javier Milei , suspendió su viaje al Reino Unido programado para el próximo octubre en medio de las tensiones bilaterales por el anuncio de sanciones y denuncias judiciales del mandatario contra petroleras que operan en las islas Malvinas , archipiélago bajo administración británica y cuya s.
+
+Date: 2026-09-10
+
+### Harry y Meghan «algo sorprendidos» por la carta de Carlos III que les recuerda que siguen fuera de la familia real
+
+La vuelta del príncipe Harry y Meghan Markle a Reino Unido vuelve a colocar a los duques de Sussex en el centro de la atención mediática y, una vez más, su relación con la familia real británica está marcada por la polémica . El último episodio tiene como protagonista al rey Carlos III, que ha querido dejar claro cuál.
+
+Date: 2026-09-10
 
 ### Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido
 
@@ -31,42 +67,6 @@ Date: 2026-08-31
 Clacton (Reino Unido), 14 ago (EFE).- El líder del partido británico populista de derecha Reform UK,...
 
 Date: 2026-08-14
-
-### Uber logra paralizar las sanciones de IVA en España mientras litiga por 1.600 millones en Reino Unido
-
-Uber mantiene una batalla contra las agencias de recaudación de impuestos de varios de los países en los que opera. En España, la guerra de la plataforma de vehículos de turismo con conductor (VTC) con los taxis fue mítica entre 2014 y 2019. Los insultos entre los trabajadores de ambos bandos llegaron a las televisione.
-
-Date: 2026-08-14
-
-### Las espectaculares imágenes que deja el paso del eclipse por Europa
-
-Vista del eclipse solar desde Zaragoza, con la Basílica del Pilar. Javier Belver (EFE) Eclipse de Sol en Madrid. Ballesteros (EFE) El eclipse ha coincidido con los europeos de atletismo en Birmingham (Reino Unido). EFE Eclipse solar sobre la torre de Hércules este miércoles en La Coruña. Sergio Pérez (EFE) El eclipse p.
-
-Date: 2026-08-12
-
-### Reino Unido detecta que cámaras espías en drones de su Armada enviaron datos a China
-
-La Armada retiró la conexión de los dispositivos tras detectar una brecha de seguridad en componentes de origen chino.
-
-Date: 2026-08-10
-
-### Detenido en Gran Canaria un fugitivo británico con ocho delitos sexuales contra menores
-
-Agentes de la Policía Nacional han detenido en Maspalomas (Gran Canaria) a un ciudadano británico sobre el que pesaba una Orden Internacional de Detención y Entrega (OIDE), emitida por las autoridades judiciales del Reino Unido, por su presunta implicación en ocho delitos de índole sexual cometidos contra menores en es.
-
-Date: 2026-08-10
-
-### Farage quiere deportar a presos extranjeros a El Salvador si llega al poder en Reino Unido
-
-El partido de derecha británico Reform UK, que lidera Nigel Farage, ha iniciado contactos con El Salvador para deportar a presos extranjeros a ese país si gana las próximas elecciones generales en el Reino Unido , previstas para 2029, revela este lunes el tabloide The Sun . Según ha podido saber este rotativo, una dele.
-
-Date: 2026-08-10
-
-### El supuesto líder del crimen organizado irlandés Daniel Kinahan, extraditado a Dublín desde Dubái
-
-Está acusado de dirigir un imperio internacional de tráfico de drogas y blanqueo de capitales con ramificaciones en Reino Unido, España y Estados Unidos.
-
-Date: 2026-08-09
 
 ## Fuentes
 

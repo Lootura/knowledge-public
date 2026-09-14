@@ -3,10 +3,16 @@
 > Sigue la actividad de Cristina Pardo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/organization/cristina-pardo
 
 ## Cambios recientes
+
+### Teoría de la entrevista: Cristina Pardo le da un repaso a Cintora
+
+Ahora que empieza el curso en las facultades de periodismo, la propia realidad televisiva les ha traído el temario hecho, con ejemplos prácticos, para la asignatura de ética y deontología profesional: por la mañana, lo que no se debe hacer al afrontar una entrevista; por la noche, lo que se debería hacer siempre. En TV.
+
+Date: 2026-09-10
 
 ### Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"
 
@@ -46,5 +52,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"](https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com) — 2026-09-09T22:38:06.000Z
-- [Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»](https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com) — 2026-09-09T22:57:07.000Z
+No public source links.

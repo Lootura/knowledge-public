@@ -10,8 +10,10 @@
   "description": "Follow Helena Buonanno Foulkes, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
   "updatedAt": "2026-09-10T03:02:42.851Z",
   "aliases": [
-    "Helena Foulkes",
-    "Helena B. Foulkes"
+    "Foulkes",
+    "Helena",
+    "Helena B. Foulkes",
+    "Helena Foulkes"
   ],
   "changes": [
     {
@@ -35,25 +37,6 @@
       "date": "2026-09-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Helena Foulkes wins Rhode Island Democratic governor primary, NBC News projects",
-      "url": "https://www.nbcnews.com/video/helena-foulkes-wins-rhode-island-democratic-governor-primary-nbc-news-projects-269595205652?utm_source=lootura.com",
-      "publishedAt": "2026-09-10T00:40:44.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Rhode Island Gov. Dan McKee loses Democratic primary to businesswoman Helena Foulkes",
-      "url": "https://www.nbcnews.com/politics/2026-election/helena-foulkes-winner-rhode-island-democratic-governor-primary-mckee-rcna596559?utm_source=lootura.com",
-      "publishedAt": "2026-09-10T00:23:26.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "Dan McKee becomes first governor in 8 years to lose primary",
-      "url": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983?utm_source=lootura.com",
-      "publishedAt": "2026-09-10T00:25:46.000Z",
-      "sourceId": "lootura-us-politico"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

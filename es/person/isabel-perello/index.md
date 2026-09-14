@@ -3,10 +3,22 @@
 > Sigue la actividad de María Isabel Perelló Doménech en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T08:34:43.084Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-perello
 
 ## Cambios recientes
+
+### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
+
+Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la "extraordinaria gravedad" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.
+
+Date: 2026-09-14
+
+### La presidenta del Supremo: “No es admisible que la descalificación pública de los jueces se convierta en un instrumento de presión”
+
+La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, ha respondido este jueves a las críticas que han suscitado entre el Gobierno y sus socios parlamentarios la reciente decisión del Tribunal Supremo de suspender el derecho al voto de los españoles que han obtenido la naci.
+
+Date: 2026-09-10
 
 ### La causa de Ceuta en la Audiencia ahonda en el choque del Gobierno con el Poder Judicial
 
@@ -52,4 +64,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-No public source links.
+- [El Gobierno y el PSOE echan el resto en su cruzada contra los jueces](https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com) — 2026-09-14T12:54:00.000Z

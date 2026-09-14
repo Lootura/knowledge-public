@@ -3,10 +3,22 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates
+
+The national average for a gallon of gas is now at $4.32, with the price of diesel even high at a record-shattering $6.23. Meanwhile, the Federal Reserve is set to meet Wednesday and is expected to raise interest rates for the first time since 2023. NBC’s Brian Cheung joins TODAY to break it all down.
+
+Date: 2026-09-14
+
+### Elevated Inflation Keeps Pressure on Fed to Raise Rates
+
+The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.
+
+Date: 2026-09-11
 
 ### Funding milestone detected
 
@@ -56,18 +68,6 @@ The Trump administration, rebuffed by the Supreme Court in its first attempt to 
 
 Date: 2026-08-07
 
-### Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise
-
-Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.
-
-Date: 2026-08-07
-
-### Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook
-
-The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.
-
-Date: 2026-08-07
-
 ## Sources
 
-- [Should you wait until after the September Fed meeting to invest in gold?](https://www.cbsnews.com/news/should-you-wait-september-2026-fed-meeting-gold-investing/?utm_source=lootura.com) — 2026-09-09T17:37:45.000Z
+- [US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates](https://www.today.com/video/us-gas-prices-hit-record-high-fed-poised-to-raise-interest-rates-269811781739?utm_source=lootura.com) — 2026-09-14T11:21:08.000Z

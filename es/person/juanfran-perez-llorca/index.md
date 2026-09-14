@@ -3,10 +3,16 @@
 > Sigue la actividad de Juanfran Pérez Llorca en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-11T18:58:06.359Z
 - Canonical: https://atlas.lootura.com/es/person/juanfran-perez-llorca
 
 ## Cambios recientes
+
+### Llorca exige al Gobierno que "deje de financiar los trasvases en Marruecos" y mantener el Tajo-Segura
+
+El 'president' de la Generalitat Valenciana , Juanfran Pérez Llorca , ha instado este viernes al Gobierno de Pedro Sánchez a poner fin a la financiación de infraestructuras hídricas en Marruecos y a garantizar, en su lugar, la supervivencia del trasvase Tajo-Segura. Durante la inauguración del VIII Congreso Nacional de.
+
+Date: 2026-09-11
 
 ### Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"
 

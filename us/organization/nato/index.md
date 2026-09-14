@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T01:44:27.316Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### Lithuania prepares for war, reinforcing its border against Russian tanks
+
+On the edge of NATO territory in the Baltics, there is growing concern about the threat Russia poses. Aaron MacLean visited the capital of Lithuania to see how they're preparing.
+
+Date: 2026-09-14
 
 ### Poland says it thwarted Russian plot to kill an American citizen in a NATO country
 
@@ -62,12 +68,6 @@ A U.S. official tells NBC News that President Trump's team used an elaborate rus
 
 Date: 2026-08-11
 
-### Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports
-
-Elaborate ruse was used to transport president to military flight from Air Force One to return from Nato meet Prompted by an Iranian assassination threat, Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse that.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [Lithuania prepares for war, reinforcing its border against Russian tanks](https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com) — 2026-09-14T01:23:18.000Z

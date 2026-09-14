@@ -3,10 +3,46 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Cuatro heridos en un accidente entre un turismo y una furgoneta en la A-52 en Palacios de Sanabria (Zamora)
+
+Cuatro personas han resultado heridas este domingo tras una colisión entre una furgoneta y un turismo en el kilómetro 77 de la A-52 , en sentido Galicia , dentro del término municipal de Palacios de Sanabria (Zamora), según informó el 112 Castilla y León a Europa Press. El aviso se registró poco antes de las 9.53 horas.
+
+Date: 2026-09-13
+
+### El GP de España de Fórmula 1 en Madrid, en imágenes
+
+El Rey con la Princesa y la infanta en el circuito antes del inicio de la carrera. | Oscar J. Barroso (AFP7 / Europa Press) La Familia Real saluda a las autoridades, entre las que se encontraba la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso. | Oscar J. Barroso (AFP7 / Europa Press) Momento de la carrera. Da.
+
+Date: 2026-09-13
+
+### Cuatro jóvenes heridos, uno grave, tras caer su vehículo por un terraplén e incendiarse en la M-506 en Pinto
+
+Cuatro jóvenes han resultado heridos , uno de ellos de carácter grave, después de que el vehículo en el que viajaban se saliese de la calzada este viernes en el término municipal de Pinto, cayese por un terraplén y acabase incendiado, según han indicado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. El.
+
+Date: 2026-09-12
+
+### Tres heridos, uno grave, tras una agresión con arma blanca en una vivienda en el Puente de Vallecas (Madrid)
+
+Un joven de 18 años ha resultado herido de gravedad y otros dos hombres han resultado heridos levemente tras sufrir este viernes una agresión con arma blanca en el interior de un domicilio del barrio madrileño de Puente de Vallecas , según han informado a Europa Press fuentes de Emergencias 112 Comunidad de Madrid. El.
+
+Date: 2026-09-12
+
+### Herido un hombre tras sufrir una cogida en un encierro en Cañete (Cuenca)
+
+Un hombre ha resultado herido este viernes tras sufrir una cogida por un toro durante un encierro en la localidad conquense de Cañete . Según han informado fuentes del Servicio de Emergencias 112 a Europa Press, los hechos han tenido lugar a las 18.21 horas en la calle La Virgen . El herido ha sido evacuado en helicópt.
+
+Date: 2026-09-11
+
+### La manifestación independentista con motivo de la Diada de Cataluña, en imágenes
+
+Varias personas queman una bandera de España durante la manifestación. | Kike Rincón (Europa Press) Decenas de personas durante la manifestación convocada por la ANC en Gerona. | Glòria Sánchez (Europa Press) Decenas de personas con botes de humo en Barcelona | Alberto Paredes (Europa Press) Una mujer levantando un car.
+
+Date: 2026-09-11
 
 ### Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados
 
@@ -31,42 +67,6 @@ Date: 2026-09-03
 Un hombre extranjero de 29 años ha fallecido pasada la medianoche de este jueves tras ser atropellado frente a una discoteca en Palma , capital de Mallorca. El suceso ha tenido lugar en la carretera Ma-19A (camí de Can Capó), frente a la discoteca Amok , según ha informado a Europa Press el SAMU 061 , que ha situado el.
 
 Date: 2026-09-03
-
-### Más de un millar de personas atendidas tras el eclipse, la mayoría por dolencias oculares
-
-Más de un millar de personas han sido atendidas entre las distintas comunidades autónomas, la mayoría por dolencias oculares, en las primeras 48 horas tras el eclipse total de Sol que sumió este miércoles a más de la mitad de España en una profunda e histórica oscuridad. Según los datos recopilados por Europa Press, a.
-
-Date: 2026-08-14
-
-### Dan por extinguido el incendio iniciado el jueves en Villablanca (Huelva), el cuarto desde julio
-
-Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca ) ha dado por extinguido en la madrugada de este viernes el incendio forestal declarado el jueves por la tarde en el paraje Camino de la Ermita de Villablanca ( Huelva ), según ha indicado el Plan Infoca en su cuenta de X, consultada por Europa Pres.
-
-Date: 2026-08-14
-
-### Muere Víctor Coyote, músico y fundador de la banda Los Coyotes
-
-El músico y fundador de la banda Los Coyotes , Víctor Aparicio, conocido como Víctor Coyote ha muerto este jueves a los 68 años, según ha confirmado el sello discográfico en un comunicado recogido por Europa Press . «Una persona y un artista único e irrepetible, de esos seres que nunca miraban hacia atrás y siempre mir.
-
-Date: 2026-08-13
-
-### Florentino Pérez refuerza su posición como principal accionista de ACS y eleva su participación al 15%
-
-El presidente de ACS, Florentino Pérez, ha reforzado su posición como principal accionista de la constructora tras elevar su participación en la compañía al 15,015%, hasta niveles máximos históricos.Según consta en los registros de la Comisión Nacional del Mercado de Valores (CNMV) consultados por Europa Press, el dire.
-
-Date: 2026-08-10
-
-### El franco-argentino contagiado de hantavirus en Galicia recibe el alta con PCR negativa
-
-El franco-argentino que desde el pasado jueves permanecía aislado en Galicia tras haberse contagiado de hantavirus en Francia ya ha sido dado de alta , puesto que la prueba PCR que se le ha realizado ha dado negativa. Fuentes sanitarias consultadas por Europa Press así lo han confirmado, apuntando además que el contagi.
-
-Date: 2026-08-10
-
-### Herida una menor de 17 años tras recibir una apuñalada por parte de otra joven en Torredonjimeno (Jaén)
-
-Una joven de 17 años ha resultado herida tras ser apuñalada por otra este pasado sábado, 8 de agosto, en la localidad jiennense de Torredonjimeno, según han confirmado fuentes del Servicio de Emergencias 112 Andalucía a Europa Press. Los hechos tuvieron lugar en la tarde del pasado sábado, sobre las 20:30 horas , cuand.
-
-Date: 2026-08-09
 
 ## Fuentes
 

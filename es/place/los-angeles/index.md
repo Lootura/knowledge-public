@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-12T14:59:00.939Z
 - Canonical: https://atlas.lootura.com/es/place/los-angeles
 
 ## Cambios recientes
+
+### Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así
+
+¿Qué es lo primero que lee cada mañana el alcalde Insausti? / La fiesta de Ordizia y el empuje de El Vaskito / El 'glamour' del Festi, Gastronomika y Passion for Knowledge.
+
+Date: 2026-09-11
 
 ### Nicole Kidman estrena la nueva era de Versace junto a Sandra Bullock en la alfombra roja de Los Ángeles
 

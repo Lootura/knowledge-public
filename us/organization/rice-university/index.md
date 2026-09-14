@@ -34,4 +34,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [Electrical fingerprint on tiny cell particles could offer new way to spot pancreatic cancer signals](https://phys.org/news/2026-09-electrical-fingerprint-tiny-cell-particles.html?utm_source=lootura.com) — 2026-09-09T23:40:09.000Z
+No public source links.

@@ -28,5 +28,4 @@ Date: 2026-09-10
 
 ## Sources
 
-- [Helena Foulkes wins Rhode Island Democratic governor primary, NBC News projects](https://www.nbcnews.com/video/helena-foulkes-wins-rhode-island-democratic-governor-primary-nbc-news-projects-269595205652?utm_source=lootura.com) — 2026-09-10T00:40:44.000Z
-- [Dan McKee becomes first governor in 8 years to lose primary](https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983?utm_source=lootura.com) — 2026-09-10T00:25:46.000Z
+No public source links.

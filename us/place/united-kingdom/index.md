@@ -3,10 +3,16 @@
 > Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/united-kingdom
 
 ## Recent changes
+
+### Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know
+
+Northern Ireland's status has been contentious since it remained part of the United Kingdom after most of Ireland gained independence from Britain a century ago.
+
+Date: 2026-09-14
 
 ### Prince Harry and Meghan will not be working royals, King Charles says
 
@@ -34,4 +40,4 @@ Date: 2026-08-13
 
 ## Sources
 
-No public source links.
+- [Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know](https://www.pbs.org/newshour/world/trump-doubled-down-on-backing-a-united-ireland-reigniting-a-divisive-political-issue-heres-what-to-know?utm_source=lootura.com) — 2026-09-14T16:20:27.000Z

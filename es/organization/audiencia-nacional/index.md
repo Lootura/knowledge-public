@@ -3,10 +3,40 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno
+
+La magistrada pide que se examine si el asunto debe instruirse en Madrid junto a la causa abierta por la entrada masiva, como ya ha pedido la Fiscalía Leer.
+
+Date: 2026-09-14
+
+### Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia
+
+La defensa del expresidente del Gobierno advierte al juez Calama de que no tiene "patente de corso" para indagar de forma prospectiva en cualquier actuación personal o profesional de Zapatero La causa contra Zapatero cuestiona sus negocios privados en el extranjero La defensa de José Luis Rodríguez Zapatero ha recurrid.
+
+Date: 2026-09-14
+
+### Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia
+
+El expresidente del Gobierno José Luis Rodríguez Zapatero ha pedido a la Audiencia Nacional que extraiga del procedimiento en el que se le investiga un informe de la UDEF sobre su mediación ante el Gobierno de Bolivia , pues es consecuencia de una intromisión ilegítima en su intimidad y una investigación general sobre.
+
+Date: 2026-09-14
+
+### Las declaraciones de la cúpula de Plus Ultra siembran la sospecha de que Zapatero cobró más comisiones tras el rescate
+
+Las declaraciones que prestaron esta semana como investigados en la Audiencia Nacional el expresidente de Plus Ultra, Julio Martínez Sola, y el exconsejero delegado de la aerolínea de capital venezolano rescatada por el Gobierno en marzo de 2021, Roberto Roselli, sembraron la sospecha de que el expresidente José Luis R.
+
+Date: 2026-09-13
+
+### El fiscal jefe Alonso se saltó con el espía marroquí una circular de la Audiencia
+
+El fiscal jefe de la Audiencia Nacional, Jesús Alonso, habría actuado en contra de una circular de la Fiscalía General del Estado al rechazar recibir información, en octubre de 2024, de un emisario del ex número dos de los servicios secretos marroquíes, Mehdi Hijaouy, que afirmaba tener pruebas del hackeo del móvil del.
+
+Date: 2026-09-11
 
 ### El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'
 
@@ -38,37 +68,8 @@ El ex consejero delegado de Plus Ultra, Roberto Roselli, ha confirmado este mart
 
 Date: 2026-09-08
 
-### Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: "Lo hace como buen jurista"
-
-El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la "imparcialidad" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.
-
-Date: 2026-09-08
-
-### El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe
-
-La portavoz del PSOE, Montse Mínguez, ha cuestionado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes en.
-
-Date: 2026-09-08
-
-### Puente cuestiona la parcialidad de la jueza que investiga la crisis de Ceuta: "Denota desconfianza"
-
-El ministro de Transportes, Óscar Puente , ha cuestionado la parcialidad" de la jueza de la Audiencia Nacional (AN) María Tardón y ha considerado "bastante extraño" que ésta pidiera al equipo investigador de la Policía Nacional no transmitir a los mandos policiales las conclusiones del informe sobre la entrada masiva d.
-
-Date: 2026-09-07
-
-### El ex presidente de Plus Ultra afirma ante el juez que aceptó pagar una comisión del 1% "al grupo Zapatero" para obtener el rescate de 53 millones
-
-Julio Martínez Sola comparece como imputado ante el juez de la Audiencia Nacional José Luis Calama Leer.
-
-Date: 2026-09-07
-
-### La juez avala la pista "clara e indudable" de que la avalancha a Ceuta se gestionó "desde Marruecos"
-
-Tardón elogia el trabajo del Cenif y declara competente a la Audiencia Nacional Leer.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-- [El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'](https://amp.elmundo.es/espana/2026/09/09/6aa19ae821efa05f7c8b45a3.html?utm_source=lootura.com) — 2026-09-09T20:45:56.000Z
-- [La jueza admite al Gobierno como acusación en la investigación sobre la entrada masiva a Ceuta](https://elpais.com/espana/2026-09-09/la-jueza-admite-al-gobierno-como-acusacion-en-la-investigacion-sobre-la-entrada-masiva-a-ceuta.html?utm_source=lootura.com) — 2026-09-09T17:22:52.000Z
+- [La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno](https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html?utm_source=lootura.com) — 2026-09-14T11:20:11.000Z
+- [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html?utm_source=lootura.com) — 2026-09-14T16:55:25.000Z
+- [Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia](https://theobjective.com/espana/tribunales/2026-09-14/zapatero-udef-informe-bolivia/?utm_source=lootura.com) — 2026-09-14T17:21:08.000Z

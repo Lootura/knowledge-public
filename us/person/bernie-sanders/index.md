@@ -46,4 +46,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary](https://www.nbcnews.com/politics/2026-election/david-morales-winner-providence-mayor-primary-democrat-smiley-rcna596606?utm_source=lootura.com) — 2026-09-10T00:34:57.000Z
+No public source links.

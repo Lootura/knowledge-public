@@ -52,4 +52,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»](https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com) — 2026-09-09T22:57:07.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región
+
+La Comunidad de Madrid ha presentado este lunes alegaciones ante la Junta Electoral Central (JEC) para pedir que solo puedan inscribirse en el censo.
+
+Date: 2026-09-14
+
+### Metro supera su propia expectativa: más de 124.000 fans van a Madring en el suburbano
+
+La Comunidad de Madrid vuelve a batir las expectativas del uso del transporte público durante un evento de grandes dimensiones, como ha sido el Gran Premio de Fórmula 1 celebrado este fin de semana en el Madring. Hasta las 14.00 horas de este domingo más de 124.000 asistentes habrían escogido Metro para desplazarse has.
+
+Date: 2026-09-13
 
 ### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
 
@@ -56,18 +68,6 @@ La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonó
 
 Date: 2026-08-11
 
-### Madrid destinará un millón de euros en ayudas para agricultores y ganaderos afectados por los incendios
-
-La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar infraestructuras dañadas y prestar asistencia veterinaria. A e.
-
-Date: 2026-08-10
-
-### La pareja de Ayuso se reparte 1,2 millones en dividendos y factura 710.000 euros en su consultora
-
-Maxwell Cremona declara pérdidas en 2025 a la espera del juicio por delitos fiscales de Alberto González Amador; la facturación se reduce un 25% respecto al año anterior, pero sigue siendo el doble de lo que ingresaba antes de empezar a disparar su cifra de negocios en 2020 La Comunidad de Madrid pone ahora a la la ven.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z

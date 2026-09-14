@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### La Audiencia ratifica la absolución de la tertuliana Pilar Baselga que llamó 'Begoño' a Begoña Gómez
+
+La Audiencia Provincial de Madrid ha ratificado la absolución de la profesora, historiadora del arte y tertuliana Pilar Baselga , quien en noviembre de 2022 se refirió a Begoña Gómez , mujer del presidente del Gobierno, como "Begoño" y la vinculó con "temas de narcotráfico en Marruecos ". Según la sentencia a la que tu.
+
+Date: 2026-09-10
 
 ### El juez Peinado se va de vacaciones y enfila a Begoña Gómez al banquillo
 
@@ -59,12 +65,6 @@ Date: 2026-09-04
 ### Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM
 
 Su escrito de defensa niega cualquier beneficio económico o uso irregular del 'software' y atribuye el registro de marcas y dominios a un fin estrictamente docente para la universidad.
-
-Date: 2026-09-04
-
-### Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra
-
-Begoña Gómez, esposa del presidente del Gobierno, ha presentado este viernes un nuevo escrito de defensa —firmado por su nuevo abogado— en el que pide una vez más su absolución en la causa contra ella por, supuestamente, haberse valido de su condición de esposa del presidente del Gobierno para impulsar su carrera. Góme.
 
 Date: 2026-09-04
 

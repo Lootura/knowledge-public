@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-13T03:06:35.172Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines
+
+An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.
+
+Date: 2026-09-12
 
 ### James Talarico Counters Trump’s Midterm Convention With Food Drive
 
@@ -64,4 +70,4 @@ Date: 2026-08-31
 
 ## Sources
 
-- [James Talarico Counters Trump’s Midterm Convention With Food Drive](https://www.nytimes.com/2026/09/09/us/politics/talarico-republican-midterm-convention-counterprogramming.html?utm_source=lootura.com) — 2026-09-09T21:32:29.000Z
+No public source links.

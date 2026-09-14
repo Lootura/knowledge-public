@@ -3,10 +3,22 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### El Gobierno rabia por la suspensión de la ‘ley de nietos’
+
+El Gobierno está rabioso desde que el Tribunal Supremo le ha tumbado el pucherazo. Félix Bolaños, Óscar Puente y Óscar López, tres ministros, han salido en tromba a cargar contra el auto que anula los efectos electorales derivados de la ‘ley de nietos’. En concreto, de la instrucción de Sofía Puente que ampliaba la con.
+
+Date: 2026-09-14
+
+### Óscar Puente rabia con el éxito de Madring: "Ha sido un auténtico truño"
+
+Óscar Puente criticó el diseño del Madring a pesar del gran éxito que tuvo el Gran Premio de España para aficionados y pilotos de la F1.
+
+Date: 2026-09-13
 
 ### Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"
 
@@ -56,19 +68,6 @@ El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las v�
 
 Date: 2026-09-04
 
-### Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura
-
-Uno de los socialistas con mayor perfil político del Consejo de Ministros, Óscar Puente, quiere la maquinaria de su departamento al máximo de revoluciones para abordar los últimos meses de la legislatura . El arranque del curso político se ha producido con un cambio de calado en la estructura del Ministerio de Transpor.
-
-Date: 2026-09-02
-
-### Óscar Puente niega un "reproche" de Sánchez al Rey Felipe VI: "Es hacia quienes utilizan la figura del monarca en una crisis"
-
-El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha negado que exista un "reproche" hacia el Rey Felipe VI en las palabras del presidente del Gobierno, Pedro Sánchez , acerca de una posible visita a Ceuta ; remarcando que, de haberlo, "es hacia quienes han querido utilizar la figura del monarca en una.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Puente defiende las vacaciones y el teletrabajo de Sánchez durante la crisis: "El despacho en el bolsillo"](https://www.20minutos.es/television/oscar-puente-defiende-teletrabajo-las-vacaciones-sanchez-durante-crisis-ceuta-despacho-bolsillo_7034909_0.html?utm_source=lootura.com) — 2026-09-09T22:38:06.000Z
-- [Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»](https://theobjective.com/espana/2026-09-10/puente-entrevista-avisos-cni-ceuta-capitan-a-posteriori/?utm_source=lootura.com) — 2026-09-09T22:57:07.000Z
+- [El Gobierno rabia por la suspensión de la ‘ley de nietos’](https://theobjective.com/espana/2026-09-14/gobierno-rabia-suspension-ley-nietos/?utm_source=lootura.com) — 2026-09-14T16:33:01.000Z

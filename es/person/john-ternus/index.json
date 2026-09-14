@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/john-ternus/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/john-ternus/index.json",
   "description": "Sigue la actividad de John Ternus en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-10T03:02:25.927Z",
+  "updatedAt": "2026-09-13T03:06:16.499Z",
   "aliases": [
     "Ternus"
   ],
   "changes": [
+    {
+      "title": "Los principales competidores del nuevo iPhone Duo",
+      "summary": "Cumpliendo con las previsiones, esta semana el nuevo CEO de Apple, John Ternus, embarcaba a la compañía en una nueva línea de producto, los móviles plegables. En su tradicional evento de presentación de novedades de septiembre, Ternus anunció el iPhone Duo, un terminal que llega para competir con marcas que ya llevan a.",
+      "date": "2026-09-12"
+    },
     {
       "title": "Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros",
       "summary": "El nuevo director ejecutivo de Apple , John Ternus, ha anunciado este miércoles el primer teléfono plegable de la compañía, bautizado como iPhone Duo, un dispositivo que presenta un tamaño similar al de un pasaporte cuando se encuentra cerrado —con una pantalla exterior de 5,4 pulgadas— y que saldrá al mercado por 2.33.",
@@ -49,13 +54,6 @@
       "date": "2026-08-31"
     }
   ],
-  "sources": [
-    {
-      "title": "Apple da el salto a los plegables con el iPhone Duo, que costará 2.300 euros",
-      "url": "https://theobjective.com/tecnologia/2026-09-09/apple-movil-plegable-iphone-duo/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T20:17:06.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

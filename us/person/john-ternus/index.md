@@ -3,7 +3,7 @@
 > Follow John Ternus, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-11T18:58:25.525Z
 - Canonical: https://atlas.lootura.com/us/person/john-ternus
 
 ## Recent changes
@@ -34,5 +34,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [Apple announces first foldable iPhone at annual event](https://www.nbcnews.com/now/video/apple-unveils-new-products-including-first-foldable-iphone-at-annual-event-269563461741?utm_source=lootura.com) — 2026-09-09T18:55:13.000Z
-- [Fold the phone: Apple's new CEO unveils a foldable iPhone](https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus?utm_source=lootura.com) — 2026-09-09T18:39:57.000Z
+No public source links.

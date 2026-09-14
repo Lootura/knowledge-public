@@ -3,10 +3,28 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali
+
+Ocurrió en abril de 2021. La entonces ministra de Exteriores, Arancha González Laya, fue la primera que sospechó sobre una posible infección en su teléfono móvil . Personal del Ministerio confirmó la intrusión y, siguiendo el protocolo, acudió a La Moncloa para alertar de que su terminal estaba siendo objeto de un posi.
+
+Date: 2026-09-13
+
+### El PSOE pide a sus militantes alargar el Gobierno hasta 2030
+
+El PSOE ha inaugurado el nuevo curso político marcando un objetivo claro a sus militantes: la continuidad de Pedro Sánchez en La Moncloa más allá de las próximas elecciones generales. A través de un editorial publicado en 'El Socialista', el órgano de expresión del partido, la formación defiende la necesidad de goberna.
+
+Date: 2026-09-11
+
+### Ayuso ataca a Sánchez y defiende la compra del ático sin mencionarlo en el debate del estado de la región de Madrid
+
+Isabel Díaz Ayuso, después de vivir un verano nefasto para sus intereses por la compra de un ático, ha salido este jueves en tromba contra La Moncloa en el debate del estado de la región. La presidenta ha lanzado un alegato apocalíptico de casi dos horas en el que ha dibujado una España a punto del colapso. Si sus enem.
+
+Date: 2026-09-10
 
 ### La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con "temeridad"
 
@@ -49,24 +67,6 @@ Date: 2026-08-07
 La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.
 
 Date: 2026-08-03
-
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta
-
-Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
-
-Date: 2026-08-01
-
-### El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo
-
-Las fuerzas de seguridad españolas han desplegado una barrera neumática de unos 500 metros de longitud junto al espigón fronterizo del Tarajal, entre Ceuta y Castillejos, para frenar la llegada de migrantes. Fuentes de La Moncloa consideran que, además, con esta instalación se podrá devolver a Marruecos a quienes las s.
-
-Date: 2026-08-01
-
-### Ayuso y Puente se llaman mutuamente “mamarrachos” por la crisis de los incendios
-
-La crisis de los graves incendios que afectan a la Comunidad de Madrid y la provincia de Ávila ha motivado la declaración de emergencia nacional por parte del Gobierno central y a petición de la presidenta madrileña, Isabel Díaz Ayuso. El presidente, Pedro Sánchez, ha presidido ya esta mañana en La Moncloa la reunión d.
-
-Date: 2026-07-24
 
 ## Fuentes
 

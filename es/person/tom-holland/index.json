@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/tom-holland/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/tom-holland/index.json",
   "description": "Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T13:01:27.006Z",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
   "aliases": [
     "Holland",
     "Thomas Stanley Holland"
   ],
   "changes": [
+    {
+      "title": "Tom Holland se convierte en el actor más taquillero de todos los tiempos… ha superado a esta otra estrella de Marvel",
+      "summary": "Tom Holland acaba de hacer historia y se ha convertido en el actor más taquillero de todos los tiempos. Lo ha logrado gracias al impresionante éxito de Spider-Man: Brand New Day en el último mes y medio. El filme superó por mucho las expectativas y actualmente es la tercera película con mayor recaudación jamás estrenad.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "La predicción de Tom Holland sobre la IA: «La creatividad está a salvo»",
+      "summary": "Indiscutiblemente, desde el pasado 2025, la IA (Inteligencia Artificial) ha experimentado un crecimiento bastante notable en nuestro día a día. La sociedad comienza a simpatizar cada vez más con este formato tecnológico, a pesar de la gran parte negativa que llega con ella. Pues, como ya se ha empezado a notar, está af.",
+      "date": "2026-09-12"
+    },
     {
       "title": "Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman",
       "summary": "La última película de Spiderman lleva unas semanas en las grandes pantallas españolas y promete ser una de las taquilleras del año . Buena culpa de ello la tiene Tom Holland , que desde que se enfundó el traje del hombre araña lleva ya cuatro películas triunfando como Peter Parker dentro de este universo de Marvel. En.",
@@ -55,6 +65,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Tom Holland se convierte en el actor más taquillero de todos los tiempos… ha superado a esta otra estrella de Marvel",
+      "url": "https://hipertextual.com/cine-television/tom-holland-se-convierte-en-el-actor-mas-taquillero-de-todos-los-tiempos-ha-superado-a-esta-otra-estrella-de-marvel/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T15:15:13.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

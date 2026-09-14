@@ -3,10 +3,22 @@
 > Sigue la actividad de Tom Holland en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T13:01:27.006Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/tom-holland
 
 ## Cambios recientes
+
+### Tom Holland se convierte en el actor más taquillero de todos los tiempos… ha superado a esta otra estrella de Marvel
+
+Tom Holland acaba de hacer historia y se ha convertido en el actor más taquillero de todos los tiempos. Lo ha logrado gracias al impresionante éxito de Spider-Man: Brand New Day en el último mes y medio. El filme superó por mucho las expectativas y actualmente es la tercera película con mayor recaudación jamás estrenad.
+
+Date: 2026-09-14
+
+### La predicción de Tom Holland sobre la IA: «La creatividad está a salvo»
+
+Indiscutiblemente, desde el pasado 2025, la IA (Inteligencia Artificial) ha experimentado un crecimiento bastante notable en nuestro día a día. La sociedad comienza a simpatizar cada vez más con este formato tecnológico, a pesar de la gran parte negativa que llega con ella. Pues, como ya se ha empezado a notar, está af.
+
+Date: 2026-09-12
 
 ### Un 'hombre araña' en el gym: así se preparó Tom Holland para ser Spiderman
 
@@ -58,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Tom Holland se convierte en el actor más taquillero de todos los tiempos… ha superado a esta otra estrella de Marvel](https://hipertextual.com/cine-television/tom-holland-se-convierte-en-el-actor-mas-taquillero-de-todos-los-tiempos-ha-superado-a-esta-otra-estrella-de-marvel/?utm_source=lootura.com) — 2026-09-14T15:15:13.000Z

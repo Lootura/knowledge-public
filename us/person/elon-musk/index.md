@@ -3,10 +3,34 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-09-13T22:06:13.700Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Developer ecosystem expanded
+
+Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.
+
+Date: 2026-09-13
+
+### Trump and Mike Johnson think the AI industry is overreacting
+
+Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.
+
+Date: 2026-09-13
+
+### From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk
+
+In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths. (Image credit: Andrew Harnik).
+
+Date: 2026-09-11
+
+### Elon Musk threatens to sue over Gibney documentary's "space lasers" claim
+
+The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary. (Image credit: Evan Vucci).
+
+Date: 2026-09-10
 
 ### State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film
 
@@ -43,30 +67,6 @@ Date: 2026-08-14
 Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their workers. Musk’s $158.
 
 Date: 2026-08-13
-
-### Discovered by Atlas
-
-Elon Musk first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-05
-
-### X product chief Nikita Bier is leaving after one year
-
-X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that "it's time to pass the torch and demote myself to my natural state: a poster." He shared the update just over a month after celebrating his one-year anniversary on the job , and just weeks after Elon Musk's comb.
-
-Date: 2026-08-05
-
-### SpaceX is barely Space and mostly X
-
-Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI , his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is pr.
-
-Date: 2026-08-05
-
-### SpaceX shows strong growth in its first earnings report since IPO
-
-Elon Musk's rocket, satellite and AI provider reported quarterly revenue of $7.8 billion, topping Wall Street forecasts.
-
-Date: 2026-08-05
 
 ## Sources
 

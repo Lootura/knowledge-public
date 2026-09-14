@@ -3,10 +3,40 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
+
+El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
+
+Date: 2026-09-13
+
+### Alberto Núñez Feijóo: "La agresión de Marruecos continúa y Ceuta será el epitafio de Sánchez"
+
+Alberto Núñez Feijóo afronta el inicio de curso con una agenda doble. Por un lado, está volcado en la crisis de Estado que se vive en Ceuta, de la que culpa sin rodeos a...
+
+Date: 2026-09-12
+
+### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
+
+Tras los acuerdos autonómicos entre PP y Vox, las relaciones entre ambas formaciones y Alberto Núñez Feijóo y Santiago Abascal se han reforzado hasta tal punto que, fuentes cercanas a ambos líderes señalan que el contacto es “permanente” en las últimas semanas con motivo de la crisis de Ceuta, donde más de 70.000 inmig.
+
+Date: 2026-09-12
+
+### Feijóo ata en corto a sus barones y centraliza en Génova el rumbo del PP ante la "batalla final" contra Sánchez
+
+Siete barones autonómicos, decenas de diputados, eurodiputados y senadores y la cúpula nacional al completo se dieron cita el pasado lunes en el Hotel Four Seasons de Madrid para arropar al presidente de Ceuta, en un acto presidido por Alberto Núñez Feijóo . Es un despliegue poco habitual en eventos de este tipo, una i.
+
+Date: 2026-09-12
+
+### El ponente de la resolución sobre la ‘ley de nietos’ expresó a Feijóo su deseo de que el PP llegara al Gobierno
+
+El magistrado del Supremo Antonio Narváez, el ponente encargado de redactar la resolución sobre la ley de nietos en el alto tribunal, participó en un encuentro con fiscales con el presidente del PP en 2023 en el que le mostró su deseo de que este partido alcanzara el Gobierno y además alertó sobre pactos del Partido So.
+
+Date: 2026-09-10
 
 ### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
 
@@ -37,36 +67,6 @@ Date: 2026-09-08
 El curso parlamentario arranca con un asedio total al Gobierno de Pedro Sánchez Leer.
 
 Date: 2026-09-07
-
-### Feijóo y Vivas acusan a Marruecos de lanzar un ataque sobre Ceuta para conseguir “algún tipo de cesión” de España
-
-El Partido Popular en pleno ha arropado este lunes al presidente de Ceuta, Juan Jesús Vivas, que se ha presentado en Madrid para dar la voz de alarma sobre la situación de la ciudad autónoma un mes después de la entrada masiva de unos 70.000 inmigrantes. “Ceuta es una olla a presión que en cualquier momento puede estal.
-
-Date: 2026-09-07
-
-### Feijóo afirma que el Gobierno es "monárquico, pero en el país equivocado": "Son distantes con el Rey de España y reverenciales con el de Marruecos"
-
-Ayuso reclama responsabilidades políticas ante lo que considera una "acción perfectamente coordinada por los servicios secretos marroquíes" Leer.
-
-Date: 2026-09-05
-
-### Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”
-
-Isabel Díaz Ayuso se asomó a la entrada del evento y vio llegar a Alberto Núñez Feijóo en americana, vaqueros y zapatillas. Se estrecharon la mano, intercambiaron unas palabras y posaron juntos para una foto. Era una mañana plácida en Getafe en la que corría una ligera brisa, todo eran besos y abrazos. Parecía el banqu.
-
-Date: 2026-09-05
-
-### Feijóo acusa a Sánchez de ser "sumiso" con el régimen de Marruecos mientras se enfrenta a países aliados
-
-"Son distantes con el rey de España y reverenciables con el de Marruecos", ha señalado el líder del PP en un acto con Ayuso, en el que la presidenta ha apuntado al reino vecino por la entrada de migrantes en Ceuta: "Ha existido una acción coordinada desde Rabat" El rechazo del Gobierno a los traslados de migrantes a la.
-
-Date: 2026-09-05
-
-### Feijóo pide a Robles que deje comparecer a directora de CNI para «conocer la verdad»
-
-El líder del Partido Popular ha reprochado al Gobierno que dé «lecciones de justicia social».
-
-Date: 2026-09-05
 
 ## Fuentes
 

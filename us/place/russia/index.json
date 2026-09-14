@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,6 +18,46 @@
   ],
   "changes": [
     {
+      "title": "Daily fragment: Aeroflot Flight 821",
+      "summary": "Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Lithuania prepares for war, reinforcing its border against Russian tanks",
+      "summary": "On the edge of NATO territory in the Baltics, there is growing concern about the threat Russia poses. Aaron MacLean visited the capital of Lithuania to see how they're preparing.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Trump says Ukraine needs to stop targeting Russian refineries",
+      "summary": "Civilians were killed and injured overnight into Sunday as both Russia and Ukraine kept up large-scale drone strikes.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage",
+      "summary": "Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?",
+      "summary": "U.S. President Donald Trump attends the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, Co Clare, during his trip to the Republic of Ireland on Sept. 13, 2026. —Liam McBurney—PA Images President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russia's diesel fuel i.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+      "summary": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Zelenskyy visits Canada to seek more military support for Ukraine against Russia",
+      "summary": "Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.",
+      "date": "2026-09-10"
+    },
+    {
       "title": "Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says",
       "summary": "The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.",
       "date": "2026-09-08"
@@ -26,48 +66,21 @@
       "title": "Lithuanian civilians, including children, training for possible Russian attacks",
       "summary": "Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Russia Bombards Kyiv Soon After Witkoff, Kushner Leave",
-      "summary": "Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "News Wrap: Tropical Storm Marie brings dangerous surf to California coast",
-      "summary": "In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
-      "summary": "Russia's Foreign Ministry has announced the closure of the German consulate in St. Petersburg, a move that reflects the ongoing tensions between the two countries.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
-      "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "U.S. Diesel Prices Set New High",
-      "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
-      "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Kushner and Witkoff to Go to Russia and Ukraine to Revive Peace Talks",
-      "summary": "Jared Kushner and Steve Witkoff’s trip to meet with the countries’ presidents comes at a precarious moment in the Ukraine conflict.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lithuania prepares for war, reinforcing its border against Russian tanks",
+      "url": "https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T01:23:18.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Daily fragment: Aeroflot Flight 821",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_821?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
+    }
+  ],
+  "evidenceCount": 2
 }

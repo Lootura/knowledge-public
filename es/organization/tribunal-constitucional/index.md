@@ -3,10 +3,22 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-01T09:09:26.468Z
+- Actualizado: 2026-09-13T03:06:16.499Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### El ponente del primer recurso de amparo por la amnistía propone desestimarlo
+
+El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal Constitucional (TC) en el Pleno del próximo 22 de septiembre propone desestimarlo al considerar que la interpretación del delito de malversación que llevó al Supremo a inaplicar la ley no fue «ilógica ni arbitraria».Así lo asegura José María.
+
+Date: 2026-09-12
+
+### El ponente del primer amparo de la amnistía en el TC propone desestimar el recurso de Turull
+
+El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal Constitucional (TC) en el Pleno del próximo 22 de septiembre propone desestimarlo al considerar que la interpretación del delito de malversación que llevó al Supremo a inaplicar la ley no fue «ilógica ni arbitraria». Así lo asegura José Marí.
+
+Date: 2026-09-12
 
 ### La amnistía, Europa y Conde-Pumpido
 

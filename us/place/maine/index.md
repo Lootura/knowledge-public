@@ -3,10 +3,28 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Maine's head prison chief on giving inmates second chances: "I believe in redemption"
+
+This installment of "Beg-Knows America" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.
+
+Date: 2026-09-14
+
+### L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI
+
+L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.
+
+Date: 2026-09-12
+
+### While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat
+
+Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.
+
+Date: 2026-09-10
 
 ### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
 
@@ -50,24 +68,6 @@ The race between Susan Collins and Troy Jackson is one of this year's most high-
 
 Date: 2026-08-10
 
-### Dems stand by Maine nominee hit with report he fathered children with his second cousin
-
-Democratic senators are still backing Maine Senate nominee Troy Jackson, who replaced former candidate Graham Platner on the ballot, after the latest allegations threaten to yet again shake up the race for U.S. Senate in the Pine Tree State. Platner , following a series of scandals culminating in sexual misconduct clai.
-
-Date: 2026-08-09
-
-### How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins
-
-Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as "The County" to Mainers.
-
-Date: 2026-08-08
-
-### Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio
-
-Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.
-
-Date: 2026-08-08
-
 ## Sources
 
-No public source links.
+- [Maine's head prison chief on giving inmates second chances: "I believe in redemption"](https://www.cbsnews.com/video/maines-head-prison-chief-on-giving-inmates-second-chances-i-believe-in-redemption/?utm_source=lootura.com) — 2026-09-14T16:05:00.000Z

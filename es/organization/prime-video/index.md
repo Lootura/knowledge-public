@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-14T13:00:07.745Z
+- Actualizado: 2026-09-11T02:58:00.569Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Ester Expósito, contra los bulos y denuncia la falta de regulación de la IA:«Me da terror»
+
+La nueva película de Ester Expósito se estrenó hace solo dos días y ya es uno de los contenidos más vistos de Prime Video. La actriz protagoniza, junto a Hugo Diego García, 'Enfrentados: Marfil', la adaptación de la dilogía de Mercedes Ron, autora de la saga 'Culpables', que tantos éxitos le ha brindado a la plataforma.
+
+Date: 2026-09-10
 
 ### No es Sauron: 'Los Anillos del Poder' recupera a un villano original de la trilogía de Peter Jackson
 
@@ -61,12 +67,6 @@ Date: 2026-08-05
 Todavía tienen mucho que decir , pero por el momento y tras tan solo 2 películas, James Gunn y Peter Safran no ha sido los tan solicitados salvadores del universo cinematográfico de DC que se esperaba, aunque su saldo por ahora es neutro. Y es que si bien la Superman de 2025 llegó a convertirse en la película del Hombr.
 
 Date: 2026-08-05
-
-### Amazon y Henry Cavill preparan una serie animada de ‘Warhammer 40k’
-
-Amazon MGM Studios y Henry Cavill siguen firmes con su intención de adaptar el universo Wharhammer 40k al mundo del cine y las series. Según reporta Variety, el estudio y el actor se encuentran a la cabeza de un nuevo proyecto de animación basado en la franquicia para Prime Video. Pese a que todavía no se han brindado.
-
-Date: 2026-08-03
 
 ## Fuentes
 

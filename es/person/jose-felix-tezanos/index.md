@@ -1,0 +1,32 @@
+# José Félix Tezanos
+
+> Sigue la actividad de José Félix Tezanos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+
+- Type: person
+- Actualizado: 2026-09-14T17:40:22.734Z
+- Canonical: https://atlas.lootura.com/es/person/jose-felix-tezanos
+
+## Cambios recientes
+
+### El CIS de Tezanos no pregunta por la gestión de Sánchez en Ceuta ni sobre quién impulsó el asalto
+
+El 82,2% de los españoles considera que es necesario reforzar las fronteras de Ceuta y Melilla para evitar entradas masivas de inmigrantes como la que tuvo lugar a finales de julio. Así lo revela el último barómetro del Centro de Investigaciones Sociológicas (CIS) dirigido por José Félix Tezanos, que no ha pedido a sus.
+
+Date: 2026-09-14
+
+### El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta
+
+El Centro de Investigaciones Sociológicas (CIS), presidido por José Félix Tezanos, ha evitado incluir en su último barómetro de septiembre cualquier pregunta que permita a los españoles evaluar la gestión directa del Gobierno en la crisis fronteriza de Ceuta. A pesar del colapso vivido los días 30 y 31 de julio en la f.
+
+Date: 2026-09-14
+
+### Discovered by Atlas
+
+José Félix Tezanos first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-14
+
+## Fuentes
+
+- [El CIS de Tezanos no pregunta por la gestión de Sánchez en Ceuta ni sobre quién impulsó el asalto](https://www.20minutos.es/nacional/82-los-espanoles-aboga-por-reforzar-las-fronteras-ceuta-melilla-segun-cis-que-no-pregunta-por-gestion-sanchez_7036509_0.html?utm_source=lootura.com) — 2026-09-14T12:52:02.000Z
+- [El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta](https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html?utm_source=lootura.com) — 2026-09-14T17:23:50.000Z

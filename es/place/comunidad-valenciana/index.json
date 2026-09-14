@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-09-12T14:59:00.939Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia",
+      "summary": "Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barbastro y de Huesca , han detenido en Barcelona a cuatro hombres acusados de 72 robos de material informático, valorado en unos 700.000 euros , en empresas de Cataluña, Aragón y Comunidad Valenciana. La policía catalana ha informado este sábado.",
+      "date": "2026-09-12"
+    },
     {
       "title": "Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente",
       "summary": "La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...",
@@ -63,11 +68,6 @@
     {
       "title": "El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península",
       "summary": "El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.",
-      "date": "2026-08-09"
-    },
-    {
-      "title": "Los caballos también disfrutan",
-      "summary": "N o me cansaré nunca de poner en valor la gran variedad de fiestas y tradiciones de Valencia y la Comunitat Valenciana. Y menos en un mes en el que triunfan las fiestas de diferentes pueblos y localidades. Desde la Romería del Santísimo Cristo de la Salud de El Palmar -que ya destacamos la semana pasada- hasta la fiest.",
       "date": "2026-08-09"
     }
   ],

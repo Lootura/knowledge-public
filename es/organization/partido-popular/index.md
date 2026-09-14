@@ -3,72 +3,74 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### El PP mantiene la ambigüedad con el Sáhara y no aclara si revertirá el giro de Sánchez
+### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
 
-La ley para conceder la nacionalidad española a miles de saharauis nacidos bajo la administración española y a sus descendientes verá definitivamente la luz este mismo jueves. La iniciativa de Sumar afronta ahora su trámite final después de presionar con ella a lo largo de toda la legislatura y batallar contra las trab.
+El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Sémper cree que los informes de Ceuta «echan por tierra» el «argumentario de Sánchez»
+### El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP
 
-«Marruecos, por acción o por omisión, sabía algo», ha añadido el portavoz del PP.
+Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP (25,5%) Leer.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### PP y Vox sacan pecho por la decisión del Supremo de suspender las altas en el censo electoral por la 'ley de nietos'
+### "La vergüenza de Oviedo": David Uclés pide la dimisión del alcalde de la ciudad por restar importancia a una agresión fascista en las fiestas
 
-Los populares celebran que la Justicia haya frenado el intento del Gobierno de «meter a saco cientos de miles de personas en el censo» y Vox se congratula por «detener el objetivo de Sánchez».
+"Es mil veces más peligroso un alcalde que no condena la violencia que los propios agresores", ha escrito el autor de 'La península de las casas vacías' El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente” El escritor David Uclés, autor de La peníns.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
+### El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente”
 
-"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a Pedro Sánchez como "el Nerón de Tik-Tok" Leer.
+La izquierda pide al regidor, independiente por el Partido Popular, una rectificación de sus palabras, en las que atacó además a uno de los agredidos aludiendo a una sanción por consumo de alcohol en vía pública de hace años Protesta multitudinaria tras la agresión fascista en las fiestas de Oviedo: “No pasarán” Las de.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Mónica García califica de «cínico e hipócrita» el comportamiento del PP con el estatuto marco
+### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
 
-La ministra de Sanidad, Mónica García , ha tildado este martes de «cínico» e «hipócrita» el comportamiento del PP con el estatuto marco sanitario y le ha invitado a enmendar el proyecto de ley en el Congreso con todo lo que no comparte del texto, incluyendo la reducción de las guardias médicas un 30 %. «Es que es basta.
+La portavoz del PP en el Congreso ha insistido en que se trata de "un ataque de guerra híbrida destinado a desestabilizar Ceuta y, por tanto, a desestabilizar España y la Unión Europea" Jueces y fiscales progresistas ven desproporcionado suspender el derecho a voto de nacionalizados por la 'ley de nietos' La portavoz d.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### El PP, al Gobierno en el Senado sobre la crisis de Ceuta: «Están solos frente a todos»
+### Bendodo denuncia que la falta de energía bloquea la construcción de miles de viviendas
 
-La portavoz del Grupo Popular en el Senado, Alicia García , ha advertido al vicepresidente primero del Gobierno y ministro de Economía, Carlos Cuerpo, que el Gobierno de Sánchez «está solo frente a todos», en relación a la gestión de la invasión migratoria en Ceuta . Por su parte, el miembro del gabinete de Sánchez ha.
+El coordinador general de Política Autonómica y Municipal y Análisis Electoral del PP , Elías Bendodo , ha responsabilizado este domingo al Gobierno por la falta de vivienda en España y ha asegurado que la «falta de suministro energético, competencia del Ejecutivo central, está bloqueando miles de viviendas, según reco.
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
+### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
 
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
+El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
 
-Date: 2026-09-08
+Date: 2026-09-13
 
-### El PP constata una fuerte reacción social por Ceuta, pero sus barones advierten: “El beneficiado puede ser Vox”
+### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
 
-Una paradoja atrapa al Partido Popular con la crisis de Ceuta. Por un lado, los populares constatan una importante movilización social como hacía tiempo que no detectaban. “No había visto a tanta gente en las calles desde las protestas por Miguel Ángel Blanco”, cuenta un presidente autonómico del PP haciendo balance de.
+Tras los acuerdos autonómicos entre PP y Vox, las relaciones entre ambas formaciones y Alberto Núñez Feijóo y Santiago Abascal se han reforzado hasta tal punto que, fuentes cercanas a ambos líderes señalan que el contacto es “permanente” en las últimas semanas con motivo de la crisis de Ceuta, donde más de 70.000 inmig.
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### El PP enfría el intento de procesar a Sánchez por traición de Vox: "No estamos para perder votaciones"
+### El PP ve en la dimisión de Sanz la prueba de que el Gobierno "miente" con Ceuta y avisa a Marruecos: "Con España no se juega"
 
-Vox no puede sacar adelante su intento de procesar al presidente del Gobierno por un delito de traición contra la seguridad del Estado por la agresión territorial de Ceuta. El partido de Santiago Abascal insistía este lunes en su llamamiento a 56 diputados del Congreso para que se sumen a su petición para activar el ar.
+La crisis migratoria de Ceuta sigue acaparando el debate político en España. Este sábado, el portavoz nacional del Partido Popular, Borja Sémper , ha comparecido para arremeter contra el Gobierno del PSOE y la gestión que está haciendo de la situación, acusándolo de "mentir". En una intervención en Vigo, Sémper ha acus.
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### El PSOE se hunde en Asturias ante una mayoría histórica de la derecha
+### Feijóo ata en corto a sus barones y centraliza en Génova el rumbo del PP ante la "batalla final" contra Sánchez
 
-Barbón se desploma en votos y escaños y solo la suma de PP y Vox podría gobernar Leer.
+Siete barones autonómicos, decenas de diputados, eurodiputados y senadores y la cúpula nacional al completo se dieron cita el pasado lunes en el Hotel Four Seasons de Madrid para arropar al presidente de Ceuta, en un acto presidido por Alberto Núñez Feijóo . Es un despliegue poco habitual en eventos de este tipo, una i.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
 ## Fuentes
 
-- [El PP mantiene la ambigüedad con el Sáhara y no aclara si revertirá el giro de Sánchez](https://www.elconfidencial.com/espana/2026-09-10/el-pp-mantiene-la-ambiguedad-con-el-sahara-y-no-aclara-si-revertira-el-giro-de-sanchez_4420810/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
-- [Sémper cree que los informes de Ceuta «echan por tierra» el «argumentario de Sánchez»](https://theobjective.com/espana/2026-09-10/semper-informes-ceuta-tierra-argumentario-sanchez/?amp=&utm_source=lootura.com) — 2026-09-09T23:55:02.000Z
+- [CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos](https://www.elconfidencial.com/espana/2026-09-14/tezanos-cis-psoe-pp-recortan-distancia-crisis-ceuta_4423304/?utm_source=lootura.com) — 2026-09-14T10:31:00.000Z
+- [El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP](https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html?utm_source=lootura.com) — 2026-09-14T11:22:32.000Z
+- ["La vergüenza de Oviedo": David Uclés pide la dimisión del alcalde de la ciudad por restar importancia a una agresión fascista en las fiestas](https://www.eldiario.es/rastreador/verguenza-oviedo-david-ucles-pide-dimision-alcalde-ciudad-restar-importancia-agresion-fascistas-fiestas_132_13509043.html?utm_source=lootura.com) — 2026-09-14T15:41:28.000Z
+- [El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente”](https://www.eldiario.es/asturias/izquierda-exige-alcalde-oviedo-rectificar-justificar-agresion-fascista-no-creo-sean-mala-gente_1_13507513.html?utm_source=lootura.com) — 2026-09-14T09:57:53.000Z

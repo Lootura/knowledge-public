@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T08:35:00.530Z
+- Updated: 2026-09-12T14:59:23.432Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Brooks and Capehart on the GOP's midterm identity
+
+David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including the GOP's midterm convention and the identity of the party, if Democrats should be worried about campaign spending benefiting Republican candidates and how America has changed in the 25 years since 9/.
+
+Date: 2026-09-11
 
 ### Steinem stayed true to herself despite intense pressure, Julie Taymor says
 
@@ -61,12 +67,6 @@ Date: 2026-07-24
 Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.
 
 Date: 2026-07-24
-
-### Discovered by Atlas
-
-Amna Nawaz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-20
 
 ## Sources
 

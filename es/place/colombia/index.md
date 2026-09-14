@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Teatro del Oprimido: como analizar la desigualdad en escena
+
+Laboratorio con Licko Turle, del Teatro del Oprimido, en el Museo de Antioquía en Medellín, Colombia. Museo de Antioquía , CC BY-NC-SA Hace casi un año, empecé a asistir a clases de teatro. Soy filósofa así que se preguntarán qué me lleva a actuar por primera vez en mi vida adulta. Todo empezó con mi interés por la teo.
+
+Date: 2026-09-14
 
 ### Rubio desembarca en una Colombia que ahora abraza la mano dura de Trump
 
@@ -62,12 +68,6 @@ Una joven española de 31 años, natural de Castellón , ha fallecido esta seman
 
 Date: 2026-08-13
 
-### El Consell destina 250.000 € a Colombia para atender necesidades básicas de la población tras el terremoto
-
-La Consellería de Servicios Sociales, Igualdad e Infancia de la Generalitat Valenciana, que dirige Elena Albalat, ha destinado 250.000 euros a ayuda humanitaria urgente en Colombia para atender las necesidades básicas de la población. La ayuda se ha producido apenas tres días después del devastador terremoto del pasado.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Teatro del Oprimido: como analizar la desigualdad en escena](https://theconversation.com/teatro-del-oprimido-como-analizar-la-desigualdad-en-escena-289839?utm_source=lootura.com) — 2026-09-14T15:55:58.000Z

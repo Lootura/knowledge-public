@@ -52,4 +52,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable](https://www.elconfidencial.com/espana/2026-09-10/lo-mas-odiado-puente-ministro_4420809/?utm_source=lootura.com) — 2026-09-10T03:00:00.000Z
+No public source links.

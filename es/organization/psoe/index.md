@@ -3,75 +3,74 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"
+### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
 
-El presidente del Gobierno señala que las elecciones será en 2027, pero ya no apunta al mes de julio como sí hacía en ocasiones anteriores Leer.
+El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### La gerente del PSOE atribuye a Cerdán la responsabilidad de los pagos a la 'fontanera' Leire Díez y los abogados imputados
+### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
 
-Ana María Fuentes ha declarado como imputada ante el juez Pedraz en la acusa abierta en la Auidiencia Nacional por las maniobras para desactivar las investigaciones que perjudicaban al PSOE y al Gobierno Leer.
+Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la "extraordinaria gravedad" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE
+### El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP
 
-Superaba ya la media hora su intervención en TVE y Pedro Sánchez se fue viniendo tan arriba que cometió un 'lapsus'. Desveló que la investigación judicial ha...
+Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP (25,5%) Leer.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### "Nos hemos pegado un tiro en el pie": incredulidad en el PSOE tras los informes y la versión del Gobierno
+### La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS
 
-Moncloa censura que el CNI se "limita a mandar un 'whatsapp' a un cargo menor" Leer.
+La crisis de Ceuta golpea las expectativas electorales de Pedro Sánchez . El barómetro del CIS, elaborado con 4.000 entrevistas entre el 1 y el 4 de septiembre, refleja una caída de la estimación de voto de dos puntos del PSOE, que pasa del 33% en julio al 31% ahora. La serie de la institución pública mantiene a los so.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'
+### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
 
-La Audiencia Nacional ha reclamado al PSOE que aporte a la causa incoada por la presunta financiación irregular del partido las donaciones que recibió entre los años 2017 y...
+El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
 
-Date: 2026-09-09
+Date: 2026-09-13
 
-### El PSOE considera una "auténtica barbaridad" la lista de periodistas con su adscripción política elaborada por Interior
+### El PP ve en la dimisión de Sanz la prueba de que el Gobierno "miente" con Ceuta y avisa a Marruecos: "Con España no se juega"
 
-Las asociaciones profesionales exigen el "cese de inmediato" de este tipo de prácticas Leer.
+La crisis migratoria de Ceuta sigue acaparando el debate político en España. Este sábado, el portavoz nacional del Partido Popular, Borja Sémper , ha comparecido para arremeter contra el Gobierno del PSOE y la gestión que está haciendo de la situación, acusándolo de "mentir". En una intervención en Vigo, Sémper ha acus.
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### El PSOE ataca a la juez que investiga la crisis de Ceuta por su «pasado» y por «pasar» un informe
+### La investigación sobre Ceuta que teme el PSOE engorda con documentos y testigos clave
 
-La portavoz del PSOE, Montse Mínguez, ha cuestionado a la jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes en.
+Una de las cuestiones sobre las que previsiblemente indagará la jueza que investiga la invasión de Ceuta en los días 30 y 31 de julio es la transmisión de la información que...
 
-Date: 2026-09-08
+Date: 2026-09-12
 
-### Las feministas protestan contra Sánchez y el PSOE: "Ni siquiera nos han llamado"
+### El PSOE rechaza las críticas por no anticipar la crisis de Ceuta: «Desde Madrid es fácil opinar»
 
-Una palabra habitual en los discursos políticos del presidente del Gobierno, Pedro Sánchez , es "feminismo". Así fue este lunes en el mensaje que pronunció a diputados, senadores y eurodiputados en el inicio del curso político. Sin embargo, del dicho al hecho hay un trecho que ha vuelto a enervar al sector feminista de.
+Montse Mínguez defiende que nadie «pudo predecir» la llegada de más de 70.000 personas en 48 horas.
 
-Date: 2026-09-07
+Date: 2026-09-12
 
-### Sánchez pone en guardia al PSOE ante un adelanto electoral
+### El PSOE pide a sus militantes alargar el Gobierno hasta 2030
 
-«Las elecciones serán en 2027». En su discurso de inicio de curso ayer ante los miembros del PSOE en el Congreso, el Senado y el Parlamento Europeo, Pedro Sánchez no...
+El PSOE ha inaugurado el nuevo curso político marcando un objetivo claro a sus militantes: la continuidad de Pedro Sánchez en La Moncloa más allá de las próximas elecciones generales. A través de un editorial publicado en 'El Socialista', el órgano de expresión del partido, la formación defiende la necesidad de goberna.
 
-Date: 2026-09-07
+Date: 2026-09-11
 
-### El PSOE se hunde en Asturias ante una mayoría histórica de la derecha
+### El Congreso aprobará la nacionalidad de los saharauis bajo un torrente de acusaciones a Sánchez por someterse a Rabat
 
-Barbón se desploma en votos y escaños y solo la suma de PP y Vox podría gobernar Leer.
+Los grupos, salvo PSOE y Sumar, arremeten contra el presidente del Gobierno y le exigen revertir el giro "unilateral" que decidió en 2022 cediendo a las aspiraciones de Marruecos sobre el Sáhara Leer.
 
-Date: 2026-09-07
+Date: 2026-09-10
 
 ## Fuentes
 
-- [Sánchez dice que contará con Zapatero en la campaña de las generales y trata de zanjar debates sucesorios en el PSOE: "Quiero ser el candidato"](https://www.elmundo.es/espana/2026/09/09/6aa13a7fe4d4d867438b4586.html?utm_source=lootura.com) — 2026-09-09T13:17:15.000Z
-- [La gerente del PSOE atribuye a Cerdán la responsabilidad de los pagos a la 'fontanera' Leire Díez y los abogados imputados](https://www.elmundo.es/espana/2026/09/09/6aa121acfdddffee4f8b4581.html?utm_source=lootura.com) — 2026-09-09T13:07:00.000Z
-- [El 'lapsus' de Pedro Sánchez en TVE y el 'pitufeo' donante récord al PSOE](https://amp.elmundo.es/espana/2026/09/09/6aa1a544e85ece66268b4594.html?utm_source=lootura.com) — 2026-09-09T20:45:47.000Z
-- ["Nos hemos pegado un tiro en el pie": incredulidad en el PSOE tras los informes y la versión del Gobierno](https://www.elmundo.es/espana/2026/09/10/6aa19a6021efa075728b45a3.html?utm_source=lootura.com) — 2026-09-09T23:51:28.000Z
-- [El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'](https://amp.elmundo.es/espana/2026/09/09/6aa19ae821efa05f7c8b45a3.html?utm_source=lootura.com) — 2026-09-09T20:45:56.000Z
+- [CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos](https://www.elconfidencial.com/espana/2026-09-14/tezanos-cis-psoe-pp-recortan-distancia-crisis-ceuta_4423304/?utm_source=lootura.com) — 2026-09-14T10:31:00.000Z
+- [El Gobierno y el PSOE echan el resto en su cruzada contra los jueces](https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com) — 2026-09-14T12:54:00.000Z
+- [El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP](https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html?utm_source=lootura.com) — 2026-09-14T11:22:32.000Z
+- [La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS](https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html?utm_source=lootura.com) — 2026-09-14T11:52:03.000Z

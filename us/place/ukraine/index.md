@@ -3,10 +3,58 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies
+
+The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.
+
+Date: 2026-09-14
+
+### Trump says Ukraine needs to stop targeting Russian refineries
+
+Civilians were killed and injured overnight into Sunday as both Russia and Ukraine kept up large-scale drone strikes.
+
+Date: 2026-09-13
+
+### Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage
+
+Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.
+
+Date: 2026-09-13
+
+### Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say
+
+Ukrainian Railways says former British PM and David Petraeus crossed into Poland shortly before drone attack near border A train carrying Boris Johnson and the former CIA chief David Petraeus may have been the target of a Russian drone strike that hit a train engine near the Poland-Ukraine border, according to Ukrainia.
+
+Date: 2026-09-13
+
+### Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?
+
+U.S. President Donald Trump attends the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, Co Clare, during his trip to the Republic of Ireland on Sept. 13, 2026. —Liam McBurney—PA Images President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russia's diesel fuel i.
+
+Date: 2026-09-13
+
+### Former Army secretary praises Ukraine in 1st public appearance since resigning
+
+During his 18 months as Army secretary, Dan Driscoll pushed the U.S. military to apply lessons from the war in Ukraine.
+
+Date: 2026-09-12
+
+### Trump touts "great conversation" with Putin on ending the war in Ukraine
+
+Russian attacks continue to ravage Ukraine. President Trump says he spoke with President Vladimir Putin about ending the war. Plus, Ukrainian President Volodymyr Zelenskyy's plane was nearly struck by a Russian drone, according to Norway's prime minister. CBS News' Aidan Stretch reports.
+
+Date: 2026-09-10
+
+### Zelenskyy visits Canada to seek more military support for Ukraine against Russia
+
+Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.
+
+Date: 2026-09-10
 
 ### Q&A: Satellite imagery reveals what casualty figures alone do not tell us
 
@@ -20,54 +68,6 @@ Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their 
 
 Date: 2026-09-08
 
-### Russian strikes on Kyiv resume after Witkoff, Kushner peace talks with Putin and Zelenskyy
-
-Russian strikes pummeled Ukraine's capital as soon as a three-day pause for peace talks with President Trump's envoys ended.
-
-Date: 2026-09-08
-
-### Russia Bombards Kyiv Soon After Witkoff, Kushner Leave
-
-Russia agreed not to bomb Ukraine’s capital during Steve Witkoff and Jared Kushner’s visit there. The respite was short-lived.
-
-Date: 2026-09-08
-
-### Morning news brief
-
-Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.
-
-Date: 2026-09-07
-
-### News Wrap: Tropical Storm Marie brings dangerous surf to California coast
-
-In our news wrap Monday, Tropical Storm Marie is whipping up high surf along the California coast, the Kremlin is not ruling out future talks between Ukraine, Russia, and the United States following a weekend visit to Moscow by U.S. negotiators and Iran is warning that new U.S. strikes could trigger further retaliation.
-
-Date: 2026-09-07
-
-### Witkoff, Kushner visit Moscow in latest push to end war in Ukraine
-
-Presidents Vladimir Putin and Volodymyr Zelenskyy agreed to pause strikes on each other's capitals while U.S. envoys Steve Witkoff and Jared Kushner hold talks to revive peace efforts.
-
-Date: 2026-09-05
-
-### U.S. envoys in Moscow in new push for peace between Russia and Ukraine
-
-U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded. (Image credit: Francisco Seco).
-
-Date: 2026-09-05
-
-### How the U.S. focus on Iran is fueling a more aggressive Putin
-
-Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?
-
-Date: 2026-09-05
-
-### Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches
-
-A deadly campaign of Russian and Ukrainian airstrikes has escalated since the last U.S.-brokered negotiations stalled in February.
-
-Date: 2026-09-05
-
 ## Sources
 
-- [Q&A: Satellite imagery reveals what casualty figures alone do not tell us](https://phys.org/news/2026-09-qa-satellite-imagery-reveals-casualty.html?utm_source=lootura.com) — 2026-09-10T00:40:01.000Z
+- [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html?utm_source=lootura.com) — 2026-09-14T16:34:19.000Z

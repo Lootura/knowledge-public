@@ -3,10 +3,22 @@
 > Follow Rhode Island, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-10T22:15:13.525Z
 - Canonical: https://atlas.lootura.com/us/place/rhode-island
 
 ## Recent changes
+
+### Discovered by Atlas
+
+Rhode Island first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-10
+
+### Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary
+
+Rhode Island Gov. Dan McKee was dogged by questions about his administration's work to replace a critical bridge in the state capital that was abruptly closed due to safety problems in 2023.
+
+Date: 2026-09-10
 
 ### Rhode Island governor projected to lose Democratic primary to former CVS executive
 
@@ -20,13 +32,6 @@ State Rep. David Morales won the Democratic nomination for mayor of Rhode Island
 
 Date: 2026-09-10
 
-### Discovered by Atlas
-
-Rhode Island first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [Rhode Island governor projected to lose Democratic primary to former CVS executive](https://www.cbsnews.com/news/rhode-island-governor-race-results-helena-foulkes-dan-mckee/?utm_source=lootura.com) — 2026-09-10T00:35:35.000Z
-- [Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary](https://www.nbcnews.com/politics/2026-election/david-morales-winner-providence-mayor-primary-democrat-smiley-rcna596606?utm_source=lootura.com) — 2026-09-10T00:34:57.000Z
+No public source links.

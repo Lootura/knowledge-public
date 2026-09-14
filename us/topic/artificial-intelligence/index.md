@@ -3,71 +3,77 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
 
-### Humans "close to being outsmarted" by superintelligence, AI expert says
+### Tech stocks slump after AI execs call for industry slowdown
 
-Rapid developments in AI are prompting concerns about "superintelligence." Here's why some experts are worried.
+The Nasdaq slid 1% on Monday after AI company executives called for a slowdown in developing the technology.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Put patients at the centre of medical AI governance
+### Trump dismisses push for AI guardrails despite warnings from tech leaders
 
-Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02796-8 Put patients at the centre of medical AI governance.
+President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a "SMART PRESIDENT.".
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Chinese hackers are running AI on stolen networks to avoid detection, Google says
+### DevFest is back
 
-One China-linked group targets academic, medical and military AI research, the report says.
+DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### The Work Now Within Reach
+### Briefing Chat: The Bunsen burner myth that turns out to be just hot air
 
-Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
+Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Innocent-looking AI reasoning can make bad behavior harder to catch
+### Beijing hits back at Anthropic CEO's call to curb China's AI development
 
-AI safety monitoring can fail when an AI’s reasoning is the main clue that something has gone wrong, new research suggests.
+China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI "fearmongering," as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Adobe is trying to make its AI generators idiot-proof in Premiere
+### Vance says Americans should not be scared of AI as calls for limits grow
 
-Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project ti.
+Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Google’s Atlas of the human genome could pave the way for new treatments
+### What Is Actually New About the AI Revolution?
 
-Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a "predictiv.
+—J Studios—Getty Images In just a few years, AI has gone from a specialist topic to something everyone has opinions on. It has been praised as miraculous, condemned as dangerous, and debated everywhere from boardrooms to dinner tables. But between these poles of euphoria and dread lies the reality most of us now face:.
 
-Date: 2026-09-08
+Date: 2026-09-14
 
-### Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days
+### Briefing Chat: The Bunsen burner myth that turns out to be just hot air
 
-Nature, Published online: 07 September 2026; doi:10.1038/d41586-026-02822-9 Claude produced a 13-million-line, computer-checked proof of the famed conjecture — a major milestone in mathematics.
+Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### The listening gap is real—how AI might help teachers bridge it
+### Utah Gov. Spencer Cox says government needs to "protect the public" on AI
 
-A Grade 4 teacher showed her class a video of children who walk miles barefoot to school. A hand shot up: "Why are you showing us AI slop? No way this is real.".
+Utah's Republican Gov. Spencer Cox told "Face the Nation with Margaret Brennan" that the government needs to come together to "protect the public" on AI, saying "government doesn't get this right often either, but we should be at the table working together, and that's what we've done in Utah.".
 
-Date: 2026-09-07
+Date: 2026-09-13
 
-### Voters are fed up with data centers. Both parties are trying to cash in for midterms
+### Anthropic CEO Dario Amodei says U.S.-China AI race poses "toughest dilemma"
 
-Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities. (Image credit: Thomas Simonetti).
+In an exclusive interview with CBS News' Jo Ling Kent, Anthropic CEO Dario Amodei called on the tech industry to slow the development of AI. But, he acknowledged the "toughest dilemma" is coming to an international agreement amid the development race between the U.S.and China.
 
-Date: 2026-09-05
+Date: 2026-09-13
 
 ## Sources
 
-- [Humans "close to being outsmarted" by superintelligence, AI expert says](https://www.cbsnews.com/news/ai-superintelligence-anthropic-jacob-coxon/?utm_source=lootura.com) — 2026-09-09T21:47:47.000Z
+- [Tech stocks slump after AI execs call for industry slowdown](https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?utm_source=lootura.com) — 2026-09-14T16:02:49.000Z
+- [Trump dismisses push for AI guardrails despite warnings from tech leaders](https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/?utm_source=lootura.com) — 2026-09-14T17:06:18.000Z
+- [DevFest is back](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/?utm_source=lootura.com) — 2026-09-14T16:00:00.000Z
+- [Briefing Chat: The Bunsen burner myth that turns out to be just hot air](https://www.nature.com/articles/d41586-026-02893-8?utm_source=lootura.com) — 2026-09-14T17:40:47.614Z
+- [Beijing hits back at Anthropic CEO's call to curb China's AI development](https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com) — 2026-09-14T10:09:08.000Z
+- [WATCH: Vance says Americans should not be scared of AI as calls for limits grow](https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com) — 2026-09-14T15:06:18.000Z
+- [What Is Actually New About the AI Revolution?](https://time.com/article/2026/09/14/what-is-actually-new-about-the-ai-revolution-/?utm_source=lootura.com) — 2026-09-14T14:45:37.000Z

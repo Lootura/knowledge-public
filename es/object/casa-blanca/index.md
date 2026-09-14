@@ -3,10 +3,34 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
+
+### Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende
+
+Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.
+
+Date: 2026-09-14
+
+### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
+
+El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
+
+Date: 2026-09-14
+
+### El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera
+
+Con el estrecho de Ormuz aún cerrado, diga lo que diga la Casa Blanca , la sombra de otra crisis de consecuencias imprevisibles se cierne sobre su principal alternativa: Bab el Mandeb, ineludible puerta de entrada al canal de Suez y salida clave para el petróleo de Arabia Saudí. Las milicias hutíes están cada vez más c.
+
+Date: 2026-09-11
+
+### Dentro de la Casa Blanca en el 11-S: historia oral del “día más oscuro” de la historia reciente de Estados Unidos
+
+Lo más excitante que había programado en la Casa Blanca el 11 de septiembre de 2001 —un día “soleado, agradable”, ponía en la portada de The Washington Post— era una barbacoa con congresistas republicanos. Con el jefe, el presidente George W. Bush, de viaje en Florida para participar en un acto sobre educación infantil.
+
+Date: 2026-09-11
 
 ### Los emisarios de Trump llegan a Moscú para negociar con Putin la paz de Ucrania
 
@@ -44,30 +68,7 @@ La administración de Donald Trump prepara un plan para cercar de forma permanen
 
 Date: 2026-09-03
 
-### La banca de inversión enfría el optimismo de Trump: el petróleo venezolano no bajará el precio
-
-Los bancos de inversión matizan el entusiasmo de la Casa Blanca por el acuerdo petrolífero con Venezuela. UBS alerta de que la producción de crudo tardará años en recuperarse y tendrá un impacto limitado sobre los precios en el corto plazo. El cierre de Ormuz y las dudas que aún persisten sobre el pacto alcanzado manti.
-
-Date: 2026-09-03
-
-### Alejandro Betancourt, el nuevo oligarca latinoamericano de Trump
-
-Un empresario de 46 años, con una pésima reputación, acaba de convertirse en el petrolero de Donald Trump en Venezuela. Tras días de especulaciones, por fin la Casa Blanca dio más detalles sobre el histórico acuerdo por el que va a tener acceso privilegiado durante un siglo a una cuarta parte de las reservas de crudo d.
-
-Date: 2026-09-02
-
-### El secretario del Ejército de EEUU dimite y aumenta el vacío de liderazgo en medio de la guerra de Irán
-
-Dan Driscoll ha presentado su renuncia este lunes, después de meses de tensión con el jefe del Pentágono, Pete Hegseth La purga de Hegseth ataca la cúpula del Pentágono y alimenta la bunkerización de la Casa Blanca El secretario del Ejército, Dan Driscoll, ha presentado su dimisión este lunes, según ha anunciado la Cas.
-
-Date: 2026-09-01
-
-### Trump se empeña en construir su salón de baile en la Casa Blanca y apela ante la Corte Suprema
-
-El Gobierno de Donald Trump ha apelado este viernes ante la Corte Suprema para desbloquear la construcción del monumental salón de baile en la Casa Blanca, un proyecto que el presidente estadounidense defiende con fuerza, pero que fue desestimado por el tribunal de apelaciones el pasado 7 de agosto, que entendía que la.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende](https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com) — 2026-09-14T06:22:24.000Z
+- [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z

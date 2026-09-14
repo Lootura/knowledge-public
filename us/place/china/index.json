@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,41 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says U.S.-China AI race poses \"toughest dilemma\"",
+      "summary": "In an exclusive interview with CBS News' Jo Ling Kent, Anthropic CEO Dario Amodei called on the tech industry to slow the development of AI. But, he acknowledged the \"toughest dilemma\" is coming to an international agreement amid the development race between the U.S.and China.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
+      "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+      "summary": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison in national security case",
+      "summary": "Three Hong Kong activists who organized annual vigils in remembrance of China's 1989 Tiananmen Square crackdown were sentenced Friday to about five to seven years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
+      "date": "2026-09-11"
+    },
     {
       "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
       "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.",
@@ -34,43 +69,27 @@
       "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
       "summary": "One China-linked group targets academic, medical and military AI research, the report says.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
-      "summary": "China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "In Nepal, climate adaptation starts with what communities already know",
-      "summary": "The catastrophic flood along the Nepal–China border that killed more than 1,400 people and left nearly 6,000 people missing devastated communities and infrastructure and renewed questions about how Himalayan countries prepare for environmental hazards that can unfold rapidly and cross-national borders.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Nepal glacier saw exceptional heat before collapse caused deadly floods: Researcher",
-      "summary": "The mountain section whose collapse triggered fatal floods in Nepal and China on Aug. 26 had experienced unprecedented heat for the time of year, meteorological data analyzed by a researcher show.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Chinese Ship Takes Arctic Shortcut: Smart Business? Or a Political Flex?",
-      "summary": "Melting ice is opening a trade route through the Arctic. China has begun the first regular service, part of its polar ambitions.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Jaguar Land Rover will cut 4,000 jobs to reduce costs and compete with China",
-      "summary": "The company aims to achieve $2.3 billion in savings over the next two years.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
-      "summary": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course.",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
-      "summary": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a ne.",
-      "date": "2026-09-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders",
+      "url": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T12:14:29.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T10:09:08.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T17:38:15.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 2
 }

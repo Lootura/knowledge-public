@@ -3,10 +3,28 @@
 > Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-14T17:40:22.734Z
 - Canonical: https://atlas.lootura.com/es/person/poder-judicial
 
 ## Cambios recientes
+
+### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
+
+Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la "extraordinaria gravedad" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.
+
+Date: 2026-09-14
+
+### La presidenta del Poder Judicial, sobre la "grave crisis" de Ceuta: "La realidad exige una respuesta que preserve la integridad de nuestras fronteras"
+
+A lo largo de todo su discurso, la magistrada ha hecho además una férrea defensa del Poder Judicial y de sus integrantes frente a las injerencias del Gobierno Leer.
+
+Date: 2026-09-10
+
+### La presidenta del Supremo: “No es admisible que la descalificación pública de los jueces se convierta en un instrumento de presión”
+
+La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial (CGPJ), Isabel Perelló, ha respondido este jueves a las críticas que han suscitado entre el Gobierno y sus socios parlamentarios la reciente decisión del Tribunal Supremo de suspender el derecho al voto de los españoles que han obtenido la naci.
+
+Date: 2026-09-10
 
 ### Los vocales progresistas del Poder Judicial piden a Perelló que haga "autocrítica" en la apertura del año judicial
 
@@ -50,24 +68,6 @@ El ministro del Interior, Fernando Grande-Marlaska , ha enviado una carta a la p
 
 Date: 2026-09-03
 
-### Marlaska envía una carta al CGPJ para protestar contra la juez por no dejarle acceder al informe sobre Ceuta
-
-El ministro del Interior, Fernando Grande-Marlaska, ha remitido un escrito a la presidenta del Consejo General del Poder Judicial, Isabel Perelló, en el que le transmite su «preocupación» por la decisión de la juez de la Audiencia Nacional de prohibir al equipo policial que investiga la crisis migratoria en Ceuta facil.
-
-Date: 2026-09-03
-
-### Carpetazo a la primera de las quejas contra el juez Peinado en manos del TSJ de Madrid
-
-El Tribunal Superior de Justicia de Madrid ha dado carpetazo a la primera de los dos quejas que quedaron en sus manos por decisión del Consejo General del Poder Judicial , cuya permanente decidió el pasado mes de julio in extremis y dividida alargar las opciones de expedientarle a pesar de la propuesta en contra del Pr.
-
-Date: 2026-09-03
-
-### El Tribunal Superior de Madrid deja sin castigo una de las dos quejas contra Peinado que tramitó el Poder Judicial
-
-La presidenta en funciones considera que la alusión del juez a que los escoltas de Begoña Gómez podrían ayudarla a fugarse no constituye una falta disciplinaria El juez Peinado afronta su último mes antes de jubilarse pendiente de si será sancionado por sus excesos y retrasos El Tribunal Superior de Justicia de Madrid.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno y el PSOE echan el resto en su cruzada contra los jueces](https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com) — 2026-09-14T12:54:00.000Z

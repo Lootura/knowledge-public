@@ -3,10 +3,22 @@
 > Sigue la actividad de Antonio Sanz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T16:52:13.547Z
+- Actualizado: 2026-09-13T22:05:54.092Z
 - Canonical: https://atlas.lootura.com/es/person/antonio-sanz
 
 ## Cambios recientes
+
+### Elevada a fase de emergencia 1 el incendio de Málaga y provoca confinamiento preventivo
+
+El consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, Antonio Sanz, en su condición de director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), ha elevado este domingo, alrededor de las 14,00 horas, a fase de emergencia, situación operativa 1, el incendio.
+
+Date: 2026-09-13
+
+### Tres heridos y 50 desalojados por el incendio de Málaga, que augura una noche «activa»
+
+El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, ha cifrado en 50 los vecinos desalojados de la urbanización.
+
+Date: 2026-09-13
 
 ### El incendio de Niebla está «fuera de la capacidad de extinción»
 

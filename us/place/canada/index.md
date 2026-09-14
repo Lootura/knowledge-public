@@ -3,10 +3,40 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Carney pitches Canada to global investors amid trade war with Trump
+
+Carney is pitching Canada's energy and critical minerals, educated workforce, global trade access and political stability as reasons to invest.
+
+Date: 2026-09-14
+
+### Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier
+
+NPR's Sacha Pfeiffer talks with Wichita Mayor Lily Wu about President Trump's tariff war with Canada, Bombardier aircrafts, and the trade war's potential impact on her city.
+
+Date: 2026-09-11
+
+### Lutnick says promised $5,000 checks for Americans won't come from taxpayer dollars
+
+In a wide-ranging interview, U.S. Commerce Secretary Howard Lutnick spoke about the $5,000 checks Republicans are promising if they win the midterms, the Trump administration's trade war with Canada and rising energy costs. NBC News’ Christine Romans reports.
+
+Date: 2026-09-11
+
+### These Michigan swing voters are bracing for higher prices from trade war with Canada
+
+President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections. (Image credit: Paul Sancya).
+
+Date: 2026-09-11
+
+### Zelenskyy visits Canada to seek more military support for Ukraine against Russia
+
+Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.
+
+Date: 2026-09-10
 
 ### Trump escalates Canada trade war by banning some imports
 
@@ -38,39 +68,6 @@ The duties are a retaliation against President Trump’s recent tariffs, raising
 
 Date: 2026-09-08
 
-### Carney says Canada moving from U.S. reliance as tariffs take effect
-
-Carney defended the retaliation, saying Canada was matching the latest U.S. measures dollar for dollar while supporting affected workers and industries and accelerating efforts to expand trade with other countries.
-
-Date: 2026-09-08
-
-### New iron-bearing compounds could store water near Earth's core
-
-Geochemical studies of volcanic rocks from Baffin Island, Canada, and Iceland suggest that some of the water dating back to Earth's formation may still be preserved deep within the planet. However, it has remained unclear which minerals could store such quantities of water under the extreme conditions of Earth's interi.
-
-Date: 2026-09-08
-
-### Carney Says Retaliation Against U.S. Tariffs Was Unavoidable
-
-In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada.
-
-Date: 2026-09-08
-
-### Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’
-
-Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.
-
-Date: 2026-09-08
-
-### Canada Trade War Escalates; Rising Fuel Prices Impact Americans
-
-Canadian retaliatory tariffs on some 700 American products are going into effect as the trade war intensifies. It comes less than two months until the November midterms, with the ongoing war with Iran, tariffs and spiking gas prices on the minds of American voters. NBC’s Garrett Haake reports for TODAY.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
-- [New Hampshire Democrat Cinde Warmington says Canada trade war is "crushing the people of our state"](https://www.cbsnews.com/video/new-hampshire-democrat-cinde-warmington-canada-trade-war-crushing-people-state/?utm_source=lootura.com) — 2026-09-09T21:53:08.000Z
-- [Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs](https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html?utm_source=lootura.com) — 2026-09-09T20:29:49.000Z
-- [A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship](https://www.nytimes.com/2026/09/09/us/politics/trump-canada-tariffs.html?utm_source=lootura.com) — 2026-09-09T21:54:03.000Z
+- [Carney pitches Canada to global investors amid trade war with Trump](https://www.pbs.org/newshour/world/carney-pitches-canada-to-global-investors-amid-trade-war-with-trump?utm_source=lootura.com) — 2026-09-14T14:32:13.000Z

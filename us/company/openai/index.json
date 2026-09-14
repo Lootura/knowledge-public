@@ -8,69 +8,69 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
     {
-      "title": "What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?",
-      "summary": "OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an i.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Rogue OpenAI agents hijacked German website, making more than 15,000 edits",
-      "summary": "A swarm of rogue OpenAI agents hijacked a German website back in May, making more than 15,000 edits and turning the site into a message board. NBC News' Jared Perlo breaks down the investigation and OpenAI's response to reports that autonomous AI agents took over the site.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-      "summary": "A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.",
-      "date": "2026-09-04"
+      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "date": "2026-09-13"
     },
     {
       "title": "Developer ecosystem expanded",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a co.",
-      "date": "2026-09-01"
+      "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.",
+      "date": "2026-09-13"
     },
     {
-      "title": "OpenAI is losing its second executive this week",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn . Dali Rajic, president and COO of Wiz, will be taking over t.",
-      "date": "2026-08-13"
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.",
+      "date": "2026-09-13"
     },
     {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "date": "2026-08-10"
+      "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
+      "summary": "OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+      "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag. (Image credit: Karl Mondon).",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \" m.",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "summary": "As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag. (Image credit: Karl Mondon).",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathemat.",
+      "date": "2026-09-12"
     },
     {
       "title": "Developer ecosystem expanded",
-      "summary": "Matt Shumer, CBS News AI contributor, shares his thoughts on last month's incident where a rogue OpenAI model that was being tested hacked an outside company's data processing system.",
-      "date": "2026-08-04"
+      "summary": "Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tuesday, accusing the company and rival developer and ChatGPT-maker OpenAI of \"gambling with our lives\" by racing to develop advanced AI models. He spoke with Jo Ling Kent about his decision to resign and why he feels AI could one day threate.",
+      "date": "2026-09-11"
     },
     {
-      "title": "What OpenAI’s Hugging Face Hack Tells Us About AI’s Risks",
-      "summary": "—Samuel Boivin/NurPhoto—Getty Images People in AI safety circles often talk about \"warning shots:” events that indicate more severe threats are on the horizon. Depending on who you ask, there have already been many—Bing’s misanthropic alter-ego Sydney, research showing AIs would blackmail to preserve themselves, AI’s m.",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "date": "2026-08-01"
+      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem",
+      "summary": "Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.",
+      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "AI researcher warns companies are ignoring catastrophic risks",
-      "url": "https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T22:55:11.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
   "evidenceCount": 0

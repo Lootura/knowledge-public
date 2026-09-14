@@ -1,0 +1,86 @@
+{
+  "id": "es-dario-amodei",
+  "name": "Dario Amodei",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/dario-amodei",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/dario-amodei",
+  "markdownUrl": "https://atlas.lootura.com/es/person/dario-amodei/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/dario-amodei/index.json",
+  "description": "Sigue la actividad de Dario Amodei en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "aliases": [
+    "Amodei",
+    "Dario"
+  ],
+  "changes": [
+    {
+      "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
+      "summary": "Las mayores operaciones financieras de la historia, vinculadas a las grandes compañías de inteligencia artificial (IA) como Anthropic, OpenAI y SpaceX, se han encontrado con un obstáculo originado por sus propios responsables. El fundador y CEO de Anthropic, Dario Amodei, abrió un polémico debate el pasado fin de seman.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "summary": "Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
+      "summary": "El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "summary": "Da-kuk / Getty Images Durante el fin de semana, el director ejecutivo de Anthropic, Dario Amodei, pidió a las empresas de inteligencia artificial (IA), incluida la suya propia, que ralentizaran su ritmo de trabajo . Sam Altman y Elon Musk, directores de las empresas rivales OpenAI y xAI, respectivamente, se mostraron d.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
+      "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Dario Amodei first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Sam Altman descarta la salida a Bolsa de OpenAI en 2026: \"Dada la situación actual en materia de seguridad, no sería el momento adecuado\"",
+      "summary": "El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especializadas en inteligencia artificial a ralentizar su desarrollo Leer.",
+      "date": "2026-09-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
+      "url": "https://elpais.com/economia/2026-09-14/los-miedos-a-la-ia-enredan-las-mayores-operaciones-financieras-de-la-historia.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T14:06:15.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T06:22:24.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
+      "url": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T10:16:39.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
+      "url": "https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T11:24:13.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    },
+    {
+      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
+      "url": "https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:52:08.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 5
+}

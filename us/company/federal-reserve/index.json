@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.json",
   "description": "Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-09-14T17:40:42.948Z",
   "aliases": [
     "FRS",
     "Fed",
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates",
+      "summary": "The national average for a gallon of gas is now at $4.32, with the price of diesel even high at a record-shattering $6.23. Meanwhile, the Federal Reserve is set to meet Wednesday and is expected to raise interest rates for the first time since 2023. NBC’s Brian Cheung joins TODAY to break it all down.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+      "summary": "The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.",
+      "date": "2026-09-11"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "The Fed's next decision could move gold prices sharply, making the timing of your investment worth considering.",
@@ -54,24 +64,14 @@
       "title": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
       "summary": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
-      "summary": "Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
-      "summary": "The Trump administration is moving ahead with its efforts to fire Federal Reserve governor Lisa Cook, two months after the Supreme Court allowed her to retain her job while she fights the president's effort to terminate her over mortgage fraud allegations that she has denied.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [
     {
-      "title": "Should you wait until after the September Fed meeting to invest in gold?",
-      "url": "https://www.cbsnews.com/news/should-you-wait-september-2026-fed-meeting-gold-investing/?utm_source=lootura.com",
-      "publishedAt": "2026-09-09T17:37:45.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates",
+      "url": "https://www.today.com/video/us-gas-prices-hit-record-high-fed-poised-to-raise-interest-rates-269811781739?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T11:21:08.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/san-francisco/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/san-francisco/index.json",
   "description": "Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-05T14:34:36.678Z",
+  "updatedAt": "2026-09-13T22:06:13.700Z",
   "aliases": [
     "Baghdad by the Bay",
     "City and County of San Francisco",
@@ -26,6 +26,11 @@
     "The Golden City"
   ],
   "changes": [
+    {
+      "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
+      "summary": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the chartere.",
+      "date": "2026-09-13"
+    },
     {
       "title": "Robotaxis enter their villain era",
       "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have gone from sci-.",

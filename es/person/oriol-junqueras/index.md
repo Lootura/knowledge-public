@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-11T05:05:29.983Z
+- Actualizado: 2026-09-11T18:58:06.359Z
 - Canonical: https://atlas.lootura.com/es/person/oriol-junqueras
 
 ## Cambios recientes
+
+### Junqueras asegura que el nacionalismo catalán sabe integrar y «no es un búker pequeño»
+
+El presidente de ERC, Oriol Junqueras, ha reivindicado que, ante las amenazas del autoritarismo, Cataluña debe presentar un proyecto integrador,.
+
+Date: 2026-09-11
 
 ### Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027
 

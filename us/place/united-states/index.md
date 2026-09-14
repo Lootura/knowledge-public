@@ -3,80 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-14T17:40:42.948Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms
+### Trump dismisses push for AI guardrails despite warnings from tech leaders
 
-During his speech at the Republican midterm convention, President Donald Trump announced that every adult U.S. citizen would receive a $5,000 “dividend” if Republican won the midterm elections in November, but said it must be spent in the U.S.
+President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a "SMART PRESIDENT.".
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Polarized trust in scientists driven by values, identity and politics
+### Vance says 870K people suspected of COVID-era US fraud barred from federal loans
 
-Trust in scientists in the UK is strong overall, with 63% indicating they have high trust in scientists in general—but a major new study finds this trust is closely shaped by people's values, identity and politics, showing some of the same patterns of division over science that have emerged in the U.S.
+A U.S. enforcement push, dubbed "Heartland fraud surge," probed losses involving the Paycheck Protection Program and Economic Injury Disaster Loan program.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Dan McKee becomes first governor in 8 years to lose primary
+### Police departments work to "change the culture" by building relationships with underprivileged kids
 
-Rhode Island Democratic Gov. Dan McKee became the first governor in eight years in the U.S. to lose a primary, falling on Wednesday to former CVS executive Helena Foulkes and becoming the latest victim of a rough year for incumbents. McKee’s campaign was bogged down by the botched handling of a years-long project to re.
+A nonprofit charity, in partnership with police departments, called Do the Right Thing honors the good works of students across the U.S. The Palm Springs chapter awarded 95 scholarships, helping underprivileged students achieve their dreams. Barry Petersen has the story.
 
-Date: 2026-09-10
+Date: 2026-09-14
 
-### Trump escalates Canada trade war by banning some imports
+### Maine's head prison chief on giving inmates second chances: "I believe in redemption"
 
-After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
+This installment of "Beg-Knows America" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Feds to buy up to $6 billion in Treasury bonds. Here's why.
+### Air Force officer recalls ‘free-falling’ after jet was shot down over Iran
 
-Wall Street analysts are skeptical that the Treasury Department's bond purchases can curb yields and lower U.S. borrowing costs.
+In an interview with CBS’ “60 Minutes,” one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Federal judge backs Missouri's new House map favoring Republicans hours after Supreme Court declines to hear case
+### This city led the way on reparations for Black people. Trump is trying to stop it
 
-A federal judge ruled that Missouri should use a new congressional map that favors Republicans for now, hours after the U.S. Supreme Court left in place a ruling from the state's highest court directing Missouri to use an older map.
+Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Trump says oil prices will come down after midterm elections
+### Trump returns home to drum up voter support for GOP candidates ahead of midterms
 
-President Donald Trump, in an exchange with reporters before traveling to Dallas for the midterm Republican convention, added that he believes Iran will finally relent after the pivotal elections are held in the U.S.
+President Trump returns to the U.S. ready to rally on behalf of Republican candidates as the midterm election enters its crucial fall stretch.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push
+### Beijing hits back at Anthropic CEO's call to curb China's AI development
 
-U.S. Secretary of State Marco Rubio hailed Ecuador on Wednesday as being the most "aggressive" partner in the Trump administration's push to crack down on drug trafficking and transnational criminal groups in the Western Hemisphere.
+China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI "fearmongering," as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### The lasting psychological impact of 9/11 on America
+### E.P.A. Will Erase Limits on Climate Pollution From Power Plants
 
-Judy Woodruff recently visited the September 11 Memorial in New York for a look at how the attacks, 25 years ago, continue to shape our lives today. It's part of her series, Crossroads: America at 250.
+Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
-### Fight Over Missouri House Map Returns to U.S. Supreme Court
+### The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.
 
-The appeal came as the Missouri Supreme Court weighed whether to hold the state’s top election official in contempt.
+The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.
 
-Date: 2026-09-09
+Date: 2026-09-14
 
 ## Sources
 
-- [Trump escalates Canada trade war by banning some imports](https://www.cbsnews.com/video/trump-escalates-canada-trade-war-by-banning-some-imports/?utm_source=lootura.com) — 2026-09-09T21:47:49.000Z
-- [Feds to buy up to $6 billion in Treasury bonds. Here's why.](https://www.cbsnews.com/news/us-treasury-bond-buyback-6-billion-yields/?utm_source=lootura.com) — 2026-09-09T21:31:51.000Z
-- [Federal judge backs Missouri's new House map favoring Republicans hours after Supreme Court declines to hear case](https://www.cbsnews.com/news/supreme-court-missouri-new-house-map-republicans/?utm_source=lootura.com) — 2026-09-09T22:14:29.000Z
-- [Trump claims U.S. adults will get a $5k ‘dividend’ if Republicans win the midterms](https://www.nbcnews.com/now/video/trump-claims-u-s-adults-will-get-a-5k-dividend-if-republicans-win-the-midterms-269599301613?utm_source=lootura.com) — 2026-09-10T02:30:38.000Z
-- [WATCH: Trump says oil prices will come down after midterm elections](https://www.pbs.org/newshour/politics/watch-trump-says-oil-prices-will-come-down-after-midterm-elections?utm_source=lootura.com) — 2026-09-09T22:08:17.000Z
-- [Rubio hails Ecuador as an 'aggressive' partner in the US counterdrug push](https://www.pbs.org/newshour/world/rubio-hails-ecuador-as-an-aggressive-partner-in-the-us-counterdrug-push?utm_source=lootura.com) — 2026-09-09T21:53:07.000Z
-- [The lasting psychological impact of 9/11 on America](https://www.pbs.org/newshour/show/the-lasting-psychological-impact-of-9-11-on-america?utm_source=lootura.com) — 2026-09-09T22:20:50.000Z
-- [Polarized trust in scientists driven by values, identity and politics](https://phys.org/news/2026-09-polarized-scientists-driven-values-identity.html?utm_source=lootura.com) — 2026-09-10T00:20:04.000Z
-- [Dan McKee becomes first governor in 8 years to lose primary](https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983?utm_source=lootura.com) — 2026-09-10T00:25:46.000Z
-- [Fight Over Missouri House Map Returns to U.S. Supreme Court](https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html?utm_source=lootura.com) — 2026-09-09T22:17:40.000Z
+- [Trump dismisses push for AI guardrails despite warnings from tech leaders](https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/?utm_source=lootura.com) — 2026-09-14T17:06:18.000Z
+- [Vance says 870K people suspected of COVID-era US fraud barred from federal loans](https://www.cbsnews.com/news/vance-todd-blanche-felony-fraud-cases-covid-era-loan-programs/?utm_source=lootura.com) — 2026-09-14T17:10:05.000Z
+- [Police departments work to "change the culture" by building relationships with underprivileged kids](https://www.cbsnews.com/video/police-departments-change-culture-relationships-underprivileged-kids/?utm_source=lootura.com) — 2026-09-14T01:30:54.000Z
+- [Maine's head prison chief on giving inmates second chances: "I believe in redemption"](https://www.cbsnews.com/video/maines-head-prison-chief-on-giving-inmates-second-chances-i-believe-in-redemption/?utm_source=lootura.com) — 2026-09-14T16:05:00.000Z
+- [Air Force officer recalls ‘free-falling’ after jet was shot down over Iran](https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585?utm_source=lootura.com) — 2026-09-14T01:51:05.000Z
+- [This city led the way on reparations for Black people. Trump is trying to stop it](https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration?utm_source=lootura.com) — 2026-09-14T11:00:00.000Z
+- [Trump returns home to drum up voter support for GOP candidates ahead of midterms](https://www.npr.org/2026/09/14/nx-s1-5966875/trump-returns-home-to-drum-up-voter-support-for-gop-candidates-ahead-of-midterms?utm_source=lootura.com) — 2026-09-14T08:43:36.000Z
+- [Beijing hits back at Anthropic CEO's call to curb China's AI development](https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com) — 2026-09-14T10:09:08.000Z
+- [E.P.A. Will Erase Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html?utm_source=lootura.com) — 2026-09-14T02:14:19.000Z
+- [Celine Dion Begins Her Paris Comeback Concert Run](https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html?utm_source=lootura.com) — 2026-09-13T19:10:34.000Z
