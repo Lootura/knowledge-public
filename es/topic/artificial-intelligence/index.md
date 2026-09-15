@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -70,6 +70,5 @@ Date: 2026-07-12
 
 ## Fuentes
 
-- [Las tecnológicas caen con fuerza en Bolsa ante el temor a un frenazo en las inversiones en IA](https://cincodias.elpais.com/mercados-financieros/2026-09-14/las-tecnologicas-asiaticas-caen-con-fuerza-en-bolsa-ante-el-temor-a-un-frenazo-en-las-inversiones-en-ia.html?utm_source=lootura.com) — 2026-09-14T16:00:47.000Z
 - [El temor a la IA pasa factura a las grandes tecnológicas en Bolsa](https://www.diariovasco.com/economia/temor-ia-pasa-factura-grandes-tecnologicas-bolsa-20260914191905-nt_amp.html?utm_source=lootura.com) — 2026-09-14T17:19:06.000Z
 - [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z

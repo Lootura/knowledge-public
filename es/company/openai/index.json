@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "ChatGPT maker"
   ],
@@ -66,29 +66,11 @@
   ],
   "sources": [
     {
-      "title": "Los miedos a la IA enredan las mayores operaciones financieras de la historia",
-      "url": "https://elpais.com/economia/2026-09-14/los-miedos-a-la-ia-enredan-las-mayores-operaciones-financieras-de-la-historia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:06:15.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
-      "url": "https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T06:22:24.000Z",
+      "title": "Cómo el choque entre el dinero y la seguridad ha provocado una crisis monumental para la IA",
+      "url": "https://www.elmundo.es/economia/2026/09/14/6aa7d199e9cf4a42768b4579.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T11:35:32.000Z",
       "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
-      "url": "https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T11:24:13.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
-    },
-    {
-      "title": "El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA",
-      "url": "https://theobjective.com/economia/2026-09-14/ibex-35-pierde-petroleo-incertidumbre-ia/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:02:59.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 0
 }

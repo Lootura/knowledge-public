@@ -3,7 +3,7 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-21
 
 ## Sources
 
-No public source links.
+- [Hochul’s how-to guide to stopping ICE](https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/14/hochuls-how-to-guide-to-stopping-ice-01075287?utm_source=lootura.com) — 2026-09-14T21:03:18.000Z

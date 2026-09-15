@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions
+
+It’s the first public report on the ongoing war started Feb. 28 by the U.S. and Israel.
+
+Date: 2026-09-14
+
+### What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.
+
+President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.
+
+Date: 2026-09-14
 
 ### Air Force officer recalls ‘free-falling’ after jet was shot down over Iran
 
@@ -56,20 +68,7 @@ The USS George Washington was deployed to New York after the 9/11 attacks. Now, 
 
 Date: 2026-09-12
 
-### ‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting
-
-Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.
-
-Date: 2026-09-12
-
-### Saudi Arabia has few options as it faces mounting threats from Iran and its allies
-
-A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.
-
-Date: 2026-09-12
-
 ## Sources
 
-- [Air Force officer recalls ‘free-falling’ after jet was shot down over Iran](https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585?utm_source=lootura.com) — 2026-09-14T01:51:05.000Z
-- [US airman recounts Iran rescue in 60 Minutes segment branded propaganda](https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda?utm_source=lootura.com) — 2026-09-14T14:17:10.000Z
-- [Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html?utm_source=lootura.com) — 2026-09-14T14:46:17.000Z
+- [Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions](https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019?utm_source=lootura.com) — 2026-09-14T20:28:06.000Z
+- [What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.](https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html?utm_source=lootura.com) — 2026-09-14T19:58:01.000Z

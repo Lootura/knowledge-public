@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Tom Holland se convierte en el actor más taquillero de todos los tiempos… ha superado a esta otra estrella de Marvel](https://hipertextual.com/cine-television/tom-holland-se-convierte-en-el-actor-mas-taquillero-de-todos-los-tiempos-ha-superado-a-esta-otra-estrella-de-marvel/?utm_source=lootura.com) — 2026-09-14T15:15:13.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,7 +70,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [Los miedos a la IA enredan las mayores operaciones financieras de la historia](https://elpais.com/economia/2026-09-14/los-miedos-a-la-ia-enredan-las-mayores-operaciones-financieras-de-la-historia.html?utm_source=lootura.com) — 2026-09-14T14:06:15.000Z
-- [Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende](https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com) — 2026-09-14T06:22:24.000Z
-- [Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?](https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com) — 2026-09-14T11:24:13.000Z
-- [El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA](https://theobjective.com/economia/2026-09-14/ibex-35-pierde-petroleo-incertidumbre-ia/?utm_source=lootura.com) — 2026-09-14T16:02:59.000Z
+- [Cómo el choque entre el dinero y la seguridad ha provocado una crisis monumental para la IA](https://www.elmundo.es/economia/2026/09/14/6aa7d199e9cf4a42768b4579.html?utm_source=lootura.com) — 2026-09-14T11:35:32.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -17,6 +17,11 @@
     "Russian Federation"
   ],
   "changes": [
+    {
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "summary": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Daily fragment: Aeroflot Flight 821",
       "summary": "Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.",
@@ -61,26 +66,15 @@
       "title": "Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says",
       "summary": "The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Lithuanian civilians, including children, training for possible Russian attacks",
-      "summary": "Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Lithuania prepares for war, reinforcing its border against Russian tanks",
-      "url": "https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T01:23:18.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Daily fragment: Aeroflot Flight 821",
-      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_821?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "sourceId": "lootura-us-lootura-daily"
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "url": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:57:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

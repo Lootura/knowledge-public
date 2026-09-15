@@ -3,10 +3,16 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Mitch McConnell returns to Capitol Hill after monthslong absence
+
+GOP Sen. Mitch McConnell of Kentucky returned to Capitol Hill on Monday for the first time in three months, ending a prolonged absence that sparked widespread speculation about his health.
+
+Date: 2026-09-14
 
 ### House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval
 
@@ -62,12 +68,6 @@ Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 2
 
 Date: 2026-08-03
 
-### Abortion is on the ballot again in these two states: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-07-31
-
 ## Sources
 
-No public source links.
+- [Mitch McConnell returns to Capitol Hill after monthslong absence](https://www.cbsnews.com/news/mcconnell-returning-to-capitol-hill-3-months-senate-gop/?utm_source=lootura.com) — 2026-09-14T22:14:00.000Z

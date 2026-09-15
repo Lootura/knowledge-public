@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T18:58:06.359Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
+      "summary": "\"Irresponsabilidad\", \"indolencia\" y \"un manifiesto intento de no molestar a Marruecos \". Así ha resumido y descrito -en su primera intervención en el programa de Antena 3, El Hormiguero- el presidente de Ceuta, Juan Jesús Vivas , la actuación del Gobierno central en el antes y el después de la entrada masiva a la ciuda.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "summary": "El tono de la entrevista de Juan Jesús Vivas en El Hormiguero lo adelantó su presentador, Pablo Motos, desde el primer minuto del programa: “En un rato estará con nosotros el presidente de Ceuta, Juan Vivas, y después tendremos risas con Leo Harlem”. El presidente ceutí volvió a esgrimir este lunes una dureza a la que.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta",
+      "summary": "El presidente-alcalde de Ceuta , Juan Jesús Vivas, es uno de los políticos más veteranos y consolidados en España. Casado y padre de dos hijos, Vivas se ha convertido en una de las figuras políticas más longevas de España, liderando el gobierno ceutí a lo largo de más de dos décadas marcadas por la gestión de la comple.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Vivas afirma que Moncloa le pidió \"no llamar más porque se estaban poniendo pesados\" tras alertar de la presión migratoria en Ceuta",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha asegurado este viernes que desde Moncloa le pidieron \"que no llamara más\" después de que insistiera en advertir sobre la presión migratoria que sufría la ciudad en los días previos a la entrada masiva de personas desde Marruecos del 30 y 31 de julio. Vivas ha explicado que e.",
@@ -49,23 +64,27 @@
       "title": "Luis de la Fuente se vuelca con Ceuta: \"Os habéis convertido en mis ídolos\"",
       "summary": "Luis de la Fuente ha sido recibido en Ceuta por el presidente Juan Jesús Vivas en plena crisis migratoria. El técnico de la selección española de fútbol ha comparecido ante los medios en una rueda de prensa y ha asegurado que está muy \"emocionado, orgulloso y agradecido\" por acudir a la ciudad en uno de sus momentos má.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta",
-      "summary": "Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Juan Jesús Vivas, presidente de Ceuta: \"Si Ceuta sale perdiendo, si Ceuta naufraga, naufraga toda España\"",
-      "summary": "La crisis migratoria de Ceuta ha llegado al Congreso de los Diputados, donde Pedro Sánchez defendió la respuesta del Gobierno ante los acontecimientos iniciados el 30 de julio. Su intervención provocó una dura reacción del presidente de la ciudad autónoma, Juan Jesús Vivas . El dirigente ceutí rechazó las explicaciones.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta",
-      "summary": "El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
+      "url": "https://www.elconfidencial.com/espana/2026-09-14/vivas-gobierno-irresponsabilidad-molestar-marruecos_4423827/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:40:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "url": "https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:30:45.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta",
+      "url": "https://okdiario.com/espana/asi-juan-jesus-vivas-edad-pareja-hijos-estudios-carrera-politica-hasta-ser-presidente-ceuta-20289076?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:19:27.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
+  "evidenceCount": 3
 }

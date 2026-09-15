@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T03:06:35.172Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -22,6 +22,11 @@
     "Warren Paxton, Jr."
   ],
   "changes": [
+    {
+      "title": "VoteHub gives Talarico 55% chance of winning Texas Senate race",
+      "summary": "VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving the Democrat a 55% chance of winning over Trump-backed Ken Paxton. Cameron Kasky, aide to Democratic Rep. Ro Khanna, and Erin Maguire, Republican strategist, join with analysis.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
       "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
@@ -66,13 +71,15 @@
       "title": "Trump may need to save Paxton in Texas Senate race",
       "summary": "The News Republicans are counting on President Donald Trump’s cavalry to carry Ken Paxton to victory — but it hasn’t come yet. Ultimately, the GOP expects MAGA Inc. to help its Texas Senate nominee win with a significant spend this fall, according to multiple Republican sources, although even presidential super PAC don.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Ken Paxton first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "VoteHub gives Talarico 55% chance of winning Texas Senate race",
+      "url": "https://www.cbsnews.com/video/votehub-talarico-55-percent-chance-winning-texas-senate-race/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:27:14.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

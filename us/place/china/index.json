@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -73,23 +73,11 @@
   ],
   "sources": [
     {
-      "title": "China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders",
-      "url": "https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T12:14:29.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T10:09:08.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-      "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:38:15.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Rep. Sam Liccardo urges lawmakers \"to take action\" on AI: \"Instead, in Congress, we see vacation\"",
+      "url": "https://www.cbsnews.com/video/sam-liccardo-urges-lawmakers-take-action-ai-congress-vacation/?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T01:15:11.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-08-05
 
 ## Fuentes
 
-- [Por qué las lluvias tras el verano son más que necesarias](https://theconversation.com/por-que-las-lluvias-tras-el-verano-son-mas-que-necesarias-291685?utm_source=lootura.com) — 2026-09-14T15:48:51.000Z
+No public source links.

@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo](https://www.elmundo.es/internacional/2026/09/13/6aa6d528e85eceda128b459d.html?utm_source=lootura.com) — 2026-09-14T06:21:38.000Z
+- [Atasco energético en Ormuz](https://www.elperiodicomediterraneo.com/opinion/2026/09/15/atasco-energetico-ormuz-134286799.html?utm_source=lootura.com) — 2026-09-15T02:31:48.000Z

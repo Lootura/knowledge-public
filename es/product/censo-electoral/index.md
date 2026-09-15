@@ -3,10 +3,22 @@
 > Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/product/censo-electoral
 
 ## Cambios recientes
+
+### La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'
+
+La Junta Electoral Central (JEC) ha empezado a dar cumplimiento este lunes a la orden dictada por el Tribunal Supremo en el auto en el que suspendió las altas censales derivadas de la ley de nietos. En una reunión de urgencia, este órgano ha encargado informes a la Oficina del Censo Electoral y a los registros consular.
+
+Date: 2026-09-14
+
+### El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”
+
+La Oficina del Censo Electoral asegura que es el elector quien decide en qué circunscripción quiere quedar inscrito en el censo de residentes ausentes (CERA), “sin que en la práctica se realicen inscripciones de oficio”. Así lo expone el órgano encargado de la formación del censo en un informe a la Junta Electoral Cent.
+
+Date: 2026-09-14
 
 ### IU llama a movilizarse contra el «atropello democrático» del Supremo con la ‘ley de nietos’
 
@@ -40,4 +52,5 @@ Date: 2026-09-08
 
 ## Fuentes
 
-No public source links.
+- [La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'](https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html?utm_source=lootura.com) — 2026-09-14T20:05:27.000Z
+- [El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”](https://elpais.com/espana/2026-09-14/el-informe-de-la-oficina-del-censo-despeja-las-dudas-sobre-el-municipio-donde-votan-los-nacionalizados-no-hay-inscripciones-de-oficio.html?utm_source=lootura.com) — 2026-09-14T18:04:12.000Z

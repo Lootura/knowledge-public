@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-12T14:59:23.432Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Tamara Keith and Amy Walter on Washington's response to AI and data center concerns
+
+NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including how Washington is responding to AI and data center concerns, Mitch McConnell returning to the Senate and how midterm voters feel about affordability and political corruption.
+
+Date: 2026-09-14
 
 ### Brooks and Capehart on the GOP's midterm identity
 
@@ -62,12 +68,6 @@ David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz t
 
 Date: 2026-07-24
 
-### Aid worker describes crisis in Venezuela, one month after devastating earthquakes
-
-Friday marks one month since powerful earthquakes devastated parts of Venezuela, triggering a humanitarian crisis that is far from over. Damage to schools, health facilities and water systems has left communities without essential services, complicating an already difficult recovery. Amna Nawaz spoke with Nate Mook of.
-
-Date: 2026-07-24
-
 ## Sources
 
-No public source links.
+- [Tamara Keith and Amy Walter on Washington's response to AI and data center concerns](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-washingtons-response-to-ai-and-data-center-concerns?utm_source=lootura.com) — 2026-09-14T22:25:57.000Z

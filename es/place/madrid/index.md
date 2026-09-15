@@ -3,38 +3,20 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### De Victoria Federica a Mar Flores: los looks de los desfiles de moda de Madrid
+### HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid
 
-Después de OMODA Madrid es Moda , la capital acoge esta semana la nueva edición de la Mercedes-Benz Fashion Week Madrid donde se presentarán las tendencias para la primavera/verano 2027. La gran pasarela de la moda en España sale por primera vez de IFEMA, y se celebra en diferentes espacios emblemáticos de Madrid, como.
+HM Hospitales prepara nuevos planes de expansión, con la Comunidad de Madrid como principal apuesta, junto a Cataluña y Málaga. Ahora, la compañía trabaja en la implantación de un futuro hospital en los nuevos desarrollos del Sureste de la Comunidad madrileña. “Estamos trabajando con nuestros socios para analizar posib.
 
-Date: 2026-09-14
+Date: 2026-09-15
 
 ### La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno
 
 La magistrada pide que se examine si el asunto debe instruirse en Madrid junto a la causa abierta por la entrada masiva, como ya ha pedido la Fiscalía Leer.
-
-Date: 2026-09-14
-
-### El cocinero que renunció a su estrella Michelin, abrió un restaurante en un mercado de Madrid y ahora vende caramelos para adultos
-
-Antes de que Samy Alí renunciara a la estrella Michelin y montara su siguiente restaurante en un mercado de Lavapiés, ya sorprendía a la clientela de su Candela Restó con unos caramelos que dormían la lengua. Seguir leyendo.
-
-Date: 2026-09-14
-
-### Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan
-
-El baloncesto masculino español abre la temporada 2026/27 con la disputa de la Supercopa Endesa . Valencia Basket, FC Barcelona , Joventut de Badalona y Baskonia son los equipos encargados de comenzar el curso a nivel nacional . Un torneo que, 16 años después, no contará con la presencia del Real Madrid . El conjunto b.
-
-Date: 2026-09-14
-
-### El podemita Sotomayor hace el ridículo para criticar a Ayuso: "Circuitos urbanos de F1 sólo están en Madrid y Valencia"
-
-Roberto Sotomayor, ex atleta y candidato de Podemos a la alcaldía de Madrid en 2023, ha hecho el ridículo para criticar a Isabel Díaz Ayuso y a José Luis Martínez-Almeida por el Gran Premio de Fórmula 1 en Madrid.
 
 Date: 2026-09-14
 
@@ -44,35 +26,56 @@ La Comunidad de Madrid ha presentado este lunes alegaciones ante la Junta Electo
 
 Date: 2026-09-14
 
-### Madrid ruge 45 años después
+### Boicot político a Madring
 
-Sólo habían pasado tres meses del Golpe de Estado del 23-F, en 1981, cuando Madrid acogió el que parecía su último Gran Premio de Fórmula 1. Fue en el Jarama, acudieron 70.000 personas y ganó Gilles Villeneuve, muerto trágicamente poco después. En estos 45 años ha pasado de todo, pero han resultado ser sólo un paréntes.
+La celebración en Madrid del Gran Premio de España de Fórmula 1 ha representado a todas luces una buena noticia desde el punto de vista deportivo, de infraestructura, inversión e imagen exterior. Sin embargo, alrededor de la carrera ha aflorado una burda operación política de boicot a la Comunidad y la ciudad de Madrid.
 
-Date: 2026-09-13
+Date: 2026-09-14
 
-### Dura respuesta de Alonso a Sainz tras su incidente: "Estaba pegado al muro, a 340 kilómetros por hora"
+### La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados
 
-Fernando Alonso acabó decimoséptimo el Gran Premio de España, celebrado este domingo en el Madring, el nuevo circuito semiurbano de Madrid, en una carrera marcada por el incidente con Carlos Sainz , que al defender su posición ante el asturiano, le encerró contra el muro, rompiendo así el alerón delantero del Aston Mar.
+La capital de España será uno de los puntos más castigados del país con un repunte de los termómetros antes de la salida del verano.
 
-Date: 2026-09-13
+Date: 2026-09-14
 
-### Un polémico penalti allana la engañosa goleada del Atlético en Anoeta
+### Woody Allen comienza a rodar su nueva película en Madrid el 5 de octubre
 
-Sin Julián, en Madrid por molestias musculares. Sin Barrios, también lesionado. Con Koke en el banquillo, tras la paliza de Anfield. Y con Lookman de falso nueve. Así se presentó el Atlético en Anoeta, con la obligación, además, de sumar tres puntos para evitar descolgarse ya a mediados de septiembre de la pelea por el.
+Woody Allen comenzará a rodar en Madrid su nueva película el próximo 5 de octubre. El cineasta neoyorquino se dividirá entre el centro de la ciudad y Aranjuez, en el sur de la comunidad. La película, según informa Wanda Visión (distribuidora del filme), está protagonizada por Alexi Wasser ( Messy), Jemima Kirke ( Girls.
 
-Date: 2026-09-13
+Date: 2026-09-14
 
-### Metro supera su propia expectativa: más de 124.000 fans van a Madring en el suburbano
+### ‘El Turronero’ y Ortega Smith arropan a Iván Espinosa de los Monteros en el último adiós a su padre
 
-La Comunidad de Madrid vuelve a batir las expectativas del uso del transporte público durante un evento de grandes dimensiones, como ha sido el Gran Premio de Fórmula 1 celebrado este fin de semana en el Madring. Hasta las 14.00 horas de este domingo más de 124.000 asistentes habrían escogido Metro para desplazarse has.
+Carlos Espinosa de los Monteros y Bernaldo de Quirós, IV marqués de Valtierra, ya descansa tras el funeral celebrado este lunes en Madrid. El aristócrata fallecía el pasado 29 de agosto a los 82 años y, dos semanas después, familiares, amigos y numerosas personalidades se han reunido en la parroquia de San Francisco de.
 
-Date: 2026-09-13
+Date: 2026-09-14
+
+### Puesta de largo de la Liga F 2026-2027: «Queremos construir afición y que las niñas sueñen con ser futbolistas»
+
+La Liga F ha celebrado su puesta de largo en el Espacio Alcalá de Madrid, en la que es su quinta temporada como competición profesional –que ya ha arrancado– y en la que afronta varios retos importantes. Clubes, futbolistas y representantes de todas las instituciones –incluyendo el Gobierno de Sánchez, con la ministra.
+
+Date: 2026-09-14
+
+### Jornada 5 de la Liga: resumen de todos los partidos
+
+La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.
+
+Date: 2026-09-14
+
+### De Victoria Federica a Mar Flores: los looks de los desfiles de moda de Madrid
+
+Después de OMODA Madrid es Moda , la capital acoge esta semana la nueva edición de la Mercedes-Benz Fashion Week Madrid donde se presentarán las tendencias para la primavera/verano 2027. La gran pasarela de la moda en España sale por primera vez de IFEMA, y se celebra en diferentes espacios emblemáticos de Madrid, como.
+
+Date: 2026-09-14
 
 ## Fuentes
 
-- [De Victoria Federica a Mar Flores: los looks de los desfiles de moda de Madrid](https://www.abc.es/estilo/moda/victoria-federica-tamara-falco-mar-flores-looks-20260914172520-nt.html?utm_source=lootura.com) — 2026-09-14T17:31:21.000Z
+- [Boicot político a Madring](https://www.abc.es/opinion/editorial-boicot-politico-madring-20260914213411-nt.html?utm_source=lootura.com) — 2026-09-14T19:34:22.000Z
+- [La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados](https://www.abc.es/espana/madrid/aemet-lanza-aviso-naranja-altas-temperaturas-madrid-20260915050000-nt_amp.html?utm_source=lootura.com) — 2026-09-14T23:20:41.000Z
+- [HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid](https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z
 - [La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno](https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html?utm_source=lootura.com) — 2026-09-14T11:20:11.000Z
-- [El cocinero que renunció a su estrella Michelin, abrió un restaurante en un mercado de Madrid y ahora vende caramelos para adultos](https://elpais.com/gastronomia/2026-09-14/el-cocinero-que-renuncio-a-su-estrella-michelin-abrio-un-restaurante-en-un-mercado-de-madrid-y-ahora-vende-caramelos-para-adultos.html?utm_source=lootura.com) — 2026-09-14T03:25:00.000Z
-- [Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan](https://okdiario.com/deportes/como-comprar-entradas-supercopa-espana-baloncesto-2026-cuanto-cuestan-20287838?utm_source=lootura.com) — 2026-09-14T16:41:08.000Z
-- [El podemita Sotomayor hace el ridículo para criticar a Ayuso: "Circuitos urbanos de F1 sólo están en Madrid y Valencia"](https://okdiario.com/deportes/podemita-sotomayor-hace-ridiculo-criticar-ayuso-circuitos-urbanos-f1-solo-estan-madrid-valencia-20288644/amp?utm_source=lootura.com) — 2026-09-14T17:17:06.000Z
+- [Woody Allen comienza a rodar su nueva película en Madrid el 5 de octubre](https://elpais.com/cultura/cine/2026-09-14/woody-allen-comienza-a-rodar-su-nueva-pelicula-en-madrid-el-5-de-octubre.html?utm_source=lootura.com) — 2026-09-14T12:37:56.000Z
+- [‘El Turronero’ y Ortega Smith arropan a Iván Espinosa de los Monteros en el último adiós a su padre](https://okdiario.com/cool/famosos/turronero-ortega-smith-arropan-ivan-espinosa-monteros-ultimo-adios-padre-20286733?utm_source=lootura.com) — 2026-09-14T19:47:18.000Z
+- [Puesta de largo de la Liga F 2026-2027: «Queremos construir afición y que las niñas sueñen con ser futbolistas»](https://okdiario.com/deportes/puesta-largo-liga-f-2026-2027-queremos-construir-aficion-que-ninas-suenen-ser-futbolistas-20289611?utm_source=lootura.com) — 2026-09-14T21:27:22.000Z
+- [Jornada 5 de la Liga: resumen de todos los partidos](https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329?utm_source=lootura.com) — 2026-09-14T21:14:31.000Z
 - [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z

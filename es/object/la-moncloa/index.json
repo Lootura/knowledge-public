@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-13T03:06:16.499Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "El Gobierno \"al ataque\" contra los jueces para intentar salvar su gestión: \"No nos vamos a callar\"",
+      "summary": "Después de 47 días más bien detrás de la puerta, sujetándola para evitar que se derribara ante las objeciones y críticas a su gestión de la crisis de Ceuta, La Moncloa...",
+      "date": "2026-09-14"
+    },
     {
       "title": "La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali",
       "summary": "Ocurrió en abril de 2021. La entonces ministra de Exteriores, Arancha González Laya, fue la primera que sospechó sobre una posible infección en su teléfono móvil . Personal del Ministerio confirmó la intrusión y, siguiendo el protocolo, acudió a La Moncloa para alertar de que su terminal estaba siendo objeto de un posi.",
@@ -58,13 +63,15 @@
       "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
       "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta",
-      "summary": "La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno \"al ataque\" contra los jueces para intentar salvar su gestión: \"No nos vamos a callar\"",
+      "url": "https://amp.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:44:40.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

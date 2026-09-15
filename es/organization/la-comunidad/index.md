@@ -3,7 +3,7 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
@@ -70,4 +70,5 @@ Date: 2026-08-11
 
 ## Fuentes
 
+- [La Comunidad de Madrid levanta la suspensión de Vallecas y el Rayo volverá a jugar en casa](https://theobjective.com/deportes/futbol/2026-09-14/comunidad-madrid-levanta-suspension-vallecas/?utm_source=lootura.com) — 2026-09-14T19:14:50.000Z
 - [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z

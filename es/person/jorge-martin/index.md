@@ -3,7 +3,7 @@
 > Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-10T01:28:14.997Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/jorge-martin
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [El rey está de vuelta: Márquez culmina una remontada de más de 100 puntos y ya es líder de MotoGP](https://okdiario.com/deportes/rey-esta-vuelta-marquez-culmina-remontada-mas-100-puntos-ya-lider-motogp-20287418?utm_source=lootura.com) — 2026-09-14T19:34:42.000Z

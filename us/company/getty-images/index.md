@@ -3,7 +3,7 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes

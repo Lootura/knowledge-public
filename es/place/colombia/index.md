@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Teatro del Oprimido: como analizar la desigualdad en escena](https://theconversation.com/teatro-del-oprimido-como-analizar-la-desigualdad-en-escena-289839?utm_source=lootura.com) — 2026-09-14T15:55:58.000Z
+No public source links.

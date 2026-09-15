@@ -70,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [El emotivo reencuentro de los Reyes Federico y Mary de Dinamarca con Isabella tras su ingreso en el ejército](https://www.abc.es/gente/emotivo-reencuentro-reyes-federico-mary-dinamarca-isabella-20260914132622-nt.html?utm_source=lootura.com) — 2026-09-14T17:30:03.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Jornada 5 de la Liga: resumen de todos los partidos
+
+La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.
+
+Date: 2026-09-14
 
 ### Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales
 
@@ -62,13 +68,6 @@ Sigue en directo y en vivo online el resultado, goles y minuto a minuto del Leva
 
 Date: 2026-09-13
 
-### Jornada 5 de la Liga: resumen de todos los partidos
-
-La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-- [Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales](https://cincodias.elpais.com/companias/2026-09-14/open-cosmos-logra-captar-300-millones-de-financiacion-para-ampliar-la-fabricacion-en-serie-de-sus-satelites-espaciales.html?utm_source=lootura.com) — 2026-09-14T13:00:00.000Z
-- [Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan](https://okdiario.com/deportes/como-comprar-entradas-supercopa-espana-baloncesto-2026-cuanto-cuestan-20287838?utm_source=lootura.com) — 2026-09-14T16:41:08.000Z
+- [Jornada 5 de la Liga: resumen de todos los partidos](https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329?utm_source=lootura.com) — 2026-09-14T21:14:31.000Z

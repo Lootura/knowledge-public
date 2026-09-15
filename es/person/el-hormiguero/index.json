@@ -1,0 +1,45 @@
+{
+  "id": "es-el-hormiguero",
+  "name": "El Hormiguero",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/el-hormiguero",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/el-hormiguero",
+  "markdownUrl": "https://atlas.lootura.com/es/person/el-hormiguero/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/el-hormiguero/index.json",
+  "description": "Sigue la actividad de El Hormiguero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
+      "summary": "\"Irresponsabilidad\", \"indolencia\" y \"un manifiesto intento de no molestar a Marruecos \". Así ha resumido y descrito -en su primera intervención en el programa de Antena 3, El Hormiguero- el presidente de Ceuta, Juan Jesús Vivas , la actuación del Gobierno central en el antes y el después de la entrada masiva a la ciuda.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "summary": "El tono de la entrevista de Juan Jesús Vivas en El Hormiguero lo adelantó su presentador, Pablo Motos, desde el primer minuto del programa: “En un rato estará con nosotros el presidente de Ceuta, Juan Vivas, y después tendremos risas con Leo Harlem”. El presidente ceutí volvió a esgrimir este lunes una dureza a la que.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Hormiguero first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
+      "url": "https://www.elconfidencial.com/espana/2026-09-14/vivas-gobierno-irresponsabilidad-molestar-marruecos_4423827/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:40:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "url": "https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:30:45.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
+}

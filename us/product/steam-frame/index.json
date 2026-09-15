@@ -8,36 +8,30 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/steam-frame/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/steam-frame/index.json",
   "description": "Follow Steam Frame, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Deckard",
     "Valve Deckard"
   ],
   "changes": [
     {
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looking headsets from Met.",
+      "title": "Discovered by Atlas",
+      "summary": "Steam Frame first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-14"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Steam Frame first entered the public knowledge record with source-backed evidence.",
+      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+      "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as similar-looking headsets from Met.",
       "date": "2026-09-14"
     }
   ],
   "sources": [
     {
-      "title": "Valve’s Steam Frame costs $1,059",
-      "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:00:00.000Z",
-      "sourceId": "lootura-us-the-verge"
-    },
-    {
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "url": "https://www.theverge.com/tech/994267/steam-frame-review?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T00:13:47.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

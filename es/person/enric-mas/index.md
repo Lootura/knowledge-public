@@ -70,4 +70,4 @@ Date: 2026-09-12
 
 ## Fuentes
 
-- [Enric Mas, la redención de un ciclista con neopreno](https://www.elcorreo.com/deportes/ciclismo/vuelta-espana/enric-mas-redencion-ciclista-neopreno-bucear-criticas-admiracion-20260913214536-nt_amp.html?utm_source=lootura.com) — 2026-09-13T19:47:36.000Z
+No public source links.

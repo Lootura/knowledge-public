@@ -3,10 +3,28 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Vivas acusa al Gobierno de "irresponsabilidad" y de no querer "molestar" a Marruecos
+
+"Irresponsabilidad", "indolencia" y "un manifiesto intento de no molestar a Marruecos ". Así ha resumido y descrito -en su primera intervención en el programa de Antena 3, El Hormiguero- el presidente de Ceuta, Juan Jesús Vivas , la actuación del Gobierno central en el antes y el después de la entrada masiva a la ciuda.
+
+Date: 2026-09-14
+
+### Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”
+
+El tono de la entrevista de Juan Jesús Vivas en El Hormiguero lo adelantó su presentador, Pablo Motos, desde el primer minuto del programa: “En un rato estará con nosotros el presidente de Ceuta, Juan Vivas, y después tendremos risas con Leo Harlem”. El presidente ceutí volvió a esgrimir este lunes una dureza a la que.
+
+Date: 2026-09-14
+
+### Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta
+
+El presidente-alcalde de Ceuta , Juan Jesús Vivas, es uno de los políticos más veteranos y consolidados en España. Casado y padre de dos hijos, Vivas se ha convertido en una de las figuras políticas más longevas de España, liderando el gobierno ceutí a lo largo de más de dos décadas marcadas por la gestión de la comple.
+
+Date: 2026-09-14
 
 ### Vivas afirma que Moncloa le pidió "no llamar más porque se estaban poniendo pesados" tras alertar de la presión migratoria en Ceuta
 
@@ -50,24 +68,8 @@ Luis de la Fuente ha sido recibido en Ceuta por el presidente Juan Jesús Vivas 
 
 Date: 2026-09-04
 
-### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
-
-Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
-
-Date: 2026-09-04
-
-### Juan Jesús Vivas, presidente de Ceuta: "Si Ceuta sale perdiendo, si Ceuta naufraga, naufraga toda España"
-
-La crisis migratoria de Ceuta ha llegado al Congreso de los Diputados, donde Pedro Sánchez defendió la respuesta del Gobierno ante los acontecimientos iniciados el 30 de julio. Su intervención provocó una dura reacción del presidente de la ciudad autónoma, Juan Jesús Vivas . El dirigente ceutí rechazó las explicaciones.
-
-Date: 2026-09-04
-
-### El Gobierno aprueba un plan de 309 millones para despejar la idea del “abandono” de Ceuta
-
-El Gobierno hace números y pone nuevo dinero fresco encima de la mesa para demostrar que es falsa la idea del “abandono” de Ceuta del que habla Juan Jesús Vivas, su presidente, una sensación muy extendida en la ciudad. El vicepresidente primero y ministro de Economía, Carlos Cuerpo, desplegó una lluvia de millones en l.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [Vivas acusa al Gobierno de "irresponsabilidad" y de no querer "molestar" a Marruecos](https://www.elconfidencial.com/espana/2026-09-14/vivas-gobierno-irresponsabilidad-molestar-marruecos_4423827/?utm_source=lootura.com) — 2026-09-14T21:40:00.000Z
+- [Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”](https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com) — 2026-09-14T21:30:45.000Z
+- [Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta](https://okdiario.com/espana/asi-juan-jesus-vivas-edad-pareja-hijos-estudios-carrera-politica-hasta-ser-presidente-ceuta-20289076?utm_source=lootura.com) — 2026-09-14T20:19:27.000Z

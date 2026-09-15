@@ -70,4 +70,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela](https://elpais.com/america/2026-09-14/estados-unidos-frena-la-investigacion-en-espana-de-alejandro-betancourt-su-nuevo-zar-del-petroleo-en-venezuela.html?utm_source=lootura.com) — 2026-09-14T03:30:01.000Z
+No public source links.

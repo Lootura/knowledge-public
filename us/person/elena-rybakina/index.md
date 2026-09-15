@@ -34,4 +34,4 @@ Date: 2026-09-13
 
 ## Sources
 
-- [Elena Rybakina Talks Winning 2026 US Open Women’s Title](https://www.today.com/video/elena-rybakina-talks-winning-2026-us-open-women-s-title-269812806002?utm_source=lootura.com) — 2026-09-14T12:57:26.000Z
+No public source links.

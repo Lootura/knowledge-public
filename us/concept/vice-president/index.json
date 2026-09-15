@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "EVP",
     "VP",
@@ -18,6 +18,11 @@
     {
       "title": "Vance says Americans should not be scared of AI as calls for limits grow",
       "summary": "Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
+      "summary": "Vice President JD Vance is beginning a key final stretch of midterm campaigning by dropping in on the Senate race in Kansas, where Republicans were long seen as heavily favored.",
       "date": "2026-09-14"
     },
     {
@@ -59,11 +64,6 @@
       "title": "Vance calls on battleground state Republicans to ‘nationalize’ the midterms",
       "summary": "Vice President JD Vance urged Republicans from several battleground states Thursday to “nationalize” their midterm elections this fall.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
-      "summary": "Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
@@ -74,9 +74,9 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Vance to Campaign in Kansas as Democrats Target a Republican Stronghold",
+      "title": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
       "url": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:30:44.000Z",
+      "publishedAt": "2026-09-14T22:15:57.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],

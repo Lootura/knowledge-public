@@ -3,44 +3,20 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El CIS de Tezanos no pregunta por la gestión de Sánchez en Ceuta ni sobre quién impulsó el asalto
+### Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA
 
-El 82,2% de los españoles considera que es necesario reforzar las fronteras de Ceuta y Melilla para evitar entradas masivas de inmigrantes como la que tuvo lugar a finales de julio. Así lo revela el último barómetro del Centro de Investigaciones Sociológicas (CIS) dirigido por José Félix Tezanos, que no ha pedido a sus.
+El requerimiento realizado ayer por la Junta Electoral Central a la Oficina del Censo, dependiente del INE, recae sobre una cúpula que el Gobierno ...
 
-Date: 2026-09-14
-
-### El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta
-
-El Centro de Investigaciones Sociológicas (CIS), presidido por José Félix Tezanos, ha evitado incluir en su último barómetro de septiembre cualquier pregunta que permita a los españoles evaluar la gestión directa del Gobierno en la crisis fronteriza de Ceuta. A pesar del colapso vivido los días 30 y 31 de julio en la f.
-
-Date: 2026-09-14
-
-### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
-
-El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
-
-Date: 2026-09-14
+Date: 2026-09-15
 
 ### Moncloa ve «intolerable» que Esteban aliente la tesis del chantaje marroquí
 
 Podemos se suma a la teoría del PNV sobre la posibilidad de que Rabat tenga «algo más» sobre Sánchez. «Todos lo dicen», desliza Montero.
-
-Date: 2026-09-14
-
-### La investigación de la jueza Tardón sobre Ceuta golpea al corazón de la Moncloa
-
-El papel principal que jugó el jefe de Gabinete de Sánchez en las comunicaciones de los días previos a la invasión, y las acusaciones de Vivas sobr...
-
-Date: 2026-09-14
-
-### Macron realizará una visita de Estado a España los días 29 y 30 de septiembre
-
-Los Reyes de España ofrecerán una cena de gala en honor del presidente francés. Un día después, será recibido por Pedro Sánchez en La Moncloa Leer.
 
 Date: 2026-09-14
 
@@ -50,32 +26,57 @@ La crisis de Ceuta golpea las expectativas electorales de Pedro Sánchez . El ba
 
 Date: 2026-09-14
 
-### Última hora de la entrada de inmigrantes a Ceuta y actualidad política en directo hoy: El CIS vuelve a dar ganador a Sánchez
+### Vivas reprocha a Sánchez su "extraordinaria sumisión" a Rabat: "Marruecos siempre ha procurado la asfixia de Ceuta y Melilla"
 
-Sigue en directo la actualidad política de hoy, lunes 14 de septiembre, con la comparecencia de Pedro Sánchez y la última hora de Ceuta.
-
-Date: 2026-09-14
-
-### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
-
-El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.
+El presidente de Ceuta, Juan Vivas , ha denunciado este lunes que la crisis migratoria que atraviesa Ceuta desde finales de julio es consecuencia de tres cuestiones: "indolencia, irresponsabilidad y un intento de no molestar a Marruecos". En este sentido, ha denunciado que existe "una extraordinaria sumisión" a Rabat p.
 
 Date: 2026-09-14
 
-### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
+### Sánchez, sobre los informes del CNI que apuntan a Marruecos en la crisis migratoria de Ceuta: "No hay datos sólidos que lo prueben"
 
-El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
+El presidente del Gobierno, Pedro Sánchez , ha insistido este lunes en que no existen evidencias claras que vinculen a Rabat con la entrada masiva de migrantes registrada los 30 y 31 de julio en Ceuta. " A día de hoy no hay información que de manera sólida pruebe que Marruecos esté detrás" , ha afirmado durante una ent.
 
-Date: 2026-09-13
+Date: 2026-09-14
+
+### Sánchez insta a los jueces a hacerse análisis de "autoevaluación" y "autocorrección"
+
+El jefe del Gobierno, Pedro Sánchez , ha dejado sin contestar la primera pregunta que ha recibido esta noche durante su entrevista en laSexta. "¿Qué se ha hecho mal, presidente, ahora para que un mes y medio después (Ceuta) siga siendo un polvorín?", le ha trasladado Sandra Sabatés. "No diría que se ha hecho mal o no s.
+
+Date: 2026-09-14
+
+### Sánchez justifica su defensa de Marruecos en la crisis de Ceuta: "Es el país al que tienen que retornar la mayoría de los inmigrantes que llegaron"
+
+El presidente del Gobierno se fija finales de año como el margen para tratar de "estabilizar" la situación en la ciudad autónoma Leer.
+
+Date: 2026-09-14
+
+### Malas noticias para Sánchez en el CIS de Tezanos: los problemas económicos se cronifican como grandes preocupaciones
+
+El organismo de Tezanos cuestiona el relato del Gobierno, basado en los buenos datos de empleo o crecimiento Leer.
+
+Date: 2026-09-14
+
+### Sánchez se anima a sí mismo en el plató del Gran Wyoming
+
+“Aquí ya tiene 40 votos”, dijo el Gran Wyoming mirando de reojo al público de El Intermedio entregado a Pedro Sánchez. Sánchez se refirió todo el rato al presentador como Wyoming. Creo que ya mucha gente le llama así, sin el Gran, aunque los íntimos le conocen como Chechu. Pero la gracia, y lo serio, es llamarle Gran W.
+
+Date: 2026-09-14
+
+### Pedro Sánchez: "Nos hemos dado de aquí al final del año para arreglar la situación en Ceuta"
+
+El presidente del Gobierno tacha de "bulo" que tema a Marruecos por el espionaje de Pegasus: "Está bien para una serie de Neftlix, otra cosa es la realidad; lo inteligente es tener buena relación con un país vecino si queremos el retorno de los migrantes" 24 horas con el mando único en Ceuta: “Vamos a aliviar El Trampo.
+
+Date: 2026-09-14
 
 ## Fuentes
 
-- [El CIS de Tezanos no pregunta por la gestión de Sánchez en Ceuta ni sobre quién impulsó el asalto](https://www.20minutos.es/nacional/82-los-espanoles-aboga-por-reforzar-las-fronteras-ceuta-melilla-segun-cis-que-no-pregunta-por-gestion-sanchez_7036509_0.html?utm_source=lootura.com) — 2026-09-14T12:52:02.000Z
-- [El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta](https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html?utm_source=lootura.com) — 2026-09-14T17:23:50.000Z
-- [CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos](https://www.elconfidencial.com/espana/2026-09-14/tezanos-cis-psoe-pp-recortan-distancia-crisis-ceuta_4423304/?utm_source=lootura.com) — 2026-09-14T10:31:00.000Z
+- [Vivas reprocha a Sánchez su "extraordinaria sumisión" a Rabat: "Marruecos siempre ha procurado la asfixia de Ceuta y Melilla"](https://www.20minutos.es/nacional/vivas-reprocha-sanchez-su-extraordinaria-sumision-rabat-marruecos-siempre-ha-procurado-asfixia-ceuta-melilla_7036706_0.html?utm_source=lootura.com) — 2026-09-14T21:58:49.000Z
+- [Sánchez, sobre los informes del CNI que apuntan a Marruecos en la crisis migratoria de Ceuta: "No hay datos sólidos que lo prueben"](https://www.20minutos.es/nacional/sanchez-sobre-los-informes-cni-que-apuntan-marruecos-crisis-ceuta-no-hay-informacion-solida-que-pruebe_7036700_0.html?utm_source=lootura.com) — 2026-09-14T21:46:17.000Z
+- [Sánchez insta a los jueces a hacerse análisis de "autoevaluación" y "autocorrección"](https://www.elconfidencial.com/espana/2026-09-14/entrevista-sanchez-jueces-ceuta-crisis-migratoria_4423776/?utm_source=lootura.com) — 2026-09-14T21:02:00.000Z
 - [Moncloa ve «intolerable» que Esteban aliente la tesis del chantaje marroquí](https://www.elcorreo.com/politica/moncloa-intolerable-esteban-aliente-tesis-chantaje-marroqui-20260914185058-nt_amp.html?utm_source=lootura.com) — 2026-09-14T16:50:59.000Z
-- [La investigación de la jueza Tardón sobre Ceuta golpea al corazón de la Moncloa](https://www.eldebate.com/espana/20260914/investigacion-jueza-tardon-sobre-ceuta-golpea-corazon-moncloa_458578.html?utm_source=lootura.com) — 2026-09-14T14:22:15.000Z
-- [Macron realizará una visita de Estado a España los días 29 y 30 de septiembre](https://www.elmundo.es/espana/2026/09/14/6aa7aca9e4d4d8d7638b457b.html?utm_source=lootura.com) — 2026-09-14T09:15:46.000Z
+- [Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA](https://www.eldebate.com/espana/20260915/sanchez-cambio-cupula-censo-electoral-entre-fin-recuento-casa-casa-salto-olimpico-cera_458737.html?utm_source=lootura.com) — 2026-09-15T02:25:00.000Z
+- [Sánchez justifica su defensa de Marruecos en la crisis de Ceuta: "Es el país al que tienen que retornar la mayoría de los inmigrantes que llegaron"](https://www.elmundo.es/espana/2026/09/14/6aa8595de85ece256f8b459b.html?utm_source=lootura.com) — 2026-09-14T20:30:30.000Z
+- [Malas noticias para Sánchez en el CIS de Tezanos: los problemas económicos se cronifican como grandes preocupaciones](https://www.elmundo.es/espana/2026/09/15/6aa83d37e85ece7f5a8b4575.html?utm_source=lootura.com) — 2026-09-14T23:35:52.000Z
+- [Sánchez se anima a sí mismo en el plató del Gran Wyoming](https://elpais.com/espana/2026-09-14/sanchez-se-anima-a-si-mismo-en-el-plato-del-gran-wyoming.html?utm_source=lootura.com) — 2026-09-14T21:45:28.000Z
 - [La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS](https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html?utm_source=lootura.com) — 2026-09-14T11:52:03.000Z
-- [Última hora de la entrada de inmigrantes a Ceuta y actualidad política en directo hoy: El CIS vuelve a dar ganador a Sánchez](https://okdiario.com/espana/ultimas-noticias-crisis-ceuta-actualidad-politica-directo-sanchez-comparece-ministerio-sanidad-20283243/amp?utm_source=lootura.com) — 2026-09-14T17:32:41.000Z
-- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z
+- [Pedro Sánchez: "Nos hemos dado de aquí al final del año para arreglar la situación en Ceuta"](https://www.eldiario.es/politica/pedro-sanchez-hemos-dado-final-ano-arreglar-situacion-ceuta_1_13509833.html?utm_source=lootura.com) — 2026-09-14T20:18:54.000Z

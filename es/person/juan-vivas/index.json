@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-vivas/index.json",
   "description": "Sigue la actividad de Juan Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T18:58:06.359Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Vivas reprocha a Sánchez su \"extraordinaria sumisión\" a Rabat: \"Marruecos siempre ha procurado la asfixia de Ceuta y Melilla\"",
+      "summary": "El presidente de Ceuta, Juan Vivas , ha denunciado este lunes que la crisis migratoria que atraviesa Ceuta desde finales de julio es consecuencia de tres cuestiones: \"indolencia, irresponsabilidad y un intento de no molestar a Marruecos\". En este sentido, ha denunciado que existe \"una extraordinaria sumisión\" a Rabat p.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "summary": "El tono de la entrevista de Juan Jesús Vivas en El Hormiguero lo adelantó su presentador, Pablo Motos, desde el primer minuto del programa: “En un rato estará con nosotros el presidente de Ceuta, Juan Vivas, y después tendremos risas con Leo Harlem”. El presidente ceutí volvió a esgrimir este lunes una dureza a la que.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vivas ataca al Gobierno en 'El hormiguero': «No ha estado a la altura y no se hizo caso al CNI»",
+      "summary": "El presidente de Ceuta, Juan Vivas, ha cargado este lunes contra el Gobierno de Pedro Sánchez por su actuación durante la entrada masiva de inmigrantes de.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Vivas dice que Moncloa le pidió “que no llamara más” tras días advirtiendo de la crisis migratoria",
       "summary": "El presidente de Ceuta, Juan Vivas, ha asegurado este viernes que el Gobierno central restó importancia a las advertencias trasladadas por la Ciudad sobre la creciente presión migratoria en los días previos a la entrada masiva de personas desde Marruecos y ha afirmado que desde Moncloa llegaron incluso a pedirle que de.",
@@ -42,6 +57,25 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vivas reprocha a Sánchez su \"extraordinaria sumisión\" a Rabat: \"Marruecos siempre ha procurado la asfixia de Ceuta y Melilla\"",
+      "url": "https://www.20minutos.es/nacional/vivas-reprocha-sanchez-su-extraordinaria-sumision-rabat-marruecos-siempre-ha-procurado-asfixia-ceuta-melilla_7036706_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:58:49.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
+      "url": "https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:30:45.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Vivas ataca al Gobierno en 'El hormiguero': «No ha estado a la altura y no se hizo caso al CNI»",
+      "url": "https://theobjective.com/espana/politica/2026-09-14/vivas-gobierno-hormiguero-altura-caso-cni/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:08:28.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 3
 }

@@ -3,10 +3,16 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
+
+### Vance Campaigns in Kansas as Democrats Target a Republican Stronghold
+
+Vice President JD Vance is beginning a key final stretch of midterm campaigning by dropping in on the Senate race in Kansas, where Republicans were long seen as heavily favored.
+
+Date: 2026-09-14
 
 ### Vance to Campaign in Kansas as Democrats Target a Republican Stronghold
 
@@ -62,12 +68,6 @@ David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to 
 
 Date: 2026-09-11
 
-### Fact-Checking Trump’s Attacks on Democratic Senate Candidates
-
-The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.
-
-Date: 2026-09-11
-
 ## Sources
 
-- [Vance to Campaign in Kansas as Democrats Target a Republican Stronghold](https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com) — 2026-09-14T17:30:44.000Z
+- [Vance Campaigns in Kansas as Democrats Target a Republican Stronghold](https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com) — 2026-09-14T22:15:57.000Z

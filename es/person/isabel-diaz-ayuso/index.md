@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [El podemita Sotomayor hace el ridículo para criticar a Ayuso: "Circuitos urbanos de F1 sólo están en Madrid y Valencia"](https://okdiario.com/deportes/podemita-sotomayor-hace-ridiculo-criticar-ayuso-circuitos-urbanos-f1-solo-estan-madrid-valencia-20288644/amp?utm_source=lootura.com) — 2026-09-14T17:17:06.000Z
+No public source links.

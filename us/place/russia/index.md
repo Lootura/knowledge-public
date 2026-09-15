@@ -3,10 +3,16 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure
+
+His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.
+
+Date: 2026-09-14
 
 ### Daily fragment: Aeroflot Flight 821
 
@@ -62,13 +68,6 @@ The war could yet drag on for years as Russia reconstitutes its forces and its d
 
 Date: 2026-09-08
 
-### Lithuanian civilians, including children, training for possible Russian attacks
-
-Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Lithuania prepares for war, reinforcing its border against Russian tanks](https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com) — 2026-09-14T01:23:18.000Z
-- [Daily fragment: Aeroflot Flight 821](https://en.wikipedia.org/wiki/Aeroflot_Flight_821?utm_source=lootura.com) — 2026-09-14T04:00:00.000Z
+- [Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure](https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com) — 2026-09-14T21:57:49.000Z

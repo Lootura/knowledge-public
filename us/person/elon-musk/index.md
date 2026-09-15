@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Is Big Tech’s AI slowdown a safety pact or a cartel?
+
+When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at le.
+
+Date: 2026-09-14
 
 ### Developer ecosystem expanded
 
@@ -62,12 +68,7 @@ Date: 2026-09-02
 
 Date: 2026-08-14
 
-### Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025
-
-Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their workers. Musk’s $158.
-
-Date: 2026-08-13
-
 ## Sources
 
-No public source links.
+- [Trump says U.S. needs a "high IQ" president to handle AI](https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com) — 2026-09-14T22:37:28.000Z
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com) — 2026-09-14T22:59:41.000Z

@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-09-08
 
 ## Sources
 
-- [China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders](https://www.nbcnews.com/world/china/china-ai-slowdown-trump-amodei-altman-threat-cold-war-rcna597631?utm_source=lootura.com) — 2026-09-14T12:14:29.000Z
-- [Beijing hits back at Anthropic CEO's call to curb China's AI development](https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com) — 2026-09-14T10:09:08.000Z
-- [China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule](https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html?utm_source=lootura.com) — 2026-09-14T17:38:15.000Z
+- [Rep. Sam Liccardo urges lawmakers "to take action" on AI: "Instead, in Congress, we see vacation"](https://www.cbsnews.com/video/sam-liccardo-urges-lawmakers-take-action-ai-congress-vacation/?utm_source=lootura.com) — 2026-09-15T01:15:11.000Z

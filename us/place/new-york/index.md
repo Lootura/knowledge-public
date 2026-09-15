@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-09-11
 
 ## Sources
 
+- [Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists](https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists?utm_source=lootura.com) — 2026-09-14T23:02:54.000Z
 - [As Midterms Rage, Gillibrand Wants Congress to Talk Menopause](https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html?utm_source=lootura.com) — 2026-09-14T15:13:49.000Z

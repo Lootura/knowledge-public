@@ -70,4 +70,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html?utm_source=lootura.com) — 2026-09-14T16:34:19.000Z
+No public source links.

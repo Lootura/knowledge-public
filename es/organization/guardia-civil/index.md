@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [Cuatro detenidos y seis policías locales y un guardia civil heridos en las fiestas de Ocaña (Toledo)](https://www.elconfidencial.com/espana/2026-09-14/altercados-macrodiscoteca-ocana-agentes-heridos-1tna-1tps_4423366/?utm_source=lootura.com) — 2026-09-14T11:33:00.000Z
+No public source links.

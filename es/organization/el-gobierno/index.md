@@ -3,10 +3,34 @@
 > Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/el-gobierno
 
 ## Cambios recientes
+
+### Los socios abren otro frente al Gobierno al secundar la tesis del chantaje de Rabat a Sánchez
+
+El Gobierno acusa ya la soledad en su errática gestión de la crisis de Ceuta . Sin base social que respalde sus tesis exculpando a Marruecos de la entrada masiva de los días 30 y 31 de julio y sin una rendición de cuentas que resulte suficiente ante la opinión pública, los apoyos políticos se diluyen. La imagen de frac.
+
+Date: 2026-09-15
+
+### El Gobierno rabia por la suspensión de la ‘ley de nietos’
+
+El Gobierno está rabioso desde que el Tribunal Supremo le ha tumbado el pucherazo. Félix Bolaños, Óscar Puente y Óscar López, tres ministros, han salido en tromba a cargar contra el auto que anula los efectos electorales derivados de la ‘ley de nietos’. En concreto, de la instrucción de Sofía Puente que ampliaba la con.
+
+Date: 2026-09-14
+
+### Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas
+
+El Gobierno de Donald Trump ha dado este lunes uno de sus principales pasos para desmantelar la regulación medioambiental de sus antecesores: la Agencia de Protección Medioambiental (EPA, en sus siglas en inglés) ha eliminado los límites sobre emisiones de gases de efecto invernadero provenientes de plantas energéticas.
+
+Date: 2026-09-14
+
+### El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"
+
+Después de 47 días más bien detrás de la puerta, sujetándola para evitar que se derribara ante las objeciones y críticas a su gestión de la crisis de Ceuta, La Moncloa...
+
+Date: 2026-09-14
 
 ### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
 
@@ -17,12 +41,6 @@ Date: 2026-09-14
 ### El Gobierno se ocupará del campamento de Sidi Embarek, el cobijo de 300 mujeres y niños que levantó la solidaridad de Ceuta
 
 Todos los días son idénticos en Sidi Embarek, también esos en los que todo está a punto de cambiar. En la carpa de trescientos metros cuadrados que cobija ya a 300 mujeres y niños junto a la explanada de la mezquita, la rutina discurría plomiza este domingo: voluntarios de Luna Blanca repartiendo comida caliente, niños.
-
-Date: 2026-09-14
-
-### El Gobierno rabia por la suspensión de la ‘ley de nietos’
-
-El Gobierno está rabioso desde que el Tribunal Supremo le ha tumbado el pucherazo. Félix Bolaños, Óscar Puente y Óscar López, tres ministros, han salido en tromba a cargar contra el auto que anula los efectos electorales derivados de la ‘ley de nietos’. En concreto, de la instrucción de Sofía Puente que ampliaba la con.
 
 Date: 2026-09-14
 
@@ -50,26 +68,9 @@ El Gobierno de Isabel Díaz Ayuso prepara ya una nueva ampliación del Metro de 
 
 Date: 2026-09-10
 
-### «El Gobierno municipal está amortizado, agotado, paralizado»
-
-Reivindica «firmeza en las políticas de vivienda» y alerta sobre el avance de discursos «fascistas que calan en los barrios».
-
-Date: 2026-09-09
-
-### El Gobierno abre una crisis con el CNI para ocultar que desoyó durante 72 horas las alertas de la avalancha sobre Ceuta
-
-Pese a la desclasificación de los documentos, ponen en boca de los servicios de inteligencia que no anticiparon "la magnitud y naturaleza de lo que terminó ocurriendo el día 30" Leer.
-
-Date: 2026-09-09
-
-### El Gobierno vasco concede el tercer grado al sangriento pistolero de ETA Henri Parot condenado por 39 asesinatos
-
-El Colectivo de Víctimas del Terrorismo denuncia la aplicación de este régimen penitenciario a "uno de los terroristas más sanguinarios de la historia de ETA". Cometió su primer crimen con 20 años y fue detenido en 1990 por la Guardia Civil cuando viajaba a Sevilla con 300 kilos de explosivos Leer.
-
-Date: 2026-09-09
-
 ## Fuentes
 
-- [El Gobierno y el PSOE echan el resto en su cruzada contra los jueces](https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com) — 2026-09-14T12:54:00.000Z
-- [El Gobierno se ocupará del campamento de Sidi Embarek, el cobijo de 300 mujeres y niños que levantó la solidaridad de Ceuta](https://elpais.com/espana/2026-09-14/el-gobierno-se-ocupara-del-campamento-de-sidi-embarek-el-cobijo-de-300-mujeres-y-ninos-que-levanto-la-solidaridad-de-ceuta.html?utm_source=lootura.com) — 2026-09-14T03:30:01.000Z
+- [Los socios abren otro frente al Gobierno al secundar la tesis del chantaje de Rabat a Sánchez](https://www.abc.es/espana/socios-abren-frente-gobierno-secundar-tesis-chantaje-20260915011922-nt.html?utm_source=lootura.com) — 2026-09-15T00:20:13.000Z
+- [Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas](https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html?utm_source=lootura.com) — 2026-09-14T20:49:27.000Z
+- [El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"](https://amp.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html?utm_source=lootura.com) — 2026-09-14T20:44:40.000Z
 - [El Gobierno rabia por la suspensión de la ‘ley de nietos’](https://theobjective.com/espana/2026-09-14/gobierno-rabia-suspension-ley-nietos/?utm_source=lootura.com) — 2026-09-14T16:33:01.000Z

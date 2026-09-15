@@ -1,0 +1,56 @@
+{
+  "id": "usa-donald-trump-jr",
+  "name": "Donald Trump Jr.",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/donald-trump-jr",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/donald-trump-jr",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/donald-trump-jr/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/donald-trump-jr/index.json",
+  "description": "Follow Donald Trump Jr., a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a \"gift\"",
+      "summary": "Bettina Anderson, wife of Donald Trump Jr., said their \"dear friend\" Umar Kremlev hosted two nights of festivities after their wedding in the Bahamas.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Putin-tied Russian oligarch paid for Trump Jr.'s wedding celebrations",
+      "summary": "A ProPublica report says a Russian oligarch with ties to Vladimir Putin helped fund Donald Trump Jr.'s wedding celebration in the Bahamas. According to the report, Umar Kremlev, a Russian businessman and president of the International Boxing Association, paid hundreds of thousands in wedding expenses. Liz Landers spoke.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
+      "summary": "The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Donald Trump Jr first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a \"gift\"",
+      "url": "https://www.cbsnews.com/news/donald-trump-jr-wife-wedding-russian-umar-kremlev/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:37:09.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Putin-tied Russian oligarch paid for Trump Jr.'s wedding celebrations",
+      "url": "https://www.pbs.org/newshour/show/putin-tied-russian-oligarch-paid-for-trump-jr-s-wedding-celebrations?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:30:29.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
+      "url": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:31:38.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 3
+}

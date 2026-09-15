@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,11 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "summary": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
       "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
@@ -61,19 +66,14 @@
       "title": "Q&A: Satellite imagery reveals what casualty figures alone do not tell us",
       "summary": "How do we form a picture of conflicts? A new study published in the journal Nature explores how different types of data can be combined to give a fuller understanding of armed conflicts. Lead author Valerie Sticher uses the examples of Ukraine and Myanmar to explain the advantages and limitations of automatically analy.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Lithuanian civilians, including children, training for possible Russian attacks",
-      "summary": "Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-      "url": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:34:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "url": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:57:49.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
   "evidenceCount": 1

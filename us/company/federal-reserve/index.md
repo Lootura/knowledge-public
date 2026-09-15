@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates](https://www.today.com/video/us-gas-prices-hit-record-high-fed-poised-to-raise-interest-rates-269811781739?utm_source=lootura.com) — 2026-09-14T11:21:08.000Z
+No public source links.

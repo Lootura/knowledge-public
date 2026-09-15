@@ -3,10 +3,16 @@
 > Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/prime-video
 
 ## Cambios recientes
+
+### Amazon copia a TikTok con una función nueva en Prime Video
+
+Prime Video ha lanzado una nueva función con la que planea competir con plataformas como TikTok. La plataforma de streaming implementó una sección con vídeos cortos de unos cuantos segundos. El objetivo es atraer a una nueva audiencia que busca algo más que ver una serie o película dentro de la aplicación para móviles.
+
+Date: 2026-09-15
 
 ### Ester Expósito, contra los bulos y denuncia la falta de regulación de la IA:«Me da terror»
 
@@ -62,12 +68,6 @@ Hablar de Mamoru Hosoda es hablar de uno de los nombres más importantes del ani
 
 Date: 2026-08-05
 
-### 'Supergirl' la semana que viene en Prime Video en digital: precio y packs
-
-Todavía tienen mucho que decir , pero por el momento y tras tan solo 2 películas, James Gunn y Peter Safran no ha sido los tan solicitados salvadores del universo cinematográfico de DC que se esperaba, aunque su saldo por ahora es neutro. Y es que si bien la Superman de 2025 llegó a convertirse en la película del Hombr.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Amazon copia a TikTok con una función nueva en Prime Video](https://hipertextual.com/cine-television/prime-video-lanza-videos-cortos-tiktok/?utm_source=lootura.com) — 2026-09-15T00:02:12.000Z

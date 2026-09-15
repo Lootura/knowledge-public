@@ -70,4 +70,4 @@ Date: 2026-09-09
 
 ## Sources
 
-- [NSF moves to overhaul funding approach in line with White House priorities](https://www.nature.com/articles/d41586-026-02892-9?utm_source=lootura.com) — 2026-09-14T17:40:47.614Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [La doble función de la malla con la que juega Alcaraz: «Se utiliza como apoyo para generar protección y seguridad al deportista»](https://okdiario.com/deportes/doble-funcion-malla-que-juega-alcaraz-utiliza-como-apoyo-generar-proteccion-seguridad-deportista-20286646?utm_source=lootura.com) — 2026-09-14T17:00:56.000Z
+No public source links.

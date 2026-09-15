@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-13T22:05:54.092Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid",
+      "summary": "HM Hospitales prepara nuevos planes de expansión, con la Comunidad de Madrid como principal apuesta, junto a Cataluña y Málaga. Ahora, la compañía trabaja en la implantación de un futuro hospital en los nuevos desarrollos del Sureste de la Comunidad madrileña. “Estamos trabajando con nuestros socios para analizar posib.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Un incendio en Benahavís deja 50 desalojados, tres heridos y un pueblo confinado en Málaga",
       "summary": "Cincuenta desalojados, todo un pueblo confinado y tres heridos. Ese es el saldo que deja por el momento el incendio forestal que a mediodía de este domingo se declaró en el municipio malagueño de Benahavís , situado en un terreno montañoso de la Costa del Sol entre Marbella, Estepona y Ronda. Las llamas, que se han vis.",
@@ -55,13 +60,15 @@
       "title": "Detienen a un hombre por agredir sexualmente a su sobrina de 9 años en Málaga",
       "summary": "Un hombre de unos 45 años ha sido detenido por la Policía Local de Málaga como autor de un delito de agresión sexual a una menor de nueve años , sobrina del detenido. Los hechos investigados habrían ocurrido en el interior de la vivienda familiar en la que convivían varios parientes, entre ellos el sospechoso y la niña.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta",
-      "summary": "Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid",
+      "url": "https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T03:15:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

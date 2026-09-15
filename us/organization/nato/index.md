@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building
+
+In our news wrap Monday, officials at the Kennedy Center are warning of "certain fiscal collapse" unless President Trump's name is added to the exterior of the building, several state election officials tell the News Hour they are bracing for uncertainty over mail-in ballots ahead of the midterms and NATO Secretary-Gen.
+
+Date: 2026-09-14
 
 ### Lithuania prepares for war, reinforcing its border against Russian tanks
 
@@ -62,12 +68,6 @@ President Trump hid in an airport catering container and was taken to a military
 
 Date: 2026-08-11
 
-### NATO spending pressure returned
-
-A U.S. official tells NBC News that President Trump's team used an elaborate ruse to fly him out of Turkey after the NATO Summit amid threats to his life during the Iran war. NBC News' Shannon Pettypiece has details on the plan to keep the president's true location hidden.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Lithuania prepares for war, reinforcing its border against Russian tanks](https://www.cbsnews.com/video/lithuania-prepares-war-reinforcing-border-against-russian-tanks/?utm_source=lootura.com) — 2026-09-14T01:23:18.000Z
+- [News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building](https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building?utm_source=lootura.com) — 2026-09-14T22:45:46.000Z

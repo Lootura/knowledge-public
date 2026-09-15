@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/claudia-tacoronte-aguilera/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/claudia-tacoronte-aguilera/index.json",
   "description": "Sigue la actividad de Claudia Tacoronte Aguilera en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [],
   "changes": [
     {
@@ -18,28 +18,39 @@
     },
     {
       "title": "Asesinada en México una estudiante española que estaba de intercambio en la Universidad de Morelos",
-      "summary": "Una estudiante española de intercambio fue asesinada la noche del sábado en un ataque con arma blanca en Cuautla, Morelos (en el centro de México). La agresión contra Claudia Tacoronte Aguilera, de 21 años y quien cursaba Educación Infantil, ocurrió en un presunto asalto cerca de la Casa de la Cultura local, en el cent.",
+      "summary": "Una estudiante española de intercambio fue asesinada la noche del sábado en un ataque con arma blanca en Cuautla, Morelos (en el centro de México). La agresión contra Claudia Tacoronte Aguilera , de 21 años y quien cursaba Educación Infantil, ocurrió en un presunto asalto cerca de la Casa de la Cultura local, en el cen.",
       "date": "2026-09-14"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Claudia Tacoronte Aguilera first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-14"
+    },
+    {
+      "title": "Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada",
+      "summary": "La Universidad de Granada está en shock. Ese puede ser el resumen más gráfico de lo que se está viviendo este lunes 14 de septiembre, después de conocerse la terrible noticia de que Claudia Tacoronte Aguilera, que estudió tres años en la ciudad y había empezado el cuarto curso de Educación Infantil en México, ha sido a.",
+      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
+      "title": "Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada",
+      "url": "https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T19:58:44.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
       "title": "Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio",
       "url": "https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:50:44.000Z",
+      "publishedAt": "2026-09-14T18:10:54.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "Asesinada en México una estudiante española que estaba de intercambio en la Universidad de Morelos",
       "url": "https://elpais.com/mexico/2026-09-14/asesinada-en-morelos-una-estudiante-espanola-de-intercambio.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T11:40:42.000Z",
+      "publishedAt": "2026-09-14T21:54:46.000Z",
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

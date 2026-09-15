@@ -3,14 +3,32 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
 
+### Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots
+
+The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.
+
+Date: 2026-09-15
+
 ### The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.
 
 The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.
+
+Date: 2026-09-14
+
+### Supreme Court denies Trump’s mail-in voting restrictions
+
+The Supreme Court rejected President Donald Trump’s attempt to restrict mail-in voting ahead of the midterm elections. NBC News’ Monica Alba explains the decision.
+
+Date: 2026-09-14
+
+### The Supreme Court rejects Trump's mail voting restrictions for this year's midterms
+
+The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election. (Image credit: Patrick T. Fallon).
 
 Date: 2026-09-14
 
@@ -50,25 +68,10 @@ The Supreme Court said Missouri must use a 2022 congressional map — not a new 
 
 Date: 2026-09-10
 
-### Supreme Court rejects Missouri’s attempt to use newly drawn Republican congressional map
-
-The Supreme Court has rejected an attempt for Missouri to use a congressional map drawn by Republicans that would have likely eliminated the seat of a Democratic incumbent. NBC News' Sahil Kapur reports on the decision and the last-ditch attempt Republicans had taken to use the new map.
-
-Date: 2026-09-10
-
-### US supreme court again rejects Missouri maps drawn to boost Republicans in midterms
-
-Latest decision appears to set the stage for the state to use its old electoral maps this year The US supreme court again rejected a push backed by Donald Trump to overhaul Missouri’s congressional maps in an effort to hand Republicans an edge in November’s midterm elections. Its latest ruling, after days of confusion.
-
-Date: 2026-09-10
-
-### Election Officials Grapple With Uncertainty as Supreme Court Considers Mail Ballot Plan
-
-As they wait for word on whether the Trump administration’s new system to screen ballots can move forward, local officials say they are running out of time.
-
-Date: 2026-09-10
-
 ## Sources
 
+- [Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump](https://www.cbsnews.com/news/supreme-court-blocks-new-postal-service-mail-ballots-trump/?utm_source=lootura.com) — 2026-09-15T01:35:01.000Z
+- [Supreme Court denies Trump’s mail-in voting restrictions](https://www.nbcnews.com/video/supreme-court-denies-trump-s-mail-in-voting-restrictions-269850693945?utm_source=lootura.com) — 2026-09-14T23:57:52.000Z
+- [The Supreme Court rejects Trump's mail voting restrictions for this year's midterms](https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump?utm_source=lootura.com) — 2026-09-14T23:38:40.000Z
 - [The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.](https://www.nytimes.com/2026/09/08/us/politics/trump-mail-voting-what-to-know-supreme-court.html?utm_source=lootura.com) — 2026-09-14T13:51:56.000Z
-- [As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It](https://www.nytimes.com/2026/09/14/us/politics/trump-mail-ballot-nichols-supreme-court.html?utm_source=lootura.com) — 2026-09-14T16:12:55.000Z
+- [Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots](https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html?utm_source=lootura.com) — 2026-09-15T01:06:05.000Z

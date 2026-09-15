@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "Mitch McConnell returns to Capitol Hill after monthslong absence",
+      "summary": "GOP Sen. Mitch McConnell of Kentucky returned to Capitol Hill on Monday for the first time in three months, ending a prolonged absence that sparked widespread speculation about his health.",
+      "date": "2026-09-14"
+    },
     {
       "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
       "summary": "Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a \"Trump Dividend\" if voters keep the GOP in power on Capitol Hill.",
@@ -58,13 +63,15 @@
       "title": "Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’",
       "summary": "Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Abortion is on the ballot again in these two states: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-07-31"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Mitch McConnell returns to Capitol Hill after monthslong absence",
+      "url": "https://www.cbsnews.com/news/mcconnell-returning-to-capitol-hill-3-months-senate-gop/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:14:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

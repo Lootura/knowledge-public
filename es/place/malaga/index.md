@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid
+
+HM Hospitales prepara nuevos planes de expansión, con la Comunidad de Madrid como principal apuesta, junto a Cataluña y Málaga. Ahora, la compañía trabaja en la implantación de un futuro hospital en los nuevos desarrollos del Sureste de la Comunidad madrileña. “Estamos trabajando con nuestros socios para analizar posib.
+
+Date: 2026-09-15
 
 ### Un incendio en Benahavís deja 50 desalojados, tres heridos y un pueblo confinado en Málaga
 
@@ -62,12 +68,6 @@ Un hombre de unos 45 años ha sido detenido por la Policía Local de Málaga com
 
 Date: 2026-09-04
 
-### Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta
-
-Alberto Núñez Feijóo continúa manteniendo un tono crítico tanto con Pedro Sánchez como con Marruecos. En un acto celebrado en Alhaurín el Grande (Málaga) junto a Juanma Moreno -con presencia de un vídeo de Juan Jesús Vivas-, el líder del PP ha criticado el trato que está dando Sánchez a Marruecos y ha dejado entrever q.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-No public source links.
+- [HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid](https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z

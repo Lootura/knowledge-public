@@ -1,0 +1,42 @@
+{
+  "id": "usa-emmy-awards",
+  "name": "Emmy Awards",
+  "type": "object",
+  "locale": "en",
+  "canonicalPath": "/us/object/emmy-awards",
+  "canonicalUrl": "https://atlas.lootura.com/us/object/emmy-awards",
+  "markdownUrl": "https://atlas.lootura.com/us/object/emmy-awards/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/object/emmy-awards/index.json",
+  "description": "Follow Emmy Awards, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "aliases": [
+    "Emmys"
+  ],
+  "changes": [
+    {
+      "title": "'The Pitt' and 'Widow's Bay' among favorites ahead of 78th Emmy Awards",
+      "summary": "\"The Pitt\" is expected to repeat its wins from last year, while \"Widow's Bay\" could break records.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Emmy Awards first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emmys 2026: Here's the list of winners",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T23:55:49.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "'The Pitt' and 'Widow's Bay' among favorites ahead of 78th Emmy Awards",
+      "url": "https://www.pbs.org/newshour/arts/the-pitt-and-widows-bay-among-favorites-ahead-of-78th-emmy-awards?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T16:27:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 2
+}

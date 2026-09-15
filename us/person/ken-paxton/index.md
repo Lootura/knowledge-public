@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T03:06:35.172Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### VoteHub gives Talarico 55% chance of winning Texas Senate race
+
+VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving the Democrat a 55% chance of winning over Trump-backed Ken Paxton. Cameron Kasky, aide to Democratic Rep. Ro Khanna, and Erin Maguire, Republican strategist, join with analysis.
+
+Date: 2026-09-14
 
 ### Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines
 
@@ -62,12 +68,6 @@ The News Republicans are counting on President Donald Trump’s cavalry to carry
 
 Date: 2026-09-01
 
-### Discovered by Atlas
-
-Ken Paxton first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-31
-
 ## Sources
 
-No public source links.
+- [VoteHub gives Talarico 55% chance of winning Texas Senate race](https://www.cbsnews.com/video/votehub-talarico-55-percent-chance-winning-texas-senate-race/?utm_source=lootura.com) — 2026-09-14T22:27:14.000Z

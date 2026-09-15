@@ -3,10 +3,28 @@
 > Sigue la actividad de Juan Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/juan-vivas
 
 ## Cambios recientes
+
+### Vivas reprocha a Sánchez su "extraordinaria sumisión" a Rabat: "Marruecos siempre ha procurado la asfixia de Ceuta y Melilla"
+
+El presidente de Ceuta, Juan Vivas , ha denunciado este lunes que la crisis migratoria que atraviesa Ceuta desde finales de julio es consecuencia de tres cuestiones: "indolencia, irresponsabilidad y un intento de no molestar a Marruecos". En este sentido, ha denunciado que existe "una extraordinaria sumisión" a Rabat p.
+
+Date: 2026-09-14
+
+### Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”
+
+El tono de la entrevista de Juan Jesús Vivas en El Hormiguero lo adelantó su presentador, Pablo Motos, desde el primer minuto del programa: “En un rato estará con nosotros el presidente de Ceuta, Juan Vivas, y después tendremos risas con Leo Harlem”. El presidente ceutí volvió a esgrimir este lunes una dureza a la que.
+
+Date: 2026-09-14
+
+### Vivas ataca al Gobierno en 'El hormiguero': «No ha estado a la altura y no se hizo caso al CNI»
+
+El presidente de Ceuta, Juan Vivas, ha cargado este lunes contra el Gobierno de Pedro Sánchez por su actuación durante la entrada masiva de inmigrantes de.
+
+Date: 2026-09-14
 
 ### Vivas dice que Moncloa le pidió “que no llamara más” tras días advirtiendo de la crisis migratoria
 
@@ -46,4 +64,6 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [Vivas reprocha a Sánchez su "extraordinaria sumisión" a Rabat: "Marruecos siempre ha procurado la asfixia de Ceuta y Melilla"](https://www.20minutos.es/nacional/vivas-reprocha-sanchez-su-extraordinaria-sumision-rabat-marruecos-siempre-ha-procurado-asfixia-ceuta-melilla_7036706_0.html?utm_source=lootura.com) — 2026-09-14T21:58:49.000Z
+- [Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”](https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com) — 2026-09-14T21:30:45.000Z
+- [Vivas ataca al Gobierno en 'El hormiguero': «No ha estado a la altura y no se hizo caso al CNI»](https://theobjective.com/espana/politica/2026-09-14/vivas-gobierno-hormiguero-altura-caso-cni/?amp=&utm_source=lootura.com) — 2026-09-14T21:08:28.000Z

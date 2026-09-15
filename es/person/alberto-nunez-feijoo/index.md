@@ -3,10 +3,22 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves
+
+«Se acabó eso de regalar pasaportes». El Partido Popular prepara una proposición de Ley orgánica para endurecer los requisitos de acceso a la nacionalidad española....
+
+Date: 2026-09-14
+
+### Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»
+
+El portavoz del Grupo Socialista en el Congreso, Patxi López , ha aprovechado su presencia este lunes en Albacete capital, visita que coincide con la asistencia del líder del PP , Alberto Núñez Feijóo , al Recinto Ferial de la ciudad, para cargar contra el jefe de los ‘populares’ por no mostrar educación y dedicarse a.
+
+Date: 2026-09-14
 
 ### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
 
@@ -56,18 +68,7 @@ Alberto Núñez Feijóo ha continuado desgranando este martes medidas para hacer
 
 Date: 2026-09-08
 
-### El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”
-
-“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.
-
-Date: 2026-09-08
-
-### "Señor presidente, ¿cómo va a seguir gobernando?": la pregunta que une a Feijóo y Rufián marca el final en el Congreso
-
-El curso parlamentario arranca con un asedio total al Gobierno de Pedro Sánchez Leer.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-No public source links.
+- [Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves](https://amp.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html?utm_source=lootura.com) — 2026-09-14T20:44:53.000Z
+- [Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»](https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com) — 2026-09-14T18:24:58.000Z

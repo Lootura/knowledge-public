@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"
+
+Después de 47 días más bien detrás de la puerta, sujetándola para evitar que se derribara ante las objeciones y críticas a su gestión de la crisis de Ceuta, La Moncloa...
+
+Date: 2026-09-14
 
 ### La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali
 
@@ -62,12 +68,6 @@ La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durant
 
 Date: 2026-08-07
 
-### Cese fulminante de un cargo de Seguridad Nacional por informar de la entrada de 49.000 inmigrantes en Ceuta
-
-La Moncloa ha destituido con carácter fulminante a la funcionaria responsable de comunicación del Departamento de Seguridad Nacional (DSN). El cese se produjo el pasado viernes, a través de una llamada telefónica, ya que la afectada se encontraba de vacaciones, después de que publicara a primera hora de la mañana una a.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"](https://amp.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html?utm_source=lootura.com) — 2026-09-14T20:44:40.000Z

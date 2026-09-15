@@ -3,14 +3,32 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
+### La Fed discute un alza de tipos y encara un choque frontal con Trump
+
+El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras "una buena pelea familiar". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.
+
+Date: 2026-09-15
+
+### Los secretos del auto sobre la trama de Mallorca: «gomas», armas, más de un millón en efectivo y toneladas de droga
+
+Lanchas conocidas como «gomas» surcando el Mediterráneo, camiones cargados con miles de kilos de hachís, cocaína transportada a través de rutas marítimas, buques mercantes procedentes del sur de América, más de un millón de euros en efectivo , armas de fuego y silenciadores. Y una investigación que conecta Mallorca, Ib.
+
+Date: 2026-09-15
+
 ### China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología
 
 El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.
+
+Date: 2026-09-14
+
+### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
+
+El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
 
 Date: 2026-09-14
 
@@ -38,12 +56,6 @@ El presidente de Estados Unidos , Donald Trump , ha anunciado este lunes que Rus
 
 Date: 2026-09-14
 
-### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
-
-El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
-
-Date: 2026-09-14
-
 ### Europa tira de garra y gana a Estados Unidos la Solheim Cup
 
 ¡Qué bonito es el 'match-play' por equipos! Los aficionados al golf tienen la fortuna de vivir cada año competiciones como la Ryder Cup y la Solheim, que durante tres días mantienen en vilo a los espectadores de todo el planeta con unos resultados siempre inciertos. Este año la alegría, no exenta de sufrimiento, se la.
@@ -56,23 +68,9 @@ Date: 2026-09-13
 
 Date: 2026-09-13
 
-### Fragmento del día: Nueva York
-
-en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.
-
-Date: 2026-09-13
-
-### Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave
-
-Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.
-
-Date: 2026-09-12
-
 ## Fuentes
 
 - [China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología](https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com) — 2026-09-14T10:16:39.000Z
-- [El temor a un freno en la IA desata caídas en el sector de hasta el 12%](https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html?utm_source=lootura.com) — 2026-09-14T16:18:30.000Z
-- [China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación](https://www.lavanguardia.com/vida/20260914/11634287/china-defiende-ia-orientada-opone-narrativas-amenaza-confrontacion.html?utm_source=lootura.com) — 2026-09-14T10:45:14.000Z
-- [El Vaticano reivindica el papel “profético” de León XIV ante la alarma por la IA](https://www.lavanguardia.com/vida/20260914/11634359/vaticano-reivindica-papel-profetico-leon-xiv-alarma-ia.html?utm_source=lootura.com) — 2026-09-14T13:01:15.000Z
-- [Trump anuncia que Rusia y Ucrania dejarán de atacar sus infraestructuras energéticas](https://theobjective.com/internacional/2026-09-14/trump-rusia-ucrania-infraestructuras-energeticas/?utm_source=lootura.com) — 2026-09-14T16:11:22.000Z
+- [La Fed discute un alza de tipos y encara un choque frontal con Trump](https://www.expansion.com/mercados/2026/09/15/6aa83e85e5fdea31028b4575.html?utm_source=lootura.com) — 2026-09-15T00:15:13.000Z
+- [Los secretos del auto sobre la trama de Mallorca: «gomas», armas, más de un millón en efectivo y toneladas de droga](https://okdiario.com/baleares/secretos-del-auto-sobre-trama-mallorca-gomas-armas-mas-millon-efectivo-toneladas-droga-20281635?utm_source=lootura.com) — 2026-09-15T02:00:18.000Z
 - [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z

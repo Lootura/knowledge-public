@@ -70,4 +70,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El Tarajal es el actual Perejil](https://okdiario.com/opinion/tarajal-actual-perejil-20287536?utm_source=lootura.com) — 2026-09-14T17:00:56.000Z
+No public source links.

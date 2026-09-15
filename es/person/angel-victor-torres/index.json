@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.json",
   "description": "Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-13T22:05:54.092Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Víctor",
     "Ángel"
   ],
   "changes": [
+    {
+      "title": "Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes",
+      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha reclamado que se entre «en el fondo» de la llamada ‘Ley de Nietos’ , suspendida la semana pasada de manera cautelar por parte del Tribunal Supremo, y que haya una sentencia «cuanto antes» para garantizar los derechos de los descendiente.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Al menos 5.300 inmigrantes regresan a Marruecos y casi cien renuncian al asilo",
       "summary": "Más de 5.300 inmigrantes han vuelto voluntariamente a Marruecos desde el pasado 10 de agosto y casi un centenar han renunciado a la petición de asilo en España, ha asegurado este domingo el ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres . «Ya tenemos personas cuyos expedientes se han termin.",
@@ -58,13 +63,15 @@
       "title": "Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio",
       "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha elevado a unas 80.000 las personas inmigrantes que entraron en Ceuta.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Ángel Víctor Torres eleva a 80.000 los migrantes que entraron en Ceuta los días 30 y 31 de julio",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado en cerca de 80.000 las personas que cruzaron a Ceuta desde Marruecos los días 30 y 31 de julio. Asimismo, ha anunciado un refuerzo de recursos para atender a los alrededor de 1.400 menores ya documentados, con la reunificación f.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes",
+      "url": "https://theobjective.com/espana/politica/2026-09-14/torres-resolver-ley-nietos-garantizar-derechos-descendientes/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T18:39:34.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
@@ -66,6 +66,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "La Comunidad de Madrid levanta la suspensión de Vallecas y el Rayo volverá a jugar en casa",
+      "url": "https://theobjective.com/deportes/futbol/2026-09-14/comunidad-madrid-levanta-suspension-vallecas/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T19:14:50.000Z",
+      "sourceId": "lootura-es-the-objective"
+    },
     {
       "title": "Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región",
       "url": "https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com",

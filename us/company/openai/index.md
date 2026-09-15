@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Is Big Tech’s AI slowdown a safety pact or a cartel?
+
+When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at le.
+
+Date: 2026-09-14
 
 ### Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
 
@@ -62,12 +68,7 @@ Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tu
 
 Date: 2026-09-11
 
-### The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem
-
-Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [NPR looked for ChatGPT's new crisis feature. It's hard to find](https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com) — 2026-09-14T09:00:00.000Z
+- [Trump says U.S. needs a "high IQ" president to handle AI](https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com) — 2026-09-14T22:37:28.000Z
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com) — 2026-09-14T22:59:41.000Z

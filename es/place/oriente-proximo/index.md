@@ -3,20 +3,32 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
 
-### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
+### La presión extra del precio del fuel pone en jaque a las aerolíneas al cierre de la temporada alta
 
-Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamiento del petróleo de la región Leer.
+La vuelta de tuerca al conflicto en Oriente Próximo y a la crisis energética, con la salida de petróleo por el Mar Rojo amenazada y el consiguiente cierre del oleoducto saudí de Yanbu , supone un nuevo golpe a la sostenibilidad del sector aéreo a corto plazo. La aerolínea pública letona Air Baltic (88% del Estado y un.
 
-Date: 2026-09-14
+Date: 2026-09-15
+
+### Cómo entender la escalada de los bonos, con el de EEUU retando el 5%
+
+Las renovadas tensiones en Oriente Próximo y el nuevo encarecimiento de los precios de la energía han hecho temer de nuevo al mercado que el endurecimiento de la política monetaria, para contener la inflación, sea mayor del inicialmente previsto. Seguir leyendo.
+
+Date: 2026-09-15
 
 ### Tormenta en los mercados de deuda: se dispara el bono de EEUU y el de España supera el 4% por primera vez desde 2013
 
 La escalada en Oriente Próximo y la presión del crudo empujan al alza a los bonos soberanos ante la perspectiva de más inflación y subida duradera de tipos de interés Leer.
+
+Date: 2026-09-14
+
+### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
+
+Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamiento del petróleo de la región Leer.
 
 Date: 2026-09-14
 
@@ -56,19 +68,8 @@ Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo 
 
 Date: 2026-09-08
 
-### El Ibex modera las caídas a la espera de Wall Street
-
-Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
-
-Date: 2026-09-08
-
-### El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo
-
-No hay lugar para la tregua en Oriente Próximo y la tensión bélica se traslada directamente al alza del precio del petróleo. Al bombardeo de petroleros iraníes de EE UU de este fin de seman a, en respuesta a los ataques de Teherán, se suma hoy el ataque de los hutíes de Yemen, respaldados por Irán, a instalaciones ener.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo](https://www.elmundo.es/internacional/2026/09/13/6aa6d528e85eceda128b459d.html?utm_source=lootura.com) — 2026-09-14T06:21:38.000Z
+- [La presión extra del precio del fuel pone en jaque a las aerolíneas al cierre de la temporada alta](https://cincodias.elpais.com/companias/2026-09-15/la-presion-extra-del-precio-del-fuel-pone-en-jaque-a-las-aerolineas-al-cierre-de-la-temporada-alta.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z
 - [Tormenta en los mercados de deuda: se dispara el bono de EEUU y el de España supera el 4% por primera vez desde 2013](https://www.elmundo.es/economia/empresas/2026/09/14/6aa812a1e85eced5038b459b.html?utm_source=lootura.com) — 2026-09-14T15:28:47.000Z
+- [Cómo entender la escalada de los bonos, con el de EEUU retando el 5%](https://www.expansion.com/mercados/renta-fija/2026/09/15/6aa845a9468aebf83d8b4571.html?utm_source=lootura.com) — 2026-09-15T00:15:12.000Z

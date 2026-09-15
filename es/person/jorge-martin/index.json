@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.json",
   "description": "Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-10T01:28:14.997Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Jorge",
     "Jorge Martin Almoguera",
@@ -32,6 +32,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "El rey está de vuelta: Márquez culmina una remontada de más de 100 puntos y ya es líder de MotoGP",
+      "url": "https://okdiario.com/deportes/rey-esta-vuelta-marquez-culmina-remontada-mas-100-puntos-ya-lider-motogp-20287418?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T19:34:42.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

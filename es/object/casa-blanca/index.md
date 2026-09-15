@@ -3,20 +3,20 @@
 > Sigue la actividad de mansión exclusiva en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/object/casa-blanca
 
 ## Cambios recientes
 
-### Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende
-
-Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.
-
-Date: 2026-09-14
-
 ### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
 
 El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
+
+Date: 2026-09-14
+
+### Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende
+
+Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.
 
 Date: 2026-09-14
 
@@ -70,5 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende](https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com) — 2026-09-14T06:22:24.000Z
 - [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z

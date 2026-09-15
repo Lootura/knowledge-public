@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/prime-video/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/prime-video/index.json",
   "description": "Sigue la actividad de Prime Video en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T02:58:00.569Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Amazon Instant Video",
     "Amazon Unbox",
@@ -16,6 +16,11 @@
     "Amazon Video On Demand"
   ],
   "changes": [
+    {
+      "title": "Amazon copia a TikTok con una función nueva en Prime Video",
+      "summary": "Prime Video ha lanzado una nueva función con la que planea competir con plataformas como TikTok. La plataforma de streaming implementó una sección con vídeos cortos de unos cuantos segundos. El objetivo es atraer a una nueva audiencia que busca algo más que ver una serie o película dentro de la aplicación para móviles.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Ester Expósito, contra los bulos y denuncia la falta de regulación de la IA:«Me da terror»",
       "summary": "La nueva película de Ester Expósito se estrenó hace solo dos días y ya es uno de los contenidos más vistos de Prime Video. La actriz protagoniza, junto a Hugo Diego García, 'Enfrentados: Marfil', la adaptación de la dilogía de Mercedes Ron, autora de la saga 'Culpables', que tantos éxitos le ha brindado a la plataforma.",
@@ -60,13 +65,15 @@
       "title": "Prime Video recibe este anime de fantasía que se estrenó en 2018 y fue nominado a un premio Óscar",
       "summary": "Hablar de Mamoru Hosoda es hablar de uno de los nombres más importantes del anime actual. A menudo se le compara con el espíritu de Studio Ghibli , y no es para menos, pero la verdad es que Hosoda tiene un estilo propio . Lo suyo es coger temas cotidianos, como la familia, la identidad o el impacto de hacerse mayor, y.",
       "date": "2026-08-05"
-    },
-    {
-      "title": "'Supergirl' la semana que viene en Prime Video en digital: precio y packs",
-      "summary": "Todavía tienen mucho que decir , pero por el momento y tras tan solo 2 películas, James Gunn y Peter Safran no ha sido los tan solicitados salvadores del universo cinematográfico de DC que se esperaba, aunque su saldo por ahora es neutro. Y es que si bien la Superman de 2025 llegó a convertirse en la película del Hombr.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Amazon copia a TikTok con una función nueva en Prime Video",
+      "url": "https://hipertextual.com/cine-television/prime-video-lanza-videos-cortos-tiktok/?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T00:02:12.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

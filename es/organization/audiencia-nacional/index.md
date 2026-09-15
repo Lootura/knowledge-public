@@ -3,10 +3,16 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Doble portazo de la Audiencia Nacional al considerado como el narcoabogado de la trama de los Tribuns: sin vista, sin fianza y sin libertad
+
+Primero pidió una vista. Después intentó combatir las resoluciones que mantenían su situación en prisión provisional. Cuestionó los indicios reunidos durante la investigación, denunció errores en algunas transcripciones, alegó la posible vulneración del secreto profesional y defendió que determinadas conversaciones int.
+
+Date: 2026-09-15
 
 ### La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno
 
@@ -62,14 +68,9 @@ Ocurrió en octubre de 2024. Un mes después de haber sido detenido Mehdi Hijaou
 
 Date: 2026-09-08
 
-### El exCEO de Plus Ultra insiste en que la cúpula sabía que Zapatero era el destino final de la comisión del 1% por el rescate
-
-El ex consejero delegado de Plus Ultra, Roberto Roselli, ha confirmado este martes en la Audiencia Nacional que la cúpula de la aerolínea sabía que el bolsillo del expresidente del Gobierno, José Luis Rodríguez Zapatero, era el destino final de la comisión ilegal de 530.000 euros pagada a su amigo, el empresario Julio.
-
-Date: 2026-09-08
-
 ## Fuentes
 
 - [La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno](https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html?utm_source=lootura.com) — 2026-09-14T11:20:11.000Z
 - [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html?utm_source=lootura.com) — 2026-09-14T16:55:25.000Z
+- [Doble portazo de la Audiencia Nacional al considerado como el narcoabogado de la trama de los Tribuns: sin vista, sin fianza y sin libertad](https://okdiario.com/baleares/doble-portazo-audiencia-nacional-considerado-como-narcoabogado-trama-sin-vista-sin-fianza-sin-libertad-20282125?utm_source=lootura.com) — 2026-09-15T02:00:24.000Z
 - [Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia](https://theobjective.com/espana/tribunales/2026-09-14/zapatero-udef-informe-bolivia/?utm_source=lootura.com) — 2026-09-14T17:21:08.000Z

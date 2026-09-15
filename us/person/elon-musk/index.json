@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Developer ecosystem expanded",
       "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.",
@@ -55,13 +60,21 @@
       "title": "Funding milestone detected",
       "summary": "“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. Th.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
-      "summary": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companies Elon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their workers. Musk’s $158.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump says U.S. needs a \"high IQ\" president to handle AI",
+      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:37:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

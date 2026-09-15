@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La ONU alerta del peligro de la IA y pide regularla: "Todos los derechos humanos están en riesgo"](https://www.eldiario.es/tecnologia/onu-alerta-peligro-ia-pide-regularla-derechos-humanos-riesgo_1_13508447.html?utm_source=lootura.com) — 2026-09-14T13:00:46.000Z
-- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z
+No public source links.

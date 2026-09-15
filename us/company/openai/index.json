@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
@@ -58,20 +63,21 @@
       "title": "Developer ecosystem expanded",
       "summary": "Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tuesday, accusing the company and rival developer and ChatGPT-maker OpenAI of \"gambling with our lives\" by racing to develop advanced AI models. He spoke with Jo Ling Kent about his decision to resign and why he feels AI could one day threate.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem",
-      "summary": "Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Trump says U.S. needs a \"high IQ\" president to handle AI",
+      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:37:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

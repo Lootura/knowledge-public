@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions",
+      "summary": "It’s the first public report on the ongoing war started Feb. 28 by the U.S. and Israel.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.",
+      "summary": "President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
       "summary": "In an interview with CBS’ “60 Minutes,” one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal.",
@@ -55,37 +65,21 @@
       "title": "On board a warship headed to support the war in Iran",
       "summary": "The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
-      "summary": "Hunger and disease have tormented Yemen for years. Now, fighting between the Saudi-backed government and Iran-backed Houthis is pushing it to the brink.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-      "summary": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
-      "url": "https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T01:51:05.000Z",
+      "title": "Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:28:06.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "US airman recounts Iran rescue in 60 Minutes segment branded propaganda",
-      "url": "https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:17:10.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs",
-      "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:46:17.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.",
+      "url": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T19:58:01.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

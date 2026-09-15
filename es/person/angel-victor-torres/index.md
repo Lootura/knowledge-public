@@ -3,10 +3,16 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes
+
+El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha reclamado que se entre «en el fondo» de la llamada ‘Ley de Nietos’ , suspendida la semana pasada de manera cautelar por parte del Tribunal Supremo, y que haya una sentencia «cuanto antes» para garantizar los derechos de los descendiente.
+
+Date: 2026-09-14
 
 ### Al menos 5.300 inmigrantes regresan a Marruecos y casi cien renuncian al asilo
 
@@ -62,12 +68,6 @@ El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torr
 
 Date: 2026-08-10
 
-### Ángel Víctor Torres eleva a 80.000 los migrantes que entraron en Ceuta los días 30 y 31 de julio
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha cifrado en cerca de 80.000 las personas que cruzaron a Ceuta desde Marruecos los días 30 y 31 de julio. Asimismo, ha anunciado un refuerzo de recursos para atender a los alrededor de 1.400 menores ya documentados, con la reunificación f.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes](https://theobjective.com/espana/politica/2026-09-14/torres-resolver-ley-nietos-garantizar-derechos-descendientes/?utm_source=lootura.com) — 2026-09-14T18:39:34.000Z

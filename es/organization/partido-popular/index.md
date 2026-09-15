@@ -3,20 +3,44 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
+### Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años
 
-El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
+El PSIB-PSOE ha solicitado al Govern de Baleares que dicte una serie de directrices que preserven la marina tradicional, como tarifas sociales y asequibles o zonas y regímenes de gestión en los puertos reservados para entidades sin ánimo de lucro vinculadas a esta rama de la náutica. Los socialistas han hecho este lune.
 
-Date: 2026-09-14
+Date: 2026-09-15
 
 ### El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP
 
 Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP (25,5%) Leer.
+
+Date: 2026-09-14
+
+### Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves
+
+«Se acabó eso de regalar pasaportes». El Partido Popular prepara una proposición de Ley orgánica para endurecer los requisitos de acceso a la nacionalidad española....
+
+Date: 2026-09-14
+
+### Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»
+
+El portavoz del Grupo Socialista en el Congreso, Patxi López , ha aprovechado su presencia este lunes en Albacete capital, visita que coincide con la asistencia del líder del PP , Alberto Núñez Feijóo , al Recinto Ferial de la ciudad, para cargar contra el jefe de los ‘populares’ por no mostrar educación y dedicarse a.
+
+Date: 2026-09-14
+
+### Moreno denuncia la «indolencia» de Sánchez y le acusa de «no dar la cara» ante la «invasión»
+
+El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, ha denunciado este lunes la «indolencia arrogante» del presidente del Gobierno, Pedro.
+
+Date: 2026-09-14
+
+### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
+
+El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
 
 Date: 2026-09-14
 
@@ -44,33 +68,10 @@ El coordinador general de Política Autonómica y Municipal y Análisis Electora
 
 Date: 2026-09-13
 
-### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
-
-El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
-
-Date: 2026-09-13
-
-### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
-
-Tras los acuerdos autonómicos entre PP y Vox, las relaciones entre ambas formaciones y Alberto Núñez Feijóo y Santiago Abascal se han reforzado hasta tal punto que, fuentes cercanas a ambos líderes señalan que el contacto es “permanente” en las últimas semanas con motivo de la crisis de Ceuta, donde más de 70.000 inmig.
-
-Date: 2026-09-12
-
-### El PP ve en la dimisión de Sanz la prueba de que el Gobierno "miente" con Ceuta y avisa a Marruecos: "Con España no se juega"
-
-La crisis migratoria de Ceuta sigue acaparando el debate político en España. Este sábado, el portavoz nacional del Partido Popular, Borja Sémper , ha comparecido para arremeter contra el Gobierno del PSOE y la gestión que está haciendo de la situación, acusándolo de "mentir". En una intervención en Vigo, Sémper ha acus.
-
-Date: 2026-09-12
-
-### Feijóo ata en corto a sus barones y centraliza en Génova el rumbo del PP ante la "batalla final" contra Sánchez
-
-Siete barones autonómicos, decenas de diputados, eurodiputados y senadores y la cúpula nacional al completo se dieron cita el pasado lunes en el Hotel Four Seasons de Madrid para arropar al presidente de Ceuta, en un acto presidido por Alberto Núñez Feijóo . Es un despliegue poco habitual en eventos de este tipo, una i.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos](https://www.elconfidencial.com/espana/2026-09-14/tezanos-cis-psoe-pp-recortan-distancia-crisis-ceuta_4423304/?utm_source=lootura.com) — 2026-09-14T10:31:00.000Z
+- [Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves](https://amp.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html?utm_source=lootura.com) — 2026-09-14T20:44:53.000Z
 - [El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP](https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html?utm_source=lootura.com) — 2026-09-14T11:22:32.000Z
-- ["La vergüenza de Oviedo": David Uclés pide la dimisión del alcalde de la ciudad por restar importancia a una agresión fascista en las fiestas](https://www.eldiario.es/rastreador/verguenza-oviedo-david-ucles-pide-dimision-alcalde-ciudad-restar-importancia-agresion-fascistas-fiestas_132_13509043.html?utm_source=lootura.com) — 2026-09-14T15:41:28.000Z
-- [El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente”](https://www.eldiario.es/asturias/izquierda-exige-alcalde-oviedo-rectificar-justificar-agresion-fascista-no-creo-sean-mala-gente_1_13507513.html?utm_source=lootura.com) — 2026-09-14T09:57:53.000Z
+- [Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años](https://okdiario.com/baleares/grave-brote-amnesia-del-psoe-balear-exige-pp-proteger-barcas-tradicionales-ignorarlas-11-anos-20287594?utm_source=lootura.com) — 2026-09-15T02:00:58.000Z
+- [Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»](https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com) — 2026-09-14T18:24:58.000Z
+- [Moreno denuncia la «indolencia» de Sánchez y le acusa de «no dar la cara» ante la «invasión»](https://theobjective.com/espana/politica/2026-09-14/moreno-sanchez-no-dar-cara-invasion/?amp=&utm_source=lootura.com) — 2026-09-14T21:44:29.000Z

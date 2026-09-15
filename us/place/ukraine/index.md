@@ -3,10 +3,16 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure
+
+His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.
+
+Date: 2026-09-14
 
 ### Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies
 
@@ -62,12 +68,6 @@ How do we form a picture of conflicts? A new study published in the journal Natu
 
 Date: 2026-09-10
 
-### Lithuanian civilians, including children, training for possible Russian attacks
-
-Lithuania is preparing citizens in case the Russia-Ukraine war spreads to their country. CBS News national security analyst Aaron MacLean has the latest.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies](https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html?utm_source=lootura.com) — 2026-09-14T16:34:19.000Z
+- [Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure](https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com) — 2026-09-14T21:57:49.000Z

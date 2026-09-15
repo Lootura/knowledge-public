@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -26,8 +26,23 @@
   ],
   "changes": [
     {
+      "title": "La Fed discute un alza de tipos y encara un choque frontal con Trump",
+      "summary": "El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras \"una buena pelea familiar\". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.",
+      "date": "2026-09-15"
+    },
+    {
       "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
       "summary": "El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
+      "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
+      "summary": "El Gobierno de Donald Trump ha dado este lunes uno de sus principales pasos para desmantelar la regulación medioambiental de sus antecesores: la Agencia de Protección Medioambiental (EPA, en sus siglas en inglés) ha eliminado los límites sobre emisiones de gases de efecto invernadero provenientes de plantas energéticas.",
       "date": "2026-09-14"
     },
     {
@@ -51,11 +66,6 @@
       "date": "2026-09-14"
     },
     {
-      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
-      "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
-      "date": "2026-09-14"
-    },
-    {
       "title": "Rahm asiste al festival de Lowry, que recibe la felicitación de Trump en Doonbeg",
       "summary": "El de Barrika (-4) maquilla su concurso en un Open de Irlanda que domina el ídolo local, que se queda a un golpe de batir el récord del vizcaíno (-24).",
       "date": "2026-09-13"
@@ -64,24 +74,14 @@
       "title": "Bofetada a Reino Unido: Trump defiende la unificación de Irlanda y pone en cuestión la soberanía británica de las Malvinas",
       "summary": "Sus declaraciones se producen tras reunirse con el primer ministro irlandés, Micheál Martin Leer.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave",
-      "summary": "Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Farage discrepa con Trump sobre la reunificación de Irlanda",
-      "summary": "El líder del partido ultraderechista Reform UK, Nigel Farage, ha criticado las palabras el presidente estadounidense, Donald Trump, en apoyo a la.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "Rahm asiste al festival de Lowry, que recibe la felicitación de Trump en Doonbeg",
-      "url": "https://www.elcorreo.com/deportes/golf/rahm-asiste-festival-lowry-recibe-felicitacion-trump-20260913200824-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-13T18:08:24.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
+      "url": "https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:49:27.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
@@ -90,28 +90,10 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Trump descarta nuevas regulaciones para la IA: \"Hay una conspiración enfermiza\"",
-      "url": "https://www.eldiario.es/internacional/trump-descarta-nuevas-regulaciones-ia-hay-conspiracion-enfermiza_1_13508835.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:16:07.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Trump califica de “conspiración enfermiza” la oposición a la IA y dice que él es la barrera de protección",
-      "url": "https://www.lavanguardia.com/vida/20260914/11634644/trump-califica-conspiracion-enfermiza-oposicion-ia-dice-barrera-proteccion.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T15:24:56.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York",
-      "url": "https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:01:57.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Trump anuncia que Rusia y Ucrania dejarán de atacar sus infraestructuras energéticas",
-      "url": "https://theobjective.com/internacional/2026-09-14/trump-rusia-ucrania-infraestructuras-energeticas/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:11:22.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "La Fed discute un alza de tipos y encara un choque frontal con Trump",
+      "url": "https://www.expansion.com/mercados/2026/09/15/6aa83e85e5fdea31028b4575.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T00:15:13.000Z",
+      "sourceId": "lootura-es-expansion"
     },
     {
       "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
@@ -120,5 +102,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 4
 }

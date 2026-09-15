@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.json",
   "description": "Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [],
   "changes": [
     {
@@ -19,6 +19,11 @@
     {
       "title": "‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says",
       "summary": "The Department of Homeland Security’s internal watchdog provided new details about conditions at the now-shuttered Florida detention center.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Why Is D.H.S. Getting Involved in Elections?",
+      "summary": "The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.",
       "date": "2026-09-14"
     },
     {
@@ -44,7 +49,13 @@
       "url": "https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html?utm_source=lootura.com",
       "publishedAt": "2026-09-14T14:23:27.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Why Is D.H.S. Getting Involved in Elections?",
+      "url": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T19:10:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

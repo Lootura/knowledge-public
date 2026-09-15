@@ -3,20 +3,26 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
 
-### Apple tiene un nuevo producto en marcha y ni por asomo te imaginas lo que es
-
-Mes grande en Apple: tras la presentación de los iPhone Duo , iPhone 18 Pro, los nuevos Apple Watch y el lanzamiento de sus sistemas operativos, la compañía no descansa. Apple está preparando un producto totalmente nuevo, y no es de ninguna de las categorías de las que generalmente corren rumores. Ni hogar conectado ni.
-
-Date: 2026-09-14
-
 ### iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles
 
 Tras la presentación de los iPhone 18 Pro y el iPhone Duo, Apple ha cumplido con su promesa y acaba de lanzar la actualización a iOS 27 . Desde ahora, puedes instalar la versión estable del nuevo sistema operativo en cualquier iPhone compatible. En simultáneo, los de Cupertino están lanzando iPadOS 27, macOS 27, watchO.
+
+Date: 2026-09-14
+
+### 'The Pitt' vuelve a triunfar en unos Emmy rendidos a 'La maldición de Widow's Bay' en una noche emotiva
+
+Los Premios Emmy 2026 han cumplido todas las quinielas posibles: The Pitt [HBO Max] se ha certificado como el drama médico de nuestra era, La maldición de Widow's Bay [Apple TV] ha arrasado en la categoría de comedia con su mezcla de humor y terror y la miniserie DTF St. Louis [HBO Max] ha confirmado su tirón como uno.
+
+Date: 2026-09-14
+
+### Apple tiene un nuevo producto en marcha y ni por asomo te imaginas lo que es
+
+Mes grande en Apple: tras la presentación de los iPhone Duo , iPhone 18 Pro, los nuevos Apple Watch y el lanzamiento de sus sistemas operativos, la compañía no descansa. Apple está preparando un producto totalmente nuevo, y no es de ninguna de las categorías de las que generalmente corren rumores. Ni hogar conectado ni.
 
 Date: 2026-09-14
 
@@ -62,13 +68,7 @@ Apple presentó el iPhone en 2007. Sus nuevas versiones fueron cambiando su inte
 
 Date: 2026-09-09
 
-### iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada
-
-Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max , Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el debut de Siri AI como gran novedad, tras las muy buenas sensaciones que ha dejado.
-
-Date: 2026-09-09
-
 ## Fuentes
 
-- [Apple tiene un nuevo producto en marcha y ni por asomo te imaginas lo que es](https://hipertextual.com/tecnologia/apple-tiene-un-nuevo-producto-en-marcha-y-ni-por-asomo-te-imaginas-lo-que-es/?utm_source=lootura.com) — 2026-09-14T10:48:22.000Z
+- ['The Pitt' vuelve a triunfar en unos Emmy rendidos a 'La maldición de Widow's Bay' en una noche emotiva](https://www.20minutos.es/cinemania/series/premios-emmy-2026-directo-ultimas-noticias-gala-series-estrellas-television_7036620_6.html?utm_source=lootura.com) — 2026-09-14T21:01:17.000Z
 - [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/alberto-nunez-feijoo/index.json",
   "description": "Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-13T03:06:16.499Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "Alberto",
     "Alberto Nuñez",
@@ -22,6 +22,16 @@
     "Núñez Feijóo"
   ],
   "changes": [
+    {
+      "title": "Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves",
+      "summary": "«Se acabó eso de regalar pasaportes». El Partido Popular prepara una proposición de Ley orgánica para endurecer los requisitos de acceso a la nacionalidad española....",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»",
+      "summary": "El portavoz del Grupo Socialista en el Congreso, Patxi López , ha aprovechado su presencia este lunes en Albacete capital, visita que coincide con la asistencia del líder del PP , Alberto Núñez Feijóo , al Recinto Ferial de la ciudad, para cargar contra el jefe de los ‘populares’ por no mostrar educación y dedicarse a.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP",
       "summary": "El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...",
@@ -61,18 +71,21 @@
       "title": "Feijóo avisa a Marruecos: “Si hay que aplicar el artículo 8 de la Constitución, lo haré”",
       "summary": "Alberto Núñez Feijóo ha continuado desgranando este martes medidas para hacer frente a la crisis de Ceuta y ha asegurado que si llega a la presidencia del Gobierno activará el artículo 8 de la Constitución para blindar la soberanía española si Marruecos intenta invadir la ciudad autónoma tras la entrada masiva de inmig.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "El Gobierno no ve pruebas contra Marruecos y pide a Feijóo no alentar “teorías conspiranoicas”",
-      "summary": "“No tenemos nada que esconder y actuamos con transparencia”, ha advertido la portavoz del Gobierno, Elma Saiz, después de que el Consejo de Ministros haya aprobado este martes la desclasificación de “todos” los informes que obran en su poder, e incluso las comunicaciones internas entre distintos departamentos gubername.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "\"Señor presidente, ¿cómo va a seguir gobernando?\": la pregunta que une a Feijóo y Rufián marca el final en el Congreso",
-      "summary": "El curso parlamentario arranca con un asedio total al Gobierno de Pedro Sánchez Leer.",
-      "date": "2026-09-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves",
+      "url": "https://amp.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:44:53.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»",
+      "url": "https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T18:24:58.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

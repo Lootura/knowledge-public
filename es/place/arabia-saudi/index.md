@@ -70,4 +70,4 @@ Date: 2026-08-09
 
 ## Fuentes
 
-- [Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo](https://www.elmundo.es/internacional/2026/09/13/6aa6d528e85eceda128b459d.html?utm_source=lootura.com) — 2026-09-14T06:21:38.000Z
+No public source links.

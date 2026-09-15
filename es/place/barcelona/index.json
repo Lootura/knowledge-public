@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,11 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Jornada 5 de la Liga: resumen de todos los partidos",
+      "summary": "La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales",
       "summary": "La compañía de fabricación de satélites Open Cosmos, fundada en Barcelona en 2015 por Rafel Jordà, ha logrado cerrar una ronda de financiación de 300 millones de euros para ampliar su capacidad de fabricación en serie de satélites espaciales, y para acelerar el despliegue de servicios de inteligencia y conectividad a t.",
@@ -65,26 +70,15 @@
       "title": "Levante - Barcelona, en directo | Sigue en vivo online el resultado y la última hora del partido de la Liga hoy",
       "summary": "Sigue en directo y en vivo online el resultado, goles y minuto a minuto del Levante - Barcelona de la Liga.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Jornada 5 de la Liga: resumen de todos los partidos",
-      "summary": "La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.",
-      "date": "2026-09-13"
     }
   ],
   "sources": [
     {
-      "title": "Open Cosmos logra captar 300 millones de financiación para ampliar la fabricación en serie de sus satélites espaciales",
-      "url": "https://cincodias.elpais.com/companias/2026-09-14/open-cosmos-logra-captar-300-millones-de-financiacion-para-ampliar-la-fabricacion-en-serie-de-sus-satelites-espaciales.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T13:00:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Cómo comprar entradas para la Supercopa de España de baloncesto 2026 y cuánto cuestan",
-      "url": "https://okdiario.com/deportes/como-comprar-entradas-supercopa-espana-baloncesto-2026-cuanto-cuestan-20287838?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:41:08.000Z",
+      "title": "Jornada 5 de la Liga: resumen de todos los partidos",
+      "url": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T21:14:31.000Z",
       "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

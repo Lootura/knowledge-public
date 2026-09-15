@@ -3,20 +3,20 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
 
-### La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia
-
-Lo que podría ser una historia más de una relación nacida en Tinder, acabó provocando una alerta de seguridad en la OTAN y una investigación a un militar español. Todo comenzó a finales de 2024, según relata el diario británico The Thelegraph, cuando el oficial español estaba destinado en la base de la Alianza Atlántic.
-
-Date: 2026-09-14
-
 ### La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN
 
 El romance de un comandante español de la OTAN con una ciudadana de origen ruso a la que conoció por Tinder ha sacudido a la Alianza Atlántica . El militar, que estaba destinado en la base británica de Northwood —el centro principal de mando para todas las operaciones navales de la Alianza— fue investigado por los serv.
+
+Date: 2026-09-14
+
+### La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia
+
+Lo que podría ser una historia más de una relación nacida en Tinder, acabó provocando una alerta de seguridad en la OTAN y una investigación a un militar español. Todo comenzó a finales de 2024, según relata el diario británico The Thelegraph, cuando el oficial español estaba destinado en la base de la Alianza Atlántic.
 
 Date: 2026-09-14
 
@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia](https://www.abc.es/espana/otan-retira-acreditacion-militar-espanol-mantenia-relacion-20260914174418-nt.html?utm_source=lootura.com) — 2026-09-14T17:21:49.000Z
 - [La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN](https://elpais.com/internacional/2026-09-14/la-relacion-por-tinder-de-un-militar-espanol-con-una-mujer-de-origen-ruso-desata-una-investigacion-por-espionaje-en-la-otan.html?utm_source=lootura.com) — 2026-09-14T14:45:49.000Z

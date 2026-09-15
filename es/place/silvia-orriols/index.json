@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/silvia-orriols/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/silvia-orriols/index.json",
   "description": "Sigue la actividad de Sílvia Orriols en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T02:58:00.569Z",
+  "updatedAt": "2026-09-15T03:21:35.336Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales",
+      "summary": "Juntos, pero no revueltos. Aliança Catalana se alegra, pero lo justo, de la victoria aplastante de la ultraderechista AfD en Sajonia-Anhalt . El partido que preside Sílvia Orriols había abierto un canal de comunicación con la formación alemana en 2024, aunque ahora recela de su ideario. Su responsable de Internacional,.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Sílvia Orriols first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-10"
+    },
     {
       "title": "Tensión entre grupos independentistas en el acto de Sílvia Orriols previo a la Diada: \"Hemos venido a salvar Cataluña\"",
       "summary": "Aliança Catalana hace su ofrenda en el Fossar de les Moreres ante la oposición de grupos afines a la CUP / Los Mossos intervienen y Orriols sale escoltada Leer.",
@@ -20,13 +30,15 @@
       "title": "Cargas policiales en la víspera de la Diada por las protestas contra el acto de Aliança Catalana",
       "summary": "Las protestas convocadas por la izquierda independentista contra el acto de la líder de Aliança Catalana , Sílvia Orriols , en el barrio del Born de Barcelona han derivado en momentos de tensión y cargas policiales . Orriols y decenas de militantes y simpatizantes de su partido han realizado este jueves la tradicional.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Sílvia Orriols first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-15/orriols-distancia-ultras-de-afd-preservar-expectativas-electorales_4423632/?utm_source=lootura.com",
+      "publishedAt": "2026-09-15T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

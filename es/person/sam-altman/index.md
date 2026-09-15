@@ -34,5 +34,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende](https://www.elmundo.es/economia/empresas/2026/09/14/6a78c7f3e9cf4aa23d8b457c.html?utm_source=lootura.com) — 2026-09-14T06:22:24.000Z
-- [Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?](https://theconversation.com/las-grandes-companias-de-ia-quieren-echar-el-freno-es-una-pausa-por-motivos-de-seguridad-o-mas-bien-una-retirada-estrategica-291901?utm_source=lootura.com) — 2026-09-14T11:24:13.000Z
+No public source links.

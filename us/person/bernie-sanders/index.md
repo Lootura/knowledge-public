@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.
+
+The two men will appear separately at an event calling for a “pro-human” approach to A.I. as warnings mount from the industry and the technology’s danger becomes a midterm issue.
+
+Date: 2026-09-14
 
 ### Bernie Sanders-endorsed challenger defeats Providence mayor in a Democratic primary
 
@@ -46,4 +52,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.](https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html?utm_source=lootura.com) — 2026-09-14T21:31:09.000Z

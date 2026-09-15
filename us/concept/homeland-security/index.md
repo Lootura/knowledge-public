@@ -3,7 +3,7 @@
 > Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/concept/homeland-security
 
 ## Recent changes
@@ -17,6 +17,12 @@ Date: 2026-09-14
 ### ‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says
 
 The Department of Homeland Security’s internal watchdog provided new details about conditions at the now-shuttered Florida detention center.
+
+Date: 2026-09-14
+
+### Why Is D.H.S. Getting Involved in Elections?
+
+The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.
 
 Date: 2026-09-14
 
@@ -36,3 +42,4 @@ Date: 2026-09-03
 
 - [Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths](https://www.nbcnews.com/video/report-finds-alligator-alcatraz-held-immigrants-in-cages-the-size-of-phone-booths-269820997674?utm_source=lootura.com) — 2026-09-14T15:31:00.000Z
 - [‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says](https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html?utm_source=lootura.com) — 2026-09-14T14:23:27.000Z
+- [Why Is D.H.S. Getting Involved in Elections?](https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html?utm_source=lootura.com) — 2026-09-14T19:10:49.000Z

@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York](https://okdiario.com/espana/sanchez-busca-confrontar-nuevo-trump-citarse-mamdani-nueva-york-20288366?utm_source=lootura.com) — 2026-09-14T17:01:57.000Z
+No public source links.

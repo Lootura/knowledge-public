@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -36,6 +36,41 @@
   ],
   "changes": [
     {
+      "title": "Vance says 870K people suspected of COVID-era U.S. fraud barred from federal loans",
+      "summary": "A U.S. enforcement push, dubbed \"Heartland fraud surge,\" probed losses involving the Paycheck Protection Program and Economic Injury Disaster Loan program.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Maine's head prison chief on giving inmates second chances: \"I believe in redemption\"",
+      "summary": "This installment of \"Beg-Knows America\" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
+      "summary": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.",
+      "summary": "The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions",
+      "summary": "It’s the first public report on the ongoing war started Feb. 28 by the U.S. and Israel.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+      "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election. (Image credit: Patrick T. Fallon).",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "McConnell returns to the Senate for the first time since his June hospitalization",
+      "summary": "Republican Sen. Mitch McConnell of Kentucky has returned to the Senate after a long absence. The 94-year-old senator has not been to the U.S. Capitol since June 14, when he was hospitalized for a fall in his home.",
+      "date": "2026-09-14"
+    },
+    {
       "title": "Trump dismisses push for AI guardrails despite warnings from tech leaders",
       "summary": "President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a \"SMART PRESIDENT.\".",
       "date": "2026-09-14"
@@ -49,60 +84,13 @@
       "title": "Police departments work to \"change the culture\" by building relationships with underprivileged kids",
       "summary": "A nonprofit charity, in partnership with police departments, called Do the Right Thing honors the good works of students across the U.S. The Palm Springs chapter awarded 95 scholarships, helping underprivileged students achieve their dreams. Barry Petersen has the story.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Maine's head prison chief on giving inmates second chances: \"I believe in redemption\"",
-      "summary": "This installment of \"Beg-Knows America\" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
-      "summary": "In an interview with CBS’ “60 Minutes,” one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
-      "summary": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Trump returns home to drum up voter support for GOP candidates ahead of midterms",
-      "summary": "President Trump returns to the U.S. ready to rally on behalf of Republican candidates as the midterm election enters its crucial fall stretch.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-      "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants",
-      "summary": "Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.",
-      "summary": "The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
-      "title": "Trump dismisses push for AI guardrails despite warnings from tech leaders",
-      "url": "https://www.cbsnews.com/news/trump-dismisses-ai-regulation-tech-slowdown/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:06:18.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Vance says 870K people suspected of COVID-era US fraud barred from federal loans",
+      "title": "Vance says 870K people suspected of COVID-era U.S. fraud barred from federal loans",
       "url": "https://www.cbsnews.com/news/vance-todd-blanche-felony-fraud-cases-covid-era-loan-programs/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:10:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Police departments work to \"change the culture\" by building relationships with underprivileged kids",
-      "url": "https://www.cbsnews.com/video/police-departments-change-culture-relationships-underprivileged-kids/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T01:30:54.000Z",
+      "publishedAt": "2026-09-15T01:20:00.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -112,9 +100,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran",
-      "url": "https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T01:51:05.000Z",
+      "title": "Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T20:28:06.000Z",
       "sourceId": "lootura-us-nbc-news"
     },
     {
@@ -124,29 +112,23 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "Trump returns home to drum up voter support for GOP candidates ahead of midterms",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5966875/trump-returns-home-to-drum-up-voter-support-for-gop-candidates-ahead-of-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T08:43:36.000Z",
+      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T23:38:40.000Z",
       "sourceId": "lootura-us-npr-politics"
     },
     {
-      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T10:09:08.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "WATCH: McConnell returns to the Senate for the first time since his June hospitalization",
+      "url": "https://www.pbs.org/newshour/politics/watch-mcconnell-returns-to-the-senate-for-the-first-time-since-his-june-hospitalization?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:43:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants",
-      "url": "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T02:14:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Celine Dion Begins Her Paris Comeback Concert Run",
-      "url": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-13T19:10:34.000Z",
+      "title": "The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/09/08/us/politics/trump-mail-voting-what-to-know-supreme-court.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T13:51:56.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 15
+  "evidenceCount": 8
 }

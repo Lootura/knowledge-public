@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/sam-altman/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/sam-altman/index.json",
   "description": "Follow Sam Altman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-09-15T03:21:50.927Z",
   "aliases": [
     "Altman",
     "Sam Harris Altman",
@@ -16,6 +16,11 @@
     "Samuel Harris Altman"
   ],
   "changes": [
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Here’s the biggest news you missed this weekend",
       "summary": "Sam Altman and Dario Amodei are publicly calling to slow down development of new AI systems, adding to a week of warnings from researchers about the technology.",
@@ -47,6 +52,19 @@
       "date": "2026-09-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump says U.S. needs a \"high IQ\" president to handle AI",
+      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:37:28.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 2
 }

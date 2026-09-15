@@ -64,4 +64,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [El Gobierno y el PSOE echan el resto en su cruzada contra los jueces](https://www.elconfidencial.com/espana/2026-09-14/gobierno-psoe-cruzada-jueces_4423402/?utm_source=lootura.com) — 2026-09-14T12:54:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T03:21:35.336Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### La Fed discute un alza de tipos y encara un choque frontal con Trump
+
+El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras "una buena pelea familiar". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.
+
+Date: 2026-09-15
 
 ### El temor a un freno en la IA desata caídas en el sector de hasta el 12%
 
@@ -62,14 +68,6 @@ Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de 
 
 Date: 2026-09-04
 
-### El Ibex 35 espera en rojo el informe de empleo de Estados Unidos
-
-Las perspectivas más moderadas sobre los tipos de interés, después de que el gobernador de la Reserva Federal, Christopher Waller, disipa los temores a una inminente subida de las tasas en EE UU. Por su parte, los precios del petróleo se estabilizan con el Brent en los 95 dólares por barril, aunque acumulan un alza de.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [El temor a un freno en la IA desata caídas en el sector de hasta el 12%](https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html?utm_source=lootura.com) — 2026-09-14T16:18:30.000Z
-- [El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA](https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html?utm_source=lootura.com) — 2026-09-14T15:39:14.000Z
-- [Los valores del Ibex más afectados por el freno en la IA](https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html?utm_source=lootura.com) — 2026-09-14T16:14:05.000Z
+- [La Fed discute un alza de tipos y encara un choque frontal con Trump](https://www.expansion.com/mercados/2026/09/15/6aa83e85e5fdea31028b4575.html?utm_source=lootura.com) — 2026-09-15T00:15:13.000Z

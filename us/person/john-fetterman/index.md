@@ -3,10 +3,16 @@
 > Follow John Fetterman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-11T02:58:18.245Z
+- Updated: 2026-09-15T03:21:50.927Z
 - Canonical: https://atlas.lootura.com/us/person/john-fetterman
 
 ## Recent changes
+
+### What's next for Senator John Fetterman?
+
+NPR's Juana Summers talks with Adam Jentleson, former chief of staff for Pennsylvania Democratic Senator John Fetterman, about recent revelations about Sen. Fetterman's work performance.
+
+Date: 2026-09-14
 
 ### Discovered by Atlas
 
@@ -64,4 +70,4 @@ Date: 2026-09-10
 
 ## Sources
 
-No public source links.
+- [What's next for Senator John Fetterman?](https://www.npr.org/2026/09/14/nx-s1-5968629/whats-next-for-senator-john-fetterman?utm_source=lootura.com) — 2026-09-14T20:34:26.000Z
