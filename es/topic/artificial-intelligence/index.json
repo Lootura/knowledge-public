@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "AI",
     "machine learning"
   ],
   "changes": [
+    {
+      "title": "Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China",
+      "summary": "Lucía Velasco, experta en gobernanza de la inteligencia artifical y codirectora del ‘Oxford AI diplomacy lab’, conversa con EL PAÍS sobre la participación de la UE en el desarrollo de esta tecnología.",
+      "date": "2026-09-15"
+    },
     {
       "title": "El temor a la IA pasa factura a las grandes tecnológicas en Bolsa",
       "summary": "Empresas como Anthropic, Open AI, Google o Grok llaman a abrir un gran debate para generar una autorregulación que reduzca «el riesgo de una catástrofe».",
@@ -58,26 +63,15 @@
       "title": "iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles",
       "summary": "Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.",
       "date": "2026-07-13"
-    },
-    {
-      "title": "La NASA busca voluntarios para su próxima misión a Marte",
-      "summary": "Cuando pensamos en una misión a Marte solemos imaginar cohetes gigantescos, motores revolucionarios o escudos contra la radiación cósmica. Sin embargo, uno de los mayores obstáculos para llegar al planeta rojo podría no estar fuera de la nave, sino dentro de ella. ¿Cómo reaccionan cuatro personas cuando pasan un año ai.",
-      "date": "2026-07-12"
     }
   ],
   "sources": [
     {
-      "title": "El temor a la IA pasa factura a las grandes tecnológicas en Bolsa",
-      "url": "https://www.diariovasco.com/economia/temor-ia-pasa-factura-grandes-tecnologicas-bolsa-20260914191905-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:19:06.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles",
-      "url": "https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:39:46.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos",
+      "url": "https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T07:19:22.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

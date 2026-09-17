@@ -1,0 +1,47 @@
+{
+  "id": "usa-mark-carney",
+  "name": "Mark Carney",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/mark-carney",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/mark-carney",
+  "markdownUrl": "https://atlas.lootura.com/us/person/mark-carney/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/mark-carney/index.json",
+  "description": "Follow Mark Carney, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "aliases": [
+    "Mark Joseph Carney"
+  ],
+  "changes": [
+    {
+      "title": "Canada's Carney embraces EU associate member plan; Trump seen with \"Kennedy Center Demolished\" sign",
+      "summary": "The European Union floated the idea of making Canada its first associate member, with Canadian Prime Minister Mark Carney embracing the plan. Plus, a photographer spotted President Trump holding a placard that appeared to say \"Kennedy Center Demolished.\" CBS News' Weijia Jiang has more.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "How Canada and the E.U. are teaming up to counter Trump",
+      "summary": "Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg to lay out how middle powers might counteract Trump’s hostility.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mark Carney first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Canada's Carney embraces EU associate member plan; Trump seen with \"Kennedy Center Demolished\" sign",
+      "url": "https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:00:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "How Canada and the E.U. are teaming up to counter Trump",
+      "url": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:41:39.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
+  "evidenceCount": 2
+}

@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)",
+      "summary": "Dos personas han resultado heridas de gravedad este jueves en un choque frontal entre dos turismos en el cruce de la carretera SI-16 con la SI-11, en Siero (Asturias) . Los afectados han sido evacuados al Hospital Universitario Central de Asturias (HUCA). Según ha informado la Guardia Civil , el accidente se produjo en.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Migrantes hacinados en condiciones infrahumanas a precios abusivos en pisos patera de Ceuta",
+      "summary": "Dormir hacinados y en condiciones de insalubridad a precios abusivos. La Policía Nacional y la Guardia Civil han desarrollado en los últimos días sendas operaciones en la ciudad de Ceuta que han permitido destapar el lucrativo negocio ilegal de alojar en pisos patera a migrantes llegados en el salto masivo de los pasad.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Cuatro detenidos y seis policías locales y un guardia civil heridos en las fiestas de Ocaña (Toledo)",
       "summary": "Seis policías locales de Ocaña (Toledo) y un agente de la Guardia Civil han resultado heridos tras los altercados que se produjeron a raíz de la suspensión de una \"macrodiscoteca\" en el municipio, unos hechos por los que cuatro personas , dos de ellas menores, resultaron detenidas. Según ha informado el Sindicato de Po.",
@@ -50,18 +60,15 @@
       "title": "Un hombre de 68 años muere tras caerle encima varias pacas de paja en Berzocana (Cáceres)",
       "summary": "Un hombre de 68 años ha fallecido este sábado tras caerle encima varias pacas de paja en Berzocana (Cáceres), según han informado el Centro 112 de Extremadura y la Guardia Civil . El suceso se ha producido en torno a las 07,52 horas en la finca 'La Mezquita' , en la carretera CC-422, cerca de la localidad cacereña. En.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Hallado el cuerpo sin vida de una persona en Algeciras (Cádiz)",
-      "summary": "Un cadáver fue localizado este viernes por la tarde entre dos pantalanes próximos a la calle Varadero, en Algeciras (Cádiz), según informó el 112 de Andalucía. El aviso llegó a Emergencias poco antes de las 18:30 horas, lo que activó un operativo con la Autoridad Portuaria , agentes de la Guardia Civil y de la Policía.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Los servicios de información detectan un incremento de los mensajes para una nueva invasión el 20 de septiembre en Ceuta",
-      "summary": "Los servicios de información de la Policía Nacional y de la Guardia Civil han detectado que la convocatoria para el 20-S de asaltar Ceuta cuenta con un mayor volumen de mensajes que las anteriores pero no tiene una organización clara, según explican fuentes policiales a ABC. Detrás de este movimiento se encuentra el na.",
-      "date": "2026-09-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)",
+      "url": "https://www.elconfidencial.com/espana/2026-09-17/heridos-graves-choque-frontal-siero-1tna-1tps_4426021/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:58:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

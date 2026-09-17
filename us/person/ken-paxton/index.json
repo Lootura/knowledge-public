@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-15T09:11:38.041Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -73,13 +73,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "VoteHub gives Talarico 55% chance of winning Texas Senate race",
-      "url": "https://www.cbsnews.com/video/votehub-talarico-55-percent-chance-winning-texas-senate-race/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:27:14.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-13T05:38:25.366Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### El caso Hasan Piker: cómo la derecha estadounidense intentó burlarse de sus fotos en ropa interior y fracasó
+
+“Hasan Piker: Una mente progresista en un cuerpo MAGA”. Así definía The New York Times al streamer y comentarista político Hasan Piker (Nueva Jersey, 35 años) en una entrevista que subrayaba que sus exigentes rutinas de ejercicio (cuya figura es fruto de un antes y después de libro) se asemejan a las de los fitness inf.
+
+Date: 2026-09-16
 
 ### Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump
 
@@ -61,12 +67,6 @@ Date: 2026-07-19
 En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
 
 Date: 2026-07-19
-
-### El último paso para alcanzar la segunda estrella
-
-España necesita volver a ofrecer su mejor versión para superar a una Argentina con la piel durísima y que dominará en las gradas de Nueva Jersey.
-
-Date: 2026-07-18
 
 ## Fuentes
 

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes",
+      "summary": "El Gobierno tiene ya listo el texto definitivo que regula el llamado comité de inversiones estratégicas, un órgano innovador que permitirá a determinadas empresas estratégicas conseguir una vía rápida para operar en España en el plazo de un mes. Este órgano, copresidido por La Moncloa y el Ministerio de Economía, permi.",
+      "date": "2026-09-15"
+    },
     {
       "title": "El Gobierno \"al ataque\" contra los jueces para intentar salvar su gestión: \"No nos vamos a callar\"",
       "summary": "Después de 47 días más bien detrás de la puerta, sujetándola para evitar que se derribara ante las objeciones y críticas a su gestión de la crisis de Ceuta, La Moncloa...",
@@ -58,20 +63,8 @@
       "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
       "summary": "El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas",
-      "summary": "La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.",
-      "date": "2026-08-07"
     }
   ],
-  "sources": [
-    {
-      "title": "El Gobierno \"al ataque\" contra los jueces para intentar salvar su gestión: \"No nos vamos a callar\"",
-      "url": "https://amp.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T20:44:40.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

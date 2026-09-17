@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Muere un joven al colisionar su vehículo contra un tractor en la CM-220 en La Gineta (Albacete)
+
+Una colisión entre un tractor con remolque y una furgoneta se ha saldado con el fallecimiento de un joven de 28 años, conductor del vehículo de transporte , en la CM 220 en el término municipal de La Gineta ( Albacete ). Según han informado fuentes del Servicio de Emergencias del 112 de Castilla-La Mancha a Europa Pres.
+
+Date: 2026-09-15
 
 ### Cuatro heridos en un accidente entre un turismo y una furgoneta en la A-52 en Palacios de Sanabria (Zamora)
 
@@ -59,12 +65,6 @@ Date: 2026-09-07
 ### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
 
 Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.
-
-Date: 2026-09-03
-
-### Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma
-
-Un hombre extranjero de 29 años ha fallecido pasada la medianoche de este jueves tras ser atropellado frente a una discoteca en Palma , capital de Mallorca. El suceso ha tenido lugar en la carretera Ma-19A (camí de Can Capó), frente a la discoteca Amok , según ha informado a Europa Press el SAMU 061 , que ha situado el.
 
 Date: 2026-09-03
 

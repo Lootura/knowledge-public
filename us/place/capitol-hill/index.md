@@ -3,7 +3,7 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-15T09:11:38.041Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Mitch McConnell returns to Capitol Hill after monthslong absence](https://www.cbsnews.com/news/mcconnell-returning-to-capitol-hill-3-months-senate-gop/?utm_source=lootura.com) — 2026-09-14T22:14:00.000Z
+No public source links.

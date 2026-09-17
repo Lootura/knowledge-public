@@ -3,10 +3,28 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias
+
+El Gobierno de Castilla-La Mancha y las Cortes regionales han presentado este jueves la programación diseñada para celebrar el 50 aniversario de la Transición Democrática en la región , que estará compuesta por más de 500 actos en más de 200 municipios castellanomanchegos y protagonizada por una gran exposición que se.
+
+Date: 2026-09-17
+
+### Roberto Brasero, sobre las lluvias de este jueves: "Pueden seguir las lluvias y tormentas en las mismas zonas pero ya irán perdiendo intensidad"
+
+El episodio de inestabilidad todavía no ha terminado en el este de España , aunque durante este jueves debería comenzar a perder fuerza. Roberto Brasero advierte de que Comunidad Valenciana, Murcia, Cataluña, el este de Andalucía y Castilla-La Mancha seguirán entre las zonas con riesgo de lluvias y tormentas, especialm.
+
+Date: 2026-09-17
+
+### Muere un joven al colisionar su vehículo contra un tractor en la CM-220 en La Gineta (Albacete)
+
+Una colisión entre un tractor con remolque y una furgoneta se ha saldado con el fallecimiento de un joven de 28 años, conductor del vehículo de transporte , en la CM 220 en el término municipal de La Gineta ( Albacete ). Según han informado fuentes del Servicio de Emergencias del 112 de Castilla-La Mancha a Europa Pres.
+
+Date: 2026-09-15
 
 ### Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes (Ciudad Real)
 
@@ -50,24 +68,6 @@ Los gobiernos socialistas de Asturias y Castilla-La Mancha votarán este viernes
 
 Date: 2026-09-04
 
-### 3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas
-
-Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.
-
-Date: 2026-09-04
-
-### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
-
-Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.
-
-Date: 2026-09-03
-
-### Los barones del PSOE y las autonomías del PP votarán en contra de la financiación autonómica
-
-Las dos regiones socialistas, Castilla-La Mancha y Asturias , y las comunidades del PP votarán en contra el próximo viernes en el Consejo de Política Fiscal y Financiera (CPFF) de la propuesta de Hacienda para reformar la financiación autonómica , por lo que el Gobierno necesitará a Cataluña para sacarlo adelante y lle.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias](https://www.elconfidencial.com/espana/2026-09-17/transicion-castilla-la-mancha-programa-1hms-1tna_4425736/?utm_source=lootura.com) — 2026-09-17T10:45:00.000Z

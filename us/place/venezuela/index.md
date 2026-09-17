@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-05T21:55:59.222Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### Trump Ally Harold Hamm Strikes Venezuela Oil Deal
+
+Mr. Hamm’s company, Continental Resources, has signed a preliminary deal with Venezuela’s state-owned oil company to develop and produce oil.
+
+Date: 2026-09-16
 
 ### U.S.-Venezuela oil deal puts opposition in a political bind
 
@@ -59,12 +65,6 @@ Date: 2026-09-02
 ### News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict
 
 In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.
-
-Date: 2026-09-02
-
-### Energy Secretary in Venezuela to tout major oil deal
-
-U.S. Energy Secretary Chris Wright was in Venezuela to tout a major oil deal. NBC News’ Gabe Gutierrez was there.
 
 Date: 2026-09-02
 

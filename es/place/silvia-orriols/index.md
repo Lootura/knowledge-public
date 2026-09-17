@@ -3,7 +3,7 @@
 > Sigue la actividad de Sílvia Orriols en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/place/silvia-orriols
 
 ## Cambios recientes
@@ -34,4 +34,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales](https://www.elconfidencial.com/espana/cataluna/2026-09-15/orriols-distancia-ultras-de-afd-preservar-expectativas-electorales_4423632/?utm_source=lootura.com) — 2026-09-15T03:00:00.000Z
+No public source links.

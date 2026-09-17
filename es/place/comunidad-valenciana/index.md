@@ -3,10 +3,22 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-12T14:59:00.939Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Roberto Brasero, sobre las lluvias de este jueves: "Pueden seguir las lluvias y tormentas en las mismas zonas pero ya irán perdiendo intensidad"
+
+El episodio de inestabilidad todavía no ha terminado en el este de España , aunque durante este jueves debería comenzar a perder fuerza. Roberto Brasero advierte de que Comunidad Valenciana, Murcia, Cataluña, el este de Andalucía y Castilla-La Mancha seguirán entre las zonas con riesgo de lluvias y tormentas, especialm.
+
+Date: 2026-09-17
+
+### Retrasos en los trenes que unen Madrid-Andalucía y Levante por un problema de la señalización
+
+Una incidencia que afecta a la señalización entre la estación Madrid Puerta de Atocha-Almudena Grandes y Los Gavilanes puede generar retrasos en los trenes que circulan por las líneas de alta velocidad que unen Madrid con Andalucía y con la Comunidad Valenciana y la Región de Murcia. Así lo ha confirmado este lunes el.
+
+Date: 2026-09-15
 
 ### Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia
 
@@ -55,18 +67,6 @@ Date: 2026-08-12
 La Agencia Estatal de Meteorología avisa por temperaturas significativamente altas que se producirán en algunos puntos de la Comunidad Valenciana en este martes 11 de agosto. La AEMET apunta al interior de la provincia de Valencia, donde los termómetros se dispararán hasta los 38 grados, siendo la máxima que se registr.
 
 Date: 2026-08-11
-
-### Dos tecnológicas españolas se alían para reforzar la ciberseguridad aeroespacial
-
-ESET España y Espai Aero CV han firmado un acuerdo de colaboración para reforzar la ciberseguridad de las empresas que forman parte del ecosistema aeroespacial de la Comunidad Valenciana . La alianza contempla el desarrollo de iniciativas de formación, divulgación técnica y asesoramiento especializado con el objetivo d.
-
-Date: 2026-08-10
-
-### El calor y las lluvias mantienen en aviso a diez comunidades este lunes con tormentas fuertes en varias zonas de la Península
-
-El calor y las tormentas mantienen este lunes en aviso a diez comunidades autónomas en una jornada en la que se prevén lluvias y tormentas que podrían ser fuertes , e incluso localmente muy fuertes, con granizo y rachas muy fuertes de viento en la Comunidad Valenciana, el sur de la Ibérica, el sudeste y Navarra . Las t.
-
-Date: 2026-08-09
 
 ## Fuentes
 

@@ -1,0 +1,32 @@
+{
+  "id": "es-el-intermedio",
+  "name": "El intermedio",
+  "type": "product",
+  "locale": "es",
+  "canonicalPath": "/es/product/el-intermedio",
+  "canonicalUrl": "https://atlas.lootura.com/es/product/el-intermedio",
+  "markdownUrl": "https://atlas.lootura.com/es/product/el-intermedio/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/product/el-intermedio/index.json",
+  "description": "Sigue la actividad de El intermedio en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Sánchez se anima a sí mismo en el plató del Gran Wyoming",
+      "summary": "“Aquí ya tiene 40 votos”, dijo el Gran Wyoming mirando de reojo al público de El Intermedio entregado a Pedro Sánchez. Sánchez se refirió todo el rato al presentador como Wyoming. Creo que ya mucha gente le llama así, sin el Gran, aunque los íntimos le conocen como Chechu. Pero la gracia, y lo serio, es llamarle Gran W.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "El Intermedio first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Sánchez anuncia 10.000 plazas para invasores en Ceuta y prevé que se queden tres meses y medio más",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, ha vuelto a lanzar su speech habitual sobre la invasión de Marruecos este lunes en El Intermedio , con el agravante del reiterado ataque del Gobierno al CNI , al tratar de desacreditarlo con la afirmación de que «los whatsapps no son informes de Inteligencia en un país serio c.",
+      "date": "2026-09-14"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

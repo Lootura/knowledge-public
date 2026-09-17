@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/john-fetterman/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/john-fetterman/index.json",
   "description": "Follow John Fetterman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-15T09:11:38.041Z",
   "aliases": [
     "Fetterman",
     "John Karl Fetterman",
@@ -69,13 +69,6 @@
       "date": "2026-09-10"
     }
   ],
-  "sources": [
-    {
-      "title": "What's next for Senator John Fetterman?",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968629/whats-next-for-senator-john-fetterman?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T20:34:26.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

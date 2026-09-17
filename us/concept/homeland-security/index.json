@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/homeland-security/index.json",
   "description": "Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths",
-      "summary": "A report from the Department of Homeland Security’s inspector general found that some immigrants detained at the now-shuttered \"Alligator Alcatraz\" were at times confined to cages roughly the size of a phone booth. NBC News' Julia Ainsley has details on the report's findings.",
-      "date": "2026-09-14"
+      "title": "Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know",
+      "summary": "The Department of Homeland Security's focus on mass deportations resulted in a dramatic drop in investigations into illicit fentanyl, according to a federal watchdog report.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "US judge blocks DHS from threatening prosecution against man who criticized ICE",
+      "summary": "David Streever was issued a ‘warning notice’ after sending an email critical of ICE to the agency’s director in January The Department of Homeland Security (DHS) may no longer issue a “warning notice” – threatening prosecution against a US citizen – for criticizing Immigration and Customs Enforcement (ICE), a federal j.",
+      "date": "2026-09-16"
     },
     {
       "title": "‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says",
@@ -24,6 +29,11 @@
     {
       "title": "Why Is D.H.S. Getting Involved in Elections?",
       "summary": "The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths",
+      "summary": "A report from the Department of Homeland Security’s inspector general found that some immigrants detained at the now-shuttered \"Alligator Alcatraz\" were at times confined to cages roughly the size of a phone booth. NBC News' Julia Ainsley has details on the report's findings.",
       "date": "2026-09-14"
     },
     {
@@ -39,23 +49,11 @@
   ],
   "sources": [
     {
-      "title": "Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths",
-      "url": "https://www.nbcnews.com/video/report-finds-alligator-alcatraz-held-immigrants-in-cages-the-size-of-phone-booths-269820997674?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T15:31:00.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says",
-      "url": "https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:23:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Why Is D.H.S. Getting Involved in Elections?",
-      "url": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T19:10:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know",
+      "url": "https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:03:38.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

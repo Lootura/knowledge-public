@@ -3,10 +3,34 @@
 > Sigue la actividad de Sistema de la Reserva Federal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/company/reserva-federal
 
 ## Cambios recientes
+
+### Pulgar hacia arriba: el mercado avala a un Warsh liberado de la presión de Trump
+
+Kevin Warsh tomó este miércoles, junto a su junta de gobernadores, una decisión tan importante o más que la subida de tipos: no ser Arthur Burns. El presidente de la Reserva Federal entre 1970 y 1978, nombrado por Richard Nixon, cedió a las presiones del mandatario republicano y evitó subir tipos ante una crisis petrol.
+
+Date: 2026-09-17
+
+### La Bolsa celebra la firmeza de la Fed: el Ibex avanza un 1% y recupera los 19.800 puntos
+
+La subida de tipos de la Reserva Federal y la moderación de los precios de la energía han devuelto el apetito por el riesgo a los mercados. Aunque el endurecimiento monetario suele ser un obstáculo para la renta variable al encarecer la financiación de empresas y hogares y enfriar el crecimiento económico, en esta ocas.
+
+Date: 2026-09-17
+
+### La lucha de Warsh contra la inflación calma el mercado: las Bolsas y los bonos recuperan el ánimo
+
+Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Federal (Fed) de Estados Unidos de subir los tipos de interés —por primera vez en tres años— para combatir la inflación, algo que tranquiliza a los operadores a pesar de suponer un desafío para el presidente Donald Trump. Además, un informe de.
+
+Date: 2026-09-17
+
+### El Ibex recupera los 19.600 puntos con los bonos en calma antes de la decisión de la Fed
+
+La cuenta atrás para la reunión de la Reserva Federal mantiene en vilo a los mercados. En una jornada marcada en rojo por los inversores, los movimientos son contenidos y la prudencia se impone en las Bolsas. Aunque desde hace años los mercados financieros han desarrollado una elevada dependencia de la política monetar.
+
+Date: 2026-09-16
 
 ### La Fed discute un alza de tipos y encara un choque frontal con Trump
 
@@ -44,30 +68,7 @@ El Ibex 35 ha salvado por la mínima los 20.000 puntos en una sesión bursátil 
 
 Date: 2026-09-07
 
-### El buen dato de empleo de Estados Unidos despeja el camino a la Fed para subir tipos en septiembre
-
-La fuerte creación de empleo en Estados Unidos en agosto, con 162.000 nuevos puestos de trabajo, y con una tasa de paro que se mantuvo en el 4,1%, despeja el camino para que la Reserva Federal opte por elevar el precio del dinero en la reunión de septiembre. La mejora del mercado de trabajo aumenta la probabilidad de q.
-
-Date: 2026-09-04
-
-### Trump exige a la Fed bajar tipos o romperá la relación comercial con los países con superávit
-
-El presidente de Estados Unidos, Donald Trump , ha reclamado a la Reserva Federal (Fed) que rebaje los tipos de interés o, en caso contrario, cesará el comercio con todos aquellos países con los que Estados Unidos mantenga superávit comercial, unas declaraciones realizadas tras la publicación de los datos de empleo del.
-
-Date: 2026-09-04
-
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
-### Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos
-
-Cuando impulsó a Kevin Warsh al frente de la Reserva Federal, el presidente de Estados Unidos, Donald Trump, prometió respetar su independencia en la gestión de la política monetaria del país. Este viernes, el inquilino de la Casa Blanca ha aprovechado los buenos datos de empleo de la nación para lanzar uno de sus céle.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [La Fed discute un alza de tipos y encara un choque frontal con Trump](https://www.expansion.com/mercados/2026/09/15/6aa83e85e5fdea31028b4575.html?utm_source=lootura.com) — 2026-09-15T00:15:13.000Z
+- [Pulgar hacia arriba: el mercado avala a un Warsh liberado de la presión de Trump](https://cincodias.elpais.com/mercados-financieros/2026-09-17/pulgar-hacia-arriba-el-mercado-avala-a-un-warsh-liberado-de-la-presion-de-trump.html?utm_source=lootura.com) — 2026-09-17T11:31:37.000Z
+- [La Bolsa celebra la firmeza de la Fed: el Ibex avanza un 1% y recupera los 19.800 puntos](https://cincodias.elpais.com/mercados-financieros/2026-09-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-17T15:42:02.000Z

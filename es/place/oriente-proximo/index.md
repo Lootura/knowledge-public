@@ -3,7 +3,7 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [La presión extra del precio del fuel pone en jaque a las aerolíneas al cierre de la temporada alta](https://cincodias.elpais.com/companias/2026-09-15/la-presion-extra-del-precio-del-fuel-pone-en-jaque-a-las-aerolineas-al-cierre-de-la-temporada-alta.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z
-- [Tormenta en los mercados de deuda: se dispara el bono de EEUU y el de España supera el 4% por primera vez desde 2013](https://www.elmundo.es/economia/empresas/2026/09/14/6aa812a1e85eced5038b459b.html?utm_source=lootura.com) — 2026-09-14T15:28:47.000Z
-- [Cómo entender la escalada de los bonos, con el de EEUU retando el 5%](https://www.expansion.com/mercados/renta-fija/2026/09/15/6aa845a9468aebf83d8b4571.html?utm_source=lootura.com) — 2026-09-15T00:15:12.000Z
+No public source links.

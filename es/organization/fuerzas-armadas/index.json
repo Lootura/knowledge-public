@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos",
+      "summary": "Dos militares destinados en Ceuta fueron traslados a Madrid a principios de esta semana para ser ingresados en el Hospital Central de la Defensa Gómez Ulla después de sufrir una agresión por parte de inmigrantes durante el despliegue de las Fuerzas Armadas en la ciudad autónoma. Seguir leyendo...",
+      "date": "2026-09-17"
+    },
     {
       "title": "Sánchez contra Robles: desclasificará un informe de la inteligencia militar del 30 de julio para culparla de que avisó tarde",
       "summary": "Los informes que el Gobierno de Pedro Sánchez ha desclasificado buscan «señalar» al Ejército español con la ministra de Defensa, Margarita Robles , al frente, y en concreto a la inteligencia militar del Centro de Inteligencia de las Fuerzas Armadas ( CIFAS) , según han asegurado fuentes del Ejecutivo a OKDIARIO. De acu.",
@@ -58,13 +63,15 @@
       "title": "Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev",
       "summary": "Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas cuatro niños , en un ataque lanzado durante la madrugada de este sábado por las Fuerzas Armadas de Rusia sobre Kiev , la capital ucraniana.«Lamentablemente, nueve vecinos de Kiev han fallecido» , ha informado el gobierno regional, en un me.",
       "date": "2026-08-01"
-    },
-    {
-      "title": "Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia",
-      "summary": "Al menos ocho personas han muerto, entre ellas dos niños, y otras 14 han resultado heridas en un ataque perpetrado este sábado por las Fuerzas Armadas de Ucrania contra una zona ocupada por las tropas rusas en la provincia ucraniana de Zaporiyia, en el este del país. «Esta madrugada, en la localidad de Kirilivka, se ha.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos",
+      "url": "https://www.lavanguardia.com/politica/20260917/11637213/dos-militares-desplegados-ceuta-ingresados-gomez-ulla-madrid-agredidos.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T11:19:48.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

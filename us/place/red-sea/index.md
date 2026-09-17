@@ -3,10 +3,16 @@
 > Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/place/red-sea
 
 ## Recent changes
+
+### US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders
+
+Armed group appears to reach agreement with Trump administration over safety of Red Sea shipping Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside.
+
+Date: 2026-09-16
 
 ### Saudi Arabia has few options as it faces mounting threats from Iran and its allies
 
@@ -61,12 +67,6 @@ Date: 2026-07-24
 Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).
 
 Date: 2026-07-24
-
-### Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea
-
-International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict "major military punishment." He.
-
-Date: 2026-07-23
 
 ## Sources
 

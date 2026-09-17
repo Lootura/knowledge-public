@@ -1,0 +1,29 @@
+{
+  "id": "usa-chatgpt",
+  "name": "ChatGPT",
+  "type": "product",
+  "locale": "en",
+  "canonicalPath": "/us/product/chatgpt",
+  "canonicalUrl": "https://atlas.lootura.com/us/product/chatgpt",
+  "markdownUrl": "https://atlas.lootura.com/us/product/chatgpt/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/product/chatgpt/index.json",
+  "description": "Follow ChatGPT, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
+  "aliases": [
+    "GPT chatbot"
+  ],
+  "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "The funding round would double the value of the start-up behind ChatGPT and establish it as the world’s most valuable private company.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "ChatGPT first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-16"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

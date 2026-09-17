@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Pantoja Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-pantoja
 
 ## Cambios recientes
+
+### El drástico mensaje de Isabel Pantoja tras tanta exposición: «Debemos parar»
+
+Contra todo pronóstico, Isabel Pantoja ha reaparecido en sus redes sociales con un inesperado vídeo que llega tras todo el ruido generado en torno a su familia y relaciones, y también nada más finalizar una nueva etapa de su larga gira de aniversario. «De momento creo que debemos parar; mejor dicho, desconectarnos», ha.
+
+Date: 2026-09-15
 
 ### Anabel Pantoja relata el acoso que sufrió cuando su hija estaba en el hospital: «No hace falta matar con las manos o un arma»
 

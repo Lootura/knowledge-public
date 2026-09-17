@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "EVP",
     "VP",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "Vance says Americans should not be scared of AI as calls for limits grow",
-      "summary": "Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.",
-      "date": "2026-09-14"
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
+      "date": "2026-09-17"
     },
     {
       "title": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
       "summary": "Vice President JD Vance is beginning a key final stretch of midterm campaigning by dropping in on the Senate race in Kansas, where Republicans were long seen as heavily favored.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Vance says Americans should not be scared of AI as calls for limits grow",
+      "summary": "Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.",
       "date": "2026-09-14"
     },
     {
@@ -59,26 +64,15 @@
       "title": "VP Vance calls out protester at GOP midterm convention",
       "summary": "Vice President JD Vance paused his remarks to address a protester he says was waving a Mexican flag inside the convention center, adding, “My friend, if you love Mexico so much, get your ass over there. I’ll buy you the plane ticket.”.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Vance calls on battleground state Republicans to ‘nationalize’ the midterms",
-      "summary": "Vice President JD Vance urged Republicans from several battleground states Thursday to “nationalize” their midterm elections this fall.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "WATCH: Vance says Americans should not be scared of AI as calls for limits grow",
-      "url": "https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T15:06:18.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:15:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "url": "https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T09:50:00.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

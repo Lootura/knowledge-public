@@ -3,79 +3,80 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid
+### Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático
 
-HM Hospitales prepara nuevos planes de expansión, con la Comunidad de Madrid como principal apuesta, junto a Cataluña y Málaga. Ahora, la compañía trabaja en la implantación de un futuro hospital en los nuevos desarrollos del Sureste de la Comunidad madrileña. “Estamos trabajando con nuestros socios para analizar posib.
+"Llevan a los tribunales todo aquello que es falso, lo pierden y todavía siguen con el asunto", critica la presidenta regional sobre las denuncias "fracasadas" de Más Madrid y el PSOE Leer.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno
+### Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”
 
-La magistrada pide que se examine si el asunto debe instruirse en Madrid junto a la causa abierta por la entrada masiva, como ya ha pedido la Fiscalía Leer.
+Isabel Díaz Ayuso ha ignorado los documentos publicados por EL PAÍS que prueban la manipulación de las listas en el hospital Ramón y Cajal y ha insistido en que se trata de “un bulo”. La presidenta de Madrid ha reducido todo el caso a “un señor que está manipulando las citas sanitarias”, en referencia al cirujano que d.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región
+### Dos militares, evacuados a un hospital de Madrid tras ser agredidos por inmigrantes
 
-La Comunidad de Madrid ha presentado este lunes alegaciones ante la Junta Electoral Central (JEC) para pedir que solo puedan inscribirse en el censo.
+Dos militares españoles han sido evacuados de Ceuta e ingresados en el hospital Gómez Ulla de Madrid tras sufrir agresiones por parte de inmigrantes mientras patrullaban en las calles de la ciudad autónoma, según ha confirmado este jueves el Ministerio de Defensa. "Uno de ellos sufre una luxación de rodilla y otro una.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Boicot político a Madring
+### Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía
 
-La celebración en Madrid del Gran Premio de España de Fórmula 1 ha representado a todas luces una buena noticia desde el punto de vista deportivo, de infraestructura, inversión e imagen exterior. Sin embargo, alrededor de la carrera ha aflorado una burda operación política de boicot a la Comunidad y la ciudad de Madrid.
+Barcelona, Real Madrid, Atlético y Real Sociedad lucharán por el título del 2 al 6 de febrero de 2027 en Estambul.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados
+### La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta
 
-La capital de España será uno de los puntos más castigados del país con un repunte de los termómetros antes de la salida del verano.
+El ático del paseo del General Martínez Campos puesto en venta por la Comunidad de Madrid tras el escándalo suscitado a finales de julio no ha recibido ninguna oferta de compra (6,7 millones de euros) en la venta pública. Por ello, Planifica Madrid ha declarado desierto el proceso. A partir de ahora, se abre la posibil.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Woody Allen comienza a rodar su nueva película en Madrid el 5 de octubre
+### Nadie compra el ático por el que el Gobierno de Ayuso pagó 6,3 millones de euros: la subasta queda desierta
 
-Woody Allen comenzará a rodar en Madrid su nueva película el próximo 5 de octubre. El cineasta neoyorquino se dividirá entre el centro de la ciudad y Aranjuez, en el sur de la comunidad. La película, según informa Wanda Visión (distribuidora del filme), está protagonizada por Alexi Wasser ( Messy), Jemima Kirke ( Girls.
+La subasta por el ático de lujo de la Comunidad de Madrid ha quedado desierta, según fuentes oficiales y la documentación que ha publicado Planifica Madrid. El inmueble, sacado a la venta por 6,7 millones de euros, no ha recibido la oferta de ningún comprador, por lo que el Gobierno de Isabel Díaz Ayuso no ha podido de.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### ‘El Turronero’ y Ortega Smith arropan a Iván Espinosa de los Monteros en el último adiós a su padre
+### Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas
 
-Carlos Espinosa de los Monteros y Bernaldo de Quirós, IV marqués de Valtierra, ya descansa tras el funeral celebrado este lunes en Madrid. El aristócrata fallecía el pasado 29 de agosto a los 82 años y, dos semanas después, familiares, amigos y numerosas personalidades se han reunido en la parroquia de San Francisco de.
+El presidente del Real Madrid, Florentino Pérez, viajará este viernes por la mañana a Ceuta, solo tres días después de la polémica de las camisetas de apoyo a la ciudad autónoma que Mbappé, Vinicius y Konaté se negaron a mostrar de manera completa el martes en Elche. Además del presidente, en la visita, adelantada por.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Puesta de largo de la Liga F 2026-2027: «Queremos construir afición y que las niñas sueñen con ser futbolistas»
+### Lo importante es el bulo del culo
 
-La Liga F ha celebrado su puesta de largo en el Espacio Alcalá de Madrid, en la que es su quinta temporada como competición profesional –que ya ha arrancado– y en la que afronta varios retos importantes. Clubes, futbolistas y representantes de todas las instituciones –incluyendo el Gobierno de Sánchez, con la ministra.
+La frase retumba con la intención de convertirse en titular: “ El bulo del culo de la semana viene (...)”. Su autora es Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid. Y no está improvisando. Todo lo contrario. Lanza un anzuelo, a ver si pica el pez. Pone un capote, por si embiste el toro. Porque lo que hace l.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Jornada 5 de la Liga: resumen de todos los partidos
+### Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera
 
-La quinta jornada de Liga ya está aquí. Arranca una jornada sin descanso en la que viviremos tres jornadas antes del parón. La abre el Sevilla – Valencia, un partidazo de los de antes y venido a menos por la situación de ambos clubes. El Real Madrid se mide al Rayo, el Barcelona visitará al Levante y el Atlético protag.
+"Prometió dimitir si había mentido con la cuestión del ático. ¿Dónde está su carta de dimisión?", se ha preguntado la portavoz del PSOE, Mar Espinar, que ha enumerado varias falsedades del Gobierno madrileño sobre la polémica compra Las preguntas a las que tiene que responder el portavoz de Ayuso sobre la compra del át.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### De Victoria Federica a Mar Flores: los looks de los desfiles de moda de Madrid
+### El Gobierno de Ayuso reconoce ahora que el ático se compró para "alojar a las propias autoridades de la Comunidad"
 
-Después de OMODA Madrid es Moda , la capital acoge esta semana la nueva edición de la Mercedes-Benz Fashion Week Madrid donde se presentarán las tendencias para la primavera/verano 2027. La gran pasarela de la moda en España sale por primera vez de IFEMA, y se celebra en diferentes espacios emblemáticos de Madrid, como.
+El encargado por la mandataria madrileña para dar explicaciones sobre la operación asegura que "nunca se adquiere para ser la residencia oficial de la presidenta" No hay ofertas por el ático de lujo del Gobierno de Ayuso: la subasta queda desierta Miguel Ángel García, consejero de Presidencia de la Comunidad de Madrid,.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
 ## Fuentes
 
-- [Boicot político a Madring](https://www.abc.es/opinion/editorial-boicot-politico-madring-20260914213411-nt.html?utm_source=lootura.com) — 2026-09-14T19:34:22.000Z
-- [La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados](https://www.abc.es/espana/madrid/aemet-lanza-aviso-naranja-altas-temperaturas-madrid-20260915050000-nt_amp.html?utm_source=lootura.com) — 2026-09-14T23:20:41.000Z
-- [HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid](https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z
-- [La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno](https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html?utm_source=lootura.com) — 2026-09-14T11:20:11.000Z
-- [Woody Allen comienza a rodar su nueva película en Madrid el 5 de octubre](https://elpais.com/cultura/cine/2026-09-14/woody-allen-comienza-a-rodar-su-nueva-pelicula-en-madrid-el-5-de-octubre.html?utm_source=lootura.com) — 2026-09-14T12:37:56.000Z
-- [‘El Turronero’ y Ortega Smith arropan a Iván Espinosa de los Monteros en el último adiós a su padre](https://okdiario.com/cool/famosos/turronero-ortega-smith-arropan-ivan-espinosa-monteros-ultimo-adios-padre-20286733?utm_source=lootura.com) — 2026-09-14T19:47:18.000Z
-- [Puesta de largo de la Liga F 2026-2027: «Queremos construir afición y que las niñas sueñen con ser futbolistas»](https://okdiario.com/deportes/puesta-largo-liga-f-2026-2027-queremos-construir-aficion-que-ninas-suenen-ser-futbolistas-20289611?utm_source=lootura.com) — 2026-09-14T21:27:22.000Z
-- [Jornada 5 de la Liga: resumen de todos los partidos](https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329?utm_source=lootura.com) — 2026-09-14T21:14:31.000Z
-- [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z
+- [Dos militares, evacuados a un hospital de Madrid tras ser agredidos por inmigrantes](https://www.20minutos.es/nacional/dos-militares-han-sido-evacuados-hospital-gomez-ulla-madrid-tras-ser-agredidos-por-inmigrantes-ceuta_7037974_0.html?utm_source=lootura.com) — 2026-09-17T10:59:39.000Z
+- [Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía](https://www.abc.es/deportes/futbol/fechas-horarios-estadios-supercopa-espana-jugara-turquia-20260917173039-nt_amp.html?utm_source=lootura.com) — 2026-09-17T15:30:40.000Z
+- [La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta](https://www.abc.es/espana/madrid/subasta-atico-chamberi-queda-desierta-tras-recibir-20260917163845-nt.html?utm_source=lootura.com) — 2026-09-17T15:29:58.000Z
+- [Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático](https://www.elmundo.es/madrid/2026/09/17/6aab9f58e4d4d850578b45a2.html?utm_source=lootura.com) — 2026-09-17T08:50:03.000Z
+- [Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”](https://elpais.com/espana/madrid/2026-09-17/ayuso-comparece-en-la-asamblea-de-madrid-en-plena-polemica-por-el-maquillaje-de-las-listas-de-espera-sanitarias.html?utm_source=lootura.com) — 2026-09-17T08:50:09.000Z
+- [Nadie compra el ático por el que el Gobierno de Ayuso pagó 6,3 millones de euros: la subasta queda desierta](https://elpais.com/espana/madrid/2026-09-17/nadie-compra-el-atico-por-el-que-el-gobierno-de-ayuso-pago-63-millones-de-euros-la-subasta-queda-desierta.html?utm_source=lootura.com) — 2026-09-17T14:19:04.000Z
+- [Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas](https://elpais.com/deportes/futbol/2026-09-17/florentino-perez-visita-ceuta-este-viernes-tres-dias-despues-de-la-polemica-de-las-camisetas.html?utm_source=lootura.com) — 2026-09-17T11:37:02.000Z
+- [Lo importante es el bulo del culo](https://elpais.com/espana/madrid/2026-09-17/lo-importante-es-el-bulo-del-culo.html?utm_source=lootura.com) — 2026-09-17T12:33:43.000Z
+- [Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera](https://www.eldiario.es/madrid/madrid-pide-juicio-ayuso-corrupta-carga-mentiras-atico-listas-espera_1_13516956.html?utm_source=lootura.com) — 2026-09-17T09:06:25.000Z
+- [El Gobierno de Ayuso reconoce ahora que el ático se compró para "alojar a las propias autoridades de la Comunidad"](https://www.eldiario.es/madrid/gobierno-ayuso-reconoce-ahora-atico-compro-alojar-propias-autoridades-comunidad_1_13518073.html?utm_source=lootura.com) — 2026-09-17T15:09:30.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Dario Amodei en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/person/dario-amodei
 
 ## Cambios recientes
+
+### Las alarmas de la IA: qué preocupa a los laboratorios y quién se beneficia del debate
+
+"Entre seis y doce meses". Este es el plazo que fija Dario Amodei, CEO de Anthropic, para que un enjambre de agentes de inteligencia artificial sea capaz de secuestrar...
+
+Date: 2026-09-17
 
 ### Los temores de la IA irrumpen en la mayor carrera tecnológica del siglo
 
@@ -58,6 +64,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología](https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com) — 2026-09-14T10:16:39.000Z
-- [Los temores de la IA irrumpen en la mayor carrera tecnológica del siglo](https://amp.expansion.com/tecnologia/2026/09/15/6aa85de2e5fdea940a8b4583.html?utm_source=lootura.com) — 2026-09-15T00:14:05.000Z
-- [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z
+No public source links.

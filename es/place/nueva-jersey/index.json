@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-jersey/index.json",
   "description": "Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T05:38:25.366Z",
+  "updatedAt": "2026-09-16T16:06:49.960Z",
   "aliases": [
     "El Estado Jardín",
     "Estado de Nueva Jersey",
@@ -26,6 +26,11 @@
     "Jersey"
   ],
   "changes": [
+    {
+      "title": "El caso Hasan Piker: cómo la derecha estadounidense intentó burlarse de sus fotos en ropa interior y fracasó",
+      "summary": "“Hasan Piker: Una mente progresista en un cuerpo MAGA”. Así definía The New York Times al streamer y comentarista político Hasan Piker (Nueva Jersey, 35 años) en una entrevista que subrayaba que sus exigentes rutinas de ejercicio (cuya figura es fruto de un antes y después de libro) se asemejan a las de los fitness inf.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Interceptan dos aviones que violaron el espacio aéreo en el club de golf donde estaba Trump",
       "summary": "El Comando de Defensa Aeroespacial de América del Norte (Norad) interceptó este domingo dos aeronaves comerciales que violaron el espacio aéreo restringido sobre Bedminster (Nueva Jersey), donde se encuentra el club de golf en el que el presidente de Estados Unidos, Donald Trump, pasó el fin de semana. Según informó No.",
@@ -70,11 +75,6 @@
       "title": "Lamine emula a Pelé y niega a Messi",
       "summary": "En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "El último paso para alcanzar la segunda estrella",
-      "summary": "España necesita volver a ofrecer su mejor versión para superar a una Argentina con la piel durísima y que dominará en las gradas de Nueva Jersey.",
-      "date": "2026-07-18"
     }
   ],
   "sources": [],

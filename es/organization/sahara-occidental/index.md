@@ -3,10 +3,16 @@
 > Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T22:14:54.654Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/sahara-occidental
 
 ## Cambios recientes
+
+### Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información
+
+El cambio de postura que el presidente del Gobierno dictó respecto al Sáhara Occidental en 2022 -asumiendo la soberanía marroquí- ya despertó entonces algunas insinuaciones,...
+
+Date: 2026-09-16
 
 ### Los saharauis celebran el avance pero exigen a España que defienda sus derechos frente a Marruecos
 
@@ -58,4 +64,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información](https://amp.elmundo.es/espana/2026/09/17/6aaae533fc6c8386228b4581.html?utm_source=lootura.com) — 2026-09-16T23:13:41.000Z

@@ -3,10 +3,64 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Morning news brief
+
+The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada's prime minister speaks to European Parliament.
+
+Date: 2026-09-17
+
+### The Fed Raised Rates. What Comes Next?
+
+Kevin M. Warsh, the chairman of the Federal Reserve, on Wednesday left open-ended how much more interest rates may have to rise to tame inflation.
+
+Date: 2026-09-17
+
+### The Fed raises interest rates. And, EU proposes Canada become an 'associate member'
+
+The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever "associate member." (Image credit: Jean-Christophe Verhaegen).
+
+Date: 2026-09-17
+
+### Federal Reserve raises interest rates for the first time since 2023
+
+The Fed increased its benchmark rate by 0.25 percentage points to battle resurgent inflation driven by soaring energy prices.
+
+Date: 2026-09-17
+
+### Fed Signals Another Rate Increase Could Be Coming
+
+Here’s how to read the Federal Reserve’s economic projections like a pro.
+
+Date: 2026-09-16
+
+### Federal Reserve Poised to Raise Interest Rates: What to Know
+
+With inflation and consumer prices on the rise, Wednesday’s meeting of the Federal Reserve is being closely watched to see what the board will signal about interest rates, now and into the future. NBC’s Brian Cheung joins TODAY to break down how the Fed is expected to raise interest rates for the first time since 2023.
+
+Date: 2026-09-16
+
+### The Fed is expected to raise interest rates for the first time in 3 years
+
+The Fed is widely expected to raise its benchmark interest rate to combat stubborn inflation. That could make it more expensive to borrow money to buy a car or carry a balance on a credit card. (Image credit: Win McNamee).
+
+Date: 2026-09-16
+
+### Morning news brief
+
+The Fed is expected to raise interest rates Wednesday, new reports detail the damage and $30 billion price tag of the Iran war, Kennedy Center board votes to close after judge's ruling.
+
+Date: 2026-09-16
+
+### Fed expected to raise interest rates. And, board votes to close Kennedy Center
+
+The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center. (Image credit: Win McNamee).
+
+Date: 2026-09-16
 
 ### US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates
 
@@ -14,60 +68,9 @@ The national average for a gallon of gas is now at $4.32, with the price of dies
 
 Date: 2026-09-14
 
-### Elevated Inflation Keeps Pressure on Fed to Raise Rates
-
-The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.
-
-Date: 2026-09-11
-
-### Funding milestone detected
-
-The Fed's next decision could move gold prices sharply, making the timing of your investment worth considering.
-
-Date: 2026-09-09
-
-### Why the U.S. job market remains resilient in face of global pressures and inflation
-
-The job market delivered a surprising rebound in August, adding 162,000 jobs, far more than economists had expected. The unemployment rate held steady at 4.1%, and the Labor Department revised July numbers upward. The stronger-than-expected report comes as the Federal Reserve is set to weigh interest rates. Geoff Benne.
-
-Date: 2026-09-04
-
-### Fed governor Waller muddies outlook on possible rate hike later this month
-
-Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.
-
-Date: 2026-09-04
-
-### Rate Rise in Play as Fed Officials Await Inflation Data
-
-Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.
-
-Date: 2026-09-03
-
-### Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase
-
-The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved the debate altogether.
-
-Date: 2026-08-12
-
-### Inflation cooled last month as gas prices fell, though costs remain elevated
-
-The modest decline could ease pressure on the Federal Reserve to raise their key interest rate to combat rising costs. Yet prices are still rising more quickly than average wages, underscoring the struggle many Americans have had with more expensive groceries, gas, and healthcare.
-
-Date: 2026-08-12
-
-### Discovered by Atlas
-
-Federal Reserve first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-07
-
-### Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook
-
-The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
-
-Date: 2026-08-07
-
 ## Sources
 
-No public source links.
+- [Morning news brief](https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief?utm_source=lootura.com) — 2026-09-17T08:45:53.000Z
+- [The Fed raises interest rates. And, EU proposes Canada become an 'associate member'](https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com) — 2026-09-17T10:54:18.000Z
+- [Fed Signals Another Rate Increase Could Be Coming](https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html?utm_source=lootura.com) — 2026-09-16T19:12:46.000Z
+- [The Fed Raised Rates. What Comes Next?](https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html?utm_source=lootura.com) — 2026-09-17T09:05:11.000Z

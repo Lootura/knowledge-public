@@ -3,10 +3,16 @@
 > Sigue la actividad de Irene María Montero Gil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/person/irene-montero
 
 ## Cambios recientes
+
+### Urtasun abre la puerta a ser candidato de Sumar en las generales: "Estaré donde mis compañeros decidan"
+
+El ministro de Cultura evita por primera vez echar balones fuera al ser preguntado por la posibilidad de asumir el liderazgo: "Mis compañeros saben que pueden contar conmigo" IU celebra el “giro” de Irene Montero para elegir al candidato de la izquierda en primarias y plantea crear un censo común El ministro de Cultura.
+
+Date: 2026-09-17
 
 ### Irene Montero lanza su carrera electoral prometiendo una jornada semanal de 30 horas
 

@@ -3,10 +3,22 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-12T14:59:00.939Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
+
+“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.
+
+Date: 2026-09-17
+
+### Albares ve «sintonía» con Vivas e Imbroda sobre el paquete para europeizar Ceuta y Melilla
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , habló este miércoles con los presidentes de Ceuta y Melilla, Juan Jesús Vivas y Juan José Imbroda , para informarles del paquete de medidas que adoptará el Gobierno para europeizar las dos ciudades autónomas y percibió «sintonía» en a.
+
+Date: 2026-09-17
 
 ### El sorprendente silencio del Gobierno mientras Marruecos amenaza a España y sólo responde el PP
 
@@ -56,18 +68,6 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-08-13
 
-### Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.
-
-Date: 2026-08-12
-
-### La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno
-
-Del diálogo abierto con Rabat tras la entrada de 80.000 personas en Ceuta, el ministro de Asuntos Exteriores, José Manuel Albares, ensalzó ayer que ambos países están...
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”](https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com) — 2026-09-17T08:18:27.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/organization/junta-electoral-central
 
 ## Cambios recientes
@@ -70,7 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'](https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html?utm_source=lootura.com) — 2026-09-14T20:05:27.000Z
-- [Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA](https://www.eldebate.com/espana/20260915/sanchez-cambio-cupula-censo-electoral-entre-fin-recuento-casa-casa-salto-olimpico-cera_458737.html?utm_source=lootura.com) — 2026-09-15T02:25:00.000Z
-- [La Junta Electoral ejecuta la paralización de la 'ley de nietos' y pide informes a los consulados sobre el nexo de los nacionalizados con el exilio](https://amp.elmundo.es/espana/2026/09/14/6aa7efb8e85ece256f8b457a.html?utm_source=lootura.com) — 2026-09-14T13:13:52.000Z
-- [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z
+No public source links.

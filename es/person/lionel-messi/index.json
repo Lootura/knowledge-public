@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lionel-messi/index.json",
   "description": "Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-09-16T16:06:49.960Z",
   "aliases": [
     "El Messias",
     "El Messías",
@@ -26,6 +26,11 @@
     "Messi"
   ],
   "changes": [
+    {
+      "title": "Argentina convoca a Messi para su último baile",
+      "summary": "El jugador de Inter Miami, pese a estar retirado de la selección ha sido citado para un amistoso de despedida el 6 de octubre contra Benín en Buenos Aires.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Messi llega a un acuerdo para comprar el Eldense",
       "summary": "Leo Messi será el nuevo propietario del Eldense. El argentino ha llegado a un principio de acuerdo para la compra de la totalidad del paquete accionarial del grupo colombiano TH. El futbolista del Inter Miami desembarcará así como dueño de un club del fútbol profesional español, puesto que el conjunto alicantino se enc.",
@@ -69,11 +74,6 @@
     {
       "title": "El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro",
       "summary": "El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...",
-      "date": "2026-08-08"
-    },
-    {
-      "title": "Muere Jorge Messi, padre y mentor del astro argentino",
-      "summary": "La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.",
       "date": "2026-08-08"
     }
   ],

@@ -3,10 +3,40 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### GOP congresswoman says Trump immigration enforcement has "gone too far"
+
+"The same Hispanics who helped you get to the White House in 2024 feel betrayed," said Rep. Maria Elvira Salazar.
+
+Date: 2026-09-17
+
+### JD Vance faces test in White House meeting with Israel-backing radio host
+
+NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.
+
+Date: 2026-09-17
+
+### House passes Russia sanctions bill, overcoming Democratic opposition
+
+The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one day after announcing a deal had been reached with the White House to move forward.
+
+Date: 2026-09-17
+
+### Is Iran Shaping Up to Be a ‘Forever War’?
+
+Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.
+
+Date: 2026-09-16
+
+### Susie Wiles, Trump’s Chief of Staff, Says She Is ‘Cancer Free’
+
+Ms. Wiles, the first woman to be the White House chief of staff, had said in March that she had breast cancer.
+
+Date: 2026-09-16
 
 ### Funding milestone detected
 
@@ -38,36 +68,7 @@ OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded
 
 Date: 2026-09-12
 
-### Funding milestone detected
-
-Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.
-
-Date: 2026-09-12
-
-### ‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump
-
-What’s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories • Plus: The truth about my 11 days in the White House, by Anthony Scaramucci Gene Folkes , 62, based in Manhattan, was a contestant on season 10 of The Apprentice , which ai.
-
-Date: 2026-09-12
-
-### The White House says Truth Social is the ‘most powerful and popular social media platform in the world’
-
-The White House claims the Donald Trump-owned Truth Social is the "most powerful and popular social media platform in the world." The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gather.
-
-Date: 2026-09-11
-
-### Trump escalates Canada trade war by banning some imports
-
-After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.
-
-Date: 2026-09-09
-
-### Trump gave $45,000 gift to Natalie Harp, 2 other aides
-
-A White House spokesperson said in a statement on Wednesday that Mr. Trump "has a longstanding practice of giving Christmas gifts to people in his orbit.".
-
-Date: 2026-09-09
-
 ## Sources
 
-No public source links.
+- [GOP congresswoman says Trump immigration enforcement has "gone too far"](https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/?utm_source=lootura.com) — 2026-09-17T15:54:05.000Z
+- [JD Vance faces test in White House meeting with Israel-backing radio host](https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com) — 2026-09-17T09:50:00.000Z

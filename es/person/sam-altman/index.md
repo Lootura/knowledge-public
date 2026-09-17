@@ -3,10 +3,16 @@
 > Sigue la actividad de Sam Altman en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/person/sam-altman
 
 ## Cambios recientes
+
+### El hackeo a Hugging Face por los agentes rebeldes de OpenAI empezó mucho antes de lo que se creía
+
+El hackeo a Hugging Face que perpetraron agentes de IA rebeldes de OpenAI sigue dando que hablar, ya que día tras día se conoce más del suceso. Si bien la empresa que lidera Sam Altman hizo público su propio reporte del evento, investigadores independientes continúan desentrañando detalles hasta aquí desconocidos o maq.
+
+Date: 2026-09-16
 
 ### Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende
 

@@ -3,10 +3,16 @@
 > Sigue la actividad de Claudia Tacoronte Aguilera en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/organization/claudia-tacoronte-aguilera
 
 ## Cambios recientes
+
+### La gobernadora de Morelos apunta a "avances significativos" en la investigación del asesinato de Claudia Tacoronte
+
+La gobernadora del estado mexicano de Morelos, Margarita González Saravia , ha señalado “ avances significativos ” en las pesquisas sobre el asesinato en Cuautla de la estudiante española Claudia Tacoronte Aguilera , de intercambio en México , y ha prometido que las autoridades “darán con el responsable” para garantiza.
+
+Date: 2026-09-15
 
 ### Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio
 
@@ -34,6 +40,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-- [Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada](https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html?utm_source=lootura.com) — 2026-09-14T19:58:44.000Z
-- [Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio](https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html?utm_source=lootura.com) — 2026-09-14T18:10:54.000Z
-- [Asesinada en México una estudiante española que estaba de intercambio en la Universidad de Morelos](https://elpais.com/mexico/2026-09-14/asesinada-en-morelos-una-estudiante-espanola-de-intercambio.html?utm_source=lootura.com) — 2026-09-14T21:54:46.000Z
+No public source links.

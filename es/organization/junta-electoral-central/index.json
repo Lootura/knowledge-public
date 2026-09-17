@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/junta-electoral-central/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/junta-electoral-central/index.json",
   "description": "Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
   "aliases": [
     "Central Board of the Electoral Census",
     "Central Commission of the Electoral Census",
@@ -69,31 +69,6 @@
       "date": "2026-09-11"
     }
   ],
-  "sources": [
-    {
-      "title": "La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'",
-      "url": "https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T20:05:27.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA",
-      "url": "https://www.eldebate.com/espana/20260915/sanchez-cambio-cupula-censo-electoral-entre-fin-recuento-casa-casa-salto-olimpico-cera_458737.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T02:25:00.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "La Junta Electoral ejecuta la paralización de la 'ley de nietos' y pide informes a los consulados sobre el nexo de los nacionalizados con el exilio",
-      "url": "https://amp.elmundo.es/espana/2026/09/14/6aa7efb8e85ece256f8b457a.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T13:13:52.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región",
-      "url": "https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:30:54.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 4
+  "sources": [],
+  "evidenceCount": 0
 }

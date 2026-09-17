@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores](https://www.elcorreo.com/economia/afiliacion-extranjeros-euskadi-registra-mejor-agosto-marca-20260914110536-nt_amp.html?utm_source=lootura.com) — 2026-09-14T09:05:36.000Z
+No public source links.

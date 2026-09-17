@@ -3,10 +3,22 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Los documentos que prueban que Madrid manipuló la lista de espera del Ramón y Cajal: “Evitad anotarlos como preferentes”
+
+La Comunidad de Madrid ha reconocido este miércoles que las listas de espera del Hospital Ramón y Cajal fueron manipuladas, pero sorprendentemente ha eximido de culpa a los dos jefes señalados y ha dirigido su acusación contra uno de los cuatro médicos que denunció los hechos, el único que dio la cara, Luis Alberto Mar.
+
+Date: 2026-09-16
+
+### La Comunidad de Madrid redobla sus ataques al cirujano que denunció las listas de espera: “Él mismo las manipuló para trabajar menos”
+
+La Comunidad de Madrid ha aprovechado este miércoles la rueda de prensa semanal del Consejo de Gobierno para atacar de frente al cirujano que ha denunciado la manipulación de las listas de espera en el hospital Ramón y Cajal . “Este caso es muy sencillo: el mismo denunciante es el que manipuló las listas de espera. Es.
+
+Date: 2026-09-16
 
 ### Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región
 
@@ -56,19 +68,6 @@ La Comunidad de Madrid redujo de forma significativa durante el mes de julio el 
 
 Date: 2026-09-01
 
-### Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos
-
-La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.
-
-Date: 2026-08-12
-
-### El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña
-
-La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por "créditos consignados insuficientes". El Ejecutivo regional habla.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-- [La Comunidad de Madrid levanta la suspensión de Vallecas y el Rayo volverá a jugar en casa](https://theobjective.com/deportes/futbol/2026-09-14/comunidad-madrid-levanta-suspension-vallecas/?utm_source=lootura.com) — 2026-09-14T19:14:50.000Z
-- [Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región](https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com) — 2026-09-14T17:30:54.000Z
+No public source links.

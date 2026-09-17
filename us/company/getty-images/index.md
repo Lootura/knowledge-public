@@ -3,10 +3,28 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### Dayanita Singh
+
+—Roberto Serra—Iguana Press/Getty Images.
+
+Date: 2026-09-17
+
+### Luke Nikas
+
+—Ramsay de Give—Pool/Getty Images/.
+
+Date: 2026-09-17
+
+### Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI
+
+The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the "Pro-Human Assembly" in Washington, D.C., to convince Congress to work faster to curb the impact of AI. (Image credit: Sanders credit: Sarah Rice/Getty Images and Bannon credit: Kayla Bartkowski/Getty Images).
+
+Date: 2026-09-15
 
 ### OPINION: 25 years on, a nation still mourns
 
@@ -50,24 +68,7 @@ Date: 2026-09-05
 
 Date: 2026-09-04
 
-### Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo
-
-Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years. (Image credit: Paul Morigi/Getty Images).
-
-Date: 2026-09-03
-
-### How will tariffs affect the midterms? In this Michigan border town, it's complicated
-
-The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).
-
-Date: 2026-09-02
-
-### Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal
-
-Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).
-
-Date: 2026-09-02
-
 ## Sources
 
-- [NPR looked for ChatGPT's new crisis feature. It's hard to find](https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com) — 2026-09-14T09:00:00.000Z
+- [Dayanita Singh](https://time.com/collection/time100-art/2026/dayanita-singh/?utm_source=lootura.com) — 2026-09-17T12:01:32.000Z
+- [Luke Nikas](https://time.com/collection/time100-art/2026/luke-nikas/?utm_source=lootura.com) — 2026-09-17T12:01:33.000Z

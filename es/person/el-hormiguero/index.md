@@ -28,5 +28,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-- [Vivas acusa al Gobierno de "irresponsabilidad" y de no querer "molestar" a Marruecos](https://www.elconfidencial.com/espana/2026-09-14/vivas-gobierno-irresponsabilidad-molestar-marruecos_4423827/?utm_source=lootura.com) — 2026-09-14T21:40:00.000Z
-- [Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”](https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com) — 2026-09-14T21:30:45.000Z
+No public source links.

@@ -8,17 +8,45 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
-    "Apple (company)"
+    "Apple (company)",
+    "Apple"
   ],
   "changes": [
+    {
+      "title": "The Apple Watch Series 12 is the start of a new wearable era",
+      "summary": "This time, heart rate monitoring is truly continuous. You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under the hood, the Series 12 builds in major changes that lay the groundwor.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+      "summary": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with the kind of \"I can.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Watch highlights of the 2026 Emmy Awards in 3 minutes",
+      "summary": "Apple TV's \"Widow's Bay\", \"Pluribus,\" and HBO’s \"The Pitt\" received major awards at the 2026 Emmy Awards, with horror-comedy \"Widow's Bay\" taking home some of the night’s biggest awards, including outstanding comedy series, outstanding directing, outstanding lead actor Matthew Rhys, and outstanding supporting actress f.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "‘Widow’s Bay’ Dominates, and 7 Other Takeaways From the 2026 Emmys",
+      "summary": "The Apple TV horror-comedy about a haunted island took home 14 Emmys, including the awards for best comedy, lead actor, writing, directing and supporting actor and actress.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Apple first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "The Apple Watch Series 12 is the start of a new wearable era",
+      "url": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement/index.json",
   "description": "Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [
     "BICE",
     "Bureau of Immigration and Customs Enforcement",
@@ -22,6 +22,11 @@
     "United States Immigration & Customs Enforcement"
   ],
   "changes": [
+    {
+      "title": "US judge blocks DHS from threatening prosecution against man who criticized ICE",
+      "summary": "David Streever was issued a ‘warning notice’ after sending an email critical of ICE to the agency’s director in January The Department of Homeland Security (DHS) may no longer issue a “warning notice” – threatening prosecution against a US citizen – for criticizing Immigration and Customs Enforcement (ICE), a federal j.",
+      "date": "2026-09-16"
+    },
     {
       "title": "'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract",
       "summary": "U.S. Immigration and Customs Enforcement agents may soon be outfitted with electric shock gloves that can deliver painful jolts when they come in contact with a person's skin. While ICE says the new gear will help agents deescalate situations with detainees or protesters without relying on \"higher levels of force,\" Dem.",
@@ -66,20 +71,8 @@
       "title": "Video appears to show United employee threatening to call ICE on customer",
       "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Video appears to show United employee threaten to call ICE on customer",
-      "summary": "A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [
-    {
-      "title": "Hochul’s how-to guide to stopping ICE",
-      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/14/hochuls-how-to-guide-to-stopping-ice-01075287?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T21:03:18.000Z",
-      "sourceId": "lootura-us-politico"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

@@ -3,7 +3,7 @@
 > Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-09-11T18:58:25.525Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/product/truth-social
 
 ## Recent changes

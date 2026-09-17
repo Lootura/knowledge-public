@@ -3,76 +3,74 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
 
-### Tech stocks slump after AI execs call for industry slowdown
+### Developer ecosystem expanded
 
-The tech-heavy Nasdaq slumped 147 points on Monday after AI company executives called for a slowdown in developing the technology.
+Nature, Published online: 16 September 2026; doi:10.1038/d41586-026-02927-1 Extensive cellular integration might provide platform for in vivo testing of new therapies — plus, the AI tool that turns papers into ‘virtual corresponding authors’.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Vance says Americans should not be scared of AI as calls for limits grow
+### Who gets credit in the AI era? OpenAI maths bombshell sparks debate
 
-Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.
+Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### AI companies must ensure their tech is safe, says top Trump adviser on AI
+### When AI goes rogue, its human overseers may be to blame
 
-In an interview with CBS News, Sacks suggested that fears AI could harm people are overblown. "I think this is becoming a panic," he said.
+When AI agents hack real systems, the bigger issue may be the human choices that gave them access, autonomy and too few safeguards.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit
+### AI is feared globally as the destroyer of jobs
 
-“Data centers are great, and they make people wealthy,” the president told CEO Jensen Huang, whose company makes AI chips and hardware.
+In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Tamara Keith and Amy Walter on Washington's response to AI and data center concerns
+### Gaza documentary praised at Venice sparks fury in Israel
 
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including how Washington is responding to AI and data center concerns, Mitch McConnell returning to the Senate and how midterm voters feel about affordability and political corruption.
+The documentary "NAZA" alleges the IDF used AI software to knowingly kill civilians in Gaza. It won a 25-minute standing ovation at Venice — but Israeli leaders are calling it treason. NBC News' Matt Bradley reports.
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### Is Big Tech’s AI slowdown a safety pact or a cartel?
+### As campaign season gears up, AI-generated ads are everywhere
 
-When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at le.
+Data suggests many candidates are embracing AI this year to boost their image and portray their opponents unfavorably. But whether it will turn out voters remains unclear. (Image credit: AI-generated campaign ads).
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### Trump dismisses push for AI guardrails despite warnings from tech leaders
+### Developer ecosystem expanded
 
-President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a "SMART PRESIDENT.".
+Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### DevFest is back
+### The sexy AI-powered dating app scams are here
 
-DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.
+Security researcher Matthew "Zigula" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sp.
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### Briefing Chat: The Bunsen burner myth that turns out to be just hot air
+### Tech stock selloff after AI leaders call for slowdown in development
 
-Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.
+Calls for a slowdown in AI development sparked a global selloff in tech stocks on Monday. Jessica Inskip, the director of investor research at StockBrokers.com, joins "The Daily Report" to discuss.
 
-Date: 2026-09-14
+Date: 2026-09-15
 
-### Beijing hits back at Anthropic CEO's call to curb China's AI development
+### Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI
 
-China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI "fearmongering," as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).
+The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the "Pro-Human Assembly" in Washington, D.C., to convince Congress to work faster to curb the impact of AI. (Image credit: Sanders credit: Sarah Rice/Getty Images and Bannon credit: Kayla Bartkowski/Getty Images).
 
-Date: 2026-09-14
+Date: 2026-09-15
 
 ## Sources
 
-- [Tech stocks slump after AI execs call for industry slowdown](https://www.cbsnews.com/news/tech-stock-selloff-ai-warning/?utm_source=lootura.com) — 2026-09-14T22:50:30.000Z
-- [AI companies must ensure their tech is safe, says top Trump adviser on AI](https://www.cbsnews.com/news/david-sacks-ai-developers-safety-regulation/?utm_source=lootura.com) — 2026-09-14T22:47:11.000Z
-- [Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit](https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761?utm_source=lootura.com) — 2026-09-14T23:06:12.000Z
-- [WATCH: Vance says Americans should not be scared of AI as calls for limits grow](https://www.pbs.org/newshour/politics/watch-vance-says-americans-should-not-be-scared-of-ai-as-calls-for-limits-grow?utm_source=lootura.com) — 2026-09-14T15:06:18.000Z
-- [Tamara Keith and Amy Walter on Washington's response to AI and data center concerns](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-washingtons-response-to-ai-and-data-center-concerns?utm_source=lootura.com) — 2026-09-14T22:25:57.000Z
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com) — 2026-09-14T22:59:41.000Z
+- [Who gets credit in the AI era? OpenAI maths bombshell sparks debate](https://www.nature.com/articles/d41586-026-02910-w?utm_source=lootura.com) — 2026-09-17T16:13:57.977Z
+- [Transplanted human brain-tissue takes root in mice without a cortex](https://www.nature.com/articles/d41586-026-02927-1?utm_source=lootura.com) — 2026-09-17T16:13:57.977Z
+- [When AI goes rogue, its human overseers may be to blame](https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety?utm_source=lootura.com) — 2026-09-17T13:00:00.000Z
+- [AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs?utm_source=lootura.com) — 2026-09-17T14:00:00.000Z

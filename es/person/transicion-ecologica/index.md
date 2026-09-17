@@ -3,7 +3,7 @@
 > Sigue la actividad de Ministerio para la Transición Ecológica y el Reto Demográfico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/person/transicion-ecologica
 
 ## Cambios recientes

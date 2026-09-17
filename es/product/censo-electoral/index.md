@@ -3,20 +3,32 @@
 > Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/product/censo-electoral
 
 ## Cambios recientes
 
-### La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'
+### 'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados
 
-La Junta Electoral Central (JEC) ha empezado a dar cumplimiento este lunes a la orden dictada por el Tribunal Supremo en el auto en el que suspendió las altas censales derivadas de la ley de nietos. En una reunión de urgencia, este órgano ha encargado informes a la Oficina del Censo Electoral y a los registros consular.
+La frontal oposición del Gobierno ante la decisión del Tribunal Supremo de decretar la suspensión cautelar de las inscripciones en el Censo Electoral de Residentes Ausentes ( CERA ), derivado de la ley de nietos y de una instrucción administrativa posterior, acabará en recurso ante el Tribunal Constitucional. La única.
 
-Date: 2026-09-14
+Date: 2026-09-17
+
+### Sumar registra una enmienda para blindar el voto de nacionalizados por la ‘ley de nietos’
+
+Sumar ha anunciado que registrará una enmienda a la Ley Orgánica de Educación que se tramita actualmente en el Congreso para garantizar el derecho a voto de los descendientes de exiliados y tratar de dejar sin efecto la suspensión cautelar del Tribunal Supremo para las personas ya inscritas en el Censo Electoral de Res.
+
+Date: 2026-09-16
 
 ### El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”
 
 La Oficina del Censo Electoral asegura que es el elector quien decide en qué circunscripción quiere quedar inscrito en el censo de residentes ausentes (CERA), “sin que en la práctica se realicen inscripciones de oficio”. Así lo expone el órgano encargado de la formación del censo en un informe a la Junta Electoral Cent.
+
+Date: 2026-09-14
+
+### La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'
+
+La Junta Electoral Central (JEC) ha empezado a dar cumplimiento este lunes a la orden dictada por el Tribunal Supremo en el auto en el que suspendió las altas censales derivadas de la ley de nietos. En una reunión de urgencia, este órgano ha encargado informes a la Oficina del Censo Electoral y a los registros consular.
 
 Date: 2026-09-14
 
@@ -52,5 +64,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'](https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html?utm_source=lootura.com) — 2026-09-14T20:05:27.000Z
-- [El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”](https://elpais.com/espana/2026-09-14/el-informe-de-la-oficina-del-censo-despeja-las-dudas-sobre-el-municipio-donde-votan-los-nacionalizados-no-hay-inscripciones-de-oficio.html?utm_source=lootura.com) — 2026-09-14T18:04:12.000Z
+No public source links.

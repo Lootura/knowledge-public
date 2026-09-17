@@ -3,10 +3,28 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### Who gets credit in the AI era? OpenAI maths bombshell sparks debate
+
+Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.
+
+Date: 2026-09-17
+
+### Developer ecosystem expanded
+
+Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
+
+Date: 2026-09-16
+
+### Funding milestone detected
+
+The funding round would double the value of the start-up behind ChatGPT and establish it as the world’s most valuable private company.
+
+Date: 2026-09-16
 
 ### Is Big Tech’s AI slowdown a safety pact or a cartel?
 
@@ -50,25 +68,6 @@ In May, hundreds of malicious and spam packages were uploaded to RubyGems, causi
 
 Date: 2026-09-12
 
-### Why are the people building the most powerful AI so worried about what it could do?
-
-As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag. (Image credit: Karl Mondon).
-
-Date: 2026-09-12
-
-### OpenAI just wants to win
-
-OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathemat.
-
-Date: 2026-09-12
-
-### Developer ecosystem expanded
-
-Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tuesday, accusing the company and rival developer and ChatGPT-maker OpenAI of "gambling with our lives" by racing to develop advanced AI models. He spoke with Jo Ling Kent about his decision to resign and why he feels AI could one day threate.
-
-Date: 2026-09-11
-
 ## Sources
 
-- [Trump says U.S. needs a "high IQ" president to handle AI](https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com) — 2026-09-14T22:37:28.000Z
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com) — 2026-09-14T22:59:41.000Z
+- [Who gets credit in the AI era? OpenAI maths bombshell sparks debate](https://www.nature.com/articles/d41586-026-02910-w?utm_source=lootura.com) — 2026-09-17T16:13:57.977Z

@@ -3,10 +3,40 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
+
+El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin de la guerra con Irán «esté cerca» y ha insistido en que Teherán «quiere lograr un acuerdo» , en medio del estancamiento de las conversaciones mediadas por Pakistán para poner fin al conflicto abierto en febrero por la ofensiva lanzada por.
+
+Date: 2026-09-17
+
+### Roberto Brasero, sobre las lluvias de este jueves: "Pueden seguir las lluvias y tormentas en las mismas zonas pero ya irán perdiendo intensidad"
+
+El episodio de inestabilidad todavía no ha terminado en el este de España , aunque durante este jueves debería comenzar a perder fuerza. Roberto Brasero advierte de que Comunidad Valenciana, Murcia, Cataluña, el este de Andalucía y Castilla-La Mancha seguirán entre las zonas con riesgo de lluvias y tormentas, especialm.
+
+Date: 2026-09-17
+
+### EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis
+
+Hacía mucho tiempo que la seguridad y la defensa no estaban tan presentes en el debate político ni tenían tanta relevancia. En un entorno de guerras híbridas, de agresiones directas de Rusia (la invasión de Ucrania está ya en su 5º año), de ataques de Estados Unidos e Israel contra Irán , de la respuesta iraní contra l.
+
+Date: 2026-09-17
+
+### Las gasolinas se disparan un 24%, la luz crece un 9% y la inflación repunta en agosto a máximos en tres años
+
+El Instituto Nacional de Estadística (INE) ha confirmado que la inflación se disparó hasta el 4,3% el pasado agosto , una escalada sin precedentes en tres años que está motivada por la persistente crisis energética que se ha desatado tras la guerra en Irán . La oficina estadística ha revelado este martes que el precio.
+
+Date: 2026-09-15
+
+### Por qué Europa teme más el rally del gas que el del petróleo
+
+El petróleo , desde el estallido de la guerra en Irán a finales de febrero, ha cobrado de nuevo un papel protagonista en los mercados financieros. Su influencia vuelve a estar mucho más vigente desde que superó la barrera de los 100 dólares. En el día de hoy el barril de Brent alcanza los 107 dólares, fruto de una esca.
+
+Date: 2026-09-15
 
 ### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
 
@@ -38,36 +68,6 @@ El presidente de Estados Unidos, Donald Trump , rompió con la tradición que ob
 
 Date: 2026-09-11
 
-### Trump aprovecha el acto de recuerdo a las víctimas del 11-S para justificar su guerra en Irán
-
-El presidente de Estados Unidos, Donald Trump, ha decidido por segundo año consecutivo ausentarse del acto principal en su Nueva York natal en recuerdo a los fallecidos en los atentados del 11 de septiembre del 2001. En su lugar, en aras de acaparar protagonismo en solitario con un discurso, esta mañana ha asistido a u.
-
-Date: 2026-09-11
-
-### Donald Trump, en el aniversario del 11-S: «Irán jamás tendrá un arma nuclear»
-
-El presidente de Estados Unidos , Donald Trump , aprovechó este viernes la conmemoración del 25 aniversario de los atentados del 11 de septiembre de 2001 para defender la guerra iniciada por su Administración contra Irán y prometer que la República Islámica nunca obtendrá un arma nuclear. «Saludamos a los miembros de l.
-
-Date: 2026-09-11
-
-### El petróleo ‘brent’ acelera y toca los 107 dólares el barril tras la escalada de los hutíes en el mar Rojo
-
-Los llamamientos obstinados de Donald Trump para convencer a los ciudadanos de un final inminente de la guerra contra Irán se topan una y otra vez con otra realidad tozuda. La escalada de los combates entre Washington y Teherán de esta semana, y el rápido avance de los hutíes , aliados de Irán, que hoy han tomado un pu.
-
-Date: 2026-09-10
-
-### El petróleo supera los 107 dólares y reactiva la escalada de la deuda
-
-El petróleo prosigue su escalada este mes a raíz de la inestabilidad en Oriente Próximo. El conflicto entre Estados Unidos e Irán cada vez parece estar más lejos de resolverse, a pesar de que Donald Trump ha asegurado que concluirá tras las elecciones de mitad de mandato, lo que dispara la preocupación sobre el suminis.
-
-Date: 2026-09-10
-
-### El BCE sube los tipos por segunda vez en el año porque teme una inflación prolongada
-
-La complejidad de la economía, los miles de variables en las que se basa el Banco Central Europeo (BCE) para ajustar el precio del dinero unos grados a derecha o a izquierda, esconden una verdad de sencillez extrema: depende de la guerra de Irán. La subida del precio del petróleo y el gas ha llevado al BCE a subir tipo.
-
-Date: 2026-09-10
-
 ## Fuentes
 
-- [Atasco energético en Ormuz](https://www.elperiodicomediterraneo.com/opinion/2026/09/15/atasco-energetico-ormuz-134286799.html?utm_source=lootura.com) — 2026-09-15T02:31:48.000Z
+No public source links.

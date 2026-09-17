@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T03:06:35.172Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina
+
+Whatley, the former Republican National Committee chairman, faces Democratic former Gov. Roy Cooper in a critical race for the Senate.
+
+Date: 2026-09-17
 
 ### Republicans fear they have a North Carolina problem
 
@@ -61,12 +67,6 @@ Date: 2026-08-11
 State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.
 
 Date: 2026-08-11
-
-### Outer Banks community spending $50 million to save its beachfront economy
-
-A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.
-
-Date: 2026-08-07
 
 ## Sources
 

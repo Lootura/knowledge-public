@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/magnus-brunner/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/magnus-brunner/index.json",
   "description": "Sigue la actividad de Magnus Brunner en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Brunner",
     "Dr. Magnus Brunner, LL.M.",
@@ -17,6 +17,11 @@
     "Magnus Oswald Brunner"
   ],
   "changes": [
+    {
+      "title": "Feijóo pide a la UE que medie con Marruecos para que \"materialice su compromiso\" de aceptar el retorno de los migrantes de Ceuta",
+      "summary": "Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos \"materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente\" en Ceuta el pasado 30 de julio y \"para que España acelere los procedimient.",
+      "date": "2026-09-17"
+    },
     {
       "title": "Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha abordado este martes junto al comisario europeo de Asuntos de Interior y Migración, Magnus Brunner, un «refuerzo de cooperación» de la Unión Europea en Ceuta y Melilla y la «presencia permanente» de Frontex , Europol y la Agencia c.",
@@ -38,6 +43,13 @@
       "date": "2026-09-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo pide a la UE que medie con Marruecos para que \"materialice su compromiso\" de aceptar el retorno de los migrantes de Ceuta",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-ue-que-medie-con-marruecos-para-que-materialice-su-compromiso-aceptar-retorno-los-migrantes-ceuta_7038045_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:58:37.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

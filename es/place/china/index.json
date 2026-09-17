@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -28,8 +28,28 @@
   ],
   "changes": [
     {
+      "title": "Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares",
+      "summary": "El Parque Científico Tecnológico del Transporte Santana, de Linares (Jaén), ha acogido este jueves la firma del acuerdo marco con Arcfox, la división eléctrica premium de BAIC, uno de los gigantes y fabricantes de automóviles de China, que va a hacer posible el ensamblaje en la planta de Santana Motors de vehículos elé.",
+      "date": "2026-09-17"
+    },
+    {
       "title": "¿Dónde será la próxima avalancha? El colapso del glaciar de Nepal lanza un preocupante aviso",
       "summary": "Las devastadoras inundaciones causadas por el colapso de un glaciar en la frontera de Nepal con China han dejado un trágico balance de cerca de 1.370 muertos y más de 5.100 desaparecidos, según las autoridades nepalíes. A estas cifras hay que sumar al menos 43 muertos y alrededor de 550 desaparecidos en territorio chin.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
+      "summary": "Toda una generación de estadounidenses quedó marcada por el pavor que sintieron cuando un artefacto soviético sobrevoló por encima de sus cabezas: la sonda Sputnik , el primer satélite artificial del planeta Tierra. Ese momento Sputnik no solo espoleó a Estados Unidos en la carrera espacial, que acabó con la URSS desca.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Washington y Pekín coinciden por una vez: la IA no se debe frenar",
+      "summary": "Las principales voces de la industria piden más regulación pero tanto los gobiernos de China como de EEUU ven en la tecnología la herramienta perfecta para dominar la escena geopolítica Leer.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China",
+      "summary": "Lucía Velasco, experta en gobernanza de la inteligencia artifical y codirectora del ‘Oxford AI diplomacy lab’, conversa con EL PAÍS sobre la participación de la UE en el desarrollo de esta tecnología.",
       "date": "2026-09-15"
     },
     {
@@ -56,53 +76,15 @@
       "title": "El Sur Global se alza contra los «privilegios» de Occidente",
       "summary": "La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencias del Sur Global , no solo congrega a los rivales de Occidente, como China, sino también a sus enemigos, como Rusia e Irán. Este grupo tan heterogéneo, que incluye también a Brasil, Sudáfrica, Arabia Saudí, Emiratos Árabes Unidos y otras na.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "¿Están las universidades chinas mejor preparadas para la inteligencia artificial?",
-      "summary": "Entrada sur de la Universidad de Comunicación de China, en Pekín. Liblib/Wikimedia Commons , CC BY-SA Mientras en Europa y EE. UU. debatimos sobre cómo adaptar tareas, enseñanzas, métodos de evaluación e incluso la composición de los planes de estudio al aterrizaje disruptor de la inteligencia artificial en la universi.",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Xiaomi ha lanzado un tendedero para la ropa que soluciona el mayor problema de TODOS los hogares en España",
-      "summary": "Xiaomi lo ha vuelto a hacer. No ha lanzado un móvil o unos auriculares impresionantes, sino un tendedero. Sí, para la ropa. Y cuando lo veas, probablemente vas a entender por qué en China está triunfando y vendiendo miles de unidades. La idea es sublime si tienes una casa pequeña y estás harto de que el tendedero de la.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "El pulso entre China y EEUU se traslada a Oriente Próximo",
-      "summary": "El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el \"fortalecimiento del diálogo\" Leer.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China",
-      "summary": "La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Washington y Pekín coinciden por una vez: la IA no se debe frenar",
-      "url": "https://www.elmundo.es/economia/2026/09/14/6aa818fae85ece761b8b4594.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T20:44:26.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
-      "url": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T10:16:39.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "¿Dónde será la próxima avalancha? El colapso del glaciar de Nepal lanza un preocupante aviso",
-      "url": "https://okdiario.com/okgreen/donde-sera-proxima-avalancha-colapso-del-glaciar-nepal-lanza-preocupante-aviso-20272735/amp?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T03:15:12.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
-      "url": "https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:52:08.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares",
+      "url": "https://cincodias.elpais.com/companias/2026-09-17/santana-se-alia-con-el-gigante-chino-baic-para-ensamblar-coches-electricos-en-linares.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:34:14.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 1
 }

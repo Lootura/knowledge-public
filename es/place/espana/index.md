@@ -3,80 +3,78 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### El precio de la bombona de butano sube a partir de hoy y se acerca a su máximo en cuatro años
+### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
 
-Quienes calientan sus hogares con butano vuelven a recibir a partir de hoy malas noticias: el precio de la bombona sube de nuevo. Lo hace prácticamente al máximo posible, un 4,96%, frente al tope del 5%.En España, todavía hay hogares en los que se utiliza motivado, por ejemplo, por alquileres más estacionales o en la h.
+“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### No es Noé ni Mateo: el curioso nombre bíblico de niño que gana popularidad en Cataluña y menos de 200 personas llevan en España
+### Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica
 
-Los nombres de niño de toda la vida empiezan a compartir terreno en Cataluña con opciones mucho más inesperadas. Junto a clásicos como Marc, Jan o Pol aparecen alternativas breves y originales que buscan diferenciarse sin perder significado. Algunas recuperan raíces catalanas y otras llegan de tradiciones mucho más ant.
+Última hora de Ceuta y la actualidad política en España: ultimátum al Gobierno, choque judicial, ayudas millonarias y tensión en el Congreso.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Ni solución milagrosa ni fraude ambiental: los biocombustibles buscan su lugar en la descarbonización
+### Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta
 
-El sector del transporte es responsable por sí solo del 32,5% de las emisiones de gases de efecto invernadero en España. Urge, por tanto, descarbonizar esta actividad y para ello se plantean dos soluciones: la electrificación del transporte es la prioritaria, pero también se mira con atención a los biocombustibles.Esto.
+Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos "materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente" en Ceuta el pasado 30 de julio y "para que España acelere los procedimient.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Tormenta en los mercados de deuda: se dispara el bono de EEUU y el de España supera el 4% por primera vez desde 2013
+### Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía
 
-La escalada en Oriente Próximo y la presión del crudo empujan al alza a los bonos soberanos ante la perspectiva de más inflación y subida duradera de tipos de interés Leer.
+Barcelona, Real Madrid, Atlético y Real Sociedad lucharán por el título del 2 al 6 de febrero de 2027 en Estambul.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Boicot político a Madring
+### España sitúa su deuda pública por debajo del 100% del PIB por primera vez desde la pandemia
 
-La celebración en Madrid del Gran Premio de España de Fórmula 1 ha representado a todas luces una buena noticia desde el punto de vista deportivo, de infraestructura, inversión e imagen exterior. Sin embargo, alrededor de la carrera ha aflorado una burda operación política de boicot a la Comunidad y la ciudad de Madrid.
+Nunca una décima de punto había dado para tanto. La deuda pública española se situó el pasado julio por debajo del umbral del 100% del producto interior bruto (PIB) por primera vez desde la pandemia . El dato, publicado este jueves por el Banco de España, sitúa el pasivo del conjunto de las Administraciones públicas ex.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados
+### Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas
 
-La capital de España será uno de los puntos más castigados del país con un repunte de los termómetros antes de la salida del verano.
+El juicio contra cuatro sospechosos de trasladar 400 kilos de cocaína desde Colombia a España para su distribución en la Costa del Sol culminó este jueves con un inesperado desenlace: al quedar visto para sentencia, los cuatro fueron arrestados en la propia sala y enviados a prisión provisional hasta que se dicte el fa.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### «San Mamés y Bilbao son un mercado sobre el que construir la NFL en España»
+### Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos
 
-«Este año volveremos a organizar una fiesta en el estadio del Athletic para ver los partidos de Acción de Gracias», desvela el ejecutivo.
+El Parlamento Europeo no tiene competencias en política exterior, intenta tener protagonismo en esa agenda. El PP español ha tirado esa palanca para atacar al Gobierno, algo que ya es casi una tradición en Bruselas: la Eurocámara ha aprobado este jueves una resolución, presentada por el PP europeo con el patrocinio del.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### El mapa electoral roto de Suecia: la incógnita de las 200.000 papeletas que faltan aún por contar
+### Cómo ganar en la Bolsa española más allá de los bancos
 
-Los ajustados resultados quedan a merced de un botón exterior en el que a diferencia que en España no todos los que tienen pasaporte podrán votar Leer.
+Los bancos españoles lideran las subidas en el Ibex en los últimos años, pero hay otros valores con los que se pueden conseguir interesantes rentabilidades, según Manuel Pinto, responsable de análisis de XTB en España.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Cómo tomar decisiones cuando la oficina es como un circuito de F1
+### Cristina Pitarch, responsable de Anthropic en España: «Un juguete está más regulado que la IA»
 
-La estrategia de Mercedes de que Kimi Antonelli entrara en boxes cuando apareció el coche de seguridad virtual fue clave en su victoria del Gran Premio de España el pasado domingo. Y es que en la Fórmula 1 todo es rápido, incluidas las decisiones . Un circuito fértil para aprender qué hacer en tiempo récord y con poca.
+En plena tormenta por las alarmas lanzadas por los gigantes americanos de la inteligencia artificial (IA), el impulsor del miedo a que esta tecnología sobrepase los límites éticos y humanos, Anthropic, acaba de nombrar nueva jefa en España, tras su desembarco con una oficina, como adelantó ABC. Cristina Pitarch , exalt.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta
+### Ningún hotel español consigue entrar en el ránking de los 100 mejores del mundo
 
-El presidente-alcalde de Ceuta , Juan Jesús Vivas, es uno de los políticos más veteranos y consolidados en España. Casado y padre de dos hijos, Vivas se ha convertido en una de las figuras políticas más longevas de España, liderando el gobierno ceutí a lo largo de más de dos décadas marcadas por la gestión de la comple.
+El Rosewood de Hong Kong es, nuevamente, el mejor hotel del mundo , según 'The 50 Best Hotels 2026' (antes llamado 'The World's 50 Best Hotels'), que ha vuelto a dejar a España fuera de su ránking. En el 'top ten' de este listado figuran, además del ganador, Capella Bangkok, en el segundo puesto, seguido, en orden desc.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
 ## Fuentes
 
-- [Boicot político a Madring](https://www.abc.es/opinion/editorial-boicot-politico-madring-20260914213411-nt.html?utm_source=lootura.com) — 2026-09-14T19:34:22.000Z
-- [La Aemet lanza aviso amarillo por altas temperaturas en Madrid: las máximas alcanzarán 37 grados](https://www.abc.es/espana/madrid/aemet-lanza-aviso-naranja-altas-temperaturas-madrid-20260915050000-nt_amp.html?utm_source=lootura.com) — 2026-09-14T23:20:41.000Z
-- [El precio de la bombona de butano sube a partir de hoy y se acerca a su máximo en cuatro años](https://www.abc.es/economia/cuentas-corrientes/precio-bombona-butano-sube-partir-hoy-acerca-20260915020547-nt.html?utm_source=lootura.com) — 2026-09-15T00:05:47.000Z
-- [No es Noé ni Mateo: el curioso nombre bíblico de niño que gana popularidad en Cataluña y menos de 200 personas llevan en España](https://www.elconfidencial.com/espana/cataluna/2026-09-15/nombre-nino-poco-comun-cataluna-1tna-1qrt_4423349/?utm_source=lootura.com) — 2026-09-15T03:00:00.000Z
-- [«San Mamés y Bilbao son un mercado sobre el que construir la NFL en España»](https://www.elcorreo.com/deportes/mas-deportes/san-mames-bilbao-mercado-sobre-construir-nfl-20260913004201-nt_amp.html?utm_source=lootura.com) — 2026-09-14T22:42:01.000Z
-- [El mapa electoral roto de Suecia: la incógnita de las 200.000 papeletas que faltan aún por contar](https://www.elmundo.es/internacional/2026/09/15/6aa841c521efa01a628b4591.html?utm_source=lootura.com) — 2026-09-14T23:35:05.000Z
-- [Tormenta en los mercados de deuda: se dispara el bono de EEUU y el de España supera el 4% por primera vez desde 2013](https://www.elmundo.es/economia/empresas/2026/09/14/6aa812a1e85eced5038b459b.html?utm_source=lootura.com) — 2026-09-14T15:28:47.000Z
-- [Cómo tomar decisiones cuando la oficina es como un circuito de F1](https://www.expansion.com/estilo-vida/gestion/2026/09/15/6aa821f4e5fdea76218b457b.html?utm_source=lootura.com) — 2026-09-14T23:07:08.000Z
-- [Ni solución milagrosa ni fraude ambiental: los biocombustibles buscan su lugar en la descarbonización](https://okdiario.com/okgreen/ni-solucion-milagrosa-ni-fraude-ambiental-biocombustibles-buscan-lugar-descarbonizacion-19054218/amp?utm_source=lootura.com) — 2026-09-15T03:00:23.000Z
-- [Así es Juan Jesús Vivas: su edad, su pareja e hijos, estudios y su carrera política hasta ser presidente de Ceuta](https://okdiario.com/espana/asi-juan-jesus-vivas-edad-pareja-hijos-estudios-carrera-politica-hasta-ser-presidente-ceuta-20289076?utm_source=lootura.com) — 2026-09-14T20:19:27.000Z
+- [Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta](https://www.20minutos.es/nacional/feijoo-pide-ue-que-medie-con-marruecos-para-que-materialice-su-compromiso-aceptar-retorno-los-migrantes-ceuta_7038045_0.html?utm_source=lootura.com) — 2026-09-17T12:58:37.000Z
+- [Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía](https://www.abc.es/deportes/futbol/fechas-horarios-estadios-supercopa-espana-jugara-turquia-20260917173039-nt_amp.html?utm_source=lootura.com) — 2026-09-17T15:30:40.000Z
+- [España sitúa su deuda pública por debajo del 100% del PIB por primera vez desde la pandemia](https://elpais.com/economia/2026-09-17/espana-situa-su-deuda-publica-por-debajo-del-100-del-pib-por-primera-vez-desde-la-pandemia.html?utm_source=lootura.com) — 2026-09-17T15:13:51.000Z
+- [Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas](https://www.elconfidencial.com/espana/2026-09-17/acusados-cocaina-arrestados-sala-juicio-1tna-1tps_4426024/?utm_source=lootura.com) — 2026-09-17T15:09:00.000Z
+- [Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos](https://elpais.com/espana/2026-09-17/las-derechas-europeas-cargan-contra-espana-por-la-crisis-de-ceuta-y-lanzan-una-advertencia-a-marruecos.html?utm_source=lootura.com) — 2026-09-17T12:22:12.000Z
+- [Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”](https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com) — 2026-09-17T08:18:27.000Z
+- [Cómo ganar en la Bolsa española más allá de los bancos](https://www.expansion.com/podcasts/en-accion/2026/09/17/6aaba466e5fdea7b558b456f.html?utm_source=lootura.com) — 2026-09-17T12:07:33.000Z
+- [Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica](https://okdiario.com/espana/ultimas-noticias-crisis-ceuta-actualidad-politica-directo-choque-gobierno-justicia-autonomias-intensifica-20312346/amp?utm_source=lootura.com) — 2026-09-17T09:07:12.000Z

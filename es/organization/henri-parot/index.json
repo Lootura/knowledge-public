@@ -1,0 +1,34 @@
+{
+  "id": "es-henri-parot",
+  "name": "Henri Parot",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/henri-parot",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/henri-parot",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/henri-parot/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/henri-parot/index.json",
+  "description": "Sigue la actividad de Henri Parot en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-17T09:12:14.542Z",
+  "aliases": [
+    "Henri Unai Parot Navarro"
+  ],
+  "changes": [
+    {
+      "title": "La Audiencia Nacional recurre el tercer grado concedido por el Gobierno Vasco al etarra Henri Parot",
+      "summary": "La Fiscalía considera que la aprobación de la progresión por la consejería de la socialista San José resulta «prematura en el momento actual y no se ajusta plenamente» a los criterios legales que rigen la clasificación penitenciaria.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Henri Parot first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "La Fiscalía recurre el tercer grado del exdirigente de ETA Henri Parot",
+      "summary": "La Fiscalía de la Audiencia Nacional ha recurrido el tercer grado concedido la semana pasada por el Gobierno vasco al etarra Henri Parot (Argel, Francia, 1958), autor de sanguinarios atentados, como el de la casa cuartel de Zaragoza de 1987 y condenado a penas superiores a los 4.000 años de prisión. El terrorista, que.",
+      "date": "2026-09-16"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

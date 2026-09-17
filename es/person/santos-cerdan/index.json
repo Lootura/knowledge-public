@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/santos-cerdan/index.json",
   "description": "Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-13T16:54:17.045Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Cerdán",
     "Santos"
   ],
   "changes": [
+    {
+      "title": "Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire",
+      "summary": "Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.",
+      "date": "2026-09-17"
+    },
     {
       "title": "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»",
       "summary": "El primer juez que investigó la presunta 'cloaca' del PSOE , Arturo Zamarriego, apunta a que Santos Cerdán, exsecretario de Organización del PSOE, pago con fondos del partido a Leire Díez por los «servicios» llevados a cabo para desestabilizar las investigaciones judiciales que afectaban al Gobierno y a Ferraz. En un a.",
@@ -45,6 +50,13 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire",
+      "url": "https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T13:09:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

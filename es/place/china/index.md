@@ -3,14 +3,38 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
 
+### Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares
+
+El Parque Científico Tecnológico del Transporte Santana, de Linares (Jaén), ha acogido este jueves la firma del acuerdo marco con Arcfox, la división eléctrica premium de BAIC, uno de los gigantes y fabricantes de automóviles de China, que va a hacer posible el ensamblaje en la planta de Santana Motors de vehículos elé.
+
+Date: 2026-09-17
+
 ### ¿Dónde será la próxima avalancha? El colapso del glaciar de Nepal lanza un preocupante aviso
 
 Las devastadoras inundaciones causadas por el colapso de un glaciar en la frontera de Nepal con China han dejado un trágico balance de cerca de 1.370 muertos y más de 5.100 desaparecidos, según las autoridades nepalíes. A estas cifras hay que sumar al menos 43 muertos y alrededor de 550 desaparecidos en territorio chin.
+
+Date: 2026-09-15
+
+### EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica
+
+Toda una generación de estadounidenses quedó marcada por el pavor que sintieron cuando un artefacto soviético sobrevoló por encima de sus cabezas: la sonda Sputnik , el primer satélite artificial del planeta Tierra. Ese momento Sputnik no solo espoleó a Estados Unidos en la carrera espacial, que acabó con la URSS desca.
+
+Date: 2026-09-15
+
+### Washington y Pekín coinciden por una vez: la IA no se debe frenar
+
+Las principales voces de la industria piden más regulación pero tanto los gobiernos de China como de EEUU ven en la tecnología la herramienta perfecta para dominar la escena geopolítica Leer.
+
+Date: 2026-09-15
+
+### Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China
+
+Lucía Velasco, experta en gobernanza de la inteligencia artifical y codirectora del ‘Oxford AI diplomacy lab’, conversa con EL PAÍS sobre la participación de la UE en el desarrollo de esta tecnología.
 
 Date: 2026-09-15
 
@@ -44,33 +68,6 @@ La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencia
 
 Date: 2026-09-12
 
-### ¿Están las universidades chinas mejor preparadas para la inteligencia artificial?
-
-Entrada sur de la Universidad de Comunicación de China, en Pekín. Liblib/Wikimedia Commons , CC BY-SA Mientras en Europa y EE. UU. debatimos sobre cómo adaptar tareas, enseñanzas, métodos de evaluación e incluso la composición de los planes de estudio al aterrizaje disruptor de la inteligencia artificial en la universi.
-
-Date: 2026-09-10
-
-### Xiaomi ha lanzado un tendedero para la ropa que soluciona el mayor problema de TODOS los hogares en España
-
-Xiaomi lo ha vuelto a hacer. No ha lanzado un móvil o unos auriculares impresionantes, sino un tendedero. Sí, para la ropa. Y cuando lo veas, probablemente vas a entender por qué en China está triunfando y vendiendo miles de unidades. La idea es sublime si tienes una casa pequeña y estás harto de que el tendedero de la.
-
-Date: 2026-09-05
-
-### El pulso entre China y EEUU se traslada a Oriente Próximo
-
-El líder chino visita Egipto con la propuesta de reconfigurar el orden de seguridad regional mediante el "fortalecimiento del diálogo" Leer.
-
-Date: 2026-09-03
-
-### Oficiales de Trump señalan a Cosco, con presencia en Valencia, Zaragoza y Bilbao, por espiar para China
-
-La Administración Trump eleva la presión sobre la naviera estatal china Cosco , uno de los grandes operadores globales de transporte marítimo y gestión de terminales portuarias, también en España. Funcionarios vinculados a la seguridad del Gobierno de Estados Unidos señalan al gigante logístico y le acusan de colaborar.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Washington y Pekín coinciden por una vez: la IA no se debe frenar](https://www.elmundo.es/economia/2026/09/14/6aa818fae85ece761b8b4594.html?utm_source=lootura.com) — 2026-09-14T20:44:26.000Z
-- [China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología](https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com) — 2026-09-14T10:16:39.000Z
-- [¿Dónde será la próxima avalancha? El colapso del glaciar de Nepal lanza un preocupante aviso](https://okdiario.com/okgreen/donde-sera-proxima-avalancha-colapso-del-glaciar-nepal-lanza-preocupante-aviso-20272735/amp?utm_source=lootura.com) — 2026-09-15T03:15:12.000Z
-- [Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China](https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com) — 2026-09-14T16:52:08.000Z
+- [Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares](https://cincodias.elpais.com/companias/2026-09-17/santana-se-alia-con-el-gigante-chino-baic-para-ensamblar-coches-electricos-en-linares.html?utm_source=lootura.com) — 2026-09-17T14:34:14.000Z

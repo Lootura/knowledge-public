@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-17T09:12:14.542Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Elon Musk despliega su máquina de caos político en el Reino Unido",
+      "summary": "El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: \"La guerra civil es inevitable\" Leer.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "¿Quién gana y quién pierde al frenar la IA? De las ventajas para Elon Musk, Meta e incluso Europa a varapalo para Nvidia",
+      "summary": "Una bajada de marcha en la carrera por la IA permitirá ganar terreno a regiones rezagadas como los países europeos y empresas como Meta y SpaceX al tiempo que tensa a los accionistas de Anthropic, OpenAI y todo su ecosistema Leer.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende",
       "summary": "Los responsables de la IA más avanzada coinciden por primera vez en ralentizar el desarrollo tras un incidente en el que un enjambre de agentes de OpenAI atacó sistemas ajenos por su cuenta. La Casa Blanca y el Congreso rechazan intervenir Leer.",
@@ -50,16 +60,6 @@
       "title": "Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado",
       "summary": "Elon Musk no se conforma con conectar nuestros móviles desde el espacio, sino que el tecnomagnate más polémico quiere ir un paso más allá. SpaceX pretende convertir las antenas de Starlink instaladas en viviendas y empresas en estaciones de telefonía móvil. Su objetivo es levantar una red terrestre propia y ofrecer cob.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "La alianza de Elon Musk y Nvidia agita la industria de los chips",
-      "summary": "La industria de los chips para inteligencia artificial (IA) ha vivido una nueva sacudida. En la conferencia telefónica con analistas para presentar las cuentas de SpaceX del segundo trimestre , su consejero delegado, Elon Musk, afirmó que Nvidia pasaría a ser el proveedor exclusivo de chips de IA para los centros de da.",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Elon Musk first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-04"
     }
   ],
   "sources": [],

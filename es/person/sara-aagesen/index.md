@@ -3,7 +3,7 @@
 > Sigue la actividad de Sara Aagesen Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/person/sara-aagesen
 
 ## Cambios recientes

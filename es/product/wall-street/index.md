@@ -3,10 +3,28 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### El Ibex supera los 19.800 puntos aupado por Wall Street y la caída del petróleo
+
+La subida de tipos aprobada por la Fed y el tono agresivo de sus mensajes no pilla por sorpresa al mercado. La contención en los precios del petróleo ayuda además a suavizar las proyecciones de nuevas subidas de tipos. Wall Street apunta al rebote, y el Ibex intenta repetir el tono positivo de ayer.
+
+Date: 2026-09-17
+
+### El Ibex no se deja intimidar por la Fed
+
+La subida de tipos aprobada por la Fed y el tono agresivo de sus mensajes no pilla por sorpresa al mercado. La contención en los precios del petróleo ayuda además a suavizar las proyecciones de nuevas subidas de tipos. Wall Street apunta al rebote, y el Ibex intenta repetir el tono positivo de ayer.
+
+Date: 2026-09-17
+
+### Los multimillonarios de EEUU se alinean para financiar la campaña electoral republicana
+
+Los grandes donantes estadounidenses están respaldando abrumadoramente a los republicanos de Donald Trump en las elecciones al Congreso de este año , mientras multimillonarios de Silicon Valley y Wall Street financian la campaña del partido para las elecciones de mitad de mandato. Seguir leyendo.
+
+Date: 2026-09-16
 
 ### El Ibex pierde el 20.000 por la mínima y con el petróleo cerca de los 100 dólares
 
@@ -50,24 +68,6 @@ Toda empresa cripto que ha salido a Bolsa ha seguido el mismo patrón: debutar c
 
 Date: 2026-08-13
 
-### Los fondos de inversión apalancados sacuden los mercados de la IA
-
-La historia de Wall Street está plagada de productos que acabaron siendo demasiado populares, como las hipotecas basura ( subprime) en 2008. Ahora, los fondos cotizados (ETF) apalancados parecen dispuestos a sumarse a la lista. La espectacular expansión de estos productos durante los últimos años ha acabado generando r.
-
-Date: 2026-08-11
-
-### ¿Cuáles son los 'Siete Magníficos' del mercado asiático?
-
-Al igual que ocurre en Wall Street, donde un grupo muy reducido de tecnológicas, conocidas como los Siete Magníficos (Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia y Tesla) agrupan una parte muy significativa del peso de la Bolsa americana, el patrón también se repite en Asia. Los Siete Magníficos de los mercados em.
-
-Date: 2026-08-11
-
-### ¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple
-
-El ambicioso rediseño del iPhone 20 Aniversario podría haberse cancelado. Según reporta Barron's , la acción de Apple sufrió una rebaja de su calificación por parte de analistas de Wall Street debido a esta situación. Expertos del mundo financiero supuestamente consideran que los de Cupertino no van a cumplir con el co.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [El Ibex supera los 19.800 puntos aupado por Wall Street y la caída del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/09/17/6aab8064e5fdea855c8b4584.html?utm_source=lootura.com) — 2026-09-17T15:38:35.000Z

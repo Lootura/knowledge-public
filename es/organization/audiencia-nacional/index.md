@@ -3,74 +3,76 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
 
-### Doble portazo de la Audiencia Nacional al considerado como el narcoabogado de la trama de los Tribuns: sin vista, sin fianza y sin libertad
+### Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península
 
-Primero pidió una vista. Después intentó combatir las resoluciones que mantenían su situación en prisión provisional. Cuestionó los indicios reunidos durante la investigación, denunció errores en algunas transcripciones, alegó la posible vulneración del secreto profesional y defendió que determinadas conversaciones int.
+El PP y la justicia estrechan el ya limitado margen de maniobra del Gobierno para resolver la crisis de Ceuta. Mientras la Audiencia Nacional paraliza de manera cautelar la utilización del puerto para acoger a inmigrantes en plenos preparativos para trasladar allí a casi 2.000 de ellos para aliviar el problema en las p.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno
+### La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta
 
-La magistrada pide que se examine si el asunto debe instruirse en Madrid junto a la causa abierta por la entrada masiva, como ya ha pedido la Fiscalía Leer.
+La Audiencia Nacional ha rechazado paralizar de forma cautelar la instalación del campamento de inmigrantes en el Puerto de Ceuta mientras estudia el recurso interpuesto por el Sindicato Unificado de Policía (SUP) contra la habilitación de dicho espacio de acogida. El SUP reclamó a la Sección de lo Contencioso-Administ.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia
+### «Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez
 
-La defensa del expresidente del Gobierno advierte al juez Calama de que no tiene "patente de corso" para indagar de forma prospectiva en cualquier actuación personal o profesional de Zapatero La causa contra Zapatero cuestiona sus negocios privados en el extranjero La defensa de José Luis Rodríguez Zapatero ha recurrid.
+Leire Díez, la presunta fontanera del PSOE, disponía del aparcamiento de la sede de los socialistas para los encuentros que mantuvo en la misma con el entonces secretario de Organización Santos Cerdán. Así lo confirmó Celia Rodríguez, una trabajadora del partido, ante el juez de la Audiencia Nacional que investiga las.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia
+### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
 
-El expresidente del Gobierno José Luis Rodríguez Zapatero ha pedido a la Audiencia Nacional que extraiga del procedimiento en el que se le investiga un informe de la UDEF sobre su mediación ante el Gobierno de Bolivia , pues es consecuencia de una intromisión ilegítima en su intimidad y una investigación general sobre.
+Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Las declaraciones de la cúpula de Plus Ultra siembran la sospecha de que Zapatero cobró más comisiones tras el rescate
+### La Audiencia Nacional permite el uso temporal del campamento de migrantes en el puerto de Ceuta
 
-Las declaraciones que prestaron esta semana como investigados en la Audiencia Nacional el expresidente de Plus Ultra, Julio Martínez Sola, y el exconsejero delegado de la aerolínea de capital venezolano rescatada por el Gobierno en marzo de 2021, Roberto Roselli, sembraron la sospecha de que el expresidente José Luis R.
+La Audiencia Nacional ha rechazado finalmente la suspensión cautelarísima solicitada por el Sindicato Unificado de la Policía (SUP) y permite que siga adelante la ocupación de 16.000 metros cuadrados de la ampliación de Poniente del Puerto de Ceuta para instalar un campamento en el que alojar a parte de los migrantes q.
 
-Date: 2026-09-13
+Date: 2026-09-17
 
-### El fiscal jefe Alonso se saltó con el espía marroquí una circular de la Audiencia
+### La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta
 
-El fiscal jefe de la Audiencia Nacional, Jesús Alonso, habría actuado en contra de una circular de la Fiscalía General del Estado al rechazar recibir información, en octubre de 2024, de un emisario del ex número dos de los servicios secretos marroquíes, Mehdi Hijaouy, que afirmaba tener pruebas del hackeo del móvil del.
+La Sala de lo Contencioso-Administrativo desestima las cautelares reclamadas por el Sindicato Unificado de Policía, y el Gobierno celebra la decisión para seguir avanzando en la resolución de la crisis migratoria de Ceuta.
 
-Date: 2026-09-11
+Date: 2026-09-17
 
-### El juez que investiga la financiación del PSOE pide a Ferraz y al Tribunal de Cuentas todas las donaciones de la 'era Sánchez'
+### La Audiencia Nacional rechaza investigar la guerra judicial de los Ybarra por la gestión de la sociedad familiar
 
-La Audiencia Nacional ha reclamado al PSOE que aporte a la causa incoada por la presunta financiación irregular del partido las donaciones que recibió entre los años 2017 y...
+La Audiencia Nacional ha rechazado entrar a valorar la pugna que vive la familia Ybarra, una de las familias más conocidas en el mundo empresarial y de la élite vasca, por la gestión de Mezouna, la sociedad patrimonial familiar a través de la cual se han canalizado su histórica participación en el grupo editorial Vocen.
 
-Date: 2026-09-09
+Date: 2026-09-17
 
-### La jueza admite al Gobierno como acusación en la investigación sobre la entrada masiva a Ceuta
+### La Audiencia Nacional recurre el tercer grado concedido por el Gobierno Vasco al etarra Henri Parot
 
-La magistrada María Tardón, instructora de la Audiencia Nacional, ha admitido este miércoles la personación del Gobierno como acusación particular en la investigación abierta por la entrada masiva irregular de migrantes a Ceuta los pasados 30 y 31 de julio. La jueza acepta así la presencia en las pesquisas de la Abogac.
+La Fiscalía considera que la aprobación de la progresión por la consejería de la socialista San José resulta «prematura en el momento actual y no se ajusta plenamente» a los criterios legales que rigen la clasificación penitenciaria.
 
-Date: 2026-09-09
+Date: 2026-09-16
 
-### Moncloa y Ferraz ponen en cuestión la imparcialidad de la jueza que investiga la crisis de Ceuta
+### El Gobierno muestra su “perplejidad” por el freno de la Audiencia Nacional al campamento para inmigrantes del Puerto de Ceuta
 
-La jueza de la Audiencia Nacional María Tardón ha abierto una investigación penal sobre la entrada en Ceuta de decenas de miles de personas migrantes el 30 y 31 de julio, al...
+El Gobierno no oculta su “perplejidad” ante el freno impuesto por la Audiencia Nacional al traslado al Puerto de Ceuta de buena parte de los migrantes que recorren las calles de la ciudad autónoma después de la entrada masiva del 30 y 31 de julio pasado. La Audiencia ha ordenado al Ministerio de Transportes frenar mome.
 
-Date: 2026-09-08
+Date: 2026-09-16
 
-### El fiscal jefe de la Audiencia Nacional rechazó las «pruebas» sobre el móvil de Sánchez hackeado: «No interesa por Marruecos»
+### La Fiscalía recurre el tercer grado del exdirigente de ETA Henri Parot
 
-Ocurrió en octubre de 2024. Un mes después de haber sido detenido Mehdi Hijaouy, en cumplimiento a una orden de busca y captura internacional de la Interpol, un emisario del ex número dos de los servicios secretos marroquíes se personó en la Audiencia Nacional para mantener un encuentro con el fiscal jefe del tribunal,.
+La Fiscalía de la Audiencia Nacional ha recurrido el tercer grado concedido la semana pasada por el Gobierno vasco al etarra Henri Parot (Argel, Francia, 1958), autor de sanguinarios atentados, como el de la casa cuartel de Zaragoza de 1987 y condenado a penas superiores a los 4.000 años de prisión. El terrorista, que.
 
-Date: 2026-09-08
+Date: 2026-09-16
 
 ## Fuentes
 
-- [La juez Tardón propone a los juzgados de Ceuta que la Audiencia Nacional asuma la investigación sobre la actuación del delegado del Gobierno](https://www.elmundo.es/espana/2026/09/14/6aa7cffbe4d4d8413c8b4576.html?utm_source=lootura.com) — 2026-09-14T11:20:11.000Z
-- [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html?utm_source=lootura.com) — 2026-09-14T16:55:25.000Z
-- [Doble portazo de la Audiencia Nacional al considerado como el narcoabogado de la trama de los Tribuns: sin vista, sin fianza y sin libertad](https://okdiario.com/baleares/doble-portazo-audiencia-nacional-considerado-como-narcoabogado-trama-sin-vista-sin-fianza-sin-libertad-20282125?utm_source=lootura.com) — 2026-09-15T02:00:24.000Z
-- [Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia](https://theobjective.com/espana/tribunales/2026-09-14/zapatero-udef-informe-bolivia/?utm_source=lootura.com) — 2026-09-14T17:21:08.000Z
+- [La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta](https://www.20minutos.es/nacional/audiencia-nacional-da-marcha-atras-rechaza-paralizar-instalacion-campamento-puerto-ceuta_7038047_0.html?utm_source=lootura.com) — 2026-09-17T12:27:43.000Z
+- [«Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez](https://www.abc.es/espana/gestionado-pudiera-aparcar-ferraz-declaracion-sobre-autorizacion-20260917150121-nt.html?utm_source=lootura.com) — 2026-09-17T15:46:47.000Z
+- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z
+- [La Audiencia Nacional permite el uso temporal del campamento de migrantes en el puerto de Ceuta](https://elpais.com/espana/2026-09-17/la-audiencia-nacional-permite-el-uso-temporal-del-campamento-de-migrantes-en-el-puerto-de-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:26:23.000Z
+- [Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península](https://elpais.com/espana/2026-09-17/feijoo-se-enroca-con-vox-y-cierra-la-puerta-a-que-ningun-menor-de-ceuta-vaya-la-peninsula.html?utm_source=lootura.com) — 2026-09-17T03:30:01.000Z
+- [La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta](https://www.lavanguardia.com/politica/20260917/11637298/audiencia-nacional-rechaza-paralizar-instalacion-carpas-puerto-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:29:52.000Z

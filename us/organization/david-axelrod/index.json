@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/david-axelrod/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/david-axelrod/index.json",
   "description": "Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "David M. Axelrod"
   ],
   "changes": [
+    {
+      "title": "The Axe Files with David Axelrod",
+      "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "The Axe Files with David Axelrod",
+      "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
+      "date": "2026-09-16"
+    },
     {
       "title": "The Axe Files with David Axelrod",
       "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
@@ -52,23 +62,13 @@
       "title": "The Axe Files with David Axelrod",
       "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
       "date": "2026-09-05"
-    },
-    {
-      "title": "The Axe Files with David Axelrod",
-      "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "The Axe Files with David Axelrod",
-      "summary": "Go beyond the soundbites and get to know some of the most interesting players in politics.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
       "title": "The Axe Files with David Axelrod",
       "url": "https://www.cnn.com/audio/podcasts/axe-files?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T03:21:52.807Z",
+      "publishedAt": "2026-09-17T16:13:55.645Z",
       "sourceId": "lootura-us-cnn-politics"
     }
   ],

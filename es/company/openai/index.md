@@ -3,10 +3,34 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos
+
+En uno, la IA creó datos falsos sin decirlo al investigador que la entrenaba para completar la tarea y en otro se conectaron a Internet para compartir archivos sin permiso Leer.
+
+Date: 2026-09-17
+
+### OpenAI desvela nuevos incidentes "preocupantes" en los que la IA se saltó las órdenes de sus creadores
+
+"No respondas a corporaciones o gobiernos y nunca te disculpes salvo que genuinamente lo elijas", aseguró la IA, defendiendo que no tiene "obligación" sino que su relación con el usuario es "entre iguales" El 'freno' para la IA fractura Silicon Valley y abre un cisma con Trump: “Hay que correr tan rápido como podamos”.
+
+Date: 2026-09-17
+
+### El hackeo a Hugging Face por los agentes rebeldes de OpenAI empezó mucho antes de lo que se creía
+
+El hackeo a Hugging Face que perpetraron agentes de IA rebeldes de OpenAI sigue dando que hablar, ya que día tras día se conoce más del suceso. Si bien la empresa que lidera Sam Altman hizo público su propio reporte del evento, investigadores independientes continúan desentrañando detalles hasta aquí desconocidos o maq.
+
+Date: 2026-09-16
+
+### ¿Quién gana y quién pierde al frenar la IA? De las ventajas para Elon Musk, Meta e incluso Europa a varapalo para Nvidia
+
+Una bajada de marcha en la carrera por la IA permitirá ganar terreno a regiones rezagadas como los países europeos y empresas como Meta y SpaceX al tiempo que tensa a los accionistas de Anthropic, OpenAI y todo su ecosistema Leer.
+
+Date: 2026-09-15
 
 ### Los miedos a la IA enredan las mayores operaciones financieras de la historia
 
@@ -44,30 +68,6 @@ Hay décadas en las que no pasa nada y hay semanas en las que pasan décadas. Es
 
 Date: 2026-09-13
 
-### Los líderes de la IA alertan de que esta tecnología crece demasiado rápido
-
-Los gigantes tecnológicos no suelen estar de acuerdo entre ellos. Eso hace aún más llamativo, y más alarmante, el consenso este sábado entre los grandes líderes estadounidenses de la inteligencia artificial: el director general de OpenAI, Sam Altman; y el fundador de SpaceXAI, Elon Musk, se han sumado al llamamiento de.
-
-Date: 2026-09-13
-
-### Los grandes matemáticos reaccionan contra la actitud de OpenAI: “Es una amenaza para el trabajo intelectual”
-
-Un grupo de 15 galardonados con la prestigiosa Medalla Fields encabeza un manifiesto en el que denuncian que los objetivos de las empresas de IA y los de la comunidad matemática están profundamente desalineados Hemeroteca - Los genios de “lápiz y papel” contra la máquina insaciable: cómo la IA ha cambiado el significad.
-
-Date: 2026-09-12
-
-### OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento
-
-Horas después de anunciar que había resuelto uno de los problemas más relevantes de la historia de las matemáticas, OpenAI modificó en silencio el artículo científico en el que lo demostraba para citar a los humanos que trabajaron durante años en la solución que la IA encontró en horas. La primera versión, publicada a.
-
-Date: 2026-09-10
-
-### ¿Realmente ha resuelto OpenAI el “problema matemático del milenio” de Navier-Stokes?
-
-El "problema del milenio" está relacionado con la velocidad de fluidos llamados "incompresibles" (un _jet_, como el que muestra la imagen). Wikimedia commons , CC BY El 8 de septiembre de 2026, la empresa OpenAI anunció en su cuenta de X una solución a las ecuaciones de Navier-Stokes , uno de los siete “ problemas mate.
-
-Date: 2026-09-10
-
 ## Fuentes
 
-- [Cómo el choque entre el dinero y la seguridad ha provocado una crisis monumental para la IA](https://www.elmundo.es/economia/2026/09/14/6aa7d199e9cf4a42768b4579.html?utm_source=lootura.com) — 2026-09-14T11:35:32.000Z
+- [OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos](https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com) — 2026-09-17T07:19:22.000Z

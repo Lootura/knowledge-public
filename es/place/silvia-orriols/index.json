@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/silvia-orriols/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/silvia-orriols/index.json",
   "description": "Sigue la actividad de Sílvia Orriols en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
   "aliases": [],
   "changes": [
     {
@@ -32,13 +32,6 @@
       "date": "2026-09-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-15/orriols-distancia-ultras-de-afd-preservar-expectativas-electorales_4423632/?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

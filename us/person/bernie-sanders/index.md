@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI
+
+The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the "Pro-Human Assembly" in Washington, D.C., to convince Congress to work faster to curb the impact of AI. (Image credit: Sanders credit: Sarah Rice/Getty Images and Bannon credit: Kayla Bartkowski/Getty Images).
+
+Date: 2026-09-15
 
 ### Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.
 
@@ -52,4 +58,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.](https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html?utm_source=lootura.com) — 2026-09-14T21:31:09.000Z
+No public source links.

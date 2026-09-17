@@ -3,7 +3,7 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-09
 
 ## Fuentes
 
-- [Kortajarena critica a Insausti por la prohibición de las cenas solidarias: «prohibir, criminalizar y perseguir es un gran error»](https://www.diariovasco.com/politica/kortajarena-critica-insausti-prohibicion-cenas-solidarias-prohibir-20260914111501-nt_amp.html?utm_source=lootura.com) — 2026-09-14T09:15:01.000Z
+No public source links.

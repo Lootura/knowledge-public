@@ -3,7 +3,7 @@
 > Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: market
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/market/startups
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [Donor-funded science is rising in Brazil ― upending a long tradition](https://www.nature.com/articles/d41586-026-02829-2?utm_source=lootura.com) — 2026-09-15T03:21:54.864Z
+No public source links.

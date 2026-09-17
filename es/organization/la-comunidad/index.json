@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T09:12:14.542Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
+    {
+      "title": "Los documentos que prueban que Madrid manipuló la lista de espera del Ramón y Cajal: “Evitad anotarlos como preferentes”",
+      "summary": "La Comunidad de Madrid ha reconocido este miércoles que las listas de espera del Hospital Ramón y Cajal fueron manipuladas, pero sorprendentemente ha eximido de culpa a los dos jefes señalados y ha dirigido su acusación contra uno de los cuatro médicos que denunció los hechos, el único que dio la cara, Luis Alberto Mar.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "La Comunidad de Madrid redobla sus ataques al cirujano que denunció las listas de espera: “Él mismo las manipuló para trabajar menos”",
+      "summary": "La Comunidad de Madrid ha aprovechado este miércoles la rueda de prensa semanal del Consejo de Gobierno para atacar de frente al cirujano que ha denunciado la manipulación de las listas de espera en el hospital Ramón y Cajal . “Este caso es muy sencillo: el mismo denunciante es el que manipuló las listas de espera. Es.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región",
       "summary": "La Comunidad de Madrid ha presentado este lunes alegaciones ante la Junta Electoral Central (JEC) para pedir que solo puedan inscribirse en el censo.",
@@ -53,31 +63,8 @@
       "title": "Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio",
       "summary": "La Comunidad de Madrid redujo de forma significativa durante el mes de julio el número de pacientes pendientes de una primera consulta o de una prueba diagnóstica. En conjunto, las listas de espera estructurales de ambas categorías sumaron 37.977 pacientes menos, lo que supone una reducción del 4,4% respecto a junio, s.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "Eclipse solar hoy en Madrid: accesos a la sierra, cortes, restricciones, puntos de observación y carreteras con más atascos",
-      "summary": "La Comunidad de Madrid afronta una tarde excepcional con miles de personas pendientes del cielo y un amplio dispositivo de seguridad preparado ante la gran afluencia prevista.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "El Gobierno de Ayuso traspasa fondos de Emergencias o servicios sociales para pagar facturas de la sanidad madrileña",
-      "summary": "La Comunidad de Madrid transfiere 257 millones de euros desde seis entes autonómicos, entre ellos el 112 o la Agencia de Atención Social, después de que la Consejería de Sanidad pidiese 588 millones para hospitales, recetas médicas y pago de facturas por \"créditos consignados insuficientes\". El Ejecutivo regional habla.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [
-    {
-      "title": "La Comunidad de Madrid levanta la suspensión de Vallecas y el Rayo volverá a jugar en casa",
-      "url": "https://theobjective.com/deportes/futbol/2026-09-14/comunidad-madrid-levanta-suspension-vallecas/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T19:14:50.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región",
-      "url": "https://theobjective.com/espana/madrid/2026-09-14/ayuso-exiliados-ultima-residencia-madrid-puedan-votar/?amp=&utm_source=lootura.com",
-      "publishedAt": "2026-09-14T17:30:54.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -70,5 +70,4 @@ Date: 2026-09-09
 
 ## Fuentes
 
-- ['The Pitt' vuelve a triunfar en unos Emmy rendidos a 'La maldición de Widow's Bay' en una noche emotiva](https://www.20minutos.es/cinemania/series/premios-emmy-2026-directo-ultimas-noticias-gala-series-estrellas-television_7036620_6.html?utm_source=lootura.com) — 2026-09-14T21:01:17.000Z
-- [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z
+No public source links.

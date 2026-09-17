@@ -70,5 +70,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia](https://www.eldiario.es/politica/zapatero-recurre-audiencia-nacional-investiguen-ingresos-negocios-bolivia_1_13509261.html?utm_source=lootura.com) — 2026-09-14T16:55:25.000Z
-- [Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia](https://theobjective.com/espana/tribunales/2026-09-14/zapatero-udef-informe-bolivia/?utm_source=lootura.com) — 2026-09-14T17:21:08.000Z
+No public source links.

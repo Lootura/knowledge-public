@@ -3,7 +3,7 @@
 > Follow John Fetterman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-15T09:11:38.041Z
 - Canonical: https://atlas.lootura.com/us/person/john-fetterman
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-10
 
 ## Sources
 
-- [What's next for Senator John Fetterman?](https://www.npr.org/2026/09/14/nx-s1-5968629/whats-next-for-senator-john-fetterman?utm_source=lootura.com) — 2026-09-14T20:34:26.000Z
+No public source links.

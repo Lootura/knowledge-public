@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T19:20:38.476Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "CA",
     "CAN",
@@ -17,6 +17,21 @@
     "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
+      "summary": "Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Mark Carney, el inesperado ídolo de la resistencia al trumpismo",
+      "summary": "Cuando Mark Carney entró hoy en el Parlamento Europeo, fue recibido como una estrella de rock. Los diputados se agolpaban en las primeras filas del hemiciclo para estrecharle la mano y hacerse un selfi con él. El entusiasmo estaba justificado: el primer ministro de Canadá es el hombre del momento. Se ha convertido en e.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Von der Leyen ofrece a Carney que \"Canadá se convierta en el primer miembro asociado de la UE\"",
+      "summary": "La presidenta de la Comisión lanza su propuesta en pleno enfrentamiento entre el primer ministro canadiense y Trump. \"Vemos el mundo de la misma manera\", defiende la alta funcionaria alemana Leer.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá",
       "summary": "El presidente de Estados Unidos, Donald Trump, ha compartido este lunes en su red Truth Social un mapa en el que las franjas rojas y blancas de la bandera estadounidense cubren México, el Caribe y Canadá, además de Groenlandia e Islandia.Trump ha publicado ese mapa sin ningún comentario en su red Truth Social, horas de.",
@@ -51,23 +66,21 @@
       "title": "Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal",
       "summary": "El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»",
-      "summary": "Rafa Jódar hizo historia la noche del martes después de conseguir la victoria más importante de su carrera ante Arthur Fils (7-5 y 6-3) en cuartos del Masters 1000 de Montreal . El tenista luchará en la madrugada del miércoles al jueves por un puesto en la final en las semifinales que disputará ante Brandon Nakashima.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal",
-      "summary": "El tenis español sigue imparable en Montreal, donde Dani Mérida también se ha clasificado para octavos de final. Lo ha hecho tras pasar por encima del estadounidense Alex Michelsen, al que ha ganado en tres sets por 6-4, 6-7 y 6-1. De esta manera, se mete por primera vez entre los 16 mejores de un Masters 1000. Espera.",
-      "date": "2026-08-07"
-    },
-    {
-      "title": "Jódar debuta en Montreal con una remontada espectacular para batir a Moutet",
-      "summary": "Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washington el pasado fin de semana con su debut en el Masters 1000 de Canadá en Montreal. El tenista español empezó ganando, tras remontar de manera espectacular un partido que empezó perdiendo ante el francés Corentin Moutet, número 59 del mundo. Jóda.",
-      "date": "2026-08-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
+      "url": "https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:01:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Mark Carney, el inesperado ídolo de la resistencia al trumpismo",
+      "url": "https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:21:15.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)
+
+Dos personas han resultado heridas de gravedad este jueves en un choque frontal entre dos turismos en el cruce de la carretera SI-16 con la SI-11, en Siero (Asturias) . Los afectados han sido evacuados al Hospital Universitario Central de Asturias (HUCA). Según ha informado la Guardia Civil , el accidente se produjo en.
+
+Date: 2026-09-17
+
+### Migrantes hacinados en condiciones infrahumanas a precios abusivos en pisos patera de Ceuta
+
+Dormir hacinados y en condiciones de insalubridad a precios abusivos. La Policía Nacional y la Guardia Civil han desarrollado en los últimos días sendas operaciones en la ciudad de Ceuta que han permitido destapar el lucrativo negocio ilegal de alojar en pisos patera a migrantes llegados en el salto masivo de los pasad.
+
+Date: 2026-09-16
 
 ### Cuatro detenidos y seis policías locales y un guardia civil heridos en las fiestas de Ocaña (Toledo)
 
@@ -56,18 +68,6 @@ Un hombre de 68 años ha fallecido este sábado tras caerle encima varias pacas 
 
 Date: 2026-09-12
 
-### Hallado el cuerpo sin vida de una persona en Algeciras (Cádiz)
-
-Un cadáver fue localizado este viernes por la tarde entre dos pantalanes próximos a la calle Varadero, en Algeciras (Cádiz), según informó el 112 de Andalucía. El aviso llegó a Emergencias poco antes de las 18:30 horas, lo que activó un operativo con la Autoridad Portuaria , agentes de la Guardia Civil y de la Policía.
-
-Date: 2026-09-12
-
-### Los servicios de información detectan un incremento de los mensajes para una nueva invasión el 20 de septiembre en Ceuta
-
-Los servicios de información de la Policía Nacional y de la Guardia Civil han detectado que la convocatoria para el 20-S de asaltar Ceuta cuenta con un mayor volumen de mensajes que las anteriores pero no tiene una organización clara, según explican fuentes policiales a ABC. Detrás de este movimiento se encuentra el na.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)](https://www.elconfidencial.com/espana/2026-09-17/heridos-graves-choque-frontal-siero-1tna-1tps_4426021/?utm_source=lootura.com) — 2026-09-17T14:58:00.000Z

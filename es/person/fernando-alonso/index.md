@@ -3,10 +3,16 @@
 > Sigue la actividad de Fernando Alonso Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/person/fernando-alonso
 
 ## Cambios recientes
+
+### Las distintas caras de Fernando Alonso en Madring: serio y borde, tenso con Sainz pero muy cariñoso con Melissa Jiménez y su bebé
+
+El piloto asturiano Fernando Alonso ha protagonizado algunos de los momentos más comentados del Gran Premio de Madrid.
+
+Date: 2026-09-15
 
 ### Carlos Sainz, molesto por las quejas de Fernando Alonso tras el toque entre ambos: "Consiguió que me sancionaran"
 
@@ -59,12 +65,6 @@ Date: 2026-09-12
 ### Las mejores imágenes que dejan los entrenamientos libres de Fórmula 1 en Madring
 
 Fernando Alonso sale de boxes en su Aston Martin en el circuito de Madrid. | Jon Nazca (Reuters) El coche del piloto de F2 Tasanapol Inthraphuvasak arde en el primer accidente grave del circuito de Madrid. | Captura de la retransmisión El Audi de Nico Hulkenberg pasa por la famosa curva de la Monumental. | Jon Nazca (R.
-
-Date: 2026-09-11
-
-### La F1 vuelve a Madrid tras 45 años entre la alegría y la polémica… y con un accidente grave
-
-Madrid recibe este viernes a la Fórmula 1 por primera vez en 45 años. Lo hace con el estreno de su flamante circuito en el noreste de la ciudad, entre el recinto ferial (IFEMA) y Valdebebas (barrio en el que el Real Madrid tiene su ciudad deportiva), Fernando Alonso corriendo en casa, los ruidos y molestias propios de.
 
 Date: 2026-09-11
 

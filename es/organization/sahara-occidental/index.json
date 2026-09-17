@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/sahara-occidental/index.json",
   "description": "Sigue la actividad de Sahara Occidental en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-10T22:14:54.654Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Southern Provinces",
     "Spanish Sahara",
     "West Sahara"
   ],
   "changes": [
+    {
+      "title": "Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información",
+      "summary": "El cambio de postura que el presidente del Gobierno dictó respecto al Sáhara Occidental en 2022 -asumiendo la soberanía marroquí- ya despertó entonces algunas insinuaciones,...",
+      "date": "2026-09-16"
+    },
     {
       "title": "Los saharauis celebran el avance pero exigen a España que defienda sus derechos frente a Marruecos",
       "summary": "Diferentes colectivos y organizaciones saharauis asentados en el Sáhara Occidental han celebrado este jueves que el Congreso haya dado luz verde a la proposición de ley que facilitará el acceso a la nacionalidad española a los saharauis nacidos antes de 1977 y a sus descendientes, aunque se han preguntado si España def.",
@@ -56,6 +61,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información",
+      "url": "https://amp.elmundo.es/espana/2026/09/17/6aaae533fc6c8386228b4581.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-16T23:13:41.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

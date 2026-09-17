@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "CA",
     "CAN",
@@ -16,63 +16,87 @@
   ],
   "changes": [
     {
+      "title": "Morning news brief",
+      "summary": "The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada's prime minister speaks to European Parliament.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+      "summary": "The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Canada's Carney embraces EU associate member plan; Trump seen with \"Kennedy Center Demolished\" sign",
+      "summary": "The European Union floated the idea of making Canada its first associate member, with Canadian Prime Minister Mark Carney embracing the plan. Plus, a photographer spotted President Trump holding a placard that appeared to say \"Kennedy Center Demolished.\" CBS News' Weijia Jiang has more.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "How Canada and the E.U. are teaming up to counter Trump",
+      "summary": "Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg to lay out how middle powers might counteract Trump’s hostility.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+      "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\" (Image credit: Jean-Christophe Verhaegen).",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "With invite to join EU bloc, Canada's prime minister speaks to European Parliament",
+      "summary": "Canada's Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become an \"associate member\" of the bloc.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
+      "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+      "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
+      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
+      "date": "2026-09-16"
+    },
+    {
       "title": "Carney pitches Canada to global investors amid trade war with Trump",
       "summary": "Carney is pitching Canada's energy and critical minerals, educated workforce, global trade access and political stability as reasons to invest.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier",
-      "summary": "NPR's Sacha Pfeiffer talks with Wichita Mayor Lily Wu about President Trump's tariff war with Canada, Bombardier aircrafts, and the trade war's potential impact on her city.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Lutnick says promised $5,000 checks for Americans won't come from taxpayer dollars",
-      "summary": "In a wide-ranging interview, U.S. Commerce Secretary Howard Lutnick spoke about the $5,000 checks Republicans are promising if they win the midterms, the Trump administration's trade war with Canada and rising energy costs. NBC News’ Christine Romans reports.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
-      "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections. (Image credit: Paul Sancya).",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Zelenskyy visits Canada to seek more military support for Ukraine against Russia",
-      "summary": "Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Trump escalates Canada trade war by banning some imports",
-      "summary": "After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "New Hampshire Democrat Cinde Warmington says Canada trade war is \"crushing the people of our state\"",
-      "summary": "Democratic gubernatorial nominee Cinde Warmington, who won her New Hampshire primary on Tuesday, joins \"The Takeout\" to discuss the midterm races.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
-      "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "A Hostile Trump Reopens Old Wounds in the U.S.-Canada Relationship",
-      "summary": "President Trump is not the first American president to feud with Canada. But today’s crisis might be the worst.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
-      "summary": "The duties are a retaliation against President Trump’s recent tariffs, raising concerns about further escalation.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Carney pitches Canada to global investors amid trade war with Trump",
-      "url": "https://www.pbs.org/newshour/world/carney-pitches-canada-to-global-investors-amid-trade-war-with-trump?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T14:32:13.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Canada's Carney embraces EU associate member plan; Trump seen with \"Kennedy Center Demolished\" sign",
+      "url": "https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:00:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "How Canada and the E.U. are teaming up to counter Trump",
+      "url": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:41:39.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T08:45:53.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T10:54:18.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+      "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T01:58:24.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 5
 }

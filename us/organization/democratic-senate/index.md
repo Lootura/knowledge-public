@@ -3,7 +3,7 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-02T22:21:10.846Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid](https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html?utm_source=lootura.com) — 2026-09-17T09:03:57.000Z

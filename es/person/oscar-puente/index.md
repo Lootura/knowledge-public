@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente limita de momento a la C-3 de Cercanías Valencia y a la Media Distancia en Cataluña los problemas por las lluvias
+
+El temporal de lluvia que azota buena parte del arco mediterráneo está provocando también problemas en el tráfico ferroviario , que de momento el ministro de Transportes, Óscar Puente , ha limitado a la línea 3 de la red de Cercanías de Valencia y a los servicios de Media Distancia en Cataluña. "Ahora mismo, en lo refe.
+
+Date: 2026-09-17
 
 ### El Gobierno rabia por la suspensión de la ‘ley de nietos’
 
@@ -62,12 +68,6 @@ El ministro de Transportes, Óscar Puente, ha ordenado autorizar la instalación
 
 Date: 2026-09-05
 
-### Óscar Puente: Consejos tengo...
-
-El ministro de los 46 muertos de la tragedia de Ademuz debida al fallo de las vías que dependen de él sigue dando lecciones de periodismo en su cuenta en X. No satisfecho con las invectivas que le dedicó el jueves a un sindicato policial porque ABC publicó el informe de la inspección ocular del accidente, el viernes se.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [El Gobierno rabia por la suspensión de la ‘ley de nietos’](https://theobjective.com/espana/2026-09-14/gobierno-rabia-suspension-ley-nietos/?utm_source=lootura.com) — 2026-09-14T16:33:01.000Z
+No public source links.

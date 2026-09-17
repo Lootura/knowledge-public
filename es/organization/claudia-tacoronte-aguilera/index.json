@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/claudia-tacoronte-aguilera/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/claudia-tacoronte-aguilera/index.json",
   "description": "Sigue la actividad de Claudia Tacoronte Aguilera en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "La gobernadora de Morelos apunta a \"avances significativos\" en la investigación del asesinato de Claudia Tacoronte",
+      "summary": "La gobernadora del estado mexicano de Morelos, Margarita González Saravia , ha señalado “ avances significativos ” en las pesquisas sobre el asesinato en Cuautla de la estudiante española Claudia Tacoronte Aguilera , de intercambio en México , y ha prometido que las autoridades “darán con el responsable” para garantiza.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio",
       "summary": "La joven fallecida es Claudia Tacoronte Aguilera y procedía de la Universidad de Granada Leer.",
@@ -32,25 +37,6 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada",
-      "url": "https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T19:58:44.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Asesinan en México a una estudiante española de 21 años que se encontraba de intercambio",
-      "url": "https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T18:10:54.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    },
-    {
-      "title": "Asesinada en México una estudiante española que estaba de intercambio en la Universidad de Morelos",
-      "url": "https://elpais.com/mexico/2026-09-14/asesinada-en-morelos-una-estudiante-espanola-de-intercambio.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T21:54:46.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

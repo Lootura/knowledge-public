@@ -3,10 +3,16 @@
 > Sigue la actividad de El Messías en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/person/lionel-messi
 
 ## Cambios recientes
+
+### Argentina convoca a Messi para su último baile
+
+El jugador de Inter Miami, pese a estar retirado de la selección ha sido citado para un amistoso de despedida el 6 de octubre contra Benín en Buenos Aires.
+
+Date: 2026-09-15
 
 ### Messi llega a un acuerdo para comprar el Eldense
 
@@ -59,12 +65,6 @@ Date: 2026-08-08
 ### El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro
 
 El FC Barcelona se ha sumado al dolor por la muerte de Jorge Messi, padre de Leo Messi, jugador del FC Barcelona de 2001 a 2021, que se ha dado a conocer este sábado, tras una larga enfermedad. Seguir leyendo...
-
-Date: 2026-08-08
-
-### Muere Jorge Messi, padre y mentor del astro argentino
-
-La noticia se ha conocido este sábado y ha generado conmoción en Argentina. Jorge Horacio Messi , padre de Lionel Messi y su sostén emocional a lo largo de su extensa carrera futbolística, ha fallecido a sus 68 años tras luchar contra una larga enfermedad. El empresario y también representante del astro se encontraba i.
 
 Date: 2026-08-08
 

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [],
   "changes": [
     {
@@ -62,19 +62,6 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Trump says U.S. needs a \"high IQ\" president to handle AI",
-      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:37:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:59:41.000Z",
-      "sourceId": "lootura-us-the-verge"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

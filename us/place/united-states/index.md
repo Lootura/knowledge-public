@@ -3,77 +3,76 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### Vance says 870K people suspected of COVID-era U.S. fraud barred from federal loans
+### America has more millionaires than you think. Here's how most of them got rich.
 
-A U.S. enforcement push, dubbed "Heartland fraud surge," probed losses involving the Paycheck Protection Program and Economic Injury Disaster Loan program.
+Getting rich in the U.S. is still possible, but the most common path to wealth doesn't involve working for other people, according to a new book.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Maine's head prison chief on giving inmates second chances: "I believe in redemption"
+### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
 
-This installment of "Beg-Knows America" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.
+The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### This city led the way on reparations for Black people. Trump is trying to stop it
+### State Department Extends Visa Ban on Abbas, Other Palestinian Officials
 
-Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).
+The move would prevent Mahmoud Abbas, the leader of two governing Palestinian groups, from traveling to the United States next week for the United Nations General Assembly.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.
+### U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack
 
-The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.
+Human rights experts commissioned by the U.N. say they have found "reasonable grounds" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab. (Image credit: Vahid Salemi).
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions
+### Coast Guard and FBI boarded tankers due to cyberattacks. How big is the risk?
 
-It’s the first public report on the ongoing war started Feb. 28 by the U.S. and Israel.
+U.S. Coast Guard personnel and FBI agents boarded two Texas-bound energy tankers last month after cyberattacks struck the vessels while they were traveling toward the United States, according to U.S. officials.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### The Supreme Court rejects Trump's mail voting restrictions for this year's midterms
+### Big questions - and key logistical details - loom ahead of China-U.S. summit
 
-The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election. (Image credit: Patrick T. Fallon).
+Despite the lingering questions, China remains optimistic about the summit. (Image credit: Evan Vucci).
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### McConnell returns to the Senate for the first time since his June hospitalization
+### E.U.-Canada Ambitions Face Reality Check as Trump Bristles
 
-Republican Sen. Mitch McConnell of Kentucky has returned to the Senate after a long absence. The 94-year-old senator has not been to the U.S. Capitol since June 14, when he was hospitalized for a fall in his home.
+The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Trump dismisses push for AI guardrails despite warnings from tech leaders
+### Trump Sanctions on Cuba Strands Thousands Of Shipping Containers
 
-President Trump threw cold water on momentum for AI guardrails, saying all the U.S. needs is a "SMART PRESIDENT.".
+The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Vance says 870K people suspected of COVID-era US fraud barred from federal loans
+### Here's why an Arizona medical examiner is working to track heat-related deaths
 
-A U.S. enforcement push, dubbed "Heartland fraud surge," probed losses involving the Paycheck Protection Program and Economic Injury Disaster Loan program.
+No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths. (Image credit: Cassidy Araiza for NPR).
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### Police departments work to "change the culture" by building relationships with underprivileged kids
+### Why Israel Wants More One-Ton Bombs From the U.S.
 
-A nonprofit charity, in partnership with police departments, called Do the Right Thing honors the good works of students across the U.S. The Palm Springs chapter awarded 95 scholarships, helping underprivileged students achieve their dreams. Barry Petersen has the story.
+The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.
 
-Date: 2026-09-14
+Date: 2026-09-16
 
 ## Sources
 
-- [Vance says 870K people suspected of COVID-era U.S. fraud barred from federal loans](https://www.cbsnews.com/news/vance-todd-blanche-felony-fraud-cases-covid-era-loan-programs/?utm_source=lootura.com) — 2026-09-15T01:20:00.000Z
-- [Maine's head prison chief on giving inmates second chances: "I believe in redemption"](https://www.cbsnews.com/video/maines-head-prison-chief-on-giving-inmates-second-chances-i-believe-in-redemption/?utm_source=lootura.com) — 2026-09-14T16:05:00.000Z
-- [Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions](https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019?utm_source=lootura.com) — 2026-09-14T20:28:06.000Z
-- [This city led the way on reparations for Black people. Trump is trying to stop it](https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration?utm_source=lootura.com) — 2026-09-14T11:00:00.000Z
-- [The Supreme Court rejects Trump's mail voting restrictions for this year's midterms](https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump?utm_source=lootura.com) — 2026-09-14T23:38:40.000Z
-- [WATCH: McConnell returns to the Senate for the first time since his June hospitalization](https://www.pbs.org/newshour/politics/watch-mcconnell-returns-to-the-senate-for-the-first-time-since-his-june-hospitalization?utm_source=lootura.com) — 2026-09-14T22:43:17.000Z
-- [The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.](https://www.nytimes.com/2026/09/08/us/politics/trump-mail-voting-what-to-know-supreme-court.html?utm_source=lootura.com) — 2026-09-14T13:51:56.000Z
+- [America has more millionaires than you think. Here's how most of them got rich.](https://www.cbsnews.com/news/everywhere-millionaires-business-ownership-wealth/?utm_source=lootura.com) — 2026-09-17T09:00:00.000Z
+- [Here's why an Arizona medical examiner is working to track heat-related deaths](https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner?utm_source=lootura.com) — 2026-09-16T23:07:40.000Z
+- [U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack](https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes?utm_source=lootura.com) — 2026-09-17T12:33:36.000Z
+- [Why Israel Wants More One-Ton Bombs From the U.S.](https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html?utm_source=lootura.com) — 2026-09-16T23:41:22.000Z
+- [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com) — 2026-09-17T01:58:24.000Z
+- [State Department Extends Visa Ban on Abbas, Other Palestinian Officials](https://www.nytimes.com/2026/09/16/us/politics/visa-ban-abbas.html?utm_source=lootura.com) — 2026-09-17T09:24:20.000Z

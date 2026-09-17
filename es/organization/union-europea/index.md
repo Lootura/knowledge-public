@@ -3,10 +3,46 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
+
+“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.
+
+Date: 2026-09-17
+
+### Albares ve «sintonía» con Vivas e Imbroda sobre el paquete para europeizar Ceuta y Melilla
+
+El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , habló este miércoles con los presidentes de Ceuta y Melilla, Juan Jesús Vivas y Juan José Imbroda , para informarles del paquete de medidas que adoptará el Gobierno para europeizar las dos ciudades autónomas y percibió «sintonía» en a.
+
+Date: 2026-09-17
+
+### El Parlamento Europeo reclama "una investigación independiente y exhaustiva" sobre la crisis
+
+El Parlamento Europeo ha incorporado a su posición sobre la guerra híbrida y la protección de la integridad territorial y de las infraestructuras críticas de la Unión Europea una enmienda, reclamada por el PP, que condena "de forma tajante el asalto a la frontera sur de la UE en Ceuta y exige una investigación independ.
+
+Date: 2026-09-16
+
+### Von der Leyen se dirige "directamente al pueblo de España": "La frontera de Ceuta es una frontera europea. Porque Ceuta es España. Ceuta es Europa"
+
+Ursula von der Leyen ha querido dirigirse "directamente al pueblo español" en su discurso sobre el Estado de la Unión Europea. La presidenta de la Comisión Europea ha...
+
+Date: 2026-09-16
+
+### Von der Leyen endurece su discurso sobre migración a raíz de la crisis de Ceuta
+
+La crisis migratoria de Ceuta marca el inicio del curso en la Unión Europea. La entrada irregular este verano de decenas de miles de personas en la ciudad autónoma española desde Marruecos ha dado pie, además, para romper otro tabú en el sistema de asilo europeo. La presidenta de la Comisión Europea, Ursula von der Ley.
+
+Date: 2026-09-16
+
+### Von der Leyen pide vetar las redes a menores de 13 años y un acceso restringido hasta los 15
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha anunciado una propuesta para vetar las redes a los menores de 13 años en toda la Unión Europea y permitirles el acceso con restricciones hasta los 15, siguiendo las recomendaciones del grupo de expertos ‘ad hoc’ creado para responder a la presión de países.
+
+Date: 2026-09-16
 
 ### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
 
@@ -32,42 +68,6 @@ Los contrabandistas aprovechan las diferencias de regulación entre países de l
 
 Date: 2026-09-08
 
-### Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha abordado este martes junto al comisario europeo de Asuntos de Interior y Migración, Magnus Brunner, un «refuerzo de cooperación» de la Unión Europea en Ceuta y Melilla y la «presencia permanente» de Frontex , Europol y la Agencia c.
-
-Date: 2026-09-08
-
-### Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink
-
-Deutsche Telekom, Orange, Vodafone y Telefónica mantienen conversaciones en fase inicial para constituir un consorcio conjunto orientado a pujar por el espectro satelital de la Unión Europea y ofrecer servicios de conectividad directa al teléfono móvil desde la órbita terrestre. La iniciativa busca establecer un rival.
-
-Date: 2026-09-08
-
-### Vivas exige a Bruselas más contundencia en la relación europea con Marruecos
-
-El presidente de Ceuta, Juan Jesús Vivas, ha viajado este martes hasta Bruselas para tratar de europeizar la crisis migratoria y exigir a la Unión Europea una respuesta “más contundente” hacia Marruecos que, a su juicio, “mantiene una política constante de hostigamiento” hacia la ciudad. Seguir leyendo...
-
-Date: 2026-09-08
-
-### Albares viajará este martes a Bruselas para verse con comisarios, el mismo día que Vivas
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , viajará este martes a Bruselas para verse con el comisario de Interior , Magnus Brunner, y con la comisaria para el Mediterráneo, Dubravka Suica, el mismo día en que los responsables comunitarios recibirán al presidente de Ceuta , Jua.
-
-Date: 2026-09-07
-
-### Meloni asegura que preservar Schengen pasa por defender las fronteras exteriores de la UE
-
-La primera ministra italiana, Giorgia Meloni , afirmó este lunes que la mejor manera de preservar el espacio Schengen pasa por defender las fronteras exteriores de la Unión Europea (UE) y por que todos los Estados miembros contribuyan a combatir a los traficantes de personas y la inmigración irregular. «Sigo firmemente.
-
-Date: 2026-09-07
-
-### La UE alerta del uso de la inmigración como «una nueva forma de amenazar la integridad territorial»
-
-El presidente del Consejo de la Unión Europea, Antonio Costa , ha alertado de la «instrumentalización» de la inmigración como «una nueva forma de amenazar la integridad territorial». La violación de la soberanía de España en Ceuta ha sido debate en el prestigio foro internacional celebrado en la localidad italiana Cerb.
-
-Date: 2026-09-05
-
 ## Fuentes
 
-No public source links.
+- [Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”](https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com) — 2026-09-17T08:18:27.000Z

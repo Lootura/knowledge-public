@@ -8,20 +8,50 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
     {
-      "title": "Saudi Arabia's critical pipeline remains shut as oil prices soar",
-      "summary": "The East-West pipeline in Saudi Arabia remains shut after a drone attack last week, a major hit to the supply of oil flowing out of the country. Saudi Arabia blamed the attack on Iranian-backed militias in Iraq. Threadneedle founder Ann Berry joins to discuss.",
-      "date": "2026-09-14"
+      "title": "Daily fragment: Strategic Mutual Defence Agreement",
+      "summary": "Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Rising gas prices fuel protests in countries around the world",
+      "summary": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "How the fighting between the Houthis and Saudi Arabia is affecting gas prices",
+      "summary": "NPR's A Martinez speaks with oil markets expert Ellen R. Wald of the Atlantic Council about how the escalation in fighting between the Houthis and Saudi Arabia is affecting global oil and gas prices.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+      "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’",
+      "summary": "Saudi Arabia has accused the Iran-backed Houthi rebels of attempting to attack Islam’s holiest city, declaring Mecca a “red line” in the escalating conflict.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+      "summary": "Armed group appears to reach agreement with Trump administration over safety of Red Sea shipping Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside.",
+      "date": "2026-09-16"
     },
     {
       "title": "Oil Prices Jump on Energy Supply Worries",
       "summary": "Traders sold oil futures on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Saudi Arabia's critical pipeline remains shut as oil prices soar",
+      "summary": "The East-West pipeline in Saudi Arabia remains shut after a drone attack last week, a major hit to the supply of oil flowing out of the country. Saudi Arabia blamed the attack on Iranian-backed militias in Iraq. Threadneedle founder Ann Berry joins to discuss.",
       "date": "2026-09-14"
     },
     {
@@ -33,51 +63,15 @@
       "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
       "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Saudi Arabia forced to shut down crucial Red Sea pipeline after attacks",
-      "summary": "The Iran-backed Houthi militia captured a strategic Red Sea port city this week. NPR's Scott Simon talks to April Longley Alley of the Washington Institute.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
-      "summary": "With few good options for safely shipping oil, Saudi Arabia’s exports have fallen to a 13-year low.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
-      "summary": "Brent, the international oil benchmark, touched $99 a barrel after Saudi Arabia reported an attack on energy assets that caused temporary pauses in operations.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
-      "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "summary": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war. (Image credit: AP).",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-      "summary": "Riyadh says it will retaliate after overnight attacks by Iran-backed Yemen group on oil facilities wound more than 70 Yemen’s Iran-backed Houthis have attacked four cities in Saudi Arabia, wounding more than 70 people and setting oil installations ablaze in what appeared to be a significant expansion of the Middle East.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Saudi Arabia's critical pipeline remains shut as oil prices soar",
-      "url": "https://www.cbsnews.com/video/saudi-arabias-critical-pipeline-remains-shut-as-oil-prices-soar/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:26:35.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Oil Prices Jump on Energy Supply Worries",
-      "url": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T09:21:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Daily fragment: Strategic Mutual Defence Agreement",
+      "url": "https://en.wikipedia.org/wiki/Strategic_Mutual_Defence_Agreement?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T04:00:00.000Z",
+      "sourceId": "lootura-us-lootura-daily"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Confidencial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/el-confidencial
 
 ## Cambios recientes
+
+### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
+
+Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
+
+Date: 2026-09-17
 
 ### Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable
 
@@ -52,4 +58,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-No public source links.
+- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z

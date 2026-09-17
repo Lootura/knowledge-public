@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Sources
 
-- [Maine's head prison chief on giving inmates second chances: "I believe in redemption"](https://www.cbsnews.com/video/maines-head-prison-chief-on-giving-inmates-second-chances-i-believe-in-redemption/?utm_source=lootura.com) — 2026-09-14T16:05:00.000Z
+No public source links.

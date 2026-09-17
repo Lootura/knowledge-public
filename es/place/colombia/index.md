@@ -3,10 +3,22 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### OHLA y sus socios firman 325 millones de crédito para su autopista urbana en Bogotá
+
+El proyecto de autopista urbana en Bogotá (Colombia) en que está involucrada OHLA junto a Ashmore y Grupo Ethuss cuenta ya con cierre financiero. La concesión Accesos Norte Fase II está actualmente en desarrollo y está llamada a mejorar la movilidad entre la capital y varios municipios de la zona norte, un área en la q.
+
+Date: 2026-09-17
+
+### Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas
+
+El juicio contra cuatro sospechosos de trasladar 400 kilos de cocaína desde Colombia a España para su distribución en la Costa del Sol culminó este jueves con un inesperado desenlace: al quedar visto para sentencia, los cuatro fueron arrestados en la propia sala y enviados a prisión provisional hasta que se dicte el fa.
+
+Date: 2026-09-17
 
 ### Teatro del Oprimido: como analizar la desigualdad en escena
 
@@ -56,18 +68,7 @@ Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pa
 
 Date: 2026-08-13
 
-### Exteriores confirma un español fallecido en el terremoto de Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.
-
-Date: 2026-08-13
-
-### Tragedia en el Caribe: muere una turista española tras un accidente náutico
-
-Una joven española de 31 años, natural de Castellón , ha fallecido esta semana tras volcar la lancha turística en la que viajaba frente a Cabo San Juan del Guía, en el Parque Nacional Natural Tayrona, en el Caribe colombiano. La mujer se encontraba de vacaciones en Colombia cuando la embarcación naufragó y alrededor de.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [OHLA y sus socios firman 325 millones de crédito para su autopista urbana en Bogotá](https://cincodias.elpais.com/companias/2026-09-17/ohla-y-sus-socios-firman-325-millones-de-credito-para-su-autopista-urbana-en-bogota.html?utm_source=lootura.com) — 2026-09-17T15:45:57.000Z
+- [Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas](https://www.elconfidencial.com/espana/2026-09-17/acusados-cocaina-arrestados-sala-juicio-1tna-1tps_4426024/?utm_source=lootura.com) — 2026-09-17T15:09:00.000Z

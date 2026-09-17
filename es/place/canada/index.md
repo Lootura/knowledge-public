@@ -3,10 +3,28 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T19:20:38.476Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»
+
+Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.
+
+Date: 2026-09-17
+
+### Mark Carney, el inesperado ídolo de la resistencia al trumpismo
+
+Cuando Mark Carney entró hoy en el Parlamento Europeo, fue recibido como una estrella de rock. Los diputados se agolpaban en las primeras filas del hemiciclo para estrecharle la mano y hacerse un selfi con él. El entusiasmo estaba justificado: el primer ministro de Canadá es el hombre del momento. Se ha convertido en e.
+
+Date: 2026-09-17
+
+### Von der Leyen ofrece a Carney que "Canadá se convierta en el primer miembro asociado de la UE"
+
+La presidenta de la Comisión lanza su propuesta en pleno enfrentamiento entre el primer ministro canadiense y Trump. "Vemos el mundo de la misma manera", defiende la alta funcionaria alemana Leer.
+
+Date: 2026-09-16
 
 ### Trump vuelve a la carga: publica un mapa con la bandera estadounidense cubriendo México, el Caribe y Canadá
 
@@ -50,24 +68,7 @@ El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Br
 
 Date: 2026-08-13
 
-### La reflexión de Rafa Jódar tras hacer historia en Canadá: «Intento seguir mi propio camino…»
-
-Rafa Jódar hizo historia la noche del martes después de conseguir la victoria más importante de su carrera ante Arthur Fils (7-5 y 6-3) en cuartos del Masters 1000 de Montreal . El tenista luchará en la madrugada del miércoles al jueves por un puesto en la final en las semifinales que disputará ante Brandon Nakashima.
-
-Date: 2026-08-12
-
-### Jódar no está solo en Canadá: Dani Mérida tumba a Michelsen y también se mete en octavos de Montreal
-
-El tenis español sigue imparable en Montreal, donde Dani Mérida también se ha clasificado para octavos de final. Lo ha hecho tras pasar por encima del estadounidense Alex Michelsen, al que ha ganado en tres sets por 6-4, 6-7 y 6-1. De esta manera, se mete por primera vez entre los 16 mejores de un Masters 1000. Espera.
-
-Date: 2026-08-07
-
-### Jódar debuta en Montreal con una remontada espectacular para batir a Moutet
-
-Rafa Jódar estrenó su número 15 del mundo tras llegar a la final en Washington el pasado fin de semana con su debut en el Masters 1000 de Canadá en Montreal. El tenista español empezó ganando, tras remontar de manera espectacular un partido que empezó perdiendo ante el francés Corentin Moutet, número 59 del mundo. Jóda.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»](https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com) — 2026-09-17T15:01:47.000Z
+- [Mark Carney, el inesperado ídolo de la resistencia al trumpismo](https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com) — 2026-09-17T12:21:15.000Z

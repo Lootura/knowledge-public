@@ -3,7 +3,7 @@
 > Follow Sam Altman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/person/sam-altman
 
 ## Recent changes
@@ -52,5 +52,4 @@ Date: 2026-09-12
 
 ## Sources
 
-- [Trump says U.S. needs a "high IQ" president to handle AI](https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com) — 2026-09-14T22:37:28.000Z
-- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com) — 2026-09-14T22:59:41.000Z
+No public source links.

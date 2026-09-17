@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-15T09:11:38.041Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### NATO jets down drone in Lithuanian airspace
+
+The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv. (Image credit: AP Photo).
+
+Date: 2026-09-15
 
 ### News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building
 
@@ -62,12 +68,6 @@ President Donald Trump secretly flew out of last month's NATO summit in Ankara, 
 
 Date: 2026-08-11
 
-### NATO spending pressure returned
-
-President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building](https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building?utm_source=lootura.com) — 2026-09-14T22:45:46.000Z
+No public source links.

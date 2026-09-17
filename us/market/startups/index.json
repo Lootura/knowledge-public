@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/market/startups/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/market/startups/index.json",
   "description": "Follow Startups, a tracked market, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [
     "startup funding"
   ],
@@ -39,13 +39,6 @@
       "date": "2026-07-10"
     }
   ],
-  "sources": [
-    {
-      "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
-      "url": "https://www.nature.com/articles/d41586-026-02829-2?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T03:21:54.864Z",
-      "sourceId": "lootura-us-nature"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

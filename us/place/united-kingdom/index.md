@@ -40,4 +40,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know](https://www.pbs.org/newshour/world/trump-doubled-down-on-backing-a-united-ireland-reigniting-a-divisive-political-issue-heres-what-to-know?utm_source=lootura.com) — 2026-09-14T16:20:27.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/red-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/red-sea/index.json",
   "description": "Follow Red Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [
     "Al Baḩr al Aḩmar",
     "Arabian Gulf",
@@ -17,6 +17,11 @@
     "the Red Sea"
   ],
   "changes": [
+    {
+      "title": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+      "summary": "Armed group appears to reach agreement with Trump administration over safety of Red Sea shipping Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
       "summary": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
@@ -61,11 +66,6 @@
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
       "summary": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones. (Image credit: Kevin Dietsch).",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Trump threatens 'major military punishment' after Houthi attacks on tankers in Red Sea",
-      "summary": "International oil prices topped $100 a barrel after Houthi rebels in Yemen claimed they attacked two oil tankers in the Red Sea, raising new fears of disruptions to global energy supplies. In response, President Trump warned that if the Houthis attack another ship, the U.S. would inflict \"major military punishment.\" He.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [],

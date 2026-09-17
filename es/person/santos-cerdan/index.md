@@ -3,10 +3,16 @@
 > Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-13T16:54:17.045Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerdan
 
 ## Cambios recientes
+
+### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
+
+Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
+
+Date: 2026-09-17
 
 ### El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»
 
@@ -46,4 +52,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z

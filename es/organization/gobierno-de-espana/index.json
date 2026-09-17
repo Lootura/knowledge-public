@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-15T09:11:13.063Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "España destina 126 millones a 52 proyectos de ciudades inteligentes",
+      "summary": "El Gobierno de España, a través de la entidad pública Red.es, publicó este martes la resolución del programa RedCyTI para financiar 52 proyectos de ciudades y territorios inteligentes, una iniciativa que movilizará una inversión total superior a los 126 millones de euros en todo el país. Seguir leyendo.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York",
       "summary": "El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.",
@@ -58,11 +63,6 @@
       "title": "El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle",
-      "summary": "El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.",
-      "date": "2026-08-13"
     }
   ],
   "sources": [],

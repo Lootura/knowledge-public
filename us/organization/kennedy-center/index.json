@@ -8,17 +8,39 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.json",
   "description": "Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
-  "aliases": [],
+  "updatedAt": "2026-09-17T09:12:35.113Z",
+  "aliases": [
+    "JFK Center for the Performing Arts",
+    "John F Kennedy Center for the Performing Arts",
+    "John F. Kennedy Memorial Center for the Performing Arts",
+    "The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts",
+    "The Kennedy Center for the Performing Arts",
+    "The Trump Kennedy Center"
+  ],
   "changes": [
     {
-      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-      "summary": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it. (Image credit: Alex Wroblewski).",
+      "title": "Kennedy Center Board votes to close for renovations amid legal fight over Trump name",
+      "summary": "A judge blocked President Trump's name from being added to the Kennedy Center facade again on Tuesday. Later in the day, the institution's board voted to close the venue for renovations. CBS News' Olivia Rinaldi explains.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "The Fed is expected to raise interest rates Wednesday, new reports detail the damage and $30 billion price tag of the Iran war, Kennedy Center board votes to close after judge's ruling.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
+      "summary": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center. (Image credit: Win McNamee).",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Kennedy Center first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-14"
     },
     {
-      "title": "Kennedy Center board to propose new options for honoring Trump, according to court filing",
-      "summary": "The document proposes 10 options for adding the president's name to the building's exterior.",
+      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+      "summary": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it. (Image credit: Alex Wroblewski).",
       "date": "2026-09-14"
     },
     {
@@ -27,30 +49,11 @@
       "date": "2026-09-14"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Kennedy Center first entered the public knowledge record with source-backed evidence.",
+      "title": "Kennedy Center board to propose new options for honoring Trump, according to court filing",
+      "summary": "The document proposes 10 options for adding the president's name to the building's exterior.",
       "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T18:25:04.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Kennedy Center board to propose new options for honoring Trump, according to court filing",
-      "url": "https://www.pbs.org/newshour/politics/kennedy-center-board-to-propose-new-options-for-honoring-trump-according-to-court-filing?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:57:31.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:45:46.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

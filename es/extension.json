@@ -1,68 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T03:36:58.654Z",
+  "generatedAt": "2026-09-17T17:57:11.242Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|179|1789442495336",
+    "signature": "1.18.0|184|1789661609513",
     "version": "1.18.0",
-    "build": 179,
-    "latestEntityUpdatedAt": "2026-09-15T03:21:35.336Z"
+    "build": 184,
+    "latestEntityUpdatedAt": "2026-09-17T16:13:29.513Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-rodriguez-zapatero",
-      "name": "José Luis Rodríguez Zapatero",
-      "type": "person",
-      "title": "Zapatero afirma que la UDEF se extralimitó y pide anular su informe sobre Bolivia",
-      "url": "https://atlas.lootura.com/es/person/rodriguez-zapatero",
-      "path": "/es/person/rodriguez-zapatero",
-      "updatedAt": "2026-09-15T03:21:35.336Z",
-      "score": 1697,
-      "sourceCount": 71,
+      "id": "es-madrid",
+      "name": "Madrid",
+      "type": "place",
+      "title": "La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta",
+      "url": "https://atlas.lootura.com/es/place/madrid",
+      "path": "/es/place/madrid",
+      "updatedAt": "2026-09-17T16:13:29.513Z",
+      "score": 1751,
+      "sourceCount": 956,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-junta-electoral-central",
-        "name": "Junta Electoral Central",
+        "id": "es-isabel-diaz-ayuso",
+        "name": "Isabel Díaz Ayuso",
+        "type": "person",
+        "title": "La subasta por el ático de Ayuso queda desierta por falta de ofertas",
+        "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
+        "path": "/es/person/isabel-diaz-ayuso",
+        "updatedAt": "2026-09-17T16:13:29.513Z",
+        "score": 1744,
+        "sourceCount": 73,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-psoe",
+        "name": "Partido Socialista Obrero Español",
         "type": "organization",
-        "title": "La JEC ejecuta el requerimiento del Supremo sobre la ley de nietos sin compartir su criterio",
-        "url": "https://atlas.lootura.com/es/organization/junta-electoral-central",
-        "path": "/es/organization/junta-electoral-central",
-        "updatedAt": "2026-09-15T03:21:35.336Z",
-        "score": 1652,
-        "sourceCount": 9,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-pedro-sanchez",
-        "name": "Pedro Sánchez",
-        "type": "person",
-        "title": "Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA",
-        "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
-        "path": "/es/person/pedro-sanchez",
-        "updatedAt": "2026-09-15T03:21:35.336Z",
-        "score": 1644,
-        "sourceCount": 608,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-juan-jesus-vivas",
-        "name": "Juan Jesús Vivas",
-        "type": "person",
-        "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
-        "url": "https://atlas.lootura.com/es/person/juan-jesus-vivas",
-        "path": "/es/person/juan-jesus-vivas",
-        "updatedAt": "2026-09-15T03:21:35.336Z",
-        "score": 1637,
-        "sourceCount": 43,
+        "title": "Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera",
+        "url": "https://atlas.lootura.com/es/organization/psoe",
+        "path": "/es/organization/psoe",
+        "updatedAt": "2026-09-17T16:13:29.513Z",
+        "score": 1697,
+        "sourceCount": 249,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +57,29 @@
         "id": "es-espana",
         "name": "España",
         "type": "place",
-        "title": "No es Noé ni Mateo: el curioso nombre bíblico de niño que gana popularidad en Cataluña y menos de 200 personas llevan en España",
+        "title": "Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica",
         "url": "https://atlas.lootura.com/es/place/espana",
         "path": "/es/place/espana",
-        "updatedAt": "2026-09-15T03:21:35.336Z",
-        "score": 1631,
-        "sourceCount": 1482,
+        "updatedAt": "2026-09-17T16:13:29.513Z",
+        "score": 1678,
+        "sourceCount": 1512,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-audiencia-nacional",
+        "name": "Audiencia Nacional (España)",
+        "type": "organization",
+        "title": "La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta",
+        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
+        "path": "/es/organization/audiencia-nacional",
+        "updatedAt": "2026-09-17T16:13:29.513Z",
+        "score": 1662,
+        "sourceCount": 154,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 263
+    "publicEntityCount": 260
   }
 }

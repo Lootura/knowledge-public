@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos
+
+Dos militares destinados en Ceuta fueron traslados a Madrid a principios de esta semana para ser ingresados en el Hospital Central de la Defensa Gómez Ulla después de sufrir una agresión por parte de inmigrantes durante el despliegue de las Fuerzas Armadas en la ciudad autónoma. Seguir leyendo...
+
+Date: 2026-09-17
 
 ### Sánchez contra Robles: desclasificará un informe de la inteligencia militar del 30 de julio para culparla de que avisó tarde
 
@@ -62,12 +68,6 @@ Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas
 
 Date: 2026-08-01
 
-### Ocho muertos y 14 heridos en un ataque de Ucrania contra una zona ocupada por Rusia
-
-Al menos ocho personas han muerto, entre ellas dos niños, y otras 14 han resultado heridas en un ataque perpetrado este sábado por las Fuerzas Armadas de Ucrania contra una zona ocupada por las tropas rusas en la provincia ucraniana de Zaporiyia, en el este del país. «Esta madrugada, en la localidad de Kirilivka, se ha.
-
-Date: 2026-07-25
-
 ## Fuentes
 
-No public source links.
+- [Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos](https://www.lavanguardia.com/politica/20260917/11637213/dos-militares-desplegados-ceuta-ingresados-gomez-ulla-madrid-agredidos.html?utm_source=lootura.com) — 2026-09-17T11:19:48.000Z

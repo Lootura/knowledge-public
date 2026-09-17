@@ -3,10 +3,16 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T03:00:59.069Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### El veto de los socialistas para blindar a Marruecos boicotea una resolución de apoyo a Ceuta en Europa
+
+"Es totalmente factible que mañana no se apruebe ninguna resolución. Ahora mismo se están buscando los apoyos necesarios en ECR [el grupo de Giorgia Meloni] y Patriots [el...
+
+Date: 2026-09-16
 
 ### Meloni asegura que preservar Schengen pasa por defender las fronteras exteriores de la UE
 
@@ -61,12 +67,6 @@ Date: 2026-08-09
 La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
 
 Date: 2026-08-08
-
-### Discovered by Atlas
-
-Giorgia Meloni first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-07
 
 ## Fuentes
 

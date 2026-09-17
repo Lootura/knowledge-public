@@ -3,10 +3,16 @@
 > Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-12T14:59:23.432Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/organization/west-bank
 
 ## Recent changes
+
+### What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?
+
+Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.
+
+Date: 2026-09-17
 
 ### The secret quest to preserve Palestinian writer Raja Shehadeh's diaries
 
@@ -62,12 +68,6 @@ West Bank first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-08-13
 
-### U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes
-
-Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occup.
-
-Date: 2026-08-13
-
 ## Sources
 
-No public source links.
+- [What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?](https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html?utm_source=lootura.com) — 2026-09-17T14:14:57.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,21 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda",
+      "summary": "Salma Hayek es lo que todas las famosas deberían ser: estilosa, cercana, luminosa, de aspecto saludable y feliz. Es tan completa que da buen rollo verla y apetece arrimarse para ver si nos contagia algo de ese 'no sé qué' que desprende. La mayoría de veces viste prendas de encaje, porque las blondas y los sets de picar.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
+      "summary": "El consejero delegado y fundador de la entidad, Nik Storonsky, afirma que el neobanco tiene un mayor retorno sobre el capital que las entidades tradicionales, pero reconoce que su rentabilidad por cliente es inferior.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "El Rey y la diplomacia de defensa",
+      "summary": "En las relaciones internacionales, y más singularmente en la arquitectura global de seguridad, los gestos y los símbolos no son un mero formulismo de etiqueta; son la argamasa sobre la que se edifica la confianza mutua entre aliados. Tras el impacto que supusieron los atentados del 11-S en Nueva York y Washington —una.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York",
       "summary": "El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.",
@@ -75,23 +90,21 @@
       "title": "Silencio contra la división: Nueva York conmemora el día más oscuro de EE.UU.",
       "summary": "El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que acudió al acto en el Pentágono, la presencia polémica de Mamdani, primer alcalde musulmán de la ciudad, y la exigencia de las familias de las víctimas de aclarar el papel de Arabia Saudí en los atentados.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "La huella del 11-S",
-      "summary": "Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APPCierras los ojos y solo se oye el rumor del agua. No llegan las conversaciones de los turistas que se asoman al monumento conmemorativo del 11S en Nueva York. Los sonidos de la ciudad -la sirena de la Policía, las obras que todavía siguen en.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Trump lleva el recuerdo de los atentados al Pentágono y lo enlaza con las guerras de hoy",
-      "summary": "Donald Trump conmemoró el 25 aniversario del 11-S lejos de su ciudad, Nueva York, en otro escenario de los atentados: el Pentágono. El presidente eligió una ceremonia reducida en el interior del complejo militar, a escasos metros del lugar donde el vuelo 77 de American Airlines abrió hace exactamente un cuarto de siglo.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono",
-      "summary": "El presidente de Estados Unidos, Donald Trump , rompió con la tradición que obliga a los presidentes estadounidenses, presentes y pasados, a participar en la ceremonia de conmemoración de los atentados del 11 de septiembre de 2001 en la Zona Cero de Nueva York en los grandes aniversarios. Aunque en el pasado otros mand.",
-      "date": "2026-09-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda",
+      "url": "https://www.abc.es/estilo/moda/picardias-arrasan-toronto-nueva-york-incomoda-20260917074851-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:16:15.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
+      "url": "https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:56:01.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 2
 }

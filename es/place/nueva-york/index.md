@@ -3,10 +3,28 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda
+
+Salma Hayek es lo que todas las famosas deberían ser: estilosa, cercana, luminosa, de aspecto saludable y feliz. Es tan completa que da buen rollo verla y apetece arrimarse para ver si nos contagia algo de ese 'no sé qué' que desprende. La mayoría de veces viste prendas de encaje, porque las blondas y los sets de picar.
+
+Date: 2026-09-17
+
+### Revolut planea una doble cotización en Nueva York y Londres y aspira a "cientos de millones" de clientes
+
+El consejero delegado y fundador de la entidad, Nik Storonsky, afirma que el neobanco tiene un mayor retorno sobre el capital que las entidades tradicionales, pero reconoce que su rentabilidad por cliente es inferior.
+
+Date: 2026-09-17
+
+### El Rey y la diplomacia de defensa
+
+En las relaciones internacionales, y más singularmente en la arquitectura global de seguridad, los gestos y los símbolos no son un mero formulismo de etiqueta; son la argamasa sobre la que se edifica la confianza mutua entre aliados. Tras el impacto que supusieron los atentados del 11-S en Nueva York y Washington —una.
+
+Date: 2026-09-16
 
 ### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
 
@@ -50,24 +68,7 @@ El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que
 
 Date: 2026-09-11
 
-### La huella del 11-S
-
-Código Desktop Imagen para móvil, amp y app Código móvil Código AMP Código APPCierras los ojos y solo se oye el rumor del agua. No llegan las conversaciones de los turistas que se asoman al monumento conmemorativo del 11S en Nueva York. Los sonidos de la ciudad -la sirena de la Policía, las obras que todavía siguen en.
-
-Date: 2026-09-11
-
-### Trump lleva el recuerdo de los atentados al Pentágono y lo enlaza con las guerras de hoy
-
-Donald Trump conmemoró el 25 aniversario del 11-S lejos de su ciudad, Nueva York, en otro escenario de los atentados: el Pentágono. El presidente eligió una ceremonia reducida en el interior del complejo militar, a escasos metros del lugar donde el vuelo 77 de American Airlines abrió hace exactamente un cuarto de siglo.
-
-Date: 2026-09-11
-
-### La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono
-
-El presidente de Estados Unidos, Donald Trump , rompió con la tradición que obliga a los presidentes estadounidenses, presentes y pasados, a participar en la ceremonia de conmemoración de los atentados del 11 de septiembre de 2001 en la Zona Cero de Nueva York en los grandes aniversarios. Aunque en el pasado otros mand.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda](https://www.abc.es/estilo/moda/picardias-arrasan-toronto-nueva-york-incomoda-20260917074851-nt.html?utm_source=lootura.com) — 2026-09-17T15:16:15.000Z
+- [Revolut planea una doble cotización en Nueva York y Londres y aspira a "cientos de millones" de clientes](https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html?utm_source=lootura.com) — 2026-09-17T12:56:01.000Z

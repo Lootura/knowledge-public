@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/bernie-sanders/index.json",
   "description": "Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [
     "Bernard \"Bernie\" Sanders",
     "Bernard Sanders",
@@ -19,6 +19,11 @@
     "Senator Sanders"
   ],
   "changes": [
+    {
+      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI. (Image credit: Sanders credit: Sarah Rice/Getty Images and Bannon credit: Kayla Bartkowski/Getty Images).",
+      "date": "2026-09-15"
+    },
     {
       "title": "Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.",
       "summary": "The two men will appear separately at an event calling for a “pro-human” approach to A.I. as warnings mount from the industry and the technology’s danger becomes a midterm issue.",
@@ -55,13 +60,6 @@
       "date": "2026-08-09"
     }
   ],
-  "sources": [
-    {
-      "title": "Political Figures From Bernie Sanders to Steve Bannon Sound Alarms on A.I.",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T21:31:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

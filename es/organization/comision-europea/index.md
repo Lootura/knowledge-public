@@ -3,10 +3,58 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»
+
+Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.
+
+Date: 2026-09-17
+
+### Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios
+
+El ministro tranquiliza a la Comisión Europea acerca de los inmigrantes de Ceuta: no están viajando a la Península, le ha dicho al comisario de Migraciones. "No van a ser trasladados a la Península ni van a poder acceder a ningún tipo de protección", dijo Marlaska en la segunda semana de la crisis Leer.
+
+Date: 2026-09-17
+
+### Fin al 'scroll' infinito y veto a los menores de 13: así es la ley que plantea la UE para limitar las redes
+
+“Es hora de pasar a la acción”. Con estas palabras se ha pronunciado este jueves la presidenta de la Comisión Europea, Ursula von der Leyen, al presentar la propuesta de ley que plantea prohibir el acceso a las redes sociales a los menores de 13 años y restringirlo para quienes tengan entre 13 y 15. Entre las medidas q.
+
+Date: 2026-09-17
+
+### Europa propone “flexibilizar” las reglas migratorias ante crisis como la de Ceuta
+
+Bruselas quiere poner en marcha un mecanismo que permita agilizar la gestión migratoria en crisis como la de Ceuta. La presidenta de la Comisión Europea, Ursula von der Leyen, anunció ayer un “marco de respuesta de emergencia” durante su discurso sobre el estado de la Unión, en la sede del Parlamento Europeo en Es­tras.
+
+Date: 2026-09-17
+
+### Von der Leyen se dirige "directamente al pueblo de España": "La frontera de Ceuta es una frontera europea. Porque Ceuta es España. Ceuta es Europa"
+
+Ursula von der Leyen ha querido dirigirse "directamente al pueblo español" en su discurso sobre el Estado de la Unión Europea. La presidenta de la Comisión Europea ha...
+
+Date: 2026-09-16
+
+### Von der Leyen endurece su discurso sobre migración a raíz de la crisis de Ceuta
+
+La crisis migratoria de Ceuta marca el inicio del curso en la Unión Europea. La entrada irregular este verano de decenas de miles de personas en la ciudad autónoma española desde Marruecos ha dado pie, además, para romper otro tabú en el sistema de asilo europeo. La presidenta de la Comisión Europea, Ursula von der Ley.
+
+Date: 2026-09-16
+
+### Von der Leyen anuncia una ley de emergencia europea para lidiar con crisis como la de Ceuta
+
+La Unión Europea mira hacia Ceuta dispuesta a tomar cartas en el asunto. La presidenta de la Comisión Europea, Ursula von der Leyen, ha aprovechado su discurso sobre el Estado de la Unión, la intervención que sirve de pistoletazo de salida al nuevo curso político, para abordar la crisis que desde este verano enfrenta l.
+
+Date: 2026-09-16
+
+### Von der Leyen pide vetar las redes a menores de 13 años y un acceso restringido hasta los 15
+
+La presidenta de la Comisión Europea, Ursula von der Leyen , ha anunciado una propuesta para vetar las redes a los menores de 13 años en toda la Unión Europea y permitirles el acceso con restricciones hasta los 15, siguiendo las recomendaciones del grupo de expertos ‘ad hoc’ creado para responder a la presión de países.
+
+Date: 2026-09-16
 
 ### Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta
 
@@ -20,54 +68,8 @@ España y la Comisión Europea han logrado avances «importantes» en la petici�
 
 Date: 2026-09-04
 
-### El precio de la tasa verde de la UE: hasta 800 euros por coche producido y fertilizantes un 30% más caros
-
-Si algo distingue la segunda legislatura de Ursula von der Leyen al frente de la Comisión Europea (2024-2029) con respecto a la primera (2019-2024) es que el debate sobre la competitividad ha ganado peso sobre las políticas verdes, en un viraje que tuvo su primer hito con la presentación del plan Draghi y que se ha vis.
-
-Date: 2026-09-03
-
-### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , y el secretario general de la OTAN, Mark Rutte, han celebrado este miércoles una reunión en Bruselas como reacción al ataque de drones atribuidos a Rusia en el aeropuerto de la ciudad alemana de Liepzig . Von der Leyen ha hablado claramente de «un ataque usan.
-
-Date: 2026-09-02
-
-### De las concertinas a los centros de retorno: Cómo Europa ha endurecido su política migratoria en la última década
-
-Hace poco más de diez años, la Comisión Europea pedía a España que buscara "alternativas" a las concertinas en las vallas de Ceuta y Melilla y advertía de que la vigilancia fronteriza debía ser "proporcionada y respetar los derechos fundamentales". Hoy, la UE debate sobre centros de retorno de migrantes en terceros paí.
-
-Date: 2026-08-09
-
-### Más de 8.000 inmigrantes, el regalo de Marruecos
-
-Como era de esperar, la «invasión» de Ceuta ha dejado varios regalos, por cierto, bastante costosos para España. Tras el ridículo de Marlaska, que se ha convertido en una caricatura de sí mismo, y de la Comisión Europea y los ministros de Interior, el desastre se ha saldado con entre 8.000 y 11.000 inmigrantes que se h.
-
-Date: 2026-08-08
-
-### La CE abre un nuevo capítulo del folletín por el 'hachazo' renovables al investigar a España por la única vez que ha pagado a un acreedor
-
-España podría ser multada por la Comisión Europea por hacer algo a lo que lleva años resistiéndose con la justificación, precisamente, de no quebrar el Derecho comunitario. Bruselas anunció el marte de esta semana la apertura de una "investigación en profundidad" sobre la única vez que el Gobierno ha pagado una de las.
-
-Date: 2026-08-08
-
-### Bruselas avala la adenda final a los fondos europeos del plan de recuperación
-
-La adenda de cierre al Plan de Recuperación ha recibido la evaluación preliminar positiva por parte de la Comisión Europea. Así lo ha confirmado a través de sus redes sociales el ministro de Economía, Comercio y Empresa, Carlos Cuerpo, que ha apuntado que esta adenda permitirá "el máximo aprovechamiento de los recursos.
-
-Date: 2026-08-07
-
-### Von der Leyen felicita a España y Marruecos por la gestión de la crisis en Ceuta, pero pide reforzar las fronteras
-
-La crisis migratoria de Ceuta acumula más intercambio de cartas entre capitales . Este lunes, la presidenta de la Comisión Europea, Ursula von der Leyen, ha respondido al presidente del Gobierno español, Pedro Sánchez, con un texto que acaba con una llamada a la solidaridad entre los Estados miembros en las crisis migr.
-
-Date: 2026-08-03
-
-### Von der Leyen «felicita» a Sánchez por el resultado de la crisis en Ceuta pero le reprocha que no usara el apoyo europeo
-
-La presidenta de la Comisión Europea, Úrsula von der Leyen, ha afirmado que la crisis migratoria registrada en Ceuta por las llegadas masivas desde Marruecos deja claro que la UE debe «hacer más» en sus fronteras exteriores, para lo cual aboga por una «rigurosa vigilancia» y «barreras físicas cuando sea necesario», y t.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-No public source links.
+- [Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»](https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com) — 2026-09-17T15:01:47.000Z
+- [Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios](https://www.elmundo.es/espana/2026/09/17/6aabca0dfc6c8304358b4571.html?utm_source=lootura.com) — 2026-09-17T11:44:39.000Z
+- [Fin al 'scroll' infinito y veto a los menores de 13: así es la ley que plantea la UE para limitar las redes](https://www.lavanguardia.com/vida/20260917/11636963/ue-propone-limitar-hora-dia-acceso-redes-sociales-menores-13-15-anos.html?utm_source=lootura.com) — 2026-09-17T09:31:54.000Z

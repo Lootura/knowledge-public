@@ -3,72 +3,74 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions
+### Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war
 
-It’s the first public report on the ongoing war started Feb. 28 by the U.S. and Israel.
+Nearly the entire Democratic caucus in the Senate is demanding that Defense Secretary Pete Hegseth provide Congress with a full accounting of the cost of the war in Iran along with related budget requests, as frustration grows that the Pentagon is not being forthcoming about the war and its fiscal impact.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.
+### U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack
 
-President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.
+Human rights experts commissioned by the U.N. say they have found "reasonable grounds" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab. (Image credit: Vahid Salemi).
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Air Force officer recalls ‘free-falling’ after jet was shot down over Iran
+### Global Economy Is Running Out of Wiggle Room
 
-In an interview with CBS’ “60 Minutes,” one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal.
+Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### US airman recounts Iran rescue in 60 Minutes segment branded propaganda
+### China Stockpiled Oil, and Now It Could Dominate the Energy Landscape
 
-Critics say segment about airman’s rescue was made to boost public perception of Trump’s unpopular war A US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after he was shot down in Iran – and of being rescued by a team of American special forces as hostile locals closed in on him. Th.
+The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs
+### Rising gas prices fuel protests in countries around the world
 
-The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.
+Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### World leaders gathered for the annual BRICS summit. Here are the takeaways
+### Is Iran Shaping Up to Be a ‘Forever War’?
 
-India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.
+Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
-### How Iran’s Hard-liners Blew Up the Peace Deal with Trump
+### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
 
-Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.
+CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
-### Meeting Between Iran, Arab States Postponed as Mideast Diplomacy Stalls
+### Iran war has cost the U.S. more than $38 billion so far, budget office says
 
-Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.
+The estimates come largely from replacing munitions and equipment lost in battle, the CBO said, and do not include costs related to U.S. military personnel killed or injured in the conflict or longer term effects.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
-### As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table
+### How nearly 7 months of war have changed daily life in Iran
 
-The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.
+For the third time, the House of Representatives voted to end the war with Iran. That war powers resolution would stop President Trump from continuing military action against Iran without congressional approval, but it still needs to pass the Senate. The push comes more than six months into a conflict Trump said would.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
-### On board a warship headed to support the war in Iran
+### Interest rate hike a 'reassuring' sign Fed is acting independently, economist says
 
-The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.
+The Federal Reserve raised interest rates by a quarter of a point, the first hike in three years. It comes as the war in Iran continues to put pressure on prices and is the first major move by Fed Chair Kevin Warsh to combat elevated inflation. Geoff Bennett discussed more with economist Julia Coronado of MacroPolicy P.
 
-Date: 2026-09-12
+Date: 2026-09-16
 
 ## Sources
 
-- [Pentagon inspector general says Iran war has led to a shortfall of U.S. munitions](https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019?utm_source=lootura.com) — 2026-09-14T20:28:06.000Z
-- [What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.](https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html?utm_source=lootura.com) — 2026-09-14T19:58:01.000Z
+- [Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war](https://www.nbcnews.com/politics/national-security/democratic-senators-request-pentagon-provide-bare-minimum-cost-war-rcna598293?utm_source=lootura.com) — 2026-09-17T14:36:19.000Z
+- [U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack](https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes?utm_source=lootura.com) — 2026-09-17T12:33:36.000Z
+- [Global Economy Is Running Out of Wiggle Room](https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html?utm_source=lootura.com) — 2026-09-17T13:14:06.000Z
+- [China Stockpiled Oil, and Now It Could Dominate the Energy Landscape](https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com) — 2026-09-17T16:10:18.000Z

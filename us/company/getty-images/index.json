@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/getty-images/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/getty-images/index.json",
   "description": "Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "Getty Images Holdings, Inc.",
     "Getty Images, Inc.",
     "Getty"
   ],
   "changes": [
+    {
+      "title": "Dayanita Singh",
+      "summary": "—Roberto Serra—Iguana Press/Getty Images.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Luke Nikas",
+      "summary": "—Ramsay de Give—Pool/Getty Images/.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI. (Image credit: Sanders credit: Sarah Rice/Getty Images and Bannon credit: Kayla Bartkowski/Getty Images).",
+      "date": "2026-09-15"
+    },
     {
       "title": "OPINION: 25 years on, a nation still mourns",
       "summary": "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday. (Image credit: Spencer Platt/Getty Images).",
@@ -49,30 +64,21 @@
       "title": "AI Will Transform Work, But It Can't Replace Relationships",
       "summary": "—Monty Rakusen—Getty Images AI is everywhere. It's reshaping industries, accelerating innovation, and changing how millions of people work. And while AI will transform work, it is crystal clear to me that AI can not replace relationships. Working in real estate has taught me this firsthand. Great real estate agents are.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
-      "summary": "Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years. (Image credit: Paul Morigi/Getty Images).",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-      "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan, given it's the state's top trade partner. (Image credit: Education Images/Universal Images Group via Getty Images).",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela. (Image credit: FEDERICO PARRA/AFP via Getty Images).",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
+      "title": "Dayanita Singh",
+      "url": "https://time.com/collection/time100-art/2026/dayanita-singh/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:01:32.000Z",
+      "sourceId": "lootura-us-time"
+    },
+    {
+      "title": "Luke Nikas",
+      "url": "https://time.com/collection/time100-art/2026/luke-nikas/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:01:33.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

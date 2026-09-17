@@ -3,10 +3,16 @@
 > Follow Jeffrey Epstein, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T15:46:22.368Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/person/jeffrey-epstein
 
 ## Recent changes
+
+### Committee investigating Epstein holds billionaire Leon Black in contempt of Congress
+
+Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges. (Image credit: J. Scott Applewhite).
+
+Date: 2026-09-16
 
 ### Leon Black defies House subpoena, sues committee over Epstein probe
 

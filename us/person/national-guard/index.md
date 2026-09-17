@@ -3,10 +3,16 @@
 > Follow National Guard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T03:06:35.172Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/person/national-guard
 
 ## Recent changes
+
+### Supreme Court Stands Up to Trump on Mail Voting and a Few Key Issues
+
+The justices take their time and pick their spots, but they have rejected presidential initiatives on tariffs, citizenship, the National Guard — and now the coming election.
+
+Date: 2026-09-15
 
 ### The effectiveness and cost of the National Guard deployment in D.C.
 

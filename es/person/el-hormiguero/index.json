@@ -27,19 +27,6 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Vivas acusa al Gobierno de \"irresponsabilidad\" y de no querer \"molestar\" a Marruecos",
-      "url": "https://www.elconfidencial.com/espana/2026-09-14/vivas-gobierno-irresponsabilidad-molestar-marruecos_4423827/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T21:40:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Vivas, en ‘El Hormiguero’: “Lo que se ha vivido en Ceuta no es una crisis migratoria. Ha sido una invasión en toda regla”",
-      "url": "https://elpais.com/espana/2026-09-14/vivas-en-el-hormiguero-lo-que-se-ha-vivido-en-ceuta-no-es-una-crisis-migratoria-ha-sido-una-invasion-en-toda-regla.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T21:30:45.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/florentino-perez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/florentino-perez/index.json",
   "description": "Sigue la actividad de Florentino Pérez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T01:44:05.758Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Florentino"
   ],
   "changes": [
     {
-      "title": "Florentino Pérez obtiene una plusvalía de 23 millones de euros con la venta de 295.000 acciones de ACS",
-      "summary": "El presidente de ACS, Florentino Pérez, ha ingresado una plusvalía de 23 millones de euros tras vender un paquete de acciones de la compañía que había recibido del plan de incentivos a largo plazo aprobado en 2023 . Según los registros de la Comisión Nacional del Mercado de Valores (CNMV) , se trata de 295.000 acciones.",
-      "date": "2026-08-13"
+      "title": "Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas",
+      "summary": "El presidente del Real Madrid, Florentino Pérez, viajará este viernes por la mañana a Ceuta, solo tres días después de la polémica de las camisetas de apoyo a la ciudad autónoma que Mbappé, Vinicius y Konaté se negaron a mostrar de manera completa el martes en Elche. Además del presidente, en la visita, adelantada por.",
+      "date": "2026-09-17"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Florentino Pérez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Florentino Pérez obtiene una plusvalía de 23 millones de euros con la venta de 295.000 acciones de ACS",
+      "summary": "El presidente de ACS, Florentino Pérez, ha ingresado una plusvalía de 23 millones de euros tras vender un paquete de acciones de la compañía que había recibido del plan de incentivos a largo plazo aprobado en 2023 . Según los registros de la Comisión Nacional del Mercado de Valores (CNMV) , se trata de 295.000 acciones.",
       "date": "2026-08-13"
     },
     {
@@ -29,6 +34,13 @@
       "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas",
+      "url": "https://elpais.com/deportes/futbol/2026-09-17/florentino-perez-visita-ceuta-este-viernes-tres-dias-despues-de-la-polemica-de-las-camisetas.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T11:37:02.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

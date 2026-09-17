@@ -3,10 +3,22 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Elon Musk despliega su máquina de caos político en el Reino Unido
+
+El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: "La guerra civil es inevitable" Leer.
+
+Date: 2026-09-16
+
+### La conjura de los tres nacionalismos contra el Reino Unido: "Andy Burnham será el último primer ministro británico"
+
+Los ministros principales de Escocia, Gales e Irlanda del Norte sellan un histórico acuerdo para desafiar a Westminster y avanzar hacia la independencia, aunque no mencionan la palabra "referéndum" Leer.
+
+Date: 2026-09-14
 
 ### Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido
 
@@ -56,18 +68,6 @@ El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asent
 
 Date: 2026-09-04
 
-### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
-
-Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
-
-Date: 2026-08-31
-
-### Farage denuncia una "campaña organizada" para alterar el resultado electoral
-
-Clacton (Reino Unido), 14 ago (EFE).- El líder del partido británico populista de derecha Reform UK,...
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York](https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com) — 2026-09-17T14:56:33.000Z

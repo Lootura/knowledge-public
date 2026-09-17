@@ -3,16 +3,22 @@
 > Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/concept/homeland-security
 
 ## Recent changes
 
-### Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths
+### Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know
 
-A report from the Department of Homeland Security’s inspector general found that some immigrants detained at the now-shuttered "Alligator Alcatraz" were at times confined to cages roughly the size of a phone booth. NBC News' Julia Ainsley has details on the report's findings.
+The Department of Homeland Security's focus on mass deportations resulted in a dramatic drop in investigations into illicit fentanyl, according to a federal watchdog report.
 
-Date: 2026-09-14
+Date: 2026-09-17
+
+### US judge blocks DHS from threatening prosecution against man who criticized ICE
+
+David Streever was issued a ‘warning notice’ after sending an email critical of ICE to the agency’s director in January The Department of Homeland Security (DHS) may no longer issue a “warning notice” – threatening prosecution against a US citizen – for criticizing Immigration and Customs Enforcement (ICE), a federal j.
+
+Date: 2026-09-16
 
 ### ‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says
 
@@ -23,6 +29,12 @@ Date: 2026-09-14
 ### Why Is D.H.S. Getting Involved in Elections?
 
 The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.
+
+Date: 2026-09-14
+
+### Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths
+
+A report from the Department of Homeland Security’s inspector general found that some immigrants detained at the now-shuttered "Alligator Alcatraz" were at times confined to cages roughly the size of a phone booth. NBC News' Julia Ainsley has details on the report's findings.
 
 Date: 2026-09-14
 
@@ -40,6 +52,4 @@ Date: 2026-09-03
 
 ## Sources
 
-- [Report finds 'Alligator Alcatraz' held immigrants in cages the size of phone booths](https://www.nbcnews.com/video/report-finds-alligator-alcatraz-held-immigrants-in-cages-the-size-of-phone-booths-269820997674?utm_source=lootura.com) — 2026-09-14T15:31:00.000Z
-- [‘Alligator Alcatraz’ Used Small Cages to Confine Migrants, DHS Watchdog Report Says](https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html?utm_source=lootura.com) — 2026-09-14T14:23:27.000Z
-- [Why Is D.H.S. Getting Involved in Elections?](https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html?utm_source=lootura.com) — 2026-09-14T19:10:49.000Z
+- [Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know](https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know?utm_source=lootura.com) — 2026-09-17T14:03:38.000Z

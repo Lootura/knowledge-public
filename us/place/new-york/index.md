@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### JD Vance faces test in White House meeting with Israel-backing radio host
+
+NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.
+
+Date: 2026-09-17
 
 ### As Midterms Rage, Gillibrand Wants Congress to Talk Menopause
 
@@ -62,13 +68,6 @@ BEST FRENEMIES: Didn’t see this one coming. At Friday’s ceremony commemorati
 
 Date: 2026-09-11
 
-### New York Marks the 25th Anniversary of 9/11 at Ground Zero
-
-At a ceremony in Lower Manhattan, elected officials and loved ones of those killed in the 2001 terror attacks gathered in solemn remembrance.
-
-Date: 2026-09-11
-
 ## Sources
 
-- [Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists](https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists?utm_source=lootura.com) — 2026-09-14T23:02:54.000Z
-- [As Midterms Rage, Gillibrand Wants Congress to Talk Menopause](https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html?utm_source=lootura.com) — 2026-09-14T15:13:49.000Z
+- [JD Vance faces test in White House meeting with Israel-backing radio host](https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com) — 2026-09-17T09:50:00.000Z

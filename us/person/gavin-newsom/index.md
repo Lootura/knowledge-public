@@ -34,4 +34,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [Gavin Newsom says he will not run for president in 2028 if Kamala Harris does](https://www.theguardian.com/us-news/2026/sep/14/gavin-newsom-president-kamala-harris?utm_source=lootura.com) — 2026-09-15T01:34:57.000Z
+No public source links.

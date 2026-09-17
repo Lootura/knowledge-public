@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T03:06:35.172Z",
+  "updatedAt": "2026-09-17T09:12:35.113Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,11 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina",
+      "summary": "Whatley, the former Republican National Committee chairman, faces Democratic former Gov. Roy Cooper in a critical race for the Senate.",
+      "date": "2026-09-17"
+    },
     {
       "title": "Republicans fear they have a North Carolina problem",
       "summary": "DALLAS — Republicans are increasingly worried that North Carolina’s Senate race is slipping out of contention. For months, they had argued that a post-Labor Day infusion of cash could jolt new energy into the largely stagnant but critical Senate race. But as Republican nominee Michael Whatley struggles to meaningfully.",
@@ -62,11 +67,6 @@
       "title": "North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards",
       "summary": "State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Outer Banks community spending $50 million to save its beachfront economy",
-      "summary": "A $50 million effort is underway to restore miles of eroded shoreline in Buxton, a village on one of the barrier islands of North Carolina's Outer Banks.",
-      "date": "2026-08-07"
     }
   ],
   "sources": [],

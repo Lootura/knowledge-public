@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T09:12:14.542Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Restablecido el AVE entre Córdoba y Málaga y la media distancia Sevilla-Málaga y Sevilla-Granada tras una avería",
+      "summary": "Una \"incidencia\" en los sistemas de señalización de Antequera Santa Ana ( Málaga ) ha afectado esta mañana a la circulación de los trenes de alta velocidad que circulaban entre Córdoba y Málaga . Tras dos horas de parón, los trenes han vuelto a circular a las diez de la mañana. Esta misma avería también afectó al traye.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Neptuno y Venus se quedan en Málaga: las polémicas estatuas “Marvel” eluden la retirada prometida por el Puerto",
+      "summary": "Seis meses después de su polémica instalación, Neptuno y Venus finalmente no abandonarán el Puerto de Málaga , en contra de lo que estaba previsto. Las dos estatuas, que fueron donadas por el artista ceutí Ginés Serrán , estaban destinadas a permanecer 25 años en el recinto portuario, pero el rechazo frontal de cinco i.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Detenido en Málaga un hombre por el homicidio a tiros de un varón en Utrera (Sevilla) en agosto",
+      "summary": "La Guardia Civil de Sevilla ha detenido en la provincia de Málaga al presunto autor de un homicidio cometido el pasado 15 de agosto en la barriada del Tinte de la localidad de Utrera (Sevilla), donde un varón de 45 años de edad recibió varios impactos de bala tras una discusión. Hasta el lugar de los hechos se desplaza.",
+      "date": "2026-09-17"
+    },
     {
       "title": "HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid",
       "summary": "HM Hospitales prepara nuevos planes de expansión, con la Comunidad de Madrid como principal apuesta, junto a Cataluña y Málaga. Ahora, la compañía trabaja en la implantación de un futuro hospital en los nuevos desarrollos del Sureste de la Comunidad madrileña. “Estamos trabajando con nuestros socios para analizar posib.",
@@ -45,30 +60,8 @@
       "title": "En busca del origen de Málaga, 2.800 años antes de ponerse de moda: \"Es de lo mejor del Mediterráneo\"",
       "summary": "Desde primera hora de la mañana, corredores y ciclistas pasan por el camino terrizo que discurre paralelo al río Guadalhorce . Las zapatillas y las ruedas levantan polvo y, al otro lado de la valla que delimita el sendero, el terreno se abre a una parcela llana, desnuda de vegetación, en la que pocos reparan. Hace vari.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Levantamuertos: la receta gamberra de la abuela que pega fuerte desde Málaga",
-      "summary": "Hay nombres comerciales que no parecen hechos para una farmacia. El Levantamuertos es uno de ellos. Y, a pesar de todo, ahí está: entre blísteres de pastillas y jarabes para la tos. Pero esa irreverencia quizá ha sido lo que le ha allanado parte del camino a Naturdís , la empresa que comercializa este reconstituyente c.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Un hijo del jeque del Málaga deja una deuda de medio millón de euros en un hotel de Londres",
-      "summary": "El exvicepresidente del Málaga CF e hijo del máximo accionista del club, Nasser bin Abdullah al-Thani, ha dejado una deuda de más de medio millón de euros sin pagar en un hotel de Londres, según el Financial Times . El importe, según el medio, es de unas 458.000 libras , más de 530.000 euros. Los documentos revelan que.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Detienen a un hombre por agredir sexualmente a su sobrina de 9 años en Málaga",
-      "summary": "Un hombre de unos 45 años ha sido detenido por la Policía Local de Málaga como autor de un delito de agresión sexual a una menor de nueve años , sobrina del detenido. Los hechos investigados habrían ocurrido en el interior de la vivienda familiar en la que convivían varios parientes, entre ellos el sospechoso y la niña.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid",
-      "url": "https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T03:15:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

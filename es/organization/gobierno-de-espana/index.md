@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### España destina 126 millones a 52 proyectos de ciudades inteligentes
+
+El Gobierno de España, a través de la entidad pública Red.es, publicó este martes la resolución del programa RedCyTI para financiar 52 proyectos de ciudades y territorios inteligentes, una iniciativa que movilizará una inversión total superior a los 126 millones de euros en todo el país. Seguir leyendo.
+
+Date: 2026-09-15
 
 ### Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York
 
@@ -61,12 +67,6 @@ Date: 2026-08-14
 El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
 
 Date: 2026-08-14
-
-### El PP acusa al Gobierno de ser «sumiso» y «claudicar» ante Marruecos por no señalarle
-
-El presidente de la Comisión de Interior del Senado, el popular Fernando Martínez-Maíllo , ha calificado al Gobierno español de «sumiso» al no querer «señalar» a Marruecos como responsable de la entrada masiva de migrantes a través de la frontera ceutí y lo ha acusado de haber «claudicado» ante Rabat. «Como partido de.
-
-Date: 2026-08-13
 
 ## Fuentes
 

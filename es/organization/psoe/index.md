@@ -3,10 +3,58 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático
+
+"Llevan a los tribunales todo aquello que es falso, lo pierden y todavía siguen con el asunto", critica la presidenta regional sobre las denuncias "fracasadas" de Más Madrid y el PSOE Leer.
+
+Date: 2026-09-17
+
+### «Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez
+
+Leire Díez, la presunta fontanera del PSOE, disponía del aparcamiento de la sede de los socialistas para los encuentros que mantuvo en la misma con el entonces secretario de Organización Santos Cerdán. Así lo confirmó Celia Rodríguez, una trabajadora del partido, ante el juez de la Audiencia Nacional que investiga las.
+
+Date: 2026-09-17
+
+### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
+
+Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
+
+Date: 2026-09-17
+
+### La Eurocámara aprueba con el voto en contra del PSOE que hubo «invasión en Ceuta» y pide responsabilidades a Marruecos
+
+El texto ha contado con el apoyo de los grupos conservadores mientras que los socialistas, con el PSOE a la cabeza, lo han rechazado.
+
+Date: 2026-09-17
+
+### Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera
+
+"Prometió dimitir si había mentido con la cuestión del ático. ¿Dónde está su carta de dimisión?", se ha preguntado la portavoz del PSOE, Mar Espinar, que ha enumerado varias falsedades del Gobierno madrileño sobre la polémica compra Las preguntas a las que tiene que responder el portavoz de Ayuso sobre la compra del át.
+
+Date: 2026-09-17
+
+### La juez del hermano de Sánchez pide que se investiguen contactos de las cloacas del PSOE con narcotraficantes para atacarla
+
+El Debate ha tenido acceso a un escrito que Beatriz Biedma ha presentado en la Audiencia Nacional.
+
+Date: 2026-09-16
+
+### Sumar votará por primera vez en contra de un decreto del Gobierno y deja contra las cuerdas la regulación de los 'lobbies'
+
+La aprobación de la norma en el Congreso queda en manos del PP, tras perder el PSOE el apoyo de su socio en el Ejecutivo y también de Junts Leer.
+
+Date: 2026-09-16
+
+### Temor en el PSOE a que el debate de Ceuta en el Europarlamento complique aún más la posición de Sánchez
+
+La semana que arranca puede traer un nuevo revés político para el Gobierno y para su relato sobre la crisis de Ceuta . Así al menos lo creen algunos dirigentes socialistas que miraban este lunes hacia el Parlamento Europeo temiendo que la posición de Pedro Sánchez quede aún más se comprometida tras el debate sobre la c.
+
+Date: 2026-09-15
 
 ### Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años
 
@@ -20,57 +68,10 @@ Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP
 
 Date: 2026-09-14
 
-### La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS
-
-La crisis de Ceuta golpea las expectativas electorales de Pedro Sánchez . El barómetro del CIS, elaborado con 4.000 entrevistas entre el 1 y el 4 de septiembre, refleja una caída de la estimación de voto de dos puntos del PSOE, que pasa del 33% en julio al 31% ahora. La serie de la institución pública mantiene a los so.
-
-Date: 2026-09-14
-
-### Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»
-
-El portavoz del Grupo Socialista en el Congreso, Patxi López , ha aprovechado su presencia este lunes en Albacete capital, visita que coincide con la asistencia del líder del PP , Alberto Núñez Feijóo , al Recinto Ferial de la ciudad, para cargar contra el jefe de los ‘populares’ por no mostrar educación y dedicarse a.
-
-Date: 2026-09-14
-
-### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
-
-El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
-
-Date: 2026-09-14
-
-### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
-
-Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la "extraordinaria gravedad" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.
-
-Date: 2026-09-14
-
-### Sánchez paga los errores de Ceuta cayendo otro medio punto y Abascal sube con fuerza a costa del PP
-
-El PSOE retrocede medio punto desde julio, cuando parecía estar frenando su sangría. Los de Feijóo pierden seis décimas y Vox gana 1,3 puntos y 351...
-
-Date: 2026-09-13
-
-### El PP ve en la dimisión de Sanz la prueba de que el Gobierno "miente" con Ceuta y avisa a Marruecos: "Con España no se juega"
-
-La crisis migratoria de Ceuta sigue acaparando el debate político en España. Este sábado, el portavoz nacional del Partido Popular, Borja Sémper , ha comparecido para arremeter contra el Gobierno del PSOE y la gestión que está haciendo de la situación, acusándolo de "mentir". En una intervención en Vigo, Sémper ha acus.
-
-Date: 2026-09-12
-
-### La investigación sobre Ceuta que teme el PSOE engorda con documentos y testigos clave
-
-Una de las cuestiones sobre las que previsiblemente indagará la jueza que investiga la invasión de Ceuta en los días 30 y 31 de julio es la transmisión de la información que...
-
-Date: 2026-09-12
-
-### El PSOE rechaza las críticas por no anticipar la crisis de Ceuta: «Desde Madrid es fácil opinar»
-
-Montse Mínguez defiende que nadie «pudo predecir» la llegada de más de 70.000 personas en 48 horas.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP](https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html?utm_source=lootura.com) — 2026-09-14T11:22:32.000Z
-- [La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS](https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html?utm_source=lootura.com) — 2026-09-14T11:52:03.000Z
-- [Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años](https://okdiario.com/baleares/grave-brote-amnesia-del-psoe-balear-exige-pp-proteger-barcas-tradicionales-ignorarlas-11-anos-20287594?utm_source=lootura.com) — 2026-09-15T02:00:58.000Z
-- [Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»](https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com) — 2026-09-14T18:24:58.000Z
+- [«Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez](https://www.abc.es/espana/gestionado-pudiera-aparcar-ferraz-declaracion-sobre-autorizacion-20260917150121-nt.html?utm_source=lootura.com) — 2026-09-17T15:46:47.000Z
+- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z
+- [La Eurocámara aprueba con el voto en contra del PSOE que hubo «invasión en Ceuta» y pide responsabilidades a Marruecos](https://www.eldebate.com/espana/20260917/eurocamara-aprueba-contra-tesis-psoe-resolucion-pide-responsabilidades-marruecos-sobre-ceuta_459795.html?utm_source=lootura.com) — 2026-09-17T11:23:47.000Z
+- [Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático](https://www.elmundo.es/madrid/2026/09/17/6aab9f58e4d4d850578b45a2.html?utm_source=lootura.com) — 2026-09-17T08:50:03.000Z
+- [Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera](https://www.eldiario.es/madrid/madrid-pide-juicio-ayuso-corrupta-carga-mentiras-atico-listas-espera_1_13516956.html?utm_source=lootura.com) — 2026-09-17T09:06:25.000Z

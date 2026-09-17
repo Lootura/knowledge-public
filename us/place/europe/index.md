@@ -3,10 +3,64 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-14T17:40:42.948Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
+
+The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
+
+Date: 2026-09-17
+
+### Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign
+
+The European Union floated the idea of making Canada its first associate member, with Canadian Prime Minister Mark Carney embracing the plan. Plus, a photographer spotted President Trump holding a placard that appeared to say "Kennedy Center Demolished." CBS News' Weijia Jiang has more.
+
+Date: 2026-09-17
+
+### Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes
+
+Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts. (Image credit: Jung Yeon-Je).
+
+Date: 2026-09-17
+
+### The Fed raises interest rates. And, EU proposes Canada become an 'associate member'
+
+The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever "associate member." (Image credit: Jean-Christophe Verhaegen).
+
+Date: 2026-09-17
+
+### Wild honeybee populations in the EU are on the Red List for the first time
+
+Populations of the Western honeybee (Apis mellifera) are under immense pressure in the wild in Europe. New research published in Conservation Science and Practice from the University of Hohenheim in Stuttgart and Agroscope in Zürich shows that there are frequent occurrences of honeybees in the wild in Europe. However,.
+
+Date: 2026-09-17
+
+### Sweden Swings Back Left, Bucking a Trend in Europe
+
+The results of this week’s exceptionally close election dealt a blow to far-right nationalists, who have gained ground elsewhere.
+
+Date: 2026-09-17
+
+### With invite to join EU bloc, Canada's prime minister speaks to European Parliament
+
+Canada's Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become an "associate member" of the bloc.
+
+Date: 2026-09-17
+
+### EU's Ursula von der Leyen says she wants Canada to become an associate member
+
+European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).
+
+Date: 2026-09-16
+
+### E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken
+
+Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.
+
+Date: 2026-09-16
 
 ### Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies
 
@@ -14,60 +68,11 @@ The attack on Ukraine’s rail network, which connects the country to the West, 
 
 Date: 2026-09-14
 
-### Sweden's election could mark major milestone for Europe's populist right
-
-Once shunned over its extremist roots, the Sweden Democrats could enter government for the first time as voters weigh immigration, crime and Sweden's political transformation.
-
-Date: 2026-09-11
-
-### How to help your garden recover from a heat wave
-
-UK gardens took a battering this summer as a heat dome settled over western Europe, and much of the green and pleasant land turned a dusty beige.
-
-Date: 2026-09-10
-
-### Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says
-
-The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.
-
-Date: 2026-09-08
-
-### Portugal's Pinhal Interior shows why fire and floods are part of the same cycle
-
-Across southern Europe, increasingly extreme heat, wildfire and intense rainfall are forcing planners to consider how one event can alter the risk of the next. Portugal's exceptionally wet winter and another summer of wildfire risk are an example of this. As a professor of architecture and climate change adaptation who.
-
-Date: 2026-09-08
-
-### Iceland Summons U.S. Ambassador Over Provocative Trump Map
-
-After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.
-
-Date: 2026-09-08
-
-### Too hot to learn: How climate change hurts children's chances from birth
-
-Children across Europe have returned to school after a summer of extreme heat. As the climate warms, one question is becoming harder to ignore: How can students learn when classrooms become dangerously hot?
-
-Date: 2026-09-08
-
-### Current events: Scientists keep close eye on Atlantic Ocean changes
-
-The year is 2060. London shudders through months of Nordic winter freezes. Across northern Europe, oak and beech forests wither under severe frost and drought, while cereal yields collapse from temperatures plunging as low as 27 degrees Fahrenheit below today's averages. In U.S. coastal cities such as Miami and Charles.
-
-Date: 2026-09-08
-
-### Super-precise optical clocks in four nations tick in harmony
-
-Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02741-9 Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.
-
-Date: 2026-09-07
-
-### Far-right AfD win signals shift in Germany, raises alarm in Europe
-
-Germany's far-right AfD party won a major parliamentary election victory in the eastern state of Saxony-Anhalt. The win marks a growing divide in German politics. The AfD party is anti-immigration and has been labelled as xenophobic and extremist by German intelligence. Liz Landers discussed the outcome with Liana Fix,.
-
-Date: 2026-09-07
-
 ## Sources
 
-No public source links.
+- [Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign](https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com) — 2026-09-17T16:00:59.000Z
+- [Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes](https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes?utm_source=lootura.com) — 2026-09-17T10:00:00.000Z
+- [The Fed raises interest rates. And, EU proposes Canada become an 'associate member'](https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com) — 2026-09-17T10:54:18.000Z
+- [Wild honeybee populations in the EU are on the Red List for the first time](https://phys.org/news/2026-09-wild-honeybee-populations-eu-red.html?utm_source=lootura.com) — 2026-09-17T15:20:02.000Z
+- [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com) — 2026-09-17T01:58:24.000Z
+- [Sweden Swings Back Left, Bucking a Trend in Europe](https://www.nytimes.com/2026/09/17/world/europe/sweden-election-social-democrats.html?utm_source=lootura.com) — 2026-09-17T12:43:31.000Z

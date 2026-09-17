@@ -3,10 +3,46 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península
+
+El PP y la justicia estrechan el ya limitado margen de maniobra del Gobierno para resolver la crisis de Ceuta. Mientras la Audiencia Nacional paraliza de manera cautelar la utilización del puerto para acoger a inmigrantes en plenos preparativos para trasladar allí a casi 2.000 de ellos para aliviar el problema en las p.
+
+Date: 2026-09-17
+
+### Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta
+
+Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos "materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente" en Ceuta el pasado 30 de julio y "para que España acelere los procedimient.
+
+Date: 2026-09-17
+
+### Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios
+
+El ministro tranquiliza a la Comisión Europea acerca de los inmigrantes de Ceuta: no están viajando a la Península, le ha dicho al comisario de Migraciones. "No van a ser trasladados a la Península ni van a poder acceder a ningún tipo de protección", dijo Marlaska en la segunda semana de la crisis Leer.
+
+Date: 2026-09-17
+
+### El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad
+
+La formación de Feijóo se ha preguntado si tiene que «morir alguien» tras la nueva agresión que han sufrido en Ceuta.
+
+Date: 2026-09-17
+
+### El PP urge a Sánchez a desvelar si ha hablado con el Rey de Marruecos y el presidente guarda silencio
+
+El jefe del Ejecutivo acusa a los 'populares' de "poner palos en la rueda" y "tratar de cronificar" la crisis de Ceuta y Feijóo le reprocha "encubrir a los responsables" Leer.
+
+Date: 2026-09-16
+
+### El PP insiste en el retorno para que Ceuta no marque un "precedente" y Marruecos deje de presionar con la inmigración "hoy y a futuro"
+
+La única salida posible que el PP baraja para devolver a Ceuta a la normalidad es el retorno de todos los inmigrantes que entraron de forma irregular a la ciudad autónoma a finales de julio, incluidos los menores. Es una postura que los de Alberto Núñez Feijóo llevan semanas defendiendo y en la que insisten en que se m.
+
+Date: 2026-09-15
 
 ### Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves
 
@@ -32,43 +68,9 @@ Alberto Núñez Feijóo afronta el inicio de curso con una agenda doble. Por un 
 
 Date: 2026-09-12
 
-### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
-
-Tras los acuerdos autonómicos entre PP y Vox, las relaciones entre ambas formaciones y Alberto Núñez Feijóo y Santiago Abascal se han reforzado hasta tal punto que, fuentes cercanas a ambos líderes señalan que el contacto es “permanente” en las últimas semanas con motivo de la crisis de Ceuta, donde más de 70.000 inmig.
-
-Date: 2026-09-12
-
-### Feijóo ata en corto a sus barones y centraliza en Génova el rumbo del PP ante la "batalla final" contra Sánchez
-
-Siete barones autonómicos, decenas de diputados, eurodiputados y senadores y la cúpula nacional al completo se dieron cita el pasado lunes en el Hotel Four Seasons de Madrid para arropar al presidente de Ceuta, en un acto presidido por Alberto Núñez Feijóo . Es un despliegue poco habitual en eventos de este tipo, una i.
-
-Date: 2026-09-12
-
-### El ponente de la resolución sobre la ‘ley de nietos’ expresó a Feijóo su deseo de que el PP llegara al Gobierno
-
-El magistrado del Supremo Antonio Narváez, el ponente encargado de redactar la resolución sobre la ley de nietos en el alto tribunal, participó en un encuentro con fiscales con el presidente del PP en 2023 en el que le mostró su deseo de que este partido alcanzara el Gobierno y además alertó sobre pactos del Partido So.
-
-Date: 2026-09-10
-
-### Puente se revuelve contra los reproches del PP por la crisis migratoria en Ceuta acusando a Vivas de "permanente deslealtad"
-
-"Lo que quieren es que esta situación se perpetúe porque saben que Feijóo no es capaz de ganar unas elecciones en situación de normalidad", lanza el ministro. Los 'populares' bautizan a Pedro Sánchez como "el Nerón de Tik-Tok" Leer.
-
-Date: 2026-09-08
-
-### Feijóo promete reformar el sistema educativo "sin ideologías" tras el informe PISA que confirma el "suspenso absoluto" de Sánchez
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , ha cargado contra el presidente del Gobierno, Pedro Sánchez, tras el resultado nada halagüeño del informe PISA 2025 de la OCDE. El documento sitúa a los alumnos españoles por debajo de la media europea y de la OCDE, lo que, en opinión del líder popular, demuestr.
-
-Date: 2026-09-08
-
-### Feijóo avisa a Marruecos: “Si hay que aplicar el artículo 8 de la Constitución, lo haré”
-
-Alberto Núñez Feijóo ha continuado desgranando este martes medidas para hacer frente a la crisis de Ceuta y ha asegurado que si llega a la presidencia del Gobierno activará el artículo 8 de la Constitución para blindar la soberanía española si Marruecos intenta invadir la ciudad autónoma tras la entrada masiva de inmig.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves](https://amp.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html?utm_source=lootura.com) — 2026-09-14T20:44:53.000Z
-- [Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»](https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com) — 2026-09-14T18:24:58.000Z
+- [Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta](https://www.20minutos.es/nacional/feijoo-pide-ue-que-medie-con-marruecos-para-que-materialice-su-compromiso-aceptar-retorno-los-migrantes-ceuta_7038045_0.html?utm_source=lootura.com) — 2026-09-17T12:58:37.000Z
+- [Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios](https://www.elmundo.es/espana/2026/09/17/6aabca0dfc6c8304358b4571.html?utm_source=lootura.com) — 2026-09-17T11:44:39.000Z
+- [Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península](https://elpais.com/espana/2026-09-17/feijoo-se-enroca-con-vox-y-cierra-la-puerta-a-que-ningun-menor-de-ceuta-vaya-la-peninsula.html?utm_source=lootura.com) — 2026-09-17T03:30:01.000Z
+- [El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad](https://theobjective.com/espana/politica/2026-09-17/pp-sanchez-reconocer-militares-agentes-autoridad/?amp=&utm_source=lootura.com) — 2026-09-17T16:05:12.000Z

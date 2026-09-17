@@ -3,10 +3,16 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### 'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados
+
+La frontal oposición del Gobierno ante la decisión del Tribunal Supremo de decretar la suspensión cautelar de las inscripciones en el Censo Electoral de Residentes Ausentes ( CERA ), derivado de la ley de nietos y de una instrucción administrativa posterior, acabará en recurso ante el Tribunal Constitucional. La única.
+
+Date: 2026-09-17
 
 ### El ponente del primer recurso de amparo por la amnistía propone desestimarlo
 

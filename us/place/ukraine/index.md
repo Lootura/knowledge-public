@@ -3,10 +3,28 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Congress Clears Russia Sanctions Bill, Sending It to Trump
+
+The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.
+
+Date: 2026-09-16
+
+### A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine
+
+A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future.
+
+Date: 2026-09-16
+
+### NATO jets down drone in Lithuanian airspace
+
+The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv. (Image credit: AP Photo).
+
+Date: 2026-09-15
 
 ### Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure
 
@@ -50,24 +68,6 @@ During his 18 months as Army secretary, Dan Driscoll pushed the U.S. military to
 
 Date: 2026-09-12
 
-### Trump touts "great conversation" with Putin on ending the war in Ukraine
-
-Russian attacks continue to ravage Ukraine. President Trump says he spoke with President Vladimir Putin about ending the war. Plus, Ukrainian President Volodymyr Zelenskyy's plane was nearly struck by a Russian drone, according to Norway's prime minister. CBS News' Aidan Stretch reports.
-
-Date: 2026-09-10
-
-### Zelenskyy visits Canada to seek more military support for Ukraine against Russia
-
-Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.
-
-Date: 2026-09-10
-
-### Q&A: Satellite imagery reveals what casualty figures alone do not tell us
-
-How do we form a picture of conflicts? A new study published in the journal Nature explores how different types of data can be combined to give a fuller understanding of armed conflicts. Lead author Valerie Sticher uses the examples of Ukraine and Myanmar to explain the advantages and limitations of automatically analy.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure](https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com) — 2026-09-14T21:57:49.000Z
+No public source links.

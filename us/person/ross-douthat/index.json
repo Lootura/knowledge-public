@@ -1,0 +1,48 @@
+{
+  "id": "usa-ross-douthat",
+  "name": "Ross Douthat",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/ross-douthat",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/ross-douthat",
+  "markdownUrl": "https://atlas.lootura.com/us/person/ross-douthat/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/ross-douthat/index.json",
+  "description": "Follow Ross Douthat, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "aliases": [
+    "Ross Gregory Douthat",
+    "Ross G. Douthat"
+  ],
+  "changes": [
+    {
+      "title": "Dr. Rachel Danis joins husband Patrick Clancy for 60 Minutes interview",
+      "summary": "Ross Douthat's interview with Patrick Clancy and Dr. Rachel Danis airs Sunday on 60 Minutes.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "This Sunday: Patrick Clancy's wife, Dr. Rachel Danis, to appear on 60 Minutes",
+      "summary": "Ross Douthat sat down with Patrick Clancy and Dr. Rachel Danis just weeks after Lindsay Clancy's murder trial ended without a verdict.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ross Douthat first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dr. Rachel Danis joins husband Patrick Clancy for 60 Minutes interview",
+      "url": "https://www.cbsnews.com/news/patrick-clancy-rachel-danis-60-minutes-sunday/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:12:24.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "This Sunday: Patrick Clancy's wife, Dr. Rachel Danis, to appear on 60 Minutes",
+      "url": "https://www.cbsnews.com/video/patrick-clancy-wife-dr-rachel-danis-to-appear-60-minutes/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:11:37.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 2
+}

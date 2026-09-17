@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T03:36:53.437Z",
+  "generatedAt": "2026-09-17T17:57:05.859Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|179|1789442510927",
+    "signature": "1.18.0|184|1789661633216",
     "version": "1.18.0",
-    "build": 179,
-    "latestEntityUpdatedAt": "2026-09-15T03:21:50.927Z"
+    "build": 184,
+    "latestEntityUpdatedAt": "2026-09-17T16:13:53.216Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
-      "type": "place",
-      "title": "Vance says 870K people suspected of COVID-era U.S. fraud barred from federal loans",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-09-15T03:21:50.927Z",
-      "score": 1695,
-      "sourceCount": 1068,
+      "id": "usa-federal-reserve",
+      "name": "Federal Reserve",
+      "type": "company",
+      "title": "Morning news brief",
+      "url": "https://atlas.lootura.com/us/company/federal-reserve",
+      "path": "/us/company/federal-reserve",
+      "updatedAt": "2026-09-17T16:13:53.216Z",
+      "score": 1663,
+      "sourceCount": 20,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-canada",
+        "name": "Canada",
+        "type": "place",
+        "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+        "url": "https://atlas.lootura.com/us/place/canada",
+        "path": "/us/place/canada",
+        "updatedAt": "2026-09-17T16:13:53.216Z",
+        "score": 1654,
+        "sourceCount": 104,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump nominates Lee Greenwood's wife to serve as ambassador to Barbados",
+        "title": "Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-09-15T03:21:50.927Z",
-        "score": 1683,
-        "sourceCount": 1078,
+        "updatedAt": "2026-09-17T16:13:53.216Z",
+        "score": 1654,
+        "sourceCount": 1119,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-capitol-hill",
-        "name": "Capitol Hill",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Mitch McConnell returns to Capitol Hill after monthslong absence",
-        "url": "https://atlas.lootura.com/us/place/capitol-hill",
-        "path": "/us/place/capitol-hill",
-        "updatedAt": "2026-09-15T03:21:50.927Z",
-        "score": 1628,
-        "sourceCount": 20,
+        "title": "America has more millionaires than you think. Here's how most of them got rich.",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-09-17T16:13:53.216Z",
+        "score": 1654,
+        "sourceCount": 1099,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-vice-president",
-        "name": "Vice president",
-        "type": "concept",
-        "title": "Vance Campaigns in Kansas as Democrats Target a Republican Stronghold",
-        "url": "https://atlas.lootura.com/us/concept/vice-president",
-        "path": "/us/concept/vice-president",
-        "updatedAt": "2026-09-15T03:21:50.927Z",
-        "score": 1624,
-        "sourceCount": 18,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump-jr",
-        "name": "Donald Trump Jr.",
-        "type": "organization",
-        "title": "Putin-tied Russian oligarch paid for Trump Jr.'s wedding celebrations",
-        "url": "https://atlas.lootura.com/us/organization/donald-trump-jr",
-        "path": "/us/organization/donald-trump-jr",
-        "updatedAt": "2026-09-15T03:21:50.927Z",
-        "score": 1618,
-        "sourceCount": 3,
+        "id": "usa-openai",
+        "name": "OpenAI",
+        "type": "company",
+        "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
+        "url": "https://atlas.lootura.com/us/company/openai",
+        "path": "/us/company/openai",
+        "updatedAt": "2026-09-17T16:13:53.216Z",
+        "score": 1630,
+        "sourceCount": 26,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 219
+    "publicEntityCount": 226
   }
 }

@@ -1,0 +1,32 @@
+{
+  "id": "usa-david-streever",
+  "name": "David Streever",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/david-streever",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/david-streever",
+  "markdownUrl": "https://atlas.lootura.com/us/person/david-streever/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/david-streever/index.json",
+  "description": "Follow David Streever, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+      "summary": "ICE agents turned up at David Streever's home over a harsh email he sent to an ICE official. Now a court order prevents the federal government from making additional threats against him. (Image credit: David Streever).",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "US judge blocks DHS from threatening prosecution against man who criticized ICE",
+      "summary": "David Streever was issued a ‘warning notice’ after sending an email critical of ICE to the agency’s director in January The Department of Homeland Security (DHS) may no longer issue a “warning notice” – threatening prosecution against a US citizen – for criticizing Immigration and Customs Enforcement (ICE), a federal j.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "David Streever first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-16"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

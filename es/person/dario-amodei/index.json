@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/dario-amodei/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/dario-amodei/index.json",
   "description": "Sigue la actividad de Dario Amodei en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T09:12:14.542Z",
   "aliases": [
     "Amodei",
     "Dario"
   ],
   "changes": [
+    {
+      "title": "Las alarmas de la IA: qué preocupa a los laboratorios y quién se beneficia del debate",
+      "summary": "\"Entre seis y doce meses\". Este es el plazo que fija Dario Amodei, CEO de Anthropic, para que un enjambre de agentes de inteligencia artificial sea capaz de secuestrar...",
+      "date": "2026-09-17"
+    },
     {
       "title": "Los temores de la IA irrumpen en la mayor carrera tecnológica del siglo",
       "summary": "\"Necesitamos bajar el ritmo\". El mensaje para ralentizar el desarrollo de la IA más avanzada que lanzó este fin de semana Dario Amodei, CEO de Anthropic, y que han...",
@@ -55,25 +60,6 @@
       "date": "2026-09-13"
     }
   ],
-  "sources": [
-    {
-      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
-      "url": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T10:16:39.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Los temores de la IA irrumpen en la mayor carrera tecnológica del siglo",
-      "url": "https://amp.expansion.com/tecnologia/2026/09/15/6aa85de2e5fdea940a8b4583.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T00:14:05.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
-      "url": "https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:52:08.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 3
+  "sources": [],
+  "evidenceCount": 0
 }

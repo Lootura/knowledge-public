@@ -3,75 +3,77 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
 
-### Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años
+### «A mí me lo ha dicho el presidente»: los audios de Cospedal implican a Rajoy en el espionaje a Bárcenas
 
-El PSIB-PSOE ha solicitado al Govern de Baleares que dicte una serie de directrices que preserven la marina tradicional, como tarifas sociales y asequibles o zonas y regímenes de gestión en los puertos reservados para entidades sin ánimo de lucro vinculadas a esta rama de la náutica. Los socialistas han hecho este lune.
+Una conversación de septiembre de 2014 sitúa al expresidente como fuente directa de Cospedal sobre las pesquisas en torno a los papeles del extesorero del PP.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP
+### Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península
 
-Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP (25,5%) Leer.
+El PP y la justicia estrechan el ya limitado margen de maniobra del Gobierno para resolver la crisis de Ceuta. Mientras la Audiencia Nacional paraliza de manera cautelar la utilización del puerto para acoger a inmigrantes en plenos preparativos para trasladar allí a casi 2.000 de ellos para aliviar el problema en las p.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves
+### Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior
 
-«Se acabó eso de regalar pasaportes». El Partido Popular prepara una proposición de Ley orgánica para endurecer los requisitos de acceso a la nacionalidad española....
+El presidente de Ceuta, Juan Jesús Vivas (PP) , ha tachado de "salida de tono" las recientes palabras del presidente del Gobierno, Pedro Sánchez, en las que remitía a los periodistas a preguntar al dirigente ceutí por la presencia de menores en las calles . Además, Vivas ha recordado que la competencia para la identifi.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»
+### El Parlamento Europeo consigue aprobar una resolución de apoyo a Ceuta a pesar del veto de los socialistas: "Ha sido invadida"
 
-El portavoz del Grupo Socialista en el Congreso, Patxi López , ha aprovechado su presencia este lunes en Albacete capital, visita que coincide con la asistencia del líder del PP , Alberto Núñez Feijóo , al Recinto Ferial de la ciudad, para cargar contra el jefe de los ‘populares’ por no mostrar educación y dedicarse a.
+El Parlamento Europeo ha aprobado una resolución de apoyo a Ceuta con el voto a favor del Partido Popular, ECR y Patriots, el grupo al que pertenece Vox, y la negativa del SandD....
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Moreno denuncia la «indolencia» de Sánchez y le acusa de «no dar la cara» ante la «invasión»
+### Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos
 
-El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, ha denunciado este lunes la «indolencia arrogante» del presidente del Gobierno, Pedro.
+El Parlamento Europeo no tiene competencias en política exterior, intenta tener protagonismo en esa agenda. El PP español ha tirado esa palanca para atacar al Gobierno, algo que ya es casi una tradición en Bruselas: la Eurocámara ha aprobado este jueves una resolución, presentada por el PP europeo con el patrocinio del.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### CIS | Tezanos sigue dando ganador a Sánchez pese a Ceuta y rebaja su distancia sobre el PP de 8 a 6 puntos
+### La Eurocámara aprueba una resolución sobre Ceuta crítica con la regularización sin los socialistas
 
-El CIS de Tezanos vuelve tras el parón estival y mantiene al PSOE como primera fuerza a pesar del desgaste por la crisis migratoria desatada en Ceuta . El barómetro de septiembre, el primero elaborado tras la entrada masiva de migrantes en la ciudad autónoma, sitúa a los socialistas con el 31% de estimación de voto , f.
+La Eurocámara ha dado luz verde este jueves a una resolución de apoyo a Ceuta impulsada por el Partido Popular que ha salido adelante con toda la extrema derecha y algunos diputados liberales, pero sin el grupo socialista (339 votos a favor y 225 votos en contra). El texto recoge la “profunda preocupación” por la regul.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### "La vergüenza de Oviedo": David Uclés pide la dimisión del alcalde de la ciudad por restar importancia a una agresión fascista en las fiestas
+### El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad
 
-"Es mil veces más peligroso un alcalde que no condena la violencia que los propios agresores", ha escrito el autor de 'La península de las casas vacías' El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente” El escritor David Uclés, autor de La peníns.
+La formación de Feijóo se ha preguntado si tiene que «morir alguien» tras la nueva agresión que han sufrido en Ceuta.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### El alcalde del PP en Oviedo resta importancia a la agresión fascista durante las fiestas: “No creo que sean tan mala gente”
+### El Congreso convalida el decreto de ayuda a Ceuta y aprueba la moción del PP que reprueba a Marlaska
 
-La izquierda pide al regidor, independiente por el Partido Popular, una rectificación de sus palabras, en las que atacó además a uno de los agredidos aludiendo a una sanción por consumo de alcohol en vía pública de hace años Protesta multitudinaria tras la agresión fascista en las fiestas de Oviedo: “No pasarán” Las de.
+La grave situación que atraviesa Ceuta tras el asalto masivo de inmigrantes del pasado 30 y 31 de julio ha abierto un nuevo frente de batalla entre el Gobierno y la oposición y,...
 
-Date: 2026-09-14
+Date: 2026-09-16
 
-### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
+### El Parlamento Europeo reclama "una investigación independiente y exhaustiva" sobre la crisis
 
-La portavoz del PP en el Congreso ha insistido en que se trata de "un ataque de guerra híbrida destinado a desestabilizar Ceuta y, por tanto, a desestabilizar España y la Unión Europea" Jueces y fiscales progresistas ven desproporcionado suspender el derecho a voto de nacionalizados por la 'ley de nietos' La portavoz d.
+El Parlamento Europeo ha incorporado a su posición sobre la guerra híbrida y la protección de la integridad territorial y de las infraestructuras críticas de la Unión Europea una enmienda, reclamada por el PP, que condena "de forma tajante el asalto a la frontera sur de la UE en Ceuta y exige una investigación independ.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
-### Bendodo denuncia que la falta de energía bloquea la construcción de miles de viviendas
+### Sumar votará por primera vez en contra de un decreto del Gobierno y deja contra las cuerdas la regulación de los 'lobbies'
 
-El coordinador general de Política Autonómica y Municipal y Análisis Electoral del PP , Elías Bendodo , ha responsabilizado este domingo al Gobierno por la falta de vivienda en España y ha asegurado que la «falta de suministro energético, competencia del Ejecutivo central, está bloqueando miles de viviendas, según reco.
+La aprobación de la norma en el Congreso queda en manos del PP, tras perder el PSOE el apoyo de su socio en el Ejecutivo y también de Junts Leer.
 
-Date: 2026-09-13
+Date: 2026-09-16
 
 ## Fuentes
 
-- [Feijóo quitará la nacionalidad a los inmigrantes que cometan delitos graves](https://amp.elmundo.es/espana/2026/09/14/6aa8288121efa01a628b4587.html?utm_source=lootura.com) — 2026-09-14T20:44:53.000Z
-- [El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP](https://www.elmundo.es/espana/2026/09/14/6aa7c2f3e4d4d883708b457d.html?utm_source=lootura.com) — 2026-09-14T11:22:32.000Z
-- [Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años](https://okdiario.com/baleares/grave-brote-amnesia-del-psoe-balear-exige-pp-proteger-barcas-tradicionales-ignorarlas-11-anos-20287594?utm_source=lootura.com) — 2026-09-15T02:00:58.000Z
-- [Patxi López ironiza con la hipotética llegada de Feijóo a la Moncloa: «No sé si será en el 2031»](https://theobjective.com/espana/politica/2026-09-14/patxi-lopez-llegada-feijoo-moncloa/?utm_source=lootura.com) — 2026-09-14T18:24:58.000Z
-- [Moreno denuncia la «indolencia» de Sánchez y le acusa de «no dar la cara» ante la «invasión»](https://theobjective.com/espana/politica/2026-09-14/moreno-sanchez-no-dar-cara-invasion/?amp=&utm_source=lootura.com) — 2026-09-14T21:44:29.000Z
+- [Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior](https://www.20minutos.es/ceuta/vivas-responde-salida-tono-sanchez-recuerda-que-competencia-para-identificar-los-menores-es-interior_7037979_0.html?utm_source=lootura.com) — 2026-09-17T10:54:04.000Z
+- [«A mí me lo ha dicho el presidente»: los audios de Cospedal implican a Rajoy en el espionaje a Bárcenas](https://www.elcorreo.com/politica/dicho-presidente-audios-cospedal-implican-rajoy-espionaje-20260917104028-ntrc_amp.html?utm_source=lootura.com) — 2026-09-17T08:40:29.000Z
+- [El Parlamento Europeo consigue aprobar una resolución de apoyo a Ceuta a pesar del veto de los socialistas: "Ha sido invadida"](https://amp.elmundo.es/espana/2026/09/17/6aabc78a21efa05b188b4586.html?utm_source=lootura.com) — 2026-09-17T11:30:43.000Z
+- [Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos](https://elpais.com/espana/2026-09-17/las-derechas-europeas-cargan-contra-espana-por-la-crisis-de-ceuta-y-lanzan-una-advertencia-a-marruecos.html?utm_source=lootura.com) — 2026-09-17T12:22:12.000Z
+- [Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península](https://elpais.com/espana/2026-09-17/feijoo-se-enroca-con-vox-y-cierra-la-puerta-a-que-ningun-menor-de-ceuta-vaya-la-peninsula.html?utm_source=lootura.com) — 2026-09-17T03:30:01.000Z
+- [La Eurocámara aprueba una resolución sobre Ceuta crítica con la regularización sin los socialistas](https://www.lavanguardia.com/politica/20260917/11637195/el-parlamento-europeo-aprueba-resolucion-ceuta-smr.html?utm_source=lootura.com) — 2026-09-17T11:23:11.000Z
+- [El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad](https://theobjective.com/espana/politica/2026-09-17/pp-sanchez-reconocer-militares-agentes-autoridad/?amp=&utm_source=lootura.com) — 2026-09-17T16:05:12.000Z

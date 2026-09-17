@@ -3,10 +3,16 @@
 > Follow Lindsey Graham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-15T01:04:37.915Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/person/lindsey-graham
 
 ## Recent changes
+
+### House passes Russia sanctions bill, overcoming Democratic opposition
+
+The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one day after announcing a deal had been reached with the White House to move forward.
+
+Date: 2026-09-17
 
 ### Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure
 
@@ -59,12 +65,6 @@ Date: 2026-08-10
 ### Senate votes to sanction Russia after late Sen. Lindsey Graham's push for it
 
 The Senate on Friday overwhelmingly voted for new sanctions on Russia amid its war with Ukraine, which the late Sen. Lindsey Graham had fought for before his death in July.
-
-Date: 2026-08-09
-
-### Will Darline Graham face the same fate Pamela Evette did in South Carolina?
-
-South Carolina Republicans might be watching history repeat itself. A special election Senate primary on Tuesday, triggered by Sen. Lindsey Graham’s sudden death, has all the makings of their rollercoaster governor’s primary back in June: A front-runner endorsed by President Donald Trump but facing a steep uphill battl.
 
 Date: 2026-08-09
 

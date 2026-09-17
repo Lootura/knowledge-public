@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/west-bank/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/west-bank/index.json",
   "description": "Follow West Bank, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-12T14:59:23.432Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "Cisjordan",
     "Judea and Samaria",
     "WestBank"
   ],
   "changes": [
+    {
+      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+      "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood.",
+      "date": "2026-09-17"
+    },
     {
       "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
       "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland (Image credit: Yazeed Abu Khdeir).",
@@ -59,13 +64,15 @@
       "title": "Discovered by Atlas",
       "summary": "West Bank first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "U.S. Ambassador Huckabee condemns ‘Israeli terrorists’ for siege of West Bank homes",
-      "summary": "Dozens of Israeli settlers have trapped two Palestinian families in their West Bank homes for days, cutting off food, water and electricity. Their actions even drawing the ire of U.S. Ambassador to Israel Mike Huckabee. The IDF says settlers were dispersed, but some remain. NBC News' Matt Bradley reports from the occup.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:14:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

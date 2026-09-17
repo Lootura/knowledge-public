@@ -3,10 +3,22 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### Elon Musk despliega su máquina de caos político en el Reino Unido
+
+El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: "La guerra civil es inevitable" Leer.
+
+Date: 2026-09-16
+
+### ¿Quién gana y quién pierde al frenar la IA? De las ventajas para Elon Musk, Meta e incluso Europa a varapalo para Nvidia
+
+Una bajada de marcha en la carrera por la IA permitirá ganar terreno a regiones rezagadas como los países europeos y empresas como Meta y SpaceX al tiempo que tensa a los accionistas de Anthropic, OpenAI y todo su ecosistema Leer.
+
+Date: 2026-09-15
 
 ### Dario Amodei, Sam Altman y Elon Musk piden frenar la IA mientras Washington se desentiende
 
@@ -55,18 +67,6 @@ Date: 2026-08-06
 Elon Musk no se conforma con conectar nuestros móviles desde el espacio, sino que el tecnomagnate más polémico quiere ir un paso más allá. SpaceX pretende convertir las antenas de Starlink instaladas en viviendas y empresas en estaciones de telefonía móvil. Su objetivo es levantar una red terrestre propia y ofrecer cob.
 
 Date: 2026-08-06
-
-### La alianza de Elon Musk y Nvidia agita la industria de los chips
-
-La industria de los chips para inteligencia artificial (IA) ha vivido una nueva sacudida. En la conferencia telefónica con analistas para presentar las cuentas de SpaceX del segundo trimestre , su consejero delegado, Elon Musk, afirmó que Nvidia pasaría a ser el proveedor exclusivo de chips de IA para los centros de da.
-
-Date: 2026-08-06
-
-### Discovered by Atlas
-
-Elon Musk first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-04
 
 ## Fuentes
 

@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Trump nominates Lee Greenwood's wife to serve as ambassador to Barbados
+### Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids
 
-President Trump on Monday nominated Kimberly Greenwood, the wife of "God Bless the USA" singer Lee Greenwood, to serve as ambassador to Barbados and several other Caribbean countries.
+The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about the impact on children.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Blanche defends mail ballot changes, says election practices are being probed
+### D.C. airspace is complicated. Experts say Trump's arch would add one more risk
 
-Attorney General Todd Blanche fiercely defended the Trump administration's push to impose tighter mail voting rules, telling CBS News the DOJ is examining election practices in multiple states.
+The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots
+### Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision
 
-The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.
+This month, the president threatened to halt a broad swath of trade if interest rates were not cut, a possibility he resurfaced on Wednesday.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Elections Officials Breathe Sigh of Relief Following Court Ruling on Mail Ballots
+### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
 
-Officials cheered the order blocking President Trump’s last-minute effort to change the rules on mail ballots, noting that some states had already mailed ballots.
+The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
 
-Date: 2026-09-15
+Date: 2026-09-17
 
-### Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a "gift"
+### Who Will Win the Midterms? Republicans Are Reeling.
 
-Bettina Anderson, wife of Donald Trump Jr., said their "dear friend" Umar Kremlev hosted two nights of festivities after their wedding in the Bahamas.
+The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### This city led the way on reparations for Black people. Trump is trying to stop it
+### Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign
 
-Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit. (Image credit: Candace Dane Chambers for NPR).
+The European Union floated the idea of making Canada its first associate member, with Canadian Prime Minister Mark Carney embracing the plan. Plus, a photographer spotted President Trump holding a placard that appeared to say "Kennedy Center Demolished." CBS News' Weijia Jiang has more.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### The Trump administration is set to eliminate a rule that curbs greenhouse gas emissions from power plants
+### GOP congresswoman says Trump immigration enforcement has "gone too far"
 
-The rule change a significant shift from efforts by Presidents Joe Biden and Barack Obama to combat climate change.
+"The same Hispanics who helped you get to the White House in 2024 feel betrayed," said Rep. Maria Elvira Salazar.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Vance says Americans should not be scared of AI as calls for limits grow
+### How Canada and the E.U. are teaming up to counter Trump
 
-Vice President JD Vance said the Trump administration is concerned about AI but wants to make sure it's regulating the technology smartly.
+Canadian Prime Minister Mark Carney addressed the European Parliament in Strasbourg to lay out how middle powers might counteract Trump’s hostility.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know
+### Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know
 
-Northern Ireland's status has been contentious since it remained part of the United Kingdom after most of Ireland gained independence from Britain a century ago.
+The Department of Homeland Security's focus on mass deportations resulted in a dramatic drop in investigations into illicit fentanyl, according to a federal watchdog report.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
-### Kennedy Center board to propose new options for honoring Trump, according to court filing
+### JD Vance faces test in White House meeting with Israel-backing radio host
 
-The document proposes 10 options for adding the president's name to the building's exterior.
+NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.
 
-Date: 2026-09-14
+Date: 2026-09-17
 
 ## Sources
 
-- [Blanche vows to release more 9/11 documents: "We're not protecting people"](https://www.cbsnews.com/news/todd-blanche-911-documents/?utm_source=lootura.com) — 2026-09-14T22:49:09.000Z
-- [AI companies must ensure their tech is safe, says top Trump adviser on AI](https://www.cbsnews.com/news/david-sacks-ai-developers-safety-regulation/?utm_source=lootura.com) — 2026-09-14T22:47:11.000Z
-- [Trump nominates Lee Greenwood's wife to serve as ambassador to Barbados](https://www.cbsnews.com/news/trump-nominates-kimberly-greenwood-ambassador-barbados/?utm_source=lootura.com) — 2026-09-15T01:27:00.000Z
-- [VoteHub gives Talarico 55% chance of winning Texas Senate race](https://www.cbsnews.com/video/votehub-talarico-55-percent-chance-winning-texas-senate-race/?utm_source=lootura.com) — 2026-09-14T22:27:14.000Z
-- [Don Jr.'s wife says Russian oligarch hosted post-wedding festivities as a "gift"](https://www.cbsnews.com/news/donald-trump-jr-wife-wedding-russian-umar-kremlev/?utm_source=lootura.com) — 2026-09-14T16:37:09.000Z
-- [Blanche defends mail ballot changes, says election practices are being probed](https://www.cbsnews.com/news/blanche-defends-mail-ballot-changes-election-practices-probed/?utm_source=lootura.com) — 2026-09-15T01:25:00.000Z
-- [Supreme Court denies Trump’s mail-in voting restrictions](https://www.nbcnews.com/video/supreme-court-denies-trump-s-mail-in-voting-restrictions-269850693945?utm_source=lootura.com) — 2026-09-14T23:57:52.000Z
-- [Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit](https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761?utm_source=lootura.com) — 2026-09-14T23:06:12.000Z
-- [This city led the way on reparations for Black people. Trump is trying to stop it](https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration?utm_source=lootura.com) — 2026-09-14T11:00:00.000Z
-- [Trump's EPA repeals pollution limits on fossil fuel power plants](https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants?utm_source=lootura.com) — 2026-09-14T20:34:28.000Z
+- [Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign](https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com) — 2026-09-17T16:00:59.000Z
+- [GOP congresswoman says Trump immigration enforcement has "gone too far"](https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/?utm_source=lootura.com) — 2026-09-17T15:54:05.000Z
+- [How Canada and the E.U. are teaming up to counter Trump](https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com) — 2026-09-17T15:41:39.000Z
+- [Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids](https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care?utm_source=lootura.com) — 2026-09-17T09:00:00.000Z
+- [Trump administration plans ideological warning signs for Smithsonian](https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs?utm_source=lootura.com) — 2026-09-16T20:55:54.000Z
+- [D.C. airspace is complicated. Experts say Trump's arch would add one more risk](https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa?utm_source=lootura.com) — 2026-09-17T09:01:00.000Z
+- [Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know](https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know?utm_source=lootura.com) — 2026-09-17T14:03:38.000Z
+- [JD Vance faces test in White House meeting with Israel-backing radio host](https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com) — 2026-09-17T09:50:00.000Z
+- [Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision](https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html?utm_source=lootura.com) — 2026-09-17T00:36:33.000Z
+- [Why Israel Wants More One-Ton Bombs From the U.S.](https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html?utm_source=lootura.com) — 2026-09-16T23:41:22.000Z

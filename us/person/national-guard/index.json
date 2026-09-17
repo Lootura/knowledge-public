@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/national-guard/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/national-guard/index.json",
   "description": "Follow National Guard, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T03:06:35.172Z",
+  "updatedAt": "2026-09-16T16:07:13.884Z",
   "aliases": [
     "Guard"
   ],
   "changes": [
+    {
+      "title": "Supreme Court Stands Up to Trump on Mail Voting and a Few Key Issues",
+      "summary": "The justices take their time and pick their spots, but they have rejected presidential initiatives on tariffs, citizenship, the National Guard — and now the coming election.",
+      "date": "2026-09-15"
+    },
     {
       "title": "The effectiveness and cost of the National Guard deployment in D.C.",
       "summary": "It has now been one year since President Trump declared a \"crime emergency\" in the nation's capital and deployed thousands of members of the National Guard to its streets. Questions continue to mount over the mission's cost, its legality and its effectiveness in fighting crime. Lisa Desjardins discussed more with Richa.",

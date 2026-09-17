@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Dos cazas de la OTAN interceptan un dron cerca de Kaunas, Lituania
+
+Múltiples cazas de la OTAN han derribado pasada la medianoche de este martes un dron en el espacio aéreo de Lituania , concretamente sobre el distrito de Kaunas, tras saltar las alarmas por el avistamiento del mismo, lo que ha puesto en alerta a varias zonas del país , incluida la capital del país báltico, Vilna. «Se h.
+
+Date: 2026-09-15
 
 ### La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN
 
@@ -62,12 +68,6 @@ La gravedad del ataque, ocurrido el pasado 4 de agosto, reside en el carácter e
 
 Date: 2026-09-01
 
-### La OTAN despliega brevemente aviones de combate por un nuevo ingreso de drones en el espacio aéreo de Estonia
-
-La misión báltica de la OTAN ha desplegado brevemente aviones de combate esta madrugada después de un nuevo incidente con drones en el que al menos uno de esos aparatos penetró en el espacio aéreo de Estonia, según ha confirmado la Fuerza Aérea del país báltico. También la vecina Letonia ha elevado este martes su nivel.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN](https://elpais.com/internacional/2026-09-14/la-relacion-por-tinder-de-un-militar-espanol-con-una-mujer-de-origen-ruso-desata-una-investigacion-por-espionaje-en-la-otan.html?utm_source=lootura.com) — 2026-09-14T14:45:49.000Z
+No public source links.

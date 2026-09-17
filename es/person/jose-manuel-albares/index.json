@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-12T14:59:00.939Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”",
+      "summary": "“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Albares ve «sintonía» con Vivas e Imbroda sobre el paquete para europeizar Ceuta y Melilla",
+      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , habló este miércoles con los presidentes de Ceuta y Melilla, Juan Jesús Vivas y Juan José Imbroda , para informarles del paquete de medidas que adoptará el Gobierno para europeizar las dos ciudades autónomas y percibió «sintonía» en a.",
+      "date": "2026-09-17"
+    },
     {
       "title": "El sorprendente silencio del Gobierno mientras Marruecos amenaza a España y sólo responde el PP",
       "summary": "José Manuel Albares estuvo el miércoles en Bruselas, donde atendió a los medios tras la desclasificación de los documentos sobre Ceuta para reiterar de que no se avisó de la...",
@@ -53,18 +63,15 @@
       "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Albares rebaja a 75 los españoles sin localizar en Colombia y anuncia un millón en ayudas",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado este miércoles de que 75 ciudadanos españoles permanecen todavía sin localizar en Colombia tras el terremoto que ha golpeado el país . Por el momento, no consta ningún español entre las víctimas mortales. Albares ha expli.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "La promesa 'imposible' de devolver a todos los irregulares de Ceuta: la doble condena de 2021 bloquea al Gobierno",
-      "summary": "Del diálogo abierto con Rabat tras la entrada de 80.000 personas en Ceuta, el ministro de Asuntos Exteriores, José Manuel Albares, ensalzó ayer que ambos países están...",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”",
+      "url": "https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T08:18:27.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

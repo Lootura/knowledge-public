@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
+      "date": "2026-09-17"
+    },
     {
       "title": "As Midterms Rage, Gillibrand Wants Congress to Talk Menopause",
       "summary": "Senator Kirsten Gillibrand of New York is devoting a hearing to a topic that affects millions but is poorly understood and widely ignored, including when it comes to federal research money.",
@@ -77,25 +82,14 @@
       "title": "At 9/11 ceremony, Giuliani and Mamdani … shake hands?",
       "summary": "BEST FRENEMIES: Didn’t see this one coming. At Friday’s ceremony commemorating the 25th anniversary of the Sept. 11 terrorist attacks, former Mayor Rudy Giuliani — he of the recent anti-Muslim tirade — shook hands with New York City Mayor Zohran Mamdani, the subject of that rant. The former Republican mayor even offere.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "New York Marks the 25th Anniversary of 9/11 at Ground Zero",
-      "summary": "At a ceremony in Lower Manhattan, elected officials and loved ones of those killed in the 2001 terror attacks gathered in solemn remembrance.",
-      "date": "2026-09-11"
     }
   ],
   "sources": [
     {
-      "title": "Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists",
-      "url": "https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T23:02:54.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "As Midterms Rage, Gillibrand Wants Congress to Talk Menopause",
-      "url": "https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T15:13:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "url": "https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T09:50:00.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
   "evidenceCount": 1

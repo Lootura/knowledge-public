@@ -3,10 +3,46 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### China Stockpiled Oil, and Now It Could Dominate the Energy Landscape
+
+The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.
+
+Date: 2026-09-17
+
+### Big questions - and key logistical details - loom ahead of China-U.S. summit
+
+Despite the lingering questions, China remains optimistic about the summit. (Image credit: Evan Vucci).
+
+Date: 2026-09-17
+
+### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
+
+CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
+
+Date: 2026-09-16
+
+### U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis
+
+Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.
+
+Date: 2026-09-16
+
+### In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit
+
+China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.
+
+Date: 2026-09-16
+
+### U.S. Has Deployed Weapons in Space, Air Force Secretary Says
+
+Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.
+
+Date: 2026-09-15
 
 ### Beijing hits back at Anthropic CEO's call to curb China's AI development
 
@@ -32,42 +68,6 @@ India hosted the an annual summit which gathered leaders from 28 countries, incl
 
 Date: 2026-09-13
 
-### Okinawa Set to Elect Conservative Amid Fears About China and Economy
-
-Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.
-
-Date: 2026-09-13
-
-### Hong Kong court sentences 3 Tiananmen vigil organizers to prison in national security case
-
-Three Hong Kong activists who organized annual vigils in remembrance of China's 1989 Tiananmen Square crackdown were sentenced Friday to about five to seven years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.
-
-Date: 2026-09-11
-
-### Why Emerging Powers Keep Joining BRICS, Even When They Disagree
-
-The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.
-
-Date: 2026-09-11
-
-### China’s fast-track clinical trials are in the spotlight after child deaths
-
-Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.
-
-Date: 2026-09-08
-
-### Sideline vested interests to reform China’s research
-
-Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research.
-
-Date: 2026-09-08
-
-### Chinese hackers are running AI on stolen networks to avoid detection, Google says
-
-One China-linked group targets academic, medical and military AI research, the report says.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Rep. Sam Liccardo urges lawmakers "to take action" on AI: "Instead, in Congress, we see vacation"](https://www.cbsnews.com/video/sam-liccardo-urges-lawmakers-take-action-ai-congress-vacation/?utm_source=lootura.com) — 2026-09-15T01:15:11.000Z
+- [China Stockpiled Oil, and Now It Could Dominate the Energy Landscape](https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com) — 2026-09-17T16:10:18.000Z

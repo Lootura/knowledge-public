@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-14T17:40:42.948Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -18,6 +18,31 @@
     "the White House"
   ],
   "changes": [
+    {
+      "title": "GOP congresswoman says Trump immigration enforcement has \"gone too far\"",
+      "summary": "\"The same Hispanics who helped you get to the White House in 2024 feel betrayed,\" said Rep. Maria Elvira Salazar.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "House passes Russia sanctions bill, overcoming Democratic opposition",
+      "summary": "The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one day after announcing a deal had been reached with the White House to move forward.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Is Iran Shaping Up to Be a ‘Forever War’?",
+      "summary": "Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Susie Wiles, Trump’s Chief of Staff, Says She Is ‘Cancer Free’",
+      "summary": "Ms. Wiles, the first woman to be the White House chief of staff, had said in March that she had breast cancer.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
@@ -42,33 +67,21 @@
       "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
       "summary": "OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Funding milestone detected",
-      "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump",
-      "summary": "What’s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories • Plus: The truth about my 11 days in the White House, by Anthony Scaramucci Gene Folkes , 62, based in Manhattan, was a contestant on season 10 of The Apprentice , which ai.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
-      "summary": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gather.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Trump escalates Canada trade war by banning some imports",
-      "summary": "After Canada's retaliatory tariffs against the U.S. took effect on Tuesday, the Trump administration moved to ban imports of certain Canadian motorcycles, dairy products and alcohol. CBS News chief White House correspondent Nancy Cordes has more.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides",
-      "summary": "A White House spokesperson said in a statement on Wednesday that Mr. Trump \"has a longstanding practice of giving Christmas gifts to people in his orbit.\".",
-      "date": "2026-09-09"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "GOP congresswoman says Trump immigration enforcement has \"gone too far\"",
+      "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:54:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
+      "url": "https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T09:50:00.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 2
 }

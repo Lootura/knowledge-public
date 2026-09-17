@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China
+
+Lucía Velasco, experta en gobernanza de la inteligencia artifical y codirectora del ‘Oxford AI diplomacy lab’, conversa con EL PAÍS sobre la participación de la UE en el desarrollo de esta tecnología.
+
+Date: 2026-09-15
 
 ### El temor a la IA pasa factura a las grandes tecnológicas en Bolsa
 
@@ -62,13 +68,6 @@ Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema oper
 
 Date: 2026-07-13
 
-### La NASA busca voluntarios para su próxima misión a Marte
-
-Cuando pensamos en una misión a Marte solemos imaginar cohetes gigantescos, motores revolucionarios o escudos contra la radiación cósmica. Sin embargo, uno de los mayores obstáculos para llegar al planeta rojo podría no estar fuera de la nave, sino dentro de ella. ¿Cómo reaccionan cuatro personas cuando pasan un año ai.
-
-Date: 2026-07-12
-
 ## Fuentes
 
-- [El temor a la IA pasa factura a las grandes tecnológicas en Bolsa](https://www.diariovasco.com/economia/temor-ia-pasa-factura-grandes-tecnologicas-bolsa-20260914191905-nt_amp.html?utm_source=lootura.com) — 2026-09-14T17:19:06.000Z
-- [iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles](https://hipertextual.com/apple/ios-27-ya-esta-disponible-como-instalarlo-y-iphone-compatibles/?utm_source=lootura.com) — 2026-09-14T17:39:46.000Z
+- [OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos](https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com) — 2026-09-17T07:19:22.000Z

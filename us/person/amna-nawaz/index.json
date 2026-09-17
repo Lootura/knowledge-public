@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/amna-nawaz/index.json",
   "description": "Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T09:12:35.113Z",
   "aliases": [
     "Nawaz"
   ],
   "changes": [
+    {
+      "title": "Cuban official on Trump's threats as tensions with U.S. rise",
+      "summary": "For months, the Trump administration has ramped up pressure and threats against Cuba. A de facto oil blockade now means hours of blackouts, plus food and water shortages for millions on the island. While President Trump has threatened a takeover, Cuban officials say they're still willing to talk. Amna Nawaz discussed t.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Tamara Keith and Amy Walter on Washington's response to AI and data center concerns",
       "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including how Washington is responding to AI and data center concerns, Mitch McConnell returning to the Senate and how midterm voters feel about affordability and political corruption.",
@@ -57,20 +62,8 @@
       "title": "How Iranians are living through months of war and government crackdowns",
       "summary": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.",
       "date": "2026-07-31"
-    },
-    {
-      "title": "Brooks and Marcus on the Iran conflict becoming a 'forever war'",
-      "summary": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the economic and human toll of the Iran war, the U.S.-Saudi nuclear energy deal and Trump-allied election deniers winning GOP primaries.",
-      "date": "2026-07-24"
     }
   ],
-  "sources": [
-    {
-      "title": "Tamara Keith and Amy Walter on Washington's response to AI and data center concerns",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-washingtons-response-to-ai-and-data-center-concerns?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:25:57.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

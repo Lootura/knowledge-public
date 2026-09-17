@@ -3,10 +3,16 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-08T19:21:03.373Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom . On the Switch 2 this idea expanded to Mario Kart World an.
+
+Date: 2026-09-16
 
 ### Product availability changed in Europe
 

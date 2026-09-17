@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
+      "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Developer ecosystem expanded",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Funding milestone detected",
+      "summary": "The funding round would double the value of the start-up behind ChatGPT and establish it as the world’s most valuable private company.",
+      "date": "2026-09-16"
+    },
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le.",
@@ -48,36 +63,15 @@
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \" m.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "summary": "As an Anthropic resignation and OpenAI agents' hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag. (Image credit: Karl Mondon).",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathemat.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Developer ecosystem expanded",
-      "summary": "Jacob Coxon publicly resigned from his position as an Anthropic researcher on Tuesday, accusing the company and rival developer and ChatGPT-maker OpenAI of \"gambling with our lives\" by racing to develop advanced AI models. He spoke with Jo Ling Kent about his decision to resign and why he feels AI could one day threate.",
-      "date": "2026-09-11"
     }
   ],
   "sources": [
     {
-      "title": "Trump says U.S. needs a \"high IQ\" president to handle AI",
-      "url": "https://www.cbsnews.com/video/trump-says-us-needs-high-iq-president-handle-ai/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:37:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T22:59:41.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
+      "url": "https://www.nature.com/articles/d41586-026-02910-w?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:13:57.977Z",
+      "sourceId": "lootura-us-nature"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

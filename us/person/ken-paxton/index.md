@@ -3,7 +3,7 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-15T09:11:38.041Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [VoteHub gives Talarico 55% chance of winning Texas Senate race](https://www.cbsnews.com/video/votehub-talarico-55-percent-chance-winning-texas-senate-race/?utm_source=lootura.com) — 2026-09-14T22:27:14.000Z
+No public source links.

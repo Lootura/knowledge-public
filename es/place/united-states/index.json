@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,8 +44,38 @@
   ],
   "changes": [
     {
+      "title": "Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»",
+      "summary": "El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin de la guerra con Irán «esté cerca» y ha insistido en que Teherán «quiere lograr un acuerdo» , en medio del estancamiento de las conversaciones mediadas por Pakistán para poner fin al conflicto abierto en febrero por la ofensiva lanzada por.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "La lucha de Warsh contra la inflación calma el mercado: las Bolsas y los bonos recuperan el ánimo",
+      "summary": "Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Federal (Fed) de Estados Unidos de subir los tipos de interés —por primera vez en tres años— para combatir la inflación, algo que tranquiliza a los operadores a pesar de suponer un desafío para el presidente Donald Trump. Además, un informe de.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis",
+      "summary": "Hacía mucho tiempo que la seguridad y la defensa no estaban tan presentes en el debate político ni tenían tanta relevancia. En un entorno de guerras híbridas, de agresiones directas de Rusia (la invasión de Ucrania está ya en su 5º año), de ataques de Estados Unidos e Israel contra Irán , de la respuesta iraní contra l.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Cómo los centros de datos se han convertido en uno de los temas políticos más candentes de EE.UU.",
+      "summary": "Un espectro acecha a Estados Unidos: el de los centros de datos. Estos almacenes repletos de ordenadores, que impulsan el auge de la inteligencia artificial en el país, se han vuelto menos populares que casi cualquier otro tipo de infraestructura, incluso que las centrales nucleares. Los condados y los estados se apres.",
+      "date": "2026-09-16"
+    },
+    {
       "title": "La Fed discute un alza de tipos y encara un choque frontal con Trump",
       "summary": "El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras \"una buena pelea familiar\". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
+      "summary": "Toda una generación de estadounidenses quedó marcada por el pavor que sintieron cuando un artefacto soviético sobrevoló por encima de sus cabezas: la sonda Sputnik , el primer satélite artificial del planeta Tierra. Ese momento Sputnik no solo espoleó a Estados Unidos en la carrera espacial, que acabó con la URSS desca.",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Donald Trump llama en directo a Jensen Huang (Nvidia): “Lo del peligro de la IA es un engaño”",
+      "summary": "Jensen Huang, director ejecutivo de la compañía Nvidia, que fabrica los chips más potentes para los centros de IA, se encontraba en el escenario de un evento organizado por el podcast tecnológico All In cuando una asistente le trajo su teléfono. La llamada era del presidente de Estados Unidos, Donald Trump. “Presidente.",
       "date": "2026-09-15"
     },
     {
@@ -62,63 +92,15 @@
       "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
       "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "El temor a un freno en la IA desata caídas en el sector de hasta el 12%",
-      "summary": "Los focos de presión se multiplican para las compañías y los índices protagonistas del rally bursátil alentado por la IA. La agenda financiera incluía para esta semana una fecha claramente marcada en el calendario. El 16 de septiembre se conocerá el desenlace de la reunión de la Reserva Federal de Estados Unidos. Los ú.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación",
-      "summary": "El Ministerio chino de Exteriores asegura que la difusión de narrativas de amenaza o fomentar la confrontación solo obstaculizará el proceso de gobernanza de la inteligencia artificial, en medio del debate generado en Estados Unidos sobre la necesidad de frenar el desarrollo de esta tecnología. Seguir leyendo...",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "El Vaticano reivindica el papel “profético” de León XIV ante la alarma por la IA",
-      "summary": "Desde el Vaticano se sigue con gran atención el debate sobre la inteligencia artificial que ha estallado en Estados Unidos. No es estilo de la casa decir “ya lo habíamos advertido”, y León XIV tampoco lo hace. Pero entre los muros leoninos se observa que muchas de las dudas planteadas hoy por los propios directivos e i.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Trump anuncia que Rusia y Ucrania dejarán de atacar sus infraestructuras energéticas",
-      "summary": "El presidente de Estados Unidos , Donald Trump , ha anunciado este lunes que Rusia y Ucrania han aceptado dejar de atacar las infraestructuras energéticas del otro , en lo que supondría un nuevo compromiso limitado entre las partes en plena guerra. El mandatario estadounidense ha comunicado el acuerdo a través de sus r.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Europa tira de garra y gana a Estados Unidos la Solheim Cup",
-      "summary": "¡Qué bonito es el 'match-play' por equipos! Los aficionados al golf tienen la fortuna de vivir cada año competiciones como la Ryder Cup y la Solheim, que durante tres días mantienen en vilo a los espectadores de todo el planeta con unos resultados siempre inciertos. Este año la alegría, no exenta de sufrimiento, se la.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "España cae con honor tras plantar cara a Estados Unidos hasta el último cuarto",
-      "summary": "«¡Hazlo! Como si ya no te jugaras nada. Como si fueras a morir mañana. Aunque lo veas demasiado lejos». La voz de Leiva se apagó, las luces del vestuario del pabellón de Berlín también y las jugadoras españolas enfilaron el túnel para saltar a la cancha con la firme intención de honrar la letra de la canción talismán q.",
-      "date": "2026-09-13"
     }
   ],
   "sources": [
     {
-      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
-      "url": "https://elpais.com/tecnologia/2026-09-14/china-reacciona-a-las-alertas-por-la-ia-denunciando-una-agenda-oculta-para-estrangular-su-tecnologia.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T10:16:39.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Fed discute un alza de tipos y encara un choque frontal con Trump",
-      "url": "https://www.expansion.com/mercados/2026/09/15/6aa83e85e5fdea31028b4575.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T00:15:13.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "Los secretos del auto sobre la trama de Mallorca: «gomas», armas, más de un millón en efectivo y toneladas de droga",
-      "url": "https://okdiario.com/baleares/secretos-del-auto-sobre-trama-mallorca-gomas-armas-mas-millon-efectivo-toneladas-droga-20281635?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T02:00:18.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    },
-    {
-      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
-      "url": "https://theobjective.com/internacional/2026-09-14/trump-conspiracion-enfermiza-ia-china/?utm_source=lootura.com",
-      "publishedAt": "2026-09-14T16:52:08.000Z",
+      "title": "LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York",
+      "url": "https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:56:33.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 0
 }

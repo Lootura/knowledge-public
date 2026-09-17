@@ -1,0 +1,47 @@
+{
+  "id": "es-mark-carney",
+  "name": "Mark Carney",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/mark-carney",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/mark-carney",
+  "markdownUrl": "https://atlas.lootura.com/es/person/mark-carney/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/mark-carney/index.json",
+  "description": "Sigue la actividad de Mark Carney en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "aliases": [
+    "Mark Joseph Carney"
+  ],
+  "changes": [
+    {
+      "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
+      "summary": "Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Mark Carney, el inesperado ídolo de la resistencia al trumpismo",
+      "summary": "Cuando Mark Carney entró hoy en el Parlamento Europeo, fue recibido como una estrella de rock. Los diputados se agolpaban en las primeras filas del hemiciclo para estrecharle la mano y hacerse un selfi con él. El entusiasmo estaba justificado: el primer ministro de Canadá es el hombre del momento. Se ha convertido en e.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Mark Carney first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-17"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
+      "url": "https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T15:01:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Mark Carney, el inesperado ídolo de la resistencia al trumpismo",
+      "url": "https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T12:21:15.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 2
+}

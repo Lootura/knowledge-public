@@ -22,4 +22,4 @@ Date: 2026-09-14
 
 ## Sources
 
-- [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when?utm_source=lootura.com) — 2026-09-15T00:13:47.000Z
+No public source links.

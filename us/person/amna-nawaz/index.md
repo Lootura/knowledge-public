@@ -3,10 +3,16 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Cuban official on Trump's threats as tensions with U.S. rise
+
+For months, the Trump administration has ramped up pressure and threats against Cuba. A de facto oil blockade now means hours of blackouts, plus food and water shortages for millions on the island. While President Trump has threatened a takeover, Cuban officials say they're still willing to talk. Amna Nawaz discussed t.
+
+Date: 2026-09-16
 
 ### Tamara Keith and Amy Walter on Washington's response to AI and data center concerns
 
@@ -62,12 +68,6 @@ As the Iran war enters its sixth month, the toll continues to grow. The UN says 
 
 Date: 2026-07-31
 
-### Brooks and Marcus on the Iran conflict becoming a 'forever war'
-
-David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the economic and human toll of the Iran war, the U.S.-Saudi nuclear energy deal and Trump-allied election deniers winning GOP primaries.
-
-Date: 2026-07-24
-
 ## Sources
 
-- [Tamara Keith and Amy Walter on Washington's response to AI and data center concerns](https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-washingtons-response-to-ai-and-data-center-concerns?utm_source=lootura.com) — 2026-09-14T22:25:57.000Z
+No public source links.

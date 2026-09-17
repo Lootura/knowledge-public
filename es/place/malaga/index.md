@@ -3,10 +3,28 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Restablecido el AVE entre Córdoba y Málaga y la media distancia Sevilla-Málaga y Sevilla-Granada tras una avería
+
+Una "incidencia" en los sistemas de señalización de Antequera Santa Ana ( Málaga ) ha afectado esta mañana a la circulación de los trenes de alta velocidad que circulaban entre Córdoba y Málaga . Tras dos horas de parón, los trenes han vuelto a circular a las diez de la mañana. Esta misma avería también afectó al traye.
+
+Date: 2026-09-17
+
+### Neptuno y Venus se quedan en Málaga: las polémicas estatuas “Marvel” eluden la retirada prometida por el Puerto
+
+Seis meses después de su polémica instalación, Neptuno y Venus finalmente no abandonarán el Puerto de Málaga , en contra de lo que estaba previsto. Las dos estatuas, que fueron donadas por el artista ceutí Ginés Serrán , estaban destinadas a permanecer 25 años en el recinto portuario, pero el rechazo frontal de cinco i.
+
+Date: 2026-09-17
+
+### Detenido en Málaga un hombre por el homicidio a tiros de un varón en Utrera (Sevilla) en agosto
+
+La Guardia Civil de Sevilla ha detenido en la provincia de Málaga al presunto autor de un homicidio cometido el pasado 15 de agosto en la barriada del Tinte de la localidad de Utrera (Sevilla), donde un varón de 45 años de edad recibió varios impactos de bala tras una discusión. Hasta el lugar de los hechos se desplaza.
+
+Date: 2026-09-17
 
 ### HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid
 
@@ -50,24 +68,6 @@ Desde primera hora de la mañana, corredores y ciclistas pasan por el camino ter
 
 Date: 2026-09-13
 
-### Levantamuertos: la receta gamberra de la abuela que pega fuerte desde Málaga
-
-Hay nombres comerciales que no parecen hechos para una farmacia. El Levantamuertos es uno de ellos. Y, a pesar de todo, ahí está: entre blísteres de pastillas y jarabes para la tos. Pero esa irreverencia quizá ha sido lo que le ha allanado parte del camino a Naturdís , la empresa que comercializa este reconstituyente c.
-
-Date: 2026-09-13
-
-### Un hijo del jeque del Málaga deja una deuda de medio millón de euros en un hotel de Londres
-
-El exvicepresidente del Málaga CF e hijo del máximo accionista del club, Nasser bin Abdullah al-Thani, ha dejado una deuda de más de medio millón de euros sin pagar en un hotel de Londres, según el Financial Times . El importe, según el medio, es de unas 458.000 libras , más de 530.000 euros. Los documentos revelan que.
-
-Date: 2026-09-12
-
-### Detienen a un hombre por agredir sexualmente a su sobrina de 9 años en Málaga
-
-Un hombre de unos 45 años ha sido detenido por la Policía Local de Málaga como autor de un delito de agresión sexual a una menor de nueve años , sobrina del detenido. Los hechos investigados habrían ocurrido en el interior de la vivienda familiar en la que convivían varios parientes, entre ellos el sospechoso y la niña.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [HM planea abrir un hospital en los nuevos desarrollos del sureste de la Comunidad de Madrid](https://cincodias.elpais.com/companias/2026-09-15/hm-planea-abrir-un-hospital-en-los-nuevos-desarrollos-del-sureste-de-la-comunidad-de-madrid.html?utm_source=lootura.com) — 2026-09-15T03:15:00.000Z
+No public source links.

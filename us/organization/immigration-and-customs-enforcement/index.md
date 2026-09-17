@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-16T16:07:13.884Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### US judge blocks DHS from threatening prosecution against man who criticized ICE
+
+David Streever was issued a ‘warning notice’ after sending an email critical of ICE to the agency’s director in January The Department of Homeland Security (DHS) may no longer issue a “warning notice” – threatening prosecution against a US citizen – for criticizing Immigration and Customs Enforcement (ICE), a federal j.
+
+Date: 2026-09-16
 
 ### 'A perfect tool for abuse.' Why experts are concerned about ICE's $17 million electric shock gloves contract
 
@@ -62,12 +68,6 @@ A United Airlines employee appears to have been caught on video threatening to c
 
 Date: 2026-07-21
 
-### Video appears to show United employee threaten to call ICE on customer
-
-A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.
-
-Date: 2026-07-21
-
 ## Sources
 
-- [Hochul’s how-to guide to stopping ICE](https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/14/hochuls-how-to-guide-to-stopping-ice-01075287?utm_source=lootura.com) — 2026-09-14T21:03:18.000Z
+No public source links.

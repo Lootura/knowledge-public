@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-13T22:05:54.092Z",
+  "updatedAt": "2026-09-17T16:13:29.513Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,16 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Elon Musk despliega su máquina de caos político en el Reino Unido",
+      "summary": "El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: \"La guerra civil es inevitable\" Leer.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "La conjura de los tres nacionalismos contra el Reino Unido: \"Andy Burnham será el último primer ministro británico\"",
+      "summary": "Los ministros principales de Escocia, Gales e Irlanda del Norte sellan un histórico acuerdo para desafiar a Westminster y avanzar hacia la independencia, aunque no mencionan la palabra \"referéndum\" Leer.",
+      "date": "2026-09-14"
+    },
     {
       "title": "Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido",
       "summary": "Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un acuerdo de cooperación sobre autodeterminación, economía, energía y relaciones con Europa.",
@@ -62,18 +72,15 @@
       "title": "Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie",
       "summary": "El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
-      "summary": "Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "Farage denuncia una \"campaña organizada\" para alterar el resultado electoral",
-      "summary": "Clacton (Reino Unido), 14 ago (EFE).- El líder del partido británico populista de derecha Reform UK,...",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York",
+      "url": "https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T14:56:33.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

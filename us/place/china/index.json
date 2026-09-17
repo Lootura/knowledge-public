@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-09-17T16:13:53.216Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,36 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+      "summary": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+      "summary": "Despite the lingering questions, China remains optimistic about the summit. (Image credit: Evan Vucci).",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Expert: Images of damaged U.S. bases in Middle East show Iran \"getting help from Russia and China\"",
+      "summary": "CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins \"The Takeout\" with his reaction.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+      "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+      "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+      "summary": "Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.",
+      "date": "2026-09-15"
+    },
     {
       "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
       "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).",
@@ -39,45 +69,15 @@
       "title": "World leaders gathered for the annual BRICS summit. Here are the takeaways",
       "summary": "India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
-      "summary": "Genta Koja was projected to become the Japanese archipelago’s next governor, a win for the country’s hawkish prime minister as she works to accelerate a military buildup.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison in national security case",
-      "summary": "Three Hong Kong activists who organized annual vigils in remembrance of China's 1989 Tiananmen Square crackdown were sentenced Friday to about five to seven years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
-      "summary": "The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02407-6 A new government policy seeks to balance innovation and safety.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Sideline vested interests to reform China’s research",
-      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02797-7 Sideline vested interests to reform China’s research.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Chinese hackers are running AI on stolen networks to avoid detection, Google says",
-      "summary": "One China-linked group targets academic, medical and military AI research, the report says.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Rep. Sam Liccardo urges lawmakers \"to take action\" on AI: \"Instead, in Congress, we see vacation\"",
-      "url": "https://www.cbsnews.com/video/sam-liccardo-urges-lawmakers-take-action-ai-congress-vacation/?utm_source=lootura.com",
-      "publishedAt": "2026-09-15T01:15:11.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+      "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-09-17T16:10:18.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

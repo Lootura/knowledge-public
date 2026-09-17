@@ -3,14 +3,32 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T16:13:53.216Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
 
+### Are Trump’s Official Papers His Personal Property?
+
+The administration argues that presidential papers are like those of Supreme Court justices.
+
+Date: 2026-09-17
+
+### Supreme Court Stands Up to Trump on Mail Voting and a Few Key Issues
+
+The justices take their time and pick their spots, but they have rejected presidential initiatives on tariffs, citizenship, the National Guard — and now the coming election.
+
+Date: 2026-09-15
+
 ### Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots
 
 The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.
+
+Date: 2026-09-15
+
+### With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting
+
+President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters.
 
 Date: 2026-09-15
 
@@ -50,28 +68,6 @@ The disgraced founder of the crypto exchange FTX is serving a 25-year prison sen
 
 Date: 2026-09-10
 
-### Product availability changed in Europe
-
-The decision means Missouri could run the November general election with different U.S. House districts than were used in the August primary — an extremely rare situation that could switch the candidate choices for more than a million potential voters.
-
-Date: 2026-09-10
-
-### News Wrap: Supreme Court again rejects GOP push for new congressional map in Missouri
-
-In our news wrap Thursday, the Supreme Court again rejected a Republican push for a new congressional map in Missouri that could have helped Republicans pick up a seat, climate scientists say August was the hottest month ever recorded globally and thousands of drones in New York recreated the Twin Towers as the city pr.
-
-Date: 2026-09-10
-
-### Supreme Court blocks Missouri from using new map favoring GOP in fall elections
-
-The Supreme Court said Missouri must use a 2022 congressional map — not a new congressional map that favors Republicans — in the 2026 midterm elections.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump](https://www.cbsnews.com/news/supreme-court-blocks-new-postal-service-mail-ballots-trump/?utm_source=lootura.com) — 2026-09-15T01:35:01.000Z
-- [Supreme Court denies Trump’s mail-in voting restrictions](https://www.nbcnews.com/video/supreme-court-denies-trump-s-mail-in-voting-restrictions-269850693945?utm_source=lootura.com) — 2026-09-14T23:57:52.000Z
-- [The Supreme Court rejects Trump's mail voting restrictions for this year's midterms](https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump?utm_source=lootura.com) — 2026-09-14T23:38:40.000Z
-- [The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.](https://www.nytimes.com/2026/09/08/us/politics/trump-mail-voting-what-to-know-supreme-court.html?utm_source=lootura.com) — 2026-09-14T13:51:56.000Z
-- [Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots](https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html?utm_source=lootura.com) — 2026-09-15T01:06:05.000Z
+- [Are Trump’s Official Papers His Personal Property?](https://www.nytimes.com/2026/09/17/us/politics/the-docket-trump-presidential-records.html?utm_source=lootura.com) — 2026-09-17T16:04:12.000Z

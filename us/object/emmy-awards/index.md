@@ -3,16 +3,16 @@
 > Follow Emmy Awards, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-15T09:11:38.041Z
 - Canonical: https://atlas.lootura.com/us/object/emmy-awards
 
 ## Recent changes
 
-### 'The Pitt' and 'Widow's Bay' among favorites ahead of 78th Emmy Awards
+### Watch highlights of the 2026 Emmy Awards in 3 minutes
 
-"The Pitt" is expected to repeat its wins from last year, while "Widow's Bay" could break records.
+Apple TV's "Widow's Bay", "Pluribus," and HBO’s "The Pitt" received major awards at the 2026 Emmy Awards, with horror-comedy "Widow's Bay" taking home some of the night’s biggest awards, including outstanding comedy series, outstanding directing, outstanding lead actor Matthew Rhys, and outstanding supporting actress f.
 
-Date: 2026-09-14
+Date: 2026-09-15
 
 ### Discovered by Atlas
 
@@ -20,7 +20,18 @@ Emmy Awards first entered the public knowledge record with source-backed evidenc
 
 Date: 2026-09-14
 
+### Emmys 2026: Here's the list of winners
+
+Widow's Bay and The Beast in Me. '/> The Pitt and Widow's Bay took home the top prizes in television at the Emmy Awards on Monday night. And actor Matthew Rhys became the first person to win in two lead acting categories in one night. (Image credit: Amy Sussman).
+
+Date: 2026-09-14
+
+### 'The Pitt' and 'Widow's Bay' among favorites ahead of 78th Emmy Awards
+
+"The Pitt" is expected to repeat its wins from last year, while "Widow's Bay" could break records.
+
+Date: 2026-09-14
+
 ## Sources
 
-- [Emmys 2026: Here's the list of winners](https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners?utm_source=lootura.com) — 2026-09-14T23:55:49.000Z
-- ['The Pitt' and 'Widow's Bay' among favorites ahead of 78th Emmy Awards](https://www.pbs.org/newshour/arts/the-pitt-and-widows-bay-among-favorites-ahead-of-78th-emmy-awards?utm_source=lootura.com) — 2026-09-14T16:27:50.000Z
+No public source links.

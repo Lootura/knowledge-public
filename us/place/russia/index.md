@@ -3,10 +3,64 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-09-17T09:12:35.113Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### House passes Russia sanctions bill, overcoming Democratic opposition
+
+The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one day after announcing a deal had been reached with the White House to move forward.
+
+Date: 2026-09-17
+
+### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
+
+CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
+
+Date: 2026-09-16
+
+### DOJ charges Russian agents with plotting attacks, including in the U.S.
+
+The indictment says the defendants belong to a network that "is one arm of the Russian Federation's apparatus used to carry out external attacks" worldwide. (Image credit: Kevin Dietsch).
+
+Date: 2026-09-16
+
+### Congress Clears Russia Sanctions Bill, Sending It to Trump
+
+The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.
+
+Date: 2026-09-16
+
+### Extended Interview: Ukrainian President Volodymyr Zelenskyy
+
+Ukrainian President Volodymyr Zelenskyy speaks with CBS News' Aidan Stretch about the state of the war, Russia's recent escalation, U.S. support and more.
+
+Date: 2026-09-16
+
+### DOJ accuses Russian intel agents of plotting to murder U.S.-based dissident
+
+The Justice Department is accusing several members of Russia's intelligence services of running a "global assassination network" that targeted Kremlin critics.
+
+Date: 2026-09-16
+
+### Russia seizes Ukrainian POWs, then it demands favors from their relatives
+
+Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia. (Image credit: Francisco Seco).
+
+Date: 2026-09-16
+
+### Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.
+
+Russians are braced for what may follow for the military and economy after a parliamentary election that the Kremlin sees as a means of legitimizing its policies.
+
+Date: 2026-09-16
+
+### U.S. Has Deployed Weapons in Space, Air Force Secretary Says
+
+Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.
+
+Date: 2026-09-15
 
 ### Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure
 
@@ -14,60 +68,6 @@ His comments Monday follow President Donald Trump's claim that Russia and Ukrain
 
 Date: 2026-09-14
 
-### Daily fragment: Aeroflot Flight 821
-
-Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.
-
-Date: 2026-09-14
-
-### Lithuania prepares for war, reinforcing its border against Russian tanks
-
-On the edge of NATO territory in the Baltics, there is growing concern about the threat Russia poses. Aaron MacLean visited the capital of Lithuania to see how they're preparing.
-
-Date: 2026-09-14
-
-### Trump says Ukraine needs to stop targeting Russian refineries
-
-Civilians were killed and injured overnight into Sunday as both Russia and Ukraine kept up large-scale drone strikes.
-
-Date: 2026-09-13
-
-### Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage
-
-Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.
-
-Date: 2026-09-13
-
-### Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?
-
-U.S. President Donald Trump attends the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, Co Clare, during his trip to the Republic of Ireland on Sept. 13, 2026. —Liam McBurney—PA Images President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russia's diesel fuel i.
-
-Date: 2026-09-13
-
-### As Russia Again Draws Near, a Frontline City Fears Obliteration This Time
-
-The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.
-
-Date: 2026-09-11
-
-### Why Emerging Powers Keep Joining BRICS, Even When They Disagree
-
-The leaders of China, Russia, India, Iran and other nations in the BRICS club gather in New Delhi this weekend, but wars and soaring energy prices divide them.
-
-Date: 2026-09-11
-
-### Zelenskyy visits Canada to seek more military support for Ukraine against Russia
-
-Ukraine is under mounting pressure from Russia's intensifying air campaign that uses ballistic missiles and jet-powered drones to pierce defenses. Moscow's attacks have targeted Ukraine's power grid ahead of winter in what officials say is part of its campaign to demoralize civilians.
-
-Date: 2026-09-10
-
-### Putin tells Trump that Russia doesn't have aggressive intentions toward Europe, Kremlin says
-
-The war could yet drag on for years as Russia reconstitutes its forces and its defense industry, said U.S. Undersecretary of Defense Elbridge Colby.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure](https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure?utm_source=lootura.com) — 2026-09-14T21:57:49.000Z
+No public source links.

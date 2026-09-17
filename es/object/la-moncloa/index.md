@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-15T09:11:13.063Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes
+
+El Gobierno tiene ya listo el texto definitivo que regula el llamado comité de inversiones estratégicas, un órgano innovador que permitirá a determinadas empresas estratégicas conseguir una vía rápida para operar en España en el plazo de un mes. Este órgano, copresidido por La Moncloa y el Ministerio de Economía, permi.
+
+Date: 2026-09-15
 
 ### El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"
 
@@ -62,12 +68,6 @@ El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia c
 
 Date: 2026-08-08
 
-### Moncloa difunde imágenes de Sánchez en las que parece que le han borrado las piernas
-
-La Moncloa ha distribuido este viernes varias imágenes de Pedro Sánchez durante una reunión telemática sobre la situación en Ceuta desde La Mareta, la.
-
-Date: 2026-08-07
-
 ## Fuentes
 
-- [El Gobierno "al ataque" contra los jueces para intentar salvar su gestión: "No nos vamos a callar"](https://amp.elmundo.es/espana/2026/09/14/6aa828be21efa0d25e8b458f.html?utm_source=lootura.com) — 2026-09-14T20:44:40.000Z
+No public source links.

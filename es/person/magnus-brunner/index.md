@@ -3,10 +3,16 @@
 > Sigue la actividad de Magnus Brunner en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-09-17T16:13:29.513Z
 - Canonical: https://atlas.lootura.com/es/person/magnus-brunner
 
 ## Cambios recientes
+
+### Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta
+
+Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos "materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente" en Ceuta el pasado 30 de julio y "para que España acelere los procedimient.
+
+Date: 2026-09-17
 
 ### Albares pide a la UE la «presencia permanente» de Frontex y Europol en Ceuta y Melilla
 
@@ -34,4 +40,4 @@ Date: 2026-09-07
 
 ## Fuentes
 
-No public source links.
+- [Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta](https://www.20minutos.es/nacional/feijoo-pide-ue-que-medie-con-marruecos-para-que-materialice-su-compromiso-aceptar-retorno-los-migrantes-ceuta_7038045_0.html?utm_source=lootura.com) — 2026-09-17T12:58:37.000Z

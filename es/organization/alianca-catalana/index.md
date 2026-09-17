@@ -3,10 +3,16 @@
 > Sigue la actividad de Aliança Catalana en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-09-17T09:12:14.542Z
 - Canonical: https://atlas.lootura.com/es/organization/alianca-catalana
 
 ## Cambios recientes
+
+### Laure Vega, la cara más conocida de la CUP, será la candidata a la alcaldía de Barcelona
+
+Cuando parecía que la CUP iba a desistir de presentarse por Barcelona y que abandonaba la capital catalana para luchar casa por casa contra Aliança Catalana (AC) en la Cataluña interior, ha saltado la sorpresa. Ha sido el último partido en presentar candidato para las municipales y, de hecho, todavía hace falta que las.
+
+Date: 2026-09-17
 
 ### Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales
 
@@ -40,4 +46,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [Orriols se distancia de los ultras de AfD para preservar sus expectativas electorales](https://www.elconfidencial.com/espana/cataluna/2026-09-15/orriols-distancia-ultras-de-afd-preservar-expectativas-electorales_4423632/?utm_source=lootura.com) — 2026-09-15T03:00:00.000Z
+No public source links.

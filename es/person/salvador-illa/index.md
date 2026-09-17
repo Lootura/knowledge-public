@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-09-16T16:06:49.960Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Illa traslada a Guardiola la solidaridad de Catalunya en financiación y acogida de migrantes
+
+El president de la Generalitat, Salvador Illa, se reunió este miércoles en Mérida con la presidenta de la Junta de Extremadura, María Guardiola, para trasladarle la solidaridad de Catalunya con el conjunto de España, especialmente en materia de financiación autonómica, y para reivindicar los lazos que unen a ambas comu.
+
+Date: 2026-09-16
 
 ### Aliança se dispara como segunda fuerza en Cataluña: el partido ultra lideraría la mayoría independentista mientras que Salvador Illa cae 11 escaños
 
@@ -61,12 +67,6 @@ Date: 2026-09-01
 Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.
 
 Date: 2026-08-11
-
-### Jaume Giró, la última víctima
-
-La última vez que hablé con Jaume Giró fue hace dos años. Durante el pleno de investidura de Salvador Illa. Estaba deambulando por los alrededores del Parlament porque me tienen vetado y lo vi llegar antes de la sesión. Disparé a bocajarro: —Jaume, no he visto a nadie que haya jugado tan mal sus cartas —le dije con la.
-
-Date: 2026-08-10
 
 ## Fuentes
 
