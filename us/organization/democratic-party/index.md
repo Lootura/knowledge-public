@@ -3,16 +3,10 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
-
-### Dems hand GOP fresh midterm weapon by opposing widely used voter ID
-
-Senate Democrats’ recent rejection of voter ID is giving Republicans fresh ammunition in the midterm fight, putting them on the opposite side of a practice that is common across the country and broadly popular with voters in both parties. Republicans have developed a cynical view of why Democrats won’t play ball with v.
-
-Date: 2026-10-04
 
 ### Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
 
@@ -26,54 +20,61 @@ Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska 
 
 Date: 2026-10-04
 
-### Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes
-
-Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.
-
-Date: 2026-10-04
-
 ### Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.
 
 Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.
 
 Date: 2026-10-04
 
-### Democrats May Have Found the Recipe for Flipping Red-State Senate Seats
+### CBS News poll finds Democrats maintain House advantage amid concern about prices
 
-Five new Times/Siena polls continue a run of strong results for Democrats in states that President Trump won easily in 2024.
+Here are 10 things to know about the 2026 midterm elections, in no particular order, based on what voters are telling us today.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire
+### Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump
 
-The justice, the second oldest on the court at 76, told CBS News that he decided against stepping down last term. He could face pressure should Democrats win the Senate in November.
+Democrats have publicly weighed whether they should pursue impeaching Trump for a third time.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### California voters to decide on controversial one-time tax on billionaires
+### Poll: Latino voters swing away from Trump and Republicans
 
-California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.
+Democrats have a significant lead among Latino voters in 2026 amid economic concerns, according to the NBC News/Telemundo poll.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### In Texas, Talarico’s Strength in Senate Polls Inspires a Democratic Dream
+### Buttigieg goes big to help 2026 Dems
 
-After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.
+CONCORD, New Hampshire— Pete Buttigieg is barnstorming the nation in the final weeks before the midterms, boosting candidates in battlegrounds and even areas traditionally hostile to Democrats. And it’s helping him look beyond November. Down the homestretch, Buttigieg is set to campaign in at least six states: North Ca.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### Democrats want a blue wave. New Hampshire is Exhibit A for why that may not happen
+### How Democrats Have Changed the Way They Talk About Trans Issues
 
-Five weeks before Election Day, Democratic optimism is soaring. But glaring vulnerabilities threaten to undermine the unstoppable blue wave that Democrats believe is coming. Look no further than New Hampshire, where Democratic leaders are sounding the alarm about political challenges that could jeopardize the party's a.
+Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.
 
-Date: 2026-09-30
+Date: 2026-10-04
+
+### Dems hand GOP fresh midterm weapon by opposing widely used voter ID
+
+Senate Democrats’ recent rejection of voter ID is giving Republicans fresh ammunition in the midterm fight, putting them on the opposite side of a practice that is common across the country and broadly popular with voters in both parties. Republicans have developed a cynical view of why Democrats won’t play ball with v.
+
+Date: 2026-10-04
+
+### Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes
+
+Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.
+
+Date: 2026-10-04
 
 ## Sources
 
-- [Dems hand GOP fresh midterm weapon by opposing widely used voter ID](https://www.foxnews.com/politics/dems-hand-gop-fresh-midterm-weapon-opposing-widely-used-voter-id?utm_source=lootura.com) — 2026-10-04T13:00:56.000Z
+- [CBS News poll finds Democrats maintain House advantage amid concern about prices](https://www.cbsnews.com/news/midterm-poll-battleground-tracker-democrats-house-advantage/?utm_source=lootura.com) — 2026-10-04T17:49:57.000Z
+- [Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump](https://www.nbcnews.com/politics/politics-news/rahm-emmanuel-democrats-focus-ethics-reforms-impeaching-trump-rcna601388?utm_source=lootura.com) — 2026-10-04T14:12:28.000Z
+- [Poll: Latino voters swing away from Trump and Republicans](https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894?utm_source=lootura.com) — 2026-10-04T13:00:40.000Z
 - [Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona](https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church?utm_source=lootura.com) — 2026-10-04T09:00:00.000Z
-- [Democrats Lead Governor Races Deep in Republican Territory, Polls Show](https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html?utm_source=lootura.com) — 2026-10-04T09:03:46.000Z
-- [Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes](https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html?utm_source=lootura.com) — 2026-10-04T09:02:39.000Z
-- [Democrats May Have Found the Recipe for Flipping Red-State Senate Seats](https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html?utm_source=lootura.com) — 2026-10-03T22:02:56.000Z
-- [As Midterms Near, Justice Alito Says He Considers Each Year Whether to Retire](https://www.nytimes.com/2026/10/03/us/politics/justice-alito-retirement-supreme-court.html?utm_source=lootura.com) — 2026-10-03T18:52:49.000Z
-- [Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.](https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html?utm_source=lootura.com) — 2026-10-04T12:00:49.000Z
+- [Buttigieg goes big to help 2026 Dems](https://www.politico.com/news/2026/10/04/buttigieg-midterms-travel-new-hampshire-01106140?utm_source=lootura.com) — 2026-10-04T15:25:52.000Z
+- [Democrats Lead Governor Races Deep in Republican Territory, Polls Show](https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html?utm_source=lootura.com) — 2026-10-04T18:29:01.000Z
+- [How Democrats Have Changed the Way They Talk About Trans Issues](https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html?utm_source=lootura.com) — 2026-10-04T15:45:57.000Z
+- [Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.](https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html?utm_source=lootura.com) — 2026-10-04T16:32:20.000Z

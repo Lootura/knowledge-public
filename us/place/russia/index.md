@@ -3,7 +3,7 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
 
 President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
+
+Date: 2026-10-04
+
+### Major oil exporters agree to keep production steady in November
+
+The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.
 
 Date: 2026-10-04
 
@@ -62,13 +68,7 @@ The bipartisan measure targets financing for Russia’s war against Ukraine as a
 
 Date: 2026-09-16
 
-### Extended Interview: Ukrainian President Volodymyr Zelenskyy
-
-Ukrainian President Volodymyr Zelenskyy speaks with CBS News' Aidan Stretch about the state of the war, Russia's recent escalation, U.S. support and more.
-
-Date: 2026-09-16
-
 ## Sources
 
+- [Major oil exporters agree to keep production steady in November](https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com) — 2026-10-04T21:11:27.000Z
 - [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
-- [Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce](https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html?utm_source=lootura.com) — 2026-10-04T09:01:49.000Z

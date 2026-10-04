@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-09-08
 ## Fuentes
 
 - [Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»](https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com) — 2026-10-04T13:13:17.000Z
-- [Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia](https://elpais.com/espana/2026-10-03/las-fuertes-lluvias-inundan-el-centro-de-bilbao-y-causan-numerosas-incidencias-en-bizkaia.html?utm_source=lootura.com) — 2026-10-03T20:22:46.000Z

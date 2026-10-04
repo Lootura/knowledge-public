@@ -70,5 +70,4 @@ Date: 2026-08-12
 
 ## Fuentes
 
-- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
-- ["Al 70% habrá elecciones anticipadas"](https://www.eldiario.es/escolar/70-habra-elecciones-anticipadas_132_13560329.html?utm_source=lootura.com) — 2026-10-04T07:34:28.000Z
+No public source links.

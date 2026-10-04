@@ -3,10 +3,16 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### The Alito Court: A rare interview with the influential Supreme Court justice
+
+Justice Samuel Alito discussed his opinion in the Dobbs decision overturning Roe v. Wade, the leaked draft and its aftermath, same-sex marriage rights and why he's not retiring yet.
+
+Date: 2026-10-04
 
 ### Conservative US supreme court justice Samuel Alito hints at retirement in interview
 
@@ -62,12 +68,6 @@ The Supreme Court has rejected the Trump administration's request to allow mail-
 
 Date: 2026-09-14
 
-### As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It
-
-The ruling by a lower court judge was another blow to President Trump’s effort to make voting by mail harder. The Supreme Court is also considering the Trump plan.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Conservative US supreme court justice Samuel Alito hints at retirement in interview](https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview?utm_source=lootura.com) — 2026-10-04T10:00:24.000Z
+- [The Alito Court: A rare interview with the influential Supreme Court justice](https://www.cbsnews.com/news/samuel-alito-supreme-court-justice-interview-dobbs-same-sex-marriage-not-retiring/?utm_source=lootura.com) — 2026-10-04T19:00:00.000Z

@@ -3,7 +3,7 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [Lula, la batalla final](https://elpais.com/america/2026-10-04/lula-la-batalla-final.html?utm_source=lootura.com) — 2026-10-04T04:00:00.000Z

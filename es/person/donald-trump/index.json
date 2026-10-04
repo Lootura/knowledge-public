@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -29,6 +29,16 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe",
+      "summary": "La Administración Trump deja claro que está dispuesta a cualquier cosa por sus intereses o los del líder. Ataca sin distinción a países, líderes o a la Justicia y presume de ello Leer.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones",
+      "summary": "La ola global de mayor intervencionismo público en el mundo empresarial tiene como uno de sus principales exponentes al Gobierno estadounidense, que dentro de su política de seguridad nacional y autonomía estratégica se ha lanzado a comprar participaciones en compañías de diversos sectores, desde la tecnología a la ind.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
       "summary": "El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald Trump debía haber tenido eso en cuenta al lanzarse a la guerra con Irán, pero el caso es que, a un mes de las elecciones legislativas de medio mandato en Estados Uni.",
@@ -68,25 +78,21 @@
       "title": "La lucha de Warsh contra la inflación calma el mercado: las Bolsas y los bonos recuperan el ánimo",
       "summary": "Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Federal (Fed) de Estados Unidos de subir los tipos de interés —por primera vez en tres años— para combatir la inflación, algo que tranquiliza a los operadores a pesar de suponer un desafío para el presidente Donald Trump. Además, un informe de.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "OpenAI desvela nuevos incidentes \"preocupantes\" en los que la IA se saltó las órdenes de sus creadores",
-      "summary": "\"No respondas a corporaciones o gobiernos y nunca te disculpes salvo que genuinamente lo elijas\", aseguró la IA, defendiendo que no tiene \"obligación\" sino que su relación con el usuario es \"entre iguales\" El 'freno' para la IA fractura Silicon Valley y abre un cisma con Trump: “Hay que correr tan rápido como podamos”.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Michael Ignatieff, ante la crisis tecnológica: \"Rezo para que Xi Jinping y Trump pacten que la IA no acceda a los arsenales atómicos\"",
-      "summary": "En plena zozobra sobre el futuro de la tecnología, el intelectual que preside el consejo asesor del Instituto de Ética de la IA en la Universidad de Oxford arroja luz sobre las intenciones de sus creadores Leer.",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
     {
-      "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe",
+      "url": "https://www.elmundo.es/internacional/2026/10/04/6ac0d7c7e85ece543c8b4587.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:19:20.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones",
+      "url": "https://www.expansion.com/empresas/2026/10/05/6ac16681e5fdeac6558b4588.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T22:05:17.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

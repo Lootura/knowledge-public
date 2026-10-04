@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja](https://www.20minutos.es/cataluna/barcelona/barcelona-afectada-por-temporal-17-000-clientes-sin-luz-4-000-atendidos-por-cruz-roja_7044561_0.html?utm_source=lootura.com) — 2026-10-04T09:32:48.000Z
+No public source links.

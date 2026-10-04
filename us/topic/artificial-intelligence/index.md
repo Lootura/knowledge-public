@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### Trump unveils AI task force
+
+The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.
+
+Date: 2026-10-04
+
+### An AI couldn’t beat humans at StarCraft, so it decided to cheat
+
+StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the.
+
+Date: 2026-10-04
+
+### NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment
+
+Well, if AI said it, it must be true. | Bloomberg via Getty Images New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds tryi.
+
+Date: 2026-10-04
 
 ### A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables
 
@@ -50,25 +68,9 @@ Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started inco
 
 Date: 2026-10-01
 
-### Developer ecosystem expanded
-
-Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," according to chief AI architect and Google DeepMind.
-
-Date: 2026-09-30
-
-### Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots
-
-Reddit is further limiting who can use the "Old Reddit" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the "next few months," the company says that you'll have to be logged in and have used Old Reddit withi.
-
-Date: 2026-09-30
-
-### The AI Tamagotchis are coming
-
-Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a.
-
-Date: 2026-09-30
-
 ## Sources
 
-- [Trump announces AI "Super Intelligence Force"](https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/?utm_source=lootura.com) — 2026-10-04T13:25:08.000Z
-- [A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables](https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html?utm_source=lootura.com) — 2026-10-04T13:22:39.000Z
+- [Federal appeals court pauses Minnesota's AI nudification ban](https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com) — 2026-10-04T21:14:54.000Z
+- [Trump unveils AI task force](https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com) — 2026-10-04T22:33:12.000Z
+- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com) — 2026-10-04T15:21:59.000Z
+- [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true?utm_source=lootura.com) — 2026-10-04T16:16:04.000Z

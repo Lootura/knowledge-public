@@ -70,4 +70,4 @@ Date: 2026-09-05
 
 ## Sources
 
-- [Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him](https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html?utm_source=lootura.com) — 2026-10-04T01:03:10.000Z
+No public source links.

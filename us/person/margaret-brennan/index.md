@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### Full transcript of "Face the Nation with Margaret Brennan," Oct. 4, 2026
+
+On this "Face the Nation with Margaret Brennan" broadcast, Energy Secretary Chris Wright and Zach Lahn, Iowa GOP nominee for governor, join Margaret Brennan.
+
+Date: 2026-10-04
 
 ### Utah Gov. Spencer Cox says government needs to "protect the public" on AI
 
@@ -62,12 +68,6 @@ On "Face the Nation with Margaret Brennan," former Sen. Joe Manchin and his daug
 
 Date: 2026-08-02
 
-### Transcript: Democratic Sen. Mark Kelly on "Face the Nation with Margaret Brennan," Aug. 2, 2026
-
-The following is the transcript of an interview with Democratic Sen. Mark Kelly of Arizona that aired on "Face the Nation with Margaret Brennan" on Aug. 2, 2026.
-
-Date: 2026-08-02
-
 ## Sources
 
-No public source links.
+- [Full transcript of "Face the Nation with Margaret Brennan," Oct. 4, 2026](https://www.cbsnews.com/news/face-the-nation-full-transcript-10-04-2026/?utm_source=lootura.com) — 2026-10-04T17:49:28.000Z

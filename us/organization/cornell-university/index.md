@@ -3,7 +3,7 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
@@ -11,6 +11,12 @@
 ### How Cornell Punished Each of the 7 Men Accused of Sexual Assault
 
 Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.
+
+Date: 2026-10-04
+
+### How the Cornell case is affecting women who have experienced sexual assault
+
+The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence. (Image credit: Olivia Petter).
 
 Date: 2026-10-04
 
@@ -40,5 +46,6 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Cornell University to take ‘serious look’ at fraternities after rape allegations](https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations?utm_source=lootura.com) — 2026-10-04T09:43:26.000Z
-- [How Cornell Punished Each of the 7 Men Accused of Sexual Assault](https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html?utm_source=lootura.com) — 2026-10-04T02:43:02.000Z
+- [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-october-4-rcna601274?utm_source=lootura.com) — 2026-10-04T22:00:42.000Z
+- [How the Cornell case is affecting women who have experienced sexual assault](https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault?utm_source=lootura.com) — 2026-10-04T14:51:27.000Z
+- [How Cornell Punished Each of the 7 Men Accused of Sexual Assault](https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html?utm_source=lootura.com) — 2026-10-04T02:43:03.000Z

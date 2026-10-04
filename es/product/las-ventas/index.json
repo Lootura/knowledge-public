@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/las-ventas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/las-ventas/index.json",
   "description": "Sigue la actividad de Las Ventas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-03T18:59:43.213Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Las Ventas bullring",
     "Las Ventas de Madrid",
@@ -21,6 +21,11 @@
     "plaza de toros de Madrid"
   ],
   "changes": [
+    {
+      "title": "Sin ideas Borja (desde el inicio de faena al revés) con el sexto",
+      "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Victorino Martín para Uceda Leal, Paco Ureña y Borja Jiménez hoy.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Una corrida de Victoriano con posibilidades, muy por encima de la terna",
       "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Diego Urdiales, Fortes y Mario Navas hoy.",
@@ -42,6 +47,13 @@
       "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sin ideas Borja (desde el inicio de faena al revés) con el sexto",
+      "url": "https://www.abc.es/cultura/toros/toros-ventas-madrid-feria-otono-directo-ultima-20261004104204-di.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:59:30.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”](https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z
+No public source links.

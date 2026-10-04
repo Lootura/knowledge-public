@@ -3,10 +3,16 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles
+
+El presidente ucraniano, Volodímir Zelenski , denunció este domingo que Rusia atacó en los últimos siete días con más de 3.600 sistemas militares ofensivos , entre drones, bombas aéreas y misiles. «Es importante que Ucrania no se quede sola ante este terror. Sólo esta semana, los rusos han usado más de 1.900 drones de.
+
+Date: 2026-10-04
 
 ### El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron
 
@@ -64,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-No public source links.
+- [Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles](https://theobjective.com/internacional/2026-10-04/zelenski-ataques-rusos-ultima-semana-3-600-drones-misiles/?utm_source=lootura.com) — 2026-10-04T15:43:50.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -17,13 +17,18 @@
   ],
   "changes": [
     {
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "summary": "The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.",
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
       "date": "2026-10-04"
     },
     {
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+      "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+      "summary": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
       "date": "2026-10-04"
     },
     {
@@ -60,32 +65,33 @@
       "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
       "summary": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Rising gas prices fuel protests in countries around the world",
-      "summary": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.",
-      "date": "2026-09-17"
     }
   ],
   "sources": [
     {
       "title": "Prozac use for childhood depression skewed by single flawed medical trial",
       "url": "https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:40:52.181Z",
+      "publishedAt": "2026-10-04T22:43:35.617Z",
       "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T10:45:50.000Z",
+      "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T22:34:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T18:47:12.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
       "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
       "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:03:44.000Z",
+      "publishedAt": "2026-10-04T22:30:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

@@ -3,7 +3,7 @@
 > Follow Tel Aviv, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/tel-aviv
 
 ## Recent changes

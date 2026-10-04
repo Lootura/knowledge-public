@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Cornell Case Carries Far-Reaching Implications for Hochul and James
+
+The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.
+
+Date: 2026-10-04
+
+### After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life
+
+As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.
+
+Date: 2026-10-04
 
 ### Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home
 
@@ -56,21 +68,7 @@ Javier Milei takes part in a discussion about economies at an event in New York 
 
 Date: 2026-09-30
 
-### JD Vance faces test in White House meeting with Israel-backing radio host
-
-NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.
-
-Date: 2026-09-17
-
-### As Midterms Rage, Gillibrand Wants Congress to Talk Menopause
-
-Senator Kirsten Gillibrand of New York is devoting a hearing to a topic that affects millions but is poorly understood and widely ignored, including when it comes to federal research money.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [How this New York City community cleanup project is helping adults make new friends](https://www.cbsnews.com/video/how-a-community-cleanup-project-is-helping-adults-make-new-friends/?utm_source=lootura.com) — 2026-10-03T22:07:28.000Z
-- [Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home](https://www.foxnews.com/outkick-betting/cardinals-vs-giants-giving-too-much-love-arizona-not-enough-new-york-home?utm_source=lootura.com) — 2026-10-04T12:55:21.000Z
-- [Manhattan ‘mole’ mystery: rumors of lost gold spur clandestine excursions into New York sewers](https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people?utm_source=lootura.com) — 2026-10-04T12:00:26.000Z
-- [‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures](https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york?utm_source=lootura.com) — 2026-10-04T11:00:27.000Z
+- [Cornell Case Carries Far-Reaching Implications for Hochul and James](https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html?utm_source=lootura.com) — 2026-10-04T07:00:23.000Z
+- [After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life](https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html?utm_source=lootura.com) — 2026-10-04T18:54:43.000Z

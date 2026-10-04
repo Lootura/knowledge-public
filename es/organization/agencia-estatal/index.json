@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/agencia-estatal/index.json",
   "description": "Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Agencia Estatal",
     "Agencia estatal de España",
@@ -18,6 +18,16 @@
     {
       "title": "La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona",
       "summary": "España se enfrenta este domingo, según la Agencia Estatal de Meteorología (Aemet), al “día más adverso” de todo el episodio de lluvias torrenciales que comenzó el jueves y que durará hasta el miércoles. Como ya advertía la Aemet, la previsión está sujeta a mucha incertidumbre y en cualquier momento pueden producirse ll.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "El temporal se ceba con el Valle del Tiétar, afectado por los incendios: los ríos se tiñen de negro por la ceniza",
+      "summary": "Las intensas lluvias han provocado desbordamientos de cauces y ríos e incidencias de diversa consideración en el sur de la provincia de Ávila , incluido el valle del Tiétar, una de las zonas más afectadas por los incendios este verano. El aviso de la Agencia Estatal de Meteorología (Aemet ) por estas precipitaciones se.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea",
+      "summary": "La delegación de la Agencia Estatal de Meteorología (Aemet) en la Comunitat Valenciana ha explicado este domingo que el mar está liberando estos días \"la gran cantidad de energía acumulada durante el verano\" en forma de calor extremo. Ese sería, según los expertos, el principal motivo de los episodios excepcionales de.",
       "date": "2026-10-04"
     },
     {
@@ -54,19 +64,21 @@
       "title": "Calor y lluvias ponen en alerta a diferentes zonas de España: esta es la previsión en cada Comunidad",
       "summary": "Todas las comunidades autónomas, excepto Galicia, estarán este sábado en aviso por calor, lluvias, tormentas y viento , según la predicción de la Agencia Estatal de Meteorología (Aemet) . Las temperaturas volverán a marcar valores significativamente altos en buena parte de España, sobre todo en la mitad sur y el este p.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Agencia estatal (España) first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "Calor, tormentas, viento y oleaje ponen hoy en aviso a siete comunidades",
-      "summary": "El calor, la lluvia, las tormentas, el viento y las olas pondrán este miércoles en aviso a siete comunidades autónomas , según la predicción de la Agencia Estatal de Meteorología (Aemet). La jornada estará marcada por el tiempo estable en buena parte de España, aunque con riesgo de chubascos y tormentas localmente fuer.",
-      "date": "2026-08-05"
     }
   ],
   "sources": [
+    {
+      "title": "El temporal se ceba con el Valle del Tiétar, afectado por los incendios: los ríos se tiñen de negro por la ceniza",
+      "url": "https://www.20minutos.es/castilla-y-leon/avila/las-fuertes-lluvias-se-ceban-con-valle-tietar-afectado-por-los-incendios-verano-los-rios-se-tinen-negro-por-ceniza_7044656_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:39:57.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea",
+      "url": "https://www.20minutos.es/nacional/aemet-explica-que-ha-causado-los-episodios-excepcionales-lluvias-que-azotan-costa-mediterranea_7044621_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T14:51:15.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
     {
       "title": "La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona",
       "url": "https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html?utm_source=lootura.com",
@@ -74,5 +86,5 @@
       "sourceId": "lootura-es-el-pais"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

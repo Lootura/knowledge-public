@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-04T04:17:05.684Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### An AI couldn’t beat humans at StarCraft, so it decided to cheat
+
+StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the.
+
+Date: 2026-10-04
 
 ### OpenAI safety leader quits, warning AI company’s culture is ‘broken’
 
@@ -62,12 +68,7 @@ Rare show of unity from rival developers after safety warnings from Anthropic bo
 
 Date: 2026-09-13
 
-### Trump and Mike Johnson think the AI industry is overreacting
-
-Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.
-
-Date: 2026-09-13
-
 ## Sources
 
-No public source links.
+- [Legal risks mount for OpenAI](https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai?utm_source=lootura.com) — 2026-10-04T22:34:47.000Z
+- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com) — 2026-10-04T15:21:59.000Z

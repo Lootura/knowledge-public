@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,26 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales",
+      "summary": "La Generalitat pide a los ciudadanos de Cataluña “no bajar la guardia” por las lluvias torrenciales que han afectado a gran parte del territorio catalán, con especial virulencia en el litoral de Girona esta mañana. El temporal ha causado la muerte de dos personas en Tordera y en Montornès del Vallès (Barcelona). La pri.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "La acampada por la vivienda de Barcelona resiste al temporal: \"No nos ganará la crisis climática\"",
+      "summary": "Los activistas mantienen la intención de alargar la acción de manera \"indefinida\" y piden apoyo con comida y materiales para soportar las jornadas de lluvia y bajas temperaturas que se avecinan El temporal de lluvias en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido en Pineda (Barcelona) Las person.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Dos muertos y un desaparecido por el fuerte temporal en Cataluña",
+      "summary": "El temporal que azota Cataluña se ha cobrado dos víctimas mortales. Un hombre de 75 años, que ha fallecido este domingo por la mañana tras la caída de un muro en Tordera (Barcelona), cuando se encontraba en un camping de la localidad. Al segundo fallecido lo han localizado los Bomberos tras la inundación de en un garaj.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "El Barcelona atormenta de nuevo al Real Madrid con una goleada histórica en el Camp Nou",
+      "summary": "Los avisos de tormenta no frenaron el vendaval azulgrana . El primer Clásico liguero en el Camp Nou reunió a 40.533 espectadores —récord en la historia de la Liga F— y se saldó con un demoledor 7-0. Claudia Pina lideró el recital firmando el primer póker de la historia de los duelos entre ambos equipos, idóneo para cer.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere",
       "summary": "En plena crisis de la vivienda por el caso Maricarmen , Pedro Sánchez visitó el lunes una promoción de vivienda protegida en el distrito del Poblenou de Barcelona. Es el único inmueble público existente en esa manzana y su sobrio diseño contrasta con el resto de modernos edificios de oficinas de fachadas desiguales y a.",
@@ -50,64 +70,20 @@
       "title": "El fuerte temporal en Cataluña deja dos muertos, en Tordera y en Montornès del Vallès, cortes de luz y de tren",
       "summary": "El episodio excepcional de lluvias torrenciales que afecta a Cataluña ha provocado, de momento, la muerte de dos personas, una en Tordera y otra en Montornès del Vallès, en Barcelona, mientras que los bomberos de la Generalitat buscan a una persona desaparecida en la riera de Pineda. Los Bomberos han confirmado este do.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales",
-      "summary": "La Generalitat pide a los ciudadanos de Cataluña “no bajar la guardia” por las lluvias torrenciales que han afectado a gran parte del territorio catalán, con especial virulencia en el litoral de Girona esta mañana. El temporal ha causado la muerte de dos personas en Tordera y en Montornès del Vallès (Barcelona). La pri.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "La acampada por la vivienda de Barcelona resiste al temporal: \"No nos ganará la crisis climática\"",
-      "summary": "Los activistas mantienen la intención de alargar la acción de manera \"indefinida\" y piden apoyo con comida y materiales para soportar las jornadas de lluvia y bajas temperaturas que se avecinan El temporal de lluvias en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido en Pineda (Barcelona) Las person.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "El temporal en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido, en Pineda",
-      "summary": "Las intensas lluvias que ha sufrido Catalunya en las últimas horas se han saldado por el momento con dos fallecidos y una persona desaparecida. Las dos víctimas se han registrado en Tordera y en Montornès del Vallès (Barcelona). Además, hay una tercera persona desaparecida, arrastrada por la riera, en Pineda de Mar (Ba.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Temporal en Catalunya hoy, en directo | Dos muertos, un desaparecido, inundaciones y ríos desbordados; siguen las restricciones en el Empordà",
-      "summary": "Sigue en directo la última hora el temporal de lluvia en Barcelona, Girona y resto de Catalunya.",
-      "date": "2026-10-04"
     }
   ],
   "sources": [
     {
-      "title": "La odisea con la vivienda de los acampados en Barcelona y Madrid: \"Ella sufrió más pero me dicen que soy otra Maricarmen\"",
-      "url": "https://www.20minutos.es/nacional/los-dramas-los-acampados-puerta-sol-plaza-catalunya-probablemente-nos-tengamos-que-ir-otra-comunidad-autonoma_7044199_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T06:20:43.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "Dos muertos y un desaparecido por el fuerte temporal en Cataluña",
+      "url": "https://www.abc.es/espana/cataluna/muerto-tordera-tras-caida-muro-temporal-azota-20261004094427-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T19:19:30.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja",
-      "url": "https://www.20minutos.es/cataluna/barcelona/barcelona-afectada-por-temporal-17-000-clientes-sin-luz-4-000-atendidos-por-cruz-roja_7044561_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:32:48.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "La alerta roja deja ya dos muertos y un desaparecido en Barcelona",
-      "url": "https://www.20minutos.es/cataluna/ultima-hora-temporal-cataluna-directo-alerta-roja-deja-ya-dos-muertos-un-desaparecido-barcelona-mientras-borrasca-avanza-hacia-girona_7044562_6.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:14:30.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El temporal obliga a suspender el servicio en Rodalies y la alta velocidad entre Barcelona y Tarragona",
-      "url": "https://www.20minutos.es/cataluna/temporal-cataluna-obliga-suspender-servicio-rodalies-alta-velocidad-entre-barcelona-tarragona_7044563_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:27:29.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "El fuerte temporal en Cataluña deja dos muertos, en Tordera y en Montornès del Vallès, cortes de luz y de tren",
-      "url": "https://www.elindependiente.com/espana/cataluna/2026/10/04/el-fuerte-temporal-en-cataluna-deja-dos-muertos-en-tordera-y-en-montornes-del-valles-cortes-de-luz-y-de-tren/?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T08:39:51.000Z",
-      "sourceId": "lootura-es-el-independiente"
-    },
-    {
-      "title": "Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere",
-      "url": "https://elpais.com/espana/catalunya/2026-10-04/un-agujero-en-las-ultimas-36-horas-de-la-vida-bonita-del-arquitecto-juanpere.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "El Barcelona atormenta de nuevo al Real Madrid con una goleada histórica en el Camp Nou",
+      "url": "https://www.abc.es/deportes/futbol/barcelona-atormenta-nuevo-real-madrid-goleada-historica-20261004210518-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T19:12:23.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
       "title": "Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales",
@@ -116,23 +92,11 @@
       "sourceId": "lootura-es-el-pais"
     },
     {
-      "title": "Un violento diluvio barre la costa catalana, en alerta por un posible “minihuracán”",
-      "url": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T22:01:46.000Z",
-      "sourceId": "lootura-es-el-pais"
-    },
-    {
       "title": "La acampada por la vivienda de Barcelona resiste al temporal: \"No nos ganará la crisis climática\"",
       "url": "https://www.eldiario.es/catalunya/acampada-vivienda-barcelona-resiste-temporal-no-ganara-crisis-climatica_1_13560804.html?utm_source=lootura.com",
       "publishedAt": "2026-10-04T11:46:03.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El temporal en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido, en Pineda",
-      "url": "https://www.lavanguardia.com/local/barcelona/20261004/11650603/barcelona-entorno-viven-dia-mas-lluvioso-ultimos-veinte-anos.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T04:38:44.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 4
 }

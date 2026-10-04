@@ -3,20 +3,20 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Hungary's dwindling paprika producers battle to save signature spice
-
-Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.
-
-Date: 2026-10-04
-
 ### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
 The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+
+Date: 2026-10-04
+
+### Hungary's dwindling paprika producers battle to save signature spice
+
+Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.
 
 Date: 2026-10-04
 
@@ -70,5 +70,5 @@ Date: 2026-09-17
 
 ## Sources
 
-- [Hungary's dwindling paprika producers battle to save signature spice](https://phys.org/news/2026-10-hungary-dwindling-paprika-signature-spice.html?utm_source=lootura.com) — 2026-10-04T11:20:07.000Z
-- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z
+- [Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide](https://www.pbs.org/newshour/world/bosnia-votes-as-pro-russian-politician-looms-large-and-ethnic-tensions-simmer?utm_source=lootura.com) — 2026-10-04T16:42:31.000Z
+- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T22:30:27.000Z

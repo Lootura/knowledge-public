@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.json",
   "description": "Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Víctor",
     "Ángel"
   ],
   "changes": [
+    {
+      "title": "La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados",
+      "summary": "El operativo desplegado por la Policía Nacional este domingo para desalojar la playa del Trampolín ha culminado con el traslado de más de 1.100 personas migrantes, según ha informado el coordinador del Mando Único para la gestión de la crisis de Ceuta, el ministro Ángel Víctor Torres.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes",
       "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha reclamado que se entre «en el fondo» de la llamada ‘Ley de Nietos’ , suspendida la semana pasada de manera cautelar por parte del Tribunal Supremo, y que haya una sentencia «cuanto antes» para garantizar los derechos de los descendiente.",
@@ -58,13 +63,15 @@
       "title": "Discovered by Atlas",
       "summary": "Ángel Víctor Torres first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-10"
-    },
-    {
-      "title": "Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha elevado a unas 80.000 las personas inmigrantes que entraron en Ceuta.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados",
+      "url": "https://www.europapress.es/sociedad/noticia-policia-nacional-culmina-operativo-trampolin-ceuta-1100-migrantes-desalojados-20261004232450.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:24:50.000Z",
+      "sourceId": "lootura-es-europa-press"
+    }
+  ],
+  "evidenceCount": 1
 }

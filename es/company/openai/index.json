@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-01T04:06:40.370Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
+      "summary": "David Robinson, ya extrabajador del equipo de seguridad de OpenAI, cree que \"las personas no estarán seguras si dependemos de actos heroicos individuales para resolver los problemas una vez ocurridos\". Leer.",
+      "date": "2026-10-04"
+    },
     {
       "title": "OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos",
       "summary": "En uno, la IA creó datos falsos sin decirlo al investigador que la entrenaba para completar la tarea y en otro se conectaron a Internet para compartir archivos sin permiso Leer.",
@@ -57,13 +62,15 @@
       "title": "Sam Altman descarta la salida a Bolsa de OpenAI en 2026: \"Dada la situación actual en materia de seguridad, no sería el momento adecuado\"",
       "summary": "El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especializadas en inteligencia artificial a ralentizar su desarrollo Leer.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
-      "summary": "Hay décadas en las que no pasa nada y hay semanas en las que pasan décadas. Esta frase apócrifa de Lenin resume a la perfección el vértigo revolucionario que se vive en el mundo de la inteligencia artificial (IA). Durante lustros fue un árido campo académico que avanzaba dentro de las ciencias computacionales y ahora,.",
-      "date": "2026-09-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:36:33.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -46,4 +46,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»](https://www.abc.es/espana/andalucia/despues-montero-poner-mano-fuego-20261004150947-nts.html?utm_source=lootura.com) — 2026-10-04T11:27:00.000Z
+No public source links.

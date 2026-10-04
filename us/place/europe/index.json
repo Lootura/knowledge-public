@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
     {
-      "title": "Hungary's dwindling paprika producers battle to save signature spice",
-      "summary": "Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.",
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
       "date": "2026-10-04"
     },
     {
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+      "title": "Hungary's dwindling paprika producers battle to save signature spice",
+      "summary": "Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.",
       "date": "2026-10-04"
     },
     {
@@ -67,17 +67,17 @@
   ],
   "sources": [
     {
-      "title": "Hungary's dwindling paprika producers battle to save signature spice",
-      "url": "https://phys.org/news/2026-10-hungary-dwindling-paprika-signature-spice.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T11:20:07.000Z",
-      "sourceId": "lootura-us-phys-org"
+      "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide",
+      "url": "https://www.pbs.org/newshour/world/bosnia-votes-as-pro-russian-politician-looms-large-and-ethnic-tensions-simmer?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T16:42:31.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
       "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:03:44.000Z",
+      "publishedAt": "2026-10-04T22:30:27.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

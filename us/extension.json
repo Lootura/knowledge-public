@@ -1,55 +1,55 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T13:56:46.259Z",
+  "generatedAt": "2026-10-04T23:01:28.775Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|189|1791121248194",
+    "signature": "1.18.0|190|1791153811359",
     "version": "1.18.0",
-    "build": 189,
-    "latestEntityUpdatedAt": "2026-10-04T13:40:48.194Z"
+    "build": 190,
+    "latestEntityUpdatedAt": "2026-10-04T22:43:31.359Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
+      "id": "usa-united-states",
+      "name": "United States",
+      "type": "place",
       "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-10-04T13:40:48.194Z",
-      "score": 1672,
-      "sourceCount": 1157,
+      "url": "https://atlas.lootura.com/us/place/united-states",
+      "path": "/us/place/united-states",
+      "updatedAt": "2026-10-04T22:43:31.359Z",
+      "score": 1673,
+      "sourceCount": 1138,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-iran",
+        "name": "Iran",
         "type": "place",
-        "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-10-04T13:40:48.194Z",
-        "score": 1652,
-        "sourceCount": 1129,
+        "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+        "url": "https://atlas.lootura.com/us/place/iran",
+        "path": "/us/place/iran",
+        "updatedAt": "2026-10-04T22:43:31.359Z",
+        "score": 1658,
+        "sourceCount": 533,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-ukraine",
-        "name": "Ukraine",
-        "type": "place",
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
         "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-        "url": "https://atlas.lootura.com/us/place/ukraine",
-        "path": "/us/place/ukraine",
-        "updatedAt": "2026-10-04T13:40:48.194Z",
-        "score": 1627,
-        "sourceCount": 182,
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-10-04T22:43:31.359Z",
+        "score": 1641,
+        "sourceCount": 1161,
         "isBreaking": false,
         "isPinned": false
       },
@@ -60,26 +60,26 @@
         "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
         "url": "https://atlas.lootura.com/us/place/russia",
         "path": "/us/place/russia",
-        "updatedAt": "2026-10-04T13:40:48.194Z",
-        "score": 1623,
-        "sourceCount": 150,
+        "updatedAt": "2026-10-04T22:43:31.359Z",
+        "score": 1629,
+        "sourceCount": 151,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-new-york",
-        "name": "New York City",
-        "type": "place",
-        "title": "Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home",
-        "url": "https://atlas.lootura.com/us/place/new-york",
-        "path": "/us/place/new-york",
-        "updatedAt": "2026-10-04T13:40:48.194Z",
-        "score": 1619,
-        "sourceCount": 154,
+        "id": "usa-supreme-court",
+        "name": "Supreme court",
+        "type": "organization",
+        "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
+        "url": "https://atlas.lootura.com/us/organization/supreme-court",
+        "path": "/us/organization/supreme-court",
+        "updatedAt": "2026-10-04T22:43:31.359Z",
+        "score": 1628,
+        "sourceCount": 96,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 227
+    "publicEntityCount": 229
   }
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/volodimir-zelenski/index.json",
   "description": "Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-10T03:02:25.927Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -20,6 +20,11 @@
     "Zelenski"
   ],
   "changes": [
+    {
+      "title": "Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles",
+      "summary": "El presidente ucraniano, Volodímir Zelenski , denunció este domingo que Rusia atacó en los últimos siete días con más de 3.600 sistemas militares ofensivos , entre drones, bombas aéreas y misiles. «Es importante que Ucrania no se quede sola ante este terror. Sólo esta semana, los rusos han usado más de 1.900 drones de.",
+      "date": "2026-10-04"
+    },
     {
       "title": "El avión que trasladó a Zelenski a Oslo estuvo «a punto» de ser derribado por un dron",
       "summary": "El primer ministro de Noruega, Jonas Gahr Støre, ha asegurado este miércoles que el avión que trasladó en la víspera al presidente de Ucrania, Volodímir Zelenski , a Oslo estuvo «a punto» de ser alcanzado por un dron . «Su avión estuvo a punto de ser derribado por un dron cuando iba a despegar de Moldavia , así que esa.",
@@ -66,6 +71,13 @@
       "date": "2026-07-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles",
+      "url": "https://theobjective.com/internacional/2026-10-04/zelenski-ataques-rusos-ultima-semana-3-600-drones-misiles/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T15:43:50.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

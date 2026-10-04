@@ -3,10 +3,16 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista
+
+La Fuerza Aérea de Estados Unidos ha retirado, a lo largo del fin de semana, sus bombarderos estacionados en una de sus bases militares ubicada en Inglaterra y utilizada para golpear Irán tras una investigación sobre un ataque terrorista. Los aviones que se encontraban en la base de RAF Fairford han vuelto a sus lugare.
+
+Date: 2026-10-04
 
 ### Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente
 
@@ -62,12 +68,6 @@ Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamie
 
 Date: 2026-09-14
 
-### Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave
-
-Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente](https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com) — 2026-10-04T03:40:00.000Z
+- [Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista](https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com) — 2026-10-04T21:47:03.000Z

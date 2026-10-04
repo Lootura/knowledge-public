@@ -8,19 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miriam-nogueras/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miriam-nogueras/index.json",
   "description": "Sigue la actividad de Míriam Nogueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-05T10:31:44.090Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Míriam Nogueras i Camero"
   ],
   "changes": [
     {
-      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
-      "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.",
-      "date": "2026-08-04"
+      "title": "Junts, a horas de saber si habrá elecciones: \"Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones\"",
+      "summary": "La portavoz de Junts en el Congreso, Miriam Nogueras , ha planteado la disyuntiva en la que a su juicio se encuentra el presidente del Gobierno, Pedro Sánchez : \"Si antepone la vivienda al cálculo electoral, hoy nos llamará para negociar sobre vivienda. Si antepone el PSOE, mañana (lunes) convocará elecciones\". Así lo.",
+      "date": "2026-10-04"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Míriam Nogueras first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Junts avisa a Pedro Sánchez: \"No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta\"",
+      "summary": "Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.",
       "date": "2026-08-04"
     },
     {
@@ -29,6 +34,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Junts, a horas de saber si habrá elecciones: \"Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones\"",
+      "url": "https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:15:52.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

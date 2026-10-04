@@ -3,10 +3,28 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
+
+El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gobierno, Pedro Sánchez , que convoque elecciones generales «ya» , en un mensaje en el que le ha instado a no demorar más la decisión. «Pedro, no te lo pienses más. Hazlo. Convoca mañana las elecciones generales. Aprieta el botón» , ha reclama.
+
+Date: 2026-10-04
+
+### El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox
+
+Como en los célebres cinco días de reflexión de abril de 2024, el PSOE ha pasado las últimas horas a la espera de una decisión trascendental de Pedro Sánchez. Si en aquel...
+
+Date: 2026-10-04
+
+### Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha
+
+Pedro Sánchez no estuvo cruzado de brazos este fin de semana, simplemente lamiéndose las heridas por el revés del pasado viernes en el Congreso , cuando el PP, Vox y Junts tumbaron los decretos leyes que pretendían dar respuesta a la indignación social por la crisis de la vivienda que estalló tras el desahucio de Maric.
+
+Date: 2026-10-04
 
 ### Junts fía su resurgir al impacto de la vuelta de Puigdemont
 
@@ -38,12 +56,6 @@ Fracaso del Gobierno en el Congreso . La Cámara Baja ha rechazado este viernes 
 
 Date: 2026-10-04
 
-### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
-
-El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gobierno, Pedro Sánchez , que convoque elecciones generales «ya» , en un mensaje en el que le ha instado a no demorar más la decisión. «Pedro, no te lo pienses más. Hazlo. Convoca mañana las elecciones generales. Aprieta el botón» , ha reclama.
-
-Date: 2026-10-04
-
 ### Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"
 
 El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...
@@ -56,24 +68,8 @@ El líder del PP, Alberto Núñez Feijóo, insiste en que la actual XV legislatu
 
 Date: 2026-10-03
 
-### Las prácticas del PP de Ayuso para acallar a quienes molestan: ataques, bulos y señalamientos
-
-El caso del doctor Luis Martos y las listas de espera no es el único ni el primer caso en el que la Comunidad de Madrid reacciona ante un escándalo señalando públicamente al denunciante El cirujano que denunció el cambio de prioridad de pacientes en Madrid se querella contra la consejera de Ayuso Escándalo tras escánda.
-
-Date: 2026-10-03
-
-### La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos
-
-El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda La mayoría de ciudadanos, incluidos los votantes de la derecha, apoyarían una huelga general por la vivienda Estimación de.
-
-Date: 2026-10-03
-
 ## Fuentes
 
-- [El PP se reivindica como solución a la crisis de vivienda y afirma no temer un adelanto electoral: "Estamos listos"](https://www.20minutos.es/nacional/pp-se-reivindica-como-solucion-crisis-vivienda-afirma-no-temer-un-adelanto-electoral-estamos-listos_7044328_0.html?utm_source=lootura.com) — 2026-10-04T06:17:37.000Z
-- [Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»](https://www.abc.es/play/television/noticias/vicente-valles-sobre-pedro-sanchez-convocara-elecciones-20261003112942-nt.html?utm_source=lootura.com) — 2026-10-04T12:17:22.000Z
-- [Iñaki López, sobre el rechazo de Junts a los decretos de vivienda de Pedro Sánchez: «No es sorpresa. Votó contra la revalorización de las pensiones»](https://www.abc.es/play/television/noticias/inaki-lopez-sobre-rechazo-junts-decretos-vivienda-20261004101507-nt.html?utm_source=lootura.com) — 2026-10-04T12:16:03.000Z
-- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
-- [Junts fía su resurgir al impacto de la vuelta de Puigdemont](https://elpais.com/espana/catalunya/2026-10-04/junts-fia-su-resurgir-al-impacto-de-la-vuelta-de-puigdemont.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
-- [El PP ya especula con un Gobierno Feijóo](https://elpais.com/espana/2026-10-04/el-pp-ya-especula-con-un-gobierno-feijoo.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+- [El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox](https://amp.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html?utm_source=lootura.com) — 2026-10-04T20:22:15.000Z
+- [Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha](https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html?utm_source=lootura.com) — 2026-10-04T20:06:45.000Z
 - [El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»](https://theobjective.com/espana/politica/2026-10-04/pp-sanchez-convocar-elecciones/?utm_source=lootura.com) — 2026-10-04T11:56:18.000Z

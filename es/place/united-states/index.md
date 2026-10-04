@@ -3,10 +3,28 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Dos muertos y decenas de heridos en un tiroteo en una fiesta vecinal en el estado de Georgia
+
+Al menos dos personas han muerto y otras 35 han resultado heridas en Georgia ( Estados Unidos ) durante un tiroteo ocurrido en la madrugada de este domingo en la localidad de Vienna, según ha confirmado la oficina de investigación estatal (GBI) en un comunicado .El incidente ocurrió sobre la 1.25 horas durante «una fie.
+
+Date: 2026-10-04
+
+### Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista
+
+La Fuerza Aérea de Estados Unidos ha retirado, a lo largo del fin de semana, sus bombarderos estacionados en una de sus bases militares ubicada en Inglaterra y utilizada para golpear Irán tras una investigación sobre un ataque terrorista. Los aviones que se encontraban en la base de RAF Fairford han vuelto a sus lugare.
+
+Date: 2026-10-04
+
+### La jornada electoral de Brasil, en imágenes
+
+Este domingo se celebran elecciones presidenciales y legislativas en el país más grande de América Latina.
+
+Date: 2026-10-04
 
 ### Ascensión, la isla desértica que se hizo selva
 
@@ -50,24 +68,8 @@ Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Fe
 
 Date: 2026-09-17
 
-### EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis
-
-Hacía mucho tiempo que la seguridad y la defensa no estaban tan presentes en el debate político ni tenían tanta relevancia. En un entorno de guerras híbridas, de agresiones directas de Rusia (la invasión de Ucrania está ya en su 5º año), de ataques de Estados Unidos e Israel contra Irán , de la respuesta iraní contra l.
-
-Date: 2026-09-17
-
-### Cómo los centros de datos se han convertido en uno de los temas políticos más candentes de EE.UU.
-
-Un espectro acecha a Estados Unidos: el de los centros de datos. Estos almacenes repletos de ordenadores, que impulsan el auge de la inteligencia artificial en el país, se han vuelto menos populares que casi cualquier otro tipo de infraestructura, incluso que las centrales nucleares. Los condados y los estados se apres.
-
-Date: 2026-09-16
-
-### La Fed discute un alza de tipos y encara un choque frontal con Trump
-
-El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras "una buena pelea familiar". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.
-
-Date: 2026-09-15
-
 ## Fuentes
 
-- [Ascensión, la isla desértica que se hizo selva](https://elpais.com/eps/2026-10-04/ascension-la-isla-desertica-que-se-hizo-selva.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z
+- [Dos muertos y decenas de heridos en un tiroteo en una fiesta vecinal en el estado de Georgia](https://www.abc.es/internacional/dos-muertos-decenas-heridos-tiroteo-fiesta-vecinal-20261004195454-nt.html?utm_source=lootura.com) — 2026-10-04T17:54:55.000Z
+- [Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista](https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com) — 2026-10-04T21:47:03.000Z
+- [La jornada electoral de Brasil, en imágenes](https://elpais.com/america/2026-10-04/la-jornada-electoral-de-brasil-en-imagenes.html?utm_source=lootura.com) — 2026-10-04T17:23:13.000Z

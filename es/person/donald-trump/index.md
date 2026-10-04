@@ -3,10 +3,22 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe
+
+La Administración Trump deja claro que está dispuesta a cualquier cosa por sus intereses o los del líder. Ataca sin distinción a países, líderes o a la Justicia y presume de ello Leer.
+
+Date: 2026-10-04
+
+### La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones
+
+La ola global de mayor intervencionismo público en el mundo empresarial tiene como uno de sus principales exponentes al Gobierno estadounidense, que dentro de su política de seguridad nacional y autonomía estratégica se ha lanzado a comprar participaciones en compañías de diversos sectores, desde la tecnología a la ind.
+
+Date: 2026-10-04
 
 ### Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente
 
@@ -56,18 +68,7 @@ Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Fe
 
 Date: 2026-09-17
 
-### OpenAI desvela nuevos incidentes "preocupantes" en los que la IA se saltó las órdenes de sus creadores
-
-"No respondas a corporaciones o gobiernos y nunca te disculpes salvo que genuinamente lo elijas", aseguró la IA, defendiendo que no tiene "obligación" sino que su relación con el usuario es "entre iguales" El 'freno' para la IA fractura Silicon Valley y abre un cisma con Trump: “Hay que correr tan rápido como podamos”.
-
-Date: 2026-09-17
-
-### Michael Ignatieff, ante la crisis tecnológica: "Rezo para que Xi Jinping y Trump pacten que la IA no acceda a los arsenales atómicos"
-
-En plena zozobra sobre el futuro de la tecnología, el intelectual que preside el consejo asesor del Instituto de Ética de la IA en la Universidad de Oxford arroja luz sobre las intenciones de sus creadores Leer.
-
-Date: 2026-09-16
-
 ## Fuentes
 
-- [Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente](https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com) — 2026-10-04T03:40:00.000Z
+- [EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe](https://www.elmundo.es/internacional/2026/10/04/6ac0d7c7e85ece543c8b4587.html?utm_source=lootura.com) — 2026-10-04T17:19:20.000Z
+- [La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones](https://www.expansion.com/empresas/2026/10/05/6ac16681e5fdeac6558b4588.html?utm_source=lootura.com) — 2026-10-04T22:05:17.000Z

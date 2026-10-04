@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T13:56:50.433Z",
+  "generatedAt": "2026-10-04T23:01:33.740Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|189|1791121227752",
+    "signature": "1.18.0|190|1791153791507",
     "version": "1.18.0",
-    "build": 189,
-    "latestEntityUpdatedAt": "2026-10-04T13:40:27.752Z"
+    "build": 190,
+    "latestEntityUpdatedAt": "2026-10-04T22:43:11.507Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
       "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
       "path": "/es/person/pedro-sanchez",
-      "updatedAt": "2026-10-04T13:40:27.752Z",
-      "score": 1748,
-      "sourceCount": 659,
+      "updatedAt": "2026-10-04T22:43:11.507Z",
+      "score": 1735,
+      "sourceCount": 670,
       "isBreaking": false,
       "isPinned": false
     },
@@ -34,9 +34,9 @@
         "title": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
         "url": "https://atlas.lootura.com/es/organization/psoe",
         "path": "/es/organization/psoe",
-        "updatedAt": "2026-10-04T13:40:27.752Z",
-        "score": 1687,
-        "sourceCount": 260,
+        "updatedAt": "2026-10-04T22:43:11.507Z",
+        "score": 1673,
+        "sourceCount": 264,
         "isBreaking": false,
         "isPinned": false
       },
@@ -44,12 +44,25 @@
         "id": "es-madrid",
         "name": "Madrid",
         "type": "place",
-        "title": "Cortes de tráfico en Madrid hoy, domingo 4 de octubre por la Cabalgata de la Hispanidad: horarios, calles y zonas afectadas",
+        "title": "Ministros y partidos de Sumar tendrán otra cumbre este lunes sobre el momento político y su nuevo proyecto Frente Amplio",
         "url": "https://atlas.lootura.com/es/place/madrid",
         "path": "/es/place/madrid",
-        "updatedAt": "2026-10-04T13:40:27.752Z",
-        "score": 1651,
-        "sourceCount": 984,
+        "updatedAt": "2026-10-04T22:43:11.507Z",
+        "score": 1669,
+        "sourceCount": 989,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-flavio-bolsonaro",
+        "name": "Flávio Bolsonaro",
+        "type": "person",
+        "title": "Resultados de las elecciones en Brasil, en vivo | Flávio Bolsonaro aventaja a Lula, con más del 64% escrutado",
+        "url": "https://atlas.lootura.com/es/person/flavio-bolsonaro",
+        "path": "/es/person/flavio-bolsonaro",
+        "updatedAt": "2026-10-04T22:43:11.507Z",
+        "score": 1664,
+        "sourceCount": 5,
         "isBreaking": false,
         "isPinned": false
       },
@@ -57,29 +70,16 @@
         "id": "es-barcelona",
         "name": "Barcelona",
         "type": "place",
-        "title": "La odisea con la vivienda de los acampados en Barcelona y Madrid: \"Ella sufrió más pero me dicen que soy otra Maricarmen\"",
+        "title": "Dos muertos y un desaparecido por el fuerte temporal en Cataluña",
         "url": "https://atlas.lootura.com/es/place/barcelona",
         "path": "/es/place/barcelona",
-        "updatedAt": "2026-10-04T13:40:27.752Z",
-        "score": 1645,
-        "sourceCount": 241,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "es-vicente-valles",
-        "name": "Vicente Vallés",
-        "type": "person",
-        "title": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
-        "url": "https://atlas.lootura.com/es/person/vicente-valles",
-        "path": "/es/person/vicente-valles",
-        "updatedAt": "2026-10-04T13:40:27.752Z",
-        "score": 1636,
-        "sourceCount": 7,
+        "updatedAt": "2026-10-04T22:43:11.507Z",
+        "score": 1652,
+        "sourceCount": 243,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 268
+    "publicEntityCount": 269
   }
 }

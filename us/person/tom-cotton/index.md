@@ -34,4 +34,4 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time](https://www.pbs.org/newshour/politics/trump-urges-calls-to-arkansas-sen-tom-cotton-in-push-for-permanent-daylight-saving-time?utm_source=lootura.com) — 2026-10-03T17:43:38.000Z
+No public source links.

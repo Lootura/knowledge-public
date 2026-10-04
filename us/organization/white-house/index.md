@@ -3,14 +3,14 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
 
-### Poll: Latino voters swing away from Trump and Republicans
+### Trump unveils AI task force
 
-Latino voters helped propel Donald Trump back to the White House.
+The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.
 
 Date: 2026-10-04
 
@@ -70,4 +70,5 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Poll: Latino voters swing away from Trump and Republicans](https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894?utm_source=lootura.com) — 2026-10-04T13:00:00.000Z
+- [Trump names national intelligence chief Jay Clayton as new AI czar](https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump?utm_source=lootura.com) — 2026-10-04T18:36:48.000Z
+- [Trump unveils AI task force](https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com) — 2026-10-04T22:33:12.000Z

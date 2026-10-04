@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [Lamine Yamal, la felicidad siempre es titular](https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/10/03/6ac16b06e9cf4a395f8b45b1.html?utm_source=lootura.com) — 2026-10-03T20:52:43.000Z
+No public source links.

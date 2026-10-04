@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/milky-way/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/milky-way/index.json",
   "description": "Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-03T19:00:06.756Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Celestial River",
     "Local Galaxy",
@@ -19,6 +19,11 @@
     "The Milky Way Galaxy"
   ],
   "changes": [
+    {
+      "title": "Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way",
+      "summary": "Dark matter could be a type of matter in the universe that does not emit, absorb or reflect detectable light and appears to interact very weakly with regular matter. Although physicists have observed gravitational effects attributed to dark matter, they have not yet been able to determine what it is made of.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
       "summary": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead.",
@@ -50,6 +55,13 @@
       "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way",
+      "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T19:20:01.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

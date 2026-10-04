@@ -70,4 +70,4 @@ Date: 2026-08-31
 
 ## Fuentes
 
-- [Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda](https://amp.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html?utm_source=lootura.com) — 2026-10-03T20:48:43.000Z
+No public source links.

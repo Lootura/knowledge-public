@@ -1,0 +1,47 @@
+{
+  "id": "usa-air-force",
+  "name": "Air force",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/air-force",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/air-force",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/air-force/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/air-force/index.json",
+  "description": "Follow Air force, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "aliases": [
+    "air army"
+  ],
+  "changes": [
+    {
+      "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot",
+      "summary": "The bombers at RAF Fairford “have been re-deployed to their home stations in the United States,” a Pentagon official told NBC News.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
+      "summary": "Aircraft seen leaving Gloucestershire base following arrest of dual British-Iranian national in central London The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror attack at the base. The bombers were redeployed back to their home bases in the US, according.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Air Force first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot",
+      "url": "https://www.nbcnews.com/news/us-news/air-force-removes-bombers-british-base-targeted-suspected-terror-plot-rcna601484?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T22:14:47.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:25:03.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 2
+}

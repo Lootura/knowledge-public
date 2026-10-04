@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -20,6 +20,11 @@
     {
       "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
       "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Major oil exporters agree to keep production steady in November",
+      "summary": "The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.",
       "date": "2026-10-04"
     },
     {
@@ -61,25 +66,20 @@
       "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
       "summary": "The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "Extended Interview: Ukrainian President Volodymyr Zelenskyy",
-      "summary": "Ukrainian President Volodymyr Zelenskyy speaks with CBS News' Aidan Stretch about the state of the war, Russia's recent escalation, U.S. support and more.",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
+    {
+      "title": "Major oil exporters agree to keep production steady in November",
+      "url": "https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:11:27.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
     {
       "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
       "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com",
       "publishedAt": "2026-10-04T01:58:41.000Z",
       "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T09:01:49.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
   "evidenceCount": 2

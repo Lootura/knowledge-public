@@ -64,4 +64,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»](https://www.abc.es/play/television/noticias/vicente-valles-sobre-pedro-sanchez-convocara-elecciones-20261003112942-nt.html?utm_source=lootura.com) — 2026-10-04T12:17:22.000Z
+No public source links.

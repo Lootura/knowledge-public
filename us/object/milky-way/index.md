@@ -3,10 +3,16 @@
 > Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-10-03T19:00:06.756Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/object/milky-way
 
 ## Recent changes
+
+### Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way
+
+Dark matter could be a type of matter in the universe that does not emit, absorb or reflect detectable light and appears to interact very weakly with regular matter. Although physicists have observed gravitational effects attributed to dark matter, they have not yet been able to determine what it is made of.
+
+Date: 2026-10-04
 
 ### Milky Way may have begun as thousands of galaxies, new simulations suggest
 
@@ -46,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-No public source links.
+- [Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way](https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html?utm_source=lootura.com) — 2026-10-04T19:20:01.000Z

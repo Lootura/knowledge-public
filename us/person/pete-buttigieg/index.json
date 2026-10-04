@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/pete-buttigieg/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/pete-buttigieg/index.json",
   "description": "Follow Pete Buttigieg, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-08T20:26:16.467Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Buttigieg",
     "Mayor Pete",
@@ -17,16 +17,28 @@
   ],
   "changes": [
     {
-      "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
-      "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
-      "date": "2026-08-08"
+      "title": "Buttigieg goes big to help 2026 Dems",
+      "summary": "CONCORD, New Hampshire— Pete Buttigieg is barnstorming the nation in the final weeks before the midterms, boosting candidates in battlegrounds and even areas traditionally hostile to Democrats. And it’s helping him look beyond November. Down the homestretch, Buttigieg is set to campaign in at least six states: North Ca.",
+      "date": "2026-10-04"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Pete Buttigieg first entered the public knowledge record with source-backed evidence.",
       "date": "2026-08-08"
+    },
+    {
+      "title": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
+      "summary": "Michigan Democrats’ scramble to unify after a brutal primary continued Friday with a preplanned rally that brought together the statewide ticket. It also brought out Pete Buttigieg, a former and potentially future presidential candidate, whose presence helped underscore the stakes not just in November, but for 2028. Ho.",
+      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Buttigieg goes big to help 2026 Dems",
+      "url": "https://www.politico.com/news/2026/10/04/buttigieg-midterms-travel-new-hampshire-01106140?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T15:25:52.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

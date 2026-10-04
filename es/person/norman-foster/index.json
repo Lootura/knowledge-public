@@ -8,24 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/norman-foster/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/norman-foster/index.json",
   "description": "Sigue la actividad de Norman Foster en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
-    "Sir Norman Foster",
+    "Baron Foster of Thames Bank Norman Foster",
+    "Foster",
     "Lord Foster",
-    "Lord Norman Foster",
-    "Norman Robert Foster",
-    "Norman Foster, Baron Foster of Thames Bank",
     "Lord Foster of Thames Bank",
-    "Nōman Fosutā",
+    "Lord Norman Foster",
+    "Norman",
+    "Norman Foster, Baron Foster of Thames Bank",
+    "Norman Robert Foster",
     "Norman Robert Foster, Baron Foster of Thames Bank",
-    "Baron Foster of Thames Bank Norman Foster"
+    "Nōman Fosutā",
+    "Sir Norman Foster"
   ],
   "changes": [
-    {
-      "title": "Norman Foster: «Ha sido una lucha heroica, una carrera contrarreloj»",
-      "summary": "Tras la tempestad llega la calma, dicen. El sábado por la noche hubo un diluvio (si no universal, casi) en Bilbao . El centro de la ciudad se inundó y quedó a oscuras. Pero la mañana del domingo ha lucido soleada. Norman Foster , que no acudió el viernes a la presentación a la prensa de la ampliación y reforma del Muse.",
-      "date": "2026-10-04"
-    },
     {
       "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
       "summary": "El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.",
@@ -35,15 +32,14 @@
       "title": "Discovered by Atlas",
       "summary": "Norman Foster first entered the public knowledge record with source-backed evidence.",
       "date": "2026-10-04"
+    },
+    {
+      "title": "Norman Foster: «Ha sido una lucha heroica, una carrera contrarreloj»",
+      "summary": "Tras la tempestad llega la calma, dicen. El sábado por la noche hubo un diluvio (si no universal, casi) en Bilbao . El centro de la ciudad se inundó y quedó a oscuras. Pero la mañana del domingo ha lucido soleada. Norman Foster , que no acudió el viernes a la presentación a la prensa de la ampliación y reforma del Muse.",
+      "date": "2026-10-04"
     }
   ],
   "sources": [
-    {
-      "title": "Norman Foster: «Ha sido una lucha heroica, una carrera contrarreloj»",
-      "url": "https://www.abc.es/cultura/arte/norman-foster-20261004145256-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:22:26.000Z",
-      "sourceId": "lootura-es-abc"
-    },
     {
       "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
       "url": "https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com",
@@ -51,5 +47,5 @@
       "sourceId": "lootura-es-el-correo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

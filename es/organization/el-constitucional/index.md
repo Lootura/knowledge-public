@@ -46,5 +46,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont](https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com) — 2026-10-04T08:05:55.000Z
-- [El Constitucional avalará esta semana amnistiar la malversación del ‘procés’ y critica al Supremo](https://theobjective.com/espana/tribunales/2026-10-04/el-constitucional-avalara-esta-semana-amnistiar-la-malversacion-del-proces-y-critica-al-supremo/?utm_source=lootura.com) — 2026-10-04T11:18:06.000Z
+No public source links.

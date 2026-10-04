@@ -28,4 +28,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [New details about co-pilot after Flydubai incident](https://www.nbcnews.com/nightly-news/video/new-details-about-co-pilot-after-flydubai-incident-270969925791?utm_source=lootura.com) — 2026-10-03T22:37:37.000Z
+No public source links.

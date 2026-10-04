@@ -3,7 +3,7 @@
 > Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/person/jorge-martin
 
 ## Cambios recientes
@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-No public source links.
+- [Marc Márquez consigue un nuevo doblete en Japón y se coloca a dos puntos de Jorge Martín](https://theobjective.com/deportes/2026-10-04/marc-marquez-doblete-japon-dos-puntos-jorge-martin/?utm_source=lootura.com) — 2026-10-04T16:49:34.000Z

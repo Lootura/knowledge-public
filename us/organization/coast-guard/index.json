@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/coast-guard/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/coast-guard/index.json",
   "description": "Follow Coast guard, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "coastguard"
   ],
   "changes": [
+    {
+      "title": "Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor",
+      "summary": "The Federal Aviation Administration contacted the Coast Guard at 2 a.m. Saturday that it had lost contact with the Gulfstream G100 carrying four Canadians and two Bermudian nationals over the Atlantic Ocean.",
+      "date": "2026-10-04"
+    },
     {
       "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
       "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island and ⁠was searching for ​the six people who were on board. The jet lost.",
@@ -36,23 +41,11 @@
   ],
   "sources": [
     {
-      "title": "Urgent race to find missing medical evacuation jet",
-      "url": "https://www.nbcnews.com/nightly-news/video/urgent-race-to-find-missing-medical-evacuation-jet-270969413927?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T22:45:52.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Coast Guard finds debris from medical plane carrying 6 people",
-      "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T22:31:04.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T03:38:48.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor",
+      "url": "https://www.pbs.org/newshour/nation/search-ongoing-for-missing-medical-flight-from-bermuda-to-boston-as-crews-plan-to-scour-ocean-floor?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:53:51.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -70,4 +70,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-- [Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital](https://okdiario.com/ciencia/nadie-lo-esperaba-pero-ciencia-lo-reafirma-china-fulmina-12-anos-98-contaminacion-capital-16120833?utm_source=lootura.com) — 2026-10-04T13:31:56.000Z
+No public source links.

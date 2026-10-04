@@ -3,10 +3,16 @@
 > Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/new-hampshire
 
 ## Recent changes
+
+### Buttigieg goes big to help 2026 Dems
+
+CONCORD, New Hampshire— Pete Buttigieg is barnstorming the nation in the final weeks before the midterms, boosting candidates in battlegrounds and even areas traditionally hostile to Democrats. And it’s helping him look beyond November. Down the homestretch, Buttigieg is set to campaign in at least six states: North Ca.
+
+Date: 2026-10-04
 
 ### Democrats want a blue wave. New Hampshire is Exhibit A for why that may not happen
 
@@ -64,4 +70,4 @@ Date: 2026-09-02
 
 ## Sources
 
-No public source links.
+- [Buttigieg goes big to help 2026 Dems](https://www.politico.com/news/2026/10/04/buttigieg-midterms-travel-new-hampshire-01106140?utm_source=lootura.com) — 2026-10-04T15:25:52.000Z

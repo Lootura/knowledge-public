@@ -1,0 +1,40 @@
+{
+  "id": "usa-super-intelligence-force",
+  "name": "Super Intelligence Force",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/super-intelligence-force",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/super-intelligence-force",
+  "markdownUrl": "https://atlas.lootura.com/us/person/super-intelligence-force/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/super-intelligence-force/index.json",
+  "description": "Follow Super Intelligence Force, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Trump unveils AI task force",
+      "summary": "The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Super Intelligence Force first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T18:36:48.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    },
+    {
+      "title": "Trump unveils AI task force",
+      "url": "https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T22:33:12.000Z",
+      "sourceId": "lootura-us-semafor"
+    }
+  ],
+  "evidenceCount": 2
+}

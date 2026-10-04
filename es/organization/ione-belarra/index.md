@@ -52,4 +52,4 @@ Date: 2026-09-05
 
 ## Fuentes
 
-- [Podemos pide un decreto de vivienda al mes: «La gente quiere soluciones, no elecciones»](https://theobjective.com/espana/politica/2026-10-04/podemos-decreto-vivienda-soluciones-elecciones/?utm_source=lootura.com) — 2026-10-04T10:57:44.000Z
+No public source links.

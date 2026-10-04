@@ -3,20 +3,26 @@
 > Sigue la actividad de Míriam Nogueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-05T10:31:44.090Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/organization/miriam-nogueras
 
 ## Cambios recientes
 
-### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
+### Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"
 
-Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.
+La portavoz de Junts en el Congreso, Miriam Nogueras , ha planteado la disyuntiva en la que a su juicio se encuentra el presidente del Gobierno, Pedro Sánchez : "Si antepone la vivienda al cálculo electoral, hoy nos llamará para negociar sobre vivienda. Si antepone el PSOE, mañana (lunes) convocará elecciones". Así lo.
 
-Date: 2026-08-04
+Date: 2026-10-04
 
 ### Discovered by Atlas
 
 Míriam Nogueras first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-04
+
+### Junts avisa a Pedro Sánchez: "No le daremos ni un voto si Cataluña no queda fuera del reparto de menores de Ceuta"
+
+Míriam Nogueras presume de la presión que su partido hizo al PSOE para pactar en 2025 la distribución entre comunidades autónomas de los menores migrantes llegados a Canarias Leer.
 
 Date: 2026-08-04
 
@@ -28,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"](https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com) — 2026-10-04T21:15:52.000Z

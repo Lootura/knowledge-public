@@ -3,7 +3,7 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
@@ -11,6 +11,18 @@
 ### Stunning fossil shows dinosaurs’ distinctive path to flight
 
 Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.
+
+Date: 2026-10-04
+
+### Brazil's election could shift its ties with the U.S. and China
+
+Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.
+
+Date: 2026-10-04
+
+### China closes record number of banks as economic growth slows
+
+China closed a record 670 banks last year, or nearly one in four lenders, as Beijing pushes to de-risk amid slowing economic growth. Nearly all were rural banks, which “remain the weakest part of the system , with poor asset quality, low capitalization, and governance shortcomings,” Fitch wrote. After a massive credit.
 
 Date: 2026-10-04
 
@@ -56,18 +68,8 @@ China renewed calls for an end to the fighting in the Middle East while demonstr
 
 Date: 2026-09-16
 
-### U.S. Has Deployed Weapons in Space, Air Force Secretary Says
-
-Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.
-
-Date: 2026-09-15
-
-### Beijing hits back at Anthropic CEO's call to curb China's AI development
-
-China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI "fearmongering," as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Stunning fossil shows dinosaurs’ distinctive path to flight](https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com) — 2026-10-04T13:40:52.180Z
+- [Stunning fossil shows dinosaurs’ distinctive path to flight](https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com) — 2026-10-04T22:43:35.617Z
+- [Brazil's election could shift its ties with the U.S. and China](https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china?utm_source=lootura.com) — 2026-10-04T21:53:15.000Z
+- [China closes record number of banks as economic growth slows](https://www.semafor.com/article/10/04/2026/china-consolidates-banking-sector?utm_source=lootura.com) — 2026-10-04T22:34:53.000Z

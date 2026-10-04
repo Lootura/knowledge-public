@@ -3,7 +3,7 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
@@ -20,61 +20,63 @@ A United States Marine is being held in Japan, accused of murder. Local police s
 
 Date: 2026-10-04
 
-### Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa
-
-The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
-
-Date: 2026-10-04
-
-### Superpowers Race to Put Nuclear Reactors on the Moon
-
-The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
-
-Date: 2026-10-04
-
 ### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
 The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
 
 Date: 2026-10-04
 
-### America’s Health Care Workforce Is in Crisis
+### U.S. military removes bombers from U.K. air base following security incident
 
-—tab1962—Getty Images Dr. Jonathan Tyes once struggled to imagine a future in medicine for himself. A first-generation college student and the oldest of 10 siblings, Tyes was raised by his grandparents in Cleveland. While studying biology at Morehouse College, he was a few credits from graduation when his grandmother d.
+All U.S. bombers deployed to RAF Fairford have been returned to their home stations in the United States, a Pentagon spokesperson confirmed to CBS News.
 
 Date: 2026-10-04
 
-### 11-year-old cancer survivor shares his story
+### Rahm Emanuel says America is ready for a Jewish president: 'my faith is not your problem'
 
-About 500,000 cancer survivors were first diagnosed under the age of 20 in the U.S, according to the National Cancer Institute. Michael George has one boy's story.
+Former Chicago Mayor Rahm Emanuel tells Meet the Press he believes America is ready for a Jewish president. “If my faith is a problem for you, don't vote for me.”.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### Coast Guard finds debris from medical plane carrying 6 people
+### U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot
 
-Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing. (Image credit: U.S. Coast Guard).
+The bombers at RAF Fairford “have been re-deployed to their home stations in the United States,” a Pentagon official told NBC News.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### Economist Betsey Stevenson breaks down the gender gap in recent hiring reports
+### Brazil's election could shift its ties with the U.S. and China
 
-The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.
+Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.
 
-Date: 2026-10-03
+Date: 2026-10-04
 
-### Trump pledges to send $90 checks to millions of seniors on Medicare
+### U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan
 
-President Donald Trump promised on Friday to give $90 rebate checks to offset premiums for millions of U.S. seniors on Medicare, his latest pledge to send money to Americans ahead of the midterm elections.
+Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday. (Image credit: Hiro Komae).
 
-Date: 2026-10-03
+Date: 2026-10-04
+
+### New research shows steep and continuing decline in prison population in the US
+
+The U.S. prison population is declining at an accelerating rate, and prison admission rates are predicted to fall an additional 50% within the next two decades, according to new research from University at Albany professor Shawn Bushway.
+
+Date: 2026-10-04
+
+### U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats
+
+The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
+
+Date: 2026-10-04
 
 ## Sources
 
-- [11-year-old cancer survivor shares his story](https://www.cbsnews.com/video/11-year-old-cancer-survivor-shares-his-story/?utm_source=lootura.com) — 2026-10-03T21:03:32.000Z
+- [U.S. military removes bombers from U.K. air base following security incident](https://www.cbsnews.com/news/us-bombers-raf-fairford-removed/?utm_source=lootura.com) — 2026-10-04T22:07:47.000Z
+- [Rahm Emanuel says America is ready for a Jewish president: 'my faith is not your problem'](https://www.nbcnews.com/meet-the-press/video/rahm-emanuel-says-america-is-ready-for-a-jewish-president-my-faith-is-not-your-problem-270986309613?utm_source=lootura.com) — 2026-10-04T13:38:42.000Z
 - [US Marine Accused of Murdering Woman in Japan Hotel](https://www.today.com/video/us-marine-accused-of-murdering-woman-in-japan-hotel-270984773673?utm_source=lootura.com) — 2026-10-04T12:29:28.000Z
-- [Coast Guard finds debris from medical plane carrying 6 people](https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts?utm_source=lootura.com) — 2026-10-03T22:31:04.000Z
+- [U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot](https://www.nbcnews.com/news/us-news/air-force-removes-bombers-british-base-targeted-suspected-terror-plot-rcna601484?utm_source=lootura.com) — 2026-10-04T22:14:47.000Z
+- [Brazil's election could shift its ties with the U.S. and China](https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china?utm_source=lootura.com) — 2026-10-04T21:53:15.000Z
+- [U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan](https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa?utm_source=lootura.com) — 2026-10-04T15:15:09.000Z
+- [New research shows steep and continuing decline in prison population in the US](https://phys.org/news/2026-09-steep-decline-prison-population.html?utm_source=lootura.com) — 2026-10-04T14:30:01.000Z
 - [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
-- [Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa](https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html?utm_source=lootura.com) — 2026-10-04T08:38:42.000Z
-- [Superpowers Race to Put Nuclear Reactors on the Moon](https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html?utm_source=lootura.com) — 2026-10-04T09:00:29.000Z
-- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z
-- [America’s Health Care Workforce Is in Crisis](https://time.com/article/2026/10/04/us-health-care-workforce-in-crisis/?utm_source=lootura.com) — 2026-10-04T10:00:06.000Z
+- [U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?utm_source=lootura.com) — 2026-10-04T22:34:49.000Z
+- [Iran’s Top Security Official Warns of Dire Economic Crisis](https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html?utm_source=lootura.com) — 2026-10-04T18:47:12.000Z

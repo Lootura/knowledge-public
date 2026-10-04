@@ -3,10 +3,16 @@
 > Follow Ed Sheeran, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/person/ed-sheeran
 
 ## Recent changes
+
+### Zach Bryan wears "Free Palestine" shirt during concert at Gillette Stadium
+
+After Macklemore was barred from opening for Ed Sheeran at Gillette Stadium for pro-Palestinian comments, musician Zach Bryan wore a "Free Palestine" shirt during his Friday show.
+
+Date: 2026-10-04
 
 ### Zach Bryan wears "Free Palestine" shirt during concert at Gillette Stadium
 
@@ -40,4 +46,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Zach Bryan wears "Free Palestine" shirt during concert at Gillette Stadium](https://www.cbsnews.com/boston/news/zach-bryan-free-palestine-shirt-gillette-stadium-robert-kraft/?utm_source=lootura.com) — 2026-10-03T18:17:49.000Z
+- [Zach Bryan wears "Free Palestine" shirt during concert at Gillette Stadium](https://www.cbsnews.com/news/zach-bryan-free-palestine-shirt-gillette-stadium-robert-kraft/?utm_source=lootura.com) — 2026-10-04T19:11:57.000Z

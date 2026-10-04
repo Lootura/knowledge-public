@@ -3,7 +3,7 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
@@ -70,6 +70,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [She died covering war for Fox News. Her parents blame the network — and a star reporter](https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths?utm_source=lootura.com) — 2026-10-04T10:00:00.000Z
 - [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
-- [Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce](https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html?utm_source=lootura.com) — 2026-10-04T09:01:49.000Z

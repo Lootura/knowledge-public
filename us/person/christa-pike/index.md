@@ -3,7 +3,7 @@
 > Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/person/christa-pike
 
 ## Recent changes
@@ -52,5 +52,4 @@ Date: 2026-10-01
 
 ## Sources
 
-- [Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions](https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html?utm_source=lootura.com) — 2026-10-03T15:41:29.000Z
-- [Tennessee Commissioner Resigns After Failed Execution of Christa Pike](https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html?utm_source=lootura.com) — 2026-10-03T19:57:23.000Z
+- [Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution](https://www.pbs.org/newshour/nation/christa-pikes-lawyer-says-she-has-not-regained-consciousness-since-her-failed-tennessee-execution?utm_source=lootura.com) — 2026-10-04T15:56:07.000Z

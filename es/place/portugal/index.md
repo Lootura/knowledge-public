@@ -3,10 +3,16 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-03T18:59:43.213Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Fragmento del día: Portugal
+
+En Portugal, tras el triunfo de la revolución que derroca al rey Manuel II, se establece la Primera República Portuguesa.
+
+Date: 2026-10-05
 
 ### Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones
 
@@ -62,12 +68,7 @@ El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el colla
 
 Date: 2026-07-22
 
-### Muere repentinamente un futbolista de 26 años haciendo running en Portugal
-
-La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El joven centrocampista de 26 años falleció este lunes después de desplomarse mientras hacía running en la localidad de Armil, en el municipio de Fafe, al norte de Portugal. El jugador, que había pasado por la cantera del FC Porto y que actualmente.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [Portugal sabe vivir sin Cristiano](https://www.abc.es/deportes/futbol/portugal-sabe-vivir-cristiano-20261004225650-nt.html?utm_source=lootura.com) — 2026-10-04T20:59:13.000Z
+- [Fragmento del día: Portugal](https://es.wikipedia.org/wiki/Portugal?utm_source=lootura.com) — 2026-10-05T04:00:00.000Z

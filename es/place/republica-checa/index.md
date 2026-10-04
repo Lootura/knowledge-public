@@ -40,4 +40,4 @@ Date: 2026-10-03
 
 ## Fuentes
 
-- [La España anónima supera su propia pereza y cumple el trámite ante la República Checa](https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/10/03/6ac16c54e85ece17518b4572.html?utm_source=lootura.com) — 2026-10-03T20:58:08.000Z
+No public source links.

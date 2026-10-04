@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Apple (company)",
     "Apple"
   ],
   "changes": [
     {
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs , a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear.",
       "date": "2026-10-04"
     },
     {
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs , a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear.",
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
       "date": "2026-10-04"
     },
     {
@@ -32,17 +32,11 @@
   ],
   "sources": [
     {
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:22:39.000Z",
-      "sourceId": "lootura-us-cnbc"
-    },
-    {
       "title": "The AirPods Pro 3 are a fantastic deal at $179",
       "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale?utm_source=lootura.com",
       "publishedAt": "2026-10-04T13:00:00.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,11 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea",
+      "summary": "La delegación de la Agencia Estatal de Meteorología (Aemet) en la Comunitat Valenciana ha explicado este domingo que el mar está liberando estos días \"la gran cantidad de energía acumulada durante el verano\" en forma de calor extremo. Ese sería, según los expertos, el principal motivo de los episodios excepcionales de.",
+      "date": "2026-10-04"
+    },
     {
       "title": "La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno",
       "summary": "La acampada de Sol ha llegado a Alicante . Esta última, la segunda ciudad de la Comunidad Valenciana. En esa ciudad, se han instalado en apenas 24 horas más de medio centenar de tiendas de campaña . Concretamente, en la conocida como Plaza de La Montañeta, en pleno centro urbano. La ocupación de la citada plaza comenzó.",
@@ -64,19 +69,14 @@
       "title": "Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: \"Valencia no merece este agravio\"",
       "summary": "El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la central nuclear de Cofrentes reciba el mismo trato que la de Almaraz , en Cáceres, después de que el Gobierno haya renovado la autorización de esta última hasta, al menos, junio de 2030 . Pérez Llorca denunció que “la Comunitat Valenciana no mere.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
-      "summary": "Con gritos, aplausos y alguna lágrima de emoción, así vivió España su primer eclipse del siglo , que oscureció una enorme franja de la Península ―de Galicia a la Comunidad Valenciana para desaparecer en el mar tras pasar por Baleares— sobre las 20.30 de la tarde. A esa hora, cuando el falso atardecer ya había teñido de.",
-      "date": "2026-08-12"
     }
   ],
   "sources": [
     {
-      "title": "La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno",
-      "url": "https://okdiario.com/comunidad-valenciana/acampada-sol-llega-alicante-mas-50-tiendas-frente-blindada-subdelegacion-del-gobierno-20472775?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:09:30.000Z",
-      "sourceId": "lootura-es-ok-diario"
+      "title": "La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea",
+      "url": "https://www.20minutos.es/nacional/aemet-explica-que-ha-causado-los-episodios-excepcionales-lluvias-que-azotan-costa-mediterranea_7044621_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T14:51:15.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 1

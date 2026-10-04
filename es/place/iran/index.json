@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -18,6 +18,11 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista",
+      "summary": "La Fuerza Aérea de Estados Unidos ha retirado, a lo largo del fin de semana, sus bombarderos estacionados en una de sus bases militares ubicada en Inglaterra y utilizada para golpear Irán tras una investigación sobre un ataque terrorista. Los aviones que se encontraban en la base de RAF Fairford han vuelto a sus lugare.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
       "summary": "El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald Trump debía haber tenido eso en cuenta al lanzarse a la guerra con Irán, pero el caso es que, a un mes de las elecciones legislativas de medio mandato en Estados Uni.",
@@ -62,19 +67,14 @@
       "title": "Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo",
       "summary": "Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamiento del petróleo de la región Leer.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave",
-      "summary": "Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T03:40:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista",
+      "url": "https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:47:03.000Z",
+      "sourceId": "lootura-es-abc"
     }
   ],
   "evidenceCount": 1

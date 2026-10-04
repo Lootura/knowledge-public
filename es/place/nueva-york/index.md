@@ -70,4 +70,4 @@ Date: 2026-09-12
 
 ## Fuentes
 
-- [Sylvester Stallone: “No sé qué son las nuevas masculinidades. La naturaleza del hombre es conquistar”](https://elpais.com/us/entretenimiento/2026-10-04/sylvester-stallone-no-se-que-son-las-nuevas-masculinidades-la-naturaleza-del-hombre-es-conquistar.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+No public source links.

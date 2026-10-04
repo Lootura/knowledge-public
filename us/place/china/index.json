@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -23,6 +23,16 @@
     {
       "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
       "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Brazil's election could shift its ties with the U.S. and China",
+      "summary": "Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "China closes record number of banks as economic growth slows",
+      "summary": "China closed a record 670 banks last year, or nearly one in four lenders, as Beijing pushes to de-risk amid slowing economic growth. Nearly all were rural banks, which “remain the weakest part of the system , with poor asset quality, low capitalization, and governance shortcomings,” Fitch wrote. After a massive credit.",
       "date": "2026-10-04"
     },
     {
@@ -59,25 +69,27 @@
       "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
       "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-      "summary": "Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-      "summary": "China's Foreign Ministry called the Anthropic CEO's warning about the dangers of Chinese-developed AI \"fearmongering,\" as the Chinese and U.S. leaders prepare to meet in Washington later this month. (Image credit: Ng Han Guan).",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
       "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
       "url": "https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:40:52.180Z",
+      "publishedAt": "2026-10-04T22:43:35.617Z",
       "sourceId": "lootura-us-nature"
+    },
+    {
+      "title": "Brazil's election could shift its ties with the U.S. and China",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T21:53:15.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "China closes record number of banks as economic growth slows",
+      "url": "https://www.semafor.com/article/10/04/2026/china-consolidates-banking-sector?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T22:34:53.000Z",
+      "sourceId": "lootura-us-semafor"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

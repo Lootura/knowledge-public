@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont](https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com) — 2026-10-04T08:05:55.000Z
+No public source links.

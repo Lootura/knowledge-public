@@ -70,4 +70,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid](https://www.elindependiente.com/economia/2026/10/04/cuando-como-conseguir-carne-senior-comunidad-madrid/?utm_source=lootura.com) — 2026-10-04T06:30:00.000Z
+No public source links.

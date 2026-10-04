@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea
+
+La delegación de la Agencia Estatal de Meteorología (Aemet) en la Comunitat Valenciana ha explicado este domingo que el mar está liberando estos días "la gran cantidad de energía acumulada durante el verano" en forma de calor extremo. Ese sería, según los expertos, el principal motivo de los episodios excepcionales de.
+
+Date: 2026-10-04
 
 ### La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno
 
@@ -62,12 +68,6 @@ El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la centr
 
 Date: 2026-08-14
 
-### Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”
-
-Con gritos, aplausos y alguna lágrima de emoción, así vivió España su primer eclipse del siglo , que oscureció una enorme franja de la Península ―de Galicia a la Comunidad Valenciana para desaparecer en el mar tras pasar por Baleares— sobre las 20.30 de la tarde. A esa hora, cuando el falso atardecer ya había teñido de.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-- [La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno](https://okdiario.com/comunidad-valenciana/acampada-sol-llega-alicante-mas-50-tiendas-frente-blindada-subdelegacion-del-gobierno-20472775?utm_source=lootura.com) — 2026-10-04T13:09:30.000Z
+- [La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea](https://www.20minutos.es/nacional/aemet-explica-que-ha-causado-los-episodios-excepcionales-lluvias-que-azotan-costa-mediterranea_7044621_0.html?utm_source=lootura.com) — 2026-10-04T14:51:15.000Z

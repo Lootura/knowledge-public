@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jorge-martin/index.json",
   "description": "Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "Jorge",
     "Jorge Martin Almoguera",
@@ -32,6 +32,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Marc Márquez consigue un nuevo doblete en Japón y se coloca a dos puntos de Jorge Martín",
+      "url": "https://theobjective.com/deportes/2026-10-04/marc-marquez-doblete-japon-dos-puntos-jorge-martin/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T16:49:34.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
   "evidenceCount": 0
 }

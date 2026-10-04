@@ -3,14 +3,20 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
 
 ### Houthis Claim Attack on Aramco as Yemen Conflict Escalates
 
-The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.
+More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.
+
+Date: 2026-10-04
+
+### Major oil exporters agree to keep production steady in November
+
+The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.
 
 Date: 2026-10-04
 
@@ -62,12 +68,7 @@ Traders sold oil futures on concerns that energy supplies from the Persian Gulf 
 
 Date: 2026-09-14
 
-### Saudi Arabia's critical pipeline remains shut as oil prices soar
-
-The East-West pipeline in Saudi Arabia remains shut after a drone attack last week, a major hit to the supply of oil flowing out of the country. Saudi Arabia blamed the attack on Iranian-backed militias in Iraq. Threadneedle founder Ann Berry joins to discuss.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T10:45:50.000Z
+- [Major oil exporters agree to keep production steady in November](https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com) — 2026-10-04T21:11:27.000Z
+- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T21:11:09.000Z

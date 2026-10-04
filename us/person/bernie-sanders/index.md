@@ -64,4 +64,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [Republicans don’t have a clear boogeyman for this year’s midterms](https://www.politico.com/news/2026/10/03/gop-midterm-boogeyman-biden-democratic-socialism-01105904?utm_source=lootura.com) — 2026-10-03T20:00:00.000Z
+No public source links.

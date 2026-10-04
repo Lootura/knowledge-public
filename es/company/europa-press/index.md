@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más](https://theobjective.com/economia/2026-10-04/visados-viviendas-50-000-unidades/?utm_source=lootura.com) — 2026-10-04T10:24:39.000Z
+No public source links.

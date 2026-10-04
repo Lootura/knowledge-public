@@ -3,7 +3,7 @@
 > Follow Jay Clayton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-07-25T20:49:12.134Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/person/jay-clayton
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-07-15
 
 ## Sources
 
-No public source links.
+- [Trump names national intelligence chief Jay Clayton as new AI czar](https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump?utm_source=lootura.com) — 2026-10-04T18:36:48.000Z

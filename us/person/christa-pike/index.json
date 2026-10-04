@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/christa-pike/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/christa-pike/index.json",
   "description": "Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Christa",
     "Christa Gail Pike"
@@ -52,17 +52,11 @@
   ],
   "sources": [
     {
-      "title": "Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions",
-      "url": "https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T15:41:29.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
-      "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T19:57:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution",
+      "url": "https://www.pbs.org/newshour/nation/christa-pikes-lawyer-says-she-has-not-regained-consciousness-since-her-failed-tennessee-execution?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T15:56:07.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 0
 }

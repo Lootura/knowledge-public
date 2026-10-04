@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
+      "summary": "The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+      "summary": "As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home",
       "summary": "This is the last week when everyone plays in the NFL for a while. Next week marks the beginning of the bye weeks. It is only two teams sitting out next week, but it is still nice to have all the teams playing every week. Sunday has a great card, and I’m looking forward to a few different games, but one that is standing.",
@@ -72,43 +82,21 @@
       "title": "How Oil and Trump Are Escalating the Falklands Dispute",
       "summary": "Javier Milei takes part in a discussion about economies at an event in New York on Sept. 24, 2026. —Michael Nagle—Getty Images Argentine President Javier Milei has threatened legal action against the U.K. over an oil exploration project off the coast of the Falkland Islands , a British overseas territory at the center.",
       "date": "2026-09-30"
-    },
-    {
-      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
-      "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "As Midterms Rage, Gillibrand Wants Congress to Talk Menopause",
-      "summary": "Senator Kirsten Gillibrand of New York is devoting a hearing to a topic that affects millions but is poorly understood and widely ignored, including when it comes to federal research money.",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
-      "title": "How this New York City community cleanup project is helping adults make new friends",
-      "url": "https://www.cbsnews.com/video/how-a-community-cleanup-project-is-helping-adults-make-new-friends/?utm_source=lootura.com",
-      "publishedAt": "2026-10-03T22:07:28.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
+      "url": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T07:00:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home",
-      "url": "https://www.foxnews.com/outkick-betting/cardinals-vs-giants-giving-too-much-love-arizona-not-enough-new-york-home?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T12:55:21.000Z",
-      "sourceId": "lootura-us-fox-news"
-    },
-    {
-      "title": "Manhattan ‘mole’ mystery: rumors of lost gold spur clandestine excursions into New York sewers",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T12:00:26.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
-    },
-    {
-      "title": "‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/04/native-american-indigenous-poster-art-show-new-york?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T11:00:27.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
+      "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T18:54:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

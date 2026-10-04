@@ -3,7 +3,7 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-02
 
 ## Sources
 
-No public source links.
+- [Federal appeals court pauses Minnesota's AI nudification ban](https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com) — 2026-10-04T21:14:54.000Z

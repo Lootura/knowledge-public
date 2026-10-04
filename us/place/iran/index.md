@@ -3,20 +3,26 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Houthis Claim Attack on Aramco as Yemen Conflict Escalates
-
-The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.
-
-Date: 2026-10-04
-
 ### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
 The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+
+Date: 2026-10-04
+
+### U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats
+
+The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
+
+Date: 2026-10-04
+
+### Iran’s Top Security Official Warns of Dire Economic Crisis
+
+The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.
 
 Date: 2026-10-04
 
@@ -62,14 +68,9 @@ The war with Iran revealed just how much influence the world’s biggest oil imp
 
 Date: 2026-09-17
 
-### Rising gas prices fuel protests in countries around the world
-
-Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.
-
-Date: 2026-09-17
-
 ## Sources
 
-- [Prozac use for childhood depression skewed by single flawed medical trial](https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com) — 2026-10-04T13:40:52.181Z
-- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T10:45:50.000Z
-- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z
+- [Prozac use for childhood depression skewed by single flawed medical trial](https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com) — 2026-10-04T22:43:35.617Z
+- [U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?utm_source=lootura.com) — 2026-10-04T22:34:49.000Z
+- [Iran’s Top Security Official Warns of Dire Economic Crisis](https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html?utm_source=lootura.com) — 2026-10-04T18:47:12.000Z
+- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T22:30:27.000Z

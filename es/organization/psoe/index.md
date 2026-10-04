@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
+
+A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
+
+Date: 2026-10-04
+
+### Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"
+
+La portavoz de Junts en el Congreso, Miriam Nogueras , ha planteado la disyuntiva en la que a su juicio se encuentra el presidente del Gobierno, Pedro Sánchez : "Si antepone la vivienda al cálculo electoral, hoy nos llamará para negociar sobre vivienda. Si antepone el PSOE, mañana (lunes) convocará elecciones". Así lo.
+
+Date: 2026-10-04
+
+### El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox
+
+Como en los célebres cinco días de reflexión de abril de 2024, el PSOE ha pasado las últimas horas a la espera de una decisión trascendental de Pedro Sánchez. Si en aquel...
+
+Date: 2026-10-04
+
+### Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso
+
+Después de un fin de semana muy intenso de contactos, de hablar con casi todo el partido, con sus ministros, con sus asesores y con sus principales socios, el presidente, Pedro Sánchez, tiene ya todo listo para comunicar su decisión y anunciar este mismo lunes si adelanta las elecciones de forma inmediata como le han r.
+
+Date: 2026-10-04
+
+### Sánchez libera su agenda de este lunes y alienta el adelanto electoral: «Es ahora o nunca»
+
+Sánchez acudirá este lunes por la mañana a un acto económico y a la Ejecutiva del PSOE, pero no tiene nada programado por la tarde.
+
+Date: 2026-10-04
 
 ### La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”
 
@@ -26,12 +56,6 @@ Date: 2026-10-04
 
 Date: 2026-10-04
 
-### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
-
-A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
-
-Date: 2026-10-04
-
 ### Gabriel Rufián, en 'Salvados': "En este país, Albert Rivera sería vicepresidente si Bildu y ERC no se hubieran cuadrado"
 
 El portavoz de Esquerra Republicana, Gabriel Rufián , situó el futuro de la izquierda, la relación con el PSOE y el peso de ERC en el centro del debate político durante su participación en el programa Salvados , de La Sexta, el pasado domingo. El representante político escuchó las opiniones de cinco votantes progresist.
@@ -44,34 +68,10 @@ El Gobierno -a través del Ministerio de Inclusión, Seguridad Social y Migracio
 
 Date: 2026-10-04
 
-### Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"
-
-El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...
-
-Date: 2026-10-03
-
-### La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos
-
-El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda La mayoría de ciudadanos, incluidos los votantes de la derecha, apoyarían una huelga general por la vivienda Estimación de.
-
-Date: 2026-10-03
-
-### ¿Existen argumentos para no convocar elecciones?
-
-El rechazo del Congreso a los decretos de vivienda planteados por el ejecutivo cambia el ciclo político y abre unas expectativas electorales para el PSOE que no tenía antes de este debate.
-
-Date: 2026-10-03
-
-### Armengol pide la «movilización» del PSOE para las elecciones frente al «peligro» de PP y Vox
-
-La secretaria general del PSIB-PSOE, Francina Armengol, ha reclamado a los socialistas «movilización extrema» de cara a las próximas elecciones ante una.
-
-Date: 2026-10-03
-
 ## Fuentes
 
-- [El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»](https://www.abc.es/espana/andalucia/despues-montero-poner-mano-fuego-20261004150947-nts.html?utm_source=lootura.com) — 2026-10-04T11:27:00.000Z
+- [Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"](https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com) — 2026-10-04T21:15:52.000Z
 - [Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"](https://amp.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html?utm_source=lootura.com) — 2026-10-04T12:16:17.000Z
-- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
-- [La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”](https://elpais.com/espana/2026-10-04/la-mayoria-del-psoe-y-el-gobierno-anima-a-sanchez-a-convocar-elecciones-ya-ahora-hay-una-oportunidad.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
-- [El posible adelanto electoral fuerza a la izquierda alternativa a acelerar](https://elpais.com/espana/2026-10-04/el-posible-adelanto-electoral-fuerza-a-la-izquierda-alternativa-a-acelerar.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+- [El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox](https://amp.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html?utm_source=lootura.com) — 2026-10-04T20:22:15.000Z
+- [Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso](https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html?utm_source=lootura.com) — 2026-10-04T19:22:32.000Z
+- [Sánchez libera su agenda de este lunes y alienta el adelanto electoral: «Es ahora o nunca»](https://theobjective.com/espana/politica/2026-10-04/sanchez-agenda-lunes-adelanto-electoral/?amp=&utm_source=lootura.com) — 2026-10-04T18:01:44.000Z

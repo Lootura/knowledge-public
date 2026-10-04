@@ -3,10 +3,16 @@
 > Follow Coast guard, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-04T22:43:31.359Z
 - Canonical: https://atlas.lootura.com/us/organization/coast-guard
 
 ## Recent changes
+
+### Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor
+
+The Federal Aviation Administration contacted the Coast Guard at 2 a.m. Saturday that it had lost contact with the Gulfstream G100 carrying four Canadians and two Bermudian nationals over the Atlantic Ocean.
+
+Date: 2026-10-04
 
 ### US Coast Guard searches for missing air ambulance off coast of Massachusetts
 
@@ -34,6 +40,4 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Urgent race to find missing medical evacuation jet](https://www.nbcnews.com/nightly-news/video/urgent-race-to-find-missing-medical-evacuation-jet-270969413927?utm_source=lootura.com) — 2026-10-03T22:45:52.000Z
-- [Coast Guard finds debris from medical plane carrying 6 people](https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts?utm_source=lootura.com) — 2026-10-03T22:31:04.000Z
-- [US Coast Guard searches for missing air ambulance off coast of Massachusetts](https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts?utm_source=lootura.com) — 2026-10-04T03:38:48.000Z
+- [Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor](https://www.pbs.org/newshour/nation/search-ongoing-for-missing-medical-flight-from-bermuda-to-boston-as-crews-plan-to-scour-ocean-floor?utm_source=lootura.com) — 2026-10-04T17:53:51.000Z

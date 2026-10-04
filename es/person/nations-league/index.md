@@ -28,4 +28,4 @@ Date: 2026-10-03
 
 ## Fuentes
 
-- [Croacia - España: fecha, horario y dónde ver el próximo partido de La Roja en la Nations League](https://www.elindependiente.com/deportes/2026/10/04/croacia-espana-fecha-hora-donde-ver-proximo-partido-espana/?utm_source=lootura.com) — 2026-10-04T06:00:00.000Z
+No public source links.

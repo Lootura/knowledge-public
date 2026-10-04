@@ -3,10 +3,16 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### Nueva dimisión de un directivo que desconfía de la IA: "El camino actual es inaceptable"
+
+David Robinson, ya extrabajador del equipo de seguridad de OpenAI, cree que "las personas no estarán seguras si dependemos de actos heroicos individuales para resolver los problemas una vez ocurridos". Leer.
+
+Date: 2026-10-04
 
 ### OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos
 
@@ -62,12 +68,6 @@ El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especial
 
 Date: 2026-09-13
 
-### Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa
-
-Hay décadas en las que no pasa nada y hay semanas en las que pasan décadas. Esta frase apócrifa de Lenin resume a la perfección el vértigo revolucionario que se vive en el mundo de la inteligencia artificial (IA). Durante lustros fue un árido campo académico que avanzaba dentro de las ciencias computacionales y ahora,.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-No public source links.
+- [Nueva dimisión de un directivo que desconfía de la IA: "El camino actual es inaceptable"](https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html?utm_source=lootura.com) — 2026-10-04T17:36:33.000Z

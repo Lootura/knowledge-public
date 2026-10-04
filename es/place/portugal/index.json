@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-03T18:59:43.213Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,11 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "Fragmento del día: Portugal",
+      "summary": "En Portugal, tras el triunfo de la revolución que derroca al rey Manuel II, se establece la Primera República Portuguesa.",
+      "date": "2026-10-05"
+    },
     {
       "title": "Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones",
       "summary": "Pontegadea, brazo inversor del fundador y primer accionista de Inditex, Amancio Ortega , ha vendido el 13,7% de su participación en Redes Energéticas Nacionais (REN) , el operador del sistema eléctrico y de gas portugués, al Estado de Portugal, en una operación valorada por los medios portugueses en 380 millones de eur.",
@@ -61,13 +66,21 @@
       "title": "El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa",
       "summary": "El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el collar de la Insigne Orden del Toisón de Oro , la más alta distinción que puede otorgar la Casa Real española y una de las órdenes dinásticas de mayor prestigio del mundo. El Boletín Oficial del Estado (BOE) ha publicado este miércoles el real d.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Muere repentinamente un futbolista de 26 años haciendo running en Portugal",
-      "summary": "La trágica muerte de Usalifa Indi ha conmocionado al fútbol portugués. El joven centrocampista de 26 años falleció este lunes después de desplomarse mientras hacía running en la localidad de Armil, en el municipio de Fafe, al norte de Portugal. El jugador, que había pasado por la cantera del FC Porto y que actualmente.",
-      "date": "2026-07-21"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Portugal sabe vivir sin Cristiano",
+      "url": "https://www.abc.es/deportes/futbol/portugal-sabe-vivir-cristiano-20261004225650-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T20:59:13.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Fragmento del día: Portugal",
+      "url": "https://es.wikipedia.org/wiki/Portugal?utm_source=lootura.com",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "sourceId": "lootura-es-lootura-diario"
+    }
+  ],
+  "evidenceCount": 1
 }

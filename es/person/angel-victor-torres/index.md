@@ -3,10 +3,16 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-10-04T22:43:11.507Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados
+
+El operativo desplegado por la Policía Nacional este domingo para desalojar la playa del Trampolín ha culminado con el traslado de más de 1.100 personas migrantes, según ha informado el coordinador del Mando Único para la gestión de la crisis de Ceuta, el ministro Ángel Víctor Torres.
+
+Date: 2026-10-04
 
 ### Torres pide resolver la ‘ley de nietos’ para garantizar los derechos de los descendientes
 
@@ -62,12 +68,6 @@ Date: 2026-09-02
 
 Date: 2026-08-10
 
-### Torres eleva a 80.000 las personas que llegaron a Ceuta en la «emergencia» del 30 de julio
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha elevado a unas 80.000 las personas inmigrantes que entraron en Ceuta.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados](https://www.europapress.es/sociedad/noticia-policia-nacional-culmina-operativo-trampolin-ceuta-1100-migrantes-desalojados-20261004232450.html?utm_source=lootura.com) — 2026-10-04T21:24:50.000Z

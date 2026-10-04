@@ -70,4 +70,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [El PP ya especula con un Gobierno Feijóo](https://elpais.com/espana/2026-10-04/el-pp-ya-especula-con-un-gobierno-feijoo.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+No public source links.

@@ -1,0 +1,47 @@
+{
+  "id": "usa-rahm-emanuel",
+  "name": "Rahm Emanuel",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/rahm-emanuel",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/rahm-emanuel",
+  "markdownUrl": "https://atlas.lootura.com/us/person/rahm-emanuel/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/rahm-emanuel/index.json",
+  "description": "Follow Rahm Emanuel, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "aliases": [
+    "Rahm Israel Emanuel"
+  ],
+  "changes": [
+    {
+      "title": "Rahm Emanuel says America is ready for a Jewish president: 'my faith is not your problem'",
+      "summary": "Former Chicago Mayor Rahm Emanuel tells Meet the Press he believes America is ready for a Jewish president. “If my faith is a problem for you, don't vote for me.”.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump",
+      "summary": "Democrats have publicly weighed whether they should pursue impeaching Trump for a third time.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Rahm Emanuel first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Rahm Emanuel says America is ready for a Jewish president: 'my faith is not your problem'",
+      "url": "https://www.nbcnews.com/meet-the-press/video/rahm-emanuel-says-america-is-ready-for-a-jewish-president-my-faith-is-not-your-problem-270986309613?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:38:42.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump",
+      "url": "https://www.nbcnews.com/politics/politics-news/rahm-emmanuel-democrats-focus-ethics-reforms-impeaching-trump-rcna601388?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T14:12:28.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 2
+}

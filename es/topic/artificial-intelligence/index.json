@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "El apocalipsis laboral de la IA se pospone (por ahora)",
-      "url": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T03:30:00.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:36:33.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
   "evidenceCount": 0

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-04T22:43:31.359Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,11 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
+      "summary": "Justice Samuel Alito discussed his opinion in the Dobbs decision overturning Roe v. Wade, the leaked draft and its aftermath, same-sex marriage rights and why he's not retiring yet.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
       "summary": "Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age. Alito, 76, delivered that comment in a rare interview with CBS News scheduled to air on Monday, a litt.",
@@ -60,19 +65,14 @@
       "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
       "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election. (Image credit: Patrick T. Fallon).",
       "date": "2026-09-14"
-    },
-    {
-      "title": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It",
-      "summary": "The ruling by a lower court judge was another blow to President Trump’s effort to make voting by mail harder. The Supreme Court is also considering the Trump plan.",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
-      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T10:00:24.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
+      "url": "https://www.cbsnews.com/news/samuel-alito-supreme-court-justice-interview-dobbs-same-sex-marriage-not-retiring/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T19:00:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

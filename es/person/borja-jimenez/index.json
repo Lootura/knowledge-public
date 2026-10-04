@@ -1,0 +1,45 @@
+{
+  "id": "es-borja-jimenez",
+  "name": "Borja Jiménez",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/borja-jimenez",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/borja-jimenez",
+  "markdownUrl": "https://atlas.lootura.com/es/person/borja-jimenez/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/borja-jimenez/index.json",
+  "description": "Sigue la actividad de Borja Jiménez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Borja Jiménez, la estocada de la tarde, el mejor homenaje a Benlliure",
+      "summary": "Borja Jiménez se perfiló en corto ante Mitonero, un serio cárdeno de Victorino, y se volcó sobre el morrillo, la muleta en la izquierda por bajo, la derecha con la espada que clavó en todo lo alto. Un estoconazo de premio, de los que dejan recuerdo, de los que dan gloria a la suerte suprema. Quién sabe si como aquella.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Sin ideas Borja (desde el inicio de faena al revés) con el sexto",
+      "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Victorino Martín para Uceda Leal, Paco Ureña y Borja Jiménez hoy.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Borja Jiménez first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Borja Jiménez, la estocada de la tarde, el mejor homenaje a Benlliure",
+      "url": "https://www.abc.es/cultura/toros/borja-jimenez-estocada-tarde-mejor-homenaje-benlliure-20261004212246-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T19:33:14.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Sin ideas Borja (desde el inicio de faena al revés) con el sexto",
+      "url": "https://www.abc.es/cultura/toros/toros-ventas-madrid-feria-otono-directo-ultima-20261004104204-di.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T17:59:30.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 2
+}
