@@ -3,20 +3,26 @@
 > Follow George Washington, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T03:06:35.172Z
+- Updated: 2026-10-04T04:17:05.684Z
 - Canonical: https://atlas.lootura.com/us/person/george-washington
 
 ## Recent changes
 
-### On board a warship headed to support the war in Iran
+### Young sailors on the USS George Washington adjust to life at war – in pictures
 
-The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.
+Life onboard the aircraft carrier near the strait of Hormuz as it conducts military operations against Iranian targets Continue reading...
 
-Date: 2026-09-12
+Date: 2026-10-03
 
 ### Discovered by Atlas
 
 George Washington first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-12
+
+### On board a warship headed to support the war in Iran
+
+The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.
 
 Date: 2026-09-12
 

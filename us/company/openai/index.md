@@ -3,10 +3,28 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T04:17:05.684Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### OpenAI safety leader quits, warning AI company’s culture is ‘broken’
+
+David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly careful enough” about developing the technology. David Robinson, who led the writing of.
+
+Date: 2026-10-03
+
+### OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC
+
+Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
+
+Date: 2026-09-30
+
+### The AI Tamagotchis are coming
+
+Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a.
+
+Date: 2026-09-30
 
 ### Who gets credit in the AI era? OpenAI maths bombshell sparks debate
 
@@ -50,24 +68,6 @@ Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it 
 
 Date: 2026-09-13
 
-### Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz
-
-OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.
-
-Date: 2026-09-12
-
-### Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO
-
-Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag. (Image credit: Karl Mondon).
-
-Date: 2026-09-12
-
-### OpenAI’s rogue AI tried to hack another company in May
-
-In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a " m.
-
-Date: 2026-09-12
-
 ## Sources
 
-- [Who gets credit in the AI era? OpenAI maths bombshell sparks debate](https://www.nature.com/articles/d41586-026-02910-w?utm_source=lootura.com) — 2026-09-17T16:13:57.977Z
+No public source links.

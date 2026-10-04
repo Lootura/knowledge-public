@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/troy-jackson/index.json",
   "description": "Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T20:39:44.432Z",
+  "updatedAt": "2026-10-03T19:00:06.756Z",
   "aliases": [
     "Jackson"
   ],
   "changes": [
+    {
+      "title": "CBS News poll finds voters split on state v. national focus in Maine Senate race",
+      "summary": "Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.",
+      "date": "2026-10-03"
+    },
     {
       "title": "In a competitive Maine Senate race, women voters could be the deciders",
       "summary": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).",
@@ -57,11 +62,6 @@
       "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
       "summary": "Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).",
       "date": "2026-07-25"
-    },
-    {
-      "title": "The Debate Moment That Captures Democrats’ Worries About Troy Jackson",
-      "summary": "Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.",
-      "date": "2026-07-23"
     }
   ],
   "sources": [],

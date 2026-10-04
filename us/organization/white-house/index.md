@@ -3,10 +3,40 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Poll: Latino voters swing away from Trump and Republicans
+
+Latino voters helped propel Donald Trump back to the White House.
+
+Date: 2026-10-04
+
+### A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally
+
+This year's election is a test for the working-class coalition that lifted Trump into the White House and gave majorities to Republicans in the House and Senate.
+
+Date: 2026-10-03
+
+### White House removes CNN from press pool for Trump’s upcoming trip
+
+CNN was previously scheduled to fly on Air Force One and also provide on-the-ground coverage of Trump’s trip.
+
+Date: 2026-10-01
+
+### Trump says he and Republicans have done 'very bad job' touting economic wins
+
+As Republicans confront political headwinds on the economy, NBC News’ Garrett Haake and Brian Cheung join Meet the Press NOW to discuss how the White House may be helping or hurting candidates ahead of the midterm elections.
+
+Date: 2026-09-30
+
+### In Wooing Wavering Hispanic Voters, Trump Talks ICE, His Ballroom and Himself
+
+President Trump veered off the topic at hand during a White House reception for Hispanic Heritage Month.
+
+Date: 2026-09-30
 
 ### GOP congresswoman says Trump immigration enforcement has "gone too far"
 
@@ -38,37 +68,6 @@ Ms. Wiles, the first woman to be the White House chief of staff, had said in Mar
 
 Date: 2026-09-16
 
-### Funding milestone detected
-
-Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.
-
-Date: 2026-09-14
-
-### Funding milestone detected
-
-Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.
-
-Date: 2026-09-13
-
-### CBS News political panel on what voters can expect to see on the midterm campaign trail
-
-With the midterm elections less than two months away, CBS News executive director of elections and surveys Anthony Salvanto, CBS News senior White House and political correspondent Ed O'Keefe and Amy Walter, editor-in-chief of Cook Political Report, join to discuss what voters can expect to see on the midterm campaign.
-
-Date: 2026-09-13
-
-### Face the Nation: Cox, Salvanto, political panel
-
-Missed the second half of the show? Utah Gov. Spencer Cox, CBS News executive director of elections and surveys Anthony Salvanto and our political panel with Salvanto, CBS news senior White House and political correspondent Ed O'Keefe and Amy Walter, editor-in-chief and publisher of the Cook Political Report.
-
-Date: 2026-09-13
-
-### Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz
-
-OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.
-
-Date: 2026-09-12
-
 ## Sources
 
-- [GOP congresswoman says Trump immigration enforcement has "gone too far"](https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/?utm_source=lootura.com) — 2026-09-17T15:54:05.000Z
-- [JD Vance faces test in White House meeting with Israel-backing radio host](https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com) — 2026-09-17T09:50:00.000Z
+- [Poll: Latino voters swing away from Trump and Republicans](https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894?utm_source=lootura.com) — 2026-10-04T13:00:00.000Z

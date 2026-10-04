@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos](https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com) — 2026-09-17T07:19:22.000Z
+- [El apocalipsis laboral de la IA se pospone (por ahora)](https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z

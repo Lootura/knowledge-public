@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-arab-emirates/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-arab-emirates/index.json",
   "description": "Follow United Arab Emirates, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-09T08:41:23.943Z",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
   "aliases": [
     "U.A.E.",
     "ae",
@@ -35,6 +35,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "New details about co-pilot after Flydubai incident",
+      "url": "https://www.nbcnews.com/nightly-news/video/new-details-about-co-pilot-after-flydubai-incident-270969925791?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T22:37:37.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    }
+  ],
   "evidenceCount": 0
 }

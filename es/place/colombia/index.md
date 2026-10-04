@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### Maternidad subrogada: ¿y si enfocamos el debate desde quienes nacen mediante un acuerdo ajeno?
+
+Victoria MPhoto/Shutterstock La reciente visita a Chile, Argentina y Colombia de Olivia Maurel , activista contraria a la gestación subrogada y portavoz de la Declaración de Casablanca por la abolición de los vientres de alquiler, puso sobre la mesa una pregunta incómoda: ¿qué significa para una persona que su concepci.
+
+Date: 2026-09-30
 
 ### OHLA y sus socios firman 325 millones de crédito para su autopista urbana en Bogotá
 
@@ -62,13 +68,6 @@ El terremoto en Colombia el pasado lunes y el eclipse del sol el miércoles han 
 
 Date: 2026-08-13
 
-### La gran amenaza que se cierne sobre Cali: el colapso de cientos de edificios dañados por el terremoto
-
-Hasta hace pocos días, Cali bailaba al ritmo de la salsa y de la música del Pacífico. La ciudad se preparaba para una nueva edición del Festival de Música del Pacífico Petronio Álvarez, uno de los eventos culturales más importantes de esta región de Colombia y que cada año recibe a miles de visitantes. Durante esta sem.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [OHLA y sus socios firman 325 millones de crédito para su autopista urbana en Bogotá](https://cincodias.elpais.com/companias/2026-09-17/ohla-y-sus-socios-firman-325-millones-de-credito-para-su-autopista-urbana-en-bogota.html?utm_source=lootura.com) — 2026-09-17T15:45:57.000Z
-- [Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas](https://www.elconfidencial.com/espana/2026-09-17/acusados-cocaina-arrestados-sala-juicio-1tna-1tps_4426024/?utm_source=lootura.com) — 2026-09-17T15:09:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/sam-altman/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/sam-altman/index.json",
   "description": "Follow Sam Altman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-16T16:07:13.884Z",
+  "updatedAt": "2026-10-01T04:06:59.232Z",
   "aliases": [
     "Altman",
     "Sam Harris Altman",
@@ -16,6 +16,11 @@
     "Samuel Harris Altman"
   ],
   "changes": [
+    {
+      "title": "The AI Tamagotchis are coming",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at le.",

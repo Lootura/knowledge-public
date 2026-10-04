@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-10-03T19:00:06.756Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### CBS News poll finds voters split on state v. national focus in Maine Senate race
+
+Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.
+
+Date: 2026-10-03
 
 ### Platner announced as speaker for activist-led event in Maine
 
@@ -59,12 +65,6 @@ Date: 2026-07-25
 ### 5 Things to Know About the Maine Senate Candidate Troy Jackson
 
 Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
-
-Date: 2026-07-20
-
-### In Maine Senate Race, Democrats Go From Chaos to Coronation
-
-Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
 
 Date: 2026-07-20
 

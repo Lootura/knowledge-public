@@ -3,10 +3,16 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### La OPEP+ mantiene sin cambios la producción de petróleo para noviembre
+
+La alianza OPEP+, liderada por Arabia Saudí y Rusia, ha decidido este domingo mantener sin cambios sus objetivos de producción de petróleo para noviembre , prolongando así la pausa en los incrementos de bombeo iniciada en octubre . Arabia Saudí, Rusia, Irak, Kuwait, Kazajistán, Argelia y Omán han acordado conservar par.
+
+Date: 2026-10-04
 
 ### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
 
@@ -62,12 +68,6 @@ La subida del precio del petróleo se ha convertido, así, en la principal amena
 
 Date: 2026-09-10
 
-### Pakistán afirma que la controvertida alianza defensiva con Turquía y Arabia Saudí está abierta a otros países
-
-El ministro de Exteriores de Pakistán afirmó el domingo que el nuevo acuerdo de defensa que su país ha firmado con Arabia Saudí y Turquía no está dirigido contra ningún país y permanece abierto a otras naciones de la región. El histórico Acuerdo Conjunto de Defensa de La Meca fue firmado el viernes por el príncipe here.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [La OPEP+ mantiene sin cambios la producción de petróleo para noviembre](https://elpais.com/economia/2026-10-04/la-opep-mantiene-sin-cambios-la-produccion-de-petroleo-para-noviembre.html?utm_source=lootura.com) — 2026-10-04T12:11:47.000Z

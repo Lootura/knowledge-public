@@ -1,0 +1,70 @@
+{
+  "id": "usa-tel-aviv",
+  "name": "Tel Aviv",
+  "type": "place",
+  "locale": "en",
+  "canonicalPath": "/us/place/tel-aviv",
+  "canonicalUrl": "https://atlas.lootura.com/us/place/tel-aviv",
+  "markdownUrl": "https://atlas.lootura.com/us/place/tel-aviv/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/place/tel-aviv/index.json",
+  "description": "Follow Tel Aviv, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "aliases": [
+    "TLV",
+    "Tel Aviv City",
+    "Tel Aviv Jaffa",
+    "Tel Aviv, Israel",
+    "Tel Aviv-Jaffa",
+    "Tel Aviv-Jafo",
+    "Tel Aviv-Yaffo",
+    "Tel Aviv-Yafo",
+    "Tel-Aviv Jaffa",
+    "Tel-Aviv Yafo"
+  ],
+  "changes": [
+    {
+      "title": "Hero passenger on Fly Dubai flight: \"I decided that we are going to survive\"",
+      "summary": "This past Wednesday, the co-pilot of Fly Dubai's Flight 1073, flying from Dubai to Tel Aviv, attacked the captain and tried to crash the Boeing 737 Max, the jet plunging 14,000 feet in a matter of seconds. Passengers subdued the attacker and another pilot righted the plane with moments to spare. Correspondent Matt Gutm.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
+      "summary": "The violent midair assault on a FlyDubai flight to Tel Aviv has deepened concerns about the safety of Israelis traveling abroad.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tel Aviv first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Netanyahu praises heroic bystander in bloody cockpit attack for preventing ‘another 9/11’",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu addressed the bloody cockpit attack that occurred on a flight headed from Dubai to Tel Aviv during an exclusive interview with Fox News on Wednesday. Netanyahu recounted how the event unfolded and praised the \"unbelievable courage\" of passengers who quickly corralled the allege.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
+      "summary": "“I don’t deserve to die like this,” said one passenger on Flight 1073 from Dubai to Tel Aviv. The motive of the cockpit stabbing remains unknown, officials said.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Passengers stop co-pilot’s attempt to crash plane",
+      "summary": "Passengers bravely rushed the cockpit to stop a co-pilot who had stabbed the pilot and was trying to crash a FlyDubai plane headed towards Tel Aviv. Israeli officials said the wounded pilot was able to press a button opening the cockpit door to let the passengers in. NBC News’ Matt Bradley reports.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight",
+      "summary": "About 170 people aboard a terrifying flight to Tel Aviv are safe and on the ground after one pilot stabbed the other in an apparent attempt to crash it. Israeli officials say passengers and crew sprang into action and prevented a disaster. The attacker has been arrested in Saudi Arabia. Nick Schifrin reports.",
+      "date": "2026-09-30"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hero passenger on Fly Dubai flight: \"I decided that we are going to survive\"",
+      "url": "https://www.cbsnews.com/video/hero-passengers-on-fly-dubai-flight-speak/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:26:06.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
+}

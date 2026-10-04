@@ -3,10 +3,16 @@
 > Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-09-12T14:59:23.432Z
+- Updated: 2026-10-03T19:00:06.756Z
 - Canonical: https://atlas.lootura.com/us/object/milky-way
 
 ## Recent changes
+
+### Milky Way may have begun as thousands of galaxies, new simulations suggest
+
+In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead.
+
+Date: 2026-10-03
 
 ### Why are the stars around our galaxy's black hole missing their companions?
 

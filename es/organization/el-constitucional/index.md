@@ -3,10 +3,22 @@
 > Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-05T21:55:40.959Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/el-constitucional
 
 ## Cambios recientes
+
+### El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont
+
+El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.
+
+Date: 2026-10-04
+
+### El Constitucional avalará esta semana amnistiar la malversación del ‘procés’ y critica al Supremo
+
+El Tribunal Constitucional (TC) celebra este martes el Pleno en el que previsiblemente avalará la aplicación de la amnistía a dirigentes independentistas por la malversación del ‘procés’, después de conocerse que las ponencias son partidarias de aplicar la medida y contienen críticas a la interpretación realizada por e.
+
+Date: 2026-10-04
 
 ### El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas
 
@@ -34,4 +46,5 @@ Date: 2026-08-14
 
 ## Fuentes
 
-No public source links.
+- [El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont](https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com) — 2026-10-04T08:05:55.000Z
+- [El Constitucional avalará esta semana amnistiar la malversación del ‘procés’ y critica al Supremo](https://theobjective.com/espana/tribunales/2026-10-04/el-constitucional-avalara-esta-semana-amnistiar-la-malversacion-del-proces-y-critica-al-supremo/?utm_source=lootura.com) — 2026-10-04T11:18:06.000Z

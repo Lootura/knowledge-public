@@ -3,7 +3,7 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos](https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com) — 2026-09-17T07:19:22.000Z
+No public source links.

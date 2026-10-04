@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T20:39:44.432Z
+- Updated: 2026-10-03T19:00:06.756Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### CBS News poll finds voters split on state v. national focus in Maine Senate race
+
+Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.
+
+Date: 2026-10-03
 
 ### In a competitive Maine Senate race, women voters could be the deciders
 
@@ -61,12 +67,6 @@ Date: 2026-07-25
 Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
 
 Date: 2026-07-25
-
-### The Debate Moment That Captures Democrats’ Worries About Troy Jackson
-
-Troy Jackson, Democratic candidate for U.S. Senate, speaks outside of a federal immigration office in Scarborough, Maine, on July 14, 2026, after a man was fatally shot by ICE agents. —Ryan Murphy—Getty Images It should have been a layup. Instead, the question illustrated why some Democrats fear they are about to swap.
-
-Date: 2026-07-23
 
 ## Sources
 

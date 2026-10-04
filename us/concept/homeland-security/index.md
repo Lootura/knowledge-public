@@ -52,4 +52,4 @@ Date: 2026-09-03
 
 ## Sources
 
-- [Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know](https://www.pbs.org/newshour/nation/trumps-mass-deportations-led-to-a-big-drop-in-fentanyl-investigations-report-finds-heres-what-to-know?utm_source=lootura.com) — 2026-09-17T14:03:38.000Z
+No public source links.

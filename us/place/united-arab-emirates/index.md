@@ -3,7 +3,7 @@
 > Follow United Arab Emirates, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-09T08:41:23.943Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/united-arab-emirates
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [New details about co-pilot after Flydubai incident](https://www.nbcnews.com/nightly-news/video/new-details-about-co-pilot-after-flydubai-incident-270969925791?utm_source=lootura.com) — 2026-10-03T22:37:37.000Z

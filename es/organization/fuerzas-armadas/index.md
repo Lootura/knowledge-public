@@ -3,10 +3,16 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes
+
+Las Fuerzas Armadas españolas se han convertido en la punta de lanza de la respuesta del Estado ante las emergencias, y en la actualidad, tras la pandemia del covid, el volcán de La Palma , la dana de 2024 o la ola de incendios forestales, los ciudadanos identifican la respuesta del Estado en catástrofes con la actuaci.
+
+Date: 2026-10-04
 
 ### Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos
 
@@ -62,12 +68,6 @@ El secretario general del PP , Miguel Tellado , ha señalado este domingo que «
 
 Date: 2026-08-02
 
-### Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev
-
-Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas cuatro niños , en un ataque lanzado durante la madrugada de este sábado por las Fuerzas Armadas de Rusia sobre Kiev , la capital ucraniana.«Lamentablemente, nueve vecinos de Kiev han fallecido» , ha informado el gobierno regional, en un me.
-
-Date: 2026-08-01
-
 ## Fuentes
 
-- [Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos](https://www.lavanguardia.com/politica/20260917/11637213/dos-militares-desplegados-ceuta-ingresados-gomez-ulla-madrid-agredidos.html?utm_source=lootura.com) — 2026-09-17T11:19:48.000Z
+- [El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes](https://www.elconfidencial.com/espana/2026-10-04/fuerzas-armadas-emergencias-ume-1hms-1svm_4437989/?utm_source=lootura.com) — 2026-10-04T13:38:00.000Z

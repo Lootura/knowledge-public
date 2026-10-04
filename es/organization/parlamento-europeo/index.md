@@ -70,6 +70,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»](https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com) — 2026-09-17T15:01:47.000Z
-- [Este es el texto definitivo sobre Ceuta que ha aprobado el Parlamento Europeo contra Marruecos](https://www.eldebate.com/espana/20260917/este-texto-definitivo-sobre-ceuta-aprobado-parlamento-europeo-contra-marruecos_459932.html?utm_source=lootura.com) — 2026-09-17T15:08:42.000Z
-- [Mark Carney, el inesperado ídolo de la resistencia al trumpismo](https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com) — 2026-09-17T12:21:15.000Z
+No public source links.

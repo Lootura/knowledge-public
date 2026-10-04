@@ -3,10 +3,34 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T09:11:38.041Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him
+
+In a new ad, the wife of Ken Paxton, who is divorcing him for alleged adultery, tells Texas voters to focus on the “whole team,” not “individual players.”.
+
+Date: 2026-10-04
+
+### The price tag on the Ken Paxton rescue mission has Republicans panicking
+
+Republicans know they have to spend big to save Ken Paxton. They’re increasingly worried MAGA Inc. won’t throw down in time. In private conversations over recent weeks, senior Hill Republicans and GOP officials have nudged President Donald Trump’s team to start spending more on the Texas Senate race before it’s too lat.
+
+Date: 2026-10-03
+
+### As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him
+
+In a new ad, Angela Paxton tells voters to focus on the “whole team,” not “individual players.”.
+
+Date: 2026-10-03
+
+### Trump deflects on audio of Paxton calling GOP convention a drag on polls
+
+Republican Senate candidate Ken Paxton reportedly told donors that "everybody's numbers are down" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record.
+
+Date: 2026-10-01
 
 ### VoteHub gives Talarico 55% chance of winning Texas Senate race
 
@@ -44,30 +68,6 @@ President Trump's MAGA Inc. super PAC had previously only given one donation thi
 
 Date: 2026-09-05
 
-### Trump’s Super PAC Will Spend $10 Million on Texas Senate Race
-
-A financial filing announcing the TV and digital ad buy is the first general election spending by MAGA Inc. The group intends to boost the Republican nominee, Ken Paxton.
-
-Date: 2026-09-05
-
-### Texas Attorney General investigates military healthcare contractor TriWest
-
-Following a report for the series “The Cost of Denial,” Texas Attorney General Ken Paxton announced an investigation into the company at the center of the Nightly News story. NBC News’ Erin McLaughlin reports.
-
-Date: 2026-09-04
-
-### Dark money in Texas Senate race spurs Talarico complaint to FEC against Paxton
-
-James Talarico's Senate campaign is accusing Ken Paxton and his campaign treasurer of "illegally spending" $1 million that was routed to a Paxton-aligned super PAC.
-
-Date: 2026-09-02
-
-### Trump may need to save Paxton in Texas Senate race
-
-The News Republicans are counting on President Donald Trump’s cavalry to carry Ken Paxton to victory — but it hasn’t come yet. Ultimately, the GOP expects MAGA Inc. to help its Texas Senate nominee win with a significant spend this fall, according to multiple Republican sources, although even presidential super PAC don.
-
-Date: 2026-09-01
-
 ## Sources
 
-No public source links.
+- [Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him](https://www.nytimes.com/2026/10/03/us/politics/as-she-divorces-ken-paxton-his-wife-urges-texans-to-vote-for-him.html?utm_source=lootura.com) — 2026-10-04T01:03:10.000Z

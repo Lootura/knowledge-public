@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-04T04:17:05.684Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
   ],
   "changes": [
+    {
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+      "summary": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly careful enough” about developing the technology. David Robinson, who led the writing of.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+      "summary": "Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
       "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02910-w Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.",
@@ -48,30 +63,8 @@
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
-      "summary": "OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
-      "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag. (Image credit: Karl Mondon).",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \" m.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
-      "url": "https://www.nature.com/articles/d41586-026-02910-w?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T16:13:57.977Z",
-      "sourceId": "lootura-us-nature"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

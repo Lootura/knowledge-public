@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-constitucional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-constitucional/index.json",
   "description": "Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-05T21:55:40.959Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "El Constitucional (Barcelona)"
   ],
   "changes": [
+    {
+      "title": "El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont",
+      "summary": "El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "El Constitucional avalará esta semana amnistiar la malversación del ‘procés’ y critica al Supremo",
+      "summary": "El Tribunal Constitucional (TC) celebra este martes el Pleno en el que previsiblemente avalará la aplicación de la amnistía a dirigentes independentistas por la malversación del ‘procés’, después de conocerse que las ponencias son partidarias de aplicar la medida y contienen críticas a la interpretación realizada por e.",
+      "date": "2026-10-04"
+    },
     {
       "title": "El Constitucional abre la vía contra la Ley de Concordia de Extremadura por rebajar la protección de las víctimas",
       "summary": "El tribunal prevé admitir a trámite en el pleno de la próxima semana el recurso del Gobierno, que sostiene que la norma de PP y Vox invade competencias estatales en educación y materia procesal, además de entorpecer la cooperación institucional Extremadura deroga su ley de Memoria Histórica, el último pago del PP de Gu.",
@@ -34,6 +44,19 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont",
+      "url": "https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T08:05:55.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    },
+    {
+      "title": "El Constitucional avalará esta semana amnistiar la malversación del ‘procés’ y critica al Supremo",
+      "url": "https://theobjective.com/espana/tribunales/2026-10-04/el-constitucional-avalara-esta-semana-amnistiar-la-malversacion-del-proces-y-critica-al-supremo/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T11:18:06.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

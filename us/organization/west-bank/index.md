@@ -70,4 +70,4 @@ Date: 2026-08-13
 
 ## Sources
 
-- [What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?](https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html?utm_source=lootura.com) — 2026-09-17T14:14:57.000Z
+No public source links.

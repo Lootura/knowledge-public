@@ -3,10 +3,16 @@
 > Follow New Mexico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-04T15:44:50.549Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/place/new-mexico
 
 ## Recent changes
+
+### How did Earth get its water? Inside the extreme machine seeking answers
+
+Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02978-4 The Z machine in New Mexico generates shockwaves that can simulate conditions deep inside our planet.
+
+Date: 2026-10-01
 
 ### Discovered by Atlas
 

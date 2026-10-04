@@ -3,10 +3,40 @@
 > Sigue la actividad de Protección civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: concept
-- Actualizado: 2026-09-02T22:20:34.206Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/concept/proteccion-civil
 
 ## Cambios recientes
+
+### Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja
+
+Las lluvias torrenciales caídas esta noche en el área metropolitana de Barcelona han dejado a un total de 17.654 clientes sin suministro eléctrico en la Ciudad Condal y algunos municipios de su área metropolitana. Según datos de Protección Civil hasta las 9:30 horas de este domingo, el temporal ha provocado unas 220 in.
+
+Date: 2026-10-04
+
+### Protección Civil restringe la movilidad y suspende actividades al aire libre ante el fuerte temporal y la alerta de un "mini huracán" en el litoral
+
+El riesgo empeorará con el paso de las horas y pondrá mañana domingo en alerta roja a veinte comarcas, con un grado de peligrosidad de seis sobre seis Leer.
+
+Date: 2026-10-03
+
+### Barcelona se blinda ante el temporal: sin trenes, restricciones en metro y vuelos...
+
+Barcelona se prepara este sábado ante la llegada en las próximas horas de lo que Protección Civil ha calificado como un "excepcional" episodio de lluvias torrenciales en los que incluso puede llegar a formarse un mini huracán en el Mediterráneo. Se ha suspendido todo el sistema ferroviario , el metro tendrá severas res.
+
+Date: 2026-10-03
+
+### Cataluña envía un es-alert para restringir la movilidad en 20 comarcas ante la amenaza de un «temporal excepcional»
+
+Protección Civil ha pasado de la recomendación a la prohibición. Aunque estaba previsto que las medidas las anunciase esta tarde la consejera de Interior, Núria Parlon, tras la reunión de seguimiento del plan de emergencias, el organismo se ha adelantado y ha enviado ya un mensaje es-alert ha anunciado las restriccione.
+
+Date: 2026-10-03
+
+### Cataluña se blinda por la alerta de un “mini-huracán mediterráneo”
+
+La Generalitat ha pedido este sábado a la población que se quede en casa y limite cualquier desplazamiento a lo estrictamente necesario ante la alerta por un “mini-huracán mediterráneo” que previsiblemente afectará a Cataluña a primera hora de la noche. Protección Civil ha activado su máximo nivel de alerta ante un epi.
+
+Date: 2026-10-03
 
 ### España evacúa a cinco soldados ucranianos heridos para tratarlos en hospitales madrileños
 
@@ -38,36 +68,6 @@ Protección Civil ha ordenado a primera hora de este martes la evacuación preve
 
 Date: 2026-08-11
 
-### Muere un hombre de 83 años ahogado mientras se bañaba en una playa de Roses (Girona)
-
-Un hombre de 8 3 años de edad y de nacionalidad francesa ha muerto ahogado este lunes en la Platja Nova de Roses (Girona) , lo que eleva a 18 las personas que han perecido en las playas catalanas desde el inicio de la campaña de baño, el pasado 15 de junio. Según han informado fuentes de Protección Civil de la Generali.
-
-Date: 2026-08-10
-
-### Un eclipse seguro: más de 1.700 policías vigilarán un evento «atomizado»
-
-Comienza la cuenta atrás para el eclipse total, un evento único que contará con un despliegue de seguridad acorde con esta cita histórica: más de 1.700 efectivos de Guardia Civil y Policía Nacional a los que se sumarán a los cuerpos de policía local de los municipios así como a los voluntarios de Protección Civil de la.
-
-Date: 2026-08-10
-
-### Muere ahogado un bañista en Gerona, y ya van 17 en Cataluña este verano
-
-Un hombre de 61 años y nacionalidad española ha muerto ahogado este sábado por la tarde mientras se bañaba mar adentro en la playa de l'Estartit, en Torroella de Montgrí (Gerona), con lo que ya son 17 las personas fallecidas en las playas catalanas este verano. Según ha informado Protección Civil de la Generalitat, el.
-
-Date: 2026-08-08
-
-### Cataluña desactiva la alerta por las lluvias, que han dejado más de 400 llamadas al 112
-
-Protección Civil ha desactivado la alerta del plan especial de emergencias por inundaciones de Cataluña (Inuncat) una vez finalizados los avisos por intensidad de lluvia del Servicio Meteorológico de Cataluña, que ha dejado 410 llamadas al teléfono de emergencias 112. Algunos de los registros más destacados del día han.
-
-Date: 2026-08-07
-
-### Protección Civil alerta de intensidad y acumulación de lluvia este jueves en gran parte de Cataluña
-
-La Generalitat ha activado en fase de alerta el Plan especial de emergencias por inundaciones de Cataluña ( Inuncat ) ante la previsión de chubascos y tormentas intensas durante la tarde y la noche de este jueves. El Servei Meteorològic de Cataluña (SMC) ha emitido avisos por posible superación de umbrales de peligro d.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja](https://www.20minutos.es/cataluna/barcelona/barcelona-afectada-por-temporal-17-000-clientes-sin-luz-4-000-atendidos-por-cruz-roja_7044561_0.html?utm_source=lootura.com) — 2026-10-04T09:32:48.000Z

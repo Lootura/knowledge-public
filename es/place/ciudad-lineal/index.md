@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Lineal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-08-08T16:29:47.813Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-lineal
 
 ## Cambios recientes
+
+### Caen cuatro pandilleros en un coche de 40.000 euros y tras una agresión: «Agente, me estoy comiendo una hamburguesa»
+
+La Policía Municipal de Madrid ha detenido a cuatro jóvenes de una banda latina después de que, presuntamente, participaran en una reyerta el pasado 21 de septiembre en la zona de Ascao, en Ciudad Lineal. Se da la circunstancia de que los encartados iban armados con cuchillos y grandes bolomachetes, algunos escondidos.
+
+Date: 2026-09-30
 
 ### Estrangula a su anciano suegro mientras su novio hacía una videoconferencia
 

@@ -3,10 +3,22 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Houthis Claim Attack on Aramco as Yemen Conflict Escalates
+
+The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.
+
+Date: 2026-10-04
+
+### Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight
+
+About 170 people aboard a terrifying flight to Tel Aviv are safe and on the ground after one pilot stabbed the other in an apparent attempt to crash it. Israeli officials say passengers and crew sprang into action and prevented a disaster. The attacker has been arrested in Saudi Arabia. Nick Schifrin reports.
+
+Date: 2026-09-30
 
 ### Daily fragment: Strategic Mutual Defence Agreement
 
@@ -56,18 +68,6 @@ The East-West pipeline in Saudi Arabia remains shut after a drone attack last we
 
 Date: 2026-09-14
 
-### Saudi Arabia has few options as it faces mounting threats from Iran and its allies
-
-A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.
-
-Date: 2026-09-12
-
-### Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.
-
-A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.
-
-Date: 2026-09-12
-
 ## Sources
 
-- [Daily fragment: Strategic Mutual Defence Agreement](https://en.wikipedia.org/wiki/Strategic_Mutual_Defence_Agreement?utm_source=lootura.com) — 2026-09-17T04:00:00.000Z
+- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T10:45:50.000Z

@@ -3,10 +3,16 @@
 > Follow Benjamin Netanyahu, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-03T08:32:30.245Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/benjamin-netanyahu
 
 ## Recent changes
+
+### Netanyahu praises heroic bystander in bloody cockpit attack for preventing ‘another 9/11’
+
+Israeli Prime Minister Benjamin Netanyahu addressed the bloody cockpit attack that occurred on a flight headed from Dubai to Tel Aviv during an exclusive interview with Fox News on Wednesday. Netanyahu recounted how the event unfolded and praised the "unbelievable courage" of passengers who quickly corralled the allege.
+
+Date: 2026-10-01
 
 ### U.S.-Israel relations are on the rocks ahead of elections
 

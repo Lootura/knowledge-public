@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-02T08:22:48.056Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont",
+      "summary": "El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza",
       "summary": "Después de un mes de crisis de Ceuta, Junts ha optado por entrar en el debate sobre la integridad territorial de España . Lo ha hecho el presidente del partido, Carles Puigdemont, en persona, aunque de manera indirecta, recomendando un artículo del medio Middle East Eyes en el que se compara a Ceuta y Melilla con Gaza.",
@@ -62,13 +67,15 @@
       "title": "¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?",
       "summary": "La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias contra España ante instancias europeas como respuesta a la negativa del Tribunal de Cuentas a aplicar la ley de Amnistía a la treintena de ex altos cargos de la administración catalana a los que se reclaman los gastos del procés . El órgano fi.",
       "date": "2026-07-22"
-    },
-    {
-      "title": "El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas",
-      "summary": "Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont",
+      "url": "https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T08:05:55.000Z",
+      "sourceId": "lootura-es-el-independiente"
+    }
+  ],
+  "evidenceCount": 1
 }

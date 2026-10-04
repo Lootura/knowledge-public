@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple ya tiene fecha para lanzar un dispositivo totalmente nuevo. Revivirá el diseño de uno de los Mac más icónicos
+
+Apple está a punto de lanzar un dispositivo totalmente nuevo, pero con un diseño que en cierto modo rinde homenaje a uno de los Mac más icónicos. Según reporta Mark Gurman, los de Cupertino ya tienen fecha definida para presentar en sociedad su hub inteligente para competir con el Google Nest Hub o el Amazon Echo Show.
+
+Date: 2026-09-30
 
 ### iOS 27 con Siri AI ya está disponible: cómo instalarlo y iPhone compatibles
 
@@ -61,12 +67,6 @@ Date: 2026-09-11
 Alberto Olmos y Rubén Arranz están de vuelta en su estudio de El Confidencial para un nuevo episodio de Lo más odiado, el videopódcast de El Confidencial en el que ambos hablan de sus cosas y que puedes ver en YouTube y escuchar en Ivoox , Spotify y Apple Podcast . En este episodio hay espacio para abordar en detalle l.
 
 Date: 2026-09-10
-
-### Así es el iPhone Duo, el primer móvil plegable de Apple
-
-Apple presentó el iPhone en 2007. Sus nuevas versiones fueron cambiando su interior, pero mantuvieron un diseño más o menos estable. Esa continuidad ha sido una de las grandes victorias de Apple: convirtió un producto tecnológico en una especie de tótem cultural, como una botella de Coca-Cola o unas zapatillas Converse.
-
-Date: 2026-09-09
 
 ## Fuentes
 

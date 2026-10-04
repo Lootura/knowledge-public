@@ -3,10 +3,28 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### "Al 70% habrá elecciones anticipadas"
+
+El entorno de Sánchez apuesta por un adelanto electoral, pero el presidente sopesa si convocar ya o intentar aprobar nuevas medidas de vivienda A esta hora, la decisión no está tomada. Tampoco el calendario. Durante el fin de semana, el presidente está escuchando a su equipo más cercano, en La Moncloa y en el partido.
+
+Date: 2026-10-04
+
+### Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"
+
+El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...
+
+Date: 2026-10-03
+
+### Feijóo exige urnas a Sánchez y promete 600.000 viviendas: «España no aguanta más»
+
+El presidente del PP, Alberto Núñez Feijóo , ha reclamado este sábado a Pedro Sánchez que convoque elecciones generales y «ponga fin a esta agonía» porque considera que España «no aguanta más». El popular ha situado además la vivienda como una de sus principales prioridades si llega a La Moncloa y ha anunciado un plan.
+
+Date: 2026-10-03
 
 ### El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes
 
@@ -50,24 +68,7 @@ A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la ple
 
 Date: 2026-08-12
 
-### El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018
-
-De los 171.036 militantes que alcanzó con su Gobierno en solitario, le quedan 147.648 Leer.
-
-Date: 2026-08-10
-
-### Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: "Se analizará la inversión", pero convencidos del proyecto
-
-La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...
-
-Date: 2026-08-10
-
-### El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta
-
-El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.
-
-Date: 2026-08-08
-
 ## Fuentes
 
-No public source links.
+- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
+- ["Al 70% habrá elecciones anticipadas"](https://www.eldiario.es/escolar/70-habra-elecciones-anticipadas_132_13560329.html?utm_source=lootura.com) — 2026-10-04T07:34:28.000Z

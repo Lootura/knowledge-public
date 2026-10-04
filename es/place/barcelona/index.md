@@ -3,75 +3,80 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Última hora del temporal en Valencia y Barcelona en directo: inundaciones, rescates y alertas por lluvias torrenciales
+### Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere
 
-Las fuertes lluvia s que golpean el Mediterráneo mantienen en alerta a Valencia y Barcelona este jueves 17 de septiembre . El temporal ha provocado inundaciones, rescates, cortes de carreteras y graves incidencias en el transporte público, obligando a las autoridades a activar avisos masivos a través del sistema ES-Ale.
+En plena crisis de la vivienda por el caso Maricarmen , Pedro Sánchez visitó el lunes una promoción de vivienda protegida en el distrito del Poblenou de Barcelona. Es el único inmueble público existente en esa manzana y su sobrio diseño contrasta con el resto de modernos edificios de oficinas de fachadas desiguales y a.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía
+### La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"
 
-Barcelona, Real Madrid, Atlético y Real Sociedad lucharán por el título del 2 al 6 de febrero de 2027 en Estambul.
+Tiendas de campaña, toldos y pancartas ocupan desde ya hace varios días la Puerta del Sol y Plaza Cataluña , espacios en los que se concentran las acampadas por del derecho a la vivienda más multitudinarias de España. El Sindicato de Inquilinas cifra ya en más de mil las estructuras instaladas en la plaza madrileña, mi.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Muere un motorista en un accidente con un taxi en el barrio de Les Corts de Barcelona
+### Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja
 
-Un motorista de 34 años falleció este miércoles por la noche tras colisionar con un taxi en la confluencia de la Travessera de Les Corts y la calle Entença de Barcelona, según informó este jueves el Ayuntamiento de Barcelona en un comunicado. El consistorio detalló que el siniestro tuvo lugar poco después de las 22.30.
+Las lluvias torrenciales caídas esta noche en el área metropolitana de Barcelona han dejado a un total de 17.654 clientes sin suministro eléctrico en la Ciudad Condal y algunos municipios de su área metropolitana. Según datos de Protección Civil hasta las 9:30 horas de este domingo, el temporal ha provocado unas 220 in.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### El Metro de Barcelona amanece con afectaciones por el temporal de lluvia y la inundaciones
+### La alerta roja deja ya dos muertos y un desaparecido en Barcelona
 
-El Metro de Barcelona ha amanecido esta mañana con afectaciones provocadas por las inundaciones producto del temporal que la noche del miércoles al jueves azotó la capital catalana. La línea más afectada es la L4 que según informa Transports Metropolitans de Barcelona (TMB), funciona entre las paradas de La Pau y Verda.
+El episodio excepcional de lluvias torrenciales que afecta a Cataluña ha provocado, de momento, la muerte de dos personas, una en Tordera y otra en Montornès del Vallès , en Barcelona , mientras que los bomberos de la Generalitat buscan a una persona desaparecida en la riera de Pineda. El presidente de la Generalitat,.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Laure Vega, la cara más conocida de la CUP, será la candidata a la alcaldía de Barcelona
+### El temporal obliga a suspender el servicio en Rodalies y la alta velocidad entre Barcelona y Tarragona
 
-Cuando parecía que la CUP iba a desistir de presentarse por Barcelona y que abandonaba la capital catalana para luchar casa por casa contra Aliança Catalana (AC) en la Cataluña interior, ha saltado la sorpresa. Ha sido el último partido en presentar candidato para las municipales y, de hecho, todavía hace falta que las.
+La red de transportes de Cataluña se está viendo muy afectada por el temporal de lluvias torrenciales que ha provocado graves inundaciones en la autonomía y se ha cobrado la vida, al menos, de dos personas . La situación ha obligado a suspender Rodalies, mientras la alta velocidad empieza a recuperar una actividad más.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### El momento en el que la riera engulle el coche del hombre que ha muerto en Olivella
+### El fuerte temporal en Cataluña deja dos muertos, en Tordera y en Montornès del Vallès, cortes de luz y de tren
 
-Un hombre de mediana edad y de nacionalidad británica residente en la urbanización Las Colinas en el municipio de Olivella (Garraf) es la víctima mortal tras la tromba de agua que cayó la pasada noche y madrugada en Barcelona y su área metropolitana. Seguir leyendo...
+El episodio excepcional de lluvias torrenciales que afecta a Cataluña ha provocado, de momento, la muerte de dos personas, una en Tordera y otra en Montornès del Vallès, en Barcelona, mientras que los bomberos de la Generalitat buscan a una persona desaparecida en la riera de Pineda. Los Bomberos han confirmado este do.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Joan Manuel Serrat, cantante y compositor español (82 años): «Mañana es sólo un adverbio de tiempo»
+### Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales
 
-Joan Manuel Serrat nació en Barcelona el 27 de diciembre de 1943 y es un cantante, compositor y poeta. A lo largo de su trayectoria ha recibido numerosos reconocimientos, entre ellos la Gran Cruz de la Orden Civil de Alfonso X el Sabio . También fue galardonado con el Premio Princesa de Asturias de las Artes en 2024. S.
+La Generalitat pide a los ciudadanos de Cataluña “no bajar la guardia” por las lluvias torrenciales que han afectado a gran parte del territorio catalán, con especial virulencia en el litoral de Girona esta mañana. El temporal ha causado la muerte de dos personas en Tordera y en Montornès del Vallès (Barcelona). La pri.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Collboni convierte la Zona Franca de Barcelona en un polvorín: "Hemos visto hasta asesinatos a plena luz del día"
+### La acampada por la vivienda de Barcelona resiste al temporal: "No nos ganará la crisis climática"
 
-La Zona Franca de Barcelona, histórico barrio obrero levantado por la inmigración española que llegó a trabajar en la SEAT y en las grandes factorías de la ciudad, se ha convertido en los últimos meses en un polvorín de inseguridad y abandono institucional. Un equipo de OKDIARIO se ha desplazado hasta la zona para cons.
+Los activistas mantienen la intención de alargar la acción de manera "indefinida" y piden apoyo con comida y materiales para soportar las jornadas de lluvia y bajas temperaturas que se avecinan El temporal de lluvias en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido en Pineda (Barcelona) Las person.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Buscan a una mujer arrastrada por las aguas en Barcelona
+### El temporal en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido, en Pineda
 
-La intensas lluvias registradas en Cataluña y Valencia cortan carreteras, paralizan líneas ferroviarias y de metro, cancelan vuelos y obligan a suspender las clases.
+Las intensas lluvias que ha sufrido Catalunya en las últimas horas se han saldado por el momento con dos fallecidos y una persona desaparecida. Las dos víctimas se han registrado en Tordera y en Montornès del Vallès (Barcelona). Además, hay una tercera persona desaparecida, arrastrada por la riera, en Pineda de Mar (Ba.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### Localizado el cuerpo sin vida de un hombre arrastrado por el agua en la riera de Olivella (Barcelona)
+### Temporal en Catalunya hoy, en directo | Dos muertos, un desaparecido, inundaciones y ríos desbordados; siguen las restricciones en el Empordà
 
-Los Bomberos de la Generalitat han hallado la madrugada de este jueves el cuerpo sin vida de un hombre en la riera de Olivella (Barcelona), a unos 500 metros de distancia de donde se encontraba un coche que había sido arrastrado por la corriente. Los Bomberos habían activado 11 dotaciones con equipos de agentes especia.
+Sigue en directo la última hora el temporal de lluvia en Barcelona, Girona y resto de Catalunya.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
 ## Fuentes
 
-- [Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía](https://www.abc.es/deportes/futbol/fechas-horarios-estadios-supercopa-espana-jugara-turquia-20260917173039-nt_amp.html?utm_source=lootura.com) — 2026-09-17T15:30:40.000Z
-- [Muere un motorista en un accidente con un taxi en el barrio de Les Corts de Barcelona](https://www.elconfidencial.com/espana/2026-09-17/accidente-motorista-taxi-barcelona-fallecido-1tna-1tps_4425821/?utm_source=lootura.com) — 2026-09-17T11:40:00.000Z
-- [Buscan a una mujer arrastrada por las aguas en Barcelona](https://www.elcorreo.com/sociedad/buscan-mujer-arrastrada-aguas-barcelona-20260917012258-nt_amp.html?utm_source=lootura.com) — 2026-09-16T23:22:58.000Z
-- [Localizado el cuerpo sin vida de un hombre arrastrado por el agua en la riera de Olivella (Barcelona)](https://elpais.com/espana/catalunya/2026-09-16/cataluna-activa-la-alerta-por-lluvias-intensas-a-partir-de-este-mediodia.html?utm_source=lootura.com) — 2026-09-16T23:46:02.000Z
-- [Última hora del temporal en Valencia y Barcelona en directo: inundaciones, rescates y alertas por lluvias torrenciales](https://okdiario.com/espana/ultima-hora-del-temporal-valencia-barcelona-directo-inundaciones-rescates-alertas-lluvias-torrenciales-20312265?utm_source=lootura.com) — 2026-09-17T09:06:45.000Z
+- [La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"](https://www.20minutos.es/nacional/los-dramas-los-acampados-puerta-sol-plaza-catalunya-probablemente-nos-tengamos-que-ir-otra-comunidad-autonoma_7044199_0.html?utm_source=lootura.com) — 2026-10-04T06:20:43.000Z
+- [Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja](https://www.20minutos.es/cataluna/barcelona/barcelona-afectada-por-temporal-17-000-clientes-sin-luz-4-000-atendidos-por-cruz-roja_7044561_0.html?utm_source=lootura.com) — 2026-10-04T09:32:48.000Z
+- [La alerta roja deja ya dos muertos y un desaparecido en Barcelona](https://www.20minutos.es/cataluna/ultima-hora-temporal-cataluna-directo-alerta-roja-deja-ya-dos-muertos-un-desaparecido-barcelona-mientras-borrasca-avanza-hacia-girona_7044562_6.html?utm_source=lootura.com) — 2026-10-04T09:14:30.000Z
+- [El temporal obliga a suspender el servicio en Rodalies y la alta velocidad entre Barcelona y Tarragona](https://www.20minutos.es/cataluna/temporal-cataluna-obliga-suspender-servicio-rodalies-alta-velocidad-entre-barcelona-tarragona_7044563_0.html?utm_source=lootura.com) — 2026-10-04T09:27:29.000Z
+- [El fuerte temporal en Cataluña deja dos muertos, en Tordera y en Montornès del Vallès, cortes de luz y de tren](https://www.elindependiente.com/espana/cataluna/2026/10/04/el-fuerte-temporal-en-cataluna-deja-dos-muertos-en-tordera-y-en-montornes-del-valles-cortes-de-luz-y-de-tren/?utm_source=lootura.com) — 2026-10-04T08:39:51.000Z
+- [Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere](https://elpais.com/espana/catalunya/2026-10-04/un-agujero-en-las-ultimas-36-horas-de-la-vida-bonita-del-arquitecto-juanpere.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+- [Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales](https://elpais.com/espana/catalunya/2026-10-04/la-alerta-por-el-temporal-sigue-y-los-rios-van-al-limite-no-bajar-la-guardia.html?utm_source=lootura.com) — 2026-10-04T12:16:41.000Z
+- [Un violento diluvio barre la costa catalana, en alerta por un posible “minihuracán”](https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html?utm_source=lootura.com) — 2026-10-03T22:01:46.000Z
+- [La acampada por la vivienda de Barcelona resiste al temporal: "No nos ganará la crisis climática"](https://www.eldiario.es/catalunya/acampada-vivienda-barcelona-resiste-temporal-no-ganara-crisis-climatica_1_13560804.html?utm_source=lootura.com) — 2026-10-04T11:46:03.000Z
+- [El temporal en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido, en Pineda](https://www.lavanguardia.com/local/barcelona/20261004/11650603/barcelona-entorno-viven-dia-mas-lluvioso-ultimos-veinte-anos.html?utm_source=lootura.com) — 2026-10-04T04:38:44.000Z

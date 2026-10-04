@@ -3,10 +3,16 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-15T03:21:35.336Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda
+
+El ex presidente del Gobierno José Luis Rodríguez Zapatero intercedió ante la cúpula de Junts per Catalunya para intentar que aprobaran al menos el primer decreto de vivienda...
+
+Date: 2026-10-03
 
 ### Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia
 
@@ -62,12 +68,6 @@ Date: 2026-09-04
 
 Date: 2026-08-31
 
-### El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público
-
-Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda](https://amp.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html?utm_source=lootura.com) — 2026-10-03T20:48:43.000Z

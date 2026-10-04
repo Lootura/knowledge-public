@@ -3,7 +3,7 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-03T18:59:43.213Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes

@@ -3,10 +3,16 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
+
+El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gobierno, Pedro Sánchez , que convoque elecciones generales «ya» , en un mensaje en el que le ha instado a no demorar más la decisión. «Pedro, no te lo pienses más. Hazlo. Convoca mañana las elecciones generales. Aprieta el botón» , ha reclama.
+
+Date: 2026-10-04
 
 ### Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez
 
@@ -62,12 +68,6 @@ El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.
 
 Date: 2026-08-03
 
-### Discovered by Atlas
-
-Miguel Tellado first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-02
-
 ## Fuentes
 
-No public source links.
+- [El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»](https://theobjective.com/espana/politica/2026-10-04/pp-sanchez-convocar-elecciones/?utm_source=lootura.com) — 2026-10-04T11:56:18.000Z

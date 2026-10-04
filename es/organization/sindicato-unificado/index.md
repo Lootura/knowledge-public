@@ -34,6 +34,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta](https://www.20minutos.es/nacional/audiencia-nacional-da-marcha-atras-rechaza-paralizar-instalacion-campamento-puerto-ceuta_7038047_0.html?utm_source=lootura.com) — 2026-09-17T12:27:43.000Z
-- [La Audiencia Nacional permite el uso temporal del campamento de migrantes en el puerto de Ceuta](https://elpais.com/espana/2026-09-17/la-audiencia-nacional-permite-el-uso-temporal-del-campamento-de-migrantes-en-el-puerto-de-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:26:23.000Z
-- [La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta](https://www.lavanguardia.com/politica/20260917/11637298/audiencia-nacional-rechaza-paralizar-instalacion-carpas-puerto-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:29:52.000Z
+No public source links.

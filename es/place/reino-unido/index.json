@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-04T04:16:43.439Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,16 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta",
+      "summary": "España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Brett Christophers, geógrafo económico: “En el capitalismo contemporáneo, el derecho a la vivienda no existe”",
+      "summary": "Brett Christophers (Croydon, Reino Unido, 55 años) lleva años empapándose de las estrategias de grandes corporaciones. Empezó estudiando la gran banca , como a JP Morgan o Goldman Sachs. Pero pronto se percató de que esos nombres quedaban relegados en las agendas de políticos y personas influyentes por los de fondos de.",
+      "date": "2026-10-01"
+    },
     {
       "title": "Elon Musk despliega su máquina de caos político en el Reino Unido",
       "summary": "El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: \"La guerra civil es inevitable\" Leer.",
@@ -62,25 +72,8 @@
       "title": "Harry y Meghan «algo sorprendidos» por la carta de Carlos III que les recuerda que siguen fuera de la familia real",
       "summary": "La vuelta del príncipe Harry y Meghan Markle a Reino Unido vuelve a colocar a los duques de Sussex en el centro de la atención mediática y, una vez más, su relación con la familia real británica está marcada por la polémica . El último episodio tiene como protagonista al rey Carlos III, que ha querido dejar claro cuál.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido",
-      "summary": "España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el \"trabajo duro\" de los alumnos asiáticos \"haciendo deberes\" Leer.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie",
-      "summary": "El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York",
-      "url": "https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T14:56:33.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

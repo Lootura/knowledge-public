@@ -3,10 +3,40 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Ascensión, la isla desértica que se hizo selva
+
+Casi en el punto exacto en mitad del Atlántico entre África y América del Sur, si trazáramos una línea por debajo del ecuador, existe una isla que hace 200 años estaba deshabitada y era, según un escritor de la época, “la abominación de la desolación”. “Ascensión solo produce tortugas, ratas e insomnio”, dijo otro. “La.
+
+Date: 2026-10-04
+
+### Europa vuelve a perder la carrera bursátil contra EE UU, lastrada por la guerra y el retraso tecnológico
+
+Nadie que lea estas líneas —ni probablemente sus padres— ha visto en vida a una empresa europea como la más valiosa del mundo. Antes de que las cotizadas de Estados Unidos se hicieran con la hegemonía de los mercados financieros, la última compañía europea en ocupar ese puesto fue London & North Western Railway, la gra.
+
+Date: 2026-10-04
+
+### Brasil: la pieza que le falta a la marea conservadora en América Latina
+
+Los brasileños acuden este domingo a las urnas para decidir si otorgan un cuarto mandato a Luiz Inácio Lula da Silva, a sus 80 años, o si apuestan, por el contrario, por el nuevo líder de la ultraderecha brasileña, el senador Flavio Bolsonaro, hijo del ex presidente Jair Bolsonaro , que cumple 27 años de prisión domici.
+
+Date: 2026-10-03
+
+### Autorizan la ejecución de Christa Pike, la primera mujer condenada a muerte en Tennessee
+
+El Tribunal Supremo de Estados Unidos ha anulado este miércoles la suspensión concedida horas antes por otra corte sobre la ejecución de Christa Pike , única mujer condenada a muerte en el estado de Tennessee tras ser declarada culpable del asesinato en primer grado en 1996 de una compañera de clase, cuando tenía 19 añ.
+
+Date: 2026-10-01
+
+### Podcast | Libertad y seguridad: el dilema de América Latina
+
+La situación en América Latina, protagonista de 'El mundo es tu casa', el podcast de THE OBJECTIVE con LVL.
+
+Date: 2026-10-01
 
 ### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
 
@@ -38,36 +68,6 @@ El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que e
 
 Date: 2026-09-15
 
-### EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica
-
-Toda una generación de estadounidenses quedó marcada por el pavor que sintieron cuando un artefacto soviético sobrevoló por encima de sus cabezas: la sonda Sputnik , el primer satélite artificial del planeta Tierra. Ese momento Sputnik no solo espoleó a Estados Unidos en la carrera espacial, que acabó con la URSS desca.
-
-Date: 2026-09-15
-
-### Donald Trump llama en directo a Jensen Huang (Nvidia): “Lo del peligro de la IA es un engaño”
-
-Jensen Huang, director ejecutivo de la compañía Nvidia, que fabrica los chips más potentes para los centros de IA, se encontraba en el escenario de un evento organizado por el podcast tecnológico All In cuando una asistente le trajo su teléfono. La llamada era del presidente de Estados Unidos, Donald Trump. “Presidente.
-
-Date: 2026-09-15
-
-### Los secretos del auto sobre la trama de Mallorca: «gomas», armas, más de un millón en efectivo y toneladas de droga
-
-Lanchas conocidas como «gomas» surcando el Mediterráneo, camiones cargados con miles de kilos de hachís, cocaína transportada a través de rutas marítimas, buques mercantes procedentes del sur de América, más de un millón de euros en efectivo , armas de fuego y silenciadores. Y una investigación que conecta Mallorca, Ib.
-
-Date: 2026-09-15
-
-### China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología
-
-El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.
-
-Date: 2026-09-14
-
-### Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China
-
-El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.
-
-Date: 2026-09-14
-
 ## Fuentes
 
-- [LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York](https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com) — 2026-09-17T14:56:33.000Z
+- [Ascensión, la isla desértica que se hizo selva](https://elpais.com/eps/2026-10-04/ascension-la-isla-desertica-que-se-hizo-selva.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z

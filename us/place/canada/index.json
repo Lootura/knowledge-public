@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-01T04:06:59.232Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
+    {
+      "title": "Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada",
+      "summary": "The Russian invasion of Ukraine continues into 2026, with millions of Ukrainians displaced around the world. Many arrived in host countries with professional experience, degrees and specialized skills. Yet displacement often leaves highly educated refugees unable to continue their previous careers.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Morning news brief",
       "summary": "The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada's prime minister speaks to European Parliament.",
@@ -59,44 +64,8 @@
       "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
       "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "Carney pitches Canada to global investors amid trade war with Trump",
-      "summary": "Carney is pitching Canada's energy and critical minerals, educated workforce, global trade access and political stability as reasons to invest.",
-      "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Canada's Carney embraces EU associate member plan; Trump seen with \"Kennedy Center Demolished\" sign",
-      "url": "https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T16:00:59.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "How Canada and the E.U. are teaming up to counter Trump",
-      "url": "https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T15:41:39.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T08:45:53.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T10:54:18.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
-      "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T01:58:24.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 5
+  "sources": [],
+  "evidenceCount": 0
 }

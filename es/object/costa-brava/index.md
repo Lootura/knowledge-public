@@ -3,10 +3,16 @@
 > Sigue la actividad de Costa Brava en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-08-14T05:36:25.746Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/object/costa-brava
 
 ## Cambios recientes
+
+### 'Arriba Tutto', de José Mota, plato estrella del Festival Internacional de Cine de Begur
+
+Este viernes se inaugura la XII edición del Festival Internacional de Cine de Comedia de Begur, Costa Brava, y lo hace con 'Tiempos de ilusión' , de Olivier Nakache y Eric Toledano, la pareja de directores más populares en Francia desde que firmaron 'Intocable'. Hasta su clausura, el próximo día 12 de octubre, se ofrec.
+
+Date: 2026-09-30
 
 ### El lujo internacional encuentra refugio en Girona y la Costa Brava
 

@@ -3,10 +3,16 @@
 > Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-12T14:59:00.939Z
+- Actualizado: 2026-10-03T18:59:43.213Z
 - Canonical: https://atlas.lootura.com/es/place/los-angeles
 
 ## Cambios recientes
+
+### La leyenda está de vuelta: Saúl Craviotto regresa al piragüismo y mira a Juegos Olímpicos de Los Ángeles 2028
+
+Saúl Craviotto está de vuelta. Después de dos sabáticos, el olímpico español volverá a subirse a la piragua para unirse de nuevo al equipo de Miguel García en Trasona y volver a hacer equipo con Marcus Cooper, Carlos Arévalo y Rodrigo Germade. Una fantástica noticia para el deporte de nuestro país, que recupera a uno .
+
+Date: 2026-10-03
 
 ### Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así
 

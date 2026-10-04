@@ -3,10 +3,22 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T04:17:05.684Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### 4 ways to battle performance anxiety, according to a confidence coach
+
+Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment. (Image credit: Anton Vierietin/Getty Images).
+
+Date: 2026-10-03
+
+### How to Talk to Your Child About Body Image
+
+—Photo-Illustration by Chloe Dowling for TIME (Source Image: Halfpoint Images/Getty Images) When your kid comes home from school and says they hate their stomach, that nobody wants to be their friend because they’re “fat,” or that everyone in their class is better-looking than they are, you’d probably do anything to he.
+
+Date: 2026-09-30
 
 ### Dayanita Singh
 
@@ -56,19 +68,6 @@ A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear k
 
 Date: 2026-09-08
 
-### We Need a Cure for AI Health Hype
-
-—Pakin Songmor—Getty Images “I think it will actually be possible to cure most human disease in ~5-10 years, as crazy as it may sound to ordinary people and frankly to biologists as well (I used to be one!).” This is what Dario Amodei, the co-founder of Anthropic recently posted on X . Truth be told, this is not an unc.
-
-Date: 2026-09-05
-
-### AI Will Transform Work, But It Can't Replace Relationships
-
-—Monty Rakusen—Getty Images AI is everywhere. It's reshaping industries, accelerating innovation, and changing how millions of people work. And while AI will transform work, it is crystal clear to me that AI can not replace relationships. Working in real estate has taught me this firsthand. Great real estate agents are.
-
-Date: 2026-09-04
-
 ## Sources
 
-- [Dayanita Singh](https://time.com/collection/time100-art/2026/dayanita-singh/?utm_source=lootura.com) — 2026-09-17T12:01:32.000Z
-- [Luke Nikas](https://time.com/collection/time100-art/2026/luke-nikas/?utm_source=lootura.com) — 2026-09-17T12:01:33.000Z
+No public source links.

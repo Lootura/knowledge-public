@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/air-force-one/index.json",
   "description": "Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-10T03:02:42.851Z",
+  "updatedAt": "2026-10-01T04:06:59.232Z",
   "aliases": [
     "Boeing VC-25",
     "VC-137C",
     "VC-25A"
   ],
   "changes": [
+    {
+      "title": "White House removes CNN from press pool for Trump’s upcoming trip",
+      "summary": "CNN was previously scheduled to fly on Air Force One and also provide on-the-ground coverage of Trump’s trip.",
+      "date": "2026-10-01"
+    },
     {
       "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One",
       "summary": "The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.",
@@ -58,11 +63,6 @@
     {
       "title": "Trump Says Secret Service Ordered Air Force One Swap",
       "summary": "Trump claims his secret plane was in more danger than the Air Force One decoy the public thought Trump was flying on.",
-      "date": "2026-08-12"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.",
       "date": "2026-08-12"
     }
   ],

@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Ceuta llama, Sánchez no contesta
+
+San Pedro negó a Jesucristo tres veces antes de que cantara el gallo. Pedro Sánchez necesitó algo más de margen. Juan Jesús Vivas contó este miércoles ante la Audiencia Nacional que, entre el 27 y el 29 de julio, desde Ceuta intentaron contactar diez veces con el presidente del Gobierno . Diez . Obtuvieron tres respues.
+
+Date: 2026-10-01
 
 ### Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior
 
@@ -62,12 +68,6 @@ El presidente de Ceuta, Juan Jesús Vivas , ha desvelado este viernes que el Gob
 
 Date: 2026-09-11
 
-### Vivas exige a Bruselas más contundencia en la relación europea con Marruecos
-
-El presidente de Ceuta, Juan Jesús Vivas, ha viajado este martes hasta Bruselas para tratar de europeizar la crisis migratoria y exigir a la Unión Europea una respuesta “más contundente” hacia Marruecos que, a su juicio, “mantiene una política constante de hostigamiento” hacia la ciudad. Seguir leyendo...
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior](https://www.20minutos.es/ceuta/vivas-responde-salida-tono-sanchez-recuerda-que-competencia-para-identificar-los-menores-es-interior_7037979_0.html?utm_source=lootura.com) — 2026-09-17T10:54:04.000Z
+No public source links.

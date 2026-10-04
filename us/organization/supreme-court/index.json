@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,16 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
+      "summary": "Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age. Alito, 76, delivered that comment in a rare interview with CBS News scheduled to air on Monday, a litt.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "The Supreme Court faces another term jam-packed with controversy",
+      "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping. (Image credit: Roberto Schmidt).",
+      "date": "2026-10-03"
+    },
     {
       "title": "Are Trump’s Official Papers His Personal Property?",
       "summary": "The administration argues that presidential papers are like those of Supreme Court justices.",
@@ -55,24 +65,14 @@
       "title": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It",
       "summary": "The ruling by a lower court judge was another blow to President Trump’s effort to make voting by mail harder. The Supreme Court is also considering the Trump plan.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-      "summary": "The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction",
-      "summary": "The disgraced founder of the crypto exchange FTX is serving a 25-year prison sentence.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "Are Trump’s Official Papers His Personal Property?",
-      "url": "https://www.nytimes.com/2026/09/17/us/politics/the-docket-trump-presidential-records.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T16:04:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T10:00:24.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
     }
   ],
   "evidenceCount": 1

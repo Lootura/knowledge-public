@@ -3,10 +3,16 @@
 > Follow United States Immigration and Customs Enforcement, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-04T04:17:05.684Z
 - Canonical: https://atlas.lootura.com/us/organization/immigration-and-customs-enforcement
 
 ## Recent changes
+
+### Inside ICE's deportation surge
+
+Camilo Montoya-Galvez observed Immigration and Customs Enforcement agents as they went to arrest a man. This comes as ICE has come under renewed scrutiny, a month away from November's midterm elections.
+
+Date: 2026-10-03
 
 ### US judge blocks DHS from threatening prosecution against man who criticized ICE
 
@@ -61,12 +67,6 @@ Date: 2026-08-12
 A substance found in the work van of a Mexican immigrant killed by an Immigration and Customs Enforcement agent has tested negative for illicit drugs, the top prosecutor in Houston said Friday.
 
 Date: 2026-07-25
-
-### Video appears to show United employee threatening to call ICE on customer
-
-A United Airlines employee appears to have been caught on video threatening to call U.S. Immigration and Customs Enforcement on a passenger last week at San Francisco International Airport.
-
-Date: 2026-07-21
 
 ## Sources
 

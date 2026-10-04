@@ -3,10 +3,28 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente
+
+El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald Trump debía haber tenido eso en cuenta al lanzarse a la guerra con Irán, pero el caso es que, a un mes de las elecciones legislativas de medio mandato en Estados Uni.
+
+Date: 2026-10-04
+
+### Tezanos activa el CIS para ayudar a Sánchez en su reflexión: pregunta a los españoles si irán a votar y cuándo decidirán el voto
+
+El director del Centro de Investigaciones Sociológicas (CIS), Félix Tezanos , ha lanzado un sondeo para ayudar a Sánchez en su fin de semana de reflexión . Según ha podido comprobar OKDIARIO , el CIS está preguntando desde este fin de semana a miles de personas para conocer en detalle su intención de voto, sus preferen.
+
+Date: 2026-10-03
+
+### Fragmento del día: Ataques iraníes contra Israel de octubre de 2024
+
+Irán ataca a Israel con misiles balísticos como respuesta a los bombardeos israelíes en el Líbano, incluyendo la Invasión israelí qué ocurrió ese mismo día.
+
+Date: 2026-10-01
 
 ### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
 
@@ -50,24 +68,6 @@ Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pe
 
 Date: 2026-09-12
 
-### El Sur Global se alza contra los «privilegios» de Occidente
-
-La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencias del Sur Global , no solo congrega a los rivales de Occidente, como China, sino también a sus enemigos, como Rusia e Irán. Este grupo tan heterogéneo, que incluye también a Brasil, Sudáfrica, Arabia Saudí, Emiratos Árabes Unidos y otras na.
-
-Date: 2026-09-12
-
-### Irán reconoce estar en una fase "crítica y peligrosa" por la presión de EEUU
-
-El presidente iraní urge en el foro de los BRICS a diversificar socios y canales de pago para esquivar las sanciones, mientras India equilibra sus lazos económicos con Teherán y Moscú y su alianza estratégica con Washington Leer.
-
-Date: 2026-09-11
-
-### La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono
-
-El presidente de Estados Unidos, Donald Trump , rompió con la tradición que obliga a los presidentes estadounidenses, presentes y pasados, a participar en la ceremonia de conmemoración de los atentados del 11 de septiembre de 2001 en la Zona Cero de Nueva York en los grandes aniversarios. Aunque en el pasado otros mand.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente](https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com) — 2026-10-04T03:40:00.000Z

@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Elon Musk’s Grokipedia has a ‘newly refreshed’ design
+
+Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a "newly refreshed Grokipedia." Gro.
+
+Date: 2026-10-01
 
 ### Is Big Tech’s AI slowdown a safety pact or a cartel?
 
@@ -61,12 +67,6 @@ Date: 2026-09-03
 Believe it or not, the Tesla Cybercab is coming . Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Pub.
 
 Date: 2026-09-02
-
-### Funding milestone detected
-
-“Build the perfect monument to force a moment of introspection upon the world’s richest, ugliest little bitch.” | Image: Brendan SMIALOWSKI / AFP via Getty Images Cards Against Humanity is gearing up to build "something that will annoy Elon Musk," and it's crowdfunding the project with its usual flavor of vulgarity. Th.
-
-Date: 2026-08-14
 
 ## Sources
 

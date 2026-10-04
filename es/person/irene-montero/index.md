@@ -3,10 +3,22 @@
 > Sigue la actividad de Irene María Montero Gil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/person/irene-montero
 
 ## Cambios recientes
+
+### Junts y Podemos mantienen en vilo al Gobierno sin desvelar si apoyarán los decretos de vivienda
+
+Los independentistas catalanes, que ya unieron sus votos a PP y Vox para tumbar la moratoria de desahucios, critican dos de las medidas aprobadas, mientras el partido de Ione Belarra esperará a reunirse con el Sindicato de Inquilinas para comunicar su posición Irene Montero: "Nuestro voto a los decretos será el del Sin.
+
+Date: 2026-09-30
+
+### Irene Montero: "Nuestro voto a los decretos será el del Sindicato de Inquilinas y el de la gente de la calle"
+
+La número dos de Podemos evita confirmar expresamente el apoyo de su partido a los paquetes de medidas de vivienda que se votarán el viernes, pero afirma que respetará la "posición" que marque la acampada de la Puerta del Sol aunque considere que el Gobierno ha hecho "trampas" Junts y Podemos mantienen en vilo al Gobie.
+
+Date: 2026-09-30
 
 ### Urtasun abre la puerta a ser candidato de Sumar en las generales: "Estaré donde mis compañeros decidan"
 
@@ -53,18 +65,6 @@ Date: 2026-09-11
 ### Irene Montero lanza su candidatura para liderar Podemos de cara a las elecciones generales
 
 La eurodiputada de Podemos y exministra de Igualdad, Irene Montero , oficializará su determinación de liderar a la izquierda alternativa a través de una candidatura auspiciada por su partido a las próximas elecciones generales, con el objetivo de que sea lo más amplia posible.Así lo trasladará la también secretaria Pol.
-
-Date: 2026-09-11
-
-### Irene Montero oficializará su voluntad de liderar una candidatura de izquierdas en las elecciones generales
-
-La eurodiputada interviene este sábado en un acto en Madrid convocado por su partido, bajo el lema 'Paz, casa, trabajo' Leer.
-
-Date: 2026-09-11
-
-### Podemos lanza este sábado la candidatura de Irene Montero a las generales sin concretar aún las alianzas
-
-Podemos pone en marcha la maquinaria electoral para las generales en el arranque del curso político. El partido que dirige Ione Belarra tiene previsto lanzar este sábado oficialmente la candidatura de la exministra de Igualdad y eurodiputada Irene Montero a la presidencia del Gobierno, un movimiento que adelantaron ya.
 
 Date: 2026-09-11
 

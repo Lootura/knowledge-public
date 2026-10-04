@@ -3,10 +3,28 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)
+
+La Guardia Civil ha reactivado este domingo el dispositivo de búsqueda para localizar al hombre de 68 años desaparecido el pasado lunes en Losar de la Vera , junto a su perro. Las labores han arrancado a las 09:30 horas con la intervención de agentes de varias unidades de la Guardia Civil , voluntarios, efectivos de Pr.
+
+Date: 2026-10-04
+
+### Guardias civiles, sobre los avisos de la invasión a Ceuta: «Había que estar muy ciego para no verlo»
+
+Ángel Lezcano ha asumido el mando de Jucil en uno de los momentos más difíciles de la historia de la Guardia Civil. La imputación de Mercedes González y Manuel Llamas, la invasión de Ceuta, la pérdida de competencias o el auge del narcotráfico son algunas de las piedras que se ha ido encontrando por el camino y que val.
+
+Date: 2026-10-03
+
+### Herido un motorista de 65 años en un accidente de tráfico entre Gabarderal y Cáseda
+
+Un motorista de 65 años ha resultado herido este sábado tras registrar una salida de vía en la NA-5340, en el tramo comprendido entre Gabarderal y Cáseda . El aviso del siniestro se recibió a las 15.12 horas. Hasta el lugar acudieron una ambulancia de Soporte Vital Básico , un equipo médico de Cáseda y la Guardia Civil.
+
+Date: 2026-10-03
 
 ### Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)
 
@@ -50,24 +68,6 @@ Los gemelos Achatoui, miembros de una saga familiar de yihadistas, se colaron en
 
 Date: 2026-09-12
 
-### Dos guardias civiles agredidos por inmigrantes y un militar con peroné fracturado en Ceuta
-
-Dos guardias civiles agredidos en Ceuta a manos de inmigrantes y un militar con el peroné fracturado en menos de veinticuatro horas ha sido el resultado de dos nuevos incidentes ocurridos en la ciudad, según ha denunciado este sábado la Asociación Unificada de la Guardia Civil (AUGC). El primer incidente se produjo al.
-
-Date: 2026-09-12
-
-### Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia
-
-Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barbastro y de Huesca , han detenido en Barcelona a cuatro hombres acusados de 72 robos de material informático, valorado en unos 700.000 euros , en empresas de Cataluña, Aragón y Comunidad Valenciana. La policía catalana ha informado este sábado.
-
-Date: 2026-09-12
-
-### Un hombre de 68 años muere tras caerle encima varias pacas de paja en Berzocana (Cáceres)
-
-Un hombre de 68 años ha fallecido este sábado tras caerle encima varias pacas de paja en Berzocana (Cáceres), según han informado el Centro 112 de Extremadura y la Guardia Civil . El suceso se ha producido en torno a las 07,52 horas en la finca 'La Mezquita' , en la carretera CC-422, cerca de la localidad cacereña. En.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Dos heridos graves en un choque frontal entre dos turismos en Siero (Asturias)](https://www.elconfidencial.com/espana/2026-09-17/heridos-graves-choque-frontal-siero-1tna-1tps_4426021/?utm_source=lootura.com) — 2026-09-17T14:58:00.000Z
+- [La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)](https://www.elconfidencial.com/espana/2026-10-04/busqueda-hombre-desaparecido-losar-vera-1tna-1tps_4437955/?utm_source=lootura.com) — 2026-10-04T11:36:00.000Z

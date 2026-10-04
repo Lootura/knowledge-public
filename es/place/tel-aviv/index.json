@@ -1,0 +1,54 @@
+{
+  "id": "es-tel-aviv",
+  "name": "Tel Aviv",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/tel-aviv",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/tel-aviv",
+  "markdownUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.json",
+  "description": "Sigue la actividad de Tel Aviv en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-01T04:06:40.370Z",
+  "aliases": [
+    "TLV",
+    "Tel Aviv City",
+    "Tel Aviv Jaffa",
+    "Tel Aviv Yafo",
+    "Tel Aviv, Israel",
+    "Tel Aviv-Jaffa",
+    "Tel Aviv-Jafo",
+    "Tel Aviv-Yaffo",
+    "Tel Aviv-Yafo",
+    "Tel-Aviv Jaffa",
+    "Tel-Aviv Yafo"
+  ],
+  "changes": [
+    {
+      "title": "Israel enmarca el atentado aéreo como un ataque «contra los acuerdos de Abraham»",
+      "summary": "El Ministerio de Asuntos Exteriores de Israel ha comunicado este miércoles a sus diplomáticos que el incidente ocurrido en un vuelo de los Emiratos Árabes Unidos a Tel Aviv, que obligó a realizar un aterrizaje de emergencia, fue un ataque destinado a socavar las relaciones entre ambos aliados.El director general del mi.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Pánico a bordo del vuelo FZ1073 con destino a Tel Aviv: “Acabamos de neutralizar al terrorista. Necesitamos ayuda”",
+      "summary": "Eran las 8.22 del miércoles cuando a bordo del vuelo FZ1073 de Flydubai entre Dubái y Tel Aviv se registró una súbita pérdida de altura, movimientos bruscos del avión y los primeros gritos de una mujer desde la parte delantera. “¡Lo están matando, lo están matando!” . Muchos de los 174 pasajeros se preguntaron a qué se.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Cronología visual del intento de secuestro del vuelo de FlyDubai con destino a Tel Aviv",
+      "summary": "Desde las primeras turbulencias hasta su aterrizaje en Israel, este vídeo reconstruye los momentos de tensión vividos por los pasajeros.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tel Aviv first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Un pasajero del vuelo de Dubái a Tel Aviv: “Até las manos al terrorista con unos auriculares”",
+      "summary": "Cuando el avión comenzó a descender a un ritmo infernal y sin explicación alguna, Shota Musaieb, uno de los pasajeros israelíes en el vuelo de Dubái a Tel Aviv , tuvo como primer reflejo empezar a grabar todo con el teléfono móvil. “No pensé que fuese un atentado. Empecé a grabar todo. Mi miedo era que, si todo acabase.",
+      "date": "2026-09-30"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

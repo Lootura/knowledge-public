@@ -3,10 +3,16 @@
 > Follow Air Force One, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/concept/air-force-one
 
 ## Recent changes
+
+### White House removes CNN from press pool for Trump’s upcoming trip
+
+CNN was previously scheduled to fly on Air Force One and also provide on-the-ground coverage of Trump’s trip.
+
+Date: 2026-10-01
 
 ### Trump Is Delayed After Emergency Slide Deploys on New Air Force One
 
@@ -59,12 +65,6 @@ Date: 2026-08-12
 ### Trump Says Secret Service Ordered Air Force One Swap
 
 Trump claims his secret plane was in more danger than the Air Force One decoy the public thought Trump was flying on.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.
 
 Date: 2026-08-12
 

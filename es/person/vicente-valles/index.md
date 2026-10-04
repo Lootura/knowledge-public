@@ -3,10 +3,22 @@
 > Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/vicente-valles
 
 ## Cambios recientes
+
+### Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»
+
+Nueva derrota para el Gobierno . El Congreso ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP, Vox, Junts y UPN han votado en contra de ambos textos, tal y como habían advertido. PNV y Coalición Canaria han apoyado la primera iniciativa, aun.
+
+Date: 2026-10-04
+
+### Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»
+
+Nueva derrota para el Gobierno . El Congreso ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP, Vox, Junts y UPN han votado en contra de ambos textos, tal y como habían advertido. PNV y Coalición Canaria han apoyado la primera iniciativa, aun.
+
+Date: 2026-10-03
 
 ### Puente resta valor a los avisos del CNI sobre Ceuta: «Ser ‘capitán a posteriori’ es muy fácil»
 
@@ -52,4 +64,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»](https://www.abc.es/play/television/noticias/vicente-valles-sobre-pedro-sanchez-convocara-elecciones-20261003112942-nt.html?utm_source=lootura.com) — 2026-10-04T12:17:22.000Z

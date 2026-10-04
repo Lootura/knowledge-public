@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T09:11:13.063Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "\"Al 70% habrá elecciones anticipadas\"",
+      "summary": "El entorno de Sánchez apuesta por un adelanto electoral, pero el presidente sopesa si convocar ya o intentar aprobar nuevas medidas de vivienda A esta hora, la decisión no está tomada. Tampoco el calendario. Durante el fin de semana, el presidente está escuchando a su equipo más cercano, en La Moncloa y en el partido.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
+      "summary": "El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Feijóo exige urnas a Sánchez y promete 600.000 viviendas: «España no aguanta más»",
+      "summary": "El presidente del PP, Alberto Núñez Feijóo , ha reclamado este sábado a Pedro Sánchez que convoque elecciones generales y «ponga fin a esta agonía» porque considera que España «no aguanta más». El popular ha situado además la vivienda como una de sus principales prioridades si llega a La Moncloa y ha anunciado un plan.",
+      "date": "2026-10-03"
+    },
     {
       "title": "El Gobierno crea una vía preferente para aprobar inversiones estratégicas en un mes",
       "summary": "El Gobierno tiene ya listo el texto definitivo que regula el llamado comité de inversiones estratégicas, un órgano innovador que permitirá a determinadas empresas estratégicas conseguir una vía rápida para operar en España en el plazo de un mes. Este órgano, copresidido por La Moncloa y el Ministerio de Economía, permi.",
@@ -48,23 +63,21 @@
       "title": "¿Qué hará Sánchez sin La Mareta?",
       "summary": "A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "El PSOE ha perdido 23.388 militantes desde que Pedro Sánchez llegó a La Moncloa en 2018",
-      "summary": "De los 171.036 militantes que alcanzó con su Gobierno en solitario, le quedan 147.648 Leer.",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "Moncloa, la Xunta, el PP defienden la fábrica china frente a los informes de Defensa: \"Se analizará la inversión\", pero convencidos del proyecto",
-      "summary": "La Moncloa, la Xunta de Galicia y el PP defienden la fábrica china frente a los informes del Ejército que alertan del riesgo para la seguridad de la futura planta en el puerto de...",
-      "date": "2026-08-10"
-    },
-    {
-      "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, celebró ayer una videoconferencia con cuatro de sus ministros por la situación en Ceuta desde su descanso veraniego en la finca de La Mareta en Lanzarote y desde La Moncloa se envió a los medios un video y una fotografía del momento. El caso es que la imagen fija del episodio.",
-      "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
+      "url": "https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T23:51:12.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "\"Al 70% habrá elecciones anticipadas\"",
+      "url": "https://www.eldiario.es/escolar/70-habra-elecciones-anticipadas_132_13560329.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T07:34:28.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 2
 }

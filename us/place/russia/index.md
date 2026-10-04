@@ -3,10 +3,40 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T09:12:35.113Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
+
+President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
+
+Date: 2026-10-04
+
+### Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce
+
+As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.
+
+Date: 2026-10-04
+
+### Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline
+
+The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.
+
+Date: 2026-10-03
+
+### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
+
+President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
+
+Date: 2026-10-03
+
+### How Ukrainians are coping with new, more deadly Russian attacks
+
+Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.
+
+Date: 2026-09-30
 
 ### House passes Russia sanctions bill, overcoming Democratic opposition
 
@@ -38,36 +68,7 @@ Ukrainian President Volodymyr Zelenskyy speaks with CBS News' Aidan Stretch abou
 
 Date: 2026-09-16
 
-### DOJ accuses Russian intel agents of plotting to murder U.S.-based dissident
-
-The Justice Department is accusing several members of Russia's intelligence services of running a "global assassination network" that targeted Kremlin critics.
-
-Date: 2026-09-16
-
-### Russia seizes Ukrainian POWs, then it demands favors from their relatives
-
-Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia. (Image credit: Francisco Seco).
-
-Date: 2026-09-16
-
-### Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.
-
-Russians are braced for what may follow for the military and economy after a parliamentary election that the Kremlin sees as a means of legitimizing its policies.
-
-Date: 2026-09-16
-
-### U.S. Has Deployed Weapons in Space, Air Force Secretary Says
-
-Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.
-
-Date: 2026-09-15
-
-### Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure
-
-His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.
-
-Date: 2026-09-14
-
 ## Sources
 
-No public source links.
+- [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
+- [Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce](https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html?utm_source=lootura.com) — 2026-10-04T09:01:49.000Z

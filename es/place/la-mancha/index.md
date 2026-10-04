@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Las lluvias y tormentas pondrán este jueves en aviso a 9 CCAA, 5 en nivel naranja por precipitaciones, con olas en Galicia
+
+Las lluvias y las tormentas pondrán este jueves en aviso a nueve comunidades autónomas (CCAA) en un día en el que cinco alcanzarán el nivel naranja por precipitaciones - Aragón , Baleares , Castilla-La Mancha, Cataluña y Comunidad Valenciana- y habrá aviso por oleaje en Galicia , según la predicción de la Agencia Estat.
+
+Date: 2026-09-30
 
 ### C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias
 
@@ -62,12 +68,6 @@ Una mujer de 64 años ha muerto tras resultar herida por asta de toro en un enci
 
 Date: 2026-09-05
 
-### Asturias y Castilla-La Mancha confirman la brecha en el PSOE por la financiación autonómica y no apoyarán la propuesta
-
-Los gobiernos socialistas de Asturias y Castilla-La Mancha votarán este viernes en contra de llevar al Parlamento la propuesta de reforma de la financiación autonómica planteada por el Gobierno central, según han confirmado a ABC este mismo viernes fuentes de ambos ejecutivos autonómicos. Mantienen los argumentos que f.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias](https://www.elconfidencial.com/espana/2026-09-17/transicion-castilla-la-mancha-programa-1hms-1tna_4425736/?utm_source=lootura.com) — 2026-09-17T10:45:00.000Z
+No public source links.

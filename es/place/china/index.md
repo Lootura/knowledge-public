@@ -3,10 +3,28 @@
 > Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/china
 
 ## Cambios recientes
+
+### Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital
+
+La contaminación atmosférica ha marcado durante décadas el desarrollo urbano de Pekín . Las partículas en suspensión, especialmente las PM2.5 , situaron a la capital china entre las ciudades con peor calidad del aire del mundo a comienzos de la pasada década. Desde entonces, los datos fueron observados por autoridades.
+
+Date: 2026-10-04
+
+### ¿Puede mi empresa sustituirme por un clon?
+
+Trabajadores que se copian a sí mismos. Un ingeniero de la tecnológica china Baidu entrenó a su avatar para que siguiera realizando su trabajo una vez abandonara la compañía. La historia, publicada por la revista digital Sixth Tone , plantea una posibilidad incómoda para los trabajadores. En un escenario así, una empre.
+
+Date: 2026-10-04
+
+### China convirtió 6.000 botellas de leche en una calle de 300 metros: así se mete el plástico dentro del asfalto
+
+Calle de plástico en China: 300 metros de asfalto con 6.000 botellas de leche recicladas. Cómo funciona y qué dicen los estudios sobre microplásticos.
+
+Date: 2026-10-03
 
 ### Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares
 
@@ -50,24 +68,6 @@ El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero 
 
 Date: 2026-09-14
 
-### Washington y Pekín coinciden por una vez: la IA no se debe frenar
-
-Las principales voces de la industria piden más regulación pero tanto los gobiernos de China como de EEUU ven en la tecnología la herramienta perfecta para dominar la escena geopolítica Leer.
-
-Date: 2026-09-14
-
-### China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación
-
-El Ministerio chino de Exteriores asegura que la difusión de narrativas de amenaza o fomentar la confrontación solo obstaculizará el proceso de gobernanza de la inteligencia artificial, en medio del debate generado en Estados Unidos sobre la necesidad de frenar el desarrollo de esta tecnología. Seguir leyendo...
-
-Date: 2026-09-14
-
-### El Sur Global se alza contra los «privilegios» de Occidente
-
-La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencias del Sur Global , no solo congrega a los rivales de Occidente, como China, sino también a sus enemigos, como Rusia e Irán. Este grupo tan heterogéneo, que incluye también a Brasil, Sudáfrica, Arabia Saudí, Emiratos Árabes Unidos y otras na.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares](https://cincodias.elpais.com/companias/2026-09-17/santana-se-alia-con-el-gigante-chino-baic-para-ensamblar-coches-electricos-en-linares.html?utm_source=lootura.com) — 2026-09-17T14:34:14.000Z
+- [Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital](https://okdiario.com/ciencia/nadie-lo-esperaba-pero-ciencia-lo-reafirma-china-fulmina-12-anos-98-contaminacion-capital-16120833?utm_source=lootura.com) — 2026-10-04T13:31:56.000Z

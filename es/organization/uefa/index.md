@@ -3,10 +3,16 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
+
+### La UEFA confía en un árbitro español para el polémico Irlanda – Israel que se jugará… ¡en Serbia!
+
+La UEFA ha elegido a Juan Martínez Munuera para arbitrar uno de los partidos más polémicos que tiene en esta ventana de selecciones, el duelo entre Irlanda e Israel que se jugará… en Serbia . Los irlandeses, en su boicot contra Israel, se negaron a jugar este partido en su territorio, llevando el encuentro por decisión.
+
+Date: 2026-10-03
 
 ### El Bernabéu se vuelca con Ceuta y luce un impresionante mosaico en plena crisis migratoria: "No se vende, se defiende"
 
@@ -58,4 +64,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Croacia - España: fecha, horario y dónde ver el próximo partido de La Roja en la Nations League](https://www.elindependiente.com/deportes/2026/10/04/croacia-espana-fecha-hora-donde-ver-proximo-partido-espana/?utm_source=lootura.com) — 2026-10-04T06:00:00.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,31 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "summary": "The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
+      "summary": "We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
+      "summary": "Amid latest extraordinary attack on diversity, US defense secretary also suggests military is retaining service personnel at ‘record’ rates Send us your questions about how the Iran war will affect US voters in the midterms The US defense secretary, Pete Hegseth, has confirmed plans to cut 20% of generals and admirals.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war",
       "summary": "Nearly the entire Democratic caucus in the Senate is demanding that Defense Secretary Pete Hegseth provide Congress with a full accounting of the cost of the war in Iran along with related budget requests, as frustration grows that the Pentagon is not being forthcoming about the war and its fiscal impact.",
@@ -40,58 +65,27 @@
       "title": "Rising gas prices fuel protests in countries around the world",
       "summary": "Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Is Iran Shaping Up to Be a ‘Forever War’?",
-      "summary": "Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Expert: Images of damaged U.S. bases in Middle East show Iran \"getting help from Russia and China\"",
-      "summary": "CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins \"The Takeout\" with his reaction.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Iran war has cost the U.S. more than $38 billion so far, budget office says",
-      "summary": "The estimates come largely from replacing munitions and equipment lost in battle, the CBO said, and do not include costs related to U.S. military personnel killed or injured in the conflict or longer term effects.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "How nearly 7 months of war have changed daily life in Iran",
-      "summary": "For the third time, the House of Representatives voted to end the war with Iran. That war powers resolution would stop President Trump from continuing military action against Iran without congressional approval, but it still needs to pass the Senate. The push comes more than six months into a conflict Trump said would.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Interest rate hike a 'reassuring' sign Fed is acting independently, economist says",
-      "summary": "The Federal Reserve raised interest rates by a quarter of a point, the first hike in three years. It comes as the war in Iran continues to put pressure on prices and is the first major move by Fed Chair Kevin Warsh to combat elevated inflation. Geoff Bennett discussed more with economist Julia Coronado of MacroPolicy P.",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
     {
-      "title": "Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war",
-      "url": "https://www.nbcnews.com/politics/national-security/democratic-senators-request-pentagon-provide-bare-minimum-cost-war-rcna598293?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T14:36:19.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
+      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+      "url": "https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:40:52.181Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T12:33:36.000Z",
-      "sourceId": "lootura-us-npr-world"
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T10:45:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
-      "title": "Global Economy Is Running Out of Wiggle Room",
-      "url": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T13:14:06.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
-      "url": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T16:10:18.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T09:03:44.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

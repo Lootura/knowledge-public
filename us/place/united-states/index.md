@@ -3,76 +3,78 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### America has more millionaires than you think. Here's how most of them got rich.
+### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
 
-Getting rich in the U.S. is still possible, but the most common path to wealth doesn't involve working for other people, according to a new book.
+President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
+### US Marine Accused of Murdering Woman in Japan Hotel
 
-The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
+A United States Marine is being held in Japan, accused of murder. Local police say 20-year-old Lance Corporal Devin Jacob Ballard brought a woman to a hotel before killing her and taking her wallet and backpack. Ballard has denied the allegations.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### State Department Extends Visa Ban on Abbas, Other Palestinian Officials
+### Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa
 
-The move would prevent Mahmoud Abbas, the leader of two governing Palestinian groups, from traveling to the United States next week for the United Nations General Assembly.
+The matter threatened to revive tensions over the American military presence on the Japanese archipelago.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack
+### Superpowers Race to Put Nuclear Reactors on the Moon
 
-Human rights experts commissioned by the U.N. say they have found "reasonable grounds" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab. (Image credit: Vahid Salemi).
+The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Coast Guard and FBI boarded tankers due to cyberattacks. How big is the risk?
+### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
-U.S. Coast Guard personnel and FBI agents boarded two Texas-bound energy tankers last month after cyberattacks struck the vessels while they were traveling toward the United States, according to U.S. officials.
+The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Big questions - and key logistical details - loom ahead of China-U.S. summit
+### America’s Health Care Workforce Is in Crisis
 
-Despite the lingering questions, China remains optimistic about the summit. (Image credit: Evan Vucci).
+—tab1962—Getty Images Dr. Jonathan Tyes once struggled to imagine a future in medicine for himself. A first-generation college student and the oldest of 10 siblings, Tyes was raised by his grandparents in Cleveland. While studying biology at Morehouse College, he was a few credits from graduation when his grandmother d.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### E.U.-Canada Ambitions Face Reality Check as Trump Bristles
+### 11-year-old cancer survivor shares his story
 
-The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.
+About 500,000 cancer survivors were first diagnosed under the age of 20 in the U.S, according to the National Cancer Institute. Michael George has one boy's story.
 
-Date: 2026-09-17
+Date: 2026-10-03
 
-### Trump Sanctions on Cuba Strands Thousands Of Shipping Containers
+### Coast Guard finds debris from medical plane carrying 6 people
 
-The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story.
+Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing. (Image credit: U.S. Coast Guard).
 
-Date: 2026-09-17
+Date: 2026-10-03
 
-### Here's why an Arizona medical examiner is working to track heat-related deaths
+### Economist Betsey Stevenson breaks down the gender gap in recent hiring reports
 
-No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths. (Image credit: Cassidy Araiza for NPR).
+The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.
 
-Date: 2026-09-16
+Date: 2026-10-03
 
-### Why Israel Wants More One-Ton Bombs From the U.S.
+### Trump pledges to send $90 checks to millions of seniors on Medicare
 
-The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.
+President Donald Trump promised on Friday to give $90 rebate checks to offset premiums for millions of U.S. seniors on Medicare, his latest pledge to send money to Americans ahead of the midterm elections.
 
-Date: 2026-09-16
+Date: 2026-10-03
 
 ## Sources
 
-- [America has more millionaires than you think. Here's how most of them got rich.](https://www.cbsnews.com/news/everywhere-millionaires-business-ownership-wealth/?utm_source=lootura.com) — 2026-09-17T09:00:00.000Z
-- [Here's why an Arizona medical examiner is working to track heat-related deaths](https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner?utm_source=lootura.com) — 2026-09-16T23:07:40.000Z
-- [U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack](https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes?utm_source=lootura.com) — 2026-09-17T12:33:36.000Z
-- [Why Israel Wants More One-Ton Bombs From the U.S.](https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html?utm_source=lootura.com) — 2026-09-16T23:41:22.000Z
-- [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com) — 2026-09-17T01:58:24.000Z
-- [State Department Extends Visa Ban on Abbas, Other Palestinian Officials](https://www.nytimes.com/2026/09/16/us/politics/visa-ban-abbas.html?utm_source=lootura.com) — 2026-09-17T09:24:20.000Z
+- [11-year-old cancer survivor shares his story](https://www.cbsnews.com/video/11-year-old-cancer-survivor-shares-his-story/?utm_source=lootura.com) — 2026-10-03T21:03:32.000Z
+- [US Marine Accused of Murdering Woman in Japan Hotel](https://www.today.com/video/us-marine-accused-of-murdering-woman-in-japan-hotel-270984773673?utm_source=lootura.com) — 2026-10-04T12:29:28.000Z
+- [Coast Guard finds debris from medical plane carrying 6 people](https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts?utm_source=lootura.com) — 2026-10-03T22:31:04.000Z
+- [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
+- [Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa](https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html?utm_source=lootura.com) — 2026-10-04T08:38:42.000Z
+- [Superpowers Race to Put Nuclear Reactors on the Moon](https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html?utm_source=lootura.com) — 2026-10-04T09:00:29.000Z
+- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z
+- [America’s Health Care Workforce Is in Crisis](https://time.com/article/2026/10/04/us-health-care-workforce-in-crisis/?utm_source=lootura.com) — 2026-10-04T10:00:06.000Z

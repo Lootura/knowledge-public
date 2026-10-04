@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T09:11:13.063Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,16 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
+      "summary": "El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia",
+      "summary": "Una tromba de agua de casi dos horas ha dejado numerosas inundaciones y balsas de agua en carreteras y calles de Bizkaia. El Centro de Emergencias de Euskadi ha registrado hasta las 20.30 horas de este sábado un total de 150 incidencias relacionadas con las intensas precipitaciones, 137 de ellas en Bilbao, según ha inf.",
+      "date": "2026-10-03"
+    },
     {
       "title": "La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores",
       "summary": "Frente a la habitual caída que deja el cierre estival, el proceso de regularización hizo crecer el pasado mes su número de cotizantes en 1.500 personas.",
@@ -62,18 +72,21 @@
       "title": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
       "summary": "Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi",
-      "summary": "La embarcación navega de nuevo para «denunciar el genocidio, la ocupación y la limpieza étnica en Gaza y Palestina» y estará aquí hasta el próximo martes.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas",
-      "summary": "Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
+      "url": "https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:13:17.000Z",
+      "sourceId": "lootura-es-el-correo"
+    },
+    {
+      "title": "Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia",
+      "url": "https://elpais.com/espana/2026-10-03/las-fuertes-lluvias-inundan-el-centro-de-bilbao-y-causan-numerosas-incidencias-en-bizkaia.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T20:22:46.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
 }

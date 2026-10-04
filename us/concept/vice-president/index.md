@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Sources
 
-- [JD Vance faces test in White House meeting with Israel-backing radio host](https://www.politico.com/news/2026/09/17/jd-vance-faces-test-in-white-house-meeting-with-israel-backing-radio-host-01081577?utm_source=lootura.com) — 2026-09-17T09:50:00.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-01T09:10:04.817Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/place/west-virginia
 
 ## Recent changes
+
+### TikTok couple charged with arson after house fire causes $10K in damage
+
+A TikTok couple was arrested Tuesday for allegedly setting an abandoned West Virginia home on fire, possibly causing more than $10,000 in damage to a nearby church. Dakota Harper, 21, and Felicity Eatmon, 22, were each charged with first-degree arson and one count of conspiring to commit an offense that carries a poten.
+
+Date: 2026-10-01
 
 ### At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail
 

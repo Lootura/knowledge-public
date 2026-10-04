@@ -46,4 +46,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid](https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html?utm_source=lootura.com) — 2026-09-17T09:03:57.000Z
+No public source links.

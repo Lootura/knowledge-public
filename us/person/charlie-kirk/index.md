@@ -3,10 +3,16 @@
 > Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/charlie-kirk
 
 ## Recent changes
+
+### Utah Gov. Spencer Cox on his blueprint for depolarizing a fractured nation
+
+In the aftermath of the shooting death of conservative activist Charlie Kirk, Utah Gov. Spencer Cox emerged as a prominent voice calling on Americans to step back from the political hatred and violence gripping the country. Now, the Republican governor is expanding on that message in a new book, "Off Ramp: How to Be a.
+
+Date: 2026-09-30
 
 ### Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk
 
@@ -59,12 +65,6 @@ Date: 2026-09-10
 ### Charlie Kirk's alleged killer will stand trial for aggravated murder
 
 Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.
-
-Date: 2026-09-02
-
-### Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules
-
-A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.
 
 Date: 2026-09-02
 

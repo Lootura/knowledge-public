@@ -3,10 +3,22 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta
+
+España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.
+
+Date: 2026-10-04
+
+### Brett Christophers, geógrafo económico: “En el capitalismo contemporáneo, el derecho a la vivienda no existe”
+
+Brett Christophers (Croydon, Reino Unido, 55 años) lleva años empapándose de las estrategias de grandes corporaciones. Empezó estudiando la gran banca , como a JP Morgan o Goldman Sachs. Pero pronto se percató de que esos nombres quedaban relegados en las agendas de políticos y personas influyentes por los de fondos de.
+
+Date: 2026-10-01
 
 ### Elon Musk despliega su máquina de caos político en el Reino Unido
 
@@ -56,18 +68,6 @@ La vuelta del príncipe Harry y Meghan Markle a Reino Unido vuelve a colocar a l
 
 Date: 2026-09-10
 
-### Desastre educativo en España, con el peor resultado de su historia en el informe PISA: hasta dos cursos escolares de retraso respecto a Reino Unido
-
-España cae 23 puntos en Lectura, 16 en Matemáticas y ocho en Ciencias. La OCDE advierte de las pantallas y pone como ejemplo el "trabajo duro" de los alumnos asiáticos "haciendo deberes" Leer.
-
-Date: 2026-09-08
-
-### Meghan Markle rompe su silencio tras el traslado a Reino Unido y comparte una foto de su hijo Archie
-
-El Príncipe Harry y su familia ya están en Reino Unido y, supuestamente, asentados en los Cotswolds. Una zona rural a dos horas en coche de Londres en donde otras celebridades como los Beckham tienen también una residencia. Pero en este proceso de mudanza, Meghan Markle ha tenido que despedirse de alguien que la unía c.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [LaLiga y EA Sports reúnen a Figo, Marcelo, Rivaldo y Mascherano en Nueva York](https://theobjective.com/deportes/2026-09-17/figo-marcelo-rivaldo-mascherano-nueva-york/?utm_source=lootura.com) — 2026-09-17T14:56:33.000Z
+No public source links.

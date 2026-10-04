@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/warner-bros/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/warner-bros/index.json",
   "description": "Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T16:50:57.847Z",
+  "updatedAt": "2026-10-01T04:06:59.232Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Judge allows Paramount to close $110 billion takeover of Warner Bros. Discovery",
+      "summary": "The deal brings together the likes of CBS News and CNN, HBO Max and Paramount+, and storied film studios Warner Bros. and Paramount Pictures.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "The new and huger Paramount has a new co-CEO",
+      "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount , \"Ellison will focus on the company's long-term strategy,.",
+      "date": "2026-09-30"
+    },
     {
       "title": "The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park",
       "summary": "(L-R): Ewan McGregor as Greg and Anne Hathaway as Denise in The End of Oak Street —Warner Bros. Pictures It's been 33 years since the enduring cinematic masterpiece that is Jurassic Park first hit theaters in June 1993. Since that fateful summer, Steven Spielberg's sci-fi survival thriller has reigned supreme as the un.",
@@ -50,16 +60,6 @@
       "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
       "summary": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).",
       "date": "2026-07-14"
-    },
-    {
-      "title": "12 states sue to block merger between Paramount, Warner Bros. Discovery",
-      "summary": "A coalition of a dozen states on Monday sued to block Paramount Skydance.",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Warner Bros. first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-13"
     }
   ],
   "sources": [],

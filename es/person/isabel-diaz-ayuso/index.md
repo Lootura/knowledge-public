@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid
+
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha hecho oficial que el carné senior para las personas mayores de 55 años empadronados en la región, será una realidad en los próximos meses de 2027 . Este carné nace con el objetivo de fomentar el envejecimiento activo y mejorar la calidad de vida de este sec.
+
+Date: 2026-10-04
 
 ### Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”
 
@@ -62,16 +68,6 @@ La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha celebrado este 
 
 Date: 2026-09-13
 
-### El GP de España de Fórmula 1 en Madrid, en imágenes
-
-El Rey con la Princesa y la infanta en el circuito antes del inicio de la carrera. | Oscar J. Barroso (AFP7 / Europa Press) La Familia Real saluda a las autoridades, entre las que se encontraba la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso. | Oscar J. Barroso (AFP7 / Europa Press) Momento de la carrera. Da.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-- [Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”](https://elpais.com/espana/madrid/2026-09-17/ayuso-comparece-en-la-asamblea-de-madrid-en-plena-polemica-por-el-maquillaje-de-las-listas-de-espera-sanitarias.html?utm_source=lootura.com) — 2026-09-17T08:50:09.000Z
-- [Nadie compra el ático por el que el Gobierno de Ayuso pagó 6,3 millones de euros: la subasta queda desierta](https://elpais.com/espana/madrid/2026-09-17/nadie-compra-el-atico-por-el-que-el-gobierno-de-ayuso-pago-63-millones-de-euros-la-subasta-queda-desierta.html?utm_source=lootura.com) — 2026-09-17T14:19:04.000Z
-- [Lo importante es el bulo del culo](https://elpais.com/espana/madrid/2026-09-17/lo-importante-es-el-bulo-del-culo.html?utm_source=lootura.com) — 2026-09-17T12:33:43.000Z
-- [La subasta por el ático de Ayuso queda desierta por falta de ofertas](https://www.lavanguardia.com/politica/20260917/11637400/subasta-atico-ayuso-queda-desierta-falta-ofertas.html?utm_source=lootura.com) — 2026-09-17T14:49:46.000Z
-- [Ayuso se hace eco de los vídeos de OKDIARIO: "Manipula las citas sanitarias un señor que revienta el coche de su jefe"](https://okdiario.com/madrid/ayuso-hace-eco-videos-okdiario-manipula-citas-sanitarias-senor-que-revienta-coche-jefe-20313570/amp?utm_source=lootura.com) — 2026-09-17T09:10:52.000Z
+- [Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid](https://www.elindependiente.com/economia/2026/10/04/cuando-como-conseguir-carne-senior-comunidad-madrid/?utm_source=lootura.com) — 2026-10-04T06:30:00.000Z

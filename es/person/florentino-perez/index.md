@@ -34,4 +34,4 @@ Date: 2026-08-13
 
 ## Fuentes
 
-- [Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas](https://elpais.com/deportes/futbol/2026-09-17/florentino-perez-visita-ceuta-este-viernes-tres-dias-despues-de-la-polemica-de-las-camisetas.html?utm_source=lootura.com) — 2026-09-17T11:37:02.000Z
+No public source links.

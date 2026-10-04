@@ -3,10 +3,22 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno
+
+La acampada de Sol ha llegado a Alicante . Esta última, la segunda ciudad de la Comunidad Valenciana. En esa ciudad, se han instalado en apenas 24 horas más de medio centenar de tiendas de campaña . Concretamente, en la conocida como Plaza de La Montañeta, en pleno centro urbano. La ocupación de la citada plaza comenzó.
+
+Date: 2026-10-04
+
+### Las lluvias y tormentas pondrán este jueves en aviso a 9 CCAA, 5 en nivel naranja por precipitaciones, con olas en Galicia
+
+Las lluvias y las tormentas pondrán este jueves en aviso a nueve comunidades autónomas (CCAA) en un día en el que cinco alcanzarán el nivel naranja por precipitaciones - Aragón , Baleares , Castilla-La Mancha, Cataluña y Comunidad Valenciana- y habrá aviso por oleaje en Galicia , según la predicción de la Agencia Estat.
+
+Date: 2026-09-30
 
 ### Roberto Brasero, sobre las lluvias de este jueves: "Pueden seguir las lluvias y tormentas en las mismas zonas pero ya irán perdiendo intensidad"
 
@@ -56,18 +68,6 @@ Con gritos, aplausos y alguna lágrima de emoción, así vivió España su prime
 
 Date: 2026-08-12
 
-### Eclipse solar total del 12 de agosto, en directo: última hora, dónde verlo en España, horarios y recomendaciones
-
-El eclipse solar que ha atravesado España ha alcanzado su fase total hasta cubrir con su sombra 36 provincias situadas en la franja que atraviesa Galicia, Asturias, Cantabria, País Vasco, Navarra, La Rioja, Castilla y León, Comunidad de Madrid, Castilla-La Mancha, Aragón, Cataluña, Comunidad Valenciana y Baleares.
-
-Date: 2026-08-12
-
-### La AEMET avisa por las temperaturas en la Comunidad Valenciana: «Valores significativamente elevados»
-
-La Agencia Estatal de Meteorología avisa por temperaturas significativamente altas que se producirán en algunos puntos de la Comunidad Valenciana en este martes 11 de agosto. La AEMET apunta al interior de la provincia de Valencia, donde los termómetros se dispararán hasta los 38 grados, siendo la máxima que se registr.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [La acampada de Sol llega a Alicante: más de 50 tiendas frente a una blindada subdelegación del Gobierno](https://okdiario.com/comunidad-valenciana/acampada-sol-llega-alicante-mas-50-tiendas-frente-blindada-subdelegacion-del-gobierno-20472775?utm_source=lootura.com) — 2026-10-04T13:09:30.000Z

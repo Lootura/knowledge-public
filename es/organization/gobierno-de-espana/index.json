@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T09:11:13.063Z",
+  "updatedAt": "2026-10-04T04:16:43.439Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "La ministra y sus buitres",
+      "summary": "La degradación a que ha llegado el actual Gobierno de España era inimaginable hace escasos años. Ver y oír cómo toda una señora ministra afirma sin pestañear que una pequeña empresa inmobiliaria es «una pyme buitre, muy carroñera» ( sic ) es más propio de una algarada de cercanos al coma etílico que de alguien que tien.",
+      "date": "2026-10-04"
+    },
     {
       "title": "España destina 126 millones a 52 proyectos de ciudades inteligentes",
       "summary": "El Gobierno de España, a través de la entidad pública Red.es, publicó este martes la resolución del programa RedCyTI para financiar 52 proyectos de ciudades y territorios inteligentes, una iniciativa que movilizará una inversión total superior a los 126 millones de euros en todo el país. Seguir leyendo.",
@@ -57,11 +62,6 @@
     {
       "title": "¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?",
       "summary": "La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.",
       "date": "2026-08-14"
     }
   ],

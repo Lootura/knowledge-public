@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/juan-jesus-vivas/index.json",
   "description": "Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-01T04:06:40.370Z",
   "aliases": [
     "Juan Jesus Vivas Lara",
     "Juan Jesús Vivas Lara",
     "Vivas"
   ],
   "changes": [
+    {
+      "title": "Ceuta llama, Sánchez no contesta",
+      "summary": "San Pedro negó a Jesucristo tres veces antes de que cantara el gallo. Pedro Sánchez necesitó algo más de margen. Juan Jesús Vivas contó este miércoles ante la Audiencia Nacional que, entre el 27 y el 29 de julio, desde Ceuta intentaron contactar diez veces con el presidente del Gobierno . Diez . Obtuvieron tres respues.",
+      "date": "2026-10-01"
+    },
     {
       "title": "Vivas responde a la \"salida de tono de Sánchez\" y recuerda que la competencia para identificar a los menores es de Interior",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas (PP) , ha tachado de \"salida de tono\" las recientes palabras del presidente del Gobierno, Pedro Sánchez, en las que remitía a los periodistas a preguntar al dirigente ceutí por la presencia de menores en las calles . Además, Vivas ha recordado que la competencia para la identifi.",
@@ -59,20 +64,8 @@
       "title": "Vivas revela que Moncloa le pidió \"que no llamara más\" antes de la avalancha en Ceuta y desmonta los datos de Marlaska",
       "summary": "El presidente de Ceuta, Juan Jesús Vivas , ha desvelado este viernes que el Gobierno central ignoró sus reiteradas advertencias sobre la creciente presión migratoria en los días previos a la entrada masiva de unas 80.000 personas. Según ha relatado, desde el Palacio de la Moncloa llegaron a pedirle \"que no llamara más\".",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Vivas exige a Bruselas más contundencia en la relación europea con Marruecos",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas, ha viajado este martes hasta Bruselas para tratar de europeizar la crisis migratoria y exigir a la Unión Europea una respuesta “más contundente” hacia Marruecos que, a su juicio, “mantiene una política constante de hostigamiento” hacia la ciudad. Seguir leyendo...",
-      "date": "2026-09-08"
     }
   ],
-  "sources": [
-    {
-      "title": "Vivas responde a la \"salida de tono de Sánchez\" y recuerda que la competencia para identificar a los menores es de Interior",
-      "url": "https://www.20minutos.es/ceuta/vivas-responde-salida-tono-sanchez-recuerda-que-competencia-para-identificar-los-menores-es-interior_7037979_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T10:54:04.000Z",
-      "sourceId": "lootura-es-20minutos"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

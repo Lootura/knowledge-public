@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T09:12:35.113Z",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,56 +18,75 @@
   ],
   "changes": [
     {
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+      "summary": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
+      "summary": "A proposal to bolster relations with the Kremlin through the purchase of Russian energy assets is striking even for an administration that regularly mixes personal business interests with foreign policy.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+      "summary": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+      "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation",
+      "summary": "In our news wrap Wednesday, the Federal Reserve's Inspector General found no criminal activity by former Chair Jerome Powell related to the renovation of the central bank's headquarters, Pete Hegseth announced that the Pentagon will cut the number of its generals and admirals by roughly 20% and Ukraine officials say Ru.",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada",
+      "summary": "The Russian invasion of Ukraine continues into 2026, with millions of Ukrainians displaced around the world. Many arrived in host countries with professional experience, degrees and specialized skills. Yet displacement often leaves highly educated refugees unable to continue their previous careers.",
+      "date": "2026-09-30"
+    },
+    {
       "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
       "summary": "The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "A Colorful Undercover Recording Spurs Fresh Outrage Over Graft in Ukraine",
-      "summary": "A case about kickbacks has drawn attention in a country worried that corruption threatens the war effort, and its future.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "NATO jets down drone in Lithuanian airspace",
-      "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv. (Image credit: AP Photo).",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-      "summary": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-      "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Trump says Ukraine needs to stop targeting Russian refineries",
-      "summary": "Civilians were killed and injured overnight into Sunday as both Russia and Ukraine kept up large-scale drone strikes.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage",
-      "summary": "Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
-      "summary": "Ukrainian Railways says former British PM and David Petraeus crossed into Poland shortly before drone attack near border A train carrying Boris Johnson and the former CIA chief David Petraeus may have been the target of a Russian drone strike that hit a train engine near the Poland-Ukraine border, according to Ukrainia.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?",
-      "summary": "U.S. President Donald Trump attends the Irish Open at the Trump International Golf Links & Hotel in Doonbeg, Co Clare, during his trip to the Republic of Ireland on Sept. 13, 2026. —Liam McBurney—PA Images President Donald Trump called on Ukrainian President Volodymyr Zelenskyy to halt strikes on Russia's diesel fuel i.",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Former Army secretary praises Ukraine in 1st public appearance since resigning",
-      "summary": "During his 18 months as Army secretary, Dan Driscoll pushed the U.S. military to apply lessons from the war in Ukraine.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T10:00:00.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T01:58:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+      "url": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T09:01:49.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 3
 }

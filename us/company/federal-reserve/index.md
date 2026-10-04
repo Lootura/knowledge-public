@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation
+
+In our news wrap Wednesday, the Federal Reserve's Inspector General found no criminal activity by former Chair Jerome Powell related to the renovation of the central bank's headquarters, Pete Hegseth announced that the Pentagon will cut the number of its generals and admirals by roughly 20% and Ukraine officials say Ru.
+
+Date: 2026-09-30
 
 ### Morning news brief
 
@@ -62,15 +68,6 @@ The Fed is expected to raise interest rates today for the first time in three ye
 
 Date: 2026-09-16
 
-### US Gas Prices Hit Record High; Fed Poised to Raise Interest Rates
-
-The national average for a gallon of gas is now at $4.32, with the price of diesel even high at a record-shattering $6.23. Meanwhile, the Federal Reserve is set to meet Wednesday and is expected to raise interest rates for the first time since 2023. NBC’s Brian Cheung joins TODAY to break it all down.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief?utm_source=lootura.com) — 2026-09-17T08:45:53.000Z
-- [The Fed raises interest rates. And, EU proposes Canada become an 'associate member'](https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com) — 2026-09-17T10:54:18.000Z
-- [Fed Signals Another Rate Increase Could Be Coming](https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html?utm_source=lootura.com) — 2026-09-16T19:12:46.000Z
-- [The Fed Raised Rates. What Comes Next?](https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html?utm_source=lootura.com) — 2026-09-17T09:05:11.000Z
+No public source links.

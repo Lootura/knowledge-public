@@ -70,4 +70,4 @@ Date: 2026-09-12
 
 ## Sources
 
-- [Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes](https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes?utm_source=lootura.com) — 2026-09-17T10:00:00.000Z
+No public source links.

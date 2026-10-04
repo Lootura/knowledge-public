@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T17:57:11.242Z",
+  "generatedAt": "2026-10-04T13:56:50.433Z",
   "radar": {
     "id": "es",
     "slug": "es",
     "locale": "es"
   },
   "state": {
-    "signature": "1.18.0|184|1789661609513",
+    "signature": "1.18.0|189|1791121227752",
     "version": "1.18.0",
-    "build": 184,
-    "latestEntityUpdatedAt": "2026-09-17T16:13:29.513Z"
+    "build": 189,
+    "latestEntityUpdatedAt": "2026-10-04T13:40:27.752Z"
   },
   "atlas": {
     "hero": {
-      "id": "es-madrid",
-      "name": "Madrid",
-      "type": "place",
-      "title": "La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta",
-      "url": "https://atlas.lootura.com/es/place/madrid",
-      "path": "/es/place/madrid",
-      "updatedAt": "2026-09-17T16:13:29.513Z",
-      "score": 1751,
-      "sourceCount": 956,
+      "id": "es-pedro-sanchez",
+      "name": "Pedro Sánchez",
+      "type": "person",
+      "title": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
+      "url": "https://atlas.lootura.com/es/person/pedro-sanchez",
+      "path": "/es/person/pedro-sanchez",
+      "updatedAt": "2026-10-04T13:40:27.752Z",
+      "score": 1748,
+      "sourceCount": 659,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "es-isabel-diaz-ayuso",
-        "name": "Isabel Díaz Ayuso",
-        "type": "person",
-        "title": "La subasta por el ático de Ayuso queda desierta por falta de ofertas",
-        "url": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso",
-        "path": "/es/person/isabel-diaz-ayuso",
-        "updatedAt": "2026-09-17T16:13:29.513Z",
-        "score": 1744,
-        "sourceCount": 73,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
         "id": "es-psoe",
         "name": "Partido Socialista Obrero Español",
         "type": "organization",
-        "title": "Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera",
+        "title": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
         "url": "https://atlas.lootura.com/es/organization/psoe",
         "path": "/es/organization/psoe",
-        "updatedAt": "2026-09-17T16:13:29.513Z",
-        "score": 1697,
-        "sourceCount": 249,
+        "updatedAt": "2026-10-04T13:40:27.752Z",
+        "score": 1687,
+        "sourceCount": 260,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-espana",
-        "name": "España",
+        "id": "es-madrid",
+        "name": "Madrid",
         "type": "place",
-        "title": "Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica",
-        "url": "https://atlas.lootura.com/es/place/espana",
-        "path": "/es/place/espana",
-        "updatedAt": "2026-09-17T16:13:29.513Z",
-        "score": 1678,
-        "sourceCount": 1512,
+        "title": "Cortes de tráfico en Madrid hoy, domingo 4 de octubre por la Cabalgata de la Hispanidad: horarios, calles y zonas afectadas",
+        "url": "https://atlas.lootura.com/es/place/madrid",
+        "path": "/es/place/madrid",
+        "updatedAt": "2026-10-04T13:40:27.752Z",
+        "score": 1651,
+        "sourceCount": 984,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "es-audiencia-nacional",
-        "name": "Audiencia Nacional (España)",
-        "type": "organization",
-        "title": "La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta",
-        "url": "https://atlas.lootura.com/es/organization/audiencia-nacional",
-        "path": "/es/organization/audiencia-nacional",
-        "updatedAt": "2026-09-17T16:13:29.513Z",
-        "score": 1662,
-        "sourceCount": 154,
+        "id": "es-barcelona",
+        "name": "Barcelona",
+        "type": "place",
+        "title": "La odisea con la vivienda de los acampados en Barcelona y Madrid: \"Ella sufrió más pero me dicen que soy otra Maricarmen\"",
+        "url": "https://atlas.lootura.com/es/place/barcelona",
+        "path": "/es/place/barcelona",
+        "updatedAt": "2026-10-04T13:40:27.752Z",
+        "score": 1645,
+        "sourceCount": 241,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "es-vicente-valles",
+        "name": "Vicente Vallés",
+        "type": "person",
+        "title": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
+        "url": "https://atlas.lootura.com/es/person/vicente-valles",
+        "path": "/es/person/vicente-valles",
+        "updatedAt": "2026-10-04T13:40:27.752Z",
+        "score": 1636,
+        "sourceCount": 7,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 260
+    "publicEntityCount": 268
   }
 }

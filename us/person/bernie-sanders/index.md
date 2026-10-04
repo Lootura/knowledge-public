@@ -3,10 +3,16 @@
 > Follow Bernie Sanders, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/person/bernie-sanders
 
 ## Recent changes
+
+### Republicans don’t have a clear boogeyman for this year’s midterms
+
+Republicans have tried to find a new boogeyman this year as they rail against Democratic socialism and the “radical” left: Zohran Mamdani. Alexandria Ocasio-Cortez. Bernie Sanders. Still more mentioned than all of them, at least in campaign ads: former President Joe Biden. A POLITICO review of hundreds of ads running i.
+
+Date: 2026-10-03
 
 ### Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI
 
@@ -58,4 +64,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [Republicans don’t have a clear boogeyman for this year’s midterms](https://www.politico.com/news/2026/10/03/gop-midterm-boogeyman-biden-democratic-socialism-01105904?utm_source=lootura.com) — 2026-10-03T20:00:00.000Z

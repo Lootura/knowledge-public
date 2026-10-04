@@ -3,10 +3,16 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-04T18:47:59.704Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### Un fiscal díscolo de la Audiencia Nacional rompe con sus jefes y defiende que sí investigue a Julio Iglesias tras la nueva denuncia ‘fake’
+
+El fiscal de la Audiencia Nacional Vicente González Mota ha dado un giro de timón en el caso Julio Iglesias . Según varias fuentes fiscales consultadas por OKDIARIO, el encargado de informar sobre la nueva querella de las ex trabajadoras del cantante considera que este tribunal sí tiene competencia para investigarle, e.
+
+Date: 2026-10-01
 
 ### Las extrabajadoras de Julio Iglesias que lo denunciaron por agresión sexual presentan una querella contra él
 
@@ -59,12 +65,6 @@ Date: 2026-07-21
 ### Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas
 
 El artista internacional acusa al medio de los delitos de injurias con publicidad y calumnias, y de un delito contra la integridad moral, y amenaza con pedir una indemnización de "importante cuantía" La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento El cantante Julio Iglesias ha.
-
-Date: 2026-07-21
-
-### La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento
-
-La querella presentada por el abogado del cantante denuncia conductas de los periodistas que nunca se produjeron y numerosos hechos inveraces Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas Así fueron los tres años de investigación sobre Julio Iglesias La querella pr.
 
 Date: 2026-07-21
 

@@ -3,10 +3,22 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### Sorpresa y buenas sensaciones en la industria financiera ante un producto que esperaba desde hace meses
+
+Bancos, aseguradoras, gestoras de activos y reguladores financieros celebran la publicación en el BOE de las llamadas cuentas ‘Financia Europa’, una carcasa fiscal que permitirá a sus clientes obtener ventajas tributarias a cambio de invertir en acciones de compañías cotizadas de la Unión Europea. El proyecto llevaba d.
+
+Date: 2026-10-01
+
+### Aclarado el caso de las brasileñas que iban a Burgos a parir: una red organizada se encargaba de todo
+
+“¿Es usted brasileña, está embarazada y se encuentra en situación irregular en la Unión Europea? Nosotros podemos resolver sus problemas. Y, además, conocerá España”. El mensaje es ficticio, pero su contenido no se alejará demasiado de aquellos con los que eran captadas las mujeres que en los últimos meses han llegado.
+
+Date: 2026-10-01
 
 ### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
 
@@ -56,18 +68,6 @@ Descienden las entradas irregulares de migrantes a la Unión Europea, en general
 
 Date: 2026-09-11
 
-### La inmigración irregular a la Unión Europea bajó en todas las regiones excepto en el Estrecho
-
-La inmigración irregular en la Unión Europea (UE) cayó un 35% en los primeros ocho meses de 2026 con respecto al año anterior . La gran gran excepción es el Mediterráneo Occidental —que engloba el Estrecho de Gibraltar—, donde se registró un aumento del 34%, incluso sin tener en cuenta Ceuta. Según un informe difundido.
-
-Date: 2026-09-11
-
-### El Tribunal de Cuentas de la UE avisa del aumento de la producción ilegal de tabaco, con pérdidas de 13.000 millones en tasas
-
-Los contrabandistas aprovechan las diferencias de regulación entre países de la Unión Europea y se acercan más a los consumidores Leer.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”](https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com) — 2026-09-17T08:18:27.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/los-angeles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/los-angeles/index.json",
   "description": "Sigue la actividad de Los Ángeles en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-12T14:59:00.939Z",
+  "updatedAt": "2026-10-03T18:59:43.213Z",
   "aliases": [
     "City of Angels",
     "City of Los Angeles",
@@ -28,6 +28,11 @@
     "Tinsel Town"
   ],
   "changes": [
+    {
+      "title": "La leyenda está de vuelta: Saúl Craviotto regresa al piragüismo y mira a Juegos Olímpicos de Los Ángeles 2028",
+      "summary": "Saúl Craviotto está de vuelta. Después de dos sabáticos, el olímpico español volverá a subirse a la piragua para unirse de nuevo al equipo de Miguel García en Trasona y volver a hacer equipo con Marcus Cooper, Carlos Arévalo y Rodrigo Germade. Una fantástica noticia para el deporte de nuestro país, que recupera a uno .",
+      "date": "2026-10-03"
+    },
     {
       "title": "Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así",
       "summary": "¿Qué es lo primero que lee cada mañana el alcalde Insausti? / La fiesta de Ordizia y el empuje de El Vaskito / El 'glamour' del Festi, Gastronomika y Passion for Knowledge.",

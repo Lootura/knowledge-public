@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/fuerzas-armadas/index.json",
   "description": "Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "army",
     "fuerza armada"
   ],
   "changes": [
+    {
+      "title": "El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes",
+      "summary": "Las Fuerzas Armadas españolas se han convertido en la punta de lanza de la respuesta del Estado ante las emergencias, y en la actualidad, tras la pandemia del covid, el volcán de La Palma , la dana de 2024 o la ola de incendios forestales, los ciudadanos identifican la respuesta del Estado en catástrofes con la actuaci.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos",
       "summary": "Dos militares destinados en Ceuta fueron traslados a Madrid a principios de esta semana para ser ingresados en el Hospital Central de la Defensa Gómez Ulla después de sufrir una agresión por parte de inmigrantes durante el despliegue de las Fuerzas Armadas en la ciudad autónoma. Seguir leyendo...",
@@ -58,19 +63,14 @@
       "title": "Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»",
       "summary": "El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.",
       "date": "2026-08-02"
-    },
-    {
-      "title": "Al menos nueve muertos y 30 heridos, entre ellos varios niños, en un ataque con misiles balísticos rusos sobre Kiev",
-      "summary": "Al menos nueve personas han muerto y otras 30 han resultado heridas, entre ellas cuatro niños , en un ataque lanzado durante la madrugada de este sábado por las Fuerzas Armadas de Rusia sobre Kiev , la capital ucraniana.«Lamentablemente, nueve vecinos de Kiev han fallecido» , ha informado el gobierno regional, en un me.",
-      "date": "2026-08-01"
     }
   ],
   "sources": [
     {
-      "title": "Dos militares desplegados en Ceuta, ingresados en el Gómez Ulla de Madrid tras ser agredidos",
-      "url": "https://www.lavanguardia.com/politica/20260917/11637213/dos-militares-desplegados-ceuta-ingresados-gomez-ulla-madrid-agredidos.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T11:19:48.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
+      "title": "El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes",
+      "url": "https://www.elconfidencial.com/espana/2026-10-04/fuerzas-armadas-emergencias-ume-1hms-1svm_4437989/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
     }
   ],
   "evidenceCount": 1

@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T08:22:48.056Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont
+
+El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.
+
+Date: 2026-10-04
 
 ### Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza
 
@@ -62,12 +68,6 @@ La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias co
 
 Date: 2026-07-22
 
-### El gran fichaje empresarial de Puigdemont deja su escaño lejos de las expectativas creadas
-
-Los fichajes de independientes siempre son complicados en política. En 2024, Carles Puigdemont incorporó a una directiva de nivel medio de Silicon Valley, Anna Navarro, como gran fichaje empresarial. Fue de número dos en la lista de las elecciones catalanas, justo detrás del propio Puigdemont. El fichaje ha estado lejo.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont](https://www.elindependiente.com/espana/2026/10/04/constitucional-corrige-supremo-amnistia-bienvenida-puigdemont/?utm_source=lootura.com) — 2026-10-04T08:05:55.000Z

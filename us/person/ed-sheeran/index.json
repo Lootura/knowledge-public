@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ed-sheeran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ed-sheeran/index.json",
   "description": "Follow Ed Sheeran, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T09:12:35.113Z",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
   "aliases": [
     "Sheeran"
   ],
   "changes": [
+    {
+      "title": "Zach Bryan wears \"Free Palestine\" shirt during concert at Gillette Stadium",
+      "summary": "After Macklemore was barred from opening for Ed Sheeran at Gillette Stadium for pro-Palestinian comments, musician Zach Bryan wore a \"Free Palestine\" shirt during his Friday show.",
+      "date": "2026-10-03"
+    },
     {
       "title": "Details on Ed Sheeran tour as all acts quit after Macklemore dropped for pro-Palestine comments",
       "summary": "Ed Sheeran is facing intense public backlash after rapper Macklemore, who was set to open his upcoming tour dates, was dropped from the production over pro-Palestine comments. CBS News' Shanelle Kaul reports and Alex Suskind, news director at online music magazine Pitchfork, joins \"The Daily Report\" to discuss.",
@@ -34,6 +39,13 @@
       "date": "2026-09-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Zach Bryan wears \"Free Palestine\" shirt during concert at Gillette Stadium",
+      "url": "https://www.cbsnews.com/boston/news/zach-bryan-free-palestine-shirt-gillette-stadium-robert-kraft/?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T18:17:49.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

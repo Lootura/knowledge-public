@@ -3,10 +3,34 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente
+
+El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald Trump debía haber tenido eso en cuenta al lanzarse a la guerra con Irán, pero el caso es que, a un mes de las elecciones legislativas de medio mandato en Estados Uni.
+
+Date: 2026-10-04
+
+### Trump publica el número de móvil de un senador de su partido que no apoya una ley para eliminar el cambio de hora
+
+"Casi todos quieren que se apruebe excepto Tom Cotton. Háganle saber que sería una gran victoria, llamen a su móvil", insta a sus millones de seguidores Leer.
+
+Date: 2026-10-03
+
+### Bruselas sigue la senda de Trump y avala los primeros centros de deportación de migrantes fuera de la UE
+
+La política migratoria europea mira cada vez más hacia fuera de sus propias fronteras. La UE lleva años buscando acuerdos con otros países para frenar las llegadas y facilitar las expulsiones, pero ahora se dispone a dar un paso más . El Consejo de la UE tiene previsto dar este jueves su aprobación definitiva al nuevo.
+
+Date: 2026-10-01
+
+### Trump ficha al gran optimista de Wall Street, que ve el S&P 500 a 9.000 puntos
+
+La primera interpretación del último fichaje realizado por Scott Bessent , encargado de la economía en la Administración de Donald Trump , es que no hay que esperar cambios en la política financiera del Gobierno estadounidense. Seguir leyendo.
+
+Date: 2026-09-30
 
 ### Marruecos e Israel refuerzan su alianza política, económica y de "seguridad" con patrocinio de EEUU en plena crisis de Ceuta
 
@@ -44,31 +68,6 @@ En plena zozobra sobre el futuro de la tecnología, el intelectual que preside e
 
 Date: 2026-09-16
 
-### Von der Leyen ofrece a Carney que "Canadá se convierta en el primer miembro asociado de la UE"
-
-La presidenta de la Comisión lanza su propuesta en pleno enfrentamiento entre el primer ministro canadiense y Trump. "Vemos el mundo de la misma manera", defiende la alta funcionaria alemana Leer.
-
-Date: 2026-09-16
-
-### Los multimillonarios de EEUU se alinean para financiar la campaña electoral republicana
-
-Los grandes donantes estadounidenses están respaldando abrumadoramente a los republicanos de Donald Trump en las elecciones al Congreso de este año , mientras multimillonarios de Silicon Valley y Wall Street financian la campaña del partido para las elecciones de mitad de mandato. Seguir leyendo.
-
-Date: 2026-09-16
-
-### Trump clausura el Centro Kennedy hasta que la justicia le permita poner su nombre en la fachada
-
-El Centro John F. Kennedy para las Artes Escénicas fue concebido, como su nombre indica, como un memorial al mediático presidente demócrata, asesinado ocho años antes de la inauguración del edificio en 1971. El capricho de otro presidente, Donald Trump, empeñado en poner su nombre en el centro cultural, podría llevar p.
-
-Date: 2026-09-16
-
-### La Fed discute un alza de tipos y encara un choque frontal con Trump
-
-El presidente de la Reserva Federal, Kevin Warsh, suele decir que le gusta que el organismo tome sus decisiones tras "una buena pelea familiar". La discusión de esta semana, sin embargo, podría dar paso a una guerra abierta con quien le aupó al cargo, nada menos que el presidente de los Estados Unidos, Donald Trump. Mi.
-
-Date: 2026-09-15
-
 ## Fuentes
 
-- [Marruecos e Israel refuerzan su alianza política, económica y de "seguridad" con patrocinio de EEUU en plena crisis de Ceuta](https://www.elmundo.es/internacional/2026/09/17/6aabbb2121efa0b4218b45b4.html?utm_source=lootura.com) — 2026-09-17T10:16:50.000Z
-- [Así ha reaccionado Trump a la subida de tipos de la Fed](https://www.expansion.com/economia/financial-times/2026/09/17/6aabbac3e5fdea71768b457f.html?utm_source=lootura.com) — 2026-09-17T10:02:46.000Z
+- [Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente](https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html?utm_source=lootura.com) — 2026-10-04T03:40:00.000Z

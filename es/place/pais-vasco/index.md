@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»
+
+El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.
+
+Date: 2026-10-04
+
+### Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia
+
+Una tromba de agua de casi dos horas ha dejado numerosas inundaciones y balsas de agua en carreteras y calles de Bizkaia. El Centro de Emergencias de Euskadi ha registrado hasta las 20.30 horas de este sábado un total de 150 incidencias relacionadas con las intensas precipitaciones, 137 de ellas en Bilbao, según ha inf.
+
+Date: 2026-10-03
 
 ### La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores
 
@@ -56,18 +68,7 @@ Si los resultados de España en el Informe PISA , presentado este martes, son mu
 
 Date: 2026-09-08
 
-### Más de un centenar de personas reciben a la 'Freedom Flotilla' a su llegada a Euskadi
-
-La embarcación navega de nuevo para «denunciar el genocidio, la ocupación y la limpieza étnica en Gaza y Palestina» y estará aquí hasta el próximo martes.
-
-Date: 2026-09-05
-
-### 3.000 árboles y 20.000 arbustos: un viaje por la vegetación de toda España sin salir de Vallecas
-
-Alcornoques de Andalucía, quejigos de Castilla-La Mancha, encinas valencianas, álamos negros de Castilla y León, el madroño madrileño, un carballo de Galicia y arces de Euskadi. El Parque de las Comunidades, un gran desconocido en la capital, ofrece al visitante la posibilidad de perderse, por unos minutos, entre la ve.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-No public source links.
+- [Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»](https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com) — 2026-10-04T13:13:17.000Z
+- [Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia](https://elpais.com/espana/2026-10-03/las-fuertes-lluvias-inundan-el-centro-de-bilbao-y-causan-numerosas-incidencias-en-bizkaia.html?utm_source=lootura.com) — 2026-10-03T20:22:46.000Z

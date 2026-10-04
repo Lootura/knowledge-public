@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada
+
+The Russian invasion of Ukraine continues into 2026, with millions of Ukrainians displaced around the world. Many arrived in host countries with professional experience, degrees and specialized skills. Yet displacement often leaves highly educated refugees unable to continue their previous careers.
+
+Date: 2026-09-30
 
 ### Morning news brief
 
@@ -62,16 +68,6 @@ Canada and the European Union have been confronting an increasingly challenging 
 
 Date: 2026-09-16
 
-### Carney pitches Canada to global investors amid trade war with Trump
-
-Carney is pitching Canada's energy and critical minerals, educated workforce, global trade access and political stability as reasons to invest.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign](https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com) — 2026-09-17T16:00:59.000Z
-- [How Canada and the E.U. are teaming up to counter Trump](https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com) — 2026-09-17T15:41:39.000Z
-- [Morning news brief](https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief?utm_source=lootura.com) — 2026-09-17T08:45:53.000Z
-- [The Fed raises interest rates. And, EU proposes Canada become an 'associate member'](https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com) — 2026-09-17T10:54:18.000Z
-- [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com) — 2026-09-17T01:58:24.000Z
+No public source links.

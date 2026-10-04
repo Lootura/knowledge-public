@@ -3,80 +3,79 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático
+### Cortes de tráfico en Madrid hoy, domingo 4 de octubre por la Cabalgata de la Hispanidad: horarios, calles y zonas afectadas
 
-"Llevan a los tribunales todo aquello que es falso, lo pierden y todavía siguen con el asunto", critica la presidenta regional sobre las denuncias "fracasadas" de Más Madrid y el PSOE Leer.
+La celebración reunirá a unas 80.000 personas en pleno centro de la capital y obligará a modificar durante varias horas la circulación, el transporte público y el estacionamiento.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”
+### Fondos buitre, turistas y alquileres imposibles: ¿qué tipo de ciudad queremos?
 
-Isabel Díaz Ayuso ha ignorado los documentos publicados por EL PAÍS que prueban la manipulación de las listas en el hospital Ramón y Cajal y ha insistido en que se trata de “un bulo”. La presidenta de Madrid ha reducido todo el caso a “un señor que está manipulando las citas sanitarias”, en referencia al cirujano que d.
+“Madrid / nos pertenece / a ti y a mí”. Aplíquese a Madrid, o a cualquier otra ciudad. Es un verso de Biznaga, la célebre banda de punk rock, conocida por sus letras críticas, siempre atentas a los trances sociopolíticos. El pasado domingo 27 de septiembre, en la acampada por la vivienda en la madrileña Puerta del Sol,.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Dos militares, evacuados a un hospital de Madrid tras ser agredidos por inmigrantes
+### A Sol no llega el fin del mundo
 
-Dos militares españoles han sido evacuados de Ceuta e ingresados en el hospital Gómez Ulla de Madrid tras sufrir agresiones por parte de inmigrantes mientras patrullaban en las calles de la ciudad autónoma, según ha confirmado este jueves el Ministerio de Defensa. "Uno de ellos sufre una luxación de rodilla y otro una.
+Viernes noche en Madrid. Cuando en Preciados se adivinan ya las tiendas de campaña de Sol y los carteles enormes que anuncian la lucha, una voz que no se sabe de dónde viene clama entre las muchedumbres. Pertenece a un hombre desgañitado, viejito de pelo blanco, con la nariz y el mentón casi encontrándose. Se llama Héc.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía
+### La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"
 
-Barcelona, Real Madrid, Atlético y Real Sociedad lucharán por el título del 2 al 6 de febrero de 2027 en Estambul.
+Tiendas de campaña, toldos y pancartas ocupan desde ya hace varios días la Puerta del Sol y Plaza Cataluña , espacios en los que se concentran las acampadas por del derecho a la vivienda más multitudinarias de España. El Sindicato de Inquilinas cifra ya en más de mil las estructuras instaladas en la plaza madrileña, mi.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta
+### Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid
 
-El ático del paseo del General Martínez Campos puesto en venta por la Comunidad de Madrid tras el escándalo suscitado a finales de julio no ha recibido ninguna oferta de compra (6,7 millones de euros) en la venta pública. Por ello, Planifica Madrid ha declarado desierto el proceso. A partir de ahora, se abre la posibil.
+La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha hecho oficial que el carné senior para las personas mayores de 55 años empadronados en la región, será una realidad en los próximos meses de 2027 . Este carné nace con el objetivo de fomentar el envejecimiento activo y mejorar la calidad de vida de este sec.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Nadie compra el ático por el que el Gobierno de Ayuso pagó 6,3 millones de euros: la subasta queda desierta
+### Los partidos de Sumar anunciarán su candidato el 17 de octubre y confirman que su nueva marca será Frente Amplio
 
-La subasta por el ático de lujo de la Comunidad de Madrid ha quedado desierta, según fuentes oficiales y la documentación que ha publicado Planifica Madrid. El inmueble, sacado a la venta por 6,7 millones de euros, no ha recibido la oferta de ningún comprador, por lo que el Gobierno de Isabel Díaz Ayuso no ha podido de.
+La alianza se reunió este domingo para acelerar los tiempos de la negociación abierta desde hace meses, y ante la posibilidad de que el presidente Pedro Sánchez decida adelantar las elecciones este lunes La opción de Mónica García vuelve a tomar fuerza como candidata de Sumar a las generales IU, Comuns, Más Madrid y Mo.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas
+### Escándalo en la previa de Copa: el Sporting Hortaleza se niega a jugar en Tenerife tras ser agredidos
 
-El presidente del Real Madrid, Florentino Pérez, viajará este viernes por la mañana a Ceuta, solo tres días después de la polémica de las camisetas de apoyo a la ciudad autónoma que Mbappé, Vinicius y Konaté se negaron a mostrar de manera completa el martes en Elche. Además del presidente, en la visita, adelantada por.
+Lío tremendo en el partido de previa de Copa del Rey entre el Unión Güímar de Tenerife y el Sporting Hortaleza de Madrid . El duelo, que tenía que comenzar a las 13:00 horas (una menos en las Islas Canarias), se ha suspendido por la negativa del conjunto madrileño a jugar el encuentro tras sufrir amenazas y no tener se.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Lo importante es el bulo del culo
+### Maroto se «avergüenza» de Almeida por querer «expulsar» a los acampados sin escucharles
 
-La frase retumba con la intención de convertirse en titular: “ El bulo del culo de la semana viene (...)”. Su autora es Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid. Y no está improvisando. Todo lo contrario. Lanza un anzuelo, a ver si pica el pez. Pone un capote, por si embiste el toro. Porque lo que hace l.
+La portavoz socialista en el Ayuntamiento de Madrid, Reyes Maroto, ha asegurado que se «avergüenza» del alcalde, José Luis Martínez-Almeida, por estar.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera
+### Cuatro heridos tras caer un vehículo por un terraplén en Moraleja de Enmedio (Madrid)
 
-"Prometió dimitir si había mentido con la cuestión del ático. ¿Dónde está su carta de dimisión?", se ha preguntado la portavoz del PSOE, Mar Espinar, que ha enumerado varias falsedades del Gobierno madrileño sobre la polémica compra Las preguntas a las que tiene que responder el portavoz de Ayuso sobre la compra del át.
+Cuatro personas han resultado heridas en un accidente de tráfico en Moraleja de Enmedio ( Comunidad de Madrid ) tras caer su vehículo por un terraplén , según ha informado el Servicio de Emergencias de la región a primera hora de este domingo. El equipo médico del Summa 112 y los bomberos de la Comunidad de Madrid han.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### El Gobierno de Ayuso reconoce ahora que el ático se compró para "alojar a las propias autoridades de la Comunidad"
+### Hilde Jenssen (Nordea): “La inversión sostenible ha mutado: ahora la eficiencia debe servir para defender nuestros valores”
 
-El encargado por la mandataria madrileña para dar explicaciones sobre la operación asegura que "nunca se adquiere para ser la residencia oficial de la presidenta" No hay ofertas por el ático de lujo del Gobierno de Ayuso: la subasta queda desierta Miguel Ángel García, consejero de Presidencia de la Comunidad de Madrid,.
+Hilde Jenssen (Stavanger, Noruega, 1971) es una de las principales responsables de inversión en Bolsa de Nordea Asset Management, la gestora del gran banco escandinavo, con más de medio billón de euros administrados. La directiva visitó Madrid la semana pasada —procedente de Copenhague— para explicar la nueva estrategi.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
 ## Fuentes
 
-- [Dos militares, evacuados a un hospital de Madrid tras ser agredidos por inmigrantes](https://www.20minutos.es/nacional/dos-militares-han-sido-evacuados-hospital-gomez-ulla-madrid-tras-ser-agredidos-por-inmigrantes-ceuta_7037974_0.html?utm_source=lootura.com) — 2026-09-17T10:59:39.000Z
-- [Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía](https://www.abc.es/deportes/futbol/fechas-horarios-estadios-supercopa-espana-jugara-turquia-20260917173039-nt_amp.html?utm_source=lootura.com) — 2026-09-17T15:30:40.000Z
-- [La venta del ático de Chamberí que compró la Comunidad de Madrid queda desierta tras no recibir ninguna oferta](https://www.abc.es/espana/madrid/subasta-atico-chamberi-queda-desierta-tras-recibir-20260917163845-nt.html?utm_source=lootura.com) — 2026-09-17T15:29:58.000Z
-- [Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático](https://www.elmundo.es/madrid/2026/09/17/6aab9f58e4d4d850578b45a2.html?utm_source=lootura.com) — 2026-09-17T08:50:03.000Z
-- [Ayuso ignora los documentos que prueban la manipulación de las listas de espera del Ramón y Cajal e insiste en el “bulo”](https://elpais.com/espana/madrid/2026-09-17/ayuso-comparece-en-la-asamblea-de-madrid-en-plena-polemica-por-el-maquillaje-de-las-listas-de-espera-sanitarias.html?utm_source=lootura.com) — 2026-09-17T08:50:09.000Z
-- [Nadie compra el ático por el que el Gobierno de Ayuso pagó 6,3 millones de euros: la subasta queda desierta](https://elpais.com/espana/madrid/2026-09-17/nadie-compra-el-atico-por-el-que-el-gobierno-de-ayuso-pago-63-millones-de-euros-la-subasta-queda-desierta.html?utm_source=lootura.com) — 2026-09-17T14:19:04.000Z
-- [Florentino Pérez visita Ceuta este viernes tres días después de la polémica de las camisetas](https://elpais.com/deportes/futbol/2026-09-17/florentino-perez-visita-ceuta-este-viernes-tres-dias-despues-de-la-polemica-de-las-camisetas.html?utm_source=lootura.com) — 2026-09-17T11:37:02.000Z
-- [Lo importante es el bulo del culo](https://elpais.com/espana/madrid/2026-09-17/lo-importante-es-el-bulo-del-culo.html?utm_source=lootura.com) — 2026-09-17T12:33:43.000Z
-- [Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera](https://www.eldiario.es/madrid/madrid-pide-juicio-ayuso-corrupta-carga-mentiras-atico-listas-espera_1_13516956.html?utm_source=lootura.com) — 2026-09-17T09:06:25.000Z
-- [El Gobierno de Ayuso reconoce ahora que el ático se compró para "alojar a las propias autoridades de la Comunidad"](https://www.eldiario.es/madrid/gobierno-ayuso-reconoce-ahora-atico-compro-alojar-propias-autoridades-comunidad_1_13518073.html?utm_source=lootura.com) — 2026-09-17T15:09:30.000Z
+- [La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"](https://www.20minutos.es/nacional/los-dramas-los-acampados-puerta-sol-plaza-catalunya-probablemente-nos-tengamos-que-ir-otra-comunidad-autonoma_7044199_0.html?utm_source=lootura.com) — 2026-10-04T06:20:43.000Z
+- [Cortes de tráfico en Madrid hoy, domingo 4 de octubre por la Cabalgata de la Hispanidad: horarios, calles y zonas afectadas](https://www.elconfidencial.com/espana/madrid/2026-10-04/1qrt-cortes-trafico-madrid-hoy-domingo-cabalgata-hispanidad-horarios-calles_4436119/?utm_source=lootura.com) — 2026-10-04T03:45:00.000Z
+- [Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid](https://www.elindependiente.com/economia/2026/10/04/cuando-como-conseguir-carne-senior-comunidad-madrid/?utm_source=lootura.com) — 2026-10-04T06:30:00.000Z
+- [Fondos buitre, turistas y alquileres imposibles: ¿qué tipo de ciudad queremos?](https://elpais.com/ideas/2026-10-04/fondos-buitre-turistas-y-alquileres-imposibles-que-tipo-de-ciudad-queremos.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z
+- [A Sol no llega el fin del mundo](https://elpais.com/espana/2026-10-04/a-sol-no-llega-el-fin-del-mundo.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+- [Los partidos de Sumar anunciarán su candidato el 17 de octubre y confirman que su nueva marca será Frente Amplio](https://www.eldiario.es/politica/partidos-sumar-anunciaran-candidato-17-octubre-confirman-nueva-marca-sera-frente-amplio_1_13560979.html?utm_source=lootura.com) — 2026-10-04T13:23:13.000Z
+- [Escándalo en la previa de Copa: el Sporting Hortaleza se niega a jugar en Tenerife tras ser agredidos](https://okdiario.com/deportes/escandalo-previa-copa-sporting-hortaleza-niega-jugar-tenerife-ser-agredidos-20479440?utm_source=lootura.com) — 2026-10-04T12:31:02.000Z
+- [Maroto se «avergüenza» de Almeida por querer «expulsar» a los acampados sin escucharles](https://theobjective.com/espana/politica/2026-10-04/maroto-averguenza-almeida-expulsar-acampados-sin-escucharles/?amp=&utm_source=lootura.com) — 2026-10-04T12:52:40.000Z
+- [Cuatro heridos tras caer un vehículo por un terraplén en Moraleja de Enmedio (Madrid)](https://theobjective.com/sociedad/suceso/2026-10-04/cuatro-heridos-vehiculo-terraplen-madrid/?utm_source=lootura.com) — 2026-10-04T10:43:57.000Z

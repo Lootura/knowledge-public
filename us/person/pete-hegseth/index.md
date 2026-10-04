@@ -3,10 +3,22 @@
 > Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/pete-hegseth
 
 ## Recent changes
+
+### News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation
+
+In our news wrap Wednesday, the Federal Reserve's Inspector General found no criminal activity by former Chair Jerome Powell related to the renovation of the central bank's headquarters, Pete Hegseth announced that the Pentagon will cut the number of its generals and admirals by roughly 20% and Ukraine officials say Ru.
+
+Date: 2026-09-30
+
+### Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’
+
+Amid latest extraordinary attack on diversity, US defense secretary also suggests military is retaining service personnel at ‘record’ rates Send us your questions about how the Iran war will affect US voters in the midterms The US defense secretary, Pete Hegseth, has confirmed plans to cut 20% of generals and admirals.
+
+Date: 2026-09-30
 
 ### Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military
 

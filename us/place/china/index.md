@@ -3,10 +3,28 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Stunning fossil shows dinosaurs’ distinctive path to flight
+
+Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.
+
+Date: 2026-10-04
+
+### Stunning fossil shows dinosaurs’ distinctive path to flight
+
+Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.
+
+Date: 2026-10-03
+
+### In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday
+
+China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.
+
+Date: 2026-10-01
 
 ### China Stockpiled Oil, and Now It Could Dominate the Energy Landscape
 
@@ -50,24 +68,6 @@ China's Foreign Ministry called the Anthropic CEO's warning about the dangers of
 
 Date: 2026-09-14
 
-### China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule
-
-Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.
-
-Date: 2026-09-14
-
-### Anthropic CEO Dario Amodei says U.S.-China AI race poses "toughest dilemma"
-
-In an exclusive interview with CBS News' Jo Ling Kent, Anthropic CEO Dario Amodei called on the tech industry to slow the development of AI. But, he acknowledged the "toughest dilemma" is coming to an international agreement amid the development race between the U.S.and China.
-
-Date: 2026-09-13
-
-### World leaders gathered for the annual BRICS summit. Here are the takeaways
-
-India hosted the an annual summit which gathered leaders from 28 countries, including the presidents of China and Iran. Though, the U.S. was notably absent.
-
-Date: 2026-09-13
-
 ## Sources
 
-- [China Stockpiled Oil, and Now It Could Dominate the Energy Landscape](https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com) — 2026-09-17T16:10:18.000Z
+- [Stunning fossil shows dinosaurs’ distinctive path to flight](https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com) — 2026-10-04T13:40:52.180Z

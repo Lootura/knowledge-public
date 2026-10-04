@@ -3,10 +3,16 @@
 > Follow Sam Altman, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/sam-altman
 
 ## Recent changes
+
+### The AI Tamagotchis are coming
+
+Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a.
+
+Date: 2026-09-30
 
 ### Is Big Tech’s AI slowdown a safety pact or a cartel?
 

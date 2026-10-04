@@ -3,10 +3,22 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T09:11:38.041Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### Former special counsel Jack Smith defends investigation into Trump on Capitol Hill
+
+Former Justice Department special counsel Jack Smith defended two criminal indictments against President Trump on Capitol Hill.
+
+Date: 2026-09-30
+
+### Defense Secretary Pete Hegseth Announces More Sweeping Cuts to the Military's Top Ranks
+
+Defense Secretary Pete Hegseth testifies during a Senate Appropriations Committee hearing in the Dirksen Senate Office Building on Capitol Hill in Washington, D.C., on July 21, 2026. —Anna Moneymaker—Getty Images Defense Secretary Pete Hegseth announced on Wednesday that he had directed the U.S. military to cut 20% of.
+
+Date: 2026-09-30
 
 ### Mitch McConnell returns to Capitol Hill after monthslong absence
 
@@ -55,18 +67,6 @@ Date: 2026-08-05
 Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.
 
 Date: 2026-08-04
-
-### TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau
-
-Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.
-
-Date: 2026-08-04
-
-### Blanche Wins GOP Backing After Rescinding ‘Anti-Weaponization Fund’
-
-Attorney General Nominee Todd Blanche leaves a meeting on Capitol Hill on July 29, 2026, in Washington, D.C. —Kevin Dietsch—Getty Images The Republican Senators who stood in the way of Todd Blanche’s confirmation as U.S. Attorney General said they will now support it, after Blanche signed an order Monday to formally re.
-
-Date: 2026-08-03
 
 ## Sources
 

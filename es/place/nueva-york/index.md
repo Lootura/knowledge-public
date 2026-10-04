@@ -3,10 +3,22 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Sylvester Stallone: “No sé qué son las nuevas masculinidades. La naturaleza del hombre es conquistar”
+
+Esta es la cuarta entrevista del día para Sylvester Stallone . ¿Cansado ya de hablar tanto? “No, porque esta es la primera sobre mis memorias”, responde en la habitación del hotel de Nueva York, su ciudad natal, frente a Central Park, donde recibe a EL PAÍS. Seguir leyendo.
+
+Date: 2026-10-04
+
+### Joshua Edelman: «Muchos amigos de Nueva York quieren asentarse en España»
+
+El pianista estadounidense afincado en España inaugura el ciclo nacional Jazz en Red este domingo en el Café Central.
+
+Date: 2026-10-03
 
 ### Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda
 
@@ -56,19 +68,6 @@ El gigante tecnológico chino afronta un complejo proceso judicial en Estados Un
 
 Date: 2026-09-12
 
-### Rybakina y los demonios ‘atrapan’ a una Sabalenka desesperada: el US Open y el mundo tienen nueva reina
-
-« Fuck , Aryna ». El grito se escucha en toda la Arthur Ashe y parte de Nueva York . Lo brama Sabalenka como reproche a sí misma por haber fallado una derecha. El berrido va acompañado de un gesto descriptivo. Se agacha y mira al suelo. Así una y otra vez. Está perdiendo su batalla interior y se le escapaba (6-4, 5-7,.
-
-Date: 2026-09-12
-
-### Silencio contra la división: Nueva York conmemora el día más oscuro de EE.UU.
-
-El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que acudió al acto en el Pentágono, la presencia polémica de Mamdani, primer alcalde musulmán de la ciudad, y la exigencia de las familias de las víctimas de aclarar el papel de Arabia Saudí en los atentados.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-- [Los picardías arrasan en Toronto y Nueva York, pero Pe está incómoda](https://www.abc.es/estilo/moda/picardias-arrasan-toronto-nueva-york-incomoda-20260917074851-nt.html?utm_source=lootura.com) — 2026-09-17T15:16:15.000Z
-- [Revolut planea una doble cotización en Nueva York y Londres y aspira a "cientos de millones" de clientes](https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html?utm_source=lootura.com) — 2026-09-17T12:56:01.000Z
+- [Sylvester Stallone: “No sé qué son las nuevas masculinidades. La naturaleza del hombre es conquistar”](https://elpais.com/us/entretenimiento/2026-10-04/sylvester-stallone-no-se-que-son-las-nuevas-masculinidades-la-naturaleza-del-hombre-es-conquistar.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z

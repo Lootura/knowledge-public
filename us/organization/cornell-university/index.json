@@ -1,0 +1,61 @@
+{
+  "id": "usa-cornell-university",
+  "name": "Cornell University",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/cornell-university",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/cornell-university",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.json",
+  "description": "Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "aliases": [
+    "CU",
+    "CUI",
+    "Cornell Univ.",
+    "cornell.edu",
+    "Cornell"
+  ],
+  "changes": [
+    {
+      "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+      "summary": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
+      "summary": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Cornell University first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Jane Doe's attorney accuses Cornell of \"cover-up\" of alleged rape",
+      "summary": "Lilia Luciano spoke to the attorney for Jane Doe, who says that campus police at Cornell University failed to properly investigate after she was allegedly raped at a fraternity house in 2024.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "DA did not review statements and other evidence collected in alleged rape of Cornell student",
+      "summary": "Cornell University police spoke to witnesses and received tips about an alleged gang rape at a frat house, but the district attorney did not review the information before deciding not to bring charges.",
+      "date": "2026-10-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T09:43:26.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+      "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T02:43:02.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

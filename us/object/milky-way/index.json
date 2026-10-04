@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/milky-way/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/milky-way/index.json",
   "description": "Follow Milky Way, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-12T14:59:23.432Z",
+  "updatedAt": "2026-10-03T19:00:06.756Z",
   "aliases": [
     "Celestial River",
     "Local Galaxy",
@@ -19,6 +19,11 @@
     "The Milky Way Galaxy"
   ],
   "changes": [
+    {
+      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
+      "summary": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of new stars, others filled only with gas or littered with dead.",
+      "date": "2026-10-03"
+    },
     {
       "title": "Why are the stars around our galaxy's black hole missing their companions?",
       "summary": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, it may also destroy their stellar companions. The paper outlin.",

@@ -3,75 +3,75 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático
+### La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”
 
-"Llevan a los tribunales todo aquello que es falso, lo pierden y todavía siguen con el asunto", critica la presidenta regional sobre las denuncias "fracasadas" de Más Madrid y el PSOE Leer.
+La gran mayoría de los dirigentes del PSOE y de los miembros socialistas del Gobierno ha llegado a la conclusión de que la mejor opción es adelantar ya las elecciones para el 29 de noviembre , la primera fecha posible. Por eso casi todos los que están hablando con el presidente, Pedro Sánchez, le están animando a hacer.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### «Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez
+### El posible adelanto electoral fuerza a la izquierda alternativa a acelerar
 
-Leire Díez, la presunta fontanera del PSOE, disponía del aparcamiento de la sede de los socialistas para los encuentros que mantuvo en la misma con el entonces secretario de Organización Santos Cerdán. Así lo confirmó Celia Rodríguez, una trabajadora del partido, ante el juez de la Audiencia Nacional que investiga las.
+Buena parte del espacio a la izquierda del PSOE se echó a temblar el jueves por la noche, cuando Junts anunció que tumbaría los dos decretos de vivienda en el Congreso y por los grupos de Telegram de los partidos comenzó a correr el rumor de que Pedro Sánchez sopesaba un adelanto electoral . Los matices en las declarac.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
+### El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»
 
-Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
+«Mantengo mi confianza en él» aunque... «yo no lo haría». La secretaria general del PSOE andaluz, María Jesús Montero , se ha visto obligada a desplegar sus grandes habilidades de funambulista para transitar estos últimos dos años sobre la delgada línea que separa el deseo y la realidad. Una evolución que puede reconst.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### La Eurocámara aprueba con el voto en contra del PSOE que hubo «invasión en Ceuta» y pide responsabilidades a Marruecos
+### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
 
-El texto ha contado con el apoyo de los grupos conservadores mientras que los socialistas, con el PSOE a la cabeza, lo han rechazado.
+A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera
+### Gabriel Rufián, en 'Salvados': "En este país, Albert Rivera sería vicepresidente si Bildu y ERC no se hubieran cuadrado"
 
-"Prometió dimitir si había mentido con la cuestión del ático. ¿Dónde está su carta de dimisión?", se ha preguntado la portavoz del PSOE, Mar Espinar, que ha enumerado varias falsedades del Gobierno madrileño sobre la polémica compra Las preguntas a las que tiene que responder el portavoz de Ayuso sobre la compra del át.
+El portavoz de Esquerra Republicana, Gabriel Rufián , situó el futuro de la izquierda, la relación con el PSOE y el peso de ERC en el centro del debate político durante su participación en el programa Salvados , de La Sexta, el pasado domingo. El representante político escuchó las opiniones de cinco votantes progresist.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### La juez del hermano de Sánchez pide que se investiguen contactos de las cloacas del PSOE con narcotraficantes para atacarla
+### El Gobierno encarga durante 4 años la «acogida» de ilegales a una ONG de cargos del PSOE: hasta 1.700 € por inmigrante
 
-El Debate ha tenido acceso a un escrito que Beatriz Biedma ha presentado en la Audiencia Nacional.
+El Gobierno -a través del Ministerio de Inclusión, Seguridad Social y Migraciones- ha entregado durante cuatro años la acogida de inmigrantes ilegales a la ONG Movimiento por la Paz, el Desarme y la Libertad (MPDL) , cuya presidenta de honor es Francisca (Paquita) Sauquillo, histórica dirigente socialista y actualmente.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### Sumar votará por primera vez en contra de un decreto del Gobierno y deja contra las cuerdas la regulación de los 'lobbies'
+### Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"
 
-La aprobación de la norma en el Congreso queda en manos del PP, tras perder el PSOE el apoyo de su socio en el Ejecutivo y también de Junts Leer.
+El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...
 
-Date: 2026-09-16
+Date: 2026-10-03
 
-### Temor en el PSOE a que el debate de Ceuta en el Europarlamento complique aún más la posición de Sánchez
+### La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos
 
-La semana que arranca puede traer un nuevo revés político para el Gobierno y para su relato sobre la crisis de Ceuta . Así al menos lo creen algunos dirigentes socialistas que miraban este lunes hacia el Parlamento Europeo temiendo que la posición de Pedro Sánchez quede aún más se comprometida tras el debate sobre la c.
+El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda La mayoría de ciudadanos, incluidos los votantes de la derecha, apoyarían una huelga general por la vivienda Estimación de.
 
-Date: 2026-09-15
+Date: 2026-10-03
 
-### Grave brote de amnesia del PSOE balear: exige al PP proteger las barcas tradicionales tras ignorarlas 11 años
+### ¿Existen argumentos para no convocar elecciones?
 
-El PSIB-PSOE ha solicitado al Govern de Baleares que dicte una serie de directrices que preserven la marina tradicional, como tarifas sociales y asequibles o zonas y regímenes de gestión en los puertos reservados para entidades sin ánimo de lucro vinculadas a esta rama de la náutica. Los socialistas han hecho este lune.
+El rechazo del Congreso a los decretos de vivienda planteados por el ejecutivo cambia el ciclo político y abre unas expectativas electorales para el PSOE que no tenía antes de este debate.
 
-Date: 2026-09-15
+Date: 2026-10-03
 
-### El PSOE baja dos puntos por la crisis de Ceuta en el CIS de Tezanos, que le mantiene con 5,5 puntos sobre el PP
+### Armengol pide la «movilización» del PSOE para las elecciones frente al «peligro» de PP y Vox
 
-Pese a la actualidad política, el CIS mantiene al PSOE (31%) por delante del PP (25,5%) Leer.
+La secretaria general del PSIB-PSOE, Francina Armengol, ha reclamado a los socialistas «movilización extrema» de cara a las próximas elecciones ante una.
 
-Date: 2026-09-14
+Date: 2026-10-03
 
 ## Fuentes
 
-- [«Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez](https://www.abc.es/espana/gestionado-pudiera-aparcar-ferraz-declaracion-sobre-autorizacion-20260917150121-nt.html?utm_source=lootura.com) — 2026-09-17T15:46:47.000Z
-- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z
-- [La Eurocámara aprueba con el voto en contra del PSOE que hubo «invasión en Ceuta» y pide responsabilidades a Marruecos](https://www.eldebate.com/espana/20260917/eurocamara-aprueba-contra-tesis-psoe-resolucion-pide-responsabilidades-marruecos-sobre-ceuta_459795.html?utm_source=lootura.com) — 2026-09-17T11:23:47.000Z
-- [Ayuso carga contra los "infundios" en listas de espera y educación mientras la izquierda calienta la comparecencia por el ático](https://www.elmundo.es/madrid/2026/09/17/6aab9f58e4d4d850578b45a2.html?utm_source=lootura.com) — 2026-09-17T08:50:03.000Z
-- [Más Madrid pide un juicio contra Ayuso “por corrupta” y ella carga contra “las mentiras” sobre el ático y las listas de espera](https://www.eldiario.es/madrid/madrid-pide-juicio-ayuso-corrupta-carga-mentiras-atico-listas-espera_1_13516956.html?utm_source=lootura.com) — 2026-09-17T09:06:25.000Z
+- [El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»](https://www.abc.es/espana/andalucia/despues-montero-poner-mano-fuego-20261004150947-nts.html?utm_source=lootura.com) — 2026-10-04T11:27:00.000Z
+- [Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"](https://amp.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html?utm_source=lootura.com) — 2026-10-04T12:16:17.000Z
+- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
+- [La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”](https://elpais.com/espana/2026-10-04/la-mayoria-del-psoe-y-el-gobierno-anima-a-sanchez-a-convocar-elecciones-ya-ahora-hay-una-oportunidad.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z
+- [El posible adelanto electoral fuerza a la izquierda alternativa a acelerar](https://elpais.com/espana/2026-10-04/el-posible-adelanto-electoral-fuerza-a-la-izquierda-alternativa-a-acelerar.html?utm_source=lootura.com) — 2026-10-04T03:30:01.000Z

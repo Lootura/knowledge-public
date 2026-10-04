@@ -3,10 +3,16 @@
 > Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/product/censo-electoral
 
 ## Cambios recientes
+
+### Los españoles con derecho a voto ya crecen más en Argentina que en Madrid por la nacionalización de falsos exiliados
+
+La polémica Ley de Nietos está provocando situaciones tan paradójicas como que el censo electoral de españoles en Argentina crezca, en un sólo mes, más que el de Madrid . Así lo revelan los datos de la propia Oficina del Censo Electoral, consultados por OKDIARIO. En junio de este año, por ejemplo, el Censo Electoral de.
+
+Date: 2026-10-01
 
 ### 'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados
 

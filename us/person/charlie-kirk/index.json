@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/charlie-kirk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/charlie-kirk/index.json",
   "description": "Follow Charlie Kirk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-10-01T04:06:59.232Z",
   "aliases": [
     "Charles J. Kirk",
     "Charles James Kirk",
@@ -16,6 +16,11 @@
     "Charlie"
   ],
   "changes": [
+    {
+      "title": "Utah Gov. Spencer Cox on his blueprint for depolarizing a fractured nation",
+      "summary": "In the aftermath of the shooting death of conservative activist Charlie Kirk, Utah Gov. Spencer Cox emerged as a prominent voice calling on Americans to step back from the political hatred and violence gripping the country. Now, the Republican governor is expanding on that message in a new book, \"Off Ramp: How to Be a.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
       "summary": "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists.",
@@ -59,11 +64,6 @@
     {
       "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
       "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Accused Charlie Kirk shooter Tyler Robinson must stand trial, judge rules",
-      "summary": "A judge ruled Tuesday that accused Charlie Kirk shooter Tyler Robinson will stand trial in the killing of the late conservative activist, where he could face the death penalty.",
       "date": "2026-09-02"
     }
   ],

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/topic/artificial-intelligence/index.json",
   "description": "Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "AI",
     "machine learning"
@@ -67,10 +67,10 @@
   ],
   "sources": [
     {
-      "title": "OpenAI revela otros seis incidentes alarmantes en los que la IA actuó de forma autónoma para engañar a humanos",
-      "url": "https://www.elmundo.es/economia/empresas/2026/09/17/6aab91c8e9cf4a664e8b4579.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T07:19:22.000Z",
-      "sourceId": "lootura-es-el-mundo"
+      "title": "El apocalipsis laboral de la IA se pospone (por ahora)",
+      "url": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
   "evidenceCount": 0

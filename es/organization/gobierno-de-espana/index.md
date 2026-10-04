@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### La ministra y sus buitres
+
+La degradación a que ha llegado el actual Gobierno de España era inimaginable hace escasos años. Ver y oír cómo toda una señora ministra afirma sin pestañear que una pequeña empresa inmobiliaria es «una pyme buitre, muy carroñera» ( sic ) es más propio de una algarada de cercanos al coma etílico que de alguien que tien.
+
+Date: 2026-10-04
 
 ### España destina 126 millones a 52 proyectos de ciudades inteligentes
 
@@ -59,12 +65,6 @@ Date: 2026-08-14
 ### ¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?
 
 La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.
-
-Date: 2026-08-14
-
-### El presidente de Ceuta urge a cambios legales para suspender el asilo en casos de “invasión”
-
-El presidente de Ceuta, Juan Jesús Vivas, ha insistido este viernes en su petición al Gobierno de España para que rechace y desestime las solicitudes de asilo. Así, ante una situación que sigue siendo de “máximo riesgo”, Vivas reclama la devolución “inmediata” a Marruecos de todos los migrantes que asaltaron la fronter.
 
 Date: 2026-08-14
 

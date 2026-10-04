@@ -3,10 +3,40 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Houthis Claim Attack on Aramco as Yemen Conflict Escalates
+
+The Iran-backed militia said it targeted an Aramco site in Saudi Arabia’s capital, Riyadh, and fresh airstrikes hit the Yemeni capital, raising fears of a widening war.
+
+Date: 2026-10-04
+
+### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
+
+The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+
+Date: 2026-10-04
+
+### Week in Politics: Inflation pressure; war in Iran and effect on midterm elections
+
+We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.
+
+Date: 2026-10-03
+
+### Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’
+
+Amid latest extraordinary attack on diversity, US defense secretary also suggests military is retaining service personnel at ‘record’ rates Send us your questions about how the Iran war will affect US voters in the midterms The US defense secretary, Pete Hegseth, has confirmed plans to cut 20% of generals and admirals.
+
+Date: 2026-09-30
+
+### UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says
+
+The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.
+
+Date: 2026-09-30
 
 ### Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war
 
@@ -38,39 +68,8 @@ Protests over rising fuel protest are happening around the world, a ripple effec
 
 Date: 2026-09-17
 
-### Is Iran Shaping Up to Be a ‘Forever War’?
-
-Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.
-
-Date: 2026-09-16
-
-### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
-
-CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
-
-Date: 2026-09-16
-
-### Iran war has cost the U.S. more than $38 billion so far, budget office says
-
-The estimates come largely from replacing munitions and equipment lost in battle, the CBO said, and do not include costs related to U.S. military personnel killed or injured in the conflict or longer term effects.
-
-Date: 2026-09-16
-
-### How nearly 7 months of war have changed daily life in Iran
-
-For the third time, the House of Representatives voted to end the war with Iran. That war powers resolution would stop President Trump from continuing military action against Iran without congressional approval, but it still needs to pass the Senate. The push comes more than six months into a conflict Trump said would.
-
-Date: 2026-09-16
-
-### Interest rate hike a 'reassuring' sign Fed is acting independently, economist says
-
-The Federal Reserve raised interest rates by a quarter of a point, the first hike in three years. It comes as the war in Iran continues to put pressure on prices and is the first major move by Fed Chair Kevin Warsh to combat elevated inflation. Geoff Bennett discussed more with economist Julia Coronado of MacroPolicy P.
-
-Date: 2026-09-16
-
 ## Sources
 
-- [Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war](https://www.nbcnews.com/politics/national-security/democratic-senators-request-pentagon-provide-bare-minimum-cost-war-rcna598293?utm_source=lootura.com) — 2026-09-17T14:36:19.000Z
-- [U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack](https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes?utm_source=lootura.com) — 2026-09-17T12:33:36.000Z
-- [Global Economy Is Running Out of Wiggle Room](https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html?utm_source=lootura.com) — 2026-09-17T13:14:06.000Z
-- [China Stockpiled Oil, and Now It Could Dominate the Energy Landscape](https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html?utm_source=lootura.com) — 2026-09-17T16:10:18.000Z
+- [Prozac use for childhood depression skewed by single flawed medical trial](https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com) — 2026-10-04T13:40:52.181Z
+- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T10:45:50.000Z
+- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z

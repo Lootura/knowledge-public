@@ -3,10 +3,16 @@
 > Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/elon-musk
 
 ## Cambios recientes
+
+### Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”
+
+La mayor parte del planeta con ingresos equivalentes a 5.000 euros al mes en el año 2100. Las temperaturas promedio, solo 1,8 grados por encima de las de la era preindustrial. Menos carne, industria y minería. Más salud y educación. ¿Y los perjudicados? Los Jeff Bezos, Larry Ellison y Elon Musk del mundo. Un reducidísi.
+
+Date: 2026-10-04
 
 ### Elon Musk despliega su máquina de caos político en el Reino Unido
 
@@ -62,12 +68,6 @@ La etapa superior de un cohete Falcon 9 de la empresa SpaceX , que llevaba ya m�
 
 Date: 2026-08-06
 
-### Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado
-
-Elon Musk no se conforma con conectar nuestros móviles desde el espacio, sino que el tecnomagnate más polémico quiere ir un paso más allá. SpaceX pretende convertir las antenas de Starlink instaladas en viviendas y empresas en estaciones de telefonía móvil. Su objetivo es levantar una red terrestre propia y ofrecer cob.
-
-Date: 2026-08-06
-
 ## Fuentes
 
-No public source links.
+- [Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”](https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html?utm_source=lootura.com) — 2026-10-04T03:30:00.000Z

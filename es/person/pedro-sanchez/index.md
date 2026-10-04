@@ -3,74 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior
+### La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”
 
-El presidente de Ceuta, Juan Jesús Vivas (PP) , ha tachado de "salida de tono" las recientes palabras del presidente del Gobierno, Pedro Sánchez, en las que remitía a los periodistas a preguntar al dirigente ceutí por la presencia de menores en las calles . Además, Vivas ha recordado que la competencia para la identifi.
+La gran mayoría de los dirigentes del PSOE y de los miembros socialistas del Gobierno ha llegado a la conclusión de que la mejor opción es adelantar ya las elecciones para el 29 de noviembre , la primera fecha posible. Por eso casi todos los que están hablando con el presidente, Pedro Sánchez, le están animando a hacer.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Gallardo, otra vez denunciado por la plaza que ocupó el amigo del hermano de Sánchez
+### Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere
 
-Hazte Oír ha presentado una nueva denuncia contra Miguel Ángel Gallardo por su participación en la creación y posterior adjudicación de una plaza de la Diputación de Badajoz que acabó ocupando Luis María Carrero, antiguo colaborador y amigo personal de David Sánchez . La asociación pide al Tribunal de Instancia de Bada.
+En plena crisis de la vivienda por el caso Maricarmen , Pedro Sánchez visitó el lunes una promoción de vivienda protegida en el distrito del Poblenou de Barcelona. Es el único inmueble público existente en esa manzana y su sobrio diseño contrasta con el resto de modernos edificios de oficinas de fachadas desiguales y a.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad
+### El posible adelanto electoral fuerza a la izquierda alternativa a acelerar
 
-La formación de Feijóo se ha preguntado si tiene que «morir alguien» tras la nueva agresión que han sufrido en Ceuta.
+Buena parte del espacio a la izquierda del PSOE se echó a temblar el jueves por la noche, cuando Junts anunció que tumbaría los dos decretos de vivienda en el Congreso y por los grupos de Telegram de los partidos comenzó a correr el rumor de que Pedro Sánchez sopesaba un adelanto electoral . Los matices en las declarac.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información
+### El PP ya especula con un Gobierno Feijóo
 
-El cambio de postura que el presidente del Gobierno dictó respecto al Sáhara Occidental en 2022 -asumiendo la soberanía marroquí- ya despertó entonces algunas insinuaciones,...
+El PP de Alberto Núñez Feijóo hace tiempo que anhela elecciones y le da igual la fecha, según distintas fuentes de su equipo. Creen que esta vez es inviable el gatillazo de julio de 2023 y que a Pedro Sánchez solo le puede ir peor, elija lo que elija. El líder popular transmite en público que está listo, preparado, cas.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### La Diputación de Badajoz no pedirá el reintegro de los 427.000 euros cobrados por David Sánchez y Luis Carrero
+### El PP se reivindica como solución a la crisis de vivienda y afirma no temer un adelanto electoral: "Estamos listos"
 
-La Diputación de Badajoz no reclamará la devolución de los 427.000 euros percibidos por David Sánchez , hermano del presidente del Gobierno, Pedro Sánchez, y por su colaborador Luis Carrero durante su etapa en la institución provincial. De ellos, 340.000 corresponden a Sánchez . En un comunicado, la corporación ha seña.
+El rechazo en el Congreso de los Diputados de los dos decretos de vivienda del Gobierno ha abierto un nuevo escenario político que puede culminar con un adelanto electoral si así lo decide Pedro Sánchez tras el fin de semana de reflexión. La situación es una ventana de oportunidad para el Partido Popular , que pide su.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### La juez del hermano de Sánchez pide que se investiguen contactos de las cloacas del PSOE con narcotraficantes para atacarla
+### Los 300 leales que acabarán traicionando al presidente
 
-El Debate ha tenido acceso a un escrito que Beatriz Biedma ha presentado en la Audiencia Nacional.
+Ahora que Sánchez nos vuelve a tomar el pelo con su 'to be or not to be' de fin de semana es hora de pensar en el día después. El día después de que anuncie la convocatoria electoral, cuando la anuncie, y que supondrá el pistoletazo de salida a muchas cosas. Muchas. Y no solo se trata de la carrera por ganar sino de lo.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### La Audiencia de Badajoz aclara que Gallardo y Sánchez no podrán acceder a cargos públicos durante 18 y 9 años
+### Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»
 
-David Sánchez fue condenado por un delito de prevaricación a nueve años de inhabilitación por su contratación en Diputación de Badajoz en 2017 en l...
+Nueva derrota para el Gobierno . El Congreso ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP, Vox, Junts y UPN han votado en contra de ambos textos, tal y como habían advertido. PNV y Coalición Canaria han apoyado la primera iniciativa, aun.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### El PP urge a Sánchez a desvelar si ha hablado con el Rey de Marruecos y el presidente guarda silencio
+### Iñaki López, sobre el rechazo de Junts a los decretos de vivienda de Pedro Sánchez: «No es sorpresa. Votó contra la revalorización de las pensiones»
 
-El jefe del Ejecutivo acusa a los 'populares' de "poner palos en la rueda" y "tratar de cronificar" la crisis de Ceuta y Feijóo le reprocha "encubrir a los responsables" Leer.
+Fracaso del Gobierno en el Congreso . La Cámara Baja ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP , Vox , Junts y UPN han votado en contra de ambos textos, tal y como habían anunciado, mientras que PNV y Coalición Canaria han respaldado.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### Sánchez, sobre los niños y niñas solas que quedan en las calles de Ceuta sin atender: "Eso pregúntenselo a Vivas"
+### Juan del Val, claro sobre lo que pasará si Sánchez convoca elecciones tras la derrota de los decretos de vivienda
 
-El presidente asegura que el PP "no deja de poner palos en las ruedas" para la resolución de una crisis que Feijóó le acusa de minimizar para "encubrir a Marruecos" Investigación - Dos decenas de migrantes denuncian palizas y vejaciones de militares que patrullan Ceuta Centenares de niños y niñas solas siguen en las ca.
+¿Habrá un adelanto electoral en España? Este es un escenario que en los últimos días ha cobrado fuerza tras el rechazo de los decretos de vivienda en el Congreso . Horas antes de que comenzara la sesión, el Gobierno ya advertía de que una derrota parlamentaria podía precipitar una convocatoria anticipada.Tras el fracas.
 
-Date: 2026-09-16
+Date: 2026-10-04
 
-### Sánchez aprieta a los empresarios: exige una subida general de sueldos ante la subida del IPC
+### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
 
-El presidente del Gobierno, Pedro Sánchez, irrumpió ayer en el debate que se avecina en los próximos meses dentro del perímetro del diálogo social con la nueva s ubida del salario mínimo interprofesional (SMI), por un lado, y la previsible convocatoria de la mesa de negociación bipartita -patronal y sindicatos- para re.
+A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
 
-Date: 2026-09-16
+Date: 2026-10-04
 
 ## Fuentes
 
-- [Vivas responde a la "salida de tono de Sánchez" y recuerda que la competencia para identificar a los menores es de Interior](https://www.20minutos.es/ceuta/vivas-responde-salida-tono-sanchez-recuerda-que-competencia-para-identificar-los-menores-es-interior_7037979_0.html?utm_source=lootura.com) — 2026-09-17T10:54:04.000Z
-- [Gallardo, otra vez denunciado por la plaza que ocupó el amigo del hermano de Sánchez](https://www.abc.es/espana/extremadura/gallardo-vez-denunciado-plaza-ocupo-amigo-hermano-20260917132508-nt.html?utm_source=lootura.com) — 2026-09-17T15:45:18.000Z
-- [Sánchez engorda las sospechas sobre el chantaje de Rabat en siete comparecencias sin información](https://amp.elmundo.es/espana/2026/09/17/6aaae533fc6c8386228b4581.html?utm_source=lootura.com) — 2026-09-16T23:13:41.000Z
-- [El PP pide a Sánchez que reconozca a los militares como agentes de la autoridad](https://theobjective.com/espana/politica/2026-09-17/pp-sanchez-reconocer-militares-agentes-autoridad/?amp=&utm_source=lootura.com) — 2026-09-17T16:05:12.000Z
+- [El PP se reivindica como solución a la crisis de vivienda y afirma no temer un adelanto electoral: "Estamos listos"](https://www.20minutos.es/nacional/pp-se-reivindica-como-solucion-crisis-vivienda-afirma-no-temer-un-adelanto-electoral-estamos-listos_7044328_0.html?utm_source=lootura.com) — 2026-10-04T06:17:37.000Z
+- [Los 300 leales que acabarán traicionando al presidente](https://www.abc.es/espana/300-leales-acabaran-traicionando-sanchez-20261003012553-nt.html?utm_source=lootura.com) — 2026-10-04T12:41:59.000Z
+- [Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»](https://www.abc.es/play/television/noticias/vicente-valles-sobre-pedro-sanchez-convocara-elecciones-20261003112942-nt.html?utm_source=lootura.com) — 2026-10-04T12:17:22.000Z
+- [Iñaki López, sobre el rechazo de Junts a los decretos de vivienda de Pedro Sánchez: «No es sorpresa. Votó contra la revalorización de las pensiones»](https://www.abc.es/play/television/noticias/inaki-lopez-sobre-rechazo-junts-decretos-vivienda-20261004101507-nt.html?utm_source=lootura.com) — 2026-10-04T12:16:03.000Z
+- [Juan del Val, claro sobre lo que pasará si Sánchez convoca elecciones tras la derrota de los decretos de vivienda](https://www.abc.es/play/television/noticias/juan-val-sobre-pasara-pedro-sanchez-convoca-20261004140921-nt.html?utm_source=lootura.com) — 2026-10-04T12:09:21.000Z
+- [«Sánchez adelantará las elecciones, es su mejor opción y puede ganarlas»](https://www.diariovasco.com/politica/sanchez-adelantara-elecciones-mejor-opcion-puede-ganarlas-20261004000627-nt_amp.html?utm_source=lootura.com) — 2026-10-03T22:06:28.000Z
+- [Diego Rubio, el "monje" de Pedro Sánchez "arrogante y con muchos enemigos" que tapó Ceuta con Maricarmen](https://www.elmundo.es/cronica/2026/10/03/6abff6b3fdddffa9228b4572.html?utm_source=lootura.com) — 2026-10-03T20:48:17.000Z
+- [Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"](https://amp.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html?utm_source=lootura.com) — 2026-10-04T12:16:17.000Z
+- [Los informes económicos aconsejan a Sánchez adelantar elecciones: evita Presupuestos y el deterioro del coste de la vida que viene](https://www.elmundo.es/espana/2026/10/04/6ac107b7e4d4d840528b4578.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z
+- [Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"](https://amp.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html?utm_source=lootura.com) — 2026-10-03T23:51:12.000Z

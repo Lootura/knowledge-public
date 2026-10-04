@@ -28,5 +28,4 @@ Date: 2026-09-17
 
 ## Sources
 
-- [Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign](https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com) — 2026-09-17T16:00:59.000Z
-- [How Canada and the E.U. are teaming up to counter Trump](https://www.nbcnews.com/world/europe/mark-carney-eu-plot-middle-power-alliance-counter-trump-threats-rcna598284?utm_source=lootura.com) — 2026-09-17T15:41:39.000Z
+No public source links.

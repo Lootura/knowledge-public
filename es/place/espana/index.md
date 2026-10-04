@@ -3,78 +3,75 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
+### La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"
 
-“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.
+Tiendas de campaña, toldos y pancartas ocupan desde ya hace varios días la Puerta del Sol y Plaza Cataluña , espacios en los que se concentran las acampadas por del derecho a la vivienda más multitudinarias de España. El Sindicato de Inquilinas cifra ya en más de mil las estructuras instaladas en la plaza madrileña, mi.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica
+### Cómo hemos llegado hasta aquí: vivienda a precios récord, construcción estancada y a la cola de Europa en alquiler social
 
-Última hora de Ceuta y la actualidad política en España: ultimátum al Gobierno, choque judicial, ayudas millonarias y tensión en el Congreso.
+La emergencia habitacional ha desatado un terremoto social y político en los últimos días, con el desahucio de Maricarmen y el rechazo del Congreso a los decretos de vivienda como telón de fondo. Según el CIS, la ciudadanía considera que la crisis de la vivienda es el principal problema de España. La situación se ha re.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta
+### Juan del Val, claro sobre lo que pasará si Sánchez convoca elecciones tras la derrota de los decretos de vivienda
 
-Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos "materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente" en Ceuta el pasado 30 de julio y "para que España acelere los procedimient.
+¿Habrá un adelanto electoral en España? Este es un escenario que en los últimos días ha cobrado fuerza tras el rechazo de los decretos de vivienda en el Congreso . Horas antes de que comenzara la sesión, el Gobierno ya advertía de que una derrota parlamentaria podía precipitar una convocatoria anticipada.Tras el fracas.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía
+### Cómo elegir el mejor aceite de oliva en el supermercado, según la OCU
 
-Barcelona, Real Madrid, Atlético y Real Sociedad lucharán por el título del 2 al 6 de febrero de 2027 en Estambul.
+El aceite de oliva continúa siendo uno de los productos imprescindibles de la cesta de la compra en España. Se utiliza para cocinar, aliñar ensaladas, preparar salsas o freír y, pese a que su precio ha obligado a muchos hogares a mirar más que nunca la etiqueta, sigue ocupando un lugar fijo en las despensas. La varieda.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### España sitúa su deuda pública por debajo del 100% del PIB por primera vez desde la pandemia
+### La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona
 
-Nunca una décima de punto había dado para tanto. La deuda pública española se situó el pasado julio por debajo del umbral del 100% del producto interior bruto (PIB) por primera vez desde la pandemia . El dato, publicado este jueves por el Banco de España, sitúa el pasivo del conjunto de las Administraciones públicas ex.
+España se enfrenta este domingo, según la Agencia Estatal de Meteorología (Aemet), al “día más adverso” de todo el episodio de lluvias torrenciales que comenzó el jueves y que durará hasta el miércoles. Como ya advertía la Aemet, la previsión está sujeta a mucha incertidumbre y en cualquier momento pueden producirse ll.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas
+### Hipotecas para quien pueda comprarse una casa: las mixtas ganan peso
 
-El juicio contra cuatro sospechosos de trasladar 400 kilos de cocaína desde Colombia a España para su distribución en la Costa del Sol culminó este jueves con un inesperado desenlace: al quedar visto para sentencia, los cuatro fueron arrestados en la propia sala y enviados a prisión provisional hasta que se dicte el fa.
+La movilización desatada tras el desahucio de Maricarmen, una anciana de 87 años del madrileño barrio de Retiro, ha provocado un terremoto político y social en España, cristalizado en el duro debate parlamentario en el que el Congreso de los Diputados rechazó los decretos sobre vivienda planteados por el Gobierno. El e.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos
+### Proyecto ZOE: el robot que pondrá "ojos, voz y oídos" a los alumnos extremeños que padecen cáncer
 
-El Parlamento Europeo no tiene competencias en política exterior, intenta tener protagonismo en esa agenda. El PP español ha tirado esa palanca para atacar al Gobierno, algo que ya es casi una tradición en Bruselas: la Eurocámara ha aprobado este jueves una resolución, presentada por el PP europeo con el patrocinio del.
+Proyecto ZOE llega a las aulas de Extremadura para poner “ojos, voz y oídos” a los niños con enfermedades oncológicas . El colegio Diocesano José Luis Cotallo de Cáceres, que es el primero de España en poner en marcha esta iniciativa, ya ha recibido el robot telepresencial AV1 fabricado por la empresa noruega No Isolat.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Cómo ganar en la Bolsa española más allá de los bancos
+### Valladolid estrena en España la reconstrucción de una obra perdida de Shakespeare que adapta El Quijote
 
-Los bancos españoles lideran las subidas en el Ibex en los últimos años, pero hay otros valores con los que se pueden conseguir interesantes rentabilidades, según Manuel Pinto, responsable de análisis de XTB en España.
+El misterio de la obra perdida de Shakespeare, Cardenio, se ha desvelado en parte esta semana en Valladolid, en lo que ha sido calificado como un auténtico “acontecimiento” . Basada en el personaje de El Quijote del mismo nombre , los espectadores españoles han podido aproximarse a esta obra por primera vez gracias a u.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Cristina Pitarch, responsable de Anthropic en España: «Un juguete está más regulado que la IA»
+### El Gobierno reparte por la Península a 213 menas de Ceuta: un tercio utilizó a sus familiares en España para quedarse
 
-En plena tormenta por las alarmas lanzadas por los gigantes americanos de la inteligencia artificial (IA), el impulsor del miedo a que esta tecnología sobrepase los límites éticos y humanos, Anthropic, acaba de nombrar nueva jefa en España, tras su desembarco con una oficina, como adelantó ABC. Cristina Pitarch , exalt.
+El Gobierno de Pedro Sánchez ha repartido por la Península a 213 menores extranjeros no acompañados ( menas ) que llegaron a Ceuta durante la invasión del pasado 30 de julio, en la que entraron casi 80.000 personas en la ciudad autónoma. Casi una tercera parte de ellos apelaron a tener familiares en la Península para q.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
-### Ningún hotel español consigue entrar en el ránking de los 100 mejores del mundo
+### La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta
 
-El Rosewood de Hong Kong es, nuevamente, el mejor hotel del mundo , según 'The 50 Best Hotels 2026' (antes llamado 'The World's 50 Best Hotels'), que ha vuelto a dejar a España fuera de su ránking. En el 'top ten' de este listado figuran, además del ganador, Capella Bangkok, en el segundo puesto, seguido, en orden desc.
+España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.
 
-Date: 2026-09-17
+Date: 2026-10-04
 
 ## Fuentes
 
-- [Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta](https://www.20minutos.es/nacional/feijoo-pide-ue-que-medie-con-marruecos-para-que-materialice-su-compromiso-aceptar-retorno-los-migrantes-ceuta_7038045_0.html?utm_source=lootura.com) — 2026-09-17T12:58:37.000Z
-- [Fechas, horarios y estadios de la Supercopa de España que se jugará en Turquía](https://www.abc.es/deportes/futbol/fechas-horarios-estadios-supercopa-espana-jugara-turquia-20260917173039-nt_amp.html?utm_source=lootura.com) — 2026-09-17T15:30:40.000Z
-- [España sitúa su deuda pública por debajo del 100% del PIB por primera vez desde la pandemia](https://elpais.com/economia/2026-09-17/espana-situa-su-deuda-publica-por-debajo-del-100-del-pib-por-primera-vez-desde-la-pandemia.html?utm_source=lootura.com) — 2026-09-17T15:13:51.000Z
-- [Giro de guion en el juicio por un alijo de coca en la Costa del Sol: todos a la cárcel desde la sala de vistas](https://www.elconfidencial.com/espana/2026-09-17/acusados-cocaina-arrestados-sala-juicio-1tna-1tps_4426024/?utm_source=lootura.com) — 2026-09-17T15:09:00.000Z
-- [Las derechas europeas cargan contra España por la crisis de Ceuta y lanzan una advertencia a Marruecos](https://elpais.com/espana/2026-09-17/las-derechas-europeas-cargan-contra-espana-por-la-crisis-de-ceuta-y-lanzan-una-advertencia-a-marruecos.html?utm_source=lootura.com) — 2026-09-17T12:22:12.000Z
-- [Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”](https://elpais.com/espana/2026-09-17/albares-ceuta-y-melilla-van-a-estar-en-el-corazon-de-la-union-europea.html?utm_source=lootura.com) — 2026-09-17T08:18:27.000Z
-- [Cómo ganar en la Bolsa española más allá de los bancos](https://www.expansion.com/podcasts/en-accion/2026/09/17/6aaba466e5fdea7b558b456f.html?utm_source=lootura.com) — 2026-09-17T12:07:33.000Z
-- [Últimas hora de la crisis migratoria de Ceuta y la actualidad política en directo: el choque entre Gobierno, Justicia y autonomías se intensifica](https://okdiario.com/espana/ultimas-noticias-crisis-ceuta-actualidad-politica-directo-choque-gobierno-justicia-autonomias-intensifica-20312346/amp?utm_source=lootura.com) — 2026-09-17T09:07:12.000Z
+- [La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"](https://www.20minutos.es/nacional/los-dramas-los-acampados-puerta-sol-plaza-catalunya-probablemente-nos-tengamos-que-ir-otra-comunidad-autonoma_7044199_0.html?utm_source=lootura.com) — 2026-10-04T06:20:43.000Z
+- [Cómo hemos llegado hasta aquí: vivienda a precios récord, construcción estancada y a la cola de Europa en alquiler social](https://www.20minutos.es/nacional/como-hemos-llegado-hasta-aqui-vivienda-precios-record-construccion-estancada-cola-europa-alquiler-social_7044234_0.html?utm_source=lootura.com) — 2026-10-04T06:13:35.000Z
+- [Juan del Val, claro sobre lo que pasará si Sánchez convoca elecciones tras la derrota de los decretos de vivienda](https://www.abc.es/play/television/noticias/juan-val-sobre-pasara-pedro-sanchez-convoca-20261004140921-nt.html?utm_source=lootura.com) — 2026-10-04T12:09:21.000Z
+- [Cómo elegir el mejor aceite de oliva en el supermercado, según la OCU](https://www.elindependiente.com/sociedad/2026/10/04/como-elegir-mejor-aceite-oliva-ocu/?utm_source=lootura.com) — 2026-10-04T07:30:00.000Z
+- [La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona](https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html?utm_source=lootura.com) — 2026-10-04T11:29:36.000Z

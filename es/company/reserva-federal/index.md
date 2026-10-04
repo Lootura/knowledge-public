@@ -70,5 +70,4 @@ Date: 2026-09-07
 
 ## Fuentes
 
-- [Pulgar hacia arriba: el mercado avala a un Warsh liberado de la presión de Trump](https://cincodias.elpais.com/mercados-financieros/2026-09-17/pulgar-hacia-arriba-el-mercado-avala-a-un-warsh-liberado-de-la-presion-de-trump.html?utm_source=lootura.com) — 2026-09-17T11:31:37.000Z
-- [La Bolsa celebra la firmeza de la Fed: el Ibex avanza un 1% y recupera los 19.800 puntos](https://cincodias.elpais.com/mercados-financieros/2026-09-17/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-09-17T15:42:02.000Z
+No public source links.

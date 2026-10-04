@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-10-03T19:00:06.756Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "CBS News poll finds voters split on state v. national focus in Maine Senate race",
+      "summary": "Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.",
+      "date": "2026-10-03"
+    },
     {
       "title": "Platner announced as speaker for activist-led event in Maine",
       "summary": "Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.",
@@ -54,11 +59,6 @@
     {
       "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
       "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
-      "date": "2026-07-20"
-    },
-    {
-      "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
-      "summary": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
       "date": "2026-07-20"
     }
   ],

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/rodriguez-zapatero/index.json",
   "description": "Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T03:21:35.336Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "José Luis Rodríguez",
     "Rodríguez",
@@ -16,6 +16,11 @@
     "Zapatero"
   ],
   "changes": [
+    {
+      "title": "Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda",
+      "summary": "El ex presidente del Gobierno José Luis Rodríguez Zapatero intercedió ante la cúpula de Junts per Catalunya para intentar que aprobaran al menos el primer decreto de vivienda...",
+      "date": "2026-10-03"
+    },
     {
       "title": "Zapatero recurre ante la Audiencia Nacional que se investiguen sus ingresos por negocios en Bolivia",
       "summary": "La defensa del expresidente del Gobierno advierte al juez Calama de que no tiene \"patente de corso\" para indagar de forma prospectiva en cualquier actuación personal o profesional de Zapatero La causa contra Zapatero cuestiona sus negocios privados en el extranjero La defensa de José Luis Rodríguez Zapatero ha recurrid.",
@@ -60,13 +65,15 @@
       "title": "Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”",
       "summary": "“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.",
       "date": "2026-08-31"
-    },
-    {
-      "title": "El 40% de las empresas cree que la corrupción les ha impedido acceder a un contrato público",
-      "summary": "Santos Cerdán, José Luis Ábalos y Koldo García, Leire Díez, José Luis Rodríguez Zapatero, la SEPI, Carlos Barrabés... Las i nvestigaciones y condenas por casos de corrupción no dejan de sucederse. La corrupción ya es la cuarta principal preocupación de los españoles según el barómetro del Centro de Investigaciones Soci.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda",
+      "url": "https://amp.elmundo.es/espana/2026/10/03/6ac131e8e4d4d82f0f8b45b6.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T20:48:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

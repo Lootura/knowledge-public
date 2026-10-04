@@ -3,10 +3,16 @@
 > Follow New Hampshire, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/place/new-hampshire
 
 ## Recent changes
+
+### Democrats want a blue wave. New Hampshire is Exhibit A for why that may not happen
+
+Five weeks before Election Day, Democratic optimism is soaring. But glaring vulnerabilities threaten to undermine the unstoppable blue wave that Democrats believe is coming. Look no further than New Hampshire, where Democratic leaders are sounding the alarm about political challenges that could jeopardize the party's a.
+
+Date: 2026-09-30
 
 ### New Hampshire Democrat Cinde Warmington says Canada trade war is "crushing the people of our state"
 

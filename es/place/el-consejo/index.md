@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-16T16:06:49.960Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Bruselas sigue la senda de Trump y avala los primeros centros de deportación de migrantes fuera de la UE
+
+La política migratoria europea mira cada vez más hacia fuera de sus propias fronteras. La UE lleva años buscando acuerdos con otros países para frenar las llegadas y facilitar las expulsiones, pero ahora se dispone a dar un paso más . El Consejo de la UE tiene previsto dar este jueves su aprobación definitiva al nuevo.
+
+Date: 2026-10-01
 
 ### Las empresas tendrán que detallar a sus empleados si usan algoritmos para el salario variable y el cambio de tareas
 
@@ -59,12 +65,6 @@ Date: 2026-09-01
 ### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
 
 El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
-
-Date: 2026-09-01
-
-### El Gobierno aprueba 309 millones extras para Ceuta y una rebaja fiscal permanente
-
-Ceuta sigue concentrando los esfuerzos del Gobierno . El Consejo de Ministros ha aprobado este martes un real decreto ley con medidas urgentes para revitalizar su economía dotado con 309 millones de euros para lo que resta de año. Esa cantidad, en la que están incluidas partidas para reforzar los servicios esenciales,.
 
 Date: 2026-09-01
 

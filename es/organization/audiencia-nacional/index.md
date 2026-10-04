@@ -3,10 +3,34 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### La Policía interrogó durante 12 horas a un técnico que preparaba datos para un informe sobre Ceuta para la Audiencia Nacional
+
+Agentes de la Policía Nacional han interrogado durante toda una noche, sin abogado, a un técnico de una empresa subcontratada por el Ministerio del Interior que preparaba datos para uno de los informes que la juez María Tardón, de la Audiencia Nacional , ha encargado sobre la entrada masiva de inmigrantes en Ceuta. Seg.
+
+Date: 2026-10-01
+
+### Un fiscal díscolo de la Audiencia Nacional rompe con sus jefes y defiende que sí investigue a Julio Iglesias tras la nueva denuncia ‘fake’
+
+El fiscal de la Audiencia Nacional Vicente González Mota ha dado un giro de timón en el caso Julio Iglesias . Según varias fuentes fiscales consultadas por OKDIARIO, el encargado de informar sobre la nueva querella de las ex trabajadoras del cantante considera que este tribunal sí tiene competencia para investigarle, e.
+
+Date: 2026-10-01
+
+### Ceuta llama, Sánchez no contesta
+
+San Pedro negó a Jesucristo tres veces antes de que cantara el gallo. Pedro Sánchez necesitó algo más de margen. Juan Jesús Vivas contó este miércoles ante la Audiencia Nacional que, entre el 27 y el 29 de julio, desde Ceuta intentaron contactar diez veces con el presidente del Gobierno . Diez . Obtuvieron tres respues.
+
+Date: 2026-10-01
+
+### El primer cargo del PSOE caído por Ceuta, ante la juez tras detallar Vivas 10 llamadas con Moncloa
+
+Gonzalo Sanz, ex jefe de Gabinete del delegado del Gobierno en la ciudad, declara este jueves en la Audiencia Nacional. Abordará los avisos que recibió del CNI, a quién se los trasladó y cuándo Leer.
+
+Date: 2026-09-30
 
 ### Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península
 
@@ -44,35 +68,6 @@ La Sala de lo Contencioso-Administrativo desestima las cautelares reclamadas por
 
 Date: 2026-09-17
 
-### La Audiencia Nacional rechaza investigar la guerra judicial de los Ybarra por la gestión de la sociedad familiar
-
-La Audiencia Nacional ha rechazado entrar a valorar la pugna que vive la familia Ybarra, una de las familias más conocidas en el mundo empresarial y de la élite vasca, por la gestión de Mezouna, la sociedad patrimonial familiar a través de la cual se han canalizado su histórica participación en el grupo editorial Vocen.
-
-Date: 2026-09-17
-
-### La Audiencia Nacional recurre el tercer grado concedido por el Gobierno Vasco al etarra Henri Parot
-
-La Fiscalía considera que la aprobación de la progresión por la consejería de la socialista San José resulta «prematura en el momento actual y no se ajusta plenamente» a los criterios legales que rigen la clasificación penitenciaria.
-
-Date: 2026-09-16
-
-### El Gobierno muestra su “perplejidad” por el freno de la Audiencia Nacional al campamento para inmigrantes del Puerto de Ceuta
-
-El Gobierno no oculta su “perplejidad” ante el freno impuesto por la Audiencia Nacional al traslado al Puerto de Ceuta de buena parte de los migrantes que recorren las calles de la ciudad autónoma después de la entrada masiva del 30 y 31 de julio pasado. La Audiencia ha ordenado al Ministerio de Transportes frenar mome.
-
-Date: 2026-09-16
-
-### La Fiscalía recurre el tercer grado del exdirigente de ETA Henri Parot
-
-La Fiscalía de la Audiencia Nacional ha recurrido el tercer grado concedido la semana pasada por el Gobierno vasco al etarra Henri Parot (Argel, Francia, 1958), autor de sanguinarios atentados, como el de la casa cuartel de Zaragoza de 1987 y condenado a penas superiores a los 4.000 años de prisión. El terrorista, que.
-
-Date: 2026-09-16
-
 ## Fuentes
 
-- [La Audiencia Nacional da marcha atrás y rechaza paralizar la instalación del campamento del Puerto de Ceuta](https://www.20minutos.es/nacional/audiencia-nacional-da-marcha-atras-rechaza-paralizar-instalacion-campamento-puerto-ceuta_7038047_0.html?utm_source=lootura.com) — 2026-09-17T12:27:43.000Z
-- [«Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez](https://www.abc.es/espana/gestionado-pudiera-aparcar-ferraz-declaracion-sobre-autorizacion-20260917150121-nt.html?utm_source=lootura.com) — 2026-09-17T15:46:47.000Z
-- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z
-- [La Audiencia Nacional permite el uso temporal del campamento de migrantes en el puerto de Ceuta](https://elpais.com/espana/2026-09-17/la-audiencia-nacional-permite-el-uso-temporal-del-campamento-de-migrantes-en-el-puerto-de-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:26:23.000Z
-- [Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península](https://elpais.com/espana/2026-09-17/feijoo-se-enroca-con-vox-y-cierra-la-puerta-a-que-ningun-menor-de-ceuta-vaya-la-peninsula.html?utm_source=lootura.com) — 2026-09-17T03:30:01.000Z
-- [La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta](https://www.lavanguardia.com/politica/20260917/11637298/audiencia-nacional-rechaza-paralizar-instalacion-carpas-puerto-ceuta.html?utm_source=lootura.com) — 2026-09-17T12:29:52.000Z
+No public source links.

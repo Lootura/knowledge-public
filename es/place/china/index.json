@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -27,6 +27,21 @@
     "Zhonghua"
   ],
   "changes": [
+    {
+      "title": "Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital",
+      "summary": "La contaminación atmosférica ha marcado durante décadas el desarrollo urbano de Pekín . Las partículas en suspensión, especialmente las PM2.5 , situaron a la capital china entre las ciudades con peor calidad del aire del mundo a comienzos de la pasada década. Desde entonces, los datos fueron observados por autoridades.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "¿Puede mi empresa sustituirme por un clon?",
+      "summary": "Trabajadores que se copian a sí mismos. Un ingeniero de la tecnológica china Baidu entrenó a su avatar para que siguiera realizando su trabajo una vez abandonara la compañía. La historia, publicada por la revista digital Sixth Tone , plantea una posibilidad incómoda para los trabajadores. En un escenario así, una empre.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "China convirtió 6.000 botellas de leche en una calle de 300 metros: así se mete el plástico dentro del asfalto",
+      "summary": "Calle de plástico en China: 300 metros de asfalto con 6.000 botellas de leche recicladas. Cómo funciona y qué dicen los estudios sobre microplásticos.",
+      "date": "2026-10-03"
+    },
     {
       "title": "Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares",
       "summary": "El Parque Científico Tecnológico del Transporte Santana, de Linares (Jaén), ha acogido este jueves la firma del acuerdo marco con Arcfox, la división eléctrica premium de BAIC, uno de los gigantes y fabricantes de automóviles de China, que va a hacer posible el ensamblaje en la planta de Santana Motors de vehículos elé.",
@@ -61,29 +76,14 @@
       "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
       "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Washington y Pekín coinciden por una vez: la IA no se debe frenar",
-      "summary": "Las principales voces de la industria piden más regulación pero tanto los gobiernos de China como de EEUU ven en la tecnología la herramienta perfecta para dominar la escena geopolítica Leer.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "China defiende una IA “orientada al bien” y se opone a narrativas de amenaza o confrontación",
-      "summary": "El Ministerio chino de Exteriores asegura que la difusión de narrativas de amenaza o fomentar la confrontación solo obstaculizará el proceso de gobernanza de la inteligencia artificial, en medio del debate generado en Estados Unidos sobre la necesidad de frenar el desarrollo de esta tecnología. Seguir leyendo...",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "El Sur Global se alza contra los «privilegios» de Occidente",
-      "summary": "La cumbre que celebran este fin de semana en Nueva Delhi los BRICS, las potencias del Sur Global , no solo congrega a los rivales de Occidente, como China, sino también a sus enemigos, como Rusia e Irán. Este grupo tan heterogéneo, que incluye también a Brasil, Sudáfrica, Arabia Saudí, Emiratos Árabes Unidos y otras na.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares",
-      "url": "https://cincodias.elpais.com/companias/2026-09-17/santana-se-alia-con-el-gigante-chino-baic-para-ensamblar-coches-electricos-en-linares.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T14:34:14.000Z",
-      "sourceId": "lootura-es-cinco-dias"
+      "title": "Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital",
+      "url": "https://okdiario.com/ciencia/nadie-lo-esperaba-pero-ciencia-lo-reafirma-china-fulmina-12-anos-98-contaminacion-capital-16120833?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T13:31:56.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
   "evidenceCount": 1

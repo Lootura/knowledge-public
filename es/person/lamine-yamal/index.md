@@ -3,10 +3,28 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Los OK y KO del sábado, 4 de octubre de 2026
+
+OK: Alberto Núñez Feijóo Porque ha prometido aprobar un plan de vivienda en su primer mes como presidente del Gobierno. OK: Lamine Yamal Porque ha vuelto a marcar con la selección en el partido de la Nations League contra la República Checa. OK: Jude Bellingham Porque el jugador del Real Madrid ha marcado un gol y dado.
+
+Date: 2026-10-04
+
+### Lamine Yamal, la felicidad siempre es titular
+
+Leer.
+
+Date: 2026-10-03
+
+### Ni De la Fuente se acostumbra a Lamine
+
+Lamine Yamal necesitó solamente 45 minutos para volver a demostrar que es el futbolista más desequilibrante de España. El extremo firmó una primera parte brillante contra República Checa en el Carlos Tartiere , generando peligro prácticamente cada vez que recibió el balón por la banda derecha. Fue el principal argument.
+
+Date: 2026-10-03
 
 ### La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”
 
@@ -50,24 +68,6 @@ Los futbolistas de la selección española siguen acaparando titulares. Está la
 
 Date: 2026-08-03
 
-### El universo de Sheila Ebana alrededor de la fama de su hijo Lamine Yamal: de las redes a experiencias de 800 €
-
-La irrupción de Lamine Yamal en la élite del fútbol ha cambiado la vida de quienes forman parte de su entorno más cercano. Uno de los casos más llamativos es el de Sheila Ebana , su madre, que durante años permaneció alejada del foco mediático y que ahora se ha convertido en una figura muy seguida tanto en redes social.
-
-Date: 2026-07-23
-
-### De Keyne, el hermano de Lamine Yamal, a la familia numerosa de Cucurella: los apoyos de los jugadores de la selección española fuera del campo
-
-El césped del MetLife Stadium de Nueva Jersey se convirtió este domingo en el escenario de emotivos encuentros de los futbolistas con sus familiares y amigos después de proclamarse campeones del mundo. Algunos posaron con ellos en persona, otros siempre se acuerdan de ellos en sus declaraciones.
-
-Date: 2026-07-20
-
-### Lamine Yamal reta a Paredes a pelear con Gavi en La Velada del Año
-
-El joven futbolista ha seguido la broma de un aficionado durante la rúa de los campeones del mundo por las calles de Madrid.
-
-Date: 2026-07-20
-
 ## Fuentes
 
-No public source links.
+- [Lamine Yamal, la felicidad siempre es titular](https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/10/03/6ac16b06e9cf4a395f8b45b1.html?utm_source=lootura.com) — 2026-10-03T20:52:43.000Z

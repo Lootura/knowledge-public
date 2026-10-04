@@ -3,10 +3,22 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### Autobuses gratis este domingo en Donostia: guía de cortes de tráfico y cambios en Dbus y Lurraldebus por la Media Maratón
+
+Donostia despliega un dispositivo especial de tráfico y transporte con autobuses gratuitos por la V Medio Maratón.
+
+Date: 2026-10-03
+
+### Eñaut Elorrieta presentará en Donostia y Azpeitia su próximo disco
+
+El exlíder de Ken Zazpi Eñaut Elorrieta presentará su nuevo disco, 'Festina Lente', en la donostiarra Casa de Cultura de Intxaurrondo el 16 de enero –entradas ya a la venta– y en San Agustín Kulturgunea de Azpeitia el 20 de febrero. El cantautor, que lanzó el martes el segundo sencillo del nuevo disco, titulado 'Erreka.
+
+Date: 2026-09-30
 
 ### Kortajarena critica a Insausti por la prohibición de las cenas solidarias: «prohibir, criminalizar y perseguir es un gran error»
 
@@ -56,18 +68,6 @@ Barra de un bar de San Sebastián (España). MikeDotta/Shutterstock Comer es muc
 
 Date: 2026-09-10
 
-### El nuevo aparcabicis cubierto de Benta Berri se abrirá en octubre con 56 plazas
-
-Donostia pasará a contar con 299 aparcamientos exclusivos para bicicletas en cinco parkings cubiertos tras la apertura del local del parque Montpellier.
-
-Date: 2026-09-09
-
-### El ciclo Frédéric Chopin constará de diez conciertos en Donostia
-
-El programa se desarrollará en el Victoria Eugenia y el Teatro Principal desde octubre hasta junio de 2027.
-
-Date: 2026-09-09
-
 ## Fuentes
 
-No public source links.
+- [Autobuses gratis este domingo en Donostia: guía de cortes de tráfico y cambios en Dbus y Lurraldebus por la Media Maratón](https://www.diariovasco.com/san-sebastian/autobuses-gratis-domingo-donostia-guia-cortes-trafico-20261003170318-nt_amp.html?utm_source=lootura.com) — 2026-10-03T15:03:58.000Z

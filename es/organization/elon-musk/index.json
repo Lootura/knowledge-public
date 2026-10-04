@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/elon-musk/index.json",
   "description": "Sigue la actividad de Elon Musk en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T09:12:14.542Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
+      "summary": "La mayor parte del planeta con ingresos equivalentes a 5.000 euros al mes en el año 2100. Las temperaturas promedio, solo 1,8 grados por encima de las de la era preindustrial. Menos carne, industria y minería. Más salud y educación. ¿Y los perjudicados? Los Jeff Bezos, Larry Ellison y Elon Musk del mundo. Un reducidísi.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Elon Musk despliega su máquina de caos político en el Reino Unido",
       "summary": "El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: \"La guerra civil es inevitable\" Leer.",
@@ -55,13 +60,15 @@
       "title": "En imágenes: así ha cambiado la Luna después de que un cohete de Elon Musk impactase contra su superficie",
       "summary": "La etapa superior de un cohete Falcon 9 de la empresa SpaceX , que llevaba ya más de un año flotando por el espacio, chocó en la mañana de este miércoles contra la Luna. El suceso que se esperaba desde hace días tal y como habían confirmado tanto la NASA como la propia empresa, resultaba especialmente interesante para.",
       "date": "2026-08-06"
-    },
-    {
-      "title": "Tiemblan las operadoras: Elon Musk te va a meter el 5G hasta en el baño usando la antena Starlink de tu tejado",
-      "summary": "Elon Musk no se conforma con conectar nuestros móviles desde el espacio, sino que el tecnomagnate más polémico quiere ir un paso más allá. SpaceX pretende convertir las antenas de Starlink instaladas en viviendas y empresas en estaciones de telefonía móvil. Su objetivo es levantar una red terrestre propia y ofrecer cob.",
-      "date": "2026-08-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
+      "url": "https://elpais.com/economia/negocios/2026-10-04/thomas-piketty-el-futuro-que-nos-estan-preparando-los-multimillonarios-es-distopico.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T03:30:00.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

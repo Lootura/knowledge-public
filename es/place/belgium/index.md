@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Se buscan voluntarios para vivir gratis en Bélgica con 3 comidas al día e Internet rápido a cambio de llevar su web y sus redes 16 horas semanales
+
+Voluntarios en Bélgica: vivir gratis con 3 comidas al día e internet rápido a cambio de llevar la web y las redes 16 horas semanales. Requisitos.
+
+Date: 2026-10-04
 
 ### La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico
 
@@ -59,12 +65,6 @@ Date: 2026-07-18
 ### De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia
 
 Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...
-
-Date: 2026-07-14
-
-### El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón
-
-El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.
 
 Date: 2026-07-14
 

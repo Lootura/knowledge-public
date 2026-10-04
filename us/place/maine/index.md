@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-10-03T19:00:06.756Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### CBS News poll finds voters split on state v. national focus in Maine Senate race
+
+Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.
+
+Date: 2026-10-03
 
 ### Maine's head prison chief on giving inmates second chances: "I believe in redemption"
 
@@ -61,12 +67,6 @@ Date: 2026-08-13
 A lifeguard said a shark off the coast of Scarborough Beach in Maine grabbed onto his buoy and pulled him 5 feet underwater before he was able to get free.
 
 Date: 2026-08-11
-
-### In a competitive Maine Senate race, women voters could be the deciders
-
-The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women. (Image credit: Scott Eisen).
-
-Date: 2026-08-10
 
 ## Sources
 

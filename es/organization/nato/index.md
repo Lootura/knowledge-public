@@ -3,10 +3,22 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-03T18:59:43.213Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN
+
+Los militares formarán parte de una misión multinacional liderada por Suecia para proteger el Ártico Leer.
+
+Date: 2026-10-03
+
+### Rusia convulsiona Europa con su amenaza de usar armas nucleares contra la OTAN: "Quiere intimidar a la opinión pública de los países aliados"
+
+El régimen de Vladimir Putin avisa mediante una carta de que está dispuesto a utilizar "todo su arsenal" ante el intento de países aliados de aislar Kaliningrado, advertencia que la OTAN reconoce pero ante la que pide "calma" Leer.
+
+Date: 2026-09-30
 
 ### Dos cazas de la OTAN interceptan un dron cerca de Kaunas, Lituania
 
@@ -55,18 +67,6 @@ Date: 2026-09-05
 La presidenta de la Comisión Europea, Ursula von der Leyen , y el secretario general de la OTAN, Mark Rutte, han celebrado este miércoles una reunión en Bruselas como reacción al ataque de drones atribuidos a Rusia en el aeropuerto de la ciudad alemana de Liepzig . Von der Leyen ha hablado claramente de «un ataque usan.
 
 Date: 2026-09-02
-
-### Marruecos: la grieta que rompe la política exterior de Sánchez
-
-La tibieza del presidente del Gobierno español con Rabat contrasta con su firmeza con Ucrania, Gaza, Irán o el gasto en defensa de la OTAN. Esta política de apaciguamiento amenaza con enterrar la mayor baza que le queda de cara a las elecciones generales de 2027.
-
-Date: 2026-09-02
-
-### Alemania acusa a Rusia del intento de atentado con un dron cargado de explosivos en Leipzig
-
-La gravedad del ataque, ocurrido el pasado 4 de agosto, reside en el carácter estratégico del aeropuerto alemán, que participa en operaciones logísticas vinculadas a la OTAN y al apoyo a Ucrania Leer.
-
-Date: 2026-09-01
 
 ## Fuentes
 

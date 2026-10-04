@@ -3,10 +3,22 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Dow Jones baja un 0,8%: la mayoría de las acciones caen en una semana en rojo para Wall Street
+
+Wall Street cierra hoy 30 de septiembre de 2026 mixto con el Dow Jones perdiendo un 0,8% hasta los 50.906 puntos. También cede el S&P 500, que cae un 0,2%, cerrando así su tercer mes consecutivo de pérdidas en los últimos cuatro. El único que acaba en verde la sesión de este miércoles es el Nasdaq , que gana un 0,24%,.
+
+Date: 2026-09-30
+
+### Trump ficha al gran optimista de Wall Street, que ve el S&P 500 a 9.000 puntos
+
+La primera interpretación del último fichaje realizado por Scott Bessent , encargado de la economía en la Administración de Donald Trump , es que no hay que esperar cambios en la política financiera del Gobierno estadounidense. Seguir leyendo.
+
+Date: 2026-09-30
 
 ### El Ibex supera los 19.800 puntos aupado por Wall Street y la caída del petróleo
 
@@ -56,18 +68,6 @@ Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consu
 
 Date: 2026-09-02
 
-### Los inversores vuelven a apostar con fuerza por Wall Street
-
-Los inversores vuelven a apostar por la renta variable estadounidense , dejando atrás los temores que desencadenaron la caída de las acciones de semiconductores en julio para volver a comprar tras la caída en el sector tecnológico. Seguir leyendo.
-
-Date: 2026-08-14
-
-### Del furor al desplome: las empresas cripto que conquistaron Wall Street pinchan en Bolsa
-
-Toda empresa cripto que ha salido a Bolsa ha seguido el mismo patrón: debutar cuando bitcoin tocaba máximos. Coinbase fue la primera en abril de 2021 en llevar los activos digitales a Wall Street. Pero, después de ella, muchas compañías esperaron a dar el paso: estrenarse en medio de un profundo criptoinvierno, durante.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [El Ibex supera los 19.800 puntos aupado por Wall Street y la caída del petróleo](https://www.expansion.com/mercados/cronica-bolsa/2026/09/17/6aab8064e5fdea855c8b4584.html?utm_source=lootura.com) — 2026-09-17T15:38:35.000Z
+No public source links.

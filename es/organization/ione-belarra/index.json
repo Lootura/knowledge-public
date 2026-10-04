@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/ione-belarra/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/ione-belarra/index.json",
   "description": "Sigue la actividad de Ione Belarra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T18:58:06.359Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Podemos pide un decreto de vivienda al mes: «La gente quiere soluciones, no elecciones»",
+      "summary": "La secretaria general de Podemos , Ione Belarra , ha reiterado este domingo que la gente «no quiere elecciones», sino que quiere soluciones, ante la posibilidad de un adelanto de los comicios generales por parte del presidente del Gobierno, Pedro Sánchez . A su vez, Belarra ha exigido al Gobierno que apruebe un nuevo r.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Junts y Podemos mantienen en vilo al Gobierno sin desvelar si apoyarán los decretos de vivienda",
+      "summary": "Los independentistas catalanes, que ya unieron sus votos a PP y Vox para tumbar la moratoria de desahucios, critican dos de las medidas aprobadas, mientras el partido de Ione Belarra esperará a reunirse con el Sindicato de Inquilinas para comunicar su posición Irene Montero: \"Nuestro voto a los decretos será el del Sin.",
+      "date": "2026-09-30"
+    },
     {
       "title": "Podemos lanza este sábado la candidatura de Irene Montero a las generales sin concretar aún las alianzas",
       "summary": "Podemos pone en marcha la maquinaria electoral para las generales en el arranque del curso político. El partido que dirige Ione Belarra tiene previsto lanzar este sábado oficialmente la candidatura de la exministra de Igualdad y eurodiputada Irene Montero a la presidencia del Gobierno, un movimiento que adelantaron ya.",
@@ -37,6 +47,13 @@
       "date": "2026-09-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Podemos pide un decreto de vivienda al mes: «La gente quiere soluciones, no elecciones»",
+      "url": "https://theobjective.com/espana/politica/2026-10-04/podemos-decreto-vivienda-soluciones-elecciones/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T10:57:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-09-10T03:02:42.851Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/product/wall-street
 
 ## Recent changes
+
+### Top Wall Street analysts are upbeat about the prospects for these 3 stocks
+
+Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.
+
+Date: 2026-10-04
 
 ### Feds to buy up to $6 billion in Treasury bonds. Here's why.
 
@@ -46,4 +52,4 @@ Date: 2026-08-04
 
 ## Sources
 
-No public source links.
+- [Top Wall Street analysts are upbeat about the prospects for these 3 stocks](https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html?utm_source=lootura.com) — 2026-10-04T13:24:16.000Z

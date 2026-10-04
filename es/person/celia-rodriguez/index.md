@@ -28,5 +28,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [«Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez](https://www.abc.es/espana/gestionado-pudiera-aparcar-ferraz-declaracion-sobre-autorizacion-20260917150121-nt.html?utm_source=lootura.com) — 2026-09-17T15:46:47.000Z
-- [Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire](https://www.elconfidencial.com/espana/2026-09-17/secretarias-cerdan-involucran-psoe-trama-leire_4425876/?utm_source=lootura.com) — 2026-09-17T13:09:00.000Z
+No public source links.

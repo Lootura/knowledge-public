@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/censo-electoral/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/censo-electoral/index.json",
   "description": "Sigue la actividad de Censo electoral en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T09:12:14.542Z",
+  "updatedAt": "2026-10-01T04:06:40.370Z",
   "aliases": [
     "electoral register",
     "padron electoral",
@@ -20,6 +20,11 @@
     "voters roll"
   ],
   "changes": [
+    {
+      "title": "Los españoles con derecho a voto ya crecen más en Argentina que en Madrid por la nacionalización de falsos exiliados",
+      "summary": "La polémica Ley de Nietos está provocando situaciones tan paradójicas como que el censo electoral de españoles en Argentina crezca, en un sólo mes, más que el de Madrid . Así lo revelan los datos de la propia Oficina del Censo Electoral, consultados por OKDIARIO. En junio de este año, por ejemplo, el Censo Electoral de.",
+      "date": "2026-10-01"
+    },
     {
       "title": "'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados",
       "summary": "La frontal oposición del Gobierno ante la decisión del Tribunal Supremo de decretar la suspensión cautelar de las inscripciones en el Censo Electoral de Residentes Ausentes ( CERA ), derivado de la ley de nietos y de una instrucción administrativa posterior, acabará en recurso ante el Tribunal Constitucional. La única.",

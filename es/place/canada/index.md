@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta
+
+España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.
+
+Date: 2026-10-04
 
 ### Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»
 
@@ -62,13 +68,6 @@ Penélope Cruz afirma que está mejor ahora que «cuando tenía 20 años». Y es
 
 Date: 2026-08-13
 
-### Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal
-
-El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-- [Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»](https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com) — 2026-09-17T15:01:47.000Z
-- [Mark Carney, el inesperado ídolo de la resistencia al trumpismo](https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com) — 2026-09-17T12:21:15.000Z
+No public source links.

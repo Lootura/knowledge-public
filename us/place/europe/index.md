@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Hungary's dwindling paprika producers battle to save signature spice
+
+Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.
+
+Date: 2026-10-04
+
+### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
+
+The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+
+Date: 2026-10-04
+
+### Swiss glaciers suffer another year of record ice loss
+
+Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe. (Image credit: Swiss Academy of Natural Sciences).
+
+Date: 2026-09-30
 
 ### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
 
@@ -50,29 +68,7 @@ Canada's Prime Minister Mark Carney speaks to the European Parliament, following
 
 Date: 2026-09-17
 
-### EU's Ursula von der Leyen says she wants Canada to become an associate member
-
-European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).
-
-Date: 2026-09-16
-
-### E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken
-
-Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.
-
-Date: 2026-09-16
-
-### Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies
-
-The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.
-
-Date: 2026-09-14
-
 ## Sources
 
-- [Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign](https://www.cbsnews.com/video/canadas-carney-embraces-eu-associate-member-plan-trump-seen-kennedy-center-demolished-sign/?utm_source=lootura.com) — 2026-09-17T16:00:59.000Z
-- [Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes](https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes?utm_source=lootura.com) — 2026-09-17T10:00:00.000Z
-- [The Fed raises interest rates. And, EU proposes Canada become an 'associate member'](https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union?utm_source=lootura.com) — 2026-09-17T10:54:18.000Z
-- [Wild honeybee populations in the EU are on the Red List for the first time](https://phys.org/news/2026-09-wild-honeybee-populations-eu-red.html?utm_source=lootura.com) — 2026-09-17T15:20:02.000Z
-- [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html?utm_source=lootura.com) — 2026-09-17T01:58:24.000Z
-- [Sweden Swings Back Left, Bucking a Trend in Europe](https://www.nytimes.com/2026/09/17/world/europe/sweden-election-social-democrats.html?utm_source=lootura.com) — 2026-09-17T12:43:31.000Z
+- [Hungary's dwindling paprika producers battle to save signature spice](https://phys.org/news/2026-10-hungary-dwindling-paprika-signature-spice.html?utm_source=lootura.com) — 2026-10-04T11:20:07.000Z
+- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T09:03:44.000Z

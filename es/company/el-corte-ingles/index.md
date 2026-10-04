@@ -3,10 +3,16 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-03T15:45:59.630Z
+- Actualizado: 2026-10-01T04:06:40.370Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes
+
+### El precio de los huevos a partir de hoy en los supermercados: de Mercadona a El Corte Inglés, Carrefour, Alcampo o DIA
+
+Consulta cuánto cuesta este producto en los principales establecimientos de España y en cuál de ellos se vende más barato.
+
+Date: 2026-09-30
 
 ### Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones
 

@@ -3,10 +3,28 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-16T16:06:49.960Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### "Quedaos en casa": Cataluña confina 20 comarcas ante la amenaza de un "mini huracán"
+
+“ Quedaos en casa ”. Con este llamamiento categórico, el presidente de la Generalitat , Salvador Illa , instó el sábado a la población de la veintena de comarcas afectadas por el temporal a no desplazarse bajo ningún concepto. A través de su cuenta en la red social X , Illa subrayó que la situación es "excepcional" y r.
+
+Date: 2026-10-04
+
+### El grito de 'Puta Espanya!' llega hasta el Parlament y sirve para tender puentes entre el PP y el PSC
+
+El “Puta Espanya! ” llegó al Parlament en el curso del debate de política general de Cataluña, en un cruce dialéctico entre el líder del PP, Alejandro Fernández, y el presidente de la Generalitat de Cataluña, Salvador Illa . Hace tiempo que el grito de “Puta Espanya!” se ha ido colando en los medios de comunicación púb.
+
+Date: 2026-10-01
+
+### Illa promete crear 20.000 plazas de residencia para mayores y discapacitados hasta el 2030
+
+El president de la Generalitat, Salvador Illa, ha anunciado la creación de 20.000 nuevas plazas de residencia para gente mayor y personas con discapacidad hasta el año 2030. Su intención es hacerlo mediante la construcción de 15 nuevos equipamientos (residencias) invirtiendo 878 millones de euros. Seguir leyendo...
+
+Date: 2026-09-30
 
 ### Illa traslada a Guardiola la solidaridad de Catalunya en financiación y acogida de migrantes
 
@@ -49,24 +67,6 @@ Date: 2026-09-04
 El presidente de la Generalitat, Salvador Illa, llegó este miércoles por la tarde-noche a Polonia, primera etapa de un viaje institucional que le llevará este jueves hasta Kiev, en plena guerra de Ucrania. Desde territorio polaco, el dirigente socialista ha advertido de que «los valores de Europa están en juego en Ucra.
 
 Date: 2026-09-03
-
-### Illa y Collboni viajan a Kiev en plena escalada de ataques rusos
-
-El presidente de la Generalitat, Salvador Illa , y el alcalde de Barcelona, Jaume Collboni, coincidirán mañana en Kiev, Ucrania, con el objetivo común de "impulsar la ayuda humanitaria y colaborar en la reconstrucción de la ciudad". Por un lado, el líder del Govern ha iniciado hoy su viaje institucional a la capital uc.
-
-Date: 2026-09-02
-
-### Los sindicatos de profesores calientan el inicio del curso con huelgas contra Salvador Illa
-
-Los sindicatos USTEC-STEs y CGT harán huelga el próximo 8 de septiembre, el primer día lectivo del nuevo curso en Cataluña. Son dos de las centrales mayoritarias en el sector, aunque CCOO, UGT y Aspepc-Sps, que en un principio también convocaron protestas el curso pasado , se han descolgado de la convocatoria. ISTEC, a.
-
-Date: 2026-09-01
-
-### Illa y Junqueras ya exploran un nuevo acuerdo de presupuestos en la Generalitat para 2027
-
-Salvador Illa y Oriol Junqueras ya exploran un nuevo acuerdo de presupuestos para la Generalitat de Cataluña en 2027 , según han explicado fuentes políticas del PSC y ERC conocedoras de los contactos. Tanto Junqueras como Illa consideran que habría una ventana de oportunidad en el caso de que a finales del último trime.
-
-Date: 2026-08-11
 
 ## Fuentes
 

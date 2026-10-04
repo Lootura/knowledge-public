@@ -52,4 +52,4 @@ Date: 2026-09-12
 
 ## Sources
 
-- [How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears](https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html?utm_source=lootura.com) — 2026-09-17T09:00:08.000Z
+No public source links.

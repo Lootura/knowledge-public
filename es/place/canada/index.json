@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-04T04:16:43.439Z",
   "aliases": [
     "CA",
     "CAN",
@@ -17,6 +17,11 @@
     "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta",
+      "summary": "España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
       "summary": "Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.",
@@ -61,26 +66,8 @@
       "title": "Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»",
       "summary": "Penélope Cruz afirma que está mejor ahora que «cuando tenía 20 años». Y esto se debe, fundamentalmente, a que ha aprendido a cuidarse. Ahora, duerme «unas siete u ocho horas al día». «Si no estoy trabajando, trato de hacer ejercicio por la mañana. Luego desayuno con mi familia», contó, hace meses, a Elle Canadá . A pri.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Rafa Jódar se queda a las puertas de su segunda final consecutiva en Montreal",
-      "summary": "El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá), a pesar de saber sufrir y salvar cuatro bolas de partido.El madrileño, llamando al 'Top 10' del mundo en el año de su estre.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [
-    {
-      "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
-      "url": "https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T15:01:47.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Mark Carney, el inesperado ídolo de la resistencia al trumpismo",
-      "url": "https://www.lavanguardia.com/internacional/20260917/11637283/mark-carney-inesperado-idolo-resistencia-trumpismo.html?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T12:21:15.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

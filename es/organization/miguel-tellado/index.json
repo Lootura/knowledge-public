@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/miguel-tellado/index.json",
   "description": "Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-04T18:47:59.704Z",
+  "updatedAt": "2026-10-04T13:40:27.752Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»",
+      "summary": "El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gobierno, Pedro Sánchez , que convoque elecciones generales «ya» , en un mensaje en el que le ha instado a no demorar más la decisión. «Pedro, no te lo pienses más. Hazlo. Convoca mañana las elecciones generales. Aprieta el botón» , ha reclama.",
+      "date": "2026-10-04"
+    },
     {
       "title": "Tellado ve las concentraciones por Ceuta como «un anticipo» de lo que le espera a Sánchez",
       "summary": "El secretario general del PP , Miguel Tellado , ha asegurado que las concentraciones celebradas en apoyo al pueblo ceutí son «un anticipo» de lo que le espera al presidente del Gobierno, Pedro Sánchez , del que no duda que «pagará ante la justicia y en las urnas» su «negligencia», causante a su juicio de la «invasión».",
@@ -55,13 +60,15 @@
       "title": "Miguel Tellado ofrece una rueda de prensa",
       "summary": "El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Miguel Tellado first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»",
+      "url": "https://theobjective.com/espana/politica/2026-10-04/pp-sanchez-convocar-elecciones/?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T11:56:18.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

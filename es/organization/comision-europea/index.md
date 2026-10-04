@@ -70,6 +70,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»](https://www.abc.es/internacional/primer-ministro-canadiense-acerca-ue-pese-presiones-20260917121615-nt.html?utm_source=lootura.com) — 2026-09-17T15:01:47.000Z
-- [Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios](https://www.elmundo.es/espana/2026/09/17/6aabca0dfc6c8304358b4571.html?utm_source=lootura.com) — 2026-09-17T11:44:39.000Z
-- [Fin al 'scroll' infinito y veto a los menores de 13: así es la ley que plantea la UE para limitar las redes](https://www.lavanguardia.com/vida/20260917/11636963/ue-propone-limitar-hora-dia-acceso-redes-sociales-menores-13-15-anos.html?utm_source=lootura.com) — 2026-09-17T09:31:54.000Z
+No public source links.

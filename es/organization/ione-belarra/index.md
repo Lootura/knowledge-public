@@ -3,10 +3,22 @@
 > Sigue la actividad de Ione Belarra en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/ione-belarra
 
 ## Cambios recientes
+
+### Podemos pide un decreto de vivienda al mes: «La gente quiere soluciones, no elecciones»
+
+La secretaria general de Podemos , Ione Belarra , ha reiterado este domingo que la gente «no quiere elecciones», sino que quiere soluciones, ante la posibilidad de un adelanto de los comicios generales por parte del presidente del Gobierno, Pedro Sánchez . A su vez, Belarra ha exigido al Gobierno que apruebe un nuevo r.
+
+Date: 2026-10-04
+
+### Junts y Podemos mantienen en vilo al Gobierno sin desvelar si apoyarán los decretos de vivienda
+
+Los independentistas catalanes, que ya unieron sus votos a PP y Vox para tumbar la moratoria de desahucios, critican dos de las medidas aprobadas, mientras el partido de Ione Belarra esperará a reunirse con el Sindicato de Inquilinas para comunicar su posición Irene Montero: "Nuestro voto a los decretos será el del Sin.
+
+Date: 2026-09-30
 
 ### Podemos lanza este sábado la candidatura de Irene Montero a las generales sin concretar aún las alianzas
 
@@ -40,4 +52,4 @@ Date: 2026-09-05
 
 ## Fuentes
 
-No public source links.
+- [Podemos pide un decreto de vivienda al mes: «La gente quiere soluciones, no elecciones»](https://theobjective.com/espana/politica/2026-10-04/podemos-decreto-vivienda-soluciones-elecciones/?utm_source=lootura.com) — 2026-10-04T10:57:44.000Z

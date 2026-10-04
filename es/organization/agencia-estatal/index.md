@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-estatal
 
 ## Cambios recientes
+
+### La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona
+
+España se enfrenta este domingo, según la Agencia Estatal de Meteorología (Aemet), al “día más adverso” de todo el episodio de lluvias torrenciales que comenzó el jueves y que durará hasta el miércoles. Como ya advertía la Aemet, la previsión está sujeta a mucha incertidumbre y en cualquier momento pueden producirse ll.
+
+Date: 2026-10-04
 
 ### Por qué las lluvias tras el verano son más que necesarias
 
@@ -62,12 +68,6 @@ El calor, la lluvia, las tormentas, el viento y las olas pondrán este miércole
 
 Date: 2026-08-05
 
-### Repunte del calor en Madrid: la región afronta una semana de vigilancia ante los incendios
-
-La previsión de la Agencia Estatal de Meteorología (Aemet) en la Comunidad de Madrid para este miércoles apunta a un repunte en las temperaturas máximas , que alcanzarán los 37º grados. En concreto, se espera que en la zona metropolitana de la región, las máximas lleguen a los 36ºC y, en las zonas bajas de la Sierra, a.
-
-Date: 2026-08-05
-
 ## Fuentes
 
-No public source links.
+- [La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona](https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html?utm_source=lootura.com) — 2026-10-04T11:29:36.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de María Jesús Montero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T02:49:43.209Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/person/maria-jesus-montero
 
 ## Cambios recientes
+
+### El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»
+
+«Mantengo mi confianza en él» aunque... «yo no lo haría». La secretaria general del PSOE andaluz, María Jesús Montero , se ha visto obligada a desplegar sus grandes habilidades de funambulista para transitar estos últimos dos años sobre la delgada línea que separa el deseo y la realidad. Una evolución que puede reconst.
+
+Date: 2026-10-04
 
 ### El apoyo a Ceuta abre una brecha en el seno del PSOE andaluz
 
@@ -40,4 +46,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-No public source links.
+- [El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»](https://www.abc.es/espana/andalucia/despues-montero-poner-mano-fuego-20261004150947-nts.html?utm_source=lootura.com) — 2026-10-04T11:27:00.000Z

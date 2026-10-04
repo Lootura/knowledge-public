@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/belgium/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/belgium/index.json",
   "description": "Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-10-04T04:16:43.439Z",
   "aliases": [
     "Belgica"
   ],
   "changes": [
+    {
+      "title": "Se buscan voluntarios para vivir gratis en Bélgica con 3 comidas al día e Internet rápido a cambio de llevar su web y sus redes 16 horas semanales",
+      "summary": "Voluntarios en Bélgica: vivir gratis con 3 comidas al día e internet rápido a cambio de llevar la web y las redes 16 horas semanales. Requisitos.",
+      "date": "2026-10-04"
+    },
     {
       "title": "La OCDE estrecha el cerco sobre las nóminas: avalancha de cotizaciones para tapar el agujero demográfico",
       "summary": "España, Japón o Eslovaquia blindan sus sistemas de reparto mientras que Alemania, Luxemburgo o Bélgica alivian la presión fiscal para quienes trabajan más allá de la jubilación.",
@@ -56,11 +61,6 @@
     {
       "title": "De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia",
       "summary": "Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...",
-      "date": "2026-07-14"
-    },
-    {
-      "title": "El abogado de Puigdemont le aconseja no volver ya a España aunque el TJUE le dé la razón",
-      "summary": "El abogado de Carles Puigdemont, Gonzalo Boye, recomienda al expresidente de la Generalitat que se quede en Waterloo (Bélgica) pese a que el próximo 16 de julio el Tribunal de Justicia de la Unión Europea (TJUE) le dé la razón en relación a la aplicación de la amnistía. Así lo explican fuentes cercanas a Puigdemont a A.",
       "date": "2026-07-14"
     }
   ],

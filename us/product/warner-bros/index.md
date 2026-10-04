@@ -3,10 +3,22 @@
 > Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-08-14T16:50:57.847Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/product/warner-bros
 
 ## Recent changes
+
+### Judge allows Paramount to close $110 billion takeover of Warner Bros. Discovery
+
+The deal brings together the likes of CBS News and CNN, HBO Max and Paramount+, and storied film studios Warner Bros. and Paramount Pictures.
+
+Date: 2026-09-30
+
+### The new and huger Paramount has a new co-CEO
+
+Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount , "Ellison will focus on the company's long-term strategy,.
+
+Date: 2026-09-30
 
 ### The End of Oak Street Is the Best Dinosaur Movie Since Jurassic Park
 
@@ -55,18 +67,6 @@ Date: 2026-07-14
 The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger. (Image credit: -).
 
 Date: 2026-07-14
-
-### 12 states sue to block merger between Paramount, Warner Bros. Discovery
-
-A coalition of a dozen states on Monday sued to block Paramount Skydance.
-
-Date: 2026-07-14
-
-### Discovered by Atlas
-
-Warner Bros. first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-13
 
 ## Sources
 

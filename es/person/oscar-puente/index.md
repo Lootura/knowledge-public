@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-03T18:59:43.213Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Puente intentando animar a Sánchez lo hunde más: divulga una viñeta reconociendo que el presidente está ko
+
+El ministro de Transportes, Óscar Puente , ha reconocido que el presidente del Gobierno, Pedro Sánchez , está noqueado. Intentando animar a su líder en su fin de semana de reflexión para convocar elecciones generales, el socialista lo ha hundido más en sus redes sociales. Puente ha divulgado esta sábado una viñeta que.
+
+Date: 2026-10-03
 
 ### Puente limita de momento a la C-3 de Cercanías Valencia y a la Media Distancia en Cataluña los problemas por las lluvias
 
@@ -61,12 +67,6 @@ Date: 2026-09-07
 La magistrada aprecia una «indudable gestión favorecedora» desde Rabat, pero el ministro niega que existan pruebas.
 
 Date: 2026-09-07
-
-### Óscar Puente impone un campamento para 1.000 invasores en el Puerto de Ceuta pese al voto negativo de la Autoridad Portuaria
-
-El ministro de Transportes, Óscar Puente, ha ordenado autorizar la instalación de carpas para acoger a más de 1.000 ilegales en el puerto de Ceuta. La resolución llega después de que el Consejo de Administración de la Autoridad Portuaria de Ceuta acordase no autorizarlo «por resultar incompatible con la normal explotac.
-
-Date: 2026-09-05
 
 ## Fuentes
 

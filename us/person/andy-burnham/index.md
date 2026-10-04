@@ -3,10 +3,16 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
+
+### UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says
+
+The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.
+
+Date: 2026-09-30
 
 ### Donald Trump doubles down on support for united Ireland
 
@@ -59,12 +65,6 @@ Date: 2026-07-20
 ### Morning news brief
 
 The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
-
-Date: 2026-07-20
-
-### North Sea Drilling Offers First Test for Burnham’s Relationship With Trump
-
-Andy Burnham has not yet met President Trump, but the two men will be expected to speak shortly after Mr. Burnham becomes prime minister.
 
 Date: 2026-07-20
 

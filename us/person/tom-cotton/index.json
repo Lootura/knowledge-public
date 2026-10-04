@@ -1,0 +1,52 @@
+{
+  "id": "usa-tom-cotton",
+  "name": "Tom Cotton",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/tom-cotton",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/tom-cotton",
+  "markdownUrl": "https://atlas.lootura.com/us/person/tom-cotton/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/tom-cotton/index.json",
+  "description": "Follow Tom Cotton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "aliases": [
+    "Cotton",
+    "Thomas B. Cotton",
+    "Thomas Bryant \"Tom\" Cotton",
+    "Thomas Bryant Cotton",
+    "Thomas Cotton",
+    "Tom B. Cotton",
+    "Tom Bryant Cotton"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tom Cotton first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time",
+      "summary": "\"If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn't have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so,\" Trump said on social media.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Trump urges calls to cellphone of Arkansas Sen. Tom Cotton in battle over permanent daylight saving time bill",
+      "summary": "President Donald Trump urged supporters to call what appears to be the senator's personal cellphone number.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Trump appears to post Sen. Tom Cotton’s cell number in push to make daylight saving time permanent",
+      "summary": "President Donald Trump on Saturday appeared to share Sen. Tom Cotton’s cellphone number in a social media post amid a push to make daylight saving time permanent nationwide.",
+      "date": "2026-10-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time",
+      "url": "https://www.pbs.org/newshour/politics/trump-urges-calls-to-arkansas-sen-tom-cotton-in-push-for-permanent-daylight-saving-time?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T17:43:38.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
+}

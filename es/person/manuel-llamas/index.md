@@ -3,10 +3,16 @@
 > Sigue la actividad de Manuel Llamas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-07-25T02:26:46.300Z
+- Actualizado: 2026-10-04T04:16:43.439Z
 - Canonical: https://atlas.lootura.com/es/person/manuel-llamas
 
 ## Cambios recientes
+
+### Guardias civiles, sobre los avisos de la invasión a Ceuta: «Había que estar muy ciego para no verlo»
+
+Ángel Lezcano ha asumido el mando de Jucil en uno de los momentos más difíciles de la historia de la Guardia Civil. La imputación de Mercedes González y Manuel Llamas, la invasión de Ceuta, la pérdida de competencias o el auge del narcotráfico son algunas de las piedras que se ha ido encontrando por el camino y que val.
+
+Date: 2026-10-03
 
 ### Las acusaciones populares piden que la directora de la Guardia Civil y el DAO investigados no puedan mandar sobre la UCO
 
@@ -59,12 +65,6 @@ Date: 2026-07-16
 ### El jefe operativo de la Guardia Civil niega presiones a la UCO y denuncia una campaña contra él
 
 El teniente general Manuel Llamas, número dos de la Guardia Civil en su condición de director adjunto operativo (DAO), ha negado este jueves ante el juez Santiago Pedraz, instructor del llamado caso Leire Díez, que él haya presionado a los agentes de la Unidad Central Operativa (UCO) o les haya pedido que se “pusieran.
-
-Date: 2026-07-16
-
-### El DAO de la Guardia Civil abrió un expediente a la UCO tras recibir una llamada de queja de Marlaska
-
-El director adjunto operativo (DAO) de la Guardia Civil, Manuel Llamas, ha afirmado durante su declaración como investigado ante el juez del caso Leire, Santiago Pedraz, que abrió una información reservada a la Unidad Central Operativa (UCO) de la Guardia Civil en 2024, después de que la dirección de correo corporativo.
 
 Date: 2026-07-16
 

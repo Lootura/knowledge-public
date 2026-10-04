@@ -1,0 +1,58 @@
+{
+  "id": "usa-coast-guard",
+  "name": "Coast guard",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/coast-guard",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/coast-guard",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/coast-guard/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/coast-guard/index.json",
+  "description": "Follow Coast guard, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "aliases": [
+    "coastguard"
+  ],
+  "changes": [
+    {
+      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+      "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard said late on Saturday it had found debris from a medical transport aircraft off the shore of ⁠Massachusetts’ Nantucket Island and ⁠was searching for ​the six people who were on board. The jet lost.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Coast guard first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
+      "summary": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing. (Image credit: U.S. Coast Guard).",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+      "summary": "The plane was undertaking a medical evacuation from Bermuda with six people onboard when it lost contact The US Coast Guard is searching for an air ambulance jet with six people onboard that lost contact with the Federal Aviation Administration (FAA) during a flight from Bermuda to Boston early on Saturday morning. In.",
+      "date": "2026-10-03"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Urgent race to find missing medical evacuation jet",
+      "url": "https://www.nbcnews.com/nightly-news/video/urgent-race-to-find-missing-medical-evacuation-jet-270969413927?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T22:45:52.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
+      "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts?utm_source=lootura.com",
+      "publishedAt": "2026-10-03T22:31:04.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts?utm_source=lootura.com",
+      "publishedAt": "2026-10-04T03:38:48.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -3,7 +3,7 @@
 > Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-10-01T04:06:59.232Z
 - Canonical: https://atlas.lootura.com/us/organization/the-times
 
 ## Recent changes

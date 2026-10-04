@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-01T04:06:40.370Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Las lluvias y tormentas pondrán este jueves en aviso a 9 CCAA, 5 en nivel naranja por precipitaciones, con olas en Galicia",
+      "summary": "Las lluvias y las tormentas pondrán este jueves en aviso a nueve comunidades autónomas (CCAA) en un día en el que cinco alcanzarán el nivel naranja por precipitaciones - Aragón , Baleares , Castilla-La Mancha, Cataluña y Comunidad Valenciana- y habrá aviso por oleaje en Galicia , según la predicción de la Agencia Estat.",
+      "date": "2026-09-30"
+    },
     {
       "title": "C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias",
       "summary": "El Gobierno de Castilla-La Mancha y las Cortes regionales han presentado este jueves la programación diseñada para celebrar el 50 aniversario de la Transición Democrática en la región , que estará compuesta por más de 500 actos en más de 200 municipios castellanomanchegos y protagonizada por una gran exposición que se.",
@@ -58,20 +63,8 @@
       "title": "Muere una mujer embestida y corneada por un toro en el encierro de Ayna (Albacete)",
       "summary": "Una mujer de 64 años ha muerto tras resultar herida por asta de toro en un encierro en Ayna, Albacete. Un hombre de unos 60 años también ha resultado herido. El suceso se ha producido sobre las 10:55 horas, según ha informado Emergencias 112 Castilla-La Mancha, durante el encierro que se celebraba con motivo de las fie.",
       "date": "2026-09-05"
-    },
-    {
-      "title": "Asturias y Castilla-La Mancha confirman la brecha en el PSOE por la financiación autonómica y no apoyarán la propuesta",
-      "summary": "Los gobiernos socialistas de Asturias y Castilla-La Mancha votarán este viernes en contra de llevar al Parlamento la propuesta de reforma de la financiación autonómica planteada por el Gobierno central, según han confirmado a ABC este mismo viernes fuentes de ambos ejecutivos autonómicos. Mantienen los argumentos que f.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "C-LM celebrará los 50 años de la Transición con 500 actividades y una exposición central en 5 provincias",
-      "url": "https://www.elconfidencial.com/espana/2026-09-17/transicion-castilla-la-mancha-programa-1hms-1tna_4425736/?utm_source=lootura.com",
-      "publishedAt": "2026-09-17T10:45:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

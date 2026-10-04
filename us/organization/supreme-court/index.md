@@ -3,10 +3,22 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-04T13:40:48.194Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Conservative US supreme court justice Samuel Alito hints at retirement in interview
+
+Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age. Alito, 76, delivered that comment in a rare interview with CBS News scheduled to air on Monday, a litt.
+
+Date: 2026-10-04
+
+### The Supreme Court faces another term jam-packed with controversy
+
+The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping. (Image credit: Roberto Schmidt).
+
+Date: 2026-10-03
 
 ### Are Trump’s Official Papers His Personal Property?
 
@@ -56,18 +68,6 @@ The ruling by a lower court judge was another blow to President Trump’s effort
 
 Date: 2026-09-14
 
-### Supreme Court Again Blocks Republican-Backed Missouri Voting Map
-
-The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.
-
-Date: 2026-09-10
-
-### Sam Bankman-Fried Asks Supreme Court to Review Fraud Conviction
-
-The disgraced founder of the crypto exchange FTX is serving a 25-year prison sentence.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [Are Trump’s Official Papers His Personal Property?](https://www.nytimes.com/2026/09/17/us/politics/the-docket-trump-presidential-records.html?utm_source=lootura.com) — 2026-09-17T16:04:12.000Z
+- [Conservative US supreme court justice Samuel Alito hints at retirement in interview](https://www.theguardian.com/us-news/2026/oct/04/samuel-alito-supreme-court-interview?utm_source=lootura.com) — 2026-10-04T10:00:24.000Z

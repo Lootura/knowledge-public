@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vladimir-putin/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vladimir-putin/index.json",
   "description": "Sigue la actividad de Vladímir Putin en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-08T22:21:31.789Z",
+  "updatedAt": "2026-10-01T04:06:40.370Z",
   "aliases": [
     "Putin",
     "Vladímir",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
-      "title": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
-      "summary": "Leer.",
-      "date": "2026-09-08"
+      "title": "Rusia convulsiona Europa con su amenaza de usar armas nucleares contra la OTAN: \"Quiere intimidar a la opinión pública de los países aliados\"",
+      "summary": "El régimen de Vladimir Putin avisa mediante una carta de que está dispuesto a utilizar \"todo su arsenal\" ante el intento de países aliados de aislar Kaliningrado, advertencia que la OTAN reconoce pero ante la que pide \"calma\" Leer.",
+      "date": "2026-09-30"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Vladímir Putin first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-08"
+    },
+    {
+      "title": "Donald Trump le dice a Vladimir Putin que desea que la guerra de Ucrania termine y recuperar los lazos con Rusia",
+      "summary": "Leer.",
       "date": "2026-09-08"
     },
     {

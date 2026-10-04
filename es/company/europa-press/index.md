@@ -3,10 +3,28 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-04T13:40:27.752Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más
+
+Los visados de dirección de obra de vivienda nueva sumaron 49.863 unidades en los cuatro primeros meses del año , lo que supone un 10,12% más que en el mismo periodo del año anterior, cuando se registraron 45.280 unidades, según los datos del Ministerio de Transportes y Movilidad Sostenible recogidos por Europa Press.
+
+Date: 2026-10-04
+
+### Una mujer herida en la salida de vía de un coche en la A-1 en Cogollos (Burgos)
+
+Una mujer de alrededor de 50 años ha resultado herida este sábado , 3 de octubre, tras la salida de vía y posterior vuelco de un turismo en el kilómetro 225 de la A-1 , a la altura de Cogollos y en dirección a Madrid , según el 112 Castilla y León citado por Europa Press. El incidente se ha producido instantes antes de.
+
+Date: 2026-10-03
+
+### Dos detenidos por una presunta agresión sexual en Pamplona (Navarra)
+
+La Policía Municipal de Pamplona ha arrestado a dos varones como presuntos autores de una agresión sexual contra una mujer en el área de Aranzadi , un enclave donde se asientan personas sin hogar. Según han señalado a Europa Press fuentes de dicho cuerpo, el asunto permanece bajo investigación , por lo que no se han of.
+
+Date: 2026-10-03
 
 ### Muere un joven al colisionar su vehículo contra un tractor en la CM-220 en La Gineta (Albacete)
 
@@ -50,24 +68,6 @@ Varias personas queman una bandera de España durante la manifestación. | Kike 
 
 Date: 2026-09-11
 
-### Cinco heridos tras un incendio forestal en Tendilla (Guadalajara): tres de ellos hospitalizados
-
-Un incendio forestal junto a varias viviendas se ha originado en la calle Tenerías de Tendilla (Guadalajara), causando cinco heridos , de los cuales tres han sido trasladados a un centro hospitalario. Fuentes del 112 de Castilla-La Mancha han indicado a Europa Press que el aviso se registró a las 11.07 horas. El fuego.
-
-Date: 2026-09-08
-
-### Herida una mujer mayor tras ser atropellada por una furgoneta en un paso de cebra en León
-
-Una mujer mayor ha resultado herida este lunes tras ser atropellada por una furgoneta en un paso de cebra en la avenida Mariano Andrés en León capital, según datos del 1-1-2 Castilla y León recogidos por Europa Press. El atropello ha tenido lugar minutos antes de las 19.39 horas, cuando la sala de emergencias del 1-1-2.
-
-Date: 2026-09-07
-
-### Muere un hombre de 77 años hallado en una piscina en Illana (Guadalajara)
-
-Un varón de 77 años ha sido localizado inconsciente en una piscina del municipio guadalajareño de Illana (Guadalajara), según han indicado a Europa Press fuentes del 112 de Castilla-La Mancha. La alerta se registró a las 13.53 horas en una vivienda situada en una urbanización de la calle Río Mayor de Sotoca . A su lleg.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más](https://theobjective.com/economia/2026-10-04/visados-viviendas-50-000-unidades/?utm_source=lootura.com) — 2026-10-04T10:24:39.000Z
