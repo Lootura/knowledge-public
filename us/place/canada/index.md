@@ -3,10 +3,16 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder
+
+The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.
+
+Date: 2026-10-06
 
 ### Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada
 
@@ -62,12 +68,6 @@ European Commission President Ursula von der Leyen on Wednesday proposed making 
 
 Date: 2026-09-16
 
-### E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken
-
-Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.
-
-Date: 2026-09-16
-
 ## Sources
 
-No public source links.
+- [How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder](https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html?utm_source=lootura.com) — 2026-10-06T16:46:42.000Z

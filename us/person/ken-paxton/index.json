@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -22,6 +22,11 @@
     "Warren Paxton, Jr."
   ],
   "changes": [
+    {
+      "title": "Ken Paxton’s secret weapon: Ted Cruz",
+      "summary": "Leaders of the U.S. Hispanic Business Council knew it would be hard to get Ken Paxton to show up to their Senate town hall event. So, they turned to an unexpected ally: Sen. Ted Cruz. Javier Palomarez, the council’s president and CEO, needed help since his own background – as both a Democrat and longtime ally of Paxton.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him",
       "summary": "In a new ad, the wife of Ken Paxton, who is divorcing him for alleged adultery, tells Texas voters to focus on the “whole team,” not “individual players.”.",
@@ -66,13 +71,15 @@
       "title": "First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race",
       "summary": "Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Trump delivers $10 million to Ken Paxton in first major contribution of midterms",
-      "summary": "President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.",
-      "date": "2026-09-05"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ken Paxton’s secret weapon: Ted Cruz",
+      "url": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T08:45:00.000Z",
+      "sourceId": "lootura-us-politico"
+    }
+  ],
+  "evidenceCount": 1
 }

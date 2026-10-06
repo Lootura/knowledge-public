@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Fuentes
 
-- [Marc Márquez consigue un nuevo doblete en Japón y se coloca a dos puntos de Jorge Martín](https://theobjective.com/deportes/2026-10-04/marc-marquez-doblete-japon-dos-puntos-jorge-martin/?utm_source=lootura.com) — 2026-10-04T16:49:34.000Z
+No public source links.

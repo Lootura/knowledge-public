@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/norman-foster/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/norman-foster/index.json",
   "description": "Sigue la actividad de Norman Foster en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Baron Foster of Thames Bank Norman Foster",
     "Foster",
@@ -24,13 +24,18 @@
   ],
   "changes": [
     {
-      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
-      "summary": "El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.",
-      "date": "2026-10-04"
+      "title": "Norman Foster: “En vivienda se ha desplazado todo de lo público a lo privado, hay que encontrar un mejor equilibrio”",
+      "summary": "Su traje de terciopelo color berenjena, camisa negra y corbata lila con lunares blancos destacan entre los tonos más sobrios de las autoridades y las paredes blancas de su nueva criatura. Decir que tiene un aspecto formidable a sus 91 años es quedarse muy corto. Norman Foster, el arquitecto vivo más importante del mund.",
+      "date": "2026-10-06"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Norman Foster first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
+      "summary": "El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.",
       "date": "2026-10-04"
     },
     {
@@ -41,10 +46,10 @@
   ],
   "sources": [
     {
-      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
-      "url": "https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:13:17.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Norman Foster: “En vivienda se ha desplazado todo de lo público a lo privado, hay que encontrar un mejor equilibrio”",
+      "url": "https://elpais.com/cultura/2026-10-06/norman-foster-en-vivienda-se-ha-desplazado-todo-de-lo-publico-a-lo-privado-hay-que-encontrar-un-mejor-equilibrio.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
     }
   ],
   "evidenceCount": 1

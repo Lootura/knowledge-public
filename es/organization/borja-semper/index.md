@@ -3,10 +3,16 @@
 > Sigue la actividad de Borja Sémper en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-12T14:59:00.939Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/borja-semper
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Borja Sémper first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-12
 
 ### El PP ve en la dimisión de Sanz la prueba de que el Gobierno "miente" con Ceuta y avisa a Marruecos: "Con España no se juega"
 
@@ -26,12 +32,6 @@ El portavoz y vicesecretario de Cultura y Deporte del PP, Borja Sémper , ha acu
 
 Date: 2026-09-12
 
-### Discovered by Atlas
-
-Borja Sémper first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-No public source links.
+- [Génova se desmarca de Ayuso y ve "garantista" el voto por correo mientras ella se reafirma: "Todo el mundo tiene que ir a la urna"](https://www.elmundo.es/espana/2026/10/06/6ac4ba7ce4d4d8a07c8b45b9.html?utm_source=lootura.com) — 2026-10-06T10:32:43.000Z

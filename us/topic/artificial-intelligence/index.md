@@ -3,10 +3,28 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
+
+### AI could undermine scientific independence in subtle ways
+
+Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03175-z AI could undermine scientific independence in subtle ways.
+
+Date: 2026-10-06
+
+### We can’t just change the definition of ‘recording’
+
+With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. C.
+
+Date: 2026-10-06
+
+### Meta’s Muse AI Agent Is Building a Dossier On You
+
+A digital billboard advertises the Muse AI agent in Oakland, California on Sept. 24, 2026. —Smith Collection—Gado/Getty Images Muse, the popular new AI personal assistant from Meta, is building continuously updated dossiers on its 4 million users , focusing on who matters to you, what you desire, and what kind of nudge.
+
+Date: 2026-10-06
 
 ### Trump unveils AI task force
 
@@ -50,27 +68,8 @@ Kakul Srivastava is the CEO of Splice, the sample platform countless producers r
 
 Date: 2026-10-03
 
-### Trump’s AI lunch included every major tech company. Except Apple
-
-Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.
-
-Date: 2026-10-01
-
-### Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature
-
-Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02991-7 The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.
-
-Date: 2026-10-01
-
-### Elon Musk’s Grokipedia has a ‘newly refreshed’ design
-
-Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a "newly refreshed Grokipedia." Gro.
-
-Date: 2026-10-01
-
 ## Sources
 
-- [Federal appeals court pauses Minnesota's AI nudification ban](https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com) — 2026-10-04T21:14:54.000Z
-- [Trump unveils AI task force](https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com) — 2026-10-04T22:33:12.000Z
-- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com) — 2026-10-04T15:21:59.000Z
-- [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true?utm_source=lootura.com) — 2026-10-04T16:16:04.000Z
+- [AI could undermine scientific independence in subtle ways](https://www.nature.com/articles/d41586-026-03175-z?utm_source=lootura.com) — 2026-10-06T17:55:03.599Z
+- [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording?utm_source=lootura.com) — 2026-10-06T16:29:44.000Z
+- [Meta’s Muse AI Agent Is Building a Dossier On You](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/?utm_source=lootura.com) — 2026-10-06T13:44:28.000Z

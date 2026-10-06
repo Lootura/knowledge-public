@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-13
 
 ## Fuentes
 
-- [Nueva dimisión de un directivo que desconfía de la IA: "El camino actual es inaceptable"](https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html?utm_source=lootura.com) — 2026-10-04T17:36:33.000Z
+- [Google cambia las reglas: dile adiós a usar Gemini Flash y Pro sin pagar](https://hipertextual.com/inteligencia-artificial/google-ya-no-te-permitira-usar-gemini-flash-y-pro-sin-pagar/?utm_source=lootura.com) — 2026-10-06T16:52:29.000Z

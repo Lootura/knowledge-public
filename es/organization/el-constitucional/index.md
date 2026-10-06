@@ -3,10 +3,28 @@
 > Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/el-constitucional
 
 ## Cambios recientes
+
+### El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’
+
+El Tribunal Constitucional ha dictado que el Supremo debe amnistiar la malversación que los políticos catalanes cometieron en el contexto del proceso independentista, según la sentencia aprobada este martes por la mayoría progresista del Pleno y de la que ha sido ponente el presidente del tribunal de garantías, Cándido.
+
+Date: 2026-10-06
+
+### El voto particular de los cinco magistrados discrepantes: "El Constitucional suplanta la labor del Tribunal Supremo en la apreciación de la amnistía"
+
+Los miembros del sector conservador del TC critican los términos gruesos empleados por Conde-Pumpido sobre la actuación del Supremo. Leer.
+
+Date: 2026-10-06
+
+### El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España
+
+El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...
+
+Date: 2026-10-06
 
 ### El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont
 
@@ -46,4 +64,6 @@ Date: 2026-08-14
 
 ## Fuentes
 
-No public source links.
+- [El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’](https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html?utm_source=lootura.com) — 2026-10-06T11:57:43.000Z
+- [El voto particular de los cinco magistrados discrepantes: "El Constitucional suplanta la labor del Tribunal Supremo en la apreciación de la amnistía"](https://www.elmundo.es/espana/2026/10/06/6ac4de4ee4d4d810628b458d.html?utm_source=lootura.com) — 2026-10-06T12:39:10.000Z
+- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z

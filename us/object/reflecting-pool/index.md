@@ -3,10 +3,16 @@
 > Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: object
-- Updated: 2026-08-13T20:38:59.623Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/object/reflecting-pool
 
 ## Recent changes
+
+### Olympian accused of damaging Reflecting Pool seeks probe of potential misconduct
+
+David Hearn is asking the Justice and Interior Dept. inspectors general to investigate his arrest and the dismissal of the case against him.
+
+Date: 2026-10-06
 
 ### Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation
 
@@ -62,12 +68,6 @@ Federal prosecutors moved to drop their case against David Hearn, blaming Reflec
 
 Date: 2026-08-03
 
-### Tamara Keith and Amy Walter on Democratic primary voters not playing it safe
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.
-
-Date: 2026-08-03
-
 ## Sources
 
-No public source links.
+- [Olympian accused of damaging Reflecting Pool seeks probe of potential misconduct](https://www.cbsnews.com/news/olympian-david-hearn-reflecting-pool-justice-interior-dept-inspector-general/?utm_source=lootura.com) — 2026-10-06T16:00:05.000Z

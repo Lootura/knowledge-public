@@ -3,7 +3,7 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
@@ -64,4 +64,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-No public source links.
+- [Croacia – España, en directo | Sigue en directo y en vivo online la última hora del partido de la UEFA Nations League hoy en tiempo real](https://okdiario.com/deportes/croacia-espana-directo-sigue-directo-vivo-online-ultima-hora-del-partido-uefa-nations-league-hoy-tiempo-real-20493593?utm_source=lootura.com) — 2026-10-06T17:50:35.000Z

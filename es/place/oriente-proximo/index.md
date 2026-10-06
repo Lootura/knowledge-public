@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street
+
+En apariencia, nada ha cambiado. La incertidumbre geopolítica sigue marcando el paso, Oriente Próximo continúa siendo un polvorín, las tensiones inflacionistas se resisten a desaparecer y las rentabilidades de la deuda se mantienen en máximos de dos décadas . Tras semanas de castigo a los bonos y a la renta variable, l.
+
+Date: 2026-10-06
 
 ### La presión extra del precio del fuel pone en jaque a las aerolíneas al cierre de la temporada alta
 
@@ -62,12 +68,6 @@ El fuerte repunte del IPC producto de la guerra en Oriente Próximo y el intenso
 
 Date: 2026-09-10
 
-### El Ibex pierde los 20.000 puntos pero cierra en los máximos de la sesión
-
-Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-No public source links.
+- [Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-10-06T16:10:52.000Z

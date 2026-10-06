@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”
+
+Con las Cortes ya disueltas, el presidente del Gobierno, Pedro Sánchez, ha empezado la precampaña electoral desde La Moncloa usando la mejor arma de cualquier Ejecutivo: el Boletín Oficial del Estado. Sánchez ha comparecido después de que el Consejo de Ministros aprobara dos nuevos decretos similares a los que tumbó el.
+
+Date: 2026-10-06
 
 ### "Al 70% habrá elecciones anticipadas"
 
@@ -62,12 +68,6 @@ La defensa la desvincula de la contratación del dominio web del software y advi
 
 Date: 2026-09-03
 
-### ¿Qué hará Sánchez sin La Mareta?
-
-A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.
-
-Date: 2026-08-12
-
 ## Fuentes
 
-No public source links.
+- [Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”](https://elpais.com/espana/elecciones-generales/2026-10-06/sanchez-arranca-la-campana-con-los-decretos-de-vivienda-para-frenar-desahucios-ya-el-gobierno-ni-tira-la-toalla-ni-deja-tirada-a-la-gente.html?utm_source=lootura.com) — 2026-10-06T12:14:37.000Z

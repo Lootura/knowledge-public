@@ -3,10 +3,34 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos
+
+El juez de la Audiencia Nacional Santiago Pedraz ha pedido a la Fiscalía Anticorrupción un informe para que se pronuncie sobre la procedencia de investigar al PSOE como persona jurídica después de que lo haya solicitado el PP, que aglutina a las acusaciones populares tanto en el caso de Leire Díez o de las denominadas.
+
+Date: 2026-10-06
+
+### El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025
+
+El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE una relación con los nombres de los abogados y consultores que contrató el partido entre los años 2021 y 2025. El magistrado adopta esta decisión en una providencia en la que, según dice, parte de la declaración que prestó como imputada la gerente de la.
+
+Date: 2026-10-06
+
+### La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”
+
+La jueza de la Audiencia Nacional que investiga la entrada de inmigrantes en Ceuta, María Tardón , ha dictado una providencia en la que le pide al Gobierno de la ciudad autónoma que le mande el listado de llamadas que mantuvo con la Presidencia del Gobierno, tanto el 30 de julio como en fechas anteriores. En la resoluc.
+
+Date: 2026-10-06
+
+### El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal
+
+Los 'populares' han registrado un escrito en el que reclaman que también se investigue a su principal rival por "cohecho, malversación, tráfico de influencias y blanqueo de capitales Leer.
+
+Date: 2026-10-06
 
 ### La Policía interrogó durante 12 horas a un técnico que preparaba datos para un informe sobre Ceuta para la Audiencia Nacional
 
@@ -44,30 +68,9 @@ La Audiencia Nacional ha rechazado paralizar de forma cautelar la instalación d
 
 Date: 2026-09-17
 
-### «Se le ha gestionado que pudiera aparcar en Ferraz»: la declaración sobre la autorización de acceso libre de Leire Díez
-
-Leire Díez, la presunta fontanera del PSOE, disponía del aparcamiento de la sede de los socialistas para los encuentros que mantuvo en la misma con el entonces secretario de Organización Santos Cerdán. Así lo confirmó Celia Rodríguez, una trabajadora del partido, ante el juez de la Audiencia Nacional que investiga las.
-
-Date: 2026-09-17
-
-### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
-
-Covadonga San Pedro y Celia Rodríguez son las dos secretarias del exsecretario de Organización del PSOE Santos Cerdán. Ambas declararon en julio ante el juez de la Audiencia Nacional que investiga las cloacas del partido. Según su declaración en calidad de testigos a la que ha tenido acceso íntegro El Confidencial, amb.
-
-Date: 2026-09-17
-
-### La Audiencia Nacional permite el uso temporal del campamento de migrantes en el puerto de Ceuta
-
-La Audiencia Nacional ha rechazado finalmente la suspensión cautelarísima solicitada por el Sindicato Unificado de la Policía (SUP) y permite que siga adelante la ocupación de 16.000 metros cuadrados de la ampliación de Poniente del Puerto de Ceuta para instalar un campamento en el que alojar a parte de los migrantes q.
-
-Date: 2026-09-17
-
-### La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta
-
-La Sala de lo Contencioso-Administrativo desestima las cautelares reclamadas por el Sindicato Unificado de Policía, y el Gobierno celebra la decisión para seguir avanzando en la resolución de la crisis migratoria de Ceuta.
-
-Date: 2026-09-17
-
 ## Fuentes
 
-No public source links.
+- [El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos](https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html?utm_source=lootura.com) — 2026-10-06T17:31:14.000Z
+- [El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025](https://www.elconfidencial.com/espana/2026-10-06/el-juez-del-caso-cloacas-pide-al-psoe-una-lista-de-los-abogados-y-consultores-que-contrato-entre-2021-y-2025_4439493/?utm_source=lootura.com) — 2026-10-06T13:07:00.000Z
+- [La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”](https://www.elconfidencial.com/espana/2026-10-06/tardon-pide-vivas-listado-llamadas-sanchez-urgente_4439504/?utm_source=lootura.com) — 2026-10-06T13:28:00.000Z
+- [El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal](https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html?utm_source=lootura.com) — 2026-10-06T10:46:07.000Z

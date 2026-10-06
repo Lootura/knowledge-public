@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "AI",
     "AI science",
@@ -27,6 +27,21 @@
     "simulated intelligence"
   ],
   "changes": [
+    {
+      "title": "AI could undermine scientific independence in subtle ways",
+      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03175-z AI could undermine scientific independence in subtle ways.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "We can’t just change the definition of ‘recording’",
+      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. C.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Meta’s Muse AI Agent Is Building a Dossier On You",
+      "summary": "A digital billboard advertises the Muse AI agent in Oakland, California on Sept. 24, 2026. —Smith Collection—Gado/Getty Images Muse, the popular new AI personal assistant from Meta, is building continuously updated dossiers on its 4 million users , focusing on who matters to you, what you desire, and what kind of nudge.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Trump unveils AI task force",
       "summary": "The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.",
@@ -61,47 +76,26 @@
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
       "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \" Money \" and \" Espresso \" by Sabrina Carpenter. (The original samples are here and here , for the curious.) Before t.",
       "date": "2026-10-03"
-    },
-    {
-      "title": "Trump’s AI lunch included every major tech company. Except Apple",
-      "summary": "Apple's absence from Trump's AI lunch raised eyebrows, but the company is known to look out for its own interests.",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
-      "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02991-7 The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Gro.",
-      "date": "2026-10-01"
     }
   ],
   "sources": [
     {
-      "title": "Federal appeals court pauses Minnesota's AI nudification ban",
-      "url": "https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:14:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "AI could undermine scientific independence in subtle ways",
+      "url": "https://www.nature.com/articles/d41586-026-03175-z?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:55:03.599Z",
+      "sourceId": "lootura-us-nature"
     },
     {
-      "title": "Trump unveils AI task force",
-      "url": "https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:33:12.000Z",
-      "sourceId": "lootura-us-semafor"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T15:21:59.000Z",
+      "title": "We can’t just change the definition of ‘recording’",
+      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:29:44.000Z",
       "sourceId": "lootura-us-the-verge"
     },
     {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T16:16:04.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Meta’s Muse AI Agent Is Building a Dossier On You",
+      "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T13:44:28.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 3

@@ -70,4 +70,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
+No public source links.

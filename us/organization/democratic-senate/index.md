@@ -3,10 +3,16 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
+
+### Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter
+
+Democratic Senate candidates have generally out-raised Republicans, but are struggling to match outside spending from Trump-affiliated groups.
+
+Date: 2026-10-06
 
 ### 'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent
 
@@ -46,4 +52,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter](https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html?utm_source=lootura.com) — 2026-10-06T14:32:23.000Z

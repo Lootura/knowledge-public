@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”
+
+Aún no había amanecido en Nueva York, donde dormía Pedro Sánchez, cuando en Madrid se estaba produciendo a la vista de todos el acontecimiento que precipitaría un adelanto electoral que el presidente había rechazado decenas de veces. Rodeada de activistas del Sindicato de Inquilinas, de caras conocidas y muy identifica.
+
+Date: 2026-10-06
 
 ### Sylvester Stallone: “No sé qué son las nuevas masculinidades. La naturaleza del hombre es conquistar”
 
@@ -62,12 +68,6 @@ en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Uni
 
 Date: 2026-09-13
 
-### El juicio en Nueva York que puede costar millones a Huawei
-
-El gigante tecnológico chino afronta un complejo proceso judicial en Estados Unidos. Una condena podría suponer multas históricas, la confiscación de activos y redefinir la complicada diplomacia internacional.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-No public source links.
+- [Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”](https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html?utm_source=lootura.com) — 2026-10-06T03:30:01.000Z

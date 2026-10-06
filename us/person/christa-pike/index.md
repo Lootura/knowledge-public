@@ -3,10 +3,16 @@
 > Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/christa-pike
 
 ## Recent changes
+
+### 'We could all hear her breathing': Witnessing the failed execution of Christa Pike
+
+Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard. (Image credit: George Walker IV).
+
+Date: 2026-10-06
 
 ### Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions
 
@@ -52,4 +58,4 @@ Date: 2026-10-01
 
 ## Sources
 
-- [Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution](https://www.pbs.org/newshour/nation/christa-pikes-lawyer-says-she-has-not-regained-consciousness-since-her-failed-tennessee-execution?utm_source=lootura.com) — 2026-10-04T15:56:07.000Z
+- ['We could all hear her breathing': Witnessing the failed execution of Christa Pike](https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z

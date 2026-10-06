@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/christa-pike/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/christa-pike/index.json",
   "description": "Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Christa",
     "Christa Gail Pike"
   ],
   "changes": [
+    {
+      "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike",
+      "summary": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard. (Image credit: George Walker IV).",
+      "date": "2026-10-06"
+    },
     {
       "title": "Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions",
       "summary": "The failed execution of Christa Pike has prompted new scrutiny of Frank Strada, who resigned as the state’s top prison official on Saturday, and his past role overseeing executions in Arizona.",
@@ -52,11 +57,11 @@
   ],
   "sources": [
     {
-      "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution",
-      "url": "https://www.pbs.org/newshour/nation/christa-pikes-lawyer-says-she-has-not-regained-consciousness-since-her-failed-tennessee-execution?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T15:56:07.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T09:00:00.000Z",
+      "sourceId": "lootura-us-npr"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

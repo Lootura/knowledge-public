@@ -3,10 +3,16 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
+
+### Cornell rape case provokes questions about ketamine use on campus
+
+The prescription drug ketamine was referenced in the ongoing Cornell University rape case. CBS News' Anna Schecter has more.
+
+Date: 2026-10-06
 
 ### How Cornell Punished Each of the 7 Men Accused of Sexual Assault
 
@@ -46,6 +52,4 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Here’s the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-october-4-rcna601274?utm_source=lootura.com) — 2026-10-04T22:00:42.000Z
-- [How the Cornell case is affecting women who have experienced sexual assault](https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault?utm_source=lootura.com) — 2026-10-04T14:51:27.000Z
-- [How Cornell Punished Each of the 7 Men Accused of Sexual Assault](https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html?utm_source=lootura.com) — 2026-10-04T02:43:03.000Z
+- [Cornell rape case provokes questions about ketamine use on campus](https://www.cbsnews.com/video/cornell-rape-case-provokes-questions-about-ketamine-use-on-campus/?utm_source=lootura.com) — 2026-10-06T15:48:46.000Z

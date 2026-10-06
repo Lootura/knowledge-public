@@ -65,19 +65,6 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Major oil exporters agree to keep production steady in November",
-      "url": "https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:11:27.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:11:09.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

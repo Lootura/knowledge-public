@@ -3,10 +3,16 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-15T09:11:38.041Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
+
+Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.
+
+Date: 2026-10-06
 
 ### NATO jets down drone in Lithuanian airspace
 
@@ -62,12 +68,6 @@ President Trump hid in an airport catering container and was taken to a military
 
 Date: 2026-08-11
 
-### NATO spending pressure returned
-
-President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z

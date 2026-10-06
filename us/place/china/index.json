@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/china/index.json",
   "description": "Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "China PR",
     "Communist China",
@@ -20,6 +20,16 @@
     "the People's Republic of China"
   ],
   "changes": [
+    {
+      "title": "Coco Gauff decries \"insane\" amount of online racism after China match dispute",
+      "summary": "Coco Gauff said she received an \"insane\" amount of racist comments on social media following a controversial point in her China Open match against home player Sun Xinran.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Rising numbers of Asian and African PhD students choose to study in China",
+      "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02798-6 International students explain the advantages and challenges that come with pursuing a doctoral degree in China.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
       "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.",
@@ -59,37 +69,21 @@
       "title": "Expert: Images of damaged U.S. bases in Middle East show Iran \"getting help from Russia and China\"",
       "summary": "CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins \"The Takeout\" with his reaction.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
-      "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
-      "summary": "China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
     {
-      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-      "url": "https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:43:35.617Z",
+      "title": "Coco Gauff decries \"insane\" amount of online racism after China match dispute",
+      "url": "https://www.cbsnews.com/news/coco-gauff-online-racism-china-tournament-dispute/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T09:05:59.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Rising numbers of Asian and African PhD students choose to study in China",
+      "url": "https://www.nature.com/articles/d41586-026-02798-6?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:55:03.599Z",
       "sourceId": "lootura-us-nature"
-    },
-    {
-      "title": "Brazil's election could shift its ties with the U.S. and China",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:53:15.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
-      "title": "China closes record number of banks as economic growth slows",
-      "url": "https://www.semafor.com/article/10/04/2026/china-consolidates-banking-sector?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:34:53.000Z",
-      "sourceId": "lootura-us-semafor"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

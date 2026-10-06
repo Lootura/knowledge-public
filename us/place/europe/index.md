@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Anker’s 100W universal charger is a great travel gadget for $64
+
+The Anker Nano 100W travel adapter with its folding prongs. | Image: Anker For frequent travelers who like to pack light, the Anker Nano 100W universal travel adapter packs multiple USB ports and is equipped with the ability to adapt to outlets in over 200 countries and regions with its US, UK and EU plugs. During Octo.
+
+Date: 2026-10-06
 
 ### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
@@ -62,13 +68,6 @@ The results of this week’s exceptionally close election dealt a blow to far-ri
 
 Date: 2026-09-17
 
-### With invite to join EU bloc, Canada's prime minister speaks to European Parliament
-
-Canada's Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become an "associate member" of the bloc.
-
-Date: 2026-09-17
-
 ## Sources
 
-- [Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide](https://www.pbs.org/newshour/world/bosnia-votes-as-pro-russian-politician-looms-large-and-ethnic-tensions-simmer?utm_source=lootura.com) — 2026-10-04T16:42:31.000Z
-- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T22:30:27.000Z
+- [Anker’s 100W universal charger is a great travel gadget for $64](https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale?utm_source=lootura.com) — 2026-10-06T17:00:00.000Z

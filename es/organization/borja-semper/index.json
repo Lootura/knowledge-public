@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/borja-semper/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/borja-semper/index.json",
   "description": "Sigue la actividad de Borja Sémper en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-12T14:59:00.939Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Borja Sémper Pascual",
     "Francisco de Borja Sémper Pascual"
   ],
   "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Borja Sémper first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-09-12"
+    },
     {
       "title": "El PP ve en la dimisión de Sanz la prueba de que el Gobierno \"miente\" con Ceuta y avisa a Marruecos: \"Con España no se juega\"",
       "summary": "La crisis migratoria de Ceuta sigue acaparando el debate político en España. Este sábado, el portavoz nacional del Partido Popular, Borja Sémper , ha comparecido para arremeter contra el Gobierno del PSOE y la gestión que está haciendo de la situación, acusándolo de \"mentir\". En una intervención en Vigo, Sémper ha acus.",
@@ -28,13 +33,15 @@
       "title": "Borja Sémper critica al Gobierno la «ausencia de responsabilidades» por la crisis de Ceuta",
       "summary": "El portavoz y vicesecretario de Cultura y Deporte del PP, Borja Sémper , ha acusado al Gobierno de «soberbia» y ha criticado la «ausencia de responsabilidades» ante la crisis migratoria de Ceuta . Así lo ha señalado este sábado en Vigo, donde ha remarcado que «parece una broma» que la « única responsabilidad política ».",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Borja Sémper first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Génova se desmarca de Ayuso y ve \"garantista\" el voto por correo mientras ella se reafirma: \"Todo el mundo tiene que ir a la urna\"",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4ba7ce4d4d8a07c8b45b9.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T10:32:43.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
   "evidenceCount": 0
 }

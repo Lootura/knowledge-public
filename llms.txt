@@ -12,29 +12,29 @@
 
 ## Latest entities — US
 
+- [Air base](https://atlas.lootura.com/us/organization/air-base): Follow Air base, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Air force](https://atlas.lootura.com/us/organization/air-force): Follow Air force, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Apple Inc.](https://atlas.lootura.com/us/company/apple): Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Artificial intelligence](https://atlas.lootura.com/us/topic/artificial-intelligence): Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Canada](https://atlas.lootura.com/us/place/canada): Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [China](https://atlas.lootura.com/us/place/china): Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Christa Pike](https://atlas.lootura.com/us/person/christa-pike): Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Coast guard](https://atlas.lootura.com/us/organization/coast-guard): Follow Coast guard, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
+- [Colombia](https://atlas.lootura.com/us/place/colombia): Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [Cornell University](https://atlas.lootura.com/us/organization/cornell-university): Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 - [David Axelrod](https://atlas.lootura.com/us/organization/david-axelrod): Follow David Axelrod, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Democratic Party](https://atlas.lootura.com/us/organization/democratic-party): Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
-- [Donald Trump](https://atlas.lootura.com/us/person/donald-trump): Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 ## Entidades recientes — ES
 
-- [Agencia estatal (España)](https://atlas.lootura.com/es/organization/agencia-estatal): Sigue la actividad de Agencia estatal (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Ángel Víctor Torres](https://atlas.lootura.com/es/person/angel-victor-torres): Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Arabia Saudí](https://atlas.lootura.com/es/place/arabia-saudi): Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Apple](https://atlas.lootura.com/es/company/apple): Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Artificial intelligence](https://atlas.lootura.com/es/topic/artificial-intelligence): Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Barcelona](https://atlas.lootura.com/es/place/barcelona): Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Borja Jiménez](https://atlas.lootura.com/es/person/borja-jimenez): Sigue la actividad de Borja Jiménez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [País Valenciano](https://atlas.lootura.com/es/place/comunidad-valenciana): Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Donald Trump](https://atlas.lootura.com/es/person/donald-trump): Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [España](https://atlas.lootura.com/es/place/espana): Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [Flávio Bolsonaro](https://atlas.lootura.com/es/person/flavio-bolsonaro): Sigue la actividad de Flávio Bolsonaro en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Audiencia Nacional (España)](https://atlas.lootura.com/es/organization/audiencia-nacional): Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Banco Sabadell](https://atlas.lootura.com/es/company/banco-sabadell): Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Bélgica](https://atlas.lootura.com/es/place/belgium): Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Borja Sémper](https://atlas.lootura.com/es/organization/borja-semper): Sigue la actividad de Borja Sémper en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Carles Puigdemont Casamajó](https://atlas.lootura.com/es/person/carles-puigdemont): Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Liga de Campeones de la UEFA](https://atlas.lootura.com/es/organization/champions-league): Sigue la actividad de Liga de Campeones de la UEFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Diputación Permanente](https://atlas.lootura.com/es/organization/diputacion-permanente): Sigue la actividad de Diputación Permanente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Dolors Bassa](https://atlas.lootura.com/es/person/dolors-bassa): Sigue la actividad de Dolors Bassa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 ## Interpretation notes
 

@@ -3,10 +3,22 @@
 > Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/organization/supreme-court
 
 ## Recent changes
+
+### Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric
+
+The justice told The Associated Press in a rare interview that the rhetoric about the court from Trump and his administration doesn't sit well with him.
+
+Date: 2026-10-06
+
+### Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader
+
+The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.
+
+Date: 2026-10-06
 
 ### The Alito Court: A rare interview with the influential Supreme Court justice
 
@@ -56,18 +68,7 @@ The administration’s plan to screen mail-in ballots remains blocked as the Sup
 
 Date: 2026-09-14
 
-### Supreme Court denies Trump’s mail-in voting restrictions
-
-The Supreme Court rejected President Donald Trump’s attempt to restrict mail-in voting ahead of the midterm elections. NBC News’ Monica Alba explains the decision.
-
-Date: 2026-09-14
-
-### The Supreme Court rejects Trump's mail voting restrictions for this year's midterms
-
-The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election. (Image credit: Patrick T. Fallon).
-
-Date: 2026-09-14
-
 ## Sources
 
-- [The Alito Court: A rare interview with the influential Supreme Court justice](https://www.cbsnews.com/news/samuel-alito-supreme-court-justice-interview-dobbs-same-sex-marriage-not-retiring/?utm_source=lootura.com) — 2026-10-04T19:00:00.000Z
+- [Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric](https://www.pbs.org/newshour/politics/alito-says-supreme-court-cant-stem-rise-of-emergency-appeals-not-pleased-with-trumps-rhetoric?utm_source=lootura.com) — 2026-10-06T14:25:51.000Z
+- [Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader](https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html?utm_source=lootura.com) — 2026-10-06T16:03:08.000Z

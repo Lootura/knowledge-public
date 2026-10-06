@@ -3,80 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
+### El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros
 
-A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
+Arranca la precampaña electoral y el Partido Popular denuncia a Pedro Sánchez ante la Junta Electoral Central por la rueda de prensa que ha dado este martes tras el Consejo de Ministros. Los populares consideran que el presidente del Gobierno ha vulnerado la Ley Electoral al utilizar la Moncloa "para dar un mitin del P.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Los partidos de Sumar anunciarán su candidato el 17 de octubre y confirman que su nueva marca será Frente Amplio
+### Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo
 
-La alianza se reunió este domingo para acelerar los tiempos de la negociación abierta desde hace meses, y ante la posibilidad de que el presidente Pedro Sánchez decida adelantar las elecciones este lunes La opción de Mónica García vuelve a tomar fuerza como candidata de Sumar a las generales IU, Comuns, Más Madrid y Mo.
+El Gobierno vuelve a la carga con sus medidas de vivienda . El Consejo de Ministros ha aprobado de nuevo este martes los dos reales decretos que el Congreso tumbó el pasado viernes. Y lo ha hecho con algunos cambios. El presidente del Gobierno, Pedro Sánchez, ha defendido que ambos textos mantienen "la esencia" de los.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
+### España y Francia, los países más inseguros para los judíos, según un sondeo israelí
 
-El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gobierno, Pedro Sánchez , que convoque elecciones generales «ya» , en un mensaje en el que le ha instado a no demorar más la decisión. «Pedro, no te lo pienses más. Hazlo. Convoca mañana las elecciones generales. Aprieta el botón» , ha reclama.
+La propaganda contra el Gobierno de Israel y su Ejército llevada a cabo por el Gabinete de Pedro Sánchez desde el comienzo de la guerra en Gaza, hace ahora tres años, ha surtido efecto. Al menos, en la opinión pública hebrea. Un sondeo de la Universidad Hebrea publicado por 'The Israel Times' señala que España y Franci.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"
+### Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad
 
-La portavoz de Junts en el Congreso, Miriam Nogueras , ha planteado la disyuntiva en la que a su juicio se encuentra el presidente del Gobierno, Pedro Sánchez : "Si antepone la vivienda al cálculo electoral, hoy nos llamará para negociar sobre vivienda. Si antepone el PSOE, mañana (lunes) convocará elecciones". Así lo.
+El líder de Junts carga contra los jueces, Sánchez, Aznar, Junqueras e Illa, sin concretar cuándo volverá a España.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Las agendas de Sánchez y el Rey complican que el presidente convoque elecciones el lunes
+### Los nuevos decretos de vivienda recuperan el escudo antidesahucios y amplían las ayudas para la construcción
 
-Salvo cambio de última hora, la agenda tanto del presidente del Gobierno, Pedro Sánchez, como del rey Felipe VI complican que el jefe del Ejecutivo vaya a anunciar este mismo lunes la convocatoria de elecciones anticipadas , como se había especulado tras decaer el pasado viernes en el Congreso de los Diputados los dos.
+Los dos decretos de vivienda aprobados por el Consejo de Ministros este martes están compuestos casi íntegramente por las mismas partes que los que fueron rechazados en el Congreso el pasado viernes, según la enumeración de medidas que ha hecho el presidente del Gobierno, Pedro Sánchez, en la rueda de prensa posterior.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Gabinete de crisis en Moncloa: Sánchez, entre encuestas y su núcleo duro
+### La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”
 
-Gabinete de crisis en Moncloa. El presidente del Gobierno debe tomar una decisión en las próximas horas: si convoca elecciones anticipadas a lomos del malestar social por la vivienda o si vuelve a envainarse el amago y sigue adelante la legislatura. El horizonte del acortamiento del mandato no llegó en una carta a la c.
+La jueza de la Audiencia Nacional que investiga la entrada de inmigrantes en Ceuta, María Tardón , ha dictado una providencia en la que le pide al Gobierno de la ciudad autónoma que le mande el listado de llamadas que mantuvo con la Presidencia del Gobierno, tanto el 30 de julio como en fechas anteriores. En la resoluc.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Sánchez inaugura este lunes entre rumores de adelanto electoral el congreso empresarial en el que fue abucheado en 2018
+### Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente
 
-El presidente participó por última vez hace ocho años en el Congreso de la Empresa Familiar.
+El BOE ha publicado el Real Decreto de disolución de las Cortes y la convocatoria de elecciones generales para el 29 de noviembre.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox
+### Sánchez mueve los cubiletes y crea un fondo de 10.000 millones para volver a aprobar los decretos derogados
 
-Como en los célebres cinco días de reflexión de abril de 2024, el PSOE ha pasado las últimas horas a la espera de una decisión trascendental de Pedro Sánchez. Si en aquel...
+El presidente/candidato comparece en la Moncloa para prometer que el Gobierno seguirá gobernando hasta las elecciones. «No vamos a permitir que hay...
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales
+### La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques
 
-Nadie en la izquierda sabe aún con certeza qué decidirá el presidente Pedro Sánchez sobre el adelanto electoral, ni si la respuesta definitiva llegará este lunes, pero la consigna entre los partidos del socio minoritario de la coalición es clara: hay que estar en condiciones para una convocatoria inminente. Por eso, in.
+El PP cuenta también con sondeos internos, pero muy diferentes: sitúan al bloque de derecha por encima de los 200 escaños, pero con Vox por encima de 60 y con un margen de crecimiento de 12 más Leer.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso
+### Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”
 
-Después de un fin de semana muy intenso de contactos, de hablar con casi todo el partido, con sus ministros, con sus asesores y con sus principales socios, el presidente, Pedro Sánchez, tiene ya todo listo para comunicar su decisión y anunciar este mismo lunes si adelanta las elecciones de forma inmediata como le han r.
+Con las Cortes ya disueltas, el presidente del Gobierno, Pedro Sánchez, ha empezado la precampaña electoral desde La Moncloa usando la mejor arma de cualquier Ejecutivo: el Boletín Oficial del Estado. Sánchez ha comparecido después de que el Consejo de Ministros aprobara dos nuevos decretos similares a los que tumbó el.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
 ## Fuentes
 
-- [Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"](https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com) — 2026-10-04T21:15:52.000Z
-- [Las agendas de Sánchez y el Rey complican que el presidente convoque elecciones el lunes](https://www.20minutos.es/nacional/las-agendas-sanchez-rey-complican-que-presidente-convoque-elecciones-lunes_7044608_0.html?utm_source=lootura.com) — 2026-10-04T14:06:42.000Z
-- [Gabinete de crisis en Moncloa: Sánchez, entre encuestas y su núcleo duro](https://www.abc.es/espana/gabinete-crisis-moncloa-sanchez-encuestas-nucleo-duro-20261004012535-nt.html?utm_source=lootura.com) — 2026-10-04T17:58:16.000Z
-- [Sánchez inaugura este lunes entre rumores de adelanto electoral el congreso empresarial en el que fue abucheado en 2018](https://www.eldebate.com/economia/20261004/sanchez-inaugura-este-lunes-entre-rumores-adelanto-electoral-congreso-empresarial-abucheado-2018_465943.html?utm_source=lootura.com) — 2026-10-04T15:52:07.000Z
-- [Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"](https://amp.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html?utm_source=lootura.com) — 2026-10-04T12:16:17.000Z
-- [El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox](https://amp.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html?utm_source=lootura.com) — 2026-10-04T20:22:15.000Z
-- [La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales](https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html?utm_source=lootura.com) — 2026-10-04T14:26:01.000Z
-- [Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso](https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html?utm_source=lootura.com) — 2026-10-04T19:22:32.000Z
-- [Los partidos de Sumar anunciarán su candidato el 17 de octubre y confirman que su nueva marca será Frente Amplio](https://www.eldiario.es/politica/partidos-sumar-anunciaran-candidato-17-octubre-confirman-nueva-marca-sera-frente-amplio_1_13560979.html?utm_source=lootura.com) — 2026-10-04T13:23:13.000Z
-- [Nervios entre los socios de Sánchez, obligados a acelerar por el ruido de tambores electorales](https://amp.expansion.com/economia/politica/2026/10/04/6ac2a181e5fdea9e0c8b4585.html?utm_source=lootura.com) — 2026-10-04T19:00:28.000Z
+- [El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros](https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com) — 2026-10-06T16:48:31.000Z
+- [Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo](https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com) — 2026-10-06T13:08:45.000Z
+- [España y Francia, los países más inseguros para los judíos, según un sondeo israelí](https://www.abc.es/internacional/espana-francia-paises-inseguros-judios-segun-sondeo-20261006192029-nt.html?utm_source=lootura.com) — 2026-10-06T17:20:29.000Z
+- [Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad](https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt_amp.html?utm_source=lootura.com) — 2026-10-06T16:12:15.000Z
+- [Los nuevos decretos de vivienda recuperan el escudo antidesahucios y amplían las ayudas para la construcción](https://elpais.com/economia/vivienda/2026-10-06/los-nuevos-decretos-de-vivienda-aprobados-por-el-gobierno-blindan-los-desahucios-y-amplian-las-ayudas-para-la-construccion.html?utm_source=lootura.com) — 2026-10-06T11:29:11.000Z
+- [La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”](https://www.elconfidencial.com/espana/2026-10-06/tardon-pide-vivas-listado-llamadas-sanchez-urgente_4439504/?utm_source=lootura.com) — 2026-10-06T13:28:00.000Z
+- [Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente](https://www.elcorreo.com/politica/directo-sanchez-comparece-1230-tras-adelanto-electoral-20261006121951-dirc_amp.html?utm_source=lootura.com) — 2026-10-06T10:19:52.000Z
+- [Sánchez mueve los cubiletes y crea un fondo de 10.000 millones para volver a aprobar los decretos derogados](https://www.eldebate.com/espana/20261006/sanchez-mueve-cubiletes-crea-fondo-10000-millones-volver-aprobar-decretos-derogados_466697.html?utm_source=lootura.com) — 2026-10-06T12:46:29.000Z
+- [La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques](https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html?utm_source=lootura.com) — 2026-10-06T11:50:15.000Z
+- [Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”](https://elpais.com/espana/elecciones-generales/2026-10-06/sanchez-arranca-la-campana-con-los-decretos-de-vivienda-para-frenar-desahucios-ya-el-gobierno-ni-tira-la-toalla-ni-deja-tirada-a-la-gente.html?utm_source=lootura.com) — 2026-10-06T12:14:37.000Z

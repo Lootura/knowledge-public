@@ -3,10 +3,16 @@
 > Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/graham-platner
 
 ## Recent changes
+
+### Troy Jackson is racing against time in his bid to unseat Susan Collins
+
+Jackson became the party's nominee in late July after the campaign of Democratic primary winner Graham Platner fell apart.
+
+Date: 2026-10-06
 
 ### Platner announced as speaker for activist-led event in Maine
 
@@ -62,12 +68,6 @@ Maine Democrats are gathering Saturday to select a Senate nominee to replace Gra
 
 Date: 2026-07-25
 
-### 5 Things to Know About the Maine Senate Candidate Troy Jackson
-
-Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [Troy Jackson is racing against time in his bid to unseat Susan Collins](https://www.pbs.org/newshour/politics/troy-jackson-is-racing-against-time-in-his-bid-to-unseat-susan-collins?utm_source=lootura.com) — 2026-10-06T17:50:34.000Z

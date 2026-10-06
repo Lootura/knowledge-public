@@ -3,10 +3,22 @@
 > Sigue la actividad de Tel Aviv en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/tel-aviv
 
 ## Cambios recientes
+
+### ‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino
+
+Los realizadores de _NAZA_, Yuval Abraham y Rachel Szor, realizaron entrevistas a miembros anónimos de las fuerzas armadas y los servicios de inteligencia israelíes desde las azoteas de Tel Aviv, Israel. Gil Cohen-Magen/AFP via Getty Images Hay una escena impactante en el documental de 2004 de la cineasta marroquí-fran.
+
+Date: 2026-10-06
+
+### Discovered by Atlas
+
+Tel Aviv first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-10-01
 
 ### Israel enmarca el atentado aéreo como un ataque «contra los acuerdos de Abraham»
 
@@ -26,12 +38,6 @@ Desde las primeras turbulencias hasta su aterrizaje en Israel, este vídeo recon
 
 Date: 2026-10-01
 
-### Discovered by Atlas
-
-Tel Aviv first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-10-01
-
 ### Un pasajero del vuelo de Dubái a Tel Aviv: “Até las manos al terrorista con unos auriculares”
 
 Cuando el avión comenzó a descender a un ritmo infernal y sin explicación alguna, Shota Musaieb, uno de los pasajeros israelíes en el vuelo de Dubái a Tel Aviv , tuvo como primer reflejo empezar a grabar todo con el teléfono móvil. “No pensé que fuese un atentado. Empecé a grabar todo. Mi miedo era que, si todo acabase.
@@ -40,4 +46,4 @@ Date: 2026-09-30
 
 ## Fuentes
 
-No public source links.
+- [‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino](https://theconversation.com/naza-las-revelaciones-israelies-retratan-el-aislamiento-del-pueblo-palestino-293026?utm_source=lootura.com) — 2026-10-06T17:05:57.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/openai/index.json",
   "description": "Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "ChatGPT maker",
     "openai.com"
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Legal risks mount for OpenAI",
-      "url": "https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:34:47.000Z",
-      "sourceId": "lootura-us-semafor"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T15:21:59.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "sourceId": "lootura-us-openai"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

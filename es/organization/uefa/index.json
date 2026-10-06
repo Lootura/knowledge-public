@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
   "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
@@ -63,6 +63,13 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Croacia – España, en directo | Sigue en directo y en vivo online la última hora del partido de la UEFA Nations League hoy en tiempo real",
+      "url": "https://okdiario.com/deportes/croacia-espana-directo-sigue-directo-vivo-online-ultima-hora-del-partido-uefa-nations-league-hoy-tiempo-real-20493593?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:50:35.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -3,10 +3,16 @@
 > Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/company/apple
 
 ## Recent changes
+
+### Apple TV’s great year continues with Small Prophets
+
+Apple TV has had a really great run in 2026 - and a cozy new addition is helping expand its lineup even more. As the streaming service has attempted to grow in order to better compete with the likes of Disney and Netflix , it has steadily broadened the range of its series. This year has included everything from a pair.
+
+Date: 2026-10-06
 
 ### The AirPods Pro 3 are a fantastic deal at $179
 
@@ -28,4 +34,4 @@ Date: 2026-07-13
 
 ## Sources
 
-- [The AirPods Pro 3 are a fantastic deal at $179](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale?utm_source=lootura.com) — 2026-10-04T13:00:00.000Z
+- [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv?utm_source=lootura.com) — 2026-10-06T17:15:16.000Z

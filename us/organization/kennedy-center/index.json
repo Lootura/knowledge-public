@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.json",
   "description": "Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T09:12:35.113Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "JFK Center for the Performing Arts",
     "John F Kennedy Center for the Performing Arts",
@@ -18,6 +18,11 @@
     "The Trump Kennedy Center"
   ],
   "changes": [
+    {
+      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+      "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets. (Image credit: Alex Wroblewski).",
+      "date": "2026-10-06"
+    },
     {
       "title": "Kennedy Center Board votes to close for renovations amid legal fight over Trump name",
       "summary": "A judge blocked President Trump's name from being added to the Kennedy Center facade again on Tuesday. Later in the day, the institution's board voted to close the venue for renovations. CBS News' Olivia Rinaldi explains.",
@@ -54,6 +59,13 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T11:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

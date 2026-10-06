@@ -3,10 +3,16 @@
 > Sigue la actividad de Banco Sabadell en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-08-12T01:43:20.479Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/company/banco-sabadell
 
 ## Cambios recientes
+
+### El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE
+
+Casi un año después de conseguir vencer al BBVA en la opa (oferta pública de adquisición) hostil , el Banco Sabadell ha encontrado una fórmula para blindar su capital y recuperar su núcleo duro de accionistas. La entidad ha acordado con el banco francés BPCE la adquisición de un 7% del capital, ampliable a un máximo de.
+
+Date: 2026-10-06
 
 ### Sabadell y Amundi amplían su alianza en fondos hasta 2035
 
@@ -58,4 +64,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-No public source links.
+- [El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE](https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html?utm_source=lootura.com) — 2026-10-06T16:12:46.000Z

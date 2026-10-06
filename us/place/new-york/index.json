@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,16 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "\"NCIS: New York\" stars LL Cool J and Scott Caan on what to expect this season",
+      "summary": "LL Cool J and Scott Caan join \"CBS Mornings\" to discuss \"NCIS: New York,\" which premieres Tuesday night on CBS and Paramount+.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Hoping for Better, 3 Years Since Oct. 7",
+      "summary": "Rachel Goldberg-Polin speaks during the 2026 TIME100 Summit at on April 22, 2026 in New York City. —Jemal Countess—TIME My name is Rachel. And I will always be the mother of Hersh Goldberg-Polin . Hersh will always be my eldest child. Hersh will always be my only son. And Hersh will always be 23-years-old. As one of th.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
       "summary": "The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.",
@@ -72,30 +82,20 @@
       "title": "The Jonas Brothers on their new tour, new podcast and more",
       "summary": "The Jonas Brothers are still burnin' up after more than 20 years as a band. Now they're embarking on a nostalgic tour, while working on new music, a podcast, and more. Julianne Ferreira spoke to the brothers on set of a commercial they're shooting for Blue Diamond Almond Breeze in New York City.",
       "date": "2026-10-01"
-    },
-    {
-      "title": "Pete Davidson calls out NYC mayor Zohran Mamdani over highway mess",
-      "summary": "Pete Davidson didn’t hold back while delivering a blunt message to New York City Mayor Zohran Mamdani . On Monday night, the 32-year-old comedian appeared on \" Jimmy Kimmel Live! \" where Kimmel, 58, told him that Mamdani, 34, would be his next guest. The late night host then pointed out that Davidson was a \"lifelong re.",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "How Oil and Trump Are Escalating the Falklands Dispute",
-      "summary": "Javier Milei takes part in a discussion about economies at an event in New York on Sept. 24, 2026. —Michael Nagle—Getty Images Argentine President Javier Milei has threatened legal action against the U.K. over an oil exploration project off the coast of the Falkland Islands , a British overseas territory at the center.",
-      "date": "2026-09-30"
     }
   ],
   "sources": [
     {
-      "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
-      "url": "https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T07:00:23.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "\"NCIS: New York\" stars LL Cool J and Scott Caan on what to expect this season",
+      "url": "https://www.cbsnews.com/video/ncis-new-york-stars-ll-cool-j-and-scott-caan-on-what-to-expect-this-season/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:36:43.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life",
-      "url": "https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T18:54:43.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Hoping for Better, 3 Years Since Oct. 7",
+      "url": "https://time.com/article/2026/10/06/hoping-for-better-3-years-since-oct-7/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:00:08.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
   "evidenceCount": 2

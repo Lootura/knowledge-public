@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/madrid/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/madrid/index.json",
   "description": "Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [],
   "changes": [
     {
@@ -37,6 +37,13 @@
       "date": "2026-07-24"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T12:08:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
   "evidenceCount": 0
 }

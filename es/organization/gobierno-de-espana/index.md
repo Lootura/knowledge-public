@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T04:16:43.439Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda
+
+“En el Gobierno de España ni tiramos la toalla, ni dejamos tirada a la gente”, ha advertido Pedro Sánchez este martes desde la Moncloa, después de que el Consejo de Ministros haya vuelto a aprobar los dos decretos ley de vivienda que el PP, Vox, UPN y Junts tumbaron en el pleno del Congreso el pasado viernes, lo que pr.
+
+Date: 2026-10-06
 
 ### La ministra y sus buitres
 
@@ -62,12 +68,6 @@ El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000
 
 Date: 2026-08-14
 
-### ¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?
-
-La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda](https://www.lavanguardia.com/politica/20261006/11652467/gobierno-aprueba-10-000-millones-euros-financiacion-compra-primera-vivienda.html?utm_source=lootura.com) — 2026-10-06T13:06:20.000Z

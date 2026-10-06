@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-09-13
 
 ## Sources
 
-- [Legal risks mount for OpenAI](https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai?utm_source=lootura.com) — 2026-10-04T22:34:47.000Z
-- [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft?utm_source=lootura.com) — 2026-10-04T15:21:59.000Z
+- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership?utm_source=lootura.com) — 2026-10-06T16:00:00.000Z

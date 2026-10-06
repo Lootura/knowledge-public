@@ -70,4 +70,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [Nueva dimisión de un directivo que desconfía de la IA: "El camino actual es inaceptable"](https://www.elmundo.es/economia/empresas/2026/10/04/6ac26b25fc6c8324698b4582.html?utm_source=lootura.com) — 2026-10-04T17:36:33.000Z
+No public source links.

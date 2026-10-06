@@ -34,4 +34,4 @@ Date: 2026-08-04
 
 ## Fuentes
 
-- [Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"](https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com) — 2026-10-04T21:15:52.000Z
+No public source links.

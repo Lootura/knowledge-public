@@ -3,10 +3,28 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### How Russia and the world are responding to a possible case of pneumonic plague after lab worker death
+
+The World Health Organization says a possible case of pneumonic plague in Russia presents a "very low" risk outside the country as investigators look into what caused the death of a lab employee there last week.
+
+Date: 2026-10-06
+
+### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
+
+Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.
+
+Date: 2026-10-06
+
+### Plague epidemic risk in Russia low after death of lab technician, WHO says
+
+World Health Organization detects no sign of further outbreak since Darya Shipilova died last week The World Health Organization has said the risk of an epidemic in Russia is low after the sudden death of a lab technician who worked at a plague research institute in Siberia. Darya Shipilova, who was 28, died last week,.
+
+Date: 2026-10-06
 
 ### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
 
@@ -50,25 +68,9 @@ The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one d
 
 Date: 2026-09-17
 
-### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
-
-CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
-
-Date: 2026-09-16
-
-### DOJ charges Russian agents with plotting attacks, including in the U.S.
-
-The indictment says the defendants belong to a network that "is one arm of the Russian Federation's apparatus used to carry out external attacks" worldwide. (Image credit: Kevin Dietsch).
-
-Date: 2026-09-16
-
-### Congress Clears Russia Sanctions Bill, Sending It to Trump
-
-The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.
-
-Date: 2026-09-16
-
 ## Sources
 
-- [Major oil exporters agree to keep production steady in November](https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com) — 2026-10-04T21:11:27.000Z
-- [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
+- [US Calls for Transparency on Reported Russian Plague Death](https://www.today.com/video/us-calls-for-transparency-on-reported-russian-plague-death-271116869593?utm_source=lootura.com) — 2026-10-06T15:08:26.000Z
+- [How Russia and the world are responding to a possible case of pneumonic plague after lab worker death](https://www.pbs.org/newshour/health/how-russia-and-the-world-are-responding-to-a-possible-case-of-pneumonic-plague-after-lab-worker-death?utm_source=lootura.com) — 2026-10-06T17:41:15.000Z
+- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z
+- [Plague epidemic risk in Russia low after death of lab technician, WHO says](https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who?utm_source=lootura.com) — 2026-10-06T12:38:58.000Z

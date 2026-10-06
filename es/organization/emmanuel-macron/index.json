@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/emmanuel-macron/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/emmanuel-macron/index.json",
   "description": "Sigue la actividad de Emmanuel Macron en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-15T01:04:15.447Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [],
   "changes": [
     {
-      "title": "La justicia francesa tumba la ley que prohíbe el uso de las redes sociales a menores de 15 años",
-      "summary": "El Consejo Constitucional francés ha tumbado este viernes la ley aprobada por el Parlamento a finales de julio e impulsada por el Gobierno de Emmanuel Macron que prohíbe el uso de las redes sociales para menores de 15 años por considerar que es desproporcionada y que atenta contra el derecho a la libertad de expresión.",
-      "date": "2026-08-14"
+      "title": "Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas",
+      "summary": "Entre 250.000 y 400.000 estudiantes, según Gobierno y organizadores, han salido este martes a las calles de las principales ciudades francesas, con París a la cabeza, para demostrar al Ejecutivo de Emmanuel Macron que no tienen intención de aflojar en sus reivindicaciones justo cuando se cumplen dos semanas del inicio.",
+      "date": "2026-10-06"
     },
     {
       "title": "Discovered by Atlas",
       "summary": "Emmanuel Macron first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "La justicia francesa tumba la ley que prohíbe el uso de las redes sociales a menores de 15 años",
+      "summary": "El Consejo Constitucional francés ha tumbado este viernes la ley aprobada por el Parlamento a finales de julio e impulsada por el Gobierno de Emmanuel Macron que prohíbe el uso de las redes sociales para menores de 15 años por considerar que es desproporcionada y que atenta contra el derecho a la libertad de expresión.",
       "date": "2026-08-14"
     },
     {
@@ -27,6 +32,13 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas",
+      "url": "https://theobjective.com/internacional/2026-10-06/estudiantes-mantienen-presion-francia-protestas/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:24:48.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

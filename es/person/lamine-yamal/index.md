@@ -3,7 +3,7 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-No public source links.
+- [Alineación de España contra Croacia: De la Fuente sale con todo en Split](https://okdiario.com/deportes/alineacion-espana-contra-croacia-lamine-lidera-asalto-split-20479808?utm_source=lootura.com) — 2026-10-06T17:30:16.000Z

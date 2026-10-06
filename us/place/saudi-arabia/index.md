@@ -70,5 +70,4 @@ Date: 2026-09-14
 
 ## Sources
 
-- [Major oil exporters agree to keep production steady in November](https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november?utm_source=lootura.com) — 2026-10-04T21:11:27.000Z
-- [Houthis Claim Attack on Aramco as Yemen Conflict Escalates](https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html?utm_source=lootura.com) — 2026-10-04T21:11:09.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street
+
+En apariencia, nada ha cambiado. La incertidumbre geopolítica sigue marcando el paso, Oriente Próximo continúa siendo un polvorín, las tensiones inflacionistas se resisten a desaparecer y las rentabilidades de la deuda se mantienen en máximos de dos décadas . Tras semanas de castigo a los bonos y a la renta variable, l.
+
+Date: 2026-10-06
 
 ### Dow Jones baja un 0,8%: la mayoría de las acciones caen en una semana en rojo para Wall Street
 
@@ -62,12 +68,6 @@ La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de l
 
 Date: 2026-09-04
 
-### La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street
-
-Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consumo. Hijos de Rivera es la excepción, al crecer en ventas y elevar sus ganancias.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-No public source links.
+- [Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-10-06T16:10:52.000Z

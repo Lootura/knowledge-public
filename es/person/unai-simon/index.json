@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/unai-simon/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/unai-simon/index.json",
   "description": "Sigue la actividad de Unai Simón en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-08-14T13:00:07.745Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Simón",
     "Unai Simón Mendibil"
@@ -50,6 +50,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Alineación de España contra Croacia: De la Fuente sale con todo en Split",
+      "url": "https://okdiario.com/deportes/alineacion-espana-contra-croacia-lamine-lidera-asalto-split-20479808?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:30:16.000Z",
+      "sourceId": "lootura-es-ok-diario"
+    }
+  ],
   "evidenceCount": 0
 }

@@ -46,8 +46,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [Flávio Bolsonaro supera a Lula en las elecciones en Brasil con más del 60% de los votos escrutados](https://www.elmundo.es/internacional/2026/10/04/6ac2b9b0fdddfff8458b458e.html?utm_source=lootura.com) — 2026-10-04T22:27:08.000Z
-- [Flávio Bolsonaro, el turno de '01' en una familia que quiere ser una dinastía política: "Papá, te honraré"](https://www.elmundo.es/internacional/2026/10/04/6abfc2a0e85ece4c618b4585.html?utm_source=lootura.com) — 2026-10-04T21:37:17.000Z
-- [Elecciones en Brasil 2026, en vivo | Lula: “Veremos qué Brasil eligió el pueblo”. Bolsonaro: “Brasil no aguanta más”](https://elpais.com/america/2026-10-04/elecciones-en-brasil-2026-en-vivo.html?utm_source=lootura.com) — 2026-10-04T18:46:06.000Z
-- [Resultados de las elecciones en Brasil, en vivo | Flávio Bolsonaro aventaja a Lula, con más del 64% escrutado](https://elpais.com/america/2026-10-04/resultados-de-las-elecciones-en-brasil-2026-en-vivo.html?utm_source=lootura.com) — 2026-10-04T22:40:32.000Z
-- [Flávio Bolsonaro, el ungido por el patriarca para reconquistar el poder](https://elpais.com/america/2026-10-04/flavio-bolsonaro-el-ungido-por-el-patriarca-para-reconquistar-el-poder.html?utm_source=lootura.com) — 2026-10-04T04:00:00.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,16 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+      "summary": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "summary": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”.",
+      "date": "2026-10-06"
+    },
     {
       "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
       "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.",
@@ -55,42 +65,26 @@
       "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
       "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab. (Image credit: Vahid Salemi).",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Global Economy Is Running Out of Wiggle Room",
-      "summary": "Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
-      "summary": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.",
-      "date": "2026-09-17"
     }
   ],
   "sources": [
     {
-      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-      "url": "https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:43:35.617Z",
-      "sourceId": "lootura-us-nature"
+      "title": "U.K. arrests 7th man on suspicion of terrorism over air base incident",
+      "url": "https://www.cbsnews.com/news/raf-fairford-uk-air-base-7th-arrest-suspicion-terrorism/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:39:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
-      "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:34:49.000Z",
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T04:18:00.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T18:47:12.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
-    },
-    {
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:30:27.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T07:11:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 3

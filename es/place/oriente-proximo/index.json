@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-15T09:11:13.063Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
+      "summary": "En apariencia, nada ha cambiado. La incertidumbre geopolítica sigue marcando el paso, Oriente Próximo continúa siendo un polvorín, las tensiones inflacionistas se resisten a desaparecer y las rentabilidades de la deuda se mantienen en máximos de dos décadas . Tras semanas de castigo a los bonos y a la renta variable, l.",
+      "date": "2026-10-06"
+    },
     {
       "title": "La presión extra del precio del fuel pone en jaque a las aerolíneas al cierre de la temporada alta",
       "summary": "La vuelta de tuerca al conflicto en Oriente Próximo y a la crisis energética, con la salida de petróleo por el Mar Rojo amenazada y el consiguiente cierre del oleoducto saudí de Yanbu , supone un nuevo golpe a la sostenibilidad del sector aéreo a corto plazo. La aerolínea pública letona Air Baltic (88% del Estado y un.",
@@ -60,13 +65,15 @@
       "title": "La inflación presiona los convenios con subidas salariales por encima del 4%",
       "summary": "El fuerte repunte del IPC producto de la guerra en Oriente Próximo y el intenso encarecimiento de los carburantes, con el consecuente traslado al resto de la cesta de bienes de...",
       "date": "2026-09-10"
-    },
-    {
-      "title": "El Ibex pierde los 20.000 puntos pero cierra en los máximos de la sesión",
-      "summary": "Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo y sus implicaciones en la inflación, después de que Irán advirtiera de que las infraestructuras de petróleo y gas en todo el Golfo pueden ser objetivo de represalias por los ataques contra sus activos. Los precios del petróleo suben por tercer.",
-      "date": "2026-09-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:10:52.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

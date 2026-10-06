@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/colombia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/colombia/index.json",
   "description": "Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T19:21:03.373Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Republic of Colombia",
     "The Republic of Colombia"
   ],
   "changes": [
+    {
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "summary": "MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Rubio Plans to Push Colombia’s New Leader to Tackle Cocaine Trade",
       "summary": "Secretary of State Marco Rubio — who is visiting Colombia, Ecuador and Peru this week — says he will talk to leaders about targeting drug-trafficking “terrorists,” and trade deals.",
@@ -58,13 +63,15 @@
       "title": "Baby rescued from rubble in Colombia after devastating earthquake",
       "summary": "Footage shared on social media shows a baby being rescued from the bloody arms of a man trapped underneath a destroyed building in Cali after a powerful earthquake struck Colombia.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Colombia earthquake rescue volunteer reacts after pulling survivor from rubble",
-      "summary": "Rescue workers are racing against the clock to free trapped survivors of the Colombia earthquake. Some success stories are emerging. CBS News' Lilia Luciano has more on the efforts.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "url": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:13:41.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

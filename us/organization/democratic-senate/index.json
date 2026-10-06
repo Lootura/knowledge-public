@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter",
+      "summary": "Democratic Senate candidates have generally out-raised Republicans, but are struggling to match outside spending from Trump-affiliated groups.",
+      "date": "2026-10-06"
+    },
     {
       "title": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
       "summary": "Montana’s Democratic Senate nominee on Monday refused to drop her campaign to clear the way for an independent candidate, setting up a crowded race that is likely to help Republicans win in November. Alani Bankhead made certain with hours to go before Monday’s deadline that she would not step aside to give independent.",
@@ -42,6 +47,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter",
+      "url": "https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T14:32:23.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

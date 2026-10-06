@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.json",
   "description": "Sigue la actividad de Tel Aviv en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-01T04:06:40.370Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "TLV",
     "Tel Aviv City",
@@ -23,6 +23,16 @@
     "Tel-Aviv Yafo"
   ],
   "changes": [
+    {
+      "title": "‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino",
+      "summary": "Los realizadores de _NAZA_, Yuval Abraham y Rachel Szor, realizaron entrevistas a miembros anónimos de las fuerzas armadas y los servicios de inteligencia israelíes desde las azoteas de Tel Aviv, Israel. Gil Cohen-Magen/AFP via Getty Images Hay una escena impactante en el documental de 2004 de la cineasta marroquí-fran.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Tel Aviv first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-01"
+    },
     {
       "title": "Israel enmarca el atentado aéreo como un ataque «contra los acuerdos de Abraham»",
       "summary": "El Ministerio de Asuntos Exteriores de Israel ha comunicado este miércoles a sus diplomáticos que el incidente ocurrido en un vuelo de los Emiratos Árabes Unidos a Tel Aviv, que obligó a realizar un aterrizaje de emergencia, fue un ataque destinado a socavar las relaciones entre ambos aliados.El director general del mi.",
@@ -39,16 +49,18 @@
       "date": "2026-10-01"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Tel Aviv first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-01"
-    },
-    {
       "title": "Un pasajero del vuelo de Dubái a Tel Aviv: “Até las manos al terrorista con unos auriculares”",
       "summary": "Cuando el avión comenzó a descender a un ritmo infernal y sin explicación alguna, Shota Musaieb, uno de los pasajeros israelíes en el vuelo de Dubái a Tel Aviv , tuvo como primer reflejo empezar a grabar todo con el teléfono móvil. “No pensé que fuese un atentado. Empecé a grabar todo. Mi miedo era que, si todo acabase.",
       "date": "2026-09-30"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino",
+      "url": "https://theconversation.com/naza-las-revelaciones-israelies-retratan-el-aislamiento-del-pueblo-palestino-293026?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:05:57.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

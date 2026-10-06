@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T03:06:35.172Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader
+
+The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.
+
+Date: 2026-10-06
 
 ### Bones of medieval kings saved from Spanish wildfire
 
@@ -62,12 +68,7 @@ The moon passed directly in front of the sun Wednesday, briefly turning day into
 
 Date: 2026-08-12
 
-### A look at Spain's plan to give undocumented migrants legal status
-
-Spain is at the center of the global immigration debate. Left-wing Prime Minister Pedro Sanchez has enacted a plan aimed at giving legal status to undocumented immigrants. But last month, tens of thousands of migrants tried to illegally cross into the Spanish territory of Ceuta, which borders Morocco. The incident is p.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause](https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com) — 2026-10-06T12:08:04.000Z
+- [Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader](https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html?utm_source=lootura.com) — 2026-10-06T16:03:08.000Z

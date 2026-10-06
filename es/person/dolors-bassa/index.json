@@ -1,0 +1,40 @@
+{
+  "id": "es-dolors-bassa",
+  "name": "Dolors Bassa",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/dolors-bassa",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/dolors-bassa",
+  "markdownUrl": "https://atlas.lootura.com/es/person/dolors-bassa/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/dolors-bassa/index.json",
+  "description": "Sigue la actividad de Dolors Bassa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "aliases": [
+    "Dolors Bassa i Coll",
+    "Dolors Bassa Coll",
+    "Dolores Bassa",
+    "Dolores Bassa i Coll",
+    "Dolores Bassa Coll"
+  ],
+  "changes": [
+    {
+      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
+      "summary": "El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Dolors Bassa first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
+      "url": "https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T10:02:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
+}

@@ -3,7 +3,7 @@
 > Follow Warner Bros., a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/product/warner-bros
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-No public source links.
+- [Morning news brief](https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief?utm_source=lootura.com) — 2026-10-06T08:51:39.000Z

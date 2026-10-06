@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”",
+      "summary": "Con las Cortes ya disueltas, el presidente del Gobierno, Pedro Sánchez, ha empezado la precampaña electoral desde La Moncloa usando la mejor arma de cualquier Ejecutivo: el Boletín Oficial del Estado. Sánchez ha comparecido después de que el Consejo de Ministros aprobara dos nuevos decretos similares a los que tumbó el.",
+      "date": "2026-10-06"
+    },
     {
       "title": "\"Al 70% habrá elecciones anticipadas\"",
       "summary": "El entorno de Sánchez apuesta por un adelanto electoral, pero el presidente sopesa si convocar ya o intentar aprobar nuevas medidas de vivienda A esta hora, la decisión no está tomada. Tampoco el calendario. Durante el fin de semana, el presidente está escuchando a su equipo más cercano, en La Moncloa y en el partido.",
@@ -58,13 +63,15 @@
       "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
       "summary": "La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa \"está condenada\" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "¿Qué hará Sánchez sin La Mareta?",
-      "summary": "A estas alturas ya no me imagino a Sánchez y su familia mezclándose con la plebe en una playa o haciendo cola en un chiringuito. Es muy cómodo no preocuparse por las cuestiones domésticas o que te organicen las vacaciones sin pagarlas. La Moncloa cuenta con un montón de gente cuya misión es hacerle la vida muy cómoda.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/sanchez-arranca-la-campana-con-los-decretos-de-vivienda-para-frenar-desahucios-ya-el-gobierno-ni-tira-la-toalla-ni-deja-tirada-a-la-gente.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T12:14:37.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

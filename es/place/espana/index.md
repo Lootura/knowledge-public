@@ -3,76 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona
+### Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"
 
-España se enfrenta este domingo, según la Agencia Estatal de Meteorología (Aemet), al “día más adverso” de todo el episodio de lluvias torrenciales que comenzó el jueves y que durará hasta el miércoles. Como ya advertía la Aemet, la previsión está sujeta a mucha incertidumbre y en cualquier momento pueden producirse ll.
+El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha celebrado la decisión del Tribunal Constitucional (TC) de avalar la amnistía a dirigentes independentistas acusados de malversación en el 'procés' , asegurando que la sentencia, que le allana el camino para volver a pisar suelo español tras nuev.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### La Policía Local de Santander identifica a más participantes en la acampada por la vivienda entre reproches ciudadanos
+### España y Francia, los países más inseguros para los judíos, según un sondeo israelí
 
-Frente a la acusación de la alcaldesa de que están privatizando la plaza "lo que estamos haciendo es colectivizarla para tratar de sacar adelante todo lo que se está pidiendo, no solo aquí, sino en otras ciudades de España", explica Sofía Callejo, miembro de la acampada La Policía de Santander ha identificado este domi.
+La propaganda contra el Gobierno de Israel y su Ejército llevada a cabo por el Gabinete de Pedro Sánchez desde el comienzo de la guerra en Gaza, hace ahora tres años, ha surtido efecto. Al menos, en la opinión pública hebrea. Un sondeo de la Universidad Hebrea publicado por 'The Israel Times' señala que España y Franci.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Los gigantes del motor invierten 7.600 millones en electrificar España
+### Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad
 
-España quedó fuera de la primera oleada de adjudicaciones de producción de la primera generación de vehículos eléctricos, pero ahora está recuperando el camino y se está convirtiendo en un hub europeo para la producción de nuevos automóviles eléctricos , aunque también híbridos e híbridos enchufables. Seguir leyendo.
+El líder de Junts carga contra los jueces, Sánchez, Aznar, Junqueras e Illa, sin concretar cuándo volverá a España.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### El fuerte temporal en España mantiene a cuatro provincias en aviso naranja por riesgo de desbordamientos e inundaciones
+### Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención
 
-La Agencia Estatal de Meteorología (AEMET) registra este domingo avisos naranjas por alto riesgo en cuatro provincias y avisos amarillos en más de 15 a lo largo de España , debido a un fuerte temporal con fuertes lluvias, tormentas y vientos . Las alertas de gran gravedad afectan las zonas del noroeste peninsular, Cata.
+Este martes 6 de octubre, el Tribunal Constitucional ha avalado la aplicación de la Ley de Amnistía con respecto al delito de malversación de los líderes del procés . En este sentido, Pablo Llarena, el instructor del caso, ha levantado la orden nacional de detención contra Carles Puigdemont. Hasta ahora, el expresident.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Fabián Ruiz causa baja ante Croacia tras ser padre
+### Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España
 
-Fabián Ruiz no estará presente en el partido que enfrentará este martes a Croacia y España en Split. El centrocampista internacional ha sido padre junto a su esposa, Rosa, de su hijo Bertín y permanecerá durante estos días en París junto a su familia. La Real Federación Española de Fútbol ha confirmado su ausencia y ha.
+Carles Puigdemont ha celebrado "emocionado" la sentencia que hoy ha aprobado el Tribunal Constitucional presidido por Conde Pumpido, y por la que da amparo a los líderes...
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"
+### El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España
 
-Tiendas de campaña, toldos y pancartas ocupan desde ya hace varios días la Puerta del Sol y Plaza Cataluña , espacios en los que se concentran las acampadas por del derecho a la vivienda más multitudinarias de España. El Sindicato de Inquilinas cifra ya en más de mil las estructuras instaladas en la plaza madrileña, mi.
+El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Cómo hemos llegado hasta aquí: vivienda a precios récord, construcción estancada y a la cola de Europa en alquiler social
+### Claves sobre la huelga general por la vivienda: ¿qué argumentan los sindicatos? ¿qué opina CEOE? ¿cuándo fue la última?
 
-La emergencia habitacional ha desatado un terremoto social y político en los últimos días, con el desahucio de Maricarmen y el rechazo del Congreso a los decretos de vivienda como telón de fondo. Según el CIS, la ciudadanía considera que la crisis de la vivienda es el principal problema de España. La situación se ha re.
+Los principales sindicatos de clase de España, CC OO y UGT, vuelven a apoyar una huelga general 14 años después. Estas organizaciones sindicales, con un millón de afiliados cada una, confirmaron este lunes su intención de hacer un paro de 24 horas por la crisis de acceso a la vivienda, como pidieron miles de manifestan.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Juan del Val, claro sobre lo que pasará si Sánchez convoca elecciones tras la derrota de los decretos de vivienda
+### El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía
 
-¿Habrá un adelanto electoral en España? Este es un escenario que en los últimos días ha cobrado fuerza tras el rechazo de los decretos de vivienda en el Congreso . Horas antes de que comenzara la sesión, el Gobierno ya advertía de que una derrota parlamentaria podía precipitar una convocatoria anticipada.Tras el fracas.
+Carles Puigdemont ya puede volver a España sin riesgo de ser detenido. El magistrado del Tribunal Supremo Pablo Llarena ha levantado la orden de detención nacional que pesaba sobre el expresidente catalán y los exconsejeros Toni Comín y Lluís Puig desde octubre de 2017, cuando salieron de España rumbo a Bélgica horas a.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Cómo elegir el mejor aceite de oliva en el supermercado, según la OCU
+### Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”
 
-El aceite de oliva continúa siendo uno de los productos imprescindibles de la cesta de la compra en España. Se utiliza para cocinar, aliñar ensaladas, preparar salsas o freír y, pese a que su precio ha obligado a muchos hogares a mirar más que nunca la etiqueta, sigue ocupando un lugar fijo en las despensas. La varieda.
+El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este martes cuentas con “los diversos poderes públicos españoles que han impedido la aplicación de la amnistía por razones estrictamente políticas” apenas unas horas después de que el Tribunal Constitucional haya ordenado al Supremo aplicarla. Para.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Hipotecas para quien pueda comprarse una casa: las mixtas ganan peso
+### Referéndum, cárcel, huida y amnistía a Puigdemont y los exconsellers: cronología de una década de procés
 
-La movilización desatada tras el desahucio de Maricarmen, una anciana de 87 años del madrileño barrio de Retiro, ha provocado un terremoto político y social en España, cristalizado en el duro debate parlamentario en el que el Congreso de los Diputados rechazó los decretos sobre vivienda planteados por el Gobierno. El e.
+La retirada de la orden de detención del expresident, vigente desde 2017, permite su vuelta a España y cierra el capítulo judicial del proceso soberanista Puigdemont ya puede volver a España tras retirar el Supremo su orden de detención Empezó como una movilización social alentada desde el poder político, siguió con un.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
 ## Fuentes
 
-- [La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: "Ninguno de los pisos que encontraba tenía salón"](https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html?utm_source=lootura.com) — 2026-10-04T06:25:45.000Z
-- [La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona](https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html?utm_source=lootura.com) — 2026-10-04T11:29:36.000Z
-- [La Policía Local de Santander identifica a más participantes en la acampada por la vivienda entre reproches ciudadanos](https://www.eldiario.es/cantabria/policia-local-santander-identifica-participantes-acampada-vivienda-reproches-ciudadanos_1_13560792.html?utm_source=lootura.com) — 2026-10-04T14:02:00.000Z
-- [Los gigantes del motor invierten 7.600 millones en electrificar España](https://www.expansion.com/empresas/motor/2026/10/05/6abfebb7468aeb83798b4578.html?utm_source=lootura.com) — 2026-10-04T22:05:12.000Z
-- [El fuerte temporal en España mantiene a cuatro provincias en aviso naranja por riesgo de desbordamientos e inundaciones](https://okdiario.com/espana/fuerte-temporal-espana-mantiene-cuatro-provincias-aviso-naranja-riesgo-desbordamientos-inundaciones-20480529?utm_source=lootura.com) — 2026-10-04T17:50:32.000Z
-- [Fabián Ruiz causa baja ante Croacia tras ser padre](https://okdiario.com/deportes/fabian-ruiz-causa-baja-croacia-ser-padre-20480764?utm_source=lootura.com) — 2026-10-04T17:57:18.000Z
+- [Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"](https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html?utm_source=lootura.com) — 2026-10-06T16:24:00.000Z
+- [España y Francia, los países más inseguros para los judíos, según un sondeo israelí](https://www.abc.es/internacional/espana-francia-paises-inseguros-judios-segun-sondeo-20261006192029-nt.html?utm_source=lootura.com) — 2026-10-06T17:20:29.000Z
+- [Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad](https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt_amp.html?utm_source=lootura.com) — 2026-10-06T16:12:15.000Z
+- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
+- [Sergio Oslé, el ingeniero de Getxo que llegó a la cúpula de Telefónica y hoy «Imagina» un nuevo futuro para Mediapro](https://www.elcorreo.com/talento-negocios/capital-humano/sergio-osle-ingeniero-getxo-llego-cupula-telefonica-20261006000700-nt_amp.html?utm_source=lootura.com) — 2026-10-05T22:07:00.000Z
+- [Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España](https://amp.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html?utm_source=lootura.com) — 2026-10-06T16:24:18.000Z
+- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z
+- [Claves sobre la huelga general por la vivienda: ¿qué argumentan los sindicatos? ¿qué opina CEOE? ¿cuándo fue la última?](https://elpais.com/economia/vivienda/2026-10-06/claves-sobre-la-huelga-general-por-la-vivienda-que-argumentan-los-sindicatos-que-opina-ceoe-cuando-fue-la-ultima.html?utm_source=lootura.com) — 2026-10-06T08:42:45.000Z
+- [El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía](https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html?utm_source=lootura.com) — 2026-10-06T10:41:20.000Z
+- [Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”](https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html?utm_source=lootura.com) — 2026-10-06T16:25:54.000Z

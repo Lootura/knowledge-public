@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/nato/index.json",
   "description": "Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T09:11:38.041Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "NATO Alliance",
     "North Atlantic Alliance",
@@ -18,6 +18,11 @@
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences",
+      "summary": "Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.",
+      "date": "2026-10-06"
+    },
     {
       "title": "NATO jets down drone in Lithuanian airspace",
       "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv. (Image credit: AP Photo).",
@@ -62,13 +67,15 @@
       "title": "NATO spending pressure returned",
       "summary": "President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "NATO spending pressure returned",
-      "summary": "President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences",
+      "url": "https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T13:38:24.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

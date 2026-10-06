@@ -70,4 +70,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [La OPEP+ mantiene sin cambios la producción de petróleo para noviembre](https://elpais.com/economia/2026-10-04/la-opep-mantiene-sin-cambios-la-produccion-de-petroleo-para-noviembre.html?utm_source=lootura.com) — 2026-10-04T12:11:47.000Z
+No public source links.

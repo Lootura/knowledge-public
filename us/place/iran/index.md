@@ -3,10 +3,22 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base
+
+According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.
+
+Date: 2026-10-06
+
+### Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego
+
+Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”.
+
+Date: 2026-10-06
 
 ### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
 
@@ -56,21 +68,8 @@ Human rights experts commissioned by the U.N. say they have found "reasonable gr
 
 Date: 2026-09-17
 
-### Global Economy Is Running Out of Wiggle Room
-
-Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying.
-
-Date: 2026-09-17
-
-### China Stockpiled Oil, and Now It Could Dominate the Energy Landscape
-
-The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.
-
-Date: 2026-09-17
-
 ## Sources
 
-- [Prozac use for childhood depression skewed by single flawed medical trial](https://www.nature.com/articles/d41586-026-02769-x?utm_source=lootura.com) — 2026-10-04T22:43:35.617Z
-- [U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html?utm_source=lootura.com) — 2026-10-04T22:34:49.000Z
-- [Iran’s Top Security Official Warns of Dire Economic Crisis](https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html?utm_source=lootura.com) — 2026-10-04T18:47:12.000Z
-- [U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare](https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html?utm_source=lootura.com) — 2026-10-04T22:30:27.000Z
+- [U.K. arrests 7th man on suspicion of terrorism over air base incident](https://www.cbsnews.com/news/raf-fairford-uk-air-base-7th-arrest-suspicion-terrorism/?utm_source=lootura.com) — 2026-10-06T16:39:00.000Z
+- [Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base](https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com) — 2026-10-06T04:18:00.000Z
+- [Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego](https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com) — 2026-10-06T07:11:57.000Z

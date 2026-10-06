@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo
+
+El Gobierno vuelve a la carga con sus medidas de vivienda . El Consejo de Ministros ha aprobado de nuevo este martes los dos reales decretos que el Congreso tumbó el pasado viernes. Y lo ha hecho con algunos cambios. El presidente del Gobierno, Pedro Sánchez, ha defendido que ambos textos mantienen "la esencia" de los.
+
+Date: 2026-10-06
 
 ### Bruselas sigue la senda de Trump y avala los primeros centros de deportación de migrantes fuera de la UE
 
@@ -62,12 +68,6 @@ El Gobierno confía en un peso pesado político del Ministerio de Vivienda para 
 
 Date: 2026-09-01
 
-### El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos
-
-El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo](https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com) — 2026-10-06T13:08:45.000Z

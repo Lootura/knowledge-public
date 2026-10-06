@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -23,6 +23,16 @@
     "Vascongadas"
   ],
   "changes": [
+    {
+      "title": "Ejecutado el desahucio de una mujer de su vivienda de Bilbao",
+      "summary": "Una vecina del barrio bilbaíno de Atxuri ha sido desalojada este martes de su vivienda, alquilada por la Agencia pública de alquiler social en Euskadi, Alokabide . El desalojo se ha producido cerca de las 9.30 horas, mientras decenas de personas, alrededor de un centenar, se concentraban ante el inmueble. Agentes de la.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Los estudios para el hidrógeno en Aralar serán en Navarra y no entrarán en Gipuzkoa",
+      "summary": "Euskadi analiza cinco nuevas solicitudes para buscar yacimientos de este recurso, además de las dos de la empresa francesa Mantle8.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
       "summary": "El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.",
@@ -62,25 +72,21 @@
       "title": "PISA constata el hundimiento del sistema educativo vasco con el desplome de las ciencias para acelerar la euskaldunización",
       "summary": "Los resultados en competencias científicas caen 77 puntos respecto al debut del País Vasco en la evaluación internacional comparativa que ahora desdeña. En 2003, los expertos vascos ya reclamaban aumentar las horas en Ciencias y trabajar en una \"metodología adecuada\" Leer.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente",
-      "summary": "La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
-      "summary": "Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»",
-      "url": "https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:13:17.000Z",
-      "sourceId": "lootura-es-el-correo"
+      "title": "Ejecutado el desahucio de una mujer de su vivienda de Bilbao",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/desahucio-bilbao-alquiler-social-protestas-1tna-1tps_4439490/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T13:10:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Los estudios para el hidrógeno en Aralar serán en Navarra y no entrarán en Gipuzkoa",
+      "url": "https://www.diariovasco.com/economia/estudios-hidrogeno-aralar-navarra-entraran-gipuzkoa-20261006194254-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:42:54.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

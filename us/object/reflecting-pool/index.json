@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/object/reflecting-pool/index.json",
   "description": "Follow Reflecting pool, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-13T20:38:59.623Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Olympian accused of damaging Reflecting Pool seeks probe of potential misconduct",
+      "summary": "David Hearn is asking the Justice and Interior Dept. inspectors general to investigate his arrest and the dismissal of the case against him.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Reflecting Pool's botched repairs threaten to tarnish the National Park Service's reputation",
       "summary": "President Donald Trump's handling of repairs at the Lincoln Memorial Reflecting Pool has put the National Park Service in a difficult spot.",
@@ -55,13 +60,15 @@
       "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
       "summary": "Federal prosecutors moved to drop their case against David Hearn, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for others who were charged. (Image credit: Finn Gomez).",
       "date": "2026-08-03"
-    },
-    {
-      "title": "Tamara Keith and Amy Walter on Democratic primary voters not playing it safe",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Olympian accused of damaging Reflecting Pool seeks probe of potential misconduct",
+      "url": "https://www.cbsnews.com/news/olympian-david-hearn-reflecting-pool-justice-interior-dept-inspector-general/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:00:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

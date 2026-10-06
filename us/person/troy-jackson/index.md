@@ -3,10 +3,16 @@
 > Follow Troy Jackson, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-03T19:00:06.756Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/troy-jackson
 
 ## Recent changes
+
+### Troy Jackson is racing against time in his bid to unseat Susan Collins
+
+Jackson became the party's nominee in late July after the campaign of Democratic primary winner Graham Platner fell apart.
+
+Date: 2026-10-06
 
 ### CBS News poll finds voters split on state v. national focus in Maine Senate race
 
@@ -62,12 +68,6 @@ BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of b
 
 Date: 2026-07-25
 
-### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
-
-Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Troy Jackson is racing against time in his bid to unseat Susan Collins](https://www.pbs.org/newshour/politics/troy-jackson-is-racing-against-time-in-his-bid-to-unseat-susan-collins?utm_source=lootura.com) — 2026-10-06T17:50:34.000Z

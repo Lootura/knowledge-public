@@ -3,10 +3,22 @@
 > Sigue la actividad de Liga de Campeones de la UEFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/champions-league
 
 ## Cambios recientes
+
+### Igokea-Surne Bilbao, minuto a minuto
+
+Sigue la narración minuto a minuto de la jornada 1 de la Champions League 2026-2027.
+
+Date: 2026-10-06
+
+### Discovered by Atlas
+
+Liga de Campeones de la UEFA first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-08
 
 ### El Bernabéu se vuelca con Ceuta y luce un impresionante mosaico en plena crisis migratoria: "No se vende, se defiende"
 
@@ -17,12 +29,6 @@ Date: 2026-09-08
 ### Liverpool – Atlético de Madrid: cuándo se juega el partido de la Champions League, a qué hora empieza y cómo ver por TV en directo y en streaming
 
 El Atlético de Madrid debuta en esta edición de la Champions League y lo hará enfrentándose a uno de los clubes más laureados del viejo continente como es el Liverpool . Para mayor dificultad, este choque se disputará en Inglaterra , por lo que los colchoneros necesitarán sacar su mejor versión para superar al conjunto.
-
-Date: 2026-09-08
-
-### Discovered by Atlas
-
-Liga de Campeones de la UEFA first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-09-08
 
@@ -46,4 +52,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-No public source links.
+- [Igokea-Surne Bilbao, minuto a minuto](https://www.elcorreo.com/bilbaobasket/directo-igokea-bilbao-basket-jornada-1-champions-league-20261006124611-di_amp.html?utm_source=lootura.com) — 2026-10-06T17:29:08.000Z

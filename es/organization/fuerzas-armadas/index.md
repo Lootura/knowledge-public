@@ -70,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-- [El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes](https://www.elconfidencial.com/espana/2026-10-04/fuerzas-armadas-emergencias-ume-1hms-1svm_4437989/?utm_source=lootura.com) — 2026-10-04T13:38:00.000Z
+No public source links.

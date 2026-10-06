@@ -1,68 +1,42 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T23:01:28.775Z",
+  "generatedAt": "2026-10-06T19:15:21.185Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|190|1791153811359",
+    "signature": "1.18.0|191|1791309298776",
     "version": "1.18.0",
-    "build": 190,
-    "latestEntityUpdatedAt": "2026-10-04T22:43:31.359Z"
+    "build": 191,
+    "latestEntityUpdatedAt": "2026-10-06T17:54:58.776Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-united-states",
-      "name": "United States",
-      "type": "place",
-      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "url": "https://atlas.lootura.com/us/place/united-states",
-      "path": "/us/place/united-states",
-      "updatedAt": "2026-10-04T22:43:31.359Z",
-      "score": 1673,
-      "sourceCount": 1138,
+      "id": "usa-donald-trump",
+      "name": "Donald Trump",
+      "type": "person",
+      "title": "Trump Hits 4 States in 5 Days in Final Push to November Midterms",
+      "url": "https://atlas.lootura.com/us/person/donald-trump",
+      "path": "/us/person/donald-trump",
+      "updatedAt": "2026-10-06T17:54:58.776Z",
+      "score": 1655,
+      "sourceCount": 1177,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-united-states",
+        "name": "United States",
         "type": "place",
-        "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-10-04T22:43:31.359Z",
-        "score": 1658,
-        "sourceCount": 533,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-        "url": "https://atlas.lootura.com/us/person/donald-trump",
-        "path": "/us/person/donald-trump",
-        "updatedAt": "2026-10-04T22:43:31.359Z",
-        "score": 1641,
-        "sourceCount": 1161,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-russia",
-        "name": "Russia",
-        "type": "place",
-        "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-        "url": "https://atlas.lootura.com/us/place/russia",
-        "path": "/us/place/russia",
-        "updatedAt": "2026-10-04T22:43:31.359Z",
-        "score": 1629,
-        "sourceCount": 151,
+        "title": "A U.S. Marine is accused of killing a woman in Japan. Here's what to know.",
+        "url": "https://atlas.lootura.com/us/place/united-states",
+        "path": "/us/place/united-states",
+        "updatedAt": "2026-10-06T17:54:58.776Z",
+        "score": 1623,
+        "sourceCount": 1145,
         "isBreaking": false,
         "isPinned": false
       },
@@ -70,16 +44,42 @@
         "id": "usa-supreme-court",
         "name": "Supreme court",
         "type": "organization",
-        "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
+        "title": "Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric",
         "url": "https://atlas.lootura.com/us/organization/supreme-court",
         "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-10-04T22:43:31.359Z",
-        "score": 1628,
-        "sourceCount": 96,
+        "updatedAt": "2026-10-06T17:54:58.776Z",
+        "score": 1622,
+        "sourceCount": 98,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-jim-bakker",
+        "name": "Jim Bakker",
+        "type": "person",
+        "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
+        "url": "https://atlas.lootura.com/us/person/jim-bakker",
+        "path": "/us/person/jim-bakker",
+        "updatedAt": "2026-10-06T17:54:58.776Z",
+        "score": 1620,
+        "sourceCount": 4,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-china",
+        "name": "China",
+        "type": "place",
+        "title": "Coco Gauff decries \"insane\" amount of online racism after China match dispute",
+        "url": "https://atlas.lootura.com/us/place/china",
+        "path": "/us/place/china",
+        "updatedAt": "2026-10-06T17:54:58.776Z",
+        "score": 1613,
+        "sourceCount": 118,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 229
+    "publicEntityCount": 232
   }
 }

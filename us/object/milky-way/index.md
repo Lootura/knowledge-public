@@ -52,4 +52,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way](https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html?utm_source=lootura.com) — 2026-10-04T19:20:01.000Z
+No public source links.

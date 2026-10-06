@@ -3,7 +3,7 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
@@ -70,6 +70,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [Dos muertos y decenas de heridos en un tiroteo en una fiesta vecinal en el estado de Georgia](https://www.abc.es/internacional/dos-muertos-decenas-heridos-tiroteo-fiesta-vecinal-20261004195454-nt.html?utm_source=lootura.com) — 2026-10-04T17:54:55.000Z
-- [Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista](https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com) — 2026-10-04T21:47:03.000Z
-- [La jornada electoral de Brasil, en imágenes](https://elpais.com/america/2026-10-04/la-jornada-electoral-de-brasil-en-imagenes.html?utm_source=lootura.com) — 2026-10-04T17:23:13.000Z
+- [El cierre de Ormuz arrastra a la economía de Oriente Medio a una caída del 2,1% en 2026](https://theobjective.com/internacional/2026-10-06/cierre-ormuz-arrastra-economia-oriente-medio-caida-2026/?utm_source=lootura.com) — 2026-10-06T17:06:27.000Z

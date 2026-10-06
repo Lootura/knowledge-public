@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados](https://www.europapress.es/sociedad/noticia-policia-nacional-culmina-operativo-trampolin-ceuta-1100-migrantes-desalojados-20261004232450.html?utm_source=lootura.com) — 2026-10-04T21:24:50.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T19:21:03.373Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels
+
+MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.
+
+Date: 2026-10-06
 
 ### Rubio Plans to Push Colombia’s New Leader to Tackle Cocaine Trade
 
@@ -62,12 +68,6 @@ Footage shared on social media shows a baby being rescued from the bloody arms o
 
 Date: 2026-08-12
 
-### Colombia earthquake rescue volunteer reacts after pulling survivor from rubble
-
-Rescue workers are racing against the clock to free trapped survivors of the Colombia earthquake. Some success stories are emerging. CBS News' Lilia Luciano has more on the efforts.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels](https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html?utm_source=lootura.com) — 2026-10-06T15:13:41.000Z

@@ -8,11 +8,26 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-constitucional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-constitucional/index.json",
   "description": "Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "El Constitucional (Barcelona)"
   ],
   "changes": [
+    {
+      "title": "El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’",
+      "summary": "El Tribunal Constitucional ha dictado que el Supremo debe amnistiar la malversación que los políticos catalanes cometieron en el contexto del proceso independentista, según la sentencia aprobada este martes por la mayoría progresista del Pleno y de la que ha sido ponente el presidente del tribunal de garantías, Cándido.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "El voto particular de los cinco magistrados discrepantes: \"El Constitucional suplanta la labor del Tribunal Supremo en la apreciación de la amnistía\"",
+      "summary": "Los miembros del sector conservador del TC critican los términos gruesos empleados por Conde-Pumpido sobre la actuación del Supremo. Leer.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
+      "summary": "El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...",
+      "date": "2026-10-06"
+    },
     {
       "title": "El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont",
       "summary": "El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.",
@@ -44,6 +59,25 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’",
+      "url": "https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T11:57:43.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    },
+    {
+      "title": "El voto particular de los cinco magistrados discrepantes: \"El Constitucional suplanta la labor del Tribunal Supremo en la apreciación de la amnistía\"",
+      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4de4ee4d4d810628b458d.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T12:39:10.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
+      "url": "https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T10:02:16.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 3
 }

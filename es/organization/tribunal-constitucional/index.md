@@ -3,10 +3,58 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"
+
+El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha celebrado la decisión del Tribunal Constitucional (TC) de avalar la amnistía a dirigentes independentistas acusados de malversación en el 'procés' , asegurando que la sentencia, que le allana el camino para volver a pisar suelo español tras nuev.
+
+Date: 2026-10-06
+
+### Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"
+
+Los cinco magistrados que han emitido un voto particular en contra de la decisión aprobada por los otros siete integrantes del Pleno del Tribunal Constitucional de amnistiar el delito de malversación a los líderes del 'procés' , lo que abre la puerta al retorno del expresidente catalán Carles Puigdemont , denuncian que.
+
+Date: 2026-10-06
+
+### Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención
+
+Este martes 6 de octubre, el Tribunal Constitucional ha avalado la aplicación de la Ley de Amnistía con respecto al delito de malversación de los líderes del procés . En este sentido, Pablo Llarena, el instructor del caso, ha levantado la orden nacional de detención contra Carles Puigdemont. Hasta ahora, el expresident.
+
+Date: 2026-10-06
+
+### Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España
+
+Carles Puigdemont ha celebrado "emocionado" la sentencia que hoy ha aprobado el Tribunal Constitucional presidido por Conde Pumpido, y por la que da amparo a los líderes...
+
+Date: 2026-10-06
+
+### El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España
+
+El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...
+
+Date: 2026-10-06
+
+### Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?
+
+El aval del Tribunal Constitucional a amnistiar la malversación de los líderes del procés supone el principio del fin de la resistencia del Tribunal Supremo a aplicar la medida de gracia por ese delito. El instructor del caso, Pablo Llarena, ha levantado este mismo martes la orden nacional de detención que tenía vigent.
+
+Date: 2026-10-06
+
+### El bloque conservador del Constitucional acusa a la mayoría progresista de extralimitarse al avalar la amnistía a la malversación
+
+El estilo es el método y los cinco magistrados del bloque conservador del Tribunal Constitucional consideran que la sentencia que ordena al Supremo que amnistíe también el delito de malversación del procés se extralimita tanto en la forma como en el camino para resolverlo. A juicio de José María Macías, Enrique Arnaldo.
+
+Date: 2026-10-06
+
+### Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”
+
+El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este martes cuentas con “los diversos poderes públicos españoles que han impedido la aplicación de la amnistía por razones estrictamente políticas” apenas unas horas después de que el Tribunal Constitucional haya ordenado al Supremo aplicarla. Para.
+
+Date: 2026-10-06
 
 ### 'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados
 
@@ -20,48 +68,13 @@ El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal
 
 Date: 2026-09-12
 
-### El ponente del primer amparo de la amnistía en el TC propone desestimar el recurso de Turull
-
-El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal Constitucional (TC) en el Pleno del próximo 22 de septiembre propone desestimarlo al considerar que la interpretación del delito de malversación que llevó al Supremo a inaplicar la ley no fue «ilógica ni arbitraria». Así lo asegura José Marí.
-
-Date: 2026-09-12
-
-### La amnistía, Europa y Conde-Pumpido
-
-Entramos en septiembre y se supone que será en este mes cuando el Tribunal Constitucional de Conde-Pumpido decidirá acerca del recurso de Puigdemont , decisión que el presidente de la Generalitat espera como agua de mayo, consciente de que juega en campo propio. El día 16 de julio, el Tribunal de Justicia de la Unión E.
-
-Date: 2026-09-01
-
-### El Constitucional de Francia tumba la prohibición de las redes a menores de 15 años
-
-El Consejo Constitucional francés ha tumbado una de las grandes promesas del final de la presidencia de Emmanuel Macron, así como una medida precursora en la Unión Europea. El equivalente galo del Tribunal Constitucional ha censurado el principal artículo de la ley que prohíbe las redes sociales a menores de 15 años. H.
-
-Date: 2026-08-14
-
-### Condenado a prisión un exconsejero andaluz al que indultó el Tribunal Constitucional en el caso de los ERE por otro asunto de corrupción
-
-Estuvo en la cárcel por el caso de los ERE hasta que el Tribunal Constitucional anuló su condena por prevaricación y malversación y ahora podría entrar de nuevo. La Sección Séptima de la Audiencia de Sevilla ha condenado al ex consejero de Innovación de la Junta de Andalucía Francisco Vallejo a tres años y medio de pri.
-
-Date: 2026-07-20
-
-### Discovered by Atlas
-
-Tribunal Constitucional first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-16
-
-### Satisfacción en el independentismo y el Gobierno catalán por el respaldo europeo a la amnistía
-
-Junqueras reclama al Tribunal Constitucional que resuelva ya los recursos de amparo que permitirán consumar el perdón para él y Puigdemont.
-
-Date: 2026-07-16
-
-### Las diez claves de la decisión de la justicia europea sobre la amnistía
-
-Aunque la sentencia notificada este jueves por el Tribunal de Justicia de la Unión Europea (TJUE) no determina el regreso inmediato de Puigdemont, sí facilita mucho el camino del Tribunal Constitucional, que es el que tiene que decidir sobre el amparo presentado por el prófugo y los condenados por la malversación del '.
-
-Date: 2026-07-16
-
 ## Fuentes
 
-No public source links.
+- [Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"](https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html?utm_source=lootura.com) — 2026-10-06T16:24:00.000Z
+- [Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"](https://www.20minutos.es/nacional/los-cinco-magistrados-contra-amnistiar-malversacion-tc-ha-suplantado-labor-supremo_7045544_0.html?utm_source=lootura.com) — 2026-10-06T13:41:42.000Z
+- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
+- [Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España](https://amp.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html?utm_source=lootura.com) — 2026-10-06T16:24:18.000Z
+- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z
+- [Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?](https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html?utm_source=lootura.com) — 2026-10-06T12:03:35.000Z
+- [El bloque conservador del Constitucional acusa a la mayoría progresista de extralimitarse al avalar la amnistía a la malversación](https://elpais.com/espana/2026-10-06/el-bloque-conservador-del-constitucional-acusa-a-la-mayoria-progresista-de-extralimitarse-al-avalar-la-amnistia-a-la-malversacion.html?utm_source=lootura.com) — 2026-10-06T11:55:17.000Z
+- [Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”](https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html?utm_source=lootura.com) — 2026-10-06T16:25:54.000Z

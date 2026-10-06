@@ -64,4 +64,4 @@ Date: 2026-07-15
 
 ## Sources
 
-- [Trump names national intelligence chief Jay Clayton as new AI czar](https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump?utm_source=lootura.com) — 2026-10-04T18:36:48.000Z
+No public source links.

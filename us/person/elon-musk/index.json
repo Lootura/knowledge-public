@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
+      "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems. (Image credit: Carolyn Kaster).",
+      "date": "2026-10-06"
+    },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
       "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Gro.",
@@ -55,20 +60,15 @@
       "title": "Elon Musk’s super PAC dives into midterms to bolster Republicans in battleground races",
       "summary": "Elon Musk’s super PAC has funneled about $800,000 into battleground races across the country to boost Republican candidates.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
-      "summary": "Believe it or not, the Tesla Cybercab is coming . Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Pub.",
-      "date": "2026-09-02"
     }
   ],
   "sources": [
     {
-      "title": "Federal appeals court pauses Minnesota's AI nudification ban",
-      "url": "https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:14:54.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T09:00:00.000Z",
+      "sourceId": "lootura-us-npr-politics"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

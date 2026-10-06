@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/iran/index.json",
   "description": "Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -71,11 +71,11 @@
   ],
   "sources": [
     {
-      "title": "Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista",
-      "url": "https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:47:03.000Z",
-      "sourceId": "lootura-es-abc"
+      "title": "El cierre de Ormuz arrastra a la economía de Oriente Medio a una caída del 2,1% en 2026",
+      "url": "https://theobjective.com/internacional/2026-10-06/cierre-ormuz-arrastra-economia-oriente-medio-caida-2026/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:06:27.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

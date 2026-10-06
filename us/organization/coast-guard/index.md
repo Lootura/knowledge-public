@@ -40,4 +40,4 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor](https://www.pbs.org/newshour/nation/search-ongoing-for-missing-medical-flight-from-bermuda-to-boston-as-crews-plan-to-scour-ocean-floor?utm_source=lootura.com) — 2026-10-04T17:53:51.000Z
+No public source links.

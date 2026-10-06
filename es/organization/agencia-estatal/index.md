@@ -70,6 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [El temporal se ceba con el Valle del Tiétar, afectado por los incendios: los ríos se tiñen de negro por la ceniza](https://www.20minutos.es/castilla-y-leon/avila/las-fuertes-lluvias-se-ceban-con-valle-tietar-afectado-por-los-incendios-verano-los-rios-se-tinen-negro-por-ceniza_7044656_0.html?utm_source=lootura.com) — 2026-10-04T17:39:57.000Z
-- [La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea](https://www.20minutos.es/nacional/aemet-explica-que-ha-causado-los-episodios-excepcionales-lluvias-que-azotan-costa-mediterranea_7044621_0.html?utm_source=lootura.com) — 2026-10-04T14:51:15.000Z
-- [La Aemet decreta aviso rojo por lluvias torrenciales en Badajoz, que se suma al rojo de Girona](https://elpais.com/el-tiempo/2026-10-04/continua-el-azote-del-temporal-de-lluvias-torrenciales-con-una-dana-y-un-pequeno-miniciclon-en-cataluna.html?utm_source=lootura.com) — 2026-10-04T11:29:36.000Z
+No public source links.

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gobierno-de-espana/index.json",
   "description": "Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T04:16:43.439Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Ejecutivo español",
     "Gobierno español"
   ],
   "changes": [
+    {
+      "title": "El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda",
+      "summary": "“En el Gobierno de España ni tiramos la toalla, ni dejamos tirada a la gente”, ha advertido Pedro Sánchez este martes desde la Moncloa, después de que el Consejo de Ministros haya vuelto a aprobar los dos decretos ley de vivienda que el PP, Vox, UPN y Junts tumbaron en el pleno del Congreso el pasado viernes, lo que pr.",
+      "date": "2026-10-06"
+    },
     {
       "title": "La ministra y sus buitres",
       "summary": "La degradación a que ha llegado el actual Gobierno de España era inimaginable hace escasos años. Ver y oír cómo toda una señora ministra afirma sin pestañear que una pequeña empresa inmobiliaria es «una pyme buitre, muy carroñera» ( sic ) es más propio de una algarada de cercanos al coma etílico que de alguien que tien.",
@@ -58,13 +63,15 @@
       "title": "Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años",
       "summary": "El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.",
       "date": "2026-08-14"
-    },
-    {
-      "title": "¿Por qué es tan difícil expulsar a los inmigrantes que llegaron a Ceuta de forma irregular?",
-      "summary": "La mayoría llegaron a nado, aunque algunos entraron a pie. Entre 5.000 y 8.000 inmigrantes de procedencia marroquí y subsahariana permanecen desde hace dos semanas en las playas y las calles de Ceuta. Muchos son menores. El gobierno de Marruecos reclama la vuelta de sus niños. El Ejecutivo español asegura que todos ser.",
-      "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652467/gobierno-aprueba-10-000-millones-euros-financiacion-compra-primera-vivienda.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T13:06:20.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

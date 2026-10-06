@@ -3,7 +3,7 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-No public source links.
+- [El iPhone 17 vuelve a ser una opción interesante: subió de precio y ahora ha vuelto a bajar](https://hipertextual.com/apple/el-iphone-17-vuelve-a-ser-una-opcion-interesante-subio-de-precio-y-ahora-ha-vuelto-a-bajar/?utm_source=lootura.com) — 2026-10-06T13:26:16.000Z

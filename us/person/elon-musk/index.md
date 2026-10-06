@@ -3,10 +3,16 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries
+
+Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems. (Image credit: Carolyn Kaster).
+
+Date: 2026-10-06
 
 ### Elon Musk’s Grokipedia has a ‘newly refreshed’ design
 
@@ -62,12 +68,6 @@ Elon Musk’s super PAC has funneled about $800,000 into battleground races acro
 
 Date: 2026-09-03
 
-### Elon Musk’s heterodox robotaxi philosophy gets put to the test
-
-Believe it or not, the Tesla Cybercab is coming . Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Pub.
-
-Date: 2026-09-02
-
 ## Sources
 
-- [Federal appeals court pauses Minnesota's AI nudification ban](https://www.cbsnews.com/news/federal-appeals-court-pauses-minnesotas-ai-nudification-ban/?utm_source=lootura.com) — 2026-10-04T21:14:54.000Z
+- [Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries](https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z

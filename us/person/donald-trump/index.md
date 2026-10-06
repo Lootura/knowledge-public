@@ -3,79 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
+### Fort Hood shooter Nidal Hasan to be executed by firing squad, Pentagon says
 
-President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
+The Trump administration has approved a plan to execute former Army Maj. Nidal Hasan — who killed 13 people in a 2009 shooting at Fort Hood — by firing squad, the Pentagon said.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Poll: Latino voters swing away from Trump and Republicans
+### Trump Hits 4 States in 5 Days in Final Push to November Midterms
 
-Democrats have a significant lead among Latino voters in 2026 amid economic concerns, according to the NBC News/Telemundo poll.
+With four weeks to go until the crucial midterm elections, President Donald Trump is making an all-out push to rally Republicans, trying to appeal to voters on the economy. The president also made rare reversals on mail-in voting and who will pay for the controversial political ads about himself. NBC’s Gabe Gutierrez r.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Politics chat: Midterm polls, Senate races, Trump in Texas
+### Democrats' advantage is clear with less than a month to go in the midterm elections
 
-As polls come out with increasing frequency closer to the midterm election, how much credence should voters give them? Meanwhile, President Trump continues campaigning for GOP candidates.
+President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month. (Image credit: Finn Gomez).
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Democrats Lead Governor Races Deep in Republican Territory, Polls Show
+### A history of presidents naming things after themselves (It's short. They rarely do)
 
-Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.
+While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets. (Image credit: Alex Wroblewski).
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump
+### As Trump focuses the FBI on immigration, counterintelligence is falling behind
 
-Democrats have publicly weighed whether they should pursue impeaching Trump for a third time.
+The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed. (Image credit: Win McNamee).
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Trump unveils AI task force
+### Disney, ABC battle Trump's FCC in court over free speech protections
 
-The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.
+President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View , accusing it of being unfair. (Image credit: Mario Tama).
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’
+### Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric
 
-President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.
+The justice told The Associated Press in a rare interview that the rhetoric about the court from Trump and his administration doesn't sit well with him.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Trump Is Promising Health Care Checks Before the Midterms. How Far Will They Go?
+### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
 
-U.S. President Donald Trump waves after addressing attendees during a campaign rally at the Butler-Vandalia Student Activity Center on Oct. 3, 2026 in Vandalia, Ohio. —Roberto Schmidt—Getty Images President Donald Trump announced on Oct. 2 that 20.8 million eligible Medicare enrollees will receive a one-time $90 premiu.
+Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Jon Gruden fires up Trump rally crowd in Ohio as if delivering a locker room speech then delivers endorsement
+### After taxpayer-funded ads glorifying Trump sparked backlash, he says his super PAC will pay instead
 
-Super Bowl winning football coach Jon Gruden had an NFL reputation for using his fire and enthusiasm, not to mention his offensive strategies, to great success and we saw some of that at the rally President Donald Trump held Saturday night in Ohio. First of all, who knew Gruden was a conservative? He watched the presid.
+In a post on his social media site, President Donald Trump defended the ads, which cost at least $1.5 million in federal funds and have drawn intense criticism.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
-### Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’
+### Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles
 
-VANDALIA, Ohio — President Donald Trump rallied Saturday for Republicans in Ohio’s competitive races for Senate and governor, predicting that the party will defy expectations in a choppy midterm election climate.
+In Nebraska, President Trump announced an executive order to waive an off-road requirement for the fuel, which is exempt from the federal highway tax.
 
-Date: 2026-10-04
+Date: 2026-10-06
 
 ## Sources
 
-- [Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance](https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html?utm_source=lootura.com) — 2026-10-04T22:08:34.000Z
-- [Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump](https://www.nbcnews.com/politics/politics-news/rahm-emmanuel-democrats-focus-ethics-reforms-impeaching-trump-rcna601388?utm_source=lootura.com) — 2026-10-04T14:12:28.000Z
-- [Poll: Latino voters swing away from Trump and Republicans](https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894?utm_source=lootura.com) — 2026-10-04T13:00:40.000Z
-- [Politics chat: Midterm polls, Senate races, Trump in Texas](https://www.npr.org/2026/10/04/nx-s1-5985905/politics-chat-midterm-polls-senate-races-trump-in-texas?utm_source=lootura.com) — 2026-10-04T12:06:04.000Z
-- [Trump unveils AI task force](https://www.semafor.com/article/10/04/2026/trump-unveils-ai-task-force?utm_source=lootura.com) — 2026-10-04T22:33:12.000Z
-- [U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies](https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html?utm_source=lootura.com) — 2026-10-04T01:58:41.000Z
-- [Democrats Lead Governor Races Deep in Republican Territory, Polls Show](https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html?utm_source=lootura.com) — 2026-10-04T18:29:01.000Z
-- [At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html?utm_source=lootura.com) — 2026-10-04T21:53:42.000Z
-- [Trump Is Promising Health Care Checks Before the Midterms. How Far Will They Go?](https://time.com/article/2026/10/04/trump-is-promising-health-care-checks-before-the-midterms-how-far-will-they-go-/?utm_source=lootura.com) — 2026-10-04T20:38:29.000Z
+- [U.K. arrests 7th man on suspicion of terrorism over air base incident](https://www.cbsnews.com/news/raf-fairford-uk-air-base-7th-arrest-suspicion-terrorism/?utm_source=lootura.com) — 2026-10-06T16:39:00.000Z
+- [Fort Hood shooter Nidal Hasan to be executed by firing squad, Pentagon says](https://www.cbsnews.com/news/nidal-hasan-firing-squad-trump/?utm_source=lootura.com) — 2026-10-06T15:37:00.000Z
+- [Trump Hits 4 States in 5 Days in Final Push to November Midterms](https://www.today.com/video/trump-calls-iran-war-a-small-price-to-pay-drawing-backlash-271104069846?utm_source=lootura.com) — 2026-10-06T11:14:50.000Z
+- [Democrats' advantage is clear with less than a month to go in the midterm elections](https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
+- [A history of presidents naming things after themselves (It's short. They rarely do)](https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com) — 2026-10-06T11:00:00.000Z
+- [As Trump focuses the FBI on immigration, counterintelligence is falling behind](https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
+- [Disney, ABC battle Trump's FCC in court over free speech protections](https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc?utm_source=lootura.com) — 2026-10-06T09:17:00.000Z
+- [Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric](https://www.pbs.org/newshour/politics/alito-says-supreme-court-cant-stem-rise-of-emergency-appeals-not-pleased-with-trumps-rhetoric?utm_source=lootura.com) — 2026-10-06T14:25:51.000Z
+- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z
+- [After taxpayer-funded ads glorifying Trump sparked backlash, he says his super PAC will pay instead](https://www.pbs.org/newshour/politics/after-taxpayer-funded-ads-glorifying-trump-sparked-backlash-he-says-his-super-pac-will-pay-instead?utm_source=lootura.com) — 2026-10-06T17:20:06.000Z

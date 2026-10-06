@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T04:16:43.439Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía
+
+Carles Puigdemont ya puede volver a España sin riesgo de ser detenido. El magistrado del Tribunal Supremo Pablo Llarena ha levantado la orden de detención nacional que pesaba sobre el expresidente catalán y los exconsejeros Toni Comín y Lluís Puig desde octubre de 2017, cuando salieron de España rumbo a Bélgica horas a.
+
+Date: 2026-10-06
 
 ### Se buscan voluntarios para vivir gratis en Bélgica con 3 comidas al día e Internet rápido a cambio de llevar su web y sus redes 16 horas semanales
 
@@ -62,12 +68,6 @@ Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras prepar
 
 Date: 2026-07-18
 
-### De la Fuente vuelve a apostar por Fabián en la semifinal ante Francia
-
-Luis de la Fuente ha apostado por repetir el mismo once que batió a Bélgica en cuartos de final para medirse a la todopoderosa Francia en la semifinal de Dallas. Eso significa que en el centro del campo volverá a iniciar Fabián y Pedri estará en el banquillo. Seguir leyendo...
-
-Date: 2026-07-14
-
 ## Fuentes
 
-No public source links.
+- [El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía](https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html?utm_source=lootura.com) — 2026-10-06T10:41:20.000Z

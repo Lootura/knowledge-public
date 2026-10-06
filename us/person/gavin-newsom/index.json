@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/gavin-newsom/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/gavin-newsom/index.json",
   "description": "Follow Gavin Newsom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-15T03:21:50.927Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Gavin",
     "Gavin C. Newsom",
@@ -16,6 +16,11 @@
     "Newsom"
   ],
   "changes": [
+    {
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "summary": "Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Gavin Newsom says he will not run for president in 2028 if Kamala Harris does",
       "summary": "In interview, term-limited California governor said running against former VP would ‘waste everybody’s time’ Gavin Newsom, the California governor, will not run for president if former vice-president Kamala Harris does, he said in a forthcoming interview with CNN . Newsom and Harris, both from California, are widely vi.",
@@ -37,6 +42,19 @@
       "date": "2026-09-07"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump suggests letting Iran \"take out\" LA, San Diego during rally",
+      "url": "https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:55:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "url": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T07:11:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 2
 }

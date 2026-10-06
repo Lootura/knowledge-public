@@ -46,4 +46,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Zach Bryan wears "Free Palestine" shirt during concert at Gillette Stadium](https://www.cbsnews.com/news/zach-bryan-free-palestine-shirt-gillette-stadium-robert-kraft/?utm_source=lootura.com) — 2026-10-04T19:11:57.000Z
+No public source links.

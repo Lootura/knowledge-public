@@ -28,5 +28,4 @@ Date: 2026-10-04
 
 ## Sources
 
-- [Rahm Emanuel says America is ready for a Jewish president: 'my faith is not your problem'](https://www.nbcnews.com/meet-the-press/video/rahm-emanuel-says-america-is-ready-for-a-jewish-president-my-faith-is-not-your-problem-270986309613?utm_source=lootura.com) — 2026-10-04T13:38:42.000Z
-- [Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump](https://www.nbcnews.com/politics/politics-news/rahm-emmanuel-democrats-focus-ethics-reforms-impeaching-trump-rcna601388?utm_source=lootura.com) — 2026-10-04T14:12:28.000Z
+No public source links.

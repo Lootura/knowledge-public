@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/graham-platner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/graham-platner/index.json",
   "description": "Follow Graham Platner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Graham Cunningham Platner",
     "Platner"
   ],
   "changes": [
+    {
+      "title": "Troy Jackson is racing against time in his bid to unseat Susan Collins",
+      "summary": "Jackson became the party's nominee in late July after the campaign of Democratic primary winner Graham Platner fell apart.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Platner announced as speaker for activist-led event in Maine",
       "summary": "Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.",
@@ -58,13 +63,15 @@
       "title": "Maine Democrats meet to select Senate nominee to replace Graham Platner",
       "summary": "Maine Democrats are gathering Saturday to select a Senate nominee to replace Graham Platner on the ballot, with former state Senate President Troy Jackson poised to secure the nomination.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-      "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.",
-      "date": "2026-07-20"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Troy Jackson is racing against time in his bid to unseat Susan Collins",
+      "url": "https://www.pbs.org/newshour/politics/troy-jackson-is-racing-against-time-in-his-bid-to-unseat-susan-collins?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:50:34.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

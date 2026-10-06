@@ -3,10 +3,16 @@
 > Follow Tel Aviv, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/tel-aviv
 
 ## Recent changes
+
+### Flydubai pilot planned a 9/11-style attack on Tel Aviv airport, source says
+
+The pilot who tried to bring down an Israel-bound flight had been planning a 9/11-style attack, a Middle Eastern official has told NBC News.
+
+Date: 2026-10-06
 
 ### Hero passenger on Fly Dubai flight: "I decided that we are going to survive"
 
@@ -52,4 +58,4 @@ Date: 2026-09-30
 
 ## Sources
 
-- [Hero passenger on Fly Dubai flight: "I decided that we are going to survive"](https://www.cbsnews.com/video/hero-passengers-on-fly-dubai-flight-speak/?utm_source=lootura.com) — 2026-10-04T13:26:06.000Z
+- [Flydubai pilot planned a 9/11-style attack on Tel Aviv airport, source says](https://www.nbcnews.com/world/middle-east/flydubai-pilot-planned-crash-israel-airport-tel-aviv-oman-investigatio-rcna601806?utm_source=lootura.com) — 2026-10-06T12:16:55.000Z

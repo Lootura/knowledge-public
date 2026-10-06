@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.json",
   "description": "Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "CU",
     "CUI",
@@ -17,6 +17,11 @@
     "Cornell"
   ],
   "changes": [
+    {
+      "title": "Cornell rape case provokes questions about ketamine use on campus",
+      "summary": "The prescription drug ketamine was referenced in the ongoing Cornell University rape case. CBS News' Anna Schecter has more.",
+      "date": "2026-10-06"
+    },
     {
       "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
       "summary": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
@@ -50,23 +55,11 @@
   ],
   "sources": [
     {
-      "title": "Here’s the biggest news you missed this weekend",
-      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-4-rcna601274?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:00:42.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "How the Cornell case is affecting women who have experienced sexual assault",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T14:51:27.000Z",
-      "sourceId": "lootura-us-npr"
-    },
-    {
-      "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
-      "url": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T02:43:03.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Cornell rape case provokes questions about ketamine use on campus",
+      "url": "https://www.cbsnews.com/video/cornell-rape-case-provokes-questions-about-ketamine-use-on-campus/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:48:46.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### Ejecutado el desahucio de una mujer de su vivienda de Bilbao
+
+Una vecina del barrio bilbaíno de Atxuri ha sido desalojada este martes de su vivienda, alquilada por la Agencia pública de alquiler social en Euskadi, Alokabide . El desalojo se ha producido cerca de las 9.30 horas, mientras decenas de personas, alrededor de un centenar, se concentraban ante el inmueble. Agentes de la.
+
+Date: 2026-10-06
+
+### Los estudios para el hidrógeno en Aralar serán en Navarra y no entrarán en Gipuzkoa
+
+Euskadi analiza cinco nuevas solicitudes para buscar yacimientos de este recurso, además de las dos de la empresa francesa Mantle8.
+
+Date: 2026-10-06
 
 ### Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»
 
@@ -56,18 +68,7 @@ Los resultados en competencias científicas caen 77 puntos respecto al debut del
 
 Date: 2026-09-08
 
-### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
-
-La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...
-
-Date: 2026-09-08
-
-### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
-
-Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»](https://www.elcorreo.com/culturas/arte/norman-foster-privilegio-haber-contribuido-bilbao-metro-20261004151245-nt_amp.html?utm_source=lootura.com) — 2026-10-04T13:13:17.000Z
+- [Ejecutado el desahucio de una mujer de su vivienda de Bilbao](https://www.elconfidencial.com/espana/2026-10-06/desahucio-bilbao-alquiler-social-protestas-1tna-1tps_4439490/?utm_source=lootura.com) — 2026-10-06T13:10:00.000Z
+- [Los estudios para el hidrógeno en Aralar serán en Navarra y no entrarán en Gipuzkoa](https://www.diariovasco.com/economia/estudios-hidrogeno-aralar-navarra-entraran-gipuzkoa-20261006194254-nt_amp.html?utm_source=lootura.com) — 2026-10-06T17:42:54.000Z

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-01T04:06:59.232Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
+    {
+      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
+      "summary": "The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada",
       "summary": "The Russian invasion of Ukraine continues into 2026, with millions of Ukrainians displaced around the world. Many arrived in host countries with professional experience, degrees and specialized skills. Yet displacement often leaves highly educated refugees unable to continue their previous careers.",
@@ -59,13 +64,15 @@
       "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
       "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).",
       "date": "2026-09-16"
-    },
-    {
-      "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
-      "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
-      "date": "2026-09-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
+      "url": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:46:42.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -1,0 +1,58 @@
+{
+  "id": "es-pablo-llarena",
+  "name": "Pablo Llarena",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/pablo-llarena",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/pablo-llarena",
+  "markdownUrl": "https://atlas.lootura.com/es/person/pablo-llarena/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/pablo-llarena/index.json",
+  "description": "Sigue la actividad de Pablo Llarena en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "aliases": [
+    "Pablo Llarena Conde"
+  ],
+  "changes": [
+    {
+      "title": "Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención",
+      "summary": "Este martes 6 de octubre, el Tribunal Constitucional ha avalado la aplicación de la Ley de Amnistía con respecto al delito de malversación de los líderes del procés . En este sentido, Pablo Llarena, el instructor del caso, ha levantado la orden nacional de detención contra Carles Puigdemont. Hasta ahora, el expresident.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
+      "summary": "El aval del Tribunal Constitucional a amnistiar la malversación de los líderes del procés supone el principio del fin de la resistencia del Tribunal Supremo a aplicar la medida de gracia por ese delito. El instructor del caso, Pablo Llarena, ha levantado este mismo martes la orden nacional de detención que tenía vigent.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
+      "summary": "Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Pablo Llarena first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención",
+      "url": "https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T14:38:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?",
+      "url": "https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T12:03:35.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
+      "url": "https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T11:33:01.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 3
+}

@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/wall-street/index.json",
   "description": "Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-01T04:06:40.370Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Wall St"
   ],
   "changes": [
+    {
+      "title": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
+      "summary": "En apariencia, nada ha cambiado. La incertidumbre geopolítica sigue marcando el paso, Oriente Próximo continúa siendo un polvorín, las tensiones inflacionistas se resisten a desaparecer y las rentabilidades de la deuda se mantienen en máximos de dos décadas . Tras semanas de castigo a los bonos y a la renta variable, l.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Dow Jones baja un 0,8%: la mayoría de las acciones caen en una semana en rojo para Wall Street",
       "summary": "Wall Street cierra hoy 30 de septiembre de 2026 mixto con el Dow Jones perdiendo un 0,8% hasta los 50.906 puntos. También cede el S&P 500, que cae un 0,2%, cerrando así su tercer mes consecutivo de pérdidas en los últimos cuatro. El único que acaba en verde la sesión de este miércoles es el Nasdaq , que gana un 0,24%,.",
@@ -57,13 +62,15 @@
       "title": "La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas",
       "summary": "La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de las grandes cotizadas galas —el Cac 40— se ha estancado en el último semestre, mientras que el Ibex 35 ha avanzado un 11% y Wall Street ha subido un 12%, en el mismo periodo. Los inversores recelan de la complicada situación política y del ele.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
-      "summary": "Mahou, Heineken y Damm aceleran su diversificación debido a la caída del consumo. Hijos de Rivera es la excepción, al crecer en ventas y elevar sus ganancias.",
-      "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:10:52.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

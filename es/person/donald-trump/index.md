@@ -3,10 +3,16 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Trump multiplica sus viajes a estados en liza ante las malas proyecciones de las encuestas
+
+Con el índice de popularidad del presidente en mínimos, los Demócratas tienen opciones serias de recuperar el Senado en noviembre, algo que parecía casi imposible Leer.
+
+Date: 2026-10-06
 
 ### EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe
 
@@ -62,13 +68,6 @@ El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin
 
 Date: 2026-09-17
 
-### La lucha de Warsh contra la inflación calma el mercado: las Bolsas y los bonos recuperan el ánimo
-
-Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Federal (Fed) de Estados Unidos de subir los tipos de interés —por primera vez en tres años— para combatir la inflación, algo que tranquiliza a los operadores a pesar de suponer un desafío para el presidente Donald Trump. Además, un informe de.
-
-Date: 2026-09-17
-
 ## Fuentes
 
-- [EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe](https://www.elmundo.es/internacional/2026/10/04/6ac0d7c7e85ece543c8b4587.html?utm_source=lootura.com) — 2026-10-04T17:19:20.000Z
-- [La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones](https://www.expansion.com/empresas/2026/10/05/6ac16681e5fdeac6558b4588.html?utm_source=lootura.com) — 2026-10-04T22:05:17.000Z
+- [Trump multiplica sus viajes a estados en liza ante las malas proyecciones de las encuestas](https://www.elmundo.es/internacional/2026/10/06/6ac3dae0fc6c83d5108b45a9.html?utm_source=lootura.com) — 2026-10-06T05:19:28.000Z

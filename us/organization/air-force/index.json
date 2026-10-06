@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/air-force/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/air-force/index.json",
   "description": "Follow Air force, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "air army"
   ],
   "changes": [
+    {
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+      "summary": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Air force first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-04"
+    },
     {
       "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot",
       "summary": "The bombers at RAF Fairford “have been re-deployed to their home stations in the United States,” a Pentagon official told NBC News.",
@@ -22,26 +32,15 @@
       "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
       "summary": "Aircraft seen leaving Gloucestershire base following arrest of dual British-Iranian national in central London The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror attack at the base. The bombers were redeployed back to their home bases in the US, according.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Air Force first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-04"
     }
   ],
   "sources": [
     {
-      "title": "U.S. Air Force removes all bombers from British air base targeted in a suspected terrorist plot",
-      "url": "https://www.nbcnews.com/news/us-news/air-force-removes-bombers-british-base-targeted-suspected-terror-plot-rcna601484?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T22:14:47.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T21:25:03.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T04:18:00.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

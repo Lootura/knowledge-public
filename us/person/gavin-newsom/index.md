@@ -3,10 +3,16 @@
 > Follow Gavin Newsom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/gavin-newsom
 
 ## Recent changes
+
+### Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego
+
+Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”.
+
+Date: 2026-10-06
 
 ### Gavin Newsom says he will not run for president in 2028 if Kamala Harris does
 
@@ -34,4 +40,5 @@ Date: 2026-09-07
 
 ## Sources
 
-No public source links.
+- [Trump suggests letting Iran "take out" LA, San Diego during rally](https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/?utm_source=lootura.com) — 2026-10-06T15:55:00.000Z
+- [Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego](https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com) — 2026-10-06T07:11:57.000Z

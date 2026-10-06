@@ -3,10 +3,64 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"
+
+El expresidente de la Generalitat y líder de Junts, Carles Puigdemont , ha celebrado la decisión del Tribunal Constitucional (TC) de avalar la amnistía a dirigentes independentistas acusados de malversación en el 'procés' , asegurando que la sentencia, que le allana el camino para volver a pisar suelo español tras nuev.
+
+Date: 2026-10-06
+
+### Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"
+
+Los cinco magistrados que han emitido un voto particular en contra de la decisión aprobada por los otros siete integrantes del Pleno del Tribunal Constitucional de amnistiar el delito de malversación a los líderes del 'procés' , lo que abre la puerta al retorno del expresidente catalán Carles Puigdemont , denuncian que.
+
+Date: 2026-10-06
+
+### Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención
+
+Este martes 6 de octubre, el Tribunal Constitucional ha avalado la aplicación de la Ley de Amnistía con respecto al delito de malversación de los líderes del procés . En este sentido, Pablo Llarena, el instructor del caso, ha levantado la orden nacional de detención contra Carles Puigdemont. Hasta ahora, el expresident.
+
+Date: 2026-10-06
+
+### Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España
+
+Carles Puigdemont ha celebrado "emocionado" la sentencia que hoy ha aprobado el Tribunal Constitucional presidido por Conde Pumpido, y por la que da amparo a los líderes...
+
+Date: 2026-10-06
+
+### El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía
+
+Carles Puigdemont ya puede volver a España sin riesgo de ser detenido. El magistrado del Tribunal Supremo Pablo Llarena ha levantado la orden de detención nacional que pesaba sobre el expresidente catalán y los exconsejeros Toni Comín y Lluís Puig desde octubre de 2017, cuando salieron de España rumbo a Bélgica horas a.
+
+Date: 2026-10-06
+
+### Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”
+
+El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este martes cuentas con “los diversos poderes públicos españoles que han impedido la aplicación de la amnistía por razones estrictamente políticas” apenas unas horas después de que el Tribunal Constitucional haya ordenado al Supremo aplicarla. Para.
+
+Date: 2026-10-06
+
+### Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes
+
+Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.
+
+Date: 2026-10-06
+
+### La declaración de Carles Puigdemont y la decisión del TC sobre la amnistía y su regreso a España, última hora en directo
+
+El expresidente de la Generalitat, Carles Puigdemont, denuncia “la manipulación impropia de los poderes judiciales”.
+
+Date: 2026-10-06
+
+### Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha
+
+Que en Junts eran conscientes de que el regreso de Carles Puigdemont podía ser inminente se hizo patente hace unos días, cuando el presidente de JxCat concedió una entrevista para hablar por primera vez de manera abierta de sus planes cuando vuelva a Catalunya. Seguir leyendo...
+
+Date: 2026-10-06
 
 ### El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont
 
@@ -14,60 +68,14 @@ El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo
 
 Date: 2026-10-04
 
-### Puigdemont entra en la crisis ceutí: hay que descolonizar Ceuta y Melilla y las compara con Gaza
-
-Después de un mes de crisis de Ceuta, Junts ha optado por entrar en el debate sobre la integridad territorial de España . Lo ha hecho el presidente del partido, Carles Puigdemont, en persona, aunque de manera indirecta, recomendando un artículo del medio Middle East Eyes en el que se compara a Ceuta y Melilla con Gaza.
-
-Date: 2026-09-02
-
-### Mi héroe ya no es Puigdemont, sino Trump
-
-Hasta ahora, mi héroe de la política era Carles Puigdemont , el expresidente de la Generalitat de Cataluña . Tras asestar el golpe de Estado más bien ridículo de 2017, reclamó públicamente a sus secuaces que al día siguiente fueran todos a trabajar en sus respectivos despachos, como si nada. Y algunos cándidos así lo h.
-
-Date: 2026-08-14
-
-### Crisis abiertas y principales retos: lo que le espera al Govern de Illa en los dos años que quedan de legislatura
-
-Este pasado sábado se cumplieron dos años desde que Salvador Illa fue investido presidente de la Generalitat . El 8 de agosto de 2024, el líder del PSC llegaba al Palau después de una investidura marcada por el acuerdo con ERC y los Comuns y por el regreso fugaz de Carles Puigdemont a Cataluña. Dos años después, el esc.
-
-Date: 2026-08-10
-
-### El sector crítico de Junts queda desarbolado tras la marcha de Giró
-
-La oposición a Carles Puigdemont en el seno de Junts siempre ha intentado mostrar más fuerza que la que tenía en la realidad. Pero la marcha de Jaume Giró ha puesto en evidencia la situación: los sectores contrarios a Puigdemont pueden vender soluciones teóricas, pero en la práctica están desarbolados, desarticulados y.
-
-Date: 2026-08-05
-
-### Jaume Giró rompe el carnet de Junts a causa de sus diferencias con Puigdemont
-
-Quien fuera el gran fichaje económico del independentismo, el exdirector general de la Fundación Bancaria La Caixa, Jaume Giró , se ha dado de baja de Junts a causa de su largo enfrentamiento con Carles Puigdemont y a sus diferencias estratégicas de la senda que ha de seguir el partido. Puigdemont y la actual dirección.
-
-Date: 2026-08-04
-
-### Salvador Illa pide al Tribunal de Cuentas, por escrito, que aplique ya la amnistía en los gastos del 1-O y la acción exterior del 'procés'
-
-Entre la treintena de altos cargos encausados están Carles Puigdemont, Artur Mas, Oriol Junqueras y Jordi Turull Leer.
-
-Date: 2026-07-24
-
-### Bruselas rechaza mediar en la ley de amnistía: «Corresponde a los tribunales españoles»
-
-La Comisión Europea confirmó este miércoles que ha recibido el escrito de la defensa del expresidente catalán Carles Puigdemont que acusa a España de «incumplimiento» del derecho europeo y, aunque descartó comentarlo, incidió en que los tribunales que remitieron preguntas prejudiciales son los que deben aplicar la sent.
-
-Date: 2026-07-22
-
-### La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE
-
-La Comisión Europea dice haber recibido la denuncia contra España interpuesta por el expresident de la Generalitat, Carles Puigdemont, como respuesta a la maniobra del Tribunal de Cuentas para no aplicar directamente la ley de Amnistía, pero de momento no ha dado pistas de lo que hará y se limita a recordar que “corres.
-
-Date: 2026-07-22
-
-### ¿Cómo funciona la denuncia que ha presentado Puigdemont contra España?
-
-La defensa del expresident Carles Puigdemont presentó el lunes dos denuncias contra España ante instancias europeas como respuesta a la negativa del Tribunal de Cuentas a aplicar la ley de Amnistía a la treintena de ex altos cargos de la administración catalana a los que se reclaman los gastos del procés . El órgano fi.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"](https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html?utm_source=lootura.com) — 2026-10-06T16:24:00.000Z
+- [Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"](https://www.20minutos.es/nacional/los-cinco-magistrados-contra-amnistiar-malversacion-tc-ha-suplantado-labor-supremo_7045544_0.html?utm_source=lootura.com) — 2026-10-06T13:41:42.000Z
+- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
+- [Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España](https://amp.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html?utm_source=lootura.com) — 2026-10-06T16:24:18.000Z
+- [El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía](https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html?utm_source=lootura.com) — 2026-10-06T10:41:20.000Z
+- [Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”](https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html?utm_source=lootura.com) — 2026-10-06T16:25:54.000Z
+- [Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes](https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com) — 2026-10-06T11:33:01.000Z
+- [La declaración de Carles Puigdemont y la decisión del TC sobre la amnistía y su regreso a España, última hora en directo](https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html?utm_source=lootura.com) — 2026-10-06T16:17:30.000Z
+- [Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha](https://www.lavanguardia.com/politica/20261006/11652419/junts-deja-manos-puigdemont-detalles-sobre-regreso-catalunya-todavia-fecha.html?utm_source=lootura.com) — 2026-10-06T12:09:16.000Z

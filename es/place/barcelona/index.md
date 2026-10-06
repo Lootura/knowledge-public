@@ -70,7 +70,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [Dos muertos y un desaparecido por el fuerte temporal en Cataluña](https://www.abc.es/espana/cataluna/muerto-tordera-tras-caida-muro-temporal-azota-20261004094427-nt.html?utm_source=lootura.com) — 2026-10-04T19:19:30.000Z
-- [El Barcelona atormenta de nuevo al Real Madrid con una goleada histórica en el Camp Nou](https://www.abc.es/deportes/futbol/barcelona-atormenta-nuevo-real-madrid-goleada-historica-20261004210518-nt.html?utm_source=lootura.com) — 2026-10-04T19:12:23.000Z
-- [Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales](https://elpais.com/espana/catalunya/2026-10-04/la-alerta-por-el-temporal-sigue-y-los-rios-van-al-limite-no-bajar-la-guardia.html?utm_source=lootura.com) — 2026-10-04T12:16:41.000Z
-- [La acampada por la vivienda de Barcelona resiste al temporal: "No nos ganará la crisis climática"](https://www.eldiario.es/catalunya/acampada-vivienda-barcelona-resiste-temporal-no-ganara-crisis-climatica_1_13560804.html?utm_source=lootura.com) — 2026-10-04T11:46:03.000Z
+No public source links.

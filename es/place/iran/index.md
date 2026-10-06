@@ -3,7 +3,7 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-- [Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista](https://www.abc.es/internacional/estados-unidos-retira-bombarderos-base-aerea-britanica-20261004233354-nt.html?utm_source=lootura.com) — 2026-10-04T21:47:03.000Z
+- [El cierre de Ormuz arrastra a la economía de Oriente Medio a una caída del 2,1% en 2026](https://theobjective.com/internacional/2026-10-06/cierre-ormuz-arrastra-economia-oriente-medio-caida-2026/?utm_source=lootura.com) — 2026-10-06T17:06:27.000Z

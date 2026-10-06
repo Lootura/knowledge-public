@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "Apple (company)",
     "Apple"
   ],
   "changes": [
+    {
+      "title": "Apple TV’s great year continues with Small Prophets",
+      "summary": "Apple TV has had a really great run in 2026 - and a cozy new addition is helping expand its lineup even more. As the streaming service has attempted to grow in order to better compete with the likes of Disney and Netflix , it has steadily broadened the range of its series. This year has included everything from a pair.",
+      "date": "2026-10-06"
+    },
     {
       "title": "The AirPods Pro 3 are a fantastic deal at $179",
       "summary": "AirPods Pro 3 | Photo by Amelia Holowaty Krales / The Verge It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs , a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear.",
@@ -32,9 +37,9 @@
   ],
   "sources": [
     {
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "title": "Apple TV’s great year continues with Small Prophets",
+      "url": "https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T17:15:16.000Z",
       "sourceId": "lootura-us-the-verge"
     }
   ],

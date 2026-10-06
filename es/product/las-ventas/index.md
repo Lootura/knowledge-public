@@ -40,4 +40,4 @@ Date: 2026-08-06
 
 ## Fuentes
 
-- [Sin ideas Borja (desde el inicio de faena al revés) con el sexto](https://www.abc.es/cultura/toros/toros-ventas-madrid-feria-otono-directo-ultima-20261004104204-di.html?utm_source=lootura.com) — 2026-10-04T17:59:30.000Z
+No public source links.

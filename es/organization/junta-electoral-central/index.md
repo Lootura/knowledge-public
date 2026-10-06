@@ -3,10 +3,16 @@
 > Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-15T09:11:13.063Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/junta-electoral-central
 
 ## Cambios recientes
+
+### El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros
+
+Arranca la precampaña electoral y el Partido Popular denuncia a Pedro Sánchez ante la Junta Electoral Central por la rueda de prensa que ha dado este martes tras el Consejo de Ministros. Los populares consideran que el presidente del Gobierno ha vulnerado la Ley Electoral al utilizar la Moncloa "para dar un mitin del P.
+
+Date: 2026-10-06
 
 ### Sánchez cambió la cúpula del censo electoral entre el fin del recuento casa por casa y el salto olímpico del CERA
 
@@ -62,12 +68,6 @@ La presidenta de Madrid, Isabel Díaz Ayuso, ha marcado el camino este viernes a
 
 Date: 2026-09-11
 
-### Ayuso alegará ante la Junta Electoral para evitar que el Gobierno "manipule" el censo de Madrid con la ley de Nietos
-
-Isabel Díaz Ayuso ha puesto en marcha toda la maquinaria a su alcance para boicotear los planes de Pedro Sánchez con la conocida como ley de Nietos. La presidenta de la Comunidad de Madrid anunció este vienes, durante la segunda sesión del Debate del Estado de la Región, que presentará alegaciones ante la Junta Elector.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros](https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com) — 2026-10-06T16:48:31.000Z

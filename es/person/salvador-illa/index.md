@@ -3,10 +3,16 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T04:16:43.439Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes
+
+Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.
+
+Date: 2026-10-06
 
 ### "Quedaos en casa": Cataluña confina 20 comarcas ante la amenaza de un "mini huracán"
 
@@ -62,12 +68,6 @@ El presidente de la Generalitat de Cataluña, Salvador Illa , ha asegurado este 
 
 Date: 2026-09-04
 
-### Illa inicia su viaje a Ucrania con una parada en Polonia: "Es fundamental para Europa"
-
-El presidente de la Generalitat, Salvador Illa, llegó este miércoles por la tarde-noche a Polonia, primera etapa de un viaje institucional que le llevará este jueves hasta Kiev, en plena guerra de Ucrania. Desde territorio polaco, el dirigente socialista ha advertido de que «los valores de Europa están en juego en Ucra.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes](https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com) — 2026-10-06T11:33:01.000Z

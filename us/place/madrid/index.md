@@ -3,7 +3,7 @@
 > Follow Madrid, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/madrid
 
 ## Recent changes
@@ -40,4 +40,4 @@ Date: 2026-07-24
 
 ## Sources
 
-No public source links.
+- [As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause](https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com) — 2026-10-06T12:08:04.000Z

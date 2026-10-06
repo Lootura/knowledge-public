@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles](https://theobjective.com/internacional/2026-10-04/zelenski-ataques-rusos-ultima-semana-3-600-drones-misiles/?utm_source=lootura.com) — 2026-10-04T15:43:50.000Z
+No public source links.

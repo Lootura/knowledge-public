@@ -68,19 +68,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Portugal sabe vivir sin Cristiano",
-      "url": "https://www.abc.es/deportes/futbol/portugal-sabe-vivir-cristiano-20261004225650-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T20:59:13.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "Fragmento del día: Portugal",
-      "url": "https://es.wikipedia.org/wiki/Portugal?utm_source=lootura.com",
-      "publishedAt": "2026-10-05T04:00:00.000Z",
-      "sourceId": "lootura-es-lootura-diario"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

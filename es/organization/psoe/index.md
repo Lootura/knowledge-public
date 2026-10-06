@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
+
+### El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos
+
+El juez de la Audiencia Nacional Santiago Pedraz ha pedido a la Fiscalía Anticorrupción un informe para que se pronuncie sobre la procedencia de investigar al PSOE como persona jurídica después de que lo haya solicitado el PP, que aglutina a las acusaciones populares tanto en el caso de Leire Díez o de las denominadas.
+
+Date: 2026-10-06
+
+### El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025
+
+El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE una relación con los nombres de los abogados y consultores que contrató el partido entre los años 2021 y 2025. El magistrado adopta esta decisión en una providencia en la que, según dice, parte de la declaración que prestó como imputada la gerente de la.
+
+Date: 2026-10-06
+
+### Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP
+
+El juez exige al partido todas sus contrataciones de abogados y consultoras entre 2021 y 2025 y la documentación utilizada para justificar los servicios.
+
+Date: 2026-10-06
+
+### El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal
+
+Los 'populares' han registrado un escrito en el que reclaman que también se investigue a su principal rival por "cohecho, malversación, tráfico de influencias y blanqueo de capitales Leer.
+
+Date: 2026-10-06
+
+### Montero: “La huelga general se convoca contra la oposición por derribar los decretos de vivienda”
+
+No abrigan dudas en el PSOE de que la huelga general convocada por el Sindicato de Inquilinas , a la que se han sumado Comisiones Obreras y UGT, no es contra el Gobierno, sino “contra la oposición por derribar los decretos ley de vivienda”. Así lo cree la vicesecretaria general de PSOE y coordinadora estratégica de la.
+
+Date: 2026-10-06
 
 ### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
 
@@ -38,40 +68,10 @@ Sánchez acudirá este lunes por la mañana a un acto económico y a la Ejecutiv
 
 Date: 2026-10-04
 
-### La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”
-
-La gran mayoría de los dirigentes del PSOE y de los miembros socialistas del Gobierno ha llegado a la conclusión de que la mejor opción es adelantar ya las elecciones para el 29 de noviembre , la primera fecha posible. Por eso casi todos los que están hablando con el presidente, Pedro Sánchez, le están animando a hacer.
-
-Date: 2026-10-04
-
-### El posible adelanto electoral fuerza a la izquierda alternativa a acelerar
-
-Buena parte del espacio a la izquierda del PSOE se echó a temblar el jueves por la noche, cuando Junts anunció que tumbaría los dos decretos de vivienda en el Congreso y por los grupos de Telegram de los partidos comenzó a correr el rumor de que Pedro Sánchez sopesaba un adelanto electoral . Los matices en las declarac.
-
-Date: 2026-10-04
-
-### El antes y el después de María Jesús Montero: de poner «la mano en el fuego» a «yo no lo haría»
-
-«Mantengo mi confianza en él» aunque... «yo no lo haría». La secretaria general del PSOE andaluz, María Jesús Montero , se ha visto obligada a desplegar sus grandes habilidades de funambulista para transitar estos últimos dos años sobre la delgada línea que separa el deseo y la realidad. Una evolución que puede reconst.
-
-Date: 2026-10-04
-
-### Gabriel Rufián, en 'Salvados': "En este país, Albert Rivera sería vicepresidente si Bildu y ERC no se hubieran cuadrado"
-
-El portavoz de Esquerra Republicana, Gabriel Rufián , situó el futuro de la izquierda, la relación con el PSOE y el peso de ERC en el centro del debate político durante su participación en el programa Salvados , de La Sexta, el pasado domingo. El representante político escuchó las opiniones de cinco votantes progresist.
-
-Date: 2026-10-04
-
-### El Gobierno encarga durante 4 años la «acogida» de ilegales a una ONG de cargos del PSOE: hasta 1.700 € por inmigrante
-
-El Gobierno -a través del Ministerio de Inclusión, Seguridad Social y Migraciones- ha entregado durante cuatro años la acogida de inmigrantes ilegales a la ONG Movimiento por la Paz, el Desarme y la Libertad (MPDL) , cuya presidenta de honor es Francisca (Paquita) Sauquillo, histórica dirigente socialista y actualmente.
-
-Date: 2026-10-04
-
 ## Fuentes
 
-- [Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"](https://www.20minutos.es/nacional/junts-horas-saber-si-habra-elecciones-sanchez-antepone-vivienda-llamara-psoe_7044695_0.html?utm_source=lootura.com) — 2026-10-04T21:15:52.000Z
-- [Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"](https://amp.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html?utm_source=lootura.com) — 2026-10-04T12:16:17.000Z
-- [El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox](https://amp.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html?utm_source=lootura.com) — 2026-10-04T20:22:15.000Z
-- [Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso](https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html?utm_source=lootura.com) — 2026-10-04T19:22:32.000Z
-- [Sánchez libera su agenda de este lunes y alienta el adelanto electoral: «Es ahora o nunca»](https://theobjective.com/espana/politica/2026-10-04/sanchez-agenda-lunes-adelanto-electoral/?amp=&utm_source=lootura.com) — 2026-10-04T18:01:44.000Z
+- [El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos](https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html?utm_source=lootura.com) — 2026-10-06T17:31:14.000Z
+- [El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025](https://www.elconfidencial.com/espana/2026-10-06/el-juez-del-caso-cloacas-pide-al-psoe-una-lista-de-los-abogados-y-consultores-que-contrato-entre-2021-y-2025_4439493/?utm_source=lootura.com) — 2026-10-06T13:07:00.000Z
+- [Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP](https://www.elcorreo.com/politica/pp-pide-audiencia-nacional-imputacion-psoe-cinco-20261006124636-ntrc_amp.html?utm_source=lootura.com) — 2026-10-06T10:46:36.000Z
+- [El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal](https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html?utm_source=lootura.com) — 2026-10-06T10:46:07.000Z
+- [Montero: “La huelga general se convoca contra la oposición por derribar los decretos de vivienda”](https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html?utm_source=lootura.com) — 2026-10-06T12:58:05.000Z

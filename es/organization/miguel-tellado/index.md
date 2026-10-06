@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Fuentes
 
-- [El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»](https://theobjective.com/espana/politica/2026-10-04/pp-sanchez-convocar-elecciones/?utm_source=lootura.com) — 2026-10-04T11:56:18.000Z
+No public source links.

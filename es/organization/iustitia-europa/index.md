@@ -3,10 +3,16 @@
 > Sigue la actividad de Iustitia Europa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/iustitia-europa
 
 ## Cambios recientes
+
+### El Supremo da 48 horas de plazo para las alegaciones antes de resolver sobre la ley de nietos
+
+El Tribunal Supremo ha dado un plazo improrrogable de 48 horas a las partes para que presenten las alegaciones que consideren convenientes , tras los nuevos escritos de Iustitia Europa y Vox en relación a las inscripciones en el censo electoral de residentes ausentes en el extranjero (CERA) de personas que han adquirid.
+
+Date: 2026-10-06
 
 ### Bolaños defiende el derecho «sagrado» al voto tras el fallo del Supremo sobre la ‘ley de nietos’
 
@@ -62,12 +68,6 @@ El Juzgado de Instrucción número 8 de Madrid ya estudia cinco denuncias por el
 
 Date: 2026-08-10
 
-### Iustitia Europa denuncia a Mohamed VI ante la Corte Penal Internacional por la entrada masiva en Ceuta
-
-La organización política Iustitia Europa ha presentado una denuncia ante la Fiscalía de la Corte Penal Internacional (CPI) solicitando que se investigue si el rey de Marruecos, Mohamed VI , y el primer ministro del país africano, Aziz Akhannouch, ordenaron la entrada masiva en Ceuta de personas procedentes de Marruecos.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [El Supremo da 48 horas de plazo para las alegaciones antes de resolver sobre la ley de nietos](https://www.elconfidencial.com/espana/2026-10-06/supremo-48-horas-alegaciones-resolver-ley-nietos_4439499/?utm_source=lootura.com) — 2026-10-06T13:11:00.000Z

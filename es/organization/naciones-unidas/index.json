@@ -15,7 +15,9 @@
     "United Nations Organization",
     "Verenigde Naties",
     "the U.N.",
-    "the UN"
+    "the UN",
+    "United Nations Organisation",
+    "UN"
   ],
   "changes": [
     {
@@ -69,13 +71,6 @@
       "date": "2026-07-22"
     }
   ],
-  "sources": [
-    {
-      "title": "Lula, la batalla final",
-      "url": "https://elpais.com/america/2026-10-04/lula-la-batalla-final.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-04T04:00:00.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

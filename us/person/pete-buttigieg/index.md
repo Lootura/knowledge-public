@@ -28,4 +28,4 @@ Date: 2026-08-08
 
 ## Sources
 
-- [Buttigieg goes big to help 2026 Dems](https://www.politico.com/news/2026/10/04/buttigieg-midterms-travel-new-hampshire-01106140?utm_source=lootura.com) — 2026-10-04T15:25:52.000Z
+No public source links.

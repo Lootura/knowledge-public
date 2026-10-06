@@ -70,4 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Lula, la batalla final](https://elpais.com/america/2026-10-04/lula-la-batalla-final.html?utm_source=lootura.com) — 2026-10-04T04:00:00.000Z
+No public source links.

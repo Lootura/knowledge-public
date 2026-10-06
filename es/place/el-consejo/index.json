@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-01T04:06:40.370Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo",
+      "summary": "El Gobierno vuelve a la carga con sus medidas de vivienda . El Consejo de Ministros ha aprobado de nuevo este martes los dos reales decretos que el Congreso tumbó el pasado viernes. Y lo ha hecho con algunos cambios. El presidente del Gobierno, Pedro Sánchez, ha defendido que ambos textos mantienen \"la esencia\" de los.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Bruselas sigue la senda de Trump y avala los primeros centros de deportación de migrantes fuera de la UE",
       "summary": "La política migratoria europea mira cada vez más hacia fuera de sus propias fronteras. La UE lleva años buscando acuerdos con otros países para frenar las llegadas y facilitar las expulsiones, pero ahora se dispone a dar un paso más . El Consejo de la UE tiene previsto dar este jueves su aprobación definitiva al nuevo.",
@@ -55,13 +60,15 @@
       "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
       "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
       "date": "2026-09-01"
-    },
-    {
-      "title": "El Gobierno nombra a Leire Iglesias como secretaria de Estado de Vivienda y será sustituida en Casa 47 por Maribel Ramos",
-      "summary": "El Consejo de Ministros ha nombrado este martes a la hasta ahora presidenta de Casa 47, Leire Iglesias (Fuenterrabía, 1978), como secretaria de Estado de Vivienda y Agenda Urbana, en sustitución de David Lucas, quien falleció el pasado 20 de julio. Iglesias será relevada en el cargo por Maribel Ramos , hasta ahora dire.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo",
+      "url": "https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T13:08:45.000Z",
+      "sourceId": "lootura-es-20minutos"
+    }
+  ],
+  "evidenceCount": 1
 }

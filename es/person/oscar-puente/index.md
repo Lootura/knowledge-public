@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-03T18:59:43.213Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”
+
+X, antes Twitter, y antes nada porque no existía, es una red social que nunca duerme. No se descansa. A las 23.13 de este lunes, el PP salió contra el ministro Óscar Puente —el más activo del Gobierno; solo este lunes lanzó más de 20 tuits en su perfil — y publicó un vídeo que se hizo viral hace tres años. Son unas imá.
+
+Date: 2026-10-06
 
 ### Puente intentando animar a Sánchez lo hunde más: divulga una viñeta reconociendo que el presidente está ko
 
@@ -62,12 +68,6 @@ El ministro de Transportes, Óscar Puente , ha cuestionado la parcialidad" de la
 
 Date: 2026-09-07
 
-### Óscar Puente duda de la imparcialidad de la juez que investiga la entrada masiva en Ceuta
-
-La magistrada aprecia una «indudable gestión favorecedora» desde Rabat, pero el ministro niega que existan pruebas.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-No public source links.
+- [El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”](https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html?utm_source=lootura.com) — 2026-10-06T07:23:23.000Z

@@ -3,10 +3,16 @@
 > Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-09-17T09:12:35.113Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/organization/kennedy-center
 
 ## Recent changes
+
+### A history of presidents naming things after themselves (It's short. They rarely do)
+
+While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets. (Image credit: Alex Wroblewski).
+
+Date: 2026-10-06
 
 ### Kennedy Center Board votes to close for renovations amid legal fight over Trump name
 
@@ -52,4 +58,4 @@ Date: 2026-09-14
 
 ## Sources
 
-No public source links.
+- [A history of presidents naming things after themselves (It's short. They rarely do)](https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com) — 2026-10-06T11:00:00.000Z

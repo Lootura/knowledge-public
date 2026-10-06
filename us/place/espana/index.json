@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/espana/index.json",
   "description": "Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T03:06:35.172Z",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
   "aliases": [
     "España",
     "Estado español",
     "Kingdom of Spain"
   ],
   "changes": [
+    {
+      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+      "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Bones of medieval kings saved from Spanish wildfire",
       "summary": "Firefighters raced to save a 1,000-year-old monastery in northeastern Spain on Friday as a growing wildfire prompted the hasty removal of the bones of medieval monarchs buried there.",
@@ -59,13 +64,21 @@
       "title": "Once-in-a-lifetime total solar eclipse sweeps across Europe",
       "summary": "The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "A look at Spain's plan to give undocumented migrants legal status",
-      "summary": "Spain is at the center of the global immigration debate. Left-wing Prime Minister Pedro Sanchez has enacted a plan aimed at giving legal status to undocumented immigrants. But last month, tens of thousands of migrants tried to illegally cross into the Spanish territory of Ceuta, which borders Morocco. The incident is p.",
-      "date": "2026-08-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T12:08:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    },
+    {
+      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+      "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T16:03:08.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -1,0 +1,67 @@
+{
+  "id": "usa-jim-bakker",
+  "name": "Jim Bakker",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jim-bakker",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jim-bakker",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jim-bakker/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jim-bakker/index.json",
+  "description": "Follow Jim Bakker, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Jim Bakker, who co-founded \"The PTL Club\" but fell into disgrace, dies at 86",
+      "summary": "Jim Bakker, who along with his first wife Tammy Faye built an evangelical empire around \"The PTL Club\" TV show, only to lose it all over a sex scandal and financial crimes, has died at 86.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
+      "summary": "Jim Bakker, along with his first wife Tammy Faye built an evangelical empire around the hugely successful \"The PTL Club\" TV show, only to lose it all over a sex scandal and financial crimes. (Image credit: Lou Krasky).",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Jim Bakker, minister who built a televangelism empire and lost it from sex and money scandals, dies at 86",
+      "summary": "\"The PTL Club,\" which at its peak in the mid-1980s drew 13 million nightly TV viewers, made Jim and Tammy Faye Bakker cultural icons — so much so that they were often skewered in the 1980s and 90s by late-night comedians and parodied on \"Saturday Night Live.\".",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
+      "summary": "With his wife, Tammy Faye, Mr. Bakker built a broadcasting juggernaut around the gospel of prosperity.",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jim Bakker first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-06"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Jim Bakker, who co-founded \"The PTL Club\" but fell into disgrace, dies at 86",
+      "url": "https://www.cbsnews.com/news/jim-bakker-ptl-club-dies-86/?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T05:05:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T05:57:34.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Jim Bakker, minister who built a televangelism empire and lost it from sex and money scandals, dies at 86",
+      "url": "https://www.pbs.org/newshour/nation/jim-bakker-minister-who-built-a-televangelism-empire-and-lost-it-from-sex-and-money-scandals-dies-at-86?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T15:27:38.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
+      "url": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T05:38:04.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 4
+}

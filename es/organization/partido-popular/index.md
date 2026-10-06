@@ -3,10 +3,64 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros
+
+Arranca la precampaña electoral y el Partido Popular denuncia a Pedro Sánchez ante la Junta Electoral Central por la rueda de prensa que ha dado este martes tras el Consejo de Ministros. Los populares consideran que el presidente del Gobierno ha vulnerado la Ley Electoral al utilizar la Moncloa "para dar un mitin del P.
+
+Date: 2026-10-06
+
+### El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos
+
+El juez de la Audiencia Nacional Santiago Pedraz ha pedido a la Fiscalía Anticorrupción un informe para que se pronuncie sobre la procedencia de investigar al PSOE como persona jurídica después de que lo haya solicitado el PP, que aglutina a las acusaciones populares tanto en el caso de Leire Díez o de las denominadas.
+
+Date: 2026-10-06
+
+### Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP
+
+El juez exige al partido todas sus contrataciones de abogados y consultoras entre 2021 y 2025 y la documentación utilizada para justificar los servicios.
+
+Date: 2026-10-06
+
+### Préstamos al 0 % para comprar casa, prórroga de alquileres y suspensión de desahucios: las medidas que recupera el Gobierno
+
+Los decretos se aprobarán en la Diputación Permanente, donde PP, Vox y Junts no tienen mayoría, dando la espalda al Congreso.
+
+Date: 2026-10-06
+
+### El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal
+
+Los 'populares' han registrado un escrito en el que reclaman que también se investigue a su principal rival por "cohecho, malversación, tráfico de influencias y blanqueo de capitales Leer.
+
+Date: 2026-10-06
+
+### La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques
+
+El PP cuenta también con sondeos internos, pero muy diferentes: sitúan al bloque de derecha por encima de los 200 escaños, pero con Vox por encima de 60 y con un margen de crecimiento de 12 más Leer.
+
+Date: 2026-10-06
+
+### Génova se distancia de Ayuso y ve “garantista” el sistema de voto por correo: “Que vayan a votar por tierra, mar y aire”
+
+El primer mensaje de la cúpula del Partido Popular tras la convocatoria de elecciones anunciada el lunes por Pedro Sánchez ha sido nítido: que nadie se confíe. Los dirigentes populares tienen la lección bien aprendida de lo ocurrido en los pasados comicios de 2023, cuando la victoria electoral no fue suficiente para fo.
+
+Date: 2026-10-06
+
+### El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”
+
+X, antes Twitter, y antes nada porque no existía, es una red social que nunca duerme. No se descansa. A las 23.13 de este lunes, el PP salió contra el ministro Óscar Puente —el más activo del Gobierno; solo este lunes lanzó más de 20 tuits en su perfil — y publicó un vídeo que se hizo viral hace tres años. Son unas imá.
+
+Date: 2026-10-06
+
+### El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda
+
+“En el Gobierno de España ni tiramos la toalla, ni dejamos tirada a la gente”, ha advertido Pedro Sánchez este martes desde la Moncloa, después de que el Consejo de Ministros haya vuelto a aprobar los dos decretos ley de vivienda que el PP, Vox, UPN y Junts tumbaron en el pleno del Congreso el pasado viernes, lo que pr.
+
+Date: 2026-10-06
 
 ### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
 
@@ -14,62 +68,14 @@ El secretario general del PP , Miguel Tellado , ha exigido al presidente del Gob
 
 Date: 2026-10-04
 
-### El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox
-
-Como en los célebres cinco días de reflexión de abril de 2024, el PSOE ha pasado las últimas horas a la espera de una decisión trascendental de Pedro Sánchez. Si en aquel...
-
-Date: 2026-10-04
-
-### Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha
-
-Pedro Sánchez no estuvo cruzado de brazos este fin de semana, simplemente lamiéndose las heridas por el revés del pasado viernes en el Congreso , cuando el PP, Vox y Junts tumbaron los decretos leyes que pretendían dar respuesta a la indignación social por la crisis de la vivienda que estalló tras el desahucio de Maric.
-
-Date: 2026-10-04
-
-### Junts fía su resurgir al impacto de la vuelta de Puigdemont
-
-Girona fue la ciudad escogida este sábado para arrancar en Cataluña la primera de las manifestaciones convocadas por el Sindicato de Inquilinas tras el bloqueo de los decretos de vivienda que pretendía aprobar el Gobierno y que paralizaron Junts, PP y Vox. La convocatoria no reunió a más de 700 personas, según la Polic.
-
-Date: 2026-10-04
-
-### El PP ya especula con un Gobierno Feijóo
-
-El PP de Alberto Núñez Feijóo hace tiempo que anhela elecciones y le da igual la fecha, según distintas fuentes de su equipo. Creen que esta vez es inviable el gatillazo de julio de 2023 y que a Pedro Sánchez solo le puede ir peor, elija lo que elija. El líder popular transmite en público que está listo, preparado, cas.
-
-Date: 2026-10-04
-
-### El PP se reivindica como solución a la crisis de vivienda y afirma no temer un adelanto electoral: "Estamos listos"
-
-El rechazo en el Congreso de los Diputados de los dos decretos de vivienda del Gobierno ha abierto un nuevo escenario político que puede culminar con un adelanto electoral si así lo decide Pedro Sánchez tras el fin de semana de reflexión. La situación es una ventana de oportunidad para el Partido Popular , que pide su.
-
-Date: 2026-10-04
-
-### Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»
-
-Nueva derrota para el Gobierno . El Congreso ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP, Vox, Junts y UPN han votado en contra de ambos textos, tal y como habían advertido. PNV y Coalición Canaria han apoyado la primera iniciativa, aun.
-
-Date: 2026-10-04
-
-### Iñaki López, sobre el rechazo de Junts a los decretos de vivienda de Pedro Sánchez: «No es sorpresa. Votó contra la revalorización de las pensiones»
-
-Fracaso del Gobierno en el Congreso . La Cámara Baja ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP , Vox , Junts y UPN han votado en contra de ambos textos, tal y como habían anunciado, mientras que PNV y Coalición Canaria han respaldado.
-
-Date: 2026-10-04
-
-### Dilema en el PSOE mientras Sánchez ultima su decisión: "Calentar más calle" o convocar y "hacérselo pagar ya al PP"
-
-El abismo de un nuevo periodo de reflexión atenaza al PSOE, mientras en La Moncloa se sopesan todos los escenarios. En el partido y el Gobierno hay división de opiniones entre...
-
-Date: 2026-10-03
-
-### Feijóo a Sánchez: “No amague más, que los ciudadanos tomen la palabra cuanto antes”
-
-El líder del PP, Alberto Núñez Feijóo, insiste en que la actual XV legislatura que “nunca debió existir” está en sus “estertores” y reclamó al presidente del Gobierno que aplique su potestad ya y anticipe las elecciones para acabar con esa agonía que retrata: “No amague más con las urnas, que los ciudadanos tomen la pa.
-
-Date: 2026-10-03
-
 ## Fuentes
 
-- [El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox](https://amp.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html?utm_source=lootura.com) — 2026-10-04T20:22:15.000Z
-- [Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha](https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html?utm_source=lootura.com) — 2026-10-04T20:06:45.000Z
-- [El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»](https://theobjective.com/espana/politica/2026-10-04/pp-sanchez-convocar-elecciones/?utm_source=lootura.com) — 2026-10-04T11:56:18.000Z
+- [El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros](https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com) — 2026-10-06T16:48:31.000Z
+- [El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos](https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html?utm_source=lootura.com) — 2026-10-06T17:31:14.000Z
+- [Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP](https://www.elcorreo.com/politica/pp-pide-audiencia-nacional-imputacion-psoe-cinco-20261006124636-ntrc_amp.html?utm_source=lootura.com) — 2026-10-06T10:46:36.000Z
+- [Préstamos al 0 % para comprar casa, prórroga de alquileres y suspensión de desahucios: las medidas que recupera el Gobierno](https://www.eldebate.com/economia/20261006/prestamos-0-comprar-casa-prorroga-alquileres-suspension-desahucios-medidas-recupera-gobierno_466636.html?utm_source=lootura.com) — 2026-10-06T11:20:24.000Z
+- [El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal](https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html?utm_source=lootura.com) — 2026-10-06T10:46:07.000Z
+- [La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques](https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html?utm_source=lootura.com) — 2026-10-06T11:50:15.000Z
+- [Génova se distancia de Ayuso y ve “garantista” el sistema de voto por correo: “Que vayan a votar por tierra, mar y aire”](https://elpais.com/espana/elecciones-generales/2026-10-06/genova-se-desmarca-de-ayuso-y-ve-garantista-el-sistema-de-voto-por-correo-que-vayan-a-votar-por-tierra-mar-y-aire.html?utm_source=lootura.com) — 2026-10-06T10:19:22.000Z
+- [El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”](https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html?utm_source=lootura.com) — 2026-10-06T07:23:23.000Z
+- [El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda](https://www.lavanguardia.com/politica/20261006/11652467/gobierno-aprueba-10-000-millones-euros-financiacion-compra-primera-vivienda.html?utm_source=lootura.com) — 2026-10-06T13:06:20.000Z

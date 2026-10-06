@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Coco Gauff decries "insane" amount of online racism after China match dispute
+
+Coco Gauff said she received an "insane" amount of racist comments on social media following a controversial point in her China Open match against home player Sun Xinran.
+
+Date: 2026-10-06
+
+### Rising numbers of Asian and African PhD students choose to study in China
+
+Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02798-6 International students explain the advantages and challenges that come with pursuing a doctoral degree in China.
+
+Date: 2026-10-06
 
 ### Stunning fossil shows dinosaurs’ distinctive path to flight
 
@@ -56,20 +68,7 @@ CBS News has exclusively gained access to photos that show widespread damage at 
 
 Date: 2026-09-16
 
-### U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis
-
-Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.
-
-Date: 2026-09-16
-
-### In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit
-
-China renewed calls for an end to the fighting in the Middle East while demonstrating its influence over Tehran.
-
-Date: 2026-09-16
-
 ## Sources
 
-- [Stunning fossil shows dinosaurs’ distinctive path to flight](https://www.nature.com/articles/d41586-026-03126-8?utm_source=lootura.com) — 2026-10-04T22:43:35.617Z
-- [Brazil's election could shift its ties with the U.S. and China](https://www.npr.org/2026/10/04/nx-s1-5989593/brazils-election-could-shift-its-ties-with-the-u-s-and-china?utm_source=lootura.com) — 2026-10-04T21:53:15.000Z
-- [China closes record number of banks as economic growth slows](https://www.semafor.com/article/10/04/2026/china-consolidates-banking-sector?utm_source=lootura.com) — 2026-10-04T22:34:53.000Z
+- [Coco Gauff decries "insane" amount of online racism after China match dispute](https://www.cbsnews.com/news/coco-gauff-online-racism-china-tournament-dispute/?utm_source=lootura.com) — 2026-10-06T09:05:59.000Z
+- [Rising numbers of Asian and African PhD students choose to study in China](https://www.nature.com/articles/d41586-026-02798-6?utm_source=lootura.com) — 2026-10-06T17:55:03.599Z

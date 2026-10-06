@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
+      "summary": "Aún no había amanecido en Nueva York, donde dormía Pedro Sánchez, cuando en Madrid se estaba produciendo a la vista de todos el acontecimiento que precipitaría un adelanto electoral que el presidente había rechazado decenas de veces. Rodeada de activistas del Sindicato de Inquilinas, de caras conocidas y muy identifica.",
+      "date": "2026-10-06"
+    },
     {
       "title": "Sylvester Stallone: “No sé qué son las nuevas masculinidades. La naturaleza del hombre es conquistar”",
       "summary": "Esta es la cuarta entrevista del día para Sylvester Stallone . ¿Cansado ya de hablar tanto? “No, porque esta es la primera sobre mis memorias”, responde en la habitación del hotel de Nueva York, su ciudad natal, frente a Central Park, donde recibe a EL PAÍS. Seguir leyendo.",
@@ -85,13 +90,15 @@
       "title": "Fragmento del día: Nueva York",
       "summary": "en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "El juicio en Nueva York que puede costar millones a Huawei",
-      "summary": "El gigante tecnológico chino afronta un complejo proceso judicial en Estados Unidos. Una condena podría suponer multas históricas, la confiscación de activos y redefinir la complicada diplomacia internacional.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-06T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

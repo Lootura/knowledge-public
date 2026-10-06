@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [Portugal sabe vivir sin Cristiano](https://www.abc.es/deportes/futbol/portugal-sabe-vivir-cristiano-20261004225650-nt.html?utm_source=lootura.com) — 2026-10-04T20:59:13.000Z
-- [Fragmento del día: Portugal](https://es.wikipedia.org/wiki/Portugal?utm_source=lootura.com) — 2026-10-05T04:00:00.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### "NCIS: New York" stars LL Cool J and Scott Caan on what to expect this season
+
+LL Cool J and Scott Caan join "CBS Mornings" to discuss "NCIS: New York," which premieres Tuesday night on CBS and Paramount+.
+
+Date: 2026-10-06
+
+### Hoping for Better, 3 Years Since Oct. 7
+
+Rachel Goldberg-Polin speaks during the 2026 TIME100 Summit at on April 22, 2026 in New York City. —Jemal Countess—TIME My name is Rachel. And I will always be the mother of Hersh Goldberg-Polin . Hersh will always be my eldest child. Hersh will always be my only son. And Hersh will always be 23-years-old. As one of th.
+
+Date: 2026-10-06
 
 ### Cornell Case Carries Far-Reaching Implications for Hochul and James
 
@@ -56,19 +68,7 @@ The Jonas Brothers are still burnin' up after more than 20 years as a band. Now 
 
 Date: 2026-10-01
 
-### Pete Davidson calls out NYC mayor Zohran Mamdani over highway mess
-
-Pete Davidson didn’t hold back while delivering a blunt message to New York City Mayor Zohran Mamdani . On Monday night, the 32-year-old comedian appeared on " Jimmy Kimmel Live! " where Kimmel, 58, told him that Mamdani, 34, would be his next guest. The late night host then pointed out that Davidson was a "lifelong re.
-
-Date: 2026-10-01
-
-### How Oil and Trump Are Escalating the Falklands Dispute
-
-Javier Milei takes part in a discussion about economies at an event in New York on Sept. 24, 2026. —Michael Nagle—Getty Images Argentine President Javier Milei has threatened legal action against the U.K. over an oil exploration project off the coast of the Falkland Islands , a British overseas territory at the center.
-
-Date: 2026-09-30
-
 ## Sources
 
-- [Cornell Case Carries Far-Reaching Implications for Hochul and James](https://www.nytimes.com/2026/10/04/nyregion/hochul-james-cornell.html?utm_source=lootura.com) — 2026-10-04T07:00:23.000Z
-- [After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life](https://www.nytimes.com/2026/10/04/nyregion/cornell-university-campus-students.html?utm_source=lootura.com) — 2026-10-04T18:54:43.000Z
+- ["NCIS: New York" stars LL Cool J and Scott Caan on what to expect this season](https://www.cbsnews.com/video/ncis-new-york-stars-ll-cool-j-and-scott-caan-on-what-to-expect-this-season/?utm_source=lootura.com) — 2026-10-06T15:36:43.000Z
+- [Hoping for Better, 3 Years Since Oct. 7](https://time.com/article/2026/10/06/hoping-for-better-3-years-since-oct-7/?utm_source=lootura.com) — 2026-10-06T15:00:08.000Z

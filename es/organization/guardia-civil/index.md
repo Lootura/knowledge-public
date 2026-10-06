@@ -3,10 +3,16 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-06T17:54:40.529Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Detenido un hombre tras un atraco a punta de cuchillo en un local comercial en Güímar (Tenerife)
+
+Agentes de la Guardia Civil pertenecientes al Puesto de Güímar , con el apoyo de la Unidad de Seguridad Ciudadana de la Comandancia (USECIC), han detenido a un hombre como presunto autor de un delito de robo con violencia cometido en un establecimiento comercial ubicado en el municipio. El hombre amenazó a las empleada.
+
+Date: 2026-10-06
 
 ### La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)
 
@@ -62,12 +68,6 @@ La Guardia Civil ha detenido a un hombre como presunto autor en un homicidio ocu
 
 Date: 2026-09-13
 
-### ¿Cuántos yihadistas más quedan en Ceuta?
-
-Los gemelos Achatoui, miembros de una saga familiar de yihadistas, se colaron entre los invasores de Ceuta. Chakir fue el primero al que detuvo la Guardia Civil, y ahora ha caído Chakib. Ambos fueron condenados hace 11 años y expulsados a Marruecos con la prohibición de volver a España. La Policía les seguía los pasos.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)](https://www.elconfidencial.com/espana/2026-10-04/busqueda-hombre-desaparecido-losar-vera-1tna-1tps_4437955/?utm_source=lootura.com) — 2026-10-04T11:36:00.000Z
+- [Detenido un hombre tras un atraco a punta de cuchillo en un local comercial en Güímar (Tenerife)](https://www.elconfidencial.com/espana/2026-10-06/detenido-robo-violencia-guardia-civil-1tna-1tps_4439381/?utm_source=lootura.com) — 2026-10-06T11:07:00.000Z

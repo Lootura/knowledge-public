@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-06T17:54:58.776Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Ken Paxton’s secret weapon: Ted Cruz
+
+Leaders of the U.S. Hispanic Business Council knew it would be hard to get Ken Paxton to show up to their Senate town hall event. So, they turned to an unexpected ally: Sen. Ted Cruz. Javier Palomarez, the council’s president and CEO, needed help since his own background – as both a Democrat and longtime ally of Paxton.
+
+Date: 2026-10-06
 
 ### Without Saying His Name, Ken Paxton’s Estranged Wife Tells Texans to Vote For Him
 
@@ -62,12 +68,6 @@ Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm co
 
 Date: 2026-09-08
 
-### Trump delivers $10 million to Ken Paxton in first major contribution of midterms
-
-President Trump's MAGA Inc. super PAC had previously only given one donation this midterm cycle: about $800,000 to Darline Graham.
-
-Date: 2026-09-05
-
 ## Sources
 
-No public source links.
+- [Ken Paxton’s secret weapon: Ted Cruz](https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868?utm_source=lootura.com) — 2026-10-06T08:45:00.000Z
