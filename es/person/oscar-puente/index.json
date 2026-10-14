@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/oscar-puente/index.json",
   "description": "Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-13T23:35:46.672Z",
   "aliases": [
     "Oscar Puente Santiago",
     "Puente",
@@ -16,6 +16,11 @@
     "Óscar Puente Santiago"
   ],
   "changes": [
+    {
+      "title": "Pesadilla en un Alvia Pamplona-Madrid: ocho horas sin agua ni comida y gente de pie en los pasillos",
+      "summary": "Óscar Puente se ha coronado hoy de nuevo como ministro de Transportes con otro hito tercermundista. Los pasajeros del tren Alvia de Renfe entre Pamplona y Madrid que salía este martes por la mañana de la capital navarra han sufrido una auténtica pesadilla para llegar a su destino. El viaje, que tenía que haber durado m.",
+      "date": "2026-10-13"
+    },
     {
       "title": "El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”",
       "summary": "X, antes Twitter, y antes nada porque no existía, es una red social que nunca duerme. No se descansa. A las 23.13 de este lunes, el PP salió contra el ministro Óscar Puente —el más activo del Gobierno; solo este lunes lanzó más de 20 tuits en su perfil — y publicó un vídeo que se hizo viral hace tres años. Son unas imá.",
@@ -60,20 +65,8 @@
       "title": "Moncloa respalda que Puente cuestione la imparcialidad de la jueza que investiga la crisis de Ceuta: \"Lo hace como buen jurista\"",
       "summary": "El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione la \"imparcialidad\" de la jueza de la Audiencia Nacional María Tardón , que investiga la entrada masiva de migrantes en Ceuta de los pasados 30 y 31 de julio. La portavoz del Ejecutivo, Elma Saiz, ha asegurado este martes que Puente habla como.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Puente cuestiona la parcialidad de la jueza que investiga la crisis de Ceuta: \"Denota desconfianza\"",
-      "summary": "El ministro de Transportes, Óscar Puente , ha cuestionado la parcialidad\" de la jueza de la Audiencia Nacional (AN) María Tardón y ha considerado \"bastante extraño\" que ésta pidiera al equipo investigador de la Policía Nacional no transmitir a los mandos policiales las conclusiones del informe sobre la entrada masiva d.",
-      "date": "2026-09-07"
     }
   ],
-  "sources": [
-    {
-      "title": "El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T07:23:23.000Z",
-      "sourceId": "lootura-es-el-pais"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

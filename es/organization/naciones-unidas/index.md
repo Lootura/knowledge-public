@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/organization/naciones-unidas
 
 ## Cambios recientes
+
+### Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto
+
+Votación de una resolución en el Consejo de Seguridad el 21 de mayo de 2024. lev radin/Shutterstock Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas , el órgano que ostent.
+
+Date: 2026-10-08
 
 ### La ONU alerta del peligro de la IA y pide regularla: "Todos los derechos humanos están en riesgo"
 
@@ -61,12 +67,6 @@ Date: 2026-07-23
 El presidente Sánchez anuncia el "honor" de postular a su ministra de Trabajo quien "ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.
 
 Date: 2026-07-23
-
-### Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'
-
-El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.
-
-Date: 2026-07-22
 
 ## Fuentes
 

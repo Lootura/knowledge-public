@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -22,6 +22,21 @@
     "Warren Paxton, Jr."
   ],
   "changes": [
+    {
+      "title": "Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton",
+      "summary": "Democrat James Talarico and Republican Ken Paxton are neck and neck in the Texas Senate race. Texas Republican Party chair D'rinda Randall shares her thoughts.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Donald Trump’s Texas rally rocked by repeated protests",
+      "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton. At least half a dozen demonstrators interrupted the US.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins",
+      "summary": "President Donald Trump speaks at a campaign rally in San Antonio, Texas, on Oct. 7, 2026. —Win McNamee—Getty Images Digging in to defend both his pride and his political fortunes, President Donald Trump on Wednesday returned to deep-red Texas to rally for Ken Paxton’s Senate bid, while revealing at times his own trepid.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Ken Paxton’s secret weapon: Ted Cruz",
       "summary": "Leaders of the U.S. Hispanic Business Council knew it would be hard to get Ken Paxton to show up to their Senate town hall event. So, they turned to an unexpected ally: Sen. Ted Cruz. Javier Palomarez, the council’s president and CEO, needed help since his own background – as both a Democrat and longtime ally of Paxton.",
@@ -56,29 +71,14 @@
       "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
       "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "James Talarico Counters Trump’s Midterm Convention With Food Drive",
-      "summary": "The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico",
-      "summary": "David Maxwell was among the staffers in the Texas attorney general’s office who accused Ken Paxton of abusing the power of his office, allegations that led to his impeachment. Mr. Paxton was acquitted.",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race",
-      "summary": "Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.",
-      "date": "2026-09-08"
     }
   ],
   "sources": [
     {
-      "title": "Ken Paxton’s secret weapon: Ted Cruz",
-      "url": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T08:45:00.000Z",
-      "sourceId": "lootura-us-politico"
+      "title": "Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton",
+      "url": "https://www.cbsnews.com/video/texas-gop-chair-toss-up-senate-race-between-james-talarico-ken-paxton/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T14:30:32.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
   "evidenceCount": 1

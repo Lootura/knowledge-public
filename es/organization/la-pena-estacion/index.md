@@ -3,20 +3,20 @@
 > Sigue la actividad de La Peña Estación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-15T01:04:15.447Z
+- Actualizado: 2026-10-08T04:28:03.537Z
 - Canonical: https://atlas.lootura.com/es/organization/la-pena-estacion
 
 ## Cambios recientes
 
-### Evacúan otros cuatro municipios tras empeorar las condiciones del incendio de Huesca
-
-Santa María de La Peña, Triste, La Peña Estación y Yeste se unen a Bailo, Larués, Santa Cruz de la Serós, Binacua, Ena, Centenero, Botaya, Villalangua, Salinas de Jaca, Alastué, Arbués, Osia.
-
-Date: 2026-08-14
-
 ### Discovered by Atlas
 
 La Peña Estación first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-14
+
+### Evacúan otros cuatro municipios tras empeorar las condiciones del incendio de Huesca
+
+Santa María de La Peña, Triste, La Peña Estación y Yeste se unen a Bailo, Larués, Santa Cruz de la Serós, Binacua, Ena, Centenero, Botaya, Villalangua, Salinas de Jaca, Alastué, Arbués, Osia.
 
 Date: 2026-08-14
 

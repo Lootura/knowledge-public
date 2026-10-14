@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [Troy Jackson is racing against time in his bid to unseat Susan Collins](https://www.pbs.org/newshour/politics/troy-jackson-is-racing-against-time-in-his-bid-to-unseat-susan-collins?utm_source=lootura.com) — 2026-10-06T17:50:34.000Z
+No public source links.

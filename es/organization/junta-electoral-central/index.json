@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/junta-electoral-central/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/junta-electoral-central/index.json",
   "description": "Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-08T21:01:26.973Z",
   "aliases": [
     "Central Board of the Electoral Census",
     "Central Commission of the Electoral Census",
@@ -18,6 +18,21 @@
     "Junta Electoral"
   ],
   "changes": [
+    {
+      "title": "El Bidasoa abre su proceso electoral con una asamblea extraordinaria",
+      "summary": "Los socios están convocados el día 24 en Artaleku para aprobar el calendario electoral y la composición de la Junta Electoral.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "El PP llevará a la Junta Electoral la lona de Más Madrid sobre Almeida y los precios del alquiler",
+      "summary": "El PP llevará a la Junta Electoral Central la lona desplegada por Más Madrid en los balcones de sus dependencias en el Edificio de Grupos de la calle Mayor para criticar la política de vivienda del alcalde de Madrid, José Luis Martínez-Almeida , según han confirmado fuentes del partido a Europa Press. La formación lide.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Feijóo abona las dudas del PP sobre el voto por correo y pedirá “medidas adicionales” a la Junta Electoral",
+      "summary": "El Partido Popular ha inaugurado este miércoles el cartel con su lema para las elecciones generales del 29 de noviembre — Por Fin — en Ceuta. Hasta allí ha viajado Alberto Núñez Feijóo como primer acto de precampaña para colocar la entrada masiva a la ciudad autónoma de final de julio como principal asunto de debate an.",
+      "date": "2026-10-07"
+    },
     {
       "title": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
       "summary": "Arranca la precampaña electoral y el Partido Popular denuncia a Pedro Sánchez ante la Junta Electoral Central por la rueda de prensa que ha dado este martes tras el Consejo de Ministros. Los populares consideran que el presidente del Gobierno ha vulnerado la Ley Electoral al utilizar la Moncloa \"para dar un mitin del P.",
@@ -52,30 +67,8 @@
       "title": "La JEC ejecuta el requerimiento del Supremo sobre la ley de nietos sin compartir su criterio",
       "summary": "La Junta Electoral Central ha optado por no abrir un nuevo frente con el Tribunal Supremo y, tras algo más de dos horas de reunión extraordinaria, ha acordado acatar el mandato del alto tribunal sobre las nacionalizaciones obtenidas al amparo de la llamada ley de nietos. El organismo, no obstante, no ha asumido como pr.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Junta Electoral Central first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Ayuso recurrirá la ley de nietos para que solo puedan votar aquellos con «una última residencia acreditada» en la región",
-      "summary": "La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso, ha anunciado que realizarán alegaciones ante la Junta Electoral Central para que «no se manipule el censo con el voto exterior y la ley de nietos». Así, ha anunciado en los últimos compases de su intervención en la segunda jornada del Debate del Estado de la.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Ayuso se anticipa al fallo de la Junta Electoral y anuncia alegaciones para evitar el voto en Madrid de descendientes de exiliados de otras regiones",
-      "summary": "La presidenta de Madrid, Isabel Díaz Ayuso, ha marcado el camino este viernes a la Junta Electoral Central. Antes de que el organismo se pronuncie, ya que todavía no se ha reunido para elaborar y enviar una instrucción a las oficinas consulares con el fin de que se cumpla la orden del Tribunal Supremo de suspender de f.",
-      "date": "2026-09-11"
     }
   ],
-  "sources": [
-    {
-      "title": "El PP denuncia ante la Junta Electoral el \"mitin\" de Sánchez tras el Consejo de Ministros",
-      "url": "https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T16:48:31.000Z",
-      "sourceId": "lootura-es-20minutos"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

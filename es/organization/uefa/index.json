@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/uefa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/uefa/index.json",
   "description": "Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-08T21:01:26.973Z",
   "aliases": [
     "Union Europea de Asociaciones de Futbol",
     "Union des Associations Europeennes de Football",
@@ -17,6 +17,11 @@
     "Vereinigung Europäischer Fußballverbände"
   ],
   "changes": [
+    {
+      "title": "Ceferin se presentará a la reelección como presidente de la UEFA por cuarta y última vez",
+      "summary": "Aleksander Ceferin quiere seguir al frente de la UEFA y, tras la petición de los 55 presidentes de las federaciones que componen el ente continental, volverá a presentarse a las elecciones, para afrontar un cuarto mandato. Según desvela la propia UEFA, será la última vez en la que el esloveno se postulará como presiden.",
+      "date": "2026-10-08"
+    },
     {
       "title": "La UEFA confía en un árbitro español para el polémico Irlanda – Israel que se jugará… ¡en Serbia!",
       "summary": "La UEFA ha elegido a Juan Martínez Munuera para arbitrar uno de los partidos más polémicos que tiene en esta ventana de selecciones, el duelo entre Irlanda e Israel que se jugará… en Serbia . Los irlandeses, en su boicot contra Israel, se negaron a jugar este partido en su territorio, llevando el encuentro por decisión.",
@@ -63,13 +68,6 @@
       "date": "2026-08-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Croacia – España, en directo | Sigue en directo y en vivo online la última hora del partido de la UEFA Nations League hoy en tiempo real",
-      "url": "https://okdiario.com/deportes/croacia-espana-directo-sigue-directo-vivo-online-ultima-hora-del-partido-uefa-nations-league-hoy-tiempo-real-20493593?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T17:50:35.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

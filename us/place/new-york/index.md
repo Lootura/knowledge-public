@@ -3,10 +3,52 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Now that Character.AI is going bankrupt, what happens to all of its users’ data?
+
+New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case "to put all part.
+
+Date: 2026-10-14
+
+### James Dolan, a Former Hochul Supporter, Goes All In on Her G.O.P. Rival
+
+The Knicks owner is urging New York’s business elite to abandon Gov. Kathy Hochul, highlighting her support of Mayor Zohran Mamdani. Mr. Dolan has spent millions to back her opponent, Bruce Blakeman.
+
+Date: 2026-10-13
+
+### Kelly Clarkson feud with New York store goes viral
+
+Singer Kelly Clarkson took to social media this weekend to share her experience with a store called Art of Play, claiming the staff looked at her as if she couldn't afford a $15,000 item. The toy store responded, saying Clarkson had tried to buy a singing and dancing bird that wasn't for sale. Clarkson then responded,.
+
+Date: 2026-10-13
+
+### Letters reveal forgotten role of Baghdad antiquities dealers in early 20th-century Kish excavations
+
+Between 1880 and 1912, no official excavations took place at Kish. Yet museums from London and Paris to New York were somehow acquiring brand-new tablets from the legendary old city. As it turns out, local Iraqis had been excavating the site years before the "official" excavations at Kish resumed. But while the officia.
+
+Date: 2026-10-12
+
+### Federal judge halts government from deporting man shot by ICE in NYC
+
+A federal judge in New York has ruled to stop the government from deporting a man shot by ICE agents amid widespread protests. Ali Bauman reports.
+
+Date: 2026-10-11
+
+### ‘Deeply concerning’: Democratic congressional candidate rebukes ICE’s presence in New York
+
+Darializa Avila Chevalier criticizes NYPD’s ‘inaction’ in protecting Marble Hill protesters after ICE shot a man Democratic congressional candidate Darializa Avila Chevalier believes that the New York police departments’ conduct towards protesters after an ICE agent shot and wounded a man in the district she is running.
+
+Date: 2026-10-11
+
+### Accused Cornell Frat Member Seeks to Have AG James Removed
+
+Gillio Lopes, one of the seven fraternity members accused of sexually assaulting a student back in 2024, is taking legal action, calling the governor’s appointment of New York Attorney General Letitia James “improper,” saying she’s already formed an opinion about the case in comments in social media. NBC’s Maggie Vespa.
+
+Date: 2026-10-08
 
 ### "NCIS: New York" stars LL Cool J and Scott Caan on what to expect this season
 
@@ -26,49 +68,6 @@ The decision to intercede by Gov. Kathy Hochul and the New York attorney general
 
 Date: 2026-10-04
 
-### After Week of Turmoil at Cornell, a Heavy Cloud Hangs Over Student Life
-
-As the weekend arrived, much of the nightlife in the upstate New York college town was subdued. But there were still some students looking to cut loose.
-
-Date: 2026-10-04
-
-### Cardinals vs Giants is giving a bit too much love to Arizona and not enough to New York at home
-
-This is the last week when everyone plays in the NFL for a while. Next week marks the beginning of the bye weeks. It is only two teams sitting out next week, but it is still nice to have all the teams playing every week. Sunday has a great card, and I’m looking forward to a few different games, but one that is standing.
-
-Date: 2026-10-04
-
-### Manhattan ‘mole’ mystery: rumors of lost gold spur clandestine excursions into New York sewers
-
-A recent arrest suggests that underground invaders of city’s sewer system are lured by the promise of lost valuables There’s been one thing in particular that has been intriguing New Yorkers this summer: the existence, and whereabouts, of so-called “ mole people ” – a mysterious group of individuals who spend at least.
-
-Date: 2026-10-04
-
-### ‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures
-
-The exhibition Designed to Be Red: Native American & Indigenous Poster Works , at New York’s Poster House, places the history of Native graphic art at the forefront. Curated by Brian Johnson of Monacan Indian Nation, the posters showcase the full spectrum of Indigenous creativity, situating Native Americans not only as.
-
-Date: 2026-10-04
-
-### How this New York City community cleanup project is helping adults make new friends
-
-Making new friends as an adult can be challenging, but some people are finding new connections through charity work. Michael George shows us how volunteering is bringing people together.
-
-Date: 2026-10-03
-
-### What to know about the ALDS and NLDS
-
-Baseball's postseason is into the League Divisional Series. Former New York Mets General Manager Steve Phillips joins "The Takeout" to discuss.
-
-Date: 2026-10-03
-
-### The Jonas Brothers on their new tour, new podcast and more
-
-The Jonas Brothers are still burnin' up after more than 20 years as a band. Now they're embarking on a nostalgic tour, while working on new music, a podcast, and more. Julianne Ferreira spoke to the brothers on set of a commercial they're shooting for Blue Diamond Almond Breeze in New York City.
-
-Date: 2026-10-01
-
 ## Sources
 
-- ["NCIS: New York" stars LL Cool J and Scott Caan on what to expect this season](https://www.cbsnews.com/video/ncis-new-york-stars-ll-cool-j-and-scott-caan-on-what-to-expect-this-season/?utm_source=lootura.com) — 2026-10-06T15:36:43.000Z
-- [Hoping for Better, 3 Years Since Oct. 7](https://time.com/article/2026/10/06/hoping-for-better-3-years-since-oct-7/?utm_source=lootura.com) — 2026-10-06T15:00:08.000Z
+- [Now that Character.AI is going bankrupt, what happens to all of its users’ data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy?utm_source=lootura.com) — 2026-10-14T18:47:54.000Z

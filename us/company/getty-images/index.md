@@ -3,10 +3,16 @@
 > Follow Getty Images, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-04T04:17:05.684Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/company/getty-images
 
 ## Recent changes
+
+### ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside
+
+Detainees are seen in a yard at the Folkston ICE Processing Center on September 9, 2025, in Folkston, Georgia. (Photo by ELIJAH NOUVELAGE/AFP via Getty Images) | AFP via Getty Images Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditio.
+
+Date: 2026-10-08
 
 ### 4 ways to battle performance anxiety, according to a confidence coach
 
@@ -61,12 +67,6 @@ Date: 2026-09-11
 The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis. (Image credit: Hiroyuki Ito/Getty Images).
 
 Date: 2026-09-09
-
-### New report shows the economic toll of ICE raids
-
-A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue. (Image credit: Scott Olson/Getty Images).
-
-Date: 2026-09-08
 
 ## Sources
 

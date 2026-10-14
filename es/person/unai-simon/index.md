@@ -52,4 +52,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [Alineación de España contra Croacia: De la Fuente sale con todo en Split](https://okdiario.com/deportes/alineacion-espana-contra-croacia-lamine-lidera-asalto-split-20479808?utm_source=lootura.com) — 2026-10-06T17:30:16.000Z
+No public source links.

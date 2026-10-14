@@ -3,71 +3,73 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
 
-### Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales
+### Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a "ceder" como líder si alguien reúne "más consenso"
 
-La Generalitat pide a los ciudadanos de Cataluña “no bajar la guardia” por las lluvias torrenciales que han afectado a gran parte del territorio catalán, con especial virulencia en el litoral de Girona esta mañana. El temporal ha causado la muerte de dos personas en Tordera y en Montornès del Vallès (Barcelona). La pri.
+Los cuatro partidos que impulsan el Frente Amplio apuestan por la ex alcaldesa de Barcelona como referente y la formación 'morada' exige que sea Irene Montero Leer.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### La acampada por la vivienda de Barcelona resiste al temporal: "No nos ganará la crisis climática"
+### La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana
 
-Los activistas mantienen la intención de alargar la acción de manera "indefinida" y piden apoyo con comida y materiales para soportar las jornadas de lluvia y bajas temperaturas que se avecinan El temporal de lluvias en Catalunya deja dos muertos en Tordera y Montornès y un desaparecido en Pineda (Barcelona) Las person.
+El partido de Mónica Oltra insiste en que el diputado Alberto Ibáñez encabece la candidatura de izquierdas, con el rechazo de Més La izquierda valenciana negocia una candidatura única liderada por Compromís e intenta evitar “el espectáculo de Madrid y Barcelona" La batalla interna en Compromís por los puestos de salida.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Dos muertos y un desaparecido por el fuerte temporal en Cataluña
+### Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso
 
-El temporal que azota Cataluña se ha cobrado dos víctimas mortales. Un hombre de 75 años, que ha fallecido este domingo por la mañana tras la caída de un muro en Tordera (Barcelona), cuando se encontraba en un camping de la localidad. Al segundo fallecido lo han localizado los Bomberos tras la inundación de en un garaj.
+La ejecutiva de Esquerra Republicana se ha reunido este miércoles por la tarde y ha lanzado su propuesta para los números 2, 3 y 4 de la candidatura del partido al Congreso por la demarcación de Barcelona. Tras Gabriel Rufián , irán Mireia Ingla (exalcaldesa de Sant Cugat del Vallès), Jordi Albert (portavoz adjunto de.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### El Barcelona atormenta de nuevo al Real Madrid con una goleada histórica en el Camp Nou
+### Aeropuertos al límite y ciudades saturadas: España quiere más turistas, pero no sabe dónde meterlos
 
-Los avisos de tormenta no frenaron el vendaval azulgrana . El primer Clásico liguero en el Camp Nou reunió a 40.533 espectadores —récord en la historia de la Liga F— y se saldó con un demoledor 7-0. Claudia Pina lideró el recital firmando el primer póker de la historia de los duelos entre ambos equipos, idóneo para cer.
+Barcelona pone coto a los cruceros, pero no será suficiente para contener el turismo masivo La crisis de la vivienda y la turismofobia impulsan partidos localistas contra PSOE y PP en Sevilla y Mallorca Martes 15 de septiembre. Interior. Día: el Gobierno aprueba 13.000 millones para ampliar aeropuertos . Domingo 20. Ex.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Un agujero en las últimas 36 horas de la “vida bonita” del arquitecto Juanpere
+### Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona
 
-En plena crisis de la vivienda por el caso Maricarmen , Pedro Sánchez visitó el lunes una promoción de vivienda protegida en el distrito del Poblenou de Barcelona. Es el único inmueble público existente en esa manzana y su sobrio diseño contrasta con el resto de modernos edificios de oficinas de fachadas desiguales y a.
+La decisión resuelve uno de los mayores focos de tensión dentro de la alianza, porque Más Madrid exigía liderar la lista Leer.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### La odisea con la vivienda de los acampados en Barcelona y Madrid: "Ella sufrió más pero me dicen que soy otra Maricarmen"
+### Galatasaray - Barcelona en directo | Flick apuesta por Dani Olmo como falso 9
 
-Tiendas de campaña, toldos y pancartas ocupan desde ya hace varios días la Puerta del Sol y Plaza Cataluña , espacios en los que se concentran las acampadas por del derecho a la vivienda más multitudinarias de España. El Sindicato de Inquilinas cifra ya en más de mil las estructuras instaladas en la plaza madrileña, mi.
+El Barcelona y el Galatasaray se miden este martes a partir de las 21.00 en la segunda jornada de la Champions League . Los de Hansi Flick buscan su segunda victoria en la Liga de Campeones tras golear en su primer enfrentamiento al Feyenoord en el Camp Nou (5-1). Este será el primer viaje europeo del curso para los az.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja
+### Lamine deslumbra en la goleada del Barcelona contra el Galatasaray
 
-Las lluvias torrenciales caídas esta noche en el área metropolitana de Barcelona han dejado a un total de 17.654 clientes sin suministro eléctrico en la Ciudad Condal y algunos municipios de su área metropolitana. Según datos de Protección Civil hasta las 9:30 horas de este domingo, el temporal ha provocado unas 220 in.
+Al Barça le mueve la prisa en Europa. Tiene tanta necesidad de ganar la Champions, tal es su excitación y deseo, que a veces le cuesta o se olvida de jugarla, como si quisiera ser campeón en invierno, tan superior al Galatasaray que sorprendió que al minuto 43 perdiera por 1-0. A una concesión en un repliegue ya muy re.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### La alerta roja deja ya dos muertos y un desaparecido en Barcelona
+### Renfe, Ouigo e Iryo modifican mañana sus trenes Madrid-Barcelona tras el incendio
 
-El episodio excepcional de lluvias torrenciales que afecta a Cataluña ha provocado, de momento, la muerte de dos personas, una en Tordera y otra en Montornès del Vallès , en Barcelona , mientras que los bomberos de la Generalitat buscan a una persona desaparecida en la riera de Pineda. El presidente de la Generalitat,.
+Renfe , Ouigo e Iryo , los operadores ferroviarios que operan la línea de alta velocidad Madrid-Barcelona , han anunciado una serie de modificaciones de su plan de transporte para este miércoles en el marco de las medidas solicitadas por Adif tras el incendio de un tren en Ricla ( Zaragoza ), producido en la víspera. R.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### El temporal obliga a suspender el servicio en Rodalies y la alta velocidad entre Barcelona y Tarragona
+### Un tribunal anula el ‘no’ de Viladecans (Barcelona) a los entierros islámicos
 
-La red de transportes de Cataluña se está viendo muy afectada por el temporal de lluvias torrenciales que ha provocado graves inundaciones en la autonomía y se ha cobrado la vida, al menos, de dos personas . La situación ha obligado a suspender Rodalies, mientras la alta velocidad empieza a recuperar una actividad más.
+El Tribunal Superior de Justicia de Cataluña (TSJC) ha anulado las resoluciones del Ayuntamiento de Viladecans (Barcelona) que rechazaban habilitar zonas reservadas a entierros musulmanes en su cementerio municipal debido a la falta de espacio, al considerar que el consistorio no justificó debidamente la decisión, por.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### El fuerte temporal en Cataluña deja dos muertos, en Tordera y en Montornès del Vallès, cortes de luz y de tren
+### ERC se venga de Colau por robarle la Alcaldía de Barcelona y ganarle en las generales: Podemos podría aportarle 125.000 votos
 
-El episodio excepcional de lluvias torrenciales que afecta a Cataluña ha provocado, de momento, la muerte de dos personas, una en Tordera y otra en Montornès del Vallès, en Barcelona, mientras que los bomberos de la Generalitat buscan a una persona desaparecida en la riera de Pineda. Los Bomberos han confirmado este do.
+Los republicanos también quieren mermar a los Comunes para las municipales de mayo Leer.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
 ## Fuentes
 
-No public source links.
+- [Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a "ceder" como líder si alguien reúne "más consenso"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf3077e4d4d890358b45ae.html?utm_source=lootura.com) — 2026-10-14T07:48:55.000Z
+- [La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana](https://www.eldiario.es/comunitat-valenciana/politica/batalla-interna-compromis-numero-1-valencia-pone-riesgo-gran-acuerdo-izquierda-valenciana_1_13586534.html?utm_source=lootura.com) — 2026-10-14T20:54:14.000Z
+- [Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso](https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html?utm_source=lootura.com) — 2026-10-14T18:17:51.000Z

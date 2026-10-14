@@ -64,6 +64,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’](https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html?utm_source=lootura.com) — 2026-10-06T11:57:43.000Z
-- [El voto particular de los cinco magistrados discrepantes: "El Constitucional suplanta la labor del Tribunal Supremo en la apreciación de la amnistía"](https://www.elmundo.es/espana/2026/10/06/6ac4de4ee4d4d810628b458d.html?utm_source=lootura.com) — 2026-10-06T12:39:10.000Z
-- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z
+No public source links.

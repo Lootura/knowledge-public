@@ -1,0 +1,37 @@
+{
+  "id": "usa-fort-hood",
+  "name": "Fort Hood",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/fort-hood",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/fort-hood",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/fort-hood/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/fort-hood/index.json",
+  "description": "Follow Fort Hood, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "aliases": [
+    "Camp Hood",
+    "Fort Cavazos, TX",
+    "Fort Cavazos, Texas",
+    "Fort Hood, TX"
+  ],
+  "changes": [
+    {
+      "title": "Trump officials now leaning against livestreaming Fort Hood shooter's execution, sources say",
+      "summary": "Trump administration officials are now leaning against livestreaming the Fort Hood mass shooter's execution, sources say.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Why does Pete Hegseth want to livestream an execution?",
+      "summary": "Secretary of Defense Pete Hegseth has proposed livestreaming the execution of a man convicted of the 2009 attack on Fort Hood. Some scholars say the idea is rooted in his religious background.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Fort Hood first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

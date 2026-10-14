@@ -3,10 +3,16 @@
 > Follow Thom Tillis, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-04T17:46:37.529Z
+- Updated: 2026-10-08T21:01:47.022Z
 - Canonical: https://atlas.lootura.com/us/person/thom-tillis
 
 ## Recent changes
+
+### Extended interview: Thom Tillis
+
+GOP Sen. Thom Tillis talks to Major Garrett about his regret voting to confirm Pete Hegseth as defense secretary, his midterm predictions, the Iran war and more.
+
+Date: 2026-10-08
 
 ### GOP senators clear Todd Blanche’s AG path after ‘anti-weaponization’ fund scrapped
 
@@ -14,15 +20,15 @@ Blanche’s nomination had been held up over concerns from GOP Sens. John Cornyn
 
 Date: 2026-08-04
 
-### Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal
-
-Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.
-
-Date: 2026-08-03
-
 ### Discovered by Atlas
 
 Thom Tillis first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-08-03
+
+### Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal
+
+Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.
 
 Date: 2026-08-03
 

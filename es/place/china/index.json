@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/china/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/china/index.json",
   "description": "Sigue la actividad de China en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "All under Heaven",
     "Cathay",
@@ -28,56 +28,63 @@
   ],
   "changes": [
     {
+      "title": "A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?",
+      "summary": "La Unión Europea y China han dado un primer paso para contener sus crecientes tensiones comerciales. Tras varios días en los que el Parlamento Europeo ha reclamado una política más firme hacia Pekín y Francia y Alemania han propuesto nuevas herramientas de defensa comercial, ambas partes alcanzaron el pasado 12 de octu.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Renault pone en duda el futuro de la fábrica de Valladolid si siguen las ayudas a los coches chinos",
+      "summary": "Renault se ha convertido en el fabricante de coches más crítico con la importación de vehículos chinos a Europa. El fabricante galo, que ha unido fuerzas con Stellantis y Volkswagen —el gigante alemán antes era menos categórico respecto a China por la gran importancia que tenía ese mercado en sus ventas y ahora ha endu.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "La UE importará como máximo 350.000 coches híbridos chinos al año",
+      "summary": "Los detalles del primer compromiso alcanzado en las negociaciones comerciales entre la UE y China empiezan a concretarse . Y lo más llamativo es el cupo fijado para los vehículos híbrido e híbridos enchufables que la potencia asiática podrá exportar a Europa: 350.000 al año, apuntan fuentes de la Comisión Europea. Esta.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Carlos Alcaraz cae ante Bergs en Shanghái y se despide del número uno",
+      "summary": "El tenista español Carlos Alcaraz ha caído eliminado este lunes en el torneo de Shanghái (China), octavo ATP Masters 1.000 de la temporada, tras ceder ante el belga Zizou Bergs por 7-5 y 7-6(4) en un intenso encuentro de dos horas y dos minutos de duración , mientras que Rafael Jódar ha accedido a los octavos de final.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Belén Garijo, CEO de Sanofi: \"Las empresas europeas estamos comprometidas con la región, pero la lealtad tiene un límite\"",
+      "summary": "La nueva CEO de Sanofi, el buque insignia francés de las vacunas y la inmunología, señala las carencias del viejo continente ante los desafíos que supone su pérdida de competitividad frente a China y EEUU Leer.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Las claves: el acercamiento entre China y la UE recuerda que están condenados a entenderse",
+      "summary": "Las disputas comerciales son historias de largo recorrido que dan muchas vueltas, pero el “entendimiento” al que llegaron el viernes la Unión Europea y China en torno a limitar el intercambio de vehículos híbridos indica que a ambas partes les conviene llegar a un punto en común. En realidad, el país asiático aspira a.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Condenada a un año de prisión por vender mascarillas falsas de Real Madrid, Atlético, FC Barcelona y diversas marcas",
+      "summary": "La Audiencia Provincial de Madrid ha condenado a una ciudadana china a un año de prisión y una multa de 2.160 euros por vender en un local del polígono Cobo Calleja de Fuenlabrada (Madrid) mascarillas falsas de Real Madrid, Atlético de Madrid, Fútbol Club Barcelona y diversas marcas. En una sentencia, la Audiencia cons.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Nadie lo veía venir pero China movilizó 1.400 barcos dedicados a la pesca para fabricar una barrera marítima de 200 millas",
+      "summary": "China coordinó a mediados de enero la movilización de más de 1.400 barcos pesqueros para formar una gigantesca barrera artificial en el Mar de China Oriental. Esta maniobra, planificada de manera discreta, pone de relieve la capacidad de Pekín para combinar recursos civiles con objetivos estratégicos en zonas de disput.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto",
+      "summary": "Votación de una resolución en el Consejo de Seguridad el 21 de mayo de 2024. lev radin/Shutterstock Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas , el órgano que ostent.",
+      "date": "2026-10-08"
+    },
+    {
       "title": "Nadie lo esperaba, pero la ciencia lo reafirma: China fulmina en 12 años el 98% de la contaminación de su capital",
       "summary": "La contaminación atmosférica ha marcado durante décadas el desarrollo urbano de Pekín . Las partículas en suspensión, especialmente las PM2.5 , situaron a la capital china entre las ciudades con peor calidad del aire del mundo a comienzos de la pasada década. Desde entonces, los datos fueron observados por autoridades.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "¿Puede mi empresa sustituirme por un clon?",
-      "summary": "Trabajadores que se copian a sí mismos. Un ingeniero de la tecnológica china Baidu entrenó a su avatar para que siguiera realizando su trabajo una vez abandonara la compañía. La historia, publicada por la revista digital Sixth Tone , plantea una posibilidad incómoda para los trabajadores. En un escenario así, una empre.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "China convirtió 6.000 botellas de leche en una calle de 300 metros: así se mete el plástico dentro del asfalto",
-      "summary": "Calle de plástico en China: 300 metros de asfalto con 6.000 botellas de leche recicladas. Cómo funciona y qué dicen los estudios sobre microplásticos.",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Santana se alía con el gigante chino BAIC para ensamblar coches eléctricos en Linares",
-      "summary": "El Parque Científico Tecnológico del Transporte Santana, de Linares (Jaén), ha acogido este jueves la firma del acuerdo marco con Arcfox, la división eléctrica premium de BAIC, uno de los gigantes y fabricantes de automóviles de China, que va a hacer posible el ensamblaje en la planta de Santana Motors de vehículos elé.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "¿Dónde será la próxima avalancha? El colapso del glaciar de Nepal lanza un preocupante aviso",
-      "summary": "Las devastadoras inundaciones causadas por el colapso de un glaciar en la frontera de Nepal con China han dejado un trágico balance de cerca de 1.370 muertos y más de 5.100 desaparecidos, según las autoridades nepalíes. A estas cifras hay que sumar al menos 43 muertos y alrededor de 550 desaparecidos en territorio chin.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "EE UU y China se enseñan los dientes por la IA: del miedo al apocalipsis a la guerra fría tecnológica",
-      "summary": "Toda una generación de estadounidenses quedó marcada por el pavor que sintieron cuando un artefacto soviético sobrevoló por encima de sus cabezas: la sonda Sputnik , el primer satélite artificial del planeta Tierra. Ese momento Sputnik no solo espoleó a Estados Unidos en la carrera espacial, que acabó con la URSS desca.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Washington y Pekín coinciden por una vez: la IA no se debe frenar",
-      "summary": "Las principales voces de la industria piden más regulación pero tanto los gobiernos de China como de EEUU ven en la tecnología la herramienta perfecta para dominar la escena geopolítica Leer.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China",
-      "summary": "Lucía Velasco, experta en gobernanza de la inteligencia artifical y codirectora del ‘Oxford AI diplomacy lab’, conversa con EL PAÍS sobre la participación de la UE en el desarrollo de esta tecnología.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "China reacciona a las alertas por la IA denunciando una “agenda oculta” para “estrangular” su tecnología",
-      "summary": "El llamamiento del consejero delegado de Anthropic, Dario Amodei, a pisar el freno en la carrera de la inteligencia artificial (IA) ha abierto un nuevo frente en la rivalidad entre China y Estados Unidos, a las puertas de que se celebre una nueva cumbre entre sus líderes, Xi Jinping y Donald Trump, prevista para dentro.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Trump asegura que la «conspiración enfermiza» existente contra la IA solo alegra a China",
-      "summary": "El presidente de Estados Unidos , Donald Trump , ha cargado contra el consejero delegado de Anthropic, Dario Amodei, tras su reciente carta pública pidiendo frenar el desarrollo de la IA ante los potenciales riesgos, algo que el inquilino de la Casa Blanca ha calificado de «conspiración» que únicamente beneficia a Chin.",
-      "date": "2026-09-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?",
+      "url": "https://theconversation.com/a-mas-competencia-mas-barreras-como-cambian-los-terminos-de-la-relacion-comercial-entre-china-y-europa-293725?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T15:59:39.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

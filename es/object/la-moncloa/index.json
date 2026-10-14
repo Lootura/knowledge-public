@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "Sánchez promete \"cuatro años más\" de \"avances\" frente a la \"carta de defunción del Estado de bienestar\" de PP y Vox",
+      "summary": "El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez , ha prometido este miércoles \"cuatro años más\" de avances sociales, sin recortes y con las pensiones revalorizadas conforme al IPC si continúa en La Moncloa tras las elecciones generales del 29 de noviembre. Frente a este proyecto, ha adver.",
+      "date": "2026-10-14"
+    },
     {
       "title": "Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”",
       "summary": "Con las Cortes ya disueltas, el presidente del Gobierno, Pedro Sánchez, ha empezado la precampaña electoral desde La Moncloa usando la mejor arma de cualquier Ejecutivo: el Boletín Oficial del Estado. Sánchez ha comparecido después de que el Consejo de Ministros aprobara dos nuevos decretos similares a los que tumbó el.",
@@ -58,19 +63,14 @@
       "title": "Ayuso ataca a Sánchez y defiende la compra del ático sin mencionarlo en el debate del estado de la región de Madrid",
       "summary": "Isabel Díaz Ayuso, después de vivir un verano nefasto para sus intereses por la compra de un ático, ha salido este jueves en tromba contra La Moncloa en el debate del estado de la región. La presidenta ha lanzado un alegato apocalíptico de casi dos horas en el que ha dibujado una España a punto del colapso. Si sus enem.",
       "date": "2026-09-10"
-    },
-    {
-      "title": "La asistente de Begoña Gómez pide su absolución y que se condene en costas a la acusación de HazteOir por actuar con \"temeridad\"",
-      "summary": "La defensa la desvincula de la contratación del dominio web del software y advierte de que la causa \"está condenada\" a que no sea juzgada por un jurado popular La Audiencia de Madrid avala a Peinado y ordena juzgar a Begoña Gómez ante un jurado La defensa de Cristina Álvarez, asistente de Begoña Gómez en La Moncloa, ha.",
-      "date": "2026-09-03"
     }
   ],
   "sources": [
     {
-      "title": "Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/sanchez-arranca-la-campana-con-los-decretos-de-vivienda-para-frenar-desahucios-ya-el-gobierno-ni-tira-la-toalla-ni-deja-tirada-a-la-gente.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T12:14:37.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "Sánchez promete \"cuatro años más\" de \"avances\" frente a la \"carta de defunción del Estado de bienestar\" de PP y Vox",
+      "url": "https://www.20minutos.es/aragon/zaragoza/sanchez-promete-zaragoza-cuatro-anos-mas-revalorizacion-las-pensiones-conforme-ipc_7048889_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T18:47:36.000Z",
+      "sourceId": "lootura-es-20minutos"
     }
   ],
   "evidenceCount": 1

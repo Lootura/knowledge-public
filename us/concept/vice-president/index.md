@@ -3,10 +3,16 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-13T23:36:04.754Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
+
+### Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud
+
+Vice President JD Vance singled out the tech firm as he and other officials accused an array of companies and universities of abusing the visa system.
+
+Date: 2026-10-08
 
 ### JD Vance faces test in White House meeting with Israel-backing radio host
 
@@ -59,12 +65,6 @@ Date: 2026-09-11
 ### Vance honors Charlie Kirk on the anniversary of his death
 
 Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.
-
-Date: 2026-09-11
-
-### VP Vance calls out protester at GOP midterm convention
-
-Vice President JD Vance paused his remarks to address a protester he says was waving a Mexican flag inside the convention center, adding, “My friend, if you love Mexico so much, get your ass over there. I’ll buy you the plane ticket.”.
 
 Date: 2026-09-11
 

@@ -3,10 +3,16 @@
 > Sigue la actividad de Función pública en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/organization/funcion-publica
 
 ## Cambios recientes
+
+### Óscar López acusa a Feijóo de «engordar a la ultraderecha» a base de «imitar a Vox»
+
+El ministro para la Transformación Digital y de la Función Pública, Óscar López, ha acusado al presidente del PP y candidato a la presidencia del.
+
+Date: 2026-10-08
 
 ### Óscar López defiende que su Ejecutivo «está gobernando» a la IA
 

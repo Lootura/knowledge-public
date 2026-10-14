@@ -3,10 +3,16 @@
 > Sigue la actividad de Juan Jesús Vivas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/person/juan-jesus-vivas
 
 ## Cambios recientes
+
+### Juan Jesús Vivas, presidente de Ceuta
+
+El centro histórico de Ceuta se engalana para recibir la visita de los reyes de España, don Felipe y doña Letizia. Vecinos ceutíes de distintos ámbitos, como el médico, el empresarial y el juvenil, muestran cómo viven este día significativo para la ciudad autónoma. El presidente de Ceuta, Juan Jesús Vivas, destaca la i.
+
+Date: 2026-10-13
 
 ### Ceuta llama, Sánchez no contesta
 
@@ -59,12 +65,6 @@ Date: 2026-09-14
 ### Vivas afirma que Moncloa le pidió "no llamar más porque se estaban poniendo pesados" tras alertar de la presión migratoria en Ceuta
 
 El presidente de Ceuta, Juan Jesús Vivas, ha asegurado este viernes que desde Moncloa le pidieron "que no llamara más" después de que insistiera en advertir sobre la presión migratoria que sufría la ciudad en los días previos a la entrada masiva de personas desde Marruecos del 30 y 31 de julio. Vivas ha explicado que e.
-
-Date: 2026-09-11
-
-### Vivas revela que Moncloa le pidió "que no llamara más" antes de la avalancha en Ceuta y desmonta los datos de Marlaska
-
-El presidente de Ceuta, Juan Jesús Vivas , ha desvelado este viernes que el Gobierno central ignoró sus reiteradas advertencias sobre la creciente presión migratoria en los días previos a la entrada masiva de unas 80.000 personas. Según ha relatado, desde el Palacio de la Moncloa llegaron a pedirle "que no llamara más".
 
 Date: 2026-09-11
 

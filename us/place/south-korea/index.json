@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/south-korea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/south-korea/index.json",
   "description": "Follow South Korea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T22:21:50.294Z",
+  "updatedAt": "2026-10-13T11:24:39.918Z",
   "aliases": [
     "Choson",
     "Daehan Minguk",
@@ -22,6 +22,16 @@
     "Silla"
   ],
   "changes": [
+    {
+      "title": "At Least 6 Injured in Stabbing in South Korea",
+      "summary": "The police in the city of Incheon said they had arrested one man and were investigating his motive.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "South Korea completes trial of Arctic shipping route",
+      "summary": "A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping.",
+      "date": "2026-10-11"
+    },
     {
       "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
       "summary": "China said the Gwangju Biennale in South Korea was misrepresenting Taiwan as an independent nation. Beijing claims it as its own.",

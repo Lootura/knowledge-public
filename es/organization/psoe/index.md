@@ -3,75 +3,80 @@
 > Sigue la actividad de Partido Socialista Obrero Español en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/psoe
 
 ## Cambios recientes
 
-### El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos
+### Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox
 
-El juez de la Audiencia Nacional Santiago Pedraz ha pedido a la Fiscalía Anticorrupción un informe para que se pronuncie sobre la procedencia de investigar al PSOE como persona jurídica después de que lo haya solicitado el PP, que aglutina a las acusaciones populares tanto en el caso de Leire Díez o de las denominadas.
+El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez , ha prometido este miércoles "cuatro años más" de avances sociales, sin recortes y con las pensiones revalorizadas conforme al IPC si continúa en La Moncloa tras las elecciones generales del 29 de noviembre. Frente a este proyecto, ha adver.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025
+### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
 
-El juez de la Audiencia Nacional Santiago Pedraz ha pedido al PSOE una relación con los nombres de los abogados y consultores que contrató el partido entre los años 2021 y 2025. El magistrado adopta esta decisión en una providencia en la que, según dice, parte de la declaración que prestó como imputada la gerente de la.
+La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP
+### El CIS de Tezanos dispara hasta los 11,8 puntos la ventaja del PSOE sobre el PP tras el desahucio de Maricarmen y la convocatoria electoral
 
-El juez exige al partido todas sus contrataciones de abogados y consultoras entre 2021 y 2025 y la documentación utilizada para justificar los servicios.
+El barómetro pronostica para Vox una intención de voto del 17,1%, lo que supone una subida de cinco décimas, mientras que Sumar/Frente Amplio alcanzaría el 6,1% Leer.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal
+### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
 
-Los 'populares' han registrado un escrito en el que reclaman que también se investigue a su principal rival por "cohecho, malversación, tráfico de influencias y blanqueo de capitales Leer.
+Tras el choque de versiones en el seno del Gobierno por la crisis desencadenada a raíz de la llegada masiva de inmigrantes a Ceuta, Pedro Sánchez ha aupado a Margarita Robles...
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Montero: “La huelga general se convoca contra la oposición por derribar los decretos de vivienda”
+### Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE
 
-No abrigan dudas en el PSOE de que la huelga general convocada por el Sindicato de Inquilinas , a la que se han sumado Comisiones Obreras y UGT, no es contra el Gobierno, sino “contra la oposición por derribar los decretos ley de vivienda”. Así lo cree la vicesecretaria general de PSOE y coordinadora estratégica de la.
+Nueva fractura en el seno del Consejo General del Poder Judicial (CGPJ), en esta ocasión para mostrar el apoyo a la instructora del caso del hermano de Pedro Sánchez, la...
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Barones del PSOE presionan para que Sánchez convoque ya las elecciones: "Hay una ventana de oportunidad ahora que la ciudadanía ha despertado"
+### El PP carga contra la "hipocresía" de la portavoz del PSOE por los "30 pisos" de su pareja: "Es una buitre consorte"
 
-A escasas horas de que Pedro Sánchez traslade si finalmente decide adelantar las elecciones aprovechando la ola de la protesta social por la vivienda, varios barones del PSOE...
+Génova critica a Montse Mínguez por criticar a los "rentistas" mientras comparte su vida con un "desahuciador confeso" Leer.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"
+### El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS
 
-La portavoz de Junts en el Congreso, Miriam Nogueras , ha planteado la disyuntiva en la que a su juicio se encuentra el presidente del Gobierno, Pedro Sánchez : "Si antepone la vivienda al cálculo electoral, hoy nos llamará para negociar sobre vivienda. Si antepone el PSOE, mañana (lunes) convocará elecciones". Así lo.
+El PSOE ganaría las elecciones generales con un 34% del voto en caso de que se celebraran hoy, según el barómetro de octubre del Centro de Investigaciones Sociológicas (CIS), publicado este miércoles. El PSOE crece tres puntos en intención de voto respecto al estudio publicado en septiembre y aumenta su distancia sobre.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox
+### Un cálculo alternativo de los resultados del CIS augura un empate técnico entre PP y PSOE con 119 y 116 diputados
 
-Como en los célebres cinco días de reflexión de abril de 2024, el PSOE ha pasado las últimas horas a la espera de una decisión trascendental de Pedro Sánchez. Si en aquel...
+El 'Contra-CIS' de Ateneo del Dato otorga un 28,2% de los apoyos al PP, seis puntos por encima de lo estimado por la cocina de Tezanos, y un 28,6% de los sufragios a los socialistas, más de cinco puntos menos El primer CIS de la precampaña amplía la ventaja del PSOE sobre el PP a 11,8 puntos Reestimación del CIS de Ate.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso
+### Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco
 
-Después de un fin de semana muy intenso de contactos, de hablar con casi todo el partido, con sus ministros, con sus asesores y con sus principales socios, el presidente, Pedro Sánchez, tiene ya todo listo para comunicar su decisión y anunciar este mismo lunes si adelanta las elecciones de forma inmediata como le han r.
+Patxi López , Rafaela Romero y Javier Hurtado encabezarán las candidaturas del PSE-EE al Congreso de los Diputados en los territorios de Vizcaya, Guipúzcoa y Álava, de acuerdo con la propuesta que las direcciones provinciales presentarán esta misma tarde a los respectivos comités provinciales. El PSE-EE ganó las última.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Sánchez libera su agenda de este lunes y alienta el adelanto electoral: «Es ahora o nunca»
+### Gómez de Celis encabezará la lista del PSOE al Congreso por Sevilla para el 29-N
 
-Sánchez acudirá este lunes por la mañana a un acto económico y a la Ejecutiva del PSOE, pero no tiene nada programado por la tarde.
+El vicepresidente primero del Congreso de los Diputados, Alfonso Rodríguez Gómez de Celis, encabezará la lista del PSOE por la provincia de Sevilla a la.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
 ## Fuentes
 
-- [El juez del caso 'cloacas' imputa al exministro chavista Nervis Villalobos](https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html?utm_source=lootura.com) — 2026-10-06T17:31:14.000Z
-- [El juez del caso cloacas pide al PSOE una lista de los abogados y consultores que contrató entre 2021 y 2025](https://www.elconfidencial.com/espana/2026-10-06/el-juez-del-caso-cloacas-pide-al-psoe-una-lista-de-los-abogados-y-consultores-que-contrato-entre-2021-y-2025_4439493/?utm_source=lootura.com) — 2026-10-06T13:07:00.000Z
-- [Pedraz consulta a la Fiscalía si debe imputar al PSOE por financiación ilegal como pide ya el PP](https://www.elcorreo.com/politica/pp-pide-audiencia-nacional-imputacion-psoe-cinco-20261006124636-ntrc_amp.html?utm_source=lootura.com) — 2026-10-06T10:46:36.000Z
-- [El PP pide en la Audiencia Nacional la imputación del PSOE por financiación ilegal](https://www.elmundo.es/espana/2026/10/06/6ac4cfc0e4d4d80a2f8b45a5.html?utm_source=lootura.com) — 2026-10-06T10:46:07.000Z
-- [Montero: “La huelga general se convoca contra la oposición por derribar los decretos de vivienda”](https://elpais.com/espana/elecciones-generales/2026-10-06/montero-la-huelga-general-se-convoca-contra-la-oposicion-por-derribar-los-decretos-de-vivienda.html?utm_source=lootura.com) — 2026-10-06T12:58:05.000Z
+- [Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox](https://www.20minutos.es/aragon/zaragoza/sanchez-promete-zaragoza-cuatro-anos-mas-revalorizacion-las-pensiones-conforme-ipc_7048889_0.html?utm_source=lootura.com) — 2026-10-14T18:47:36.000Z
+- [Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital](https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/?utm_source=lootura.com) — 2026-10-14T16:50:00.000Z
+- [El CIS de Tezanos dispara hasta los 11,8 puntos la ventaja del PSOE sobre el PP tras el desahucio de Maricarmen y la convocatoria electoral](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf523ee9cf4a48088b4580.html?utm_source=lootura.com) — 2026-10-14T12:06:43.000Z
+- [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
+- [Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE](https://amp.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html?utm_source=lootura.com) — 2026-10-14T09:55:14.000Z
+- [El PP carga contra la "hipocresía" de la portavoz del PSOE por los "30 pisos" de su pareja: "Es una buitre consorte"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf7bd3e4d4d8d2338b45c3.html?utm_source=lootura.com) — 2026-10-14T13:24:27.000Z
+- [El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS](https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-aumenta-la-distancia-sobre-el-pp-hasta-los-118-puntos-tras-la-convocatoria-electoral-segun-el-cis.html?utm_source=lootura.com) — 2026-10-14T11:27:59.000Z
+- [Un cálculo alternativo de los resultados del CIS augura un empate técnico entre PP y PSOE con 119 y 116 diputados](https://www.eldiario.es/politica/calculo-alternativo-resultados-cis-augura-empate-tecnico-pp-psoe_1_13585700.html?utm_source=lootura.com) — 2026-10-14T16:40:00.000Z
+- [Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco](https://theobjective.com/espana/politica/2026-10-14/patxi-lopez-cabeza-lista-psoe-pais-vasco/?utm_source=lootura.com) — 2026-10-14T15:56:00.000Z
+- [Gómez de Celis encabezará la lista del PSOE al Congreso por Sevilla para el 29-N](https://theobjective.com/espana/politica/2026-10-14/gomez-de-celis-psoe-congreso-sevilla-29-n/?amp=&utm_source=lootura.com) — 2026-10-14T21:46:11.000Z

@@ -3,10 +3,46 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-03T19:00:06.756Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### 5 Takeaways From a Heated and Personal Maine Senate Debate
+
+Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.
+
+Date: 2026-10-14
+
+### Iran war and affordability take center stage in Senate debates
+
+The economic backdrop of the 2026 midterms is causing political heartburn for many Republicans. CBS News congressional correspondent Caitlin Huey-Burns joins "The Takeout" with takeaways from the Maine, Georgia and Iowa Senate debates.
+
+Date: 2026-10-14
+
+### An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland
+
+An executive with the Republican super PAC that paid for the ad attacking Troy Jackson, the Democratic Senate candidate in Maine, blamed its vendor for running the ad in Oregon.
+
+Date: 2026-10-13
+
+### US midterm elections: 10 under-the-radar races worth watching
+
+Though Democrats have a strong edge heading into the midterms, some races have openings for Republicans While marquee races from Maine to Michigan get all the attention, and draw in a ton of money, a significant batch of lower-profile contests across the US could result in upsets. Democrats have a strong edge heading i.
+
+Date: 2026-10-13
+
+### How a lobsterman's privacy fight reached SCOTUS — and could ripple far beyond the water: 'Ain't over yet'
+
+One Maine lobsterman isn’t ready to give up after the Supreme Court declined to hear his challenge to a GPS vessel-tracking requirement Monday, fearing it threatens a way of life passed down for generations and could ripple across other industries. For decades, fifth-generation lobsterman Frank Thompson has driven his.
+
+Date: 2026-10-11
+
+### In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive
+
+Half of homes in Maine rely on heating oil. Rising costs driven up by President Trump’s war with Iran have become central to the state’s Senate race.
+
+Date: 2026-10-08
 
 ### CBS News poll finds voters split on state v. national focus in Maine Senate race
 
@@ -32,42 +68,7 @@ Senator Susan Collins, the only Republican seeking re-election in a state Presid
 
 Date: 2026-09-10
 
-### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
-
-Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.
-
-Date: 2026-09-03
-
-### Painter Alex Katz reflects on his career and artistry ahead of 100th birthday
-
-Artist Alex Katz is an American great who just celebrated his 99th birthday. What better way to celebrate than to have an exhibition in Nice, France, this fall titled "Henri Matisse - Alex Katz." Senior arts correspondent Jeffrey Brown visited Katz at his home in Maine for our arts and culture series, CANVAS.
-
-Date: 2026-09-02
-
-### Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters
-
-Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters lead image.
-
-Date: 2026-09-02
-
-### At 91, Dale 'Grey Beard' Sanders reclaims record as oldest hiker to complete the Appalachian Trail
-
-Dale Sanders started last Sept. 6 in West Virginia, hiked the nearly 2,200-mile trail in out-of-order sections with breaks in between, and finished Monday atop Mount Katahdin in Maine.
-
-Date: 2026-08-31
-
-### Platner announced as speaker for activist-led event in Maine
-
-Former Maine Senate candidate Graham Platner, who dropped out of the race last month amid sexual assault allegations , was announced as a speaker for a Labor Day event in Ellsworth, Maine, next month. The event was organized by the groups Hancock County Activists and Acadia Action Peacemakers, according to information.
-
-Date: 2026-08-13
-
-### Maine lifeguard "started swimming like hell" when shark pulled him underwater
-
-A lifeguard said a shark off the coast of Scarborough Beach in Maine grabbed onto his buoy and pulled him 5 feet underwater before he was able to get free.
-
-Date: 2026-08-11
-
 ## Sources
 
-No public source links.
+- [Iran war and affordability take center stage in Senate debates](https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com) — 2026-10-14T22:10:04.000Z
+- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z

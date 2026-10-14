@@ -3,10 +3,16 @@
 > Sigue la actividad de Míriam Nogueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/organization/miriam-nogueras
 
 ## Cambios recientes
+
+### Nogueras cree que a Rufián le está costando decidir «si apuesta por Cataluña o por España»
+
+La portavoz de Junts en el Congreso y candidata a la reelección en las próximas elecciones generales del 29 de noviembre, Míriam Nogueras , ha considerado que al portavoz de ERC en la Cámara baja, Gabriel Rufián , le está costando decidir «si apuesta por Cataluña o por España». Lo ha dicho en una entrevista en El Nacio.
+
+Date: 2026-10-11
 
 ### Junts, a horas de saber si habrá elecciones: "Si Sánchez antepone vivienda, nos llamará. Si antepone el PSOE, habrá elecciones"
 

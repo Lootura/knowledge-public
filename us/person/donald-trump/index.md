@@ -3,80 +3,80 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### Fort Hood shooter Nidal Hasan to be executed by firing squad, Pentagon says
+### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
-The Trump administration has approved a plan to execute former Army Maj. Nidal Hasan — who killed 13 people in a 2009 shooting at Fort Hood — by firing squad, the Pentagon said.
+Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Trump Hits 4 States in 5 Days in Final Push to November Midterms
+### U.S. blasts "embarrassing" complaint against Lebanon's ambassador
 
-With four weeks to go until the crucial midterm elections, President Donald Trump is making an all-out push to rally Republicans, trying to appeal to voters on the economy. The president also made rare reversals on mail-in voting and who will pay for the controversial political ads about himself. NBC’s Gabe Gutierrez r.
+The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Democrats' advantage is clear with less than a month to go in the midterm elections
+### Breaking down September's CPI report as inflation rises to 3.7%
 
-President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month. (Image credit: Finn Gomez).
+Inflation accelerated to 3.7% in September as energy costs soared amid President Trump's war with Iran, a new CPI report shows. CBS News reporter Emily Pandise has more.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### A history of presidents naming things after themselves (It's short. They rarely do)
+### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
 
-While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets. (Image credit: Alex Wroblewski).
+Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### As Trump focuses the FBI on immigration, counterintelligence is falling behind
+### Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate
 
-The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed. (Image credit: Win McNamee).
+With a close race in Michigan, Republican Senate candidate Mike Rogers resisted accusations he would be a ‘rubber stamp’ to the president’s agenda. He speaks to Tom Llamas on Nightly News tonight.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Disney, ABC battle Trump's FCC in court over free speech protections
+### ‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman
 
-President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View , accusing it of being unfair. (Image credit: Mario Tama).
+Retiring Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to share his confidence in Republicans holding onto Congress in the midterms and his distaste for President Trump’s diesel deal with Russia.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric
+### CNN, MS NOW and Politico prevail against White House — for now
 
-The justice told The Associated Press in a rare interview that the rhetoric about the court from Trump and his administration doesn't sit well with him.
+A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial. (Image credit: Graeme Sloan).
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
+### Attorney for banned outlets on legal fight over White House press access
 
-Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.
+A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted B.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### After taxpayer-funded ads glorifying Trump sparked backlash, he says his super PAC will pay instead
+### Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House
 
-In a post on his social media site, President Donald Trump defended the ads, which cost at least $1.5 million in federal funds and have drawn intense criticism.
+A federal judge on Tuesday extended an order blocking President Donald Trump's administration from banning reporters for three news outlets from the White House, a pivotal operational development for the organizations as the extraordinary case — pitting the president against the media that cover him — makes its way thr.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles
+### ‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection
 
-In Nebraska, President Trump announced an executive order to waive an off-road requirement for the fuel, which is exempt from the federal highway tax.
+WASILLA, Alaska — Three weeks out from Election Day, President Donald Trump took a helicopter to a plane to another helicopter to a motorcade to an ice hockey rink in Alaska's Matanuska-Susitna Valley, traversing nearly 4,000 miles over more than eight hours to turn out his base here to help Republicans defend the Sena.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
 ## Sources
 
-- [U.K. arrests 7th man on suspicion of terrorism over air base incident](https://www.cbsnews.com/news/raf-fairford-uk-air-base-7th-arrest-suspicion-terrorism/?utm_source=lootura.com) — 2026-10-06T16:39:00.000Z
-- [Fort Hood shooter Nidal Hasan to be executed by firing squad, Pentagon says](https://www.cbsnews.com/news/nidal-hasan-firing-squad-trump/?utm_source=lootura.com) — 2026-10-06T15:37:00.000Z
-- [Trump Hits 4 States in 5 Days in Final Push to November Midterms](https://www.today.com/video/trump-calls-iran-war-a-small-price-to-pay-drawing-backlash-271104069846?utm_source=lootura.com) — 2026-10-06T11:14:50.000Z
-- [Democrats' advantage is clear with less than a month to go in the midterm elections](https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
-- [A history of presidents naming things after themselves (It's short. They rarely do)](https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com) — 2026-10-06T11:00:00.000Z
-- [As Trump focuses the FBI on immigration, counterintelligence is falling behind](https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
-- [Disney, ABC battle Trump's FCC in court over free speech protections](https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc?utm_source=lootura.com) — 2026-10-06T09:17:00.000Z
-- [Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric](https://www.pbs.org/newshour/politics/alito-says-supreme-court-cant-stem-rise-of-emergency-appeals-not-pleased-with-trumps-rhetoric?utm_source=lootura.com) — 2026-10-06T14:25:51.000Z
-- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z
-- [After taxpayer-funded ads glorifying Trump sparked backlash, he says his super PAC will pay instead](https://www.pbs.org/newshour/politics/after-taxpayer-funded-ads-glorifying-trump-sparked-backlash-he-says-his-super-pac-will-pay-instead?utm_source=lootura.com) — 2026-10-06T17:20:06.000Z
+- [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
+- [U.S. blasts "embarrassing" complaint against Lebanon's ambassador](https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/?utm_source=lootura.com) — 2026-10-14T16:04:49.000Z
+- [Breaking down September's CPI report as inflation rises to 3.7%](https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com) — 2026-10-14T22:34:05.000Z
+- [Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure](https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com) — 2026-10-14T12:51:09.000Z
+- [Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate](https://www.nbcnews.com/nightly-news/video/mike-rogers-dismisses-criticism-he-d-be-rubber-stamp-for-trump-in-senate-271586373618?utm_source=lootura.com) — 2026-10-14T21:19:02.000Z
+- [‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman](https://www.nbcnews.com/meet-the-press/video/-republican-wave-unlikely-but-house-gop-can-hold-their-own-says-outgoing-congressman-271586373540?utm_source=lootura.com) — 2026-10-14T21:05:25.000Z
+- [CNN, MS NOW and Politico prevail against White House — for now](https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com) — 2026-10-14T07:16:02.000Z
+- [Attorney for banned outlets on legal fight over White House press access](https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access?utm_source=lootura.com) — 2026-10-14T22:40:27.000Z
+- [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house?utm_source=lootura.com) — 2026-10-14T15:27:37.000Z
+- [‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection](https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073?utm_source=lootura.com) — 2026-10-14T18:18:37.000Z

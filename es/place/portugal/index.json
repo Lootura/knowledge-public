@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/portugal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/portugal/index.json",
   "description": "Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "POR",
     "PRT",
@@ -17,6 +17,16 @@
     "República de Portugal"
   ],
   "changes": [
+    {
+      "title": "Cristiano Ronaldo vuelve a marcar con el Al Nassr en un partido retrasado por los bombardeos en Riad",
+      "summary": "Cristiano Ronaldo suma y sigue. El delantero portugués volvió a marcar con el Al Nassr y ya son 981 goles, un pasito más cerca de llegar a los ansiados 1.000. Después de su turbulenta salida de la concentración con Portugal , el luso comenzó la Champions asiática con una victoria en la primera jornada ante el Neftchi F.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Descubrimiento inédito entre los biólogos: un parque eólico de Portugal se convierte en refugio para pulpos y otras 270 especies",
+      "summary": "El parque eólico portugués WindFloat Atlantic alberga 272 especies. Pulpos, tiburones y delfines conviven con sus plataformas frente a Viana do Castelo.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Fragmento del día: Portugal",
       "summary": "En Portugal, tras el triunfo de la revolución que derroca al rey Manuel II, se establece la Primera República Portuguesa.",
@@ -56,18 +66,15 @@
       "title": "Las ganancias de las mafias: 24 millones de euros por introducir 2.000 inmigrantes",
       "summary": "Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta que ha contado con la colaboración de Europol y la participación de Policía Nacional de Francia, Policía Judiciaria de Portugal y Policía Nacional de Polonia, han desarticulado una de las estructuras delincuenciales transnacionales más complej.",
       "date": "2026-08-07"
-    },
-    {
-      "title": "Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios",
-      "summary": "Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.",
-      "date": "2026-07-25"
-    },
-    {
-      "title": "El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa",
-      "summary": "El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el collar de la Insigne Orden del Toisón de Oro , la más alta distinción que puede otorgar la Casa Real española y una de las órdenes dinásticas de mayor prestigio del mundo. El Boletín Oficial del Estado (BOE) ha publicado este miércoles el real d.",
-      "date": "2026-07-22"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Mercedes Oblanca (Accenture): “En Europa tenemos talento tecnológico y científico”",
+      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/mercedes-oblanca-accenture-en-europa-tenemos-talento-tecnologico-y-cientifico.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T15:52:59.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
   "evidenceCount": 0
 }

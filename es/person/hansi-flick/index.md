@@ -3,10 +3,22 @@
 > Sigue la actividad de Hansi Flick en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/person/hansi-flick
 
 ## Cambios recientes
+
+### Galatasaray - Barcelona en directo | Flick apuesta por Dani Olmo como falso 9
+
+El Barcelona y el Galatasaray se miden este martes a partir de las 21.00 en la segunda jornada de la Champions League . Los de Hansi Flick buscan su segunda victoria en la Liga de Campeones tras golear en su primer enfrentamiento al Feyenoord en el Camp Nou (5-1). Este será el primer viaje europeo del curso para los az.
+
+Date: 2026-10-13
+
+### Un Barcelona intratable con un inicio de Liga de récord
+
+El Barcelona ha comenzado esta Liga de manera intratable con un inicio de auténtico récord. 24 puntos cosechados en los primeros ocho partidos. Ocho victorias en las primeras ocho jornadas con un juego que aplasta a cada rival que se le pone enfrente. Hansi Flick, en su tercera temporada como técnico azulgrana, ha vuel.
+
+Date: 2026-10-11
 
 ### Las notas de los jugadores del Barça ante el Levante
 

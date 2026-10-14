@@ -3,10 +3,16 @@
 > Sigue la actividad de Óscar Puente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T23:35:46.672Z
 - Canonical: https://atlas.lootura.com/es/person/oscar-puente
 
 ## Cambios recientes
+
+### Pesadilla en un Alvia Pamplona-Madrid: ocho horas sin agua ni comida y gente de pie en los pasillos
+
+Óscar Puente se ha coronado hoy de nuevo como ministro de Transportes con otro hito tercermundista. Los pasajeros del tren Alvia de Renfe entre Pamplona y Madrid que salía este martes por la mañana de la capital navarra han sufrido una auténtica pesadilla para llegar a su destino. El viaje, que tenía que haber durado m.
+
+Date: 2026-10-13
 
 ### El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”
 
@@ -62,12 +68,6 @@ El Gobierno respalda que el ministro de Transportes, Óscar Puente , cuestione l
 
 Date: 2026-09-08
 
-### Puente cuestiona la parcialidad de la jueza que investiga la crisis de Ceuta: "Denota desconfianza"
-
-El ministro de Transportes, Óscar Puente , ha cuestionado la parcialidad" de la jueza de la Audiencia Nacional (AN) María Tardón y ha considerado "bastante extraño" que ésta pidiera al equipo investigador de la Policía Nacional no transmitir a los mandos policiales las conclusiones del informe sobre la entrada masiva d.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-- [El PP inicia la precampaña con un vídeo en el que se burla de una lesión de Óscar Puente: “Miedo le tenías tú a un esguince”](https://elpais.com/espana/elecciones-generales/2026-10-06/el-pp-inicia-la-precampana-con-un-video-en-el-que-se-burla-de-una-grave-lesion-de-oscar-puente-miedo-tu-esguince.html?utm_source=lootura.com) — 2026-10-06T07:23:23.000Z
+No public source links.

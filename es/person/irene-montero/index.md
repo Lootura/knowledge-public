@@ -3,10 +3,40 @@
 > Sigue la actividad de Irene María Montero Gil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/irene-montero
 
 ## Cambios recientes
+
+### Bloqueo en la izquierda: Colau se ofrece a ceder que lidere la figura de "más consenso" y Podemos se atrinchera en que sea Irene Montero
+
+Belarra replica a la ex alcaldesa que el "tándem" Rufián y Montero es "el que la gente estaba esperando" Leer.
+
+Date: 2026-10-14
+
+### Podemos ignora a Colau y se enroca en situar a Irene Montero como candidata de todos: "Ella y Rufián son el equipo titular"
+
+A cuatro días del fin del plazo para pactar, hay conversaciones entre los dos sectores pero chocan en el referente electoral Leer.
+
+Date: 2026-10-13
+
+### Irene Montero confirma que Podemos no se integrará en el Frente Amplio: «No quiero seguir en el bucle infinito»
+
+Podemos y Esquerra Republicana de Catalunya (ERC) hicieron oficial su acuerdo electoral para concurrir de forma coordinada a las elecciones generales del próximo 29 de noviembre. Ambas formaciones han sellado un pacto estratégico a espaldas del Frente Amplio -la coalición heredera de Sumar-, escenificando nuevamente la.
+
+Date: 2026-10-13
+
+### Podemos reivindica su pacto con ERC pero evita aclarar su encaje en el Frente Amplio de Sumar
+
+Irene Montero ha defendido el acuerdo de Podemos con Esquerra Republicana de Catalunya (ERC) como una prueba de que la izquierda puede encontrar fórmulas de colaboración entre partidos diferentes , pero ha evitado aclarar si su formación está dispuesta a incorporarse al Frente Amplio, que ha cerrado filas en torno a Ad.
+
+Date: 2026-10-13
+
+### Frente Amplio confirma a Colau como candidata el 29N y llama a Podemos a unirse tras su acuerdo con Rufián
+
+Los cuatro partidos del Frente Amplio han movido ficha rápidamente, después de que este lunes se conociese que Podemos hará campaña por ERC en Cataluña a cambio de que Gabriel Rufián (que finalmente será cabeza de lista de la formación separatista) participe en actos electorales de Irene Montero : tras varios días de d.
+
+Date: 2026-10-12
 
 ### Junts y Podemos mantienen en vilo al Gobierno sin desvelar si apoyarán los decretos de vivienda
 
@@ -38,36 +68,6 @@ La candidatura de Irene Montero a las elecciones generales de 2027 ya es una rea
 
 Date: 2026-09-12
 
-### Irene Montero se someterá a unas primarias abiertas para abanderar la izquierda en las elecciones generales
-
-La eurodiputada de Podemos y exministra de Igualdad Irene Montero ha manifestado su determinación de ser candidata a las elecciones generales para abanderar la izquierda y, por ello, se ha comprometido a someterse a unas primarias abiertas , en las que podrá participar cualquier persona ajena a su formación. Así lo ha.
-
-Date: 2026-09-12
-
-### Podemos toma la delantera a Sumar y propone unas primarias abiertas para elegir un candidato de toda la izquierda
-
-Los morados oficializan a Irene Montero como su líder para las generales y plantean un proceso al que "se pueda presentar cualquier persona". "Es buena noticia que entiendan" que hay que construir "un espacio lo más amplio posible", "pero vamos paso a paso", responde Movimiento Sumar Podemos sopesaba al menos desde abr.
-
-Date: 2026-09-12
-
-### Irene Montero se presentará a unas primarias «abiertas a todo el mundo» en Podemos
-
-La número dos de Podemos, Irene Montero , ha anunciado este sábado su voluntad de liderar en las próximas elecciones generales una candidatura de izquierdas después de que la formación celebre unas primarias «abiertas a todo el mundo». Irene Montero anuncia que se presenta a unas primarias «abiertas a todo el mundo» en.
-
-Date: 2026-09-12
-
-### Discovered by Atlas
-
-Irene Montero first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-11
-
-### Irene Montero lanza su candidatura para liderar Podemos de cara a las elecciones generales
-
-La eurodiputada de Podemos y exministra de Igualdad, Irene Montero , oficializará su determinación de liderar a la izquierda alternativa a través de una candidatura auspiciada por su partido a las próximas elecciones generales, con el objetivo de que sea lo más amplia posible.Así lo trasladará la también secretaria Pol.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [Bloqueo en la izquierda: Colau se ofrece a ceder que lidere la figura de "más consenso" y Podemos se atrinchera en que sea Irene Montero](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf6e83e85eceb3218b457d.html?utm_source=lootura.com) — 2026-10-14T12:31:01.000Z

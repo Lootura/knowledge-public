@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/parlamento-europeo/index.json",
   "description": "Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "EU Parliament",
     "Europarl",
@@ -20,6 +20,16 @@
     "Parliament of Europe"
   ],
   "changes": [
+    {
+      "title": "A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?",
+      "summary": "La Unión Europea y China han dado un primer paso para contener sus crecientes tensiones comerciales. Tras varios días en los que el Parlamento Europeo ha reclamado una política más firme hacia Pekín y Francia y Alemania han propuesto nuevas herramientas de defensa comercial, ambas partes alcanzaron el pasado 12 de octu.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Juan Ignacio Zoido, eurodiputado: \"Cobras un poco más que un senador, que son 6.000 euros limpios\"",
+      "summary": "El sueldo de los políticos es uno de los asuntos que despierta interés cuando se habla de dinero público. Juan Ignacio Zoido, eurodiputado del PP , ha explicado cuánto cobra y qué supone dedicarse a la política en una entrevista en Adrián Sáenz Podcast. Antes de llegar al Parlamento Europeo, Zoido ejerció como juez dur.",
+      "date": "2026-10-13"
+    },
     {
       "title": "Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»",
       "summary": "Todo el Parlamento Europeo puesto en pie ha aplaudido el discurso del primer ministro canadiense, Mark Carney, en el que ha dicho que «Canadá y Europa son más fuertes juntos» , en respuesta a la propuesta hecha la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, de convertir a su país en el prime.",
@@ -59,18 +69,15 @@
       "title": "Sánchez pone en guardia al PSOE ante un adelanto electoral",
       "summary": "«Las elecciones serán en 2027». En su discurso de inicio de curso ayer ante los miembros del PSOE en el Congreso, el Senado y el Parlamento Europeo, Pedro Sánchez no...",
       "date": "2026-09-07"
-    },
-    {
-      "title": "Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta",
-      "summary": "Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.",
-      "date": "2026-09-05"
-    },
-    {
-      "title": "El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara",
-      "summary": "Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.",
-      "date": "2026-09-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?",
+      "url": "https://theconversation.com/a-mas-competencia-mas-barreras-como-cambian-los-terminos-de-la-relacion-comercial-entre-china-y-europa-293725?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T15:59:39.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

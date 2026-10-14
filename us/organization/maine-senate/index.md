@@ -3,10 +3,22 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-03T19:00:06.756Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### 5 Takeaways From a Heated and Personal Maine Senate Debate
+
+Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.
+
+Date: 2026-10-14
+
+### In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive
+
+Half of homes in Maine rely on heating oil. Rising costs driven up by President Trump’s war with Iran have become central to the state’s Senate race.
+
+Date: 2026-10-08
 
 ### CBS News poll finds voters split on state v. national focus in Maine Senate race
 
@@ -56,18 +68,7 @@ BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of b
 
 Date: 2026-07-25
 
-### Democrats in Maine gather to replace Graham Platner in the race against Susan Collins
-
-Democrats are hoping to move past Platner's scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson. (Image credit: Graeme Sloan).
-
-Date: 2026-07-25
-
-### 5 Things to Know About the Maine Senate Candidate Troy Jackson
-
-Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
-
-Date: 2026-07-20
-
 ## Sources
 
-No public source links.
+- [A Trump Backlash Endangers Susan Collins in the Maine Senate Race](https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html?utm_source=lootura.com) — 2026-10-14T12:26:57.000Z
+- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z

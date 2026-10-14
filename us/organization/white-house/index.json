@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/white-house/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/white-house/index.json",
   "description": "Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "1600 Pennsylvania Avenue",
     "Executive Mansion",
@@ -19,56 +19,87 @@
   ],
   "changes": [
     {
-      "title": "Trump unveils AI task force",
-      "summary": "The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.",
-      "date": "2026-10-04"
+      "title": "How the House landscape is evolving: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-10-14"
     },
     {
-      "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
-      "summary": "This year's election is a test for the working-class coalition that lifted Trump into the White House and gave majorities to Republicans in the House and Senate.",
-      "date": "2026-10-03"
+      "title": "CNN, MS NOW and Politico prevail against White House — for now",
+      "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial. (Image credit: Graeme Sloan).",
+      "date": "2026-10-14"
     },
     {
-      "title": "White House removes CNN from press pool for Trump’s upcoming trip",
-      "summary": "CNN was previously scheduled to fly on Air Force One and also provide on-the-ground coverage of Trump’s trip.",
-      "date": "2026-10-01"
+      "title": "Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role",
+      "summary": "This would not be an easy job under any circumstances.",
+      "date": "2026-10-14"
     },
     {
-      "title": "Trump says he and Republicans have done 'very bad job' touting economic wins",
-      "summary": "As Republicans confront political headwinds on the economy, NBC News’ Garrett Haake and Brian Cheung join Meet the Press NOW to discuss how the White House may be helping or hurting candidates ahead of the midterm elections.",
-      "date": "2026-09-30"
+      "title": "Attorney for banned outlets on legal fight over White House press access",
+      "summary": "A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted B.",
+      "date": "2026-10-14"
     },
     {
-      "title": "In Wooing Wavering Hispanic Voters, Trump Talks ICE, His Ballroom and Himself",
-      "summary": "President Trump veered off the topic at hand during a White House reception for Hispanic Heritage Month.",
-      "date": "2026-09-30"
+      "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+      "summary": "A federal judge on Tuesday extended an order blocking President Donald Trump's administration from banning reporters for three news outlets from the White House, a pivotal operational development for the organizations as the extraordinary case — pitting the president against the media that cover him — makes its way thr.",
+      "date": "2026-10-14"
     },
     {
-      "title": "GOP congresswoman says Trump immigration enforcement has \"gone too far\"",
-      "summary": "\"The same Hispanics who helped you get to the White House in 2024 feel betrayed,\" said Rep. Maria Elvira Salazar.",
-      "date": "2026-09-17"
+      "title": "Judge blocks Trump's White House ban targeting CNN, MS NOW and Politico, saying it likely violated 1st Amendment",
+      "summary": "U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights.",
+      "date": "2026-10-14"
     },
     {
-      "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
-      "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
-      "date": "2026-09-17"
+      "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
+      "summary": "Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.",
+      "date": "2026-10-14"
     },
     {
-      "title": "House passes Russia sanctions bill, overcoming Democratic opposition",
-      "summary": "The bill was championed by GOP Sen. Lindsey Graham, who died suddenly just one day after announcing a deal had been reached with the White House to move forward.",
-      "date": "2026-09-17"
+      "title": "Controversy over new White House press secretary Katie Zacharia's legal credentials",
+      "summary": "Questions are rising over new White House press secretary Katie Zacharia's legal credentials and where she took her bar exam. CBS News' Nancy Cordes reports.",
+      "date": "2026-10-13"
     },
     {
-      "title": "Is Iran Shaping Up to Be a ‘Forever War’?",
-      "summary": "Our White House and national security correspondent, David Sanger, compares past “forever wars” that President Trump campaigned against with an Iran War that has no clear endgame.",
-      "date": "2026-09-16"
+      "title": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says",
+      "summary": "At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.",
+      "date": "2026-10-13"
     },
     {
-      "title": "Susie Wiles, Trump’s Chief of Staff, Says She Is ‘Cancer Free’",
-      "summary": "Ms. Wiles, the first woman to be the White House chief of staff, had said in March that she had breast cancer.",
-      "date": "2026-09-16"
+      "title": "Trump’s new messenger: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-10-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How the House landscape is evolving: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/house-landscape-evolving-politics-desk-rcna603597?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:28:21.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "CNN, MS NOW and Politico prevail against White House — for now",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T07:16:02.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role",
+      "url": "https://www.pbs.org/newshour/politics/katie-zacharias-debut-shows-the-pitfalls-and-possibilities-of-white-house-press-secretarys-role?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T14:28:04.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Attorney for banned outlets on legal fight over White House press access",
+      "url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:40:27.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+      "url": "https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T15:27:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 5
 }

@@ -3,80 +3,76 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros
+### Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox
 
-Arranca la precampaña electoral y el Partido Popular denuncia a Pedro Sánchez ante la Junta Electoral Central por la rueda de prensa que ha dado este martes tras el Consejo de Ministros. Los populares consideran que el presidente del Gobierno ha vulnerado la Ley Electoral al utilizar la Moncloa "para dar un mitin del P.
+El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez , ha prometido este miércoles "cuatro años más" de avances sociales, sin recortes y con las pensiones revalorizadas conforme al IPC si continúa en La Moncloa tras las elecciones generales del 29 de noviembre. Frente a este proyecto, ha adver.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo
+### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
 
-El Gobierno vuelve a la carga con sus medidas de vivienda . El Consejo de Ministros ha aprobado de nuevo este martes los dos reales decretos que el Congreso tumbó el pasado viernes. Y lo ha hecho con algunos cambios. El presidente del Gobierno, Pedro Sánchez, ha defendido que ambos textos mantienen "la esencia" de los.
+La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### España y Francia, los países más inseguros para los judíos, según un sondeo israelí
+### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
 
-La propaganda contra el Gobierno de Israel y su Ejército llevada a cabo por el Gabinete de Pedro Sánchez desde el comienzo de la guerra en Gaza, hace ahora tres años, ha surtido efecto. Al menos, en la opinión pública hebrea. Un sondeo de la Universidad Hebrea publicado por 'The Israel Times' señala que España y Franci.
+Tras el choque de versiones en el seno del Gobierno por la crisis desencadenada a raíz de la llegada masiva de inmigrantes a Ceuta, Pedro Sánchez ha aupado a Margarita Robles...
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad
+### Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE
 
-El líder de Junts carga contra los jueces, Sánchez, Aznar, Junqueras e Illa, sin concretar cuándo volverá a España.
+Nueva fractura en el seno del Consejo General del Poder Judicial (CGPJ), en esta ocasión para mostrar el apoyo a la instructora del caso del hermano de Pedro Sánchez, la...
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Los nuevos decretos de vivienda recuperan el escudo antidesahucios y amplían las ayudas para la construcción
+### Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas
 
-Los dos decretos de vivienda aprobados por el Consejo de Ministros este martes están compuestos casi íntegramente por las mismas partes que los que fueron rechazados en el Congreso el pasado viernes, según la enumeración de medidas que ha hecho el presidente del Gobierno, Pedro Sánchez, en la rueda de prensa posterior.
+Alberto Núñez Feijóo concede una “gravedad extraordinaria” a la información, desvelada por EL PAÍS, de que buques de la Marina Real de Marruecos navegaron sin pedir autorización por aguas de soberanía española coincidiendo con la entrada masiva de inmigrantes del pasado 30 y 31 de julio. El líder del PP reclama al pres.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”
+### Sánchez muestra «todo su apoyo» a Lula antes de la segunda vuelta de las elecciones en Brasil
 
-La jueza de la Audiencia Nacional que investiga la entrada de inmigrantes en Ceuta, María Tardón , ha dictado una providencia en la que le pide al Gobierno de la ciudad autónoma que le mande el listado de llamadas que mantuvo con la Presidencia del Gobierno, tanto el 30 de julio como en fechas anteriores. En la resoluc.
+El presidente del Gobierno, Pedro Sánchez , ha mostrado «todo» su «apoyo» al presidente de Brasil, Lula da Silva , antes de la segunda vuelta de las elecciones generales de Brasil que se celebrarán el próximo 25 de octubre. Lula representa un Brasil que lucha contra la injusticia y la desigualdad, que amplía derechos,.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente
+### El PSOE acusa a todo el mundo, menos a Pedro Sánchez, de los desahucios en Baleares de los últimos años
 
-El BOE ha publicado el Real Decreto de disolución de las Cortes y la convocatoria de elecciones generales para el 29 de noviembre.
+El Govern de Marga Prohens , los promotores de PROINBA o los agentes inmobiliarios de ABINI . Todos ellos son para el PSOE balear los únicos responsables de los desahucios ejecutados en Baleares en los últimos años, como si los lanzamientos no se hubieran producido en base a una legislación estatal aprobada por un Cons.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Sánchez mueve los cubiletes y crea un fondo de 10.000 millones para volver a aprobar los decretos derogados
+### La ‘preocupación’ de Sánchez por la vivienda: tardará hasta 9 años en iniciar la construcción de las 831 VPO de Son Busquets en Palma
 
-El presidente/candidato comparece en la Moncloa para prometer que el Gobierno seguirá gobernando hasta las elecciones. «No vamos a permitir que hay...
+La ‘preocupación’ del Gobierno de Pedro Sánchez por la vivienda: tardará hasta nueve años en aprobar el planeamiento y poder iniciar la construcción de las 831 VPO del antiguo cuartel Son Busquets en Palma tras ignorar la apuesta del alcalde del PP de Palma , Jaime Martínez, por reducir los tiempos a un máximo de entre.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques
+### Sánchez: ¿y ahora qué?, por Esperanza Aguirre
 
-El PP cuenta también con sondeos internos, pero muy diferentes: sitúan al bloque de derecha por encima de los 200 escaños, pero con Vox por encima de 60 y con un margen de crecimiento de 12 más Leer.
+En mitad del día de la Fiesta Nacional, el Tribunal Supremo ha rechazado el recurso del Gobierno y mantiene el veto al voto a los nacionalizados por la.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”
+### Dos mentiras sinceras
 
-Con las Cortes ya disueltas, el presidente del Gobierno, Pedro Sánchez, ha empezado la precampaña electoral desde La Moncloa usando la mejor arma de cualquier Ejecutivo: el Boletín Oficial del Estado. Sánchez ha comparecido después de que el Consejo de Ministros aprobara dos nuevos decretos similares a los que tumbó el.
+Henry Mencken, que era un periodista con bastante mala leche, dejó escrito que para todo problema complejo existe una solución clara, sencilla… y equivocada. Lo dijo hace un siglo, pero la frase podría clavarse hoy con chinchetas en la puerta de las sedes de los principales partidos políticos . Pedro Sánchez disolvió l.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
 ## Fuentes
 
-- [El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros](https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com) — 2026-10-06T16:48:31.000Z
-- [Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo](https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com) — 2026-10-06T13:08:45.000Z
-- [España y Francia, los países más inseguros para los judíos, según un sondeo israelí](https://www.abc.es/internacional/espana-francia-paises-inseguros-judios-segun-sondeo-20261006192029-nt.html?utm_source=lootura.com) — 2026-10-06T17:20:29.000Z
-- [Puigdemont celebra «la derrota de los poderes públicos españoles» y dice que volvería a la unilateralidad](https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt_amp.html?utm_source=lootura.com) — 2026-10-06T16:12:15.000Z
-- [Los nuevos decretos de vivienda recuperan el escudo antidesahucios y amplían las ayudas para la construcción](https://elpais.com/economia/vivienda/2026-10-06/los-nuevos-decretos-de-vivienda-aprobados-por-el-gobierno-blindan-los-desahucios-y-amplian-las-ayudas-para-la-construccion.html?utm_source=lootura.com) — 2026-10-06T11:29:11.000Z
-- [La jueza Tardón pide a Vivas que le mande el listado de llamadas con Sánchez “a la mayor urgencia”](https://www.elconfidencial.com/espana/2026-10-06/tardon-pide-vivas-listado-llamadas-sanchez-urgente_4439504/?utm_source=lootura.com) — 2026-10-06T13:28:00.000Z
-- [Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente](https://www.elcorreo.com/politica/directo-sanchez-comparece-1230-tras-adelanto-electoral-20261006121951-dirc_amp.html?utm_source=lootura.com) — 2026-10-06T10:19:52.000Z
-- [Sánchez mueve los cubiletes y crea un fondo de 10.000 millones para volver a aprobar los decretos derogados](https://www.eldebate.com/espana/20261006/sanchez-mueve-cubiletes-crea-fondo-10000-millones-volver-aprobar-decretos-derogados_466697.html?utm_source=lootura.com) — 2026-10-06T12:46:29.000Z
-- [La encuesta interna que convenció a Sánchez para adelantar las elecciones: Vox se dispara y hay 15 escaños en juego entre bloques](https://www.elmundo.es/espana/2026/10/06/6ac4d9a1fc6c83560c8b4586.html?utm_source=lootura.com) — 2026-10-06T11:50:15.000Z
-- [Sánchez arranca la campaña con los decretos de vivienda para frenar desahucios ya: “El Gobierno ni tira la toalla ni deja tirada a la gente”](https://elpais.com/espana/elecciones-generales/2026-10-06/sanchez-arranca-la-campana-con-los-decretos-de-vivienda-para-frenar-desahucios-ya-el-gobierno-ni-tira-la-toalla-ni-deja-tirada-a-la-gente.html?utm_source=lootura.com) — 2026-10-06T12:14:37.000Z
+- [Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox](https://www.20minutos.es/aragon/zaragoza/sanchez-promete-zaragoza-cuatro-anos-mas-revalorizacion-las-pensiones-conforme-ipc_7048889_0.html?utm_source=lootura.com) — 2026-10-14T18:47:36.000Z
+- [Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital](https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/?utm_source=lootura.com) — 2026-10-14T16:50:00.000Z
+- [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
+- [Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE](https://amp.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html?utm_source=lootura.com) — 2026-10-14T09:55:14.000Z
+- [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z
+- [Sánchez muestra «todo su apoyo» a Lula antes de la segunda vuelta de las elecciones en Brasil](https://theobjective.com/espana/politica/2026-10-14/sanchez-apoyo-lula-segunda-vuelta-brasil/?utm_source=lootura.com) — 2026-10-14T20:13:50.000Z

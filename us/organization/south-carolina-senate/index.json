@@ -1,0 +1,32 @@
+{
+  "id": "usa-south-carolina-senate",
+  "name": "South Carolina Senate",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/south-carolina-senate",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/south-carolina-senate",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/south-carolina-senate/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/south-carolina-senate/index.json",
+  "description": "Follow South Carolina Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-13T11:24:39.918Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Tamara Keith and Amy Walter on the GOP's vulnerability in the midterms",
+      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump on the campaign trail with the midterm elections closing in, the South Carolina Senate race becoming competitive, the closest Senate races and the taxpayer-fu.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "South Carolina Senate first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Can a Democrat Beat Darline Graham? 5 Takeaways From the South Carolina Senate Debate",
+      "summary": "Dr. Annie Andrews, the Democratic challenger, accused Senator Darline Graham of taking her cues from President Trump. Ms. Graham said Dr. Andrews wouldn’t say no to socialists.",
+      "date": "2026-10-12"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

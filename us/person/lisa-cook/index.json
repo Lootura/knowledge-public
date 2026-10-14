@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/lisa-cook/index.json",
   "description": "Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-10T09:17:09.506Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "Dr. Cook",
     "Dr. Lisa Cook",
@@ -49,6 +49,13 @@
       "date": "2026-08-07"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'",
+      "url": "https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:46:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

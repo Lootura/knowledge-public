@@ -3,10 +3,16 @@
 > Sigue la actividad de Agencia Espacial Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-08-13T13:03:33.343Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/organization/agencia-espacial-europea
 
 ## Cambios recientes
+
+### Una nueva imagen satélite desvela cómo Gibraltar sigue invadiendo el mar para su megaproyecto urbanístico
+
+Desde el espacio, el Peñón ya no tiene la misma silueta. Una nueva imagen satélite difundida por la Agencia Espacial Europea (ESA) muestra cómo Gibraltar sigue ganando terreno al mar en su fachada oriental para levantar uno de los mayores desarrollos urbanísticos de su historia.La fotografía llegó a la redacción de OKG.
+
+Date: 2026-10-14
 
 ### Así se vio el eclipse solar del 12 de agosto desde el espacio: las imágenes de la NASA y la ESA
 

@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/borja-semper/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/borja-semper/index.json",
   "description": "Sigue la actividad de Borja Sémper en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-08T21:01:26.973Z",
   "aliases": [
     "Borja Sémper Pascual",
     "Francisco de Borja Sémper Pascual"
   ],
   "changes": [
+    {
+      "title": "Sémper afirma que hay «factores» que hacen que el PP esté inquieto con el voto por correo",
+      "summary": "El portavoz nacional y vicesecretario de Cultura y Deportes del Partido Popular, Borja Sémper , ha asegurado sobre el voto por correo en las próximas elecciones generales del 29 de noviembre que hay «una serie de factores que hacen que el PP esté inquieto ante lo que pueda hacer Pedro Sánchez en todos los ámbitos polít.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Borja Sémper first entered the public knowledge record with source-backed evidence.",
@@ -35,13 +40,6 @@
       "date": "2026-09-12"
     }
   ],
-  "sources": [
-    {
-      "title": "Génova se desmarca de Ayuso y ve \"garantista\" el voto por correo mientras ella se reafirma: \"Todo el mundo tiene que ir a la urna\"",
-      "url": "https://www.elmundo.es/espana/2026/10/06/6ac4ba7ce4d4d8a07c8b45b9.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T10:32:43.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

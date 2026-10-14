@@ -3,10 +3,28 @@
 > Sigue la actividad de Volodímir Zelenski en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/person/volodimir-zelenski
 
 ## Cambios recientes
+
+### Zelenski acusa a Rusia de violar el «alto el fuego energético» anunciado por Trump
+
+El presidente de Ucrania, Volodimir Zelenski , ha acusado a Rusia de llevar a cabo varios ataques contra su país, incluido uno contra una instalación gasística, «violando» el alto el fuego energético con carácer inmediato anunciado este domingo por su homólogo estadounidense, Donald Trump, y del que las autoridades rus.
+
+Date: 2026-10-12
+
+### Trump vuelve a anunciar un «alto el fuego energético» entre Rusia y Ucrania y Zelenski se abre a elecciones
+
+Donald Trump anunció este domingo que Rusia y Ucrania dejarán de atacar sus respectivos sectores energéticos, un día después de que el presidente de EE.UU. exigiera la salida del presidente ucraniano, Volodimir Zelenski, por los bombardeos a refinerías rusas.«Con efecto inmediato, ha comenzado un alto el fuego energéti.
+
+Date: 2026-10-11
+
+### Zelenski condiciona las elecciones en Ucrania a 60 días de «alto al fuego total» con Rusia
+
+El presidente de Ucrania, Volodímir Zelenski , condiciona las elecciones en Ucrania a 60 días de «alto al fuego total» con Rusia . De esta forma ha reaccionado este domingo a las palabras del presidente estadounidense Donald Trump , que reclamaba un nuevo líder para el país de Europa del Este: «Es hora de que Ucrania t.
+
+Date: 2026-10-11
 
 ### Zelenski denuncia ataques rusos en la última semana con más de 3.600 drones y misiles
 
@@ -49,24 +67,6 @@ Date: 2026-07-21
 El presidente de Ucrania, Volodimir Zelenski, cesó a última hora del martes como jefe del Ejército al general Oleksandr Sirski y nombró como nuevo comandante de las Fuerzas Armadas al general Mijailo Drapati, que hasta ahora dirigía las Fuerzas Conjuntas del Ejército. "He decidido que el nuevo comandante en jefe de las.
 
 Date: 2026-07-21
-
-### Discovered by Atlas
-
-Volodímir Zelenski first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-16
-
-### El Parlamento ucraniano aprueba a Serhi Koretski como nuevo primer ministro
-
-El Parlamento de Ucrania ha aprobado este jueves el nombramiento de Serhi Koretski como primer ministro del país, apenas unos días después del cese de su predecesora, Yulia Sviridenko , y tras ser recomendado para el puesto por el presidente ucraniano, Volodimir Zelenski.«La Rada Suprema (Parlamento) de Ucrania ha vota.
-
-Date: 2026-07-16
-
-### Zelenski retoca el liderazgo del servicio de seguridad al designar a Jmara para Defensa
-
-El presidente de Ucrania, Volodimir Zelenski, que designó a Yevgueni Jmara como ministro de Defensa tras la reorganización del Ejecutivo ucraniano ratificada por el Parlamento este jueves, se vio obligado a hacer cambios en el Servicio de Seguridad del país invadido por Rusia (SBU). Según informó el medio "Ukrainska Pr.
-
-Date: 2026-07-16
 
 ## Fuentes
 

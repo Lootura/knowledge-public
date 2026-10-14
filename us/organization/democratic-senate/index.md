@@ -3,10 +3,16 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
+
+### An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland
+
+An executive with the Republican super PAC that paid for the ad attacking Troy Jackson, the Democratic Senate candidate in Maine, blamed its vendor for running the ad in Oregon.
+
+Date: 2026-10-13
 
 ### Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter
 
@@ -52,4 +58,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter](https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html?utm_source=lootura.com) — 2026-10-06T14:32:23.000Z
+No public source links.

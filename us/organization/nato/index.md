@@ -3,10 +3,28 @@
 > Follow NATO, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/organization/nato
 
 ## Recent changes
+
+### How NATO plans to combat potential attacks on the alliance from Russia
+
+NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.
+
+Date: 2026-10-13
+
+### NATO spending pressure returned
+
+With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.
+
+Date: 2026-10-12
+
+### NATO spending pressure returned
+
+"People sometimes view this call to invest more in defense as a hostile thing," Secretary of State Marco Rubio said. "It is not a hostile thing.".
+
+Date: 2026-10-08
 
 ### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
 
@@ -50,24 +68,6 @@ President Trump boarded Air Force One last month as usual. But the Washington Po
 
 Date: 2026-08-12
 
-### NATO spending pressure returned
-
-The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-President Trump secretly left Turkey last month following a NATO summit on a different plane than Air Force One even though many others were still allowed to board. Mr. Trump on Tuesday made his first public comments about the secret switch. Nancy Cordes reports.
-
-Date: 2026-08-12
-
-### NATO spending pressure returned
-
-President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
-
-Date: 2026-08-11
-
 ## Sources
 
-- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z
+No public source links.

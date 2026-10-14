@@ -3,10 +3,16 @@
 > Sigue la actividad de Comisión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/organization/comision-europea
 
 ## Cambios recientes
+
+### La UE importará como máximo 350.000 coches híbridos chinos al año
+
+Los detalles del primer compromiso alcanzado en las negociaciones comerciales entre la UE y China empiezan a concretarse . Y lo más llamativo es el cupo fijado para los vehículos híbrido e híbridos enchufables que la potencia asiática podrá exportar a Europa: 350.000 al año, apuntan fuentes de la Comisión Europea. Esta.
+
+Date: 2026-10-12
 
 ### Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»
 
@@ -61,12 +67,6 @@ Date: 2026-09-16
 Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.
 
 Date: 2026-09-05
-
-### España y Bruselas logran avances en la petición de ayuda europea para la crisis de Ceuta
-
-España y la Comisión Europea han logrado avances «importantes» en la petición de asistencia de emergencia planteada por el Gobierno para recibir apoyo financiero y operativo adicional de la UE con el que gestionar la crisis migratoria en Ceuta , según ha señalado este viernes el comisario europeo de Interior y Migració.
-
-Date: 2026-09-04
 
 ## Fuentes
 

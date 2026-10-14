@@ -70,4 +70,4 @@ Date: 2026-07-14
 
 ## Sources
 
-- [Morning news brief](https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief?utm_source=lootura.com) — 2026-10-06T08:51:39.000Z
+No public source links.

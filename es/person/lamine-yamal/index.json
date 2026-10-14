@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/lamine-yamal/index.json",
   "description": "Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-14T03:30:04.027Z",
   "aliases": [
     "Lamine",
     "Lamine Yamal Nasraoui",
@@ -16,6 +16,11 @@
     "Yamal"
   ],
   "changes": [
+    {
+      "title": "Lamine Yamal también llena la panza del Barça en Europa",
+      "summary": "La estrella, sin marcar, afiló al equipo, bajo la batuta de Pedri, para endosar una goleada al Galatarasay, que se adelantó en el marcador. Empató Cancelo y fueron ampliando la ventaja Fermín, Gordon y Adeyemi en la segunda mitad Leer.",
+      "date": "2026-10-13"
+    },
     {
       "title": "Los OK y KO del sábado, 4 de octubre de 2026",
       "summary": "OK: Alberto Núñez Feijóo Porque ha prometido aprobar un plan de vivienda en su primer mes como presidente del Gobierno. OK: Lamine Yamal Porque ha vuelto a marcar con la selección en el partido de la Nations League contra la República Checa. OK: Jude Bellingham Porque el jugador del Real Madrid ha marcado un gol y dado.",
@@ -60,20 +65,8 @@
       "title": "Nadie habla del verdadero secreto de Lamine Yamal: así se está convirtiendo en el nuevo rey de la moda",
       "summary": "Lamine Yamal ya no solo marca tendencia dentro del campo. Fuera de él, cada fotografía, cada llegada a un estadio y cada publicación en redes sociales se.",
       "date": "2026-08-08"
-    },
-    {
-      "title": "Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»",
-      "summary": "Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.",
-      "date": "2026-08-03"
     }
   ],
-  "sources": [
-    {
-      "title": "Alineación de España contra Croacia: De la Fuente sale con todo en Split",
-      "url": "https://okdiario.com/deportes/alineacion-espana-contra-croacia-lamine-lidera-asalto-split-20479808?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T17:30:16.000Z",
-      "sourceId": "lootura-es-ok-diario"
-    }
-  ],
+  "sources": [],
   "evidenceCount": 0
 }

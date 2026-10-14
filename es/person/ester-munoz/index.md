@@ -3,10 +3,16 @@
 > Sigue la actividad de Ester Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/person/ester-munoz
 
 ## Cambios recientes
+
+### El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”
+
+El PSOE está tratando de usar la palabra “sacrifico” que pronunció ayer Alberto Núñez Feijóo en un acto en Madrid para desgastar al PP. Feijóo aseguró que su Gobierno pedirá “sacrificios”, algo que este domingo ha explicado Ester Muñoz que no está vinculado a recortes en el gasto público como quiere hacer creer el PSOE.
+
+Date: 2026-10-11
 
 ### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
 

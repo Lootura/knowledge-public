@@ -3,10 +3,28 @@
 > Sigue la actividad de Unión Europea en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/union-europea
 
 ## Cambios recientes
+
+### El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE
+
+El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.
+
+Date: 2026-10-14
+
+### Moreno alerta en Bruselas sobre la "invasión" de Ceuta y pide proteger esta "frontera exterior del sur de la Unión Europea"
+
+El presidente de la Junta de Andalucía pide combatir "la polarización y los extremismos" con más presencia de la UE en las regiones Leer.
+
+Date: 2026-10-12
+
+### Las claves: el acercamiento entre China y la UE recuerda que están condenados a entenderse
+
+Las disputas comerciales son historias de largo recorrido que dan muchas vueltas, pero el “entendimiento” al que llegaron el viernes la Unión Europea y China en torno a limitar el intercambio de vehículos híbridos indica que a ambas partes les conviene llegar a un punto en común. En realidad, el país asiático aspira a.
+
+Date: 2026-10-11
 
 ### Sorpresa y buenas sensaciones en la industria financiera ante un producto que esperaba desde hace meses
 
@@ -50,24 +68,6 @@ La crisis migratoria de Ceuta marca el inicio del curso en la Unión Europea. La
 
 Date: 2026-09-16
 
-### Von der Leyen pide vetar las redes a menores de 13 años y un acceso restringido hasta los 15
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , ha anunciado una propuesta para vetar las redes a los menores de 13 años en toda la Unión Europea y permitirles el acceso con restricciones hasta los 15, siguiendo las recomendaciones del grupo de expertos ‘ad hoc’ creado para responder a la presión de países.
-
-Date: 2026-09-16
-
-### Ester Muñoz acusa al Gobierno de alentar "invasiones" en Ceuta y desliza que "pudo promover" la entrada masiva de migrantes
-
-La portavoz del PP en el Congreso ha insistido en que se trata de "un ataque de guerra híbrida destinado a desestabilizar Ceuta y, por tanto, a desestabilizar España y la Unión Europea" Jueces y fiscales progresistas ven desproporcionado suspender el derecho a voto de nacionalizados por la 'ley de nietos' La portavoz d.
-
-Date: 2026-09-13
-
-### Caen las llegadas irregulares de migrantes a la UE pero aumentan las entradas por la ruta del Mediterráneo hacia Baleares
-
-Descienden las entradas irregulares de migrantes a la Unión Europea, en general, pero aumentan las llegadas por la ruta del Mediterráneo occidental, hacia España. Los últimos datos de Frontex, la agencia europea de fronteras, muestran una caída del 35% en las entradas irregulares a la UE en los ocho primeros meses de 2.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE](https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html?utm_source=lootura.com) — 2026-10-14T19:36:12.000Z

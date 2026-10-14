@@ -3,73 +3,78 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base
+### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
-According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.
+Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego
+### Iran war and affordability take center stage in Senate debates
 
-Gov. Gavin Newsom called the president “dangerous and deranged” after his remarks at a political rally, where Mr. Trump said the Iran war was necessary to “keep the world safe.”.
+The economic backdrop of the 2026 midterms is causing political heartburn for many Republicans. CBS News congressional correspondent Caitlin Huey-Burns joins "The Takeout" with takeaways from the Maine, Georgia and Iowa Senate debates.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
+### Breaking down September's CPI report as inflation rises to 3.7%
 
-The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+Inflation accelerated to 3.7% in September as energy costs soared amid President Trump's war with Iran, a new CPI report shows. CBS News reporter Emily Pandise has more.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats
+### News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz
 
-The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
+In our news wrap Wednesday, Iran says a cargo ship sank after hitting a mine in the Strait of Hormuz, the Vatican says Pope Leo is eating and walking again following surgery to remove a cancerous portion of his lung, the Supreme Court heard arguments in a privacy case rooted in the era of VHS tapes and Netflix is cutti.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Iran’s Top Security Official Warns of Dire Economic Crisis
+### Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say
 
-The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.
+Iran-backed Houthi rebels hit the headquarters of the Saudi state-owned oil company Aramco in an overnight strike, two regional officials said Wednesday, damaging the offices of the firm's chief executive and other top officials.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Week in Politics: Inflation pressure; war in Iran and effect on midterm elections
+### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
 
-We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.
+President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
 
-Date: 2026-10-03
+Date: 2026-10-14
 
-### Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’
+### How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid
 
-Amid latest extraordinary attack on diversity, US defense secretary also suggests military is retaining service personnel at ‘record’ rates Send us your questions about how the Iran war will affect US voters in the midterms The US defense secretary, Pete Hegseth, has confirmed plans to cut 20% of generals and admirals.
+For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.
 
-Date: 2026-09-30
+Date: 2026-10-14
 
-### UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says
+### Iran focused on attacking "harder targets," U.K. spy chief warns
 
-The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.
+Iran has made a "major shift" in its efforts to attack the United Kingdom, including going after harder targets such as military bases, the head of MI5 warned.
 
-Date: 2026-09-30
+Date: 2026-10-13
 
-### Democratic senators request Pentagon provide ‘bare minimum’ on cost of Iran war
+### Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen
 
-Nearly the entire Democratic caucus in the Senate is demanding that Defense Secretary Pete Hegseth provide Congress with a full accounting of the cost of the war in Iran along with related budget requests, as frustration grows that the Pentagon is not being forthcoming about the war and its fiscal impact.
+The Iran-backed militia warned it would attack the Saudi energy giant Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.
 
-Date: 2026-09-17
+Date: 2026-10-13
 
-### U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack
+### Suspected plot at U.S.-run air base almost certainly directed by Iran, UK prime minister says
 
-Human rights experts commissioned by the U.N. say they have found "reasonable grounds" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab. (Image credit: Vahid Salemi).
+A suspected plot to attack a U.S.-run military air base in England was "almost certainly" directed by Iran's Revolutionary Guard, British Prime Minister Andy Burnham said Monday.
 
-Date: 2026-09-17
+Date: 2026-10-12
 
 ## Sources
 
-- [U.K. arrests 7th man on suspicion of terrorism over air base incident](https://www.cbsnews.com/news/raf-fairford-uk-air-base-7th-arrest-suspicion-terrorism/?utm_source=lootura.com) — 2026-10-06T16:39:00.000Z
-- [Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base](https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com) — 2026-10-06T04:18:00.000Z
-- [Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego](https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com) — 2026-10-06T07:11:57.000Z
+- [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
+- [Iran war and affordability take center stage in Senate debates](https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com) — 2026-10-14T22:10:04.000Z
+- [Breaking down September's CPI report as inflation rises to 3.7%](https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com) — 2026-10-14T22:34:05.000Z
+- [News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com) — 2026-10-14T22:50:43.000Z
+- [Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say](https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say?utm_source=lootura.com) — 2026-10-14T21:33:30.000Z
+- [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
+- [How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid](https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html?utm_source=lootura.com) — 2026-10-14T09:00:30.000Z
+- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z

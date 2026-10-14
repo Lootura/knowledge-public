@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/salvador-illa/index.json",
   "description": "Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-13T01:48:33.404Z",
   "aliases": [
     "Salvador",
     "Salvador Illa Roca"
   ],
   "changes": [
+    {
+      "title": "Primera crisis entre Illa y ERC por la gestión de TV3 a causa de un reportaje sobre vacunas",
+      "summary": "A 47 días de las elecciones generales, ha estallado la primera crisis entre el presidente catalán, Salvador Illa , y ERC a causa de la gestión de TV3 . Hasta ahora la televisión había vivido un entorno de paz política entre socialistas y republicanos. Pero eso se rompió hoy por la emisión de un programa en el espacio V.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Illa encumbra a Jordi Hereu como candidato del PSC y declara la guerra a Junts: “¿Para qué sirves?”",
+      "summary": "El presidente de la Generalitat y primer secretario del PSC, Salvador Illa, ha encumbrado este domingo al ministro de Industria y Turismo, Jordi Hereu, como candidato de los socialistas catalanes para las elecciones generales del próximo 29 de noviembre. Una designación con la que Illa pretende ampliar el apoyo ciudada.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "La Cataluña NO apaciguada",
+      "summary": "Todos los Gobiernos españoles de la democracia han cometido la misma equivocación: creer que los nacionalistas catalanes —desde Jordi Pujol a Salvador Illa— se contentarían al cederles ciertas reivindicaciones y, como por arte de magia, el llamado «problema catalán» se habría solucionado. ¡Grave error derivado de una i.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
       "summary": "Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.",
@@ -48,30 +63,8 @@
       "title": "Una dimisión inoportuna",
       "summary": "El fichaje de José Luis Trapero como director general de la Policia fue una baza electoral a la que recurrió Salvador Illa en la campaña catalana. De hecho, el actual president lo anunció en un debate de candidatos en TV3 en mayo del 2024. Tal era la importancia y el carisma del policía que dirigió con suma habilidad a.",
       "date": "2026-09-09"
-    },
-    {
-      "title": "Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Illa asegura que la Generalitat hará “todo lo que esté en su mano” para preservar los puestos de trabajo de Seat en Cataluña",
-      "summary": "El presidente de la Generalitat, Salvador Illa, ha prometido este viernes que su gobierno hará “todo lo que esté en su mano” para preservar los puestos de trabajo y la industria catalana ante los ajustes aprobados por el grupo Volkswagen y las dudas que estos han abierto sobre el futuro de Seat. El fabricante alemán ha.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Salvador Illa afirma que hará «lo que sea» para preservar los puestos de Seat en Cataluña",
-      "summary": "El presidente de la Generalitat de Cataluña, Salvador Illa , ha asegurado este viernes que está en contacto con los máximos responsables del grupo Volkswagen y de Seat en la comunidad y que desde el Govern harán «lo que sea» para preservar los puestos de trabajo de la compañía en Cataluña. Así lo ha afirmado en una ate.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
-      "url": "https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T11:33:01.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -70,4 +70,4 @@ Date: 2026-08-10
 
 ## Fuentes
 
-- [El Supremo da 48 horas de plazo para las alegaciones antes de resolver sobre la ley de nietos](https://www.elconfidencial.com/espana/2026-10-06/supremo-48-horas-alegaciones-resolver-ley-nietos_4439499/?utm_source=lootura.com) — 2026-10-06T13:11:00.000Z
+No public source links.

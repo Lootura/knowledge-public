@@ -3,10 +3,34 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T04:16:43.439Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### BT podrá hacer ofertas agresivas en zonas donde compite con VMO2 (Telefónica)
+
+El regulador de Reino Unido ha prohibido a BT que haga ofertas a compañías mayoristas que usan su red de fibra, tras concluir que podría dañar el desarrollo de la red de otros competidores en el país, pero le autoriza a realizar importantes descuentos a terceras compañías en zonas donde compite directamente con VMO2, l.
+
+Date: 2026-10-13
+
+### Reino Unido acusa a un miembro de la Royal Navy de espiar para un país extranjero
+
+Los investigadores desvinculan el incidente del caso en la base aérea de Fairford y los medios británicos apuntan a un posible intento de filtración a Rusia.
+
+Date: 2026-10-08
+
+### Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto
+
+Votación de una resolución en el Consejo de Seguridad el 21 de mayo de 2024. lev radin/Shutterstock Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas , el órgano que ostent.
+
+Date: 2026-10-08
+
+### El asalto de Inditex a Reino Unido, la tierra de Primark: supera los 2.000 millones en ventas e invierte casi 400 millones en dos años
+
+Inditex crece de manera acelerada en uno de los mercados clave de la moda en Europa: Reino Unido. El grupo textil gallego ha encontrado allí un territorio proclive a la expansión de su red de tiendas físicas, en un contexto estratégico en el que ha reducido su número de tiendas en los mercados más maduros. Seguir leyen.
+
+Date: 2026-10-08
 
 ### La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta
 
@@ -43,30 +67,6 @@ Date: 2026-09-13
 Sus declaraciones se producen tras reunirse con el primer ministro irlandés, Micheál Martin Leer.
 
 Date: 2026-09-12
-
-### Trump señala que sería «fantástica» la unificación de Irlanda
-
-El presidente de Estados Unidos, Donald Trump, ha señalado este sábado que le «encantaría» la unificación de Irlanda, incidiendo en que Reino Unido tendría «algo que decir» pero recalcado que sería «algo fantástico».«No quiero causar ningún problema, pero te diré que me encantaría verlo unificado. Tengo amigos en ambos.
-
-Date: 2026-09-12
-
-### Donald Trump asegura que le «encantaría» la unificación de Irlanda
-
-El presidente de Estados Unidos, Donald Trump , ha señalado este sábado que le «encantaría» la unificación de Irlanda , incidiendo en que Reino Unido tendría «algo que decir», pero recalcado que sería «algo fantástico». «No quiero causar ningún problema, pero te diré que me encantaría verlo unificado. Tengo amigos en a.
-
-Date: 2026-09-12
-
-### Milei suspende su viaje al Reino Unido en medio de tensiones por las islas Malvinas
-
-El presidente de Argentina, Javier Milei , suspendió su viaje al Reino Unido programado para el próximo octubre en medio de las tensiones bilaterales por el anuncio de sanciones y denuncias judiciales del mandatario contra petroleras que operan en las islas Malvinas , archipiélago bajo administración británica y cuya s.
-
-Date: 2026-09-10
-
-### Harry y Meghan «algo sorprendidos» por la carta de Carlos III que les recuerda que siguen fuera de la familia real
-
-La vuelta del príncipe Harry y Meghan Markle a Reino Unido vuelve a colocar a los duques de Sussex en el centro de la atención mediática y, una vez más, su relación con la familia real británica está marcada por la polémica . El último episodio tiene como protagonista al rey Carlos III, que ha querido dejar claro cuál.
-
-Date: 2026-09-10
 
 ## Fuentes
 

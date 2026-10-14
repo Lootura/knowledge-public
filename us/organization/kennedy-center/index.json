@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.json",
   "description": "Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-13T11:24:39.918Z",
   "aliases": [
     "JFK Center for the Performing Arts",
     "John F Kennedy Center for the Performing Arts",
@@ -18,6 +18,11 @@
     "The Trump Kennedy Center"
   ],
   "changes": [
+    {
+      "title": "Funding milestone detected",
+      "summary": "Elon Musk looks on as President Donald Trump speaks at the U.S.-Saudi Investment Forum at the John F. Kennedy Center for the Performing Arts in Washington, D.C. on Nov. 19, 2025. —Brendan Smialowski—AFP/Getty Images Elon Musk, the world’s richest man who also spent more than $250 million for President Donald Trump’s re.",
+      "date": "2026-10-13"
+    },
     {
       "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
       "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets. (Image credit: Alex Wroblewski).",
@@ -59,13 +64,6 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [
-    {
-      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T11:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -8,12 +8,42 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/christa-pike/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/christa-pike/index.json",
   "description": "Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-13T11:24:39.918Z",
   "aliases": [
     "Christa",
     "Christa Gail Pike"
   ],
   "changes": [
+    {
+      "title": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
+      "summary": "The first 911 call from inside the prison was made at 8:40 p.m. It took about 30 minutes to verify its authenticity.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "summary": "Pike's attorneys say she is grateful for the care of first responders and her medical team. (Image credit: Tennessee Department of Correction).",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "After Christa Pike’s Botched Execution, Tennessee’s Lethal Injection Protocol Draws Scrutiny",
+      "summary": "The differences between the current protocol and the previous one have become a focus in Christa Pike’s failed execution.",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Christa Pike is ‘Angry and Confused’ After Failed Execution",
+      "summary": "Death row inmate Christa Pike’s attorneys are shedding new light on her ongoing health struggles following the failed execution. “She has pneumonia. She is not able to swallow yet, so she has not eaten,” her attorney said, adding about her mental state, “She is angry and confused about everything right now.” Meanwhile,.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm",
+      "summary": "Her awareness and condition deepen ethical and legal questions after Tennessee’s failed attempt to execute her for murdering a classmate decades ago.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Inmate 'angry and confused' after botched execution",
+      "summary": "Attorneys for the death row inmate at the center of that failed execution in Tennessee revealed why they were shocked when Christa Pike woke-up and began talking. NBC News’ Aaron Gilchrist has more.",
+      "date": "2026-10-07"
+    },
     {
       "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike",
       "summary": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard. (Image credit: George Walker IV).",
@@ -33,35 +63,8 @@
       "title": "Tennessee's prisons chief is resigning after the failed execution of Christa Pike",
       "summary": "Frank Strada said in a statement that resigning was \"in the best interest of Tennesseans\" while an independent review determines what happened Wednesday when the state failed to execute Pike despite administering two doses of a lethal drug.",
       "date": "2026-10-03"
-    },
-    {
-      "title": "Tennessee Prison Commissioner Resigns Days After Failed Execution",
-      "summary": "Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review begins.",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Christa Pike first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Tennessee's attempt to execute Christa Pike using lethal injection fails, emergency motion says",
-      "summary": "Tennessee officials were unable to carry out the execution of Christa Pike, according to an emergency motion filed by her attorneys and media witness reports.",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say",
-      "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike, media witnesses said Wednesday, despite her being administered two doses of a lethal injection drug. In a press conf.",
-      "date": "2026-10-01"
     }
   ],
-  "sources": [
-    {
-      "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T09:00:00.000Z",
-      "sourceId": "lootura-us-npr"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

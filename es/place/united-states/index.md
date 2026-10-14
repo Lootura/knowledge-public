@@ -3,71 +3,72 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### Dos muertos y decenas de heridos en un tiroteo en una fiesta vecinal en el estado de Georgia
+### El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE
 
-Al menos dos personas han muerto y otras 35 han resultado heridas en Georgia ( Estados Unidos ) durante un tiroteo ocurrido en la madrugada de este domingo en la localidad de Vienna, según ha confirmado la oficina de investigación estatal (GBI) en un comunicado .El incidente ocurrió sobre la 1.25 horas durante «una fie.
+El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista
+### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
-La Fuerza Aérea de Estados Unidos ha retirado, a lo largo del fin de semana, sus bombarderos estacionados en una de sus bases militares ubicada en Inglaterra y utilizada para golpear Irán tras una investigación sobre un ataque terrorista. Los aviones que se encontraban en la base de RAF Fairford han vuelto a sus lugare.
+Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### La jornada electoral de Brasil, en imágenes
+### Rubio y varios gobiernos de América expresan su apoyo al papa León XIV tras su diagnóstico de cáncer de pulmón
 
-Este domingo se celebran elecciones presidenciales y legislativas en el país más grande de América Latina.
+El secretario de Estado de Estados Unidos, Marco Rubio , ha expresado este martes su apoyo al papa León XIV tras conocerse su diagnóstico de cáncer de pulmón y pidió fuerzas para el pontífice y guía para los médicos que lo atienden. Rubio indicó, en su cuenta de X, que se encuentra unido en oración con su esposa por la.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Ascensión, la isla desértica que se hizo selva
+### La discoteca de Santander que parece sacada del Chicago de los años 20: esconde una sala tras una puerta secreta
 
-Casi en el punto exacto en mitad del Atlántico entre África y América del Sur, si trazáramos una línea por debajo del ecuador, existe una isla que hace 200 años estaba deshabitada y era, según un escritor de la época, “la abominación de la desolación”. “Ascensión solo produce tortugas, ratas e insomnio”, dijo otro. “La.
+Hubo un tiempo en Estados Unidos en el que pedir una copa podía convertirse en todo un acto de clandestinidad. La Ley Seca , implantada en 1920, prohibió la fabricación, venta y transporte de alcohol y empujó a quienes querían seguir bebiendo hacia los speakeasy : bares secretos ocultos tras puertas discretas, alejados.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Europa vuelve a perder la carrera bursátil contra EE UU, lastrada por la guerra y el retraso tecnológico
+### Somalilandia celebra que Trump se refiera a ellos como «país»
 
-Nadie que lea estas líneas —ni probablemente sus padres— ha visto en vida a una empresa europea como la más valiosa del mundo. Antes de que las cotizadas de Estados Unidos se hicieran con la hegemonía de los mercados financieros, la última compañía europea en ocupar ese puesto fue London & North Western Railway, la gra.
+El Gobierno de Somalilandia ha celebrado este martes como un reconocimiento crucial de sus aspiraciones independentistas las declaraciones realizadas ayer por el presidente de Estados Unidos , Donald Trump , que describía como «un país» a lo que Somalia considera como una parte indisociable de su territorio. El comenta.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Brasil: la pieza que le falta a la marea conservadora en América Latina
+### Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA
 
-Los brasileños acuden este domingo a las urnas para decidir si otorgan un cuarto mandato a Luiz Inácio Lula da Silva, a sus 80 años, o si apuestan, por el contrario, por el nuevo líder de la ultraderecha brasileña, el senador Flavio Bolsonaro, hijo del ex presidente Jair Bolsonaro , que cumple 27 años de prisión domici.
+Las Bolsas asiáticas han sufrido una jornada de pérdidas, presas de la volatilidad que trae consigo la fortísima apuesta de los inversores por la inteligencia artificial. El mercado de Corea del Sur se ha desplomado un 5,4% con caídas virulentas en sus grandes valores, pero esta vez Europa y Estados Unidos han mitigado.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### Autorizan la ejecución de Christa Pike, la primera mujer condenada a muerte en Tennessee
+### La seguridad privada crece y se vuelve un gran negocio en América Latina: ¿por qué, a qué precio y para quién?
 
-El Tribunal Supremo de Estados Unidos ha anulado este miércoles la suspensión concedida horas antes por otra corte sobre la ejecución de Christa Pike , única mujer condenada a muerte en el estado de Tennessee tras ser declarada culpable del asesinato en primer grado en 1996 de una compañera de clase, cuando tenía 19 añ.
+Tres guardias de seguridad privada en Santiago, la capital chilena. Myrarte/Shutterstock Teniendo en cuenta solamente al sector formal, más de 3,7 millones de personas se encuentran involucrados en la esfera de la seguridad privada en América Latina, según el último estudio académico elaborado sobre este tema. Esta cif.
 
-Date: 2026-10-01
+Date: 2026-10-13
 
-### Podcast | Libertad y seguridad: el dilema de América Latina
+### Delcy dice que el diálogo con EEUU y la oposición ayuda a la recuperación económica
 
-La situación en América Latina, protagonista de 'El mundo es tu casa', el podcast de THE OBJECTIVE con LVL.
+La presidenta encargada de Venezuela, Delcy Rodríguez , ha destacado este lunes desde Roma que el diálogo con Estados Unidos y con la oposición han ayudado a la recuperación económica del país. Además, Rodríguez ha anunciado el lanzamiento del Plan Venezuela Alimenta para impulsar la erradicación del hambre en su país.
 
-Date: 2026-10-01
+Date: 2026-10-12
 
-### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
+### EEUU aprovecha el 12-O para pedir a España que tenga unas fronteras «sólidas y seguras»
 
-El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin de la guerra con Irán «esté cerca» y ha insistido en que Teherán «quiere lograr un acuerdo» , en medio del estancamiento de las conversaciones mediadas por Pakistán para poner fin al conflicto abierto en febrero por la ofensiva lanzada por.
+El secretario de Estado de Estados Unidos, Marco Rubio, ha instado a España a «tomar medidas significativas» para «mantener fronteras sólidas y seguras»,.
 
-Date: 2026-09-17
+Date: 2026-10-12
 
-### La lucha de Warsh contra la inflación calma el mercado: las Bolsas y los bonos recuperan el ánimo
+### Expulsiones gemelas: el tirón de pelo de Athenea del Castillo, minutos antes que el de Vinicius
 
-Los mercados de acciones y bonos se recuperan tras la decisión de la Reserva Federal (Fed) de Estados Unidos de subir los tipos de interés —por primera vez en tres años— para combatir la inflación, algo que tranquiliza a los operadores a pesar de suponer un desafío para el presidente Donald Trump. Además, un informe de.
+Certifica su categoría la selección española de fútbol capitaneada por Sonia Bermúdez con una victoria de entidad ante Estados Unidos por 0-2 en el Audi Field de Washington. Destacó la labor de Patri Guijarro y Eva Navarro, con sus goles, y también la de Adriana Nanclares, con sus paradas; en la parte negativa, la de A.
 
-Date: 2026-09-17
+Date: 2026-10-11
 
 ## Fuentes
 
-- [El cierre de Ormuz arrastra a la economía de Oriente Medio a una caída del 2,1% en 2026](https://theobjective.com/internacional/2026-10-06/cierre-ormuz-arrastra-economia-oriente-medio-caida-2026/?utm_source=lootura.com) — 2026-10-06T17:06:27.000Z
+- [El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE](https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html?utm_source=lootura.com) — 2026-10-14T19:36:12.000Z
+- [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z

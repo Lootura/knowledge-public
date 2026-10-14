@@ -2,11 +2,29 @@
 
 > Sigue la actividad de Diputación Permanente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Type: person
+- Actualizado: 2026-10-08T04:28:03.537Z
 - Canonical: https://atlas.lootura.com/es/organization/diputacion-permanente
 
 ## Cambios recientes
+
+### Esteban admite que aprobar el decreto de vivienda en la Diputación Permanente «no es bonito» ni «deseable»
+
+El presidente del PNV reconoce que es «legal», pero que no se debería usar una fórmula que su partido ahora avala.
+
+Date: 2026-10-07
+
+### Felipe González reprocha al PP su desconfianza hacia el voto por correo: «Confío en él»
+
+Felipe González vuelve a la carga contra Pedro Sánchez. Esta vez por sus palabras sobre la soberanía nacional: «Me cuesta trabajo que el presidente del Gobierno diga que el órgano de la soberanía nacional el viernes traicionó a la mayoría de los ciudadanos y que eso lo va a corregir la Diputación Permanente», ha señala.
+
+Date: 2026-10-07
+
+### Discovered by Atlas
+
+Diputación Permanente first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-10-06
 
 ### El PNV votará a favor del decreto de los desahucios y permitirá que salga adelante en la Diputación Permanente
 
@@ -50,18 +68,6 @@ La formación vasca afirma, no obstante, que las medidas aprobadas hoy en el Con
 
 Date: 2026-10-06
 
-### Discovered by Atlas
-
-Diputación Permanente first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-10-06
-
 ## Fuentes
 
-- [El PNV votará a favor del decreto de los desahucios y permitirá que salga adelante en la Diputación Permanente](https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html?utm_source=lootura.com) — 2026-10-06T15:11:21.000Z
-- [Economía resucita la cuenta Financia Europa, la mayor reforma de la inversión en dos décadas](https://cincodias.elpais.com/mercados-financieros/2026-10-06/economia-resucita-la-cuenta-financia-europa-la-mayor-reforma-de-la-inversion-en-dos-decadas.html?utm_source=lootura.com) — 2026-10-06T15:51:46.000Z
-- [Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente](https://www.elcorreo.com/politica/directo-sanchez-comparece-1230-tras-adelanto-electoral-20261006121951-dirc_amp.html?utm_source=lootura.com) — 2026-10-06T10:19:52.000Z
-- [Préstamos al 0 % para comprar casa, prórroga de alquileres y suspensión de desahucios: las medidas que recupera el Gobierno](https://www.eldebate.com/economia/20261006/prestamos-0-comprar-casa-prorroga-alquileres-suspension-desahucios-medidas-recupera-gobierno_466636.html?utm_source=lootura.com) — 2026-10-06T11:20:24.000Z
-- [Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa](https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html?utm_source=lootura.com) — 2026-10-06T11:58:33.000Z
-- [El PNV confirma que salvará con su voto clave el principal decreto de vivienda en la Diputación Permanente](https://www.eldiario.es/euskadi/pnv-confirma-salvara-responsabilidad-decreto-desahucios-diputacion-permanente_1_13566946.html?utm_source=lootura.com) — 2026-10-06T14:57:32.000Z
-- [El PNV apoyará el primer decreto de vivienda en la Diputación Permanente](https://www.expansion.com/economia/2026/10/06/6ac50e44468aeb466a8b4593.html?utm_source=lootura.com) — 2026-10-06T15:06:27.000Z
+No public source links.

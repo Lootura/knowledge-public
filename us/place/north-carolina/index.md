@@ -3,10 +3,16 @@
 > Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T09:12:35.113Z
+- Updated: 2026-10-11T10:39:19.439Z
 - Canonical: https://atlas.lootura.com/us/place/north-carolina
 
 ## Recent changes
+
+### David Plouffe warns Dems: Don’t take North Carolina for granted
+
+National Democrats are increasingly shifting their attention away from North Carolina’s Senate race as polls show former Gov. Roy Cooper ahead, eyeing once long-shot races as possible pickups. But a veteran Democratic strategist who helped deliver the party’s last presidential victory in the state is urging donors not.
+
+Date: 2026-10-10
 
 ### Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina
 
@@ -59,12 +65,6 @@ Date: 2026-09-01
 ### North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal
 
 Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.
-
-Date: 2026-08-11
-
-### North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards
-
-State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.
 
 Date: 2026-08-11
 

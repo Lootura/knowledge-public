@@ -3,10 +3,16 @@
 > Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/jose-manuel-albares
 
 ## Cambios recientes
+
+### Qué ministros irán en las listas al Congreso y quiénes no repetirán
+
+Félix Bolaños, Margarita Robles y José Manuel Albares figuran entre los ministros que concurrirán a las generales del 29 de noviembre, mientras Óscar López y Ángel Víctor Torres se centrarán en las futuras elecciones autonómicas y varias candidaturas siguen pendientes de confirmación. Margarita Robles será la número do.
+
+Date: 2026-10-14
 
 ### Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”
 
@@ -62,12 +68,6 @@ El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel A
 
 Date: 2026-08-13
 
-### Exteriores comunica la muerte de un español en el terremoto en Colombia
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z

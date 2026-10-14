@@ -3,10 +3,40 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
+
+### Cornell Bans Frat Parties, Promises New Safeguards for Students
+
+Cornell University is now suspending all fraternity parties and social events for the rest of the school year, and promising tough new measures to safeguard students. It comes as Cornell’s president is acknowledging missteps in the school’s handling of the Jane Doe case and offering a formal apology for the first time.
+
+Date: 2026-10-14
+
+### More texts revealed between Jane Doe, accused in fraternity rape case
+
+Cornell University shut down all fraternity house parties and social events for the rest of the school year as officials investigate allegations of a gang rape that occurred at a frat in 2024. Mark Strassmann has more.
+
+Date: 2026-10-13
+
+### Cornell University bans frat parties, vows to address 'disturbing' campus culture
+
+In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.' (Image credit: Jeongyoon Han for NPR).
+
+Date: 2026-10-13
+
+### News Wrap: Cornell bans fraternity parties for rest of academic year
+
+In our news wrap Tuesday, Cornell University is banning parties and other social events at fraternities for the rest of the academic year, a man fell to his death while riding a roller coaster at a Six Flags amusement park outside Atlanta, the Supreme Court will hear a case over access to DOGE records and a bipartisan.
+
+Date: 2026-10-13
+
+### Cornell students hold sit-in over alleged 2024 fraternity assault
+
+ITHACA, N.Y. — Cornell University students began a seven-hour sit-in Wednesday in solidarity with Jane Doe, the woman who alleges she was sexually assaulted by members of the Chi Phi fraternity nearly two years ago.
+
+Date: 2026-10-07
 
 ### Cornell rape case provokes questions about ketamine use on campus
 
@@ -38,18 +68,6 @@ Cornell University first entered the public knowledge record with source-backed 
 
 Date: 2026-10-03
 
-### Jane Doe's attorney accuses Cornell of "cover-up" of alleged rape
-
-Lilia Luciano spoke to the attorney for Jane Doe, who says that campus police at Cornell University failed to properly investigate after she was allegedly raped at a fraternity house in 2024.
-
-Date: 2026-10-03
-
-### DA did not review statements and other evidence collected in alleged rape of Cornell student
-
-Cornell University police spoke to witnesses and received tips about an alleged gang rape at a frat house, but the district attorney did not review the information before deciding not to bring charges.
-
-Date: 2026-10-03
-
 ## Sources
 
-- [Cornell rape case provokes questions about ketamine use on campus](https://www.cbsnews.com/video/cornell-rape-case-provokes-questions-about-ketamine-use-on-campus/?utm_source=lootura.com) — 2026-10-06T15:48:46.000Z
+- [Cornell Bans Frat Parties, Promises New Safeguards for Students](https://www.today.com/video/cornell-president-offers-apology-for-first-time-in-jane-doe-case-271547461977?utm_source=lootura.com) — 2026-10-14T11:22:16.000Z

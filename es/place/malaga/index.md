@@ -3,10 +3,28 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Los Reyes se vuelcan con los ceutíes en un efusivo y largo saludo antes de su recepción en el Ayuntamiento
+
+Los reyes Felipe VI y Letizia están ya en Ceuta. Tras aterrizar su helicóptero procedente de Málaga, se han desplazado al Palacio de la Asamblea, donde han saludado, charlado y se han dejado fotografiar durante más de veinte minutos con varios centenares de ceutíes congregados desde primera hora de la mañana a las puer.
+
+Date: 2026-10-13
+
+### Jornada 8 de la Liga: resumen de todos los partidos
+
+Llega la jornada 8 de Liga . Después de un enorme parón internacional, el más largo que se recuerda, vuelve nuestro fútbol. La Primera División vuelve a escena otra vez, con 10 partidos que se celebrarán entre el viernes y el lunes, con un supersábado en el que jugarán cuatro de los cinco equipos de Champions: Málaga-E.
+
+Date: 2026-10-12
+
+### Teresa Tirado, la mujer enferma de cáncer desahuciada en Málaga, logra un piso de alquiler
+
+Teresa Tirado, la vecina malagueña desahuciada y que se encuentra enferma de cáncer ha resultado adjudicataria de una vivienda de segunda ocupación de dos dormitorios en régimen de alquiler a través del cupo de familias en riesgo de exclusión 'FRES'. El precio del alquiler mensual es aproximadamente de 90 euros. En con.
+
+Date: 2026-10-08
 
 ### Restablecido el AVE entre Córdoba y Málaga y la media distancia Sevilla-Málaga y Sevilla-Granada tras una avería
 
@@ -47,24 +65,6 @@ Date: 2026-09-13
 ### Elevada a fase de emergencia 1 el incendio de Málaga y provoca confinamiento preventivo
 
 El consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, Antonio Sanz, en su condición de director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), ha elevado este domingo, alrededor de las 14,00 horas, a fase de emergencia, situación operativa 1, el incendio.
-
-Date: 2026-09-13
-
-### Tres heridos y 50 desalojados por el incendio de Málaga, que augura una noche «activa»
-
-El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, ha cifrado en 50 los vecinos desalojados de la urbanización.
-
-Date: 2026-09-13
-
-### Movilizados 13 efectivos de bomberos para proteger casas en el incendio de Málaga
-
-Un total de 13 efectivos con 6 vehículos del Cuerpo Provincial de Bomberos de Málaga , del parque de bomberos de Estepona, y efectivos del parque de Algatocín intervienen en el incendio forestal declarado este domingo, 13 de septiembre, en el paraje Ermita del Rosario de la localidad malacitana de Benahavís. Así lo ha.
-
-Date: 2026-09-13
-
-### En busca del origen de Málaga, 2.800 años antes de ponerse de moda: "Es de lo mejor del Mediterráneo"
-
-Desde primera hora de la mañana, corredores y ciclistas pasan por el camino terrizo que discurre paralelo al río Guadalhorce . Las zapatillas y las ruedas levantan polvo y, al otro lado de la valla que delimita el sendero, el terreno se abre a una parcela llana, desnuda de vegetación, en la que pocos reparan. Hace vari.
 
 Date: 2026-09-13
 

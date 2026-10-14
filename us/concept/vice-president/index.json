@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T16:13:53.216Z",
+  "updatedAt": "2026-10-13T23:36:04.754Z",
   "aliases": [
     "EVP",
     "VP",
     "veep"
   ],
   "changes": [
+    {
+      "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+      "summary": "Vice President JD Vance singled out the tech firm as he and other officials accused an array of companies and universities of abusing the visa system.",
+      "date": "2026-10-08"
+    },
     {
       "title": "JD Vance faces test in White House meeting with Israel-backing radio host",
       "summary": "NEW YORK — Vice President JD Vance will hit a key hurdle in his fence-mending effort with Jewish Republicans on Thursday when he hosts a popular conservative radio host at the White House. 77 WABC host Sid Rosenberg, a longtime friend and ardent ally of President Donald Trump, has publicly attacked Vance for maintainin.",
@@ -58,11 +63,6 @@
     {
       "title": "Vance honors Charlie Kirk on the anniversary of his death",
       "summary": "Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "VP Vance calls out protester at GOP midterm convention",
-      "summary": "Vice President JD Vance paused his remarks to address a protester he says was waving a Mexican flag inside the convention center, adding, “My friend, if you love Mexico so much, get your ass over there. I’ll buy you the plane ticket.”.",
       "date": "2026-09-11"
     }
   ],

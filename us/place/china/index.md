@@ -3,10 +3,64 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years
+
+Deep in the forests of Yunnan, China, scientists have discovered a "fungal giant" that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, produces vertical fruiting bodies up to 50 cm (20 inches) high and weighing up to 2.2 kg (4.9 pounds)—the largest known within th.
+
+Date: 2026-10-13
+
+### China sentences 3 people to death for running scam centers
+
+Police discovered remains of victims bound with iron chains and with bullet holes in their skulls, state media said.
+
+Date: 2026-10-13
+
+### U.S. restrictions on Chinese drones are hurting cash-strapped police departments
+
+The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones. (Image credit: Albert Yee for NPR).
+
+Date: 2026-10-12
+
+### Ancient people relied on genetic variation already present in wild plants to domesticate crops like rice and corn
+
+Oryza rufipogon is an ordinary-looking wild grass found today in parts of China, India and Southeast Asia. More than 8,000 years ago, people living in the Lower Yangtze Valley began cultivating it.
+
+Date: 2026-10-12
+
+### A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.
+
+Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.
+
+Date: 2026-10-11
+
+### Spinach nanoparticles help failing rat hearts via 'borrowed photosynthesis'
+
+A spinach leaf can turn light into chemical energy. A struggling heart cannot. Researchers in China have brought part of the leaf's energy-making machinery into rat heart cells to test whether borrowed photosynthesis could help an overworked heart.
+
+Date: 2026-10-11
+
+### Trump's economic strategy resemble similar policies in East Asia
+
+Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?
+
+Date: 2026-10-10
+
+### Europe’s Trade Tensions With China Are Coming to a Head
+
+The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.
+
+Date: 2026-10-08
+
+### BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover
+
+While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's.
+
+Date: 2026-10-07
 
 ### Coco Gauff decries "insane" amount of online racism after China match dispute
 
@@ -14,61 +68,6 @@ Coco Gauff said she received an "insane" amount of racist comments on social med
 
 Date: 2026-10-06
 
-### Rising numbers of Asian and African PhD students choose to study in China
-
-Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-02798-6 International students explain the advantages and challenges that come with pursuing a doctoral degree in China.
-
-Date: 2026-10-06
-
-### Stunning fossil shows dinosaurs’ distinctive path to flight
-
-Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.
-
-Date: 2026-10-04
-
-### Brazil's election could shift its ties with the U.S. and China
-
-Brazil is a global supplier of oil, soybeans and critical minerals. Americas Quarterly editor in chief Brian Winter explains how Brazil's presidential election could impact trade with the U.S. and China.
-
-Date: 2026-10-04
-
-### China closes record number of banks as economic growth slows
-
-China closed a record 670 banks last year, or nearly one in four lenders, as Beijing pushes to de-risk amid slowing economic growth. Nearly all were rural banks, which “remain the weakest part of the system , with poor asset quality, low capitalization, and governance shortcomings,” Fitch wrote. After a massive credit.
-
-Date: 2026-10-04
-
-### Stunning fossil shows dinosaurs’ distinctive path to flight
-
-Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8 A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.
-
-Date: 2026-10-03
-
-### In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday
-
-China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.
-
-Date: 2026-10-01
-
-### China Stockpiled Oil, and Now It Could Dominate the Energy Landscape
-
-The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.
-
-Date: 2026-09-17
-
-### Big questions - and key logistical details - loom ahead of China-U.S. summit
-
-Despite the lingering questions, China remains optimistic about the summit. (Image credit: Evan Vucci).
-
-Date: 2026-09-17
-
-### Expert: Images of damaged U.S. bases in Middle East show Iran "getting help from Russia and China"
-
-CBS News has exclusively gained access to photos that show widespread damage at U.S. bases in the Middle East as a result of the war with Iran. Former Defense Department official Matthew Kroenig joins "The Takeout" with his reaction.
-
-Date: 2026-09-16
-
 ## Sources
 
-- [Coco Gauff decries "insane" amount of online racism after China match dispute](https://www.cbsnews.com/news/coco-gauff-online-racism-china-tournament-dispute/?utm_source=lootura.com) — 2026-10-06T09:05:59.000Z
-- [Rising numbers of Asian and African PhD students choose to study in China](https://www.nature.com/articles/d41586-026-02798-6?utm_source=lootura.com) — 2026-10-06T17:55:03.599Z
+No public source links.

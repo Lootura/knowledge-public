@@ -3,10 +3,22 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-03T18:59:43.213Z
+- Actualizado: 2026-10-13T23:35:46.672Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### España pone a prueba a sus francotiradores de élite en unas maniobras de la OTAN en Lituania
+
+El Ejército de Tierra ha participado en unas maniobras internacionales de tiradores de precisión de la OTAN en Lituania , donde ha puesto a prueba sus capacidades de combate junto a militares de otros cinco países aliados. El ejercicio, denominado Baltic Viper Strike 26 , ha reunido a 18 equipos especializados en las i.
+
+Date: 2026-10-13
+
+### Bulgaria rescata a la tripulación de un buque atacado con drones: pide ayuda a la OTAN y convoca a la embajadora rusa
+
+Bulgaria ha encendido las alarmas por los ataques híbridos que sufre Europa en los últimos tiempos: esta vez les ha tocado a ellos y han tenido que rescatar la tripulación de un buque atacado con un dron, presumiblemente ruso , en una escalada que ha provocado que Sofía haya reclamado ayuda tanto de la OTAN como de la.
+
+Date: 2026-10-13
 
 ### El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN
 
@@ -55,18 +67,6 @@ Date: 2026-09-11
 Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
 
 Date: 2026-09-08
-
-### La Armada despliega al Turia, la fuerza antiminas de la OTAN
-
-Hay amenazas que no se ven, que permanecen ocultas bajo el agua y no por ello dejan de ser especialmente peligrosas. Pueden llevar décadas en el fondo del mar y, aún así, conservar intacta su capacidad de destrucción. La mina naval es el arma asimétrica por excelencia: barata, fácil de colocar, difícil de atribuir y ca.
-
-Date: 2026-09-05
-
-### La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia «que no logrará dividir Europa»
-
-La presidenta de la Comisión Europea, Ursula von der Leyen , y el secretario general de la OTAN, Mark Rutte, han celebrado este miércoles una reunión en Bruselas como reacción al ataque de drones atribuidos a Rusia en el aeropuerto de la ciudad alemana de Liepzig . Von der Leyen ha hablado claramente de «un ataque usan.
-
-Date: 2026-09-02
 
 ## Fuentes
 

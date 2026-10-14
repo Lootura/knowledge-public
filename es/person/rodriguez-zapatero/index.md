@@ -3,10 +3,22 @@
 > Sigue la actividad de José Luis Rodríguez Zapatero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/person/rodriguez-zapatero
 
 ## Cambios recientes
+
+### Quién era Juan Rodríguez García-Lozano, el padre de Zapatero: abogado en León e hijo de un capitán republicano fusilado
+
+La abogacía y la memoria familiar marcaron la vida de Juan Rodríguez García-Lozano, padre del expresidente del Gobierno de España José Luis Rodríguez Zapatero , que ha fallecido a los 100 años en León. Licenciado en Derecho , desarrolló su carrera en la capital leonesa. Trabajó en los servicios jurídicos del Ayuntamien.
+
+Date: 2026-10-13
+
+### Muere el padre de Zapatero, el jurista Juan Rodríguez, a los 100 años en León
+
+El jurista Juan Rodríguez García-Lozano , padre del expresidente del Gobierno José Luis Rodríguez Zapatero , ha fallecido en León en el día de ayer a los 100 años. Licenciado en Derecho , ejerció la abogacía en los servicios jurídicos del Ayuntamiento de León y estuvo al frente de un destacado despacho jurídico en la c.
+
+Date: 2026-10-13
 
 ### Sánchez usó a Zapatero como baza con Junts para intentar salvar los decretos de vivienda
 
@@ -55,18 +67,6 @@ Date: 2026-09-10
 El ex consejero delegado de Plus Ultra, Roberto Roselli, ha confirmado este martes en la Audiencia Nacional que la cúpula de la aerolínea sabía que el bolsillo del expresidente del Gobierno, José Luis Rodríguez Zapatero, era el destino final de la comisión ilegal de 530.000 euros pagada a su amigo, el empresario Julio.
 
 Date: 2026-09-08
-
-### El juez Calama rechaza el intento de Zapatero de tumbar el caso Plus Ultra
-
-El juez de la Audiencia Nacional que investiga el 'caso Plus Ultra' , José Luis Calama , ha rechazado la nulidad de las resoluciones judiciales que planteó sobre el caso el expresidente del Gobierno e imputado José Luis Rodríguez Zapatero. En un auto firmado este viernes al que ha tenido acceso El Confidencial, el juez.
-
-Date: 2026-09-04
-
-### Sánchez defiende a Zapatero y asegura que los expresidentes se dedican al ‘lobby’ “en la amplísima mayoría de democracias”
-
-“Hay un legado, una trayectoria, que hace que tengamos que defender más que nunca su presunción de inocencia”. El presidente del Gobierno, Pedro Sánchez, ha defendido este lunes al exjefe del Ejecutivo José Luis Rodríguez Zapatero de las acusaciones por las que permanece investigado en la Audiencia Nacional por presunt.
-
-Date: 2026-08-31
 
 ## Fuentes
 

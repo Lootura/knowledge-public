@@ -3,74 +3,72 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
-### Democrats' advantage is clear with less than a month to go in the midterm elections
+### Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms
 
-President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month. (Image credit: Finn Gomez).
+Former Vice President Kamala Harris will also rally for Democratic candidates in Georgia and Nevada.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### What challenges lie ahead for the Democratic Party as midterms approach
+### He Would Be Florida’s First Black Governor. Can He Sway Black Voters?
 
-Democrats are feeling optimistic ahead of the midterms, but what challenges remain? NPR's A Martinez asks Devan Barber, who leads the Democratic Senatorial Campaign Committee.
+Byron Donalds, the Republican nominee for governor, is working to win over Black voters who usually support Democrats as his party girds for the possibility of low turnout.
 
-Date: 2026-10-06
+Date: 2026-10-13
 
-### Short on Cash, Democrats Weigh Big Bets to Unseat Entrenched Republicans
+### Lin-Manuel Miranda rallies Latino voters for Democratic candidates ahead of midterms
 
-With less money than G.O.P., Democrats are torn over where to spend in the final weeks. The party is making its biggest move in years against one of G.O.P.’s biggest blue-district survivors.
+Democrats' path to flipping the House could come down to their ability to win back Latino voters. NBC News' Liz Kreutz traveled with Broadway icon Lin-Manuel Miranda, who is hitting the campaign trail to boost Democratic congressional candidates in competitive swing districts.
 
-Date: 2026-10-06
+Date: 2026-10-13
 
-### Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter
+### US midterm elections: 10 under-the-radar races worth watching
 
-Democratic Senate candidates have generally out-raised Republicans, but are struggling to match outside spending from Trump-affiliated groups.
+Though Democrats have a strong edge heading into the midterms, some races have openings for Republicans While marquee races from Maine to Michigan get all the attention, and draw in a ton of money, a significant batch of lower-profile contests across the US could result in upsets. Democrats have a strong edge heading i.
 
-Date: 2026-10-06
+Date: 2026-10-13
 
-### Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona
+### Democrats are making corruption messaging a pocketbook issue
 
-Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat. (Image credit: Drew Angerer).
+Democrats may be discovering the political power of calling something rigged. They’re leaning hard into anti-corruption messaging in the final weeks of the campaign as new research suggests that linking corruption to Americans’ economic struggles can boost Democrats into the home stretch. Messaging from Democrats that.
 
-Date: 2026-10-04
+Date: 2026-10-12
 
-### Democrats Lead Governor Races Deep in Republican Territory, Polls Show
+### Democrats Tie Corruption to High Costs in Final Midterms Push
 
-Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.
+Party leaders are working to connect Washington profiteering and the influence of billionaires and corporate America to affordability, in what they hope will be a potent closing message.
 
-Date: 2026-10-04
+Date: 2026-10-12
 
-### Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.
+### David Plouffe warns Dems: Don’t take North Carolina for granted
 
-Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.
+National Democrats are increasingly shifting their attention away from North Carolina’s Senate race as polls show former Gov. Roy Cooper ahead, eyeing once long-shot races as possible pickups. But a veteran Democratic strategist who helped deliver the party’s last presidential victory in the state is urging donors not.
 
-Date: 2026-10-04
+Date: 2026-10-10
 
-### CBS News poll finds Democrats maintain House advantage amid concern about prices
+### James Talarico off the trail with the flu for 12 days
 
-Here are 10 things to know about the 2026 midterm elections, in no particular order, based on what voters are telling us today.
+The bitter fight over a Texas Senate seat that Democrats believe is within reach for the first time in decades should be ramping up right now.
 
-Date: 2026-10-04
+Date: 2026-10-08
 
-### Rahm Emanuel says Democrats should focus on ethics reforms rather than impeaching Trump
+### 5 House districts where Republicans are looking to turn the tables as Democrats eye big midterm wins
 
-Democrats have publicly weighed whether they should pursue impeaching Trump for a third time.
+Here's a look at places where a cash bump and prime issues might help the party hold their own on election night.
 
-Date: 2026-10-04
+Date: 2026-10-08
 
-### Poll: Latino voters swing away from Trump and Republicans
+### Justice Democrats announce new executive director
 
-Democrats have a significant lead among Latino voters in 2026 amid economic concerns, according to the NBC News/Telemundo poll.
+The progressive political action committee Justice Democrats has appointed Rev. Hodari Williams as its new executive director. The change sets the organization up to hone a civil rights message ahead of the 2028 election cycle, Williams told POLITICO. His appointment, shared first with POLITICO, comes at a time when se.
 
-Date: 2026-10-04
+Date: 2026-10-08
 
 ## Sources
 
-- [Democrats' advantage is clear with less than a month to go in the midterm elections](https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
-- [What challenges lie ahead for the Democratic Party as midterms approach](https://www.npr.org/2026/10/06/nx-s1-5991646/what-challenges-lie-ahead-for-the-democratic-party-as-midterms-approach?utm_source=lootura.com) — 2026-10-06T10:53:02.000Z
-- [Short on Cash, Democrats Weigh Big Bets to Unseat Entrenched Republicans](https://www.nytimes.com/2026/10/06/us/politics/democrats-house-races-spending.html?utm_source=lootura.com) — 2026-10-06T15:38:58.000Z
-- [Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter](https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html?utm_source=lootura.com) — 2026-10-06T14:32:23.000Z
+- [Kalshi traders betting Democrats will take Senate control](https://www.cbsnews.com/video/kalshi-traders-bet-democrats-senate-control/?utm_source=lootura.com) — 2026-10-14T22:30:47.000Z
+- [Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms](https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html?utm_source=lootura.com) — 2026-10-14T16:13:42.000Z

@@ -3,10 +3,34 @@
 > Follow Abraham Lincoln, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-10-08T21:01:47.022Z
 - Canonical: https://atlas.lootura.com/us/person/abraham-lincoln
 
 ## Recent changes
+
+### USS Abraham Lincoln returns to San Diego after historic 10-month deployment
+
+The USS Abraham Lincoln docked at its homeport in the San Diego Bay on Thursday after its deployment to the Middle East nearly one year ago. CBS News' Eleanor Watson and Carter Evans report. Then, Ret. Navy Vice Adm. Robert Murrett joins with analysis.
+
+Date: 2026-10-08
+
+### USS Lincoln Set to Port in San Diego After Record Deployment
+
+After a record-setting and difficult deployment to the Middle East, the USS Abraham Lincoln, carrying some 5,000 service members, will finally arrive home. The aircraft carrier that was plagued by supply shortages and low morale during its nearly year-long assignment, is scheduled to dock in San Diego on Thursday, sett.
+
+Date: 2026-10-08
+
+### The long-deployed USS Lincoln is returning home to San Diego
+
+The USS Abraham Lincoln is returning home to San Diego Thursday after supporting the Iran war during a record long deployment of 265 uninterrupted days at sea that included reports of deteriorating conditions among its crew.
+
+Date: 2026-10-08
+
+### Hegseth welcomes return of USS Lincoln after long, troubled deployment
+
+The USS Abraham Lincoln aircraft carrier returns home to California Thursday, the Navy announced Friday, following a record-setting uninterrupted time at sea supporting the Iran war and intense scrutiny over ship conditions.
+
+Date: 2026-10-07
 
 ### After Months at War, Brief Solace in a Party Town Far From Home
 
@@ -43,30 +67,6 @@ Date: 2026-09-02
 After more than 280 days at sea and reports of deteriorating conditions and morale, thousands of sailors and Marines from the USS Abraham Lincoln are finally on land. The ship arrived at a port in Eastern Thailand on Wednesday to take a four-day break from its deployment supporting the war in Iran before heading home t.
 
 Date: 2026-09-02
-
-### U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
-
-Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
-
-Date: 2026-09-02
-
-### U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
-
-Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
-
-Date: 2026-09-02
-
-### U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says
-
-The U.S.S. Abraham Lincoln became an emblem of the strains of the war on the U.S. military. Now its crew will have some rest.
-
-Date: 2026-09-01
-
-### Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln
-
-Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”.
-
-Date: 2026-08-15
 
 ## Sources
 

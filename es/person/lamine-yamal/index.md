@@ -3,10 +3,16 @@
 > Sigue la actividad de Lamine Yamal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/person/lamine-yamal
 
 ## Cambios recientes
+
+### Lamine Yamal también llena la panza del Barça en Europa
+
+La estrella, sin marcar, afiló al equipo, bajo la batuta de Pedri, para endosar una goleada al Galatarasay, que se adelantó en el marcador. Empató Cancelo y fueron ampliando la ventaja Fermín, Gordon y Adeyemi en la segunda mitad Leer.
+
+Date: 2026-10-13
 
 ### Los OK y KO del sábado, 4 de octubre de 2026
 
@@ -62,12 +68,6 @@ Lamine Yamal ya no solo marca tendencia dentro del campo. Fuera de él, cada fot
 
 Date: 2026-08-08
 
-### Lamine Yamal y sus altas exigencias para desayunar en un hotel de lujo: «Inés estaba avergonzada»
-
-Los futbolistas de la selección española siguen acaparando titulares. Está la ruptura de Nico Williams, un supuesto romance de Ferran Torres, los pelos de Marc Cucurella... Y ahora ha llegado un supuesto incidente de Lamine Yamal durante un desayuno en el prestigioso hotel Four Seasons. Según ha relatado el portal 'Coo.
-
-Date: 2026-08-03
-
 ## Fuentes
 
-- [Alineación de España contra Croacia: De la Fuente sale con todo en Split](https://okdiario.com/deportes/alineacion-espana-contra-croacia-lamine-lidera-asalto-split-20479808?utm_source=lootura.com) — 2026-10-06T17:30:16.000Z
+No public source links.

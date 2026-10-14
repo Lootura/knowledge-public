@@ -3,10 +3,16 @@
 > Sigue la actividad de Bélgica en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/place/belgium
 
 ## Cambios recientes
+
+### Descubierto el paradero de Elisabeth de Bélgica: en Madrid y de cena con familia aristócrata
+
+Hacía semanas que no se veía a la Princesa Elisabeth de Bélgica mientras su familia asistía a diversos compromisos institucionales sin ella presente. Terminaba su máster en Harvard y se habría la incógnita: ¿y ahora qué? Y ahora ha sido vista en un destino inesperado, nada más y nada menos que en Madrid. De cena con un.
+
+Date: 2026-10-13
 
 ### El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía
 
@@ -62,12 +68,6 @@ Incontestable. Kimi Antonelli se lleva la pole del GP de Bélgica por delante de
 
 Date: 2026-07-18
 
-### Fernando Alonso es penalizado en el GP de Bélgica y saldrá último, pero con un nuevo AMR26
-
-Aston Martin no se ha quedado de brazos cruzados tras ver que las mejoras preparadas para el GP de Bélgica no han dado resultados . El monoplaza está a casi cinco segundos del mejor tiempo y Fernando Alons o no tiene opciones de competir. La escudería ha sustituido todos los componentes esenciales de la parte eléctrica.
-
-Date: 2026-07-18
-
 ## Fuentes
 
-- [El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía](https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html?utm_source=lootura.com) — 2026-10-06T10:41:20.000Z
+No public source links.

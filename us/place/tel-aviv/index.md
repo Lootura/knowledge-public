@@ -58,4 +58,4 @@ Date: 2026-09-30
 
 ## Sources
 
-- [Flydubai pilot planned a 9/11-style attack on Tel Aviv airport, source says](https://www.nbcnews.com/world/middle-east/flydubai-pilot-planned-crash-israel-airport-tel-aviv-oman-investigatio-rcna601806?utm_source=lootura.com) — 2026-10-06T12:16:55.000Z
+No public source links.

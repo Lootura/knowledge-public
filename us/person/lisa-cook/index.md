@@ -3,7 +3,7 @@
 > Follow Lisa Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-10T09:17:09.506Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/lisa-cook
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-No public source links.
+- [Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'](https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com) — 2026-10-14T21:46:43.000Z

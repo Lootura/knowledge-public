@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/las-ventas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/las-ventas/index.json",
   "description": "Sigue la actividad de Las Ventas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-14T03:30:04.027Z",
   "aliases": [
     "Las Ventas bullring",
     "Las Ventas de Madrid",
@@ -21,6 +21,26 @@
     "plaza de toros de Madrid"
   ],
   "changes": [
+    {
+      "title": "Álvaro Serrano, la joven promesa a la que su abuelo le inoculó el amor por el toreo",
+      "summary": "El pasado 12 de mayo, abrió la Puerta Grande de Las Ventas y brindó un novillo a su abuelo. Aquella misma noche falleció quien le transmitió su pasión por el toreo, pero pudo ver a su nieto triunfar. Ha sido un año durísimo, pero también el de su irrupción como uno de los novilleros con más proyección. Tras una encerro.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Morante confirma el futuro de Aarón Palacio",
+      "summary": "La corrida del 12 de octubre, la corrida de la Hispanidad, estuvo dedicada a Ceuta, y Las Ventas se entregó con una plaza en la que abundaban las banderas de la ciudad autónoma, las banderillas con sus colores, y hasta el preludio del himno ceutí, que sonó antes del nacional. Todo en un tono de sincera emotividad, la m.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Cuatro naturales de Morante y un tendido dividido",
+      "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Morante de la Puebla , Héctor Gutiérrez y Aarón Palacio hoy.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Toros en Las Ventas de Madrid por la Feria de Otoño, en directo: última hora de Antonio Ferrera y Román hoy",
+      "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Antonio Ferrera y Román hoy.",
+      "date": "2026-10-11"
+    },
     {
       "title": "Sin ideas Borja (desde el inicio de faena al revés) con el sexto",
       "summary": "Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Victorino Martín para Uceda Leal, Paco Ureña y Borja Jiménez hoy.",

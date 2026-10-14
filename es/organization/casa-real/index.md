@@ -3,10 +3,22 @@
 > Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/organization/casa-real
 
 ## Cambios recientes
+
+### El Rey fue informado a posteriori de la invasión marroquí de aguas españolas y se implicó con la cúpula militar
+
+Cada gesto de Casa Real tiene detrás un motivo y un porqué. La invasión de Ceuta por miles de inmigrantes cruzando la frontera del Tarajal el 30 de julio fue concebida desde el...
+
+Date: 2026-10-13
+
+### Un pulso de optimismo electoral entre los partidos marca los corrillos del 12-O
+
+El adelanto electoral acaparó toda la atención de los tradicionales corrillos de la recepción que los Reyes ofrecen cada año en el Palacio Real con motivo del 12 de Octubre. Los periodistas que cubren habitualmente la información de la Casa Real recuerdan que antaño las conversaciones en un clima distendido eran coment.
+
+Date: 2026-10-12
 
 ### El emotivo reencuentro de los Reyes Federico y Mary de Dinamarca con Isabella tras su ingreso en el ejército
 
@@ -53,18 +65,6 @@ Date: 2026-08-04
 ### Discovered by Atlas
 
 Casa real first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-01
-
-### El Rey, «indignado», advierte de que el Estado «debe velar» por la seguridad en Ceuta y Melilla
-
-En un gesto inhabitual, la Casa Real difunde un mensaje de Felipe VI que da la medida de la gravedad de la crisis.
-
-Date: 2026-08-01
-
-### El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan
-
-Felipe VI ha expresado su “gran preocupación e indignación” ante los “graves acontecimientos” ocurridos en Ceuta, adonde más de 50.000 personas entraron procedentes de Marruecos entre el jueves y viernes. A través de un mensaje hecho público este sábado por la Casa Real, el monarca ha informado de que, “a lo largo de e.
 
 Date: 2026-08-01
 

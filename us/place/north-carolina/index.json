@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/north-carolina/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/north-carolina/index.json",
   "description": "Follow North Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-17T09:12:35.113Z",
+  "updatedAt": "2026-10-11T10:39:19.439Z",
   "aliases": [
     "NC, United States",
     "North Carolina (US)",
@@ -18,6 +18,11 @@
     "The Tar Heel State"
   ],
   "changes": [
+    {
+      "title": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+      "summary": "National Democrats are increasingly shifting their attention away from North Carolina’s Senate race as polls show former Gov. Roy Cooper ahead, eyeing once long-shot races as possible pickups. But a veteran Democratic strategist who helped deliver the party’s last presidential victory in the state is urging donors not.",
+      "date": "2026-10-10"
+    },
     {
       "title": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina",
       "summary": "Whatley, the former Republican National Committee chairman, faces Democratic former Gov. Roy Cooper in a critical race for the Senate.",
@@ -61,11 +66,6 @@
     {
       "title": "North Carolina G.O.P. Picks Replacement for Candidate Plagued by Scandal",
       "summary": "Representative Chuck Edwards dropped his re-election bid amid sexual harassment allegations. His replacement, Jennifer Balkcom, has about 80 days to campaign.",
-      "date": "2026-08-11"
-    },
-    {
-      "title": "North Carolina GOP chooses replacement candidate for Rep. Chuck Edwards",
-      "summary": "State Rep. Jennifer Balkcom will face Jamie Ager on the ballot in November.",
       "date": "2026-08-11"
     }
   ],

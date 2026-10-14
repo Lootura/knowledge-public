@@ -3,10 +3,16 @@
 > Follow Tupac Shakur, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T15:57:21.261Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/person/tupac-shakur
 
 ## Recent changes
+
+### Duane Davis sentenced to 40 years to life for 1996 murder of Tupac Shakur
+
+Duane "Keffe D" Davis was sentenced to 40 years to life in connection to the 1996 murder of Tupac Shakur. The sentence includes a 20-year mandatory enhancement for profiting off the murder. NBC News' Dana Griffin details what Tupac’s family said during the sentencing.
+
+Date: 2026-10-13
 
 ### Defense attorney believes jury had "preconceived notions" in Tupac trial
 

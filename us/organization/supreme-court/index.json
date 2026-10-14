@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/supreme-court/index.json",
   "description": "Follow Supreme court, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "U.S. Supreme Court",
     "apex court",
@@ -16,6 +16,46 @@
     "highest court of appeal"
   ],
   "changes": [
+    {
+      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
+      "summary": "In our news wrap Wednesday, Iran says a cargo ship sank after hitting a mine in the Strait of Hormuz, the Vatican says Pope Leo is eating and walking again following surgery to remove a cancerous portion of his lung, the Supreme Court heard arguments in a privacy case rooted in the era of VHS tapes and Netflix is cutti.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Supreme Court Again Sides With Republicans in Political TV Ad Fight",
+      "summary": "The Trump administration had filed an emergency application asking the justices to intervene in a long-running dispute over political ad rates.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "News Wrap: Cornell bans fraternity parties for rest of academic year",
+      "summary": "In our news wrap Tuesday, Cornell University is banning parties and other social events at fraternities for the rest of the academic year, a man fell to his death while riding a roller coaster at a Six Flags amusement park outside Atlanta, the Supreme Court will hear a case over access to DOGE records and a bipartisan.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Supreme Court to consider if Nigerian man who cooked for terrorist leaders is ineligible for asylum",
+      "summary": "The high court said Tuesday it will hear arguments on whether Izuchukwu Ozurumba's cooking job for leaders of the Unknown Gunmen qualifies as providing \"material support\" for a terrorist group.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "How a lobsterman's privacy fight reached SCOTUS — and could ripple far beyond the water: 'Ain't over yet'",
+      "summary": "One Maine lobsterman isn’t ready to give up after the Supreme Court declined to hear his challenge to a GPS vessel-tracking requirement Monday, fearing it threatens a way of life passed down for generations and could ripple across other industries. For decades, fifth-generation lobsterman Frank Thompson has driven his.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "NFL urges Supreme Court to decide who should regulate prediction markets",
+      "summary": "In a legal brief, the NFL expressed support for prior court rulings favoring state authority to oversee prediction markets.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
+      "summary": "The court paused a lower-court ruling while it considered the latest move in a monthslong fight over who is entitled to low rates for political ads.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
+      "summary": "The justices heard arguments over whether the U.S. Air Force can keep destroying munitions on a Guam beach under a program it began in 1982.",
+      "date": "2026-10-07"
+    },
     {
       "title": "Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric",
       "summary": "The justice told The Associated Press in a rare interview that the rhetoric about the court from Trump and his administration doesn't sit well with him.",
@@ -25,60 +65,20 @@
       "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
       "summary": "The Spanish Supreme Court canceled an arrest warrant for Carles Puigdemont, who has been living in self-imposed exile in Belgium.",
       "date": "2026-10-06"
-    },
-    {
-      "title": "The Alito Court: A rare interview with the influential Supreme Court justice",
-      "summary": "Justice Samuel Alito discussed his opinion in the Dobbs decision overturning Roe v. Wade, the leaked draft and its aftermath, same-sex marriage rights and why he's not retiring yet.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Conservative US supreme court justice Samuel Alito hints at retirement in interview",
-      "summary": "Alito, 76, delivers comment in rare interview with CBS News scheduled to air on Monday Samuel Alito , the conservative US supreme court justice, has said “I think I have to” contemplate retiring every year at his age. Alito, 76, delivered that comment in a rare interview with CBS News scheduled to air on Monday, a litt.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping. (Image credit: Roberto Schmidt).",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Are Trump’s Official Papers His Personal Property?",
-      "summary": "The administration argues that presidential papers are like those of Supreme Court justices.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Supreme Court Stands Up to Trump on Mail Voting and a Few Key Issues",
-      "summary": "The justices take their time and pick their spots, but they have rejected presidential initiatives on tariffs, citizenship, the National Guard — and now the coming election.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
-      "summary": "The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
-      "summary": "President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters.",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "The Supreme Court Is Considering Trump’s Mail Voting Plan. Here’s What to Know.",
-      "summary": "The administration’s plan to screen mail-in ballots remains blocked as the Supreme Court reviews challenges to new U.S. Postal Service ballot rules.",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
     {
-      "title": "Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric",
-      "url": "https://www.pbs.org/newshour/politics/alito-says-supreme-court-cant-stem-rise-of-emergency-appeals-not-pleased-with-trumps-rhetoric?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T14:25:51.000Z",
+      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:50:43.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
-      "url": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T16:03:08.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Supreme Court Again Sides With Republicans in Political TV Ad Fight",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-ads-political.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:17:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

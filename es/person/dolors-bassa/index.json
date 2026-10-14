@@ -10,11 +10,11 @@
   "description": "Sigue la actividad de Dolors Bassa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-10-06T17:54:40.529Z",
   "aliases": [
-    "Dolors Bassa i Coll",
-    "Dolors Bassa Coll",
     "Dolores Bassa",
+    "Dolores Bassa Coll",
     "Dolores Bassa i Coll",
-    "Dolores Bassa Coll"
+    "Dolors Bassa Coll",
+    "Dolors Bassa i Coll"
   ],
   "changes": [
     {
@@ -28,13 +28,6 @@
       "date": "2026-10-06"
     }
   ],
-  "sources": [
-    {
-      "title": "El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España",
-      "url": "https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T10:02:16.000Z",
-      "sourceId": "lootura-es-el-mundo"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

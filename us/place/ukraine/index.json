@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -18,56 +18,99 @@
   ],
   "changes": [
     {
-      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
-      "date": "2026-10-04"
+      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
+      "summary": "Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.",
+      "date": "2026-10-14"
     },
     {
-      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-      "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
-      "date": "2026-10-04"
+      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
+      "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.",
+      "date": "2026-10-14"
     },
     {
-      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-      "summary": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
-      "date": "2026-10-04"
+      "title": "Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze",
+      "summary": "Ukrainian drones lost some of their fighting capacity after restrictions were suddenly imposed on the battlefield use of the country's U.S.-made Starlink communication terminals, officials said Wednesday as the capital endured another night of missile attacks.",
+      "date": "2026-10-14"
     },
     {
-      "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
-      "summary": "A proposal to bolster relations with the Kremlin through the purchase of Russian energy assets is striking even for an administration that regularly mixes personal business interests with foreign policy.",
-      "date": "2026-10-03"
+      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.",
+      "date": "2026-10-14"
     },
     {
-      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-      "summary": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
-      "date": "2026-10-03"
+      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+      "date": "2026-10-14"
     },
     {
-      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
-      "summary": "President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.",
-      "date": "2026-10-03"
+      "title": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
+      "summary": "Confusion about the U.S. stance has mounted in Kyiv amid restrictions on how the military version of Starlink is used.",
+      "date": "2026-10-14"
     },
     {
-      "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-      "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
-      "date": "2026-09-30"
+      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+      "date": "2026-10-14"
     },
     {
-      "title": "News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation",
-      "summary": "In our news wrap Wednesday, the Federal Reserve's Inspector General found no criminal activity by former Chair Jerome Powell related to the renovation of the central bank's headquarters, Pete Hegseth announced that the Pentagon will cut the number of its generals and admirals by roughly 20% and Ukraine officials say Ru.",
-      "date": "2026-09-30"
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+      "date": "2026-10-14"
     },
     {
-      "title": "Why some Ukrainian refugees struggle to rebuild their careers after arriving in Canada",
-      "summary": "The Russian invasion of Ukraine continues into 2026, with millions of Ukrainians displaced around the world. Many arrived in host countries with professional experience, degrees and specialized skills. Yet displacement often leaves highly educated refugees unable to continue their previous careers.",
-      "date": "2026-09-30"
+      "title": "Trump addresses Guilfoyle resignation, intel sharing with Ukraine as he departs for Alaska",
+      "summary": "President Donald Trump told reporters that officials \"didn't like what we were reading\" about Kimberly Guilfoyle, who resigned as ambassador to Greece on Tuesday.",
+      "date": "2026-10-13"
     },
     {
-      "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
-      "summary": "The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.",
-      "date": "2026-09-16"
+      "title": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says",
+      "summary": "At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.",
+      "date": "2026-10-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T12:51:09.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
+    {
+      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
+      "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:45:37.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze",
+      "url": "https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T16:09:18.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:08:52.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    },
+    {
+      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:20:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:52:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
+    {
+      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:47:48.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
+    }
+  ],
+  "evidenceCount": 7
 }

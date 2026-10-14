@@ -1,0 +1,70 @@
+{
+  "id": "usa-ilhan-omar",
+  "name": "Ilhan Omar",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/ilhan-omar",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/ilhan-omar",
+  "markdownUrl": "https://atlas.lootura.com/us/person/ilhan-omar/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/ilhan-omar/index.json",
+  "description": "Follow Ilhan Omar, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "aliases": [
+    "Congresswoman Ilhan Omar",
+    "Ilhan",
+    "Ilhan Abdullahi Omar",
+    "Ilhan Omar Mynett",
+    "Rep. Ilhan Omar"
+  ],
+  "changes": [
+    {
+      "title": "DOJ seized Rep. Omar's phone, subpoenaed family members in immigration status investigation",
+      "summary": "Federal agents seized Democratic Rep. Ilhan Omar’s phone when they searched her Washington, D.C., home as part of a federal investigation into potential immigration-related crimes. NBC News' Kelly O'Donnell reports on the subpoenas sent in the case, including to members of her family.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
+      "summary": "Plus, setting a record on Mars.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
+      "summary": "After years of investigation, the Justice Department appears to be intensifying a criminal inquiry into the immigration history of Ilhan Omar, a Minnesota Democrat, and her family.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home. (Image credit: Alex Wong).",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Ilhan Omar first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Rep. Omar accuses Trump of political intimidation after agents search her home",
+      "summary": "Federal agents searched the Washington, D.C., home of Minnesota Democratic Congresswoman Ilhan Omar early Monday. Agents with Homeland Security Investigations were seen carrying boxes from the home. Rep. Omar accused the Trump administration of political intimidation. Geoff Bennett discussed more with Devlin Barrett, a.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Omar’s home searched as part of federal criminal investigation",
+      "summary": "Federal agents carried out a search warrant on Democratic Congresswoman Ilhan Omar’s home in Washington as part of a federal criminal investigation. NBC News’ Kelly O’Donnell reports.",
+      "date": "2026-10-12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "DOJ seized Rep. Omar's phone, subpoenaed family members in immigration status investigation",
+      "url": "https://www.nbcnews.com/video/doj-seized-rep-omar-s-phone-subpoenaed-family-members-in-immigration-status-investigation-271588421924?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:38:36.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
+}

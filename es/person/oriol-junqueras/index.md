@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriol Junqueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/person/oriol-junqueras
 
 ## Cambios recientes
+
+### Podemos y ERC, «muy cerca» de un pacto en Cataluña al margen del Frente Amplio
+
+Una vez despejada de la ecuación la incógnita de Gabriel Rufián —era, en realidad, un secreto a voces que el republicano no abandonaría su partido y que sus planes únicamente pasaban por echar un pulso a Oriol Junqueras para hacerse un grupo parlamentario a medida la próxima legislatura, que, por el momento, va ganando.
+
+Date: 2026-10-11
 
 ### Junqueras asegura que el nacionalismo catalán sabe integrar y «no es un búker pequeño»
 

@@ -3,10 +3,16 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
+
+### Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections
+
+September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.
+
+Date: 2026-10-14
 
 ### News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation
 
@@ -62,12 +68,7 @@ The Fed is expected to raise interest rates Wednesday, new reports detail the da
 
 Date: 2026-09-16
 
-### Fed expected to raise interest rates. And, board votes to close Kennedy Center
-
-The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center. (Image credit: Win McNamee).
-
-Date: 2026-09-16
-
 ## Sources
 
-No public source links.
+- [Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'](https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com) — 2026-10-14T21:46:43.000Z
+- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z

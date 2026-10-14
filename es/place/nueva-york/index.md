@@ -3,10 +3,22 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### La ruta aérea entre Bilbao y Nueva York pierde un 4% de clientes, lastrada por las averías
+
+El enlace transoceánico, que volverá a finales de la próxima primavera, transportó a 14.425 personas, 596 menos que el año de su estreno.
+
+Date: 2026-10-13
+
+### EE.UU. amplía la causa contra Maduro al acusarle de torturas y crímenes de lesa humanidad
+
+Un gran jurado federal de Nueva York ha imputado a Nicolás Maduro y a su mujer, Cilia Flores, por cinco delitos que abarcan desde el narcotráfico y el narcoterrorismo hasta la tortura y el uso de armas. La acusación sostiene que actuaron con la ayuda de al menos otros tres altos jerarcas chavistas , identificados única.
+
+Date: 2026-10-08
 
 ### Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”
 
@@ -56,18 +68,6 @@ Nueva York acapara los focos en el tenis con el US Open, el último Grand Slam d
 
 Date: 2026-09-13
 
-### Zverev, el campeón incómodo, acaba con el sueño americano de Shelton y levanta su segundo Grand Slam
-
-El estadounidense, lastrado por los nervios, vuelve a dejar a su país sin campeón desde 2003; el alemán encadena Roland Garros y Nueva York y se acerca al número uno pese a la sombra que acompaña su carrera Leer.
-
-Date: 2026-09-13
-
-### Fragmento del día: Nueva York
-
-en Nueva York (Estados Unidos) la ONU adopta la Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-- [Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”](https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html?utm_source=lootura.com) — 2026-10-06T03:30:01.000Z
+No public source links.

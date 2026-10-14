@@ -3,10 +3,16 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-13T22:06:13.700Z
+- Updated: 2026-10-13T01:49:13.119Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
+
+### Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy
+
+If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developi.
+
+Date: 2026-10-12
 
 ### Burning Man at 40: the once anarchic desert festival faces a midlife crisis
 

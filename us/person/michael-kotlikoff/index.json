@@ -1,0 +1,48 @@
+{
+  "id": "usa-michael-kotlikoff",
+  "name": "Michael Kotlikoff",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/michael-kotlikoff",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/michael-kotlikoff",
+  "markdownUrl": "https://atlas.lootura.com/us/person/michael-kotlikoff/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/michael-kotlikoff/index.json",
+  "description": "Follow Michael Kotlikoff, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "aliases": [
+    "Kotlikoff",
+    "Michael"
+  ],
+  "changes": [
+    {
+      "title": "Five Key Moments From The Times’s Interview With Cornell’s President",
+      "summary": "Michael Kotlikoff addressed concerns over the university’s handling of a former student’s claims that she was gang-raped at a fraternity party.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Cornell’s President Acknowledges Missteps in Handling of Rape Accusations",
+      "summary": "In an interview with The New York Times, Michael Kotlikoff addressed his administration’s handling of sexual assault accusations brought by a former student.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Michael Kotlikoff first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Five Key Moments From The Times’s Interview With Cornell’s President",
+      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T03:16:35.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Cornell’s President Acknowledges Missteps in Handling of Rape Accusations",
+      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T01:47:58.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 2
+}

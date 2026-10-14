@@ -1,0 +1,40 @@
+{
+  "id": "es-anne-carson",
+  "name": "Anne Carson",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/anne-carson",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/anne-carson",
+  "markdownUrl": "https://atlas.lootura.com/es/person/anne-carson/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/anne-carson/index.json",
+  "description": "Sigue la actividad de Anne Carson en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-11T10:38:56.651Z",
+  "aliases": [
+    "Anne Patricia Carson",
+    "Carson"
+  ],
+  "changes": [
+    {
+      "title": "Carson y Eros",
+      "summary": "Se ha celebrado que la Academia sueca haya vuelto a premiar la poesía y que la afortunada hubiera sido la canadiense Anne Carson , una experta en cultura clásica que ha sabido nutrirse del pasado —de sus temas, mitos y personajes— para crear una obra plenamente contemporánea. Y es cierto: una de las particularidades de.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Anne Carson first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "El Nobel de Literatura premia a Anne Carson, la poeta del riesgo insobornable",
+      "summary": "El premio Nobel a Anne Carson no es un premio Nobel más. Anne Carson es una escritora, una poeta insobornable. En un momento estético donde los creadores son ajenos al riesgo, ella ha logrado hacer del riesgo su marca de identidad. Carson no se ampara en estéticas ya consolidadas, experimenta, fusiona géneros, rehace l.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "El quinto elemento: la poesía de Anne Carson",
+      "summary": "Si cuatro son los elementos, su fusión produce la incandescencia textual. El premio Nobel de literatura a Anne Carson confirma la contribución extraordinaria de la poeta, traductora y ensayista canadiense, su capacidad para formular preguntas y cuestionar los límites entre versos y prosa, mitología e historia contempor.",
+      "date": "2026-10-08"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

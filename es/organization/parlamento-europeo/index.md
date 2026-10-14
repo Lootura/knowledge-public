@@ -3,10 +3,22 @@
 > Sigue la actividad de Parlamento Europeo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/parlamento-europeo
 
 ## Cambios recientes
+
+### A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?
+
+La Unión Europea y China han dado un primer paso para contener sus crecientes tensiones comerciales. Tras varios días en los que el Parlamento Europeo ha reclamado una política más firme hacia Pekín y Francia y Alemania han propuesto nuevas herramientas de defensa comercial, ambas partes alcanzaron el pasado 12 de octu.
+
+Date: 2026-10-14
+
+### Juan Ignacio Zoido, eurodiputado: "Cobras un poco más que un senador, que son 6.000 euros limpios"
+
+El sueldo de los políticos es uno de los asuntos que despierta interés cuando se habla de dinero público. Juan Ignacio Zoido, eurodiputado del PP , ha explicado cuánto cobra y qué supone dedicarse a la política en una entrevista en Adrián Sáenz Podcast. Antes de llegar al Parlamento Europeo, Zoido ejerció como juez dur.
+
+Date: 2026-10-13
 
 ### Canadá, abierta a ser un Estado asociado de la UE: «No buscamos ser una superpotencia con mejores modales»
 
@@ -56,18 +68,6 @@ Date: 2026-09-15
 
 Date: 2026-09-07
 
-### Ex de Ciudadanos piden a Von der Leyen que asuma el liderazgo en la gestión de Ceuta
-
-Antiguos eurodiputados de Ciudadanos han remitido una carta oficial a la presidenta de la Comisión Europea , Ursula von der Leyen , pidiendo que asuma el liderazgo en la gestión de la crisis de Ceuta . En la misiva, los que fueran miembros del Parlamento Europeo en la pasada legislatura denuncian la grave quiebra de se.
-
-Date: 2026-09-05
-
-### El PP y VOX unen fuerzas contra Sánchez en una concentración por Ceuta frente a la Eurocámara
-
-Unas 200 personas reunidas por el Partido Popular (PP) y Vox se han concentrado este miércoles frente a la sede del Parlamento Europeo en Bruselas en solidaridad con el pueblo ceutí tras la llegada masiva de migrantes a finales de julio y contra el gobierno de Pedro Sánchez, a quien exigen su dimisión por la gestión de.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-No public source links.
+- [A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?](https://theconversation.com/a-mas-competencia-mas-barreras-como-cambian-los-terminos-de-la-relacion-comercial-entre-china-y-europa-293725?utm_source=lootura.com) — 2026-10-14T15:59:39.000Z

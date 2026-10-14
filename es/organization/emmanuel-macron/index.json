@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/emmanuel-macron/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/emmanuel-macron/index.json",
   "description": "Sigue la actividad de Emmanuel Macron en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético",
+      "summary": "El presidente francés, Emmanuel Macron , viajará a Kuwait, Emiratos Árabes Unidos, Baréin y Catar del 19 al 21 de octubre para abordar la crisis en Oriente Próximo, defender la libre navegación por el estrecho de Ormuz y reforzar la seguridad del suministro energético, según ha informado este miércoles el Elíseo. La gi.",
+      "date": "2026-10-14"
+    },
     {
       "title": "Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas",
       "summary": "Entre 250.000 y 400.000 estudiantes, según Gobierno y organizadores, han salido este martes a las calles de las principales ciudades francesas, con París a la cabeza, para demostrar al Ejecutivo de Emmanuel Macron que no tienen intención de aflojar en sus reivindicaciones justo cuando se cumplen dos semanas del inicio.",
@@ -34,9 +39,9 @@
   ],
   "sources": [
     {
-      "title": "Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas",
-      "url": "https://theobjective.com/internacional/2026-10-06/estudiantes-mantienen-presion-francia-protestas/?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T17:24:48.000Z",
+      "title": "Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético",
+      "url": "https://theobjective.com/internacional/2026-10-14/macron-viaje-golfo-crisis-ormuz/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:19:48.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],

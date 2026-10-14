@@ -3,7 +3,7 @@
 > Follow Jared Kushner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/jared-kushner
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-09-04
 
 ## Sources
 
-No public source links.
+- [Watchdog group sues Trump administration over Jared Kushner’s government work](https://www.nbcnews.com/politics/trump-administration/watchdog-group-sues-trump-administration-jared-kushners-government-wor-rcna603563?utm_source=lootura.com) — 2026-10-14T22:34:29.000Z

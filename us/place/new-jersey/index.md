@@ -3,10 +3,22 @@
 > Follow New Jersey, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-03T22:19:56.767Z
+- Updated: 2026-10-13T23:36:04.754Z
 - Canonical: https://atlas.lootura.com/us/place/new-jersey
 
 ## Recent changes
+
+### Top G.O.P. Groups Pull Support From First House Incumbents
+
+Two major Republican super PACs are said to be withdrawing cash from the races of the incumbent Representatives Thomas H. Kean Jr. of New Jersey and Mariannette Miller-Meeks of Iowa in an effort to triage the midterm map.
+
+Date: 2026-10-13
+
+### Samuel Alito and New Jersey’s Fallen Columbus Statue
+
+Justice Alito has a history of nudging the boundaries of judicial rectitude.
+
+Date: 2026-10-11
 
 ### See USS Abraham Lincoln Sailor Reunite With Family
 
@@ -55,18 +67,6 @@ Date: 2026-08-07
 New Jersey improperly added as many as 6,600 noncitizens to its voter rolls. Those people could now be forced out of the country.
 
 Date: 2026-08-06
-
-### New Jersey's Mikie Sherrill enters national political fray with first set of midterm endorsements, aimed at veterans
-
-New Jersey Gov. Mikie Sherrill is taking her first major step onto the national stage, endorsing 13 Democrats - as the moderate signals she may jump into the debate over her party's future.
-
-Date: 2026-08-06
-
-### Long-term study suggests landfill methane emissions are far higher than estimates
-
-Methane is an especially potent greenhouse gas, causing much more warming than carbon dioxide on a unit-for-unit basis—and a new, uniquely long-term study of emissions at a New Jersey landfill suggests that estimates of methane pollution in the U.S. and elsewhere may be dramatically off. The study, published by researc.
-
-Date: 2026-08-05
 
 ## Sources
 

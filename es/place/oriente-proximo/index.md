@@ -3,10 +3,28 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético
+
+El presidente francés, Emmanuel Macron , viajará a Kuwait, Emiratos Árabes Unidos, Baréin y Catar del 19 al 21 de octubre para abordar la crisis en Oriente Próximo, defender la libre navegación por el estrecho de Ormuz y reforzar la seguridad del suministro energético, según ha informado este miércoles el Elíseo. La gi.
+
+Date: 2026-10-14
+
+### La Bolsa ahuyenta los fantasmas ante la expectativa de otra temporada de beneficios récord
+
+Los motivos para la cautela se acumulan, pero los inversores siguen apostando por la renta variable. Más allá de episodios puntuales de volatilidad, las Bolsas han mantenido el rumbo alcista. Pese a unas rentabilidades de la deuda en máximos de dos décadas, el conflicto en Oriente Próximo sin una salida a la vista, las.
+
+Date: 2026-10-14
+
+### Las Bolsas europeas suben pese a que se enfría el entusiasmo por la IA
+
+Las pérdidas en las Bolsas asiáticas se intensifican a medida que la reaparición de las dudas sobre el negocio de la inteligencia artificial lleva a los inversores a pulsar el botón de las ventas. Los precios del petróleo corrigen, aunque se mantienen elevados en medio de la escalada de tensiones en Oriente Próximo, mi.
+
+Date: 2026-10-13
 
 ### Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street
 
@@ -50,24 +68,6 @@ Además de las 2.977 víctimas mortales, del miedo que inundó a todo Estados Un
 
 Date: 2026-09-11
 
-### El BCE sube los tipos al 2,5% por la guerra y prevé que la inflación siga alta hasta 2028
-
-Los créditos se encarecen por segunda vez este 2026 en respuesta al repunte de la inflación de la Eurozona a causa de la guerra en Oriente Próximo. El organismo prevé más subidas de los precios en 2027 y 2028 Leer.
-
-Date: 2026-09-10
-
-### El petróleo supera los 107 dólares y reactiva la escalada de la deuda
-
-El petróleo prosigue su escalada este mes a raíz de la inestabilidad en Oriente Próximo. El conflicto entre Estados Unidos e Irán cada vez parece estar más lejos de resolverse, a pesar de que Donald Trump ha asegurado que concluirá tras las elecciones de mitad de mandato, lo que dispara la preocupación sobre el suminis.
-
-Date: 2026-09-10
-
-### La inflación presiona los convenios con subidas salariales por encima del 4%
-
-El fuerte repunte del IPC producto de la guerra en Oriente Próximo y el intenso encarecimiento de los carburantes, con el consecuente traslado al resto de la cesta de bienes de...
-
-Date: 2026-09-10
-
 ## Fuentes
 
-- [Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-10-06T16:10:52.000Z
+- [Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético](https://theobjective.com/internacional/2026-10-14/macron-viaje-golfo-crisis-ormuz/?utm_source=lootura.com) — 2026-10-14T20:19:48.000Z

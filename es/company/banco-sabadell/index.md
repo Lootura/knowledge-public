@@ -64,4 +64,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [El Sabadell arma un escudo contra opas con la venta de un 7% al banco francés BPCE](https://elpais.com/economia/2026-10-06/el-sabadell-arma-un-escudo-contra-opas-con-la-venta-de-un-7-al-banco-frances-bpce.html?utm_source=lootura.com) — 2026-10-06T16:12:46.000Z
+No public source links.

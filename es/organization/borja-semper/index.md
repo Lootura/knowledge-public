@@ -3,10 +3,16 @@
 > Sigue la actividad de Borja Sémper en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/organization/borja-semper
 
 ## Cambios recientes
+
+### Sémper afirma que hay «factores» que hacen que el PP esté inquieto con el voto por correo
+
+El portavoz nacional y vicesecretario de Cultura y Deportes del Partido Popular, Borja Sémper , ha asegurado sobre el voto por correo en las próximas elecciones generales del 29 de noviembre que hay «una serie de factores que hacen que el PP esté inquieto ante lo que pueda hacer Pedro Sánchez en todos los ámbitos polít.
+
+Date: 2026-10-08
 
 ### Discovered by Atlas
 
@@ -34,4 +40,4 @@ Date: 2026-09-12
 
 ## Fuentes
 
-- [Génova se desmarca de Ayuso y ve "garantista" el voto por correo mientras ella se reafirma: "Todo el mundo tiene que ir a la urna"](https://www.elmundo.es/espana/2026/10/06/6ac4ba7ce4d4d8a07c8b45b9.html?utm_source=lootura.com) — 2026-10-06T10:32:43.000Z
+No public source links.

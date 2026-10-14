@@ -3,10 +3,28 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### El 60% opina que Puigdemont no debería ser amnistiado ni volver a España
+
+Desde el pasado martes, Carles Puigdemont, expresidente de la Generalitat de Cataluña y líder independentista fugado de la Justicia que impulsó la celebración de un referéndum ilegal, puede regresar a España gracias al fallo del Tribunal Constitucional que borró el delito de malversación del 'procés'. La mayoría progre.
+
+Date: 2026-10-11
+
+### Bolaños reivindica el «éxito» de la amnistía y dice que Puigdemont puede volver a España
+
+El ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños , ha destacado el «éxito» de la Ley de Amnistía por, dice, haber normalizado la situación política y social en Cataluña, y ha añadido que el expresidente de la Generalitat y líder de Junts, Carles Puigdemont, puede volver a España tras habe.
+
+Date: 2026-10-11
+
+### Junts afronta un duro golpe electoral pero cierra filas con Puigdemont por no venir a España antes del 29-N
+
+Junts ha empezado a relativizar el regreso de Carles Puigdemont a Cataluña en cuanto ha sido evidente que ya no volverá porque no le conviene , no porque pese sobre él una orden judicial, ya que se prevé que, en breve, tal vez la próxima semana, el Tribunal Supremo archive su causa. Junts asegura que no tiene importanc.
+
+Date: 2026-10-08
 
 ### Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"
 
@@ -50,32 +68,6 @@ Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generali
 
 Date: 2026-10-06
 
-### La declaración de Carles Puigdemont y la decisión del TC sobre la amnistía y su regreso a España, última hora en directo
-
-El expresidente de la Generalitat, Carles Puigdemont, denuncia “la manipulación impropia de los poderes judiciales”.
-
-Date: 2026-10-06
-
-### Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha
-
-Que en Junts eran conscientes de que el regreso de Carles Puigdemont podía ser inminente se hizo patente hace unos días, cuando el presidente de JxCat concedió una entrevista para hablar por primera vez de manera abierta de sus planes cuando vuelva a Catalunya. Seguir leyendo...
-
-Date: 2026-10-06
-
-### El Constitucional corrige al Supremo sobre la amnistía y da la bienvenida a Puigdemont
-
-El 30 de octubre de 2017 Carles Puigdemont dejó atrás Cataluña en coche rumbo a Marsella. Le acompañaban cinco de sus consellers , Joaquim Forn, Meritxell Borràs, Toni Comín, Dolors Bassa y Meritxell Serret. Desde la ciudad francesa tomaron un avión hacia Bruselas, y el entonces presidente de la Generalitat comenzó una.
-
-Date: 2026-10-04
-
 ## Fuentes
 
-- [Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"](https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html?utm_source=lootura.com) — 2026-10-06T16:24:00.000Z
-- [Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"](https://www.20minutos.es/nacional/los-cinco-magistrados-contra-amnistiar-malversacion-tc-ha-suplantado-labor-supremo_7045544_0.html?utm_source=lootura.com) — 2026-10-06T13:41:42.000Z
-- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
-- [Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España](https://amp.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html?utm_source=lootura.com) — 2026-10-06T16:24:18.000Z
-- [El Supremo levanta la orden de detención a Puigdemont, pero no le aplica todavía la amnistía](https://elpais.com/espana/2026-10-06/el-supremo-levanta-la-orden-de-detencion-a-puigdemont.html?utm_source=lootura.com) — 2026-10-06T10:41:20.000Z
-- [Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”](https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html?utm_source=lootura.com) — 2026-10-06T16:25:54.000Z
-- [Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes](https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com) — 2026-10-06T11:33:01.000Z
-- [La declaración de Carles Puigdemont y la decisión del TC sobre la amnistía y su regreso a España, última hora en directo](https://www.lavanguardia.com/politica/20261006/11652015/resolucion-tribunal-constitucional-ley-de-amnistia-ultima-hora-hoy-en-directo.html?utm_source=lootura.com) — 2026-10-06T16:17:30.000Z
-- [Junts deja en manos de Puigdemont los detalles sobre el regreso a Catalunya, todavía sin fecha](https://www.lavanguardia.com/politica/20261006/11652419/junts-deja-manos-puigdemont-detalles-sobre-regreso-catalunya-todavia-fecha.html?utm_source=lootura.com) — 2026-10-06T12:09:16.000Z
+No public source links.

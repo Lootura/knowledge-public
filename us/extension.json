@@ -1,85 +1,85 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T19:15:21.185Z",
+  "generatedAt": "2026-10-14T23:17:52.042Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|191|1791309298776",
+    "signature": "1.18.0|201|1792018712075",
     "version": "1.18.0",
-    "build": 191,
-    "latestEntityUpdatedAt": "2026-10-06T17:54:58.776Z"
+    "build": 201,
+    "latestEntityUpdatedAt": "2026-10-14T22:58:32.075Z"
   },
   "atlas": {
     "hero": {
-      "id": "usa-donald-trump",
-      "name": "Donald Trump",
-      "type": "person",
-      "title": "Trump Hits 4 States in 5 Days in Final Push to November Midterms",
-      "url": "https://atlas.lootura.com/us/person/donald-trump",
-      "path": "/us/person/donald-trump",
-      "updatedAt": "2026-10-06T17:54:58.776Z",
-      "score": 1655,
-      "sourceCount": 1177,
+      "id": "usa-white-house",
+      "name": "White House",
+      "type": "organization",
+      "title": "Attorney for banned outlets on legal fight over White House press access",
+      "url": "https://atlas.lootura.com/us/organization/white-house",
+      "path": "/us/organization/white-house",
+      "updatedAt": "2026-10-14T22:58:32.075Z",
+      "score": 1698,
+      "sourceCount": 204,
       "isBreaking": false,
       "isPinned": false
     },
     "cards": [
       {
+        "id": "usa-donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+        "url": "https://atlas.lootura.com/us/person/donald-trump",
+        "path": "/us/person/donald-trump",
+        "updatedAt": "2026-10-14T22:58:32.075Z",
+        "score": 1662,
+        "sourceCount": 1286,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-ukraine",
+        "name": "Ukraine",
+        "type": "place",
+        "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-10-14T22:58:32.075Z",
+        "score": 1661,
+        "sourceCount": 213,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-elon-musk",
+        "name": "Elon Musk",
+        "type": "person",
+        "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+        "url": "https://atlas.lootura.com/us/person/elon-musk",
+        "path": "/us/person/elon-musk",
+        "updatedAt": "2026-10-14T22:58:32.075Z",
+        "score": 1658,
+        "sourceCount": 26,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
         "id": "usa-united-states",
         "name": "United States",
         "type": "place",
-        "title": "A U.S. Marine is accused of killing a woman in Japan. Here's what to know.",
+        "title": "Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots",
         "url": "https://atlas.lootura.com/us/place/united-states",
         "path": "/us/place/united-states",
-        "updatedAt": "2026-10-06T17:54:58.776Z",
-        "score": 1623,
-        "sourceCount": 1145,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-supreme-court",
-        "name": "Supreme court",
-        "type": "organization",
-        "title": "Alito says Supreme Court can't stem rise of emergency appeals, 'not pleased' with Trump's rhetoric",
-        "url": "https://atlas.lootura.com/us/organization/supreme-court",
-        "path": "/us/organization/supreme-court",
-        "updatedAt": "2026-10-06T17:54:58.776Z",
-        "score": 1622,
-        "sourceCount": 98,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-jim-bakker",
-        "name": "Jim Bakker",
-        "type": "person",
-        "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
-        "url": "https://atlas.lootura.com/us/person/jim-bakker",
-        "path": "/us/person/jim-bakker",
-        "updatedAt": "2026-10-06T17:54:58.776Z",
-        "score": 1620,
-        "sourceCount": 4,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-china",
-        "name": "China",
-        "type": "place",
-        "title": "Coco Gauff decries \"insane\" amount of online racism after China match dispute",
-        "url": "https://atlas.lootura.com/us/place/china",
-        "path": "/us/place/china",
-        "updatedAt": "2026-10-06T17:54:58.776Z",
-        "score": 1613,
-        "sourceCount": 118,
+        "updatedAt": "2026-10-14T22:58:32.075Z",
+        "score": 1650,
+        "sourceCount": 1212,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 232
+    "publicEntityCount": 248
   }
 }

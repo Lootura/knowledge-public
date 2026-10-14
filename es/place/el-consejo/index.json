@@ -8,9 +8,24 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-13T11:24:20.634Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Es oficial: la Comunidad de Madrid recupera en 2027 un festivo que llevaba cuatro años sin celebrarse",
+      "summary": "El Consejo de Gobierno regional ha puesto en marcha un decreto que establece los días festivos de 2027 en la Comunidad de Madrid.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "El Gobierno crea 700 plazas judiciales extras por la vía de urgencia de los decretos",
+      "summary": "El Gobierno le coge el gusto a la vía de urgencia. El Consejo de Ministros ha aprobado este martes la tramitación de dos reales decretos para crear 700 plazas judiciales y fiscales el próximo año : 500 de jueces y 200 de fiscales. Esta ampliación supondrá un incremento del 7,8% de la planta judicial y del 6,6% de la pl.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "El presidente de la CNMC quiere crear de urgencia la figura de economista jefe",
+      "summary": "El Consejo de Ministros del pasado martes, día 6, aprobó un acuerdo por el que pide al Consejo de Estado que emita un dictamen con carácter urgente, “no más tarde del 8 de octubre”, sobre el proyecto de real decreto por el que se modifica el Estatuto Orgánico de la Comisión Nacional de los Mercados y la Competencia (CN.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo",
       "summary": "El Gobierno vuelve a la carga con sus medidas de vivienda . El Consejo de Ministros ha aprobado de nuevo este martes los dos reales decretos que el Congreso tumbó el pasado viernes. Y lo ha hecho con algunos cambios. El presidente del Gobierno, Pedro Sánchez, ha defendido que ambos textos mantienen \"la esencia\" de los.",
@@ -45,30 +60,8 @@
       "title": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
       "summary": "Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóviles inicia ya una nueva etapa una vez aprobado su plan de reestructuración , uno de los de mayor dimensión de los últimos años en la industria europea. El Consejo de Supervisión del Grupo Volkswagen aprobó por unanimidad un plan de ajuste que.",
       "date": "2026-09-04"
-    },
-    {
-      "title": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
-      "summary": "El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste del Consejo de Administración para transformar la compañía y mejorar su...",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "El Grupo Volkswagen aprueba 50.000 nuevos despidos en su plan de reestructuración",
-      "summary": "El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste para transformar la compañía de cara a 2030 y mejorar su eficiencia y competitividad, que contempla el recorte de 50.000 puestos de trabajo que se suman a los otros 50.000 ya anunciados con anterioridad. En esa comunicaci.",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
-      "summary": "El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.",
-      "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo",
-      "url": "https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T13:08:45.000Z",
-      "sourceId": "lootura-es-20minutos"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Liga de Campeones de la UEFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/champions-league
 
 ## Cambios recientes
+
+### El Real Madrid recupera su épica para remontar en Roma
+
+El Real Madrid venció este miércoles por 3-4 a la AS Roma en la segunda jornada de la fase Champions League 2026-27 , con una reacción de orgullo y carácter en la recta final para hacer tres goles en menos de 10 minutos, después de verse superados por el equipo italiano en la gran parte del partido. El 15 veces campeón.
+
+Date: 2026-10-14
+
+### Galatasaray - Barcelona en directo | Flick apuesta por Dani Olmo como falso 9
+
+El Barcelona y el Galatasaray se miden este martes a partir de las 21.00 en la segunda jornada de la Champions League . Los de Hansi Flick buscan su segunda victoria en la Liga de Campeones tras golear en su primer enfrentamiento al Feyenoord en el Camp Nou (5-1). Este será el primer viaje europeo del curso para los az.
+
+Date: 2026-10-13
+
+### Atlético de Madrid - Manchester United, el partido de la Champions League en directo|Simeone apuesta por Julián como titular
+
+El Atlético de Madrid recibe al Manchester United en su primer partido como local en esta Champions League. Los dirigidos por Simeone necesitan sumar de tres después de comenzar con una derrota ante el Liverpool como visitantes. Enfrente, la escuadra inglesa ha tenido un mal inicio de temporada: seis puntos en el mismo.
+
+Date: 2026-10-13
+
+### A qué hora juega el Galatasaray – Barcelona y dónde ver online gratis y por TV en directo el partido de Champions League hoy
+
+El Galatasaray y el Barcelona están listos para enfrentarse en la máxima competición continental, un torneo en el que, tal y como están jugando, los azulgranas están entre los claros favoritos para ganar la Orejona . Pero antes de pensar en llegar a la final del Metropolitano tendrán que ir sorteando estos duelos que n.
+
+Date: 2026-10-13
 
 ### Igokea-Surne Bilbao, minuto a minuto
 
@@ -44,12 +68,6 @@ Konstantinos Karetsas fue trasladado al hospital, tras desplomarse en la primera
 
 Date: 2026-09-08
 
-### El Real Betis regresa a la Champions League tras una épica remontada ante el Lille
-
-El Real Betis se ha llevado la victoria ante el Lille en el Stade Pierre-Maurov (2-3), en la jornada 1 de la fase de liga de la Liga de Campeones, en un.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Igokea-Surne Bilbao, minuto a minuto](https://www.elcorreo.com/bilbaobasket/directo-igokea-bilbao-basket-jornada-1-champions-league-20261006124611-di_amp.html?utm_source=lootura.com) — 2026-10-06T17:29:08.000Z
+- [El Real Madrid recupera su épica para remontar en Roma](https://theobjective.com/deportes/futbol/champions-league/2026-10-14/real-madrid-conquistar-roma/?utm_source=lootura.com) — 2026-10-14T21:16:13.000Z

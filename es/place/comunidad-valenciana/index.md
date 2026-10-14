@@ -3,10 +3,22 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### La delegada del gobierno del 'currículum fake' será la cabeza de lista del PSOE en Valencia en las generales
+
+El PSOE sitúa a Pilar Bernabé como cabeza de cartel electoral en la Comunidad Valenciana.
+
+Date: 2026-10-12
+
+### Llega el puente del Pilar y la Aemet avisa: una posible dana dejará lluvias abundantes en el sur y estas serán las zonas más afectadas
+
+El puente del Pilar llega después de varios días de fuerte inestabilidad en buena parte de España, con Cataluña y la Comunidad Valenciana entre las zonas más castigadas por las lluvias. El temporal llegó a activar avisos rojos en Tarragona y Castellón , dejó acumulados superiores a los 200 litros por metro cuadrado en.
+
+Date: 2026-10-08
 
 ### La Aemet explica qué ha causado los episodios excepcionales de lluvias en la costa mediterránea
 
@@ -55,18 +67,6 @@ Date: 2026-09-08
 Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
 
 Date: 2026-09-08
-
-### La Plaza Mayor de Castellón se transforma para celebrar la fundación de la ciudad
-
-La Plaza Mayor de Castellón se ha convertido en el escenario de un viaje visual a los orígenes de la ciudad que recuerdan su fundación, gracias a la colaboración entre el Ayuntamiento y el Consorci de Museus de la Comunitat Valenciana.
-
-Date: 2026-09-05
-
-### Pérez Llorca exige el mismo trato para la central de Cofrentes que para Almaraz: "Valencia no merece este agravio"
-
-El president de la Generalitat, Juanfran Pérez Llorca , ha exigido que la central nuclear de Cofrentes reciba el mismo trato que la de Almaraz , en Cáceres, después de que el Gobierno haya renovado la autorización de esta última hasta, al menos, junio de 2030 . Pérez Llorca denunció que “la Comunitat Valenciana no mere.
-
-Date: 2026-08-14
 
 ## Fuentes
 

@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/federal-reserve/index.json",
   "description": "Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-01T04:06:59.232Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "FRS",
     "Fed",
     "The Fed"
   ],
   "changes": [
+    {
+      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+      "summary": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.",
+      "date": "2026-10-14"
+    },
     {
       "title": "News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation",
       "summary": "In our news wrap Wednesday, the Federal Reserve's Inspector General found no criminal activity by former Chair Jerome Powell related to the renovation of the central bank's headquarters, Pete Hegseth announced that the Pentagon will cut the number of its generals and admirals by roughly 20% and Ukraine officials say Ru.",
@@ -59,13 +64,21 @@
       "title": "Morning news brief",
       "summary": "The Fed is expected to raise interest rates Wednesday, new reports detail the damage and $30 billion price tag of the Iran war, Kennedy Center board votes to close after judge's ruling.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-      "summary": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center. (Image credit: Win McNamee).",
-      "date": "2026-09-16"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'",
+      "url": "https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:46:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:22:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,22 @@
 > Sigue la actividad de Wall Street en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/product/wall-street
 
 ## Cambios recientes
+
+### El Ibex busca esquivar el revés a la IA
+
+El varapalo bursátil sufrido en Asia por el revés a los valores más ligados a la IA pasa de puntillas por la renta variable europea. A la espera de los primeros resultados de Wall Street, la tregua del petróleo y de la deuda permite al Ibex consolidar el 1,33% ganado en la sesión de ayer.
+
+Date: 2026-10-13
+
+### El alza del crudo y la fragilidad de la deuda dañan el optimismo bursátil, y Wall Street cierra con pérdidas
+
+Después de varias sesiones marcadas por la volatilidad en la renta fija y el repunte del petróleo , los mercados arrancan la semana pendientes del frente energético. La incertidumbre geopolítica sigue condicionando la cotización del crudo, que ha encadenado bruscos movimientos. Tras llegar a caer más de un 2% en los pr.
+
+Date: 2026-10-12
 
 ### Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street
 
@@ -56,18 +68,6 @@ Los inversores están atentos a las tensiones geopolíticas en Oriente Próximo 
 
 Date: 2026-09-08
 
-### Oportunidades y riesgos del bono de EEUU cerca del 5%
-
-Las últimas turbulencias en el mercado de deuda han acercado la rentabilidad del bono estadounidense a la cota del 5% (ayer permaneció el 4,78%, ya que Wall Street cerró por el Día del Trabajador). Para Wall Street, este rendimiento supone una amenaza. Para los inversores de bonos, sin embargo, una suculenta oportunida.
-
-Date: 2026-09-07
-
-### La Bolsa francesa pierde su ‘grandeur’ asediada por los fondos bajistas
-
-La Bolsa francesa no levanta cabeza. El índice que sintetiza la evolución de las grandes cotizadas galas —el Cac 40— se ha estancado en el último semestre, mientras que el Ibex 35 ha avanzado un 11% y Wall Street ha subido un 12%, en el mismo periodo. Los inversores recelan de la complicada situación política y del ele.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Los inversores aparcan las dudas sobre la deuda y vuelven a mirar a los máximos de Wall Street](https://cincodias.elpais.com/mercados-financieros/2026-10-06/la-bolsa-y-el-ibex-35.html?utm_source=lootura.com) — 2026-10-06T16:10:52.000Z
+No public source links.

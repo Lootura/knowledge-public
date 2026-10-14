@@ -3,10 +3,16 @@
 > Sigue la actividad de Emmanuel Macron en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/emmanuel-macron
 
 ## Cambios recientes
+
+### Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético
+
+El presidente francés, Emmanuel Macron , viajará a Kuwait, Emiratos Árabes Unidos, Baréin y Catar del 19 al 21 de octubre para abordar la crisis en Oriente Próximo, defender la libre navegación por el estrecho de Ormuz y reforzar la seguridad del suministro energético, según ha informado este miércoles el Elíseo. La gi.
+
+Date: 2026-10-14
 
 ### Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas
 
@@ -34,4 +40,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Los estudiantes mantienen la presión en Francia tras nuevas y multitudinarias protestas](https://theobjective.com/internacional/2026-10-06/estudiantes-mantienen-presion-francia-protestas/?utm_source=lootura.com) — 2026-10-06T17:24:48.000Z
+- [Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético](https://theobjective.com/internacional/2026-10-14/macron-viaje-golfo-crisis-ormuz/?utm_source=lootura.com) — 2026-10-14T20:19:48.000Z

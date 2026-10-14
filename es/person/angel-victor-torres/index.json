@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/angel-victor-torres/index.json",
   "description": "Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Víctor",
     "Ángel"
   ],
   "changes": [
+    {
+      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
+      "summary": "Félix Bolaños, Margarita Robles y José Manuel Albares figuran entre los ministros que concurrirán a las generales del 29 de noviembre, mientras Óscar López y Ángel Víctor Torres se centrarán en las futuras elecciones autonómicas y varias candidaturas siguen pendientes de confirmación. Margarita Robles será la número do.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Torres da por concluidos los desalojos en Ceuta y cifra en 12.000 los retornos a Marruecos",
+      "summary": "El ministro de Política Territorial y coordinador del mando único de la crisis migratoria, Ángel Víctor Torres , ha dado por concluidas las operaciones de desalojo de asentamientos en las zonas de costa de Ceuta y ha cifrado en cerca de 12.000 las personas que han retornado a Marruecos desde el 10 de agosto. Así se ha.",
+      "date": "2026-10-11"
+    },
     {
       "title": "La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados",
       "summary": "El operativo desplegado por la Policía Nacional este domingo para desalojar la playa del Trampolín ha culminado con el traslado de más de 1.100 personas migrantes, según ha informado el coordinador del Mando Único para la gestión de la crisis de Ceuta, el ministro Ángel Víctor Torres.",
@@ -53,18 +63,15 @@
       "title": "Torres admite que el Gobierno desconoce el informe: \"No sabemos si es de un agente particular\"",
       "summary": "El ministro de Política Territorial y coordinador del mando único para la gestión de la crisis en Ceuta, Ángel Víctor Torres , ha reconocido este miércoles que el Gobierno desconocía el contenido del informe de la Policía Nacional que atribuye a Marruecos la responsabilidad del asalto a la frontera ceutí de finales de.",
       "date": "2026-09-02"
-    },
-    {
-      "title": "Torres confirma que algunos de los menas de Ceuta pueden tener derecho al asilo",
-      "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha afirmado que el Gobierno quiere que los menores que entraron en Ceuta de forma irregular el pasado mes de julio «puedan ser reagrupados con sus familias» , pero ha avisado de que «habrá quien tenga derecho a asilo y menores que no pueda.",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Ángel Víctor Torres first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
+      "url": "https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T16:54:02.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

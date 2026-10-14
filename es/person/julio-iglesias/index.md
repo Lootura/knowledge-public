@@ -3,10 +3,28 @@
 > Sigue la actividad de Julio Iglesias en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/julio-iglesias
 
 ## Cambios recientes
+
+### La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias
+
+El informe del fiscal Vicente González Mota concluye que los tribunales españoles sí tienen jurisdicción para examinar la querella por agresión sexual presentada contra el cantante por dos extrabajadoras Las extrabajadoras que denunciaron a Julio Iglesias presentan una querella contra él en la Audiencia Nacional La Fis.
+
+Date: 2026-10-14
+
+### La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual
+
+La Fiscalía ha cambiado de criterio y considera ahora que la Audiencia Nacional es competente para investigar a Julio Iglesias por las presuntas agresiones sexuales denunciadas por dos exempleadas. Los hechos habrían ocurrido en 2021 en República Dominicana y Bahamas. En enero, el Ministerio Público archivó la denuncia.
+
+Date: 2026-10-14
+
+### Ratificada la sentencia contra el hermano de Julio Iglesias por defraudar casi 20 millones a Hacienda
+
+Carlos Iglesias de la Cueva fue condenado por primera vez en 2023 pero no ha conseguido evadir la pena de seis meses de prisión y multa de 9,8 millones.
+
+Date: 2026-10-08
 
 ### Un fiscal díscolo de la Audiencia Nacional rompe con sus jefes y defiende que sí investigue a Julio Iglesias tras la nueva denuncia ‘fake’
 
@@ -50,24 +68,7 @@ El abogado del cantante pide 50.000 euros de indemnización por "daños morales"
 
 Date: 2026-07-22
 
-### Julio Iglesias defiende su honor contra Yolanda Díaz: los límites del poder político
-
-Durante toda su vida Julio Iglesias ha sorteado rumores, exclusivas y titulares de toda condición sin hacer de los tribunales su escenario. Esta vez, sin embargo, ha decidido sentar frente a un juez a una vicepresidenta del Gobierno. El cantante ha presentado una demanda civil ante el Tribunal Supremo contra Yolanda Dí.
-
-Date: 2026-07-22
-
-### Discovered by Atlas
-
-Julio Iglesias first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-21
-
-### Julio Iglesias se querella contra elDiario.es, contra su director y contra cuatro de sus periodistas
-
-El artista internacional acusa al medio de los delitos de injurias con publicidad y calumnias, y de un delito contra la integridad moral, y amenaza con pedir una indemnización de "importante cuantía" La querella de Julio Iglesias contra elDiario.es: falsedades y acusaciones sin fundamento El cantante Julio Iglesias ha.
-
-Date: 2026-07-21
-
 ## Fuentes
 
-No public source links.
+- [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com) — 2026-10-14T17:38:47.000Z
+- [La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual](https://theobjective.com/espana/tribunales/2026-10-14/fiscalia-investiga-julio-iglesias-agresion-sexual/?utm_source=lootura.com) — 2026-10-14T20:42:30.000Z

@@ -3,10 +3,22 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
+
+### Joni Mitchell becomes an American citizen after more than 60 years
+
+Joni Mitchell can see both sides of the U.S.-Canada border freely now.
+
+Date: 2026-10-14
+
+### In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art
+
+In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.
+
+Date: 2026-10-11
 
 ### How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder
 
@@ -56,18 +68,6 @@ Canada's Prime Minister Mark Carney speaks to the European Parliament, following
 
 Date: 2026-09-17
 
-### E.U.-Canada Ambitions Face Reality Check as Trump Bristles
-
-The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.
-
-Date: 2026-09-17
-
-### EU's Ursula von der Leyen says she wants Canada to become an associate member
-
-European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).
-
-Date: 2026-09-16
-
 ## Sources
 
-- [How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder](https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html?utm_source=lootura.com) — 2026-10-06T16:46:42.000Z
+- [Joni Mitchell becomes an American citizen after more than 60 years](https://www.nbcnews.com/pop-culture/pop-culture-news/joni-mitchell-becomes-american-citizen-60-years-rcna603430?utm_source=lootura.com) — 2026-10-14T15:14:22.548Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T23:35:46.672Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”
+
+El vicepresidente primero del Gobierno de España, Carlos Cuerpo, ha echado la tarde de este martes en el madrileño barrio de San Blas. La ubicación había sido elegida con intención por una nueva red de economistas progresistas que hacían su presentación en sociedad y que querían darse a conocer fuera del institucional.
+
+Date: 2026-10-13
+
+### Quién era Juan Rodríguez García-Lozano, el padre de Zapatero: abogado en León e hijo de un capitán republicano fusilado
+
+La abogacía y la memoria familiar marcaron la vida de Juan Rodríguez García-Lozano, padre del expresidente del Gobierno de España José Luis Rodríguez Zapatero , que ha fallecido a los 100 años en León. Licenciado en Derecho , desarrolló su carrera en la capital leonesa. Trabajó en los servicios jurídicos del Ayuntamien.
+
+Date: 2026-10-13
 
 ### El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda
 
@@ -56,18 +68,6 @@ Asegura que se trata de la primera vez que desde el Gobierno de España "se inte
 
 Date: 2026-09-02
 
-### ¿Cambia el calendario de cierre de las centrales nucleares en España?
-
-Cartel indicador en la entrada a la central de Almaraz. Esteban Martinena Guerrer/Shutterstock El Gobierno de España ha aprobado la ampliación de funcionamiento de la central nuclear de Almaraz hasta el 8 de junio de 2030. La decisión afecta a sus dos reactores y sustituye las fechas de cierre anteriormente previstas:.
-
-Date: 2026-08-14
-
-### Los afganos llegados a España por el retorno de los talibán no olvidan su país tras cinco años
-
-El 15 de agosto de 2021 está grabado a fuego en la memoria de los más de 2.000 afganos q ue ayudó a escapar el Gobierno español del regreso al poder de los talibán . El temor por sus vidas les trajo a un país desconocido pero les brindó también la oportunidad de empezar de nuevo. El camino no ha sido fácil, la mayoría.
-
-Date: 2026-08-14
-
 ## Fuentes
 
-- [El Gobierno aprueba 10.000 millones de euros de financiación para la compra de primera vivienda](https://www.lavanguardia.com/politica/20261006/11652467/gobierno-aprueba-10-000-millones-euros-financiacion-compra-primera-vivienda.html?utm_source=lootura.com) — 2026-10-06T13:06:20.000Z
+No public source links.

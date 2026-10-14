@@ -3,10 +3,16 @@
 > Sigue la actividad de Tel Aviv en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-11T10:38:56.651Z
 - Canonical: https://atlas.lootura.com/es/place/tel-aviv
 
 ## Cambios recientes
+
+### Hamam al Hammami, el piloto extremista que planeó un ataque suicida contra el aeropuerto en Tel Aviv
+
+Según el fiscal general de Emiratos Árabes Unidos, el omaní intentó realizar el atentado terrorista inspirado en el 11-S en el vuelo del pasado 30 de septiembre Leer.
+
+Date: 2026-10-10
 
 ### ‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino
 
@@ -46,4 +52,4 @@ Date: 2026-09-30
 
 ## Fuentes
 
-- [‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino](https://theconversation.com/naza-las-revelaciones-israelies-retratan-el-aislamiento-del-pueblo-palestino-293026?utm_source=lootura.com) — 2026-10-06T17:05:57.000Z
+No public source links.

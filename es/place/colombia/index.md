@@ -3,10 +3,16 @@
 > Sigue la actividad de República de Colombia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/place/colombia
 
 ## Cambios recientes
+
+### El «efecto Bukele» llega a México: Sheinbaum anuncia la construcción de nuevas cárceles
+
+El gobierno mexicano de Claudia Sheinbaum anunció este martes una fuerte inversión en construcción de cárceles, en una evidente similitud con las últimas acciones emprendidas por otros gobiernos de la región de signo político contrario, como Abelardo De la Espriella (Colombia) o Nayib Bukele (El Salvador).El anuncio ll.
+
+Date: 2026-10-13
 
 ### Maternidad subrogada: ¿y si enfocamos el debate desde quienes nacen mediante un acuerdo ajeno?
 
@@ -61,12 +67,6 @@ Date: 2026-08-14
 El presidente colombiano también anunció los primeros pasos hacia una reconstrucción, para la que convocó al sector privado Leer.
 
 Date: 2026-08-14
-
-### La crisis de la "españolísima" Ceuta
-
-El terremoto en Colombia el pasado lunes y el eclipse del sol el miércoles han dominado los medios y, por consiguiente, la conversación nacional. Las broncas sacudidas y las bellas sorpresas que propina la naturaleza dan para mucho y se habla de ellas a expensas del seísmo netamente humano y con muchos muertos por medi.
-
-Date: 2026-08-13
 
 ## Fuentes
 

@@ -70,4 +70,4 @@ Date: 2026-08-03
 
 ## Sources
 
-- [Olympian accused of damaging Reflecting Pool seeks probe of potential misconduct](https://www.cbsnews.com/news/olympian-david-hearn-reflecting-pool-justice-interior-dept-inspector-general/?utm_source=lootura.com) — 2026-10-06T16:00:05.000Z
+No public source links.

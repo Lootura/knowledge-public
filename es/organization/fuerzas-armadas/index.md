@@ -3,10 +3,40 @@
 > Sigue la actividad de Fuerzas armadas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/organization/fuerzas-armadas
 
 ## Cambios recientes
+
+### La crisis de Ceuta y el adelanto electoral marcan la recepción en Palacio Real por el día de la Fiesta Nacional
+
+Anticipo electoral; abucheos y gritos contra el presidente del Gobierno, Pedro Sánchez, en el desfile de las Fuerzas Armadas y, de fondo, la crisis de Ceuta con la última novedad publicada por EL PAíS sobre la incursión en aguas españolas de barcos de guerra de Marruecos en los días 30 y 31 de julio durante el salto ma.
+
+Date: 2026-10-12
+
+### 12 de octubre, en directo: última hora de las Fuerzas Armadas en Madrid | Los falsos nietos del exilio no podrán votar el 29-N
+
+España celebra este lunes, 12 de octubre, el Día de la Hispanidad con el tradicional desfile militar en Madrid, presidido por los Reyes Felipe VI y Letizia, acompañados por la princesa Leonor y la infanta Sofía. La jornada llega en un contexto político marcado por la proximidad de las elecciones generales del 29 de nov.
+
+Date: 2026-10-12
+
+### Las Fuerzas Armadas piden más medios para responder a emergencias y prueban la inteligencia artificial en la gestión de catástrofes
+
+Los especialistas de las Fuerzas Armadas en la respuesta a emergencias ven necesario contar con más medios materiales y humanos, en un momento en el que la UME comienza a probar herramientas de inteligencia artificial en la gestión de catástrofes. Así lo pusieron de manifiesto en el diálogo 'La importancia de las Fuerz.
+
+Date: 2026-10-11
+
+### Quién quiere defender España: así son los jóvenes que se alistan hoy en el Ejército
+
+España está entre los países del mundo con menos gente dispuesta a luchar por su nación en caso de guerra. Sin embargo, en plena incertidumbre global, sigue habiendo jóvenes decididos a alistarse en las Fuerzas Armadas. Recorremos varias escuelas de formación militar para descubrir cómo son, qué piensan y a qué se dedi.
+
+Date: 2026-10-11
+
+### Robles agradece a los militares su «difícil trabajo» en la defensa de Ceuta
+
+La ministra de Defensa, Margarita Robles , ha trasladado su reconocimiento a los contingentes desplegados en las misiones de las Fuerzas Armadas en el exterior y en Ceuta por la «impecable» labor que realizan defendiendo «la paz, la seguridad y la libertad» internacional, así como la «españolidad de la ciudad autónoma».
+
+Date: 2026-10-11
 
 ### El covid, la dana y los incendios forestales convierten a las Fuerzas Armadas en punta de lanza ante las catástrofes
 
@@ -37,36 +67,6 @@ Date: 2026-09-01
 La inteligencia artificial está cambiando radicalmente las Fuerzas Armadas de Ucrania y su capacidad de combate. Tanto es así, que ya ahorra un 90% del tiempo de los analistas de Defensa ucranianos en la etapa de detección de indicios de la presencia enemiga en fotos y vídeos y detectando de forma independiente las pos.
 
 Date: 2026-09-01
-
-### La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma
-
-La Guardia Civil ha reclamado patrullar y acciones conjuntas con el Ejército en Ceuta tras los recientes episodios de emboscadas que han sufrido los militares por parte de nutridos grupos de inmigrantes, según informan fuentes del Instituto Armado a ABC. Los efectivos de las Fuerzas Armadas se han convertido en el prin.
-
-Date: 2026-08-31
-
-### Letonia derriba un dron en su espacio aéreo y Finlandia restringe el acceso a zonas del Báltico
-
-Aviones de combate que participaban en una misión de defensa aérea de la OTAN han derribado un dron que entró en el espacio aéreo de Letonia, miembro de la OTAN y de la Unión Europea, en la madrugada del viernes, según han informado las Fuerzas Armadas de Letonia a través de la red social X. Seguir leyendo...
-
-Date: 2026-08-14
-
-### Robles avala el papel de España en la OTAN ante las tropas desplegadas en el exterior
-
-La ministra de Defensa, Margarita Robles , ha visitado este jueves el Mando de Operaciones (MOPS), situado en la Base de Retamares en Pozuelo de Alarcón (Madrid), para conocer la situación de las misiones que las Fuerzas Armadas mantienen actualmente fuera de España . Durante el encuentro, la titular de Defensa ha reiv.
-
-Date: 2026-08-13
-
-### Vox pide reforzar al Ejército en Ceuta y mandar a la Armada al espigón del Tarajal
-
-El Grupo Parlamentario Vox ha registrado este viernes una proposición no de ley en el Congreso de los Diputados en la que solicita el despliegue general de las Fuerzas Armadas y las Fuerzas y Cuerpos de Seguridad del Estado para la protección del perímetro de las ciudades de Ceuta y Melilla . El texto recuerda que la c.
-
-Date: 2026-08-07
-
-### Tellado denuncia que las fronteras de Baleares no están «ni defendidas, ni vigiladas, ni adecuadamente atendidas»
-
-El secretario general del PP , Miguel Tellado , ha señalado este domingo que «todo el mundo sabe» que las fronteras de España «no están defendidas» ni «adecuadamente atendidas», y ha reclamado explicaciones a la ministra de Defensa, Margarita Robles , por no haber dado «orden inmediata» a las Fuerzas Armadas para salir.
-
-Date: 2026-08-02
 
 ## Fuentes
 

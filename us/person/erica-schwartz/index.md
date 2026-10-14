@@ -3,7 +3,7 @@
 > Follow Erica Schwartz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-08-06T14:02:15.712Z
+- Updated: 2026-10-11T17:18:59.813Z
 - Canonical: https://atlas.lootura.com/us/person/erica-schwartz
 
 ## Recent changes

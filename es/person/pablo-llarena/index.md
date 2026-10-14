@@ -34,6 +34,4 @@ Date: 2026-10-06
 
 ## Fuentes
 
-- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
-- [Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?](https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html?utm_source=lootura.com) — 2026-10-06T12:03:35.000Z
-- [Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes](https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com) — 2026-10-06T11:33:01.000Z
+No public source links.

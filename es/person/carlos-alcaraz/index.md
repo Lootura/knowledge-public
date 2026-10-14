@@ -3,10 +3,16 @@
 > Sigue la actividad de Carlos Alcaraz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-alcaraz
 
 ## Cambios recientes
+
+### Carlos Alcaraz cae ante Bergs en Shanghái y se despide del número uno
+
+El tenista español Carlos Alcaraz ha caído eliminado este lunes en el torneo de Shanghái (China), octavo ATP Masters 1.000 de la temporada, tras ceder ante el belga Zizou Bergs por 7-5 y 7-6(4) en un intenso encuentro de dos horas y dos minutos de duración , mientras que Rafael Jódar ha accedido a los octavos de final.
+
+Date: 2026-10-12
 
 ### La doble función de la malla con la que juega Alcaraz: «Se utiliza como apoyo para generar protección y seguridad al deportista»
 
@@ -59,12 +65,6 @@ Date: 2026-08-09
 ### Dani Mérida da otro salto hasta los cuartos en Montreal
 
 Se piensa en Carlos Alcaraz, todavía de baja por su lesión en la muñeca derecha. Se habla de Rafa Jódar, espectacular sus primeros meses en el circuito: un título, una final de ATP 500, cuartos de Roland Garros, del puesto 106 en marzo a rozar el top ten en agosto, cuartofinalista en el Masters 1.000 de Montreal. Pero.
-
-Date: 2026-08-09
-
-### Sinner tampoco jugará en Cincinnati: sufre molestias en su rodilla
-
-Jannik Sinner, al igual que Carlos Alcaraz, también ha renunciado a competir en el Masters 1000 de Cincinnati.
 
 Date: 2026-08-09
 

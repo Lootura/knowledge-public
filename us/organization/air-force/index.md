@@ -3,10 +3,16 @@
 > Follow Air force, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-08T04:28:18.993Z
 - Canonical: https://atlas.lootura.com/us/organization/air-force
 
 ## Recent changes
+
+### Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat
+
+The justices heard arguments over whether the U.S. Air Force can keep destroying munitions on a Guam beach under a program it began in 1982.
+
+Date: 2026-10-07
 
 ### Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base
 
@@ -34,4 +40,4 @@ Date: 2026-10-04
 
 ## Sources
 
-- [Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base](https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com) — 2026-10-06T04:18:00.000Z
+No public source links.

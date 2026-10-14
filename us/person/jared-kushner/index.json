@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/jared-kushner/index.json",
   "description": "Follow Jared Kushner, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-08T15:58:44.536Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "Jared",
     "Kushner"
@@ -45,6 +45,13 @@
       "date": "2026-09-04"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Watchdog group sues Trump administration over Jared Kushner’s government work",
+      "url": "https://www.nbcnews.com/politics/trump-administration/watchdog-group-sues-trump-administration-jared-kushners-government-wor-rcna603563?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:34:29.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
   "evidenceCount": 0
 }

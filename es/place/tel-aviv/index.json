@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/tel-aviv/index.json",
   "description": "Sigue la actividad de Tel Aviv en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-11T10:38:56.651Z",
   "aliases": [
     "TLV",
     "Tel Aviv City",
@@ -23,6 +23,11 @@
     "Tel-Aviv Yafo"
   ],
   "changes": [
+    {
+      "title": "Hamam al Hammami, el piloto extremista que planeó un ataque suicida contra el aeropuerto en Tel Aviv",
+      "summary": "Según el fiscal general de Emiratos Árabes Unidos, el omaní intentó realizar el atentado terrorista inspirado en el 11-S en el vuelo del pasado 30 de septiembre Leer.",
+      "date": "2026-10-10"
+    },
     {
       "title": "‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino",
       "summary": "Los realizadores de _NAZA_, Yuval Abraham y Rachel Szor, realizaron entrevistas a miembros anónimos de las fuerzas armadas y los servicios de inteligencia israelíes desde las azoteas de Tel Aviv, Israel. Gil Cohen-Magen/AFP via Getty Images Hay una escena impactante en el documental de 2004 de la cineasta marroquí-fran.",
@@ -54,13 +59,6 @@
       "date": "2026-09-30"
     }
   ],
-  "sources": [
-    {
-      "title": "‘NAZA’: las revelaciones israelíes retratan el aislamiento del pueblo palestino",
-      "url": "https://theconversation.com/naza-las-revelaciones-israelies-retratan-el-aislamiento-del-pueblo-palestino-293026?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T17:05:57.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

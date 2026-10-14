@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/san-sebastian/index.json",
   "description": "Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Donostia",
     "Donostia / San Sebastian",
@@ -20,6 +20,31 @@
     "San Sebastián-Donostia"
   ],
   "changes": [
+    {
+      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
+      "summary": "Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "¿Arde San Sebastián?",
+      "summary": "En 1936, ante la inminente entrada de los sublevados, la Junta de Defensa debatió si evacuar la ciudad o resistir a riesgo de su completa destrucción.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Tres heridos evacuados al hospital tras un grave accidente de tráfico en San Sebastián",
+      "summary": "El equipo de Atestados trata de esclarecer las circunstancias del siniestro, que ha tenido lugar en el acceso a la GI-41 desde el puente del Lehendakari Agirre.",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Cortes de tráfico y cambios en los autobuses en San Sebastián por el Cross 3 Playas este domingo",
+      "summary": "La carrera, que arrancará a las 10.00 horas en Satrustegi y finalizará a las 11.30 horas en el paseo Irutxulo, recorrerá Antiguo, Centro, Gros y Parte Vieja.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Gogora inaugurará una exposición sobre 'Pertur' el martes en San Sebastián",
+      "summary": "La muestra que recuerda la desaparición hace 50 años de Eduardo Moreno Bergareche, ideólogo de ETA-pm, estará ubicada en la donostiarra plaza Okendo hasta el próximo 2 de noviembre.",
+      "date": "2026-10-07"
+    },
     {
       "title": "Autobuses gratis este domingo en Donostia: guía de cortes de tráfico y cambios en Dbus y Lurraldebus por la Media Maratón",
       "summary": "Donostia despliega un dispositivo especial de tráfico y transporte con autobuses gratuitos por la V Medio Maratón.",
@@ -44,33 +69,21 @@
       "title": "Concentración para denunciar el ataque con un arma de balines a un migrante en Donostia",
       "summary": "Harrera Sarea ha convocado una protesta el lunes 14 a las 19.30 horas en la plaza Blas de Otero de San Sebastián.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "La Nao San Juan atracará en San Sebastián Gastronomika",
-      "summary": "Su llegada al muelle cargada de bacalao será uno de los puntos fuertes del congreso, que mirará al mar y a la Nueva Cocina Vasca.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así",
-      "summary": "¿Qué es lo primero que lee cada mañana el alcalde Insausti? / La fiesta de Ordizia y el empuje de El Vaskito / El 'glamour' del Festi, Gastronomika y Passion for Knowledge.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Kortajarena se presentará candidata en Donostia para tratar de recuperar los mil votos de distancia con el PNV",
-      "summary": "EH Bildu propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "EH Bildu elige a Kortajarena para recuperar la Alcaldía de Donostia frente a Insausti",
-      "summary": "La coalición propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Sabor, salud, conexión social, creatividad… En busca de la receta de la felicidad gastronómica",
-      "summary": "Barra de un bar de San Sebastián (España). MikeDotta/Shutterstock Comer es mucho más que alimentarse. El sabor, los aromas, la presentación de un plato, la compañía o incluso la historia que hay detrás de una receta pueden transformar una comida cotidiana en una experiencia memorable. ¿Podemos entonces hablar de una “g.",
-      "date": "2026-09-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
+      "url": "https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:07:57.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "¿Arde San Sebastián?",
+      "url": "https://www.diariovasco.com/gipuzkoa/historia/arde-san-sebastian-20261015001221-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:12:21.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -1,0 +1,110 @@
+{
+  "id": "usa-pope-leo",
+  "name": "Pope Leo",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/pope-leo",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/pope-leo",
+  "markdownUrl": "https://atlas.lootura.com/us/person/pope-leo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/pope-leo/index.json",
+  "description": "Follow Pope Leo, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Pope Leo has lung cancer, the Vatican says",
+      "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "Ukrainian President Zelenskyy sits down with NPR to talks about the ongoing war in his country, Pope Leo has lung cancer, the Vatican announced, U.S. ambassador to Greece Kimberly Guilfoyle resigns.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Pope Leo is eating and recovering after cancer surgery, doctors say",
+      "summary": "His post-operative tests are normal following surgery to remove a cancerous mass from his lung, the Vatican said Wednesday.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit",
+      "summary": "Roman Catholics across South America responded to news of Pope Leo XIV's lung cancer diagnosis with an outpouring of prayers and support, along with concerns about whether the first American pope would go ahead with his highly anticipated and physically demanding visit to the region next month.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
+      "summary": "In our news wrap Wednesday, Iran says a cargo ship sank after hitting a mine in the Strait of Hormuz, the Vatican says Pope Leo is eating and walking again following surgery to remove a cancerous portion of his lung, the Supreme Court heard arguments in a privacy case rooted in the era of VHS tapes and Netflix is cutti.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Why So Many People Still Are Not Screened for Lung Cancer",
+      "summary": "Regular scans could catch lung cancers like Pope Leo XIV’s sooner, but many people at risk don’t qualify for screening. Doctors want to change that.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Pope Leo’s Cancer Diagnosis: What Happens Next",
+      "summary": "Pope Leo XIV was diagnosed with a common form of lung cancer on Tuesday. The Vatican said that his postoperative tests showed normal results.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Doctors discuss Pope Leo's lung cancer diagnosis",
+      "summary": "The Vatican announced that Pope Leo XIV was diagnosed with lung cancer on Tuesday, following a surgery he had on his right lung. Doctors and medical experts spoke with CBS News about the potential prognosis.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Details on Pope Leo XIV's lung cancer diagnosis, surgery",
+      "summary": "Pope Leo XIV, the first American pope, has been diagnosed with lung cancer after surgeons removed the lower lobe of his right lung, according to the Vatican. Chris Livesay reports and Dr. David Jones, chief of thoracic surgery at the Memorial Sloan Kettering Cancer Center, has medical analysis.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Lung doctor explains Pope Leo's cancer diagnosis, operation",
+      "summary": "Pope Leo was diagnosed with of lung cancer following a surgical operation on Tuesday, the Vatican said. Dr. Charles Powell, chief of pulmonary, critical care & sleep medicine at Mount Sinai and director of the Mount Sinai Respiratory Institute, joins \"The Daily Report\" to explain what could happen next.",
+      "date": "2026-10-13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pope Leo has lung cancer, the Vatican says",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T08:43:10.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T08:49:42.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Pope Leo is eating and recovering after cancer surgery, doctors say",
+      "url": "https://www.pbs.org/newshour/world/pope-leo-is-eating-and-recovering-after-cancer-surgery-doctors-say?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T13:59:50.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit",
+      "url": "https://www.pbs.org/newshour/world/south-americans-pray-for-pope-leos-recovery-as-uncertainty-hangs-over-his-visit?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:07:01.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:50:43.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Why So Many People Still Are Not Screened for Lung Cancer",
+      "url": "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:33:50.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Pope Leo’s Cancer Diagnosis: What Happens Next",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T16:15:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 7
+}

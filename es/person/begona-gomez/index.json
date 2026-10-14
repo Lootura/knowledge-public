@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/begona-gomez/index.json",
   "description": "Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-11T02:58:00.569Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía",
+      "summary": "La presidenta del Parlamento cesa de manera fulminante a un consejero del órgano que fiscaliza a la Junta por actuar como perito profesional en la causa contra la mujer del presidente Leer.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "La Fiscalía pide la absolución de Begoña Gómez: no hubo tráfico de influencias ni malversación ni perjuicio para la Complutense",
+      "summary": "El escrito de conclusiones del Ministerio Público resalta que la esposa del presidente del Gobierno actuó \"sin animo de lucro\" Leer.",
+      "date": "2026-10-07"
+    },
     {
       "title": "La Audiencia ratifica la absolución de la tertuliana Pilar Baselga que llamó 'Begoño' a Begoña Gómez",
       "summary": "La Audiencia Provincial de Madrid ha ratificado la absolución de la profesora, historiadora del arte y tertuliana Pilar Baselga , quien en noviembre de 2022 se refirió a Begoña Gómez , mujer del presidente del Gobierno, como \"Begoño\" y la vinculó con \"temas de narcotráfico en Marruecos \". Según la sentencia a la que tu.",
@@ -50,18 +60,15 @@
       "title": "El juez Peinado cita a Begoña Gómez este martes a una audiencia preliminar antes de abrir juicio oral",
       "summary": "El magistrado Juan Carlos Peinado ha citado a Begoña Gómez, esposa de Pedro Sánchez, para que asista este martes a la audiencia preliminar necesaria para poder abrir juicio oral contra la pareja del presidente del Gobierno . El magistrado, que ha comunicado este lunes su decisión, ha fijado el acto a las 18.00 de este.",
       "date": "2026-09-07"
-    },
-    {
-      "title": "Begoña Gómez pide su absolución y niega haber sacado partido de su matrimonio con Sánchez",
-      "summary": "Begoña Gómez ha remitido este viernes al juez su escrito de defensa . La mujer del presidente del Gobierno pide su absolución al considerar que los hechos por los que se le investigan \"no son constitutivos de delito alguno\" y que su caso no tendría que ir a juicio. Además, pide que se condene al pago de las costas proc.",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM",
-      "summary": "Su escrito de defensa niega cualquier beneficio económico o uso irregular del 'software' y atribuye el registro de marcas y dominios a un fin estrictamente docente para la universidad.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía",
+      "url": "https://www.elmundo.es/andalucia/2026/10/14/6acfb431e9cf4a8c238b4598.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T17:51:48.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,64 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
+
+Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
+
+Date: 2026-10-14
+
+### How Starlink disruptions affected Ukraine's battlefield operations
+
+A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.
+
+Date: 2026-10-14
+
+### Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access
+
+Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.
+
+Date: 2026-10-14
+
+### What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
+
+For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.
+
+Date: 2026-10-14
+
+### Funding milestone detected
+
+Elon Musk looks on as President Donald Trump speaks at the U.S.-Saudi Investment Forum at the John F. Kennedy Center for the Performing Arts in Washington, D.C. on Nov. 19, 2025. —Brendan Smialowski—AFP/Getty Images Elon Musk, the world’s richest man who also spent more than $250 million for President Donald Trump’s re.
+
+Date: 2026-10-13
+
+### In 'Blockers,' Michael Lewis highlights government workers who resisted DOGE
+
+Elon Musk has donated more than $365 million to support Republicans in the midterm elections. Musk's influence on the federal government is the focus of "Blockers," a new book by Michael Lewis. Lisa Desjardins sat down with Lewis to discuss Musk's time leading DOGE and the federal workers who found themselves in its cr.
+
+Date: 2026-10-12
+
+### Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?
+
+For more than a year, The New York Times followed recipients of universal basic income programs, which Elon Musk and other tech leaders have promoted as a solution to A.I.-fueled job losses.
+
+Date: 2026-10-12
+
+### Elon Musk has donated over $276 million to Republican midterm efforts
+
+So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one.
+
+Date: 2026-10-12
+
+### How 'Musk' director Alex Gibney became a critic
+
+A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men. (Image credit: Ken Cedeno).
+
+Date: 2026-10-08
 
 ### Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries
 
@@ -14,60 +68,9 @@ Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit 
 
 Date: 2026-10-06
 
-### Elon Musk’s Grokipedia has a ‘newly refreshed’ design
-
-Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again , and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a "newly refreshed Grokipedia." Gro.
-
-Date: 2026-10-01
-
-### Is Big Tech’s AI slowdown a safety pact or a cartel?
-
-When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at le.
-
-Date: 2026-09-14
-
-### Developer ecosystem expanded
-
-Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.
-
-Date: 2026-09-13
-
-### Trump and Mike Johnson think the AI industry is overreacting
-
-Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump a.
-
-Date: 2026-09-13
-
-### From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk
-
-In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths. (Image credit: Andrew Harnik).
-
-Date: 2026-09-11
-
-### Elon Musk threatens to sue over Gibney documentary's "space lasers" claim
-
-The tech billionaire's attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary. (Image credit: Evan Vucci).
-
-Date: 2026-09-10
-
-### State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film
-
-Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Ven.
-
-Date: 2026-09-08
-
-### Elon Musk-backed super PAC reports $800,000 in first burst of midterm spending, largely in Maine and Texas
-
-Elon Musk's super PAC disclosed over $800,000 in spending last month to support Republican Senate and House candidates in competitive races, with the bulk in Texas and Maine.
-
-Date: 2026-09-03
-
-### Elon Musk’s super PAC dives into midterms to bolster Republicans in battleground races
-
-Elon Musk’s super PAC has funneled about $800,000 into battleground races across the country to boost Republican candidates.
-
-Date: 2026-09-03
-
 ## Sources
 
-- [Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries](https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
+- [Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure](https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com) — 2026-10-14T12:51:09.000Z
+- [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
+- [Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access](https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access?utm_source=lootura.com) — 2026-10-14T21:08:52.000Z
+- [What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?](https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com) — 2026-10-14T22:20:50.000Z

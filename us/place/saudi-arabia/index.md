@@ -3,10 +3,52 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### Trump says Houthis are "behaving very badly." What are his options?
+
+Saudi Arabia said it intercepted Houthi missiles and drones across the kingdom on Tuesday after the rebel group struck an airport over the weekend. CBS News Middle East contributor Courtney Kealy joins with analysis.
+
+Date: 2026-10-14
+
+### Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia
+
+The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.
+
+Date: 2026-10-14
+
+### Former U.S. ambassador on Saudi Arabia's struggle to defend against Houthi attacks
+
+To discuss the escalating war between the Houthis in Yemen and Saudi Arabia, Amna Nawaz spoke with Michael Ratney. He served as U.S. ambassador to Saudi Arabia during the Biden administration and is now a senior adviser at the Center for Strategic and International Studies.
+
+Date: 2026-10-13
+
+### Inside the Houthis' power as Trump considers strikes after attacks on Saudi Arabia
+
+The main international airport in Riyadh remains closed after Houthi forces fired a barrage of missiles at the main terminal, causing massive damage and killing at least 13 people over the weekend. Saudi Arabia's government has vowed to retaliate and now wants the U.S. to join in. Gregory Gause, associate fellow at the.
+
+Date: 2026-10-13
+
+### Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes
+
+The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.
+
+Date: 2026-10-11
+
+### Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike
+
+U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.
+
+Date: 2026-10-11
+
+### Saudi airport struck again a day after deadly attack
+
+An unidentified projectile struck Saudi Arabia’s main international airport Sunday, injuring people a day after a deadly missile attack at the same site raised questions about whether the United States would join another conflict in the region.
+
+Date: 2026-10-11
 
 ### Houthis Claim Attack on Aramco as Yemen Conflict Escalates
 
@@ -25,48 +67,6 @@ Date: 2026-10-04
 About 170 people aboard a terrifying flight to Tel Aviv are safe and on the ground after one pilot stabbed the other in an apparent attempt to crash it. Israeli officials say passengers and crew sprang into action and prevented a disaster. The attacker has been arrested in Saudi Arabia. Nick Schifrin reports.
 
 Date: 2026-09-30
-
-### Daily fragment: Strategic Mutual Defence Agreement
-
-Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.
-
-Date: 2026-09-17
-
-### Rising gas prices fuel protests in countries around the world
-
-Protests over rising fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper.
-
-Date: 2026-09-17
-
-### How the fighting between the Houthis and Saudi Arabia is affecting gas prices
-
-NPR's A Martinez speaks with oil markets expert Ellen R. Wald of the Atlantic Council about how the escalation in fighting between the Houthis and Saudi Arabia is affecting global oil and gas prices.
-
-Date: 2026-09-17
-
-### U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis
-
-Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.
-
-Date: 2026-09-16
-
-### Saudi Arabia accuses Houthis of attacking Mecca, warns holy city is a ‘red line’
-
-Saudi Arabia has accused the Iran-backed Houthi rebels of attempting to attack Islam’s holiest city, declaring Mecca a “red line” in the escalating conflict.
-
-Date: 2026-09-16
-
-### US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders
-
-Armed group appears to reach agreement with Trump administration over safety of Red Sea shipping Officials from the US met Houthi leaders over the weekend at the country’s embassy in Muscat, Oman, it has been confirmed, leading to the US decision not to intervene to help Saudi Arabia drive back a Houthi advance inside.
-
-Date: 2026-09-16
-
-### Oil Prices Jump on Energy Supply Worries
-
-Traders sold oil futures on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.
-
-Date: 2026-09-14
 
 ## Sources
 

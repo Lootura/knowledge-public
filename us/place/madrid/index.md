@@ -40,4 +40,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause](https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com) — 2026-10-06T12:08:04.000Z
+No public source links.

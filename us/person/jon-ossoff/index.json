@@ -1,0 +1,40 @@
+{
+  "id": "usa-jon-ossoff",
+  "name": "Jon Ossoff",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/jon-ossoff",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/jon-ossoff",
+  "markdownUrl": "https://atlas.lootura.com/us/person/jon-ossoff/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/jon-ossoff/index.json",
+  "description": "Follow Jon Ossoff, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "aliases": [
+    "Jonathan Ossoff",
+    "Ossoff",
+    "Sen. Jon Ossoff",
+    "Sen. Ossoff",
+    "Senator Jon Ossoff",
+    "Senator Ossoff",
+    "Thomas Jonathan Ossoff"
+  ],
+  "changes": [
+    {
+      "title": "Ossoff says \"zero interest in running for president\" in Georgia debate",
+      "summary": "Sen. Jon Ossoff and Republican challenger Mike Collins traded attacks over the 2020 election and alleged connections to white nationalists. Ossoff also pushed back on speculation that he could run for president in 2028.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028",
+      "summary": "The Democratic incumbent pledged to serve a full term as he and challenger Rep. Mike Collins hit on similar themes as in their first debate last week.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Jon Ossoff first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

@@ -3,10 +3,16 @@
 > Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/poder-judicial
 
 ## Cambios recientes
+
+### Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE
+
+Nueva fractura en el seno del Consejo General del Poder Judicial (CGPJ), en esta ocasión para mostrar el apoyo a la instructora del caso del hermano de Pedro Sánchez, la...
+
+Date: 2026-10-14
 
 ### El Gobierno y el PSOE echan el resto en su cruzada contra los jueces
 
@@ -62,12 +68,6 @@ El informe policial de Ceuta que revela la participación activa de los gendarme
 
 Date: 2026-09-03
 
-### Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza
-
-El ministro del Interior, Fernando Grande-Marlaska , ha enviado una carta a la presidenta del Consejo General del Poder Judicial (CGPJ) , Isabel Perelló , para quejarse de que la jueza María Tardón prohibiera a los agentes investigadores compartir el informe policial sobre Ceuta. El ministro mantiene que la gravedad de.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE](https://amp.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html?utm_source=lootura.com) — 2026-10-14T09:55:14.000Z

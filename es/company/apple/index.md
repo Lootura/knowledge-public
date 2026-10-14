@@ -3,10 +3,28 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos
+
+OpenAI acusó a un exempleado de haberse llevado archivos confidenciales a Apple , un caso que se suma a la disputa judicial entre ambas compañías. La empresa de IA afirma que un antiguo trabajador que se marchó a Cupertino envió más de 100 archivos confidenciales a sus cuentas personales. En los documentos se encontrab.
+
+Date: 2026-10-14
+
+### Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo
+
+Si piensas comprarte el iPhone Duo (o si ya lo reservaste ), seguramente quieras ser bastante cuidadoso al usarlo. Apple ha dado a conocer los precios de las reparaciones del dispositivo para quienes no tengan cobertura de AppleCare+, y las cifras asustan. Algunas son tan caras que cuestan más que comprarse un iPhone 1.
+
+Date: 2026-10-14
+
+### Apple anuncia su evento ‘Welcome home’: ¿Nuevos dispositivos para el hogar inteligente a la vista?
+
+Tal y como se rumoreaba , dentro de muy pocos días tendremos un nuevo evento de Apple . La firma de Cupertino acaba de lanzar las invitaciones para Welcome home , una presentación especial en la que se espera la introducción del rumoreado hub inteligente, además de actualizaciones para el Apple TV y el HomePod mini. La.
+
+Date: 2026-10-08
 
 ### Apple ya tiene fecha para lanzar un dispositivo totalmente nuevo. Revivirá el diseño de uno de los Mac más icónicos
 
@@ -50,24 +68,7 @@ Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo , Apple ha vuelto
 
 Date: 2026-09-12
 
-### 5 razones por las que ‘Silo’ es la mejor serie de ciencia ficción del año
-
-Silo de Apple TV estrenó el cierre de su tercera temporada dejando algo muy claro. No es solo una de las mejores series de ciencia ficción de la plataforma de los de Cupertino , que ya es un logro considerable . También es una de las historias más apasionantes del género . Eso, gracias a su fascinante narrativa de mist.
-
-Date: 2026-09-12
-
-### La cámara del iPhone 18 Pro por fin aprende a abrir y cerrar el ojo
-
-El iPhone Duo se ha llevado buena parte de los titulares del evento de Apple de este mes, pero el cambio que más va a notar quien haga fotos con el móvil cada día está en el iPhone 18 Pro y el iPhone 18 Pro Max. Por primera vez, la cámara principal de un iPhone incorpora un diafragma físico capaz de abrirse y cerrarse,.
-
-Date: 2026-09-11
-
-### Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable
-
-Alberto Olmos y Rubén Arranz están de vuelta en su estudio de El Confidencial para un nuevo episodio de Lo más odiado, el videopódcast de El Confidencial en el que ambos hablan de sus cosas y que puedes ver en YouTube y escuchar en Ivoox , Spotify y Apple Podcast . En este episodio hay espacio para abordar en detalle l.
-
-Date: 2026-09-10
-
 ## Fuentes
 
-- [El iPhone 17 vuelve a ser una opción interesante: subió de precio y ahora ha vuelto a bajar](https://hipertextual.com/apple/el-iphone-17-vuelve-a-ser-una-opcion-interesante-subio-de-precio-y-ahora-ha-vuelto-a-bajar/?utm_source=lootura.com) — 2026-10-06T13:26:16.000Z
+- [OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos](https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com) — 2026-10-14T20:50:00.000Z
+- [Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo](https://hipertextual.com/apple/reparar-el-iphone-duo-cuesta-mas-que-comprar-un-iphone-nuevo/?utm_source=lootura.com) — 2026-10-14T18:45:00.000Z

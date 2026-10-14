@@ -3,10 +3,16 @@
 > Follow The Times, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-08T21:01:47.022Z
 - Canonical: https://atlas.lootura.com/us/organization/the-times
 
 ## Recent changes
+
+### How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel
+
+A top aide to Ambassador Mike Huckabee skewed information to portray the Netanyahu government in a favorable light, according to multiple officials and documents obtained by The Times.
+
+Date: 2026-10-08
 
 ### Roger Marshall Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.
 

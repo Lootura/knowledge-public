@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-manuel-albares/index.json",
   "description": "Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-17T16:13:29.513Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Albares",
     "José Manuel Albares Bueno"
   ],
   "changes": [
+    {
+      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
+      "summary": "Félix Bolaños, Margarita Robles y José Manuel Albares figuran entre los ministros que concurrirán a las generales del 29 de noviembre, mientras Óscar López y Ángel Víctor Torres se centrarán en las futuras elecciones autonómicas y varias candidaturas siguen pendientes de confirmación. Margarita Robles será la número do.",
+      "date": "2026-10-14"
+    },
     {
       "title": "Albares: “Ceuta y Melilla van a estar en el corazón de la Unión Europea”",
       "summary": "“Ceuta y Melilla son España, pero son también Unión Europea y ahí es donde deben estar y van a estar Ceuta y Melilla , en el corazón de la Unión Europea”, ha defendido este jueves el ministro de Exteriores, José Manuel Albares, durante su intervención en la tercera edición de Diálogos para la Seguridad , un evento orga.",
@@ -58,13 +63,15 @@
       "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
       "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares, ha informado del fallecimiento de un español en el terremoto que sacudió Colombia el pasado lunes. Se trata de un ciudadano con doble nacionalidad del que no ha aportado más detalles.En un audio remitido a los medios de comunicación, e.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Exteriores comunica la muerte de un español en el terremoto en Colombia",
-      "summary": "El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha informado de que un ciudadano español con doble nacionalidad ha fallecido en el terremoto que sacudió Colombia el pasado lunes, mientras que la cifra de nacionales sin localizar ha descendido, «felizmente», de 75 a 12. En un audio.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
+      "url": "https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T16:54:02.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    }
+  ],
+  "evidenceCount": 1
 }

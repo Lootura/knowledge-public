@@ -3,10 +3,22 @@
 > Sigue la actividad de El Corte Inglés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-01T04:06:40.370Z
+- Actualizado: 2026-10-13T23:35:46.672Z
 - Canonical: https://atlas.lootura.com/es/company/el-corte-ingles
 
 ## Cambios recientes
+
+### Valorian propone subir un 18% los sueldos en El Corte Inglés, Ikea o Fnac
+
+La subida de los salarios es la gran protagonista del nuevo convenio de grandes almacenes de la patronal La Distribución-Anged, que representa a gigantes como El Corte Inglés,...
+
+Date: 2026-10-13
+
+### El sindicato mayoritario en la ‘patronal’ de El Corte Inglés e Ikea pide una subida salarial del 18%
+
+Las empresas asociadas en la Asociación Nacional de Grandes Empresas de Distribución (Anged) , como El Corte Inglés, Ikea, Carrefour, Alcampo, Leroy Merlin o Media Markt, ya conocen la primera propuesta deslizada por Valorian, el sindicato más representativo en el convenio de grandes almacenes, con un 43% de los delega.
+
+Date: 2026-10-13
 
 ### El precio de los huevos a partir de hoy en los supermercados: de Mercadona a El Corte Inglés, Carrefour, Alcampo o DIA
 

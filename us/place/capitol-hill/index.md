@@ -3,10 +3,22 @@
 > Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/capitol-hill
 
 ## Recent changes
+
+### How the House landscape is evolving: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-10-14
+
+### Trump’s new messenger: From the Politics Desk
+
+Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
+
+Date: 2026-10-13
 
 ### Former special counsel Jack Smith defends investigation into Trump on Capitol Hill
 
@@ -56,18 +68,6 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-08-12
 
-### Progressives had another big primary night – with a notable exception: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-08-05
-
-### TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau
-
-Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.
-
-Date: 2026-08-04
-
 ## Sources
 
-No public source links.
+- [How the House landscape is evolving: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/house-landscape-evolving-politics-desk-rcna603597?utm_source=lootura.com) — 2026-10-14T22:28:21.000Z

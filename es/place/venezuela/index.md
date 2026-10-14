@@ -3,10 +3,22 @@
 > Sigue la actividad de Estados Unidos de Venezuela en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-14T17:40:22.734Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/venezuela
 
 ## Cambios recientes
+
+### Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela
+
+Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.
+
+Date: 2026-10-14
+
+### Delcy dice que el diálogo con EEUU y la oposición ayuda a la recuperación económica
+
+La presidenta encargada de Venezuela, Delcy Rodríguez , ha destacado este lunes desde Roma que el diálogo con Estados Unidos y con la oposición han ayudado a la recuperación económica del país. Además, Rodríguez ha anunciado el lanzamiento del Plan Venezuela Alimenta para impulsar la erradicación del hambre en su país.
+
+Date: 2026-10-12
 
 ### María Corina Machado arrasaría en Venezuela con un 61% de los votos, según una encuesta
 
@@ -56,18 +68,6 @@ Refinería en Nueva Orleans (Estados Unidos). Dr. Victor Wong/Shutterstock Estad
 
 Date: 2026-09-01
 
-### Repsol refuerza su apuesta por Venezuela en pleno acercamiento petrolero entre Trump y Delcy Rodríguez
-
-La renovada apuesta de Repsol por Venezuela avanza. La multinacional está encontrando el camino cada vez más despejado para poder desarrollar su actividad en el país latinoamericano, donde está presente desde 1993 y donde aspira a triplicar su apuesta actual. La última demostración de este avance llegó este mismo fin d.
-
-Date: 2026-09-01
-
-### Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela
-
-Hasta mayo de este año, el empresario venezolano Alejandro Betancourt tenía prohibida la salida de Reino Unido por motivos legales, mientras lidiaba con una solicitud de extradición de Suiza en el marco de una investigación por posible blanqueo de capitales. Seguir leyendo.
-
-Date: 2026-08-31
-
 ## Fuentes
 
-No public source links.
+- [Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela](https://www.abc.es/internacional/trump-levanta-sanciones-jorge-rodriguez-hermano-delcy-20261014162847-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:23.000Z

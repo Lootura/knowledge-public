@@ -3,10 +3,28 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### FBI arrests OpenAI engineer for allegedly planting bug in office
+
+The FBI arrested an OpenAI engineer for allegedly planting a recording device in a company office. CBS News' Jo LIng Kent reports.
+
+Date: 2026-10-14
+
+### OpenAI employee accused of planting recording device in office
+
+A Saudi national who worked at OpenAI as an engineer is suspected of planting a recording device in one of the company's conference rooms.
+
+Date: 2026-10-13
+
+### OpenAI employee arrested for allegedly planting a bug in a conference room
+
+An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according.
+
+Date: 2026-10-13
 
 ### An AI couldn’t beat humans at StarCraft, so it decided to cheat
 
@@ -50,24 +68,6 @@ The funding round would double the value of the start-up behind ChatGPT and esta
 
 Date: 2026-09-16
 
-### Is Big Tech’s AI slowdown a safety pact or a cartel?
-
-When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to "pace the frontier," signing on at le.
-
-Date: 2026-09-14
-
-### Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic
-
-Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.
-
-Date: 2026-09-13
-
-### Developer ecosystem expanded
-
-Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchers Analysis: critics perplexed and suspicious of call for a slowdown The Guardian view: humanity cannot outsource its survival Sam Altman and Elon Musk have backed a call from the head of Anthropic, Dario Amodei, to “slow.
-
-Date: 2026-09-13
-
 ## Sources
 
-- [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership?utm_source=lootura.com) — 2026-10-06T16:00:00.000Z
+- [FBI arrests OpenAI engineer for allegedly planting bug in office](https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/?utm_source=lootura.com) — 2026-10-14T14:24:29.000Z

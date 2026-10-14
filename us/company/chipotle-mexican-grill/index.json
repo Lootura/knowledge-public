@@ -1,0 +1,34 @@
+{
+  "id": "usa-chipotle-mexican-grill",
+  "name": "Chipotle Mexican Grill",
+  "type": "company",
+  "locale": "en",
+  "canonicalPath": "/us/company/chipotle-mexican-grill",
+  "canonicalUrl": "https://atlas.lootura.com/us/company/chipotle-mexican-grill",
+  "markdownUrl": "https://atlas.lootura.com/us/company/chipotle-mexican-grill/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/company/chipotle-mexican-grill/index.json",
+  "description": "Follow Chipotle Mexican Grill, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-13T11:24:39.918Z",
+  "aliases": [
+    "Chipotle"
+  ],
+  "changes": [
+    {
+      "title": "Starbucks denies plan to buy Chipotle after report of possible takeover",
+      "summary": "Starbucks said it doesn't plan to bid for Chipotle Mexican Grill, saying the coffee chain is focused on organic growth.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Chipotle Mexican Grill first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Starbucks is ‘not buying Chipotle’ after report it had explored a deal",
+      "summary": "Starbucks said that it would not be moving to buy Chipotle Mexican Grill, after a report days earlier said the coffeehouse chain had evaluated the prospect.",
+      "date": "2026-10-12"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

@@ -8,13 +8,33 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
+      "summary": "La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "El PP cambia de estrategia en redes y se lanza contra Sarah Santaolalla y Afra Blanco: “A esto se viene llorado”",
+      "summary": "Sarah Santaolalla compartió este lunes un vídeo de Isabel Díaz Ayuso en Telemadrid. La comunicadora escribió pasadas las seis de la tarde sobre estas imágenes en las que aparece la presidenta madrileña con un pequeño tambaleo en los tacones durante el desfile del 12 de octubre: “Ayer hubo fiesta en el ático”. El coment.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "La Confederación de Sindicatos de Inquilinas convoca un minuto de silencio en todos los centros de trabajo",
+      "summary": "Tras la polémica de este jueves en Madrid, de que el alcalde de la capital, José Luis Martínez Almeida, y la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, así como el presidente del Senado, Pedro Rollán, se han negado a guardar un minuto de silencio, como homenaje a Maricarmen, en los plenos de sus respectiv.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Los OK y KO del jueves, 8 de octubre de 2026",
+      "summary": "OK: Isabel Díaz Ayuso Porque recurrirá los decretos de vivienda si hay «invasión de competencias» por ser un «panfleto electoral». OK: Ana Rosa Quintana Por batir récord de audiencia de la temporada con un 14% de ‘share’ retratando a Pedro Sánchez. OK: Alberto Núñez Feijóo Por prometer que expulsará a los 15.000 invaso.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Cuándo y cómo conseguir el Carné Senior de la Comunidad de Madrid",
       "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha hecho oficial que el carné senior para las personas mayores de 55 años empadronados en la región, será una realidad en los próximos meses de 2027 . Este carné nace con el objetivo de fomentar el envejecimiento activo y mejorar la calidad de vida de este sec.",
@@ -44,28 +64,15 @@
       "title": "La subasta por el ático de Ayuso queda desierta por falta de ofertas",
       "summary": "Planifica Madrid, la empresa pública de la Comunidad de Madrid que compró en abril el polémico ático de Chamberí, cuyo propósito ha perseguido durante todo el verano a la presidenta Isabel Díaz Ayuso, no ha recibido oferta alguna por el inmueble tras ponerlo a la venta, por lo que se ha propuesto declarar desierta la c.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Madrid ataca al cirujano denunciante del Ramón y Cajal y reduce el escándalo a una rencilla entre médicos",
-      "summary": "El Ejecutivo de Isabel Díaz Ayuso ha reducido el último escándalo en su sanidad a disputas entre médicos. Su consejera de Sanidad, Fátima Matute, fue la encargada de anunciar al término de la jornada del martes que están investigando si dos responsables en el Hospital Ramón y Cajal rebajaron la prioridad de las cirugía.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Ayuso planta a los rectores en el inicio del curso académico y una masa corea a la consejera: “Que te vayas, te vayas de aquí”",
-      "summary": "Isabel Díaz Ayuso no ha presidido este mediodía la apertura oficial del curso académico 2026/2027 que se ha celebrado en la Universidad Autónoma de Madrid (UAM). Su presencia no estaba en duda porque la fecha se ajusta a la agenda de la presidenta madrileña, pero este martes a última hora el acto se cayó de su plan del.",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "El podemita Sotomayor hace el ridículo para criticar a Ayuso: \"Circuitos urbanos de F1 sólo están en Madrid y Valencia\"",
-      "summary": "Roberto Sotomayor, ex atleta y candidato de Podemos a la alcaldía de Madrid en 2023, ha hecho el ridículo para criticar a Isabel Díaz Ayuso y a José Luis Martínez-Almeida por el Gran Premio de Fórmula 1 en Madrid.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Ayuso celebra que el Gran Premio de Madrid ha «desbordado expectativas»",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha celebrado este domingo que Madring ha «desbordado expectativas» y ha destacado que el Gran Premio de Fórmula 1 de España demuestra lo que el país es « capaz de hacer » cuando le dejan «organizar eventos de gran magnitud». «Aparte de decenas de miles de emp.",
-      "date": "2026-09-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
+      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T19:31:54.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

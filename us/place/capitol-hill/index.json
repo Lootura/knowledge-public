@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/capitol-hill/index.json",
   "description": "Follow Capitol Hill, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-01T04:06:59.232Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "Capitol Hill Historic District",
     "Capitol Hill, DC"
   ],
   "changes": [
+    {
+      "title": "How the House landscape is evolving: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Trump’s new messenger: From the Politics Desk",
+      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+      "date": "2026-10-13"
+    },
     {
       "title": "Former special counsel Jack Smith defends investigation into Trump on Capitol Hill",
       "summary": "Former Justice Department special counsel Jack Smith defended two criminal indictments against President Trump on Capitol Hill.",
@@ -53,18 +63,15 @@
       "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
       "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "date": "2026-08-12"
-    },
-    {
-      "title": "Progressives had another big primary night – with a notable exception: From the Politics Desk",
-      "summary": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau",
-      "summary": "Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.",
-      "date": "2026-08-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "How the House landscape is evolving: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/house-landscape-evolving-politics-desk-rcna603597?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:28:21.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

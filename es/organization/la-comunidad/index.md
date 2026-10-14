@@ -3,10 +3,34 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
+
+La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.
+
+Date: 2026-10-14
+
+### La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"
+
+Un colegio hace votar a sus alumnos de 3º y 4º de la ESO sobre "parar" las clases y "convertir las calles en una pesadilla para los fascistas y clasistas del PP y Ayuso" Leer.
+
+Date: 2026-10-14
+
+### Juegos, danza y cómics para llevar la Hispanidad a las aulas madrileñas
+
+La Comunidad de Madrid ha trasladado la programación de Hispanidad 2026 a colegios e institutos con una propuesta que combina actividades culturales y materiales educativos para acercar a los alumnos la historia y las tradiciones de los países hispanohablantes. Una iniciativa que este martes ha contado con la participa.
+
+Date: 2026-10-13
+
+### La justicia rechaza de nuevo el desalojo de la Puerta del Sol porque no existe “inactividad” de la Delegación del Gobierno
+
+El Tribunal Superior de Justicia de Madrid (TSJM) ha rechazado el desalojo por la fuerza de la acampada de la Puerta del Sol, instalada hace 11 días por la crisis de la vivienda en España . La Comunidad de Madrid presentó un recurso contencioso-administrativo en el que denunciaba la “ocupación ilegal de un espacio públ.
+
+Date: 2026-10-07
 
 ### Los documentos que prueban que Madrid manipuló la lista de espera del Ramón y Cajal: “Evitad anotarlos como preferentes”
 
@@ -44,30 +68,7 @@ La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Po
 
 Date: 2026-09-03
 
-### Madrid planta a Hacienda y pide al resto de comunidades del PP un boicot a la financiación
-
-La Comunidad de Madrid no asistirá este viernes al Consejo de Política Fiscal y Financiera (CPFF) al defender que en él se va a aprobar la reforma del sistema de financiación autonómica que han pactado «de manera bilateral y de espaldas al resto de comunidades autónomas el Gobierno de Pedro Sánchez y el Gobierno de Cat.
-
-Date: 2026-09-03
-
-### La Comunidad reconoce ahora que Ayuso visitó el ático tras su compra
-
-«Cuando se compra un inmueble, obvio que se visita», deslizaba este miércoles en la rueda de prensa posterior al Consejo de Gobierno Miguel Ángel García Martín, consejero de Presidencia, Justicia y Administración Local, cuando ha sido preguntado sobre si la presidenta o alguien de su equipo habían acudido el ático de C.
-
-Date: 2026-09-02
-
-### La Comunidad reconoce ahora que Ayuso visitó el ático en primavera tras su compra
-
-«Cuando se compra un inmueble, obvio que se visita», deslizaba este miércoles en la rueda de prensa posterior al Consejo de Gobierno Miguel Ángel García Martín, consejero de Presidencia, Justicia y Administración Local, cuando ha sido preguntado sobre si la presidenta o alguien de su equipo habían visitado el ático de.
-
-Date: 2026-09-02
-
-### Madrid reduce en 38.000 pacientes las listas de espera de consultas y pruebas diagnósticas en julio
-
-La Comunidad de Madrid redujo de forma significativa durante el mes de julio el número de pacientes pendientes de una primera consulta o de una prueba diagnóstica. En conjunto, las listas de espera estructurales de ambas categorías sumaron 37.977 pacientes menos, lo que supone una reducción del 4,4% respecto a junio, s.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-No public source links.
+- [La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada](https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:54.000Z
+- [La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"](https://www.elmundo.es/madrid/2026/10/14/6acf546521efa0d0238b4587.html?utm_source=lootura.com) — 2026-10-14T11:09:48.000Z

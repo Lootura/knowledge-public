@@ -3,10 +3,28 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T11:24:20.634Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Es oficial: la Comunidad de Madrid recupera en 2027 un festivo que llevaba cuatro años sin celebrarse
+
+El Consejo de Gobierno regional ha puesto en marcha un decreto que establece los días festivos de 2027 en la Comunidad de Madrid.
+
+Date: 2026-10-13
+
+### El Gobierno crea 700 plazas judiciales extras por la vía de urgencia de los decretos
+
+El Gobierno le coge el gusto a la vía de urgencia. El Consejo de Ministros ha aprobado este martes la tramitación de dos reales decretos para crear 700 plazas judiciales y fiscales el próximo año : 500 de jueces y 200 de fiscales. Esta ampliación supondrá un incremento del 7,8% de la planta judicial y del 6,6% de la pl.
+
+Date: 2026-10-13
+
+### El presidente de la CNMC quiere crear de urgencia la figura de economista jefe
+
+El Consejo de Ministros del pasado martes, día 6, aprobó un acuerdo por el que pide al Consejo de Estado que emita un dictamen con carácter urgente, “no más tarde del 8 de octubre”, sobre el proyecto de real decreto por el que se modifica el Estatuto Orgánico de la Comisión Nacional de los Mercados y la Competencia (CN.
+
+Date: 2026-10-08
 
 ### Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo
 
@@ -50,24 +68,6 @@ Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóvil
 
 Date: 2026-09-04
 
-### Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas
-
-El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste del Consejo de Administración para transformar la compañía y mejorar su...
-
-Date: 2026-09-03
-
-### El Grupo Volkswagen aprueba 50.000 nuevos despidos en su plan de reestructuración
-
-El Consejo de Supervisión del Grupo Volkswagen aprobó este jueves por unanimidad el plan de ajuste para transformar la compañía de cara a 2030 y mejorar su eficiencia y competitividad, que contempla el recorte de 50.000 puestos de trabajo que se suman a los otros 50.000 ya anunciados con anterioridad. En esa comunicaci.
-
-Date: 2026-09-03
-
-### Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas
-
-El Gobierno confía en un peso pesado político del Ministerio de Vivienda para sustituir a David Lucas , fallecido el 20 de julio, al frente de la Secretaría de Estado de Vivienda y Agenda Urbana. El Consejo de Ministros ha nombrado para el cargo este martes a Leire Iglesias , hasta ahora presidenta de la sociedad estat.
-
-Date: 2026-09-01
-
 ## Fuentes
 
-- [Las 21 medidas de los nuevos textos aprobados este martes por el Ejecutivo](https://www.20minutos.es/vivienda/medidas-nuevos-decretos-vivienda-aprobados-gobierno_7045517_0.html?utm_source=lootura.com) — 2026-10-06T13:08:45.000Z
+No public source links.

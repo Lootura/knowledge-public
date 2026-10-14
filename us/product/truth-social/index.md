@@ -3,10 +3,22 @@
 > Follow Truth Social, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/product/truth-social
 
 ## Recent changes
+
+### Will Trump's Russia diesel deal actually bring down prices?
+
+President Trump said Friday on Truth Social that Russia will "immediately supply" more than 300,000 tons of diesel to global markets, an additional 500,000 tons in November, and 1 million tons "immediately thereafter." Patrick De Haan, head of petroleum analysis at GasBuddy, joins CBS News to discuss the effect that mi.
+
+Date: 2026-10-13
+
+### Trump promises not to attack Iran before November’s US midterms
+
+Statement outlines pause on protracted war US president has struggled to end after almost eight months Donald Trump has promised not to attack Iran before November’s US midterm elections, outlining a pause on the protracted war he has struggled to end after almost eight months. In a Truth Social post on Thursday, the U.
+
+Date: 2026-10-08
 
 ### The White House says Truth Social is the ‘most powerful and popular social media platform in the world’
 

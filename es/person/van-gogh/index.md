@@ -3,10 +3,16 @@
 > Sigue la actividad de Vincent van Gogh en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-13T23:35:46.672Z
 - Canonical: https://atlas.lootura.com/es/person/van-gogh
 
 ## Cambios recientes
+
+### Amaia Montero responde a las críticas sobre su físico y sus estilismos: «Siempre tuve la falda muy corta»
+
+Amaia Montero ha encontrado una manera muy suya de sumarse a la conversación sobre sus estilismos: con humor, una referencia musical y una frase que no ha pasado desapercibida. La vocalista de La Oreja de Van Gogh ha publicado en su perfil de Instagram una fotografía en la que aparece tumbada, envuelta en una bata blan.
+
+Date: 2026-10-13
 
 ### La foto de Amaia Montero que emociona al mundo: un mensaje luminoso tras sus confesiones más duras
 

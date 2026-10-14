@@ -1,0 +1,47 @@
+{
+  "id": "es-la-cartuja",
+  "name": "Isla de la Cartuja",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/la-cartuja",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/la-cartuja",
+  "markdownUrl": "https://atlas.lootura.com/es/place/la-cartuja/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/la-cartuja/index.json",
+  "description": "Sigue la actividad de Isla de la Cartuja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "aliases": [
+    "La Cartuja"
+  ],
+  "changes": [
+    {
+      "title": "Un enorme Betis vuela muy alto y remonta ante el Oporto",
+      "summary": "No hay quien pare a este Betis. Un equipo eléctrico, con la moral fuerte, el fútbol intenso y la sabiduría de su capitán Isco, argumentos a los que se unió la caldera que es La Cartuja para firmar una página brillante en su historia. Una remontada en la Champions no es cualquier cosa. Y más para un equipo inexperto en.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "El Betis regala a su afición una remontada ante el Oporto para seguir invicto en Champions",
+      "summary": "El Real Betis venció (3-2) al Oporto este miércoles en la segunda jornada de la Liga de Campeones celebrada en el Estadio de La Cartuja, un emocionante.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "La Cartuja first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Un enorme Betis vuela muy alto y remonta ante el Oporto",
+      "url": "https://elpais.com/deportes/futbol/2026-10-14/un-enorme-betis-vuela-muy-alto-y-remonta-ante-el-oporto.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:59:06.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "El Betis regala a su afición una remontada ante el Oporto para seguir invicto en Champions",
+      "url": "https://theobjective.com/deportes/futbol/champions-league/2026-10-14/betis-remontada-oporto-invicto-champions/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:36:50.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

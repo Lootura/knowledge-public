@@ -3,77 +3,80 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
 
-### A U.S. Marine is accused of killing a woman in Japan. Here's what to know.
+### Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots
 
-Police said they arrested Lance Cpl. Devin Jacob Ballard, 20, on suspicion of strangling Anna Yagi, 39, at a hotel.
+The Justice Department has ordered California to review a list of people whom the federal government believes may have received mail-in ballots for the upcoming election despite not being U.S. citizens.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences
+### U.S. blasts "embarrassing" complaint against Lebanon's ambassador
 
-Secretary of State Marco Rubio on Tuesday sought to reassure NATO ally Iceland that President Donald Trump's administration has no designs on the island but shares its deep concerns about Arctic security as tensions between the United States and Russia rise in the high north and elsewhere.
+The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Ken Paxton’s secret weapon: Ted Cruz
+### Inflation climbs in September as energy prices soar, CPI report shows
 
-Leaders of the U.S. Hispanic Business Council knew it would be hard to get Ken Paxton to show up to their Senate town hall event. So, they turned to an unexpected ally: Sen. Ted Cruz. Javier Palomarez, the council’s president and CEO, needed help since his own background – as both a Democrat and longtime ally of Paxton.
+U.S. inflation rose higher than economists predicted amid high energy prices, the most recent Consumer Price Index report shows. Axios markets reporter Matt Phillips shares his thoughts.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder
+### Will my lack of country-specific grants limit my chances of employment abroad?
 
-The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.
+Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs
+### Growing plane and ship traffic degrade the air of western North America
 
-Imports and the trade deficit have ballooned in recent months, defying the Trump administration’s efforts to reduce it through tariffs.
+Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base
+### Joni Mitchell becomes an American citizen after more than 60 years
 
-According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.
+Joni Mitchell can see both sides of the U.S.-Canada border freely now.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels
+### Morning news brief
 
-MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S. officials said.
+Ukrainian President Zelenskyy sits down with NPR to talks about the ongoing war in his country, Pope Leo has lung cancer, the Vatican announced, U.S. ambassador to Greece Kimberly Guilfoyle resigns.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies
+### South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit
 
-President Vladimir V. Putin brought up a sale of Russian energy assets with President Trump’s envoys, Jared Kushner and Steve Witkoff, pushing a deal that raises new questions about conflicts of interest.
+Roman Catholics across South America responded to news of Pope Leo XIV's lung cancer diagnosis with an outpouring of prayers and support, along with concerns about whether the first American pope would go ahead with his highly anticipated and physically demanding visit to the region next month.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### US Marine Accused of Murdering Woman in Japan Hotel
+### Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze
 
-A United States Marine is being held in Japan, accused of murder. Local police say 20-year-old Lance Corporal Devin Jacob Ballard brought a woman to a hotel before killing her and taking her wallet and backpack. Ballard has denied the allegations.
+Ukrainian drones lost some of their fighting capacity after restrictions were suddenly imposed on the battlefield use of the country's U.S.-made Starlink communication terminals, officials said Wednesday as the capital endured another night of missile attacks.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
+### Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections
 
-The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
+September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
 ## Sources
 
-- [A U.S. Marine is accused of killing a woman in Japan. Here's what to know.](https://www.cbsnews.com/news/us-marine-arrested-murder-woman-japan-what-to-know/?utm_source=lootura.com) — 2026-10-06T10:34:08.000Z
-- [Cold War memories stir Rubio in Iceland as he champions diplomacy and downplays differences](https://www.pbs.org/newshour/world/cold-war-memories-stir-rubio-in-iceland-as-he-champions-diplomacy-and-downplays-differences?utm_source=lootura.com) — 2026-10-06T13:38:24.000Z
-- [Ken Paxton’s secret weapon: Ted Cruz](https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868?utm_source=lootura.com) — 2026-10-06T08:45:00.000Z
-- [How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder](https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html?utm_source=lootura.com) — 2026-10-06T16:46:42.000Z
-- [U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs](https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html?utm_source=lootura.com) — 2026-10-06T15:01:36.000Z
-- [Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base](https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com) — 2026-10-06T04:18:00.000Z
-- [U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels](https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html?utm_source=lootura.com) — 2026-10-06T15:13:41.000Z
+- [Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots](https://www.cbsnews.com/news/justice-department-california-noncitizens-mail-ballots/?utm_source=lootura.com) — 2026-10-14T16:09:31.000Z
+- [U.S. blasts "embarrassing" complaint against Lebanon's ambassador](https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/?utm_source=lootura.com) — 2026-10-14T16:04:49.000Z
+- [Inflation climbs in September as energy prices soar, CPI report shows](https://www.cbsnews.com/video/inflation-climbs-september-energy-prices-soar-cpi/?utm_source=lootura.com) — 2026-10-14T14:51:47.000Z
+- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-14T22:58:37.676Z
+- [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0?utm_source=lootura.com) — 2026-10-14T22:58:37.676Z
+- [Joni Mitchell becomes an American citizen after more than 60 years](https://www.nbcnews.com/pop-culture/pop-culture-news/joni-mitchell-becomes-american-citizen-60-years-rcna603430?utm_source=lootura.com) — 2026-10-14T15:14:22.548Z
+- [Morning news brief](https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief?utm_source=lootura.com) — 2026-10-14T08:49:42.000Z
+- [South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit](https://www.pbs.org/newshour/world/south-americans-pray-for-pope-leos-recovery-as-uncertainty-hangs-over-his-visit?utm_source=lootura.com) — 2026-10-14T22:07:01.000Z
+- [Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze](https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com) — 2026-10-14T16:09:18.000Z
+- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z

@@ -3,7 +3,7 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels](https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html?utm_source=lootura.com) — 2026-10-06T15:13:41.000Z
+No public source links.

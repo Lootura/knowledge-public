@@ -3,10 +3,16 @@
 > Sigue la actividad de Union des Associations Européennes de Football en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/organization/uefa
 
 ## Cambios recientes
+
+### Ceferin se presentará a la reelección como presidente de la UEFA por cuarta y última vez
+
+Aleksander Ceferin quiere seguir al frente de la UEFA y, tras la petición de los 55 presidentes de las federaciones que componen el ente continental, volverá a presentarse a las elecciones, para afrontar un cuarto mandato. Según desvela la propia UEFA, será la última vez en la que el esloveno se postulará como presiden.
+
+Date: 2026-10-08
 
 ### La UEFA confía en un árbitro español para el polémico Irlanda – Israel que se jugará… ¡en Serbia!
 
@@ -64,4 +70,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Croacia – España, en directo | Sigue en directo y en vivo online la última hora del partido de la UEFA Nations League hoy en tiempo real](https://okdiario.com/deportes/croacia-espana-directo-sigue-directo-vivo-online-ultima-hora-del-partido-uefa-nations-league-hoy-tiempo-real-20493593?utm_source=lootura.com) — 2026-10-06T17:50:35.000Z
+No public source links.

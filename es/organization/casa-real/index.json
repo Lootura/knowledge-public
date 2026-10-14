@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/casa-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/casa-real/index.json",
   "description": "Sigue la actividad de Dinastía real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-10-14T03:30:04.027Z",
   "aliases": [
     "Casa de Su Magestad",
     "Casa de Su Majestad",
@@ -22,6 +22,16 @@
     "ruling dynasty"
   ],
   "changes": [
+    {
+      "title": "El Rey fue informado a posteriori de la invasión marroquí de aguas españolas y se implicó con la cúpula militar",
+      "summary": "Cada gesto de Casa Real tiene detrás un motivo y un porqué. La invasión de Ceuta por miles de inmigrantes cruzando la frontera del Tarajal el 30 de julio fue concebida desde el...",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Un pulso de optimismo electoral entre los partidos marca los corrillos del 12-O",
+      "summary": "El adelanto electoral acaparó toda la atención de los tradicionales corrillos de la recepción que los Reyes ofrecen cada año en el Palacio Real con motivo del 12 de Octubre. Los periodistas que cubren habitualmente la información de la Casa Real recuerdan que antaño las conversaciones en un clima distendido eran coment.",
+      "date": "2026-10-12"
+    },
     {
       "title": "El emotivo reencuentro de los Reyes Federico y Mary de Dinamarca con Isabella tras su ingreso en el ejército",
       "summary": "La Familia Real danesa ha vivido un fin de semana muyes especial con el reencuentro de los Reyes Federico y Mary de Dinamarca con la Princesa Isabella , de 19 años, tras su ingreso en el Ejército el pasado 3 de agosto y la propia Casa Real danesa ha difundido unas imágenes de lo más emotiva de la jornada de visitas del.",
@@ -60,16 +70,6 @@
     {
       "title": "Discovered by Atlas",
       "summary": "Casa real first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Rey, «indignado», advierte de que el Estado «debe velar» por la seguridad en Ceuta y Melilla",
-      "summary": "En un gesto inhabitual, la Casa Real difunde un mensaje de Felipe VI que da la medida de la gravedad de la crisis.",
-      "date": "2026-08-01"
-    },
-    {
-      "title": "El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan",
-      "summary": "Felipe VI ha expresado su “gran preocupación e indignación” ante los “graves acontecimientos” ocurridos en Ceuta, adonde más de 50.000 personas entraron procedentes de Marruecos entre el jueves y viernes. A través de un mensaje hecho público este sábado por la Casa Real, el monarca ha informado de que, “a lo largo de e.",
       "date": "2026-08-01"
     }
   ],

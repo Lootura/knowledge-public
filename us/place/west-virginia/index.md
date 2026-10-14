@@ -3,10 +3,16 @@
 > Follow West Virginia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/west-virginia
 
 ## Recent changes
+
+### Hunger deepens in a rural community hit by Trump’s cuts
+
+Trump voters in West Virginia say they're struggling to afford food as USDA aid to pantries drops and costs rise. Nearly 75% of food banks surveyed said they were seeing rising demand. NBC News' Shannon Pettypiece reports.
+
+Date: 2026-10-12
 
 ### TikTok couple charged with arson after house fire causes $10K in damage
 
@@ -58,4 +64,4 @@ Date: 2026-07-23
 
 ## Sources
 
-No public source links.
+- [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety?utm_source=lootura.com) — 2026-10-14T21:11:28.000Z

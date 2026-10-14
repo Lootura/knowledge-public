@@ -22,4 +22,4 @@ Date: 2026-10-06
 
 ## Fuentes
 
-- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z
+No public source links.

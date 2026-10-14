@@ -3,10 +3,16 @@
 > Sigue la actividad de Federación Internacional de Fútbol Asociación en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/organization/fifa
 
 ## Cambios recientes
+
+### La FIFA rechaza que Infantino «haya omitido revelar información financiera»
+
+La FIFA rechazó este martes que «haya omitido revelar información financiera» de las remuneraciones de su presidente, Gianni Infantino, y aseguró que.
+
+Date: 2026-10-13
 
 ### Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»
 
@@ -61,12 +67,6 @@ Date: 2026-08-07
 La UEFA expresó este pasado jueves 6 de agosto, tras el comité de crisis de FIFA celebrado en Rabat, que el organismo europeo "dejó muy claro en su comunicado del sábado que ha perdido la confianza en la presidencia de Gianni Infantino " . "Esa postura se mantiene", afirma la mayor institución del fútbol europeo al ser.
 
 Date: 2026-08-06
-
-### Gianni Infantino, un 'animal' herido: "Ahora es más peligroso que nunca"
-
-El presidente de la FIFA, temeroso de perder su puesto en las elecciones de marzo, inicia los movimientos para perpetuarse Leer.
-
-Date: 2026-08-05
 
 ## Fuentes
 

@@ -1,0 +1,57 @@
+{
+  "id": "usa-nobel-prize",
+  "name": "Nobel Prize",
+  "type": "object",
+  "locale": "en",
+  "canonicalPath": "/us/object/nobel-prize",
+  "canonicalUrl": "https://atlas.lootura.com/us/object/nobel-prize",
+  "markdownUrl": "https://atlas.lootura.com/us/object/nobel-prize/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/object/nobel-prize/index.json",
+  "description": "Follow Nobel Prize, a tracked object, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "What ice cream has to do with this year's Nobel Prize in economics",
+      "summary": "Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "summary": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Physics Nobel highlights Antarctica's role in exploring the cosmos",
+      "summary": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin,\" it was a reminder that for more than a century, scientists have treated Antarctica's en.",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "New to Anne Carson’s Books? Start Here.",
+      "summary": "The Canadian poet won this year’s Nobel Prize in Literature. If you’ve never read any of her work, here’s where to start.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
+      "summary": "The writer joins a list of laureates that includes Toni Morrison, Samuel Beckett and Bob Dylan.",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nobel Prize first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Who will win the 2026 Nobel Prize in economics?",
+      "summary": "A thinly traded prediction market offers a starting point. We explore potential winners and the big ideas that could earn them economics' biggest prize. (Image credit: Kena Betancur).",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Nobel Prize in Chemistry Is Awarded to Henri Kagan and Kenso Soai",
+      "summary": "The Nobel Committee recognized Henri Kagan and Kenso Soai for solving a century-old mystery about molecules with mirror images. Their work is crucial for pharmaceuticals and carries clues to the origins of life.",
+      "date": "2026-10-07"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

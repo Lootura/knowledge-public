@@ -3,10 +3,40 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### How Starlink disruptions affected Ukraine's battlefield operations
+
+A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.
+
+Date: 2026-10-14
+
+### Economist breaks down new inflation report and what's driving prices higher
+
+With the midterm elections just three weeks away, a new inflation report shows prices rising faster than expected, putting more pressure on Americans struggling with the cost of everyday essentials. To discuss what the latest numbers mean for Americans, Amna Nawaz spoke with Heather Long, vice president and chief econo.
+
+Date: 2026-10-14
+
+### Trump Accounts expand to millions of children, but new rules raise questions
+
+The Treasury Department has created Trump Accounts for every eligible child, automatically enrolling more than 60 million. The expansion also comes with changes to how the program works. Donors can now donate individual stocks that families can't choose or reject and must keep for five years. Amna Nawaz discussed more.
+
+Date: 2026-10-13
+
+### Former U.S. ambassador on Saudi Arabia's struggle to defend against Houthi attacks
+
+To discuss the escalating war between the Houthis in Yemen and Saudi Arabia, Amna Nawaz spoke with Michael Ratney. He served as U.S. ambassador to Saudi Arabia during the Biden administration and is now a senior adviser at the Center for Strategic and International Studies.
+
+Date: 2026-10-13
+
+### Republican and Democratic strategists on closing messages and where they expect to win
+
+Republicans hold a massive financial advantage, but it's Democrats making gains in the polls in the final month of the midterm elections cycle. To discuss each party's closing strategy, Amna Nawaz sat down with Democratic strategist Faiz Shakir and Republican strategist and media consultant Melik Abdul.
+
+Date: 2026-10-07
 
 ### Cuban official on Trump's threats as tensions with U.S. rise
 
@@ -38,36 +68,7 @@ With just days until the first ballots are set to be mailed to voters, a whistle
 
 Date: 2026-09-01
 
-### Tamara Keith and Amy Walter on Trump's midterm influence
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November messa.
-
-Date: 2026-08-31
-
-### What the July jobs report reveals about the strength of the economy
-
-New labor data shows the U.S. economy lost 23,000 jobs in July, when economists had predicted modest growth. Revised numbers for May and June also show 103,000 fewer jobs created than originally reported. The unemployment rate ticked down, from 4.2% to 4.1%, a function of fewer people seeking jobs. Amna Nawaz discussed.
-
-Date: 2026-08-07
-
-### Retired Army colonel explains why Patriot missiles are so valuable and in short supply
-
-To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.
-
-Date: 2026-08-05
-
-### Tamara Keith and Amy Walter on Democratic primary voters not playing it safe
-
-NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the Michigan Senate primary and the message Democrats are taking into the midterms, prosecutors dropping Reflecting Pool vandalism charges and President Trump's response.
-
-Date: 2026-08-03
-
-### How Iranians are living through months of war and government crackdowns
-
-As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.
-
-Date: 2026-07-31
-
 ## Sources
 
-No public source links.
+- [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
+- [Economist breaks down new inflation report and what's driving prices higher](https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher?utm_source=lootura.com) — 2026-10-14T22:55:14.000Z

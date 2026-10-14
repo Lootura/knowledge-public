@@ -40,7 +40,4 @@ Date: 2026-10-06
 
 ## Sources
 
-- [Jim Bakker, who co-founded "The PTL Club" but fell into disgrace, dies at 86](https://www.cbsnews.com/news/jim-bakker-ptl-club-dies-86/?utm_source=lootura.com) — 2026-10-06T05:05:00.000Z
-- [Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86](https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker?utm_source=lootura.com) — 2026-10-06T05:57:34.000Z
-- [Jim Bakker, minister who built a televangelism empire and lost it from sex and money scandals, dies at 86](https://www.pbs.org/newshour/nation/jim-bakker-minister-who-built-a-televangelism-empire-and-lost-it-from-sex-and-money-scandals-dies-at-86?utm_source=lootura.com) — 2026-10-06T15:27:38.000Z
-- [Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86](https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html?utm_source=lootura.com) — 2026-10-06T05:38:04.000Z
+No public source links.

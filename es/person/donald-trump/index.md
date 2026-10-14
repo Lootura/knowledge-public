@@ -3,71 +3,72 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump multiplica sus viajes a estados en liza ante las malas proyecciones de las encuestas
+### Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela
 
-Con el índice de popularidad del presidente en mínimos, los Demócratas tienen opciones serias de recuperar el Senado en noviembre, algo que parecía casi imposible Leer.
+Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe
+### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
-La Administración Trump deja claro que está dispuesta a cualquier cosa por sus intereses o los del líder. Ataca sin distinción a países, líderes o a la Justicia y presume de ello Leer.
+Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones
+### Somalilandia celebra que Trump se refiera a ellos como «país»
 
-La ola global de mayor intervencionismo público en el mundo empresarial tiene como uno de sus principales exponentes al Gobierno estadounidense, que dentro de su política de seguridad nacional y autonomía estratégica se ha lanzado a comprar participaciones en compañías de diversos sectores, desde la tecnología a la ind.
+El Gobierno de Somalilandia ha celebrado este martes como un reconocimiento crucial de sus aspiraciones independentistas las declaraciones realizadas ayer por el presidente de Estados Unidos , Donald Trump , que describía como «un país» a lo que Somalia considera como una parte indisociable de su territorio. El comenta.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente
+### Zelenski, desgastado pero insustituible: "Nadie aquí va a apoyar a Trump y su idea de cambiar al presidente"
 
-El diésel (y los derivados del petróleo en general) está afrontando una tormenta perfecta de dificultades que ha disparado su precio. Se supone que Donald Trump debía haber tenido eso en cuenta al lanzarse a la guerra con Irán, pero el caso es que, a un mes de las elecciones legislativas de medio mandato en Estados Uni.
+Los ucranianos no aceptan que les elijan presidente ni en Moscú ni en Washington. Cada ataque exterior le devuelve popularidad en un país en el que sus propios ciudadanos descartan las elecciones bajo las bombas rusas Leer.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Trump publica el número de móvil de un senador de su partido que no apoya una ley para eliminar el cambio de hora
+### La UE no se cree la tregua energética propuesta por Trump: "Rusia está matando más civiles que nunca"
 
-"Casi todos quieren que se apruebe excepto Tom Cotton. Háganle saber que sería una gran victoria, llamen a su móvil", insta a sus millones de seguidores Leer.
+La alta representante Kallas defiende que "no es el momento de aliviar la tensión sobre Moscú" y anuncia sanciones a 1.600 personas y entidades vinculadas al ámbito militar-industrial ruso Leer.
 
-Date: 2026-10-03
+Date: 2026-10-12
 
-### Bruselas sigue la senda de Trump y avala los primeros centros de deportación de migrantes fuera de la UE
+### Zelenski acusa a Rusia de violar el «alto el fuego energético» anunciado por Trump
 
-La política migratoria europea mira cada vez más hacia fuera de sus propias fronteras. La UE lleva años buscando acuerdos con otros países para frenar las llegadas y facilitar las expulsiones, pero ahora se dispone a dar un paso más . El Consejo de la UE tiene previsto dar este jueves su aprobación definitiva al nuevo.
+El presidente de Ucrania, Volodimir Zelenski , ha acusado a Rusia de llevar a cabo varios ataques contra su país, incluido uno contra una instalación gasística, «violando» el alto el fuego energético con carácer inmediato anunciado este domingo por su homólogo estadounidense, Donald Trump, y del que las autoridades rus.
 
-Date: 2026-10-01
+Date: 2026-10-12
 
-### Trump ficha al gran optimista de Wall Street, que ve el S&P 500 a 9.000 puntos
+### Trump anuncia un "alto el fuego para la energía" entre Rusia y Ucrania: "¡No lo rompáis!"
 
-La primera interpretación del último fichaje realizado por Scott Bessent , encargado de la economía en la Administración de Donald Trump , es que no hay que esperar cambios en la política financiera del Gobierno estadounidense. Seguir leyendo.
+El presidente estadounidense, Donald Trump , ha anunciado este domingo que Rusia y Ucrania han acordado suspender los ataques contra sus respectivas infraestructuras energéticas , que en las últimas semanas han ido escalando y han afectado a los precios de los combustibles a nivel global. "Con efecto inmediato se estab.
 
-Date: 2026-09-30
+Date: 2026-10-11
 
-### Marruecos e Israel refuerzan su alianza política, económica y de "seguridad" con patrocinio de EEUU en plena crisis de Ceuta
+### Trump vuelve a anunciar un «alto el fuego energético» entre Rusia y Ucrania y Zelenski se abre a elecciones
 
-Anuncian envío de embajadores, acuerdos de protección de inversiones y califican a Trump de "líder visionario capaz de encontrar la paz allá donde nadie más creía que fuera posible" Leer.
+Donald Trump anunció este domingo que Rusia y Ucrania dejarán de atacar sus respectivos sectores energéticos, un día después de que el presidente de EE.UU. exigiera la salida del presidente ucraniano, Volodimir Zelenski, por los bombardeos a refinerías rusas.«Con efecto inmediato, ha comenzado un alto el fuego energéti.
 
-Date: 2026-09-17
+Date: 2026-10-11
 
-### Así ha reaccionado Trump a la subida de tipos de la Fed
+### Trump afirma que Rusia y Ucrania han alcanzado un "alto el fuego energético", pero Zelenski asegura no estar al corriente
 
-El presidente del banco central ofreció el miércoles la prueba más contundente hasta el momento de que está dispuesto a desobedecer a Trump, al conseguir que los 12 miembros del Comité Federal de Mercado Abierto (FOMC) encargados de fijar los tipos de interés respaldaran una subida de un cuarto de punto . "La realidad.
+El presidente ucraniano ofrece celebrar elecciones si Rusia acepta 60 días de alto el fuego Leer.
 
-Date: 2026-09-17
+Date: 2026-10-11
 
-### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
+### Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania
 
-El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin de la guerra con Irán «esté cerca» y ha insistido en que Teherán «quiere lograr un acuerdo» , en medio del estancamiento de las conversaciones mediadas por Pakistán para poner fin al conflicto abierto en febrero por la ofensiva lanzada por.
+El presidente de Estados Unidos, Donald Trump, ha informado este domingo a través de su perfil de la red social Truth de que Rusia y Ucrania han alcanzado un acuerdo de tregua energética que entrará en vigor de inmediato. “Ambas partes han llegado a un acuerdo. ¡No lo rompáis!“, ha informado el líder republicano en un.
 
-Date: 2026-09-17
+Date: 2026-10-11
 
 ## Fuentes
 
-- [Trump multiplica sus viajes a estados en liza ante las malas proyecciones de las encuestas](https://www.elmundo.es/internacional/2026/10/06/6ac3dae0fc6c83d5108b45a9.html?utm_source=lootura.com) — 2026-10-06T05:19:28.000Z
+- [Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela](https://www.abc.es/internacional/trump-levanta-sanciones-jorge-rodriguez-hermano-delcy-20261014162847-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:23.000Z
+- [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z

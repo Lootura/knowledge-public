@@ -3,10 +3,40 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N
+
+El presidente de Vox , Santiago Abascal, se ha reunido este miércoles en Bruselas con otros líderes de la alianza de partidos Patriotas por Europa, entre ellos, la francesa Marine Le Pen , el húngaro Viktor Orbán y el primer ministro checo, Andrej Babi&scaron; , quienes le han dado su apoyo y buenos deseos para las ele.
+
+Date: 2026-10-14
+
+### Bardella acusa a Sánchez de causar «consecuencias dramáticas» en toda Europa con su política migratoria
+
+El presidente de Agrupación Nacional, Jordan Bardella, no pudo ser más claro en su respaldo a Santiago Abascal : «Es mi amigo. Vox es mi aliado». En un desayuno organizado por Nueva Economía Fórum, en Madrid, el delfín político de Marine Le Pen cargó duramente contra las políticas migratorias de Pedro Sánchez, acusándo.
+
+Date: 2026-10-13
+
+### Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña
+
+Galicia, Navarra y Euskadi se le resisten a un partido de Santiago Abascal en pleno crecimiento Leer.
+
+Date: 2026-10-12
+
+### Santiago Abascal: «Tenemos una voluntad de entendimiento aún mayor con el Partido Popular»
+
+Santiago Abascal se prepara para las elecciones generales más trascendentales. Su obsesión es no repetir los errores de 2023 ni dar por hecha la victoria. Advierte, en su primera entrevista tras la convocatoria electoral, de que la continuidad de Sánchez en el poder sería «criminal» para los intereses de España. Acusa.
+
+Date: 2026-10-11
+
+### Abascal alerta de unas elecciones «sucias»: «Sánchez hará cualquier cosa por seguir»
+
+El líder de Vox, Santiago Abascal , ha advertido a los españoles que deben «temerse lo peor» ante las próximas elecciones generales, que, a su juicio, serán « muy complicadas y sucias », y ha acusado al jefe del Ejecutivo, Pedro Sánchez , de estar dispuesto a hacer «cualquier cosa» para mantenerse en el poder. «Yo creo.
+
+Date: 2026-10-11
 
 ### Feijóo y Abascal aprovechan la crisis de Ceuta para reforzar su relación
 
@@ -38,36 +68,6 @@ OSCAR GONZALEZ FUENTES/Shutterstock Cuando decenas de miles de personas cruzaban
 
 Date: 2026-09-03
 
-### Una inmensa marea humana desborda Cibeles y se extiende por todo el país: «Ceuta, aguanta, España se levanta»
-
-Alberto Núñez Feijóo y Santiago Abascal, entre otros, han respaldado la concentración en Madrid y representantes de ambos partidos han acudido a la...
-
-Date: 2026-09-02
-
-### Abascal en Cibeles: «Pedro Sánchez es un lacayo de Mohamed VI, un traidor a España»
-
-El líder de Vox, Santiago Abascal , presente en la manifestación de Madrid en apoyo a Ceuta, ha asegurado que «tenemos que apoyar a Ceuta contra este Gobierno que la ha traicionado». Ha añadido que Pedro Sánchez «es un lacayo de Mohamed VI, un traidor a España». Ha acusado al jefe del Ejecutivo, Pedro Sánchez, de ser «.
-
-Date: 2026-09-02
-
-### Abascal llama a movilizarse contra la «traición» del Gobierno a Ceuta tras la «invasión»
-
-El líder de Vox , Santiago Abascal , ha defendido este miércoles la necesidad de que todos los españoles salgan a las calles a concentrarse en apoyo a Ceuta frente a un Gobierno que les ha traicionado y que no ha evitado la «invasión» de la que fueron objeto a finales de julio. «Hoy no importan ni permisos, ni convocan.
-
-Date: 2026-09-02
-
-### Abascal acusa a los inmigrantes y a Sánchez de provocar «terror sexual» en Ceuta
-
-El líder de Vox, Santiago Abascal, ha acusado este jueves a los inmigrantes que llegaron a Ceuta en la invasión masiva del mes de julio de ser un.
-
-Date: 2026-08-13
-
-### Vox alienta una causa por "traición" contra Sánchez y se abre a colaborar con otros partidos por Marruecos
-
-Vox eleva su apuesta para que Pedro Sánchez sea juzgado por un supuesto delito de traición contra la seguridad del Estado por la violación territorial de Ceuta. Fuentes de la formación de Santiago Abascal confirman a El Confidencial que el partido está dispuesto a tender su mano a diputados de distinto signo político p.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N](https://www.elconfidencial.com/espana/2026-10-14/abascal-le-pen-patriotas-europa-elecciones-1tps_4445168/?utm_source=lootura.com) — 2026-10-14T19:38:00.000Z

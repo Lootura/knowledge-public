@@ -3,10 +3,46 @@
 > Follow Christa Pike, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/person/christa-pike
 
 ## Recent changes
+
+### Calls Show How Confusion Delayed Emergency Response for Christa Pike
+
+The first 911 call from inside the prison was made at 8:40 p.m. It took about 30 minutes to verify its authenticity.
+
+Date: 2026-10-13
+
+### Christa Pike discharged from the hospital and back in prison
+
+Pike's attorneys say she is grateful for the care of first responders and her medical team. (Image credit: Tennessee Department of Correction).
+
+Date: 2026-10-10
+
+### After Christa Pike’s Botched Execution, Tennessee’s Lethal Injection Protocol Draws Scrutiny
+
+The differences between the current protocol and the previous one have become a focus in Christa Pike’s failed execution.
+
+Date: 2026-10-10
+
+### Christa Pike is ‘Angry and Confused’ After Failed Execution
+
+Death row inmate Christa Pike’s attorneys are shedding new light on her ongoing health struggles following the failed execution. “She has pneumonia. She is not able to swallow yet, so she has not eaten,” her attorney said, adding about her mental state, “She is angry and confused about everything right now.” Meanwhile,.
+
+Date: 2026-10-08
+
+### Christa Pike, Confused After Failed Tennessee Execution, Is at Center of Legal Storm
+
+Her awareness and condition deepen ethical and legal questions after Tennessee’s failed attempt to execute her for murdering a classmate decades ago.
+
+Date: 2026-10-08
+
+### Inmate 'angry and confused' after botched execution
+
+Attorneys for the death row inmate at the center of that failed execution in Tennessee revealed why they were shocked when Christa Pike woke-up and began talking. NBC News’ Aaron Gilchrist has more.
+
+Date: 2026-10-07
 
 ### 'We could all hear her breathing': Witnessing the failed execution of Christa Pike
 
@@ -32,30 +68,6 @@ Frank Strada said in a statement that resigning was "in the best interest of Ten
 
 Date: 2026-10-03
 
-### Tennessee Prison Commissioner Resigns Days After Failed Execution
-
-Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review begins.
-
-Date: 2026-10-03
-
-### Discovered by Atlas
-
-Christa Pike first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-10-01
-
-### Tennessee's attempt to execute Christa Pike using lethal injection fails, emergency motion says
-
-Tennessee officials were unable to carry out the execution of Christa Pike, according to an emergency motion filed by her attorneys and media witness reports.
-
-Date: 2026-10-01
-
-### Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say
-
-Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike, media witnesses said Wednesday, despite her being administered two doses of a lethal injection drug. In a press conf.
-
-Date: 2026-10-01
-
 ## Sources
 
-- ['We could all hear her breathing': Witnessing the failed execution of Christa Pike](https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness?utm_source=lootura.com) — 2026-10-06T09:00:00.000Z
+No public source links.

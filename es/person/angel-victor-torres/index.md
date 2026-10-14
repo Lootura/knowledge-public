@@ -3,10 +3,22 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### Qué ministros irán en las listas al Congreso y quiénes no repetirán
+
+Félix Bolaños, Margarita Robles y José Manuel Albares figuran entre los ministros que concurrirán a las generales del 29 de noviembre, mientras Óscar López y Ángel Víctor Torres se centrarán en las futuras elecciones autonómicas y varias candidaturas siguen pendientes de confirmación. Margarita Robles será la número do.
+
+Date: 2026-10-14
+
+### Torres da por concluidos los desalojos en Ceuta y cifra en 12.000 los retornos a Marruecos
+
+El ministro de Política Territorial y coordinador del mando único de la crisis migratoria, Ángel Víctor Torres , ha dado por concluidas las operaciones de desalojo de asentamientos en las zonas de costa de Ceuta y ha cifrado en cerca de 12.000 las personas que han retornado a Marruecos desde el 10 de agosto. Así se ha.
+
+Date: 2026-10-11
 
 ### La Policía Nacional culmina el operativo en el Trampolín (Ceuta) con 1.100 migrantes desalojados
 
@@ -56,18 +68,6 @@ El ministro de Política Territorial y coordinador del mando único para la gest
 
 Date: 2026-09-02
 
-### Torres confirma que algunos de los menas de Ceuta pueden tener derecho al asilo
-
-El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , ha afirmado que el Gobierno quiere que los menores que entraron en Ceuta de forma irregular el pasado mes de julio «puedan ser reagrupados con sus familias» , pero ha avisado de que «habrá quien tenga derecho a asilo y menores que no pueda.
-
-Date: 2026-09-02
-
-### Discovered by Atlas
-
-Ángel Víctor Torres first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-08-10
-
 ## Fuentes
 
-No public source links.
+- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z

@@ -3,10 +3,64 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Will my lack of country-specific grants limit my chances of employment abroad?
+
+Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.
+
+Date: 2026-10-14
+
+### Lead-tainted teeth reveal medieval mines’ unequal toll
+
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
+
+Date: 2026-10-14
+
+### Lead-tainted teeth reveal medieval mines’ unequal toll
+
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
+
+Date: 2026-10-13
+
+### What does a PhD pay? Data reveal huge gaps across Europe
+
+Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03181-1 Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.
+
+Date: 2026-10-13
+
+### ‘Some things are worth dying for’: Karl Bushby’s incredible 28-year walk home, through deserts, kidnappers and polar bears
+
+The ex-soldier has marched 36,000 miles since he left Hull in 1998. He’s crossed the Americas, Asia and Europe, fallen in love, been held at gunpoint and been deported, in between nearly drowning, nearly dying of thirst and nearly being eaten. But that’s just the start of it … ‘It’s a big moment,” says Karl Bushby, who.
+
+Date: 2026-10-13
+
+### U.K. and Europe Recoil From Trump’s Diesel Deal With Putin
+
+Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.
+
+Date: 2026-10-13
+
+### New research traces the origins and human impact of Britain's largest medieval lead industry through ancient teeth
+
+The first definitive evidence of when post-Roman lead production began in one of Europe's largest medieval lead-producing regions, the Derbyshire Peak District in central England, has been uncovered by archaeologists after centuries of mining had erased much of the archaeological evidence. The work has been published i.
+
+Date: 2026-10-12
+
+### The Taliban Are Using Europe’s Fear of Migrants to Their Advantage
+
+European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.
+
+Date: 2026-10-12
+
+### Europe’s Trade Tensions With China Are Coming to a Head
+
+The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.
+
+Date: 2026-10-08
 
 ### Anker’s 100W universal charger is a great travel gadget for $64
 
@@ -14,60 +68,6 @@ The Anker Nano 100W travel adapter with its folding prongs. | Image: Anker For f
 
 Date: 2026-10-06
 
-### U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare
-
-The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North America, experts say.
-
-Date: 2026-10-04
-
-### Hungary's dwindling paprika producers battle to save signature spice
-
-Working from before dawn until midnight, farmers Nikoletta Pajsan Nagy and Laszlo Pajsan fought Europe's driest summer ever to save their red pepper harvest in Hungary.
-
-Date: 2026-10-04
-
-### Swiss glaciers suffer another year of record ice loss
-
-Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe. (Image credit: Swiss Academy of Natural Sciences).
-
-Date: 2026-09-30
-
-### Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.
-
-The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
-
-Date: 2026-09-17
-
-### Canada's Carney embraces EU associate member plan; Trump seen with "Kennedy Center Demolished" sign
-
-The European Union floated the idea of making Canada its first associate member, with Canadian Prime Minister Mark Carney embracing the plan. Plus, a photographer spotted President Trump holding a placard that appeared to say "Kennedy Center Demolished." CBS News' Weijia Jiang has more.
-
-Date: 2026-09-17
-
-### Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes
-
-Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts. (Image credit: Jung Yeon-Je).
-
-Date: 2026-09-17
-
-### The Fed raises interest rates. And, EU proposes Canada become an 'associate member'
-
-The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever "associate member." (Image credit: Jean-Christophe Verhaegen).
-
-Date: 2026-09-17
-
-### Wild honeybee populations in the EU are on the Red List for the first time
-
-Populations of the Western honeybee (Apis mellifera) are under immense pressure in the wild in Europe. New research published in Conservation Science and Practice from the University of Hohenheim in Stuttgart and Agroscope in Zürich shows that there are frequent occurrences of honeybees in the wild in Europe. However,.
-
-Date: 2026-09-17
-
-### Sweden Swings Back Left, Bucking a Trend in Europe
-
-The results of this week’s exceptionally close election dealt a blow to far-right nationalists, who have gained ground elsewhere.
-
-Date: 2026-09-17
-
 ## Sources
 
-- [Anker’s 100W universal charger is a great travel gadget for $64](https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale?utm_source=lootura.com) — 2026-10-06T17:00:00.000Z
+- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-14T22:58:37.676Z

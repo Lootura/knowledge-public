@@ -3,10 +3,28 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton
+
+Democrat James Talarico and Republican Ken Paxton are neck and neck in the Texas Senate race. Texas Republican Party chair D'rinda Randall shares her thoughts.
+
+Date: 2026-10-14
+
+### Donald Trump’s Texas rally rocked by repeated protests
+
+Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton. At least half a dozen demonstrators interrupted the US.
+
+Date: 2026-10-08
+
+### At San Antonio Rally, Trump Warns He’ll ‘Never Forgive’ Texas if Talarico Wins
+
+President Donald Trump speaks at a campaign rally in San Antonio, Texas, on Oct. 7, 2026. —Win McNamee—Getty Images Digging in to defend both his pride and his political fortunes, President Donald Trump on Wednesday returned to deep-red Texas to rally for Ken Paxton’s Senate bid, while revealing at times his own trepid.
+
+Date: 2026-10-08
 
 ### Ken Paxton’s secret weapon: Ted Cruz
 
@@ -50,24 +68,6 @@ An organization allied with Senate G.O.P. leaders has booked more than $51 milli
 
 Date: 2026-09-12
 
-### James Talarico Counters Trump’s Midterm Convention With Food Drive
-
-The Democratic Senate candidate used a food drive to sharpen his economic message against Ken Paxton.
-
-Date: 2026-09-09
-
-### Paxton Aide Turned Whistle-Blower Appears in Ad Endorsing His Rival, Talarico
-
-David Maxwell was among the staffers in the Texas attorney general’s office who accused Ken Paxton of abusing the power of his office, allegations that led to his impeachment. Mr. Paxton was acquitted.
-
-Date: 2026-09-08
-
-### First-ever Republican midterm convention set to spotlight Ken Paxton and Texas Senate race
-
-Republicans are gathering in Dallas, Texas, ahead of their first-ever midterm convention that kicks off Wednesday. CBS News senior White House and political correspondent Ed O'Keefe reports.
-
-Date: 2026-09-08
-
 ## Sources
 
-- [Ken Paxton’s secret weapon: Ted Cruz](https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868?utm_source=lootura.com) — 2026-10-06T08:45:00.000Z
+- [Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton](https://www.cbsnews.com/video/texas-gop-chair-toss-up-senate-race-between-james-talarico-ken-paxton/?utm_source=lootura.com) — 2026-10-14T14:30:32.000Z

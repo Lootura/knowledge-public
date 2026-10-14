@@ -3,10 +3,22 @@
 > Sigue la actividad de República Portuguesa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/portugal
 
 ## Cambios recientes
+
+### Cristiano Ronaldo vuelve a marcar con el Al Nassr en un partido retrasado por los bombardeos en Riad
+
+Cristiano Ronaldo suma y sigue. El delantero portugués volvió a marcar con el Al Nassr y ya son 981 goles, un pasito más cerca de llegar a los ansiados 1.000. Después de su turbulenta salida de la concentración con Portugal , el luso comenzó la Champions asiática con una victoria en la primera jornada ante el Neftchi F.
+
+Date: 2026-10-12
+
+### Descubrimiento inédito entre los biólogos: un parque eólico de Portugal se convierte en refugio para pulpos y otras 270 especies
+
+El parque eólico portugués WindFloat Atlantic alberga 272 especies. Pulpos, tiburones y delfines conviven con sus plataformas frente a Viana do Castelo.
+
+Date: 2026-10-08
 
 ### Fragmento del día: Portugal
 
@@ -56,18 +68,6 @@ Agentes de la Policía Nacional y la Guardia Civil, en una operación conjunta q
 
 Date: 2026-08-07
 
-### Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios
-
-Portugal envió este sábado un contingente de 200 bomberos para colaborar en las labores de extinción de los incendios forestales que afectan a la provincia española de Ávila y Madrid, en una misión activada al amparo del protocolo bilateral de ayuda mutua en materia de Protección Civil entre ambos países. Seguir leyend.
-
-Date: 2026-07-25
-
-### El Rey concede el Toisón de Oro al expresidente de Portugal Rebelo de Sousa
-
-El Rey ha concedido al expresidente de Portugal Marcelo Rebelo de Sousa el collar de la Insigne Orden del Toisón de Oro , la más alta distinción que puede otorgar la Casa Real española y una de las órdenes dinásticas de mayor prestigio del mundo. El Boletín Oficial del Estado (BOE) ha publicado este miércoles el real d.
-
-Date: 2026-07-22
-
 ## Fuentes
 
-No public source links.
+- [Mercedes Oblanca (Accenture): “En Europa tenemos talento tecnológico y científico”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/mercedes-oblanca-accenture-en-europa-tenemos-talento-tecnologico-y-cientifico.html?utm_source=lootura.com) — 2026-10-14T15:52:59.000Z

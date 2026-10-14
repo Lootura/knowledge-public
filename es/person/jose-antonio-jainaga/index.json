@@ -1,15 +1,17 @@
 {
   "id": "es-jose-antonio-jainaga",
-  "name": "José Antonio Jainaga",
+  "name": "Jose Antonio Jainaga",
   "type": "person",
   "locale": "es",
   "canonicalPath": "/es/person/jose-antonio-jainaga",
   "canonicalUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga",
   "markdownUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/jose-antonio-jainaga/index.json",
-  "description": "Sigue la actividad de José Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "description": "Sigue la actividad de Jose Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
   "updatedAt": "2026-07-25T02:26:46.300Z",
-  "aliases": [],
+  "aliases": [
+    "Jainaga"
+  ],
   "changes": [
     {
       "title": "Jainaga y un grupo de inversores vascos lanzan una OPA sobre Azkoyen por 244 millones",

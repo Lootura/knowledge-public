@@ -3,10 +3,46 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
+
+### Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”
+
+La causa judicial del procés entra en la recta final. Con la sentencia del Tribunal Constitucional (TC) que avaló la amnistía, los procesados aguardan a que el Tribunal Supremo dicte el auto que aplique la norma y extinga definitivamente los delitos por los que fueron condenados. Este miércoles, en una intervención en.
+
+Date: 2026-10-14
+
+### Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos
+
+El presidente del Tribunal Constitucional , Cándido Conde-Pumpido , ha asegurado que, si hay un cambio de Gobierno , una posible derogación de la Ley de Amnistía sería «simbólica» y no tendría ningún efecto práctico porque, cuando se aplica, la responsabilidad penal se extingue. Así se ha pronunciado este miércoles en.
+
+Date: 2026-10-14
+
+### El Supremo, juez y parte, entra en la campaña electoral
+
+La pelota vuelve a estar en el tejado de un Tribunal Constitucional obligado a actuar a contrarreloj. La Abogacía del Estado no tiene otra salida que presentar un recurso de amparo urgente invocando la vulneración flagrante del derecho al sufragio activo y la indefensión absoluta que supone exigir la revisión individua.
+
+Date: 2026-10-12
+
+### El Gobierno estudia si la cautelar del Supremo sobre la ‘ley de nietos’ es recurrible al TC
+
+El Gobierno estudiará si se puede recurrir ante el Tribunal Constitucional la decisión del Tribunal Supremo de rechazar su recurso para que se levantara la suspensión cautelar de la llamada ‘ ley de nietos ‘ de cara a las elecciones del próximo 29 de noviembre. Así lo ha indicado un miembro del Ejecutivo que ha conocid.
+
+Date: 2026-10-12
+
+### El 60% opina que Puigdemont no debería ser amnistiado ni volver a España
+
+Desde el pasado martes, Carles Puigdemont, expresidente de la Generalitat de Cataluña y líder independentista fugado de la Justicia que impulsó la celebración de un referéndum ilegal, puede regresar a España gracias al fallo del Tribunal Constitucional que borró el delito de malversación del 'procés'. La mayoría progre.
+
+Date: 2026-10-11
+
+### Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”
+
+Cándido Conde-Pumpido (A Coruña, 77 años), presidente del Tribunal Constitucional, ha elaborado la sentencia que pone fin al debate jurídico sobre la aplicación de la ley de amnistía a los líderes del procés . La resolución, aprobada esta semana, cuestiona la interpretación de la norma que hizo el Tribunal Supremo, ord.
+
+Date: 2026-10-11
 
 ### Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"
 
@@ -32,49 +68,7 @@ Carles Puigdemont ha celebrado "emocionado" la sentencia que hoy ha aprobado el 
 
 Date: 2026-10-06
 
-### El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España
-
-El Pleno del Tribunal Constitucional ha aprobado por siete votos frente a cinco la sentencia que ampara a la ex consellera catalana Dolors Bassa por vulneración de derechos...
-
-Date: 2026-10-06
-
-### Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?
-
-El aval del Tribunal Constitucional a amnistiar la malversación de los líderes del procés supone el principio del fin de la resistencia del Tribunal Supremo a aplicar la medida de gracia por ese delito. El instructor del caso, Pablo Llarena, ha levantado este mismo martes la orden nacional de detención que tenía vigent.
-
-Date: 2026-10-06
-
-### El bloque conservador del Constitucional acusa a la mayoría progresista de extralimitarse al avalar la amnistía a la malversación
-
-El estilo es el método y los cinco magistrados del bloque conservador del Tribunal Constitucional consideran que la sentencia que ordena al Supremo que amnistíe también el delito de malversación del procés se extralimita tanto en la forma como en el camino para resolverlo. A juicio de José María Macías, Enrique Arnaldo.
-
-Date: 2026-10-06
-
-### Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”
-
-El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este martes cuentas con “los diversos poderes públicos españoles que han impedido la aplicación de la amnistía por razones estrictamente políticas” apenas unas horas después de que el Tribunal Constitucional haya ordenado al Supremo aplicarla. Para.
-
-Date: 2026-10-06
-
-### 'Ley de nietos': el Gobierno busca atajos para llevar al TC lo antes posible el voto de los nacionalizados
-
-La frontal oposición del Gobierno ante la decisión del Tribunal Supremo de decretar la suspensión cautelar de las inscripciones en el Censo Electoral de Residentes Ausentes ( CERA ), derivado de la ley de nietos y de una instrucción administrativa posterior, acabará en recurso ante el Tribunal Constitucional. La única.
-
-Date: 2026-09-17
-
-### El ponente del primer recurso de amparo por la amnistía propone desestimarlo
-
-El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal Constitucional (TC) en el Pleno del próximo 22 de septiembre propone desestimarlo al considerar que la interpretación del delito de malversación que llevó al Supremo a inaplicar la ley no fue «ilógica ni arbitraria».Así lo asegura José María.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Puigdemont no fija la fecha de su vuelta y da por cerrada "la etapa de represión", pero cree que la amnistía "no soluciona el conflicto"](https://www.20minutos.es/cataluna/puigdemont-no-fija-fecha-su-retorno-aunque-da-por-cerrada-etapa-represion-politica-tras-aval-tc-amnistia_7045581_0.html?utm_source=lootura.com) — 2026-10-06T16:24:00.000Z
-- [Los cinco magistrados en contra de amnistiar la malversación: "El TC ha suplantado la labor del Supremo"](https://www.20minutos.es/nacional/los-cinco-magistrados-contra-amnistiar-malversacion-tc-ha-suplantado-labor-supremo_7045544_0.html?utm_source=lootura.com) — 2026-10-06T13:41:42.000Z
-- [Cuándo puede volver Puigdemont a España tras quedar sin efecto la orden de detención](https://www.elconfidencial.com/espana/2026-10-06/cuando-puede-volver-puigdemont-tras-quedar-sin-efecto-detencion_4439571/?utm_source=lootura.com) — 2026-10-06T14:38:00.000Z
-- [Puigdemont celebra la "victoria de la amnistía" en el Constitucional de Pumpido y evita aclarar cuándo regresará a España](https://amp.elmundo.es/espana/2026/10/06/6ac51c86fdddff187a8b45d7.html?utm_source=lootura.com) — 2026-10-06T16:24:18.000Z
-- [El Constitucional ampara a los líderes del 'procés' y Llarena levanta la orden de detención contra Puigdemont que podrá regresar ya a España](https://amp.elmundo.es/espana/2026/10/06/6ac4c58c21efa0dc1f8b45ba.html?utm_source=lootura.com) — 2026-10-06T10:02:16.000Z
-- [Claves de la amnistía | ¿Cuándo puede volver Puigdemont? ¿Junqueras podrá presentarse a unas elecciones?](https://elpais.com/espana/2026-10-06/el-supremo-levantara-la-orden-de-detencion-de-puigdemont-cuando-reciba-la-sentencia-del-constitucional.html?utm_source=lootura.com) — 2026-10-06T12:03:35.000Z
-- [El bloque conservador del Constitucional acusa a la mayoría progresista de extralimitarse al avalar la amnistía a la malversación](https://elpais.com/espana/2026-10-06/el-bloque-conservador-del-constitucional-acusa-a-la-mayoria-progresista-de-extralimitarse-al-avalar-la-amnistia-a-la-malversacion.html?utm_source=lootura.com) — 2026-10-06T11:55:17.000Z
-- [Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”](https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html?utm_source=lootura.com) — 2026-10-06T16:25:54.000Z
+- [Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”](https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html?utm_source=lootura.com) — 2026-10-14T18:08:08.000Z
+- [Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos](https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com) — 2026-10-14T21:01:35.000Z

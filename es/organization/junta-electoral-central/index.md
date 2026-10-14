@@ -3,10 +3,28 @@
 > Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/organization/junta-electoral-central
 
 ## Cambios recientes
+
+### El Bidasoa abre su proceso electoral con una asamblea extraordinaria
+
+Los socios están convocados el día 24 en Artaleku para aprobar el calendario electoral y la composición de la Junta Electoral.
+
+Date: 2026-10-08
+
+### El PP llevará a la Junta Electoral la lona de Más Madrid sobre Almeida y los precios del alquiler
+
+El PP llevará a la Junta Electoral Central la lona desplegada por Más Madrid en los balcones de sus dependencias en el Edificio de Grupos de la calle Mayor para criticar la política de vivienda del alcalde de Madrid, José Luis Martínez-Almeida , según han confirmado fuentes del partido a Europa Press. La formación lide.
+
+Date: 2026-10-08
+
+### Feijóo abona las dudas del PP sobre el voto por correo y pedirá “medidas adicionales” a la Junta Electoral
+
+El Partido Popular ha inaugurado este miércoles el cartel con su lema para las elecciones generales del 29 de noviembre — Por Fin — en Ceuta. Hasta allí ha viajado Alberto Núñez Feijóo como primer acto de precampaña para colocar la entrada masiva a la ciudad autónoma de final de julio como principal asunto de debate an.
+
+Date: 2026-10-07
 
 ### El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros
 
@@ -50,24 +68,6 @@ La Junta Electoral Central ha optado por no abrir un nuevo frente con el Tribuna
 
 Date: 2026-09-14
 
-### Discovered by Atlas
-
-Junta Electoral Central first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-09-11
-
-### Ayuso recurrirá la ley de nietos para que solo puedan votar aquellos con «una última residencia acreditada» en la región
-
-La presidenta de la Comunidad de Madrid , Isabel Díaz Ayuso, ha anunciado que realizarán alegaciones ante la Junta Electoral Central para que «no se manipule el censo con el voto exterior y la ley de nietos». Así, ha anunciado en los últimos compases de su intervención en la segunda jornada del Debate del Estado de la.
-
-Date: 2026-09-11
-
-### Ayuso se anticipa al fallo de la Junta Electoral y anuncia alegaciones para evitar el voto en Madrid de descendientes de exiliados de otras regiones
-
-La presidenta de Madrid, Isabel Díaz Ayuso, ha marcado el camino este viernes a la Junta Electoral Central. Antes de que el organismo se pronuncie, ya que todavía no se ha reunido para elaborar y enviar una instrucción a las oficinas consulares con el fin de que se cumpla la orden del Tribunal Supremo de suspender de f.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-- [El PP denuncia ante la Junta Electoral el "mitin" de Sánchez tras el Consejo de Ministros](https://www.20minutos.es/nacional/pp-denuncia-ante-junta-electoral-mitin-sanchez-tras-consejo-ministros_7045675_0.html?utm_source=lootura.com) — 2026-10-06T16:48:31.000Z
+No public source links.

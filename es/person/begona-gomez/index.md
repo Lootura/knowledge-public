@@ -3,10 +3,22 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía
+
+La presidenta del Parlamento cesa de manera fulminante a un consejero del órgano que fiscaliza a la Junta por actuar como perito profesional en la causa contra la mujer del presidente Leer.
+
+Date: 2026-10-14
+
+### La Fiscalía pide la absolución de Begoña Gómez: no hubo tráfico de influencias ni malversación ni perjuicio para la Complutense
+
+El escrito de conclusiones del Ministerio Público resalta que la esposa del presidente del Gobierno actuó "sin animo de lucro" Leer.
+
+Date: 2026-10-07
 
 ### La Audiencia ratifica la absolución de la tertuliana Pilar Baselga que llamó 'Begoño' a Begoña Gómez
 
@@ -56,18 +68,6 @@ El magistrado Juan Carlos Peinado ha citado a Begoña Gómez, esposa de Pedro S�
 
 Date: 2026-09-07
 
-### Begoña Gómez pide su absolución y niega haber sacado partido de su matrimonio con Sánchez
-
-Begoña Gómez ha remitido este viernes al juez su escrito de defensa . La mujer del presidente del Gobierno pide su absolución al considerar que los hechos por los que se le investigan "no son constitutivos de delito alguno" y que su caso no tendría que ir a juicio. Además, pide que se condene al pago de las costas proc.
-
-Date: 2026-09-04
-
-### Begoña Gómez pide su absolución y argumenta que no cometió delito alguno en la Cátedra de la UCM
-
-Su escrito de defensa niega cualquier beneficio económico o uso irregular del 'software' y atribuye el registro de marcas y dominios a un fin estrictamente docente para la universidad.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-No public source links.
+- [El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía](https://www.elmundo.es/andalucia/2026/10/14/6acfb431e9cf4a8c238b4598.html?utm_source=lootura.com) — 2026-10-14T17:51:48.000Z

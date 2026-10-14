@@ -22,4 +22,4 @@ Date: 2026-10-06
 
 ## Fuentes
 
-- [El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’](https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html?utm_source=lootura.com) — 2026-10-06T11:57:43.000Z
+No public source links.

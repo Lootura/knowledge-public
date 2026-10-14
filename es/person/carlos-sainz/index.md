@@ -3,7 +3,7 @@
 > Sigue la actividad de Carlos Sainz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-13T22:05:54.092Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-sainz
 
 ## Cambios recientes

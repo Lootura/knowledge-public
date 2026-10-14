@@ -3,75 +3,80 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### La Fiscalía abre diligencias contra el youtuber Iñaki Angulo por comentarios homófobos sobre Bellerín
+### El Madrid levanta el pulgar a tiempo en Roma
 
-La Fiscalía Provincial de Madrid ha incoado diligencias de investigacion contra el youtuber y creador de contenidos Iñaki Angulo a raíz de unas manifestaciones de carácter homófobo realizadas por el comunicador sobre la figura de Héctor Bellerín , futbolista del Real Betis , durante la emisión de uno de sus directos, s.
+El equipo blanco, tras una primera hora terrible, remonta un 3-1 en el Olímpico. Marcaron Mbappé, Espí, Endrick y Rudiger. Por la Roma, De Roon y doblete de Malen.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### El partido de Mónica García exige liderar la lista por Madrid ante las presiones del sector de Ada Colau
+### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
 
-"Las fuerzas con arraigo territorial han de presentarse en sus comunidades y conformar las listas electorales", dice Más Madrid Leer.
+La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”
+### Felipe VI pide en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos
 
-Aún no había amanecido en Nueva York, donde dormía Pedro Sánchez, cuando en Madrid se estaba produciendo a la vista de todos el acontecimiento que precipitaría un adelanto electoral que el presidente había rechazado decenas de veces. Rodeada de activistas del Sindicato de Inquilinas, de caras conocidas y muy identifica.
+El rey Felipe VI ha pedido esta tarde en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos . Como dijo en Ceuta, Madrid y Rabat tienen que "construir y preservar", lo que exige " confianza, responsabilidad y buena fe ". "Los hechos nos recuerdan la importancia de seguir trabajando unidos, las.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### La noche más VIP en la presentación de película de José Mota 'Arriba Tutto': asisten la infanta Elena, Santiago Segura, Álvaro de Marichalar...
+### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
 
-El actor y director español, José Mota, presentaba este martes su primera película, «Arriba Tutto», en los Cines Callao en Madrid, un acto muy especial al que ninguna de nuestras celebridades ha querido faltar.Para la presentación, escogió los Cines Callao en Madrid y, para el after party, trasladó a sus amigos e invit.
+La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Las intensas lluvias en Madrid provocan inundaciones y cortes de varias líneas de metro
+### La rebelión del Real Madrid conquista Roma con una remontada
 
-Las intensas lluvias en Madrid provocan i nundaciones de varias calles y cortes de varias líneas de metro . La Agencia Estatal de Meteorología (AEMET) ha activado desde las 16:00 hasta el resto de la jornada de este martes un aviso amarillo por las fuertes tormentas en toda la Comunidad Autónoma. El temporal que azota.
+Los blancos perdían 3-1 y ofrecían una imagen muy gris, pero los cambios de Mourinho provocaron un giro de 180 grados que culminó con una victoria espectacular.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Los partidos de Sumar anunciarán su candidato el 17 de octubre y confirman que su nueva marca será Frente Amplio
+### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
 
-La alianza se reunió este domingo para acelerar los tiempos de la negociación abierta desde hace meses, y ante la posibilidad de que el presidente Pedro Sánchez decida adelantar las elecciones este lunes La opción de Mónica García vuelve a tomar fuerza como candidata de Sumar a las generales IU, Comuns, Más Madrid y Mo.
+Tras el choque de versiones en el seno del Gobierno por la crisis desencadenada a raíz de la llegada masiva de inmigrantes a Ceuta, Pedro Sánchez ha aupado a Margarita Robles...
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Maroto se «avergüenza» de Almeida por querer «expulsar» a los acampados sin escucharles
+### Vinicius, sancionado sin Clásico, señalado por Mourinho por "un gol ridículo" y enfadado por el cambio: "¿Por qué me quita?"
 
-La portavoz socialista en el Ayuntamiento de Madrid, Reyes Maroto, ha asegurado que se «avergüenza» del alcalde, José Luis Martínez-Almeida, por estar.
+El brasileño, castigado con cuatro partidos. El Madrid recurrirá la decisión y el portugués critica que se anuncie justo antes del encuentro ante la Roma. El técnico le retiró en el 59 tras la pérdida del 2-1 y el Madrid brilló sin él. Leer.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Ministros y partidos de Sumar tendrán otra cumbre este lunes sobre el momento político y su nuevo proyecto Frente Amplio
+### El Madrid, mejor sin Vinicius, remonta en Roma tras los cambios de Mourinho
 
-Los ministros y dirigentes de Sumar, Más Madrid, IU y Comuns volverán a mantener una reunión este lunes ante la posibilidad de adelanto electoral tras el rechazo de los decretos de vivienda y continuar dando pasos en su proyecto conjunto Frente Amplio, tras acordar el lanzamiento de su candidatura y la presentación ofi.
+Endrick, Espí y Güler, capitales, saltan desde el banquillo para llevar al Madrid del 3-1 abajo al definitivo 3-4 en Roma Leer.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Sin ideas Borja (desde el inicio de faena al revés) con el sexto
+### El Gobierno de Ayuso señala que la huelga de Educación es “incomprensible” y defiende la actuación policial en la Complutense
 
-Sigue en directo la última hora de la corrida de toros en Las Ventas de Madrid por la Feria de Otoño con Victorino Martín para Uceda Leal, Paco Ureña y Borja Jiménez hoy.
+En Sol califican la huelga del profesorado en Madrid de “incomprensible” y defienden la actuación policial en la Complutense, donde los antidisturbios han cargado contra un piquete de manifestantes . La consejera de Educación, Mercedes Zarzalejo, ha comparecido este jueves junto a un televisor en el que ha proyectado u.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### El Barcelona atormenta de nuevo al Real Madrid con una goleada histórica en el Camp Nou
+### Los profesores en huelga pintan de verde el centro de Madrid: “Los gobiernos están abandonando la educación pública”
 
-Los avisos de tormenta no frenaron el vendaval azulgrana . El primer Clásico liguero en el Camp Nou reunió a 40.533 espectadores —récord en la historia de la Liga F— y se saldó con un demoledor 7-0. Claudia Pina lideró el recital firmando el primer póker de la historia de los duelos entre ambos equipos, idóneo para cer.
+El Paseo del Prado en Madrid se ha convertido en la tarde de este miércoles en un mar verde de proclamas en favor de la educación pública. Antes de las 18.00, la hora a la que estaba convocada la marcha, docentes, estudiantes y otros manifestantes, casi todos vestidos de este color, han llenado la calle en la principal.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
 ## Fuentes
 
-- [La Fiscalía abre diligencias contra el youtuber Iñaki Angulo por comentarios homófobos sobre Bellerín](https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/fiscalia-madrid-abre-diligencias-youtuber-comentarios-homofobos-20261006102442-nts.html?utm_source=lootura.com) — 2026-10-06T17:27:56.000Z
-- [El partido de Mónica García exige liderar la lista por Madrid ante las presiones del sector de Ada Colau](https://www.elmundo.es/espana/2026/10/06/6ac4fcbae9cf4a96628b4590.html?utm_source=lootura.com) — 2026-10-06T13:51:57.000Z
-- [Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”](https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html?utm_source=lootura.com) — 2026-10-06T03:30:01.000Z
-- [La noche más VIP en la presentación de película de José Mota 'Arriba Tutto': asisten la infanta Elena, Santiago Segura, Álvaro de Marichalar...](https://okdiario.com/cool/noche-mas-vip-presentacion-pelicula-jose-mota-arriba-tutto-asisten-infanta-elena-santiago-segura-alvaro-marichalar-20498829/amp?utm_source=lootura.com) — 2026-10-06T17:53:46.000Z
-- [Las intensas lluvias en Madrid provocan inundaciones y cortes de varias líneas de metro](https://okdiario.com/madrid/intensas-lluvias-madrid-provocan-inundaciones-cortes-varias-lineas-metro-20499090?utm_source=lootura.com) — 2026-10-06T17:21:15.000Z
+- [El Madrid levanta el pulgar a tiempo en Roma](https://www.abc.es/deportes/real-madrid/madrid-levanta-pulgar-tiempo-roma-20261014230135-nt_amp.html?utm_source=lootura.com) — 2026-10-14T21:01:35.000Z
+- [La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada](https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:54.000Z
+- [Felipe VI pide en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos](https://www.elconfidencial.com/espana/2026-10-14/felipe-vi-relacion-vecindad-espana-marruecos_4444975/?utm_source=lootura.com) — 2026-10-14T16:57:00.000Z
+- [Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital](https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/?utm_source=lootura.com) — 2026-10-14T16:50:00.000Z
+- [La rebelión del Real Madrid conquista Roma con una remontada](https://www.elcorreo.com/deportes/futbol/liga-campeones/rebelion-real-madrid-conquista-roma-remontada-20261014232604-ntrc_amp.html?utm_source=lootura.com) — 2026-10-14T21:26:05.000Z
+- [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
+- [Vinicius, sancionado sin Clásico, señalado por Mourinho por "un gol ridículo" y enfadado por el cambio: "¿Por qué me quita?"](https://www.elmundo.es/deportes/futbol/2026/10/14/6acfbc2fe4d4d8215d8b4588.html?utm_source=lootura.com) — 2026-10-14T21:24:21.000Z
+- [El Madrid, mejor sin Vinicius, remonta en Roma tras los cambios de Mourinho](https://www.elmundo.es/deportes/futbol/champions-league/2026/10/14/6acff284e9cf4a8e028b45a9.html?utm_source=lootura.com) — 2026-10-14T21:22:14.000Z
+- [El Gobierno de Ayuso señala que la huelga de Educación es “incomprensible” y defiende la actuación policial en la Complutense](https://elpais.com/espana/madrid/2026-10-14/el-gobierno-de-ayuso-senala-que-la-huelga-de-educacion-es-incomprensible-y-defiende-la-actuacion-policial-en-la-complutense.html?utm_source=lootura.com) — 2026-10-14T14:19:20.000Z
+- [Los profesores en huelga pintan de verde el centro de Madrid: “Los gobiernos están abandonando la educación pública”](https://elpais.com/sociedad/2026-10-14/los-profesores-en-huelga-pintan-de-verde-el-centro-de-madrid-los-gobiernos-estan-abandonando-la-educacion-publica.html?utm_source=lootura.com) — 2026-10-14T17:26:32.000Z

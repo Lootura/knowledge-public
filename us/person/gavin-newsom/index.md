@@ -3,10 +3,16 @@
 > Follow Gavin Newsom, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-11T10:39:19.439Z
 - Canonical: https://atlas.lootura.com/us/person/gavin-newsom
 
 ## Recent changes
+
+### Newsom Mulls Sparing Lives of All 563 Prisoners on Death Row in California
+
+Gov. Gavin Newsom ramped up talks after a botched execution in Tennessee.
+
+Date: 2026-10-08
 
 ### Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego
 
@@ -40,5 +46,4 @@ Date: 2026-09-07
 
 ## Sources
 
-- [Trump suggests letting Iran "take out" LA, San Diego during rally](https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/?utm_source=lootura.com) — 2026-10-06T15:55:00.000Z
-- [Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego](https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html?utm_source=lootura.com) — 2026-10-06T07:11:57.000Z
+No public source links.

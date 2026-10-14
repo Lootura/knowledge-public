@@ -3,10 +3,16 @@
 > Follow Spain, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/place/espana
 
 ## Recent changes
+
+### How Spain's torrential rainstorms put sewage into its rivers and seas
+
+After heavy rain, Spanish cities often awaken to refreshed air and clean streets, while the rainwater itself vanishes into storm drains along with everything it swept away. Underground, however, a very different story unfolds.
+
+Date: 2026-10-08
 
 ### Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader
 
@@ -62,13 +68,6 @@ Millions of people crowded cloudless cities and towns in Spain on Wednesday in s
 
 Date: 2026-08-12
 
-### Once-in-a-lifetime total solar eclipse sweeps across Europe
-
-The moon passed directly in front of the sun Wednesday, briefly turning day into twilight as crowds from Iceland to Spain looked up in awe at the rare celestial spectacle. NBC News’ Gadi Schwartz reports.
-
-Date: 2026-08-12
-
 ## Sources
 
-- [As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause](https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html?utm_source=lootura.com) — 2026-10-06T12:08:04.000Z
-- [Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader](https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html?utm_source=lootura.com) — 2026-10-06T16:03:08.000Z
+No public source links.

@@ -3,10 +3,22 @@
 > Follow South Korea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-08T22:21:50.294Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/place/south-korea
 
 ## Recent changes
+
+### At Least 6 Injured in Stabbing in South Korea
+
+The police in the city of Incheon said they had arrested one man and were investigating his motive.
+
+Date: 2026-10-13
+
+### South Korea completes trial of Arctic shipping route
+
+A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping.
+
+Date: 2026-10-11
 
 ### China Boycotts a Top Art Festival Over Taiwan Exhibition
 

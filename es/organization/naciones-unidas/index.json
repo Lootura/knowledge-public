@@ -8,18 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/naciones-unidas/index.json",
   "description": "Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-08T21:01:26.973Z",
   "aliases": [
     "NN. UU.",
     "Naciones Unidas",
+    "UN",
+    "United Nations Organisation",
     "United Nations Organization",
     "Verenigde Naties",
     "the U.N.",
-    "the UN",
-    "United Nations Organisation",
-    "UN"
+    "the UN"
   ],
   "changes": [
+    {
+      "title": "Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto",
+      "summary": "Votación de una resolución en el Consejo de Seguridad el 21 de mayo de 2024. lev radin/Shutterstock Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas , el órgano que ostent.",
+      "date": "2026-10-08"
+    },
     {
       "title": "La ONU alerta del peligro de la IA y pide regularla: \"Todos los derechos humanos están en riesgo\"",
       "summary": "El Alto Comisionado de Naciones Unidas para los Derechos Humanos ha advertido de que \"la carrera hacia una IA cada vez más potente supone un salto cualitativo hacia mayores riesgos existenciales para todos los aspectos de nuestras vidas\" Documento - Consulta aquí la carta completa del Alto Comisionado de la ONU ¿Puede.",
@@ -64,11 +69,6 @@
       "title": "El Gobierno propone a la vicepresidenta Yolanda Díaz como candidata a dirigir la OIT",
       "summary": "El presidente Sánchez anuncia el \"honor\" de postular a su ministra de Trabajo quien \"ha demostrado con políticas y resultados su compromiso con los derechos laborales, el diálogo social y la prosperidad de España\" Qué es la OIT: el organismo de Naciones Unidas amenazado por Trump en el que sitúan a Yolanda Díaz El Gobi.",
       "date": "2026-07-23"
-    },
-    {
-      "title": "Trump sopesa proponer a Infantino como secretario general de la ONU, según el 'New York Post'",
-      "summary": "El presidente de Estados Unidos, Donald Trump, estaría sopesando presentar la candidatura de Gianni Infantino, presidente de la FIFA, para ocupar el cargo de secretario general de Naciones Unidas y convertirse en el décimo mandatario en asumir la función , según ha adelantado este martes el 'New York Post'. Trump sosti.",
-      "date": "2026-07-22"
     }
   ],
   "sources": [],

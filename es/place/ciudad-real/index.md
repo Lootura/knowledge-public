@@ -3,10 +3,22 @@
 > Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-13T03:06:16.499Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-real
 
 ## Cambios recientes
+
+### Detenidos en Santander dos hombres reclamados por la justicia en Ciudad Real
+
+La Policía Local arrestó en la mañana del sábado, en dos actuaciones distintas , a dos varones de 30 años que estaban reclamados por la justicia. La primera intervención tuvo lugar poco antes de las 9.00 horas en la calle Río Cubas . Durante una actuación, los agentes identificaron a uno de ellos y comprobaron que pesa.
+
+Date: 2026-10-12
+
+### Un detenido en una operación contra el tráfico de drogas en Arenales de San Gregorio (Ciudad Real)
+
+La Guardia Civil ha arrestado a una persona en una operación, supuestamente vinculada al tráfico de drogas , llevada a cabo en Arenales de San Gregorio (Ciudad Real) alrededor de las 23.30 horas de este miércoles, 7 de octubre. Europa Press ha podido confirmar, a través de diversas fuentes, que el operativo se desarrol.
+
+Date: 2026-10-08
 
 ### Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes (Ciudad Real)
 

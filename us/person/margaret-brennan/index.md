@@ -3,10 +3,16 @@
 > Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-04T22:43:31.359Z
+- Updated: 2026-10-11T17:18:59.813Z
 - Canonical: https://atlas.lootura.com/us/person/margaret-brennan
 
 ## Recent changes
+
+### Transcript: Sen. Chris Murphy on "Face the Nation with Margaret Brennan," Oct. 11, 2026
+
+The following is the transcript of the interview with Sen. Chris Murphy, Democrat of Connecticut, that aired on "Face the Nation with Margaret Brennan" on Oct. 11, 2026.
+
+Date: 2026-10-11
 
 ### Full transcript of "Face the Nation with Margaret Brennan," Oct. 4, 2026
 
@@ -59,12 +65,6 @@ Date: 2026-08-02
 ### Full transcript of "Face the Nation with Margaret Brennan," Aug. 2, 2026
 
 On this "Face the Nation with Margaret Brennan" broadcast, Democratic Sen. Mark Kelly and Republican Rep. Mike Turner join Margaret Brennan.
-
-Date: 2026-08-02
-
-### Joe and Heather Manchin on their push to elect more independents
-
-On "Face the Nation with Margaret Brennan," former Sen. Joe Manchin and his daugher, Heather, discussed their initiative to help more independents get elected to office. They also addressed whether they could ever support a self-described socialist candidate.
 
 Date: 2026-08-02
 

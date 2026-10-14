@@ -3,10 +3,28 @@
 > Follow Pete Hegseth, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/person/pete-hegseth
 
 ## Recent changes
+
+### Why does Pete Hegseth want to livestream an execution?
+
+Secretary of Defense Pete Hegseth has proposed livestreaming the execution of a man convicted of the 2009 attack on Fort Hood. Some scholars say the idea is rooted in his religious background.
+
+Date: 2026-10-13
+
+### Extended interview: Thom Tillis
+
+GOP Sen. Thom Tillis talks to Major Garrett about his regret voting to confirm Pete Hegseth as defense secretary, his midterm predictions, the Iran war and more.
+
+Date: 2026-10-08
+
+### How Defense Secretary Pete Hegseth has brought the culture wars to the military
+
+The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.
+
+Date: 2026-10-07
 
 ### News Wrap: Watchdog finds no criminal activity by Powell related to Fed renovation
 

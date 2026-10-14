@@ -1,0 +1,32 @@
+{
+  "id": "es-unai-sordo",
+  "name": "Unai Sordo",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/unai-sordo",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/unai-sordo",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/unai-sordo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/unai-sordo/index.json",
+  "description": "Sigue la actividad de Unai Sordo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-13T11:24:20.634Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "CC OO y UGT reclaman que el salario mínimo suba un 7% en 2027",
+      "summary": "Los secretarios generales de CC OO, Unai Sordo, y de UGT, Pepe Álvarez, han anunciado este martes que exigirán al Gobierno una subida del salario mínimo interprofesional (SMI) del 7% para el próximo año, hasta situarlo por encima de los 1.300 euros en 14 pagas (más de 1.500 euros en 12 pagas). Seguir leyendo.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Los sindicatos piden un aumento del 7% del SMI",
+      "summary": "Los sindicatos plantean una subida del salario mínimo interprofesional (SMI) del 7% para el próximo año. Este es el planteamiento que esta mañana han formulado los secretarios generales de UGT, Pepe Álvarez, y CC.OO., Unai Sordo, en la presentación de la convocatoria de la huelga general convocada para el 11 de noviemb.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Unai Sordo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

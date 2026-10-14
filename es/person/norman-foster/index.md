@@ -34,4 +34,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [Norman Foster: “En vivienda se ha desplazado todo de lo público a lo privado, hay que encontrar un mejor equilibrio”](https://elpais.com/cultura/2026-10-06/norman-foster-en-vivienda-se-ha-desplazado-todo-de-lo-publico-a-lo-privado-hay-que-encontrar-un-mejor-equilibrio.html?utm_source=lootura.com) — 2026-10-06T03:30:01.000Z
+No public source links.

@@ -1,0 +1,32 @@
+{
+  "id": "es-manchester-united",
+  "name": "Manchester United",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/manchester-united",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/manchester-united",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/manchester-united/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/manchester-united/index.json",
+  "description": "Sigue la actividad de Manchester United en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Atlético de Madrid - Manchester United, el partido de la Champions League en directo|Simeone apuesta por Julián como titular",
+      "summary": "El Atlético de Madrid recibe al Manchester United en su primer partido como local en esta Champions League. Los dirigidos por Simeone necesitan sumar de tres después de comenzar con una derrota ante el Liverpool como visitantes. Enfrente, la escuadra inglesa ha tenido un mal inicio de temporada: seis puntos en el mismo.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Manchester United first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "El United le dura un minuto al Atlético",
+      "summary": "Autoritario y por momentos brillante, el Atlético sumó su primera victoria en esta Liga de Campeones a costa de un Manchester United un punto irregular e inconsistente para imponerse cuando manejó el partido. En parte, porque Oblak hizo tres salvadas de gol. Seguir leyendo.",
+      "date": "2026-10-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

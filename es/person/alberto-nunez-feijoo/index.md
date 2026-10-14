@@ -3,71 +3,72 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
 
-### El PP ya especula con un Gobierno Feijóo
+### El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"
 
-El PP de Alberto Núñez Feijóo hace tiempo que anhela elecciones y le da igual la fecha, según distintas fuentes de su equipo. Creen que esta vez es inviable el gatillazo de julio de 2023 y que a Pedro Sánchez solo le puede ir peor, elija lo que elija. El líder popular transmite en público que está listo, preparado, cas.
+El debate sobre el futuro de las pensiones es una de las cuestiones más sensibles que aparece siempre que arranca una campaña electoral. Feijóo ya lo comprobó en 2023, durante una tensa entrevista en TVE con Silvia Intxaurrondo cuando quedaba menos de una semana para que se abriesen las urnas. El líder del PP sostuvo e.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### Los OK y KO del sábado, 4 de octubre de 2026
+### Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas
 
-OK: Alberto Núñez Feijóo Porque ha prometido aprobar un plan de vivienda en su primer mes como presidente del Gobierno. OK: Lamine Yamal Porque ha vuelto a marcar con la selección en el partido de la Nations League contra la República Checa. OK: Jude Bellingham Porque el jugador del Real Madrid ha marcado un gol y dado.
+Alberto Núñez Feijóo concede una “gravedad extraordinaria” a la información, desvelada por EL PAÍS, de que buques de la Marina Real de Marruecos navegaron sin pedir autorización por aguas de soberanía española coincidiendo con la entrada masiva de inmigrantes del pasado 30 y 31 de julio. El líder del PP reclama al pres.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### ¡Hasta el puestecito, siempre!
+### Feijóo, orgulloso de ir a las elecciones con UPN «y no de la mano de Bildu como Sánchez»
 
-Hubo hace tres años quien se puso a barajar por anticipado un Gobierno de Feijóo tras el 26-J , dando la baza por ganada sin haberla jugado. Comoquiera que es pertinaz la afición esta de repartir los naipes antes de estrenarlos , ahora el mazo vuelve a correr por la mesa, solo que en el flanco izquierdo. ¡Y luego se rí.
+El presidente del PP, Alberto Núñez Feijóo, se ha mostrado «orgulloso» de concurrir a las próximas elecciones generales en Navarra en coalición con un.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Feijóo a Sánchez: “No amague más, que los ciudadanos tomen la palabra cuanto antes”
+### Feijóo critica a Sánchez por haber dejado al rey "solo" en una visita histórica a Ceuta
 
-El líder del PP, Alberto Núñez Feijóo, insiste en que la actual XV legislatura que “nunca debió existir” está en sus “estertores” y reclamó al presidente del Gobierno que aplique su potestad ya y anticipe las elecciones para acabar con esa agonía que retrata: “No amague más con las urnas, que los ciudadanos tomen la pa.
+El líder del PP, Alberto Núñez Feijóo , ha criticado este martes que el presidente del Gobierno , Pedro Sánchez , no haya acompañado a los reyes en su viaje a Ceuta y ha afirmado que si él fuera presidente habría viajado con ellos. "No le dejaría solo en esta visita histórica e imprescindible para garantizar la integri.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### La suma de PP y Vox supera con holgura la mayoría absoluta y aventaja a la izquierda en casi 15 puntos
+### Feijoo echa en cara a Sánchez que no acompañe a los reyes en Ceuta
 
-El partido encabezado por Feijóo se haría con un 33,2% de las papeletas, casi seis puntos más que el PSOE, según un sondeo de Ateneo del Dato realizado antes de la caída de los decretos de vivienda La mayoría de ciudadanos, incluidos los votantes de la derecha, apoyarían una huelga general por la vivienda Estimación de.
+Con motivo de la histórica visita de los reyes de España a Ceuta y Melilla, el líder del Partido Popular, Alberto Núñez Feijóo, ha ensalzado el papel desempeñado por el monarca Felipe VI, “a la altura de la gran nación que somos”, al tiempo que lanzaba un dardo a Pedro Sánchez al asegurar que si él fuera el líder del E.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### Feijóo exige urnas a Sánchez y promete 600.000 viviendas: «España no aguanta más»
+### Feijóo promete "garantizar la viabilidad" del sistema de pensiones y revalorizarlas conforme al IPC
 
-El presidente del PP, Alberto Núñez Feijóo , ha reclamado este sábado a Pedro Sánchez que convoque elecciones generales y «ponga fin a esta agonía» porque considera que España «no aguanta más». El popular ha situado además la vivienda como una de sus principales prioridades si llega a La Moncloa y ha anunciado un plan.
+El presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a mantener la revalorización de las pensiones indexadas al índice de precios al consumo ( IPC ) pese a "lo difícil que es", según ha admitido, así como a garantizar la viabilidad del sistema "para las gentes que no las han cobrado y que están.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### Feijóo no duda en romper grandes consensos en política exterior en su asedio al Gobierno
+### Feijóo acusa a Sánchez de mentir por la entrada de buques marroquíes en Ceuta y cree que debió desplegar el Ejército
 
-"Que caiga España, que ya la levantaremos nosotros" . La célebre frase se la atribuyó Ana Oramas , entonces portavoz de Coalición Canaria, al exministro de Hacienda Cristóbal Montoro (PP), investigado ahora por moldear reformas legales a cambio de dinero . Corría 2010 y el país se encontraba bajo la espada de Damocles.
+Alberto Núñez Feijóo ha reprochado la “frivolidad” y el “miedo” de Pedro Sánchez a la hora de tratar asuntos de Estado como la entrada de buques marroquíes en aguas españolas a finales de julio, un hecho que se produjo en paralelo a los cruces masivos de inmigrantes a Ceuta. A juicio del líder del PP, Sánchez debe comp.
 
-Date: 2026-10-01
+Date: 2026-10-13
 
-### Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península
+### Vox celebra que Feijóo empiece a respetarles y sea consciente de que el enemigo es Sánchez
 
-El PP y la justicia estrechan el ya limitado margen de maniobra del Gobierno para resolver la crisis de Ceuta. Mientras la Audiencia Nacional paraliza de manera cautelar la utilización del puerto para acoger a inmigrantes en plenos preparativos para trasladar allí a casi 2.000 de ellos para aliviar el problema en las p.
+Vox celebra que el presidente del PP, Alberto Núñez Feijóo , comience a respetarle s y sea consciente de que el «enemigo» es el presidente del Gobierno y secretario general del PSOE, Pedro Sánchez , ante la convocatoria electoral del próximo 29 de noviembre. El PP ha asumido que «matando a Vox» no va a gobernar, han re.
 
-Date: 2026-09-17
+Date: 2026-10-13
 
-### Feijóo pide a la UE que medie con Marruecos para que "materialice su compromiso" de aceptar el retorno de los migrantes de Ceuta
+### Feijóo y la bola negra
 
-Alberto Núñez Feijóo ha pedido este jueves al comisario europeo de Interior y Migración, Magnus Brunner, que Bruselas medie para que Marruecos "materialice su compromiso de aceptar la devolución de todas las personas que entraron irregularmente" en Ceuta el pasado 30 de julio y "para que España acelere los procedimient.
+El estreno de la magnífica película de Javier Ambrossi y Javier Calvo La bola negra ha puesto de actualidad un antiguo sistema de votación que se utilizaba en el siglo XIX, e incluso a principios del XX, en casinos y sociedades burguesas para decidir quién podía convertirse en socio. Si salía negra, el candidato no que.
 
-Date: 2026-09-17
+Date: 2026-10-12
 
-### Visita clave del comisario de la UE: Brunner trata con Marlaska el "riesgo" de traslados desde Ceuta y "coincide" con Feijóo en que faltan medios
+### El PP celebra el rechazo del Supremo a la ‘ley de nietos’: «Limita la irresponsabilidad»
 
-El ministro tranquiliza a la Comisión Europea acerca de los inmigrantes de Ceuta: no están viajando a la Península, le ha dicho al comisario de Migraciones. "No van a ser trasladados a la Península ni van a poder acceder a ningún tipo de protección", dijo Marlaska en la segunda semana de la crisis Leer.
+El Partido Popular ha celebrado el rechazo del Tribunal Supremo (TS) al recurso del Gobierno que reclamaba levantar la suspensión cautelar de la ‘ ley de nietos ‘. El presidente del PP, Alberto Núñez Feijóo, ha afirmado que la decisión del Supremo pone «límite a la irresponsabilidad del Gobierno». Así lo ha afirmado Fe.
 
-Date: 2026-09-17
+Date: 2026-10-12
 
 ## Fuentes
 
-No public source links.
+- [El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"](https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/?utm_source=lootura.com) — 2026-10-14T17:04:00.000Z
+- [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z

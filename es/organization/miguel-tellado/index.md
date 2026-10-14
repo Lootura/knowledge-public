@@ -3,10 +3,22 @@
 > Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/organization/miguel-tellado
 
 ## Cambios recientes
+
+### El Consejo Político de UPN aprueba el pacto con el PP y encabezará las listas electorales
+
+El Consejo Político de Unión del Pueblo Navarro (UPN) ha aprobado este martes el acuerdo con el Partido Popular para presentarse en coalición a las próximas elecciones generales . El acuerdo, que por parte del PP ha sido negociado por su secretario general, Miguel Tellado, ha sido respaldado por el 93,5 por ciento del.
+
+Date: 2026-10-13
+
+### Feijóo nombra a Miguel Tellado como director de campaña y se rodea de su núcleo duro para ganar las elecciones generales
+
+El presidente del PP, Alberto Núñez Feijóo , ha encargado al secretario general del partido, Miguel Tellado , la dirección de la campaña electoral de la formación para las elecciones generales del próximo 29 de noviembre, según ha ratificado este jueves la Junta Directiva Nacional. El equipo de campaña está formado por.
+
+Date: 2026-10-08
 
 ### El PP insta a Sánchez a convocar elecciones: «Pedro, no te lo pienses más. Aprieta el botón»
 
@@ -53,18 +65,6 @@ Date: 2026-08-04
 ### El PP evita señalar a Marruecos por la “gran invasión” de Ceuta y culpa solo a Sánchez: “Es el responsable principal”
 
 El secretario general Miguel Tellado acusa al Ejecutivo de haber ofrecido una "respuesta pusilánime, tardía y acomplejada", pero sobre el reino alauí solo afirma que "es imprescindible esclarecer qué ha fallado en la cooperación" con sus autoridades La Audiencia Nacional pide a la Policía que aclare si la entrada de mi.
-
-Date: 2026-08-03
-
-### El PP ve «difícil» lograr un pacto con el Gobierno para reformar de urgencia la ley de extranjería
-
-Ni la oleada de incendios que azotó -y sigue afectando- a gran parte del país ni la crisis migratoria en Ceuta lograrán poner de acuerdo al Gobierno con el Partido Popular (PP). Esa es la sensación que se respira ahora en Génova. Así lo ha anunciado este lunes el secretario general de los populares, Miguel Tellado, al.
-
-Date: 2026-08-03
-
-### Miguel Tellado ofrece una rueda de prensa
-
-El secretario general del PP, Miguel Tellado, ofrece una rueda de prensa.
 
 Date: 2026-08-03
 

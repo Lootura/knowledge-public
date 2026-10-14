@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/air-force/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/air-force/index.json",
   "description": "Follow Air force, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-08T04:28:18.993Z",
   "aliases": [
     "air army"
   ],
   "changes": [
+    {
+      "title": "Beach in Guam: Supreme Court Considers if Military Can Explode Bombs in This Habitat",
+      "summary": "The justices heard arguments over whether the U.S. Air Force can keep destroying munitions on a Guam beach under a program it began in 1982.",
+      "date": "2026-10-07"
+    },
     {
       "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
       "summary": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
@@ -34,13 +39,6 @@
       "date": "2026-10-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
-      "url": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T04:18:00.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 1
+  "sources": [],
+  "evidenceCount": 0
 }

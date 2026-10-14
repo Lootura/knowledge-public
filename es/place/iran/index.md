@@ -3,10 +3,58 @@
 > Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/iran
 
 ## Cambios recientes
+
+### Qué ministros irán en las listas al Congreso y quiénes no repetirán
+
+Félix Bolaños, Margarita Robles y José Manuel Albares figuran entre los ministros que concurrirán a las generales del 29 de noviembre, mientras Óscar López y Ángel Víctor Torres se centrarán en las futuras elecciones autonómicas y varias candidaturas siguen pendientes de confirmación. Margarita Robles será la número do.
+
+Date: 2026-10-14
+
+### Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso
+
+La ejecutiva de Esquerra Republicana se ha reunido este miércoles por la tarde y ha lanzado su propuesta para los números 2, 3 y 4 de la candidatura del partido al Congreso por la demarcación de Barcelona. Tras Gabriel Rufián , irán Mireia Ingla (exalcaldesa de Sant Cugat del Vallès), Jordi Albert (portavoz adjunto de.
+
+Date: 2026-10-14
+
+### Un ataque de los hutíes contra el aeropuerto de Riad causa al menos 12 muertos y más de 300 heridos
+
+Arabia Saudí ha sufrido este sábado el que ya es el ataque más mortífero registrado en un país del Golfo Pérsico desde el inicio de la guerra de Irán el pasado 28 de febrero. En lo que ha sido también el tercer ataque de esta semana contra el aeropuerto internacional de Riad, 12 personas han muerto, entre ellos 4 saudí.
+
+Date: 2026-10-11
+
+### La AIE anima a una nueva liberación de reservas de diésel para detener la escalada de precios
+
+La Agencia Internacional de la Energía alcanzó un acuerdo histórico en marzo cuando anunció la liberación de 400 millones de barriles de petróleo y combustibles para hacer frente al shock por la guerra en Irán y el bloqueo del estrecho de Ormuz. Ahora su director ejecutivo, Fatih Birol, ha hecho un llamamiento en favor.
+
+Date: 2026-10-11
+
+### La trampa de Roma
+
+La guerra de Irán y las rebajas fiscales de Donald Trump, Estados Unidos ha superado una marca preocupante: la deuda nacional ha pasado por primera vez de los 40 billones de dólares y alcanza el 123% del PIB. Por otra parte, el país gasta hoy más en el servicio de la deuda que en la defensa nacional. La guerra de Irán.
+
+Date: 2026-10-11
+
+### El Golfo se descompone: Yemen, Ormuz y el nuevo desorden regional
+
+La guerra en Irán ha sacudido los cimientos del Golfo y empuja a la región hacia una normalidad incómoda: los hutíes desafían a Riad, el estrecho de Ormuz se reabre a oscuras y las conversaciones entre Teherán y Washington siguen atascadas Leer.
+
+Date: 2026-10-10
+
+### Putin da su apoyo a Irán y asegura que Teherán no tiene ninguna culpa en la guerra con EEUU
+
+El presidente de Rusia , Vladimir Putin , ha comprometido todo el apoyo posible de su país a su homólogo iraní, Masud Pezeshkian, para resolver la guerra entre Irán y Estados Unidos ; un conflicto en el que Teherán no tiene culpa de nada, a juicio del mandatario ruso. Putin y Pezeshkian se han reunido en la ciudad de A.
+
+Date: 2026-10-08
+
+### Trabajadores municipales irán mañana a la huelga en Euskadi
+
+El personal municipal encara su cuarta movilización este año para denunciar que las administraciones siguen sin llevar las principales demandas laborales a la mesa de negociación.
+
+Date: 2026-10-07
 
 ### Estados Unidos retira sus bombarderos de la base aérea británica objetivo de un presunto ataque terrorista
 
@@ -20,54 +68,7 @@ El diésel (y los derivados del petróleo en general) está afrontando una torme
 
 Date: 2026-10-04
 
-### Tezanos activa el CIS para ayudar a Sánchez en su reflexión: pregunta a los españoles si irán a votar y cuándo decidirán el voto
-
-El director del Centro de Investigaciones Sociológicas (CIS), Félix Tezanos , ha lanzado un sondeo para ayudar a Sánchez en su fin de semana de reflexión . Según ha podido comprobar OKDIARIO , el CIS está preguntando desde este fin de semana a miles de personas para conocer en detalle su intención de voto, sus preferen.
-
-Date: 2026-10-03
-
-### Fragmento del día: Ataques iraníes contra Israel de octubre de 2024
-
-Irán ataca a Israel con misiles balísticos como respuesta a los bombardeos israelíes en el Líbano, incluyendo la Invasión israelí qué ocurrió ese mismo día.
-
-Date: 2026-10-01
-
-### Trump espera que el fin de la guerra con Irán «esté cerca» e insiste en que Teherán «quiere un acuerdo»
-
-El presidente de Estados Unidos, Donald Trump, ha afirmado que espera que el fin de la guerra con Irán «esté cerca» y ha insistido en que Teherán «quiere lograr un acuerdo» , en medio del estancamiento de las conversaciones mediadas por Pakistán para poner fin al conflicto abierto en febrero por la ofensiva lanzada por.
-
-Date: 2026-09-17
-
-### Roberto Brasero, sobre las lluvias de este jueves: "Pueden seguir las lluvias y tormentas en las mismas zonas pero ya irán perdiendo intensidad"
-
-El episodio de inestabilidad todavía no ha terminado en el este de España , aunque durante este jueves debería comenzar a perder fuerza. Roberto Brasero advierte de que Comunidad Valenciana, Murcia, Cataluña, el este de Andalucía y Castilla-La Mancha seguirán entre las zonas con riesgo de lluvias y tormentas, especialm.
-
-Date: 2026-09-17
-
-### EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis
-
-Hacía mucho tiempo que la seguridad y la defensa no estaban tan presentes en el debate político ni tenían tanta relevancia. En un entorno de guerras híbridas, de agresiones directas de Rusia (la invasión de Ucrania está ya en su 5º año), de ataques de Estados Unidos e Israel contra Irán , de la respuesta iraní contra l.
-
-Date: 2026-09-17
-
-### Las gasolinas se disparan un 24%, la luz crece un 9% y la inflación repunta en agosto a máximos en tres años
-
-El Instituto Nacional de Estadística (INE) ha confirmado que la inflación se disparó hasta el 4,3% el pasado agosto , una escalada sin precedentes en tres años que está motivada por la persistente crisis energética que se ha desatado tras la guerra en Irán . La oficina estadística ha revelado este martes que el precio.
-
-Date: 2026-09-15
-
-### Por qué Europa teme más el rally del gas que el del petróleo
-
-El petróleo , desde el estallido de la guerra en Irán a finales de febrero, ha cobrado de nuevo un papel protagonista en los mercados financieros. Su influencia vuelve a estar mucho más vigente desde que superó la barrera de los 100 dólares. En el día de hoy el barril de Brent alcanza los 107 dólares, fruto de una esca.
-
-Date: 2026-09-15
-
-### Los dos 'ganchos' (de derecha y de izquierda) de Irán con lo que ha logrado bloquear el petróleo de Oriente Próximo
-
-Teherán da dos golpes en Yemen y Arabia Saudí y logra agravar el estrangulamiento del petróleo de la región Leer.
-
-Date: 2026-09-14
-
 ## Fuentes
 
-- [El cierre de Ormuz arrastra a la economía de Oriente Medio a una caída del 2,1% en 2026](https://theobjective.com/internacional/2026-10-06/cierre-ormuz-arrastra-economia-oriente-medio-caida-2026/?utm_source=lootura.com) — 2026-10-06T17:06:27.000Z
+- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z
+- [Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso](https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html?utm_source=lootura.com) — 2026-10-14T18:17:51.000Z

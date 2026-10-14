@@ -3,10 +3,22 @@
 > Follow William Brangham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-05T14:34:36.678Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/person/william-brangham
 
 ## Recent changes
+
+### Ukraine disputes Trump's claim of energy ceasefire as Russian diesel deal draws fire
+
+President Trump blames high energy prices on Ukraine, not his war in the Middle East, and made a surprise decision to suspend sanctions against Russia on Friday. William Brangham discusses the latest developments in the Ukraine-Russia war with Andrew Weiss. He's a former State Department official and is now with the Ca.
+
+Date: 2026-10-12
+
+### The evidence suggesting GLP-1s can curb drug and alcohol cravings
+
+A growing body of evidence suggests that GLP-1 drugs are not only helping millions with their diabetes and weight loss, but they're also proving effective at curbing people's desire for drugs and alcohol. William Brangham reports on the researchers who are testing whether these medications can help tackle the country's.
+
+Date: 2026-10-07
 
 ### Technology is reshaping education. But is it helping students learn?
 

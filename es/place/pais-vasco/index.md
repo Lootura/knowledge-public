@@ -3,10 +3,58 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
+
+### El alza de los carburantes dispara el IPC de Gipuzkoa al 4,3%, su nivel más alto desde 2023
+
+La inflación del territorio se comporta mejor que la de Euskadi, que se va hasta el 5% por el repunte del 5,4% en Álava y del 5,3% en Bizkaia.
+
+Date: 2026-10-14
+
+### Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco
+
+Patxi López , Rafaela Romero y Javier Hurtado encabezarán las candidaturas del PSE-EE al Congreso de los Diputados en los territorios de Vizcaya, Guipúzcoa y Álava, de acuerdo con la propuesta que las direcciones provinciales presentarán esta misma tarde a los respectivos comités provinciales. El PSE-EE ganó las última.
+
+Date: 2026-10-14
+
+### Un seguro público para proteger a los propietarios de impagos de inquilinos busca desbloquear 25.000 pisos en Euskadi
+
+El Gobierno vasco presenta Alokaplus, que también cubre desperfectos en las viviendas.
+
+Date: 2026-10-13
+
+### El Gobierno crea 15 nuevas plazas para jueces y 7 para fiscales en Euskadi
+
+Estos nuevos puestos suponen un incremento de la plantilla judicial vasca de más del 5%.
+
+Date: 2026-10-13
+
+### PP y UPN recuperan su alianza en Navarra para disputar al PSOE la victoria el 29N y eliminar su vía de incorporación a Euskadi
+
+El pacto incluuye el compromiso para eliminar la vía excepcional que contempla la Constitución para la anexión de Navarra a Euskadi. Leer.
+
+Date: 2026-10-13
+
+### Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña
+
+Galicia, Navarra y Euskadi se le resisten a un partido de Santiago Abascal en pleno crecimiento Leer.
+
+Date: 2026-10-12
+
+### Sube al 3,3% el porcentaje de conductores que da positivo en alcohol en Euskadi
+
+La Ertzaintza sancionó en los ocho primeros meses del año a un total de 1.324 conductores por dar positivo en alcohol, lo que supone un porcentaje de positividad del 3,3%, después de practicarse 40.238 test de consumo de alcohol. De esta forma, la tasa de positivos en alcohol ha aumentado respecto a 2025, cuando se sit.
+
+Date: 2026-10-10
+
+### Trabajadores municipales irán mañana a la huelga en Euskadi
+
+El personal municipal encara su cuarta movilización este año para denunciar que las administraciones siguen sin llevar las principales demandas laborales a la mesa de negociación.
+
+Date: 2026-10-07
 
 ### Ejecutado el desahucio de una mujer de su vivienda de Bilbao
 
@@ -20,55 +68,7 @@ Euskadi analiza cinco nuevas solicitudes para buscar yacimientos de este recurso
 
 Date: 2026-10-06
 
-### Norman Foster: «Es un privilegio haber contribuido a Bilbao con el Metro y este extraordinario museo»
-
-El arquitecto visita la ampliación del Bellas Artes acompañado de su mujer, Elena Ochoa, y presenta la escultura de Anselm Kiefer donada por su familia para la entrada de la Plaza Euskadi.
-
-Date: 2026-10-04
-
-### Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia
-
-Una tromba de agua de casi dos horas ha dejado numerosas inundaciones y balsas de agua en carreteras y calles de Bizkaia. El Centro de Emergencias de Euskadi ha registrado hasta las 20.30 horas de este sábado un total de 150 incidencias relacionadas con las intensas precipitaciones, 137 de ellas en Bilbao, según ha inf.
-
-Date: 2026-10-03
-
-### La afiliación de extranjeros en Euskadi registra su mejor agosto y marca un nuevo récord con 120.000 trabajadores
-
-Frente a la habitual caída que deja el cierre estival, el proceso de regularización hizo crecer el pasado mes su número de cotizantes en 1.500 personas.
-
-Date: 2026-09-14
-
-### La vicelehendakari sitúa la «inmersión lingüística» en euskera como un factor del mal resultado de PISA en Euskadi
-
-Ibone Bengoetxea sacó a colación el esfuerzo que el sistema educativo hace para que sus alumnos aprendan la lengua vasca.
-
-Date: 2026-09-10
-
-### Una croupier de un casino de Bilbao vuelve de una baja de dos años y dura 1 hora y 53 minutos repartiendo cartas
-
-El Tribunal Superior de Justicia del País Vasco ha revocado la indemnización de 61.000 euros que se le decretó la trabajadora.
-
-Date: 2026-09-09
-
-### Los gráficos que evidencian la alarmante caída del País Vasco en Educación
-
-La comprensión lectora y la falta de alumnado excelente en Ciencias revelan retrocesos en el nivel académico superiores a los de países del entorno.
-
-Date: 2026-09-08
-
-### Euskadi firma los peores resultados de su historia en PISA y solo está por encima de Ceuta y Melilla
-
-Los alumnos vascos solo superan a los de las ciudades autónomas en las pruebas de lectura y obtienen también unos resultados muy pobres en competencia científica.
-
-Date: 2026-09-08
-
-### PISA constata el hundimiento del sistema educativo vasco con el desplome de las ciencias para acelerar la euskaldunización
-
-Los resultados en competencias científicas caen 77 puntos respecto al debut del País Vasco en la evaluación internacional comparativa que ahora desdeña. En 2003, los expertos vascos ya reclamaban aumentar las horas en Ciencias y trabajar en una "metodología adecuada" Leer.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-- [Ejecutado el desahucio de una mujer de su vivienda de Bilbao](https://www.elconfidencial.com/espana/2026-10-06/desahucio-bilbao-alquiler-social-protestas-1tna-1tps_4439490/?utm_source=lootura.com) — 2026-10-06T13:10:00.000Z
-- [Los estudios para el hidrógeno en Aralar serán en Navarra y no entrarán en Gipuzkoa](https://www.diariovasco.com/economia/estudios-hidrogeno-aralar-navarra-entraran-gipuzkoa-20261006194254-nt_amp.html?utm_source=lootura.com) — 2026-10-06T17:42:54.000Z
+- [El alza de los carburantes dispara el IPC de Gipuzkoa al 4,3%, su nivel más alto desde 2023](https://www.diariovasco.com/economia/ipc-gipuzkoa-euskadi-precio-carburantes-septiembre-20261014092403-nt_amp.html?utm_source=lootura.com) — 2026-10-14T07:31:24.000Z
+- [Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco](https://theobjective.com/espana/politica/2026-10-14/patxi-lopez-cabeza-lista-psoe-pais-vasco/?utm_source=lootura.com) — 2026-10-14T15:56:00.000Z

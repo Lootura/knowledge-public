@@ -3,10 +3,22 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T09:12:14.542Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### Giorgia Meloni sale reforzada con la aprobación de la nueva Ley Electoral con la que Italia irá a las próximas elecciones generales
+
+La nueva norma favorece a las coaliciones y prevé la existencia de un 'premio de mayoría' para aquella que logre el 42% de los votos, que obtendrá el 55% de los parlamentarios Leer.
+
+Date: 2026-10-08
+
+### A Le Pen le costará seguir la vía de Meloni
+
+La prima del bono francés a diez años frente al alemán ha superado los 130 puntos básicos, y Francia ya es considerada un riesgo mayor que Italia. Allí, Giorgia Meloni disipó los temores sobre su euroescepticismo alineándose con las instituciones europeas. Los inversores confían en una metamorfosis similar de Marine Le.
+
+Date: 2026-10-08
 
 ### El veto de los socialistas para blindar a Marruecos boicotea una resolución de apoyo a Ceuta en Europa
 
@@ -55,18 +67,6 @@ Date: 2026-08-11
 Hay gestos políticos que valen más que mil discursos, y el que acaba de escenificar Mette Frederiksen junto a Giorgia Meloni es uno de ellos. La primera ministra danesa , esa misma dirigente de la izquierda nórdica que autorizó confiscar joyas a inmigrantes ilegales sorprendidos tras violar la frontera de su país, algo.
 
 Date: 2026-08-11
-
-### Atrapados a 40 grados en el aeropuerto de El Prat: la "bienvenida" a los italianos por el pulso entre Sánchez y Meloni
-
-Aquí estamos, convertidos en víctimas colaterales de la pugna entre Pedro Sánchez y Giorgia Meloni: atrapados en un "finger" hirviente bajo el sol de Barcelona....
-
-Date: 2026-08-09
-
-### Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid
-
-La crisis migratoria de Ceuta ha desencadenado un nuevo cruce de reproches entre Roma y Madrid , el último este mismo viernes, hoy gobernadas por proyectos políticos antagónicos, y ha vuelto a poner de relieve las discrepancias que separan a Giorgia Meloni y Pedro Sánchez en cuestiones como la inmigración y el rumbo qu.
-
-Date: 2026-08-08
 
 ## Fuentes
 

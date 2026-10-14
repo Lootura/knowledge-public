@@ -1,6 +1,6 @@
-# José Antonio Jainaga
+# Jose Antonio Jainaga
 
-> Sigue la actividad de José Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+> Sigue la actividad de Jose Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
 - Actualizado: 2026-07-25T02:26:46.300Z

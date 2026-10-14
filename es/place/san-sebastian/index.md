@@ -3,10 +3,40 @@
 > Sigue la actividad de San Sebastián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/place/san-sebastian
 
 ## Cambios recientes
+
+### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
+
+Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.
+
+Date: 2026-10-14
+
+### ¿Arde San Sebastián?
+
+En 1936, ante la inminente entrada de los sublevados, la Junta de Defensa debatió si evacuar la ciudad o resistir a riesgo de su completa destrucción.
+
+Date: 2026-10-14
+
+### Tres heridos evacuados al hospital tras un grave accidente de tráfico en San Sebastián
+
+El equipo de Atestados trata de esclarecer las circunstancias del siniestro, que ha tenido lugar en el acceso a la GI-41 desde el puente del Lehendakari Agirre.
+
+Date: 2026-10-11
+
+### Cortes de tráfico y cambios en los autobuses en San Sebastián por el Cross 3 Playas este domingo
+
+La carrera, que arrancará a las 10.00 horas en Satrustegi y finalizará a las 11.30 horas en el paseo Irutxulo, recorrerá Antiguo, Centro, Gros y Parte Vieja.
+
+Date: 2026-10-08
+
+### Gogora inaugurará una exposición sobre 'Pertur' el martes en San Sebastián
+
+La muestra que recuerda la desaparición hace 50 años de Eduardo Moreno Bergareche, ideólogo de ETA-pm, estará ubicada en la donostiarra plaza Okendo hasta el próximo 2 de noviembre.
+
+Date: 2026-10-07
 
 ### Autobuses gratis este domingo en Donostia: guía de cortes de tráfico y cambios en Dbus y Lurraldebus por la Media Maratón
 
@@ -38,36 +68,7 @@ Harrera Sarea ha convocado una protesta el lunes 14 a las 19.30 horas en la plaz
 
 Date: 2026-09-12
 
-### La Nao San Juan atracará en San Sebastián Gastronomika
-
-Su llegada al muelle cargada de bacalao será uno de los puntos fuertes del congreso, que mirará al mar y a la Nueva Cocina Vasca.
-
-Date: 2026-09-11
-
-### Mitxel Ezquiaga: Zuberoa fue 'Qué bello es vivir' y Donostia es 'La La Land', o así
-
-¿Qué es lo primero que lee cada mañana el alcalde Insausti? / La fiesta de Ordizia y el empuje de El Vaskito / El 'glamour' del Festi, Gastronomika y Passion for Knowledge.
-
-Date: 2026-09-11
-
-### Kortajarena se presentará candidata en Donostia para tratar de recuperar los mil votos de distancia con el PNV
-
-EH Bildu propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.
-
-Date: 2026-09-10
-
-### EH Bildu elige a Kortajarena para recuperar la Alcaldía de Donostia frente a Insausti
-
-La coalición propone a la parlamentaria como 'bandera del cambio' en San Sebastián y sus bases deben aprobar su nombre en las primarias.
-
-Date: 2026-09-10
-
-### Sabor, salud, conexión social, creatividad… En busca de la receta de la felicidad gastronómica
-
-Barra de un bar de San Sebastián (España). MikeDotta/Shutterstock Comer es mucho más que alimentarse. El sabor, los aromas, la presentación de un plato, la compañía o incluso la historia que hay detrás de una receta pueden transformar una comida cotidiana en una experiencia memorable. ¿Podemos entonces hablar de una “g.
-
-Date: 2026-09-10
-
 ## Fuentes
 
-No public source links.
+- [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
+- [¿Arde San Sebastián?](https://www.diariovasco.com/gipuzkoa/historia/arde-san-sebastian-20261015001221-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:12:21.000Z

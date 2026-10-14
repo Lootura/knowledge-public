@@ -1,0 +1,73 @@
+# Maricarmen Abascal
+
+> Sigue la actividad de Maricarmen Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+
+- Type: organization
+- Actualizado: 2026-10-08T21:01:26.973Z
+- Canonical: https://atlas.lootura.com/es/person/maricarmen-abascal
+
+## Cambios recientes
+
+### Discovered by Atlas
+
+Maricarmen Abascal first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-10-08
+
+### El bulo ultra del “asesinato” de Maricarmen: “Procede una autopsia. Zurdos de mierda. El PSOE hará todo para ganar las elecciones”
+
+El comunicado llegó poco antes de las 20.30 de este miércoles . Fue en ese momento cuando se conoció la muerte de Maricarmen Abascal. La noticia fue difundida por el Sindicato de Inquilinas de Madrid a través de un breve texto en sus redes sociales. Solo 45 minutos después, la cuenta de Vox en X, antes Twitter, escribi.
+
+Date: 2026-10-08
+
+### Cómo la lucha para evitar el desahucio debilitó a Maricarmen: “Estoy pagando los siete años de juicios por mi casa”
+
+Su voz había cambiado. “Ahora hablo con una voz que no es mía, ya no tiene el mismo tono. Yo ahora no soy yo”, dijo Maricarmen Abascal en una conversación con este periódico dos días antes de que fuera desahuciada. Seguir leyendo.
+
+Date: 2026-10-08
+
+### Los vecinos recuerdan a Maricarmen: “Era una persona muy vital. El desahucio acabó con ella”
+
+Poco después de que saltase la noticia de que Maricarmen Abascal había fallecido , una de sus vecinas del edificio de Sainz de Baranda rebuscó en un cajón un pedazo de papel adhesivo para escribir unas líneas. Luego, se acercó a la puerta de la casa donde la mujer de 87 años había vivido las últimas siete décadas antes.
+
+Date: 2026-10-08
+
+### Madrid despide a Maricarmen con una marcha multitudinaria y pacífica
+
+Lo que iba a ser el día de su regreso se ha convertido en su homenaje póstumo. Maricarmen Abascal, la mujer de 87 años cuyo desahucio el pasado 23 de septiembre desató una ola de protestas por el derecho a la vivienda que ha culminado con un adelanto electoral en España, iba a firmar este jueves el contrato de alquiler.
+
+Date: 2026-10-08
+
+### El duelo por Maricarmen anticipa el duro choque electoral del 29-N
+
+En la tarde del miércoles falleció una vecina de Madrid. Se llamaba Maricarmen Abascal, tenía 87 años y había sido desahuciada el día 23 de la que había sido su vivienda desde 1956. Murió en el hospital. Su abogada, Beatriz Duro afirmaba ayer que sin el enorme shock emocional que le supuso su lanzamiento, hoy seguiría.
+
+Date: 2026-10-08
+
+### El estrés agrava la salud y puede provocar la muerte en personas mayores
+
+Traslado de Maricarmen en ambulancia el día de su desahucio, el pasado 23 de septiembre. RTVE La muerte de Maricarmen Abascal puede haber sido una sorpresa para muchos. A pesar de que se había decidido que podía volver a su casa y faltaban pocos días para firmar su nuevo contrato, su cuerpo no ha podido más. ¿En qué gr.
+
+Date: 2026-10-08
+
+### Cuerpo vincula la muerte de Maricarmen con el «drama humano» que existe con la vivienda
+
+El vicepresidente primero del Gobierno y ministro de Economía, Comercio y Empresa, Carlos Cuerpo , ha lamentado este jueves la muerte de Maricarmen Abascal , la mujer de 87 años convertida en símbolo de la lucha por la vivienda tras su desahucio, y ha asegurado que su caso recuerda el «drama humano» que existe detrás d.
+
+Date: 2026-10-08
+
+### Del desahucio de Maricarmen al estallido de las protestas y el fin de la legislatura
+
+El desahucio el pasado 23 de septiembre de Maricarmen Abascal, la mujer de 87 años que ha fallecido este miércoles en Madrid, desencadenó un estallido social en España que se trasladó a la política a través de la aprobación por el Gobierno y posterior rechazo del Congreso a dos decretos sobre vivienda que desembocó en.
+
+Date: 2026-10-08
+
+### El aviso de los acampados en Sol en la madrugada: “No habrá más Maricármenes”
+
+La fulminante noticia de la muerte de Maricarmen Abascal se acogió primero como broma de mal gusto por parte de muchos en Sol, y cuando empezó a coger vuelo y se iluminaron los móviles dentro y fuera de las tiendas de campaña, llegó la consternación seguida de la furia. Mientras tanto, tal y como los pájaros anticipan.
+
+Date: 2026-10-08
+
+## Fuentes
+
+No public source links.

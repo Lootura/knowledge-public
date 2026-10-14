@@ -1,16 +1,31 @@
 {
   "id": "es-diputacion-permanente",
   "name": "Diputación Permanente",
-  "type": "organization",
+  "type": "person",
   "locale": "es",
   "canonicalPath": "/es/organization/diputacion-permanente",
   "canonicalUrl": "https://atlas.lootura.com/es/organization/diputacion-permanente",
   "markdownUrl": "https://atlas.lootura.com/es/organization/diputacion-permanente/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/diputacion-permanente/index.json",
   "description": "Sigue la actividad de Diputación Permanente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-08T04:28:03.537Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Esteban admite que aprobar el decreto de vivienda en la Diputación Permanente «no es bonito» ni «deseable»",
+      "summary": "El presidente del PNV reconoce que es «legal», pero que no se debería usar una fórmula que su partido ahora avala.",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Felipe González reprocha al PP su desconfianza hacia el voto por correo: «Confío en él»",
+      "summary": "Felipe González vuelve a la carga contra Pedro Sánchez. Esta vez por sus palabras sobre la soberanía nacional: «Me cuesta trabajo que el presidente del Gobierno diga que el órgano de la soberanía nacional el viernes traicionó a la mayoría de los ciudadanos y que eso lo va a corregir la Diputación Permanente», ha señala.",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Diputación Permanente first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-06"
+    },
     {
       "title": "El PNV votará a favor del decreto de los desahucios y permitirá que salga adelante en la Diputación Permanente",
       "summary": "La portavoz del PNV en el Congreso de los Diputados, Maribel Vaquero, ha confirmado este martes que votarán en la Diputación Permanente a favor del primer decreto de Vivienda y en contra del segundo que prevé la prórroga indefinida de alquileres, tal como hizo el pasado viernes en la Cámara baja, lo que allanará el cam.",
@@ -45,56 +60,8 @@
       "title": "El PNV apoyará el primer decreto de vivienda en la Diputación Permanente",
       "summary": "La formación vasca afirma, no obstante, que las medidas aprobadas hoy en el Consejo de Ministros siguen siendo \"un parche\" y no solucionan \"por sí solos el problema de la vivienda\".",
       "date": "2026-10-06"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Diputación Permanente first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-06"
     }
   ],
-  "sources": [
-    {
-      "title": "El PNV votará a favor del decreto de los desahucios y permitirá que salga adelante en la Diputación Permanente",
-      "url": "https://www.20minutos.es/nacional/pnv-votara-favor-primer-decreto-vivienda-contra-segundo-prorroga-indefinida-alquileres_7045628_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T15:11:21.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Economía resucita la cuenta Financia Europa, la mayor reforma de la inversión en dos décadas",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-06/economia-resucita-la-cuenta-financia-europa-la-mayor-reforma-de-la-inversion-en-dos-decadas.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T15:51:46.000Z",
-      "sourceId": "lootura-es-cinco-dias"
-    },
-    {
-      "title": "Directo | Sánchez admite que no tenía mayoría para los decretos en el pleno del Congreso y los llevará a la Diputación Permanente",
-      "url": "https://www.elcorreo.com/politica/directo-sanchez-comparece-1230-tras-adelanto-electoral-20261006121951-dirc_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T10:19:52.000Z",
-      "sourceId": "lootura-es-el-correo"
-    },
-    {
-      "title": "Préstamos al 0 % para comprar casa, prórroga de alquileres y suspensión de desahucios: las medidas que recupera el Gobierno",
-      "url": "https://www.eldebate.com/economia/20261006/prestamos-0-comprar-casa-prorroga-alquileres-suspension-desahucios-medidas-recupera-gobierno_466636.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T11:20:24.000Z",
-      "sourceId": "lootura-es-el-debate"
-    },
-    {
-      "title": "Novedades en los decretos de vivienda: cambios en los anuncios de alquiler y hasta 200.000 préstamos para comprar casa",
-      "url": "https://www.eldiario.es/economia/novedades-decretos-vivienda-cambios-anuncios-alquiler-200-000-ayudas-comprar-casa_1_13566191.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T11:58:33.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El PNV confirma que salvará con su voto clave el principal decreto de vivienda en la Diputación Permanente",
-      "url": "https://www.eldiario.es/euskadi/pnv-confirma-salvara-responsabilidad-decreto-desahucios-diputacion-permanente_1_13566946.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T14:57:32.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "El PNV apoyará el primer decreto de vivienda en la Diputación Permanente",
-      "url": "https://www.expansion.com/economia/2026/10/06/6ac50e44468aeb466a8b4593.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T15:06:27.000Z",
-      "sourceId": "lootura-es-expansion"
-    }
-  ],
-  "evidenceCount": 7
+  "sources": [],
+  "evidenceCount": 0
 }

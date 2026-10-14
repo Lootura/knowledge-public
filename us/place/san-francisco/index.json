@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/san-francisco/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/san-francisco/index.json",
   "description": "Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-13T22:06:13.700Z",
+  "updatedAt": "2026-10-13T01:49:13.119Z",
   "aliases": [
     "Baghdad by the Bay",
     "City and County of San Francisco",
@@ -26,6 +26,11 @@
     "The Golden City"
   ],
   "changes": [
+    {
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone. Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior member is developi.",
+      "date": "2026-10-12"
+    },
     {
       "title": "Burning Man at 40: the once anarchic desert festival faces a midlife crisis",
       "summary": "The subversive bacchanal for San Francisco’s eccentric underground is ageing out amid an influx of the super-rich Burning Man , the infamous arts festival in the Nevada desert, turned 40 this year, and it’s showing some distinct signs of middle age. It’s not just the tech billionaires who show up to party, the chartere.",

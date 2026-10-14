@@ -3,10 +3,16 @@
 > Sigue la actividad de Grupo Volkswagen en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-09-04T15:44:32.845Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/company/grupo-volkswagen
 
 ## Cambios recientes
+
+### Volkswagen exhibe el éxito de sus cuatro eléctricos fabricados en España y aplaza al menos un año la decisión sobre la segunda plataforma en Martorell
+
+En pleno proceso de transformación industrial, con decisiones dolorosas que afectan especialmente a sus fábricas alemanas y con incógnitas todavía por despejar, como la posible desaparición de Seat como marca en el horizonte de 2030, el Grupo Volkswagen ha encontrado en España el ejemplo de cómo quiere organizar su fut.
+
+Date: 2026-10-11
 
 ### Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su "realismo"
 

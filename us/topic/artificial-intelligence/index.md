@@ -3,73 +3,73 @@
 > Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: topic
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/topic/artificial-intelligence
 
 ## Recent changes
 
-### AI could undermine scientific independence in subtle ways
+### Now that Character.AI is going bankrupt, what happens to all of its users’ data?
 
-Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03175-z AI could undermine scientific independence in subtle ways.
+New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case "to put all part.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### We can’t just change the definition of ‘recording’
+### McKinsey is making job applicants spar with a fake AI client
 
-With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. C.
+Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal . The AI simulation "aims to reflect 80% of the scenarios McKinsey consultants might encounter in their.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Meta’s Muse AI Agent Is Building a Dossier On You
+### Preserve research data for tomorrow’s AI-enabled integrity checks
 
-A digital billboard advertises the Muse AI agent in Oakland, California on Sept. 24, 2026. —Smith Collection—Gado/Getty Images Muse, the popular new AI personal assistant from Meta, is building continuously updated dossiers on its 4 million users , focusing on who matters to you, what you desire, and what kind of nudge.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow’s AI-enabled integrity checks.
 
-Date: 2026-10-06
+Date: 2026-10-14
 
-### Trump unveils AI task force
+### Is this idea from AI or humans? A detector claims it can tell
 
-The US director of national intelligence and the Federal Trade Commission chairman will head up the White House’s “ Super Intelligence Force ” on AI, President Donald Trump announced Sunday. The task force — which also includes the vice president, defense secretary, Treasury secretary, and former AI czar David Sacks —.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03247-0 A tool called IdeaLens helps to judge whether concepts — rather than just writing — in scientific papers are AI-generated.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### An AI couldn’t beat humans at StarCraft, so it decided to cheat
+### Decentralized AI needs more evidence on energy use
 
-StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use.
 
-Date: 2026-10-04
+Date: 2026-10-14
 
-### NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment
+### AI data centers are coming for federal land and roiling Nevada governor's race
 
-Well, if AI said it, it must be true. | Bloomberg via Getty Images New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds tryi.
+The data center issue has dominated the competitive governor's race in Nevada, where 80% of the land is owned by the federal government.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables
+### Preserve research data for tomorrow’s AI-enabled integrity checks
 
-Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03244-3 Preserve research data for tomorrow’s AI-enabled integrity checks.
 
-Date: 2026-10-04
+Date: 2026-10-13
 
-### Capcom is preparing for a ‘future where we create games together with AI’
+### Is this idea from AI or humans? A detector claims it can tell
 
-Capcom's Pragmata might be all about the horrors of AI , but in practice the studio doesn't seem so down on the tech . During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for the.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03247-0 A tool called IdeaLens helps to judge whether concepts — rather than just writing — in scientific papers are AI-generated.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### OpenAI safety leader quits, warning AI company’s culture is ‘broken’
+### Decentralized AI needs more evidence on energy use
 
-David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly careful enough” about developing the technology. David Robinson, who led the writing of.
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03245-2 Decentralized AI needs more evidence on energy use.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
-### Splice CEO Kakul Srivastava thinks AI emails are killing conversations
+### Hidden signals in sleep can predict future health
 
-Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's " Money " and " Espresso " by Sabrina Carpenter. (The original samples are here and here , for the curious.) Before t.
+Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03207-8 From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.
 
-Date: 2026-10-03
+Date: 2026-10-13
 
 ## Sources
 
-- [AI could undermine scientific independence in subtle ways](https://www.nature.com/articles/d41586-026-03175-z?utm_source=lootura.com) — 2026-10-06T17:55:03.599Z
-- [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording?utm_source=lootura.com) — 2026-10-06T16:29:44.000Z
-- [Meta’s Muse AI Agent Is Building a Dossier On You](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/?utm_source=lootura.com) — 2026-10-06T13:44:28.000Z
+- [FBI arrests OpenAI engineer for allegedly planting bug in office](https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/?utm_source=lootura.com) — 2026-10-14T14:24:29.000Z
+- [Now that Character.AI is going bankrupt, what happens to all of its users’ data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy?utm_source=lootura.com) — 2026-10-14T18:47:54.000Z
+- [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview?utm_source=lootura.com) — 2026-10-14T22:53:31.000Z

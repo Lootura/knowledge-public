@@ -3,10 +3,40 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
+
+### Ukraine disputes Trump's claim of energy ceasefire as Russian diesel deal draws fire
+
+President Trump blames high energy prices on Ukraine, not his war in the Middle East, and made a surprise decision to suspend sanctions against Russia on Friday. William Brangham discusses the latest developments in the Ukraine-Russia war with Andrew Weiss. He's a former State Department official and is now with the Ca.
+
+Date: 2026-10-12
+
+### Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike
+
+U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.
+
+Date: 2026-10-11
+
+### South Korea completes trial of Arctic shipping route
+
+A South Korean container ship returned on Sunday from a trial voyage through the Arctic, testing an alternative route opened by melting sea ice as conflict in the Middle East disrupts global shipping.
+
+Date: 2026-10-11
+
+### USS Abraham Lincoln returns to San Diego after historic 10-month deployment
+
+The USS Abraham Lincoln docked at its homeport in the San Diego Bay on Thursday after its deployment to the Middle East nearly one year ago. CBS News' Eleanor Watson and Carter Evans report. Then, Ret. Navy Vice Adm. Robert Murrett joins with analysis.
+
+Date: 2026-10-08
+
+### USS Lincoln Set to Port in San Diego After Record Deployment
+
+After a record-setting and difficult deployment to the Middle East, the USS Abraham Lincoln, carrying some 5,000 service members, will finally arrive home. The aircraft carrier that was plagued by supply shortages and low morale during its nearly year-long assignment, is scheduled to dock in San Diego on Thursday, sett.
+
+Date: 2026-10-08
 
 ### Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes
 
@@ -37,36 +67,6 @@ Date: 2026-09-16
 The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.
 
 Date: 2026-09-13
-
-### On board a warship headed to support the war in Iran
-
-The USS George Washington was deployed to New York after the 9/11 attacks. Now, the aircraft carrier is headed to the Middle East to support President Trump's war against Iran. Tom Hanson is on board with a new report.
-
-Date: 2026-09-12
-
-### BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit
-
-The meeting, which included Iranian President Masoud Pezeshkian, voiced concern over "deliberate attacks" on civilian infrastructure and peaceful nuclear facilities under the U.N. atomic energy agency's safeguards.
-
-Date: 2026-09-12
-
-### Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War
-
-A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.
-
-Date: 2026-09-12
-
-### As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table
-
-Even so, finding unity among the loose grouping of emerging economies will be difficult as the war in the Middle East strains their own interests.
-
-Date: 2026-09-12
-
-### Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War
-
-A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East.
-
-Date: 2026-09-12
 
 ## Sources
 

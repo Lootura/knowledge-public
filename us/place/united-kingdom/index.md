@@ -3,10 +3,28 @@
 > Follow United Kingdom, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-09-15T03:21:50.927Z
+- Updated: 2026-10-14T03:30:23.685Z
 - Canonical: https://atlas.lootura.com/us/place/united-kingdom
 
 ## Recent changes
+
+### Lead-tainted teeth reveal medieval mines’ unequal toll
+
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
+
+Date: 2026-10-14
+
+### Iran focused on attacking "harder targets," U.K. spy chief warns
+
+Iran has made a "major shift" in its efforts to attack the United Kingdom, including going after harder targets such as military bases, the head of MI5 warned.
+
+Date: 2026-10-13
+
+### Lead-tainted teeth reveal medieval mines’ unequal toll
+
+Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03236-3 Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.
+
+Date: 2026-10-13
 
 ### Trump doubled down on backing a united Ireland, reigniting a divisive political issue. Here's what to know
 

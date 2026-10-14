@@ -1,0 +1,45 @@
+{
+  "id": "es-candido-conde",
+  "name": "Cándido Conde",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/candido-conde",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/candido-conde",
+  "markdownUrl": "https://atlas.lootura.com/es/person/candido-conde/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/candido-conde/index.json",
+  "description": "Sigue la actividad de Cándido Conde en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "El gallego nace y se hace",
+      "summary": "La primera vez que un Cándido Conde-Pumpido apareció mencionado en las páginas de La Vanguardia fue el miércoles 28 de octubre de 1931 y así hasta hoy. En aquella ocasión, el fundador de la saga jurídica fue noticia por presidir, en tanto que juez de Caldas de Reyes, la Asamblea de Juzgados municipales. Hoy, como presi.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
+      "summary": "El presidente del Tribunal Constitucional , Cándido Conde-Pumpido , ha asegurado que, si hay un cambio de Gobierno , una posible derogación de la Ley de Amnistía sería «simbólica» y no tendría ningún efecto práctico porque, cuando se aplica, la responsabilidad penal se extingue. Así se ha pronunciado este miércoles en.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Cándido Conde first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "El gallego nace y se hace",
+      "url": "https://www.lavanguardia.com/politica/20261014/11659145/gallego-nace.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:46:56.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
+      "url": "https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T21:01:35.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

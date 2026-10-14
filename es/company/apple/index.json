@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-06T17:54:40.529Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
+      "summary": "OpenAI acusó a un exempleado de haberse llevado archivos confidenciales a Apple , un caso que se suma a la disputa judicial entre ambas compañías. La empresa de IA afirma que un antiguo trabajador que se marchó a Cupertino envió más de 100 archivos confidenciales a sus cuentas personales. En los documentos se encontrab.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo",
+      "summary": "Si piensas comprarte el iPhone Duo (o si ya lo reservaste ), seguramente quieras ser bastante cuidadoso al usarlo. Apple ha dado a conocer los precios de las reparaciones del dispositivo para quienes no tengan cobertura de AppleCare+, y las cifras asustan. Algunas son tan caras que cuestan más que comprarse un iPhone 1.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Apple anuncia su evento ‘Welcome home’: ¿Nuevos dispositivos para el hogar inteligente a la vista?",
+      "summary": "Tal y como se rumoreaba , dentro de muy pocos días tendremos un nuevo evento de Apple . La firma de Cupertino acaba de lanzar las invitaciones para Welcome home , una presentación especial en la que se espera la introducción del rumoreado hub inteligente, además de actualizaciones para el Apple TV y el HomePod mini. La.",
+      "date": "2026-10-08"
+    },
     {
       "title": "Apple ya tiene fecha para lanzar un dispositivo totalmente nuevo. Revivirá el diseño de uno de los Mac más icónicos",
       "summary": "Apple está a punto de lanzar un dispositivo totalmente nuevo, pero con un diseño que en cierto modo rinde homenaje a uno de los Mac más icónicos. Según reporta Mark Gurman, los de Cupertino ya tienen fecha definida para presentar en sociedad su hub inteligente para competir con el Google Nest Hub o el Amazon Echo Show.",
@@ -48,30 +63,21 @@
       "title": "Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior",
       "summary": "Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo , Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPhone 14 o superior , vas a poder aprovecharlo durante los próximos 12 meses de forma completamente gr.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "5 razones por las que ‘Silo’ es la mejor serie de ciencia ficción del año",
-      "summary": "Silo de Apple TV estrenó el cierre de su tercera temporada dejando algo muy claro. No es solo una de las mejores series de ciencia ficción de la plataforma de los de Cupertino , que ya es un logro considerable . También es una de las historias más apasionantes del género . Eso, gracias a su fascinante narrativa de mist.",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "La cámara del iPhone 18 Pro por fin aprende a abrir y cerrar el ojo",
-      "summary": "El iPhone Duo se ha llevado buena parte de los titulares del evento de Apple de este mes, pero el cambio que más va a notar quien haga fotos con el móvil cada día está en el iPhone 18 Pro y el iPhone 18 Pro Max. Por primera vez, la cámara principal de un iPhone incorpora un diafragma físico capaz de abrirse y cerrarse,.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Lo más odiado | Marlaska vs. Puente: la lucha por ser el ministro más impresentable",
-      "summary": "Alberto Olmos y Rubén Arranz están de vuelta en su estudio de El Confidencial para un nuevo episodio de Lo más odiado, el videopódcast de El Confidencial en el que ambos hablan de sus cosas y que puedes ver en YouTube y escuchar en Ivoox , Spotify y Apple Podcast . En este episodio hay espacio para abordar en detalle l.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "El iPhone 17 vuelve a ser una opción interesante: subió de precio y ahora ha vuelto a bajar",
-      "url": "https://hipertextual.com/apple/el-iphone-17-vuelve-a-ser-una-opcion-interesante-subio-de-precio-y-ahora-ha-vuelto-a-bajar/?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T13:26:16.000Z",
+      "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
+      "url": "https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:50:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    },
+    {
+      "title": "Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo",
+      "url": "https://hipertextual.com/apple/reparar-el-iphone-duo-cuesta-mas-que-comprar-un-iphone-nuevo/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T18:45:00.000Z",
       "sourceId": "lootura-es-hipertextual"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 2
 }

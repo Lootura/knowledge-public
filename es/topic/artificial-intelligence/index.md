@@ -3,10 +3,16 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
+
+### Esta nueva app de Google toma notas con IA en tu Mac sin conectarte a internet
+
+Las aplicaciones de notas han dado un salto importante con la llegada de la IA. Herramientas como Granola permiten transcribir reuniones, organizar notas y más, pero dependen de una conexión a internet. Google ha resuelto esto con AI Edge Foresight, una app para Mac que ofrece estas capacidades, pero puede ejecutarse d.
+
+Date: 2026-10-08
 
 ### Europa ante el reto de la inteligencia artificial: regular una tecnología que lideran EE UU y China
 
@@ -62,12 +68,6 @@ Disponer de una herramienta compacta que responda con inmediatez al abrir múlti
 
 Date: 2026-07-16
 
-### iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles
-
-Apple acaba de lanzar la primera beta pública de iOS 27 , su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia porque va a permitir a.
-
-Date: 2026-07-13
-
 ## Fuentes
 
-- [Google cambia las reglas: dile adiós a usar Gemini Flash y Pro sin pagar](https://hipertextual.com/inteligencia-artificial/google-ya-no-te-permitira-usar-gemini-flash-y-pro-sin-pagar/?utm_source=lootura.com) — 2026-10-06T16:52:29.000Z
+- [Carissa Véliz, filósofa: “La IA presenta las predicciones como hechos, pero la democracia necesita incertidumbre para ser libre”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/carissa-veliz-filosofa-la-ia-presenta-las-predicciones-como-hechos-pero-la-democracia-necesita-incertidumbre-para-ser-libre.html?utm_source=lootura.com) — 2026-10-14T20:15:39.000Z

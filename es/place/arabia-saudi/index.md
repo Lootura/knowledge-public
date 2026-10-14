@@ -3,10 +3,28 @@
 > Sigue la actividad de Arabia Saudí en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-11T17:18:34.354Z
 - Canonical: https://atlas.lootura.com/es/place/arabia-saudi
 
 ## Cambios recientes
+
+### Un ataque de los hutíes contra el aeropuerto de Riad causa al menos 12 muertos y más de 300 heridos
+
+Arabia Saudí ha sufrido este sábado el que ya es el ataque más mortífero registrado en un país del Golfo Pérsico desde el inicio de la guerra de Irán el pasado 28 de febrero. En lo que ha sido también el tercer ataque de esta semana contra el aeropuerto internacional de Riad, 12 personas han muerto, entre ellos 4 saudí.
+
+Date: 2026-10-11
+
+### Una paciente descontenta y un sicario sueco: así fue asesinado el cirujano de élite en su clínica de Marbella
+
+Alexander Aslani , el cirujano estético acribillado en su clínica de Marbella , estaba considerado en Arabia Saudí como el “Médico de las estrellas” . Así le llamaban por sus prestigiosas técnicas quirúrgicas innovadoras en tratamientos estéticos. Una de sus más afamadas pacientes fue la mediática jequesa de Marbella,.
+
+Date: 2026-10-11
+
+### El Ibex pierde los 19.000 puntos y queda en mínimos de cuatro meses
+
+El mundo financiero vuelve a mirar al golfo Pérsico con preocupación ante la subida del precio del petróleo , que supera los 104 dólares hasta los niveles más altos en dos semanas. Nuevos ataques de la milicia hutí respaldada por Yemen, esta vez sobre dos aeropuertos de Arabia Saudí y a un petrolero en Qatar, han devue.
+
+Date: 2026-10-08
 
 ### La OPEP+ mantiene sin cambios la producción de petróleo para noviembre
 
@@ -49,24 +67,6 @@ Date: 2026-09-11
 El homenaje a las víctimas del 11S estuvo marcado por la ausencia de Trump, que acudió al acto en el Pentágono, la presencia polémica de Mamdani, primer alcalde musulmán de la ciudad, y la exigencia de las familias de las víctimas de aclarar el papel de Arabia Saudí en los atentados.
 
 Date: 2026-09-11
-
-### El polvorín del mar Rojo se suma al cierre de Ormuz y agrava la crisis petrolera
-
-Con el estrecho de Ormuz aún cerrado, diga lo que diga la Casa Blanca , la sombra de otra crisis de consecuencias imprevisibles se cierne sobre su principal alternativa: Bab el Mandeb, ineludible puerta de entrada al canal de Suez y salida clave para el petróleo de Arabia Saudí. Las milicias hutíes están cada vez más c.
-
-Date: 2026-09-11
-
-### Familias de víctimas del 11-S piden desclasificar archivos sobre el papel de Arabia Saudí
-
-Varios familiares de las víctimas de los ataques del 11 de septiembre de 2001 han pedido al presidente de Estados Unidos , Donald Trump , que desclasifique archivos relacionados con el presunto papel de Arabia Saudí durante un acto por el 25 aniversario de los atentados, que dejaron 2.977 muertos y cerca de 4.600 falle.
-
-Date: 2026-09-11
-
-### Por qué el precio del petróleo no encuentra techo: Arabia Saudí ya solo produce al nivel de la guerra del Golfo
-
-La subida del precio del petróleo se ha convertido, así, en la principal amenaza para las economías desarrolladas, especialmente en un momento de enorme tensión en los mercados de deuda pública Leer.
-
-Date: 2026-09-10
 
 ## Fuentes
 

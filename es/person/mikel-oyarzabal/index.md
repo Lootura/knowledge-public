@@ -3,10 +3,16 @@
 > Sigue la actividad de Mikel Oyarzabal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-08-09T01:26:38.581Z
+- Actualizado: 2026-10-11T10:38:56.651Z
 - Canonical: https://atlas.lootura.com/es/person/mikel-oyarzabal
 
 ## Cambios recientes
+
+### Susto en el entrenamiento de la Real Sociedad: Jon Martín, con la ceja rota tras un golpe fortuito de Mikel Oyarzabal
+
+El 'roce' en un rondo acaba con el central de Lasarte-Oria necesitando atención médica por una brecha encima del ojo derecho. El central entra en la convocatoria en la que también están Zubeldia y Fort.
+
+Date: 2026-10-10
 
 ### El alcalde de San Sebastián homenajea a Oyarzabal y Zubimendi al inicio de la Semana Grande
 

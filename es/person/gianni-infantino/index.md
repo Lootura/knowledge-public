@@ -3,10 +3,16 @@
 > Sigue la actividad de Gianni Infantino en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T18:58:06.359Z
+- Actualizado: 2026-10-14T03:30:04.027Z
 - Canonical: https://atlas.lootura.com/es/person/gianni-infantino
 
 ## Cambios recientes
+
+### La FIFA rechaza que Infantino «haya omitido revelar información financiera»
+
+La FIFA rechazó este martes que «haya omitido revelar información financiera» de las remuneraciones de su presidente, Gianni Infantino, y aseguró que.
+
+Date: 2026-10-13
 
 ### Infantino pelotea a Messi tras retirarse con Argentina: «Gracias por unir a aficionados de todo el mundo»
 
@@ -61,12 +67,6 @@ Date: 2026-08-05
 El príncipe de Jordania, Alí bin Hussein, también presidente de la Federación de Fútbol jordana, ha acusado este martes a través de un mensaje en sus redes sociales a Gianni Infantino de «chantaje» económico durante la pasada Copa del Mundo. Una acusación muy grave que incrementa la guerra abierta contra la FIFA. Alí b.
 
 Date: 2026-08-04
-
-### Tebas, a la carga contra Infantino: "No debe continuar al frente de la FIFA"
-
-El presidente de LaLiga, Javier Tebas , considera que Gianni Infantino "no debe continuar al frente de la FIFA" , ya que haber retirado su propuesta de privatizar sus competiciones es sólo "la punta del iceberg" y no resuelve "el problema de gobernanza". "Infantino no debe continuar. Que la FIFA haya retirado su propue.
-
-Date: 2026-08-02
 
 ## Fuentes
 

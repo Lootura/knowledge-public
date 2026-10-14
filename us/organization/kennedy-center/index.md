@@ -3,10 +3,16 @@
 > Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-06T17:54:58.776Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/organization/kennedy-center
 
 ## Recent changes
+
+### Funding milestone detected
+
+Elon Musk looks on as President Donald Trump speaks at the U.S.-Saudi Investment Forum at the John F. Kennedy Center for the Performing Arts in Washington, D.C. on Nov. 19, 2025. —Brendan Smialowski—AFP/Getty Images Elon Musk, the world’s richest man who also spent more than $250 million for President Donald Trump’s re.
+
+Date: 2026-10-13
 
 ### A history of presidents naming things after themselves (It's short. They rarely do)
 
@@ -58,4 +64,4 @@ Date: 2026-09-14
 
 ## Sources
 
-- [A history of presidents naming things after themselves (It's short. They rarely do)](https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington?utm_source=lootura.com) — 2026-10-06T11:00:00.000Z
+No public source links.

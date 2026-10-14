@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-02T19:15:45.319Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Díaz da este mes a los expertos para plantear sus propuestas de subida del salario mínimo
+
+La vicepresidenta segunda y ministra de Trabajo , Yolanda Díaz , ha pedido al comité de expertos que tengan listo para el final de este mes o el arranque de noviembre su propuesta de subida del salario mínimo interprofesional (SMI) para 2027 y que su propuesta garantice que no se pierda poder adquisitivo. Durante la ru.
+
+Date: 2026-10-08
 
 ### Díaz atribuye la mayor subida del paro en agosto a la regularización de inmigrantes
 
@@ -59,12 +65,6 @@ Date: 2026-07-24
 ### Discovered by Atlas
 
 Yolanda Díaz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
-### El Gobierno lanza a Díaz como candidata para dirigir la Organización Internacional del Trabajo
-
-Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.
 
 Date: 2026-07-23
 

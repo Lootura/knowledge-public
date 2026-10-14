@@ -3,10 +3,16 @@
 > Follow Nintendo, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-09-16T16:07:13.884Z
+- Updated: 2026-10-14T22:58:32.075Z
 - Canonical: https://atlas.lootura.com/us/company/nintendo
 
 ## Recent changes
+
+### Product availability changed in Europe
+
+The Legend of Zelda: Ocarina of Time. '/> We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style. (Image credit: Nintendo).
+
+Date: 2026-10-14
 
 ### Product availability changed in Europe
 
@@ -64,4 +70,4 @@ Date: 2026-08-06
 
 ## Sources
 
-No public source links.
+- [Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made](https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2?utm_source=lootura.com) — 2026-10-14T13:00:00.000Z

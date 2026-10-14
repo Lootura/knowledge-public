@@ -3,10 +3,22 @@
 > Follow Homeland security, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-09-17T16:13:53.216Z
+- Updated: 2026-10-13T01:49:13.119Z
 - Canonical: https://atlas.lootura.com/us/concept/homeland-security
 
 ## Recent changes
+
+### Rep. Ilhan Omar's D.C. home searched by Homeland Security investigators
+
+Sources say the investigation centers on Rep. Ilhan Omar's immigration documents, involving paperwork filled out by her late father when she was a child.
+
+Date: 2026-10-12
+
+### Trump administration ordered to cancel taxpayer-funded TV ads
+
+The Department of Homeland Security tapped $20 million in taxpayer money for the ads, which the White House has defended as public service announcements.
+
+Date: 2026-10-12
 
 ### Trump's mass deportations led to a big drop in fentanyl investigations, report finds. Here's what to know
 

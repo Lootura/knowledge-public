@@ -3,20 +3,26 @@
 > Follow Carter Evans, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-08T15:58:44.536Z
+- Updated: 2026-10-08T21:01:47.022Z
 - Canonical: https://atlas.lootura.com/us/person/carter-evans
 
 ## Recent changes
 
-### State of emergency in Hawaii as Hurricane Lowell approaches
+### USS Abraham Lincoln returns to San Diego after historic 10-month deployment
 
-Hurricane Lowell is barreling toward Hawaii, bringing the potential for life-threatening floods. CBS News' Carter Evans is in Kauai with more. Then, Rob Marciano joins with the latest forecast.
+The USS Abraham Lincoln docked at its homeport in the San Diego Bay on Thursday after its deployment to the Middle East nearly one year ago. CBS News' Eleanor Watson and Carter Evans report. Then, Ret. Navy Vice Adm. Robert Murrett joins with analysis.
 
-Date: 2026-09-08
+Date: 2026-10-08
 
 ### Discovered by Atlas
 
 Carter Evans first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-09-08
+
+### State of emergency in Hawaii as Hurricane Lowell approaches
+
+Hurricane Lowell is barreling toward Hawaii, bringing the potential for life-threatening floods. CBS News' Carter Evans is in Kauai with more. Then, Rob Marciano joins with the latest forecast.
 
 Date: 2026-09-08
 

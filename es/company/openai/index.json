@@ -8,11 +8,21 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/openai/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/openai/index.json",
   "description": "Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T22:43:11.507Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "ChatGPT maker"
   ],
   "changes": [
+    {
+      "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
+      "summary": "OpenAI acusó a un exempleado de haberse llevado archivos confidenciales a Apple , un caso que se suma a la disputa judicial entre ambas compañías. La empresa de IA afirma que un antiguo trabajador que se marchó a Cupertino envió más de 100 archivos confidenciales a sus cuentas personales. En los documentos se encontrab.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "OpenAI descubre una grabadora escondida en sus oficinas y el FBI detiene a un empleado",
+      "summary": "Un ingeniero de OpenAI fue detenido por ocultar un dispositivo de grabación en una sala de conferencias de la empresa. Las autoridades afirmaron que el aparato estaba escondido detrás de un televisor y oculto con papel higiénico. Abdulrahman Alfozan, el empleado de origen saudí, habría colocado la grabadora en una sala.",
+      "date": "2026-10-14"
+    },
     {
       "title": "Nueva dimisión de un directivo que desconfía de la IA: \"El camino actual es inaceptable\"",
       "summary": "David Robinson, ya extrabajador del equipo de seguridad de OpenAI, cree que \"las personas no estarán seguras si dependemos de actos heroicos individuales para resolver los problemas una vez ocurridos\". Leer.",
@@ -52,18 +62,15 @@
       "title": "Las grandes compañías de IA quieren echar el freno: ¿es una pausa por motivos de seguridad o más bien una retirada estratégica?",
       "summary": "Da-kuk / Getty Images Durante el fin de semana, el director ejecutivo de Anthropic, Dario Amodei, pidió a las empresas de inteligencia artificial (IA), incluida la suya propia, que ralentizaran su ritmo de trabajo . Sam Altman y Elon Musk, directores de las empresas rivales OpenAI y xAI, respectivamente, se mostraron d.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA",
-      "summary": "El IBEX 35 , principal índice de la Bolsa española , ha perdido este lunes un 1,38 % , lastrado por la subida del precio del petróleo y las caídas de las empresas de semiconductores y chips ante las dudas sobre la inversión en inteligencia artificial (IA) tras el retraso de la salida a bolsa de OpenAI. El selectivo esp.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Sam Altman descarta la salida a Bolsa de OpenAI en 2026: \"Dada la situación actual en materia de seguridad, no sería el momento adecuado\"",
-      "summary": "El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especializadas en inteligencia artificial a ralentizar su desarrollo Leer.",
-      "date": "2026-09-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
+      "url": "https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:50:00.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
 }

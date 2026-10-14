@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/poder-judicial/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/poder-judicial/index.json",
   "description": "Sigue la actividad de Administración de Justicia en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-09-14T17:40:22.734Z",
+  "updatedAt": "2026-10-14T22:58:11.537Z",
   "aliases": [
     "Administracion de justicia",
     "Administración de Justicia",
@@ -25,6 +25,11 @@
     "justice system"
   ],
   "changes": [
+    {
+      "title": "Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE",
+      "summary": "Nueva fractura en el seno del Consejo General del Poder Judicial (CGPJ), en esta ocasión para mostrar el apoyo a la instructora del caso del hermano de Pedro Sánchez, la...",
+      "date": "2026-10-14"
+    },
     {
       "title": "El Gobierno y el PSOE echan el resto en su cruzada contra los jueces",
       "summary": "Las advertencias que la presidenta del Tribunal Supremo y del Consejo del Poder Judicial, Isabel Perelló, lanzó al Gobierno el pasado jueves sobre la \"extraordinaria gravedad\" que tiene que un cargo institucional atribuya a un juez propósitos políticos han tenido el efecto contrario al que buscaban . Lejos de echar fre.",
@@ -69,13 +74,15 @@
       "title": "Perelló se planta ante Marlaska por sus quejas sobre Tardón: le recuerda que no puede censurar a los jueces",
       "summary": "El informe policial de Ceuta que revela la participación activa de los gendarmería marroquí en la invasión del pasado 30 y 31 de julio ha protagonizado un nuevo choque institucional entre el Ejecutivo y el Poder Judicial por la actuación de la magistrada de la Audiencia Nacional María Tardón, quien solicitó ese informe.",
       "date": "2026-09-03"
-    },
-    {
-      "title": "Marlaska denuncia ante el CGPJ que se le impidiera acceder al informe sobre Ceuta y el Consejo defiende a la jueza",
-      "summary": "El ministro del Interior, Fernando Grande-Marlaska , ha enviado una carta a la presidenta del Consejo General del Poder Judicial (CGPJ) , Isabel Perelló , para quejarse de que la jueza María Tardón prohibiera a los agentes investigadores compartir el informe policial sobre Ceuta. El ministro mantiene que la gravedad de.",
-      "date": "2026-09-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE",
+      "url": "https://amp.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T09:55:14.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

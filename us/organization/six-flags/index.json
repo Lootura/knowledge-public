@@ -1,0 +1,35 @@
+{
+  "id": "usa-six-flags",
+  "name": "Six Flags",
+  "type": "organization",
+  "locale": "en",
+  "canonicalPath": "/us/organization/six-flags",
+  "canonicalUrl": "https://atlas.lootura.com/us/organization/six-flags",
+  "markdownUrl": "https://atlas.lootura.com/us/organization/six-flags/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/organization/six-flags/index.json",
+  "description": "Follow Six Flags, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "aliases": [
+    "CopperSteel HoldCo, Inc.",
+    "Six Flags Entertainment Corporation"
+  ],
+  "changes": [
+    {
+      "title": "Witnesses of Six Flags roller coaster death speak on incident",
+      "summary": "Six Flags announced that multiple thrill rides across the country will be shut down temporarily after a 42-year-old father died on Monday on a roller coaster in Georgia. Skyler Henry reports on the victim and what may have gone wrong.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "News Wrap: Cornell bans fraternity parties for rest of academic year",
+      "summary": "In our news wrap Tuesday, Cornell University is banning parties and other social events at fraternities for the rest of the academic year, a man fell to his death while riding a roller coaster at a Six Flags amusement park outside Atlanta, the Supreme Court will hear a case over access to DOGE records and a bipartisan.",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Six Flags first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-13"
+    }
+  ],
+  "sources": [],
+  "evidenceCount": 0
+}

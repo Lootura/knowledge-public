@@ -3,10 +3,22 @@
 > Sigue la actividad de OpenAI en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-04T22:43:11.507Z
+- Actualizado: 2026-10-14T22:58:11.537Z
 - Canonical: https://atlas.lootura.com/es/company/openai
 
 ## Cambios recientes
+
+### OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos
+
+OpenAI acusó a un exempleado de haberse llevado archivos confidenciales a Apple , un caso que se suma a la disputa judicial entre ambas compañías. La empresa de IA afirma que un antiguo trabajador que se marchó a Cupertino envió más de 100 archivos confidenciales a sus cuentas personales. En los documentos se encontrab.
+
+Date: 2026-10-14
+
+### OpenAI descubre una grabadora escondida en sus oficinas y el FBI detiene a un empleado
+
+Un ingeniero de OpenAI fue detenido por ocultar un dispositivo de grabación en una sala de conferencias de la empresa. Las autoridades afirmaron que el aparato estaba escondido detrás de un televisor y oculto con papel higiénico. Abdulrahman Alfozan, el empleado de origen saudí, habría colocado la grabadora en una sala.
+
+Date: 2026-10-14
 
 ### Nueva dimisión de un directivo que desconfía de la IA: "El camino actual es inaceptable"
 
@@ -56,18 +68,6 @@ Da-kuk / Getty Images Durante el fin de semana, el director ejecutivo de Anthrop
 
 Date: 2026-09-14
 
-### El IBEX 35 pierde un 1,38% tras la subida del petróleo y la incertidumbre sobre la IA
-
-El IBEX 35 , principal índice de la Bolsa española , ha perdido este lunes un 1,38 % , lastrado por la subida del precio del petróleo y las caídas de las empresas de semiconductores y chips ante las dudas sobre la inversión en inteligencia artificial (IA) tras el retraso de la salida a bolsa de OpenAI. El selectivo esp.
-
-Date: 2026-09-14
-
-### Sam Altman descarta la salida a Bolsa de OpenAI en 2026: "Dada la situación actual en materia de seguridad, no sería el momento adecuado"
-
-El director ejecutivo de Anthropic, Dario Amodei, instó a las empresas especializadas en inteligencia artificial a ralentizar su desarrollo Leer.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-No public source links.
+- [OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos](https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com) — 2026-10-14T20:50:00.000Z

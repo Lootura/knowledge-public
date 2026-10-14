@@ -3,10 +3,16 @@
 > Sigue la actividad de Europe en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-10T03:02:25.927Z
+- Actualizado: 2026-10-08T21:01:26.973Z
 - Canonical: https://atlas.lootura.com/es/place/europe
 
 ## Cambios recientes
+
+### Belarra reitera que le encantaría «hacer equipo» con Rufián: «Es un valor para la izquierda»
+
+La secretaria general de Podemos , Ione Belarra , ha reiterado este jueves que le encantaría «hacer equipo» con el portavoz de ERC en el Congreso, Gabriel Rufián , de cara a las elecciones generales, aunque ha trasladado su respeto por el partido. Así lo ha indicado en una entrevista en ‘Malas Lenguas’, recogida por Eu.
+
+Date: 2026-10-08
 
 ### Sánchez se desmarca de la crisis de Ceuta ya que «no se podía anticipar»: «Ni el CNI lo hizo»
 

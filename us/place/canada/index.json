@@ -8,13 +8,23 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/canada/index.json",
   "description": "Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-06T17:54:58.776Z",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
   "aliases": [
     "CA",
     "CAN",
     "Can"
   ],
   "changes": [
+    {
+      "title": "Joni Mitchell becomes an American citizen after more than 60 years",
+      "summary": "Joni Mitchell can see both sides of the U.S.-Canada border freely now.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "summary": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+      "date": "2026-10-11"
+    },
     {
       "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
       "summary": "The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.",
@@ -54,24 +64,14 @@
       "title": "With invite to join EU bloc, Canada's prime minister speaks to European Parliament",
       "summary": "Canada's Prime Minister Mark Carney speaks to the European Parliament, following the European Union's invitation to Canada to become an \"associate member\" of the bloc.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "E.U.-Canada Ambitions Face Reality Check as Trump Bristles",
-      "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe. (Image credit: Pascal Bastien).",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
     {
-      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
-      "url": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-06T16:46:42.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Joni Mitchell becomes an American citizen after more than 60 years",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/joni-mitchell-becomes-american-citizen-60-years-rcna603430?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T15:14:22.548Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

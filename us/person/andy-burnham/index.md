@@ -3,10 +3,16 @@
 > Follow Andy Burnham, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-13T11:24:39.918Z
 - Canonical: https://atlas.lootura.com/us/person/andy-burnham
 
 ## Recent changes
+
+### Suspected plot at U.S.-run air base almost certainly directed by Iran, UK prime minister says
+
+A suspected plot to attack a U.S.-run military air base in England was "almost certainly" directed by Iran's Revolutionary Guard, British Prime Minister Andy Burnham said Monday.
+
+Date: 2026-10-12
 
 ### UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says
 
@@ -59,12 +65,6 @@ Date: 2026-07-20
 ### Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official
 
 As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.
-
-Date: 2026-07-20
-
-### Morning news brief
-
-The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.
 
 Date: 2026-07-20
 

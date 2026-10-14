@@ -3,10 +3,16 @@
 > Sigue la actividad de Emiliano García-Page en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/person/emiliano-garcia-page
 
 ## Cambios recientes
+
+### Page delega en Ferraz las listas del 29-N y ve arriesgada la operación para el Senado
+
+El presidente de Castilla-La Mancha, Emiliano García-Page, sigue deshojando la margarita y aún no ha decidido si optará a la reelección.
+
+Date: 2026-10-12
 
 ### García-Page advierte de que la crisis de Ceuta puede convertirse en la “segunda gran mentira de la democracia” tras el 11-M
 
@@ -61,12 +67,6 @@ Date: 2026-07-20
 El presidente de la Junta de Comunidades de Castilla-La Mancha, Emiliano García-Page , señaló este sábado que la culpa de los incendios "no la tiene nadie por su profesión, condición política o raza" sino que la tiene "aquel que incumple las leyes" y subrayó que "llegará el momento de esclarecer las causas" , como así.
 
 Date: 2026-07-19
-
-### Discovered by Atlas
-
-Emiliano García-Page first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-18
 
 ## Fuentes
 

@@ -3,10 +3,16 @@
 > Follow Tim Cook, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-04T18:48:19.323Z
+- Updated: 2026-10-08T21:01:47.022Z
 - Canonical: https://atlas.lootura.com/us/person/tim-cook
 
 ## Recent changes
+
+### Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business
+
+Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independ.
+
+Date: 2026-10-08
 
 ### What to expect from new Apple CEO John Ternus as Tim Cook steps down
 

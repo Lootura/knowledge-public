@@ -1,0 +1,56 @@
+{
+  "id": "usa-consumer-price-index",
+  "name": "Consumer Price Index",
+  "type": "person",
+  "locale": "en",
+  "canonicalPath": "/us/person/consumer-price-index",
+  "canonicalUrl": "https://atlas.lootura.com/us/person/consumer-price-index",
+  "markdownUrl": "https://atlas.lootura.com/us/person/consumer-price-index/index.md",
+  "jsonUrl": "https://atlas.lootura.com/us/person/consumer-price-index/index.json",
+  "description": "Follow Consumer Price Index, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
+  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "aliases": [],
+  "changes": [
+    {
+      "title": "Average diesel price likely to break all-time record in October, petroleum analyst says",
+      "summary": "Inflation rose in September to 3.7%, according to the latest Consumer Price Index, three weeks before the midterm elections. The increase is largely driven by energy costs. Patrick De Haan, head of petroleum analysis at GasBuddy, joins CBS News to discuss.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Inflation climbs in September as energy prices soar, CPI report shows",
+      "summary": "U.S. inflation rose higher than economists predicted amid high energy prices, the most recent Consumer Price Index report shows. Axios markets reporter Matt Phillips shares his thoughts.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+      "summary": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Consumer Price Index first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Average diesel price likely to break all-time record in October, petroleum analyst says",
+      "url": "https://www.cbsnews.com/video/likely-see-most-expensive-diesel-ever-this-year-petroleum-analyst-explains/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:24:03.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Inflation climbs in September as energy prices soar, CPI report shows",
+      "url": "https://www.cbsnews.com/video/inflation-climbs-september-energy-prices-soar-cpi/?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T14:51:47.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:22:19.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
+  "evidenceCount": 3
+}

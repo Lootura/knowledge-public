@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/margaret-brennan/index.json",
   "description": "Follow Margaret Brennan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T22:43:31.359Z",
+  "updatedAt": "2026-10-11T17:18:59.813Z",
   "aliases": [
     "Brennan",
     "Margaret",
     "Margaret Mary Brennan"
   ],
   "changes": [
+    {
+      "title": "Transcript: Sen. Chris Murphy on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+      "summary": "The following is the transcript of the interview with Sen. Chris Murphy, Democrat of Connecticut, that aired on \"Face the Nation with Margaret Brennan\" on Oct. 11, 2026.",
+      "date": "2026-10-11"
+    },
     {
       "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
       "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Energy Secretary Chris Wright and Zach Lahn, Iowa GOP nominee for governor, join Margaret Brennan.",
@@ -58,11 +63,6 @@
     {
       "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
       "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Democratic Sen. Mark Kelly and Republican Rep. Mike Turner join Margaret Brennan.",
-      "date": "2026-08-02"
-    },
-    {
-      "title": "Joe and Heather Manchin on their push to elect more independents",
-      "summary": "On \"Face the Nation with Margaret Brennan,\" former Sen. Joe Manchin and his daugher, Heather, discussed their initiative to help more independents get elected to office. They also addressed whether they could ever support a self-described socialist candidate.",
       "date": "2026-08-02"
     }
   ],

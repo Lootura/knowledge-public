@@ -3,10 +3,28 @@
 > Sigue la actividad de Salvador Illa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-06T17:54:40.529Z
+- Actualizado: 2026-10-13T01:48:33.404Z
 - Canonical: https://atlas.lootura.com/es/person/salvador-illa
 
 ## Cambios recientes
+
+### Primera crisis entre Illa y ERC por la gestión de TV3 a causa de un reportaje sobre vacunas
+
+A 47 días de las elecciones generales, ha estallado la primera crisis entre el presidente catalán, Salvador Illa , y ERC a causa de la gestión de TV3 . Hasta ahora la televisión había vivido un entorno de paz política entre socialistas y republicanos. Pero eso se rompió hoy por la emisión de un programa en el espacio V.
+
+Date: 2026-10-12
+
+### Illa encumbra a Jordi Hereu como candidato del PSC y declara la guerra a Junts: “¿Para qué sirves?”
+
+El presidente de la Generalitat y primer secretario del PSC, Salvador Illa, ha encumbrado este domingo al ministro de Industria y Turismo, Jordi Hereu, como candidato de los socialistas catalanes para las elecciones generales del próximo 29 de noviembre. Una designación con la que Illa pretende ampliar el apoyo ciudada.
+
+Date: 2026-10-11
+
+### La Cataluña NO apaciguada
+
+Todos los Gobiernos españoles de la democracia han cometido la misma equivocación: creer que los nacionalistas catalanes —desde Jordi Pujol a Salvador Illa— se contentarían al cederles ciertas reivindicaciones y, como por arte de magia, el llamado «problema catalán» se habría solucionado. ¡Grave error derivado de una i.
+
+Date: 2026-10-08
 
 ### Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes
 
@@ -50,24 +68,6 @@ El fichaje de José Luis Trapero como director general de la Policia fue una baz
 
 Date: 2026-09-09
 
-### Albares condena el ataque ruso en Kiev cerca de la embajadora española y Salvador Illa
-
-El ministro de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares , ha condenado «enérgicamente» el último ataque ruso contra la sede del Servicio de Seguridad ucraniano en Kiev que se ha producido muy cerca de donde se encontraban en ese momento tanto la embajadora española como el presidente de la G.
-
-Date: 2026-09-04
-
-### Illa asegura que la Generalitat hará “todo lo que esté en su mano” para preservar los puestos de trabajo de Seat en Cataluña
-
-El presidente de la Generalitat, Salvador Illa, ha prometido este viernes que su gobierno hará “todo lo que esté en su mano” para preservar los puestos de trabajo y la industria catalana ante los ajustes aprobados por el grupo Volkswagen y las dudas que estos han abierto sobre el futuro de Seat. El fabricante alemán ha.
-
-Date: 2026-09-04
-
-### Salvador Illa afirma que hará «lo que sea» para preservar los puestos de Seat en Cataluña
-
-El presidente de la Generalitat de Cataluña, Salvador Illa , ha asegurado este viernes que está en contacto con los máximos responsables del grupo Volkswagen y de Seat en la comunidad y que desde el Govern harán «lo que sea» para preservar los puestos de trabajo de la compañía en Cataluña. Así lo ha afirmado en una ate.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes](https://www.lavanguardia.com/politica/20261006/11652365/illa-recibira-puigdemont-palau-igual-hizo-resto-expresidentes.html?utm_source=lootura.com) — 2026-10-06T11:33:01.000Z
+No public source links.
