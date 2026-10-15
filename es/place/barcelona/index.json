@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -22,13 +22,18 @@
   ],
   "changes": [
     {
-      "title": "Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a \"ceder\" como líder si alguien reúne \"más consenso\"",
-      "summary": "Los cuatro partidos que impulsan el Frente Amplio apuestan por la ex alcaldesa de Barcelona como referente y la formación 'morada' exige que sea Irene Montero Leer.",
+      "title": "La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana",
+      "summary": "El partido de Mónica Oltra insiste en que el diputado Alberto Ibáñez encabece la candidatura de izquierdas, con el rechazo de Més La izquierda valenciana negocia una candidatura única liderada por Compromís e intenta evitar “el espectáculo de Madrid y Barcelona\" La batalla interna en Compromís por los puestos de salida.",
       "date": "2026-10-14"
     },
     {
-      "title": "La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana",
-      "summary": "El partido de Mónica Oltra insiste en que el diputado Alberto Ibáñez encabece la candidatura de izquierdas, con el rechazo de Més La izquierda valenciana negocia una candidatura única liderada por Compromís e intenta evitar “el espectáculo de Madrid y Barcelona\" La batalla interna en Compromís por los puestos de salida.",
+      "title": "Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave",
+      "summary": "Cambiará los primeros puestos de las candidaturas en Barcelona, Valencia, Zaragoza, Pontevedra o Vizcaya Leer.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a \"ceder\" como líder si alguien reúne \"más consenso\"",
+      "summary": "Los cuatro partidos que impulsan el Frente Amplio apuestan por la ex alcaldesa de Barcelona como referente y la formación 'morada' exige que sea Irene Montero Leer.",
       "date": "2026-10-14"
     },
     {
@@ -65,18 +70,13 @@
       "title": "Un tribunal anula el ‘no’ de Viladecans (Barcelona) a los entierros islámicos",
       "summary": "El Tribunal Superior de Justicia de Cataluña (TSJC) ha anulado las resoluciones del Ayuntamiento de Viladecans (Barcelona) que rechazaban habilitar zonas reservadas a entierros musulmanes en su cementerio municipal debido a la falta de espacio, al considerar que el consistorio no justificó debidamente la decisión, por.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "ERC se venga de Colau por robarle la Alcaldía de Barcelona y ganarle en las generales: Podemos podría aportarle 125.000 votos",
-      "summary": "Los republicanos también quieren mermar a los Comunes para las municipales de mayo Leer.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
     {
-      "title": "Colau admite que el problema con Podemos es la pelea de nombres y se ofrece a \"ceder\" como líder si alguien reúne \"más consenso\"",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf3077e4d4d890358b45ae.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T07:48:55.000Z",
+      "title": "Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T20:43:19.000Z",
       "sourceId": "lootura-es-el-mundo"
     },
     {
@@ -84,13 +84,7 @@
       "url": "https://www.eldiario.es/comunitat-valenciana/politica/batalla-interna-compromis-numero-1-valencia-pone-riesgo-gran-acuerdo-izquierda-valenciana_1_13586534.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T20:54:14.000Z",
       "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
-      "url": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T18:17:51.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 2
 }

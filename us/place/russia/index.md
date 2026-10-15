@@ -3,10 +3,22 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
+
+### Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates
+
+A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
+
+Date: 2026-10-14
+
+### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
+
+President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
+
+Date: 2026-10-14
 
 ### ‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman
 
@@ -17,12 +29,6 @@ Date: 2026-10-14
 ### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
 
 President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
-
-Date: 2026-10-14
-
-### Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates
-
-A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
 
 Date: 2026-10-14
 
@@ -62,14 +68,7 @@ Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift”
 
 Date: 2026-10-13
 
-### They Came to Russia for Work. Now They Are Under Fire.
-
-Ukrainian strikes on oil refineries and warehouses have led to casualties among the foreigners easing Russia’s labor shortage.
-
-Date: 2026-10-13
-
 ## Sources
 
-- [‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman](https://www.nbcnews.com/meet-the-press/video/-republican-wave-unlikely-but-house-gop-can-hold-their-own-says-outgoing-congressman-271586373540?utm_source=lootura.com) — 2026-10-14T21:05:25.000Z
 - [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
-- [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com) — 2026-10-14T20:47:48.000Z
+- [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com) — 2026-10-14T23:30:02.000Z

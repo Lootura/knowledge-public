@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/pope-leo/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/pope-leo/index.json",
   "description": "Follow Pope Leo, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Pope's cancer prognosis may depend on these factors, doctors say",
+      "summary": "Pope Leo XIV was diagnosed with lung cancer after a surgery that removed a nodular lesion from his right lung, the Vatican said.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Pope Leo has lung cancer, the Vatican says",
       "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
@@ -47,22 +52,29 @@
       "date": "2026-10-14"
     },
     {
-      "title": "Doctors discuss Pope Leo's lung cancer diagnosis",
-      "summary": "The Vatican announced that Pope Leo XIV was diagnosed with lung cancer on Tuesday, following a surgery he had on his right lung. Doctors and medical experts spoke with CBS News about the potential prognosis.",
+      "title": "Pope Leo recovers after lung surgery",
+      "summary": "There are new details about Pope Leo’s recovery following his lung cancer diagnosis. Doctors say he is progressing as expected. NBC News’ Anne Thompson reports from Rome.",
       "date": "2026-10-14"
     },
     {
       "title": "Details on Pope Leo XIV's lung cancer diagnosis, surgery",
       "summary": "Pope Leo XIV, the first American pope, has been diagnosed with lung cancer after surgeons removed the lower lobe of his right lung, according to the Vatican. Chris Livesay reports and Dr. David Jones, chief of thoracic surgery at the Memorial Sloan Kettering Cancer Center, has medical analysis.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Lung doctor explains Pope Leo's cancer diagnosis, operation",
-      "summary": "Pope Leo was diagnosed with of lung cancer following a surgical operation on Tuesday, the Vatican said. Dr. Charles Powell, chief of pulmonary, critical care & sleep medicine at Mount Sinai and director of the Mount Sinai Respiratory Institute, joins \"The Daily Report\" to explain what could happen next.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
+    {
+      "title": "Pope's cancer prognosis may depend on these factors, doctors say",
+      "url": "https://www.cbsnews.com/news/pope-leo-lung-cancer-prognosis-doctors/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T00:34:04.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Pope Leo recovers after lung surgery",
+      "url": "https://www.nbcnews.com/nightly-news/video/pope-leo-recovers-after-lung-surgery-271593541966?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:56:11.000Z",
+      "sourceId": "lootura-us-nbc-news"
+    },
     {
       "title": "Pope Leo has lung cancer, the Vatican says",
       "url": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says?utm_source=lootura.com",
@@ -106,5 +118,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 9
 }

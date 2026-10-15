@@ -70,4 +70,4 @@ Date: 2026-09-01
 
 ## Fuentes
 
-- [Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela](https://www.abc.es/internacional/trump-levanta-sanciones-jorge-rodriguez-hermano-delcy-20261014162847-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:23.000Z
+No public source links.

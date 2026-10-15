@@ -3,7 +3,7 @@
 > Sigue la actividad de Isla de la Cartuja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/la-cartuja
 
 ## Cambios recientes
@@ -22,7 +22,7 @@ Date: 2026-10-14
 
 ### Discovered by Atlas
 
-La Cartuja first entered the public knowledge record with source-backed evidence.
+Isla de la Cartuja first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-10-14
 

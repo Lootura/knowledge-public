@@ -70,4 +70,4 @@ Date: 2026-08-07
 
 ## Fuentes
 
-- [Mercedes Oblanca (Accenture): “En Europa tenemos talento tecnológico y científico”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/mercedes-oblanca-accenture-en-europa-tenemos-talento-tecnologico-y-cientifico.html?utm_source=lootura.com) — 2026-10-14T15:52:59.000Z
+No public source links.

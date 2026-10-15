@@ -3,10 +3,16 @@
 > Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T03:30:04.027Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-york
 
 ## Cambios recientes
+
+### Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York
+
+La Fiscalía estadounidense acusa al exmandatario y a su esposa de torturas y crímenes de lesa humanidad.
+
+Date: 2026-10-15
 
 ### La ruta aérea entre Bilbao y Nueva York pierde un 4% de clientes, lastrada por las averías
 
@@ -62,12 +68,6 @@ El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nu
 
 Date: 2026-09-14
 
-### Historia en el tenis con la primera final entre dos jugadores homosexuales
-
-Nueva York acapara los focos en el tenis con el US Open, el último Grand Slam de la temporada. Pero a muchos kilómetros de allí, en la pequeña ciudad austriaca de Tulln an der Donau, dos tenistas lograron un hecho sin precedentes.El suizo Mika Brunold y el brasileño João Reis da Silva disputaron este domingo la final d.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-No public source links.
+- [Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York](https://www.abc.es/internacional/juez-nueva-york-cita-declarar-jueves-nicolas-20261015023147-nt_amp.html?utm_source=lootura.com) — 2026-10-15T00:31:47.000Z

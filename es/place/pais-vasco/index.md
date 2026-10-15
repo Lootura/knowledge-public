@@ -3,7 +3,7 @@
 > Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/pais-vasco
 
 ## Cambios recientes
@@ -71,4 +71,3 @@ Date: 2026-10-06
 ## Fuentes
 
 - [El alza de los carburantes dispara el IPC de Gipuzkoa al 4,3%, su nivel más alto desde 2023](https://www.diariovasco.com/economia/ipc-gipuzkoa-euskadi-precio-carburantes-septiembre-20261014092403-nt_amp.html?utm_source=lootura.com) — 2026-10-14T07:31:24.000Z
-- [Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco](https://theobjective.com/espana/politica/2026-10-14/patxi-lopez-cabeza-lista-psoe-pais-vasco/?utm_source=lootura.com) — 2026-10-14T15:56:00.000Z

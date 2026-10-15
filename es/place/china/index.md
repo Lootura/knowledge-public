@@ -70,4 +70,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [A más competencia, más barreras: ¿cómo cambian los términos de la relación comercial entre China y Europa?](https://theconversation.com/a-mas-competencia-mas-barreras-como-cambian-los-terminos-de-la-relacion-comercial-entre-china-y-europa-293725?utm_source=lootura.com) — 2026-10-14T15:59:39.000Z
+No public source links.

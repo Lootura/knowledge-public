@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [],
   "changes": [
     {
@@ -63,12 +63,6 @@
     }
   ],
   "sources": [
-    {
-      "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T12:26:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "url": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com",

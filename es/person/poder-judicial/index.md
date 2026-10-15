@@ -70,4 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE](https://amp.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html?utm_source=lootura.com) — 2026-10-14T09:55:14.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-13T11:24:20.634Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/el-consejo
 
 ## Cambios recientes
+
+### Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año
+
+El Consejo de Gobierno de la Comunidad de Madrid ha aprobado este miércoles la adjudicación, por 60 millones de euros , de las obras correspondientes a la primera fase (Fase 0) de la reforma integral del Hospital público Gregorio Marañón , que arrancarán antes de que finalice este año. La intervención se concentrará en.
+
+Date: 2026-10-15
 
 ### Es oficial: la Comunidad de Madrid recupera en 2027 un festivo que llevaba cuatro años sin celebrarse
 
@@ -62,12 +68,6 @@ El Consejo de Ministros desclasificará este martes “todos los informes de sit
 
 Date: 2026-09-08
 
-### Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su "realismo"
-
-Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóviles inicia ya una nueva etapa una vez aprobado su plan de reestructuración , uno de los de mayor dimensión de los últimos años en la industria europea. El Consejo de Supervisión del Grupo Volkswagen aprobó por unanimidad un plan de ajuste que.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-No public source links.
+- [Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año](https://www.elconfidencial.com/espana/madrid/2026-10-15/obras-reforma-gregorio-maranon_4444937/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z

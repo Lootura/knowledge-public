@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,6 +30,21 @@
   ],
   "changes": [
     {
+      "title": "Trump announces new Defense Department 'super range' for Montana",
+      "summary": "During a rally in Montana, President Trump announced that the state will receive a new Defense Department 'super range' for testing advanced weapons and technologies.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+      "summary": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
+      "summary": "The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.",
+      "date": "2026-10-15"
+    },
+    {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "summary": "Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.",
       "date": "2026-10-14"
@@ -42,21 +57,6 @@
     {
       "title": "Breaking down September's CPI report as inflation rises to 3.7%",
       "summary": "Inflation accelerated to 3.7% in September as energy costs soared amid President Trump's war with Iran, a new CPI report shows. CBS News reporter Emily Pandise has more.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
-      "summary": "Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate",
-      "summary": "With a close race in Michigan, Republican Senate candidate Mike Rogers resisted accusations he would be a ‘rubber stamp’ to the president’s agenda. He speaks to Tom Llamas on Nightly News tonight.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman",
-      "summary": "Retiring Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to share his confidence in Republicans holding onto Congress in the midterms and his distaste for President Trump’s diesel deal with Russia.",
       "date": "2026-10-14"
     },
     {
@@ -100,21 +100,9 @@
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T12:51:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate",
-      "url": "https://www.nbcnews.com/nightly-news/video/mike-rogers-dismisses-criticism-he-d-be-rubber-stamp-for-trump-in-senate-271586373618?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:19:02.000Z",
-      "sourceId": "lootura-us-nbc-news-politics"
-    },
-    {
-      "title": "‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman",
-      "url": "https://www.nbcnews.com/meet-the-press/video/-republican-wave-unlikely-but-house-gop-can-hold-their-own-says-outgoing-congressman-271586373540?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:05:25.000Z",
+      "title": "Trump announces new Defense Department 'super range' for Montana",
+      "url": "https://www.nbcnews.com/video/trump-announces-new-defense-department-super-range-for-montana-271605829612?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T02:47:01.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -122,6 +110,12 @@
       "url": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com",
       "publishedAt": "2026-10-14T07:16:02.000Z",
       "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "How immigration policies shaped America and evolved throughout its history",
+      "url": "https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:25:29.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Attorney for banned outlets on legal fight over White House press access",
@@ -136,11 +130,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
+      "title": "Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms",
+      "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:30:02.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
       "url": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073?utm_source=lootura.com",
       "publishedAt": "2026-10-14T18:18:37.000Z",
       "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 17
+  "evidenceCount": 19
 }

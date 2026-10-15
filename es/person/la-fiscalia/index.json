@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/la-fiscalia/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/la-fiscalia/index.json",
   "description": "Sigue la actividad de La Fiscalía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York",
+      "summary": "La Fiscalía estadounidense acusa al exmandatario y a su esposa de torturas y crímenes de lesa humanidad.",
+      "date": "2026-10-15"
+    },
     {
       "title": "La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias",
       "summary": "El informe del fiscal Vicente González Mota concluye que los tribunales españoles sí tienen jurisdicción para examinar la querella por agresión sexual presentada contra el cantante por dos extrabajadoras Las extrabajadoras que denunciaron a Julio Iglesias presentan una querella contra él en la Audiencia Nacional La Fis.",
@@ -55,14 +60,15 @@
       "title": "El ex jefe del espionaje alemán, detenido por negociar con secretos de Estado",
       "summary": "La Fiscalía sostiene que pretendía aprovechar comercialmente la información obtenida de su antigua institución Leer.",
       "date": "2026-10-06"
-    },
-    {
-      "title": "La Audiencia Nacional recurre el tercer grado concedido por el Gobierno Vasco al etarra Henri Parot",
-      "summary": "La Fiscalía considera que la aprobación de la progresión por la consejería de la socialista San José resulta «prematura en el momento actual y no se ajusta plenamente» a los criterios legales que rigen la clasificación penitenciaria.",
-      "date": "2026-09-16"
     }
   ],
   "sources": [
+    {
+      "title": "Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York",
+      "url": "https://www.abc.es/internacional/juez-nueva-york-cita-declarar-jueves-nicolas-20261015023147-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T00:31:47.000Z",
+      "sourceId": "lootura-es-abc"
+    },
     {
       "title": "La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias",
       "url": "https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com",
@@ -76,5 +82,5 @@
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

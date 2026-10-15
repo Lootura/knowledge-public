@@ -70,4 +70,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z
+No public source links.

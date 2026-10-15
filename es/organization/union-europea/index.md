@@ -70,4 +70,4 @@ Date: 2026-09-16
 
 ## Fuentes
 
-- [El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE](https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html?utm_source=lootura.com) — 2026-10-14T19:36:12.000Z
+No public source links.

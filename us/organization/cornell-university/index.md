@@ -3,7 +3,7 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-10-03
 
 ## Sources
 
-- [Cornell Bans Frat Parties, Promises New Safeguards for Students](https://www.today.com/video/cornell-president-offers-apology-for-first-time-in-jane-doe-case-271547461977?utm_source=lootura.com) — 2026-10-14T11:22:16.000Z
+- [Fraternity culture under scrutiny in wake of Cornell allegations](https://www.pbs.org/newshour/show/fraternity-culture-under-scrutiny-in-wake-of-cornell-allegations?utm_source=lootura.com) — 2026-10-14T22:35:31.000Z

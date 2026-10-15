@@ -3,20 +3,20 @@
 > Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/organization/tribunal-constitucional
 
 ## Cambios recientes
 
-### Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”
-
-La causa judicial del procés entra en la recta final. Con la sentencia del Tribunal Constitucional (TC) que avaló la amnistía, los procesados aguardan a que el Tribunal Supremo dicte el auto que aplique la norma y extinga definitivamente los delitos por los que fueron condenados. Este miércoles, en una intervención en.
-
-Date: 2026-10-14
-
 ### Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos
 
 El presidente del Tribunal Constitucional , Cándido Conde-Pumpido , ha asegurado que, si hay un cambio de Gobierno , una posible derogación de la Ley de Amnistía sería «simbólica» y no tendría ningún efecto práctico porque, cuando se aplica, la responsabilidad penal se extingue. Así se ha pronunciado este miércoles en.
+
+Date: 2026-10-14
+
+### Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”
+
+La causa judicial del procés entra en la recta final. Con la sentencia del Tribunal Constitucional (TC) que avaló la amnistía, los procesados aguardan a que el Tribunal Supremo dicte el auto que aplique la norma y extinga definitivamente los delitos por los que fueron condenados. Este miércoles, en una intervención en.
 
 Date: 2026-10-14
 
@@ -70,5 +70,4 @@ Date: 2026-10-06
 
 ## Fuentes
 
-- [Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”](https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html?utm_source=lootura.com) — 2026-10-14T18:08:08.000Z
 - [Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos](https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com) — 2026-10-14T21:01:35.000Z

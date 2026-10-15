@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,13 +30,13 @@
   ],
   "changes": [
     {
-      "title": "Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela",
-      "summary": "Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.",
+      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
+      "summary": "Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.",
       "date": "2026-10-14"
     },
     {
-      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
-      "summary": "Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.",
+      "title": "Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela",
+      "summary": "Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.",
       "date": "2026-10-14"
     },
     {
@@ -82,17 +82,11 @@
   ],
   "sources": [
     {
-      "title": "Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela",
-      "url": "https://www.abc.es/internacional/trump-levanta-sanciones-jorge-rodriguez-hermano-delcy-20261014162847-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T19:31:23.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
       "url": "https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T22:07:57.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

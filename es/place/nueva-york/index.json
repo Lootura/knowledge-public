@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/nueva-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/nueva-york/index.json",
   "description": "Sigue la actividad de Nueva York en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "Capital del Mundo",
     "Capital of the World",
@@ -41,6 +41,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York",
+      "summary": "La Fiscalía estadounidense acusa al exmandatario y a su esposa de torturas y crímenes de lesa humanidad.",
+      "date": "2026-10-15"
+    },
     {
       "title": "La ruta aérea entre Bilbao y Nueva York pierde un 4% de clientes, lastrada por las averías",
       "summary": "El enlace transoceánico, que volverá a finales de la próxima primavera, transportó a 14.425 personas, 596 menos que el año de su estreno.",
@@ -85,13 +90,15 @@
       "title": "Sánchez busca otra ‘pelea’ con Trump al citarse con Mamdani en Nueva York",
       "summary": "El presidente del Gobierno español, Pedro Sánchez , aprovechará su viaje a Nueva York para la Asamblea General de Naciones Unidas la próxima semana para participar, el 23 de septiembre, en un coloquio económico junto al a lcalde de la ciudad, el socialista Zohran Mamdani . El acto, titulado Construyendo una economía pa.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Historia en el tenis con la primera final entre dos jugadores homosexuales",
-      "summary": "Nueva York acapara los focos en el tenis con el US Open, el último Grand Slam de la temporada. Pero a muchos kilómetros de allí, en la pequeña ciudad austriaca de Tulln an der Donau, dos tenistas lograron un hecho sin precedentes.El suizo Mika Brunold y el brasileño João Reis da Silva disputaron este domingo la final d.",
-      "date": "2026-09-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York",
+      "url": "https://www.abc.es/internacional/juez-nueva-york-cita-declarar-jueves-nicolas-20261015023147-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T00:31:47.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

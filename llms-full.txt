@@ -47,7 +47,6 @@
 - [Diputación Permanente](https://atlas.lootura.com/es/organization/diputacion-permanente): Sigue la actividad de Diputación Permanente en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Confidencial](https://atlas.lootura.com/es/organization/el-confidencial): Sigue la actividad de El Confidencial en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Constitucional](https://atlas.lootura.com/es/organization/el-constitucional): Sigue la actividad de El Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [El Gobierno](https://atlas.lootura.com/es/organization/el-gobierno): Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Tarajal](https://atlas.lootura.com/es/organization/el-tarajal): Sigue la actividad de El Tarajal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Tribunal](https://atlas.lootura.com/es/organization/el-tribunal): Sigue la actividad de El Tribunal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [El Tribunal Constitucional](https://atlas.lootura.com/es/organization/el-tribunal-constitucional): Sigue la actividad de El Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -82,6 +81,7 @@
 - [Manchester United](https://atlas.lootura.com/es/organization/manchester-united): Sigue la actividad de Manchester United en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Miguel Tellado](https://atlas.lootura.com/es/organization/miguel-tellado): Sigue la actividad de Miguel Tellado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Míriam Nogueras](https://atlas.lootura.com/es/organization/miriam-nogueras): Sigue la actividad de Míriam Nogueras en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Montse Mínguez](https://atlas.lootura.com/es/organization/montse-minguez): Sigue la actividad de Montse Mínguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Movimiento Sumar](https://atlas.lootura.com/es/organization/movimiento-sumar): Sigue la actividad de Movimiento Sumar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Muere Maricarmen](https://atlas.lootura.com/es/organization/muere-maricarmen): Sigue la actividad de Muere Maricarmen en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Organización de las Naciones Unidas](https://atlas.lootura.com/es/organization/naciones-unidas): Sigue la actividad de Organización de las Naciones Unidas en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -176,7 +176,6 @@
 - [Jordi Wild](https://atlas.lootura.com/es/person/jordi-wild): Sigue la actividad de Jordi Wild en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jorge Martín](https://atlas.lootura.com/es/person/jorge-martin): Sigue la actividad de Jorge Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Jose Antonio Jainaga](https://atlas.lootura.com/es/person/jose-antonio-jainaga): Sigue la actividad de Jose Antonio Jainaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
-- [José Luis Martínez](https://atlas.lootura.com/es/person/jose-luis-martinez): Sigue la actividad de José Luis Martínez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [José Manuel Albares](https://atlas.lootura.com/es/person/jose-manuel-albares): Sigue la actividad de José Manuel Albares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Josep Vallverdú](https://atlas.lootura.com/es/person/josep-vallverdu): Sigue la actividad de Josep Vallverdú en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Juan Carlos Barrabés](https://atlas.lootura.com/es/person/juan-carlos-barrabes): Sigue la actividad de Juan Carlos Barrabés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
@@ -265,6 +264,7 @@
 - [Gran Bretaña](https://atlas.lootura.com/es/place/gran-bretana): Sigue la actividad de Gran Bretaña en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Instituto Geográfico Nacional](https://atlas.lootura.com/es/place/instituto-geografico-nacional): Sigue la actividad de Instituto Geográfico Nacional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Irán](https://atlas.lootura.com/es/place/iran): Sigue la actividad de Irán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
+- [Islas Baleares](https://atlas.lootura.com/es/place/islas-baleares): Sigue la actividad de Islas Baleares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Juan Carlos](https://atlas.lootura.com/es/place/juan-carlos): Sigue la actividad de Juan Carlos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [La Adrada](https://atlas.lootura.com/es/place/la-adrada): Sigue la actividad de La Adrada en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 - [Isla de la Cartuja](https://atlas.lootura.com/es/place/la-cartuja): Sigue la actividad de Isla de la Cartuja en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.

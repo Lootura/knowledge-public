@@ -8,17 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/tribunal-constitucional/index.json",
   "description": "Sigue la actividad de Tribunal Constitucional en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [],
   "changes": [
     {
-      "title": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
-      "summary": "La causa judicial del procés entra en la recta final. Con la sentencia del Tribunal Constitucional (TC) que avaló la amnistía, los procesados aguardan a que el Tribunal Supremo dicte el auto que aplique la norma y extinga definitivamente los delitos por los que fueron condenados. Este miércoles, en una intervención en.",
+      "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
+      "summary": "El presidente del Tribunal Constitucional , Cándido Conde-Pumpido , ha asegurado que, si hay un cambio de Gobierno , una posible derogación de la Ley de Amnistía sería «simbólica» y no tendría ningún efecto práctico porque, cuando se aplica, la responsabilidad penal se extingue. Así se ha pronunciado este miércoles en.",
       "date": "2026-10-14"
     },
     {
-      "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
-      "summary": "El presidente del Tribunal Constitucional , Cándido Conde-Pumpido , ha asegurado que, si hay un cambio de Gobierno , una posible derogación de la Ley de Amnistía sería «simbólica» y no tendría ningún efecto práctico porque, cuando se aplica, la responsabilidad penal se extingue. Así se ha pronunciado este miércoles en.",
+      "title": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
+      "summary": "La causa judicial del procés entra en la recta final. Con la sentencia del Tribunal Constitucional (TC) que avaló la amnistía, los procesados aguardan a que el Tribunal Supremo dicte el auto que aplique la norma y extinga definitivamente los delitos por los que fueron condenados. Este miércoles, en una intervención en.",
       "date": "2026-10-14"
     },
     {
@@ -64,17 +64,11 @@
   ],
   "sources": [
     {
-      "title": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
-      "url": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T18:08:08.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
       "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
       "url": "https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com",
       "publishedAt": "2026-10-14T21:01:35.000Z",
       "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

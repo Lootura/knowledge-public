@@ -30,19 +30,6 @@
       "date": "2026-10-14"
     }
   ],
-  "sources": [
-    {
-      "title": "Five Key Moments From The Times’s Interview With Cornell’s President",
-      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T03:16:35.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Cornell’s President Acknowledges Missteps in Handling of Rape Accusations",
-      "url": "https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T01:47:58.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

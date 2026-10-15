@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [How the House landscape is evolving: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/house-landscape-evolving-politics-desk-rcna603597?utm_source=lootura.com) — 2026-10-14T22:28:21.000Z
+No public source links.

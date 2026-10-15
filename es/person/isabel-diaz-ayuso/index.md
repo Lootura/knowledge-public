@@ -70,4 +70,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada](https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:54.000Z
+No public source links.

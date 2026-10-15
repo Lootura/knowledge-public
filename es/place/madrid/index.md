@@ -3,34 +3,34 @@
 > Sigue la actividad de Madrid en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/madrid
 
 ## Cambios recientes
 
-### El Madrid levanta el pulgar a tiempo en Roma
+### Campamento entra en campaña: las 20.000 viviendas de Sánchez y ZP son un solar con inodoros
 
-El equipo blanco, tras una primera hora terrible, remonta un 3-1 en el Olímpico. Marcaron Mbappé, Espí, Endrick y Rudiger. Por la Roma, De Roon y doblete de Malen.
+La Operación Campamento , en boca de todos los políticos desde hace más de 30 años , ha vuelto al debate público en mitad de la precampaña electoral. José Luis Martínez-Almeida arrancó la semana con una visita a los terrenos de los antiguos cuarteles en el distrito de Latina, al suroeste de Madrid, tratando de evidenci.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
+### Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año
 
-La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.
+El Consejo de Gobierno de la Comunidad de Madrid ha aprobado este miércoles la adjudicación, por 60 millones de euros , de las obras correspondientes a la primera fase (Fase 0) de la reforma integral del Hospital público Gregorio Marañón , que arrancarán antes de que finalice este año. La intervención se concentrará en.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Felipe VI pide en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos
+### La escapada que recorre cinco siglos de historia de la Corona en Madrid
 
-El rey Felipe VI ha pedido esta tarde en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos . Como dijo en Ceuta, Madrid y Rabat tienen que "construir y preservar", lo que exige " confianza, responsabilidad y buena fe ". "Los hechos nos recuerdan la importancia de seguir trabajando unidos, las.
+Los festivos de otoño son una excusa excelente para redescubrir Madrid desde otro ángulo: el de la Corona. El Distrito Real reúne en 400.000 metros cuadrados del centro de la capital palacios, jardines, museos y monasterios que resumen cinco siglos de historia de la monarquía española. Su recorrido se extiende a los Re.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
+### Naturgy traslada a 700 empleados a sus nuevas oficinas de Madrid
 
-La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
+La empresa abandona su sede de Avenida de San Luis 77 y traslada a sus empleados a Josefa Valcárcel 48.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
 ### La rebelión del Real Madrid conquista Roma con una remontada
 
@@ -70,13 +70,13 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [El Madrid levanta el pulgar a tiempo en Roma](https://www.abc.es/deportes/real-madrid/madrid-levanta-pulgar-tiempo-roma-20261014230135-nt_amp.html?utm_source=lootura.com) — 2026-10-14T21:01:35.000Z
-- [La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada](https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:54.000Z
-- [Felipe VI pide en Melilla "mirar por una relación de buena vecindad" entre España y Marruecos](https://www.elconfidencial.com/espana/2026-10-14/felipe-vi-relacion-vecindad-espana-marruecos_4444975/?utm_source=lootura.com) — 2026-10-14T16:57:00.000Z
-- [Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital](https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/?utm_source=lootura.com) — 2026-10-14T16:50:00.000Z
+- [Shakira mueve 400 millones de euros durante su residencia en Madrid](https://www.abc.es/gente/shakira-mueve-400-millones-euros-residencia-madrid-20261014170930-nt.html?utm_source=lootura.com) — 2026-10-14T23:43:36.000Z
+- [La acampada de Sol trasladará la Fiesta de la Trashumancia a la Plaza Mayor](https://www.abc.es/espana/madrid/acampada-sol-trasladar-fiesta-trashumancia-plaza-mayor-20261014152921-nt.html?utm_source=lootura.com) — 2026-10-14T23:36:56.000Z
+- [Campamento entra en campaña: las 20.000 viviendas de Sánchez y ZP son un solar con inodoros](https://www.elconfidencial.com/espana/madrid/2026-10-15/campamento-campana-viviendas-sanchez-zp-solar-inodoros_4444251/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
+- [Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año](https://www.elconfidencial.com/espana/madrid/2026-10-15/obras-reforma-gregorio-maranon_4444937/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
+- [La escapada que recorre cinco siglos de historia de la Corona en Madrid](https://www.elconfidencial.com/espana/madrid/2026-10-15/escapada-recorre-historia-corona-madrid-bra_4431698/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
 - [La rebelión del Real Madrid conquista Roma con una remontada](https://www.elcorreo.com/deportes/futbol/liga-campeones/rebelion-real-madrid-conquista-roma-remontada-20261014232604-ntrc_amp.html?utm_source=lootura.com) — 2026-10-14T21:26:05.000Z
 - [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
+- [Sánchez intenta compensar su "podemización" con Robles de número dos y tras quedarse sin una vicepresidenta como 'ticket'](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfd2ec21efa0d8708b4585.html?utm_source=lootura.com) — 2026-10-14T22:58:07.000Z
 - [Vinicius, sancionado sin Clásico, señalado por Mourinho por "un gol ridículo" y enfadado por el cambio: "¿Por qué me quita?"](https://www.elmundo.es/deportes/futbol/2026/10/14/6acfbc2fe4d4d8215d8b4588.html?utm_source=lootura.com) — 2026-10-14T21:24:21.000Z
 - [El Madrid, mejor sin Vinicius, remonta en Roma tras los cambios de Mourinho](https://www.elmundo.es/deportes/futbol/champions-league/2026/10/14/6acff284e9cf4a8e028b45a9.html?utm_source=lootura.com) — 2026-10-14T21:22:14.000Z
-- [El Gobierno de Ayuso señala que la huelga de Educación es “incomprensible” y defiende la actuación policial en la Complutense](https://elpais.com/espana/madrid/2026-10-14/el-gobierno-de-ayuso-senala-que-la-huelga-de-educacion-es-incomprensible-y-defiende-la-actuacion-policial-en-la-complutense.html?utm_source=lootura.com) — 2026-10-14T14:19:20.000Z
-- [Los profesores en huelga pintan de verde el centro de Madrid: “Los gobiernos están abandonando la educación pública”](https://elpais.com/sociedad/2026-10-14/los-profesores-en-huelga-pintan-de-verde-el-centro-de-madrid-los-gobiernos-estan-abandonando-la-educacion-publica.html?utm_source=lootura.com) — 2026-10-14T17:26:32.000Z

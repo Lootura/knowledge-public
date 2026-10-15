@@ -3,14 +3,26 @@
 > Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-party
 
 ## Recent changes
 
+### Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms
+
+The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.
+
+Date: 2026-10-15
+
 ### Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms
 
 Former Vice President Kamala Harris will also rally for Democratic candidates in Georgia and Nevada.
+
+Date: 2026-10-14
+
+### Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms
+
+The latest polling for the upcoming midterms shows a tilt in Democrats' favor. For an inside view of the final weeks of the campaign, Geoff Bennett spoke with Democratic strategist Mo Elleithee and Republican strategist Doug Heye.
 
 Date: 2026-10-14
 
@@ -56,19 +68,9 @@ The bitter fight over a Texas Senate seat that Democrats believe is within reach
 
 Date: 2026-10-08
 
-### 5 House districts where Republicans are looking to turn the tables as Democrats eye big midterm wins
-
-Here's a look at places where a cash bump and prime issues might help the party hold their own on election night.
-
-Date: 2026-10-08
-
-### Justice Democrats announce new executive director
-
-The progressive political action committee Justice Democrats has appointed Rev. Hodari Williams as its new executive director. The change sets the organization up to hone a civil rights message ahead of the 2028 election cycle, Williams told POLITICO. His appointment, shared first with POLITICO, comes at a time when se.
-
-Date: 2026-10-08
-
 ## Sources
 
 - [Kalshi traders betting Democrats will take Senate control](https://www.cbsnews.com/video/kalshi-traders-bet-democrats-senate-control/?utm_source=lootura.com) — 2026-10-14T22:30:47.000Z
+- [Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms](https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms?utm_source=lootura.com) — 2026-10-14T22:30:02.000Z
 - [Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms](https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html?utm_source=lootura.com) — 2026-10-14T16:13:42.000Z
+- [Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms](https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html?utm_source=lootura.com) — 2026-10-15T00:28:58.000Z

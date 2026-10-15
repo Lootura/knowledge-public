@@ -28,5 +28,4 @@ Date: 2026-10-14
 
 ## Sources
 
-- [Five Key Moments From The Times’s Interview With Cornell’s President](https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-takeaways.html?utm_source=lootura.com) — 2026-10-14T03:16:35.000Z
-- [Cornell’s President Acknowledges Missteps in Handling of Rape Accusations](https://www.nytimes.com/2026/10/13/nyregion/cornell-president-interview-missteps.html?utm_source=lootura.com) — 2026-10-14T01:47:58.000Z
+No public source links.

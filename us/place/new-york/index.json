@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-york/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-york/index.json",
   "description": "Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "Capital of the World",
     "Center of the Universe",
@@ -33,6 +33,11 @@
     "the five boroughs"
   ],
   "changes": [
+    {
+      "title": "Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking",
+      "summary": "Federal prosecutors in New York are seeking life sentences for two former luxury real estate brokers and their brother, who were convicted earlier this year of using their influence to drug and sexually abuse women over the course of several years, according to court documents.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
       "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all part.",
@@ -77,19 +82,14 @@
       "title": "Hoping for Better, 3 Years Since Oct. 7",
       "summary": "Rachel Goldberg-Polin speaks during the 2026 TIME100 Summit at on April 22, 2026 in New York City. —Jemal Countess—TIME My name is Rachel. And I will always be the mother of Hersh Goldberg-Polin . Hersh will always be my eldest child. Hersh will always be my only son. And Hersh will always be 23-years-old. As one of th.",
       "date": "2026-10-06"
-    },
-    {
-      "title": "Cornell Case Carries Far-Reaching Implications for Hochul and James",
-      "summary": "The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.",
-      "date": "2026-10-04"
     }
   ],
   "sources": [
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T18:47:54.000Z",
-      "sourceId": "lootura-us-the-verge"
+      "title": "Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking",
+      "url": "https://www.nbcnews.com/news/us-news/prosecutors-seeking-life-sentences-alexander-brothers-rcna603620?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T02:25:54.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

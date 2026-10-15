@@ -3,20 +3,20 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
 
-### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
-
-La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.
-
-Date: 2026-10-14
-
 ### La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"
 
 Un colegio hace votar a sus alumnos de 3º y 4º de la ESO sobre "parar" las clases y "convertir las calles en una pesadilla para los fascistas y clasistas del PP y Ayuso" Leer.
+
+Date: 2026-10-14
+
+### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
+
+La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.
 
 Date: 2026-10-14
 
@@ -70,5 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada](https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:54.000Z
 - [La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"](https://www.elmundo.es/madrid/2026/10/14/6acf546521efa0d0238b4587.html?utm_source=lootura.com) — 2026-10-14T11:09:48.000Z

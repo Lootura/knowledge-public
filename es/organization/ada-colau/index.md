@@ -46,4 +46,4 @@ Date: 2026-10-12
 
 ## Fuentes
 
-- [Colau ofrece renunciar a su candidatura y cambiar el nombre de Frente Amplio para lograr la unidad con Podemos](https://elpais.com/espana/catalunya/2026-10-14/colau-ofrece-renunciar-a-su-candidatura-y-cambiar-el-nombre-de-frente-amplio-para-lograr-la-unidad-con-podemos.html?utm_source=lootura.com) — 2026-10-14T08:55:56.000Z
+No public source links.

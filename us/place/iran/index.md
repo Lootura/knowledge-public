@@ -3,7 +3,7 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
@@ -44,6 +44,12 @@ President Trump’s deal with Russia will probably not lower diesel prices that 
 
 Date: 2026-10-14
 
+### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
+
+President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
+
+Date: 2026-10-14
+
 ### How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid
 
 For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.
@@ -62,12 +68,6 @@ The Iran-backed militia warned it would attack the Saudi energy giant Aramco. Th
 
 Date: 2026-10-13
 
-### Suspected plot at U.S.-run air base almost certainly directed by Iran, UK prime minister says
-
-A suspected plot to attack a U.S.-run military air base in England was "almost certainly" directed by Iran's Revolutionary Guard, British Prime Minister Andy Burnham said Monday.
-
-Date: 2026-10-12
-
 ## Sources
 
 - [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
@@ -76,5 +76,4 @@ Date: 2026-10-12
 - [News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com) — 2026-10-14T22:50:43.000Z
 - [Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say](https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say?utm_source=lootura.com) — 2026-10-14T21:33:30.000Z
 - [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
-- [How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid](https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html?utm_source=lootura.com) — 2026-10-14T09:00:30.000Z
 - [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z

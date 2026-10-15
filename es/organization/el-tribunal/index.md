@@ -70,5 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [El Tribunal de Cuentas se ve obligado a aplicar la ley de amnistía y perdona más de 4 millones a los independentistas por el procés](https://www.elmundo.es/espana/2026/10/14/6acf3bd4fdddffec208b45bd.html?utm_source=lootura.com) — 2026-10-14T08:27:08.000Z
-- [Última hora de la actualidad política, en directo | El Tribunal de Cuentas amnistía a Puigdemont y a otros 34 encausados por gastos del ‘procés’](https://elpais.com/espana/2026-10-14/ultima-hora-de-la-actualidad-politica-en-directo.html?utm_source=lootura.com) — 2026-10-14T09:13:22.000Z
+No public source links.

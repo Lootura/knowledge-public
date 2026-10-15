@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-senate/index.json",
   "description": "Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-13T11:24:39.918Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+      "summary": "At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic.",
+      "date": "2026-10-15"
+    },
     {
       "title": "An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland",
       "summary": "An executive with the Republican super PAC that paid for the ad attacking Troy Jackson, the Democratic Senate candidate in Maine, blamed its vendor for running the ad in Oregon.",
@@ -52,6 +57,13 @@
       "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+      "url": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T02:08:59.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

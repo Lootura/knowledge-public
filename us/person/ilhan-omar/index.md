@@ -58,4 +58,4 @@ Date: 2026-10-12
 
 ## Sources
 
-- [DOJ seized Rep. Omar's phone, subpoenaed family members in immigration status investigation](https://www.nbcnews.com/video/doj-seized-rep-omar-s-phone-subpoenaed-family-members-in-immigration-status-investigation-271588421924?utm_source=lootura.com) — 2026-10-14T21:38:36.000Z
+No public source links.

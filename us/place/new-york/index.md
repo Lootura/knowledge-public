@@ -3,10 +3,16 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
+
+### Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking
+
+Federal prosecutors in New York are seeking life sentences for two former luxury real estate brokers and their brother, who were convicted earlier this year of using their influence to drug and sexually abuse women over the course of several years, according to court documents.
+
+Date: 2026-10-15
 
 ### Now that Character.AI is going bankrupt, what happens to all of its users’ data?
 
@@ -62,12 +68,6 @@ Rachel Goldberg-Polin speaks during the 2026 TIME100 Summit at on April 22, 2026
 
 Date: 2026-10-06
 
-### Cornell Case Carries Far-Reaching Implications for Hochul and James
-
-The decision to intercede by Gov. Kathy Hochul and the New York attorney general, Letitia James, has raised questions of impartiality as both face re-election.
-
-Date: 2026-10-04
-
 ## Sources
 
-- [Now that Character.AI is going bankrupt, what happens to all of its users’ data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy?utm_source=lootura.com) — 2026-10-14T18:47:54.000Z
+- [Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking](https://www.nbcnews.com/news/us-news/prosecutors-seeking-life-sentences-alexander-brothers-rcna603620?utm_source=lootura.com) — 2026-10-15T02:25:54.000Z

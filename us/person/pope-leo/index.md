@@ -3,10 +3,16 @@
 > Follow Pope Leo, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/person/pope-leo
 
 ## Recent changes
+
+### Pope's cancer prognosis may depend on these factors, doctors say
+
+Pope Leo XIV was diagnosed with lung cancer after a surgery that removed a nodular lesion from his right lung, the Vatican said.
+
+Date: 2026-10-15
 
 ### Pope Leo has lung cancer, the Vatican says
 
@@ -50,9 +56,9 @@ Pope Leo XIV was diagnosed with a common form of lung cancer on Tuesday. The Vat
 
 Date: 2026-10-14
 
-### Doctors discuss Pope Leo's lung cancer diagnosis
+### Pope Leo recovers after lung surgery
 
-The Vatican announced that Pope Leo XIV was diagnosed with lung cancer on Tuesday, following a surgery he had on his right lung. Doctors and medical experts spoke with CBS News about the potential prognosis.
+There are new details about Pope Leo’s recovery following his lung cancer diagnosis. Doctors say he is progressing as expected. NBC News’ Anne Thompson reports from Rome.
 
 Date: 2026-10-14
 
@@ -62,14 +68,10 @@ Pope Leo XIV, the first American pope, has been diagnosed with lung cancer after
 
 Date: 2026-10-13
 
-### Lung doctor explains Pope Leo's cancer diagnosis, operation
-
-Pope Leo was diagnosed with of lung cancer following a surgical operation on Tuesday, the Vatican said. Dr. Charles Powell, chief of pulmonary, critical care & sleep medicine at Mount Sinai and director of the Mount Sinai Respiratory Institute, joins "The Daily Report" to explain what could happen next.
-
-Date: 2026-10-13
-
 ## Sources
 
+- [Pope's cancer prognosis may depend on these factors, doctors say](https://www.cbsnews.com/news/pope-leo-lung-cancer-prognosis-doctors/?utm_source=lootura.com) — 2026-10-15T00:34:04.000Z
+- [Pope Leo recovers after lung surgery](https://www.nbcnews.com/nightly-news/video/pope-leo-recovers-after-lung-surgery-271593541966?utm_source=lootura.com) — 2026-10-14T22:56:11.000Z
 - [Pope Leo has lung cancer, the Vatican says](https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says?utm_source=lootura.com) — 2026-10-14T08:43:10.000Z
 - [Morning news brief](https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief?utm_source=lootura.com) — 2026-10-14T08:49:42.000Z
 - [Pope Leo is eating and recovering after cancer surgery, doctors say](https://www.pbs.org/newshour/world/pope-leo-is-eating-and-recovering-after-cancer-surgery-doctors-say?utm_source=lootura.com) — 2026-10-14T13:59:50.000Z

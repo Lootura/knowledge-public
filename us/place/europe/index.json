@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
@@ -58,18 +63,13 @@
       "title": "Europe’s Trade Tensions With China Are Coming to a Head",
       "summary": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.",
       "date": "2026-10-08"
-    },
-    {
-      "title": "Anker’s 100W universal charger is a great travel gadget for $64",
-      "summary": "The Anker Nano 100W travel adapter with its folding prongs. | Image: Anker For frequent travelers who like to pack light, the Anker Nano 100W universal travel adapter packs multiple USB ports and is equipped with the ability to adapt to outlets in over 200 countries and regions with its US, UK and EU plugs. During Octo.",
-      "date": "2026-10-06"
     }
   ],
   "sources": [
     {
       "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "url": "https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:58:37.676Z",
+      "publishedAt": "2026-10-15T03:09:48.969Z",
       "sourceId": "lootura-us-nature"
     }
   ],

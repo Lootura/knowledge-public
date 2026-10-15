@@ -52,4 +52,4 @@ Date: 2026-10-10
 
 ## Sources
 
-- [Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access](https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access?utm_source=lootura.com) — 2026-10-14T21:08:52.000Z
+No public source links.

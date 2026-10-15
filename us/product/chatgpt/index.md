@@ -3,7 +3,7 @@
 > Follow ChatGPT, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/product/chatgpt
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety?utm_source=lootura.com) — 2026-10-14T21:11:28.000Z
+- [OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves](https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/?utm_source=lootura.com) — 2026-10-15T00:24:03.000Z

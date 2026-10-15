@@ -3,10 +3,28 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
+
+### Trump announces new Defense Department 'super range' for Montana
+
+During a rally in Montana, President Trump announced that the state will receive a new Defense Department 'super range' for testing advanced weapons and technologies.
+
+Date: 2026-10-15
+
+### The Trump Administration and the Shrinking Number of Women in Top Roles
+
+In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.
+
+Date: 2026-10-15
+
+### Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms
+
+The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.
+
+Date: 2026-10-15
 
 ### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
@@ -23,24 +41,6 @@ Date: 2026-10-14
 ### Breaking down September's CPI report as inflation rises to 3.7%
 
 Inflation accelerated to 3.7% in September as energy costs soared amid President Trump's war with Iran, a new CPI report shows. CBS News reporter Emily Pandise has more.
-
-Date: 2026-10-14
-
-### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
-
-Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
-
-Date: 2026-10-14
-
-### Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate
-
-With a close race in Michigan, Republican Senate candidate Mike Rogers resisted accusations he would be a ‘rubber stamp’ to the president’s agenda. He speaks to Tom Llamas on Nightly News tonight.
-
-Date: 2026-10-14
-
-### ‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman
-
-Retiring Rep. Dusty Johnson (R-S.D.) joins Meet the Press NOW to share his confidence in Republicans holding onto Congress in the midterms and his distaste for President Trump’s diesel deal with Russia.
 
 Date: 2026-10-14
 
@@ -73,10 +73,10 @@ Date: 2026-10-14
 - [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
 - [U.S. blasts "embarrassing" complaint against Lebanon's ambassador](https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/?utm_source=lootura.com) — 2026-10-14T16:04:49.000Z
 - [Breaking down September's CPI report as inflation rises to 3.7%](https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com) — 2026-10-14T22:34:05.000Z
-- [Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure](https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com) — 2026-10-14T12:51:09.000Z
-- [Mike Rogers dismisses criticism he’d be ‘rubber stamp’ for Trump in Senate](https://www.nbcnews.com/nightly-news/video/mike-rogers-dismisses-criticism-he-d-be-rubber-stamp-for-trump-in-senate-271586373618?utm_source=lootura.com) — 2026-10-14T21:19:02.000Z
-- [‘Republican wave’ unlikely but House GOP can ‘hold their own,’ says outgoing congressman](https://www.nbcnews.com/meet-the-press/video/-republican-wave-unlikely-but-house-gop-can-hold-their-own-says-outgoing-congressman-271586373540?utm_source=lootura.com) — 2026-10-14T21:05:25.000Z
+- [Trump announces new Defense Department 'super range' for Montana](https://www.nbcnews.com/video/trump-announces-new-defense-department-super-range-for-montana-271605829612?utm_source=lootura.com) — 2026-10-15T02:47:01.000Z
 - [CNN, MS NOW and Politico prevail against White House — for now](https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com) — 2026-10-14T07:16:02.000Z
+- [How immigration policies shaped America and evolved throughout its history](https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history?utm_source=lootura.com) — 2026-10-14T22:25:29.000Z
 - [Attorney for banned outlets on legal fight over White House press access](https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access?utm_source=lootura.com) — 2026-10-14T22:40:27.000Z
 - [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house?utm_source=lootura.com) — 2026-10-14T15:27:37.000Z
+- [Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms](https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms?utm_source=lootura.com) — 2026-10-14T22:30:02.000Z
 - [‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection](https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073?utm_source=lootura.com) — 2026-10-14T18:18:37.000Z

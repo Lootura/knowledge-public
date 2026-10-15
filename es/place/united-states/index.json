@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,13 +44,18 @@
   ],
   "changes": [
     {
-      "title": "El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE",
-      "summary": "El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.",
+      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
+      "summary": "Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.",
       "date": "2026-10-14"
     },
     {
-      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
-      "summary": "Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.",
+      "title": "Barclays avisa del 'riesgo Vox' para el coste de la deuda de España",
+      "summary": "La relativa tranquilidad con que los inversores esperan las próximas elecciones generales en España tiene su reflejo en la última encuesta de Bank of America a los gestores internacionales de fondos, que colocan al Ibex como su parqué preferido en Europa para los próximos 12 meses . Seguir leyendo.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE",
+      "summary": "El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.",
       "date": "2026-10-14"
     },
     {
@@ -87,25 +92,20 @@
       "title": "EEUU aprovecha el 12-O para pedir a España que tenga unas fronteras «sólidas y seguras»",
       "summary": "El secretario de Estado de Estados Unidos, Marco Rubio, ha instado a España a «tomar medidas significativas» para «mantener fronteras sólidas y seguras»,.",
       "date": "2026-10-12"
-    },
-    {
-      "title": "Expulsiones gemelas: el tirón de pelo de Athenea del Castillo, minutos antes que el de Vinicius",
-      "summary": "Certifica su categoría la selección española de fútbol capitaneada por Sonia Bermúdez con una victoria de entidad ante Estados Unidos por 0-2 en el Audi Field de Washington. Destacó la labor de Patri Guijarro y Eva Navarro, con sus goles, y también la de Adriana Nanclares, con sus paradas; en la parte negativa, la de A.",
-      "date": "2026-10-11"
     }
   ],
   "sources": [
-    {
-      "title": "El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE",
-      "url": "https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T19:36:12.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
       "url": "https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T22:07:57.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "Barclays avisa del 'riesgo Vox' para el coste de la deuda de España",
+      "url": "https://www.expansion.com/mercados/2026/10/14/6acf966be5fdead9198b45b2.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T18:50:30.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
   "evidenceCount": 2

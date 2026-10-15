@@ -3,7 +3,7 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
@@ -70,4 +70,5 @@ Date: 2026-09-16
 
 ## Sources
 
+- [OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves](https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/?utm_source=lootura.com) — 2026-10-15T00:24:03.000Z
 - [FBI arrests OpenAI engineer for allegedly planting bug in office](https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/?utm_source=lootura.com) — 2026-10-14T14:24:29.000Z

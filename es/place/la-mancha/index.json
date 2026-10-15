@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
     {
-      "title": "Un afectado tras el incendio originado en la puerta de una vivienda de Talavera",
-      "summary": "Un hombre de 44 años ha resultado afectado por inhalación de humo este miércoles a consecuencia del incendio originado en la puerta de la vivienda de un bloque de pisos de la calle Segurilla , en Talavera de la Reina .Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa.",
+      "title": "Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)",
+      "summary": "Un hombre de 64 años ha resultado herido este miércoles al reventarle un neumático mientras trabajaba en un taller ubicado en la Travesía del Desvío , en Añover de Tajo ( Toledo ). Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el aviso del suceso se ha re.",
       "date": "2026-10-14"
     },
     {
-      "title": "Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)",
-      "summary": "Un hombre de 64 años ha resultado herido este miércoles al reventarle un neumático mientras trabajaba en un taller ubicado en la Travesía del Desvío , en Añover de Tajo ( Toledo ). Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el aviso del suceso se ha re.",
+      "title": "Un afectado tras el incendio originado en la puerta de una vivienda de Talavera",
+      "summary": "Un hombre de 44 años ha resultado afectado por inhalación de humo este miércoles a consecuencia del incendio originado en la puerta de la vivienda de un bloque de pisos de la calle Segurilla , en Talavera de la Reina .Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa.",
       "date": "2026-10-14"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "Un afectado tras el incendio originado en la puerta de una vivienda de Talavera",
-      "url": "https://www.elconfidencial.com/espana/2026-10-14/incendio-vivienda-talavera-humo-1tna-1tps_4445011/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T16:38:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
       "title": "Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)",
       "url": "https://www.elconfidencial.com/espana/2026-10-14/herido-reventon-neumatico-taller-toledo-1tna-1tps_4445162/?utm_source=lootura.com",
       "publishedAt": "2026-10-14T19:14:00.000Z",
       "sourceId": "lootura-es-el-confidencial"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

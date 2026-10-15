@@ -3,7 +3,7 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [A Trump Backlash Endangers Susan Collins in the Maine Senate Race](https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html?utm_source=lootura.com) — 2026-10-14T12:26:57.000Z
 - [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z

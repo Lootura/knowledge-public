@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -47,6 +47,11 @@
       "date": "2026-10-14"
     },
     {
+      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+      "summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+      "date": "2026-10-14"
+    },
+    {
       "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
       "summary": "For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.",
       "date": "2026-10-14"
@@ -60,11 +65,6 @@
       "title": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
       "summary": "The Iran-backed militia warned it would attack the Saudi energy giant Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Suspected plot at U.S.-run air base almost certainly directed by Iran, UK prime minister says",
-      "summary": "A suspected plot to attack a U.S.-run military air base in England was \"almost certainly\" directed by Iran's Revolutionary Guard, British Prime Minister Andy Burnham said Monday.",
-      "date": "2026-10-12"
     }
   ],
   "sources": [
@@ -102,13 +102,7 @@
       "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
       "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T21:25:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    },
-    {
-      "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
-      "url": "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T09:00:30.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "sourceId": "lootura-us-the-new-york-times"
     },
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",

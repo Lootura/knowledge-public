@@ -3,10 +3,16 @@
 > Sigue la actividad de La Fiscalía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/person/la-fiscalia
 
 ## Cambios recientes
+
+### Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York
+
+La Fiscalía estadounidense acusa al exmandatario y a su esposa de torturas y crímenes de lesa humanidad.
+
+Date: 2026-10-15
 
 ### La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias
 
@@ -62,13 +68,8 @@ La Fiscalía sostiene que pretendía aprovechar comercialmente la información o
 
 Date: 2026-10-06
 
-### La Audiencia Nacional recurre el tercer grado concedido por el Gobierno Vasco al etarra Henri Parot
-
-La Fiscalía considera que la aprobación de la progresión por la consejería de la socialista San José resulta «prematura en el momento actual y no se ajusta plenamente» a los criterios legales que rigen la clasificación penitenciaria.
-
-Date: 2026-09-16
-
 ## Fuentes
 
+- [Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York](https://www.abc.es/internacional/juez-nueva-york-cita-declarar-jueves-nicolas-20261015023147-nt_amp.html?utm_source=lootura.com) — 2026-10-15T00:31:47.000Z
 - [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com) — 2026-10-14T17:38:47.000Z
 - [La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual](https://theobjective.com/espana/tribunales/2026-10-14/fiscalia-investiga-julio-iglesias-agresion-sexual/?utm_source=lootura.com) — 2026-10-14T20:42:30.000Z

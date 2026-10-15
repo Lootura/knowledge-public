@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/el-consejo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/el-consejo/index.json",
   "description": "Sigue la actividad de El Consejo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T11:24:20.634Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año",
+      "summary": "El Consejo de Gobierno de la Comunidad de Madrid ha aprobado este miércoles la adjudicación, por 60 millones de euros , de las obras correspondientes a la primera fase (Fase 0) de la reforma integral del Hospital público Gregorio Marañón , que arrancarán antes de que finalice este año. La intervención se concentrará en.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Es oficial: la Comunidad de Madrid recupera en 2027 un festivo que llevaba cuatro años sin celebrarse",
       "summary": "El Consejo de Gobierno regional ha puesto en marcha un decreto que establece los días festivos de 2027 en la Comunidad de Madrid.",
@@ -55,13 +60,15 @@
       "title": "El Gobierno desclasificará este martes los informes que recibió sobre Ceuta entre el 1 de julio y el 1 de agosto",
       "summary": "El Consejo de Ministros desclasificará este martes “todos los informes de situación y alerta” elaborados por el Centro Nacional de Inteligencia (CNI), la inteligencia militar, la Policía Nacional, la Guardia Civil y otros organismos competentes que el Gobierno recibió entre el 1 de julio y el 1 de agosto sobre la presi.",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
-      "summary": "Volkswagen vuelve a arrancar en Bolsa. El mayor fabricante europeo de automóviles inicia ya una nueva etapa una vez aprobado su plan de reestructuración , uno de los de mayor dimensión de los últimos años en la industria europea. El Consejo de Supervisión del Grupo Volkswagen aprobó por unanimidad un plan de ajuste que.",
-      "date": "2026-09-04"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-10-15/obras-reforma-gregorio-maranon_4444937/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

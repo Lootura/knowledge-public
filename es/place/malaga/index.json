@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/malaga/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/malaga/index.json",
   "description": "Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T11:24:20.634Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Málaga reformará la ZBE tras el revés judicial y deja más de 46.000 multas en el aire",
+      "summary": "Las cámaras de la Zona de Bajas Emisiones (ZBE) de Málaga no volverán a poner multas. Al menos hasta que el ayuntamiento modifique la ordenanza que la regula tras sufrir un revés judicial. ¿El motivo? Que los coches y motos sin etiqueta medioambiental registrados en la ciudad podían circular por esta área sin ser sanci.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Los Reyes se vuelcan con los ceutíes en un efusivo y largo saludo antes de su recepción en el Ayuntamiento",
       "summary": "Los reyes Felipe VI y Letizia están ya en Ceuta. Tras aterrizar su helicóptero procedente de Málaga, se han desplazado al Palacio de la Asamblea, donde han saludado, charlado y se han dejado fotografiar durante más de veinte minutos con varios centenares de ceutíes congregados desde primera hora de la mañana a las puer.",
@@ -55,13 +60,15 @@
       "title": "Andalucía envía un mensaje ES-Alert a la población de Benahavís, confinada ante la evolución de un incendio",
       "summary": "La Agencia de Emergencias de Andalucía (EMA) ha enviado un mensaje Es-Alert a la población de Benahavís (Málaga) ante la evolución del incendio forestal declarado este domingo, 13 de septiembre, sobre las 13,07 horas de la tarde, que ha provocado el confinamiento preventivo de varias zonas de la localidad malagueña y l.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Elevada a fase de emergencia 1 el incendio de Málaga y provoca confinamiento preventivo",
-      "summary": "El consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, Antonio Sanz, en su condición de director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), ha elevado este domingo, alrededor de las 14,00 horas, a fase de emergencia, situación operativa 1, el incendio.",
-      "date": "2026-09-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Málaga reformará la ZBE tras el revés judicial y deja más de 46.000 multas en el aire",
+      "url": "https://www.elconfidencial.com/espana/andalucia/2026-10-15/malaga-reformara-la-zbe-tras-el-reves-del-tsja-y-deja-mas-de-46-000-multas-en-el-aire_4444989/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

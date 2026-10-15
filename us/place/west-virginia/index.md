@@ -64,4 +64,4 @@ Date: 2026-07-23
 
 ## Sources
 
-- [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety?utm_source=lootura.com) — 2026-10-14T21:11:28.000Z
+No public source links.

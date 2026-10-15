@@ -3,20 +3,20 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
 
-### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
-
-La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
-
-Date: 2026-10-14
-
 ### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
 
 Tras el choque de versiones en el seno del Gobierno por la crisis desencadenada a raíz de la llegada masiva de inmigrantes a Ceuta, Pedro Sánchez ha aupado a Margarita Robles...
+
+Date: 2026-10-14
+
+### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
+
+La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
 
 Date: 2026-10-14
 
@@ -70,6 +70,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital](https://www.elconfidencial.com/espana/2026-10-14/psoe-madrid-margarita-robles-elecciones-1tps_4445010/?utm_source=lootura.com) — 2026-10-14T16:50:00.000Z
 - [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
-- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z

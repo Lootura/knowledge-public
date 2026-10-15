@@ -3,10 +3,16 @@
 > Sigue la actividad de Málaga en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-13T11:24:20.634Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/malaga
 
 ## Cambios recientes
+
+### Málaga reformará la ZBE tras el revés judicial y deja más de 46.000 multas en el aire
+
+Las cámaras de la Zona de Bajas Emisiones (ZBE) de Málaga no volverán a poner multas. Al menos hasta que el ayuntamiento modifique la ordenanza que la regula tras sufrir un revés judicial. ¿El motivo? Que los coches y motos sin etiqueta medioambiental registrados en la ciudad podían circular por esta área sin ser sanci.
+
+Date: 2026-10-15
 
 ### Los Reyes se vuelcan con los ceutíes en un efusivo y largo saludo antes de su recepción en el Ayuntamiento
 
@@ -62,12 +68,6 @@ La Agencia de Emergencias de Andalucía (EMA) ha enviado un mensaje Es-Alert a l
 
 Date: 2026-09-13
 
-### Elevada a fase de emergencia 1 el incendio de Málaga y provoca confinamiento preventivo
-
-El consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, Antonio Sanz, en su condición de director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), ha elevado este domingo, alrededor de las 14,00 horas, a fase de emergencia, situación operativa 1, el incendio.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-No public source links.
+- [Málaga reformará la ZBE tras el revés judicial y deja más de 46.000 multas en el aire](https://www.elconfidencial.com/espana/andalucia/2026-10-15/malaga-reformara-la-zbe-tras-el-reves-del-tsja-y-deja-mas-de-46-000-multas-en-el-aire_4444989/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z

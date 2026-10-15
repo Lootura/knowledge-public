@@ -8,20 +8,20 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/la-comunidad/index.json",
   "description": "Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "Common Wealth",
     "Comunidad"
   ],
   "changes": [
     {
-      "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
-      "summary": "La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.",
+      "title": "La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: \"No quieren paz ni en las calles ni en las aulas\"",
+      "summary": "Un colegio hace votar a sus alumnos de 3º y 4º de la ESO sobre \"parar\" las clases y \"convertir las calles en una pesadilla para los fascistas y clasistas del PP y Ayuso\" Leer.",
       "date": "2026-10-14"
     },
     {
-      "title": "La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: \"No quieren paz ni en las calles ni en las aulas\"",
-      "summary": "Un colegio hace votar a sus alumnos de 3º y 4º de la ESO sobre \"parar\" las clases y \"convertir las calles en una pesadilla para los fascistas y clasistas del PP y Ayuso\" Leer.",
+      "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
+      "summary": "La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.",
       "date": "2026-10-14"
     },
     {
@@ -67,17 +67,11 @@
   ],
   "sources": [
     {
-      "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
-      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T19:31:54.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
       "title": "La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: \"No quieren paz ni en las calles ni en las aulas\"",
       "url": "https://www.elmundo.es/madrid/2026/10/14/6acf546521efa0d0238b4587.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T11:09:48.000Z",
       "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

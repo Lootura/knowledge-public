@@ -70,4 +70,4 @@ Date: 2026-09-10
 
 ## Fuentes
 
-- [Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox](https://www.20minutos.es/aragon/zaragoza/sanchez-promete-zaragoza-cuatro-anos-mas-revalorizacion-las-pensiones-conforme-ipc_7048889_0.html?utm_source=lootura.com) — 2026-10-14T18:47:36.000Z
+No public source links.

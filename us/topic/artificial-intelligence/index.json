@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/topic/artificial-intelligence/index.json",
   "description": "Follow Artificial intelligence, a tracked topic, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "AI",
     "AI science",
@@ -28,13 +28,13 @@
   ],
   "changes": [
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all part.",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal . The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their.",
       "date": "2026-10-14"
     },
     {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal . The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their.",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all part.",
       "date": "2026-10-14"
     },
     {
@@ -80,16 +80,10 @@
   ],
   "sources": [
     {
-      "title": "FBI arrests OpenAI engineer for allegedly planting bug in office",
-      "url": "https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T14:24:29.000Z",
+      "title": "OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves",
+      "url": "https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T00:24:03.000Z",
       "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T18:47:54.000Z",
-      "sourceId": "lootura-us-the-verge"
     },
     {
       "title": "McKinsey is making job applicants spar with a fake AI client",
@@ -98,5 +92,5 @@
       "sourceId": "lootura-us-the-verge"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

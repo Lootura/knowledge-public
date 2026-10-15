@@ -3,10 +3,16 @@
 > Follow Democratic Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-13T11:24:39.918Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/organization/democratic-senate
 
 ## Recent changes
+
+### Vance’s Talarico Attacks Show His Penchant for Personal Broadsides
+
+At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic.
+
+Date: 2026-10-15
 
 ### An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland
 
@@ -58,4 +64,4 @@ Date: 2026-07-19
 
 ## Sources
 
-No public source links.
+- [Vance’s Talarico Attacks Show His Penchant for Personal Broadsides](https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html?utm_source=lootura.com) — 2026-10-15T02:08:59.000Z

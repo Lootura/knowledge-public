@@ -70,5 +70,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [Qué ministros irán en las listas al Congreso y quiénes no repetirán](https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html?utm_source=lootura.com) — 2026-10-14T16:54:02.000Z
-- [Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso](https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html?utm_source=lootura.com) — 2026-10-14T18:17:51.000Z
+No public source links.

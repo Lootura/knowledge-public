@@ -3,20 +3,20 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
 
-### Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela
-
-Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.
-
-Date: 2026-10-14
-
 ### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
 Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.
+
+Date: 2026-10-14
+
+### Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela
+
+Donald Trump ha levantado este miércoles por sorpresa las sanciones personales que pesaban sobre Jorge Rodríguez, presidente de la Asamblea Nacional venezolana y uno de los principales interlocutores del régimen de Delcy Rodríguez en las conversaciones políticas con la oposición. La decisión ha sido publicada por la Of.
 
 Date: 2026-10-14
 
@@ -70,5 +70,4 @@ Date: 2026-10-11
 
 ## Fuentes
 
-- [Trump levanta las sanciones a Jorge Rodríguez, hermano de la presidenta Delcy y número dos de Venezuela](https://www.abc.es/internacional/trump-levanta-sanciones-jorge-rodriguez-hermano-delcy-20261014162847-nt.html?utm_source=lootura.com) — 2026-10-14T19:31:23.000Z
 - [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z

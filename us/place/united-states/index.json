@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/united-states/index.json",
   "description": "Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [
     "America",
     "Estados Unidos",
@@ -37,8 +37,18 @@
   "changes": [
     {
       "title": "Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots",
-      "summary": "The Justice Department has ordered California to review a list of people whom the federal government believes may have received mail-in ballots for the upcoming election despite not being U.S. citizens.",
-      "date": "2026-10-14"
+      "summary": "The Justice Department has ordered California to review a list of people who the federal government believes may have received mail-in ballots for the upcoming election despite not being U.S. citizens.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
+      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Growing plane and ship traffic degrade the air of western North America",
+      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
+      "date": "2026-10-15"
     },
     {
       "title": "U.S. blasts \"embarrassing\" complaint against Lebanon's ambassador",
@@ -48,16 +58,6 @@
     {
       "title": "Inflation climbs in September as energy prices soar, CPI report shows",
       "summary": "U.S. inflation rose higher than economists predicted amid high energy prices, the most recent Consumer Price Index report shows. Axios markets reporter Matt Phillips shares his thoughts.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Growing plane and ship traffic degrade the air of western North America",
-      "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
       "date": "2026-10-14"
     },
     {
@@ -90,7 +90,7 @@
     {
       "title": "Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots",
       "url": "https://www.cbsnews.com/news/justice-department-california-noncitizens-mail-ballots/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T16:09:31.000Z",
+      "publishedAt": "2026-10-15T02:34:20.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
@@ -108,13 +108,13 @@
     {
       "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "url": "https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:58:37.676Z",
+      "publishedAt": "2026-10-15T03:09:48.969Z",
       "sourceId": "lootura-us-nature"
     },
     {
       "title": "Growing plane and ship traffic degrade the air of western North America",
       "url": "https://www.nature.com/articles/d41586-026-03239-0?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:58:37.676Z",
+      "publishedAt": "2026-10-15T03:09:48.968Z",
       "sourceId": "lootura-us-nature"
     },
     {
@@ -130,6 +130,12 @@
       "sourceId": "lootura-us-npr"
     },
     {
+      "title": "How immigration policies shaped America and evolved throughout its history",
+      "url": "https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:25:29.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
       "title": "South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit",
       "url": "https://www.pbs.org/newshour/world/south-americans-pray-for-pope-leos-recovery-as-uncertainty-hangs-over-his-visit?utm_source=lootura.com",
       "publishedAt": "2026-10-14T22:07:01.000Z",
@@ -140,13 +146,7 @@
       "url": "https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com",
       "publishedAt": "2026-10-14T16:09:18.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T20:22:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 12
+  "evidenceCount": 13
 }

@@ -3,20 +3,26 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
 
-### El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE
-
-El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.
-
-Date: 2026-10-14
-
 ### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
 Presenta hoy en Donostia el libro 'A 55 millas por hora', un viaje por las raíces hispanas de Estados Unidos y su historia olvidada.
+
+Date: 2026-10-14
+
+### Barclays avisa del 'riesgo Vox' para el coste de la deuda de España
+
+La relativa tranquilidad con que los inversores esperan las próximas elecciones generales en España tiene su reflejo en la última encuesta de Bank of America a los gestores internacionales de fondos, que colocan al Ibex como su parqué preferido en Europa para los próximos 12 meses . Seguir leyendo.
+
+Date: 2026-10-14
+
+### El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE
+
+El Gobierno ha indicado que las tasas y restricciones sobre el comercio marítimo propuestas por Estados Unidos contra España no entran dentro de las competencias bilaterales entre ambos países, sino que atañen a las relaciones entre Estados Unidos y la Unión Europea, por lo que ha asegurado que defenderá sus intereses.
 
 Date: 2026-10-14
 
@@ -62,13 +68,7 @@ El secretario de Estado de Estados Unidos, Marco Rubio, ha instado a España a �
 
 Date: 2026-10-12
 
-### Expulsiones gemelas: el tirón de pelo de Athenea del Castillo, minutos antes que el de Vinicius
-
-Certifica su categoría la selección española de fútbol capitaneada por Sonia Bermúdez con una victoria de entidad ante Estados Unidos por 0-2 en el Audi Field de Washington. Destacó la labor de Patri Guijarro y Eva Navarro, con sus goles, y también la de Adriana Nanclares, con sus paradas; en la parte negativa, la de A.
-
-Date: 2026-10-11
-
 ## Fuentes
 
-- [El Gobierno alega que los aranceles y el resto de restricciones propuestas por EEUU sobre los barcos españoles competen a la UE](https://www.20minutos.es/nacional/gobierno-alega-que-los-aranceles-resto-medidas-propuestas-por-eeuu-sobre-los-barcos-espanoles-competen-ue_7048903_0.html?utm_source=lootura.com) — 2026-10-14T19:36:12.000Z
 - [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
+- [Barclays avisa del 'riesgo Vox' para el coste de la deuda de España](https://www.expansion.com/mercados/2026/10/14/6acf966be5fdead9198b45b2.html?utm_source=lootura.com) — 2026-10-14T18:50:30.000Z

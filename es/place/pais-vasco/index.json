@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/pais-vasco/index.json",
   "description": "Sigue la actividad de País Vasco en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T03:09:30.972Z",
   "aliases": [
     "Autonomous Community of the Basque Country",
     "Basque Autonomous Community",
@@ -80,13 +80,7 @@
       "url": "https://www.diariovasco.com/economia/ipc-gipuzkoa-euskadi-precio-carburantes-septiembre-20261014092403-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T07:31:24.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Patxi López repite como cabeza de lista del PSOE al Congreso por el País Vasco",
-      "url": "https://theobjective.com/espana/politica/2026-10-14/patxi-lopez-cabeza-lista-psoe-pais-vasco/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T15:56:00.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -8,27 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T03:09:45.092Z",
   "aliases": [],
   "changes": [
-    {
-      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
-      "summary": "Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.",
-      "date": "2026-10-14"
-    },
     {
       "title": "How Starlink disruptions affected Ukraine's battlefield operations",
       "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.",
       "date": "2026-10-14"
     },
     {
-      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.",
+      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
       "date": "2026-10-14"
     },
     {
-      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-      "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
+      "summary": "Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
+      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.",
       "date": "2026-10-14"
     },
     {
@@ -64,22 +64,10 @@
   ],
   "sources": [
     {
-      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T12:51:09.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
       "title": "How Starlink disruptions affected Ukraine's battlefield operations",
       "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com",
       "publishedAt": "2026-10-14T22:45:37.000Z",
       "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:08:52.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
     },
     {
       "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
@@ -88,5 +76,5 @@
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 2
 }

@@ -3,16 +3,10 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
-
-### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
-
-Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
-
-Date: 2026-10-14
 
 ### How Starlink disruptions affected Ukraine's battlefield operations
 
@@ -20,15 +14,21 @@ A key component of Ukraine's communications network was partially disabled on We
 
 Date: 2026-10-14
 
-### Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access
-
-Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.
-
-Date: 2026-10-14
-
 ### What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
 
 For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.
+
+Date: 2026-10-14
+
+### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
+
+Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
+
+Date: 2026-10-14
+
+### Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access
+
+Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.
 
 Date: 2026-10-14
 
@@ -70,7 +70,5 @@ Date: 2026-10-06
 
 ## Sources
 
-- [Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure](https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412?utm_source=lootura.com) — 2026-10-14T12:51:09.000Z
 - [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
-- [Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access](https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access?utm_source=lootura.com) — 2026-10-14T21:08:52.000Z
 - [What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?](https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com) — 2026-10-14T22:20:50.000Z

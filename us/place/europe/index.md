@@ -3,10 +3,16 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T22:58:32.075Z
+- Updated: 2026-10-15T03:09:45.092Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Will my lack of country-specific grants limit my chances of employment abroad?
+
+Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.
+
+Date: 2026-10-15
 
 ### Will my lack of country-specific grants limit my chances of employment abroad?
 
@@ -62,12 +68,6 @@ The European Union is weighing tougher trade measures as negotiators prepare to 
 
 Date: 2026-10-08
 
-### Anker’s 100W universal charger is a great travel gadget for $64
-
-The Anker Nano 100W travel adapter with its folding prongs. | Image: Anker For frequent travelers who like to pack light, the Anker Nano 100W universal travel adapter packs multiple USB ports and is equipped with the ability to adapt to outlets in over 200 countries and regions with its US, UK and EU plugs. During Octo.
-
-Date: 2026-10-06
-
 ## Sources
 
-- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-14T22:58:37.676Z
+- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-15T03:09:48.969Z

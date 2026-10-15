@@ -3,7 +3,7 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T03:09:30.972Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
@@ -17,6 +17,12 @@ Date: 2026-10-14
 ### Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas
 
 Alberto Núñez Feijóo concede una “gravedad extraordinaria” a la información, desvelada por EL PAÍS, de que buques de la Marina Real de Marruecos navegaron sin pedir autorización por aguas de soberanía española coincidiendo con la entrada masiva de inmigrantes del pasado 30 y 31 de julio. El líder del PP reclama al pres.
+
+Date: 2026-10-14
+
+### Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave
+
+Cambiará los primeros puestos de las candidaturas en Barcelona, Valencia, Zaragoza, Pontevedra o Vizcaya Leer.
 
 Date: 2026-10-14
 
@@ -62,13 +68,8 @@ El estreno de la magnífica película de Javier Ambrossi y Javier Calvo La bola 
 
 Date: 2026-10-12
 
-### El PP celebra el rechazo del Supremo a la ‘ley de nietos’: «Limita la irresponsabilidad»
-
-El Partido Popular ha celebrado el rechazo del Tribunal Supremo (TS) al recurso del Gobierno que reclamaba levantar la suspensión cautelar de la ‘ ley de nietos ‘. El presidente del PP, Alberto Núñez Feijóo, ha afirmado que la decisión del Supremo pone «límite a la irresponsabilidad del Gobierno». Así lo ha afirmado Fe.
-
-Date: 2026-10-12
-
 ## Fuentes
 
 - [El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"](https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/?utm_source=lootura.com) — 2026-10-14T17:04:00.000Z
+- [Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html?utm_source=lootura.com) — 2026-10-14T20:43:19.000Z
 - [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z
