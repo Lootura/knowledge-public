@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T06:24:02.590Z",
+  "generatedAt": "2026-10-15T16:35:09.981Z",
   "radar": {
     "id": "usa",
     "slug": "us",
     "locale": "en"
   },
   "state": {
-    "signature": "1.18.0|203|1792033785092",
+    "signature": "1.18.0|204|1792081078047",
     "version": "1.18.0",
-    "build": 203,
-    "latestEntityUpdatedAt": "2026-10-15T03:09:45.092Z"
+    "build": 204,
+    "latestEntityUpdatedAt": "2026-10-15T16:17:58.047Z"
   },
   "atlas": {
     "hero": {
@@ -20,9 +20,9 @@
       "title": "Attorney for banned outlets on legal fight over White House press access",
       "url": "https://atlas.lootura.com/us/organization/white-house",
       "path": "/us/organization/white-house",
-      "updatedAt": "2026-10-15T03:09:45.092Z",
-      "score": 1665,
-      "sourceCount": 204,
+      "updatedAt": "2026-10-15T16:17:58.047Z",
+      "score": 1671,
+      "sourceCount": 206,
       "isBreaking": false,
       "isPinned": false
     },
@@ -31,55 +31,55 @@
         "id": "usa-donald-trump",
         "name": "Donald Trump",
         "type": "person",
-        "title": "Trump announces new Defense Department 'super range' for Montana",
+        "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
         "url": "https://atlas.lootura.com/us/person/donald-trump",
         "path": "/us/person/donald-trump",
-        "updatedAt": "2026-10-15T03:09:45.092Z",
-        "score": 1638,
-        "sourceCount": 1274,
+        "updatedAt": "2026-10-15T16:17:58.047Z",
+        "score": 1650,
+        "sourceCount": 1282,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-united-states",
-        "name": "United States",
+        "id": "usa-russia",
+        "name": "Russia",
         "type": "place",
-        "title": "Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots",
-        "url": "https://atlas.lootura.com/us/place/united-states",
-        "path": "/us/place/united-states",
-        "updatedAt": "2026-10-15T03:09:45.092Z",
-        "score": 1638,
-        "sourceCount": 1213,
+        "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+        "url": "https://atlas.lootura.com/us/place/russia",
+        "path": "/us/place/russia",
+        "updatedAt": "2026-10-15T16:17:58.047Z",
+        "score": 1645,
+        "sourceCount": 192,
         "isBreaking": false,
         "isPinned": false
       },
       {
-        "id": "usa-openai",
-        "name": "OpenAI",
-        "type": "company",
-        "title": "FBI arrests OpenAI engineer for allegedly planting bug in office",
-        "url": "https://atlas.lootura.com/us/company/openai",
-        "path": "/us/company/openai",
-        "updatedAt": "2026-10-15T03:09:45.092Z",
-        "score": 1636,
-        "sourceCount": 34,
-        "isBreaking": false,
-        "isPinned": false
-      },
-      {
-        "id": "usa-iran",
-        "name": "Iran",
+        "id": "usa-ukraine",
+        "name": "Ukraine",
         "type": "place",
-        "title": "Iran war and affordability take center stage in Senate debates",
-        "url": "https://atlas.lootura.com/us/place/iran",
-        "path": "/us/place/iran",
-        "updatedAt": "2026-10-15T03:09:45.092Z",
-        "score": 1626,
-        "sourceCount": 563,
+        "title": "Morning news brief",
+        "url": "https://atlas.lootura.com/us/place/ukraine",
+        "path": "/us/place/ukraine",
+        "updatedAt": "2026-10-15T16:17:58.047Z",
+        "score": 1645,
+        "sourceCount": 219,
+        "isBreaking": false,
+        "isPinned": false
+      },
+      {
+        "id": "usa-volodymyr-zelenskyy",
+        "name": "Volodymyr Zelenskyy",
+        "type": "person",
+        "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+        "url": "https://atlas.lootura.com/us/person/volodymyr-zelenskyy",
+        "path": "/us/person/volodymyr-zelenskyy",
+        "updatedAt": "2026-10-15T16:17:58.047Z",
+        "score": 1628,
+        "sourceCount": 8,
         "isBreaking": false,
         "isPinned": false
       }
     ],
-    "publicEntityCount": 248
+    "publicEntityCount": 247
   }
 }

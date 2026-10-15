@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/object/la-moncloa/index.json",
   "description": "Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "La Moncloa",
     "Moncloa Palace"
   ],
   "changes": [
+    {
+      "title": "La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa",
+      "summary": "Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige \"neutralidad\" en las instituciones Leer.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Sánchez promete \"cuatro años más\" de \"avances\" frente a la \"carta de defunción del Estado de bienestar\" de PP y Vox",
       "summary": "El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez , ha prometido este miércoles \"cuatro años más\" de avances sociales, sin recortes y con las pensiones revalorizadas conforme al IPC si continúa en La Moncloa tras las elecciones generales del 29 de noviembre. Frente a este proyecto, ha adver.",
@@ -58,13 +63,15 @@
       "title": "El PSOE pide a sus militantes alargar el Gobierno hasta 2030",
       "summary": "El PSOE ha inaugurado el nuevo curso político marcando un objetivo claro a sus militantes: la continuidad de Pedro Sánchez en La Moncloa más allá de las próximas elecciones generales. A través de un editorial publicado en 'El Socialista', el órgano de expresión del partido, la formación defiende la necesidad de goberna.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Ayuso ataca a Sánchez y defiende la compra del ático sin mencionarlo en el debate del estado de la región de Madrid",
-      "summary": "Isabel Díaz Ayuso, después de vivir un verano nefasto para sus intereses por la compra de un ático, ha salido este jueves en tromba contra La Moncloa en el debate del estado de la región. La presidenta ha lanzado un alegato apocalíptico de casi dos horas en el que ha dibujado una España a punto del colapso. Si sus enem.",
-      "date": "2026-09-10"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0e585e4d4d8f92f8b45a0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:48:21.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

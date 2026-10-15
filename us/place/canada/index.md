@@ -70,4 +70,4 @@ Date: 2026-09-17
 
 ## Sources
 
-- [Joni Mitchell becomes an American citizen after more than 60 years](https://www.nbcnews.com/pop-culture/pop-culture-news/joni-mitchell-becomes-american-citizen-60-years-rcna603430?utm_source=lootura.com) — 2026-10-14T15:14:22.548Z
+No public source links.

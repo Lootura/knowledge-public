@@ -3,7 +3,7 @@
 > Follow San Francisco, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-13T01:49:13.119Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/san-francisco
 
 ## Recent changes
@@ -64,4 +64,4 @@ Date: 2026-08-09
 
 ## Sources
 
-No public source links.
+- [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad?utm_source=lootura.com) — 2026-10-15T14:30:00.000Z

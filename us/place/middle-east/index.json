@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/middle-east/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/middle-east/index.json",
   "description": "Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-13T11:24:39.918Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Mid East",
     "Mideast"
@@ -65,6 +65,13 @@
       "date": "2026-09-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
+      "url": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:24:57.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    }
+  ],
   "evidenceCount": 0
 }

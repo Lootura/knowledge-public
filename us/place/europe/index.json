@@ -8,12 +8,27 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/europe/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/europe/index.json",
   "description": "Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "EU",
     "European Union"
   ],
   "changes": [
+    {
+      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "A new sunscreen type for Americans hits store shelves",
+      "summary": "For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that's long been a go-to option in Europe and other parts of the world.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?",
+      "summary": "Supporters of the Houthis gather during a protest against Saudi intervention in Yemen, in Sanaa, on Oct. 9, 2026. —Mohammed Huwais—Getty Images The European Union and Gulf Cooperation Council on Thursday announced the postponement of a joint summit set to take place in ‌Saudi Arabia next week, amid safety concerns prom.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
       "summary": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
@@ -48,30 +63,27 @@
       "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
       "summary": "Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "New research traces the origins and human impact of Britain's largest medieval lead industry through ancient teeth",
-      "summary": "The first definitive evidence of when post-Roman lead production began in one of Europe's largest medieval lead-producing regions, the Derbyshire Peak District in central England, has been uncovered by archaeologists after centuries of mining had erased much of the archaeological evidence. The work has been published i.",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
-      "summary": "European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Europe’s Trade Tensions With China Are Coming to a Head",
-      "summary": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.",
-      "date": "2026-10-08"
     }
   ],
   "sources": [
     {
-      "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
-      "url": "https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T03:09:48.969Z",
-      "sourceId": "lootura-us-nature"
+      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+      "url": "https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:53:02.000Z",
+      "sourceId": "lootura-us-ieee-spectrum"
+    },
+    {
+      "title": "A new sunscreen type for Americans hits store shelves",
+      "url": "https://www.pbs.org/newshour/health/a-new-sunscreen-type-for-americans-hits-store-shelves?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:53:05.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?",
+      "url": "https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:43:41.000Z",
+      "sourceId": "lootura-us-time"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

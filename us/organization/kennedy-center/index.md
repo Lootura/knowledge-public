@@ -3,10 +3,16 @@
 > Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-13T11:24:39.918Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/organization/kennedy-center
 
 ## Recent changes
+
+### Trump invokes executive privilege in Kennedy Center legal fight
+
+President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board.
+
+Date: 2026-10-15
 
 ### Funding milestone detected
 
@@ -64,4 +70,4 @@ Date: 2026-09-14
 
 ## Sources
 
-No public source links.
+- [Trump invokes executive privilege in Kennedy Center legal fight](https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com) — 2026-10-15T15:54:31.000Z

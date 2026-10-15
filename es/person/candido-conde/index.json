@@ -27,19 +27,6 @@
       "date": "2026-10-14"
     }
   ],
-  "sources": [
-    {
-      "title": "El gallego nace y se hace",
-      "url": "https://www.lavanguardia.com/politica/20261014/11659145/gallego-nace.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T20:46:56.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos",
-      "url": "https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:01:35.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

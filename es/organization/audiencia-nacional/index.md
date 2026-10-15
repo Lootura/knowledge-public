@@ -3,10 +3,46 @@
 > Sigue la actividad de Audiencia Nacional (España) en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/audiencia-nacional
 
 ## Cambios recientes
+
+### Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia
+
+La jueza Beatriz Biedma ha denunciado que el exmagistrado José Luis Sáenz de Tejada la siguió cuando regresaba a su domicilio tras aterrizar en el aeropuerto de Badajoz, después de su declaración como testigo en la Audiencia Nacional . La denuncia, incorporada ya a la causa de las supuestas cloacas del PSOE, apunta que.
+
+Date: 2026-10-15
+
+### Biedma denunció tras declarar en la Audiencia Nacional que el exjuez Sáenz de Tejada la siguió con su coche
+
+La juez Beatriz Biedma denunció en la Policía Nacional de Badajoz que el exmagistrado Luis Sáenz de Tejada, imputado en la causa denominada de las 'cloacas' del PSOE por hostigarla, presuntamente por encargo de la exmilitante del PSOE Leire Díez, la persiguió con su coche la semana pasada, la tarde después de declarar.
+
+Date: 2026-10-15
+
+### El DAO afirma que Marlaska estuvo en la «génesis» de los expedientes contra agentes de la UCO por el correo de Begoña
+
+El Director Adjunto Operativo (DAO) de la Guardia Civil Manuel Llamas ha informado al juez de la Audiencia Nacional Santiago Pedraz de que tanto el ministro del Interior, Fernando Grande-Marlaska, como la directora de la Benemérita, Mercedes González, impulsaron la apertura de investigaciones y sanciones internas a age.
+
+Date: 2026-10-15
+
+### "Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma
+
+Nuevos mensajes incorporados a la causa dirigida por el magistrado de la Audiencia Nacional Santiago Pedraz arrojan luz sobre las maniobras que el presunto enviado de las cloacas del PSOE emprendió contra la jueza Beatriz Biedma. Tras haber sido captado por las cloacas, el exjuez Luis José Sáenz de Tejada contactó con.
+
+Date: 2026-10-15
+
+### El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas
+
+El magistrado de la Audiencia Nacional Ismael Moreno solicita al Juzgado Central de Instrucción Número 5 las pruebas intervenidas a Santos Cerdán en el marco del caso cloacas. El juez que investiga la financiación del PSOE busca indagar en el origen de los fondos de los que disfrutó el exdiputado navarro investigado po.
+
+Date: 2026-10-15
+
+### La jueza Biedma denuncia que el emisario de las 'cloacas' la siguió en coche del aeropuerto a su casa tras declarar en la Audiencia Nacional
+
+La magistrada se dirigía desde el aeródromo de Talavera la Real a su domicilio cuando, a las 19:15 horas, un coche blanco conducido por el ex magis...
+
+Date: 2026-10-15
 
 ### La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias
 
@@ -32,43 +68,11 @@ La también ex presidenta de Adif se encuentra imputada desde hace año y medio 
 
 Date: 2026-10-13
 
-### La juez Biedma pide a la Audiencia Nacional que impute al ex juez que la amenazó por orden de las 'cloacas' del PSOE
-
-La juez Beatriz Biedma ha presentado un escrito ante el Juzgado de Instrucción número 5 de la Audiencia Nacional que investiga a las cloacas del PSOE para que tome declaración...
-
-Date: 2026-10-13
-
-### La juez Biedma pide que declare la mujer del clan de los Rocho con la que contactó la trama
-
-La juez Beatriz Biedma ha pedido este martes al magistrado de la Audiencia Nacional Santiago Pedraz una serie de nuevas diligencias que ayuden a aclarar.
-
-Date: 2026-10-13
-
-### Pedro Ruiz, sobre las amenazas que recibía la juez Biedma: «Es una situación alarmante»
-
-La juez Beatriz Biedma, que investigó a David Sánchez , hermano del presidente del Gobierno, por posibles irregularidades en su puesto en la Diputación de Badajoz, ha relatado ante el magistrado de la Audiencia Nacional que investiga el caso cloacas una situación que, según declaró, llegó a provocarle angustia y sensac.
-
-Date: 2026-10-11
-
-### La juez Biedma declara en la Audiencia Nacional que se sintió "angustiada" cuando detectó vigilancias en el colegio de sus hijas
-
-La juez Beatriz Biedma ha declarado ante el magistrado de la Audiencia Nacional Santiago Pedraz que se sintió "angustiada" cuando supo que gente desconocida había...
-
-Date: 2026-10-08
-
-### Anticorrupción ve indicios de delito en el PSOE pero se opone a su imputación como persona jurídica por ser prematura
-
-La Fiscalía Anticorrupción ha remitido este jueves un escrito al magistrado de la Audiencia Nacional Santiago Pedraz, instructor del caso de las cloacas de Ferraz, donde se opone...
-
-Date: 2026-10-08
-
-### Zapatero recusa de nuevo a la joyería que valorará sus joyas porque "no es imparcial"
-
-El ex presidente alega que la firma Yanes, designada por la Audiencia Nacional, va a incurrir en un "vicio de parcialidad objetiva del perito judicial" Leer.
-
-Date: 2026-10-07
-
 ## Fuentes
 
-- [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com) — 2026-10-14T17:38:47.000Z
-- [La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual](https://theobjective.com/espana/tribunales/2026-10-14/fiscalia-investiga-julio-iglesias-agresion-sexual/?utm_source=lootura.com) — 2026-10-14T20:42:30.000Z
+- [Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia](https://www.20minutos.es/nacional/biedma-denuncia-que-exjuez-ligado-las-cloacas-siguio-un-coche-blanco-su-vuelta-declarar-audiencia-nacional_7049185_0.html?utm_source=lootura.com) — 2026-10-15T11:35:09.000Z
+- [Biedma denunció tras declarar en la Audiencia Nacional que el exjuez Sáenz de Tejada la siguió con su coche](https://www.abc.es/espana/biedma-denuncio-vuelta-declarar-audiencia-nacional-exjuez-20261015132904-nt.html?utm_source=lootura.com) — 2026-10-15T15:39:18.000Z
+- [El DAO afirma que Marlaska estuvo en la «génesis» de los expedientes contra agentes de la UCO por el correo de Begoña](https://www.abc.es/espana/dao-guardia-civil-confirma-marlaska-llamo-aparecer-20261015105732-nt.html?utm_source=lootura.com) — 2026-10-15T15:25:50.000Z
+- ["Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma](https://www.elconfidencial.com/espana/2026-10-15/biedma-cloacas-hermano-sanchez-pajara-psoe_4445729/?utm_source=lootura.com) — 2026-10-15T13:53:00.000Z
+- [El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas](https://www.elconfidencial.com/espana/2026-10-15/el-juez-que-investiga-la-financiacion-del-psoe-pide-todas-las-agendas-intervenidas-a-cerdan-por-las-cloacas_4445906/?utm_source=lootura.com) — 2026-10-15T16:02:00.000Z
+- [La jueza Biedma denuncia que el emisario de las 'cloacas' la siguió en coche del aeropuerto a su casa tras declarar en la Audiencia Nacional](https://www.eldebate.com/espana/20261015/jueza-biedma-denuncia-emisario-cloacas-siguio-coche-aeropuerto-casa-declarar-audiencia-nacional_469976.html?utm_source=lootura.com) — 2026-10-15T11:29:57.000Z

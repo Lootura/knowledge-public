@@ -70,4 +70,4 @@ Date: 2026-09-13
 
 ## Fuentes
 
-- [Málaga reformará la ZBE tras el revés judicial y deja más de 46.000 multas en el aire](https://www.elconfidencial.com/espana/andalucia/2026-10-15/malaga-reformara-la-zbe-tras-el-reves-del-tsja-y-deja-mas-de-46-000-multas-en-el-aire_4444989/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
+No public source links.

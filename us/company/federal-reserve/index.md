@@ -3,7 +3,7 @@
 > Follow Federal Reserve, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/company/federal-reserve
 
 ## Recent changes
@@ -70,5 +70,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'](https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com) — 2026-10-14T21:46:43.000Z
 - [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z

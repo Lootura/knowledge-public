@@ -3,10 +3,22 @@
 > Follow China, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T03:30:23.685Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/china
 
 ## Recent changes
+
+### Chasing China’s Monazite Monopoly
+
+One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings Dam), has for decade.
+
+Date: 2026-10-15
+
+### Can a Radioactive Ore Break China’s Grip on Rare Earths?
+
+The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.
+
+Date: 2026-10-15
 
 ### Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years
 
@@ -56,18 +68,7 @@ The European Union is weighing tougher trade measures as negotiators prepare to 
 
 Date: 2026-10-08
 
-### BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover
-
-While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's.
-
-Date: 2026-10-07
-
-### Coco Gauff decries "insane" amount of online racism after China match dispute
-
-Coco Gauff said she received an "insane" amount of racist comments on social media following a controversial point in her China Open match against home player Sun Xinran.
-
-Date: 2026-10-06
-
 ## Sources
 
-No public source links.
+- [Chasing China’s Monazite Monopoly](https://spectrum.ieee.org/china-rare-earth-minerals?utm_source=lootura.com) — 2026-10-15T14:54:03.000Z
+- [Can a Radioactive Ore Break China’s Grip on Rare Earths?](https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com) — 2026-10-15T14:53:02.000Z

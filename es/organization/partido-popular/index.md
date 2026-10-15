@@ -3,10 +3,40 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones
+
+La Junta Electoral Central (JEC) ha acordado abrir expediente al presidente del Gobierno, Pedro Sánchez , por posible vulneración de la legislación electoral por la rueda de prensa que ofreció desde el Palacio de la Moncloa tras convocar las elecciones y que el PP denunció por considerarla un "mitin". Fuentes del máxim.
+
+Date: 2026-10-15
+
+### Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año
+
+El presidente del Partido Popular no ceja en su empeño por que la crisis de Ceuta continúe en primera línea de las conversaciones entre los líderes europeos. Ante la cumbre del Partido Popular Europeo (PPE) previa a la celebración del Consejo Europeo, Alberto Núñez Feijóo ha realizado promesas si llega a la Moncloa per.
+
+Date: 2026-10-15
+
+### Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir
+
+En pleno arranque de la precampaña electoral del 29-N, el debate sobre el futuro de las pensiones ha arreciado con fuerza particularmente después de que la portavoz del PP, Ester Muñoz, asegurara en una entrevista en un pódcast que el sistema de pensiones, tal y como está en estos momentos, va a “colapsar” y va a “peta.
+
+Date: 2026-10-15
+
+### Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones
+
+El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.
+
+Date: 2026-10-15
+
+### El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»
+
+El Partido Popular ha celebrado que la Junta Electoral Central (JEC) haya acordado abrir expediente sancionador al presidente del Gobierno, Pedro Sánchez,.
+
+Date: 2026-10-15
 
 ### La amnesia del PSOE: exige una EMT mejor tras dejar 50 buses averiados y 20 chóferes cobrando sin trabajar cuando gobernaba Palma
 
@@ -38,45 +68,10 @@ El barómetro pronostica para Vox una intención de voto del 17,1%, lo que supon
 
 Date: 2026-10-14
 
-### El PP carga contra la "hipocresía" de la portavoz del PSOE por los "30 pisos" de su pareja: "Es una buitre consorte"
-
-Génova critica a Montse Mínguez por criticar a los "rentistas" mientras comparte su vida con un "desahuciador confeso" Leer.
-
-Date: 2026-10-14
-
-### El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS
-
-El PSOE ganaría las elecciones generales con un 34% del voto en caso de que se celebraran hoy, según el barómetro de octubre del Centro de Investigaciones Sociológicas (CIS), publicado este miércoles. El PSOE crece tres puntos en intención de voto respecto al estudio publicado en septiembre y aumenta su distancia sobre.
-
-Date: 2026-10-14
-
-### Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas
-
-Alberto Núñez Feijóo concede una “gravedad extraordinaria” a la información, desvelada por EL PAÍS, de que buques de la Marina Real de Marruecos navegaron sin pedir autorización por aguas de soberanía española coincidiendo con la entrada masiva de inmigrantes del pasado 30 y 31 de julio. El líder del PP reclama al pres.
-
-Date: 2026-10-14
-
-### ¿Va por delante la izquierda en los sondeos? Solo para el CIS
-
-El CIS ha publicado hoy su primera estimación tras el anun cio del adelanto electoral. El sondeo sitúa a la izquierda en torno al 43% de los votos, cerca de su resultado de 2023 y cuatro puntos por encima de la suma de PP y Vox. Esta estimación tendría mucho interés si no fuese una anomalía, una más entre las decenas d.
-
-Date: 2026-10-14
-
-### Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave
-
-Cambiará los primeros puestos de las candidaturas en Barcelona, Valencia, Zaragoza, Pontevedra o Vizcaya Leer.
-
-Date: 2026-10-14
-
 ## Fuentes
 
-- [Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»](https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts_amp.html?utm_source=lootura.com) — 2026-10-14T21:07:30.000Z
-- [El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"](https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/?utm_source=lootura.com) — 2026-10-14T17:04:00.000Z
-- [La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"](https://www.elmundo.es/madrid/2026/10/14/6acf546521efa0d0238b4587.html?utm_source=lootura.com) — 2026-10-14T11:09:48.000Z
-- [El CIS de Tezanos dispara hasta los 11,8 puntos la ventaja del PSOE sobre el PP tras el desahucio de Maricarmen y la convocatoria electoral](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf523ee9cf4a48088b4580.html?utm_source=lootura.com) — 2026-10-14T12:06:43.000Z
-- [Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html?utm_source=lootura.com) — 2026-10-14T20:43:19.000Z
-- [El PP carga contra la "hipocresía" de la portavoz del PSOE por los "30 pisos" de su pareja: "Es una buitre consorte"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf7bd3e4d4d8d2338b45c3.html?utm_source=lootura.com) — 2026-10-14T13:24:27.000Z
-- [El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS](https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-aumenta-la-distancia-sobre-el-pp-hasta-los-118-puntos-tras-la-convocatoria-electoral-segun-el-cis.html?utm_source=lootura.com) — 2026-10-14T11:27:59.000Z
-- [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z
-- [¿Va por delante la izquierda en los sondeos? Solo para el CIS](https://elpais.com/espana/elecciones-generales/2026-10-14/va-por-delante-la-izquierda-en-los-sondeos-solo-para-el-cis.html?utm_source=lootura.com) — 2026-10-14T14:08:47.000Z
-- [La amnesia del PSOE: exige una EMT mejor tras dejar 50 buses averiados y 20 chóferes cobrando sin trabajar cuando gobernaba Palma](https://okdiario.com/baleares/socialistas-exigen-alcalde-del-pp-palma-emt-mejor-dejarla-ellos-50-buses-averiados-20-choferes-cobrando-sin-trabajar-20548359?utm_source=lootura.com) — 2026-10-15T02:00:50.000Z
+- [La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones](https://www.20minutos.es/nacional/junta-electoral-abre-un-expediente-sanchez-por-rueda-prensa-moncloa-tras-convocar-las-elecciones_7049268_0.html?utm_source=lootura.com) — 2026-10-15T14:35:35.000Z
+- [Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año](https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html?utm_source=lootura.com) — 2026-10-15T10:08:44.000Z
+- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z
+- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z
+- [El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»](https://theobjective.com/espana/politica/2026-10-15/pp-celebra-expediente-junta-electoral-sanchez/?amp=&utm_source=lootura.com) — 2026-10-15T16:04:15.000Z

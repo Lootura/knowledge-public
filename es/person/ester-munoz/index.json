@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/ester-munoz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/ester-munoz/index.json",
   "description": "Sigue la actividad de Ester Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-11T17:18:34.354Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Ester",
     "Ester Muñoz de la Iglesia",
@@ -17,6 +17,11 @@
     "Muñoz"
   ],
   "changes": [
+    {
+      "title": "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir",
+      "summary": "En pleno arranque de la precampaña electoral del 29-N, el debate sobre el futuro de las pensiones ha arreciado con fuerza particularmente después de que la portavoz del PP, Ester Muñoz, asegurara en una entrevista en un pódcast que el sistema de pensiones, tal y como está en estos momentos, va a “colapsar” y va a “peta.",
+      "date": "2026-10-15"
+    },
     {
       "title": "El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”",
       "summary": "El PSOE está tratando de usar la palabra “sacrifico” que pronunció ayer Alberto Núñez Feijóo en un acto en Madrid para desgastar al PP. Feijóo aseguró que su Gobierno pedirá “sacrificios”, algo que este domingo ha explicado Ester Muñoz que no está vinculado a recortes en el gasto público como quiere hacer creer el PSOE.",
@@ -38,6 +43,13 @@
       "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:20:18.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

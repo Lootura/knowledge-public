@@ -3,10 +3,40 @@
 > Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-08T21:01:26.973Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/junta-electoral-central
 
 ## Cambios recientes
+
+### La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones
+
+La Junta Electoral Central (JEC) ha acordado abrir expediente al presidente del Gobierno, Pedro Sánchez , por posible vulneración de la legislación electoral por la rueda de prensa que ofreció desde el Palacio de la Moncloa tras convocar las elecciones y que el PP denunció por considerarla un "mitin". Fuentes del máxim.
+
+Date: 2026-10-15
+
+### La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa
+
+Dicen que no hay dos sin tres. Y en el caso del presidente del Gobierno, Pedro Sánchez , no hay tres sin cuatro, ni cuatro sin cinco. La Junta Electoral Central (JEC) ha abierto este jueves por quinta vez un expediente sancionador contra el jefe del Ejecutivo por vulnerar la neutralidad exigida a los poderes públicos e.
+
+Date: 2026-10-15
+
+### La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa
+
+Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige "neutralidad" en las instituciones Leer.
+
+Date: 2026-10-15
+
+### La Junta Electoral abre expediente a Sánchez por no respetar la “neutralidad electoral”
+
+La Junta Electoral Central (JEC) ha dictado esta tarde una resolución por la que acuerda que se incoe un expediente sancionador contra el presidente del Gobierno, Pedro Sánchez, por no respetar la debida “neutralidad electoral” al haber hecho “uso de recursos institucionales para emitir juicios de valor, destacar presu.
+
+Date: 2026-10-15
+
+### El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»
+
+El Partido Popular ha celebrado que la Junta Electoral Central (JEC) haya acordado abrir expediente sancionador al presidente del Gobierno, Pedro Sánchez,.
+
+Date: 2026-10-15
 
 ### El Bidasoa abre su proceso electoral con una asamblea extraordinaria
 
@@ -38,36 +68,10 @@ El requerimiento realizado ayer por la Junta Electoral Central a la Oficina del 
 
 Date: 2026-09-15
 
-### La Junta Electoral ejecuta la paralización de la 'ley de nietos' y pide informes a los consulados sobre el nexo de los nacionalizados con el exilio
-
-La Junta Electoral Central (JEC) ha acordado este lunes asumir la orden dictada por el Tribunal Supremo en sus medidas cautelares sobre la disposición de la Ley de Memoria...
-
-Date: 2026-09-14
-
-### Ayuso exige que solo los exiliados con última residencia en Madrid puedan votar en la región
-
-La Comunidad de Madrid ha presentado este lunes alegaciones ante la Junta Electoral Central (JEC) para pedir que solo puedan inscribirse en el censo.
-
-Date: 2026-09-14
-
-### La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'
-
-La Junta Electoral Central (JEC) ha empezado a dar cumplimiento este lunes a la orden dictada por el Tribunal Supremo en el auto en el que suspendió las altas censales derivadas de la ley de nietos. En una reunión de urgencia, este órgano ha encargado informes a la Oficina del Censo Electoral y a los registros consular.
-
-Date: 2026-09-14
-
-### La Junta Electoral acepta dividida el freno a la ley de nietos que impone el Supremo
-
-El pleno del órgano electoral rechaza por siete votos a seis recurrir la decisión de los jueces del Alto Tribunal y respalda cumplir su mandato La fórmula para dar la nacionalidad que cuestiona el Supremo en la ley de nietos se aplicó sin polémica en 2008 La Junta Electoral Central (JEC) ha acordado en su reunión extra.
-
-Date: 2026-09-14
-
-### La JEC ejecuta el requerimiento del Supremo sobre la ley de nietos sin compartir su criterio
-
-La Junta Electoral Central ha optado por no abrir un nuevo frente con el Tribunal Supremo y, tras algo más de dos horas de reunión extraordinaria, ha acordado acatar el mandato del alto tribunal sobre las nacionalizaciones obtenidas al amparo de la llamada ley de nietos. El organismo, no obstante, no ha asumido como pr.
-
-Date: 2026-09-14
-
 ## Fuentes
 
-No public source links.
+- [La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones](https://www.20minutos.es/nacional/junta-electoral-abre-un-expediente-sanchez-por-rueda-prensa-moncloa-tras-convocar-las-elecciones_7049268_0.html?utm_source=lootura.com) — 2026-10-15T14:35:35.000Z
+- [La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa](https://www.abc.es/espana/junta-electoral-expedienta-sanchez-rueda-prensa-moncloa-20261015164150-nt.html?utm_source=lootura.com) — 2026-10-15T15:44:37.000Z
+- [La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0e585e4d4d8f92f8b45a0.html?utm_source=lootura.com) — 2026-10-15T14:48:21.000Z
+- [La Junta Electoral abre expediente a Sánchez por no respetar la “neutralidad electoral”](https://www.lavanguardia.com/politica/20261015/11659919/junta-electoral-llama-sancionar-sanchez-respetar-neutralidad-electoral.html?utm_source=lootura.com) — 2026-10-15T14:49:04.000Z
+- [El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»](https://theobjective.com/espana/politica/2026-10-15/pp-celebra-expediente-junta-electoral-sanchez/?amp=&utm_source=lootura.com) — 2026-10-15T16:04:15.000Z

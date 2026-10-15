@@ -70,4 +70,4 @@ Date: 2026-09-08
 
 ## Sources
 
-- [Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms](https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html?utm_source=lootura.com) — 2026-10-14T16:13:42.000Z
+No public source links.

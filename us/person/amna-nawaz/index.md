@@ -70,5 +70,4 @@ Date: 2026-09-01
 
 ## Sources
 
-- [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
-- [Economist breaks down new inflation report and what's driving prices higher](https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher?utm_source=lootura.com) — 2026-10-14T22:55:14.000Z
+No public source links.

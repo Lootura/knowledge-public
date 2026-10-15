@@ -70,4 +70,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [Las obras de la primera fase de reforma del Hospital Gregorio Marañón arrancarán antes de que finalice el año](https://www.elconfidencial.com/espana/madrid/2026-10-15/obras-reforma-gregorio-maranon_4444937/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
+No public source links.

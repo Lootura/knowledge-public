@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético](https://theobjective.com/internacional/2026-10-14/macron-viaje-golfo-crisis-ormuz/?utm_source=lootura.com) — 2026-10-14T20:19:48.000Z
+No public source links.

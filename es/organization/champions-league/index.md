@@ -70,4 +70,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [El Real Madrid recupera su épica para remontar en Roma](https://theobjective.com/deportes/futbol/champions-league/2026-10-14/real-madrid-conquistar-roma/?utm_source=lootura.com) — 2026-10-14T21:16:13.000Z
+No public source links.

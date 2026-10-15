@@ -3,10 +3,22 @@
 > Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T03:30:23.685Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/saudi-arabia
 
 ## Recent changes
+
+### OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis
+
+The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.
+
+Date: 2026-10-15
+
+### Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?
+
+Supporters of the Houthis gather during a protest against Saudi intervention in Yemen, in Sanaa, on Oct. 9, 2026. —Mohammed Huwais—Getty Images The European Union and Gulf Cooperation Council on Thursday announced the postponement of a joint summit set to take place in ‌Saudi Arabia next week, amid safety concerns prom.
+
+Date: 2026-10-15
 
 ### Trump says Houthis are "behaving very badly." What are his options?
 
@@ -56,18 +68,7 @@ More than 200 U.S. intelligence and military analysts are in Saudi Arabia helpin
 
 Date: 2026-10-04
 
-### Major oil exporters agree to keep production steady in November
-
-The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.
-
-Date: 2026-10-04
-
-### Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight
-
-About 170 people aboard a terrifying flight to Tel Aviv are safe and on the ground after one pilot stabbed the other in an apparent attempt to crash it. Israeli officials say passengers and crew sprang into action and prevented a disaster. The attacker has been arrested in Saudi Arabia. Nick Schifrin reports.
-
-Date: 2026-09-30
-
 ## Sources
 
-No public source links.
+- [OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html?utm_source=lootura.com) — 2026-10-15T02:27:52.000Z
+- [Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?](https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com) — 2026-10-15T13:43:41.000Z

@@ -8,17 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/elon-musk/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/elon-musk/index.json",
   "description": "Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [],
   "changes": [
     {
-      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
-      "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.",
-      "date": "2026-10-14"
+      "title": "Elon Musk and Other Donors Pile $94 Million Into House Republican Effort",
+      "summary": "The party’s top super PAC for House candidates said it had raised more this summer than ever before in a third quarter, but acknowledged the challenges Republicans are facing.",
+      "date": "2026-10-15"
     },
     {
       "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
       "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
+      "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.",
       "date": "2026-10-14"
     },
     {
@@ -55,25 +60,26 @@
       "title": "How 'Musk' director Alex Gibney became a critic",
       "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men. (Image credit: Ken Cedeno).",
       "date": "2026-10-08"
-    },
-    {
-      "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
-      "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems. (Image credit: Carolyn Kaster).",
-      "date": "2026-10-06"
     }
   ],
   "sources": [
     {
-      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
-      "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:45:37.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike",
+      "url": "https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:27:34.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
       "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
       "url": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com",
       "publishedAt": "2026-10-14T22:20:50.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Elon Musk and Other Donors Pile $94 Million Into House Republican Effort",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T12:52:05.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

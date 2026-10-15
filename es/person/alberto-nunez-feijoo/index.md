@@ -3,10 +3,40 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año
+
+El presidente del Partido Popular no ceja en su empeño por que la crisis de Ceuta continúe en primera línea de las conversaciones entre los líderes europeos. Ante la cumbre del Partido Popular Europeo (PPE) previa a la celebración del Consejo Europeo, Alberto Núñez Feijóo ha realizado promesas si llega a la Moncloa per.
+
+Date: 2026-10-15
+
+### Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE
+
+El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.
+
+Date: 2026-10-15
+
+### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
+
+Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
+
+Date: 2026-10-15
+
+### Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir
+
+En pleno arranque de la precampaña electoral del 29-N, el debate sobre el futuro de las pensiones ha arreciado con fuerza particularmente después de que la portavoz del PP, Ester Muñoz, asegurara en una entrevista en un pódcast que el sistema de pensiones, tal y como está en estos momentos, va a “colapsar” y va a “peta.
+
+Date: 2026-10-15
+
+### Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones
+
+El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.
+
+Date: 2026-10-15
 
 ### El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"
 
@@ -38,38 +68,10 @@ El líder del PP, Alberto Núñez Feijóo , ha criticado este martes que el pres
 
 Date: 2026-10-13
 
-### Feijoo echa en cara a Sánchez que no acompañe a los reyes en Ceuta
-
-Con motivo de la histórica visita de los reyes de España a Ceuta y Melilla, el líder del Partido Popular, Alberto Núñez Feijóo, ha ensalzado el papel desempeñado por el monarca Felipe VI, “a la altura de la gran nación que somos”, al tiempo que lanzaba un dardo a Pedro Sánchez al asegurar que si él fuera el líder del E.
-
-Date: 2026-10-13
-
-### Feijóo promete "garantizar la viabilidad" del sistema de pensiones y revalorizarlas conforme al IPC
-
-El presidente del Partido Popular, Alberto Núñez Feijóo , se ha comprometido a mantener la revalorización de las pensiones indexadas al índice de precios al consumo ( IPC ) pese a "lo difícil que es", según ha admitido, así como a garantizar la viabilidad del sistema "para las gentes que no las han cobrado y que están.
-
-Date: 2026-10-13
-
-### Feijóo acusa a Sánchez de mentir por la entrada de buques marroquíes en Ceuta y cree que debió desplegar el Ejército
-
-Alberto Núñez Feijóo ha reprochado la “frivolidad” y el “miedo” de Pedro Sánchez a la hora de tratar asuntos de Estado como la entrada de buques marroquíes en aguas españolas a finales de julio, un hecho que se produjo en paralelo a los cruces masivos de inmigrantes a Ceuta. A juicio del líder del PP, Sánchez debe comp.
-
-Date: 2026-10-13
-
-### Vox celebra que Feijóo empiece a respetarles y sea consciente de que el enemigo es Sánchez
-
-Vox celebra que el presidente del PP, Alberto Núñez Feijóo , comience a respetarle s y sea consciente de que el «enemigo» es el presidente del Gobierno y secretario general del PSOE, Pedro Sánchez , ante la convocatoria electoral del próximo 29 de noviembre. El PP ha asumido que «matando a Vox» no va a gobernar, han re.
-
-Date: 2026-10-13
-
-### Feijóo y la bola negra
-
-El estreno de la magnífica película de Javier Ambrossi y Javier Calvo La bola negra ha puesto de actualidad un antiguo sistema de votación que se utilizaba en el siglo XIX, e incluso a principios del XX, en casinos y sociedades burguesas para decidir quién podía convertirse en socio. Si salía negra, el candidato no que.
-
-Date: 2026-10-12
-
 ## Fuentes
 
-- [El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"](https://www.elconfidencial.com/espana/2026-10-14/el-pp-trata-de-zanjar-el-debate-sobre-el-sistema-de-pensiones-promete-subirlas_4444904/?utm_source=lootura.com) — 2026-10-14T17:04:00.000Z
-- [Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html?utm_source=lootura.com) — 2026-10-14T20:43:19.000Z
-- [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z
+- [Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año](https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html?utm_source=lootura.com) — 2026-10-15T10:08:44.000Z
+- [Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE](https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com) — 2026-10-15T13:32:03.000Z
+- [Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0a2f7e9cf4a784c8b4574.html?utm_source=lootura.com) — 2026-10-15T14:07:46.000Z
+- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z
+- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z

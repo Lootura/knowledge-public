@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/iran/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/iran/index.json",
   "description": "Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "IRI",
     "Islamic Rep. Iran",
@@ -16,6 +16,21 @@
     "ir"
   ],
   "changes": [
+    {
+      "title": "Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans",
+      "summary": "Inflation jumped to 3.7%, driven by gas and diesel prices triggered by the U.S. war with Iran. NBC’s Christine Romans joins TODAY to break down which categories will see price increases and what’s behind the spike in costs.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure",
+      "summary": "Attacks near the Strait of Hormuz have claimed the lives of at least 25 seafarers. Their survivors are reeling.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+      "summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+      "date": "2026-10-14"
+    },
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "summary": "Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.",
@@ -47,56 +62,17 @@
       "date": "2026-10-14"
     },
     {
-      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-      "summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
-      "date": "2026-10-14"
-    },
-    {
       "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
       "summary": "For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.",
       "date": "2026-10-14"
-    },
-    {
-      "title": "Iran focused on attacking \"harder targets,\" U.K. spy chief warns",
-      "summary": "Iran has made a \"major shift\" in its efforts to attack the United Kingdom, including going after harder targets such as military bases, the head of MI5 warned.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
-      "summary": "The Iran-backed militia warned it would attack the Saudi energy giant Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
     {
-      "title": "Houthi attacks complicating Trump administration's efforts ahead of midterms",
-      "url": "https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:19:52.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Iran war and affordability take center stage in Senate debates",
-      "url": "https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:10:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "Breaking down September's CPI report as inflation rises to 3.7%",
-      "url": "https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:34:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:50:43.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say",
-      "url": "https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:33:30.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans",
+      "url": "https://www.today.com/video/inflation-jumps-amid-rising-fuel-prices-how-it-impacts-americans-271614533760?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:19:49.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
     },
     {
       "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
@@ -105,11 +81,11 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T13:51:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure",
+      "url": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T10:54:39.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 7
+  "evidenceCount": 3
 }

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/ciudad-real/index.json",
   "description": "Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T01:48:33.404Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real",
+      "summary": "La Fiscalía ha mantenido este jueves su petición de pena de 46 años de prisión para el principal acusado y de 19 años para el segundo por los asesinatos.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Detenidos en Santander dos hombres reclamados por la justicia en Ciudad Real",
       "summary": "La Policía Local arrestó en la mañana del sábado, en dos actuaciones distintas , a dos varones de 30 años que estaban reclamados por la justicia. La primera intervención tuvo lugar poco antes de las 9.00 horas en la calle Río Cubas . Durante una actuación, los agentes identificaron a uno de ellos y comprobaron que pesa.",
@@ -55,13 +60,15 @@
       "title": "Siete detenidos y 14 investigados por extorsionar a usuarios de páginas de contactos en Ciudad Real",
       "summary": "La Guardia Civil de Ciudad Real ha arrestado a siete personas e imputado a otras 14 por su presunta pertenencia a un grupo criminal dedicado a extorsionar a usuarios de portales de contactos en la provincia. Según la investigación, los sospechosos amenazaban con difundir datos personales o con enviar sicarios a los dom.",
       "date": "2026-07-19"
-    },
-    {
-      "title": "Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real",
-      "summary": "La Guardia Civil ha detenido a siete personas y ha investigado a otras catorce como presuntas autoras de un delito de extorsión . Los detenidos forman parte de un grupo criminal que establecía contacto con sus víctimas a través de páginas web de contactos, obtenía datos personales y amenazaba con difundirlos si no reci.",
-      "date": "2026-07-19"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real",
+      "url": "https://theobjective.com/sociedad/suceso/2026-10-15/fiscal-46-19-anos-carcel-asesinatos-ciudad-real/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:03:32.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

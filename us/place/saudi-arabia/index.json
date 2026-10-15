@@ -8,12 +8,22 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/saudi-arabia/index.json",
   "description": "Follow Saudi Arabia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Kingdom of Saudi Arabia",
     "Saudi"
   ],
   "changes": [
+    {
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?",
+      "summary": "Supporters of the Houthis gather during a protest against Saudi intervention in Yemen, in Sanaa, on Oct. 9, 2026. —Mohammed Huwais—Getty Images The European Union and Gulf Cooperation Council on Thursday announced the postponement of a joint summit set to take place in ‌Saudi Arabia next week, amid safety concerns prom.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Trump says Houthis are \"behaving very badly.\" What are his options?",
       "summary": "Saudi Arabia said it intercepted Houthi missiles and drones across the kingdom on Tuesday after the rebel group struck an airport over the weekend. CBS News Middle East contributor Courtney Kealy joins with analysis.",
@@ -53,18 +63,21 @@
       "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
       "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Major oil exporters agree to keep production steady in November",
-      "summary": "The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight",
-      "summary": "About 170 people aboard a terrifying flight to Tel Aviv are safe and on the ground after one pilot stabbed the other in an apparent attempt to crash it. Israeli officials say passengers and crew sprang into action and prevented a disaster. The attacker has been arrested in Saudi Arabia. Nick Schifrin reports.",
-      "date": "2026-09-30"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T02:27:52.000Z",
+      "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?",
+      "url": "https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:43:41.000Z",
+      "sourceId": "lootura-us-time"
+    }
+  ],
+  "evidenceCount": 2
 }

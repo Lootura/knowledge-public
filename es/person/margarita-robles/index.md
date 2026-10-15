@@ -3,10 +3,16 @@
 > Sigue la actividad de Margarita Robles Fernández en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/margarita-robles
 
 ## Cambios recientes
+
+### El porqué de la apuesta de Sánchez por la "insoportable" Margarita Robles: "Siempre ha estado ahí en los momentos difíciles"
+
+El presidente de Gobierno es partidario de una lista conjunta para el Senado junto a otras fuerzas de izquierda. Leer.
+
+Date: 2026-10-15
 
 ### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
 
@@ -62,12 +68,6 @@ El teniente coronel Antonio Balas ha conseguido el ascenso al rango de coronel d
 
 Date: 2026-09-04
 
-### Margarita Robles no tiene quien le aplauda (en el PSOE)
-
-Margarita Robles fue la primera en dejar de aplaudir el jueves cuando toda la bancada azul seguía en pie en el Congreso jaleando al presidente. Se percató de que era la única sentada y terminó retomando la ovación por compromiso. Minutos antes había sido evidente su incomodidad cuando Pedro Sánchez anunció que pondrá l.
-
-Date: 2026-09-04
-
 ## Fuentes
 
-- [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
+- [El porqué de la apuesta de Sánchez por la "insoportable" Margarita Robles: "Siempre ha estado ahí en los momentos difíciles"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad092ade4d4d8ed218b4586.html?utm_source=lootura.com) — 2026-10-15T09:01:41.000Z

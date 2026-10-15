@@ -3,10 +3,16 @@
 > Sigue la actividad de Ciudad Real en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-13T01:48:33.404Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/ciudad-real
 
 ## Cambios recientes
+
+### El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real
+
+La Fiscalía ha mantenido este jueves su petición de pena de 46 años de prisión para el principal acusado y de 19 años para el segundo por los asesinatos.
+
+Date: 2026-10-15
 
 ### Detenidos en Santander dos hombres reclamados por la justicia en Ciudad Real
 
@@ -62,12 +68,6 @@ La Guardia Civil de Ciudad Real ha arrestado a siete personas e imputado a otras
 
 Date: 2026-07-19
 
-### Desmantelada una red de ‘sextorsión’ con siete detenidos y 14 investigados en Ciudad Real
-
-La Guardia Civil ha detenido a siete personas y ha investigado a otras catorce como presuntas autoras de un delito de extorsión . Los detenidos forman parte de un grupo criminal que establecía contacto con sus víctimas a través de páginas web de contactos, obtenía datos personales y amenazaba con difundirlos si no reci.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real](https://theobjective.com/sociedad/suceso/2026-10-15/fiscal-46-19-anos-carcel-asesinatos-ciudad-real/?amp=&utm_source=lootura.com) — 2026-10-15T16:03:32.000Z

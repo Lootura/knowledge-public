@@ -3,10 +3,16 @@
 > Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-09-02T08:23:12.897Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/person/markwayne-mullin
 
 ## Recent changes
+
+### AP report: Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe
+
+The scope of the investigation into Omar is unclear, though Homeland Security Secretary Markwayne Mullin has suggested that authorities were examining potential crimes related to her family's immigration paperwork.
+
+Date: 2026-10-15
 
 ### DHS Secretary Mullin says thousands arrested in New York immigration operation
 
@@ -52,4 +58,4 @@ Date: 2026-07-17
 
 ## Sources
 
-No public source links.
+- [AP report: Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe](https://www.pbs.org/newshour/politics/ap-report-rep-ilhan-omars-phone-seized-and-relatives-subpoenaed-in-criminal-probe?utm_source=lootura.com) — 2026-10-15T14:52:17.000Z

@@ -3,10 +3,16 @@
 > Sigue la actividad de Ada Colau en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/ada-colau
 
 ## Cambios recientes
+
+### Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo
+
+A menos de 48 horas, el duelo por la candidata (Irene Montero o Ada Colau) enfrenta a Podemos y el Frente Amplio Leer.
+
+Date: 2026-10-15
 
 ### Colau ofrece renunciar a su candidatura y cambiar el nombre de Frente Amplio para lograr la unidad con Podemos
 
@@ -46,4 +52,4 @@ Date: 2026-10-12
 
 ## Fuentes
 
-No public source links.
+- [Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html?utm_source=lootura.com) — 2026-10-15T08:02:59.000Z

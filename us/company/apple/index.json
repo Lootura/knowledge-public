@@ -8,17 +8,41 @@
   "markdownUrl": "https://atlas.lootura.com/us/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/company/apple/index.json",
   "description": "Follow Apple Inc., a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T22:58:32.075Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
-    "Apple (company)"
+    "Apple (company)",
+    "Apple"
   ],
   "changes": [
+    {
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "summary": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. In total, Silicon.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+      "summary": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for the phone now lets you select the color you want, along with storage capacity, carrier preference, and whether you want t.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Discovered by Atlas",
       "summary": "Apple first entered the public knowledge record with source-backed evidence.",
       "date": "2026-07-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:46:00.000Z",
+      "sourceId": "lootura-us-the-verge"
+    },
+    {
+      "title": "Prep your cart before iPhone Duo preorders open tomorrow",
+      "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:07:33.000Z",
+      "sourceId": "lootura-us-the-verge"
+    }
+  ],
+  "evidenceCount": 2
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/isabel-diaz-ayuso
 
 ## Cambios recientes
+
+### Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”
+
+Isabel Díaz Ayuso, si se asoma por la ventana de su despacho, puede ver a miles de personas manifestándose en su contra. Le llueven insultos de gente a la que ella cree que le puede el odio y está abducida por las consignas de la izquierda. La presidenta no va a dar su brazo a torcer, asegura, ni con los profesores y l.
+
+Date: 2026-10-15
 
 ### La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada
 
@@ -62,12 +68,6 @@ La frase retumba con la intención de convertirse en titular: “ El bulo del cu
 
 Date: 2026-09-17
 
-### La subasta por el ático de Ayuso queda desierta por falta de ofertas
-
-Planifica Madrid, la empresa pública de la Comunidad de Madrid que compró en abril el polémico ático de Chamberí, cuyo propósito ha perseguido durante todo el verano a la presidenta Isabel Díaz Ayuso, no ha recibido oferta alguna por el inmueble tras ponerlo a la venta, por lo que se ha propuesto declarar desierta la c.
-
-Date: 2026-09-17
-
 ## Fuentes
 
-No public source links.
+- [Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”](https://elpais.com/espana/madrid/2026-10-15/ayuso-vuelve-a-la-asamblea-con-la-estela-de-la-huelga-en-educacion-y-su-oposicion-frontal-a-sol.html?utm_source=lootura.com) — 2026-10-15T08:46:29.000Z

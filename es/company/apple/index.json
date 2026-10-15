@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/apple/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/apple/index.json",
   "description": "Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T03:09:30.972Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Apple (company)",
     "Apple Inc"
   ],
   "changes": [
+    {
+      "title": "Apple amenaza el liderazgo bursátil de Nvidia, que pierde casi un billón de dólares de valor en una semana",
+      "summary": "Apple ha entrado esta semana en el club de las empresas de cinco billones de dólares por capitalización bursátil, y ya amenaza el trono de Nvidia, la compañía más valiosa del mundo. Mientras la compañía de la manzana ha acelerado en los últimos días en los mercados financieros, hasta batir su máximo histórico, el gigan.",
+      "date": "2026-10-15"
+    },
     {
       "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
       "summary": "OpenAI acusó a un exempleado de haberse llevado archivos confidenciales a Apple , un caso que se suma a la disputa judicial entre ambas compañías. La empresa de IA afirma que un antiguo trabajador que se marchó a Cupertino envió más de 100 archivos confidenciales a sus cuentas personales. En los documentos se encontrab.",
@@ -58,26 +63,15 @@
       "title": "La apuesta que Apple ha esperado ocho años en atreverse a lanzar",
       "summary": "Apple presentó su primer plegable el miércoles, ocho años después de que Samsung enseñara el primer Galaxy Fold comercial y una década después de que Royole lanzara el que se suele citar como el primer plegable del mundo, en 2018. Ese retraso no es la estrategia que Apple ha aplicado antes con otras categorías, y esta.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior",
-      "summary": "Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo , Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPhone 14 o superior , vas a poder aprovecharlo durante los próximos 12 meses de forma completamente gr.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos",
-      "url": "https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T20:50:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo",
-      "url": "https://hipertextual.com/apple/reparar-el-iphone-duo-cuesta-mas-que-comprar-un-iphone-nuevo/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T18:45:00.000Z",
-      "sourceId": "lootura-es-hipertextual"
+      "title": "Apple amenaza el liderazgo bursátil de Nvidia, que pierde casi un billón de dólares de valor en una semana",
+      "url": "https://cincodias.elpais.com/companias/2026-10-15/apple-amenaza-el-liderazgo-bursatil-de-nvidia-que-pierde-casi-un-billon-de-dolares-de-valor-en-una-semana.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:18:10.000Z",
+      "sourceId": "lootura-es-cinco-dias"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

@@ -3,10 +3,16 @@
 > Sigue la actividad de Palacio de la Moncloa en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: object
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/object/la-moncloa
 
 ## Cambios recientes
+
+### La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa
+
+Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige "neutralidad" en las instituciones Leer.
+
+Date: 2026-10-15
 
 ### Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox
 
@@ -62,12 +68,6 @@ El PSOE ha inaugurado el nuevo curso político marcando un objetivo claro a sus 
 
 Date: 2026-09-11
 
-### Ayuso ataca a Sánchez y defiende la compra del ático sin mencionarlo en el debate del estado de la región de Madrid
-
-Isabel Díaz Ayuso, después de vivir un verano nefasto para sus intereses por la compra de un ático, ha salido este jueves en tromba contra La Moncloa en el debate del estado de la región. La presidenta ha lanzado un alegato apocalíptico de casi dos horas en el que ha dibujado una España a punto del colapso. Si sus enem.
-
-Date: 2026-09-10
-
 ## Fuentes
 
-No public source links.
+- [La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0e585e4d4d8f92f8b45a0.html?utm_source=lootura.com) — 2026-10-15T14:48:21.000Z

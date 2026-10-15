@@ -3,10 +3,16 @@
 > Follow OpenAI, a tracked company, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: company
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/company/openai
 
 ## Recent changes
+
+### OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis
+
+The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.
+
+Date: 2026-10-15
 
 ### FBI arrests OpenAI engineer for allegedly planting bug in office
 
@@ -62,13 +68,7 @@ Explore new AI-powered advertising experiences from OpenAI, including Sponsored 
 
 Date: 2026-09-16
 
-### Funding milestone detected
-
-The funding round would double the value of the start-up behind ChatGPT and establish it as the world’s most valuable private company.
-
-Date: 2026-09-16
-
 ## Sources
 
-- [OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves](https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/?utm_source=lootura.com) — 2026-10-15T00:24:03.000Z
-- [FBI arrests OpenAI engineer for allegedly planting bug in office](https://www.cbsnews.com/video/fbi-arrests-openai-engineer-for-allegedly-planting-bug-in-office/?utm_source=lootura.com) — 2026-10-14T14:24:29.000Z
+- [Eight states sue OpenAI claiming ChatGPT harms children](https://www.nbcnews.com/video/eight-states-sue-openai-claiming-chatgpt-harms-children-271603269912?utm_source=lootura.com) — 2026-10-15T02:09:23.000Z
+- [OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html?utm_source=lootura.com) — 2026-10-15T02:27:52.000Z

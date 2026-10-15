@@ -70,5 +70,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com) — 2026-10-14T17:38:47.000Z
-- [La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual](https://theobjective.com/espana/tribunales/2026-10-14/fiscalia-investiga-julio-iglesias-agresion-sexual/?utm_source=lootura.com) — 2026-10-14T20:42:30.000Z
+No public source links.

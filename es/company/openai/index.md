@@ -70,4 +70,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-- [OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos](https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com) — 2026-10-14T20:50:00.000Z
+No public source links.

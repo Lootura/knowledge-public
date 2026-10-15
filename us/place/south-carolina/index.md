@@ -3,7 +3,7 @@
 > Follow South Carolina, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/south-carolina
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes](https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html?utm_source=lootura.com) — 2026-10-15T01:56:37.000Z
+- [3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes](https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html?utm_source=lootura.com) — 2026-10-15T07:37:20.000Z

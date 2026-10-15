@@ -3,10 +3,22 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona
+
+No sin obstáculos, el espacio de la izquierda alternativa se acerca a la unidad fuera de Madrid y Cataluña. Podemos, los partidos del Frente Amplio y otras fuerzas territoriales que ya formaban parte del grupo de Sumar en el Congreso ultiman los acuerdos en distintas comunidades autónomas para construir una sola candid.
+
+Date: 2026-10-15
+
+### Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”
+
+El que fue candidato de Esquerra Republicana a la alcaldía de Barcelona en las elecciones de 2019 y 2023, Ernest Maragall, ha criticado este jueves al cabeza de lista de los republicanos al Congreso, Gabriel Rufián, al que se ha referido irónicamente como “ese conocido líder de Podemos que tiene la generosidad de venir.
+
+Date: 2026-10-15
 
 ### La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana
 
@@ -56,19 +68,7 @@ Al Barça le mueve la prisa en Europa. Tiene tanta necesidad de ganar la Champio
 
 Date: 2026-10-13
 
-### Renfe, Ouigo e Iryo modifican mañana sus trenes Madrid-Barcelona tras el incendio
-
-Renfe , Ouigo e Iryo , los operadores ferroviarios que operan la línea de alta velocidad Madrid-Barcelona , han anunciado una serie de modificaciones de su plan de transporte para este miércoles en el marco de las medidas solicitadas por Adif tras el incendio de un tren en Ricla ( Zaragoza ), producido en la víspera. R.
-
-Date: 2026-10-13
-
-### Un tribunal anula el ‘no’ de Viladecans (Barcelona) a los entierros islámicos
-
-El Tribunal Superior de Justicia de Cataluña (TSJC) ha anulado las resoluciones del Ayuntamiento de Viladecans (Barcelona) que rechazaban habilitar zonas reservadas a entierros musulmanes en su cementerio municipal debido a la falta de espacio, al considerar que el consistorio no justificó debidamente la decisión, por.
-
-Date: 2026-10-13
-
 ## Fuentes
 
-- [Feijóo ultima las listas del PP con Cayetana Álvarez de Toledo y Albiol como arietes y caras nuevas en provincias clave](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfb544fdddffa4068b45be.html?utm_source=lootura.com) — 2026-10-14T20:43:19.000Z
-- [La batalla interna en Compromís por el número 1 por València pone en riesgo el gran acuerdo de la izquierda valenciana](https://www.eldiario.es/comunitat-valenciana/politica/batalla-interna-compromis-numero-1-valencia-pone-riesgo-gran-acuerdo-izquierda-valenciana_1_13586534.html?utm_source=lootura.com) — 2026-10-14T20:54:14.000Z
+- [Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona](https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html?utm_source=lootura.com) — 2026-10-15T06:53:13.000Z
+- [Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”](https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com) — 2026-10-15T11:55:33.000Z

@@ -28,4 +28,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [La socialista Cristina González relevará a Javier Hurtado como consejera de Turismo del Gobierno Vasco](https://www.diariovasco.com/politica/cristina-gonzalez-relevara-javier-hurtado-consejera-turirsmo-20261014104410-nt_amp.html?utm_source=lootura.com) — 2026-10-14T08:46:18.000Z
+No public source links.

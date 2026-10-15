@@ -3,10 +3,16 @@
 > Sigue la actividad de Apple en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/company/apple
 
 ## Cambios recientes
+
+### Apple amenaza el liderazgo bursátil de Nvidia, que pierde casi un billón de dólares de valor en una semana
+
+Apple ha entrado esta semana en el club de las empresas de cinco billones de dólares por capitalización bursátil, y ya amenaza el trono de Nvidia, la compañía más valiosa del mundo. Mientras la compañía de la manzana ha acelerado en los últimos días en los mercados financieros, hasta batir su máximo histórico, el gigan.
+
+Date: 2026-10-15
 
 ### OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos
 
@@ -62,13 +68,6 @@ Apple presentó su primer plegable el miércoles, ocho años después de que Sam
 
 Date: 2026-09-12
 
-### Apple te acaba de regalar un año gratuito de este servicio si tienes un iPhone 14 o superior
-
-Con el lanzamiento de los nuevos iPhone 18 Pro y el iPhone Duo , Apple ha vuelto a renovar uno de sus servicios más populares en todo el mundo. No por descargas, más bien por utilidad. Y lo mejor es que, si tienes un iPhone 14 o superior , vas a poder aprovecharlo durante los próximos 12 meses de forma completamente gr.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [OpenAI asegura que Apple obtuvo información secreta sobre uno de sus dispositivos](https://hipertextual.com/economia-empresas/openai-acusa-apple-archivos-secretos-empleado/?utm_source=lootura.com) — 2026-10-14T20:50:00.000Z
-- [Mucho ojo con romper tu iPhone Duo: repararlo te saldrá más caro que comprar un iPhone nuevo](https://hipertextual.com/apple/reparar-el-iphone-duo-cuesta-mas-que-comprar-un-iphone-nuevo/?utm_source=lootura.com) — 2026-10-14T18:45:00.000Z
+- [Apple amenaza el liderazgo bursátil de Nvidia, que pierde casi un billón de dólares de valor en una semana](https://cincodias.elpais.com/companias/2026-10-15/apple-amenaza-el-liderazgo-bursatil-de-nvidia-que-pierde-casi-un-billon-de-dolares-de-valor-en-una-semana.html?utm_source=lootura.com) — 2026-10-15T14:18:10.000Z

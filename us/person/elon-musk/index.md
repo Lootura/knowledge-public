@@ -3,20 +3,26 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
 
-### How Starlink disruptions affected Ukraine's battlefield operations
+### Elon Musk and Other Donors Pile $94 Million Into House Republican Effort
 
-A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.
+The party’s top super PAC for House candidates said it had raised more this summer than ever before in a third quarter, but acknowledged the challenges Republicans are facing.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
 ### What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
 
 For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.
+
+Date: 2026-10-14
+
+### How Starlink disruptions affected Ukraine's battlefield operations
+
+A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.
 
 Date: 2026-10-14
 
@@ -62,13 +68,8 @@ A trove of documents and interviews with people close to tech billionaire Elon M
 
 Date: 2026-10-08
 
-### Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries
-
-Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems. (Image credit: Carolyn Kaster).
-
-Date: 2026-10-06
-
 ## Sources
 
-- [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
+- [Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike](https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com) — 2026-10-15T11:27:34.000Z
 - [What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?](https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com) — 2026-10-14T22:20:50.000Z
+- [Elon Musk and Other Donors Pile $94 Million Into House Republican Effort](https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html?utm_source=lootura.com) — 2026-10-15T12:52:05.000Z

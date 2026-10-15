@@ -28,4 +28,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [El PSE confirma a Rafaela Romero como cabeza de lista y sitúa a Asensio como segundo por Gipuzkoa](https://www.diariovasco.com/politica/confirma-rafaela-romero-cabeza-lista-asensio-20261014130646-nt_amp.html?utm_source=lootura.com) — 2026-10-14T15:16:10.000Z
+No public source links.

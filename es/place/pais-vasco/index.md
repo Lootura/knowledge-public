@@ -70,4 +70,4 @@ Date: 2026-10-06
 
 ## Fuentes
 
-- [El alza de los carburantes dispara el IPC de Gipuzkoa al 4,3%, su nivel más alto desde 2023](https://www.diariovasco.com/economia/ipc-gipuzkoa-euskadi-precio-carburantes-septiembre-20261014092403-nt_amp.html?utm_source=lootura.com) — 2026-10-14T07:31:24.000Z
+No public source links.

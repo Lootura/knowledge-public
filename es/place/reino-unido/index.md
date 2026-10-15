@@ -3,10 +3,16 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-14T03:30:04.027Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action
+
+La existosa novelista irlandesa Sally Rooney ha anunciado que se ve obligada a retirar sus libros de la venta en el Reino Unido. Esto se debe a su apoyo a Palestine Action , un grupo de protesta de acción directa prohibido por el Gobierno británico desde junio de 2025, tras ser definido como una organización terrorista.
+
+Date: 2026-10-15
 
 ### BT podrá hacer ofertas agresivas en zonas donde compite con VMO2 (Telefónica)
 
@@ -62,12 +68,6 @@ Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un 
 
 Date: 2026-09-13
 
-### Bofetada a Reino Unido: Trump defiende la unificación de Irlanda y pone en cuestión la soberanía británica de las Malvinas
-
-Sus declaraciones se producen tras reunirse con el primer ministro irlandés, Micheál Martin Leer.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-No public source links.
+- [Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action](https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518?utm_source=lootura.com) — 2026-10-15T12:13:50.000Z

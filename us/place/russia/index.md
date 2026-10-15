@@ -3,20 +3,38 @@
 > Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/russia
 
 ## Recent changes
 
-### Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates
+### Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
 
-A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
+Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).
 
-Date: 2026-10-14
+Date: 2026-10-15
+
+### Ukraine resumes attacks on Russian oil refineries as relations with Trump sour
+
+Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.
+
+Date: 2026-10-15
+
+### Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter
+
+Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.
+
+Date: 2026-10-15
 
 ### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
 
 President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
+
+Date: 2026-10-14
+
+### Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates
+
+A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
 
 Date: 2026-10-14
 
@@ -50,25 +68,10 @@ Date: 2026-10-13
 
 Date: 2026-10-13
 
-### Will Trump's Russia diesel deal actually bring down prices?
-
-President Trump said Friday on Truth Social that Russia will "immediately supply" more than 300,000 tons of diesel to global markets, an additional 500,000 tons in November, and 1 million tons "immediately thereafter." Patrick De Haan, head of petroleum analysis at GasBuddy, joins CBS News to discuss the effect that mi.
-
-Date: 2026-10-13
-
-### How NATO plans to combat potential attacks on the alliance from Russia
-
-NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.
-
-Date: 2026-10-13
-
-### U.K. and Europe Recoil From Trump’s Diesel Deal With Putin
-
-Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.
-
-Date: 2026-10-13
-
 ## Sources
 
+- [Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike](https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com) — 2026-10-15T11:27:34.000Z
+- [Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce](https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com) — 2026-10-15T10:05:58.000Z
+- [Ukraine resumes attacks on Russian oil refineries as relations with Trump sour](https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com) — 2026-10-15T13:30:23.000Z
 - [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
-- [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com) — 2026-10-14T23:30:02.000Z
+- [Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter](https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html?utm_source=lootura.com) — 2026-10-15T16:05:20.000Z

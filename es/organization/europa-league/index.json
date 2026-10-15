@@ -1,0 +1,52 @@
+{
+  "id": "es-europa-league",
+  "name": "Liga Europa de la UEFA",
+  "type": "organization",
+  "locale": "es",
+  "canonicalPath": "/es/organization/europa-league",
+  "canonicalUrl": "https://atlas.lootura.com/es/organization/europa-league",
+  "markdownUrl": "https://atlas.lootura.com/es/organization/europa-league/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/organization/europa-league/index.json",
+  "description": "Sigue la actividad de Liga Europa de la UEFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "aliases": [
+    "Europa League",
+    "Liga de Europea de la UEFA",
+    "LE",
+    "LEU",
+    "UEL",
+    "UEFA Cup"
+  ],
+  "changes": [
+    {
+      "title": "La afición de la Real toma las calles de Lovaina con una kalejira hasta el estadio",
+      "summary": "Unos 550 seguidores txuri-urdin recorren la ciudad belga entre cánticos y banderas antes del partido de Europa League ante el Union Saint-Gilloise.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "La Real Sociedad, a por los tres puntos que le permitan optar al top-8 de la Europa League",
+      "summary": "El equipo txuri-urdin se enfrenta al Union Saint-Gilloise con la necesidad de ganar para tener opciones reales de estar en tre los ocho mejores en la UEL.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Europa League first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "La Real Sociedad, a por los tres puntos que le permitan optar al top-8 de la Europa League",
+      "url": "https://www.diariovasco.com/real-sociedad/chocolate-amargo-20261015211454-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-14T22:05:26.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "La afición de la Real toma las calles de Lovaina con una kalejira hasta el estadio",
+      "url": "https://www.diariovasco.com/real-sociedad/aficion-real-toma-calles-lovaina-kalejira-estadio-20261015175757-nt_amp.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:57:58.000Z",
+      "sourceId": "lootura-es-el-diario-vasco"
+    }
+  ],
+  "evidenceCount": 2
+}

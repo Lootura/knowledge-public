@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/markwayne-mullin/index.json",
   "description": "Follow Markwayne Mullin, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-09-02T08:23:12.897Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Markwayne",
     "Mullin"
   ],
   "changes": [
+    {
+      "title": "AP report: Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe",
+      "summary": "The scope of the investigation into Omar is unclear, though Homeland Security Secretary Markwayne Mullin has suggested that authorities were examining potential crimes related to her family's immigration paperwork.",
+      "date": "2026-10-15"
+    },
     {
       "title": "DHS Secretary Mullin says thousands arrested in New York immigration operation",
       "summary": "During a news conference in New York, Homeland Security Secretary Markwayne Mullin said the people arrested were \"criminals\" and slammed New York's governor and mayor for not working with ICE.",
@@ -50,6 +55,13 @@
       "date": "2026-07-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "AP report: Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe",
+      "url": "https://www.pbs.org/newshour/politics/ap-report-rep-ilhan-omars-phone-seized-and-relatives-subpoenaed-in-criminal-probe?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:52:17.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
+  "evidenceCount": 1
 }

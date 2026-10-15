@@ -3,16 +3,10 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
-
-### Trump announces new Defense Department 'super range' for Montana
-
-During a rally in Montana, President Trump announced that the state will receive a new Defense Department 'super range' for testing advanced weapons and technologies.
-
-Date: 2026-10-15
 
 ### The Trump Administration and the Shrinking Number of Women in Top Roles
 
@@ -26,57 +20,63 @@ The newest inflation report gave Democrats a chance to tie pain at the pump to P
 
 Date: 2026-10-15
 
-### 5 Takeaways From a Heated and Personal Maine Senate Debate
+### Trump invokes executive privilege in Kennedy Center legal fight
 
-Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.
+President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### U.S. blasts "embarrassing" complaint against Lebanon's ambassador
+### Trump says execution of Fort Hood shooter will not be livestreamed
 
-The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart.
+President Trump announced that the firing squad execution of Fort Hood shooter Nidal Hasan will not be livestreamed, overriding Defense Secretary Pete Hegseth’s earlier claim that it would be. NBC News' Monica Alba reports the latest details from the White House.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Breaking down September's CPI report as inflation rises to 3.7%
+### Trump Brushes off Inflation Jump on Midterm Campaign Trail
 
-Inflation accelerated to 3.7% in September as energy costs soared amid President Trump's war with Iran, a new CPI report shows. CBS News reporter Emily Pandise has more.
+A new jump in inflation is putting the issue of affordability front-and-center in key midterm races across the country that will decide Washington’s balance of power. President Donald Trump was back on the campaign trail on Wednesday, brushing off those concerns. NBC’s Monica Alba reports for TODAY.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### CNN, MS NOW and Politico prevail against White House — for now
+### Morning news brief
 
-A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial. (Image credit: Graeme Sloan).
+Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Attorney for banned outlets on legal fight over White House press access
+### These swing voters regret voting for Trump and it's influencing their midterm choices
 
-A federal judge has once again ordered the White House to restore access for three news organizations President Trump banned last month over their coverage of his administration. The judge ordered full access for CNN, MS NOW and Politico while their legal challenge moves forward. Geoff Bennett discussed more with Ted B.
+Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day. (Image credit: Megan Varner).
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House
+### Trump cancels public execution, but a line may already have been crossed
 
-A federal judge on Tuesday extended an order blocking President Donald Trump's administration from banning reporters for three news outlets from the White House, a pivotal operational development for the organizations as the extraordinary case — pitting the president against the media that cover him — makes its way thr.
+Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier. (Image credit: Jim Watson).
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### ‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection
+### Ukraine resumes attacks on Russian oil refineries as relations with Trump sour
 
-WASILLA, Alaska — Three weeks out from Election Day, President Donald Trump took a helicopter to a plane to another helicopter to a motorcade to an ice hockey rink in Alaska's Matanuska-Susitna Valley, traversing nearly 4,000 miles over more than eight hours to turn out his base here to help Republicans defend the Sena.
+Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.
 
-Date: 2026-10-14
+Date: 2026-10-15
+
+### ‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground
+
+Rising costs and threatened healthcare benefits are testing voters’ loyalty to Trump as Democrat Randy Villegas challenges David Valadao Vanessa Martinez used to work two jobs to make ends meet. Now she works three. In another era, the 26-year-old from California’s hardscrabble Central valley could have been a poster c.
+
+Date: 2026-10-15
 
 ## Sources
 
-- [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
-- [U.S. blasts "embarrassing" complaint against Lebanon's ambassador](https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/?utm_source=lootura.com) — 2026-10-14T16:04:49.000Z
-- [Breaking down September's CPI report as inflation rises to 3.7%](https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com) — 2026-10-14T22:34:05.000Z
-- [Trump announces new Defense Department 'super range' for Montana](https://www.nbcnews.com/video/trump-announces-new-defense-department-super-range-for-montana-271605829612?utm_source=lootura.com) — 2026-10-15T02:47:01.000Z
-- [CNN, MS NOW and Politico prevail against White House — for now](https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com) — 2026-10-14T07:16:02.000Z
-- [How immigration policies shaped America and evolved throughout its history](https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history?utm_source=lootura.com) — 2026-10-14T22:25:29.000Z
-- [Attorney for banned outlets on legal fight over White House press access](https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access?utm_source=lootura.com) — 2026-10-14T22:40:27.000Z
-- [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house?utm_source=lootura.com) — 2026-10-14T15:27:37.000Z
-- [Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms](https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms?utm_source=lootura.com) — 2026-10-14T22:30:02.000Z
-- [‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection](https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073?utm_source=lootura.com) — 2026-10-14T18:18:37.000Z
+- [Trump invokes executive privilege in Kennedy Center legal fight](https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com) — 2026-10-15T15:54:31.000Z
+- [Trump says execution of Fort Hood shooter will not be livestreamed](https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com) — 2026-10-15T14:34:30.000Z
+- [Trump Brushes off Inflation Jump on Midterm Campaign Trail](https://www.today.com/video/inflation-jumps-to-3-7-ahead-of-critical-midterm-elections-271614021756?utm_source=lootura.com) — 2026-10-15T11:10:48.000Z
+- [Morning news brief](https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief?utm_source=lootura.com) — 2026-10-15T08:46:47.000Z
+- [These swing voters regret voting for Trump and it's influencing their midterm choices](https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups?utm_source=lootura.com) — 2026-10-15T09:00:00.000Z
+- [Trump cancels public execution, but a line may already have been crossed](https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist?utm_source=lootura.com) — 2026-10-15T09:00:00.000Z
+- [Ukraine resumes attacks on Russian oil refineries as relations with Trump sour](https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com) — 2026-10-15T13:30:23.000Z
+- [‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground](https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race?utm_source=lootura.com) — 2026-10-15T15:00:23.000Z
+- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z
+- [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z

@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton
+
+The amount is the most that a Senate candidate has ever raised during that period, his campaign said, eclipsing his opponent in Texas, Ken Paxton.
+
+Date: 2026-10-15
 
 ### Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton
 
@@ -62,12 +68,6 @@ VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving th
 
 Date: 2026-09-14
 
-### Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines
-
-An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.
-
-Date: 2026-09-12
-
 ## Sources
 
-- [Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton](https://www.cbsnews.com/video/texas-gop-chair-toss-up-senate-race-between-james-talarico-ken-paxton/?utm_source=lootura.com) — 2026-10-14T14:30:32.000Z
+- [James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton](https://www.nytimes.com/2026/10/15/us/politics/james-talarico-fundraising-texas-senate.html?utm_source=lootura.com) — 2026-10-15T15:42:09.000Z

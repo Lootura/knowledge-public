@@ -8,11 +8,16 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/movimiento-sumar/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/movimiento-sumar/index.json",
   "description": "Sigue la actividad de Movimiento Sumar en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "SMR"
   ],
   "changes": [
+    {
+      "title": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+      "summary": "Frente Amplio -la alianza electoral impulsada por Movimiento Sumar, Izquierda Unida, Más Madrid y Catalunya en Comú- ha rechazado este jueves de forma tajante cualquier intento de “trocear” los acuerdos electorales de la llamada izquierda alternativa en función de “intereses partidistas”. La coalición ha cerrado filas.",
+      "date": "2026-10-15"
+    },
     {
       "title": "La negativa de Podemos a integrarse en Frente Amplio limita la unión a acuerdos por circunscripciones",
       "summary": "Faltan poco más de 48 horas para que venza el plazo de registro de las coaliciones que concurrirán el próximo 29N y cada vez se antoja más imposible un acuerdo a gran escala entre Frente Amplio y Podemos. Los morados ya han adelantado que no van a integrarse en la alianza que hoy componen IU, Movimiento Sumar, Comuns y.",
@@ -49,6 +54,13 @@
       "date": "2026-10-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T12:26:40.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

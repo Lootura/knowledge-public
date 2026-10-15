@@ -28,5 +28,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [El gallego nace y se hace](https://www.lavanguardia.com/politica/20261014/11659145/gallego-nace.html?utm_source=lootura.com) — 2026-10-14T20:46:56.000Z
-- [Conde-Pumpido asegura que derogar la amnistía sería simbólico y sin efectos prácticos](https://theobjective.com/espana/tribunales/2026-10-14/conde-pumpido-derogar-amnistia-simbolico/?utm_source=lootura.com) — 2026-10-14T21:01:35.000Z
+No public source links.

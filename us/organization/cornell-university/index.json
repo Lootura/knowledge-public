@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.json",
   "description": "Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "CU",
     "CUI",
@@ -17,6 +17,11 @@
     "Cornell"
   ],
   "changes": [
+    {
+      "title": "Exclusive video offers insight into Cornell University Faculty Senate meeting",
+      "summary": "Exclusive video offers insight into Wednesday's high-stakes meeting at Cornell University.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Cornell Bans Frat Parties, Promises New Safeguards for Students",
       "summary": "Cornell University is now suspending all fraternity parties and social events for the rest of the school year, and promising tough new measures to safeguard students. It comes as Cornell’s president is acknowledging missteps in the school’s handling of the Jane Doe case and offering a formal apology for the first time.",
@@ -61,20 +66,15 @@
       "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
       "summary": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Cornell University first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-03"
     }
   ],
   "sources": [
     {
-      "title": "Fraternity culture under scrutiny in wake of Cornell allegations",
-      "url": "https://www.pbs.org/newshour/show/fraternity-culture-under-scrutiny-in-wake-of-cornell-allegations?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:35:31.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Exclusive video offers insight into Cornell University Faculty Senate meeting",
+      "url": "https://www.cbsnews.com/newyork/news/cornell-university-faculty-senate-meeting-video/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T03:36:05.000Z",
+      "sourceId": "lootura-us-cbs-news"
     }
   ],
-  "evidenceCount": 0
+  "evidenceCount": 1
 }

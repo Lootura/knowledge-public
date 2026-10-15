@@ -70,5 +70,4 @@ Date: 2026-10-06
 
 ## Sources
 
-- [News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com) — 2026-10-14T22:50:43.000Z
-- [Supreme Court Again Sides With Republicans in Political TV Ad Fight](https://www.nytimes.com/2026/10/14/us/politics/supreme-court-ads-political.html?utm_source=lootura.com) — 2026-10-14T21:17:57.000Z
+No public source links.

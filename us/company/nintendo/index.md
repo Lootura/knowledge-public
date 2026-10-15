@@ -70,4 +70,4 @@ Date: 2026-08-06
 
 ## Sources
 
-- [Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made](https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2?utm_source=lootura.com) — 2026-10-14T13:00:00.000Z
+No public source links.

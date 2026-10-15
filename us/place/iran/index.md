@@ -3,10 +3,28 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
+
+### Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans
+
+Inflation jumped to 3.7%, driven by gas and diesel prices triggered by the U.S. war with Iran. NBC’s Christine Romans joins TODAY to break down which categories will see price increases and what’s behind the spike in costs.
+
+Date: 2026-10-15
+
+### Families of Sailors Killed in Iran War Struggle for Compensation and Closure
+
+Attacks near the Strait of Hormuz have claimed the lives of at least 25 seafarers. Their survivors are reeling.
+
+Date: 2026-10-15
+
+### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
+
+President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
+
+Date: 2026-10-14
 
 ### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
@@ -44,36 +62,14 @@ President Trump’s deal with Russia will probably not lower diesel prices that 
 
 Date: 2026-10-14
 
-### Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs
-
-President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.
-
-Date: 2026-10-14
-
 ### How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid
 
 For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.
 
 Date: 2026-10-14
 
-### Iran focused on attacking "harder targets," U.K. spy chief warns
-
-Iran has made a "major shift" in its efforts to attack the United Kingdom, including going after harder targets such as military bases, the head of MI5 warned.
-
-Date: 2026-10-13
-
-### Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen
-
-The Iran-backed militia warned it would attack the Saudi energy giant Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.
-
-Date: 2026-10-13
-
 ## Sources
 
-- [Houthi attacks complicating Trump administration's efforts ahead of midterms](https://www.cbsnews.com/video/middle-east-conflict-houthi-complicating-trump-administrations-efforts-midterms/?utm_source=lootura.com) — 2026-10-14T22:19:52.000Z
-- [Iran war and affordability take center stage in Senate debates](https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com) — 2026-10-14T22:10:04.000Z
-- [Breaking down September's CPI report as inflation rises to 3.7%](https://www.cbsnews.com/video/inflation-accelerated-to-37-amid-rising-energy-costs-september-cpi-report-shows/?utm_source=lootura.com) — 2026-10-14T22:34:05.000Z
-- [News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz](https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com) — 2026-10-14T22:50:43.000Z
-- [Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say](https://www.pbs.org/newshour/world/iran-backed-houthis-strike-saudi-oil-company-aramcos-headquarters-officials-say?utm_source=lootura.com) — 2026-10-14T21:33:30.000Z
+- [Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans](https://www.today.com/video/inflation-jumps-amid-rising-fuel-prices-how-it-impacts-americans-271614533760?utm_source=lootura.com) — 2026-10-15T11:19:49.000Z
 - [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
-- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z
+- [Families of Sailors Killed in Iran War Struggle for Compensation and Closure](https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html?utm_source=lootura.com) — 2026-10-15T10:54:39.000Z

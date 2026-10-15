@@ -3,10 +3,16 @@
 > Sigue la actividad de Santiago Abascal en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/santiago-abascal
 
 ## Cambios recientes
+
+### Abascal mantiene una «fructífera» reunión con Meloni en Bruselas
+
+El presidente de Vox , Santiago Abascal , se ha reunido este jueves con la primera ministra de Italia, Giorgia Meloni , en Bruselas. En un mensaje publicado en X, el político vasco ha señalado que «Occidente atraviesa un momento decisivo y Europa no puede seguir gobernándose desde la resignación» . Y ha destacado que «.
+
+Date: 2026-10-15
 
 ### Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N
 
@@ -62,12 +68,6 @@ Vox no puede sacar adelante su intento de procesar al presidente del Gobierno po
 
 Date: 2026-09-08
 
-### De Ceuta a Washington: cómo la ultraderecha convierte la inmigración en una guerra cultural global
-
-OSCAR GONZALEZ FUENTES/Shutterstock Cuando decenas de miles de personas cruzaban irregularmente hacia Ceuta el pasado 30 de julio, Santiago Abascal, líder del partido ultraderechista Vox, no dudaba en hablar ya de “invasión” . Apenas unas horas después, Donald Trump utilizó el mismo término y presentó lo ocurrido en la.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-- [Abascal se reúne con Le Pen, Orbán y Babiš en Bruselas y recibe sus apoyos para el 29N](https://www.elconfidencial.com/espana/2026-10-14/abascal-le-pen-patriotas-europa-elecciones-1tps_4445168/?utm_source=lootura.com) — 2026-10-14T19:38:00.000Z
+- [Abascal mantiene una «fructífera» reunión con Meloni en Bruselas](https://theobjective.com/espana/politica/2026-10-15/abascal-fructifera-reunion-meloni-bruselas/?utm_source=lootura.com) — 2026-10-15T15:46:44.000Z

@@ -46,4 +46,4 @@ Date: 2026-09-04
 
 ## Sources
 
-- [Watchdog group sues Trump administration over Jared Kushner’s government work](https://www.nbcnews.com/politics/trump-administration/watchdog-group-sues-trump-administration-jared-kushners-government-wor-rcna603563?utm_source=lootura.com) — 2026-10-14T22:34:29.000Z
+No public source links.

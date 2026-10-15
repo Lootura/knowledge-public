@@ -3,10 +3,16 @@
 > Sigue la actividad de El Estado Jardín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-09-16T16:06:49.960Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/nueva-jersey
 
 ## Cambios recientes
+
+### Danny DeVito, en Sitges: “Necesitamos más Matildas en el mundo. Y las tendremos”
+
+Danny DeVito (Neptune, Nueva Jersey, 81 años) es inmenso y se lo pasa en grande , incluso con las entrevistas. Calzado con crocs azules y con una de sus inconfundibles camisas, contesta y ríe a parte iguales a las preguntas de este diario este jueves. Un total de nueve minutos y 15 segundos para descubrir que DeVito ha.
+
+Date: 2026-10-15
 
 ### El caso Hasan Piker: cómo la derecha estadounidense intentó burlarse de sus fotos en ropa interior y fracasó
 
@@ -62,12 +68,6 @@ Nueva Jersey first entered the public knowledge record with source-backed eviden
 
 Date: 2026-07-19
 
-### Lamine emula a Pelé y niega a Messi
-
-En el estado de Nueva Jersey convergieron el pasado y el presente del fútbol con su futuro más inmediato. Es decir, Lionel Messi y Lamine Yamal. Lo hicieron nada menos que en la final de la Copa del Mundo. La primera entre dos países con una historia tan entrelazada como futbolera. Seguir leyendo.
-
-Date: 2026-07-19
-
 ## Fuentes
 
-No public source links.
+- [Danny DeVito, en Sitges: “Necesitamos más Matildas en el mundo. Y las tendremos”](https://elpais.com/cultura/2026-10-15/danny-devito-en-sitges-necesitamos-mas-matildas-en-el-mundo-y-las-tendremos.html?utm_source=lootura.com) — 2026-10-15T11:26:12.000Z

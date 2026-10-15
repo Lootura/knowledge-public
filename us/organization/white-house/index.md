@@ -3,10 +3,22 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### Trump says execution of Fort Hood shooter will not be livestreamed
+
+President Trump announced that the firing squad execution of Fort Hood shooter Nidal Hasan will not be livestreamed, overriding Defense Secretary Pete Hegseth’s earlier claim that it would be. NBC News' Monica Alba reports the latest details from the White House.
+
+Date: 2026-10-15
+
+### Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom
+
+We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. In total, Silicon.
+
+Date: 2026-10-15
 
 ### CNN, MS NOW and Politico prevail against White House — for now
 
@@ -56,21 +68,7 @@ Questions are rising over new White House press secretary Katie Zacharia's legal
 
 Date: 2026-10-13
 
-### Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says
-
-At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.
-
-Date: 2026-10-13
-
-### Trump’s new messenger: From the Politics Desk
-
-Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.
-
-Date: 2026-10-13
-
 ## Sources
 
-- [CNN, MS NOW and Politico prevail against White House — for now](https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban?utm_source=lootura.com) — 2026-10-14T07:16:02.000Z
-- [Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role](https://www.pbs.org/newshour/politics/katie-zacharias-debut-shows-the-pitfalls-and-possibilities-of-white-house-press-secretarys-role?utm_source=lootura.com) — 2026-10-14T14:28:04.000Z
-- [Attorney for banned outlets on legal fight over White House press access](https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access?utm_source=lootura.com) — 2026-10-14T22:40:27.000Z
-- [Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House](https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house?utm_source=lootura.com) — 2026-10-14T15:27:37.000Z
+- [Trump says execution of Fort Hood shooter will not be livestreamed](https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com) — 2026-10-15T14:34:30.000Z
+- [Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom?utm_source=lootura.com) — 2026-10-15T15:46:00.000Z

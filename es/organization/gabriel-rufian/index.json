@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/gabriel-rufian/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/gabriel-rufian/index.json",
   "description": "Sigue la actividad de Gabriel Rufián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T01:48:33.404Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”",
+      "summary": "El que fue candidato de Esquerra Republicana a la alcaldía de Barcelona en las elecciones de 2019 y 2023, Ernest Maragall, ha criticado este jueves al cabeza de lista de los republicanos al Congreso, Gabriel Rufián, al que se ha referido irónicamente como “ese conocido líder de Podemos que tiene la generosidad de venir.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Frente Amplio confirma a Colau como candidata el 29N y llama a Podemos a unirse tras su acuerdo con Rufián",
       "summary": "Los cuatro partidos del Frente Amplio han movido ficha rápidamente, después de que este lunes se conociese que Podemos hará campaña por ERC en Cataluña a cambio de que Gabriel Rufián (que finalmente será cabeza de lista de la formación separatista) participe en actos electorales de Irene Montero : tras varios días de d.",
@@ -55,13 +60,15 @@
       "title": "Rufián firma la paz con Junqueras para liderar ERC y negocia una alianza con Podemos que puede reventar el Frente Amplio",
       "summary": "Gabriel Rufián seguirá siendo la cara visible de Esquerra Republicana en el Congreso de los Diputados y el partido estudia una alianza electoral con Podemos para el 29-N que...",
       "date": "2026-10-11"
-    },
-    {
-      "title": "Rufián volverá a liderar la candidatura de ERC en el 29-N",
-      "summary": "Incógnita despejada y, con ello, parte del horizonte electoral de la izquierda para la contienda del próximo 29 de noviembre. Gabriel Rufián volverá a liderar la candidatura de Esquerra Republicana por la demarcación de Barcelona. Tras varios días de reflexión y de negociación con la dirección, Rufián seguirá al mando.",
-      "date": "2026-10-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:55:33.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

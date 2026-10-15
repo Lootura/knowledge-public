@@ -3,10 +3,16 @@
 > Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-13T23:35:46.672Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/nato
 
 ## Cambios recientes
+
+### Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN
+
+La base naval de Rota (Cádiz) ha dado este jueves la bienvenida al USS John Basilone, el sexto destructor de la armada estadounidense que se asienta en este enclave para completar el escudo antimisiles de la OTAN. Seguir leyendo...
+
+Date: 2026-10-15
 
 ### España pone a prueba a sus francotiradores de élite en unas maniobras de la OTAN en Lituania
 
@@ -62,12 +68,6 @@ El Ministerio de Defensa Nacional de Polonia ha seleccionado a la compañía loc
 
 Date: 2026-09-11
 
-### Putin le niega a Trump que tenga planes de atacar Europa
-
-Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-No public source links.
+- [Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN](https://www.lavanguardia.com/politica/20261015/11659846/rota-da-bienvenida-uss-john-basilone-sexto-destructor-escudo-antimisiles-otan.html?utm_source=lootura.com) — 2026-10-15T13:43:48.000Z

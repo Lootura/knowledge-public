@@ -3,10 +3,16 @@
 > Sigue la actividad de Begoña Gómez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/begona-gomez
 
 ## Cambios recientes
+
+### El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez
+
+El juez Pedraz investiga una presunta trama para obstaculizar causas judiciales que afectan al Gobierno y su entorno.
+
+Date: 2026-10-15
 
 ### El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía
 
@@ -62,12 +68,6 @@ Begoña Gómez, mujer del presidente del Gobierno, no tendrá que asistir este m
 
 Date: 2026-09-07
 
-### El juez Peinado cita a Begoña Gómez este martes a una audiencia preliminar antes de abrir juicio oral
-
-El magistrado Juan Carlos Peinado ha citado a Begoña Gómez, esposa de Pedro Sánchez, para que asista este martes a la audiencia preliminar necesaria para poder abrir juicio oral contra la pareja del presidente del Gobierno . El magistrado, que ha comunicado este lunes su decisión, ha fijado el acto a las 18.00 de este.
-
-Date: 2026-09-07
-
 ## Fuentes
 
-- [El caso Begoña Gómez se lleva por delante a un alto cargo de la Cámara de Cuentas de Andalucía](https://www.elmundo.es/andalucia/2026/10/14/6acfb431e9cf4a8c238b4598.html?utm_source=lootura.com) — 2026-10-14T17:51:48.000Z
+- [El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez](https://theobjective.com/espana/tribunales/2026-10-15/el-dao-de-la-guardia-civil-dice-que-marlaska-le-llamo-tras-filtrarse-el-correo-de-begona-gomez/?amp=&utm_source=lootura.com) — 2026-10-15T08:49:24.000Z

@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/izquierda-unida/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/izquierda-unida/index.json",
   "description": "Sigue la actividad de Izquierda Unida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T23:35:46.672Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+      "summary": "Frente Amplio -la alianza electoral impulsada por Movimiento Sumar, Izquierda Unida, Más Madrid y Catalunya en Comú- ha rechazado este jueves de forma tajante cualquier intento de “trocear” los acuerdos electorales de la llamada izquierda alternativa en función de “intereses partidistas”. La coalición ha cerrado filas.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Frente Amplio confirma a Emilio Delgado como cabeza de lista en Madrid",
       "summary": "Frente Amplio ha confirmado a Emilio Delgado como cabeza de lista en Madrid para las elecciones generales del próximo 29 de noviembre . El acuerdo ha sido comunicado este martes por las cuatro formaciones que integran la coalición de extrema izquierda: Más Madrid, Comuns, Movimiento Sumar e Izquierda Unida. El anuncio.",
@@ -52,6 +57,13 @@
       "date": "2026-08-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T12:26:40.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

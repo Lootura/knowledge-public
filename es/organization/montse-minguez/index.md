@@ -34,6 +34,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [La sociedad con la que la pareja de Montse Mínguez se ha enriquecido con los alquileres lleva 5 años sin pagar impuestos](https://www.eldebate.com/espana/20261015/sociedad-pareja-montse-minguez-enriquecido-alquileres-lleva-5-anos-pagar-impuestos_469666.html?utm_source=lootura.com) — 2026-10-15T02:30:00.000Z
-- [El PP carga contra la "hipocresía" de la portavoz del PSOE por los "30 pisos" de su pareja: "Es una buitre consorte"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf7bd3e4d4d8d2338b45c3.html?utm_source=lootura.com) — 2026-10-14T13:24:27.000Z
-- [Los "30 pisos" de la pareja de la portavoz de Ferraz le explotan al PSOE en su campaña contra los "rentistas"](https://www.elmundo.es/espana/2026/10/14/6acfd0c5e9cf4a98198b45c6.html?utm_source=lootura.com) — 2026-10-14T20:43:27.000Z
+No public source links.

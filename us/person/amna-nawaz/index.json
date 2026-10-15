@@ -64,19 +64,6 @@
       "date": "2026-09-01"
     }
   ],
-  "sources": [
-    {
-      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
-      "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:45:37.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Economist breaks down new inflation report and what's driving prices higher",
-      "url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:55:14.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

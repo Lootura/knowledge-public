@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/ukraine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/ukraine/index.json",
   "description": "Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Kyiv",
     "Ukr.",
@@ -17,6 +17,36 @@
     "Ukraïna"
   ],
   "changes": [
+    {
+      "title": "Morning news brief",
+      "summary": "Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
+      "summary": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+      "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+      "date": "2026-10-14"
+    },
     {
       "title": "How Starlink disruptions affected Ukraine's battlefield operations",
       "summary": "A key component of Ukraine's communications network was partially disabled on Wednesday. The Starshield satellite network, funded by the Pentagon and operated by Elon Musk's SpaceX, was not operating at full capacity, hampering communications within the Ukrainian military. Liz Landers reports and Amna Nawaz discusses t.",
@@ -28,11 +58,6 @@
       "date": "2026-10-14"
     },
     {
-      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-      "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
-      "date": "2026-10-14"
-    },
-    {
       "title": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
       "summary": "Confusion about the U.S. stance has mounted in Kyiv amid restrictions on how the military version of Starlink is used.",
       "date": "2026-10-14"
@@ -41,44 +66,31 @@
       "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
       "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
       "date": "2026-10-14"
-    },
-    {
-      "title": "Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure",
-      "summary": "Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Trump addresses Guilfoyle resignation, intel sharing with Ukraine as he departs for Alaska",
-      "summary": "President Donald Trump told reporters that officials \"didn't like what we were reading\" about Kimberly Guilfoyle, who resigned as ambassador to Greece on Tuesday.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says",
-      "summary": "At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
     {
-      "title": "How Starlink disruptions affected Ukraine's battlefield operations",
-      "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:45:37.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike",
+      "url": "https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:27:34.000Z",
+      "sourceId": "lootura-us-nbc-news"
     },
     {
-      "title": "Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze",
-      "url": "https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T16:09:18.000Z",
+      "title": "Morning news brief",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T08:46:47.000Z",
+      "sourceId": "lootura-us-npr"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T10:05:58.000Z",
+      "sourceId": "lootura-us-npr-world"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+      "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:30:23.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
@@ -88,17 +100,17 @@
       "sourceId": "lootura-us-the-new-york-times"
     },
     {
-      "title": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T23:11:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
+      "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:05:20.000Z",
+      "sourceId": "lootura-us-the-new-york-times-world"
     },
     {
-      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T23:30:02.000Z",
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:27:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-world"
     }
   ],
-  "evidenceCount": 5
+  "evidenceCount": 6
 }

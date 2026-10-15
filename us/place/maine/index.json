@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -17,6 +17,11 @@
     "US-ME"
   ],
   "changes": [
+    {
+      "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+      "summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.",
+      "date": "2026-10-15"
+    },
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "summary": "Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.",
@@ -61,26 +66,15 @@
       "title": "L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI",
       "summary": "L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat",
-      "summary": "Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.",
-      "date": "2026-09-10"
     }
   ],
   "sources": [
     {
-      "title": "Iran war and affordability take center stage in Senate debates",
-      "url": "https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:10:04.000Z",
-      "sourceId": "lootura-us-cbs-news"
-    },
-    {
-      "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T13:51:47.000Z",
+      "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:16:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

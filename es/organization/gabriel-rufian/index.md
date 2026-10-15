@@ -3,10 +3,16 @@
 > Sigue la actividad de Gabriel Rufián en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-13T01:48:33.404Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/gabriel-rufian
 
 ## Cambios recientes
+
+### Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”
+
+El que fue candidato de Esquerra Republicana a la alcaldía de Barcelona en las elecciones de 2019 y 2023, Ernest Maragall, ha criticado este jueves al cabeza de lista de los republicanos al Congreso, Gabriel Rufián, al que se ha referido irónicamente como “ese conocido líder de Podemos que tiene la generosidad de venir.
+
+Date: 2026-10-15
 
 ### Frente Amplio confirma a Colau como candidata el 29N y llama a Podemos a unirse tras su acuerdo con Rufián
 
@@ -62,12 +68,6 @@ Gabriel Rufián seguirá siendo la cara visible de Esquerra Republicana en el Co
 
 Date: 2026-10-11
 
-### Rufián volverá a liderar la candidatura de ERC en el 29-N
-
-Incógnita despejada y, con ello, parte del horizonte electoral de la izquierda para la contienda del próximo 29 de noviembre. Gabriel Rufián volverá a liderar la candidatura de Esquerra Republicana por la demarcación de Barcelona. Tras varios días de reflexión y de negociación con la dirección, Rufián seguirá al mando.
-
-Date: 2026-10-11
-
 ## Fuentes
 
-No public source links.
+- [Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”](https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com) — 2026-10-15T11:55:33.000Z

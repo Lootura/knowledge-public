@@ -3,10 +3,16 @@
 > Sigue la actividad de Ester Muñoz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-11T17:18:34.354Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/ester-munoz
 
 ## Cambios recientes
+
+### Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir
+
+En pleno arranque de la precampaña electoral del 29-N, el debate sobre el futuro de las pensiones ha arreciado con fuerza particularmente después de que la portavoz del PP, Ester Muñoz, asegurara en una entrevista en un pódcast que el sistema de pensiones, tal y como está en estos momentos, va a “colapsar” y va a “peta.
+
+Date: 2026-10-15
 
 ### El PP replica al PSOE que el “sacrificio” no tiene “nada que ver con los recortes”: “Si te esfuerzas, tienes recompensa”
 
@@ -34,4 +40,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-No public source links.
+- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z

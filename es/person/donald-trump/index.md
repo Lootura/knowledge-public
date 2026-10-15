@@ -3,10 +3,40 @@
 > Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/donald-trump
 
 ## Cambios recientes
+
+### Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados
+
+El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. "Morirá, como estaba previsto, por fusilamiento, per.
+
+Date: 2026-10-15
+
+### Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE
+
+La Comisión Europea está "analizando detenidamente" las medidas que ultima la Administración de Donald Trump para imponer una tasa de 200.000 dólares (180.000 euros) por viaje a los barcos españoles -en represalia a prácticas que consideran restrictivas contra buques de bandera estadounidense en puertos españoles-, al.
+
+Date: 2026-10-15
+
+### Trump dice ahora que la ejecución del atacante de Fort Hood no será emitida en directo
+
+Donald Trump ha dado marcha atrás al polémico plan del Pentágono: emitir en directo por internet una ejecución militar, algo de lo que no hay precedentes en el mundo, ni siquiera en regímenes autoritarios en los que las ejecuciones públicas todavía existen. Se trata de la aplicación de la pena capital a Nidal Malik Has.
+
+Date: 2026-10-15
+
+### Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump
+
+La “tregua energética” que anunció Donald Trump el fin de semana, mal llamada así porque en Kyiv se mostraron sorprendidos y en Moscú no la habían aceptado previamente, ni siquiera comenzó nunca. Las pocas esperanzas de que la iniciativa solitaria del presidente de Estados Unidos forzase un pacto se han terminado este.
+
+Date: 2026-10-15
+
+### Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar
+
+El presidente de Estados Unidos , Donald Trump , anunció este martes que ha descartado su plan inicial de retransmitir en directo la ejecución por fusilamiento de Nidal Malik Hasan , un exmilitar estadounidense condenado a muerte por asesinar a trece personas en un tiroteo perpetrado en 2009. «Morirá, según lo previsto.
+
+Date: 2026-10-15
 
 ### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
@@ -38,36 +68,11 @@ La alta representante Kallas defiende que "no es el momento de aliviar la tensi�
 
 Date: 2026-10-12
 
-### Zelenski acusa a Rusia de violar el «alto el fuego energético» anunciado por Trump
-
-El presidente de Ucrania, Volodimir Zelenski , ha acusado a Rusia de llevar a cabo varios ataques contra su país, incluido uno contra una instalación gasística, «violando» el alto el fuego energético con carácer inmediato anunciado este domingo por su homólogo estadounidense, Donald Trump, y del que las autoridades rus.
-
-Date: 2026-10-12
-
-### Trump anuncia un "alto el fuego para la energía" entre Rusia y Ucrania: "¡No lo rompáis!"
-
-El presidente estadounidense, Donald Trump , ha anunciado este domingo que Rusia y Ucrania han acordado suspender los ataques contra sus respectivas infraestructuras energéticas , que en las últimas semanas han ido escalando y han afectado a los precios de los combustibles a nivel global. "Con efecto inmediato se estab.
-
-Date: 2026-10-11
-
-### Trump vuelve a anunciar un «alto el fuego energético» entre Rusia y Ucrania y Zelenski se abre a elecciones
-
-Donald Trump anunció este domingo que Rusia y Ucrania dejarán de atacar sus respectivos sectores energéticos, un día después de que el presidente de EE.UU. exigiera la salida del presidente ucraniano, Volodimir Zelenski, por los bombardeos a refinerías rusas.«Con efecto inmediato, ha comenzado un alto el fuego energéti.
-
-Date: 2026-10-11
-
-### Trump afirma que Rusia y Ucrania han alcanzado un "alto el fuego energético", pero Zelenski asegura no estar al corriente
-
-El presidente ucraniano ofrece celebrar elecciones si Rusia acepta 60 días de alto el fuego Leer.
-
-Date: 2026-10-11
-
-### Trump anuncia una tregua energética de carácter “inmediato” entre Rusia y Ucrania
-
-El presidente de Estados Unidos, Donald Trump, ha informado este domingo a través de su perfil de la red social Truth de que Rusia y Ucrania han alcanzado un acuerdo de tregua energética que entrará en vigor de inmediato. “Ambas partes han llegado a un acuerdo. ¡No lo rompáis!“, ha informado el líder republicano en un.
-
-Date: 2026-10-11
-
 ## Fuentes
 
+- [Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados](https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html?utm_source=lootura.com) — 2026-10-15T14:37:46.000Z
+- [Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE](https://www.20minutos.es/internacional/bruselas-analiza-con-espana-las-medidas-trump-contra-buques-espanoles-defendera-los-intereses-ue_7049249_0.html?utm_source=lootura.com) — 2026-10-15T14:01:33.000Z
+- [Trump dice ahora que la ejecución del atacante de Fort Hood no será emitida en directo](https://www.abc.es/internacional/trump-descarta-finalmente-retransmitir-directo-ejecucion-autor-20261015162715-nt.html?utm_source=lootura.com) — 2026-10-15T15:34:33.000Z
 - [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
+- [Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump](https://www.lavanguardia.com/internacional/20261015/11659690/ucrania-reanuda-los-ataques-a-las-refinerias-rusas-riazan-y-entierra-la-tregua-energetica-de-trump.html?utm_source=lootura.com) — 2026-10-15T11:13:40.000Z
+- [Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar](https://theobjective.com/internacional/2026-10-15/trump-retransmitir-directo-fusilamiento-exmilitar/?utm_source=lootura.com) — 2026-10-15T15:19:32.000Z

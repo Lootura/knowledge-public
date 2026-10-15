@@ -70,4 +70,4 @@ Date: 2026-10-03
 
 ## Fuentes
 
-- [Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)](https://www.elconfidencial.com/espana/2026-10-14/herido-reventon-neumatico-taller-toledo-1tna-1tps_4445162/?utm_source=lootura.com) — 2026-10-14T19:14:00.000Z
+No public source links.

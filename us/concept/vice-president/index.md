@@ -3,7 +3,7 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-10-13T23:36:04.754Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Sources
 
-No public source links.
+- [AOC campaigning for fellow progressive El-Sayed at event in red upper Michigan](https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/?utm_source=lootura.com) — 2026-10-15T14:40:00.000Z

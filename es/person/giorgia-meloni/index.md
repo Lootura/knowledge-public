@@ -3,10 +3,16 @@
 > Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-08T21:01:26.973Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/giorgia-meloni
 
 ## Cambios recientes
+
+### Abascal mantiene una «fructífera» reunión con Meloni en Bruselas
+
+El presidente de Vox , Santiago Abascal , se ha reunido este jueves con la primera ministra de Italia, Giorgia Meloni , en Bruselas. En un mensaje publicado en X, el político vasco ha señalado que «Occidente atraviesa un momento decisivo y Europa no puede seguir gobernándose desde la resignación» . Y ha destacado que «.
+
+Date: 2026-10-15
 
 ### Giorgia Meloni sale reforzada con la aprobación de la nueva Ley Electoral con la que Italia irá a las próximas elecciones generales
 
@@ -62,12 +68,6 @@ Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límit
 
 Date: 2026-08-11
 
-### Socialdemócratas contra la inmigración
-
-Hay gestos políticos que valen más que mil discursos, y el que acaba de escenificar Mette Frederiksen junto a Giorgia Meloni es uno de ellos. La primera ministra danesa , esa misma dirigente de la izquierda nórdica que autorizó confiscar joyas a inmigrantes ilegales sorprendidos tras violar la frontera de su país, algo.
-
-Date: 2026-08-11
-
 ## Fuentes
 
-No public source links.
+- [Abascal mantiene una «fructífera» reunión con Meloni en Bruselas](https://theobjective.com/espana/politica/2026-10-15/abascal-fructifera-reunion-meloni-bruselas/?utm_source=lootura.com) — 2026-10-15T15:46:44.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/wall-street/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/wall-street/index.json",
   "description": "Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-04T13:40:48.194Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Wall St"
   ],
@@ -49,6 +49,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+      "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:30:11.000Z",
+      "sourceId": "lootura-us-the-guardian-us"
+    }
+  ],
   "evidenceCount": 0
 }

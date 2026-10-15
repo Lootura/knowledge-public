@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-13T23:36:04.754Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "EVP",
     "VP",
@@ -66,6 +66,13 @@
       "date": "2026-09-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "AOC campaigning for fellow progressive El-Sayed at event in red upper Michigan",
+      "url": "https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:40:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

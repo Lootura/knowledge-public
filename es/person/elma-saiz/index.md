@@ -3,10 +3,16 @@
 > Sigue la actividad de Elma Sáiz Delgado en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/elma-saiz
 
 ## Cambios recientes
+
+### Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno
+
+La portavoz del Gobierno y ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, está estos días en el ojo del huracán por el cuestionamiento de la viabilidad del sistema público de pensiones. La ministra ha reiterado este jueves la defensa de su sostenibilidad y ha ido más allá: todas las cifras económicas.
+
+Date: 2026-10-15
 
 ### El Gobierno desclasifica 40 documentos para demostrar que nadie avisó de que venía el mayor salto a Ceuta de la historia
 
@@ -62,12 +68,6 @@ El Gobierno habilitará una partida extraordinaria de 25 millones de euros dirig
 
 Date: 2026-08-04
 
-### España supera por primera vez los 22,5 millones de afiliados pese al repunte del paro
-
-El mercado laboral mantuvo en julio la senda de récords para la creación de empleo. España superó por primera vez los 22,5 millones de afiliados a la Seguridad Social, según los datos publicados este martes por el Ministerio de Inclusión, Seguridad Social y Migraciones, que dirige Elma Saiz. La afiliación aumentó en 41.
-
-Date: 2026-08-04
-
 ## Fuentes
 
-No public source links.
+- [Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/elma-saiz-asegura-que-las-cifras-economicas-alimentan-el-optimismo-del-gobierno.html?utm_source=lootura.com) — 2026-10-15T12:32:59.000Z

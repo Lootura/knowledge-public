@@ -67,19 +67,6 @@
       "date": "2026-10-06"
     }
   ],
-  "sources": [
-    {
-      "title": "News Wrap: Iran says cargo ship sank after hitting a mine in Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-iran-says-cargo-ship-sank-after-hitting-a-mine-in-strait-of-hormuz?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:50:43.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
-    },
-    {
-      "title": "Supreme Court Again Sides With Republicans in Political TV Ad Fight",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-ads-political.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:17:57.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

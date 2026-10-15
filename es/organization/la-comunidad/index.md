@@ -70,4 +70,4 @@ Date: 2026-09-03
 
 ## Fuentes
 
-- [La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"](https://www.elmundo.es/madrid/2026/10/14/6acf546521efa0d0238b4587.html?utm_source=lootura.com) — 2026-10-14T11:09:48.000Z
+No public source links.

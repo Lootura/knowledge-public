@@ -3,10 +3,16 @@
 > Sigue la actividad de Gobierno de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-13T23:35:46.672Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/gobierno-de-espana
 
 ## Cambios recientes
+
+### Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones
+
+El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.
+
+Date: 2026-10-15
 
 ### Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”
 
@@ -62,12 +68,6 @@ La tibieza del presidente del Gobierno español con Rabat contrasta con su firme
 
 Date: 2026-09-02
 
-### La presidenta de la FEMP asegura que las concentraciones por Ceuta no son "partidistas" y lamenta los "insultos" del PSOE
-
-Asegura que se trata de la primera vez que desde el Gobierno de España "se intenta parar" una concentración convocada por esta federación.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-No public source links.
+- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z

@@ -28,5 +28,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-- [Un enorme Betis vuela muy alto y remonta ante el Oporto](https://elpais.com/deportes/futbol/2026-10-14/un-enorme-betis-vuela-muy-alto-y-remonta-ante-el-oporto.html?utm_source=lootura.com) — 2026-10-14T21:59:06.000Z
-- [El Betis regala a su afición una remontada ante el Oporto para seguir invicto en Champions](https://theobjective.com/deportes/futbol/champions-league/2026-10-14/betis-remontada-oporto-invicto-champions/?amp=&utm_source=lootura.com) — 2026-10-14T21:36:50.000Z
+No public source links.

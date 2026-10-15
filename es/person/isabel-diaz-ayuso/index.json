@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/isabel-diaz-ayuso/index.json",
   "description": "Sigue la actividad de Isabel Díaz Ayuso en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T22:58:11.537Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Ayuso",
     "Isabel",
     "Isabel Natividad Díaz Ayuso"
   ],
   "changes": [
+    {
+      "title": "Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”",
+      "summary": "Isabel Díaz Ayuso, si se asoma por la ventana de su despacho, puede ver a miles de personas manifestándose en su contra. Le llueven insultos de gente a la que ella cree que le puede el odio y está abducida por las consignas de la izquierda. La presidenta no va a dar su brazo a torcer, asegura, ni con los profesores y l.",
+      "date": "2026-10-15"
+    },
     {
       "title": "La Comunidad de Madrid denuncia ante la Fiscalía posibles delitos de odio contra Ayuso en la acampada",
       "summary": "La Comunidad de Madrid ha dicho 'basta' ante los insultos y amenazas que se están vertiendo contra la presidenta regional, Isabel Díaz Ayuso , al calor de la acampada en la Puerta del Sol, de manera totalmente impune hasta ahora. Desde que se inició esa acampada el 26 de septiembre, han podido leerse amenazas: «Ayuso,.",
@@ -59,13 +64,15 @@
       "title": "Lo importante es el bulo del culo",
       "summary": "La frase retumba con la intención de convertirse en titular: “ El bulo del culo de la semana viene (...)”. Su autora es Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid. Y no está improvisando. Todo lo contrario. Lanza un anzuelo, a ver si pica el pez. Pone un capote, por si embiste el toro. Porque lo que hace l.",
       "date": "2026-09-17"
-    },
-    {
-      "title": "La subasta por el ático de Ayuso queda desierta por falta de ofertas",
-      "summary": "Planifica Madrid, la empresa pública de la Comunidad de Madrid que compró en abril el polémico ático de Chamberí, cuyo propósito ha perseguido durante todo el verano a la presidenta Isabel Díaz Ayuso, no ha recibido oferta alguna por el inmueble tras ponerlo a la venta, por lo que se ha propuesto declarar desierta la c.",
-      "date": "2026-09-17"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”",
+      "url": "https://elpais.com/espana/madrid/2026-10-15/ayuso-vuelve-a-la-asamblea-con-la-estela-de-la-huelga-en-educacion-y-su-oposicion-frontal-a-sol.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T08:46:29.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

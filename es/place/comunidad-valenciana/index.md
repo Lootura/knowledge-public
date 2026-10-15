@@ -3,10 +3,22 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-13T01:48:33.404Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida
+
+El profesorado de la enseñanza pública de la Comunidad de Madrid inició este miércoles una huelga indefinida que empezó a gestarse a finales del curso pasado, cuando, a la vista de lo que estaba sucediendo en la Comunidad Valenciana y Cataluña, sindicatos y otras organizaciones vinculadas al mundo educativo anunciaron.
+
+Date: 2026-10-15
+
+### Escuchar a los profesores
+
+Los docentes madrileños, como antes los de Cataluña y la Comunidad Valenciana, expresan con la convocatoria de huelga a partir de esta semana un malestar con causas comunes en buena parte de España y que explica la decisión de movilizarse. El seguimiento ha sido considerable en el primer día de paros: casi la mitad del.
+
+Date: 2026-10-15
 
 ### La delegada del gobierno del 'currículum fake' será la cabeza de lista del PSOE en Valencia en las generales
 
@@ -56,18 +68,7 @@ Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barba
 
 Date: 2026-09-12
 
-### Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente
-
-La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...
-
-Date: 2026-09-08
-
-### Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías
-
-Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.
-
-Date: 2026-09-08
-
 ## Fuentes
 
-No public source links.
+- [Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida](https://elpais.com/educacion/2026-10-15/que-quieren-los-profesores-de-madrid-claves-de-la-huelga-educativa-indefinida.html?utm_source=lootura.com) — 2026-10-15T06:51:01.000Z
+- [Escuchar a los profesores](https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com) — 2026-10-15T03:30:01.000Z

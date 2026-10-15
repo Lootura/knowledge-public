@@ -3,10 +3,16 @@
 > Sigue la actividad de Emilio Delgado Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T03:30:04.027Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/emilio-delgado
 
 ## Cambios recientes
+
+### Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”
+
+Hijo de un albañil y sindicalista de CC OO, y de madre ama de casa, criado entre Móstoles y Vallecas, Emilio Delgado (Madrid, 50 años) ha sido el elegido por el Frente Amplio para liderar la candidatura por Madrid después de muchos vaivenes y de guerras internas. Tiene por delante el reto de su vida. Recibe a EL PAÍS e.
+
+Date: 2026-10-15
 
 ### Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona
 
@@ -46,4 +52,4 @@ Date: 2026-10-11
 
 ## Fuentes
 
-No public source links.
+- [Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”](https://elpais.com/espana/elecciones-generales/2026-10-15/emilio-delgado-sobre-que-irene-montero-lidere-la-lista-de-madrid-me-costaria-mucho-explicarlo-podemos-es-una-fuerza-extraparlamentaria.html?utm_source=lootura.com) — 2026-10-15T14:54:33.000Z

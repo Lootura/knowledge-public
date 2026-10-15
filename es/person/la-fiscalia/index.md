@@ -2,11 +2,23 @@
 
 > Sigue la actividad de La Fiscalía en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
-- Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Type: place
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/la-fiscalia
 
 ## Cambios recientes
+
+### Calama amplía el caso Plus Ultra a tres cargos de la Seguridad Social por el rescate tras una reunión de Zapatero con Escrivá
+
+La Fiscalía aprecia indicios de prevaricación y falsedad en las gestiones que permitieron aplazar una deuda de 452.000 euros de la aerolínea.
+
+Date: 2026-10-15
+
+### El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real
+
+La Fiscalía ha mantenido este jueves su petición de pena de 46 años de prisión para el principal acusado y de 19 años para el segundo por los asesinatos.
+
+Date: 2026-10-15
 
 ### Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York
 
@@ -56,20 +68,7 @@ El escrito de conclusiones del Ministerio Público resalta que la esposa del pre
 
 Date: 2026-10-07
 
-### La Fiscalía abre diligencias contra el youtuber Iñaki Angulo por comentarios homófobos sobre Bellerín
-
-La Fiscalía Provincial de Madrid ha incoado diligencias de investigacion contra el youtuber y creador de contenidos Iñaki Angulo a raíz de unas manifestaciones de carácter homófobo realizadas por el comunicador sobre la figura de Héctor Bellerín , futbolista del Real Betis , durante la emisión de uno de sus directos, s.
-
-Date: 2026-10-06
-
-### El ex jefe del espionaje alemán, detenido por negociar con secretos de Estado
-
-La Fiscalía sostiene que pretendía aprovechar comercialmente la información obtenida de su antigua institución Leer.
-
-Date: 2026-10-06
-
 ## Fuentes
 
-- [Nicolás Maduro y su mujer, Cilia Flores, citados a declarar este jueves ante un juez en Nueva York](https://www.abc.es/internacional/juez-nueva-york-cita-declarar-jueves-nicolas-20261015023147-nt_amp.html?utm_source=lootura.com) — 2026-10-15T00:31:47.000Z
-- [La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias](https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html?utm_source=lootura.com) — 2026-10-14T17:38:47.000Z
-- [La Fiscalía rectifica y avala que la Audiencia investigue a Julio Iglesias por agresión sexual](https://theobjective.com/espana/tribunales/2026-10-14/fiscalia-investiga-julio-iglesias-agresion-sexual/?utm_source=lootura.com) — 2026-10-14T20:42:30.000Z
+- [Calama amplía el caso Plus Ultra a tres cargos de la Seguridad Social por el rescate tras una reunión de Zapatero con Escrivá](https://www.elcorreo.com/politica/calama-amplia-plus-ultra-tres-cargos-seguridad-20261015175748-ntrc_amp.html?utm_source=lootura.com) — 2026-10-15T15:57:49.000Z
+- [El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real](https://theobjective.com/sociedad/suceso/2026-10-15/fiscal-46-19-anos-carcel-asesinatos-ciudad-real/?amp=&utm_source=lootura.com) — 2026-10-15T16:03:32.000Z

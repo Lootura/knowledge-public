@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/giorgia-meloni/index.json",
   "description": "Sigue la actividad de Giorgia Meloni en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-08T21:01:26.973Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Giorgia",
     "Giorgia de Bastian",
     "Meloni"
   ],
   "changes": [
+    {
+      "title": "Abascal mantiene una «fructífera» reunión con Meloni en Bruselas",
+      "summary": "El presidente de Vox , Santiago Abascal , se ha reunido este jueves con la primera ministra de Italia, Giorgia Meloni , en Bruselas. En un mensaje publicado en X, el político vasco ha señalado que «Occidente atraviesa un momento decisivo y Europa no puede seguir gobernándose desde la resignación» . Y ha destacado que «.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Giorgia Meloni sale reforzada con la aprobación de la nueva Ley Electoral con la que Italia irá a las próximas elecciones generales",
       "summary": "La nueva norma favorece a las coaliciones y prevé la existencia de un 'premio de mayoría' para aquella que logre el 42% de los votos, que obtendrá el 55% de los parlamentarios Leer.",
@@ -59,13 +64,15 @@
       "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática no»",
       "summary": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venganzas y más represalias. Órdagos, reprimendas e intensificaci.",
       "date": "2026-08-11"
-    },
-    {
-      "title": "Socialdemócratas contra la inmigración",
-      "summary": "Hay gestos políticos que valen más que mil discursos, y el que acaba de escenificar Mette Frederiksen junto a Giorgia Meloni es uno de ellos. La primera ministra danesa , esa misma dirigente de la izquierda nórdica que autorizó confiscar joyas a inmigrantes ilegales sorprendidos tras violar la frontera de su país, algo.",
-      "date": "2026-08-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Abascal mantiene una «fructífera» reunión con Meloni en Bruselas",
+      "url": "https://theobjective.com/espana/politica/2026-10-15/abascal-fructifera-reunion-meloni-bruselas/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:46:44.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 1
 }

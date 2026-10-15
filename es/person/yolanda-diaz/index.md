@@ -3,10 +3,16 @@
 > Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-08T21:01:26.973Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/yolanda-diaz
 
 ## Cambios recientes
+
+### Yolanda Díaz, a los empresarios: “Mejoren los salarios. El esfuerzo no puede caer solo en el SMI”
+
+La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, dio el primer paso la semana pasada para volver a subir el salario mínimo interprofesional con la convocatoria de la comisión de expertos que recomendará cuándo debe crecer para no perder poder adquisitivo ni alejarse del 60% del salario medio. El suelo sal.
+
+Date: 2026-10-15
 
 ### Díaz da este mes a los expertos para plantear sus propuestas de subida del salario mínimo
 
@@ -62,12 +68,6 @@ Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras cl
 
 Date: 2026-07-24
 
-### Discovered by Atlas
-
-Yolanda Díaz first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-07-23
-
 ## Fuentes
 
-No public source links.
+- [Yolanda Díaz, a los empresarios: “Mejoren los salarios. El esfuerzo no puede caer solo en el SMI”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/yolanda-diaz-a-los-empresarios-mejoren-los-salarios-el-esfuerzo-no-puede-caer-solo-en-el-smi.html?utm_source=lootura.com) — 2026-10-15T13:13:04.000Z

@@ -3,80 +3,80 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
 
-### Repsol contraataca a Iberdrola con una campaña comercial histórica
+### Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE
 
-Repsol, primera petrolera en España y cuarta eléctrica, va a iniciar una ofensiva comercial sin precedentes para acelerar su crecimiento en clientes de luz y gas, y consolidar...
+La Comisión Europea está "analizando detenidamente" las medidas que ultima la Administración de Donald Trump para imponer una tasa de 200.000 dólares (180.000 euros) por viaje a los barcos españoles -en represalia a prácticas que consideran restrictivas contra buques de bandera estadounidense en puertos españoles-, al.
 
 Date: 2026-10-15
 
-### Jesús Suso (Vodafone): “Las redes son el corazón de la economía digital”
+### Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE
 
-Acontecimientos como la pandemia, que paralizó las economías e hizo del teletrabajo una herramienta esencial, los ciberataques que han puesto de relieve la vulnerabilidad de empresas e instituciones o el apagón eléctrico que sacudió a España han obligado a las compañías a replantearse sus prioridades tecnológicas. La p.
+El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Melilla baña de cariño a los Reyes 19 años después y señala a Marruecos: "Escucha Mohamed: ¡que viva España, eh!"
+### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
 
-Los Reyes, aclamados en la ciudad autónoma como la víspera en Ceuta. Silbidos y gritos de "fuera, fuera" contra la delegada del Gobierno Leer.
+Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### El Rey, en Melilla: “Estamos preparados para defender nuestros valores y libertades”
+### Escuchar a los profesores
 
-El Rey ya lo advirtió ayer en Ceuta y lo ha vuelto a hacer este miércoles en Melilla: ambas ciudades autónomas son parte innegociable de España. Es un mensaje recurrente desde que los pasados 30 y 31 de julio entraran más de 80.000 personas desde Marruecos por la frontera del Tarajal tensionando la convivencia en Ceuta.
+Los docentes madrileños, como antes los de Cataluña y la Comunidad Valenciana, expresan con la convocatoria de huelga a partir de esta semana un malestar con causas comunes en buena parte de España y que explica la decisión de movilizarse. El seguimiento ha sido considerable en el primer día de paros: casi la mitad del.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Una joven de 20 años compra una casa por 9.000 € en el pueblo de su abuela en Cuenca y sólo reformar el tejado le cuesta más que la vivienda
+### La Junta Electoral expedienta a Sánchez por sus "manifestaciones valorativas" en una rueda de prensa en Moncloa
 
-Comprar una casa por menos de lo que cuesta un coche de segunda mano parece imposible en España, pero en los pueblos más despoblados todavía ocurre. El problema llega después, cuando toca ponerla en pie. Irene Vila, una psicóloga valenciana de 20 años, lo está comprobando en la Serranía de Cuenca . Allí rehabilita una.
+El organismo exige a la Presidencia del Gobierno que retire las declaraciones del jefe del Ejecutivo sobre la oposición y los logros de España de todos los soportes y pide a Sánchez que "observe el deber de neutralidad política" La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el e.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### James Chambers, el millonario «comunista» detenido en España por petición de EEUU
+### Defensa envía a la Justicia los audios de elDiario.es en los que militares presumen de sus palizas a migrantes en Ceuta
 
-James Cox Chambers , un millonario estadounidense tatuado con las caras de Mao Zedong y Stalin , está preso en Aranjuez (Madrid). Su historia se remonta a una fortuna familiar que las autoridades de EEUU apuntan que ha sido utilizada para fines terroristas. Tras vender el patrimonio heredado, ‘Ferge’ –sobrenombre por e.
+El director de Amnistía Internacional España se ha referido también este jueves a los audios publicados por elDiario.es: "Confirman algo muy importante, que no es legítima defensa de los militares en casos de agresiones, sino que simplemente son operaciones de castigo que buscan humillar a inmigrantes" Investigación -.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Música indie, la Potra Salvaje, un gran deseo 'eurofan' o una ex: así será el Benidorm Fest 2027
+### José Vicente de los Mozos (Ifema): "La F1 ha dejado 545 millones en Madrid"
 
-Aunque España se mantiene fuera de Eurovisión mientras no se imponga el veto a Israel, el Benidorm Fest continúa su andadura de manera independiente al Festival de la Canción. Reivindicándose por segundo año como un festival con identidad propia, la sexta edición del certamen levantino calienta motores: este miércoles.
+La Fórmula 1 acelera el negocio de Madrid. El primer Gran Premio de España celebrado en la capital ha generado un impacto económico de 545 millones de euros , frente a los 450 millones previstos inicialmente, lo que supone superar las estimaciones en un 21%. "El impacto para Madrid lo ciframos inicialmente en 450 millo.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### España es la única gran economía del euro que pierde productividad desde 2018 pese a recibir 100.000 milllones de fondos europeos
+### ‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España
 
-El Fondo Monetario Internacional señala la excepción española que, por el contrario, lidera la subida de los costes laborales en la Eurozona Leer.
+La noticia que todos los aficionados a los escándalos de Silicon Valley por fin ha llegado. You can see everything , el documental de Nathal Fielder sobre Elizabeth Holmes , se estrenará en cines en España. El proyecto levantó un revuelo enorme hace unas semanas cuando, con el lanzamiento de su primer teaser tráiler, s.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Prosegur entra en el negocio de la Defensa y aspira a contratos militares
+### México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»
 
-Prosegur desembarca en el sector de la Defensa y aspira a entrar como subcontratista en diversos programas militares, tanto en España como en los otros países en los que opera la compañía. Para ello, la empresa ha creado una nueva área denominada Prosegur Technology & Defense , que viene a ampliar el actual vertical de.
+El ministro de Exteriores de México , Roberto Velasco, ha destacado que las relaciones con España «atraviesan uno de sus mejores momentos», después de unos meses en los que los lazos bilaterales han estado marcados por un impulso de normalización para dejar atrás los encontronazos en torno a la Conquista, según Europa.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Barclays avisa del 'riesgo Vox' para el coste de la deuda de España
+### Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones
 
-La relativa tranquilidad con que los inversores esperan las próximas elecciones generales en España tiene su reflejo en la última encuesta de Bank of America a los gestores internacionales de fondos, que colocan al Ibex como su parqué preferido en Europa para los próximos 12 meses . Seguir leyendo.
+El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
 ## Fuentes
 
-- [Música indie, la Potra Salvaje, un gran deseo 'eurofan' o una ex: así será el Benidorm Fest 2027](https://www.abc.es/play/television/eurovision/artistas-participaran-benidorm-fest-2027-lista-completa-20261014185642-nt.html?utm_source=lootura.com) — 2026-10-14T23:36:29.000Z
-- [Jesús Suso (Vodafone): “Las redes son el corazón de la economía digital”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/jesus-suso-vodafone-las-redes-son-el-corazon-de-la-economia-digital.html?utm_source=lootura.com) — 2026-10-14T16:58:20.000Z
-- [Melilla baña de cariño a los Reyes 19 años después y señala a Marruecos: "Escucha Mohamed: ¡que viva España, eh!"](https://www.elmundo.es/espana/2026/10/14/6acf65d521efa0ca358b4577.html?utm_source=lootura.com) — 2026-10-14T11:45:26.000Z
-- [España es la única gran economía del euro que pierde productividad desde 2018 pese a recibir 100.000 milllones de fondos europeos](https://www.elmundo.es/economia/2026/10/15/6acfc0db21efa0734c8b45de.html?utm_source=lootura.com) — 2026-10-14T22:58:08.000Z
-- [El Rey, en Melilla: “Estamos preparados para defender nuestros valores y libertades”](https://elpais.com/espana/2026-10-14/el-rey-en-melilla-estamos-preparados-para-defender-nuestros-valores-y-libertades.html?utm_source=lootura.com) — 2026-10-14T16:37:46.000Z
-- [Repsol contraataca a Iberdrola con una campaña comercial histórica](https://amp.expansion.com/empresas/energia/2026/10/15/6acfe96ee5fdea926a8b4590.html?utm_source=lootura.com) — 2026-10-15T01:16:23.000Z
-- [Prosegur entra en el negocio de la Defensa y aspira a contratos militares](https://www.expansion.com/empresas/2026/10/15/6acff7a2468aeb744d8b456d.html?utm_source=lootura.com) — 2026-10-14T22:03:12.000Z
-- [Barclays avisa del 'riesgo Vox' para el coste de la deuda de España](https://www.expansion.com/mercados/2026/10/14/6acf966be5fdead9198b45b2.html?utm_source=lootura.com) — 2026-10-14T18:50:30.000Z
-- [Una joven de 20 años compra una casa por 9.000 € en el pueblo de su abuela en Cuenca y sólo reformar el tejado le cuesta más que la vivienda](https://okdiario.com/curiosidades/insolito-joven-20-anos-compra-casa-9-000-pueblo-abuela-cuenca-solo-reformar-tejado-cuesta-mas-vivienda-20497398?utm_source=lootura.com) — 2026-10-14T22:09:06.000Z
-- [James Chambers, el millonario «comunista» detenido en España por petición de EEUU](https://theobjective.com/internacional/2026-10-14/james-chambers-millonario-comunista-eeuu/?utm_source=lootura.com) — 2026-10-14T20:26:09.000Z
+- [Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE](https://www.20minutos.es/internacional/bruselas-analiza-con-espana-las-medidas-trump-contra-buques-espanoles-defendera-los-intereses-ue_7049249_0.html?utm_source=lootura.com) — 2026-10-15T14:01:33.000Z
+- [Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE](https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com) — 2026-10-15T13:32:03.000Z
+- [Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0a2f7e9cf4a784c8b4574.html?utm_source=lootura.com) — 2026-10-15T14:07:46.000Z
+- [Escuchar a los profesores](https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com) — 2026-10-15T03:30:01.000Z
+- [La Junta Electoral expedienta a Sánchez por sus "manifestaciones valorativas" en una rueda de prensa en Moncloa](https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html?utm_source=lootura.com) — 2026-10-15T14:50:29.000Z
+- [Defensa envía a la Justicia los audios de elDiario.es en los que militares presumen de sus palizas a migrantes en Ceuta](https://www.eldiario.es/desalambre/defensa-asegura-investigara-audios-militares-presumen-palizas-migrantes-ceuta_1_13587546.html?utm_source=lootura.com) — 2026-10-15T11:25:34.000Z
+- [José Vicente de los Mozos (Ifema): "La F1 ha dejado 545 millones en Madrid"](https://www.expansion.com/luxury-forum/2026/10/15/6ad09e6de5fdeaa55f8b4592.html?utm_source=lootura.com) — 2026-10-15T11:09:32.000Z
+- [‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España](https://hipertextual.com/cine-television/you-can-see-everything-el-documental-viral-de-elizabeth-holmes-ya-tiene-fecha-de-estreno-en-espana/?utm_source=lootura.com) — 2026-10-15T10:41:34.000Z
+- [México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»](https://theobjective.com/internacional/2026-10-15/mexico-relaciones-espana-mejores-momentos/?utm_source=lootura.com) — 2026-10-15T15:38:33.000Z
+- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z

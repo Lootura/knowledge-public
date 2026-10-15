@@ -3,7 +3,7 @@
 > Follow Wall Street, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: product
-- Updated: 2026-10-04T13:40:48.194Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/product/wall-street
 
 ## Recent changes
@@ -52,4 +52,4 @@ Date: 2026-08-04
 
 ## Sources
 
-No public source links.
+- [US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account](https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections?utm_source=lootura.com) — 2026-10-15T13:30:11.000Z

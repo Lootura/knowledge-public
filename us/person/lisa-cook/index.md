@@ -46,4 +46,4 @@ Date: 2026-08-07
 
 ## Sources
 
-- [Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased'](https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased?utm_source=lootura.com) — 2026-10-14T21:46:43.000Z
+No public source links.

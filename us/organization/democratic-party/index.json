@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/democratic-party/index.json",
   "description": "Follow Democratic Party, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Democrats"
   ],
@@ -16,6 +16,21 @@
     {
       "title": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
       "summary": "The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms. (Image credit: Saul Loeb).",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "The Republican Strategy to Salvage the Midterms",
+      "summary": "The right wing is scrambling for wins in the elections as Democrats lead in the polls.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+      "summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.",
       "date": "2026-10-15"
     },
     {
@@ -47,40 +62,25 @@
       "title": "Democrats are making corruption messaging a pocketbook issue",
       "summary": "Democrats may be discovering the political power of calling something rigged. They’re leaning hard into anti-corruption messaging in the final weeks of the campaign as new research suggests that linking corruption to Americans’ economic struggles can boost Democrats into the home stretch. Messaging from Democrats that.",
       "date": "2026-10-12"
-    },
-    {
-      "title": "Democrats Tie Corruption to High Costs in Final Midterms Push",
-      "summary": "Party leaders are working to connect Washington profiteering and the influence of billionaires and corporate America to affordability, in what they hope will be a potent closing message.",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "David Plouffe warns Dems: Don’t take North Carolina for granted",
-      "summary": "National Democrats are increasingly shifting their attention away from North Carolina’s Senate race as polls show former Gov. Roy Cooper ahead, eyeing once long-shot races as possible pickups. But a veteran Democratic strategist who helped deliver the party’s last presidential victory in the state is urging donors not.",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "James Talarico off the trail with the flu for 12 days",
-      "summary": "The bitter fight over a Texas Senate seat that Democrats believe is within reach for the first time in decades should be ramping up right now.",
-      "date": "2026-10-08"
     }
   ],
   "sources": [
     {
-      "title": "Kalshi traders betting Democrats will take Senate control",
-      "url": "https://www.cbsnews.com/video/kalshi-traders-bet-democrats-senate-control/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:30:47.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T11:31:25.000Z",
+      "sourceId": "lootura-us-npr-world"
     },
     {
-      "title": "Democratic and GOP strategists on how Trump's unpopularity is shaping the midterms",
-      "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-trumps-unpopularity-is-shaping-the-midterms?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:30:02.000Z",
-      "sourceId": "lootura-us-pbs-newshour"
+      "title": "The Republican Strategy to Salvage the Midterms",
+      "url": "https://www.nytimes.com/2026/10/15/podcasts/the-daily/republican-strategy-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:42:32.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
-      "title": "Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms",
-      "url": "https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T16:13:42.000Z",
+      "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:16:09.000Z",
       "sourceId": "lootura-us-the-new-york-times-politics"
     },
     {
@@ -90,5 +90,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 3
+  "evidenceCount": 4
 }

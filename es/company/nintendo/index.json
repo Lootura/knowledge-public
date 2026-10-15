@@ -1,0 +1,42 @@
+{
+  "id": "es-nintendo",
+  "name": "Nintendo",
+  "type": "company",
+  "locale": "es",
+  "canonicalPath": "/es/company/nintendo",
+  "canonicalUrl": "https://atlas.lootura.com/es/company/nintendo",
+  "markdownUrl": "https://atlas.lootura.com/es/company/nintendo/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/company/nintendo/index.json",
+  "description": "Sigue la actividad de Nintendo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "aliases": [
+    "Nintendo Co",
+    "Nintendō kabushiki-gaisha"
+  ],
+  "changes": [
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nintendo first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Después de su postergación, 007 First Light por fin tiene fecha de lanzamiento confirmada en Nintendo Switch 2 . El nuevo juego de James Bond, desarrollado por IO Interactive, ha revelado desde cuándo estará disponible en la plataforma japonesa, lo cual es una muy buena noticia. La mala noticia es que los interesados e.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Product availability changed in Europe",
+      "summary": "Xbox podría tomar un camino arriesgado para sus próximos juegos. La compañía estaría considerando volver a la estrategia de juegos exclusivos para su consola , olvidándose para siempre de Sony y Nintendo. Una nueva encuesta interna deja entrever que la compañía está pensando en los juegos exclusivos a futuro, excepto l.",
+      "date": "2026-10-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "¡Por fin! ‘007 First Light’, el nuevo juego de James Bond, tiene fecha de lanzamiento en la Nintendo Switch 2",
+      "url": "https://hipertextual.com/videojuegos/007-first-light-tiene-fecha-de-lanzamiento-en-nintendo-switch-2/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:04:05.000Z",
+      "sourceId": "lootura-es-hipertextual"
+    }
+  ],
+  "evidenceCount": 1
+}

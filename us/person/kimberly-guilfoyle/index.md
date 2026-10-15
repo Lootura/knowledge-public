@@ -52,4 +52,4 @@ Date: 2026-10-13
 
 ## Sources
 
-- [Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html?utm_source=lootura.com) — 2026-10-14T14:17:27.000Z
+No public source links.

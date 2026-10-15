@@ -3,10 +3,16 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
+
+### Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota
+
+Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.
+
+Date: 2026-10-15
 
 ### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
@@ -62,13 +68,6 @@ L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and addin
 
 Date: 2026-09-12
 
-### While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat
-
-Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.
-
-Date: 2026-09-10
-
 ## Sources
 
-- [Iran war and affordability take center stage in Senate debates](https://www.cbsnews.com/video/iran-war-affordability-center-stage-senate-debates/?utm_source=lootura.com) — 2026-10-14T22:10:04.000Z
-- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z
+- [Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota](https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html?utm_source=lootura.com) — 2026-10-15T15:16:09.000Z

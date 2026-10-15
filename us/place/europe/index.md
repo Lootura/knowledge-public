@@ -3,10 +3,28 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
+
+### Can a Radioactive Ore Break China’s Grip on Rare Earths?
+
+The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.
+
+Date: 2026-10-15
+
+### A new sunscreen type for Americans hits store shelves
+
+For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that's long been a go-to option in Europe and other parts of the world.
+
+Date: 2026-10-15
+
+### Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?
+
+Supporters of the Houthis gather during a protest against Saudi intervention in Yemen, in Sanaa, on Oct. 9, 2026. —Mohammed Huwais—Getty Images The European Union and Gulf Cooperation Council on Thursday announced the postponement of a joint summit set to take place in ‌Saudi Arabia next week, amid safety concerns prom.
+
+Date: 2026-10-15
 
 ### Will my lack of country-specific grants limit my chances of employment abroad?
 
@@ -50,24 +68,8 @@ Shocked by the U.S. agreement with Russia, which Ukraine has called “a gift”
 
 Date: 2026-10-13
 
-### New research traces the origins and human impact of Britain's largest medieval lead industry through ancient teeth
-
-The first definitive evidence of when post-Roman lead production began in one of Europe's largest medieval lead-producing regions, the Derbyshire Peak District in central England, has been uncovered by archaeologists after centuries of mining had erased much of the archaeological evidence. The work has been published i.
-
-Date: 2026-10-12
-
-### The Taliban Are Using Europe’s Fear of Migrants to Their Advantage
-
-European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.
-
-Date: 2026-10-12
-
-### Europe’s Trade Tensions With China Are Coming to a Head
-
-The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe.
-
-Date: 2026-10-08
-
 ## Sources
 
-- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-15T03:09:48.969Z
+- [Can a Radioactive Ore Break China’s Grip on Rare Earths?](https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com) — 2026-10-15T14:53:02.000Z
+- [A new sunscreen type for Americans hits store shelves](https://www.pbs.org/newshour/health/a-new-sunscreen-type-for-americans-hits-store-shelves?utm_source=lootura.com) — 2026-10-15T15:53:05.000Z
+- [Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?](https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com) — 2026-10-15T13:43:41.000Z

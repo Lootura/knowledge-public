@@ -3,10 +3,16 @@
 > Sigue la actividad de Carlos Cuerpo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-13T23:35:46.672Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/carlos-cuerpo
 
 ## Cambios recientes
+
+### Sánchez apunta que las pensiones se subirán justo después de las elecciones
+
+El Gobierno apunta a una subida de pensiones justo después de las elecciones, en diciembre, con el Ejecutivo en funciones, y no antes como se había planteado en los últimos días. Tanto el presidente, Pedro Sánchez, como el vicepresidente primero y ministro de Economía, Carlos Cuerpo, han apuntado este jueves en ese sen.
+
+Date: 2026-10-15
 
 ### Cuerpo apadrina la nueva red de economistas progresistas: “Una economía desigual es una economía lastrada”
 
@@ -64,4 +70,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-No public source links.
+- [Sánchez apunta que las pensiones se subirán justo después de las elecciones](https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html?utm_source=lootura.com) — 2026-10-15T10:10:57.000Z

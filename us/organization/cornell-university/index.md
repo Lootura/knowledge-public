@@ -3,10 +3,16 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
+
+### Exclusive video offers insight into Cornell University Faculty Senate meeting
+
+Exclusive video offers insight into Wednesday's high-stakes meeting at Cornell University.
+
+Date: 2026-10-15
 
 ### Cornell Bans Frat Parties, Promises New Safeguards for Students
 
@@ -62,12 +68,6 @@ Ivy League school’s president promises action after woman alleged she was drug
 
 Date: 2026-10-04
 
-### Discovered by Atlas
-
-Cornell University first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-10-03
-
 ## Sources
 
-- [Fraternity culture under scrutiny in wake of Cornell allegations](https://www.pbs.org/newshour/show/fraternity-culture-under-scrutiny-in-wake-of-cornell-allegations?utm_source=lootura.com) — 2026-10-14T22:35:31.000Z
+- [Exclusive video offers insight into Cornell University Faculty Senate meeting](https://www.cbsnews.com/newyork/news/cornell-university-faculty-senate-meeting-video/?utm_source=lootura.com) — 2026-10-15T03:36:05.000Z

@@ -3,10 +3,22 @@
 > Sigue la actividad de Irene María Montero Gil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/irene-montero
 
 ## Cambios recientes
+
+### Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo
+
+A menos de 48 horas, el duelo por la candidata (Irene Montero o Ada Colau) enfrenta a Podemos y el Frente Amplio Leer.
+
+Date: 2026-10-15
+
+### Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”
+
+Hijo de un albañil y sindicalista de CC OO, y de madre ama de casa, criado entre Móstoles y Vallecas, Emilio Delgado (Madrid, 50 años) ha sido el elegido por el Frente Amplio para liderar la candidatura por Madrid después de muchos vaivenes y de guerras internas. Tiene por delante el reto de su vida. Recibe a EL PAÍS e.
+
+Date: 2026-10-15
 
 ### Bloqueo en la izquierda: Colau se ofrece a ceder que lidere la figura de "más consenso" y Podemos se atrinchera en que sea Irene Montero
 
@@ -56,18 +68,7 @@ El ministro de Cultura evita por primera vez echar balones fuera al ser pregunta
 
 Date: 2026-09-17
 
-### Irene Montero lanza su carrera electoral prometiendo una jornada semanal de 30 horas
-
-La candidatura de Irene Montero a las elecciones generales de 2027 ya es una realidad. La exministra de Igualdad ha formalizado su paso al frente en Podemos anunciando que se someterá a un proceso de primarias abiertas a «toda la gente que quiera participar o presentarse» y desplegando una batería de promesas económica.
-
-Date: 2026-09-12
-
-### Irene Montero lanza su carrera prometiendo una jornada semanal de 30 horas
-
-La candidatura de Irene Montero a las elecciones generales de 2027 ya es una realidad. La exministra de Igualdad ha formalizado su paso al frente en Podemos anunciando que se someterá a un proceso de primarias abiertas a «toda la gente que quiera participar o presentarse» y desplegando una batería de promesas económica.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Bloqueo en la izquierda: Colau se ofrece a ceder que lidere la figura de "más consenso" y Podemos se atrinchera en que sea Irene Montero](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acf6e83e85eceb3218b457d.html?utm_source=lootura.com) — 2026-10-14T12:31:01.000Z
+- [Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html?utm_source=lootura.com) — 2026-10-15T08:02:59.000Z
+- [Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”](https://elpais.com/espana/elecciones-generales/2026-10-15/emilio-delgado-sobre-que-irene-montero-lidere-la-lista-de-madrid-me-costaria-mucho-explicarlo-podemos-es-una-fuerza-extraparlamentaria.html?utm_source=lootura.com) — 2026-10-15T14:54:33.000Z

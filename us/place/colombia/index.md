@@ -3,10 +3,16 @@
 > Follow Colombia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-13T11:24:39.918Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/colombia
 
 ## Recent changes
+
+### Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change
+
+The latest Healthy NDC Scorecard, published by the Global Climate and Health Alliance, finds that, Colombia integrates health most deeply into its national climate plan, closely followed by Nigeria and Cambodia. Conversely, the climate commitments of the governments of Japan, New Zealand and India fail to adequately co.
+
+Date: 2026-10-15
 
 ### U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels
 
@@ -62,12 +68,6 @@ In our news wrap Wednesday, President Trump confirmed that he was whisked away f
 
 Date: 2026-08-12
 
-### Baby rescued from rubble in Colombia after devastating earthquake
-
-Footage shared on social media shows a baby being rescued from the bloody arms of a man trapped underneath a destroyed building in Cali after a powerful earthquake struck Colombia.
-
-Date: 2026-08-12
-
 ## Sources
 
-No public source links.
+- [Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change](https://phys.org/news/2026-10-scorecard-colombia-high-emitting-countries.html?utm_source=lootura.com) — 2026-10-15T15:00:15.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/emilio-delgado/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/emilio-delgado/index.json",
   "description": "Sigue la actividad de Emilio Delgado Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Delgado",
     "Emilio",
@@ -17,6 +17,11 @@
     "Emilio Delgado Martín"
   ],
   "changes": [
+    {
+      "title": "Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”",
+      "summary": "Hijo de un albañil y sindicalista de CC OO, y de madre ama de casa, criado entre Móstoles y Vallecas, Emilio Delgado (Madrid, 50 años) ha sido el elegido por el Frente Amplio para liderar la candidatura por Madrid después de muchos vaivenes y de guerras internas. Tiene por delante el reto de su vida. Recibe a EL PAÍS e.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona",
       "summary": "La decisión resuelve uno de los mayores focos de tensión dentro de la alianza, porque Más Madrid exigía liderar la lista Leer.",
@@ -48,6 +53,13 @@
       "date": "2026-10-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/emilio-delgado-sobre-que-irene-montero-lidere-la-lista-de-madrid-me-costaria-mucho-explicarlo-podemos-es-una-fuerza-extraparlamentaria.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T14:54:33.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 1
 }

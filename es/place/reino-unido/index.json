@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,11 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
+      "summary": "La existosa novelista irlandesa Sally Rooney ha anunciado que se ve obligada a retirar sus libros de la venta en el Reino Unido. Esto se debe a su apoyo a Palestine Action , un grupo de protesta de acción directa prohibido por el Gobierno británico desde junio de 2025, tras ser definido como una organización terrorista.",
+      "date": "2026-10-15"
+    },
     {
       "title": "BT podrá hacer ofertas agresivas en zonas donde compite con VMO2 (Telefónica)",
       "summary": "El regulador de Reino Unido ha prohibido a BT que haga ofertas a compañías mayoristas que usan su red de fibra, tras concluir que podría dañar el desarrollo de la red de otros competidores en el país, pero le autoriza a realizar importantes descuentos a terceras compañías en zonas donde compite directamente con VMO2, l.",
@@ -67,13 +72,15 @@
       "title": "Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido",
       "summary": "Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un acuerdo de cooperación sobre autodeterminación, economía, energía y relaciones con Europa.",
       "date": "2026-09-13"
-    },
-    {
-      "title": "Bofetada a Reino Unido: Trump defiende la unificación de Irlanda y pone en cuestión la soberanía británica de las Malvinas",
-      "summary": "Sus declaraciones se producen tras reunirse con el primer ministro irlandés, Micheál Martin Leer.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
+      "url": "https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T12:13:50.000Z",
+      "sourceId": "lootura-es-the-conversation-espana"
+    }
+  ],
+  "evidenceCount": 1
 }

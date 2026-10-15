@@ -3,10 +3,52 @@
 > Follow United States, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/united-states
 
 ## Recent changes
+
+### Growing plane and ship traffic degrade the air of western North America
+
+Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.
+
+Date: 2026-10-15
+
+### DOJ tells California to review whether noncitizens got mail ballots
+
+The Justice Department has ordered California to review a list of people who the federal government believes may have received mail-in ballots for the upcoming election despite not being U.S. citizens.
+
+Date: 2026-10-15
+
+### Can a Radioactive Ore Break China’s Grip on Rare Earths?
+
+The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.
+
+Date: 2026-10-15
+
+### Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans
+
+Inflation jumped to 3.7%, driven by gas and diesel prices triggered by the U.S. war with Iran. NBC’s Christine Romans joins TODAY to break down which categories will see price increases and what’s behind the spike in costs.
+
+Date: 2026-10-15
+
+### Mass shooting survivors' memories are full of sensory detail, both positive and negative
+
+It was perhaps fitting, in a twisted, only-in-America way.
+
+Date: 2026-10-15
+
+### Solving the mystery behind a flightless beetle's transatlantic journey
+
+They can't fly or swim, so why do their closest relatives appear on different continents? Grey Gustafson, an associate professor in the Department of Biological Sciences, discovered through DNA sequencing that the ancestors of some of today's tiger beetles existed in South America and Africa before the two continents s.
+
+Date: 2026-10-15
+
+### Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump
+
+President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.
+
+Date: 2026-10-15
 
 ### Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots
 
@@ -20,48 +62,6 @@ Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A rese
 
 Date: 2026-10-15
 
-### Growing plane and ship traffic degrade the air of western North America
-
-Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.
-
-Date: 2026-10-15
-
-### U.S. blasts "embarrassing" complaint against Lebanon's ambassador
-
-The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart.
-
-Date: 2026-10-14
-
-### Inflation climbs in September as energy prices soar, CPI report shows
-
-U.S. inflation rose higher than economists predicted amid high energy prices, the most recent Consumer Price Index report shows. Axios markets reporter Matt Phillips shares his thoughts.
-
-Date: 2026-10-14
-
-### Joni Mitchell becomes an American citizen after more than 60 years
-
-Joni Mitchell can see both sides of the U.S.-Canada border freely now.
-
-Date: 2026-10-14
-
-### Morning news brief
-
-Ukrainian President Zelenskyy sits down with NPR to talks about the ongoing war in his country, Pope Leo has lung cancer, the Vatican announced, U.S. ambassador to Greece Kimberly Guilfoyle resigns.
-
-Date: 2026-10-14
-
-### South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit
-
-Roman Catholics across South America responded to news of Pope Leo XIV's lung cancer diagnosis with an outpouring of prayers and support, along with concerns about whether the first American pope would go ahead with his highly anticipated and physically demanding visit to the region next month.
-
-Date: 2026-10-14
-
-### Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze
-
-Ukrainian drones lost some of their fighting capacity after restrictions were suddenly imposed on the battlefield use of the country's U.S.-made Starlink communication terminals, officials said Wednesday as the capital endured another night of missile attacks.
-
-Date: 2026-10-14
-
 ### Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections
 
 September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.
@@ -70,13 +70,12 @@ Date: 2026-10-14
 
 ## Sources
 
-- [Top U.S. DOJ official orders California to review list of possible noncitizens who received mail ballots](https://www.cbsnews.com/news/justice-department-california-noncitizens-mail-ballots/?utm_source=lootura.com) — 2026-10-15T02:34:20.000Z
-- [U.S. blasts "embarrassing" complaint against Lebanon's ambassador](https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/?utm_source=lootura.com) — 2026-10-14T16:04:49.000Z
-- [Inflation climbs in September as energy prices soar, CPI report shows](https://www.cbsnews.com/video/inflation-climbs-september-energy-prices-soar-cpi/?utm_source=lootura.com) — 2026-10-14T14:51:47.000Z
-- [Will my lack of country-specific grants limit my chances of employment abroad?](https://www.nature.com/articles/d41586-026-02442-3?utm_source=lootura.com) — 2026-10-15T03:09:48.969Z
-- [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0?utm_source=lootura.com) — 2026-10-15T03:09:48.968Z
-- [Joni Mitchell becomes an American citizen after more than 60 years](https://www.nbcnews.com/pop-culture/pop-culture-news/joni-mitchell-becomes-american-citizen-60-years-rcna603430?utm_source=lootura.com) — 2026-10-14T15:14:22.548Z
-- [Morning news brief](https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief?utm_source=lootura.com) — 2026-10-14T08:49:42.000Z
-- [How immigration policies shaped America and evolved throughout its history](https://www.pbs.org/newshour/show/how-immigration-policies-shaped-america-and-evolved-throughout-its-history?utm_source=lootura.com) — 2026-10-14T22:25:29.000Z
-- [South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit](https://www.pbs.org/newshour/world/south-americans-pray-for-pope-leos-recovery-as-uncertainty-hangs-over-his-visit?utm_source=lootura.com) — 2026-10-14T22:07:01.000Z
-- [Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze](https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com) — 2026-10-14T16:09:18.000Z
+- [DOJ tells California to review whether noncitizens got mail ballots](https://www.cbsnews.com/news/justice-department-california-noncitizens-mail-ballots/?utm_source=lootura.com) — 2026-10-15T02:34:20.000Z
+- [Can a Radioactive Ore Break China’s Grip on Rare Earths?](https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com) — 2026-10-15T14:53:02.000Z
+- [Growing plane and ship traffic degrade the air of western North America](https://www.nature.com/articles/d41586-026-03239-0?utm_source=lootura.com) — 2026-10-15T16:18:02.589Z
+- [Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans](https://www.today.com/video/inflation-jumps-amid-rising-fuel-prices-how-it-impacts-americans-271614533760?utm_source=lootura.com) — 2026-10-15T11:19:49.000Z
+- [How one network of mall skincare stores targeted vulnerable people across the U.S.](https://www.npr.org/2026/10/14/nx-s1-5992778/how-one-network-of-mall-skincare-stores-targeted-vulnerable-people-across-the-u-s?utm_source=lootura.com) — 2026-10-14T20:27:51.000Z
+- [Mass shooting survivors' memories are full of sensory detail, both positive and negative](https://phys.org/news/2026-10-mass-survivors-memories-full-sensory.html?utm_source=lootura.com) — 2026-10-15T16:00:01.000Z
+- [Solving the mystery behind a flightless beetle's transatlantic journey](https://phys.org/news/2026-10-mystery-flightless-beetle-transatlantic-journey.html?utm_source=lootura.com) — 2026-10-15T15:20:11.000Z
+- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z
+- [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html?utm_source=lootura.com) — 2026-10-15T15:27:09.000Z

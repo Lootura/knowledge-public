@@ -3,10 +3,16 @@
 > Sigue la actividad de Santos Cerdán en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-17T16:13:29.513Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/santos-cerdan
 
 ## Cambios recientes
+
+### El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas
+
+El magistrado de la Audiencia Nacional Ismael Moreno solicita al Juzgado Central de Instrucción Número 5 las pruebas intervenidas a Santos Cerdán en el marco del caso cloacas. El juez que investiga la financiación del PSOE busca indagar en el origen de los fondos de los que disfrutó el exdiputado navarro investigado po.
+
+Date: 2026-10-15
 
 ### Las secretarias de Cerdán involucran a la Administración del PSOE en los gastos de Leire
 
@@ -52,4 +58,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-No public source links.
+- [El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas](https://www.elconfidencial.com/espana/2026-10-15/el-juez-que-investiga-la-financiacion-del-psoe-pide-todas-las-agendas-intervenidas-a-cerdan-por-las-cloacas_4445906/?utm_source=lootura.com) — 2026-10-15T16:02:00.000Z

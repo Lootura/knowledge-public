@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/product/chatgpt/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/product/chatgpt/index.json",
   "description": "Follow ChatGPT, a tracked product, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "GPT chatbot"
   ],
@@ -26,11 +26,11 @@
   ],
   "sources": [
     {
-      "title": "OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves",
-      "url": "https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T00:24:03.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Eight states sue OpenAI claiming ChatGPT harms children",
+      "url": "https://www.nbcnews.com/video/eight-states-sue-openai-claiming-chatgpt-harms-children-271603269912?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T02:09:23.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 0
 }

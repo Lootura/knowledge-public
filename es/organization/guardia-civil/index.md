@@ -3,10 +3,22 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-14T03:30:04.027Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil
+
+Juan José Collado Barriga, el abogado penalista que ejerce como testigo en el caso cloacas, declaró ante la Guardia Civil tres contactos con el exj...
+
+Date: 2026-10-15
+
+### El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez
+
+El juez Pedraz investiga una presunta trama para obstaculizar causas judiciales que afectan al Gobierno y su entorno.
+
+Date: 2026-10-15
 
 ### Las pateras de última generación desbordan a la Guardia Civil: "No tenemos velocidad para pararlas"
 
@@ -56,18 +68,7 @@ La Guardia Civil ha reactivado este domingo el dispositivo de búsqueda para loc
 
 Date: 2026-10-04
 
-### Guardias civiles, sobre los avisos de la invasión a Ceuta: «Había que estar muy ciego para no verlo»
-
-Ángel Lezcano ha asumido el mando de Jucil en uno de los momentos más difíciles de la historia de la Guardia Civil. La imputación de Mercedes González y Manuel Llamas, la invasión de Ceuta, la pérdida de competencias o el auge del narcotráfico son algunas de las piedras que se ha ido encontrando por el camino y que val.
-
-Date: 2026-10-03
-
-### Herido un motorista de 65 años en un accidente de tráfico entre Gabarderal y Cáseda
-
-Un motorista de 65 años ha resultado herido este sábado tras registrar una salida de vía en la NA-5340, en el tramo comprendido entre Gabarderal y Cáseda . El aviso del siniestro se recibió a las 15.12 horas. Hasta el lugar acudieron una ambulancia de Soporte Vital Básico , un equipo médico de Cáseda y la Guardia Civil.
-
-Date: 2026-10-03
-
 ## Fuentes
 
-No public source links.
+- [El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil](https://www.eldebate.com/espana/20261015/hombre-confianza-narco-gitano-desvelo-debate-rompe-silencio-ante-guardia-civil_470024.html?utm_source=lootura.com) — 2026-10-15T13:51:53.000Z
+- [El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez](https://theobjective.com/espana/tribunales/2026-10-15/el-dao-de-la-guardia-civil-dice-que-marlaska-le-llamo-tras-filtrarse-el-correo-de-begona-gomez/?amp=&utm_source=lootura.com) — 2026-10-15T08:49:24.000Z

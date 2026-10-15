@@ -3,75 +3,80 @@
 > Sigue la actividad de Pedro Sánchez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/person/pedro-sanchez
 
 ## Cambios recientes
 
-### Campamento entra en campaña: las 20.000 viviendas de Sánchez y ZP son un solar con inodoros
+### La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones
 
-La Operación Campamento , en boca de todos los políticos desde hace más de 30 años , ha vuelto al debate público en mitad de la precampaña electoral. José Luis Martínez-Almeida arrancó la semana con una visita a los terrenos de los antiguos cuarteles en el distrito de Latina, al suroeste de Madrid, tratando de evidenci.
+La Junta Electoral Central (JEC) ha acordado abrir expediente al presidente del Gobierno, Pedro Sánchez , por posible vulneración de la legislación electoral por la rueda de prensa que ofreció desde el Palacio de la Moncloa tras convocar las elecciones y que el PP denunció por considerarla un "mitin". Fuentes del máxim.
 
 Date: 2026-10-15
 
-### Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta
+### La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa
 
-Tras el choque de versiones en el seno del Gobierno por la crisis desencadenada a raíz de la llegada masiva de inmigrantes a Ceuta, Pedro Sánchez ha aupado a Margarita Robles...
+Dicen que no hay dos sin tres. Y en el caso del presidente del Gobierno, Pedro Sánchez , no hay tres sin cuatro, ni cuatro sin cinco. La Junta Electoral Central (JEC) ha abierto este jueves por quinta vez un expediente sancionador contra el jefe del Ejecutivo por vulnerar la neutralidad exigida a los poderes públicos e.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas
+### Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE
 
-Alberto Núñez Feijóo concede una “gravedad extraordinaria” a la información, desvelada por EL PAÍS, de que buques de la Marina Real de Marruecos navegaron sin pedir autorización por aguas de soberanía española coincidiendo con la entrada masiva de inmigrantes del pasado 30 y 31 de julio. El líder del PP reclama al pres.
+El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Sánchez muestra «todo su apoyo» a Lula antes de la segunda vuelta de las elecciones en Brasil
+### "Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma
 
-El presidente del Gobierno, Pedro Sánchez , ha mostrado «todo» su «apoyo» al presidente de Brasil, Lula da Silva , antes de la segunda vuelta de las elecciones generales de Brasil que se celebrarán el próximo 25 de octubre. Lula representa un Brasil que lucha contra la injusticia y la desigualdad, que amplía derechos,.
+Nuevos mensajes incorporados a la causa dirigida por el magistrado de la Audiencia Nacional Santiago Pedraz arrojan luz sobre las maniobras que el presunto enviado de las cloacas del PSOE emprendió contra la jueza Beatriz Biedma. Tras haber sido captado por las cloacas, el exjuez Luis José Sáenz de Tejada contactó con.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Sánchez intenta compensar su "podemización" con Robles de número dos y tras quedarse sin una vicepresidenta como 'ticket'
+### Iker Jiménez responde a Pedro Sánchez por el mensaje del presidente en redes: «Aquí está el vídeo al completo»
 
-Tras el nombre de Pedro Sánchez, en la papeleta del PSOE al Congreso para las elecciones del 29 de noviembre por la circunscripción de Madrid irá estampado el de Margarita...
+El presentador de 'Horizonte' pide al líder del PSOE que visualice la escena completa en la que habla con Eduardo Inda sobre las pensiones.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Sánchez promete "cuatro años más" de "avances" frente a la "carta de defunción del Estado de bienestar" de PP y Vox
+### La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa
 
-El presidente del Gobierno y candidato del PSOE a la reelección, Pedro Sánchez , ha prometido este miércoles "cuatro años más" de avances sociales, sin recortes y con las pensiones revalorizadas conforme al IPC si continúa en La Moncloa tras las elecciones generales del 29 de noviembre. Frente a este proyecto, ha adver.
+Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige "neutralidad" en las instituciones Leer.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Margarita Robles será la número 2 del PSOE por Madrid y Marlaska deja Cádiz y será el 5º en la capital
+### El porqué de la apuesta de Sánchez por la "insoportable" Margarita Robles: "Siempre ha estado ahí en los momentos difíciles"
 
-La ministra de Defensa, Margarita Robles , será la número dos de la lista del PSOE por Madrid en las elecciones del 29 de noviembre , candidatura que encabezará el presidente del Gobierno, Pedro Sánchez. Robles repetirá dicho puesto, que ya ocupó en las elecciones de 2016. El número tres de esa lista será ocupado de nu.
+El presidente de Gobierno es partidario de una lista conjunta para el Senado junto a otras fuerzas de izquierda. Leer.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE
+### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
 
-Nueva fractura en el seno del Consejo General del Poder Judicial (CGPJ), en esta ocasión para mostrar el apoyo a la instructora del caso del hermano de Pedro Sánchez, la...
+Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### El PSOE acusa a todo el mundo, menos a Pedro Sánchez, de los desahucios en Baleares de los últimos años
+### Sánchez apunta que las pensiones se subirán justo después de las elecciones
 
-El Govern de Marga Prohens , los promotores de PROINBA o los agentes inmobiliarios de ABINI . Todos ellos son para el PSOE balear los únicos responsables de los desahucios ejecutados en Baleares en los últimos años, como si los lanzamientos no se hubieran producido en base a una legislación estatal aprobada por un Cons.
+El Gobierno apunta a una subida de pensiones justo después de las elecciones, en diciembre, con el Ejecutivo en funciones, y no antes como se había planteado en los últimos días. Tanto el presidente, Pedro Sánchez, como el vicepresidente primero y ministro de Economía, Carlos Cuerpo, han apuntado este jueves en ese sen.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
-### La ‘preocupación’ de Sánchez por la vivienda: tardará hasta 9 años en iniciar la construcción de las 831 VPO de Son Busquets en Palma
+### Anxo Sánchez, científico: “El 40% de los amigos que dices que lo son no se consideran amigos tuyos”
 
-La ‘preocupación’ del Gobierno de Pedro Sánchez por la vivienda: tardará hasta nueve años en aprobar el planeamiento y poder iniciar la construcción de las 831 VPO del antiguo cuartel Son Busquets en Palma tras ignorar la apuesta del alcalde del PP de Palma , Jaime Martínez, por reducir los tiempos a un máximo de entre.
+Anxo Sánchez (Ourense, 61 años) recibe en su casa del barrio de Pan Bendito de Carabanchel (Madrid) la mañana del 12 de octubre. Los aviones del desfile de la Hispanidad cruzan el cielo y atruenan el salón. Sánchez es físico teórico y catedrático de Matemática Aplicada en la Universidad Carlos III de Madrid, donde inve.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
 ## Fuentes
 
-- [Campamento entra en campaña: las 20.000 viviendas de Sánchez y ZP son un solar con inodoros](https://www.elconfidencial.com/espana/madrid/2026-10-15/campamento-campana-viviendas-sanchez-zp-solar-inodoros_4444251/?utm_source=lootura.com) — 2026-10-15T03:00:00.000Z
-- [Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html?utm_source=lootura.com) — 2026-10-14T15:35:50.000Z
-- [Sánchez intenta compensar su "podemización" con Robles de número dos y tras quedarse sin una vicepresidenta como 'ticket'](https://amp.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfd2ec21efa0d8708b4585.html?utm_source=lootura.com) — 2026-10-14T22:58:07.000Z
-- [Feijóo exige a Sánchez que dé explicaciones en el Congreso sobre la entrada de buques marroquíes en aguas españolas](https://elpais.com/espana/2026-10-14/feijoo-exige-a-sanchez-que-de-explicaciones-en-el-congreso-sobre-la-entrada-de-buques-marroquies-en-aguas-espanolas.html?utm_source=lootura.com) — 2026-10-14T11:45:13.000Z
-- [Sánchez muestra «todo su apoyo» a Lula antes de la segunda vuelta de las elecciones en Brasil](https://theobjective.com/espana/politica/2026-10-14/sanchez-apoyo-lula-segunda-vuelta-brasil/?utm_source=lootura.com) — 2026-10-14T20:13:50.000Z
+- [La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones](https://www.20minutos.es/nacional/junta-electoral-abre-un-expediente-sanchez-por-rueda-prensa-moncloa-tras-convocar-las-elecciones_7049268_0.html?utm_source=lootura.com) — 2026-10-15T14:35:35.000Z
+- [La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa](https://www.abc.es/espana/junta-electoral-expedienta-sanchez-rueda-prensa-moncloa-20261015164150-nt.html?utm_source=lootura.com) — 2026-10-15T15:44:37.000Z
+- [Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE](https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com) — 2026-10-15T13:32:03.000Z
+- ["Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma](https://www.elconfidencial.com/espana/2026-10-15/biedma-cloacas-hermano-sanchez-pajara-psoe_4445729/?utm_source=lootura.com) — 2026-10-15T13:53:00.000Z
+- [Iker Jiménez responde a Pedro Sánchez por el mensaje del presidente en redes: «Aquí está el vídeo al completo»](https://www.elcorreo.com/gente-estilo/iker-jimenez-responde-pedro-sanchez-mensaje-presidente-20261015175529-nt_amp.html?utm_source=lootura.com) — 2026-10-15T15:55:29.000Z
+- [La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0e585e4d4d8f92f8b45a0.html?utm_source=lootura.com) — 2026-10-15T14:48:21.000Z
+- [El porqué de la apuesta de Sánchez por la "insoportable" Margarita Robles: "Siempre ha estado ahí en los momentos difíciles"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad092ade4d4d8ed218b4586.html?utm_source=lootura.com) — 2026-10-15T09:01:41.000Z
+- [Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0a2f7e9cf4a784c8b4574.html?utm_source=lootura.com) — 2026-10-15T14:07:46.000Z
+- [Sánchez apunta que las pensiones se subirán justo después de las elecciones](https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html?utm_source=lootura.com) — 2026-10-15T10:10:57.000Z
+- [Anxo Sánchez, científico: “El 40% de los amigos que dices que lo son no se consideran amigos tuyos”](https://elpais.com/ciencia/2026-10-15/anxo-sanchez-cientifico-el-40-de-los-amigos-que-dices-que-lo-son-no-se-consideran-amigos-tuyos.html?utm_source=lootura.com) — 2026-10-15T03:30:01.000Z

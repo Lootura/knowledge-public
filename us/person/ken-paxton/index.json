@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -22,6 +22,11 @@
     "Warren Paxton, Jr."
   ],
   "changes": [
+    {
+      "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton",
+      "summary": "The amount is the most that a Senate candidate has ever raised during that period, his campaign said, eclipsing his opponent in Texas, Ken Paxton.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton",
       "summary": "Democrat James Talarico and Republican Ken Paxton are neck and neck in the Texas Senate race. Texas Republican Party chair D'rinda Randall shares her thoughts.",
@@ -66,19 +71,14 @@
       "title": "VoteHub gives Talarico 55% chance of winning Texas Senate race",
       "summary": "VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving the Democrat a 55% chance of winning over Trump-backed Ken Paxton. Cameron Kasky, aide to Democratic Rep. Ro Khanna, and Erin Maguire, Republican strategist, join with analysis.",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
-      "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
     {
-      "title": "Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton",
-      "url": "https://www.cbsnews.com/video/texas-gop-chair-toss-up-senate-race-between-james-talarico-ken-paxton/?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T14:30:32.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/james-talarico-fundraising-texas-senate.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:42:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 1

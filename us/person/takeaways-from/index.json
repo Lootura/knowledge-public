@@ -22,19 +22,6 @@
       "date": "2026-10-14"
     }
   ],
-  "sources": [
-    {
-      "title": "4 Takeaways From the Los Angeles Mayoral Debate",
-      "url": "https://www.nytimes.com/2026/10/14/us/los-angeles-mayor-debate-takeaways.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T07:12:59.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
-      "url": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T13:51:47.000Z",
-      "sourceId": "lootura-us-the-new-york-times-politics"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

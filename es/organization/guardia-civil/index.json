@@ -8,9 +8,19 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/guardia-civil/index.json",
   "description": "Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-14T03:30:04.027Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil",
+      "summary": "Juan José Collado Barriga, el abogado penalista que ejerce como testigo en el caso cloacas, declaró ante la Guardia Civil tres contactos con el exj...",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez",
+      "summary": "El juez Pedraz investiga una presunta trama para obstaculizar causas judiciales que afectan al Gobierno y su entorno.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Las pateras de última generación desbordan a la Guardia Civil: \"No tenemos velocidad para pararlas\"",
       "summary": "La clásica imagen de una patera precaria y sobrecargada de inmigrantes alcanzando las costas españolas se está quedando obsoleta porque ahora los inmigrantes están llegando en planeadoras de última generación utilizadas habitualmente por el narcotráfico. Así lo aseguran las principales asociaciones de guardias civiles,.",
@@ -50,18 +60,21 @@
       "title": "La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)",
       "summary": "La Guardia Civil ha reactivado este domingo el dispositivo de búsqueda para localizar al hombre de 68 años desaparecido el pasado lunes en Losar de la Vera , junto a su perro. Las labores han arrancado a las 09:30 horas con la intervención de agentes de varias unidades de la Guardia Civil , voluntarios, efectivos de Pr.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Guardias civiles, sobre los avisos de la invasión a Ceuta: «Había que estar muy ciego para no verlo»",
-      "summary": "Ángel Lezcano ha asumido el mando de Jucil en uno de los momentos más difíciles de la historia de la Guardia Civil. La imputación de Mercedes González y Manuel Llamas, la invasión de Ceuta, la pérdida de competencias o el auge del narcotráfico son algunas de las piedras que se ha ido encontrando por el camino y que val.",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Herido un motorista de 65 años en un accidente de tráfico entre Gabarderal y Cáseda",
-      "summary": "Un motorista de 65 años ha resultado herido este sábado tras registrar una salida de vía en la NA-5340, en el tramo comprendido entre Gabarderal y Cáseda . El aviso del siniestro se recibió a las 15.12 horas. Hasta el lugar acudieron una ambulancia de Soporte Vital Básico , un equipo médico de Cáseda y la Guardia Civil.",
-      "date": "2026-10-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil",
+      "url": "https://www.eldebate.com/espana/20261015/hombre-confianza-narco-gitano-desvelo-debate-rompe-silencio-ante-guardia-civil_470024.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:51:53.000Z",
+      "sourceId": "lootura-es-el-debate"
+    },
+    {
+      "title": "El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez",
+      "url": "https://theobjective.com/espana/tribunales/2026-10-15/el-dao-de-la-guardia-civil-dice-que-marlaska-le-llamo-tras-filtrarse-el-correo-de-begona-gomez/?amp=&utm_source=lootura.com",
+      "publishedAt": "2026-10-15T08:49:24.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
 }

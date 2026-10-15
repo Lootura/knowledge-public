@@ -3,7 +3,7 @@
 > Follow New York City, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/new-york
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-10-06
 
 ## Sources
 
-- [Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking](https://www.nbcnews.com/news/us-news/prosecutors-seeking-life-sentences-alexander-brothers-rcna603620?utm_source=lootura.com) — 2026-10-15T02:25:54.000Z
+- [AOC campaigning for fellow progressive El-Sayed at event in red upper Michigan](https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/?utm_source=lootura.com) — 2026-10-15T14:40:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-07-25
 
 ## Sources
 
-- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z
+No public source links.

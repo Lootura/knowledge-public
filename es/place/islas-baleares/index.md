@@ -3,10 +3,22 @@
 > Sigue la actividad de Islas Baleares en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/islas-baleares
 
 ## Cambios recientes
+
+### Discovered by Atlas
+
+Islas Baleares first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-10-15
+
+### ¿Se está tropicalizando el mar Mediterráneo? Estas señales sugieren que sí
+
+Formación de un huracán o ciclón de tipo tropical en el Mediterráneo, bautizado como "Numa", en noviembre de 2017. Suomi NPP/Eumetsat , CC BY-SA Ningún lugar de la península ibérica ni de las Islas Baleares tiene un clima tropical. Para ello, su temperatura media del mes más frío tendría que ser igual o superior a 18 º.
+
+Date: 2026-10-15
 
 ### El ‘falso’ técnico de Facebook: a juicio un estafador reincidente por engañar a una vecina de Mallorca con electrodomésticos fantasma
 
@@ -20,13 +32,6 @@ La Audiencia Provincial de las Islas Baleares abre sus puertas este jueves para 
 
 Date: 2026-10-15
 
-### Discovered by Atlas
-
-Islas Baleares first entered the public knowledge record with source-backed evidence.
-
-Date: 2026-10-15
-
 ## Fuentes
 
-- [El ‘falso’ técnico de Facebook: a juicio un estafador reincidente por engañar a una vecina de Mallorca con electrodomésticos fantasma](https://okdiario.com/baleares/falso-tecnico-facebook-juicio-estafador-reincidente-enganar-vecina-mallorca-electrodomesticos-fantasma-20544778?utm_source=lootura.com) — 2026-10-15T02:00:44.000Z
-- [El infierno de una mujer en Ibiza: asaltada y violada en su propia casa dos días seguidos tras consumir drogas con el agresor](https://okdiario.com/baleares/infierno-mujer-ibiza-asaltada-violada-propia-casa-dos-dias-seguidos-consumir-drogas-agresor-20545169?utm_source=lootura.com) — 2026-10-15T02:00:20.000Z
+- [¿Se está tropicalizando el mar Mediterráneo? Estas señales sugieren que sí](https://theconversation.com/se-esta-tropicalizando-el-mar-mediterraneo-estas-senales-sugieren-que-si-294497?utm_source=lootura.com) — 2026-10-15T15:53:11.000Z

@@ -3,10 +3,40 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
+
+### Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados
+
+El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. "Morirá, como estaba previsto, por fusilamiento, per.
+
+Date: 2026-10-15
+
+### Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas
+
+Iberia seguirá expandiéndose con nuevas rutas, con más aviones y gracias a la ampliación prevista en los próximos años en el aeropuerto madrileño de Barajas . Así lo avanzó María Jesús López Solás, directora comercial, desarrollo de red y alianzas de Iberia, en su intervención este jueves en la segunda jornada del Foro.
+
+Date: 2026-10-15
+
+### ¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona
+
+Las palabras son importantes. A veces describen una realidad. Otras, pretenden modificarla. Cuando Pete Hegseth se convirtió en secretario del Departamento de Defensa de Estados Unidos, empezó a llamarlo Departamento de Guerra. El pasado verano, le añadió una coletilla nueva: Departamento de Guerra de alta testosterona.
+
+Date: 2026-10-15
+
+### Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump
+
+La “tregua energética” que anunció Donald Trump el fin de semana, mal llamada así porque en Kyiv se mostraron sorprendidos y en Moscú no la habían aceptado previamente, ni siquiera comenzó nunca. Las pocas esperanzas de que la iniciativa solitaria del presidente de Estados Unidos forzase un pacto se han terminado este.
+
+Date: 2026-10-15
+
+### Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar
+
+El presidente de Estados Unidos , Donald Trump , anunció este martes que ha descartado su plan inicial de retransmitir en directo la ejecución por fusilamiento de Nidal Malik Hasan , un exmilitar estadounidense condenado a muerte por asesinar a trece personas en un tiroteo perpetrado en 2009. «Morirá, según lo previsto.
+
+Date: 2026-10-15
 
 ### «Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»
 
@@ -38,37 +68,11 @@ Hubo un tiempo en Estados Unidos en el que pedir una copa podía convertirse en 
 
 Date: 2026-10-14
 
-### Somalilandia celebra que Trump se refiera a ellos como «país»
-
-El Gobierno de Somalilandia ha celebrado este martes como un reconocimiento crucial de sus aspiraciones independentistas las declaraciones realizadas ayer por el presidente de Estados Unidos , Donald Trump , que describía como «un país» a lo que Somalia considera como una parte indisociable de su territorio. El comenta.
-
-Date: 2026-10-13
-
-### Las Bolsas europeas pinchan ante el frenazo del entusiasmo por la IA
-
-Las Bolsas asiáticas han sufrido una jornada de pérdidas, presas de la volatilidad que trae consigo la fortísima apuesta de los inversores por la inteligencia artificial. El mercado de Corea del Sur se ha desplomado un 5,4% con caídas virulentas en sus grandes valores, pero esta vez Europa y Estados Unidos han mitigado.
-
-Date: 2026-10-13
-
-### La seguridad privada crece y se vuelve un gran negocio en América Latina: ¿por qué, a qué precio y para quién?
-
-Tres guardias de seguridad privada en Santiago, la capital chilena. Myrarte/Shutterstock Teniendo en cuenta solamente al sector formal, más de 3,7 millones de personas se encuentran involucrados en la esfera de la seguridad privada en América Latina, según el último estudio académico elaborado sobre este tema. Esta cif.
-
-Date: 2026-10-13
-
-### Delcy dice que el diálogo con EEUU y la oposición ayuda a la recuperación económica
-
-La presidenta encargada de Venezuela, Delcy Rodríguez , ha destacado este lunes desde Roma que el diálogo con Estados Unidos y con la oposición han ayudado a la recuperación económica del país. Además, Rodríguez ha anunciado el lanzamiento del Plan Venezuela Alimenta para impulsar la erradicación del hambre en su país.
-
-Date: 2026-10-12
-
-### EEUU aprovecha el 12-O para pedir a España que tenga unas fronteras «sólidas y seguras»
-
-El secretario de Estado de Estados Unidos, Marco Rubio, ha instado a España a «tomar medidas significativas» para «mantener fronteras sólidas y seguras»,.
-
-Date: 2026-10-12
-
 ## Fuentes
 
+- [Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados](https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html?utm_source=lootura.com) — 2026-10-15T14:37:46.000Z
+- [Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/iberia-ve-oportunidades-de-nuevas-rutas-con-america-gracias-a-la-ampliacion-de-barajas.html?utm_source=lootura.com) — 2026-10-15T16:06:32.000Z
 - [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
-- [Barclays avisa del 'riesgo Vox' para el coste de la deuda de España](https://www.expansion.com/mercados/2026/10/14/6acf966be5fdead9198b45b2.html?utm_source=lootura.com) — 2026-10-14T18:50:30.000Z
+- [¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona](https://elpais.com/salud-y-bienestar/2026-10-15/sobran-kilos-o-falta-testosterona-uno-de-cada-cuatro-soldados-estadounidenses-puede-tener-niveles-bajos-de-esta-hormona.html?utm_source=lootura.com) — 2026-10-15T15:02:39.000Z
+- [Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump](https://www.lavanguardia.com/internacional/20261015/11659690/ucrania-reanuda-los-ataques-a-las-refinerias-rusas-riazan-y-entierra-la-tregua-energetica-de-trump.html?utm_source=lootura.com) — 2026-10-15T11:13:40.000Z
+- [Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar](https://theobjective.com/internacional/2026-10-15/trump-retransmitir-directo-fusilamiento-exmilitar/?utm_source=lootura.com) — 2026-10-15T15:19:32.000Z

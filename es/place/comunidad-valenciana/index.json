@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/comunidad-valenciana/index.json",
   "description": "Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T01:48:33.404Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Community of Valencia",
     "Comunitat Valenciana",
@@ -20,6 +20,16 @@
     "València"
   ],
   "changes": [
+    {
+      "title": "Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida",
+      "summary": "El profesorado de la enseñanza pública de la Comunidad de Madrid inició este miércoles una huelga indefinida que empezó a gestarse a finales del curso pasado, cuando, a la vista de lo que estaba sucediendo en la Comunidad Valenciana y Cataluña, sindicatos y otras organizaciones vinculadas al mundo educativo anunciaron.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Escuchar a los profesores",
+      "summary": "Los docentes madrileños, como antes los de Cataluña y la Comunidad Valenciana, expresan con la convocatoria de huelga a partir de esta semana un malestar con causas comunes en buena parte de España y que explica la decisión de movilizarse. El seguimiento ha sido considerable en el primer día de paros: casi la mitad del.",
+      "date": "2026-10-15"
+    },
     {
       "title": "La delegada del gobierno del 'currículum fake' será la cabeza de lista del PSOE en Valencia en las generales",
       "summary": "El PSOE sitúa a Pilar Bernabé como cabeza de cartel electoral en la Comunidad Valenciana.",
@@ -59,18 +69,21 @@
       "title": "Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia",
       "summary": "Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barbastro y de Huesca , han detenido en Barcelona a cuatro hombres acusados de 72 robos de material informático, valorado en unos 700.000 euros , en empresas de Cataluña, Aragón y Comunidad Valenciana. La policía catalana ha informado este sábado.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Madrid desbanca a Castilla y León en el liderazgo del informe PISA mientras el País Vasco y la Comunidad Valenciana se hunden estrepitosamente",
-      "summary": "La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del informe PISA y se sitúa la primera en Ciencias (495) y Matemáticas (477), así como la segunda en...",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
-      "summary": "Si los resultados de España en el Informe PISA , presentado este martes, son muy malos, los de varias comunidades autónomas producen escalofríos. Trece territorios pierden 20 puntos o más en lectura, y 10 registran bajadas de igual magnitud en matemáticas respecto a la edición anterior de la prueba, publicada hace tres.",
-      "date": "2026-09-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida",
+      "url": "https://elpais.com/educacion/2026-10-15/que-quieren-los-profesores-de-madrid-claves-de-la-huelga-educativa-indefinida.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T06:51:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    },
+    {
+      "title": "Escuchar a los profesores",
+      "url": "https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T03:30:01.000Z",
+      "sourceId": "lootura-es-el-pais"
+    }
+  ],
+  "evidenceCount": 2
 }

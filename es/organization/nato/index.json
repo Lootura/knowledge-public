@@ -8,13 +8,18 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/nato/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/nato/index.json",
   "description": "Sigue la actividad de Organización del Tratado del Atlántico Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-13T23:35:46.672Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "North Atlantic Treaty Organization",
     "OTAN",
     "Organización del Tratado del Atlántico Norte"
   ],
   "changes": [
+    {
+      "title": "Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN",
+      "summary": "La base naval de Rota (Cádiz) ha dado este jueves la bienvenida al USS John Basilone, el sexto destructor de la armada estadounidense que se asienta en este enclave para completar el escudo antimisiles de la OTAN. Seguir leyendo...",
+      "date": "2026-10-15"
+    },
     {
       "title": "España pone a prueba a sus francotiradores de élite en unas maniobras de la OTAN en Lituania",
       "summary": "El Ejército de Tierra ha participado en unas maniobras internacionales de tiradores de precisión de la OTAN en Lituania , donde ha puesto a prueba sus capacidades de combate junto a militares de otros cinco países aliados. El ejercicio, denominado Baltic Viper Strike 26 , ha reunido a 18 equipos especializados en las i.",
@@ -59,13 +64,15 @@
       "title": "Polonia despliega tecnología española para compartir servicios de inteligencia con la OTAN",
       "summary": "El Ministerio de Defensa Nacional de Polonia ha seleccionado a la compañía local Teldad para desplegar una solución tecnológica desarrollada por la empresa española GMV destinada a mejorar el almacenamiento, análisis e intercambio de información de inteligencia con las fuerzas aliadas. El proyecto estará basado en el s.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Putin le niega a Trump que tenga planes de atacar Europa",
-      "summary": "Donald Trump quiere cerrar la guerra de Ucrania y abrir una nueva etapa de negocios con Rusia. Vladímir Putin respalda ese propósito, según el Kremlin, pero mantiene sus objetivos militares y la ofensiva contra su vecino, mientras niega que tenga intención de atacar a un país de la OTAN. Los dos presidentes hablaron es.",
-      "date": "2026-09-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN",
+      "url": "https://www.lavanguardia.com/politica/20261015/11659846/rota-da-bienvenida-uss-john-basilone-sexto-destructor-escudo-antimisiles-otan.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:43:48.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

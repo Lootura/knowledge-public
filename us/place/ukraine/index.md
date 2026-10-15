@@ -3,10 +3,46 @@
 > Follow Ukraine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/ukraine
 
 ## Recent changes
+
+### Morning news brief
+
+Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.
+
+Date: 2026-10-15
+
+### Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
+
+Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).
+
+Date: 2026-10-15
+
+### Ukraine resumes attacks on Russian oil refineries as relations with Trump sour
+
+Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.
+
+Date: 2026-10-15
+
+### Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter
+
+Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.
+
+Date: 2026-10-15
+
+### Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump
+
+President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.
+
+Date: 2026-10-15
+
+### What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
+
+For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.
+
+Date: 2026-10-14
 
 ### How Starlink disruptions affected Ukraine's battlefield operations
 
@@ -17,12 +53,6 @@ Date: 2026-10-14
 ### Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze
 
 Ukrainian drones lost some of their fighting capacity after restrictions were suddenly imposed on the battlefield use of the country's U.S.-made Starlink communication terminals, officials said Wednesday as the capital endured another night of missile attacks.
-
-Date: 2026-10-14
-
-### What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
-
-For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.
 
 Date: 2026-10-14
 
@@ -38,40 +68,12 @@ A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satelli
 
 Date: 2026-10-14
 
-### Ukraine accuses SpaceX of restricting Starlink, disrupting military amid Trump pressure
-
-Ukrainian officials and military units accused Elon Musk’s SpaceX of throttling a technology at the heart of their battlefield communications and drone operations.
-
-Date: 2026-10-14
-
-### Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access
-
-Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv.
-
-Date: 2026-10-14
-
-### Senators Urge Trump to Reverse Diesel Deal With Putin
-
-A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.
-
-Date: 2026-10-14
-
-### Trump addresses Guilfoyle resignation, intel sharing with Ukraine as he departs for Alaska
-
-President Donald Trump told reporters that officials "didn't like what we were reading" about Kimberly Guilfoyle, who resigned as ambassador to Greece on Tuesday.
-
-Date: 2026-10-13
-
-### Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says
-
-At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.
-
-Date: 2026-10-13
-
 ## Sources
 
-- [How Starlink disruptions affected Ukraine's battlefield operations](https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations?utm_source=lootura.com) — 2026-10-14T22:45:37.000Z
-- [Sudden Starlink limits sap Ukraine drone power as Kyiv fears U.S. intelligence squeeze](https://www.pbs.org/newshour/world/sudden-starlink-limits-sap-ukraine-drone-power-as-kyiv-fears-u-s-intelligence-squeeze?utm_source=lootura.com) — 2026-10-14T16:09:18.000Z
+- [Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike](https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com) — 2026-10-15T11:27:34.000Z
+- [Morning news brief](https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief?utm_source=lootura.com) — 2026-10-15T08:46:47.000Z
+- [Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce](https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com) — 2026-10-15T10:05:58.000Z
+- [Ukraine resumes attacks on Russian oil refineries as relations with Trump sour](https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com) — 2026-10-15T13:30:23.000Z
 - [What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?](https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com) — 2026-10-14T22:20:50.000Z
-- [U.S. Continues to Provide Intelligence to Ukraine, Officials Say](https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html?utm_source=lootura.com) — 2026-10-14T23:11:19.000Z
-- [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html?utm_source=lootura.com) — 2026-10-14T23:30:02.000Z
+- [Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter](https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html?utm_source=lootura.com) — 2026-10-15T16:05:20.000Z
+- [Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump](https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html?utm_source=lootura.com) — 2026-10-15T15:27:09.000Z

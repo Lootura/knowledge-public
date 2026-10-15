@@ -22,5 +22,4 @@ Date: 2026-10-14
 
 ## Sources
 
-- [4 Takeaways From the Los Angeles Mayoral Debate](https://www.nytimes.com/2026/10/14/us/los-angeles-mayor-debate-takeaways.html?utm_source=lootura.com) — 2026-10-14T07:12:59.000Z
-- [5 Takeaways From a Heated and Personal Maine Senate Debate](https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-14T13:51:47.000Z
+No public source links.

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/yolanda-diaz/index.json",
   "description": "Sigue la actividad de Yolanda Díaz en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-08T21:01:26.973Z",
+  "updatedAt": "2026-10-15T16:17:38.694Z",
   "aliases": [
     "Yolanda",
     "Yolanda Diaz Perez",
@@ -17,6 +17,11 @@
     "Yolanda Díaz Pérez"
   ],
   "changes": [
+    {
+      "title": "Yolanda Díaz, a los empresarios: “Mejoren los salarios. El esfuerzo no puede caer solo en el SMI”",
+      "summary": "La vicepresidenta segunda y ministra de Trabajo, Yolanda Díaz, dio el primer paso la semana pasada para volver a subir el salario mínimo interprofesional con la convocatoria de la comisión de expertos que recomendará cuándo debe crecer para no perder poder adquisitivo ni alejarse del 60% del salario medio. El suelo sal.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Díaz da este mes a los expertos para plantear sus propuestas de subida del salario mínimo",
       "summary": "La vicepresidenta segunda y ministra de Trabajo , Yolanda Díaz , ha pedido al comité de expertos que tengan listo para el final de este mes o el arranque de noviembre su propuesta de subida del salario mínimo interprofesional (SMI) para 2027 y que su propuesta garantice que no se pierda poder adquisitivo. Durante la ru.",
@@ -61,13 +66,15 @@
       "title": "El Gobierno lanza a Yolanda Díaz como candidata para dirigir la OIT",
       "summary": "Despejada la incógnita sobre el futuro político de Yolanda Díaz, que, tras claudicar en su propio proyecto político en España —Sumar, ahora descabezado—, aspira ahora a recolocarse en las Naciones Unidas. La dirigente izquierdista se postula oficialmente para liderar la Organización Internacional del Trabajo (OIT) en G.",
       "date": "2026-07-24"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Yolanda Díaz first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-07-23"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Yolanda Díaz, a los empresarios: “Mejoren los salarios. El esfuerzo no puede caer solo en el SMI”",
+      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/yolanda-diaz-a-los-empresarios-mejoren-los-salarios-el-esfuerzo-no-puede-caer-solo-en-el-smi.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T13:13:04.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

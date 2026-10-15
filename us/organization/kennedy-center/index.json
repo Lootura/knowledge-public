@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/kennedy-center/index.json",
   "description": "Follow Kennedy Center, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-13T11:24:39.918Z",
+  "updatedAt": "2026-10-15T16:17:58.047Z",
   "aliases": [
     "JFK Center for the Performing Arts",
     "John F Kennedy Center for the Performing Arts",
@@ -18,6 +18,11 @@
     "The Trump Kennedy Center"
   ],
   "changes": [
+    {
+      "title": "Trump invokes executive privilege in Kennedy Center legal fight",
+      "summary": "President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Funding milestone detected",
       "summary": "Elon Musk looks on as President Donald Trump speaks at the U.S.-Saudi Investment Forum at the John F. Kennedy Center for the Performing Arts in Washington, D.C. on Nov. 19, 2025. —Brendan Smialowski—AFP/Getty Images Elon Musk, the world’s richest man who also spent more than $250 million for President Donald Trump’s re.",
@@ -64,6 +69,13 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump invokes executive privilege in Kennedy Center legal fight",
+      "url": "https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T15:54:31.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    }
+  ],
+  "evidenceCount": 1
 }

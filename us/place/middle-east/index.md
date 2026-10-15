@@ -3,7 +3,7 @@
 > Follow Middle East, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-13T11:24:39.918Z
+- Updated: 2026-10-15T16:17:58.047Z
 - Canonical: https://atlas.lootura.com/us/place/middle-east
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-13
 
 ## Sources
 
-No public source links.
+- [Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East](https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html?utm_source=lootura.com) — 2026-10-15T15:24:57.000Z

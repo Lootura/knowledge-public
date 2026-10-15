@@ -3,10 +3,16 @@
 > Sigue la actividad de Izquierda Unida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-13T23:35:46.672Z
+- Actualizado: 2026-10-15T16:17:38.694Z
 - Canonical: https://atlas.lootura.com/es/organization/izquierda-unida
 
 ## Cambios recientes
+
+### Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio
+
+Frente Amplio -la alianza electoral impulsada por Movimiento Sumar, Izquierda Unida, Más Madrid y Catalunya en Comú- ha rechazado este jueves de forma tajante cualquier intento de “trocear” los acuerdos electorales de la llamada izquierda alternativa en función de “intereses partidistas”. La coalición ha cerrado filas.
+
+Date: 2026-10-15
 
 ### Frente Amplio confirma a Emilio Delgado como cabeza de lista en Madrid
 
@@ -58,4 +64,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-No public source links.
+- [Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio](https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html?utm_source=lootura.com) — 2026-10-15T12:26:40.000Z
