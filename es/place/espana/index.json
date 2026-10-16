@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/espana/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/espana/index.json",
   "description": "Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Estado español",
     "Kingdom of Spain",
@@ -17,6 +17,26 @@
   ],
   "changes": [
     {
+      "title": "El precio oculto de comerte un huevo: más de 95.000 pollitos macho son sacrificados al día en España",
+      "summary": "Cada vez que se rompe un huevo en la sartén hay un coste que no aparece en la etiqueta. Más de 95.000 pollitos macho son gaseados o triturados vivos cada día en España, según Igualdad Animal, por una razón puramente económica: la industria del huevo no los considera rentables.La cifra, que asciende a 35 millones ... Co.",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Feijóo: \"Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad\"",
+      "summary": "Cuerpo apunta a un decreto en funciones, Sánchez carga contra \"la derecha y la ultraderecha\" y Feijóo contra el líder socialista: \"Congeló las pensiones en España en el año 2011 con su voto favorable\" Leer.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Así te hemos contado la segunda jornada del Foro CREO 2026",
+      "summary": "Termina esta edición del Foro CREO organizado por CincoDías y Prisa Media. Durante las dos jornadas han intervenido ministros del Gobierno, representantes institucionales y directivos de grandes empresas de España. Este jueves han participado, entre otros, el ministro de Consumo, Pablo Bustinduy, y la ministra de Traba.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "España destinará 20.000 millones más al año a pagar los intereses de la deuda pública y agotará el margen presupuestario para la próxima crisis",
+      "summary": "Funcas advierte de que la renovación de deuda emitida a tipo cero por títulos al 4% condicionará el gasto público hasta 2031 Leer.",
+      "date": "2026-10-15"
+    },
+    {
       "title": "Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE",
       "summary": "La Comisión Europea está \"analizando detenidamente\" las medidas que ultima la Administración de Donald Trump para imponer una tasa de 200.000 dólares (180.000 euros) por viaje a los barcos españoles -en represalia a prácticas que consideran restrictivas contra buques de bandera estadounidense en puertos españoles-, al.",
       "date": "2026-10-15"
@@ -24,11 +44,6 @@
     {
       "title": "Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE",
       "summary": "El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Feijóo: \"Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad\"",
-      "summary": "Cuerpo apunta a un decreto en funciones, Sánchez carga contra \"la derecha y la ultraderecha\" y Feijóo contra el líder socialista: \"Congeló las pensiones en España en el año 2011 con su voto favorable\" Leer.",
       "date": "2026-10-15"
     },
     {
@@ -50,34 +65,19 @@
       "title": "José Vicente de los Mozos (Ifema): \"La F1 ha dejado 545 millones en Madrid\"",
       "summary": "La Fórmula 1 acelera el negocio de Madrid. El primer Gran Premio de España celebrado en la capital ha generado un impacto económico de 545 millones de euros , frente a los 450 millones previstos inicialmente, lo que supone superar las estimaciones en un 21%. \"El impacto para Madrid lo ciframos inicialmente en 450 millo.",
       "date": "2026-10-15"
-    },
-    {
-      "title": "‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España",
-      "summary": "La noticia que todos los aficionados a los escándalos de Silicon Valley por fin ha llegado. You can see everything , el documental de Nathal Fielder sobre Elizabeth Holmes , se estrenará en cines en España. El proyecto levantó un revuelo enorme hace unas semanas cuando, con el lanzamiento de su primer teaser tráiler, s.",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»",
-      "summary": "El ministro de Exteriores de México , Roberto Velasco, ha destacado que las relaciones con España «atraviesan uno de sus mejores momentos», después de unos meses en los que los lazos bilaterales han estado marcados por un impulso de normalización para dejar atrás los encontronazos en torno a la Conquista, según Europa.",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones",
-      "summary": "El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.",
-      "date": "2026-10-15"
     }
   ],
   "sources": [
     {
-      "title": "Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE",
-      "url": "https://www.20minutos.es/internacional/bruselas-analiza-con-espana-las-medidas-trump-contra-buques-espanoles-defendera-los-intereses-ue_7049249_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:01:33.000Z",
-      "sourceId": "lootura-es-20minutos"
+      "title": "La otra Transición (estética) en España",
+      "url": "https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:02:41.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE",
-      "url": "https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T13:32:03.000Z",
+      "title": "Así te hemos contado la segunda jornada del Foro CREO 2026",
+      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/segunda-jornada-del-foro-creo.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T17:15:04.000Z",
       "sourceId": "lootura-es-cinco-dias"
     },
     {
@@ -87,47 +87,17 @@
       "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "Escuchar a los profesores",
-      "url": "https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T03:30:01.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "España destinará 20.000 millones más al año a pagar los intereses de la deuda pública y agotará el margen presupuestario para la próxima crisis",
+      "url": "https://www.elmundo.es/economia/2026/10/16/6ad0d646e85eced3738b456f.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:37:55.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
-      "title": "La Junta Electoral expedienta a Sánchez por sus \"manifestaciones valorativas\" en una rueda de prensa en Moncloa",
-      "url": "https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:50:29.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "Defensa envía a la Justicia los audios de elDiario.es en los que militares presumen de sus palizas a migrantes en Ceuta",
-      "url": "https://www.eldiario.es/desalambre/defensa-asegura-investigara-audios-militares-presumen-palizas-migrantes-ceuta_1_13587546.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:25:34.000Z",
-      "sourceId": "lootura-es-eldiario-es"
-    },
-    {
-      "title": "José Vicente de los Mozos (Ifema): \"La F1 ha dejado 545 millones en Madrid\"",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09e6de5fdeaa55f8b4592.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:09:32.000Z",
-      "sourceId": "lootura-es-expansion"
-    },
-    {
-      "title": "‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España",
-      "url": "https://hipertextual.com/cine-television/you-can-see-everything-el-documental-viral-de-elizabeth-holmes-ya-tiene-fecha-de-estreno-en-espana/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T10:41:34.000Z",
-      "sourceId": "lootura-es-hipertextual"
-    },
-    {
-      "title": "México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»",
-      "url": "https://theobjective.com/internacional/2026-10-15/mexico-relaciones-espana-mejores-momentos/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:38:33.000Z",
-      "sourceId": "lootura-es-the-objective"
-    },
-    {
-      "title": "Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones",
-      "url": "https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:52:40.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "El precio oculto de comerte un huevo: más de 95.000 pollitos macho son sacrificados al día en España",
+      "url": "https://okdiario.com/okgreen/precio-oculto-comerte-huevo-mas-95-000-pollitos-macho-son-sacrificados-dia-espana-20559989/amp?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T03:00:37.000Z",
+      "sourceId": "lootura-es-ok-diario"
     }
   ],
-  "evidenceCount": 11
+  "evidenceCount": 4
 }

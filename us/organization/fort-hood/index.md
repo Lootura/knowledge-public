@@ -3,7 +3,7 @@
 > Follow Fort Hood, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/organization/fort-hood
 
 ## Recent changes
@@ -34,4 +34,4 @@ Date: 2026-10-13
 
 ## Sources
 
-- [Trump says execution of Fort Hood shooter will not be livestreamed](https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com) — 2026-10-15T14:34:30.000Z
+- [News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed](https://www.pbs.org/newshour/show/news-wrap-trump-says-fort-hood-shooters-execution-will-not-be-livestreamed?utm_source=lootura.com) — 2026-10-15T22:45:59.000Z

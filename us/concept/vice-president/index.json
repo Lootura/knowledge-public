@@ -8,13 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/concept/vice-president/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/concept/vice-president/index.json",
   "description": "Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "EVP",
     "VP",
     "veep"
   ],
   "changes": [
+    {
+      "title": "Vance says \"selling access to the White House\" is \"disgusting\"",
+      "summary": "Vice President JD Vance told CBS News in a \"Things That Matter\" town hall in Michigan that anybody who is \"selling access to the White House\" should \"suffer consequences.\".",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Michigan GOP Senate candidate Mike Rogers says he's \"not a big fan\" of Trump's Russian diesel deal",
+      "summary": "Vice President JD Vance is campaigning for Republican Michigan Senate candidate Mike Rogers on Thursday night. CBS News senior White House and political correspondent Ed O'Keefe spoke with Rogers ahead of the event.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Mitch Daniels rebukes JD Vance over free-market retreat",
+      "summary": "Former Indiana Gov. Mitch Daniels said he thinks Vice President JD Vance and other Republicans are wrong to move away from the party’s traditional embrace of free-market economics — and that their shift could create an opening for a “pro-freedom” movement. “I think they are in error,” Daniels said in an interview when.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
       "summary": "Vice President JD Vance singled out the tech firm as he and other officials accused an array of companies and universities of abusing the visa system.",
@@ -49,30 +64,27 @@
       "title": "Trump remains focus of GOP's midterm campaign as convention wraps",
       "summary": "With November's midterms closing in, Republicans wrapped an unprecedented two-day convention in Dallas aimed at firing up the party's base. President Trump and Vice President JD Vance headlined an event that also produced some striking and unexpected moments. Liz Landers spoke with some of the attendees.",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
-      "summary": "Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "7 Takeaways From Trump’s Republican Midterm Convention",
-      "summary": "On the second night of the Republican gathering in Dallas, Vice President JD Vance was the headliner. But President Trump returned to center stage.",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Vance honors Charlie Kirk on the anniversary of his death",
-      "summary": "Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.",
-      "date": "2026-09-11"
     }
   ],
   "sources": [
     {
-      "title": "AOC campaigning for fellow progressive El-Sayed at event in red upper Michigan",
-      "url": "https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:40:00.000Z",
+      "title": "Vance says \"selling access to the White House\" is \"disgusting\"",
+      "url": "https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:11:00.000Z",
       "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Michigan GOP Senate candidate Mike Rogers says he's \"not a big fan\" of Trump's Russian diesel deal",
+      "url": "https://www.cbsnews.com/video/michigan-gop-senate-candidate-mike-rogers-not-big-fan-trump-russian-diesel-deal/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:33:21.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Mitch Daniels rebukes JD Vance over free-market retreat",
+      "url": "https://www.politico.com/news/2026/10/15/mitch-daniels-jd-vance-free-market-01120839?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:20:08.000Z",
+      "sourceId": "lootura-us-politico"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

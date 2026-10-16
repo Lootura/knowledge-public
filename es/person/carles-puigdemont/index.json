@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/carles-puigdemont/index.json",
   "description": "Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-11T17:18:34.354Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Carles",
     "Carles Puigdemont Casamajó",
@@ -18,6 +18,11 @@
     "Puigdemont"
   ],
   "changes": [
+    {
+      "title": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
+      "summary": "El expresident Carles Puigdemont aún no ha desvelado cuándo volverá a Catalunya , aunque todo indica que será después de las elecciones generales del 29 de noviembre . Lo que sí ha confirmado es uno de los asuntos que más se comenta en los mentideros de su partido desde hace tiempo : que no será el jefe de la oposición.",
+      "date": "2026-10-15"
+    },
     {
       "title": "El 60% opina que Puigdemont no debería ser amnistiado ni volver a España",
       "summary": "Desde el pasado martes, Carles Puigdemont, expresidente de la Generalitat de Cataluña y líder independentista fugado de la Justicia que impulsó la celebración de un referéndum ilegal, puede regresar a España gracias al fallo del Tribunal Constitucional que borró el delito de malversación del 'procés'. La mayoría progre.",
@@ -62,13 +67,15 @@
       "title": "Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”",
       "summary": "El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este martes cuentas con “los diversos poderes públicos españoles que han impedido la aplicación de la amnistía por razones estrictamente políticas” apenas unas horas después de que el Tribunal Constitucional haya ordenado al Supremo aplicarla. Para.",
       "date": "2026-10-06"
-    },
-    {
-      "title": "Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes",
-      "summary": "Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.",
-      "date": "2026-10-06"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
+      "url": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T21:00:00.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -3,10 +3,34 @@
 > Sigue la actividad de Partido Popular en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/partido-popular
 
 ## Cambios recientes
+
+### Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%
+
+El Gobierno de Castilla y León volverá a recortar significativamente las subvenciones a los agentes sociales (sindicatos y patronal) por exigencia de Vox , que lo incluyó como elemento inexcusable del pacto de gobierno. El vicepresidente Carlos Pollán anunció esta semana que en 2027 se recortarán 4 millones de euros ,.
+
+Date: 2026-10-16
+
+### Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia
+
+El Tribunal de Justicia de la Comunidad Valenciana ha estimado parcialmente un nuevo recurso contra la moratoria de licencias para pisos turísticos aprobada en mayo de 2024 por el Ayuntamiento de Valencia, que dirige la popular María José Catalá. La Sala de lo Contencioso-Administrativo ha considerado contrario a Derec.
+
+Date: 2026-10-16
+
+### Espinosa de los Monteros descarta concurrir el 29-N para no fragmentar a la derecha: "El objetivo es Sánchez"
+
+El exdirigente de Vox asegura que estudió presentar Athenea en una decena de provincias y que podría obtener grupo parlamentario propio, pero que "lo responsable" es no hacer esfuerzos que perjudiquen el objetivo de que PP y Vox sumen.
+
+Date: 2026-10-15
+
+### Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir
+
+Las pensiones siempre irrumpen en la agenda de las campañas. Aunque, últimamente, como error no forzado por parte de dirigentes del PP y Vox, al desplazar el marco del debate que pretendían imponer –en esta ocasión, el asalto de inmigrantes en Ceuta y los escándalos de corrupción que afectan al PSOE–, y permitir al Gob.
+
+Date: 2026-10-15
 
 ### La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones
 
@@ -44,34 +68,9 @@ Los socialistas exigen al alcalde del PP de Palma «una EMT mejor» tras dejarla
 
 Date: 2026-10-15
 
-### Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»
-
-El regidor mantendrá su cargo hasta el pleno en el que se vote y critica los juicios paralelos de la prensa ante las acusaciones de agresión sexual vertidas contra él.
-
-Date: 2026-10-14
-
-### El PP trata de zanjar el debate sobre las pensiones: promete pagarlas, subirlas "y nada más"
-
-El debate sobre el futuro de las pensiones es una de las cuestiones más sensibles que aparece siempre que arranca una campaña electoral. Feijóo ya lo comprobó en 2023, durante una tensa entrevista en TVE con Silvia Intxaurrondo cuando quedaba menos de una semana para que se abriesen las urnas. El líder del PP sostuvo e.
-
-Date: 2026-10-14
-
-### La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"
-
-Un colegio hace votar a sus alumnos de 3º y 4º de la ESO sobre "parar" las clases y "convertir las calles en una pesadilla para los fascistas y clasistas del PP y Ayuso" Leer.
-
-Date: 2026-10-14
-
-### El CIS de Tezanos dispara hasta los 11,8 puntos la ventaja del PSOE sobre el PP tras el desahucio de Maricarmen y la convocatoria electoral
-
-El barómetro pronostica para Vox una intención de voto del 17,1%, lo que supone una subida de cinco décimas, mientras que Sumar/Frente Amplio alcanzaría el 6,1% Leer.
-
-Date: 2026-10-14
-
 ## Fuentes
 
-- [La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones](https://www.20minutos.es/nacional/junta-electoral-abre-un-expediente-sanchez-por-rueda-prensa-moncloa-tras-convocar-las-elecciones_7049268_0.html?utm_source=lootura.com) — 2026-10-15T14:35:35.000Z
-- [Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año](https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html?utm_source=lootura.com) — 2026-10-15T10:08:44.000Z
-- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z
-- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z
-- [El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»](https://theobjective.com/espana/politica/2026-10-15/pp-celebra-expediente-junta-electoral-sanchez/?amp=&utm_source=lootura.com) — 2026-10-15T16:04:15.000Z
+- [Espinosa de los Monteros descarta concurrir el 29-N para no fragmentar a la derecha: "El objetivo es Sánchez"](https://www.elconfidencial.com/espana/2026-10-16/espinosa-monteros-elecciones-29n_4445934/?utm_source=lootura.com) — 2026-10-15T22:00:00.000Z
+- [Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%](https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-16/vox-y-pp-retoman-los-recortes-a-los-sindicatos-en-castilla-y-leon-con-la-meta-de-llegar-hasta-el-50_4445785/?utm_source=lootura.com) — 2026-10-16T03:00:00.000Z
+- [Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-16/asesor-pp-senado-moratoria-turisticos-catala-valencia_4445837/?utm_source=lootura.com) — 2026-10-16T03:00:00.000Z
+- [Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir](https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html?utm_source=lootura.com) — 2026-10-15T22:05:00.000Z

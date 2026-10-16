@@ -70,5 +70,4 @@ Date: 2026-10-08
 
 ## Sources
 
-- [Chasing China’s Monazite Monopoly](https://spectrum.ieee.org/china-rare-earth-minerals?utm_source=lootura.com) — 2026-10-15T14:54:03.000Z
-- [Can a Radioactive Ore Break China’s Grip on Rare Earths?](https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com) — 2026-10-15T14:53:02.000Z
+No public source links.

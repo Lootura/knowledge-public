@@ -70,4 +70,4 @@ Date: 2026-09-14
 
 ## Sources
 
-- [Trump invokes executive privilege in Kennedy Center legal fight](https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com) — 2026-10-15T15:54:31.000Z
+No public source links.

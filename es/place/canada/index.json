@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/canada/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/canada/index.json",
   "description": "Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T04:16:43.439Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "CA",
     "CAN",
@@ -17,6 +17,11 @@
     "Norteamérica Británica"
   ],
   "changes": [
+    {
+      "title": "Olivier Nicolay: \"Las firmas que perduran son las que logran expandirse sin perder su ADN\"",
+      "summary": "A lo largo de más de tres décadas de trayectoria en la industria del lujo, Olivier Nicolay fue presidente regional de Chanel para el Reino Unido, Irlanda, Canadá, Sudáfrica,...",
+      "date": "2026-10-15"
+    },
     {
       "title": "La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta",
       "summary": "España se enfrenta a una de las mayores contradicciones del mercado inmobiliario: los precios de la vivienda siguen disparándose mientras cada vez más hogares tienen dificultades para acceder a una casa. Pero este problema entre la oferta y la demanda no es una novedad, el propio Banco de España estima una brecha acumu.",
@@ -61,13 +66,15 @@
       "title": "Rafa Jódar pierde ante Nakashima y se queda sin jugar la final en el Masters 1000 de Montreal",
       "summary": "El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Brandon Nakashima y se quedó a las puertas de su primera final de un ATP Masters 1000 en el torneo de Montreal (Canadá) , a pesar de saber sufrir y salvar cuatro bolas de partido. El madrileño, llamando al Top 10 del mundo en el año de su estre.",
       "date": "2026-08-13"
-    },
-    {
-      "title": "Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»",
-      "summary": "Penélope Cruz afirma que está mejor ahora que «cuando tenía 20 años». Y esto se debe, fundamentalmente, a que ha aprendido a cuidarse. Ahora, duerme «unas siete u ocho horas al día». «Si no estoy trabajando, trato de hacer ejercicio por la mañana. Luego desayuno con mi familia», contó, hace meses, a Elle Canadá . A pri.",
-      "date": "2026-08-13"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Olivier Nicolay: \"Las firmas que perduran son las que logran expandirse sin perder su ADN\"",
+      "url": "https://amp.expansion.com/luxury-forum/2026/10/15/6ad1011ae5fdeae8308b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T17:27:37.000Z",
+      "sourceId": "lootura-es-expansion"
+    }
+  ],
+  "evidenceCount": 1
 }

@@ -8,11 +8,28 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/nidal-hasan/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/nidal-hasan/index.json",
   "description": "Follow Nidal Hasan, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
+    "Hasan",
+    "Nidal",
     "Nidal Malik Hasan"
   ],
   "changes": [
+    {
+      "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+      "summary": "The president said only immediate families of the victims of the mass shooting in 2009 would witness the execution of Maj. Nidal Malik Hasan.",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Nidal Hasan first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Many Figures Opposed Hegseth’s Plan to Livestream Fort Hood Shooter’s Execution",
+      "summary": "A retired general, a Catholic archbishop for the military and one of Maj. Nidal Malik Hasan’s victims were among those who had spoken out.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
       "summary": "President Trump announced that the firing squad execution of Fort Hood shooter Nidal Hasan will not be livestreamed, overriding Defense Secretary Pete Hegseth’s earlier claim that it would be. NBC News' Monica Alba reports the latest details from the White House.",
@@ -22,25 +39,26 @@
       "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
       "summary": "The president said only immediate families of the victims of the mass shooting in 2009 would witness the execution of Maj. Nidal Malik Hasan.",
       "date": "2026-10-15"
-    },
-    {
-      "title": "Discovered by Atlas",
-      "summary": "Nidal Hasan first entered the public knowledge record with source-backed evidence.",
-      "date": "2026-10-15"
     }
   ],
   "sources": [
     {
-      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-      "url": "https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:34:30.000Z",
-      "sourceId": "lootura-us-nbc-news"
+      "title": "News Wrap: Trump says Fort Hood shooter's execution will not be livestreamed",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-fort-hood-shooters-execution-will-not-be-livestreamed?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:45:59.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
       "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-      "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:16:25.000Z",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T02:22:17.000Z",
       "sourceId": "lootura-us-the-new-york-times"
+    },
+    {
+      "title": "Many Figures Opposed Hegseth’s Plan to Livestream Fort Hood Shooter’s Execution",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/hegseth-livestream-execution-hasan.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T19:36:03.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
   "evidenceCount": 2

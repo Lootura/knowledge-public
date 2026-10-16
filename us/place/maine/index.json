@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/maine/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/maine/index.json",
   "description": "Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "ME",
     "Maine, United States",
@@ -18,8 +18,28 @@
   ],
   "changes": [
     {
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "summary": "The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "5 Takeaways From the Senate Debate in Maine",
+      "summary": "The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.",
+      "date": "2026-10-16"
+    },
+    {
       "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
       "summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Soaring heating oil prices put struggling Maine families in a bind",
+      "summary": "The price of heating oil in Maine has soared from $3.34 per gallon one year ago to $5.97 today, a jump of roughly 79%.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Maine couple forced to choose food or heat as oil prices skyrocket",
+      "summary": "Along with diesel and gas, the price of heating oil is up, and no state depends on it more than Maine. Meg Oliver spoke with residents there, now forced to make some tough decisions.",
       "date": "2026-10-15"
     },
     {
@@ -46,29 +66,33 @@
       "title": "How a lobsterman's privacy fight reached SCOTUS — and could ripple far beyond the water: 'Ain't over yet'",
       "summary": "One Maine lobsterman isn’t ready to give up after the Supreme Court declined to hear his challenge to a GPS vessel-tracking requirement Monday, fearing it threatens a way of life passed down for generations and could ripple across other industries. For decades, fifth-generation lobsterman Frank Thompson has driven his.",
       "date": "2026-10-11"
-    },
-    {
-      "title": "In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive",
-      "summary": "Half of homes in Maine rely on heating oil. Rising costs driven up by President Trump’s war with Iran have become central to the state’s Senate race.",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "CBS News poll finds voters split on state v. national focus in Maine Senate race",
-      "summary": "Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "Maine's head prison chief on giving inmates second chances: \"I believe in redemption\"",
-      "summary": "This installment of \"Beg-Knows America\" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI",
-      "summary": "L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.",
-      "date": "2026-09-12"
     }
   ],
   "sources": [
+    {
+      "title": "Soaring heating oil prices put struggling Maine families in a bind",
+      "url": "https://www.cbsnews.com/news/soaring-heating-oil-prices-struggling-maine-families-winter/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:42:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Maine couple forced to choose food or heat as oil prices skyrocket",
+      "url": "https://www.cbsnews.com/video/maine-couple-forced-choose-food-heat-heating-oil-prices-skyrocket/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:32:30.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T01:12:12.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    },
+    {
+      "title": "5 Takeaways From the Senate Debate in Maine",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T03:03:43.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
+    },
     {
       "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
       "url": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html?utm_source=lootura.com",
@@ -76,5 +100,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 5
 }

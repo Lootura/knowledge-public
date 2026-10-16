@@ -64,4 +64,4 @@ Date: 2026-08-09
 
 ## Sources
 
-- [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad?utm_source=lootura.com) — 2026-10-15T14:30:00.000Z
+No public source links.

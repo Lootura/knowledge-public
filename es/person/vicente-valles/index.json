@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/vicente-valles/index.json",
   "description": "Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-04T13:40:27.752Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Vallés",
     "Vicente"
   ],
   "changes": [
+    {
+      "title": "Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»",
+      "summary": "Presentar 'Espías: clave secreta', la serie documental en formato pódcast dirigida, escrita y narrada por Vicente Vallés en Onda Cero Podcast, fue solo el pretexto de la visita del periodista a 'El Hormiguero' este jueves 15 de octubre. Sin embargo, la actualidad política se impuso una vez más y Pablo Motos aprovechó l.",
+      "date": "2026-10-16"
+    },
     {
       "title": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
       "summary": "Nueva derrota para el Gobierno . El Congreso ha rechazado este viernes 2 de octubre los dos reales decretos en materia de vivienda aprobados por el Consejo de Ministros. PP, Vox, Junts y UPN han votado en contra de ambos textos, tal y como habían advertido. PNV y Coalición Canaria han apoyado la primera iniciativa, aun.",
@@ -60,6 +65,13 @@
       "date": "2026-08-02"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»",
+      "url": "https://www.abc.es/play/television/noticias/vicente-valles-pronostica-sucedera-tras-elecciones-vamos-20261015230324-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:04:05.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

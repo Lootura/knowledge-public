@@ -3,7 +3,7 @@
 > Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-08-14T09:04:57.004Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/black-sea
 
 ## Recent changes
@@ -46,4 +46,4 @@ Date: 2026-08-04
 
 ## Sources
 
-No public source links.
+- [Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading](https://www.pbs.org/newshour/world/drone-strike-on-ship-in-romanian-waters-raises-fear-that-war-in-ukraine-is-spreading?utm_source=lootura.com) — 2026-10-15T23:38:56.000Z

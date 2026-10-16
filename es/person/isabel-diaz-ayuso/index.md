@@ -70,4 +70,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”](https://elpais.com/espana/madrid/2026-10-15/ayuso-vuelve-a-la-asamblea-con-la-estela-de-la-huelga-en-educacion-y-su-oposicion-frontal-a-sol.html?utm_source=lootura.com) — 2026-10-15T08:46:29.000Z
+No public source links.

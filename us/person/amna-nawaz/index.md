@@ -3,10 +3,22 @@
 > Follow Amna Nawaz, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/amna-nawaz
 
 ## Recent changes
+
+### Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says
+
+For perspective on the tensions between President Trump and Ukrainian President Zelenskyy, Amna Nawaz spoke with former U.S. Ambassador to Ukraine William Taylor. He's now a distinguished fellow at the Atlantic Council.
+
+Date: 2026-10-15
+
+### Pennsylvania doctor urges vaccination as measles outbreak grows
+
+The CDC has confirmed more than 4,000 cases of measles this year as the country grapples with the largest outbreak of the highly infectious virus in 35 years. Nearly a fifth of cases comprise children under the age of five, and 95% are among unvaccinated people. Amna Nawaz spoke with Dr. Evan Shirey, a pediatric infect.
+
+Date: 2026-10-15
 
 ### How Starlink disruptions affected Ukraine's battlefield operations
 
@@ -56,18 +68,7 @@ David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to 
 
 Date: 2026-09-11
 
-### Steinem stayed true to herself despite intense pressure, Julie Taymor says
-
-To discuss the life and legacy of Gloria Steinem, Amna Nawaz spoke with Julie Taymor. She's the director of the 2020 film "The Glorias," a biopic that spans eight decades of Steinem's life.
-
-Date: 2026-09-03
-
-### Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots
-
-With just days until the first ballots are set to be mailed to voters, a whistleblower inside the U.S. Postal Service is warning that a new delivery system could disrupt the handling of election mail and potentially put the midterm elections at risk. Amna Nawaz discussed more with Jacob Bogage of Reuters.
-
-Date: 2026-09-01
-
 ## Sources
 
-No public source links.
+- [Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says](https://www.pbs.org/newshour/show/ukraine-less-reliant-on-u-s-as-trump-zelenskyy-rift-deepens-former-ambassador-says?utm_source=lootura.com) — 2026-10-15T22:50:07.000Z
+- [Pennsylvania doctor urges vaccination as measles outbreak grows](https://www.pbs.org/newshour/show/pennsylvania-doctor-urges-vaccination-as-measles-outbreak-grows?utm_source=lootura.com) — 2026-10-15T22:40:16.000Z

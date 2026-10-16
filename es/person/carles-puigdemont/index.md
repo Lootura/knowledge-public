@@ -3,10 +3,16 @@
 > Sigue la actividad de Carles Puigdemont Casamajó en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-11T17:18:34.354Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/carles-puigdemont
 
 ## Cambios recientes
+
+### Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya
+
+El expresident Carles Puigdemont aún no ha desvelado cuándo volverá a Catalunya , aunque todo indica que será después de las elecciones generales del 29 de noviembre . Lo que sí ha confirmado es uno de los asuntos que más se comenta en los mentideros de su partido desde hace tiempo : que no será el jefe de la oposición.
+
+Date: 2026-10-15
 
 ### El 60% opina que Puigdemont no debería ser amnistiado ni volver a España
 
@@ -62,12 +68,6 @@ El expresidente de la Generalitat catalana Carles Puigdemont ha pasado este mart
 
 Date: 2026-10-06
 
-### Illa, dispuesto a recibir a Puigdemont en Palau igual que hizo con el resto de expresidentes
-
-Si finalmente Carles Puigdemont vuelve a Catalunya, el presidente de la Generalitat, Salvador Illa, le recibiría en Palau, si el actual presidente de Junts quiere, tal como hizo con el resto de antecesores suyos. Puigdemont podría regresar después de que el juez instructor de la causa del procés Pablo Llarena haya leva.
-
-Date: 2026-10-06
-
 ## Fuentes
 
-No public source links.
+- [Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya](https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html?utm_source=lootura.com) — 2026-10-15T21:00:00.000Z

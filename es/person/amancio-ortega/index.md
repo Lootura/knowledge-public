@@ -3,10 +3,16 @@
 > Sigue la actividad de Amancio Ortega en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-08T22:21:31.789Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/amancio-ortega
 
 ## Cambios recientes
+
+### La frase de Amancio Ortega que inspira a los emprendedores: «Comprar un local caro jamás ha sido un fracaso. Lo barato es un fracaso»
+
+Con sólo 14 años, Amancio Ortega comenzó a trabajar como repartidor en la Camisería Gala, situada en La Coruña . Más adelante, consiguió un puesto como vendedor en La Maja, otro establecimiento textil de la ciudad, donde adquirió sus primeros conocimientos sobre moda y confección. Fue también allí donde conoció a su pr.
+
+Date: 2026-10-15
 
 ### Amancio Ortega sale de la lusa REN y vende su participación del 13,7% a Portugal por 380 millones
 
@@ -62,12 +68,6 @@ Nadie mejor que Amancio Ortega puede demostrar que con esfuerzo y trabajo se pue
 
 Date: 2026-08-10
 
-### Las raíces de Flora Pérez, mujer de Amancio Ortega, están en una rica comarca coruñesa: «Crecieron lejos de las élites tradicionales»
-
-Amancio Ortega siempre ha sido una persona muy familiar . El empresario decidió construir su mayor proyecto, Inditex , confiando en aquellas personas que conforman su círculo más íntimo. Es por eso que su hija Sandra, la mayor, siempre ha tenido cierta influencia dentro del gigante textil, al igual que Marta Ortega, qu.
-
-Date: 2026-08-09
-
 ## Fuentes
 
-No public source links.
+- [La frase de Amancio Ortega que inspira a los emprendedores: «Comprar un local caro jamás ha sido un fracaso. Lo barato es un fracaso»](https://okdiario.com/economia/frase-amancio-ortega-que-inspira-emprendedores-comprar-local-caro-jamas-sido-fracaso-lo-barato-fracaso-20553123?utm_source=lootura.com) — 2026-10-15T22:37:19.000Z

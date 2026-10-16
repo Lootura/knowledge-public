@@ -3,7 +3,7 @@
 > Follow FIFA, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-14T03:30:23.685Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/organization/fifa
 
 ## Recent changes
@@ -28,4 +28,4 @@ Date: 2026-10-13
 
 ## Sources
 
-No public source links.
+- [Infantino apologizes to FIFA Council for World Cup furor but leaves critics unhappy](https://www.pbs.org/newshour/world/infantino-apologizes-to-fifa-council-for-world-cup-furor-but-leaves-critics-unhappy?utm_source=lootura.com) — 2026-10-16T00:20:13.000Z

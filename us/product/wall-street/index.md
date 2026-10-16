@@ -52,4 +52,4 @@ Date: 2026-08-04
 
 ## Sources
 
-- [US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account](https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections?utm_source=lootura.com) — 2026-10-15T13:30:11.000Z
+No public source links.

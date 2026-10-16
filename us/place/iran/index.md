@@ -3,20 +3,26 @@
 > Follow Iran, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/iran
 
 ## Recent changes
 
-### Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans
-
-Inflation jumped to 3.7%, driven by gas and diesel prices triggered by the U.S. war with Iran. NBC’s Christine Romans joins TODAY to break down which categories will see price increases and what’s behind the spike in costs.
-
-Date: 2026-10-15
-
 ### Families of Sailors Killed in Iran War Struggle for Compensation and Closure
 
 Attacks near the Strait of Hormuz have claimed the lives of at least 25 seafarers. Their survivors are reeling.
+
+Date: 2026-10-15
+
+### Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom
+
+The escalation between the Saudis and the rebels in neighboring Yemen has exposed the kingdom's challenges in intercepting the attacks in the latest front in the Iran war, while further rattling global markets.
+
+Date: 2026-10-15
+
+### Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans
+
+Inflation jumped to 3.7%, driven by gas and diesel prices triggered by the U.S. war with Iran. NBC’s Christine Romans joins TODAY to break down which categories will see price increases and what’s behind the spike in costs.
 
 Date: 2026-10-15
 
@@ -62,14 +68,7 @@ President Trump’s deal with Russia will probably not lower diesel prices that 
 
 Date: 2026-10-14
 
-### How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid
-
-For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.
-
-Date: 2026-10-14
-
 ## Sources
 
-- [Inflation Jumps Amid Rising Fuel Prices: How it Impacts Americans](https://www.today.com/video/inflation-jumps-amid-rising-fuel-prices-how-it-impacts-americans-271614533760?utm_source=lootura.com) — 2026-10-15T11:19:49.000Z
-- [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
+- [Saudi diplomat says Iran is encouraging Houthi escalation of attacks on the kingdom](https://www.pbs.org/newshour/world/saudi-diplomat-says-iran-is-encouraging-houthi-escalation-of-attacks-on-the-kingdom?utm_source=lootura.com) — 2026-10-15T23:16:23.000Z
 - [Families of Sailors Killed in Iran War Struggle for Compensation and Closure](https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html?utm_source=lootura.com) — 2026-10-15T10:54:39.000Z

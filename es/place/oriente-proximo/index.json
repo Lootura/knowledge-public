@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/oriente-proximo/index.json",
   "description": "Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T03:09:30.972Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Cercano Oriente",
     "Oriente cercano",
@@ -16,6 +16,11 @@
     "Próximo Oriente"
   ],
   "changes": [
+    {
+      "title": "Óscar Arce (BCE): “Hay que avanzar hacia una mayor integración en el mercado eléctrico europeo”",
+      "summary": "La historia reciente del área euro es la de un golpe tras otro: la pandemia, el atasco en las cadenas globales de suministro, la crisis energética causada por la invasión rusa de Ucrania, las tensiones comerciales hasta la nueva y reciente escalada inflacionaria provocada por el conflicto en Oriente Próximo. Unos corto.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético",
       "summary": "El presidente francés, Emmanuel Macron , viajará a Kuwait, Emiratos Árabes Unidos, Baréin y Catar del 19 al 21 de octubre para abordar la crisis en Oriente Próximo, defender la libre navegación por el estrecho de Ormuz y reforzar la seguridad del suministro energético, según ha informado este miércoles el Elíseo. La gi.",
@@ -60,13 +65,15 @@
       "title": "Trump rechaza auxiliar a Arabia Saudí en el mar Rojo pese al cierre de un oleoducto clave",
       "summary": "Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pese a la toma del principal estrecho alternativo a Ormuz por parte de los hutíes de Yemen, aliados de Irán, y el cierre temporal del oleoducto con el que Arabia Saudí estaba dando salida a su petróleo . El jueves, cuando el avance del grupo i.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
-      "summary": "Además de las 2.977 víctimas mortales, del miedo que inundó a todo Estados Unidos y las guerras que se propagaron por Oriente Próximo, los atentados del 11 de septiembre de 2001 tuvieron otro efecto colateral en Nueva York, la ciudad más golpeada por la furia yihadista: un creciente recelo, cuando no racismo directo, c.",
-      "date": "2026-09-11"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Óscar Arce (BCE): “Hay que avanzar hacia una mayor integración en el mercado eléctrico europeo”",
+      "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/oscar-arce-bce-no-debemos-confundir-resiliencia-con-inmunidad.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:53:18.000Z",
+      "sourceId": "lootura-es-cinco-dias"
+    }
+  ],
+  "evidenceCount": 1
 }

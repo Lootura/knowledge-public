@@ -3,20 +3,20 @@
 > Follow Europe, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/europe
 
 ## Recent changes
 
-### Can a Radioactive Ore Break China’s Grip on Rare Earths?
-
-The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.
-
-Date: 2026-10-15
-
 ### A new sunscreen type for Americans hits store shelves
 
 For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that's long been a go-to option in Europe and other parts of the world.
+
+Date: 2026-10-15
+
+### Can a Radioactive Ore Break China’s Grip on Rare Earths?
+
+The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe are striving to wres.
 
 Date: 2026-10-15
 
@@ -70,6 +70,4 @@ Date: 2026-10-13
 
 ## Sources
 
-- [Can a Radioactive Ore Break China’s Grip on Rare Earths?](https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com) — 2026-10-15T14:53:02.000Z
 - [A new sunscreen type for Americans hits store shelves](https://www.pbs.org/newshour/health/a-new-sunscreen-type-for-americans-hits-store-shelves?utm_source=lootura.com) — 2026-10-15T15:53:05.000Z
-- [Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?](https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com) — 2026-10-15T13:43:41.000Z

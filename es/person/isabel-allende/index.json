@@ -1,0 +1,70 @@
+{
+  "id": "es-isabel-allende",
+  "name": "Isabel Allende",
+  "type": "person",
+  "locale": "es",
+  "canonicalPath": "/es/person/isabel-allende",
+  "canonicalUrl": "https://atlas.lootura.com/es/person/isabel-allende",
+  "markdownUrl": "https://atlas.lootura.com/es/person/isabel-allende/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/person/isabel-allende/index.json",
+  "description": "Sigue la actividad de Isabel Allende en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
+  "aliases": [
+    "Allende",
+    "Isabel Allende Llona"
+  ],
+  "changes": [
+    {
+      "title": "Isabel Allende gana el 75 Premio Planeta con la continuación de 'La casa de los espíritus'",
+      "summary": "La 75 edición del Premio Planeta ya tiene ganadora, y de relumbrón, Isabel Allende . La escritora chilena consigue, a sus 84 años, el premio mayor dotado de las letras hispánicas, con un millón de euros, y se añade a una larga lista de ilustres vencedores como Mario Vargas Llosa, Juan Marsé, Eduardo Mendoza o Manuel Vá.",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Isabel Allende, la escritora que convirtió su vida y memoria en literatura universal",
+      "summary": "1.424 manuscritos fueron presentados al Planeta, un récord en estos premios, que ya tiene ganadora: Isabel Allende . La escritora chilena ha sido reconocida en este 75.º aniversario con su novela La hora antes del alba , sumando, de esta manera, una más a su amplio listado de obras. Nacida el 2 de agosto de 1942 en Lim.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Isabel Allende: “Una vez probé la IA y fue horrible; te sale con unas cursiladas que no te imaginas”",
+      "summary": "En una casa con fronteras invisibles vivió Isabel Allende, quien nació en Lima en 1942, se crio en Chile y desde hace rato vive en California. Con la excusa de la presentación de su trilogía infantil: Perla la súper perrita , Perla y el Pirata y Perla y la Princesa , ilustrados por Sandy Rodríguez y publicados por Peng.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años",
+      "summary": "Este jueves se ha celebrado, como cada 15 de octubre, el premio Planeta , frente a la presencia de los Reyes, quienes se han trasladado hasta Barcelona. El finalista ha sido Los caminantes , bajo el pseudónimo, Martín Guerra, que albergaba La añoranza , de Sergio Hernández Carrasco . El primer premio, dotado de un mill.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Isabel Allende first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Isabel Allende, la escritora que convirtió su vida y memoria en literatura universal",
+      "url": "https://www.20minutos.es/libros/isabel-allende-escritora-que-convirtio-su-vida-memoria-literatura-universal_7049301_0.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T21:01:18.000Z",
+      "sourceId": "lootura-es-20minutos"
+    },
+    {
+      "title": "Isabel Allende gana el 75 Premio Planeta con la continuación de 'La casa de los espíritus'",
+      "url": "https://www.abc.es/cultura/isabel-allende-gana-premio-planeta-segunda-parte-20261015175309-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:23:30.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Isabel Allende: “Una vez probé la IA y fue horrible; te sale con unas cursiladas que no te imaginas”",
+      "url": "https://www.lavanguardia.com/magazine/protagonistas/20261015/11659962/isabel-allende-vez-probe-ia-horrible-te-sale-cursiladas-te-imaginas.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:55:32.000Z",
+      "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años",
+      "url": "https://theobjective.com/gente/2026-10-15/isabel-allende-premio-planeta-infancia-chile-carta-abuelo/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:57:54.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 4
+}

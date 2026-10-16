@@ -52,4 +52,4 @@ Date: 2026-10-12
 
 ## Fuentes
 
-- [Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html?utm_source=lootura.com) — 2026-10-15T08:02:59.000Z
+No public source links.

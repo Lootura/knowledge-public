@@ -64,4 +64,4 @@ Date: 2026-07-19
 
 ## Sources
 
-- [Vance’s Talarico Attacks Show His Penchant for Personal Broadsides](https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html?utm_source=lootura.com) — 2026-10-15T02:08:59.000Z
+No public source links.

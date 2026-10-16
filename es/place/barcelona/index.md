@@ -3,10 +3,28 @@
 > Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/barcelona
 
 ## Cambios recientes
+
+### Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo
+
+El partido cree que Compromís, que ha ofrecido el número 3 por Valencia y ultima el pacto con Podemos, no tiene vocación real de integrarles en una candidatura La izquierda valenciana negocia una candidatura única liderada por Compromís e intenta evitar “el espectáculo de Madrid y Barcelona” A 24 horas de cerrar el pla.
+
+Date: 2026-10-15
+
+### La gala del Planeta: más elegancia y menos brilli brilli
+
+Pocas parejas alcanzan las bodas de diamante, la gema más dura y brillante del reino mineral. Setenta y cinco años son unos cuantos, y había que festejar por todo lo alto el matrimonio entre la ciudad de Barcelona y el premio Planeta. La presencia de Felipe VI y Letizia en esta ocasión, el 75º aniversario, añadió un pl.
+
+Date: 2026-10-15
+
+### Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años
+
+Este jueves se ha celebrado, como cada 15 de octubre, el premio Planeta , frente a la presencia de los Reyes, quienes se han trasladado hasta Barcelona. El finalista ha sido Los caminantes , bajo el pseudónimo, Martín Guerra, que albergaba La añoranza , de Sergio Hernández Carrasco . El primer premio, dotado de un mill.
+
+Date: 2026-10-15
 
 ### Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona
 
@@ -50,25 +68,9 @@ Barcelona pone coto a los cruceros, pero no será suficiente para contener el tu
 
 Date: 2026-10-14
 
-### Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona
-
-La decisión resuelve uno de los mayores focos de tensión dentro de la alianza, porque Más Madrid exigía liderar la lista Leer.
-
-Date: 2026-10-13
-
-### Galatasaray - Barcelona en directo | Flick apuesta por Dani Olmo como falso 9
-
-El Barcelona y el Galatasaray se miden este martes a partir de las 21.00 en la segunda jornada de la Champions League . Los de Hansi Flick buscan su segunda victoria en la Liga de Campeones tras golear en su primer enfrentamiento al Feyenoord en el Camp Nou (5-1). Este será el primer viaje europeo del curso para los az.
-
-Date: 2026-10-13
-
-### Lamine deslumbra en la goleada del Barcelona contra el Galatasaray
-
-Al Barça le mueve la prisa en Europa. Tiene tanta necesidad de ganar la Champions, tal es su excitación y deseo, que a veces le cuesta o se olvida de jugarla, como si quisiera ser campeón en invierno, tan superior al Galatasaray que sorprendió que al minuto 43 perdiera por 1-0. A una concesión en un repliegue ya muy re.
-
-Date: 2026-10-13
-
 ## Fuentes
 
-- [Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona](https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html?utm_source=lootura.com) — 2026-10-15T06:53:13.000Z
-- [Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”](https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com) — 2026-10-15T11:55:33.000Z
+- [La otra Transición (estética) en España](https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html?utm_source=lootura.com) — 2026-10-16T00:02:41.000Z
+- [Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo](https://www.eldiario.es/comunitat-valenciana/politica/esquerra-unida-no-ira-compromis-generales-75-direccion-rechaza-propuesta-acuerdo_1_13589690.html?utm_source=lootura.com) — 2026-10-15T20:22:39.000Z
+- [La gala del Planeta: más elegancia y menos brilli brilli](https://www.lavanguardia.com/cultura/20261015/11660127/premio-planeta-gala-invitados.html?utm_source=lootura.com) — 2026-10-15T20:54:11.000Z
+- [Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años](https://theobjective.com/gente/2026-10-15/isabel-allende-premio-planeta-infancia-chile-carta-abuelo/?utm_source=lootura.com) — 2026-10-15T20:57:54.000Z

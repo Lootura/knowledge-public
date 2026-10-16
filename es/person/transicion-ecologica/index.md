@@ -70,4 +70,4 @@ Date: 2026-08-11
 
 ## Fuentes
 
-- [Aagesen pide apostar por energía autóctona y renovable ante un coste extra de 100.000 millones en la UE por la guerra](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/aagesen-pide-apostar-por-energia-autoctona-y-renovable-ante-un-extracoste-de-100000-millones-en-la-ue-por-la-guerra.html?utm_source=lootura.com) — 2026-10-15T14:50:39.000Z
+No public source links.

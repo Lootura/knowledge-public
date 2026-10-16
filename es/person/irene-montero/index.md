@@ -3,20 +3,20 @@
 > Sigue la actividad de Irene María Montero Gil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/irene-montero
 
 ## Cambios recientes
 
-### Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo
-
-A menos de 48 horas, el duelo por la candidata (Irene Montero o Ada Colau) enfrenta a Podemos y el Frente Amplio Leer.
-
-Date: 2026-10-15
-
 ### Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”
 
 Hijo de un albañil y sindicalista de CC OO, y de madre ama de casa, criado entre Móstoles y Vallecas, Emilio Delgado (Madrid, 50 años) ha sido el elegido por el Frente Amplio para liderar la candidatura por Madrid después de muchos vaivenes y de guerras internas. Tiene por delante el reto de su vida. Recibe a EL PAÍS e.
+
+Date: 2026-10-15
+
+### Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo
+
+A menos de 48 horas, el duelo por la candidata (Irene Montero o Ada Colau) enfrenta a Podemos y el Frente Amplio Leer.
 
 Date: 2026-10-15
 
@@ -70,5 +70,4 @@ Date: 2026-09-17
 
 ## Fuentes
 
-- [Guía de la negociación más al límite y desquiciada de la izquierda: el Frente Amplio se queda sin tiempo](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfb5ade4d4d8454b8b459e.html?utm_source=lootura.com) — 2026-10-15T08:02:59.000Z
 - [Emilio Delgado, sobre que Irene Montero lidere la lista de Madrid: “Me costaría mucho explicarlo. Podemos es una fuerza extraparlamentaria”](https://elpais.com/espana/elecciones-generales/2026-10-15/emilio-delgado-sobre-que-irene-montero-lidere-la-lista-de-madrid-me-costaria-mucho-explicarlo-podemos-es-una-fuerza-extraparlamentaria.html?utm_source=lootura.com) — 2026-10-15T14:54:33.000Z

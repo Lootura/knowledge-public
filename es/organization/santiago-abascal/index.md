@@ -70,4 +70,4 @@ Date: 2026-09-08
 
 ## Fuentes
 
-- [Abascal mantiene una «fructífera» reunión con Meloni en Bruselas](https://theobjective.com/espana/politica/2026-10-15/abascal-fructifera-reunion-meloni-bruselas/?utm_source=lootura.com) — 2026-10-15T15:46:44.000Z
+No public source links.

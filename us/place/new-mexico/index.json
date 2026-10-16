@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/new-mexico/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/new-mexico/index.json",
   "description": "Follow New Mexico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-01T04:06:59.232Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "Land of Enchantment",
     "N. Mex.",
@@ -17,6 +17,11 @@
     "State of New Mexico"
   ],
   "changes": [
+    {
+      "title": "White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age",
+      "summary": "Expanded excavations at White Sands National Park in New Mexico have provided researchers an opportunity to refine the age of the oldest human footprints in North America and establish a deeper understanding of the landscape and environmental conditions at the time humans were present there.",
+      "date": "2026-10-15"
+    },
     {
       "title": "How did Earth get its water? Inside the extreme machine seeking answers",
       "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02978-4 The Z machine in New Mexico generates shockwaves that can simulate conditions deep inside our planet.",
@@ -33,6 +38,13 @@
       "date": "2026-08-08"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age",
+      "url": "https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:20:08.000Z",
+      "sourceId": "lootura-us-phys-org"
+    }
+  ],
+  "evidenceCount": 1
 }

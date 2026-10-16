@@ -3,10 +3,16 @@
 > Sigue la actividad de Canadá en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-04T04:16:43.439Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/canada
 
 ## Cambios recientes
+
+### Olivier Nicolay: "Las firmas que perduran son las que logran expandirse sin perder su ADN"
+
+A lo largo de más de tres décadas de trayectoria en la industria del lujo, Olivier Nicolay fue presidente regional de Chanel para el Reino Unido, Irlanda, Canadá, Sudáfrica,...
+
+Date: 2026-10-15
 
 ### La crisis de vivienda global mira a España: Canadá, EEUU y Reino Unido ya han puesto solución a la falta de oferta
 
@@ -62,12 +68,6 @@ El tenista español Rafael Jódar no pudo (7-6(3), 6-4) con el estadounidense Br
 
 Date: 2026-08-13
 
-### Penélope Cruz, 52 años: «Desayuno huevos, tostadas de espelta y zumo de apio; me encanta el café arábica orgánico con leche de almendra»
-
-Penélope Cruz afirma que está mejor ahora que «cuando tenía 20 años». Y esto se debe, fundamentalmente, a que ha aprendido a cuidarse. Ahora, duerme «unas siete u ocho horas al día». «Si no estoy trabajando, trato de hacer ejercicio por la mañana. Luego desayuno con mi familia», contó, hace meses, a Elle Canadá . A pri.
-
-Date: 2026-08-13
-
 ## Fuentes
 
-No public source links.
+- [Olivier Nicolay: "Las firmas que perduran son las que logran expandirse sin perder su ADN"](https://amp.expansion.com/luxury-forum/2026/10/15/6ad1011ae5fdeae8308b45a3.html?utm_source=lootura.com) — 2026-10-15T17:27:37.000Z

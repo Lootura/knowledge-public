@@ -3,10 +3,16 @@
 > Sigue la actividad de La comunidad en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/la-comunidad
 
 ## Cambios recientes
+
+### Acusan a los acampados de usar la fuente de la estatua de Carlos III como "un parque acuático"
+
+La Comunidad de Madrid ha lamentado este jueves el uso de la fuente de la estatua de Carlos III de la Puerta del Sol como "un parque acuático" por parte de los acampados . Desde el Gobierno regional han adelantado su intención de incluir en su denuncia ante la Fiscalía una serie de vídeos donde se acreditan actos de va.
+
+Date: 2026-10-15
 
 ### La Comunidad cifra en un 44,6% el seguimiento de la huelga educativa y denuncia amenazas: "No quieren paz ni en las calles ni en las aulas"
 
@@ -62,12 +68,6 @@ La Comunidad de Madrid ha desbancado a Castilla y León en el liderazgo del info
 
 Date: 2026-09-08
 
-### Madrid promueve un boicot general de los gobiernos del PP para bloquear la reforma de la financiación autonómica
-
-La Comunidad de Madrid no asistirá este viernes a la reunión del Consejo de Política Fiscal y Financiera (CPFF) en la que estaba previsto votar la propuesta de reforma de la financiación autonómica planteada por el Gobierno, tras acordarla con sus socios de ERC y con el gobierno de la Generalitat de Cataluña, y este ju.
-
-Date: 2026-09-03
-
 ## Fuentes
 
-No public source links.
+- [Acusan a los acampados de usar la fuente de la estatua de Carlos III como "un parque acuático"](https://www.20minutos.es/madrid/comunidad-madrid-denuncia-uso-fuente-estatua-carlos-iii-como-parque-acuatico-por-parte-acampados_7049401_0.html?utm_source=lootura.com) — 2026-10-15T20:11:04.000Z

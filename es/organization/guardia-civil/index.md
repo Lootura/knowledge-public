@@ -3,10 +3,40 @@
 > Sigue la actividad de Guardia Civil en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/guardia-civil
 
 ## Cambios recientes
+
+### Guardias civiles de Baleares claman contra la falta de efectivos: denunciar un robo puede convertirse en una auténtica odisea
+
+La Asociación Unificada de Guardias Civiles (AUGC) de Baleares ha denunciado nuevamente la falta de efectivos en los cuarteles de la Guardia Civil de las Islas , tras la noticia publicada en exclusiva por OKBALEARES , que alertaba de las dificultades que encuentran los ciudadanos para denunciar delitos como los robos ,.
+
+Date: 2026-10-16
+
+### Le roban el móvil a una vecina en Mallorca, el GPS marca su posición y la Guardia Civil le dice que pida cita previa para denunciar
+
+La indignación ha estallado con fuerza en la localidad mallorquina de s’Arenal de Llucmajor tras el surrealista robo de un teléfono móvil que ha sufrido una vecina. A pesar de haber localizado su dispositivo sustraído en un hotel okupado del municipio, mediante el sistema de rastreo por GPS, la Guardia Civil rechazó in.
+
+Date: 2026-10-16
+
+### Una patrullera marroquí invade aguas españolas tras la visita de los Reyes a Ceuta
+
+Una patrullera marroquí invadió este jueves durante horas aguas españolas en la costa de Ceuta, según informan fuentes policiales a ABC. Los agentes de la Guardia Civil que vigilan la seguridad del perímetro de la ciudad autónoma fueron los primeros que divisaron la embarcación y avisaron a sus superiores de sus movimi.
+
+Date: 2026-10-15
+
+### Herida en una colisión con cuatro vehículos implicados en Cadreita (Navarra)
+
+Una mujer de 60 años resultó herida el miércoles por la noche en una colisión en la que se vieron implicados cuatro vehículos , en la carretera NA-134 , kilómetro 27, en el término de Cadreita , según ha informado la Guardia Civil . El accidente consistió en una colisión por alcance . Hasta el lugar se desplazaron una.
+
+Date: 2026-10-15
+
+### La directora de la Guardia Civil sólo se interesó por las investigaciones de la UCO que afectaban al PSOE
+
+El número dos del cuerpo aclara al juez que Mercedes González desatendió el resto de expedientes internos y coordinó los abiertos a petición del ministro Leer.
+
+Date: 2026-10-15
 
 ### El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil
 
@@ -38,37 +68,10 @@ Alfonso Rodríguez deja la Delegación del Gobierno en Baleares por la puerta de
 
 Date: 2026-10-13
 
-### Detenida por robar una caja fuerte con más de 10.000 euros de un comercio de Cartes (Cantabria)
-
-La Guardia Civil ha detenido a una vecina de Torrelavega de 35 años por, presuntamente, robar una caja fuerte que contenía más de 10.000 euros en metálico de un comercio de Cartes . A mediados de septiembre, la Guardia Civil fue alertada de que, de madrugada, se había activado la alarma de un establecimiento comercial.
-
-Date: 2026-10-13
-
-### Siete embarcaciones con 101 inmigrantes interceptadas frente a las costas de Cartagena
-
-Salvamento Marítimo, la Guardia Civil y Vigilancia Aduanera han interceptado durante la jornada de ayer lunes un total de siete embarcaciones con 101 inmigrantes a bordo frente a las costas de Cartagena (Murcia), entre ellos 83 varones adultos, 4 mujeres y 14 menores, según la información facilitada este martes por la.
-
-Date: 2026-10-13
-
-### Decenas de migrantes son expulsados a Marruecos ‘a puerta cerrada’ tras el desalojo del asentamiento del Guano en Ceuta: “Adiós España”
-
-Alrededor de 150 personas migrantes fueron sacadas del asentamiento al amanecer en un amplio dispositivo policial, que luego trasladó a los adultos al Tarajal: la mayoría volvieron a Marruecos con la Guardia Civil advirtiendo de medidas a quienes tomaban imágenes Los migrantes que resistieron meses en el Trampolín y ah.
-
-Date: 2026-10-11
-
-### Detenido un hombre tras un atraco a punta de cuchillo en un local comercial en Güímar (Tenerife)
-
-Agentes de la Guardia Civil pertenecientes al Puesto de Güímar , con el apoyo de la Unidad de Seguridad Ciudadana de la Comandancia (USECIC), han detenido a un hombre como presunto autor de un delito de robo con violencia cometido en un establecimiento comercial ubicado en el municipio. El hombre amenazó a las empleada.
-
-Date: 2026-10-06
-
-### La Guardia Civil sigue buscando al hombre de 68 años desaparecido en Losar de la Vera (Plasencia)
-
-La Guardia Civil ha reactivado este domingo el dispositivo de búsqueda para localizar al hombre de 68 años desaparecido el pasado lunes en Losar de la Vera , junto a su perro. Las labores han arrancado a las 09:30 horas con la intervención de agentes de varias unidades de la Guardia Civil , voluntarios, efectivos de Pr.
-
-Date: 2026-10-04
-
 ## Fuentes
 
-- [El hombre de confianza del narco «El Gitano» que desveló El Debate rompe su silencio ante la Guardia Civil](https://www.eldebate.com/espana/20261015/hombre-confianza-narco-gitano-desvelo-debate-rompe-silencio-ante-guardia-civil_470024.html?utm_source=lootura.com) — 2026-10-15T13:51:53.000Z
-- [El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez](https://theobjective.com/espana/tribunales/2026-10-15/el-dao-de-la-guardia-civil-dice-que-marlaska-le-llamo-tras-filtrarse-el-correo-de-begona-gomez/?amp=&utm_source=lootura.com) — 2026-10-15T08:49:24.000Z
+- [Una patrullera marroquí invade aguas españolas tras la visita de los Reyes a Ceuta](https://www.abc.es/espana/guardia-civil-detecta-entrada-patrullera-marroqui-aguas-20261015220839-nt.html?utm_source=lootura.com) — 2026-10-15T20:09:07.000Z
+- [Herida en una colisión con cuatro vehículos implicados en Cadreita (Navarra)](https://www.elconfidencial.com/espana/2026-10-15/mujer-herida-accidente-trafico-cadreita-1tna-1tps_4446020/?utm_source=lootura.com) — 2026-10-15T18:09:00.000Z
+- [La directora de la Guardia Civil sólo se interesó por las investigaciones de la UCO que afectaban al PSOE](https://www.elmundo.es/espana/2026/10/16/6ad113d421efa0d8708b45c2.html?utm_source=lootura.com) — 2026-10-15T23:37:56.000Z
+- [Guardias civiles de Baleares claman contra la falta de efectivos: denunciar un robo puede convertirse en una auténtica odisea](https://okdiario.com/baleares/guardias-civiles-baleares-claman-contra-falta-efectivos-denunciar-robo-puede-convertirse-autentica-odisea-20557350?utm_source=lootura.com) — 2026-10-16T02:00:55.000Z
+- [Le roban el móvil a una vecina en Mallorca, el GPS marca su posición y la Guardia Civil le dice que pida cita previa para denunciar](https://okdiario.com/baleares/roban-movil-vecina-sarenal-gps-lo-localiza-hotel-okupado-guardia-civil-remite-pedir-cita-previa-20553678?utm_source=lootura.com) — 2026-10-16T02:00:46.000Z

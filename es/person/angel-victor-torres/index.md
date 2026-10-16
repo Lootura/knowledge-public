@@ -3,10 +3,16 @@
 > Sigue la actividad de Ángel Víctor Torres en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-14T22:58:11.537Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/angel-victor-torres
 
 ## Cambios recientes
+
+### Torres se dirige a quienes protestan en las calles: «Acudan a votar o, después, a llorar»
+
+El ministro de Política Territorial , Ángel Víctor Torres , ha animado a quienes han salido estas semanas a las calles para exigir una vivienda digna y frenar los desahucios a que acudan a las urnas el 29-N y a que voten por quien protege sus intereses; o, después, «a llorar», según recoge EFE. «Después, ya no hay tiem.
+
+Date: 2026-10-15
 
 ### Qué ministros irán en las listas al Congreso y quiénes no repetirán
 
@@ -62,12 +68,6 @@ El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torr
 
 Date: 2026-09-07
 
-### Torres admite que el Gobierno desconoce el informe: "No sabemos si es de un agente particular"
-
-El ministro de Política Territorial y coordinador del mando único para la gestión de la crisis en Ceuta, Ángel Víctor Torres , ha reconocido este miércoles que el Gobierno desconocía el contenido del informe de la Policía Nacional que atribuye a Marruecos la responsabilidad del asalto a la frontera ceutí de finales de.
-
-Date: 2026-09-02
-
 ## Fuentes
 
-No public source links.
+- [Torres se dirige a quienes protestan en las calles: «Acudan a votar o, después, a llorar»](https://theobjective.com/espana/politica/2026-10-15/torres-protestan-calles-votar-llorar/?utm_source=lootura.com) — 2026-10-15T20:29:18.000Z

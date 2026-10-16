@@ -40,5 +40,4 @@ Date: 2026-08-01
 
 ## Fuentes
 
-- [Los 27 apoyan prorrogar ayudas a los sectores afectados por la crisis energética pero chocan sobre el diseño del mercado](https://www.20minutos.es/internacional/los-lideres-ue-estudian-medidas-urgentes-para-aplacar-los-altos-precios-energia-para-los-hogares_7049197_0.html?utm_source=lootura.com) — 2026-10-15T13:12:22.000Z
-- [Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año](https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html?utm_source=lootura.com) — 2026-10-15T10:08:44.000Z
+No public source links.

@@ -3,10 +3,16 @@
 > Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/organization/cornell-university
 
 ## Recent changes
+
+### Cornell president faces contentious faculty senate meeting over Jane Doe allegations
+
+Cornell University’s president was met with scrutiny and sharp questions from its faculty senate on Wednesday, when the group convened to discuss a no-confidence vote over the university’s handling of an alleged 2024 sexual assault at a fraternity house, according to an audio recording obtained by NBC News.
+
+Date: 2026-10-15
 
 ### Exclusive video offers insight into Cornell University Faculty Senate meeting
 
@@ -62,12 +68,6 @@ The rape allegations that have emerged from a Cornell University frat house are 
 
 Date: 2026-10-04
 
-### Cornell University to take ‘serious look’ at fraternities after rape allegations
-
-Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A.
-
-Date: 2026-10-04
-
 ## Sources
 
-- [Exclusive video offers insight into Cornell University Faculty Senate meeting](https://www.cbsnews.com/newyork/news/cornell-university-faculty-senate-meeting-video/?utm_source=lootura.com) — 2026-10-15T03:36:05.000Z
+- [Cornell president faces contentious faculty senate meeting over Jane Doe allegations](https://www.nbcnews.com/news/us-news/cornell-president-faces-contentious-faculty-senate-meeting-jane-doe-al-rcna603703?utm_source=lootura.com) — 2026-10-15T20:35:26.000Z

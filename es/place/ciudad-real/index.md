@@ -70,4 +70,4 @@ Date: 2026-07-19
 
 ## Fuentes
 
-- [El fiscal pide 46 y 19 años de cárcel para los acusados de dos asesinatos en Ciudad Real](https://theobjective.com/sociedad/suceso/2026-10-15/fiscal-46-19-anos-carcel-asesinatos-ciudad-real/?amp=&utm_source=lootura.com) — 2026-10-15T16:03:32.000Z
+No public source links.

@@ -40,4 +40,4 @@ Date: 2026-07-10
 
 ## Sources
 
-- [AI helps detect media bias, informing voters and news consumers](https://phys.org/news/2026-10-ai-media-bias-voters-news.html?utm_source=lootura.com) — 2026-10-15T16:00:12.000Z
+No public source links.

@@ -70,4 +70,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z
+No public source links.

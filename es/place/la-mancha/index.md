@@ -3,10 +3,16 @@
 > Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/la-mancha
 
 ## Cambios recientes
+
+### Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara
+
+Un hombre de 42 años ha sido trasladado este jueves al hospital afectado por inhalación de humo a consecuencia del incendio originado en la cocina de una vivienda situada en la calle Río Henares de Guadalajara . Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el avis.
+
+Date: 2026-10-15
 
 ### Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)
 
@@ -62,12 +68,6 @@ Un trabajador de 48 años ha sido evacuado este sábado al hospital de Ciudad Re
 
 Date: 2026-09-12
 
-### Cuatro comunidades hicieron trampas en PISA y una está bajo sospecha: «Page entrenó a sus alumnos para el test»
-
-A pesar de los esfuerzos de los dirigentes autonómicos por tratar de buscarle un lado positivo a los datos del informe PISA , ninguna región tiene nada que celebrar. Todas las autonomías empeoraron sus resultados tanto en Lectura, como en Matemáticas y en Ciencias. Con una excepción: Castilla-La Mancha. La comunidad go.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-No public source links.
+- [Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara](https://www.elconfidencial.com/espana/2026-10-15/incendio-cocina-hombre-hospital-guadalajara-1tna-1tps_4445935/?utm_source=lootura.com) — 2026-10-15T16:54:00.000Z

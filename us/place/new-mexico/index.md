@@ -3,10 +3,16 @@
 > Follow New Mexico, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-01T04:06:59.232Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/new-mexico
 
 ## Recent changes
+
+### White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age
+
+Expanded excavations at White Sands National Park in New Mexico have provided researchers an opportunity to refine the age of the oldest human footprints in North America and establish a deeper understanding of the landscape and environmental conditions at the time humans were present there.
+
+Date: 2026-10-15
 
 ### How did Earth get its water? Inside the extreme machine seeking answers
 
@@ -28,4 +34,4 @@ Date: 2026-08-08
 
 ## Sources
 
-No public source links.
+- [White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age](https://phys.org/news/2026-10-white-sands-footprints-humans-experienced.html?utm_source=lootura.com) — 2026-10-15T23:20:08.000Z

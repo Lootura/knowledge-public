@@ -3,16 +3,10 @@
 > Follow Volodymyr Zelenskyy, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/volodymyr-zelenskyy
 
 ## Recent changes
-
-### Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
-
-Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).
-
-Date: 2026-10-15
 
 ### Ukraine resumes attacks on Russian oil refineries as relations with Trump sour
 
@@ -64,5 +58,4 @@ Date: 2026-10-10
 
 ## Sources
 
-- [Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce](https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com) — 2026-10-15T10:05:58.000Z
 - [Ukraine resumes attacks on Russian oil refineries as relations with Trump sour](https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com) — 2026-10-15T13:30:23.000Z

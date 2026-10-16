@@ -34,4 +34,4 @@ Date: 2026-10-15
 
 ## Fuentes
 
-- [¿Se está tropicalizando el mar Mediterráneo? Estas señales sugieren que sí](https://theconversation.com/se-esta-tropicalizando-el-mar-mediterraneo-estas-senales-sugieren-que-si-294497?utm_source=lootura.com) — 2026-10-15T15:53:11.000Z
+No public source links.

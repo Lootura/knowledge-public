@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/black-sea/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/black-sea/index.json",
   "description": "Follow Black Sea, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-08-14T09:04:57.004Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "Euxine",
     "Rucenum mare"
@@ -45,6 +45,13 @@
       "date": "2026-08-04"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading",
+      "url": "https://www.pbs.org/newshour/world/drone-strike-on-ship-in-romanian-waters-raises-fear-that-war-in-ukraine-is-spreading?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:38:56.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

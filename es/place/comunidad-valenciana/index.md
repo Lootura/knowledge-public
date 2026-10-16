@@ -3,10 +3,16 @@
 > Sigue la actividad de País Valenciano en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/comunidad-valenciana
 
 ## Cambios recientes
+
+### Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia
+
+El Tribunal de Justicia de la Comunidad Valenciana ha estimado parcialmente un nuevo recurso contra la moratoria de licencias para pisos turísticos aprobada en mayo de 2024 por el Ayuntamiento de Valencia, que dirige la popular María José Catalá. La Sala de lo Contencioso-Administrativo ha considerado contrario a Derec.
+
+Date: 2026-10-16
 
 ### Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida
 
@@ -62,13 +68,6 @@ Una incidencia que afecta a la señalización entre la estación Madrid Puerta d
 
 Date: 2026-09-15
 
-### Cuatro detenidos por 72 robos de material informático en Cataluña, Aragón y Valencia
-
-Los Mossos , en colaboración con la Guardia Civil de la ciudad oscense de Barbastro y de Huesca , han detenido en Barcelona a cuatro hombres acusados de 72 robos de material informático, valorado en unos 700.000 euros , en empresas de Cataluña, Aragón y Comunidad Valenciana. La policía catalana ha informado este sábado.
-
-Date: 2026-09-12
-
 ## Fuentes
 
-- [Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida](https://elpais.com/educacion/2026-10-15/que-quieren-los-profesores-de-madrid-claves-de-la-huelga-educativa-indefinida.html?utm_source=lootura.com) — 2026-10-15T06:51:01.000Z
-- [Escuchar a los profesores](https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com) — 2026-10-15T03:30:01.000Z
+- [Un asesor del PP en el Senado gana un pleito contra Catalá por la moratoria de pisos turísticos en Valencia](https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-16/asesor-pp-senado-moratoria-turisticos-catala-valencia_4445837/?utm_source=lootura.com) — 2026-10-16T03:00:00.000Z

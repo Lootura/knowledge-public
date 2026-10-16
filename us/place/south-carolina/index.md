@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Sources
 
-- [3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes](https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html?utm_source=lootura.com) — 2026-10-15T07:37:20.000Z
+No public source links.

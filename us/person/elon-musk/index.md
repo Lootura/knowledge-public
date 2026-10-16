@@ -3,10 +3,22 @@
 > Follow Elon Musk, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/elon-musk
 
 ## Recent changes
+
+### Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton
+
+Billionaire Elon Musk is offering a nine-figure assist to Texas GOP Senate candidate Ken Paxton, a decisive return to large-scale political giving for the world's richest man.
+
+Date: 2026-10-16
+
+### The Tesla Roadster flew, drove upside down, and hit 60mph in under a second
+
+Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come.
+
+Date: 2026-10-16
 
 ### Elon Musk and Other Donors Pile $94 Million Into House Republican Effort
 
@@ -56,20 +68,7 @@ For more than a year, The New York Times followed recipients of universal basic 
 
 Date: 2026-10-12
 
-### Elon Musk has donated over $276 million to Republican midterm efforts
-
-So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one.
-
-Date: 2026-10-12
-
-### How 'Musk' director Alex Gibney became a critic
-
-A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men. (Image credit: Ken Cedeno).
-
-Date: 2026-10-08
-
 ## Sources
 
-- [Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike](https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com) — 2026-10-15T11:27:34.000Z
-- [What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?](https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html?utm_source=lootura.com) — 2026-10-14T22:20:50.000Z
-- [Elon Musk and Other Donors Pile $94 Million Into House Republican Effort](https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html?utm_source=lootura.com) — 2026-10-15T12:52:05.000Z
+- [Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton](https://www.cbsnews.com/news/elon-musk-midterm-donations-texas-ken-paxton/?utm_source=lootura.com) — 2026-10-16T01:22:00.000Z
+- [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk?utm_source=lootura.com) — 2026-10-16T01:28:27.000Z

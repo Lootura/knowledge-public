@@ -3,10 +3,16 @@
 > Sigue la actividad de Izquierda Unida en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/izquierda-unida
 
 ## Cambios recientes
+
+### CHA y el Frente Amplio acuerdan concurrir juntos a las generales en Aragón y seguirán negociando con Podemos
+
+Chunta Aragonesista, Izquierda Unida, Movimiento Sumar, Partido Verde y Recortes Cero sellan una candidatura conjunta para intentar obtener representación en el Congreso El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse Chunta Aragonesista y Frente Ampl.
+
+Date: 2026-10-15
 
 ### Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio
 
@@ -64,4 +70,4 @@ Date: 2026-08-14
 
 ## Fuentes
 
-- [Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio](https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html?utm_source=lootura.com) — 2026-10-15T12:26:40.000Z
+- [CHA y el Frente Amplio acuerdan concurrir juntos a las generales en Aragón y seguirán negociando con Podemos](https://www.eldiario.es/aragon/politica/cha-frente-amplio-acuerdan-concurrir-generales-aragon-seguiran-negociando_1_13589781.html?utm_source=lootura.com) — 2026-10-15T22:05:42.000Z

@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/reino-unido/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/reino-unido/index.json",
   "description": "Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "El Reino Unido",
     "G B",
@@ -23,6 +23,16 @@
     "the United Kingdom of Great Britain and Northern Ireland"
   ],
   "changes": [
+    {
+      "title": "Harry y Meghan reaparecen juntos en Reino Unido: todo sobre un acontecimiento «excepcional»",
+      "summary": "Reino Unido ha disfrutado por fin de la primera aparición pública conjunta del Príncipe Harry y su esposa, Meghan Markle , desde que decidieron por sorpresa regresar a las islas. Ha ocurrido en Nottingham este jueves, 15 de octubre, dentro de un evento benéfico que ya se ha calificado como «excepcional», ya que la pare.",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Olivier Nicolay: \"Las firmas que perduran son las que logran expandirse sin perder su ADN\"",
+      "summary": "A lo largo de más de tres décadas de trayectoria en la industria del lujo, Olivier Nicolay fue presidente regional de Chanel para el Reino Unido, Irlanda, Canadá, Sudáfrica,...",
+      "date": "2026-10-15"
+    },
     {
       "title": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
       "summary": "La existosa novelista irlandesa Sally Rooney ha anunciado que se ve obligada a retirar sus libros de la venta en el Reino Unido. Esto se debe a su apoyo a Palestine Action , un grupo de protesta de acción directa prohibido por el Gobierno británico desde junio de 2025, tras ser definido como una organización terrorista.",
@@ -62,25 +72,21 @@
       "title": "Elon Musk despliega su máquina de caos político en el Reino Unido",
       "summary": "El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las aguas y promocionar un nuevo partido antiinmigración: \"La guerra civil es inevitable\" Leer.",
       "date": "2026-09-16"
-    },
-    {
-      "title": "La conjura de los tres nacionalismos contra el Reino Unido: \"Andy Burnham será el último primer ministro británico\"",
-      "summary": "Los ministros principales de Escocia, Gales e Irlanda del Norte sellan un histórico acuerdo para desafiar a Westminster y avanzar hacia la independencia, aunque no mencionan la palabra \"referéndum\" Leer.",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido",
-      "summary": "Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un acuerdo de cooperación sobre autodeterminación, economía, energía y relaciones con Europa.",
-      "date": "2026-09-13"
     }
   ],
   "sources": [
     {
-      "title": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
-      "url": "https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T12:13:50.000Z",
-      "sourceId": "lootura-es-the-conversation-espana"
+      "title": "Harry y Meghan reaparecen juntos en Reino Unido: todo sobre un acontecimiento «excepcional»",
+      "url": "https://www.abc.es/gente/harry-meghan-reaparecen-juntos-reino-unido-sobre-20261015011624-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:03:40.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Olivier Nicolay: \"Las firmas que perduran son las que logran expandirse sin perder su ADN\"",
+      "url": "https://amp.expansion.com/luxury-forum/2026/10/15/6ad1011ae5fdeae8308b45a3.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T17:27:37.000Z",
+      "sourceId": "lootura-es-expansion"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 2
 }

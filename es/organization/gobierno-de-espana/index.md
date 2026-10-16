@@ -70,4 +70,4 @@ Date: 2026-09-02
 
 ## Fuentes
 
-- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z
+No public source links.

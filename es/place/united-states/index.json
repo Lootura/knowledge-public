@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/united-states/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/united-states/index.json",
   "description": "Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "America",
     "EE.UU.",
@@ -44,11 +44,6 @@
   ],
   "changes": [
     {
-      "title": "Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados",
-      "summary": "El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. \"Morirá, como estaba previsto, por fusilamiento, per.",
-      "date": "2026-10-15"
-    },
-    {
       "title": "Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas",
       "summary": "Iberia seguirá expandiéndose con nuevas rutas, con más aviones y gracias a la ampliación prevista en los próximos años en el aeropuerto madrileño de Barajas . Así lo avanzó María Jesús López Solás, directora comercial, desarrollo de red y alianzas de Iberia, en su intervención este jueves en la segunda jornada del Foro.",
       "date": "2026-10-15"
@@ -56,6 +51,16 @@
     {
       "title": "¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona",
       "summary": "Las palabras son importantes. A veces describen una realidad. Otras, pretenden modificarla. Cuando Pete Hegseth se convirtió en secretario del Departamento de Defensa de Estados Unidos, empezó a llamarlo Departamento de Guerra. El pasado verano, le añadió una coletilla nueva: Departamento de Guerra de alta testosterona.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "En la defensa aérea de Kiev: \"Sin Estados Unidos sólo vemos los drones rusos cuando están encima\"",
+      "summary": "Trump corta la decisiva Inteligencia de satélite y ralentiza Starlink Leer.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados",
+      "summary": "El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. \"Morirá, como estaba previsto, por fusilamiento, per.",
       "date": "2026-10-15"
     },
     {
@@ -87,20 +92,9 @@
       "title": "Rubio y varios gobiernos de América expresan su apoyo al papa León XIV tras su diagnóstico de cáncer de pulmón",
       "summary": "El secretario de Estado de Estados Unidos, Marco Rubio , ha expresado este martes su apoyo al papa León XIV tras conocerse su diagnóstico de cáncer de pulmón y pidió fuerzas para el pontífice y guía para los médicos que lo atienden. Rubio indicó, en su cuenta de X, que se encuentra unido en oración con su esposa por la.",
       "date": "2026-10-14"
-    },
-    {
-      "title": "La discoteca de Santander que parece sacada del Chicago de los años 20: esconde una sala tras una puerta secreta",
-      "summary": "Hubo un tiempo en Estados Unidos en el que pedir una copa podía convertirse en todo un acto de clandestinidad. La Ley Seca , implantada en 1920, prohibió la fabricación, venta y transporte de alcohol y empujó a quienes querían seguir bebiendo hacia los speakeasy : bares secretos ocultos tras puertas discretas, alejados.",
-      "date": "2026-10-14"
     }
   ],
   "sources": [
-    {
-      "title": "Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados",
-      "url": "https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:37:46.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
     {
       "title": "Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas",
       "url": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/iberia-ve-oportunidades-de-nuevas-rutas-con-america-gracias-a-la-ampliacion-de-barajas.html?utm_source=lootura.com",
@@ -108,29 +102,17 @@
       "sourceId": "lootura-es-cinco-dias"
     },
     {
-      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
-      "url": "https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:07:57.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
+      "title": "En la defensa aérea de Kiev: \"Sin Estados Unidos sólo vemos los drones rusos cuando están encima\"",
+      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad0fe9de9cf4adb5c8b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:42:39.000Z",
+      "sourceId": "lootura-es-el-mundo"
     },
     {
       "title": "¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona",
       "url": "https://elpais.com/salud-y-bienestar/2026-10-15/sobran-kilos-o-falta-testosterona-uno-de-cada-cuatro-soldados-estadounidenses-puede-tener-niveles-bajos-de-esta-hormona.html?utm_source=lootura.com",
       "publishedAt": "2026-10-15T15:02:39.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump",
-      "url": "https://www.lavanguardia.com/internacional/20261015/11659690/ucrania-reanuda-los-ataques-a-las-refinerias-rusas-riazan-y-entierra-la-tregua-energetica-de-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:13:40.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar",
-      "url": "https://theobjective.com/internacional/2026-10-15/trump-retransmitir-directo-fusilamiento-exmilitar/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:19:32.000Z",
-      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 3
 }

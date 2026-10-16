@@ -3,10 +3,16 @@
 > Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/ken-paxton
 
 ## Recent changes
+
+### Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton
+
+Billionaire Elon Musk is offering a nine-figure assist to Texas GOP Senate candidate Ken Paxton, a decisive return to large-scale political giving for the world's richest man.
+
+Date: 2026-10-16
 
 ### James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton
 
@@ -14,11 +20,11 @@ The amount is the most that a Senate candidate has ever raised during that perio
 
 Date: 2026-10-15
 
-### Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton
+### Trump lashes out at Republicans as Ken Paxton struggles in Texas
 
-Democrat James Talarico and Republican Ken Paxton are neck and neck in the Texas Senate race. Texas Republican Party chair D'rinda Randall shares her thoughts.
+President Donald Trump is blaming fellow Republicans as his endorsed candidate, Ken Paxton, appears to be in a fierce struggle for a Senate seat in Texas with Democratic challenger James Talarico in a state the GOP has long taken for granted. Trump, in a lengthy post to Truth Social Thursday, singled out longtime Repub.
 
-Date: 2026-10-14
+Date: 2026-10-15
 
 ### Donald Trump’s Texas rally rocked by repeated protests
 
@@ -62,12 +68,8 @@ Republican Senate candidate Ken Paxton reportedly told donors that "everybody's 
 
 Date: 2026-10-01
 
-### VoteHub gives Talarico 55% chance of winning Texas Senate race
-
-VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving the Democrat a 55% chance of winning over Trump-backed Ken Paxton. Cameron Kasky, aide to Democratic Rep. Ro Khanna, and Erin Maguire, Republican strategist, join with analysis.
-
-Date: 2026-09-14
-
 ## Sources
 
+- [Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton](https://www.cbsnews.com/news/elon-musk-midterm-donations-texas-ken-paxton/?utm_source=lootura.com) — 2026-10-16T01:22:00.000Z
+- [Trump lashes out at Republicans as Ken Paxton struggles in Texas](https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111?utm_source=lootura.com) — 2026-10-15T22:14:42.000Z
 - [James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton](https://www.nytimes.com/2026/10/15/us/politics/james-talarico-fundraising-texas-senate.html?utm_source=lootura.com) — 2026-10-15T15:42:09.000Z

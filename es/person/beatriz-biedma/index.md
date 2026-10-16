@@ -3,10 +3,16 @@
 > Sigue la actividad de Beatriz Biedma en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/beatriz-biedma
 
 ## Cambios recientes
+
+### La 'cloaca' del PSOE intentó persuadir a la líder de 'Los Rocho' con un perfil falso de Facebook para contratar "palos" contra Biedma
+
+La cloaca del PSOE usó un perfil falso de Facebook para contratar "palos" contra la juez Beatriz Biedma a través de la líder del clan de Los Rocho. Así se desprende...
+
+Date: 2026-10-15
 
 ### Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia
 
@@ -17,18 +23,6 @@ Date: 2026-10-15
 ### Biedma denunció tras declarar en la Audiencia Nacional que el exjuez Sáenz de Tejada la siguió con su coche
 
 La juez Beatriz Biedma denunció en la Policía Nacional de Badajoz que el exmagistrado Luis Sáenz de Tejada, imputado en la causa denominada de las 'cloacas' del PSOE por hostigarla, presuntamente por encargo de la exmilitante del PSOE Leire Díez, la persiguió con su coche la semana pasada, la tarde después de declarar.
-
-Date: 2026-10-15
-
-### "Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma
-
-Nuevos mensajes incorporados a la causa dirigida por el magistrado de la Audiencia Nacional Santiago Pedraz arrojan luz sobre las maniobras que el presunto enviado de las cloacas del PSOE emprendió contra la jueza Beatriz Biedma. Tras haber sido captado por las cloacas, el exjuez Luis José Sáenz de Tejada contactó con.
-
-Date: 2026-10-15
-
-### La 'cloaca' del PSOE intentó persuadir a la líder de 'Los Rocho' con un perfil falso de Facebook para contratar "palos" contra Biedma
-
-La cloaca del PSOE usó un perfil falso de Facebook para contratar "palos" contra la juez Beatriz Biedma a través de la líder del clan de Los Rocho. Así se desprende...
 
 Date: 2026-10-15
 
@@ -64,7 +58,4 @@ Date: 2026-10-13
 
 ## Fuentes
 
-- [Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia](https://www.20minutos.es/nacional/biedma-denuncia-que-exjuez-ligado-las-cloacas-siguio-un-coche-blanco-su-vuelta-declarar-audiencia-nacional_7049185_0.html?utm_source=lootura.com) — 2026-10-15T11:35:09.000Z
-- [Biedma denunció tras declarar en la Audiencia Nacional que el exjuez Sáenz de Tejada la siguió con su coche](https://www.abc.es/espana/biedma-denuncio-vuelta-declarar-audiencia-nacional-exjuez-20261015132904-nt.html?utm_source=lootura.com) — 2026-10-15T15:39:18.000Z
-- ["Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma](https://www.elconfidencial.com/espana/2026-10-15/biedma-cloacas-hermano-sanchez-pajara-psoe_4445729/?utm_source=lootura.com) — 2026-10-15T13:53:00.000Z
 - [La 'cloaca' del PSOE intentó persuadir a la líder de 'Los Rocho' con un perfil falso de Facebook para contratar "palos" contra Biedma](https://amp.elmundo.es/espana/2026/10/15/6ad0cd96fc6c837c488b45be.html?utm_source=lootura.com) — 2026-10-15T13:56:47.000Z

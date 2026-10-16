@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/barcelona/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/barcelona/index.json",
   "description": "Sigue la actividad de Barcelona en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "B'na",
     "Barcelona City",
@@ -21,6 +21,21 @@
     "Ciudad condal"
   ],
   "changes": [
+    {
+      "title": "Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo",
+      "summary": "El partido cree que Compromís, que ha ofrecido el número 3 por Valencia y ultima el pacto con Podemos, no tiene vocación real de integrarles en una candidatura La izquierda valenciana negocia una candidatura única liderada por Compromís e intenta evitar “el espectáculo de Madrid y Barcelona” A 24 horas de cerrar el pla.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "La gala del Planeta: más elegancia y menos brilli brilli",
+      "summary": "Pocas parejas alcanzan las bodas de diamante, la gema más dura y brillante del reino mineral. Setenta y cinco años son unos cuantos, y había que festejar por todo lo alto el matrimonio entre la ciudad de Barcelona y el premio Planeta. La presencia de Felipe VI y Letizia en esta ocasión, el 75º aniversario, añadió un pl.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años",
+      "summary": "Este jueves se ha celebrado, como cada 15 de octubre, el premio Planeta , frente a la presencia de los Reyes, quienes se han trasladado hasta Barcelona. El finalista ha sido Los caminantes , bajo el pseudónimo, Martín Guerra, que albergaba La añoranza , de Sergio Hernández Carrasco . El primer premio, dotado de un mill.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
       "summary": "No sin obstáculos, el espacio de la izquierda alternativa se acerca a la unidad fuera de Madrid y Cataluña. Podemos, los partidos del Frente Amplio y otras fuerzas territoriales que ya formaban parte del grupo de Sumar en el Congreso ultiman los acuerdos en distintas comunidades autónomas para construir una sola candid.",
@@ -55,36 +70,33 @@
       "title": "Aeropuertos al límite y ciudades saturadas: España quiere más turistas, pero no sabe dónde meterlos",
       "summary": "Barcelona pone coto a los cruceros, pero no será suficiente para contener el turismo masivo La crisis de la vivienda y la turismofobia impulsan partidos localistas contra PSOE y PP en Sevilla y Mallorca Martes 15 de septiembre. Interior. Día: el Gobierno aprueba 13.000 millones para ampliar aeropuertos . Domingo 20. Ex.",
       "date": "2026-10-14"
-    },
-    {
-      "title": "Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona",
-      "summary": "La decisión resuelve uno de los mayores focos de tensión dentro de la alianza, porque Más Madrid exigía liderar la lista Leer.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Galatasaray - Barcelona en directo | Flick apuesta por Dani Olmo como falso 9",
-      "summary": "El Barcelona y el Galatasaray se miden este martes a partir de las 21.00 en la segunda jornada de la Champions League . Los de Hansi Flick buscan su segunda victoria en la Liga de Campeones tras golear en su primer enfrentamiento al Feyenoord en el Camp Nou (5-1). Este será el primer viaje europeo del curso para los az.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Lamine deslumbra en la goleada del Barcelona contra el Galatasaray",
-      "summary": "Al Barça le mueve la prisa en Europa. Tiene tanta necesidad de ganar la Champions, tal es su excitación y deseo, que a veces le cuesta o se olvida de jugarla, como si quisiera ser campeón en invierno, tan superior al Galatasaray que sorprendió que al minuto 43 perdiera por 1-0. A una concesión en un repliegue ya muy re.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
     {
-      "title": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T06:53:13.000Z",
-      "sourceId": "lootura-es-el-pais"
+      "title": "La otra Transición (estética) en España",
+      "url": "https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:02:41.000Z",
+      "sourceId": "lootura-es-abc"
     },
     {
-      "title": "Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:55:33.000Z",
+      "title": "Esquerra Unida no irá con Compromís a las generales: el 75% de la dirección rechaza la propuesta de acuerdo",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/esquerra-unida-no-ira-compromis-generales-75-direccion-rechaza-propuesta-acuerdo_1_13589690.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:22:39.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "La gala del Planeta: más elegancia y menos brilli brilli",
+      "url": "https://www.lavanguardia.com/cultura/20261015/11660127/premio-planeta-gala-invitados.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:54:11.000Z",
       "sourceId": "lootura-es-la-vanguardia"
+    },
+    {
+      "title": "Isabel Allende, más allá del premio Planeta: su edad, la desgarradora pérdida de su hija Paula y una boda a los 80 años",
+      "url": "https://theobjective.com/gente/2026-10-15/isabel-allende-premio-planeta-infancia-chile-carta-abuelo/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:57:54.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 3
 }

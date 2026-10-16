@@ -3,10 +3,16 @@
 > Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/organization/maine-senate
 
 ## Recent changes
+
+### Trump looms as tensions flare in final Maine Senate debate
+
+The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?
+
+Date: 2026-10-16
 
 ### 5 Takeaways From a Heated and Personal Maine Senate Debate
 
@@ -62,12 +68,6 @@ Mr. Jackson, a progressive former State Senate president, clinched the nominatio
 
 Date: 2026-07-25
 
-### Democrats poised to nominate Troy Jackson in must-win Maine Senate race
-
-BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.
-
-Date: 2026-07-25
-
 ## Sources
 
-No public source links.
+- [Trump looms as tensions flare in final Maine Senate debate](https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com) — 2026-10-16T01:12:12.000Z

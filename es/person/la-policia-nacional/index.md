@@ -70,5 +70,4 @@ Date: 2026-10-04
 
 ## Fuentes
 
-- [Cuatro detenidos por organizar peleas clandestinas en las que murió un drogodependiente](https://www.elconfidencial.com/espana/2026-10-15/granada-red-peleas-clandestinas-1tna-1tps_4445664/?utm_source=lootura.com) — 2026-10-15T12:42:00.000Z
-- [Roban en casa del jugador del Betis Antony durante el partido contra el Oporto](https://theobjective.com/sociedad/suceso/2026-10-15/roban-casa-betis-antony-partido-oporto/?utm_source=lootura.com) — 2026-10-15T15:13:10.000Z
+No public source links.

@@ -22,4 +22,4 @@ Date: 2026-09-16
 
 ## Sources
 
-- [Eight states sue OpenAI claiming ChatGPT harms children](https://www.nbcnews.com/video/eight-states-sue-openai-claiming-chatgpt-harms-children-271603269912?utm_source=lootura.com) — 2026-10-15T02:09:23.000Z
+No public source links.

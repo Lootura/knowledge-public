@@ -8,12 +8,32 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/el-gobierno/index.json",
   "description": "Sigue la actividad de El Gobierno en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [],
   "changes": [
     {
+      "title": "El Gobierno ofrece ahora dinero a los fondos para construir vivienda asequible",
+      "summary": "«Podrán ser beneficiarios finales de las operaciones de financiación sociedades mercantiles, agrupaciones temporales de empresas, fondos de capital riesgo , incluyendo fondos de fondos, vehículos de inversión y cualquier otra forma jurídica mediante la que se instrumenten proyectos empresariales, de infraestructura o p.",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%",
+      "summary": "El Gobierno de Castilla y León volverá a recortar significativamente las subvenciones a los agentes sociales (sindicatos y patronal) por exigencia de Vox , que lo incluyó como elemento inexcusable del pacto de gobierno. El vicepresidente Carlos Pollán anunció esta semana que en 2027 se recortarán 4 millones de euros ,.",
+      "date": "2026-10-16"
+    },
+    {
       "title": "Sánchez apunta que las pensiones se subirán justo después de las elecciones",
       "summary": "El Gobierno apunta a una subida de pensiones justo después de las elecciones, en diciembre, con el Ejecutivo en funciones, y no antes como se había planteado en los últimos días. Tanto el presidente, Pedro Sánchez, como el vicepresidente primero y ministro de Economía, Carlos Cuerpo, han apuntado este jueves en ese sen.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "El Gobierno frena el plan de venta total de viviendas de Muface para pagar pensiones tras el desahucio de Maricarmen Abascal",
+      "summary": "El Ministerio de Óscar López confirma que, si se convalida el decreto, se rectifica el plan estratégico de liquidación del patrimonio inmobiliario Leer.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "El Gobierno se anota el mayor agujero patrimonial de la historia de la Seguridad Social tras dos reformas de las pensiones",
+      "summary": "El Gobierno se anota el mayor agujero de la historia de la Seguridad Social tras sus dos reformas desde 2021. El Ministerio de Inclusión ha cerrado las cuentas del sistema en 2025...",
       "date": "2026-10-15"
     },
     {
@@ -40,41 +60,39 @@
       "title": "Moncloa dice que cumplirá la resolución del Supremo sobre la 'ley de nietos' pero ve difícil sacar a todos del censo a mes y medio del 29N",
       "summary": "El Gobierno no tiene otro remedio que acatar la decisión del Tribunal Supremo que mantiene suspendido el derecho a voto a miles de nacionalizados por la llamada 'ley de nietos', pero deja claro que todavía no sabe cómo hacerlo . Fuentes de Moncloa alegan que ven \"complejísimo\" identificar quiénes están afectados y sepa.",
       "date": "2026-10-14"
-    },
-    {
-      "title": "El Gobierno vasco quiere que alquiles tu piso: éstas son las claves del nuevo seguro para propietarios",
-      "summary": "El Ejecutivo se hará cargo de los impagos y los destrozos, que luego reclamará a los inquilinos incumplidores.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Un seguro público para proteger a los propietarios de impagos de inquilinos busca desbloquear 25.000 pisos en Euskadi",
-      "summary": "El Gobierno vasco presenta Alokaplus, que también cubre desperfectos en las viviendas.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "El Gobierno crea 15 nuevas plazas para jueces y 7 para fiscales en Euskadi",
-      "summary": "Estos nuevos puestos suponen un incremento de la plantilla judicial vasca de más del 5%.",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Marruecos ignora oficialmente la visita real a Ceuta sin adoptar represalias ni tolerar protestas",
-      "summary": "Marruecos ha parecido ignorar este martes la visita de Felipe VI a Ceuta, que el miércoles se prolonga a Melilla. El Gobierno de Rabat no ha adoptado hasta ahora represalias como las aplicadas en 2007 ante la visita de Juan Carlos I a las ciudades autónomas: la retirada del embajador en Madrid y un comunicado de conden.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
+    {
+      "title": "El Gobierno ofrece ahora dinero a los fondos para construir vivienda asequible",
+      "url": "https://www.abc.es/economia/gobierno-emplaza-fondos-inversion-plan-construir-vivienda-20261016013849-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:00:34.000Z",
+      "sourceId": "lootura-es-abc"
+    },
+    {
+      "title": "Vox y PP retoman los recortes a los sindicatos en Castilla y León con la meta de llegar hasta el 50%",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-16/vox-y-pp-retoman-los-recortes-a-los-sindicatos-en-castilla-y-leon-con-la-meta-de-llegar-hasta-el-50_4445785/?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    },
+    {
+      "title": "El Gobierno frena el plan de venta total de viviendas de Muface para pagar pensiones tras el desahucio de Maricarmen Abascal",
+      "url": "https://www.elmundo.es/economia/2026/10/16/6ad11c12e9cf4a2a0b8b459b.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T23:37:41.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
+    {
+      "title": "El Gobierno se anota el mayor agujero patrimonial de la historia de la Seguridad Social tras dos reformas de las pensiones",
+      "url": "https://amp.elmundo.es/espana/2026/10/15/6ad12428e9cf4a56628b4596.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:44:54.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    },
     {
       "title": "Sánchez apunta que las pensiones se subirán justo después de las elecciones",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html?utm_source=lootura.com",
       "publishedAt": "2026-10-15T10:10:57.000Z",
       "sourceId": "lootura-es-el-pais"
-    },
-    {
-      "title": "La Junta Electoral ordena enviar la documentación para el 29N a todos los inscritos en el extranjero con el aviso de que no todos podrán votar",
-      "url": "https://www.eldiario.es/politica/junta-electoral-ordena-enviar-documentacion-29n-inscritos-extranjero-aviso-no-podran-votar_1_13588746.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:40:39.000Z",
-      "sourceId": "lootura-es-eldiario-es"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 5
 }

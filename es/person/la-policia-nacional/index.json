@@ -62,19 +62,6 @@
       "date": "2026-10-04"
     }
   ],
-  "sources": [
-    {
-      "title": "Cuatro detenidos por organizar peleas clandestinas en las que murió un drogodependiente",
-      "url": "https://www.elconfidencial.com/espana/2026-10-15/granada-red-peleas-clandestinas-1tna-1tps_4445664/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T12:42:00.000Z",
-      "sourceId": "lootura-es-el-confidencial"
-    },
-    {
-      "title": "Roban en casa del jugador del Betis Antony durante el partido contra el Oporto",
-      "url": "https://theobjective.com/sociedad/suceso/2026-10-15/roban-casa-betis-antony-partido-oporto/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:13:10.000Z",
-      "sourceId": "lootura-es-the-objective"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

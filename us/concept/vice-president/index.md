@@ -3,10 +3,28 @@
 > Follow Vice president, a tracked concept, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: concept
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/concept/vice-president
 
 ## Recent changes
+
+### Vance says "selling access to the White House" is "disgusting"
+
+Vice President JD Vance told CBS News in a "Things That Matter" town hall in Michigan that anybody who is "selling access to the White House" should "suffer consequences.".
+
+Date: 2026-10-15
+
+### Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal
+
+Vice President JD Vance is campaigning for Republican Michigan Senate candidate Mike Rogers on Thursday night. CBS News senior White House and political correspondent Ed O'Keefe spoke with Rogers ahead of the event.
+
+Date: 2026-10-15
+
+### Mitch Daniels rebukes JD Vance over free-market retreat
+
+Former Indiana Gov. Mitch Daniels said he thinks Vice President JD Vance and other Republicans are wrong to move away from the party’s traditional embrace of free-market economics — and that their shift could create an opening for a “pro-freedom” movement. “I think they are in error,” Daniels said in an interview when.
+
+Date: 2026-10-15
 
 ### Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud
 
@@ -50,24 +68,8 @@ With November's midterms closing in, Republicans wrapped an unprecedented two-da
 
 Date: 2026-09-11
 
-### Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War
-
-Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.
-
-Date: 2026-09-11
-
-### 7 Takeaways From Trump’s Republican Midterm Convention
-
-On the second night of the Republican gathering in Dallas, Vice President JD Vance was the headliner. But President Trump returned to center stage.
-
-Date: 2026-09-11
-
-### Vance honors Charlie Kirk on the anniversary of his death
-
-Vice President JD Vance recognized Charlie Kirk on the first anniversary of his death during his speech at the Republican midterm convention. Vance spoke about how Kirk attended his speech during the 2024 Republican National Convention.
-
-Date: 2026-09-11
-
 ## Sources
 
-- [AOC campaigning for fellow progressive El-Sayed at event in red upper Michigan](https://www.cbsnews.com/video/aoc-campaigning-fellow-progressive-el-sayed-at-event-in-red-upper-michigan/?utm_source=lootura.com) — 2026-10-15T14:40:00.000Z
+- [Vance says "selling access to the White House" is "disgusting"](https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/?utm_source=lootura.com) — 2026-10-15T22:11:00.000Z
+- [Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal](https://www.cbsnews.com/video/michigan-gop-senate-candidate-mike-rogers-not-big-fan-trump-russian-diesel-deal/?utm_source=lootura.com) — 2026-10-15T22:33:21.000Z
+- [Mitch Daniels rebukes JD Vance over free-market retreat](https://www.politico.com/news/2026/10/15/mitch-daniels-jd-vance-free-market-01120839?utm_source=lootura.com) — 2026-10-15T20:20:08.000Z

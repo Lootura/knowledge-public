@@ -3,20 +3,26 @@
 > Sigue la actividad de Montse Mínguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/montse-minguez
 
 ## Cambios recientes
 
-### La sociedad con la que la pareja de Montse Mínguez se ha enriquecido con los alquileres lleva 5 años sin pagar impuestos
-
-El empresario Sergi Vélez, pareja de Montse Mínguez, portavoz del PSOE, lleva cinco años sin pagar el Impuesto de Sociedades a través de Nest Capit...
-
-Date: 2026-10-15
-
 ### Discovered by Atlas
 
 Montse Mínguez first entered the public knowledge record with source-backed evidence.
+
+Date: 2026-10-15
+
+### Montse Mínguez: ¿incoherencia o hipocresía?
+
+Leer.
+
+Date: 2026-10-15
+
+### La sociedad con la que la pareja de Montse Mínguez se ha enriquecido con los alquileres lleva 5 años sin pagar impuestos
+
+El empresario Sergi Vélez, pareja de Montse Mínguez, portavoz del PSOE, lleva cinco años sin pagar el Impuesto de Sociedades a través de Nest Capit...
 
 Date: 2026-10-15
 
@@ -34,4 +40,4 @@ Date: 2026-10-14
 
 ## Fuentes
 
-No public source links.
+- [Montse Mínguez: ¿incoherencia o hipocresía?](https://www.elmundo.es/espana/2026/10/15/6ad0f2f921efa06e458b4576.html?utm_source=lootura.com) — 2026-10-15T16:14:53.000Z

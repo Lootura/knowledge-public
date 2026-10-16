@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/cornell-university/index.json",
   "description": "Follow Cornell University, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "CU",
     "CUI",
@@ -17,6 +17,11 @@
     "Cornell"
   ],
   "changes": [
+    {
+      "title": "Cornell president faces contentious faculty senate meeting over Jane Doe allegations",
+      "summary": "Cornell University’s president was met with scrutiny and sharp questions from its faculty senate on Wednesday, when the group convened to discuss a no-confidence vote over the university’s handling of an alleged 2024 sexual assault at a fraternity house, according to an audio recording obtained by NBC News.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Exclusive video offers insight into Cornell University Faculty Senate meeting",
       "summary": "Exclusive video offers insight into Wednesday's high-stakes meeting at Cornell University.",
@@ -61,19 +66,14 @@
       "title": "How the Cornell case is affecting women who have experienced sexual assault",
       "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence. (Image credit: Olivia Petter).",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
-      "summary": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A.",
-      "date": "2026-10-04"
     }
   ],
   "sources": [
     {
-      "title": "Exclusive video offers insight into Cornell University Faculty Senate meeting",
-      "url": "https://www.cbsnews.com/newyork/news/cornell-university-faculty-senate-meeting-video/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T03:36:05.000Z",
-      "sourceId": "lootura-us-cbs-news"
+      "title": "Cornell president faces contentious faculty senate meeting over Jane Doe allegations",
+      "url": "https://www.nbcnews.com/news/us-news/cornell-president-faces-contentious-faculty-senate-meeting-jane-doe-al-rcna603703?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:35:26.000Z",
+      "sourceId": "lootura-us-nbc-news"
     }
   ],
   "evidenceCount": 1

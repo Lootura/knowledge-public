@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/place/russia/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/place/russia/index.json",
   "description": "Follow Russia, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "Federation of Russia",
     "RF",
@@ -18,13 +18,18 @@
   ],
   "changes": [
     {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).",
-      "date": "2026-10-15"
+      "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+      "summary": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
+      "date": "2026-10-16"
     },
     {
       "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
       "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+      "summary": "The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an \"energy ceasefire\" this past Sunday between the two. Russia never stopped its.",
       "date": "2026-10-15"
     },
     {
@@ -61,26 +66,9 @@
       "title": "Morning news brief",
       "summary": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Diesel futures jump, signaling higher prices to come despite Trump’s Russia deal",
-      "summary": "“Absolutely stunning price spikes in wholesale diesel today,” a top energy analyst said.",
-      "date": "2026-10-13"
     }
   ],
   "sources": [
-    {
-      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike",
-      "url": "https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:27:34.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T10:05:58.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
     {
       "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
       "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com",
@@ -88,17 +76,17 @@
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-      "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:25:25.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+      "url": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:55:24.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T16:05:20.000Z",
-      "sourceId": "lootura-us-the-new-york-times-world"
+      "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T01:02:09.000Z",
+      "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 4
+  "evidenceCount": 3
 }

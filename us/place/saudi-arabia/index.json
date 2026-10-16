@@ -65,19 +65,6 @@
       "date": "2026-10-04"
     }
   ],
-  "sources": [
-    {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-      "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T02:27:52.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
-    },
-    {
-      "title": "Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?",
-      "url": "https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T13:43:41.000Z",
-      "sourceId": "lootura-us-time"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

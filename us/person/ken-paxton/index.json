@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/ken-paxton/index.json",
   "description": "Follow Ken Paxton, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "Ken Paxton Jr.",
     "Ken Paxton, Jr.",
@@ -23,14 +23,19 @@
   ],
   "changes": [
     {
+      "title": "Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton",
+      "summary": "Billionaire Elon Musk is offering a nine-figure assist to Texas GOP Senate candidate Ken Paxton, a decisive return to large-scale political giving for the world's richest man.",
+      "date": "2026-10-16"
+    },
+    {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton",
       "summary": "The amount is the most that a Senate candidate has ever raised during that period, his campaign said, eclipsing his opponent in Texas, Ken Paxton.",
       "date": "2026-10-15"
     },
     {
-      "title": "Texas GOP chair on toss-up Senate race between James Talarico and Ken Paxton",
-      "summary": "Democrat James Talarico and Republican Ken Paxton are neck and neck in the Texas Senate race. Texas Republican Party chair D'rinda Randall shares her thoughts.",
-      "date": "2026-10-14"
+      "title": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+      "summary": "President Donald Trump is blaming fellow Republicans as his endorsed candidate, Ken Paxton, appears to be in a fierce struggle for a Senate seat in Texas with Democratic challenger James Talarico in a state the GOP has long taken for granted. Trump, in a lengthy post to Truth Social Thursday, singled out longtime Repub.",
+      "date": "2026-10-15"
     },
     {
       "title": "Donald Trump’s Texas rally rocked by repeated protests",
@@ -66,14 +71,21 @@
       "title": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
       "summary": "Republican Senate candidate Ken Paxton reportedly told donors that \"everybody's numbers are down\" after a midterm convention in Dallas that touted both Paxton's campaign and President Trump's record.",
       "date": "2026-10-01"
-    },
-    {
-      "title": "VoteHub gives Talarico 55% chance of winning Texas Senate race",
-      "summary": "VoteHub has moved the Texas Senate race to tilt toward James Talarico, giving the Democrat a 55% chance of winning over Trump-backed Ken Paxton. Cameron Kasky, aide to Democratic Rep. Ro Khanna, and Erin Maguire, Republican strategist, join with analysis.",
-      "date": "2026-09-14"
     }
   ],
   "sources": [
+    {
+      "title": "Elon Musk donates over $150 million to Senate GOP group, assisting Ken Paxton",
+      "url": "https://www.cbsnews.com/news/elon-musk-midterm-donations-texas-ken-paxton/?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T01:22:00.000Z",
+      "sourceId": "lootura-us-cbs-news"
+    },
+    {
+      "title": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+      "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:14:42.000Z",
+      "sourceId": "lootura-us-politico"
+    },
     {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton",
       "url": "https://www.nytimes.com/2026/10/15/us/politics/james-talarico-fundraising-texas-senate.html?utm_source=lootura.com",
@@ -81,5 +93,5 @@
       "sourceId": "lootura-us-the-new-york-times-politics"
     }
   ],
-  "evidenceCount": 1
+  "evidenceCount": 3
 }

@@ -8,14 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/europa-league/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/europa-league/index.json",
   "description": "Sigue la actividad de Liga Europa de la UEFA en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Europa League",
-    "Liga de Europea de la UEFA",
     "LE",
     "LEU",
-    "UEL",
-    "UEFA Cup"
+    "Liga de Europea de la UEFA",
+    "UEFA Cup",
+    "UEL"
   ],
   "changes": [
     {
@@ -24,28 +24,33 @@
       "date": "2026-10-15"
     },
     {
-      "title": "La Real Sociedad, a por los tres puntos que le permitan optar al top-8 de la Europa League",
-      "summary": "El equipo txuri-urdin se enfrenta al Union Saint-Gilloise con la necesidad de ganar para tener opciones reales de estar en tre los ocho mejores en la UEL.",
-      "date": "2026-10-14"
+      "title": "El Celta de Vigo cae de forma cruel en el descuento ante la Juventus",
+      "summary": "El Celta de Vigo cayó derrotado por 1-2 ante la Juventus en Balaídos en la segunda jornada de la Europa League, con el gol de Kolo Muani en el 92′ enfriando un estadio que había empezado la noche con optimismo . La Real Sociedad tampoco logró su primer triunfo continental: empató 1-1 en el Den Dreef ante un Union Saint.",
+      "date": "2026-10-15"
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "Europa League first entered the public knowledge record with source-backed evidence.",
+      "summary": "Liga Europa de la UEFA first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "La Real Sociedad, a por los tres puntos que le permitan optar al top-8 de la Europa League",
+      "summary": "El equipo txuri-urdin se enfrenta al Union Saint-Gilloise con la necesidad de ganar para tener opciones reales de estar en tre los ocho mejores en la UEL.",
       "date": "2026-10-14"
     }
   ],
   "sources": [
     {
-      "title": "La Real Sociedad, a por los tres puntos que le permitan optar al top-8 de la Europa League",
-      "url": "https://www.diariovasco.com/real-sociedad/chocolate-amargo-20261015211454-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:05:26.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
       "title": "La afición de la Real toma las calles de Lovaina con una kalejira hasta el estadio",
       "url": "https://www.diariovasco.com/real-sociedad/aficion-real-toma-calles-lovaina-kalejira-estadio-20261015175757-nt_amp.html?utm_source=lootura.com",
       "publishedAt": "2026-10-15T15:57:58.000Z",
       "sourceId": "lootura-es-el-diario-vasco"
+    },
+    {
+      "title": "El Celta de Vigo cae de forma cruel en el descuento ante la Juventus",
+      "url": "https://theobjective.com/deportes/futbol/europa-league/2026-10-15/celta-vigo-forma-cruel-descuento-juventus/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T21:12:29.000Z",
+      "sourceId": "lootura-es-the-objective"
     }
   ],
   "evidenceCount": 2

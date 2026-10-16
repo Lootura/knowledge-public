@@ -3,10 +3,16 @@
 > Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: company
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/company/europa-press
 
 ## Cambios recientes
+
+### Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara
+
+Un hombre de 42 años ha sido trasladado este jueves al hospital afectado por inhalación de humo a consecuencia del incendio originado en la cocina de una vivienda situada en la calle Río Henares de Guadalajara . Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el avis.
+
+Date: 2026-10-15
 
 ### Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)
 
@@ -62,12 +68,6 @@ Los visados de dirección de obra de vivienda nueva sumaron 49.863 unidades en l
 
 Date: 2026-10-04
 
-### Una mujer herida en la salida de vía de un coche en la A-1 en Cogollos (Burgos)
-
-Una mujer de alrededor de 50 años ha resultado herida este sábado , 3 de octubre, tras la salida de vía y posterior vuelco de un turismo en el kilómetro 225 de la A-1 , a la altura de Cogollos y en dirección a Madrid , según el 112 Castilla y León citado por Europa Press. El incidente se ha producido instantes antes de.
-
-Date: 2026-10-03
-
 ## Fuentes
 
-No public source links.
+- [Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara](https://www.elconfidencial.com/espana/2026-10-15/incendio-cocina-hombre-hospital-guadalajara-1tna-1tps_4445935/?utm_source=lootura.com) — 2026-10-15T16:54:00.000Z

@@ -70,4 +70,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-- [El porqué de la apuesta de Sánchez por la "insoportable" Margarita Robles: "Siempre ha estado ahí en los momentos difíciles"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad092ade4d4d8ed218b4586.html?utm_source=lootura.com) — 2026-10-15T09:01:41.000Z
+No public source links.

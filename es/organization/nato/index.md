@@ -70,4 +70,4 @@ Date: 2026-09-11
 
 ## Fuentes
 
-- [Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN](https://www.lavanguardia.com/politica/20261015/11659846/rota-da-bienvenida-uss-john-basilone-sexto-destructor-escudo-antimisiles-otan.html?utm_source=lootura.com) — 2026-10-15T13:43:48.000Z
+No public source links.

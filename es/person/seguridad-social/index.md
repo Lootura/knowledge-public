@@ -3,20 +3,26 @@
 > Sigue la actividad de previsión social en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/seguridad-social
 
 ## Cambios recientes
 
-### Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno
-
-La portavoz del Gobierno y ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, está estos días en el ojo del huracán por el cuestionamiento de la viabilidad del sistema público de pensiones. La ministra ha reiterado este jueves la defensa de su sostenibilidad y ha ido más allá: todas las cifras económicas.
-
-Date: 2026-10-15
-
 ### Calama amplía el caso Plus Ultra a tres cargos de la Seguridad Social por el rescate tras una reunión de Zapatero con Escrivá
 
 La Fiscalía aprecia indicios de prevaricación y falsedad en las gestiones que permitieron aplazar una deuda de 452.000 euros de la aerolínea.
+
+Date: 2026-10-15
+
+### El Gobierno se anota el mayor agujero patrimonial de la historia de la Seguridad Social tras dos reformas de las pensiones
+
+El Gobierno se anota el mayor agujero de la historia de la Seguridad Social tras sus dos reformas desde 2021. El Ministerio de Inclusión ha cerrado las cuentas del sistema en 2025...
+
+Date: 2026-10-15
+
+### Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno
+
+La portavoz del Gobierno y ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, está estos días en el ojo del huracán por el cuestionamiento de la viabilidad del sistema público de pensiones. La ministra ha reiterado este jueves la defensa de su sostenibilidad y ha ido más allá: todas las cifras económicas.
 
 Date: 2026-10-15
 
@@ -62,13 +68,7 @@ Yolanda Díaz ha analizado los datos de agosto de la Seguridad Social , que regi
 
 Date: 2026-09-02
 
-### Agosto se salda con 44.419 parados más hasta 2,3 millones y la Seguridad Social pierde 162.840 afiliados
-
-El número de personas sin empleo registradas en las Oficinas del Servicio Públicos de Empleo Estatal (SEPE) aumenta en 44.419 personas , al finalizar el mes de agosto en...
-
-Date: 2026-09-02
-
 ## Fuentes
 
-- [Elma Saiz asegura que las cifras económicas alimentan el optimismo del Gobierno](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/elma-saiz-asegura-que-las-cifras-economicas-alimentan-el-optimismo-del-gobierno.html?utm_source=lootura.com) — 2026-10-15T12:32:59.000Z
 - [Calama amplía el caso Plus Ultra a tres cargos de la Seguridad Social por el rescate tras una reunión de Zapatero con Escrivá](https://www.elcorreo.com/politica/calama-amplia-plus-ultra-tres-cargos-seguridad-20261015175748-ntrc_amp.html?utm_source=lootura.com) — 2026-10-15T15:57:49.000Z
+- [El Gobierno se anota el mayor agujero patrimonial de la historia de la Seguridad Social tras dos reformas de las pensiones](https://amp.elmundo.es/espana/2026/10/15/6ad12428e9cf4a56628b4596.html?utm_source=lootura.com) — 2026-10-15T20:44:54.000Z

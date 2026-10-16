@@ -70,9 +70,4 @@ Date: 2026-10-13
 
 ## Fuentes
 
-- [Biedma denuncia que el exjuez ligado a las cloacas la siguió en un coche tras su declaración en la Audiencia](https://www.20minutos.es/nacional/biedma-denuncia-que-exjuez-ligado-las-cloacas-siguio-un-coche-blanco-su-vuelta-declarar-audiencia-nacional_7049185_0.html?utm_source=lootura.com) — 2026-10-15T11:35:09.000Z
-- [Biedma denunció tras declarar en la Audiencia Nacional que el exjuez Sáenz de Tejada la siguió con su coche](https://www.abc.es/espana/biedma-denuncio-vuelta-declarar-audiencia-nacional-exjuez-20261015132904-nt.html?utm_source=lootura.com) — 2026-10-15T15:39:18.000Z
-- [El DAO afirma que Marlaska estuvo en la «génesis» de los expedientes contra agentes de la UCO por el correo de Begoña](https://www.abc.es/espana/dao-guardia-civil-confirma-marlaska-llamo-aparecer-20261015105732-nt.html?utm_source=lootura.com) — 2026-10-15T15:25:50.000Z
-- ["Esta pájara es la que persigue al hermano de Sánchez": los wasaps de las cloacas contra la jueza Biedma](https://www.elconfidencial.com/espana/2026-10-15/biedma-cloacas-hermano-sanchez-pajara-psoe_4445729/?utm_source=lootura.com) — 2026-10-15T13:53:00.000Z
-- [El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas](https://www.elconfidencial.com/espana/2026-10-15/el-juez-que-investiga-la-financiacion-del-psoe-pide-todas-las-agendas-intervenidas-a-cerdan-por-las-cloacas_4445906/?utm_source=lootura.com) — 2026-10-15T16:02:00.000Z
-- [La jueza Biedma denuncia que el emisario de las 'cloacas' la siguió en coche del aeropuerto a su casa tras declarar en la Audiencia Nacional](https://www.eldebate.com/espana/20261015/jueza-biedma-denuncia-emisario-cloacas-siguio-coche-aeropuerto-casa-declarar-audiencia-nacional_469976.html?utm_source=lootura.com) — 2026-10-15T11:29:57.000Z
+No public source links.

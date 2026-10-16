@@ -28,4 +28,4 @@ Date: 2026-10-15
 
 ## Fuentes
 
-- [¡Por fin! ‘007 First Light’, el nuevo juego de James Bond, tiene fecha de lanzamiento en la Nintendo Switch 2](https://hipertextual.com/videojuegos/007-first-light-tiene-fecha-de-lanzamiento-en-nintendo-switch-2/?utm_source=lootura.com) — 2026-10-15T15:04:05.000Z
+No public source links.

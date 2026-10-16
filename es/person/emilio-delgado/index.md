@@ -3,7 +3,7 @@
 > Sigue la actividad de Emilio Delgado Martín en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/emilio-delgado
 
 ## Cambios recientes

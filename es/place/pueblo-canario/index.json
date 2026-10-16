@@ -1,0 +1,48 @@
+{
+  "id": "es-pueblo-canario",
+  "name": "Pueblo canario",
+  "type": "place",
+  "locale": "es",
+  "canonicalPath": "/es/place/pueblo-canario",
+  "canonicalUrl": "https://atlas.lootura.com/es/place/pueblo-canario",
+  "markdownUrl": "https://atlas.lootura.com/es/place/pueblo-canario/index.md",
+  "jsonUrl": "https://atlas.lootura.com/es/place/pueblo-canario/index.json",
+  "description": "Sigue la actividad de Pueblo canario en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
+  "aliases": [
+    "Canarians",
+    "Canary Islanders"
+  ],
+  "changes": [
+    {
+      "title": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
+      "summary": "La confluencia llevará el nombre de Unidad del Pueblo Canario y no Nueva Canarias-Frente Amplio como querían registrar en un primer momento el resto de fuerzas si no se sumaba Podemos Podemos celebra la unidad de la izquierda en Canarias y llama a convertir el acuerdo en un ejemplo para todo el Estado Nueva Canarias- B.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Podemos y Sumar cierran con Nueva Canarias e IU su primer acuerdo territorial para el 29-N",
+      "summary": "Nueva Canarias-Bloque Canarista, Podemos , IU y Movimiento Sumar han anunciado este jueves un acuerdo que han calificado de «histórico» para las elecciones generales del 29-N a las que concurrirán juntos bajo la marca «Unidad del Pueblo Canario (UPC)». Así lo han anunciado en un comunicado las formaciones implicadas, q.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Discovered by Atlas",
+      "summary": "Pueblo canario first entered the public knowledge record with source-backed evidence.",
+      "date": "2026-10-15"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Acuerdo histórico en la izquierda canaria: Podemos se une a la candidatura de Nueva Canarias, IU y Sumar en las generales",
+      "url": "https://www.eldiario.es/canariasahora/politica/acuerdo-historico-izquierda-canaria-suma-confluencia-llamara-unidad-pueblo-canario_1_13589265.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:41:24.000Z",
+      "sourceId": "lootura-es-eldiario-es"
+    },
+    {
+      "title": "Podemos y Sumar cierran con Nueva Canarias e IU su primer acuerdo territorial para el 29-N",
+      "url": "https://theobjective.com/espana/politica/2026-10-15/podemos-sumar-nueva-canarias-iu-primer-acuerdo-territorial/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:13:00.000Z",
+      "sourceId": "lootura-es-the-objective"
+    }
+  ],
+  "evidenceCount": 2
+}

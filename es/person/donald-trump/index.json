@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/person/donald-trump/index.json",
   "description": "Sigue la actividad de Donald Trump en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T16:17:38.694Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -29,6 +29,11 @@
     "Trump"
   ],
   "changes": [
+    {
+      "title": "En la defensa aérea de Kiev: \"Sin Estados Unidos sólo vemos los drones rusos cuando están encima\"",
+      "summary": "Trump corta la decisiva Inteligencia de satélite y ralentiza Starlink Leer.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados",
       "summary": "El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. \"Morirá, como estaba previsto, por fusilamiento, per.",
@@ -73,50 +78,15 @@
       "title": "Zelenski, desgastado pero insustituible: \"Nadie aquí va a apoyar a Trump y su idea de cambiar al presidente\"",
       "summary": "Los ucranianos no aceptan que les elijan presidente ni en Moscú ni en Washington. Cada ataque exterior le devuelve popularidad en un país en el que sus propios ciudadanos descartan las elecciones bajo las bombas rusas Leer.",
       "date": "2026-10-13"
-    },
-    {
-      "title": "La UE no se cree la tregua energética propuesta por Trump: \"Rusia está matando más civiles que nunca\"",
-      "summary": "La alta representante Kallas defiende que \"no es el momento de aliviar la tensión sobre Moscú\" y anuncia sanciones a 1.600 personas y entidades vinculadas al ámbito militar-industrial ruso Leer.",
-      "date": "2026-10-12"
     }
   ],
   "sources": [
     {
-      "title": "Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados",
-      "url": "https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:37:46.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE",
-      "url": "https://www.20minutos.es/internacional/bruselas-analiza-con-espana-las-medidas-trump-contra-buques-espanoles-defendera-los-intereses-ue_7049249_0.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:01:33.000Z",
-      "sourceId": "lootura-es-20minutos"
-    },
-    {
-      "title": "Trump dice ahora que la ejecución del atacante de Fort Hood no será emitida en directo",
-      "url": "https://www.abc.es/internacional/trump-descarta-finalmente-retransmitir-directo-ejecucion-autor-20261015162715-nt.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:34:33.000Z",
-      "sourceId": "lootura-es-abc"
-    },
-    {
-      "title": "«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»",
-      "url": "https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T22:07:57.000Z",
-      "sourceId": "lootura-es-el-diario-vasco"
-    },
-    {
-      "title": "Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump",
-      "url": "https://www.lavanguardia.com/internacional/20261015/11659690/ucrania-reanuda-los-ataques-a-las-refinerias-rusas-riazan-y-entierra-la-tregua-energetica-de-trump.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:13:40.000Z",
-      "sourceId": "lootura-es-la-vanguardia"
-    },
-    {
-      "title": "Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar",
-      "url": "https://theobjective.com/internacional/2026-10-15/trump-retransmitir-directo-fusilamiento-exmilitar/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:19:32.000Z",
-      "sourceId": "lootura-es-the-objective"
+      "title": "En la defensa aérea de Kiev: \"Sin Estados Unidos sólo vemos los drones rusos cuando están encima\"",
+      "url": "https://www.elmundo.es/internacional/2026/10/15/6ad0fe9de9cf4adb5c8b4578.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T20:42:39.000Z",
+      "sourceId": "lootura-es-el-mundo"
     }
   ],
-  "evidenceCount": 6
+  "evidenceCount": 1
 }

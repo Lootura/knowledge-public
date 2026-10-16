@@ -8,9 +8,14 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/maine-senate/index.json",
   "description": "Follow Maine Senate, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T03:09:45.092Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [],
   "changes": [
+    {
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "summary": "The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?",
+      "date": "2026-10-16"
+    },
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "summary": "Senator Susan Collins, a Republican, and her Democratic challenger, Troy Jackson, disagreed over the war in Iran and President Trump in the third of four debates in a key race.",
@@ -55,13 +60,15 @@
       "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
       "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
       "date": "2026-07-25"
-    },
-    {
-      "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
-      "summary": "BANGOR, Maine — Former state Senate President Troy Jackson is on the cusp of becoming Democrats’ Senate nominee in Maine, starting a 101-day sprint to Election Day in a nationally watched, must-win race for his party.",
-      "date": "2026-07-25"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T01:12:12.000Z",
+      "sourceId": "lootura-us-nbc-news-politics"
+    }
+  ],
+  "evidenceCount": 1
 }

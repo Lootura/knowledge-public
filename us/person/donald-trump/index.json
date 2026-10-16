@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/donald-trump/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/donald-trump/index.json",
   "description": "Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "@realDonaldTrump",
     "DJT",
@@ -30,43 +30,33 @@
   ],
   "changes": [
     {
-      "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
-      "summary": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.",
-      "date": "2026-10-15"
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "summary": "The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?",
+      "date": "2026-10-16"
     },
     {
-      "title": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
-      "summary": "The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.",
-      "date": "2026-10-15"
+      "title": "Trump Ally, Paolo Zampolli, Leaves State Department",
+      "summary": "Paolo Zampolli, a longtime Trump associate, gained attention earlier this year with a report that his ex-wife had been detained by ICE after his request.",
+      "date": "2026-10-16"
     },
     {
-      "title": "Trump invokes executive privilege in Kennedy Center legal fight",
-      "summary": "President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board.",
-      "date": "2026-10-15"
+      "title": "5 Takeaways From the Senate Debate in Maine",
+      "summary": "The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.",
+      "date": "2026-10-16"
     },
     {
-      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-      "summary": "President Trump announced that the firing squad execution of Fort Hood shooter Nidal Hasan will not be livestreamed, overriding Defense Secretary Pete Hegseth’s earlier claim that it would be. NBC News' Monica Alba reports the latest details from the White House.",
-      "date": "2026-10-15"
+      "title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
+      "summary": "Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.",
+      "date": "2026-10-16"
     },
     {
-      "title": "Trump Brushes off Inflation Jump on Midterm Campaign Trail",
-      "summary": "A new jump in inflation is putting the issue of affordability front-and-center in key midterm races across the country that will decide Washington’s balance of power. President Donald Trump was back on the campaign trail on Wednesday, brushing off those concerns. NBC’s Monica Alba reports for TODAY.",
-      "date": "2026-10-15"
+      "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+      "summary": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
+      "date": "2026-10-16"
     },
     {
       "title": "Morning news brief",
       "summary": "Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-      "summary": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day. (Image credit: Megan Varner).",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Trump cancels public execution, but a line may already have been crossed",
-      "summary": "Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier. (Image credit: Jim Watson).",
       "date": "2026-10-15"
     },
     {
@@ -75,28 +65,32 @@
       "date": "2026-10-15"
     },
     {
-      "title": "‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground",
-      "summary": "Rising costs and threatened healthcare benefits are testing voters’ loyalty to Trump as Democrat Randy Villegas challenges David Valadao Vanessa Martinez used to work two jobs to make ends meet. Now she works three. In another era, the 26-year-old from California’s hardscrabble Central valley could have been a poster c.",
+      "title": "Michigan GOP Senate candidate Mike Rogers says he's \"not a big fan\" of Trump's Russian diesel deal",
+      "summary": "Vice President JD Vance is campaigning for Republican Michigan Senate candidate Mike Rogers on Thursday night. CBS News senior White House and political correspondent Ed O'Keefe spoke with Rogers ahead of the event.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+      "summary": "The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an \"energy ceasefire\" this past Sunday between the two. Russia never stopped its.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "An accounting of Trump's promised payouts and questions they raise",
+      "summary": "President Trump is cutting checks to Americans and promising more with less than three weeks left in a midterm cycle largely focused on affordability. Trump argues they're refunds for excessive healthcare costs and promised economic dividends that only his party can deliver. Democrats contend he's trying to bribe citiz.",
       "date": "2026-10-15"
     }
   ],
   "sources": [
     {
-      "title": "Trump invokes executive privilege in Kennedy Center legal fight",
-      "url": "https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:54:31.000Z",
+      "title": "Michigan GOP Senate candidate Mike Rogers says he's \"not a big fan\" of Trump's Russian diesel deal",
+      "url": "https://www.cbsnews.com/video/michigan-gop-senate-candidate-mike-rogers-not-big-fan-trump-russian-diesel-deal/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:33:21.000Z",
       "sourceId": "lootura-us-cbs-news"
     },
     {
-      "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-      "url": "https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:34:30.000Z",
-      "sourceId": "lootura-us-nbc-news"
-    },
-    {
-      "title": "Trump Brushes off Inflation Jump on Midterm Campaign Trail",
-      "url": "https://www.today.com/video/inflation-jumps-to-3-7-ahead-of-critical-midterm-elections-271614021756?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T11:10:48.000Z",
+      "title": "Trump looms as tensions flare in final Maine Senate debate",
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T01:12:12.000Z",
       "sourceId": "lootura-us-nbc-news-politics"
     },
     {
@@ -106,41 +100,47 @@
       "sourceId": "lootura-us-npr"
     },
     {
-      "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
-      "title": "Trump cancels public execution, but a line may already have been crossed",
-      "url": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "sourceId": "lootura-us-npr-politics"
-    },
-    {
       "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
       "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com",
       "publishedAt": "2026-10-15T13:30:23.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T15:00:23.000Z",
-      "sourceId": "lootura-us-the-guardian-us"
+      "title": "Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks",
+      "url": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:55:24.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-      "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T20:22:19.000Z",
-      "sourceId": "lootura-us-the-new-york-times"
+      "title": "An accounting of Trump's promised payouts and questions they raise",
+      "url": "https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:35:10.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
     },
     {
-      "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-      "url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com",
-      "publishedAt": "2026-10-14T21:25:25.000Z",
+      "title": "Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says",
+      "url": "https://www.pbs.org/newshour/show/ukraine-less-reliant-on-u-s-as-trump-zelenskyy-rift-deepens-former-ambassador-says?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:50:07.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
+      "url": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:27:33.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    },
+    {
+      "title": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+      "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T22:14:42.000Z",
+      "sourceId": "lootura-us-politico"
+    },
+    {
+      "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
+      "url": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T21:37:34.000Z",
       "sourceId": "lootura-us-the-new-york-times"
     }
   ],
-  "evidenceCount": 13
+  "evidenceCount": 17
 }

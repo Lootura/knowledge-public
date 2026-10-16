@@ -58,4 +58,4 @@ Date: 2026-07-22
 
 ## Fuentes
 
-- [El juez que investiga la financiación del PSOE pide todas las agendas intervenidas a Cerdán por las cloacas](https://www.elconfidencial.com/espana/2026-10-15/el-juez-que-investiga-la-financiacion-del-psoe-pide-todas-las-agendas-intervenidas-a-cerdan-por-las-cloacas_4445906/?utm_source=lootura.com) — 2026-10-15T16:02:00.000Z
+No public source links.

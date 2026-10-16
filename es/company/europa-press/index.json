@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/company/europa-press/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/company/europa-press/index.json",
   "description": "Sigue la actividad de Europa Press en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T03:09:30.972Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Agencia Europa Press",
     "Europa Pres",
@@ -18,6 +18,11 @@
     "europapress.es"
   ],
   "changes": [
+    {
+      "title": "Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara",
+      "summary": "Un hombre de 42 años ha sido trasladado este jueves al hospital afectado por inhalación de humo a consecuencia del incendio originado en la cocina de una vivienda situada en la calle Río Henares de Guadalajara . Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el avis.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)",
       "summary": "Un hombre de 64 años ha resultado herido este miércoles al reventarle un neumático mientras trabajaba en un taller ubicado en la Travesía del Desvío , en Añover de Tajo ( Toledo ). Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el aviso del suceso se ha re.",
@@ -62,13 +67,15 @@
       "title": "Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más",
       "summary": "Los visados de dirección de obra de vivienda nueva sumaron 49.863 unidades en los cuatro primeros meses del año , lo que supone un 10,12% más que en el mismo periodo del año anterior, cuando se registraron 45.280 unidades, según los datos del Ministerio de Transportes y Movilidad Sostenible recogidos por Europa Press.",
       "date": "2026-10-04"
-    },
-    {
-      "title": "Una mujer herida en la salida de vía de un coche en la A-1 en Cogollos (Burgos)",
-      "summary": "Una mujer de alrededor de 50 años ha resultado herida este sábado , 3 de octubre, tras la salida de vía y posterior vuelco de un turismo en el kilómetro 225 de la A-1 , a la altura de Cogollos y en dirección a Madrid , según el 112 Castilla y León citado por Europa Press. El incidente se ha producido instantes antes de.",
-      "date": "2026-10-03"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara",
+      "url": "https://www.elconfidencial.com/espana/2026-10-15/incendio-cocina-hombre-hospital-guadalajara-1tna-1tps_4445935/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:54:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

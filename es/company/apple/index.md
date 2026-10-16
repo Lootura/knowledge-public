@@ -70,4 +70,4 @@ Date: 2026-09-12
 
 ## Fuentes
 
-- [Apple amenaza el liderazgo bursátil de Nvidia, que pierde casi un billón de dólares de valor en una semana](https://cincodias.elpais.com/companias/2026-10-15/apple-amenaza-el-liderazgo-bursatil-de-nvidia-que-pierde-casi-un-billon-de-dolares-de-valor-en-una-semana.html?utm_source=lootura.com) — 2026-10-15T14:18:10.000Z
+No public source links.

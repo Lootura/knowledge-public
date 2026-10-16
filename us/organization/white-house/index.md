@@ -3,10 +3,28 @@
 > Follow White House, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: organization
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/organization/white-house
 
 ## Recent changes
+
+### A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell
+
+Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.
+
+Date: 2026-10-16
+
+### Vance says "selling access to the White House" is "disgusting"
+
+Vice President JD Vance told CBS News in a "Things That Matter" town hall in Michigan that anybody who is "selling access to the White House" should "suffer consequences.".
+
+Date: 2026-10-15
+
+### Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal
+
+Vice President JD Vance is campaigning for Republican Michigan Senate candidate Mike Rogers on Thursday night. CBS News senior White House and political correspondent Ed O'Keefe spoke with Rogers ahead of the event.
+
+Date: 2026-10-15
 
 ### Trump says execution of Fort Hood shooter will not be livestreamed
 
@@ -50,25 +68,8 @@ Welcome to From the Politics Desk, a daily newsletter that brings you the NBC Ne
 
 Date: 2026-10-14
 
-### Judge blocks Trump's White House ban targeting CNN, MS NOW and Politico, saying it likely violated 1st Amendment
-
-U.S. District Judge Timothy Kelly said the White House's revocation of hard passes for CNN, MS NOW and Politico journalists likely violated their First and Fifth Amendment rights.
-
-Date: 2026-10-14
-
-### Kimberly Guilfoyle Resigns as Ambassador to Greece
-
-Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.
-
-Date: 2026-10-14
-
-### Controversy over new White House press secretary Katie Zacharia's legal credentials
-
-Questions are rising over new White House press secretary Katie Zacharia's legal credentials and where she took her bar exam. CBS News' Nancy Cordes reports.
-
-Date: 2026-10-13
-
 ## Sources
 
-- [Trump says execution of Fort Hood shooter will not be livestreamed](https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com) — 2026-10-15T14:34:30.000Z
-- [Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom?utm_source=lootura.com) — 2026-10-15T15:46:00.000Z
+- [Vance says "selling access to the White House" is "disgusting"](https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/?utm_source=lootura.com) — 2026-10-15T22:11:00.000Z
+- [Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal](https://www.cbsnews.com/video/michigan-gop-senate-candidate-mike-rogers-not-big-fan-trump-russian-diesel-deal/?utm_source=lootura.com) — 2026-10-15T22:33:21.000Z
+- [A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell](https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html?utm_source=lootura.com) — 2026-10-16T00:52:57.000Z

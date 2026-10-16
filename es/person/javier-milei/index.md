@@ -3,10 +3,16 @@
 > Sigue la actividad de El Psiquiátrico en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-09-11T02:58:00.569Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/javier-milei
 
 ## Cambios recientes
+
+### La Policía reprime una manifestación contra Milei en Buenos Aires
+
+Las fuerzas de seguridad argentinas han dispersado en Buenos Aires la gran manifestación que este jueves se ha celebrado contra las políticas del Gobierno de Javier Milei . Lo han hecho con gases lacrimógenos y chorros de agua a presión contra los miles de manifestantes que se han concentrado en la capital del país sud.
+
+Date: 2026-10-15
 
 ### Milei suspende su viaje al Reino Unido en medio de tensiones por las islas Malvinas
 
@@ -34,4 +40,4 @@ Date: 2026-09-04
 
 ## Fuentes
 
-No public source links.
+- [La Policía reprime una manifestación contra Milei en Buenos Aires](https://theobjective.com/internacional/2026-10-15/policia-reprime-manifestacion-milei-buenos-aires/?utm_source=lootura.com) — 2026-10-15T20:49:53.000Z

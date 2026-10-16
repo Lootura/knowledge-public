@@ -3,7 +3,7 @@
 > Follow Katie Zacharia, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/katie-zacharia
 
 ## Recent changes
@@ -22,4 +22,4 @@ Date: 2026-10-14
 
 ## Sources
 
-- [New White House press secretary Katie Zacharia did not pass California bar exam](https://www.nbcnews.com/video/new-white-house-press-secretary-katie-zacharia-did-not-pass-california-bar-exam-271630405677?utm_source=lootura.com) — 2026-10-15T15:53:41.000Z
+- [Claim that Trump press secretary Katie Zacharia is a lawyer comes under scrutiny](https://www.pbs.org/newshour/politics/claim-that-trump-press-secretary-katie-zacharia-is-a-lawyer-comes-under-scrutiny?utm_source=lootura.com) — 2026-10-15T15:05:03.000Z

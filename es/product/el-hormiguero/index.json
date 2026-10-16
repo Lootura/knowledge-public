@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/es/product/el-hormiguero/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/product/el-hormiguero/index.json",
   "description": "Sigue la actividad de El hormiguero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-08T21:01:26.973Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "El hormiguero 2.0",
     "El hormiguero 3.0",
@@ -16,13 +16,18 @@
   ],
   "changes": [
     {
+      "title": "Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»",
+      "summary": "Presentar 'Espías: clave secreta', la serie documental en formato pódcast dirigida, escrita y narrada por Vicente Vallés en Onda Cero Podcast, fue solo el pretexto de la visita del periodista a 'El Hormiguero' este jueves 15 de octubre. Sin embargo, la actualidad política se impuso una vez más y Pablo Motos aprovechó l.",
+      "date": "2026-10-16"
+    },
+    {
       "title": "Luis Zahera esquiva una pregunta espinosa de Pablo Motos en 'El Hormiguero': «Prefiero no responder eso»",
       "summary": "El actor protagoniza el thriller 'Leones en invierno', la nueva película de Albert Pintó.",
       "date": "2026-10-08"
     },
     {
       "title": "Discovered by Atlas",
-      "summary": "El Hormiguero first entered the public knowledge record with source-backed evidence.",
+      "summary": "El hormiguero first entered the public knowledge record with source-backed evidence.",
       "date": "2026-09-14"
     },
     {
@@ -36,6 +41,13 @@
       "date": "2026-09-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»",
+      "url": "https://www.abc.es/play/television/noticias/vicente-valles-pronostica-sucedera-tras-elecciones-vamos-20261015230324-nt.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:04:05.000Z",
+      "sourceId": "lootura-es-abc"
+    }
+  ],
+  "evidenceCount": 1
 }

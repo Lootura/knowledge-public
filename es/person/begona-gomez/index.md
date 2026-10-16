@@ -70,4 +70,4 @@ Date: 2026-09-07
 
 ## Fuentes
 
-- [El DAO de la Guardia Civil dice que Marlaska le llamó tras filtrarse el correo de Begoña Gómez](https://theobjective.com/espana/tribunales/2026-10-15/el-dao-de-la-guardia-civil-dice-que-marlaska-le-llamo-tras-filtrarse-el-correo-de-begona-gomez/?amp=&utm_source=lootura.com) — 2026-10-15T08:49:24.000Z
+No public source links.

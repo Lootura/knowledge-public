@@ -3,56 +3,44 @@
 > Follow Donald Trump, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: person
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/person/donald-trump
 
 ## Recent changes
 
-### The Trump Administration and the Shrinking Number of Women in Top Roles
+### Trump looms as tensions flare in final Maine Senate debate
 
-In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.
+The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?
 
-Date: 2026-10-15
+Date: 2026-10-16
 
-### Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms
+### Trump Ally, Paolo Zampolli, Leaves State Department
 
-The newest inflation report gave Democrats a chance to tie pain at the pump to President Trump’s decisions.
+Paolo Zampolli, a longtime Trump associate, gained attention earlier this year with a report that his ex-wife had been detained by ICE after his request.
 
-Date: 2026-10-15
+Date: 2026-10-16
 
-### Trump invokes executive privilege in Kennedy Center legal fight
+### 5 Takeaways From the Senate Debate in Maine
 
-President Trump has formally invoked executive privilege to shield certain records from a Democratic congresswoman who sits on the Kennedy Center board.
+The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.
 
-Date: 2026-10-15
+Date: 2026-10-16
 
-### Trump says execution of Fort Hood shooter will not be livestreamed
+### A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell
 
-President Trump announced that the firing squad execution of Fort Hood shooter Nidal Hasan will not be livestreamed, overriding Defense Secretary Pete Hegseth’s earlier claim that it would be. NBC News' Monica Alba reports the latest details from the White House.
+Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.
 
-Date: 2026-10-15
+Date: 2026-10-16
 
-### Trump Brushes off Inflation Jump on Midterm Campaign Trail
+### Trump’s Deal With Russia Inflames Ukraine War He Vowed to End
 
-A new jump in inflation is putting the issue of affordability front-and-center in key midterm races across the country that will decide Washington’s balance of power. President Donald Trump was back on the campaign trail on Wednesday, brushing off those concerns. NBC’s Monica Alba reports for TODAY.
+The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.
 
-Date: 2026-10-15
+Date: 2026-10-16
 
 ### Morning news brief
 
 Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.
-
-Date: 2026-10-15
-
-### These swing voters regret voting for Trump and it's influencing their midterm choices
-
-Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day. (Image credit: Megan Varner).
-
-Date: 2026-10-15
-
-### Trump cancels public execution, but a line may already have been crossed
-
-Defense Secretary Hegseth's announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it's not an outlier. (Image credit: Jim Watson).
 
 Date: 2026-10-15
 
@@ -62,21 +50,33 @@ Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, h
 
 Date: 2026-10-15
 
-### ‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground
+### Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal
 
-Rising costs and threatened healthcare benefits are testing voters’ loyalty to Trump as Democrat Randy Villegas challenges David Valadao Vanessa Martinez used to work two jobs to make ends meet. Now she works three. In another era, the 26-year-old from California’s hardscrabble Central valley could have been a poster c.
+Vice President JD Vance is campaigning for Republican Michigan Senate candidate Mike Rogers on Thursday night. CBS News senior White House and political correspondent Ed O'Keefe spoke with Rogers ahead of the event.
+
+Date: 2026-10-15
+
+### Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks
+
+The tense alliance between Ukrainian President Zelenskyy and President Trump is nearing a new low point. After days of bitter back-and-forth between the two leaders, Ukraine has resumed strikes on Russian energy targets. Trump had demanded an "energy ceasefire" this past Sunday between the two. Russia never stopped its.
+
+Date: 2026-10-15
+
+### An accounting of Trump's promised payouts and questions they raise
+
+President Trump is cutting checks to Americans and promising more with less than three weeks left in a midterm cycle largely focused on affordability. Trump argues they're refunds for excessive healthcare costs and promised economic dividends that only his party can deliver. Democrats contend he's trying to bribe citiz.
 
 Date: 2026-10-15
 
 ## Sources
 
-- [Trump invokes executive privilege in Kennedy Center legal fight](https://www.cbsnews.com/news/trump-kennedy-center-executive-privilege-joyce-beatty-lawsuit/?utm_source=lootura.com) — 2026-10-15T15:54:31.000Z
-- [Trump says execution of Fort Hood shooter will not be livestreamed](https://www.nbcnews.com/video/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed-271625285609?utm_source=lootura.com) — 2026-10-15T14:34:30.000Z
-- [Trump Brushes off Inflation Jump on Midterm Campaign Trail](https://www.today.com/video/inflation-jumps-to-3-7-ahead-of-critical-midterm-elections-271614021756?utm_source=lootura.com) — 2026-10-15T11:10:48.000Z
+- [Michigan GOP Senate candidate Mike Rogers says he's "not a big fan" of Trump's Russian diesel deal](https://www.cbsnews.com/video/michigan-gop-senate-candidate-mike-rogers-not-big-fan-trump-russian-diesel-deal/?utm_source=lootura.com) — 2026-10-15T22:33:21.000Z
+- [Trump looms as tensions flare in final Maine Senate debate](https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com) — 2026-10-16T01:12:12.000Z
 - [Morning news brief](https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief?utm_source=lootura.com) — 2026-10-15T08:46:47.000Z
-- [These swing voters regret voting for Trump and it's influencing their midterm choices](https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups?utm_source=lootura.com) — 2026-10-15T09:00:00.000Z
-- [Trump cancels public execution, but a line may already have been crossed](https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist?utm_source=lootura.com) — 2026-10-15T09:00:00.000Z
 - [Ukraine resumes attacks on Russian oil refineries as relations with Trump sour](https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com) — 2026-10-15T13:30:23.000Z
-- [‘The valley has been left behind’: how one of California’s poorest areas became its toughest political battleground](https://www.theguardian.com/us-news/2026/oct/15/california-central-valley-race?utm_source=lootura.com) — 2026-10-15T15:00:23.000Z
-- [Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html?utm_source=lootura.com) — 2026-10-14T20:22:19.000Z
-- [Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs](https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html?utm_source=lootura.com) — 2026-10-14T21:25:25.000Z
+- [Ukraine resumes strikes on energy targets, saying Russia never stopped its attacks](https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks?utm_source=lootura.com) — 2026-10-15T22:55:24.000Z
+- [An accounting of Trump's promised payouts and questions they raise](https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise?utm_source=lootura.com) — 2026-10-15T22:35:10.000Z
+- [Ukraine less reliant on U.S. as Trump-Zelenskyy rift deepens, former ambassador says](https://www.pbs.org/newshour/show/ukraine-less-reliant-on-u-s-as-trump-zelenskyy-rift-deepens-former-ambassador-says?utm_source=lootura.com) — 2026-10-15T22:50:07.000Z
+- [Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds](https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds?utm_source=lootura.com) — 2026-10-15T22:27:33.000Z
+- [Trump lashes out at Republicans as Ken Paxton struggles in Texas](https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111?utm_source=lootura.com) — 2026-10-15T22:14:42.000Z
+- [Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results](https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html?utm_source=lootura.com) — 2026-10-15T21:37:34.000Z

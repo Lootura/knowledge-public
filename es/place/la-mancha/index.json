@@ -8,12 +8,17 @@
   "markdownUrl": "https://atlas.lootura.com/es/place/la-mancha/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/place/la-mancha/index.json",
   "description": "Sigue la actividad de La Mancha en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T03:09:30.972Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Comarca manchega",
     "Mancha"
   ],
   "changes": [
+    {
+      "title": "Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara",
+      "summary": "Un hombre de 42 años ha sido trasladado este jueves al hospital afectado por inhalación de humo a consecuencia del incendio originado en la cocina de una vivienda situada en la calle Río Henares de Guadalajara . Según ha informado el Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el avis.",
+      "date": "2026-10-15"
+    },
     {
       "title": "Herido un trabajador tras reventarle un neumático en un taller en Añover de Tajo (Toledo)",
       "summary": "Un hombre de 64 años ha resultado herido este miércoles al reventarle un neumático mientras trabajaba en un taller ubicado en la Travesía del Desvío , en Añover de Tajo ( Toledo ). Según han informado fuentes del Servicio de Urgencias y Emergencias 112 de Castilla-La Mancha a Europa Press , el aviso del suceso se ha re.",
@@ -58,13 +63,15 @@
       "title": "Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes (Ciudad Real)",
       "summary": "Un trabajador de 48 años ha sido evacuado este sábado al hospital de Ciudad Real tras resultar herido por el aplastamiento de una pierna con un toro mecánico en un supermercado de Villanueva de los Infantes. Según ha detallado el 112 de Castilla-La Mancha , el aviso se registró a las 10.40 horas desde la Avenida de las.",
       "date": "2026-09-12"
-    },
-    {
-      "title": "Cuatro comunidades hicieron trampas en PISA y una está bajo sospecha: «Page entrenó a sus alumnos para el test»",
-      "summary": "A pesar de los esfuerzos de los dirigentes autonómicos por tratar de buscarle un lado positivo a los datos del informe PISA , ninguna región tiene nada que celebrar. Todas las autonomías empeoraron sus resultados tanto en Lectura, como en Matemáticas y en Ciencias. Con una excepción: Castilla-La Mancha. La comunidad go.",
-      "date": "2026-09-12"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Trasladado al hospital por inhalación de humo tras el incendio en la cocina de una vivienda de Guadalajara",
+      "url": "https://www.elconfidencial.com/espana/2026-10-15/incendio-cocina-hombre-hospital-guadalajara-1tna-1tps_4445935/?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:54:00.000Z",
+      "sourceId": "lootura-es-el-confidencial"
+    }
+  ],
+  "evidenceCount": 1
 }

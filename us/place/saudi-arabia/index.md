@@ -70,5 +70,4 @@ Date: 2026-10-04
 
 ## Sources
 
-- [OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html?utm_source=lootura.com) — 2026-10-15T02:27:52.000Z
-- [Who Are the Houthis and Why Are They Attacking Saudi Arabia’s Airports?](https://time.com/article/2026/10/15/who-are-the-houthi-rebels-saudi-arabia-oil-airport-attacks/?utm_source=lootura.com) — 2026-10-15T13:43:41.000Z
+No public source links.

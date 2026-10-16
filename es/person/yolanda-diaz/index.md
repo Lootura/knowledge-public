@@ -70,4 +70,4 @@ Date: 2026-07-24
 
 ## Fuentes
 
-- [Yolanda Díaz, a los empresarios: “Mejoren los salarios. El esfuerzo no puede caer solo en el SMI”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/yolanda-diaz-a-los-empresarios-mejoren-los-salarios-el-esfuerzo-no-puede-caer-solo-en-el-smi.html?utm_source=lootura.com) — 2026-10-15T13:13:04.000Z
+No public source links.

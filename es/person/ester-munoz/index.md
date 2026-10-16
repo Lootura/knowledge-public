@@ -40,4 +40,4 @@ Date: 2026-07-23
 
 ## Fuentes
 
-- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z
+No public source links.

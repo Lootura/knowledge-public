@@ -70,4 +70,4 @@ Date: 2026-08-12
 
 ## Sources
 
-- [Scorecard: Colombia gets top marks while high-emitting countries doing too little to protect health from climate change](https://phys.org/news/2026-10-scorecard-colombia-high-emitting-countries.html?utm_source=lootura.com) — 2026-10-15T15:00:15.000Z
+No public source links.

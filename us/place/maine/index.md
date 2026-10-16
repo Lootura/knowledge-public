@@ -3,14 +3,38 @@
 > Follow Maine, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T16:17:58.047Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/maine
 
 ## Recent changes
 
+### Trump looms as tensions flare in final Maine Senate debate
+
+The marathon of debates in the Maine Senate race has ended, but there is still one unanswered question: Just how large will President Donald Trump loom in November?
+
+Date: 2026-10-16
+
+### 5 Takeaways From the Senate Debate in Maine
+
+The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.
+
+Date: 2026-10-16
+
 ### Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota
 
 Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.
+
+Date: 2026-10-15
+
+### Soaring heating oil prices put struggling Maine families in a bind
+
+The price of heating oil in Maine has soared from $3.34 per gallon one year ago to $5.97 today, a jump of roughly 79%.
+
+Date: 2026-10-15
+
+### Maine couple forced to choose food or heat as oil prices skyrocket
+
+Along with diesel and gas, the price of heating oil is up, and no state depends on it more than Maine. Meg Oliver spoke with residents there, now forced to make some tough decisions.
 
 Date: 2026-10-15
 
@@ -44,30 +68,10 @@ One Maine lobsterman isn’t ready to give up after the Supreme Court declined t
 
 Date: 2026-10-11
 
-### In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive
-
-Half of homes in Maine rely on heating oil. Rising costs driven up by President Trump’s war with Iran have become central to the state’s Senate race.
-
-Date: 2026-10-08
-
-### CBS News poll finds voters split on state v. national focus in Maine Senate race
-
-Troy Jackson is boosted by those looking for change, while Collins peels off some Trump disapprovers.
-
-Date: 2026-10-03
-
-### Maine's head prison chief on giving inmates second chances: "I believe in redemption"
-
-This installment of "Beg-Knows America" features Randall Liberty, the commissioner of the Maine Department of Corrections, whose own family influenced his belief and efforts in providing inmates with education, employment, training and dignity.
-
-Date: 2026-09-14
-
-### L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI
-
-L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.
-
-Date: 2026-09-12
-
 ## Sources
 
+- [Soaring heating oil prices put struggling Maine families in a bind](https://www.cbsnews.com/news/soaring-heating-oil-prices-struggling-maine-families-winter/?utm_source=lootura.com) — 2026-10-15T23:42:00.000Z
+- [Maine couple forced to choose food or heat as oil prices skyrocket](https://www.cbsnews.com/video/maine-couple-forced-choose-food-heat-heating-oil-prices-skyrocket/?utm_source=lootura.com) — 2026-10-15T23:32:30.000Z
+- [Trump looms as tensions flare in final Maine Senate debate](https://www.nbcnews.com/politics/2026-election/trump-looms-tensions-flare-final-maine-senate-debate-rcna603636?utm_source=lootura.com) — 2026-10-16T01:12:12.000Z
+- [5 Takeaways From the Senate Debate in Maine](https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html?utm_source=lootura.com) — 2026-10-16T03:03:43.000Z
 - [Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota](https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html?utm_source=lootura.com) — 2026-10-15T15:16:09.000Z

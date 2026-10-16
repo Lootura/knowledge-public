@@ -3,10 +3,22 @@
 > Sigue la actividad de Reino Unido de Gran Bretaña e Irlanda del Norte en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/reino-unido
 
 ## Cambios recientes
+
+### Harry y Meghan reaparecen juntos en Reino Unido: todo sobre un acontecimiento «excepcional»
+
+Reino Unido ha disfrutado por fin de la primera aparición pública conjunta del Príncipe Harry y su esposa, Meghan Markle , desde que decidieron por sorpresa regresar a las islas. Ha ocurrido en Nottingham este jueves, 15 de octubre, dentro de un evento benéfico que ya se ha calificado como «excepcional», ya que la pare.
+
+Date: 2026-10-16
+
+### Olivier Nicolay: "Las firmas que perduran son las que logran expandirse sin perder su ADN"
+
+A lo largo de más de tres décadas de trayectoria en la industria del lujo, Olivier Nicolay fue presidente regional de Chanel para el Reino Unido, Irlanda, Canadá, Sudáfrica,...
+
+Date: 2026-10-15
 
 ### Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action
 
@@ -56,18 +68,7 @@ El magnate tecnológico utiliza su altavoz en las redes sociales para agitar las
 
 Date: 2026-09-16
 
-### La conjura de los tres nacionalismos contra el Reino Unido: "Andy Burnham será el último primer ministro británico"
-
-Los ministros principales de Escocia, Gales e Irlanda del Norte sellan un histórico acuerdo para desafiar a Westminster y avanzar hacia la independencia, aunque no mencionan la palabra "referéndum" Leer.
-
-Date: 2026-09-14
-
-### Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido
-
-Sus tres líderes nacionalistas se reúnen este lunes en Cardiff para firmar un acuerdo de cooperación sobre autodeterminación, economía, energía y relaciones con Europa.
-
-Date: 2026-09-13
-
 ## Fuentes
 
-- [Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action](https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518?utm_source=lootura.com) — 2026-10-15T12:13:50.000Z
+- [Harry y Meghan reaparecen juntos en Reino Unido: todo sobre un acontecimiento «excepcional»](https://www.abc.es/gente/harry-meghan-reaparecen-juntos-reino-unido-sobre-20261015011624-nt.html?utm_source=lootura.com) — 2026-10-16T00:03:40.000Z
+- [Olivier Nicolay: "Las firmas que perduran son las que logran expandirse sin perder su ADN"](https://amp.expansion.com/luxury-forum/2026/10/15/6ad1011ae5fdeae8308b45a3.html?utm_source=lootura.com) — 2026-10-15T17:27:37.000Z

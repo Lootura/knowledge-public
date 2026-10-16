@@ -71,19 +71,6 @@
       "date": "2026-10-08"
     }
   ],
-  "sources": [
-    {
-      "title": "Chasing China’s Monazite Monopoly",
-      "url": "https://spectrum.ieee.org/china-rare-earth-minerals?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:54:03.000Z",
-      "sourceId": "lootura-us-ieee-spectrum"
-    },
-    {
-      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-      "url": "https://spectrum.ieee.org/monazite-rare-earth?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T14:53:02.000Z",
-      "sourceId": "lootura-us-ieee-spectrum"
-    }
-  ],
-  "evidenceCount": 2
+  "sources": [],
+  "evidenceCount": 0
 }

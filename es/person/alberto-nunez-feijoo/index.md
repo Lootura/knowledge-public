@@ -3,10 +3,28 @@
 > Sigue la actividad de Alberto Núñez Feijóo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/alberto-nunez-feijoo
 
 ## Cambios recientes
+
+### El pacto de vivienda que pudo ser y no fue: Page ofreció a Sánchez y Feijóo una tercera vía en 2024
+
+¿Qué hacemos con el dinero? El gran problema de la vivienda CIS: así pasó la vivienda con Sánchez del puesto 16 a ser la primera preocupación para los españoles ¿Habría llegado la crisis de la vivienda al punto que ha alcanzado si Gobierno y oposición hubieran cerrado un pacto de Estado hace casi dos años? Es imposible.
+
+Date: 2026-10-16
+
+### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
+
+Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
+
+Date: 2026-10-15
+
+### Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir
+
+Las pensiones siempre irrumpen en la agenda de las campañas. Aunque, últimamente, como error no forzado por parte de dirigentes del PP y Vox, al desplazar el marco del debate que pretendían imponer –en esta ocasión, el asalto de inmigrantes en Ceuta y los escándalos de corrupción que afectan al PSOE–, y permitir al Gob.
+
+Date: 2026-10-15
 
 ### Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año
 
@@ -17,12 +35,6 @@ Date: 2026-10-15
 ### Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE
 
 El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.
-
-Date: 2026-10-15
-
-### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
-
-Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
 
 Date: 2026-10-15
 
@@ -56,22 +68,8 @@ Cambiará los primeros puestos de las candidaturas en Barcelona, Valencia, Zarag
 
 Date: 2026-10-14
 
-### Feijóo, orgulloso de ir a las elecciones con UPN «y no de la mano de Bildu como Sánchez»
-
-El presidente del PP, Alberto Núñez Feijóo, se ha mostrado «orgulloso» de concurrir a las próximas elecciones generales en Navarra en coalición con un.
-
-Date: 2026-10-13
-
-### Feijóo critica a Sánchez por haber dejado al rey "solo" en una visita histórica a Ceuta
-
-El líder del PP, Alberto Núñez Feijóo , ha criticado este martes que el presidente del Gobierno , Pedro Sánchez , no haya acompañado a los reyes en su viaje a Ceuta y ha afirmado que si él fuera presidente habría viajado con ellos. "No le dejaría solo en esta visita histórica e imprescindible para garantizar la integri.
-
-Date: 2026-10-13
-
 ## Fuentes
 
-- [Feijóo promete una investigación sobre Ceuta y logra arrancar a Bruselas la activación del mecanismo de retornos urgentes este año](https://www.20minutos.es/nacional/feijoo-promete-una-investigacion-sobre-ceuta-arranca-bruselas-activacion-mecanismo-retornos-urgentes-este-ano_7049081_0.html?utm_source=lootura.com) — 2026-10-15T10:08:44.000Z
-- [Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE](https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com) — 2026-10-15T13:32:03.000Z
+- [El pacto de vivienda que pudo ser y no fue: Page ofreció a Sánchez y Feijóo una tercera vía en 2024](https://www.elconfidencial.com/espana/2026-10-16/pacto-vivienda-page-sanchez-feijoo-tercera-via_4445677/?utm_source=lootura.com) — 2026-10-16T03:00:00.000Z
 - [Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0a2f7e9cf4a784c8b4574.html?utm_source=lootura.com) — 2026-10-15T14:07:46.000Z
-- [Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir](https://www.lavanguardia.com/politica/20261015/11659723/feijoo-dice-actualizara-pensiones-ipc-sanchez-acusa-derecha-mentir-elecciones.html?utm_source=lootura.com) — 2026-10-15T11:20:18.000Z
-- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z
+- [Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir](https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html?utm_source=lootura.com) — 2026-10-15T22:05:00.000Z

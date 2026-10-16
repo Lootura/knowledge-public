@@ -70,4 +70,4 @@ Date: 2026-10-11
 
 ## Fuentes
 
-- [Ernest Maragall carga contra Gabriel Rufián y alude a él como “ese conocido líder de Podemos”](https://www.lavanguardia.com/politica/20261015/11659770/ernest-maragall-carga-gabriel-rufian-alude-ese-conocido-lider.html?utm_source=lootura.com) — 2026-10-15T11:55:33.000Z
+No public source links.

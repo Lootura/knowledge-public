@@ -3,10 +3,16 @@
 > Sigue la actividad de Oriente Próximo en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T03:09:30.972Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/oriente-proximo
 
 ## Cambios recientes
+
+### Óscar Arce (BCE): “Hay que avanzar hacia una mayor integración en el mercado eléctrico europeo”
+
+La historia reciente del área euro es la de un golpe tras otro: la pandemia, el atasco en las cadenas globales de suministro, la crisis energética causada por la invasión rusa de Ucrania, las tensiones comerciales hasta la nueva y reciente escalada inflacionaria provocada por el conflicto en Oriente Próximo. Unos corto.
+
+Date: 2026-10-15
 
 ### Macron viajará al Golfo para abordar la crisis de Ormuz y reforzar el suministro energético
 
@@ -62,12 +68,6 @@ Estados Unidos evita por ahora enzarzarse en una escalada en Oriente Próximo pe
 
 Date: 2026-09-12
 
-### Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán
-
-Además de las 2.977 víctimas mortales, del miedo que inundó a todo Estados Unidos y las guerras que se propagaron por Oriente Próximo, los atentados del 11 de septiembre de 2001 tuvieron otro efecto colateral en Nueva York, la ciudad más golpeada por la furia yihadista: un creciente recelo, cuando no racismo directo, c.
-
-Date: 2026-09-11
-
 ## Fuentes
 
-No public source links.
+- [Óscar Arce (BCE): “Hay que avanzar hacia una mayor integración en el mercado eléctrico europeo”](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/oscar-arce-bce-no-debemos-confundir-resiliencia-con-inmunidad.html?utm_source=lootura.com) — 2026-10-15T16:53:18.000Z

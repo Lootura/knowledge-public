@@ -70,5 +70,4 @@ Date: 2026-09-12
 
 ## Fuentes
 
-- [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
-- [¿Arde San Sebastián?](https://www.diariovasco.com/gipuzkoa/historia/arde-san-sebastian-20261015001221-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:12:21.000Z
+No public source links.

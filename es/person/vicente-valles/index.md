@@ -3,10 +3,16 @@
 > Sigue la actividad de Vicente Vallés en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: person
-- Actualizado: 2026-10-04T13:40:27.752Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/person/vicente-valles
 
 ## Cambios recientes
+
+### Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»
+
+Presentar 'Espías: clave secreta', la serie documental en formato pódcast dirigida, escrita y narrada por Vicente Vallés en Onda Cero Podcast, fue solo el pretexto de la visita del periodista a 'El Hormiguero' este jueves 15 de octubre. Sin embargo, la actualidad política se impuso una vez más y Pablo Motos aprovechó l.
+
+Date: 2026-10-16
 
 ### Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»
 
@@ -64,4 +70,4 @@ Date: 2026-08-02
 
 ## Fuentes
 
-No public source links.
+- [Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»](https://www.abc.es/play/television/noticias/vicente-valles-pronostica-sucedera-tras-elecciones-vamos-20261015230324-nt.html?utm_source=lootura.com) — 2026-10-16T00:04:05.000Z

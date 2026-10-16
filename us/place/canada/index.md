@@ -3,7 +3,7 @@
 > Follow Canada, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-15T03:09:45.092Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/canada
 
 ## Recent changes
@@ -70,4 +70,4 @@ Date: 2026-09-17
 
 ## Sources
 
-No public source links.
+- [Endangered species in Canada face extensive delays receiving protection](https://phys.org/news/2026-10-endangered-species-canada-extensive-delays.html?utm_source=lootura.com) — 2026-10-16T03:00:02.000Z

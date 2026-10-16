@@ -3,16 +3,10 @@
 > Sigue la actividad de Estados Unidos en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/united-states
 
 ## Cambios recientes
-
-### Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados
-
-El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. "Morirá, como estaba previsto, por fusilamiento, per.
-
-Date: 2026-10-15
 
 ### Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas
 
@@ -23,6 +17,18 @@ Date: 2026-10-15
 ### ¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona
 
 Las palabras son importantes. A veces describen una realidad. Otras, pretenden modificarla. Cuando Pete Hegseth se convirtió en secretario del Departamento de Defensa de Estados Unidos, empezó a llamarlo Departamento de Guerra. El pasado verano, le añadió una coletilla nueva: Departamento de Guerra de alta testosterona.
+
+Date: 2026-10-15
+
+### En la defensa aérea de Kiev: "Sin Estados Unidos sólo vemos los drones rusos cuando están encima"
+
+Trump corta la decisiva Inteligencia de satélite y ralentiza Starlink Leer.
+
+Date: 2026-10-15
+
+### Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados
+
+El presidente de Estados Unidos, Donald Trump , ha decidido cancelar la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, el psiquiatra militar condenado por matar a 13 soldados desarmados en un tiroteo en la base militar de Fort Hood, en Texas. "Morirá, como estaba previsto, por fusilamiento, per.
 
 Date: 2026-10-15
 
@@ -62,17 +68,8 @@ El secretario de Estado de Estados Unidos, Marco Rubio , ha expresado este marte
 
 Date: 2026-10-14
 
-### La discoteca de Santander que parece sacada del Chicago de los años 20: esconde una sala tras una puerta secreta
-
-Hubo un tiempo en Estados Unidos en el que pedir una copa podía convertirse en todo un acto de clandestinidad. La Ley Seca , implantada en 1920, prohibió la fabricación, venta y transporte de alcohol y empujó a quienes querían seguir bebiendo hacia los speakeasy : bares secretos ocultos tras puertas discretas, alejados.
-
-Date: 2026-10-14
-
 ## Fuentes
 
-- [Donald Trump cancela la transmisión en directo de la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 soldados](https://www.20minutos.es/internacional/trump-cancela-transmision-directo-ejecucion-por-fusilamiento-nidal-hasan-condenado-por-matar-13-soldados-texas_7049270_0.html?utm_source=lootura.com) — 2026-10-15T14:37:46.000Z
 - [Iberia ve oportunidades de nuevas rutas con América gracias a la ampliación de Barajas](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/iberia-ve-oportunidades-de-nuevas-rutas-con-america-gracias-a-la-ampliacion-de-barajas.html?utm_source=lootura.com) — 2026-10-15T16:06:32.000Z
-- [«Trump quiere convertirse en un rey absolutista, horrorizaría a George Washington»](https://www.diariovasco.com/internacional/eeuu/trump-quiere-convertirse-rey-absolutista-horrorizaria-george-20261015000756-nt_amp.html?utm_source=lootura.com) — 2026-10-14T22:07:57.000Z
+- [En la defensa aérea de Kiev: "Sin Estados Unidos sólo vemos los drones rusos cuando están encima"](https://www.elmundo.es/internacional/2026/10/15/6ad0fe9de9cf4adb5c8b4578.html?utm_source=lootura.com) — 2026-10-15T20:42:39.000Z
 - [¿Sobran kilos o falta testosterona? Uno de cada cuatro soldados estadounidenses puede tener niveles bajos de esta hormona](https://elpais.com/salud-y-bienestar/2026-10-15/sobran-kilos-o-falta-testosterona-uno-de-cada-cuatro-soldados-estadounidenses-puede-tener-niveles-bajos-de-esta-hormona.html?utm_source=lootura.com) — 2026-10-15T15:02:39.000Z
-- [Ucrania reanuda los ataques a las refinerías rusas y entierra la “tregua energética” de Trump](https://www.lavanguardia.com/internacional/20261015/11659690/ucrania-reanuda-los-ataques-a-las-refinerias-rusas-riazan-y-entierra-la-tregua-energetica-de-trump.html?utm_source=lootura.com) — 2026-10-15T11:13:40.000Z
-- [Trump descarta su plan de retransmitir en directo el fusilamiento de un exmilitar](https://theobjective.com/internacional/2026-10-15/trump-retransmitir-directo-fusilamiento-exmilitar/?utm_source=lootura.com) — 2026-10-15T15:19:32.000Z

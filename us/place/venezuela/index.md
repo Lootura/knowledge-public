@@ -3,10 +3,16 @@
 > Follow Venezuela, a tracked place, in Lootura: recent changes, timeline, related context, and source-backed evidence.
 
 - Type: place
-- Updated: 2026-10-14T03:30:23.685Z
+- Updated: 2026-10-16T03:06:03.995Z
 - Canonical: https://atlas.lootura.com/us/place/venezuela
 
 ## Recent changes
+
+### A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell
+
+Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.
+
+Date: 2026-10-16
 
 ### Trump Ally Harold Hamm Strikes Venezuela Oil Deal
 
@@ -62,12 +68,6 @@ Oil giant Chevron confirmed that it will expand operations in Venezuela after Pr
 
 Date: 2026-09-02
 
-### News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict
-
-In our news wrap Wednesday, the jury in Lindsay Clancy's murder trial remains deadlocked and unable to reach a verdict, Tiger Woods will have his driver's license suspended for five years as part of a plea deal related to a car crash near his Florida home and officials from the U.S. and Venezuela signed a series of dea.
-
-Date: 2026-09-02
-
 ## Sources
 
-No public source links.
+- [A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell](https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html?utm_source=lootura.com) — 2026-10-16T00:52:57.000Z

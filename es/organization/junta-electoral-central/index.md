@@ -3,10 +3,16 @@
 > Sigue la actividad de Junta Electoral Central en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: organization
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/organization/junta-electoral-central
 
 ## Cambios recientes
+
+### La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa
+
+Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige "neutralidad" en las instituciones Leer.
+
+Date: 2026-10-15
 
 ### La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones
 
@@ -17,12 +23,6 @@ Date: 2026-10-15
 ### La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa
 
 Dicen que no hay dos sin tres. Y en el caso del presidente del Gobierno, Pedro Sánchez , no hay tres sin cuatro, ni cuatro sin cinco. La Junta Electoral Central (JEC) ha abierto este jueves por quinta vez un expediente sancionador contra el jefe del Ejecutivo por vulnerar la neutralidad exigida a los poderes públicos e.
-
-Date: 2026-10-15
-
-### La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa
-
-Le ordena retirar el vídeo de la rueda de prensa del 6 de octubre de todas las plataformas y le exige "neutralidad" en las instituciones Leer.
 
 Date: 2026-10-15
 
@@ -70,8 +70,4 @@ Date: 2026-09-15
 
 ## Fuentes
 
-- [La Junta Electoral abre un expediente a Sánchez por la rueda de prensa en Moncloa tras convocar las elecciones](https://www.20minutos.es/nacional/junta-electoral-abre-un-expediente-sanchez-por-rueda-prensa-moncloa-tras-convocar-las-elecciones_7049268_0.html?utm_source=lootura.com) — 2026-10-15T14:35:35.000Z
-- [La Junta Electoral expedienta a Sánchez por su 'mitin' desde la Moncloa](https://www.abc.es/espana/junta-electoral-expedienta-sanchez-rueda-prensa-moncloa-20261015164150-nt.html?utm_source=lootura.com) — 2026-10-15T15:44:37.000Z
 - [La Junta Electoral Central abre expediente sancionador a Sánchez por hacer campaña desde La Moncloa](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0e585e4d4d8f92f8b45a0.html?utm_source=lootura.com) — 2026-10-15T14:48:21.000Z
-- [La Junta Electoral abre expediente a Sánchez por no respetar la “neutralidad electoral”](https://www.lavanguardia.com/politica/20261015/11659919/junta-electoral-llama-sancionar-sanchez-respetar-neutralidad-electoral.html?utm_source=lootura.com) — 2026-10-15T14:49:04.000Z
-- [El PP celebra el expediente de la Junta Electoral a Sánchez: «Primera victoria conseguida»](https://theobjective.com/espana/politica/2026-10-15/pp-celebra-expediente-junta-electoral-sanchez/?amp=&utm_source=lootura.com) — 2026-10-15T16:04:15.000Z

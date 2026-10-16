@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/organization/fifa/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/organization/fifa/index.json",
   "description": "Follow FIFA, a tracked organization, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-14T03:30:23.685Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [],
   "changes": [
     {
@@ -27,6 +27,13 @@
       "date": "2026-10-13"
     }
   ],
-  "sources": [],
+  "sources": [
+    {
+      "title": "Infantino apologizes to FIFA Council for World Cup furor but leaves critics unhappy",
+      "url": "https://www.pbs.org/newshour/world/infantino-apologizes-to-fifa-council-for-world-cup-furor-but-leaves-critics-unhappy?utm_source=lootura.com",
+      "publishedAt": "2026-10-16T00:20:13.000Z",
+      "sourceId": "lootura-us-pbs-newshour"
+    }
+  ],
   "evidenceCount": 0
 }

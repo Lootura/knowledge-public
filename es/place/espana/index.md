@@ -3,10 +3,34 @@
 > Sigue la actividad de España en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: place
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/place/espana
 
 ## Cambios recientes
+
+### El precio oculto de comerte un huevo: más de 95.000 pollitos macho son sacrificados al día en España
+
+Cada vez que se rompe un huevo en la sartén hay un coste que no aparece en la etiqueta. Más de 95.000 pollitos macho son gaseados o triturados vivos cada día en España, según Igualdad Animal, por una razón puramente económica: la industria del huevo no los considera rentables.La cifra, que asciende a 35 millones ... Co.
+
+Date: 2026-10-16
+
+### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
+
+Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
+
+Date: 2026-10-15
+
+### Así te hemos contado la segunda jornada del Foro CREO 2026
+
+Termina esta edición del Foro CREO organizado por CincoDías y Prisa Media. Durante las dos jornadas han intervenido ministros del Gobierno, representantes institucionales y directivos de grandes empresas de España. Este jueves han participado, entre otros, el ministro de Consumo, Pablo Bustinduy, y la ministra de Traba.
+
+Date: 2026-10-15
+
+### España destinará 20.000 millones más al año a pagar los intereses de la deuda pública y agotará el margen presupuestario para la próxima crisis
+
+Funcas advierte de que la renovación de deuda emitida a tipo cero por títulos al 4% condicionará el gasto público hasta 2031 Leer.
+
+Date: 2026-10-15
 
 ### Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE
 
@@ -17,12 +41,6 @@ Date: 2026-10-15
 ### Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE
 
 El exgobernador del Banco de España Pablo Hernández de Cos ha logrado algo impensable en la tensa atmósfera política española: ha puesto de acuerdo al presidente del Gobierno, Pedro Sánchez, y al líder de la oposición, Alberto Núñez Feijóo, a poco más de un mes de unas elecciones generales. El candidato del Partido Pop.
-
-Date: 2026-10-15
-
-### Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"
-
-Cuerpo apunta a un decreto en funciones, Sánchez carga contra "la derecha y la ultraderecha" y Feijóo contra el líder socialista: "Congeló las pensiones en España en el año 2011 con su voto favorable" Leer.
 
 Date: 2026-10-15
 
@@ -50,33 +68,10 @@ La Fórmula 1 acelera el negocio de Madrid. El primer Gran Premio de España cel
 
 Date: 2026-10-15
 
-### ‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España
-
-La noticia que todos los aficionados a los escándalos de Silicon Valley por fin ha llegado. You can see everything , el documental de Nathal Fielder sobre Elizabeth Holmes , se estrenará en cines en España. El proyecto levantó un revuelo enorme hace unas semanas cuando, con el lanzamiento de su primer teaser tráiler, s.
-
-Date: 2026-10-15
-
-### México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»
-
-El ministro de Exteriores de México , Roberto Velasco, ha destacado que las relaciones con España «atraviesan uno de sus mejores momentos», después de unos meses en los que los lazos bilaterales han estado marcados por un impulso de normalización para dejar atrás los encontronazos en torno a la Conquista, según Europa.
-
-Date: 2026-10-15
-
-### Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones
-
-El presidente del Gobierno de Aragón , Jorge Azcón ( PP ), se ha mostrado convencido de que si Alberto Núñez Feijóo llega a la Presidencia del Gobierno de España «lo que va a hacer es mejorar el sistema público de pensiones » . Ha apuntado que el presidente gallego se caracteriza por algo, «se caracteriza por ser una p.
-
-Date: 2026-10-15
-
 ## Fuentes
 
-- [Bruselas analiza con España las medidas de Trump contra buques españoles y defenderá los intereses de la UE](https://www.20minutos.es/internacional/bruselas-analiza-con-espana-las-medidas-trump-contra-buques-espanoles-defendera-los-intereses-ue_7049249_0.html?utm_source=lootura.com) — 2026-10-15T14:01:33.000Z
-- [Feijóo se suma a Sánchez en el apoyo a Pablo Hernández de Cos para la presidencia del BCE](https://elpais.com/economia/2026-10-15/feijoo-da-su-apoyo-a-pablo-hernandez-de-cos-para-la-presidencia-del-bce.html?utm_source=lootura.com) — 2026-10-15T13:32:03.000Z
+- [La otra Transición (estética) en España](https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html?utm_source=lootura.com) — 2026-10-16T00:02:41.000Z
+- [Así te hemos contado la segunda jornada del Foro CREO 2026](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/segunda-jornada-del-foro-creo.html?utm_source=lootura.com) — 2026-10-15T17:15:04.000Z
 - [Feijóo: "Las pensiones son innegociables, se actualizarán conforme al IPC y garantizaremos su viabilidad"](https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad0a2f7e9cf4a784c8b4574.html?utm_source=lootura.com) — 2026-10-15T14:07:46.000Z
-- [Escuchar a los profesores](https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html?utm_source=lootura.com) — 2026-10-15T03:30:01.000Z
-- [La Junta Electoral expedienta a Sánchez por sus "manifestaciones valorativas" en una rueda de prensa en Moncloa](https://www.eldiario.es/politica/junta-electoral-expedienta-sanchez-manifestaciones-valorativas-rueda-prensa-moncloa_1_13588771.html?utm_source=lootura.com) — 2026-10-15T14:50:29.000Z
-- [Defensa envía a la Justicia los audios de elDiario.es en los que militares presumen de sus palizas a migrantes en Ceuta](https://www.eldiario.es/desalambre/defensa-asegura-investigara-audios-militares-presumen-palizas-migrantes-ceuta_1_13587546.html?utm_source=lootura.com) — 2026-10-15T11:25:34.000Z
-- [José Vicente de los Mozos (Ifema): "La F1 ha dejado 545 millones en Madrid"](https://www.expansion.com/luxury-forum/2026/10/15/6ad09e6de5fdeaa55f8b4592.html?utm_source=lootura.com) — 2026-10-15T11:09:32.000Z
-- [‘You can see everything’, el documental viral de Elizabeth Holmes, ya tiene fecha de estreno en España](https://hipertextual.com/cine-television/you-can-see-everything-el-documental-viral-de-elizabeth-holmes-ya-tiene-fecha-de-estreno-en-espana/?utm_source=lootura.com) — 2026-10-15T10:41:34.000Z
-- [México destaca que las relaciones con España «atraviesan uno de sus mejores momentos»](https://theobjective.com/internacional/2026-10-15/mexico-relaciones-espana-mejores-momentos/?utm_source=lootura.com) — 2026-10-15T15:38:33.000Z
-- [Azcón, convencido de que Feijóo va a «mejorar» el sistema público de pensiones](https://theobjective.com/espana/politica/2026-10-15/azcon-feijoo-mejorar-sistema-publico-de-pensiones/?utm_source=lootura.com) — 2026-10-15T15:52:40.000Z
+- [España destinará 20.000 millones más al año a pagar los intereses de la deuda pública y agotará el margen presupuestario para la próxima crisis](https://www.elmundo.es/economia/2026/10/16/6ad0d646e85eced3738b456f.html?utm_source=lootura.com) — 2026-10-15T23:37:55.000Z
+- [El precio oculto de comerte un huevo: más de 95.000 pollitos macho son sacrificados al día en España](https://okdiario.com/okgreen/precio-oculto-comerte-huevo-mas-95-000-pollitos-macho-son-sacrificados-dia-espana-20559989/amp?utm_source=lootura.com) — 2026-10-16T03:00:37.000Z

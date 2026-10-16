@@ -8,7 +8,7 @@
   "markdownUrl": "https://atlas.lootura.com/us/person/volodymyr-zelenskyy/index.md",
   "jsonUrl": "https://atlas.lootura.com/us/person/volodymyr-zelenskyy/index.json",
   "description": "Follow Volodymyr Zelenskyy, a tracked person, in Lootura: recent changes, timeline, related context, and source-backed evidence.",
-  "updatedAt": "2026-10-15T16:17:58.047Z",
+  "updatedAt": "2026-10-16T03:06:03.995Z",
   "aliases": [
     "President Volodymyr Oleksandrovych Zelenskyy",
     "President Volodymyr Zelenskyy",
@@ -19,11 +19,6 @@
     "Zelenskyy"
   ],
   "changes": [
-    {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over. (Image credit: Alberto Pezzali).",
-      "date": "2026-10-15"
-    },
     {
       "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
       "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.",
@@ -67,17 +62,11 @@
   ],
   "sources": [
     {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war?utm_source=lootura.com",
-      "publishedAt": "2026-10-15T10:05:58.000Z",
-      "sourceId": "lootura-us-npr-world"
-    },
-    {
       "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
       "url": "https://www.pbs.org/newshour/world/ukraine-resumes-attacks-on-russian-oil-refineries-as-relations-with-trump-sour?utm_source=lootura.com",
       "publishedAt": "2026-10-15T13:30:23.000Z",
       "sourceId": "lootura-us-pbs-newshour"
     }
   ],
-  "evidenceCount": 2
+  "evidenceCount": 1
 }

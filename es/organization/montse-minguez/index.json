@@ -8,20 +8,25 @@
   "markdownUrl": "https://atlas.lootura.com/es/organization/montse-minguez/index.md",
   "jsonUrl": "https://atlas.lootura.com/es/organization/montse-minguez/index.json",
   "description": "Sigue la actividad de Montse Mínguez en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.",
-  "updatedAt": "2026-10-15T03:09:30.972Z",
+  "updatedAt": "2026-10-16T03:05:44.844Z",
   "aliases": [
     "Montserrat Mínguez",
     "Mínguez García, Montse"
   ],
   "changes": [
     {
-      "title": "La sociedad con la que la pareja de Montse Mínguez se ha enriquecido con los alquileres lleva 5 años sin pagar impuestos",
-      "summary": "El empresario Sergi Vélez, pareja de Montse Mínguez, portavoz del PSOE, lleva cinco años sin pagar el Impuesto de Sociedades a través de Nest Capit...",
+      "title": "Discovered by Atlas",
+      "summary": "Montse Mínguez first entered the public knowledge record with source-backed evidence.",
       "date": "2026-10-15"
     },
     {
-      "title": "Discovered by Atlas",
-      "summary": "Montse Mínguez first entered the public knowledge record with source-backed evidence.",
+      "title": "Montse Mínguez: ¿incoherencia o hipocresía?",
+      "summary": "Leer.",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "La sociedad con la que la pareja de Montse Mínguez se ha enriquecido con los alquileres lleva 5 años sin pagar impuestos",
+      "summary": "El empresario Sergi Vélez, pareja de Montse Mínguez, portavoz del PSOE, lleva cinco años sin pagar el Impuesto de Sociedades a través de Nest Capit...",
       "date": "2026-10-15"
     },
     {
@@ -35,6 +40,13 @@
       "date": "2026-10-14"
     }
   ],
-  "sources": [],
-  "evidenceCount": 0
+  "sources": [
+    {
+      "title": "Montse Mínguez: ¿incoherencia o hipocresía?",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6ad0f2f921efa06e458b4576.html?utm_source=lootura.com",
+      "publishedAt": "2026-10-15T16:14:53.000Z",
+      "sourceId": "lootura-es-el-mundo"
+    }
+  ],
+  "evidenceCount": 1
 }

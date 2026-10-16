@@ -3,10 +3,16 @@
 > Sigue la actividad de El hormiguero en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: product
-- Actualizado: 2026-10-08T21:01:26.973Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/product/el-hormiguero
 
 ## Cambios recientes
+
+### Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»
+
+Presentar 'Espías: clave secreta', la serie documental en formato pódcast dirigida, escrita y narrada por Vicente Vallés en Onda Cero Podcast, fue solo el pretexto de la visita del periodista a 'El Hormiguero' este jueves 15 de octubre. Sin embargo, la actualidad política se impuso una vez más y Pablo Motos aprovechó l.
+
+Date: 2026-10-16
 
 ### Luis Zahera esquiva una pregunta espinosa de Pablo Motos en 'El Hormiguero': «Prefiero no responder eso»
 
@@ -16,7 +22,7 @@ Date: 2026-10-08
 
 ### Discovered by Atlas
 
-El Hormiguero first entered the public knowledge record with source-backed evidence.
+El hormiguero first entered the public knowledge record with source-backed evidence.
 
 Date: 2026-09-14
 
@@ -34,4 +40,4 @@ Date: 2026-09-14
 
 ## Fuentes
 
-No public source links.
+- [Vicente Vallés pronostica lo que sucederá tras las elecciones: «Nos vamos a encontrar ante una situación muy distinta de la que tenemos ahora»](https://www.abc.es/play/television/noticias/vicente-valles-pronostica-sucedera-tras-elecciones-vamos-20261015230324-nt.html?utm_source=lootura.com) — 2026-10-16T00:04:05.000Z

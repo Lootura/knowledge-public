@@ -3,7 +3,7 @@
 > Sigue la actividad de Artificial intelligence en Lootura: últimos cambios, cronología, contexto relacionado y evidencia respaldada por fuentes.
 
 - Type: topic
-- Actualizado: 2026-10-15T16:17:38.694Z
+- Actualizado: 2026-10-16T03:05:44.844Z
 - Canonical: https://atlas.lootura.com/es/topic/artificial-intelligence
 
 ## Cambios recientes
@@ -70,4 +70,4 @@ Date: 2026-07-16
 
 ## Fuentes
 
-- [Aagesen pide apostar por energía autóctona y renovable ante un coste extra de 100.000 millones en la UE por la guerra](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/aagesen-pide-apostar-por-energia-autoctona-y-renovable-ante-un-extracoste-de-100000-millones-en-la-ue-por-la-guerra.html?utm_source=lootura.com) — 2026-10-15T14:50:39.000Z
+- [Prosegur apuesta por la robótica y la inteligencia artificial para transformar el negocio de la seguridad](https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-15/prosegur-apuesta-por-la-robotica-y-la-inteligencia-artificial-para-transformar-el-negocio-de-la-seguridad.html?utm_source=lootura.com) — 2026-10-15T17:19:40.000Z
